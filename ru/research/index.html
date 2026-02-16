@@ -16,59 +16,64 @@
   <link rel="stylesheet" href="../../assets/research.css">
 </head>
 <body>
-  <!-- ✅ Constant top-right header (on all inner pages) -->
-  <div class="const" aria-label="Global navigation">
-    <p class="cbrand">Ashraellen</p>
-    <div class="cmenu">
-      <a id="toEntry" href="#">Вход</a>
-      <a id="toPublic" href="#">Публичное</a>
-    </div>
-  </div>
-
   <div class="wrap">
     <div class="page">
-      <div class="content">
 
-        <h1 class="h1">Исследование</h1>
-
-        <p class="lead">
-          Здесь фиксируются исследования, наблюдения и формулировки — как протокол опыта.
-          Центральный вопрос: где заканчивается интерпретация и начинается реальность.
-        </p>
-
-        <ul class="focus">
-          <li>Осознанность и "дисциплина ума": что происходит до мысли, во время мысли, после мысли.</li>
-          <li>Эго как система защиты: механика самообмана, триггеры, сценарии, компенсации.</li>
-          <li>Язык и символы: как метафоры меняют восприятие и собирают смысл.</li>
-          <li>Цифровая реальность: алгоритмы, интерфейсы, "Матрица" как современная притча.</li>
-        </ul>
-
-        <div class="grid">
-          <section class="card">
-            <h2>Проекты</h2>
-            <p>Направления, в которых сейчас идёт работа: гипотезы, модели, эксперименты, структура.</p>
-            <a id="goProjects" href="#">Открыть →</a>
-          </section>
-
-          <section class="card">
-            <h2>Тексты</h2>
-            <p>Черновики, эссе, заметки: формулировки, которые ещё не превратились в окончательные выводы.</p>
-            <a id="goTexts" href="#">Открыть →</a>
-          </section>
-
-          <section class="card">
-            <h2>Архив</h2>
-            <p>Слои прошлых попыток: версии, фрагменты, следы пути. Иногда именно там лежат ключи.</p>
-            <a id="goArchive" href="#">Открыть →</a>
-          </section>
+      <!-- ✅ Top-of-page constant header (not fixed, no box) -->
+      <header class="site-header">
+        <p class="brand">Ashraellen</p>
+        <div class="menu">
+          <a id="toEntry" href="#">Вход</a> |
+          <a id="toPublic" href="#">Публичное</a>
         </div>
+      </header>
 
-        <div class="seal">
-          <img id="sealImg" src="#" alt="Ashraellen symbol">
-          <span>— mark of presence</span>
+      <!-- ✅ Centered content area -->
+      <main class="main">
+        <div class="content">
+
+          <h1 class="h1">Исследование</h1>
+
+          <p class="lead">
+            Здесь фиксируются исследования, наблюдения и формулировки — как протокол опыта.
+            Центральный вопрос: где заканчивается интерпретация и начинается реальность.
+          </p>
+
+          <ul class="focus">
+            <li>Осознанность и "дисциплина ума": что происходит до мысли, во время мысли, после мысли.</li>
+            <li>Эго как система защиты: механика самообмана, триггеры, сценарии, компенсации.</li>
+            <li>Язык и символы: как метафоры меняют восприятие и собирают смысл.</li>
+            <li>Цифровая реальность: алгоритмы, интерфейсы, "Матрица" как современная притча.</li>
+          </ul>
+
+          <div class="grid">
+            <section class="card">
+              <h2>Проекты</h2>
+              <p>Направления, в которых сейчас идёт работа: гипотезы, модели, эксперименты, структура.</p>
+              <a id="goProjects" href="#">Открыть →</a>
+            </section>
+
+            <section class="card">
+              <h2>Тексты</h2>
+              <p>Черновики, эссе, заметки: формулировки, которые ещё не превратились в окончательные выводы.</p>
+              <a id="goTexts" href="#">Открыть →</a>
+            </section>
+
+            <section class="card">
+              <h2>Архив</h2>
+              <p>Слои прошлых попыток: версии, фрагменты, следы пути. Иногда именно там лежат ключи.</p>
+              <a id="goArchive" href="#">Открыть →</a>
+            </section>
+          </div>
+
+          <div class="seal">
+            <img id="sealImg" src="#" alt="Ashraellen symbol">
+            <span>— mark of presence</span>
+          </div>
+
         </div>
+      </main>
 
-      </div>
     </div>
   </div>
 
