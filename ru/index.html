@@ -4,41 +4,69 @@
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
   <title>Ashraellen</title>
+
+  <!-- GitHub Pages-safe base (project pages) -->
+  <script>
+  (function(){
+    const isGitHub = location.hostname.endsWith('github.io');
+    const repo = location.pathname.split('/').filter(Boolean)[0];
+    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
+  })();
+  </script>
+
   <link rel="stylesheet" href="../assets/style.css">
-  <link rel="alternate" hreflang="x-default" href="https://ashraellen.com/">
-  <link rel="alternate" hreflang="en" href="https://ashraellen.com/en/">
-  <link rel="alternate" hreflang="ru" href="https://ashraellen.com/ru/">
-  <link rel="alternate" hreflang="pl" href="https://ashraellen.com/pl/">
-  <link rel="alternate" hreflang="uk" href="https://ashraellen.com/uk/">
-  <link rel="alternate" hreflang="pt" href="https://ashraellen.com/pt/">
-  <link rel="alternate" hreflang="es" href="https://ashraellen.com/es/">
-  <link rel="alternate" hreflang="fr" href="https://ashraellen.com/fr/">
-  <link rel="alternate" hreflang="de" href="https://ashraellen.com/de/">
-  <link rel="alternate" hreflang="x-default" href="https://ashraellen.com/ru/">
-  <link rel="icon" href="favicon.ico" sizes="any">
-<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-<link rel="apple-touch-icon" href="apple-touch-icon.png">
-<link rel="manifest" href="site.webmanifest">
 </head>
 <body>
   <div class="wrap">
-    <div class="card">
-      <div class="brand">Ashraellen</div>
-      <h1>Исследование / Публичное</h1>
-      <p>Ashraellen существует в двух режимах: один наблюдает, другой говорит.</p>
-      <div class="links">
-        <a href="./research/">Исследование</a>
-        <a href="./public/">Публичное</a>
-      </div>
-      <hr>
-      <div class="sub">
-        <a href="./">English</a> <a href="./">Polski</a> <a href="./">Українська</a> <a href="./">Português</a> <a href="./">Español</a> <a href="./">Français</a> <a href="./">Deutsch</a>
-      </div>
-      <footer>
-        <span class="small">One site. Two modes. One axis.</span>
-      </footer>
+    <div class="entry">
+
+      <section class="left">
+        <div>
+          <div class="brand">Ashraellen</div>
+          <div class="h1">Исследование / Публичное</div>
+          <p class="one">Два режима присутствия: один наблюдает, другой говорит.</p>
+
+          <div class="actions">
+            <a id="goResearch" href="#">Исследование</a>
+            <a id="goPublic" href="#">Публичное</a>
+          </div>
+
+          <div class="langs">
+            <a href="../en/">English</a>
+            <a href="../pl/">Polski</a>
+            <a href="../de/">Deutsch</a>
+            <a href="../fr/">Français</a>
+            <a href="../es/">Español</a>
+            <a href="../pt/">Português</a>
+            <a href="../uk/">Українська</a>
+          </div>
+
+          <div class="seal">
+            <img id="sealImg" src="#" alt="Ashraellen symbol">
+            <span>— mark of presence</span>
+          </div>
+        </div>
+
+        <div style="height:1px"></div>
+      </section>
+
+      <aside class="right" aria-hidden="true">
+        <img id="heroImg" src="#" alt="">
+      </aside>
+
     </div>
   </div>
+
+<script>
+(function(){
+  const base = window.__BASE__ || '/';
+  // Correct links under GitHub project pages
+  document.getElementById('goResearch').href = base + 'ru/research/';
+  document.getElementById('goPublic').href   = base + 'ru/public/';
+  document.getElementById('heroImg').src     = base + 'assets/hero.webp';
+  document.getElementById('sealImg').src     = base + 'assets/symbol.png';
+})();
+</script>
 </body>
 </html>
+
