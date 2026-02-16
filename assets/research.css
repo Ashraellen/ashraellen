@@ -20,10 +20,14 @@ a:hover{text-decoration:underline}
 
 .wrap{min-height:100vh}
 
+/* Page layer + background */
 .page{
   position:relative;
   min-height:100vh;
   overflow:hidden;
+
+  display:flex;
+  flex-direction:column;
 }
 
 /* Background */
@@ -51,48 +55,59 @@ a:hover{text-decoration:underline}
   z-index:1;
 }
 
-/* Content container */
-.content{
+/* ✅ Top header as a real page header (not fixed, no box) */
+.site-header{
   position:relative;
   z-index:2;
-  max-width: 980px;
-  min-height: 100vh;
-  padding:48px 44px 56px;
+  padding:22px 44px 0;
 
-  display:flex;
-  flex-direction:column;
-  justify-content:center;
+  text-align:right;
 }
 
-/* 🔹 Simple top header */
-.header{
-  margin-bottom:40px;
-}
-
-.header .brand{
+.site-header .brand{
+  margin:0 0 6px;
   letter-spacing:0.22em;
   text-transform:uppercase;
-  font-size:16px;
+  font-size:14px;
   font-weight:600;
-  margin:0 0 8px;
+  opacity:0.92;
 }
 
-.header .menu{
+.site-header .menu{
   font-size:13px;
   color:var(--muted);
 }
 
-.header .menu a{
+.site-header .menu a{
   color:var(--muted);
-  margin-right:14px;
+  margin:0 10px;
 }
 
-.header .menu a:hover{
+.site-header .menu a:first-child{ margin-left:0; }
+.site-header .menu a:last-child{ margin-right:0; }
+
+.site-header .menu a:hover{
   color:var(--fg);
   text-decoration:none;
 }
 
-/* Title */
+/* ✅ Main content centered vertically in remaining space */
+.main{
+  position:relative;
+  z-index:2;
+
+  flex:1;
+  display:flex;
+  align-items:center;
+}
+
+.content{
+  width:100%;
+  max-width:980px;
+  padding:28px 44px 56px;
+}
+
+/* Title + lead */
 .h1{
   margin:0 0 12px;
   font-size:22px;
@@ -137,12 +152,14 @@ a:hover{text-decoration:underline}
   padding:18px 16px;
   background: rgba(0,0,0,0.18);
   backdrop-filter: blur(3px);
-  transition: transform 140ms ease, border-color 140ms ease;
+  transition: transform 140ms ease, border-color 140ms ease, background 140ms ease;
+  min-height: 140px;
 }
 
 .card:hover{
   transform: translateY(-2px);
   border-color: rgba(242,242,244,0.28);
+  background: rgba(255,255,255,0.05);
 }
 
 .card h2{
@@ -159,13 +176,36 @@ a:hover{text-decoration:underline}
 }
 
 .card a{
+  display:inline-block;
   font-size:13px;
+  opacity:0.92;
+}
+
+.card a:hover{
+  opacity:1;
+  text-decoration:none;
+}
+
+/* Seal */
+.seal{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  margin-top:22px;
+  color:var(--muted);
+  font-size:12px;
+}
+
+.seal img{
+  height:22px;
+  width:auto;
+  opacity:0.75;
 }
 
 @media (max-width: 900px){
   .grid{ grid-template-columns: 1fr; }
-  .content{
-    padding:36px 22px 44px;
-    justify-content:flex-start;
-  }
+
+  .site-header{ padding:16px 22px 0; }
+  .main{ align-items:flex-start; }
+  .content{ padding:22px 22px 44px; }
 }
