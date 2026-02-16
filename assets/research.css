@@ -37,7 +37,7 @@ a:hover{text-decoration:underline}
   z-index:0;
 }
 
-/* Readability gradient */
+/* Gradient */
 .page::after{
   content:"";
   position:absolute;
@@ -51,52 +51,7 @@ a:hover{text-decoration:underline}
   z-index:1;
 }
 
-/* ✅ Fixed top-right const header */
-.const{
-  position:fixed;
-  top:18px;
-  right:18px;
-  z-index:5;
-
-  padding:10px 12px;
-  border-radius:14px;
-  background: rgba(0,0,0,0.20);
-  border:1px solid rgba(242,242,244,0.12);
-  backdrop-filter: blur(4px);
-}
-
-.const .cbrand{
-  margin:0;
-  letter-spacing:0.20em;
-  text-transform:uppercase;
-  font-size:12px;
-  font-weight:600;
-  opacity:0.92;
-  text-align:right;
-}
-
-.const .cmenu{
-  margin-top:6px;
-  display:flex;
-  flex-direction:column;
-  gap:4px;
-  align-items:flex-end;
-}
-
-.const .cmenu a{
-  font-size:12px;
-  color:var(--muted);
-  border-bottom:1px solid transparent;
-  padding-bottom:1px;
-}
-
-.const .cmenu a:hover{
-  color:var(--fg);
-  border-bottom-color:rgba(242,242,244,0.25);
-  text-decoration:none;
-}
-
-/* Content (kept vertically centered) */
+/* Content container */
 .content{
   position:relative;
   z-index:2;
@@ -109,7 +64,35 @@ a:hover{text-decoration:underline}
   justify-content:center;
 }
 
-/* Title + lead */
+/* 🔹 Simple top header */
+.header{
+  margin-bottom:40px;
+}
+
+.header .brand{
+  letter-spacing:0.22em;
+  text-transform:uppercase;
+  font-size:16px;
+  font-weight:600;
+  margin:0 0 8px;
+}
+
+.header .menu{
+  font-size:13px;
+  color:var(--muted);
+}
+
+.header .menu a{
+  color:var(--muted);
+  margin-right:14px;
+}
+
+.header .menu a:hover{
+  color:var(--fg);
+  text-decoration:none;
+}
+
+/* Title */
 .h1{
   margin:0 0 12px;
   font-size:22px;
@@ -146,7 +129,6 @@ a:hover{text-decoration:underline}
   display:grid;
   grid-template-columns: repeat(3, minmax(220px, 1fr));
   gap:16px;
-  margin-top:6px;
 }
 
 .card{
@@ -155,14 +137,12 @@ a:hover{text-decoration:underline}
   padding:18px 16px;
   background: rgba(0,0,0,0.18);
   backdrop-filter: blur(3px);
-  transition: transform 140ms ease, border-color 140ms ease, background 140ms ease;
-  min-height: 140px;
+  transition: transform 140ms ease, border-color 140ms ease;
 }
 
 .card:hover{
   transform: translateY(-2px);
   border-color: rgba(242,242,244,0.28);
-  background: rgba(255,255,255,0.05);
 }
 
 .card h2{
@@ -176,35 +156,10 @@ a:hover{text-decoration:underline}
   color:var(--muted);
   line-height:1.6;
   font-size:14px;
-  max-width:46ch;
 }
 
 .card a{
-  display:inline-block;
   font-size:13px;
-  color:var(--fg);
-  opacity:0.92;
-}
-
-.card a:hover{
-  opacity:1;
-  text-decoration:none;
-}
-
-/* Seal */
-.seal{
-  display:flex;
-  align-items:center;
-  gap:10px;
-  margin-top:22px;
-  color:var(--muted);
-  font-size:12px;
-}
-
-.seal img{
-  height:22px;
-  width:auto;
-  opacity:0.75;
 }
 
 @media (max-width: 900px){
@@ -213,11 +168,4 @@ a:hover{text-decoration:underline}
     padding:36px 22px 44px;
     justify-content:flex-start;
   }
-
-  .const{
-    top:12px;
-    right:12px;
-    padding:9px 10px;
-  }
 }
-
