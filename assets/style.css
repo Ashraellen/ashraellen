@@ -39,7 +39,7 @@ a{color:var(--fg); text-decoration:none}
   z-index:0;
 }
 
-/* gradient overlay for readability on the left */
+/* gradient overlay */
 .entry::after{
   content:"";
   position:absolute;
@@ -56,23 +56,25 @@ a{color:var(--fg); text-decoration:none}
   position:relative;
   z-index:2;
   max-width:560px;
-  padding:0;
 }
 
-/* Bigger brand */
+/* 🔹 Brand larger */
 .brand{
-  letter-spacing:0.20em;
+  letter-spacing:0.22em;
   text-transform:uppercase;
-  font-size:14px;
+  font-size:22px;   /* УВЕЛИЧИЛ */
+  font-weight:600;
   color:var(--fg);
-  opacity:0.92;
+  margin-bottom:18px;
 }
 
-.h1{
-  margin:16px 0 18px;
-  font-weight:600;
-  font-size:22px;
-  color:var(--fg);
+/* 🔹 Subtitle kept */
+.one{
+  margin:0 0 28px;
+  line-height:1.6;
+  font-size:15px;
+  color:var(--muted);
+  max-width:42ch;
 }
 
 /* Buttons */
@@ -80,10 +82,8 @@ a{color:var(--fg); text-decoration:none}
   display:flex;
   gap:14px;
   flex-wrap:wrap;
-  margin-top:4px;
 }
 
-/* equal size buttons */
 .actions a{
   display:inline-flex;
   align-items:center;
@@ -96,14 +96,18 @@ a{color:var(--fg); text-decoration:none}
   background: rgba(0,0,0,0.18);
   backdrop-filter: blur(3px);
 
-  transition: transform 140ms ease, background 140ms ease, border-color 140ms ease, opacity 140ms ease;
+  transition: transform 140ms ease,
+              background 140ms ease,
+              border-color 140ms ease,
+              opacity 140ms ease;
+
   opacity:0.92;
 }
 
 .actions a:hover{
-  background: rgba(255,255,255,0.06);
+  background: rgba(255,255,255,0.08);
   border-color: rgba(242,242,244,0.34);
-  transform: translateY(-1px);
+  transform: translateY(-2px);
   text-decoration:none;
   opacity:1;
 }
@@ -113,7 +117,7 @@ a{color:var(--fg); text-decoration:none}
 }
 
 .langs{
-  margin-top:20px;
+  margin-top:24px;
   display:flex;
   gap:10px;
   flex-wrap:wrap;
@@ -123,7 +127,6 @@ a{color:var(--fg); text-decoration:none}
   font-size:13px;
   color:var(--muted);
   transition: color 140ms ease, opacity 140ms ease;
-  opacity:0.95;
 }
 
 .langs a:hover{
@@ -149,8 +152,8 @@ a{color:var(--fg); text-decoration:none}
 
 @media (max-width: 700px){
   .entry{ padding:38px 22px; }
-  .h1{ font-size:20px; }
   .actions a{ width:100%; }
+
   .entry::after{
     background: linear-gradient(180deg,
       rgba(11,11,13,0.92) 0%,
