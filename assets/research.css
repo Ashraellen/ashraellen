@@ -26,7 +26,7 @@ a:hover{text-decoration:underline}
   overflow:hidden;
 }
 
-/* Background: Caravaggio fragment (calmed down) */
+/* Background */
 .page::before{
   content:"";
   position:absolute;
@@ -37,7 +37,7 @@ a:hover{text-decoration:underline}
   z-index:0;
 }
 
-/* Left readability gradient */
+/* Readability gradient */
 .page::after{
   content:"";
   position:absolute;
@@ -51,7 +51,52 @@ a:hover{text-decoration:underline}
   z-index:1;
 }
 
-/* ✅ Vertical centering */
+/* ✅ Fixed top-right const header */
+.const{
+  position:fixed;
+  top:18px;
+  right:18px;
+  z-index:5;
+
+  padding:10px 12px;
+  border-radius:14px;
+  background: rgba(0,0,0,0.20);
+  border:1px solid rgba(242,242,244,0.12);
+  backdrop-filter: blur(4px);
+}
+
+.const .cbrand{
+  margin:0;
+  letter-spacing:0.20em;
+  text-transform:uppercase;
+  font-size:12px;
+  font-weight:600;
+  opacity:0.92;
+  text-align:right;
+}
+
+.const .cmenu{
+  margin-top:6px;
+  display:flex;
+  flex-direction:column;
+  gap:4px;
+  align-items:flex-end;
+}
+
+.const .cmenu a{
+  font-size:12px;
+  color:var(--muted);
+  border-bottom:1px solid transparent;
+  padding-bottom:1px;
+}
+
+.const .cmenu a:hover{
+  color:var(--fg);
+  border-bottom-color:rgba(242,242,244,0.25);
+  text-decoration:none;
+}
+
+/* Content (kept vertically centered) */
 .content{
   position:relative;
   z-index:2;
@@ -61,46 +106,7 @@ a:hover{text-decoration:underline}
 
   display:flex;
   flex-direction:column;
-  justify-content:center;   /* центр по вертикали */
-}
-
-/* Top line */
-.top{
-  display:flex;
-  align-items:flex-start;
-  justify-content:space-between;
-  gap:18px;
-  margin-bottom:18px;
-}
-
-.brand{
-  letter-spacing:0.22em;
-  text-transform:uppercase;
-  font-size:18px;
-  font-weight:600;
-  opacity:0.95;
-  margin:0;
-}
-
-.nav{
-  display:flex;
-  gap:14px;
-  flex-wrap:wrap;
-  justify-content:flex-end;
-  padding-top:2px;
-}
-
-.nav a{
-  font-size:13px;
-  color:var(--muted);
-  border-bottom:1px solid transparent;
-  padding-bottom:2px;
-}
-
-.nav a:hover{
-  color:var(--fg);
-  border-bottom-color:rgba(242,242,244,0.25);
-  text-decoration:none;
+  justify-content:center;
 }
 
 /* Title + lead */
@@ -205,8 +211,13 @@ a:hover{text-decoration:underline}
   .grid{ grid-template-columns: 1fr; }
   .content{
     padding:36px 22px 44px;
-    justify-content:flex-start; /* на мобиле лучше не центрировать */
+    justify-content:flex-start;
   }
-  .top{ flex-direction:column; align-items:flex-start; }
-  .nav{ justify-content:flex-start; }
+
+  .const{
+    top:12px;
+    right:12px;
+    padding:9px 10px;
+  }
 }
+
