@@ -32,7 +32,7 @@ a:hover{text-decoration:underline}
   content:"";
   position:absolute;
   inset:0;
-  background: url("../assets/texts-bg.jpg") center/cover no-repeat;
+  background: url("../assets/texts-bg.jpeg") center/cover no-repeat;
   filter: brightness(0.82) contrast(1.06) saturate(0.82);
   transform: scale(1.02);
   z-index:0;
