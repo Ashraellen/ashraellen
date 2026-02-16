@@ -1,16 +1,28 @@
-## Hi there 👋
+# Ashraellen — Site Starter (GitHub Pages)
 
-<!--
-**Ashraellen/ashraellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a minimal static scaffold:
+- Root: language auto-redirect + manual selection
+- Per language: /<lang>/ (Entry: Research / Public)
+- Two modes: /<lang>/research/ and /<lang>/public/
+- Extra placeholders: Position, Texts, Notes
 
-Here are some ideas to get you started:
+## Deploy on GitHub Pages
+1. Create a GitHub repo (e.g. `ashraellen-site`).
+2. Upload the contents of this folder to the repo root.
+3. In GitHub: Settings → Pages
+   - Source: Deploy from a branch
+   - Branch: `main` / root
+4. Wait for the Pages URL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Custom domain
+1. In Settings → Pages, set your custom domain (e.g. ashraellen.com)
+2. Add DNS records at your DNS provider:
+   - A records to GitHub Pages IPs OR CNAME to <user>.github.io
+   GitHub will show exact values.
+
+## Where to edit text
+Edit the HTML files under each language folder.
+
+## Notes
+- The root index sets `noindex,nofollow` — remove when you're ready.
+- Replace social links in /<lang>/public/index.html.

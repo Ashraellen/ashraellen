@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Ashraellen</title>
+  <link rel="stylesheet" href="/assets/style.css">
+  <meta name="robots" content="noindex,nofollow">
+</head>
+<body>
+  <div class="wrap">
+    <div class="card">
+      <div class="brand">Ashraellen</div>
+      <h1>Choose language</h1>
+      <p class="small">We redirect automatically based on browser language. If not, choose manually.</p>
+      <div class="sub" id="langlist">
+        <!-- filled by JS -->
+      </div>
+      <footer>
+        <span class="small">Note: This is a starter scaffold for GitHub Pages.</span>
+      </footer>
+    </div>
+  </div>
+
+<script>
+(function(){
+  const supported = [["en", "English"], ["ru", "Русский"], ["pl", "Polski"], ["uk", "Українська"], ["pt", "Português"], ["es", "Español"], ["fr", "Français"], ["de", "Deutsch"]];
+  const list = document.getElementById('langlist');
+  supported.forEach(([code,label])=>{
+    const a = document.createElement('a');
+    a.href = '/' + code + '/';
+    a.textContent = label + ' (' + code + ')';
+    list.appendChild(a);
+  });
+
+  const lang = (navigator.language || 'en').toLowerCase();
+  const guess = lang.split('-')[0];
+  const target = supported.map(x=>x[0]).includes(guess) ? guess : 'en';
+  // Redirect after a short tick; user can click immediately if they want.
+  setTimeout(()=>{ window.location.replace('/'+target+'/'); }, 400);
+})();
+</script>
+</body>
+</html>
