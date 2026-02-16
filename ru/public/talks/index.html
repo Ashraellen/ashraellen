@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Ashraellen — Разговоры</title>
+
+  <script>
+  (function(){
+    const isGitHub = location.hostname.endsWith('github.io');
+    const repo = location.pathname.split('/').filter(Boolean)[0];
+    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
+  })();
+  </script>
+
+  <link rel="stylesheet" href="../../../assets/talks.css">
+</head>
+
+<body>
+
+  <div class="hero">
+    <div class="overlay"></div>
+
+    <header class="top">
+      <div class="brand">Ashraellen</div>
+      <nav class="menu">
+        <a id="toEntry" href="#">Вход</a>
+        <a id="toPublic" href="#">Публичное</a>
+        <a id="toResearch" href="#">Исследование</a>
+      </nav>
+    </header>
+
+    <div class="hero-content">
+      <h1>Разговоры</h1>
+      <p class="lead">
+        Здесь не лекции.  
+        И не проповеди.  
+        Это место, где мысли садятся в кресло,  
+        берут чашку — и позволяют себе быть сказанными.
+      </p>
+    </div>
+  </div>
+
+  <main class="content">
+
+    <section class="list">
+
+      <article class="talk-item">
+        <div>
+          <h3>Разговор 001 — В разработке</h3>
+          <p>Первый разговор появится здесь. Без спешки.</p>
+        </div>
+        <span class="badge">Скоро</span>
+      </article>
+
+      <article class="talk-item">
+        <div>
+          <h3>Разговор 002 — В разработке</h3>
+          <p>Формат свободный. Содержание — честное.</p>
+        </div>
+        <span class="badge">Скоро</span>
+      </article>
+
+    </section>
+
+  </main>
+
+  <script>
+  (function(){
+    const base = window.__BASE__ || '/';
+    document.getElementById('toEntry').href    = base + 'ru/';
+    document.getElementById('toPublic').href   = base + 'ru/public/';
+    document.getElementById('toResearch').href = base + 'ru/research/';
+  })();
+  </script>
+
+</body>
+</html>
