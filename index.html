@@ -4,7 +4,7 @@
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
   <title>Ashraellen</title>
-  <link rel="stylesheet" href="/assets/style.css">
+  <link rel="stylesheet" href="assets/style.css">
   <meta name="robots" content="noindex,nofollow">
 </head>
 <body>
@@ -26,9 +26,14 @@
 (function(){
   const supported = [["en", "English"], ["ru", "Русский"], ["pl", "Polski"], ["uk", "Українська"], ["pt", "Português"], ["es", "Español"], ["fr", "Français"], ["de", "Deutsch"]];
   const list = document.getElementById('langlist');
-  supported.forEach(([code,label])=>{
+  const base = (function(){
+    const p = window.location.pathname;
+    const dir = p.endsWith('/') ? p : p.replace(/[^\/]+$/, '');
+    return dir;
+  })();
+supported.forEach(([code,label])=>{
     const a = document.createElement('a');
-    a.href = '/' + code + '/';
+    a.href = base + code + '/';
     a.textContent = label + ' (' + code + ')';
     list.appendChild(a);
   });
@@ -37,7 +42,7 @@
   const guess = lang.split('-')[0];
   const target = supported.map(x=>x[0]).includes(guess) ? guess : 'en';
   // Redirect after a short tick; user can click immediately if they want.
-  setTimeout(()=>{ window.location.replace('/'+target+'/'); }, 400);
+  setTimeout(()=>{ window.location.replace(base + target + '/'); }, 400);
 })();
 </script>
 </body>
