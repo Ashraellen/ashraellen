@@ -3,31 +3,94 @@
 <head>
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
-  <title>Ashraellen — Texts</title>
-  <link rel="stylesheet" href="../../../assets/style.css">
-  <link rel="alternate" hreflang="en" href="https://ashraellen.com/en/research/texts/">
-  <link rel="alternate" hreflang="ru" href="https://ashraellen.com/ru/research/texts/">
-  <link rel="alternate" hreflang="pl" href="https://ashraellen.com/pl/research/texts/">
-  <link rel="alternate" hreflang="uk" href="https://ashraellen.com/uk/research/texts/">
-  <link rel="alternate" hreflang="pt" href="https://ashraellen.com/pt/research/texts/">
-  <link rel="alternate" hreflang="es" href="https://ashraellen.com/es/research/texts/">
-  <link rel="alternate" hreflang="fr" href="https://ashraellen.com/fr/research/texts/">
-  <link rel="alternate" hreflang="de" href="https://ashraellen.com/de/research/texts/">
-  <link rel="alternate" hreflang="x-default" href="https://ashraellen.com/fr/research/texts/">
+  <title>Ashraellen — Textes</title>
+
+  <script>
+  (function(){
+    const isGitHub = location.hostname.endsWith('github.io');
+    const repo = location.pathname.split('/').filter(Boolean)[0];
+    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
+  })();
+  </script>
+
+  <link rel="stylesheet" href="../../../assets/texts.css">
 </head>
 <body>
   <div class="wrap">
-    <div class="card">
-      <div class="brand">Ashraellen</div>
-      <h1>Texts</h1>
-      <p>Un texte — un point d’observation. Pas de séries, pas de conclusions imposées.</p>
-      <p>C’est une archive vivante. Elle grandit lentement.</p>
-      <hr>
-      <div class="sub">
-        <a href="research/">← Research</a>
-        <a href="public/">Public</a>
-      </div>
+    <div class="page">
+
+      <header class="site-header">
+        <p class="brand">Ashraellen</p>
+        <div class="menu">
+          <a id="toEntry" href="#">Entrée</a> |
+          <a id="toPublic" href="#">Public</a> |
+          <a id="toResearch" href="#">Recherche</a>
+        </div>
+      </header>
+
+      <main class="main">
+        <div class="content">
+
+          <h1 class="h1">Textes</h1>
+
+          <p class="lead">
+            Ici je rassemble des formulations.
+            Pas du « contenu », pas des « opinions », pas des conclusions définitives — mais des textes comme trace du mouvement :
+            ce qui est devenu plus clair, où la logique habituelle s’est fissurée, et ce qui reste après un regard honnête.
+          </p>
+
+          <section class="list">
+            <div class="list-header">
+              <h2>Liste</h2>
+              <p class="note">section en cours</p>
+            </div>
+
+            <ul class="items">
+              <li class="item">
+                <div>
+                  <a href="#" title="Bientôt">Texte 001 — Titre (bientôt)</a>
+                  <div class="meta">Espace pour une description en une ligne.</div>
+                </div>
+                <span class="badge">Brouillon</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a href="#" title="Bientôt">Texte 002 — Titre (bientôt)</a>
+                  <div class="meta">Espace pour une description en une ligne.</div>
+                </div>
+                <span class="badge">Brouillon</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a href="#" title="Bientôt">Texte 003 — Titre (bientôt)</a>
+                  <div class="meta">Espace pour une description en une ligne.</div>
+                </div>
+                <span class="badge">Brouillon</span>
+              </li>
+            </ul>
+          </section>
+
+          <div class="seal">
+            <img id="sealImg" src="#" alt="Ashraellen symbol">
+            <span>— mark of presence</span>
+          </div>
+
+        </div>
+      </main>
+
     </div>
   </div>
+
+  <script>
+  (function(){
+    const base = window.__BASE__ || '/';
+    document.getElementById('toEntry').href     = base + 'fr/';
+    document.getElementById('toPublic').href    = base + 'fr/public/';
+    document.getElementById('toResearch').href  = base + 'fr/research/';
+    document.getElementById('sealImg').src      = base + 'assets/symbol.png';
+  })();
+  </script>
 </body>
 </html>
