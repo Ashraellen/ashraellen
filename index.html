@@ -12,26 +12,27 @@
     <div class="card">
       <div class="brand">Ashraellen</div>
       <h1>Choose language</h1>
-      <p class="small">We redirect automatically based on browser language. If not, choose manually.</p>
-      <div class="sub" id="langlist">
-        <!-- filled by JS -->
-      </div>
+      <p class="small">Auto-redirect uses browser language. If not, choose manually.</p>
+      <div class="sub" id="langlist"></div>
       <footer>
-        <span class="small">Note: This is a starter scaffold for GitHub Pages.</span>
+        <span class="small">Starter scaffold for GitHub Pages.</span>
       </footer>
     </div>
   </div>
 
 <script>
 (function(){
-  const supported = [["en", "English"], ["ru", "Русский"], ["pl", "Polski"], ["uk", "Українська"], ["pt", "Português"], ["es", "Español"], ["fr", "Français"], ["de", "Deutsch"]];
+  const supported = [["en","English"],["ru","Русский"],["pl","Polski"],["uk","Українська"],["pt","Português"],["es","Español"],["fr","Français"],["de","Deutsch"]];
   const list = document.getElementById('langlist');
-  const base = (function(){
-    const p = window.location.pathname;
-    const dir = p.endsWith('/') ? p : p.replace(/[^\/]+$/, '');
-    return dir;
-  })();
-supported.forEach(([code,label])=>{
+
+  // Robust base path:
+  // - On GitHub project pages: https://user.github.io/<repo>/  => base "/<repo>/"
+  // - On custom domain: https://ashraellen.com/               => base "/"
+  const isGitHub = location.hostname.endsWith('github.io');
+  const seg1 = location.pathname.split('/').filter(Boolean)[0]; // repo name on GitHub Pages
+  const base = isGitHub && seg1 ? `/${seg1}/` : `/`;
+
+  supported.forEach(([code,label])=>{
     const a = document.createElement('a');
     a.href = base + code + '/';
     a.textContent = label + ' (' + code + ')';
@@ -40,9 +41,10 @@ supported.forEach(([code,label])=>{
 
   const lang = (navigator.language || 'en').toLowerCase();
   const guess = lang.split('-')[0];
-  const target = supported.map(x=>x[0]).includes(guess) ? guess : 'en';
-  // Redirect after a short tick; user can click immediately if they want.
-  setTimeout(()=>{ window.location.replace(base + target + '/'); }, 400);
+  const codes = supported.map(x=>x[0]);
+  const target = codes.includes(guess) ? guess : 'en';
+
+  setTimeout(()=>{ window.location.replace(base + target + '/'); }, 250);
 })();
 </script>
 </body>
