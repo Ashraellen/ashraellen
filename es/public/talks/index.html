@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Ashraellen — Presentaciones</title>
+
+  <script>
+  (function(){
+    const isGitHub = location.hostname.endsWith('github.io');
+    const repo = location.pathname.split('/').filter(Boolean)[0];
+    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
+  })();
+  </script>
+
+  <link rel="stylesheet" href="../../../assets/talks.css">
+</head>
+<body>
+  <div class="wrap">
+    <div class="page">
+
+      <header class="site-header">
+        <p class="brand">Ashraellen</p>
+        <div class="menu">
+          <a id="toEntry" href="#">Entrada</a> |
+          <a id="toPublic" href="#">Público</a> |
+          <a id="toResearch" href="#">Investigación</a>
+        </div>
+      </header>
+
+      <main class="main">
+        <div class="container">
+
+          <h1 class="h1">Presentaciones</h1>
+
+          <p class="lead">
+            Aquí se reúnen videos y análisis públicos — lo que ya se puede mostrar.
+            Esto no es “motivación” ni “enseñanza”.
+            Es un intento de hablar con precisión: sin ruido extra,
+            pero también sin desaparecer en la niebla.
+          </p>
+
+          <section class="list">
+            <div class="list-header">
+              <h2>Lista</h2>
+              <p class="note">la sección crece</p>
+            </div>
+
+            <ul class="items">
+              <li class="item">
+                <div>
+                  <a href="#" title="Pronto">Presentación 001 — Título (pronto)</a>
+                  <div class="meta">Descripción corta: de qué trata el video y por qué es útil.</div>
+                </div>
+                <span class="badge">draft</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a href="#" title="Pronto">Presentación 002 — Título (pronto)</a>
+                  <div class="meta">Descripción corta: tema, enfoque y la pregunta que se раскрывает.</div>
+                </div>
+                <span class="badge">draft</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a href="#" title="Pronto">Presentación 003 — Título (pronto)</a>
+                  <div class="meta">Descripción corta. Luego lo заменим por enlaces/títulos reales.</div>
+                </div>
+                <span class="badge">draft</span>
+              </li>
+            </ul>
+          </section>
+
+          <div class="seal">
+            <img id="sealImg" src="#" alt="Ashraellen symbol">
+            <span>— mark of presence</span>
+          </div>
+
+        </div>
+      </main>
+
+    </div>
+  </div>
+
+  <script>
+  (function(){
+    const base = window.__BASE__ || '/';
+
+    document.getElementById('toEntry').href    = base + 'es/';
+    document.getElementById('toPublic').href   = base + 'es/public/';
+    document.getElementById('toResearch').href = base + 'es/research/';
+
+    document.getElementById('sealImg').src = base + 'assets/symbol.png';
+  })();
+  </script>
+</body>
+</html>
