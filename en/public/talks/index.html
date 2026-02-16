@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Ashraellen — Talks</title>
+
+  <script>
+  (function(){
+    const isGitHub = location.hostname.endsWith('github.io');
+    const repo = location.pathname.split('/').filter(Boolean)[0];
+    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
+  })();
+  </script>
+
+  <link rel="stylesheet" href="../../../assets/talks.css">
+</head>
+<body>
+  <div class="wrap">
+    <div class="page">
+
+      <header class="site-header">
+        <p class="brand">Ashraellen</p>
+        <div class="menu">
+          <a id="toEntry" href="#">Entry</a> |
+          <a id="toPublic" href="#">Public</a> |
+          <a id="toResearch" href="#">Research</a>
+        </div>
+      </header>
+
+      <main class="main">
+        <div class="container">
+
+          <h1 class="h1">Talks</h1>
+
+          <p class="lead">
+            Here are videos and public breakdowns — what is ready to be shown.
+            This is not “motivation” and not “teaching”.
+            It is an attempt to speak precisely: without extra noise,
+            but also without disappearing into fog.
+          </p>
+
+          <section class="list">
+            <div class="list-header">
+              <h2>List</h2>
+              <p class="note">this section grows</p>
+            </div>
+
+            <ul class="items">
+              <li class="item">
+                <div>
+                  <a href="#" title="Soon">Talk 001 — Title (soon)</a>
+                  <div class="meta">Short description: what the talk is about and why it helps.</div>
+                </div>
+                <span class="badge">draft</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a href="#" title="Soon">Talk 002 — Title (soon)</a>
+                  <div class="meta">Short description: topic, angle, the question being unpacked.</div>
+                </div>
+                <span class="badge">draft</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a href="#" title="Soon">Talk 003 — Title (soon)</a>
+                  <div class="meta">Short description. Later we will replace with real links/titles.</div>
+                </div>
+                <span class="badge">draft</span>
+              </li>
+            </ul>
+          </section>
+
+          <div class="seal">
+            <img id="sealImg" src="#" alt="Ashraellen symbol">
+            <span>— mark of presence</span>
+          </div>
+
+        </div>
+      </main>
+
+    </div>
+  </div>
+
+  <script>
+  (function(){
+    const base = window.__BASE__ || '/';
+
+    document.getElementById('toEntry').href    = base + 'en/';
+    document.getElementById('toPublic').href   = base + 'en/public/';
+    document.getElementById('toResearch').href = base + 'en/research/';
+
+    document.getElementById('sealImg').src = base + 'assets/symbol.png';
+  })();
+  </script>
+</body>
+</html>
