@@ -4,36 +4,90 @@
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
   <title>Ashraellen — Research</title>
-  <link rel="stylesheet" href="../../assets/style.css">
-  <link rel="alternate" hreflang="en" href="https://ashraellen.com/en/research/">
-  <link rel="alternate" hreflang="ru" href="https://ashraellen.com/ru/research/">
-  <link rel="alternate" hreflang="pl" href="https://ashraellen.com/pl/research/">
-  <link rel="alternate" hreflang="uk" href="https://ashraellen.com/uk/research/">
-  <link rel="alternate" hreflang="pt" href="https://ashraellen.com/pt/research/">
-  <link rel="alternate" hreflang="es" href="https://ashraellen.com/es/research/">
-  <link rel="alternate" hreflang="fr" href="https://ashraellen.com/fr/research/">
-  <link rel="alternate" hreflang="de" href="https://ashraellen.com/de/research/">
-  <link rel="alternate" hreflang="x-default" href="https://ashraellen.com/en/research/">
+
+  <script>
+  (function(){
+    const isGitHub = location.hostname.endsWith('github.io');
+    const repo = location.pathname.split('/').filter(Boolean)[0];
+    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
+  })();
+  </script>
+
+  <link rel="stylesheet" href="../../assets/research.css">
 </head>
 <body>
   <div class="wrap">
-    <div class="card">
-      <div class="brand">Ashraellen</div>
-      <h1>Research</h1>
-      <p>A working space: position, texts, fragments. No promises. No performance.</p>
+    <div class="page">
 
-      <div class="links">
-        <a href="position/">Position</a>
-        <a href="texts/">Texts</a>
-        <a href="notes/">Notes / Margins</a>
-      </div>
+      <header class="site-header">
+        <p class="brand">Ashraellen</p>
+        <div class="menu">
+          <a id="toEntry" href="#">Entry</a> |
+          <a id="toPublic" href="#">Public</a>
+        </div>
+      </header>
 
-      <hr>
-      <div class="sub">
-        <a href="../">← Back</a>
-        <a href="../public/">Public</a>
-      </div>
+      <main class="main">
+        <div class="content">
+
+          <h1 class="h1">Research</h1>
+
+          <p class="lead">
+            This is where I document research, observation, and formulation — as a protocol of experience.
+            The central question: where interpretation ends and reality begins.
+          </p>
+
+          <ul class="focus">
+            <li>Awareness and mental discipline: what happens before thought, during thought, after thought.</li>
+            <li>Ego as a protective system: self-deception mechanisms, triggers, scripts, compensations.</li>
+            <li>Language and symbols: how metaphors reshape perception and assemble meaning.</li>
+            <li>Digital reality: algorithms, interfaces, “the Matrix” as a modern parable.</li>
+          </ul>
+
+          <div class="grid">
+            <section class="card">
+              <h2>Projects</h2>
+              <p>Active directions: hypotheses, models, experiments, structure.</p>
+              <a id="goProjects" href="#">Open →</a>
+            </section>
+
+            <section class="card">
+              <h2>Texts</h2>
+              <p>Drafts and essays: formulations that are not yet final conclusions.</p>
+              <a id="goTexts" href="#">Open →</a>
+            </section>
+
+            <section class="card">
+              <h2>Archive</h2>
+              <p>Earlier versions and fragments. Sometimes the keys are there.</p>
+              <a id="goArchive" href="#">Open →</a>
+            </section>
+          </div>
+
+          <div class="seal">
+            <img id="sealImg" src="#" alt="Ashraellen symbol">
+            <span>— mark of presence</span>
+          </div>
+
+        </div>
+      </main>
+
     </div>
   </div>
+
+  <script>
+  (function(){
+    const base = window.__BASE__ || '/';
+
+    document.getElementById('toEntry').href  = base + 'en/';
+    document.getElementById('toPublic').href = base + 'en/public/';
+
+    document.getElementById('goProjects').href = base + 'en/research/projects/';
+    document.getElementById('goTexts').href    = base + 'en/research/texts/';
+    document.getElementById('goArchive').href  = base + 'en/research/archive/';
+
+    document.getElementById('sealImg').src = base + 'assets/symbol.png';
+  })();
+  </script>
 </body>
 </html>
