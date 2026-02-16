@@ -3,37 +3,83 @@
 <head>
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
-  <title>Ashraellen — Исследование</title>
-  <link rel="stylesheet" href="../../assets/style.css">
-  <link rel="alternate" hreflang="en" href="https://ashraellen.com/en/research/">
-  <link rel="alternate" hreflang="ru" href="https://ashraellen.com/ru/research/">
-  <link rel="alternate" hreflang="pl" href="https://ashraellen.com/pl/research/">
-  <link rel="alternate" hreflang="uk" href="https://ashraellen.com/uk/research/">
-  <link rel="alternate" hreflang="pt" href="https://ashraellen.com/pt/research/">
-  <link rel="alternate" hreflang="es" href="https://ashraellen.com/es/research/">
-  <link rel="alternate" hreflang="fr" href="https://ashraellen.com/fr/research/">
-  <link rel="alternate" hreflang="de" href="https://ashraellen.com/de/research/">
-  <link rel="alternate" hreflang="x-default" href="https://ashraellen.com/ru/research/">
+  <title>Ashraellen — Research</title>
+
+  <script>
+  (function(){
+    const isGitHub = location.hostname.endsWith('github.io');
+    const repo = location.pathname.split('/').filter(Boolean)[0];
+    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
+  })();
+  </script>
+
+  <link rel="stylesheet" href="../../assets/research.css">
 </head>
 <body>
   <div class="wrap">
-    <div class="card">
-      <div class="brand">Ashraellen</div>
-      <h1>Исследование</h1>
-      <p>Рабочее пространство: позиция, тексты, фрагменты. Без обещаний. Без представления.</p>
+    <div class="page">
+      <div class="content">
 
-      <div class="links">
-        <a href="position/">Position</a>
-        <a href="texts/">Texts</a>
-        <a href="notes/">Notes / Margins</a>
-      </div>
+        <div class="top">
+          <p class="brand">Ashraellen</p>
 
-      <hr>
-      <div class="sub">
-        <a href="../">← Назад</a>
-        <a href="../public/">Публичное</a>
+          <nav class="nav">
+            <a id="toEntry" href="#">Вход</a>
+            <a id="toPublic" href="#">Публичное</a>
+          </nav>
+        </div>
+
+        <h1 class="h1">Research</h1>
+
+        <p class="lead">
+          Здесь фиксируются исследования, наблюдения и формулировки.
+          Не “выводы” — а движение: как меняется восприятие, где ломается привычная логика,
+          и что остаётся, когда сомнение перестаёт быть врагом.
+        </p>
+
+        <div class="grid">
+          <section class="card">
+            <h2>Проекты</h2>
+            <p>Текущие направления исследования: гипотезы, модели, эксперименты, структура.</p>
+            <a id="goProjects" href="#">Открыть →</a>
+          </section>
+
+          <section class="card">
+            <h2>Тексты</h2>
+            <p>Черновики, эссе, заметки: формулировки, которые ещё не превратились в проповедь.</p>
+            <a id="goTexts" href="#">Открыть →</a>
+          </section>
+
+          <section class="card">
+            <h2>Архив</h2>
+            <p>Слои прошлых попыток: версии, фрагменты, следы пути. Иногда там лежат ключи.</p>
+            <a id="goArchive" href="#">Открыть →</a>
+          </section>
+        </div>
+
+        <div class="seal">
+          <img id="sealImg" src="#" alt="Ashraellen symbol">
+          <span>— mark of presence</span>
+        </div>
+
       </div>
     </div>
   </div>
+
+  <script>
+  (function(){
+    const base = window.__BASE__ || '/';
+
+    document.getElementById('toEntry').href  = base + 'ru/';
+    document.getElementById('toPublic').href = base + 'ru/public/';
+
+    // Пока эти страницы могут быть пустыми — ссылки всё равно готовы.
+    document.getElementById('goProjects').href = base + 'ru/research/projects/';
+    document.getElementById('goTexts').href    = base + 'ru/research/texts/';
+    document.getElementById('goArchive').href  = base + 'ru/research/archive/';
+
+    document.getElementById('sealImg').src = base + 'assets/symbol.png';
+  })();
+  </script>
 </body>
 </html>
