@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
-  <title>Ashraellen — Разговоры</title>
+  <title>Ashraellen — Выступления</title>
 
   <script>
   (function(){
@@ -15,64 +15,84 @@
 
   <link rel="stylesheet" href="../../../assets/talks.css">
 </head>
-
 <body>
+  <div class="wrap">
+    <div class="page">
 
-  <div class="hero">
-    <div class="overlay"></div>
+      <header class="site-header">
+        <p class="brand">Ashraellen</p>
+        <div class="menu">
+          <a id="toEntry" href="#">Вход</a> |
+          <a id="toPublic" href="#">Публичное</a> |
+          <a id="toResearch" href="#">Исследование</a>
+        </div>
+      </header>
 
-    <header class="top">
-      <div class="brand">Ashraellen</div>
-      <nav class="menu">
-        <a id="toEntry" href="#">Вход</a>
-        <a id="toPublic" href="#">Публичное</a>
-        <a id="toResearch" href="#">Исследование</a>
-      </nav>
-    </header>
+      <main class="main">
+        <div class="container">
 
-    <div class="hero-content">
-      <h1>Разговоры</h1>
-      <p class="lead">
-        Здесь не лекции.  
-        И не проповеди.  
-        Это место, где мысли садятся в кресло,  
-        берут чашку — и позволяют себе быть сказанными.
-      </p>
+          <h1 class="h1">Выступления</h1>
+
+          <p class="lead">
+            Здесь собраны видео и публичные разборы — то, что уже можно показывать.
+            Это не “мотивация” и не “учение”. Это попытка говорить точно: без лишнего шума,
+            но и без ухода в туман.
+          </p>
+
+          <section class="list">
+            <div class="list-header">
+              <h2>Список</h2>
+              <p class="note">раздел пополняется</p>
+            </div>
+
+            <ul class="items">
+              <li class="item">
+                <div>
+                  <a href="#" title="Скоро">Выступление 001 — Название (скоро)</a>
+                  <div class="meta">Короткое описание: о чём видео и чем оно полезно.</div>
+                </div>
+                <span class="badge">draft</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a href="#" title="Скоро">Выступление 002 — Название (скоро)</a>
+                  <div class="meta">Короткое описание: тема, угол зрения, вопрос, который раскрывается.</div>
+                </div>
+                <span class="badge">draft</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a href="#" title="Скоро">Выступление 003 — Название (скоро)</a>
+                  <div class="meta">Короткое описание. Потом заменим на реальные ссылки/тайтлы.</div>
+                </div>
+                <span class="badge">draft</span>
+              </li>
+            </ul>
+          </section>
+
+          <div class="seal">
+            <img id="sealImg" src="#" alt="Ashraellen symbol">
+            <span>— mark of presence</span>
+          </div>
+
+        </div>
+      </main>
+
     </div>
   </div>
-
-  <main class="content">
-
-    <section class="list">
-
-      <article class="talk-item">
-        <div>
-          <h3>Разговор 001 — В разработке</h3>
-          <p>Первый разговор появится здесь. Без спешки.</p>
-        </div>
-        <span class="badge">Скоро</span>
-      </article>
-
-      <article class="talk-item">
-        <div>
-          <h3>Разговор 002 — В разработке</h3>
-          <p>Формат свободный. Содержание — честное.</p>
-        </div>
-        <span class="badge">Скоро</span>
-      </article>
-
-    </section>
-
-  </main>
 
   <script>
   (function(){
     const base = window.__BASE__ || '/';
+
     document.getElementById('toEntry').href    = base + 'ru/';
     document.getElementById('toPublic').href   = base + 'ru/public/';
     document.getElementById('toResearch').href = base + 'ru/research/';
+
+    document.getElementById('sealImg').src = base + 'assets/symbol.png';
   })();
   </script>
-
 </body>
 </html>
