@@ -4,38 +4,75 @@
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
   <title>Ashraellen — Público</title>
-  <link rel="stylesheet" href="../../assets/style.css">
-  <link rel="alternate" hreflang="en" href="https://ashraellen.com/en/public/">
-  <link rel="alternate" hreflang="ru" href="https://ashraellen.com/ru/public/">
-  <link rel="alternate" hreflang="pl" href="https://ashraellen.com/pl/public/">
-  <link rel="alternate" hreflang="uk" href="https://ashraellen.com/uk/public/">
-  <link rel="alternate" hreflang="pt" href="https://ashraellen.com/pt/public/">
-  <link rel="alternate" hreflang="es" href="https://ashraellen.com/es/public/">
-  <link rel="alternate" hreflang="fr" href="https://ashraellen.com/fr/public/">
-  <link rel="alternate" hreflang="de" href="https://ashraellen.com/de/public/">
-  <link rel="alternate" hreflang="x-default" href="https://ashraellen.com/pt/public/">
+
+  <script>
+  (function(){
+    const isGitHub = location.hostname.endsWith('github.io');
+    const repo = location.pathname.split('/').filter(Boolean)[0];
+    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
+  })();
+  </script>
+
+  <link rel="stylesheet" href="../../assets/public.css">
 </head>
 <body>
   <div class="wrap">
-    <div class="card">
-      <div class="brand">Ashraellen</div>
-      <h1>Público</h1>
-      <p>Voz pública: canais, mídia e comunicação viva.</p>
+    <div class="page">
 
-      <div class="links">
-        <a href="https://www.youtube.com/@ashraellen" target="_blank" rel="noopener">YouTube</a>
-        <a href="https://www.instagram.com/kostyshev" target="_blank" rel="noopener">Instagram</a>
-        <a href="https://t.me/ashraellenchannel" target="_blank" rel="noopener">Telegram</a>
-      </div>
+      <header class="site-header">
+        <p class="brand">Ashraellen</p>
+        <div class="menu">
+          <a id="toEntry" href="#">Entrada</a> |
+          <a id="toResearch" href="#">Pesquisa</a>
+        </div>
+      </header>
 
-      <hr>
-      <div class="sub">
-        <a href="../">← Voltar</a>
-        <a href="../research/">Pesquisa</a>
-      </div>
+      <main class="main">
+        <div class="content">
+          <h1 class="h1">Público</h1>
 
-      <p class="small" style="margin-top:16px">O conteúdo público existe separadamente e não representa a posição de pesquisa.</p>
+          <p class="lead">
+            Aqui eu falo em voz alta.
+            Não para impressionar — para esclarecer.
+            Formatos curtos, vídeos, textos e respostas que dá para aplicar.
+          </p>
+
+          <div class="grid">
+            <section class="card">
+              <h2>Palestras</h2>
+              <p>Vídeos, Shorts, análises públicas — o que já está pronto para ser mostrado.</p>
+              <a id="goTalks" href="#">Abrir →</a>
+            </section>
+
+            <section class="card">
+              <h2>Publicações</h2>
+              <p>Textos que saíram do laboratório e viraram mensagem.</p>
+              <a id="goPosts" href="#">Abrir →</a>
+            </section>
+          </div>
+
+          <div class="seal">
+            <img id="sealImg" src="#" alt="Ashraellen symbol">
+            <span>— mark of presence</span>
+          </div>
+        </div>
+      </main>
+
     </div>
   </div>
+
+  <script>
+  (function(){
+    const base = window.__BASE__ || '/';
+
+    document.getElementById('toEntry').href    = base + 'pt/';
+    document.getElementById('toResearch').href = base + 'pt/research/';
+
+    document.getElementById('goTalks').href = base + 'pt/public/talks/';
+    document.getElementById('goPosts').href = base + 'pt/public/posts/';
+
+    document.getElementById('sealImg').src = base + 'assets/symbol.png';
+  })();
+  </script>
 </body>
 </html>
