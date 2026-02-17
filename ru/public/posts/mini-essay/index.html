@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Ashraellen — Мини-эссе</title>
+
+  <script>
+  (function(){
+    const isGitHub = location.hostname.endsWith('github.io');
+    const repo = location.pathname.split('/').filter(Boolean)[0];
+    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
+  })();
+  </script>
+
+  <link rel="stylesheet" href="../../../../assets/mini-essay.css">
+</head>
+<body>
+  <div class="wrap">
+    <div class="page">
+
+      <header class="site-header">
+        <p class="brand">Ashraellen</p>
+        <div class="menu">
+          <a id="toEntry" href="#">Вход</a> |
+          <a id="toPublic" href="#">Публичное</a> |
+          <a id="toResearch" href="#">Исследование</a>
+        </div>
+      </header>
+
+      <main class="main">
+        <div class="container">
+
+          <h1 class="h1">Мини-эссе</h1>
+
+          <p class="lead">
+            Небольшие разборы: один вопрос, один угол зрения, один вывод.
+            Без театра — но с ясностью. Это тексты, где мысль не кричит, а работает.
+          </p>
+
+          <section class="list">
+            <div class="list-header">
+              <h2>Список</h2>
+              <p class="note"><a id="toPosts" href="#" title="Назад к оглавлению">к оглавлению</a></p>
+            </div>
+
+            <ul class="items">
+              <li class="item">
+                <div>
+                  <a href="#" title="Скоро">Публикация 003 — Мини-эссе (скоро)</a>
+                  <div class="meta">Заглушка под будущий текст. Потом добавим страницу 003 и короткую аннотацию по факту.</div>
+                </div>
+                <span class="badge">essay</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a href="#" title="Скоро">Публикация 007 — Мини-эссе (скоро)</a>
+                  <div class="meta">Нумерация общая для всех языков. Здесь живут только мини-эссе.</div>
+                </div>
+                <span class="badge">essay</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a href="#" title="Скоро">Публикация 015 — Мини-эссе (скоро)</a>
+                  <div class="meta">Ещё одна заготовка. Когда появятся материалы — добавляем строки, не меняя структуру.</div>
+                </div>
+                <span class="badge">essay</span>
+              </li>
+            </ul>
+          </section>
+
+          <div class="seal">
+            <img id="sealImg" src="#" alt="Ashraellen symbol">
+            <span>— mark of presence</span>
+          </div>
+
+        </div>
+      </main>
+
+    </div>
+  </div>
+
+  <script>
+  (function(){
+    const base = window.__BASE__ || '/';
+
+    document.getElementById('toEntry').href    = base + 'ru/';
+    document.getElementById('toPublic').href   = base + 'ru/public/';
+    document.getElementById('toResearch').href = base + 'ru/research/';
+
+    document.getElementById('toPosts').href = base + 'ru/public/posts/';
+
+    document.getElementById('sealImg').src = base + 'assets/symbol.png';
+  })();
+  </script>
+</body>
+</html>
