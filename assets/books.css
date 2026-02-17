@@ -28,21 +28,22 @@ a:hover{text-decoration:underline}
   flex-direction:column;
 }
 
-/* Background */
+/* === DEFAULT BACKGROUND === */
 .page::before{
   content:"";
   position:absolute;
   inset:0;
-  background: url("backgrounds/books-bg.jpg") center/cover no-repeat;
-  filter: brightness(0.82) contrast(1.05) saturate(0.95);
+  background: center/cover no-repeat;
+  filter: brightness(0.80) contrast(1.06) saturate(0.92);
   transform: scale(1.02);
   z-index:0;
   will-change: transform;
 }
 
+/* Drift animation */
 @keyframes booksDrift{
   0%   { transform: scale(1.02) translate3d(0,0,0); }
-  100% { transform: scale(1.04) translate3d(-0.3%, -0.2%, 0); }
+  100% { transform: scale(1.042) translate3d(-0.4%, -0.25%, 0); }
 }
 
 .page::before{
@@ -60,15 +61,27 @@ a:hover{text-decoration:underline}
   inset:0;
   background:
     linear-gradient(90deg,
-      rgba(11,11,13,0.94) 0%,
-      rgba(11,11,13,0.78) 30%,
-      rgba(11,11,13,0.50) 60%,
-      rgba(11,11,13,0.18) 85%,
-      rgba(11,11,13,0.05) 100%),
+      rgba(11,11,13,0.92) 0%,
+      rgba(11,11,13,0.74) 30%,
+      rgba(11,11,13,0.46) 58%,
+      rgba(11,11,13,0.18) 82%,
+      rgba(11,11,13,0.06) 100%),
     radial-gradient(70% 80% at 62% 45%,
       var(--warm) 0%,
       rgba(210,150,80,0.00) 70%);
   z-index:1;
+}
+
+/* === SPECIFIC BOOK BACKGROUNDS === */
+
+/* Ты уже в сети */
+.page.book-online::before{
+  background-image: url("backgrounds/online-bg.jpg");
+}
+
+/* Книга Нытия */
+.page.book-whinesis::before{
+  background-image: url("backgrounds/whinesis-bg.jpg");
 }
 
 /* Header */
@@ -97,14 +110,9 @@ a:hover{text-decoration:underline}
   color:var(--muted);
   margin:0 10px;
 }
-
 .site-header .menu a:hover{
   color:var(--fg);
   text-decoration:none;
-}
-
-.site-header .menu a[aria-current="page"]{
-  color:var(--fg);
 }
 
 /* Main */
@@ -123,30 +131,31 @@ a:hover{text-decoration:underline}
 }
 
 .h1{
-  margin:0 0 14px;
-  font-size:24px;
-  font-weight:600;
+  margin:0 0 10px;
+  font-size:28px;
+  font-weight:800;
+  letter-spacing:0.02em;
 }
 
 .lead{
-  margin:0 0 20px;
+  margin:0 0 16px;
   line-height:1.75;
   color:var(--muted);
   max-width:78ch;
 }
 
-/* List */
+/* List blocks */
 .list{
   margin-top:14px;
   border:1px solid rgba(242,242,244,0.14);
   border-radius:18px;
-  background: rgba(0,0,0,0.14);
-  backdrop-filter: blur(3px);
+  background: rgba(0,0,0,0.18);
+  backdrop-filter: blur(4px);
   overflow:hidden;
 }
 
 .list-header{
-  padding:14px 18px;
+  padding:14px 16px;
   border-bottom:1px solid rgba(242,242,244,0.10);
   display:flex;
   align-items:baseline;
@@ -156,8 +165,8 @@ a:hover{text-decoration:underline}
 
 .list-header h2{
   margin:0;
-  font-size:17px;
-  font-weight:600;
+  font-size:16px;
+  font-weight:700;
 }
 
 .list-header .note{
@@ -172,80 +181,105 @@ a:hover{text-decoration:underline}
   padding:0;
 }
 
-/* Item layout */
 .item{
-  padding:16px 18px;
-  border-top:1px solid rgba(242,242,244,0.08);
-
+  padding:18px 18px;
   display:grid;
-  grid-template-columns: 96px 1fr auto;
+  grid-template-columns: 1fr auto;
   gap:18px;
-  align-items:start;
+  border-top:1px solid rgba(242,242,244,0.08);
 }
+.item:first-child{ border-top:none; }
 
-.item:first-child{
-  border-top:none;
-}
-
-/* Thumbnail */
+/* Thumbnails (фиксированный размер) */
 .thumb{
-  width:96px;
+  width:110px;
+  height:110px;
+  border-radius:14px;
+  overflow:hidden;
   flex-shrink:0;
 }
 
 .thumb img{
-  width:96px;
-  aspect-ratio: 3 / 4;
+  width:100%;
+  height:100%;
   object-fit:cover;
   display:block;
-
-  border-radius:14px;
-  border:1px solid rgba(242,242,244,0.16);
-  background: rgba(255,255,255,0.04);
-  transition: transform .25s ease, border-color .25s ease;
 }
 
-.thumb a:hover img{
-  transform: scale(1.03);
-  border-color: rgba(242,242,244,0.28);
-}
-
-/* Body */
-.body{
-  min-width:0;
-}
-
-/* BOOK TITLE — УВЕЛИЧЕНО */
+/* Title inside list */
 .item a{
-  display:block;
-  font-size:18px;
-  font-weight:700;
-  line-height:1.35;
-  letter-spacing:0.01em;
-  margin-bottom:4px;
+  font-size:20px;
+  font-weight:800;
+  line-height:1.3;
 }
 
 .item .meta{
-  margin-top:6px;
+  margin-top:8px;
   font-size:13px;
   color:var(--muted);
-  line-height:1.5;
+  line-height:1.6;
+  max-width:70ch;
 }
 
 /* Badge */
 .badge{
   font-size:12px;
   color:var(--muted);
-  border:1px solid rgba(242,242,244,0.16);
+  border:1px solid rgba(242,242,244,0.14);
   border-radius:999px;
-  padding:6px 10px;
+  padding:6px 12px;
   white-space:nowrap;
-  background: rgba(255,255,255,0.04);
+  background: rgba(255,255,255,0.03);
+  align-self:start;
 }
 
 .badge.warm{
-  border-color: rgba(210,150,80,0.30);
-  background: rgba(210,150,80,0.08);
+  border-color: rgba(210,150,80,0.22);
+  background: rgba(210,150,80,0.06);
+}
+
+/* Buttons */
+.btn{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  padding:12px 18px;
+  border-radius:14px;
+  border:1px solid rgba(242,242,244,0.18);
+  background: rgba(0,0,0,0.22);
+  backdrop-filter: blur(3px);
+  font-size:14px;
+  font-weight:800;
+  text-decoration:none;
+  cursor:pointer;
+  user-select:none;
+  transition: transform 140ms ease,
+              background 140ms ease,
+              border-color 140ms ease,
+              opacity 140ms ease;
+  opacity:0.95;
+}
+
+.btn:hover{
+  background: rgba(255,255,255,0.08);
+  border-color: rgba(242,242,244,0.34);
+  transform: translateY(-1px);
+  opacity:1;
+  text-decoration:none;
+}
+
+.btn.secondary{
+  font-weight:600;
+  border-color: rgba(242,242,244,0.14);
+  background: rgba(0,0,0,0.16);
+  opacity:0.9;
+}
+
+.cta-row{
+  display:flex;
+  gap:12px;
+  flex-wrap:wrap;
+  margin-top:14px;
 }
 
 /* Seal */
@@ -253,7 +287,7 @@ a:hover{text-decoration:underline}
   display:flex;
   align-items:center;
   gap:10px;
-  margin-top:22px;
+  margin-top:24px;
   color:var(--muted);
   font-size:12px;
 }
@@ -264,29 +298,22 @@ a:hover{text-decoration:underline}
   opacity:0.75;
 }
 
-/* Responsive */
+/* Mobile */
 @media (max-width: 900px){
-
   .site-header{ padding:16px 22px 0; }
   .main{ align-items:flex-start; }
   .container{ padding:22px 22px 44px; }
 
   .item{
     grid-template-columns: 1fr;
-    gap:14px;
   }
 
   .thumb{
     width:100%;
-    max-width:220px;
+    height:180px;
   }
 
-  .thumb img{
-    width:100%;
-    aspect-ratio: 3 / 4;
-  }
-
-  .badge{
-    justify-self:start;
+  .item a{
+    font-size:22px;
   }
 }
