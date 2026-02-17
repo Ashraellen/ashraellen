@@ -23,12 +23,16 @@
         <div class="brand">Ashraellen</div>
 
         <p class="one">
-          Два режима присутствия: <br>один наблюдает, <br>другой говорит.
+          Три направления присутствия: <br>
+          одно наблюдает, <br>
+          другое говорит, <br>
+          третье становится книгой.
         </p>
 
         <div class="actions">
           <a id="goResearch" href="#">Исследование</a>
           <a id="goPublic" href="#">Публичное</a>
+          <a id="goBooks" href="#">Книги</a>
         </div>
 
         <div class="langs">
@@ -55,8 +59,10 @@
     const base = window.__BASE__ || '/';
     document.getElementById('goResearch').href = base + 'ru/research/';
     document.getElementById('goPublic').href   = base + 'ru/public/';
+    document.getElementById('goBooks').href    = base + 'ru/books/';
     document.getElementById('sealImg').src     = base + 'assets/symbol.png';
   })();
   </script>
 </body>
 </html>
+
