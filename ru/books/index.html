@@ -13,7 +13,7 @@
   })();
   </script>
 
-  <link rel="stylesheet" href="../../assets/books.css">
+  <link rel="stylesheet" href="../../assets/books.css?v=20260217">
 </head>
 <body>
   <div class="wrap">
@@ -98,28 +98,23 @@
   (function(){
     const base = window.__BASE__ || '/';
 
-    // menu
     document.getElementById('toEntry').href    = base + 'ru/';
     document.getElementById('toPublic').href   = base + 'ru/public/';
     document.getElementById('toBooks').href    = base + 'ru/books/';
     document.getElementById('toResearch').href = base + 'ru/research/';
 
-    // books
     const onlineHref   = base + 'ru/books/you-are-already-online/';
     const whinesisHref = base + 'ru/books/the-book-of-whinesis/';
 
-    document.getElementById('bookOnline').href   = onlineHref;
+    document.getElementById('bookOnline').href = onlineHref;
     document.getElementById('bookWhinesis').href = whinesisHref;
 
-    // thumb links (clicking the image opens the same page)
-    document.getElementById('thumbLinkOnline').href   = onlineHref;
+    document.getElementById('thumbLinkOnline').href = onlineHref;
     document.getElementById('thumbLinkWhinesis').href = whinesisHref;
 
-    // thumbs
     document.getElementById('thumbOnline').src   = base + 'assets/covers/online-thumb.jpg';
     document.getElementById('thumbWhinesis').src = base + 'assets/covers/whinesis-thumb.jpg';
 
-    // seal
     document.getElementById('sealImg').src = base + 'assets/symbol.png';
   })();
   </script>
