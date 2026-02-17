@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Ashraellen — Mini-eseje</title>
+
+  <script>
+  (function(){
+    const isGitHub = location.hostname.endsWith('github.io');
+    const repo = location.pathname.split('/').filter(Boolean)[0];
+    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
+  })();
+  </script>
+
+  <link rel="stylesheet" href="../../../../assets/mini-essay.css">
+</head>
+<body>
+  <div class="wrap">
+    <div class="page">
+      <header class="site-header">
+        <p class="brand">Ashraellen</p>
+        <div class="menu">
+          <a id="toEntry" href="#">Wejście</a> |
+          <a id="toPublic" href="#">Publiczne</a> |
+          <a id="toResearch" href="#">Badania</a>
+        </div>
+      </header>
+
+      <main class="main">
+        <div class="container">
+          <h1 class="h1">Mini-eseje</h1>
+
+          <p class="lead">
+            Krótkie analizy: jedno pytanie, jeden punkt widzenia, jeden wniosek.
+            Bez teatru — z jasnością.
+          </p>
+
+          <section class="list">
+            <div class="list-header">
+              <h2>Lista</h2>
+              <p class="note"><a id="toPosts" href="#">powrót do spisu</a></p>
+            </div>
+
+            <ul class="items">
+              <li class="item">
+                <div>
+                  <a href="#">Publikacja 003 — Mini-esej (wkrótce)</a>
+                  <div class="meta">Miejsce na przyszły tekst.</div>
+                </div>
+                <span class="badge">essay</span>
+              </li>
+            </ul>
+          </section>
+
+          <div class="seal">
+            <img id="sealImg" src="#" alt="symbol">
+            <span>— mark of presence</span>
+          </div>
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <script>
+  (function(){
+    const base = window.__BASE__ || '/';
+    document.getElementById('toEntry').href    = base + 'pl/';
+    document.getElementById('toPublic').href   = base + 'pl/public/';
+    document.getElementById('toResearch').href = base + 'pl/research/';
+    document.getElementById('toPosts').href    = base + 'pl/public/posts/';
+    document.getElementById('sealImg').src     = base + 'assets/symbol.png';
+  })();
+  </script>
+</body>
+</html>
