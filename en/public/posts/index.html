@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Ashraellen — Posts</title>
+
+  <script>
+  (function(){
+    const isGitHub = location.hostname.endsWith('github.io');
+    const repo = location.pathname.split('/').filter(Boolean)[0];
+    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
+  })();
+  </script>
+
+  <link rel="stylesheet" href="../../../assets/posts.css">
+</head>
+<body>
+  <div class="wrap">
+    <div class="page">
+
+      <header class="site-header">
+        <p class="brand">Ashraellen</p>
+        <div class="menu">
+          <a id="toEntry" href="#">Entry</a> |
+          <a id="toPublic" href="#">Public</a> |
+          <a id="toResearch" href="#">Research</a>
+        </div>
+      </header>
+
+      <main class="main">
+        <div class="container">
+
+          <h1 class="h1">Posts</h1>
+
+          <p class="lead">
+            Here you will find concise formulas, fragments, mini-essays, and links outward.
+            Different times — different forms. One intention: speak clearly.
+          </p>
+
+          <section class="list">
+            <div class="list-header">
+              <h2>List</h2>
+              <p class="note">this section grows</p>
+            </div>
+
+            <ul class="items">
+              <li class="item">
+                <div>
+                  <a href="#" title="Soon">Post 001 — Formula (soon)</a>
+                  <div class="meta">A compact formulation: one thought, one strike, no filler.</div>
+                </div>
+                <span class="badge">formula</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a href="#" title="Soon">Post 002 — Fragment (soon)</a>
+                  <div class="meta">An excerpt from a larger text, to feel the tone and direction.</div>
+                </div>
+                <span class="badge">fragment</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a href="#" title="Soon">Post 003 — Mini-essay (soon)</a>
+                  <div class="meta">A short unpacking: question, angle, conclusion — calm, precise.</div>
+                </div>
+                <span class="badge">essay</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a href="#" title="Soon">Post 004 — External link (soon)</a>
+                  <div class="meta">Material outside the site: an article, video, document, or source worth keeping.</div>
+                </div>
+                <span class="badge">link</span>
+              </li>
+            </ul>
+          </section>
+
+          <div class="seal">
+            <img id="sealImg" src="#" alt="Ashraellen symbol">
+            <span>— mark of presence</span>
+          </div>
+
+        </div>
+      </main>
+
+    </div>
+  </div>
+
+  <script>
+  (function(){
+    const base = window.__BASE__ || '/';
+
+    document.getElementById('toEntry').href    = base + 'en/';
+    document.getElementById('toPublic').href   = base + 'en/public/';
+    document.getElementById('toResearch').href = base + 'en/research/';
+
+    document.getElementById('sealImg').src = base + 'assets/symbol.png';
+  })();
+  </script>
+</body>
+</html>
