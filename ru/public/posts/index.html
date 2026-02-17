@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Ashraellen — Публикации</title>
+
+  <script>
+  (function(){
+    const isGitHub = location.hostname.endsWith('github.io');
+    const repo = location.pathname.split('/').filter(Boolean)[0];
+    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
+  })();
+  </script>
+
+  <link rel="stylesheet" href="../../../assets/posts.css">
+</head>
+<body>
+  <div class="wrap">
+    <div class="page">
+
+      <header class="site-header">
+        <p class="brand">Ashraellen</p>
+        <div class="menu">
+          <a id="toEntry" href="#">Вход</a> |
+          <a id="toPublic" href="#">Публичное</a> |
+          <a id="toResearch" href="#">Исследование</a>
+        </div>
+      </header>
+
+      <main class="main">
+        <div class="container">
+
+          <h1 class="h1">Публикации</h1>
+
+          <p class="lead">
+            Здесь собраны короткие формулы, фрагменты, мини-эссе и ссылки наружу.
+            В разное время — разная форма. Но смысл один: говорить ясно.
+          </p>
+
+          <section class="list">
+            <div class="list-header">
+              <h2>Список</h2>
+              <p class="note">раздел пополняется</p>
+            </div>
+
+            <ul class="items">
+              <li class="item">
+                <div>
+                  <a href="#" title="Скоро">Публикация 001 — Формула (скоро)</a>
+                  <div class="meta">Лаконичная формулировка: одна мысль, один удар, без воды.</div>
+                </div>
+                <span class="badge">formula</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a href="#" title="Скоро">Публикация 002 — Фрагмент (скоро)</a>
+                  <div class="meta">Отрывок из большего текста: чтобы почувствовать тон и направление.</div>
+                </div>
+                <span class="badge">fragment</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a href="#" title="Скоро">Публикация 003 — Мини-эссе (скоро)</a>
+                  <div class="meta">Небольшой разбор: вопрос, угол зрения, вывод — без театра, но точно.</div>
+                </div>
+                <span class="badge">essay</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a href="#" title="Скоро">Публикация 004 — Внешняя ссылка (скоро)</a>
+                  <div class="meta">Материал вне сайта: статья, видео, документ или источник, на который стоит опереться.</div>
+                </div>
+                <span class="badge">link</span>
+              </li>
+            </ul>
+          </section>
+
+          <div class="seal">
+            <img id="sealImg" src="#" alt="Ashraellen symbol">
+            <span>— mark of presence</span>
+          </div>
+
+        </div>
+      </main>
+
+    </div>
+  </div>
+
+  <script>
+  (function(){
+    const base = window.__BASE__ || '/';
+
+    document.getElementById('toEntry').href    = base + 'ru/';
+    document.getElementById('toPublic').href   = base + 'ru/public/';
+    document.getElementById('toResearch').href = base + 'ru/research/';
+
+    document.getElementById('sealImg').src = base + 'assets/symbol.png';
+  })();
+  </script>
+</body>
+</html>
