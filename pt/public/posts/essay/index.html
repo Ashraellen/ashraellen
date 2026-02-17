@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="pt">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Ashraellen — Mini-Ensaios</title>
+
+  <script>
+  (function(){
+    const isGitHub = location.hostname.endsWith('github.io');
+    const repo = location.pathname.split('/').filter(Boolean)[0];
+    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
+  })();
+  </script>
+
+  <link rel="stylesheet" href="../../../../assets/mini-essay.css">
+</head>
+<body>
+  <div class="wrap">
+    <div class="page">
+      <header class="site-header">
+        <p class="brand">Ashraellen</p>
+        <div class="menu">
+          <a id="toEntry" href="#">Entrada</a> |
+          <a id="toPublic" href="#">Público</a> |
+          <a id="toResearch" href="#">Pesquisa</a>
+        </div>
+      </header>
+
+      <main class="main">
+        <div class="container">
+          <h1 class="h1">Mini-Ensaios</h1>
+
+          <p class="lead">
+            Textos curtos de reflexão: uma pergunta, um ângulo, uma conclusão.
+            Sem teatro — apenas clareza.
+          </p>
+
+          <section class="list">
+            <div class="list-header">
+              <h2>Lista</h2>
+              <p class="note"><a id="toPosts" href="#">voltar ao índice</a></p>
+            </div>
+
+            <ul class="items">
+              <li class="item">
+                <div>
+                  <a href="#">Publicação 003 — Mini-Ensaio (em breve)</a>
+                  <div class="meta">Espaço reservado para texto futuro.</div>
+                </div>
+                <span class="badge">essay</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a href="#">Publicação 007 — Mini-Ensaio (em breve)</a>
+                  <div class="meta">A numeração é comum a todos os idiomas.</div>
+                </div>
+                <span class="badge">essay</span>
+              </li>
+            </ul>
+          </section>
+
+          <div class="seal">
+            <img id="sealImg" src="#" alt="symbol">
+            <span>— mark of presence</span>
+          </div>
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <script>
+  (function(){
+    const base = window.__BASE__ || '/';
+    document.getElementById('toEntry').href    = base + 'pt/';
+    document.getElementById('toPublic').href   = base + 'pt/public/';
+    document.getElementById('toResearch').href = base + 'pt/research/';
+    document.getElementById('toPosts').href    = base + 'pt/public/posts/';
+    document.getElementById('sealImg').src     = base + 'assets/symbol.png';
+  })();
+  </script>
+</body>
+</html>
