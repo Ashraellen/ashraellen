@@ -190,7 +190,7 @@ a:hover{text-decoration:underline}
 }
 .item:first-child{ border-top:none; }
 
-/* Thumbnails (фиксированный размер) */
+/* Thumbnails */
 .thumb{
   width:110px;
   height:110px;
@@ -238,6 +238,12 @@ a:hover{text-decoration:underline}
   background: rgba(210,150,80,0.06);
 }
 
+/* ==== BUTTON NORMALIZE (critical) ==== */
+button.btn{
+  font-family: inherit;
+  background: none;
+}
+
 /* Buttons */
 .btn{
   display:inline-flex;
@@ -258,6 +264,14 @@ a:hover{text-decoration:underline}
               border-color 140ms ease,
               opacity 140ms ease;
   opacity:0.95;
+
+  /* ✅ FIX: force visible text on BOTH <a> and <button> */
+  color: var(--fg) !important;
+
+  /* ✅ FIX: prevent browser default styles */
+  appearance:none;
+  -webkit-appearance:none;
+  outline:none;
 }
 
 .btn:hover{
@@ -266,13 +280,23 @@ a:hover{text-decoration:underline}
   transform: translateY(-1px);
   opacity:1;
   text-decoration:none;
+  color: var(--fg) !important;
+}
+
+.btn:active{
+  transform: translateY(0px) scale(0.99);
+}
+
+.btn:focus-visible{
+  box-shadow: 0 0 0 2px rgba(242,242,244,0.18), 0 0 0 6px rgba(242,242,244,0.08);
 }
 
 .btn.secondary{
-  font-weight:600;
+  font-weight:700;
   border-color: rgba(242,242,244,0.14);
   background: rgba(0,0,0,0.16);
-  opacity:0.9;
+  opacity:0.95;
+  color: var(--fg) !important;
 }
 
 .cta-row{
