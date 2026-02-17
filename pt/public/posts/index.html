@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="pt">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Ashraellen — Publicações</title>
+
+  <script>
+  (function(){
+    const isGitHub = location.hostname.endsWith('github.io');
+    const repo = location.pathname.split('/').filter(Boolean)[0];
+    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
+  })();
+  </script>
+
+  <link rel="stylesheet" href="../../../assets/posts.css">
+</head>
+<body>
+  <div class="wrap">
+    <div class="page">
+
+      <header class="site-header">
+        <p class="brand">Ashraellen</p>
+        <div class="menu">
+          <a id="toEntry" href="#">Entrada</a> |
+          <a id="toPublic" href="#">Público</a> |
+          <a id="toResearch" href="#">Pesquisa</a>
+        </div>
+      </header>
+
+      <main class="main">
+        <div class="container">
+
+          <h1 class="h1">Publicações</h1>
+
+          <p class="lead">
+            Isto é o índice. As publicações vivem em seções: fórmulas, fragmentos, mini-ensaios e fontes.
+            Com o tempo, as listas vão crescer — mas a navegação continuará simples.
+          </p>
+
+          <section class="list">
+            <div class="list-header">
+              <h2>Seções</h2>
+              <p class="note">escolha o formato</p>
+            </div>
+
+            <ul class="items">
+              <li class="item">
+                <div>
+                  <a id="toFormula" href="#" title="Abrir">Fórmulas</a>
+                  <div class="meta">Formulações concisas: uma ideia — um golpe preciso.</div>
+                </div>
+                <span class="badge">formula</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a id="toFragment" href="#" title="Abrir">Fragmentos</a>
+                  <div class="meta">Trechos de textos maiores: para sentir o tom e a direção.</div>
+                </div>
+                <span class="badge">fragment</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a id="toEssay" href="#" title="Abrir">Mini-ensaios</a>
+                  <div class="meta">Pequenas análises: pergunta, ângulo, conclusão — calmo e preciso.</div>
+                </div>
+                <span class="badge">essay</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a id="toSources" href="#" title="Abrir">Fontes</a>
+                  <div class="meta">Materiais fora do site: artigos, vídeos, documentos e links de apoio.</div>
+                </div>
+                <span class="badge">sources</span>
+              </li>
+            </ul>
+          </section>
+
+          <div class="seal">
+            <img id="sealImg" src="#" alt="Ashraellen symbol">
+            <span>— mark of presence</span>
+          </div>
+
+        </div>
+      </main>
+
+    </div>
+  </div>
+
+  <script>
+  (function(){
+    const base = window.__BASE__ || '/';
+
+    document.getElementById('toEntry').href    = base + 'pt/';
+    document.getElementById('toPublic').href   = base + 'pt/public/';
+    document.getElementById('toResearch').href = base + 'pt/research/';
+
+    document.getElementById('toFormula').href  = base + 'pt/public/posts/formula/';
+    document.getElementById('toFragment').href = base + 'pt/public/posts/fragment/';
+    document.getElementById('toEssay').href    = base + 'pt/public/posts/essay/';
+    document.getElementById('toSources').href  = base + 'pt/public/posts/sources/';
+
+    document.getElementById('sealImg').src = base + 'assets/symbol.png';
+  })();
+  </script>
+</body>
+</html>
