@@ -81,7 +81,7 @@ a{color:var(--fg); text-decoration:none}
 .actions{
   display:flex;
   gap:14px;
-  flex-wrap:nowrap;
+  flex-wrap:nowrap;         /* ✅ no wrapping on desktop */
   align-items:stretch;
 }
 
@@ -90,8 +90,8 @@ a{color:var(--fg); text-decoration:none}
   align-items:center;
   justify-content:center;
 
-  flex:1 1 0;
-  min-width:150px;
+  flex:1 1 0;               /* ✅ all buttons equal width */
+  min-width:150px;          /* ✅ prevents too narrow buttons */
   height:44px;
 
   border:1px solid rgba(242,242,244,0.18);
@@ -108,3 +108,98 @@ a{color:var(--fg); text-decoration:none}
 }
 
 .actions a:hover{
+  background: rgba(255,255,255,0.08);
+  border-color: rgba(242,242,244,0.34);
+  transform: translateY(-2px);
+  text-decoration:none;
+  opacity:1;
+}
+
+.actions a:active{
+  transform: translateY(0px);
+}
+
+/* Languages */
+.langs{
+  margin-top:24px;
+  display:flex;
+  gap:10px;
+  flex-wrap:wrap;
+}
+
+.langs a{
+  font-size:13px;
+  color:var(--muted);
+  transition: color 140ms ease, opacity 140ms ease;
+}
+
+.langs a:hover{
+  color:var(--fg);
+  opacity:1;
+  text-decoration:none;
+}
+
+/* Seal */
+.seal{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  margin-top:30px;
+  color:var(--muted);
+  font-size:12px;
+}
+
+.seal img{
+  height:22px;
+  width:auto;
+  opacity:0.75;
+}
+
+/* Mobile: stack buttons (FIXED) */
+@media (max-width: 700px){
+  .entry{ padding:38px 22px; }
+
+  .actions{
+    flex-direction:column;  /* ✅ one under another */
+    gap:12px;
+  }
+
+  /* Главное: делаем кнопки "кнопками" */
+  .actions a{
+    width:100%;
+    min-width:0;
+
+    height:auto;            /* вместо фиксированных 44px */
+    padding:16px 18px;      /* нормальная высота пальцем */
+    font-size:16px;
+    font-weight:700;
+
+    border-radius:14px;
+    border:1px solid rgba(242,242,244,0.28);
+    background: rgba(0,0,0,0.34);
+    backdrop-filter: blur(8px);
+
+    opacity:1;
+    transform:none;         /* убираем сдвиги на мобиле */
+  }
+
+  .actions a:hover{
+    background: rgba(0,0,0,0.40);
+    border-color: rgba(242,242,244,0.34);
+    transform:none;
+  }
+
+  .actions a:active{
+    background: rgba(0,0,0,0.46);
+    transform: scale(0.985);
+  }
+
+  .entry::after{
+    background: linear-gradient(180deg,
+      rgba(11,11,13,0.92) 0%,
+      rgba(11,11,13,0.60) 45%,
+      rgba(11,11,13,0.20) 75%,
+      rgba(11,11,13,0.05) 100%);
+  }
+}
+
