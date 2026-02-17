@@ -34,47 +34,47 @@
           <h1 class="h1">Публикации</h1>
 
           <p class="lead">
-            Здесь собраны короткие формулы, фрагменты, мини-эссе и ссылки наружу.
-            В разное время — разная форма. Но смысл один: говорить ясно.
+            Здесь — оглавление. Публикации живут в разделах: формулы, фрагменты, мини-эссе и источники.
+            Со временем список будет расти — но навигация останется простой.
           </p>
 
           <section class="list">
             <div class="list-header">
-              <h2>Список</h2>
-              <p class="note">раздел пополняется</p>
+              <h2>Разделы</h2>
+              <p class="note">выберите формат</p>
             </div>
 
             <ul class="items">
               <li class="item">
                 <div>
-                  <a href="#" title="Скоро">Публикация 001 — Формула (скоро)</a>
-                  <div class="meta">Лаконичная формулировка: одна мысль, один удар, без воды.</div>
+                  <a id="toFormula" href="#" title="Перейти">Формулы</a>
+                  <div class="meta">Лаконичные формулировки: одна мысль — один точный удар.</div>
                 </div>
                 <span class="badge">formula</span>
               </li>
 
               <li class="item">
                 <div>
-                  <a href="#" title="Скоро">Публикация 002 — Фрагмент (скоро)</a>
-                  <div class="meta">Отрывок из большего текста: чтобы почувствовать тон и направление.</div>
+                  <a id="toFragment" href="#" title="Перейти">Фрагменты</a>
+                  <div class="meta">Отрывки из больших текстов: чтобы почувствовать тон и направление.</div>
                 </div>
                 <span class="badge">fragment</span>
               </li>
 
               <li class="item">
                 <div>
-                  <a href="#" title="Скоро">Публикация 003 — Мини-эссе (скоро)</a>
-                  <div class="meta">Небольшой разбор: вопрос, угол зрения, вывод — без театра, но точно.</div>
+                  <a id="toEssay" href="#" title="Перейти">Мини-эссе</a>
+                  <div class="meta">Небольшие разборы: вопрос, угол зрения, вывод — без театра, но точно.</div>
                 </div>
                 <span class="badge">essay</span>
               </li>
 
               <li class="item">
                 <div>
-                  <a href="#" title="Скоро">Публикация 004 — Внешняя ссылка (скоро)</a>
-                  <div class="meta">Материал вне сайта: статья, видео, документ или источник, на который стоит опереться.</div>
+                  <a id="toSources" href="#" title="Перейти">Источники</a>
+                  <div class="meta">Материалы вне сайта: статьи, видео, документы и опорные ссылки.</div>
                 </div>
-                <span class="badge">link</span>
+                <span class="badge">sources</span>
               </li>
             </ul>
           </section>
@@ -98,8 +98,14 @@
     document.getElementById('toPublic').href   = base + 'ru/public/';
     document.getElementById('toResearch').href = base + 'ru/research/';
 
+    document.getElementById('toFormula').href  = base + 'ru/public/posts/formula/';
+    document.getElementById('toFragment').href = base + 'ru/public/posts/fragment/';
+    document.getElementById('toEssay').href    = base + 'ru/public/posts/essay/';
+    document.getElementById('toSources').href  = base + 'ru/public/posts/sources/';
+
     document.getElementById('sealImg').src = base + 'assets/symbol.png';
   })();
   </script>
 </body>
 </html>
+
