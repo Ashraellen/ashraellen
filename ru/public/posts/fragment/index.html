@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Ashraellen — Фрагменты</title>
+
+  <script>
+  (function(){
+    const isGitHub = location.hostname.endsWith('github.io');
+    const repo = location.pathname.split('/').filter(Boolean)[0];
+    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
+  })();
+  </script>
+
+  <link rel="stylesheet" href="../../../../assets/fragment.css">
+</head>
+<body>
+  <div class="wrap">
+    <div class="page">
+
+      <header class="site-header">
+        <p class="brand">Ashraellen</p>
+        <div class="menu">
+          <a id="toEntry" href="#">Вход</a> |
+          <a id="toPublic" href="#">Публичное</a> |
+          <a id="toResearch" href="#">Исследование</a>
+        </div>
+      </header>
+
+      <main class="main">
+        <div class="container">
+
+          <h1 class="h1">Фрагменты</h1>
+
+          <p class="lead">
+            Отрывки из больших текстов: чтобы почувствовать тон, увидеть направление и понять,
+            “какой кусок пазла” здесь лежит. Иногда фрагмента достаточно, чтобы найти целое.
+          </p>
+
+          <section class="list">
+            <div class="list-header">
+              <h2>Список</h2>
+              <p class="note"><a id="toPosts" href="#" title="Назад к оглавлению">к оглавлению</a></p>
+            </div>
+
+            <ul class="items">
+              <li class="item">
+                <div>
+                  <a href="#" title="Скоро">Публикация 002 — Фрагмент (скоро)</a>
+                  <div class="meta">Заглушка под будущий фрагмент. Потом добавим ссылку на страницу 002 и реальный текст.</div>
+                </div>
+                <span class="badge">fragment</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a href="#" title="Скоро">Публикация 006 — Фрагмент (скоро)</a>
+                  <div class="meta">Нумерация общая для всех языков. Здесь будет только формат “фрагмент”.</div>
+                </div>
+                <span class="badge">fragment</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a href="#" title="Скоро">Публикация 014 — Фрагмент (скоро)</a>
+                  <div class="meta">Ещё одна заготовка. Когда появятся материалы — добавляем строки, не меняя структуру.</div>
+                </div>
+                <span class="badge">fragment</span>
+              </li>
+            </ul>
+          </section>
+
+          <div class="seal">
+            <img id="sealImg" src="#" alt="Ashraellen symbol">
+            <span>— mark of presence</span>
+          </div>
+
+        </div>
+      </main>
+
+    </div>
+  </div>
+
+  <script>
+  (function(){
+    const base = window.__BASE__ || '/';
+
+    document.getElementById('toEntry').href    = base + 'ru/';
+    document.getElementById('toPublic').href   = base + 'ru/public/';
+    document.getElementById('toResearch').href = base + 'ru/research/';
+
+    document.getElementById('toPosts').href = base + 'ru/public/posts/';
+
+    document.getElementById('sealImg').src = base + 'assets/symbol.png';
+  })();
+  </script>
+</body>
+</html>
