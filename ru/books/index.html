@@ -48,22 +48,36 @@
 
             <ul class="items">
               <li class="item">
-                <div>
+                <div class="thumb">
+                  <a id="thumbLinkOnline" href="#" aria-label="Открыть: Ты уже в сети">
+                    <img id="thumbOnline" src="#" alt="Ты уже в сети — миниатюра" loading="lazy">
+                  </a>
+                </div>
+
+                <div class="body">
                   <a id="bookOnline" href="#" title="Открыть страницу книги">Ты уже в сети</a>
                   <div class="meta">
                     Психологический техно-триллер о человеке, который замечает: реальность реагирует не на события, а на готовность их подтвердить.
                   </div>
                 </div>
+
                 <span class="badge">novel</span>
               </li>
 
               <li class="item">
-                <div>
+                <div class="thumb">
+                  <a id="thumbLinkWhinesis" href="#" aria-label="Открыть: Книга Нытия">
+                    <img id="thumbWhinesis" src="#" alt="Книга Нытия — миниатюра" loading="lazy">
+                  </a>
+                </div>
+
+                <div class="body">
                   <a id="bookWhinesis" href="#" title="Открыть страницу книги">Книга Нытия</a>
                   <div class="meta">
                     Священные тексты о человеческом выгорании и цифровом "спасении". Псевдобиблейская сатира о шуме, уведомлениях и внимании.
                   </div>
                 </div>
+
                 <span class="badge warm">whinesis</span>
               </li>
             </ul>
@@ -84,14 +98,28 @@
   (function(){
     const base = window.__BASE__ || '/';
 
+    // menu
     document.getElementById('toEntry').href    = base + 'ru/';
     document.getElementById('toPublic').href   = base + 'ru/public/';
     document.getElementById('toBooks').href    = base + 'ru/books/';
     document.getElementById('toResearch').href = base + 'ru/research/';
 
-    document.getElementById('bookOnline').href   = base + 'ru/books/you-are-already-online/';
-    document.getElementById('bookWhinesis').href = base + 'ru/books/the-book-of-whinesis/';
+    // books
+    const onlineHref   = base + 'ru/books/you-are-already-online/';
+    const whinesisHref = base + 'ru/books/the-book-of-whinesis/';
 
+    document.getElementById('bookOnline').href   = onlineHref;
+    document.getElementById('bookWhinesis').href = whinesisHref;
+
+    // thumb links (clicking the image opens the same page)
+    document.getElementById('thumbLinkOnline').href   = onlineHref;
+    document.getElementById('thumbLinkWhinesis').href = whinesisHref;
+
+    // thumbs
+    document.getElementById('thumbOnline').src   = base + 'assets/covers/online-thumb.jpg';
+    document.getElementById('thumbWhinesis').src = base + 'assets/covers/whinesis-thumb.jpg';
+
+    // seal
     document.getElementById('sealImg').src = base + 'assets/symbol.png';
   })();
   </script>
