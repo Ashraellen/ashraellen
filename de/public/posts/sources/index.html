@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Ashraellen — Quellen</title>
+
+  <script>
+  (function(){
+    const isGitHub = location.hostname.endsWith('github.io');
+    const repo = location.pathname.split('/').filter(Boolean)[0];
+    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
+  })();
+  </script>
+
+  <link rel="stylesheet" href="../../../../assets/sources.css">
+</head>
+<body>
+  <div class="wrap">
+    <div class="page">
+      <header class="site-header">
+        <p class="brand">Ashraellen</p>
+        <div class="menu">
+          <a id="toEntry" href="#">Einstieg</a> |
+          <a id="toPublic" href="#">Öffentlich</a> |
+          <a id="toResearch" href="#">Forschung</a>
+        </div>
+      </header>
+
+      <main class="main">
+        <div class="container">
+
+          <h1 class="h1">Quellen</h1>
+
+          <p class="lead">
+            Hier sind die Materialien, auf die ich mich stütze: Artikel, Bücher, Dokumente, Videos und Primärquellen.
+            Keine “externen Links”, sondern eine Karte von Ankerpunkten — woher das Licht kommt und worauf man stehen kann.
+          </p>
+
+          <section class="list">
+            <div class="list-header">
+              <h2>Liste</h2>
+              <p class="note"><a id="toPosts" href="#" title="Zurück zum Inhaltsverzeichnis">zurück zum Inhaltsverzeichnis</a></p>
+            </div>
+
+            <ul class="items">
+              <li class="item">
+                <div>
+                  <a href="#" title="Bald">Quelle 001 — Titel (bald)</a>
+                  <div class="meta">Hier wird ein Link mit kurzer Notiz stehen: warum es wichtig ist und welches Thema es stützt.</div>
+                </div>
+                <span class="badge warm">source</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a href="#" title="Bald">Quelle 002 — Titel (bald)</a>
+                  <div class="meta">Später fügen wir Themen/Tags hinzu, wenn die Liste wächst.</div>
+                </div>
+                <span class="badge warm">source</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a href="#" title="Bald">Quelle 003 — Titel (bald)</a>
+                  <div class="meta">Das kann zu einer Bibliografie oder kuratierten Linkliste werden — mit dem Wachstum des Projekts.</div>
+                </div>
+                <span class="badge warm">source</span>
+              </li>
+            </ul>
+          </section>
+
+          <div class="seal">
+            <img id="sealImg" src="#" alt="Ashraellen symbol">
+            <span>— mark of presence</span>
+          </div>
+
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <script>
+  (function(){
+    const base = window.__BASE__ || '/';
+    document.getElementById('toEntry').href    = base + 'de/';
+    document.getElementById('toPublic').href   = base + 'de/public/';
+    document.getElementById('toResearch').href = base + 'de/research/';
+    document.getElementById('toPosts').href    = base + 'de/public/posts/';
+    document.getElementById('sealImg').src     = base + 'assets/symbol.png';
+  })();
+  </script>
+</body>
+</html>
