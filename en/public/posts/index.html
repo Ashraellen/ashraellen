@@ -34,47 +34,47 @@
           <h1 class="h1">Posts</h1>
 
           <p class="lead">
-            Here you will find concise formulas, fragments, mini-essays, and links outward.
-            Different times — different forms. One intention: speak clearly.
+            This is the table of contents. The posts live in sections: formulas, fragments, mini-essays, and sources.
+            Over time, the lists will grow — but navigation will stay simple.
           </p>
 
           <section class="list">
             <div class="list-header">
-              <h2>List</h2>
-              <p class="note">this section grows</p>
+              <h2>Sections</h2>
+              <p class="note">choose a format</p>
             </div>
 
             <ul class="items">
               <li class="item">
                 <div>
-                  <a href="#" title="Soon">Post 001 — Formula (soon)</a>
-                  <div class="meta">A compact formulation: one thought, one strike, no filler.</div>
+                  <a id="toFormula" href="#" title="Open">Formulas</a>
+                  <div class="meta">Concise formulations: one thought — one precise strike.</div>
                 </div>
                 <span class="badge">formula</span>
               </li>
 
               <li class="item">
                 <div>
-                  <a href="#" title="Soon">Post 002 — Fragment (soon)</a>
-                  <div class="meta">An excerpt from a larger text, to feel the tone and direction.</div>
+                  <a id="toFragment" href="#" title="Open">Fragments</a>
+                  <div class="meta">Excerpts from larger texts: to feel the tone and direction.</div>
                 </div>
                 <span class="badge">fragment</span>
               </li>
 
               <li class="item">
                 <div>
-                  <a href="#" title="Soon">Post 003 — Mini-essay (soon)</a>
-                  <div class="meta">A short unpacking: question, angle, conclusion — calm, precise.</div>
+                  <a id="toEssay" href="#" title="Open">Mini-essays</a>
+                  <div class="meta">Short unpackings: question, angle, conclusion — calm, precise.</div>
                 </div>
                 <span class="badge">essay</span>
               </li>
 
               <li class="item">
                 <div>
-                  <a href="#" title="Soon">Post 004 — External link (soon)</a>
-                  <div class="meta">Material outside the site: an article, video, document, or source worth keeping.</div>
+                  <a id="toSources" href="#" title="Open">Sources</a>
+                  <div class="meta">Materials outside the site: articles, videos, documents, and anchor links.</div>
                 </div>
-                <span class="badge">link</span>
+                <span class="badge">sources</span>
               </li>
             </ul>
           </section>
@@ -97,6 +97,11 @@
     document.getElementById('toEntry').href    = base + 'en/';
     document.getElementById('toPublic').href   = base + 'en/public/';
     document.getElementById('toResearch').href = base + 'en/research/';
+
+    document.getElementById('toFormula').href  = base + 'en/public/posts/formula/';
+    document.getElementById('toFragment').href = base + 'en/public/posts/fragment/';
+    document.getElementById('toEssay').href    = base + 'en/public/posts/essay/';
+    document.getElementById('toSources').href  = base + 'en/public/posts/sources/';
 
     document.getElementById('sealImg').src = base + 'assets/symbol.png';
   })();
