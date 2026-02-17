@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Ashraellen — Книги</title>
+
+  <script>
+  (function(){
+    const isGitHub = location.hostname.endsWith('github.io');
+    const repo = location.pathname.split('/').filter(Boolean)[0];
+    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
+  })();
+  </script>
+
+  <link rel="stylesheet" href="../../assets/books.css">
+</head>
+<body>
+  <div class="wrap">
+    <div class="page">
+
+      <header class="site-header">
+        <p class="brand">Ashraellen</p>
+        <div class="menu">
+          <a id="toEntry" href="#">Вход</a> |
+          <a id="toPublic" href="#">Публичное</a> |
+          <a id="toBooks" href="#">Книги</a> |
+          <a id="toResearch" href="#">Исследование</a>
+        </div>
+      </header>
+
+      <main class="main">
+        <div class="container">
+
+          <h1 class="h1">Книги</h1>
+
+          <p class="lead">
+            Здесь собраны тексты, которые не уместились в пост и не стали выступлением.
+            Это законченные формы: романы, большие проекты и книги-опыты.
+            Их нельзя пролистать за минуту. Их нужно прожить.
+          </p>
+
+          <section class="list">
+            <div class="list-header">
+              <h2>Список</h2>
+              <p class="note">раздел пополняется</p>
+            </div>
+
+            <ul class="items">
+              <li class="item">
+                <div>
+                  <a id="bookOnline" href="#" title="Открыть страницу книги">Ты уже в сети</a>
+                  <div class="meta">
+                    Психологический техно-триллер о человеке, который замечает: реальность реагирует не на события, а на готовность их подтвердить.
+                  </div>
+                </div>
+                <span class="badge">novel</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a id="bookWhinesis" href="#" title="Открыть страницу книги">Книга Нытия</a>
+                  <div class="meta">
+                    Священные тексты о человеческом выгорании и цифровом “спасении”. Псевдобиблейская сатира о шуме, уведомлениях и внимании.
+                  </div>
+                </div>
+                <span class="badge warm">whinesis</span>
+              </li>
+            </ul>
+          </section>
+
+          <div class="seal">
+            <img id="sealImg" src="#" alt="Ashraellen symbol">
+            <span>— mark of presence</span>
+          </div>
+
+        </div>
+      </main>
+
+    </div>
+  </div>
+
+  <script>
+  (function(){
+    const base = window.__BASE__ || '/';
+
+    document.getElementById('toEntry').href    = base + 'ru/';
+    document.getElementById('toPublic').href   = base + 'ru/public/';
+    document.getElementById('toBooks').href    = base + 'ru/books/';
+    document.getElementById('toResearch').href = base + 'ru/research/';
+
+    document.getElementById('bookOnline').href   = base + 'ru/books/you-are-already-online/';
+    document.getElementById('bookWhinesis').href = base + 'ru/books/the-book-of-whinesis/';
+
+    document.getElementById('sealImg').src = base + 'assets/symbol.png';
+  })();
+  </script>
+</body>
+</html>
