@@ -58,17 +58,17 @@ a{color:var(--fg); text-decoration:none}
   max-width:560px;
 }
 
-/* 🔹 Brand larger */
+/* Brand */
 .brand{
   letter-spacing:0.22em;
   text-transform:uppercase;
-  font-size:22px;   /* УВЕЛИЧИЛ */
+  font-size:22px;
   font-weight:600;
   color:var(--fg);
   margin-bottom:18px;
 }
 
-/* 🔹 Subtitle kept */
+/* Subtitle */
 .one{
   margin:0 0 28px;
   line-height:1.6;
@@ -77,18 +77,21 @@ a{color:var(--fg); text-decoration:none}
   max-width:42ch;
 }
 
-/* Buttons */
+/* Buttons (desktop: one row, equal) */
 .actions{
   display:flex;
   gap:14px;
-  flex-wrap:wrap;
+  flex-wrap:nowrap;         /* ✅ no wrapping on desktop */
+  align-items:stretch;
 }
 
 .actions a{
   display:inline-flex;
   align-items:center;
   justify-content:center;
-  width:220px;
+
+  flex:1 1 0;               /* ✅ all buttons equal width */
+  min-width:150px;          /* ✅ prevents too narrow buttons */
   height:44px;
 
   border:1px solid rgba(242,242,244,0.18);
@@ -116,6 +119,7 @@ a{color:var(--fg); text-decoration:none}
   transform: translateY(0px);
 }
 
+/* Languages */
 .langs{
   margin-top:24px;
   display:flex;
@@ -135,6 +139,7 @@ a{color:var(--fg); text-decoration:none}
   text-decoration:none;
 }
 
+/* Seal */
 .seal{
   display:flex;
   align-items:center;
@@ -150,9 +155,18 @@ a{color:var(--fg); text-decoration:none}
   opacity:0.75;
 }
 
+/* Mobile: stack buttons */
 @media (max-width: 700px){
   .entry{ padding:38px 22px; }
-  .actions a{ width:100%; }
+
+  .actions{
+    flex-direction:column;  /* ✅ one under another */
+  }
+
+  .actions a{
+    width:100%;
+    min-width:0;            /* ✅ allow full width without constraints */
+  }
 
   .entry::after{
     background: linear-gradient(180deg,
