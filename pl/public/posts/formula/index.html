@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Ashraellen — Formuły</title>
+
+  <script>
+  (function(){
+    const isGitHub = location.hostname.endsWith('github.io');
+    const repo = location.pathname.split('/').filter(Boolean)[0];
+    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
+  })();
+  </script>
+
+  <link rel="stylesheet" href="../../../../assets/formula.css">
+</head>
+<body>
+  <div class="wrap">
+    <div class="page">
+
+      <header class="site-header">
+        <p class="brand">Ashraellen</p>
+        <div class="menu">
+          <a id="toEntry" href="#">Wejście</a> |
+          <a id="toPublic" href="#">Publiczne</a> |
+          <a id="toResearch" href="#">Badania</a>
+        </div>
+      </header>
+
+      <main class="main">
+        <div class="container">
+
+          <h1 class="h1">Formuły</h1>
+
+          <p class="lead">
+            Krótkie sformułowania bez wyjaśniającego szumu.
+            Formuła to myśl zawiązana w węzeł — żeby trzymała kształt.
+          </p>
+
+          <section class="list">
+            <div class="list-header">
+              <h2>Lista</h2>
+              <p class="note"><a id="toPosts" href="#" title="Powrót do spisu treści">powrót do spisu treści</a></p>
+            </div>
+
+            <ul class="items">
+              <li class="item">
+                <div>
+                  <a href="#" title="Wkrótce">Publikacja 001 — Formuła (wkrótce)</a>
+                  <div class="meta">Jedna myśl. Jedna linia. Później podmienimy to na prawdziwy tekst i link do strony 001.</div>
+                </div>
+                <span class="badge">formula</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a href="#" title="Wkrótce">Publikacja 005 — Formuła (wkrótce)</a>
+                  <div class="meta">Zaślepka pod przyszłą formułę. Numeracja jest wspólna dla wszystkich języków.</div>
+                </div>
+                <span class="badge">formula</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a href="#" title="Wkrótce">Publikacja 013 — Formuła (wkrótce)</a>
+                  <div class="meta">Kolejna zaślepka. Gdy pojawi się treść — po prostu dopisujemy nowe pozycje.</div>
+                </div>
+                <span class="badge">formula</span>
+              </li>
+            </ul>
+          </section>
+
+          <div class="seal">
+            <img id="sealImg" src="#" alt="Ashraellen symbol">
+            <span>— mark of presence</span>
+          </div>
+
+        </div>
+      </main>
+
+    </div>
+  </div>
+
+  <script>
+  (function(){
+    const base = window.__BASE__ || '/';
+
+    document.getElementById('toEntry').href    = base + 'pl/';
+    document.getElementById('toPublic').href   = base + 'pl/public/';
+    document.getElementById('toResearch').href = base + 'pl/research/';
+
+    document.getElementById('toPosts').href = base + 'pl/public/posts/';
+
+    document.getElementById('sealImg').src = base + 'assets/symbol.png';
+  })();
+  </script>
+</body>
+</html>
