@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Ashraellen — Beiträge</title>
+
+  <script>
+  (function(){
+    const isGitHub = location.hostname.endsWith('github.io');
+    const repo = location.pathname.split('/').filter(Boolean)[0];
+    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
+  })();
+  </script>
+
+  <link rel="stylesheet" href="../../../assets/posts.css">
+</head>
+<body>
+  <div class="wrap">
+    <div class="page">
+
+      <header class="site-header">
+        <p class="brand">Ashraellen</p>
+        <div class="menu">
+          <a id="toEntry" href="#">Einstieg</a> |
+          <a id="toPublic" href="#">Öffentlich</a> |
+          <a id="toResearch" href="#">Forschung</a>
+        </div>
+      </header>
+
+      <main class="main">
+        <div class="container">
+
+          <h1 class="h1">Beiträge</h1>
+
+          <p class="lead">
+            Dies ist das Inhaltsverzeichnis. Die Beiträge leben in Bereichen: Formeln, Fragmente, Mini-Essays und Quellen.
+            Mit der Zeit wachsen die Listen — aber die Navigation bleibt einfach.
+          </p>
+
+          <section class="list">
+            <div class="list-header">
+              <h2>Bereiche</h2>
+              <p class="note">Format wählen</p>
+            </div>
+
+            <ul class="items">
+              <li class="item">
+                <div>
+                  <a id="toFormula" href="#" title="Öffnen">Formeln</a>
+                  <div class="meta">Kompakte Formulierungen: ein Gedanke — ein präziser Treffer.</div>
+                </div>
+                <span class="badge">formula</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a id="toFragment" href="#" title="Öffnen">Fragmente</a>
+                  <div class="meta">Auszüge aus größeren Texten: um Ton und Richtung zu spüren.</div>
+                </div>
+                <span class="badge">fragment</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a id="toEssay" href="#" title="Öffnen">Mini-Essays</a>
+                  <div class="meta">Kurze Klärungen: Frage, Blickwinkel, Schluss — ruhig und genau.</div>
+                </div>
+                <span class="badge">essay</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a id="toSources" href="#" title="Öffnen">Quellen</a>
+                  <div class="meta">Material außerhalb der Seite: Artikel, Videos, Dokumente und tragende Links.</div>
+                </div>
+                <span class="badge">sources</span>
+              </li>
+            </ul>
+          </section>
+
+          <div class="seal">
+            <img id="sealImg" src="#" alt="Ashraellen symbol">
+            <span>— mark of presence</span>
+          </div>
+
+        </div>
+      </main>
+
+    </div>
+  </div>
+
+  <script>
+  (function(){
+    const base = window.__BASE__ || '/';
+
+    document.getElementById('toEntry').href    = base + 'de/';
+    document.getElementById('toPublic').href   = base + 'de/public/';
+    document.getElementById('toResearch').href = base + 'de/research/';
+
+    document.getElementById('toFormula').href  = base + 'de/public/posts/formula/';
+    document.getElementById('toFragment').href = base + 'de/public/posts/fragment/';
+    document.getElementById('toEssay').href    = base + 'de/public/posts/essay/';
+    document.getElementById('toSources').href  = base + 'de/public/posts/sources/';
+
+    document.getElementById('sealImg').src = base + 'assets/symbol.png';
+  })();
+  </script>
+</body>
+</html>
