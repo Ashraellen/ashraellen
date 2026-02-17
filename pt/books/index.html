@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="pt">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Ashraellen — Livros</title>
+
+  <script>
+  (function(){
+    const isGitHub = location.hostname.endsWith('github.io');
+    const repo = location.pathname.split('/').filter(Boolean)[0];
+    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
+  })();
+  </script>
+
+  <link rel="stylesheet" href="../../assets/books.css?v=20260217">
+</head>
+<body>
+  <div class="wrap">
+    <div class="page">
+
+      <header class="site-header">
+        <p class="brand">Ashraellen</p>
+        <div class="menu">
+          <a id="toEntry" href="#">Entrada</a> |
+          <a id="toPublic" href="#">Público</a> |
+          <a id="toBooks" href="#" aria-current="page">Livros</a> |
+          <a id="toResearch" href="#">Pesquisa</a>
+        </div>
+      </header>
+
+      <main class="main">
+        <div class="container">
+
+          <h1 class="h1">Livros</h1>
+
+          <p class="lead">
+            Aqui estão textos que não cabiam num post e não viraram uma palestra.
+            São formas completas: romances, grandes projetos e livros-experiência.
+            Não dá para “passar o olho” em um minuto. É preciso vivê-los.
+          </p>
+
+          <section class="list">
+            <div class="list-header">
+              <h2>Lista</h2>
+              <p class="note">em expansão</p>
+            </div>
+
+            <ul class="items">
+              <li class="item">
+                <div class="thumb">
+                  <a id="thumbLinkOnline" href="#" aria-label="Abrir: Você já está online">
+                    <img id="thumbOnline" src="#" alt="Você já está online — miniatura" loading="lazy">
+                  </a>
+                </div>
+
+                <div class="body">
+                  <a id="bookOnline" href="#" title="Abrir página do livro">Você já está online</a>
+                  <div class="meta">
+                    Um techno-thriller psicológico sobre um homem que percebe: a realidade reage não aos eventos, mas à prontidão de confirmá-los.
+                  </div>
+                </div>
+
+                <span class="badge">novel</span>
+              </li>
+
+              <li class="item">
+                <div class="thumb">
+                  <a id="thumbLinkWhinesis" href="#" aria-label="Abrir: O Livro de Whinesis">
+                    <img id="thumbWhinesis" src="#" alt="O Livro de Whinesis — miniatura" loading="lazy">
+                  </a>
+                </div>
+
+                <div class="body">
+                  <a id="bookWhinesis" href="#" title="Abrir página do livro">O Livro de Whinesis</a>
+                  <div class="meta">
+                    Textos sagrados sobre burnout e “salvação” digital. Uma sátira pseudo-bíblica sobre ruído, notificações e atenção.
+                  </div>
+                </div>
+
+                <span class="badge warm">whinesis</span>
+              </li>
+            </ul>
+          </section>
+
+          <div class="seal">
+            <img id="sealImg" src="#" alt="Símbolo Ashraellen">
+            <span>— marca de presença</span>
+          </div>
+
+        </div>
+      </main>
+
+    </div>
+  </div>
+
+  <script>
+  (function(){
+    const base = window.__BASE__ || '/';
+
+    document.getElementById('toEntry').href    = base + 'pt/';
+    document.getElementById('toPublic').href   = base + 'pt/public/';
+    document.getElementById('toBooks').href    = base + 'pt/books/';
+    document.getElementById('toResearch').href = base + 'pt/research/';
+
+    const onlineHref   = base + 'pt/books/you-are-already-online/';
+    const whinesisHref = base + 'pt/books/the-book-of-whinesis/';
+
+    document.getElementById('bookOnline').href = onlineHref;
+    document.getElementById('bookWhinesis').href = whinesisHref;
+
+    document.getElementById('thumbLinkOnline').href = onlineHref;
+    document.getElementById('thumbLinkWhinesis').href = whinesisHref;
+
+    document.getElementById('thumbOnline').src   = base + 'assets/covers/online-thumb.jpg';
+    document.getElementById('thumbWhinesis').src = base + 'assets/covers/whinesis-thumb.jpg';
+
+    document.getElementById('sealImg').src = base + 'assets/symbol.png';
+  })();
+  </script>
+</body>
+</html>
