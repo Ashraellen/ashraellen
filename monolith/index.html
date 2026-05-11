@@ -3,318 +3,53 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>MONOLITH Trilogy — Ashraellen</title>
-  <meta name="description" content="Three states of controlled disintegration: BETON. SLUDGE. GAS." />
-  <meta name="author" content="Ashraellen" />
+  <title>MONOLITH — Ashraellen</title>
+  <meta name="description" content="MONOLITH language gateway: BETON. SLUDGE. GAS." />
+  <meta name="robots" content="noindex, follow" />
   <link rel="canonical" href="https://ashraellen.com/monolith/" />
-  <meta property="og:title" content="MONOLITH Trilogy — Ashraellen" />
-  <meta property="og:description" content="Three states of controlled disintegration: BETON. SLUDGE. GAS." />
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://ashraellen.com/monolith/" />
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="MONOLITH Trilogy — Ashraellen" />
-  <meta name="twitter:description" content="Three states of controlled disintegration: BETON. SLUDGE. GAS." />
-  <style>
-    :root {
-      --bg: #050505;
-      --fg: #eee8df;
-      --muted: rgba(238, 232, 223, 0.74);
-      --soft: rgba(238, 232, 223, 0.52);
-      --line: rgba(238, 232, 223, 0.18);
-      --line-strong: rgba(238, 232, 223, 0.34);
-      --panel: rgba(5, 5, 5, 0.52);
-      --panel-strong: rgba(5, 5, 5, 0.68);
-      --btn: rgba(238, 232, 223, 0.08);
-      --btn-hover: rgba(238, 232, 223, 0.15);
-    }
-    * { box-sizing: border-box; }
-    html, body {
-      margin: 0;
-      min-height: 100%;
-      background: var(--bg);
-      color: var(--fg);
-      font-family: Arial, Helvetica, sans-serif;
-    }
-    body {
-      min-height: 100vh;
-      background-image:
-        linear-gradient(to bottom, rgba(0,0,0,0.38), rgba(0,0,0,0.78) 58%, rgba(0,0,0,0.92)),
-        url("./monolith-bg.jpg");
-      background-size: cover;
-      background-position: center top;
-      background-repeat: no-repeat;
-      background-attachment: fixed;
-    }
-    body::after {
-      content: "";
-      position: fixed;
-      inset: 0;
-      pointer-events: none;
-      background:
-        radial-gradient(circle at center, transparent 34%, rgba(0,0,0,0.55) 100%),
-        linear-gradient(to right, rgba(0,0,0,0.56), transparent 28%, transparent 72%, rgba(0,0,0,0.56));
-      z-index: 0;
-    }
-    a { color: inherit; }
-    .page {
-      position: relative;
-      z-index: 1;
-      width: min(1120px, calc(100% - 32px));
-      min-height: 100vh;
-      margin: 0 auto;
-      display: flex;
-      flex-direction: column;
-    }
-    .topbar {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 18px;
-      padding: 24px 0;
-      color: var(--muted);
-      font-size: 12px;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-    }
-    .brand {
-      text-decoration: none;
-      color: var(--fg);
-      opacity: 0.9;
-      transition: opacity 180ms ease;
-    }
-    .brand:hover { opacity: 1; }
-    .language-switch { display: flex; gap: 8px; align-items: center; }
-    .language-switch button {
-      appearance: none;
-      border: 1px solid var(--line);
-      background: rgba(0,0,0,0.28);
-      color: var(--muted);
-      padding: 8px 12px;
-      cursor: pointer;
-      font-size: 11px;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-      transition: background 180ms ease, border-color 180ms ease, color 180ms ease;
-    }
-    .language-switch button:hover, .language-switch button.active {
-      background: rgba(238,232,223,0.1);
-      border-color: var(--line-strong);
-      color: var(--fg);
-    }
-    main { flex: 1; display: flex; flex-direction: column; }
-    .hero { max-width: 760px; padding: 8vh 0 4vh; }
-    h1 {
-      margin: 0 0 18px;
-      font-family: Georgia, "Times New Roman", serif;
-      font-weight: 400;
-      font-size: clamp(52px, 10vw, 116px);
-      line-height: 0.92;
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
-      text-shadow: 0 12px 60px rgba(0,0,0,0.95);
-    }
-    .subtitle {
-      margin: 0 0 18px;
-      max-width: 720px;
-      font-family: Georgia, "Times New Roman", serif;
-      font-size: clamp(24px, 3.5vw, 39px);
-      line-height: 1.16;
-      font-weight: 400;
-      text-shadow: 0 6px 34px rgba(0,0,0,0.9);
-    }
-    .intro {
-      margin: 0;
-      max-width: 660px;
-      color: var(--muted);
-      font-size: 17px;
-      line-height: 1.7;
-      text-shadow: 0 4px 26px rgba(0,0,0,0.9);
-    }
-    .books {
-      display: grid;
-      grid-template-columns: repeat(3, minmax(0, 1fr));
-      gap: 16px;
-      padding: 24px 0 38px;
-    }
-    .book {
-      display: flex;
-      flex-direction: column;
-      min-height: 100%;
-      padding: 22px 20px;
-      border: 1px solid var(--line);
-      background: var(--panel);
-      backdrop-filter: blur(5px);
-      box-shadow: 0 18px 60px rgba(0,0,0,0.34);
-    }
-    .book.available { background: var(--panel-strong); }
-    .volume {
-      margin: 0 0 11px;
-      color: var(--soft);
-      font-size: 11px;
-      letter-spacing: 0.14em;
-      text-transform: uppercase;
-    }
-    h2 {
-      margin: 0 0 15px;
-      font-family: Georgia, "Times New Roman", serif;
-      font-weight: 400;
-      font-size: 31px;
-      line-height: 1.03;
-      letter-spacing: 0.04em;
-      text-transform: uppercase;
-    }
-    .book p { margin: 0; color: var(--muted); font-size: 15px; line-height: 1.62; }
-    .actions { display: grid; gap: 10px; margin-top: auto; padding-top: 22px; }
-    .button, .button-muted {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      min-height: 46px;
-      padding: 12px 14px;
-      border: 1px solid var(--line);
-      background: var(--btn);
-      color: var(--fg);
-      text-decoration: none;
-      text-align: center;
-      font-size: 14px;
-      line-height: 1.32;
-      transition: background 180ms ease, border-color 180ms ease;
-    }
-    .button:hover { background: var(--btn-hover); border-color: var(--line-strong); }
-    .button-muted { color: rgba(238,232,223,0.56); background: rgba(255,255,255,0.025); cursor: default; }
-    .closing {
-      margin: 0 0 44px;
-      padding-top: 26px;
-      border-top: 1px solid var(--line);
-      max-width: 760px;
-      font-family: Georgia, "Times New Roman", serif;
-      font-size: clamp(22px, 3vw, 31px);
-      line-height: 1.3;
-      text-shadow: 0 5px 32px rgba(0,0,0,0.92);
-    }
-    footer {
-      padding: 20px 0 24px;
-      color: var(--soft);
-      font-size: 12px;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-    }
-    [data-lang] { display: none; }
-    body.lang-en [data-lang="en"], body.lang-ru [data-lang="ru"] { display: revert; }
-    body.lang-en span[data-lang="en"], body.lang-ru span[data-lang="ru"] { display: inline; }
-    @media (max-width: 900px) {
-      body { background-position: center top; background-attachment: scroll; }
-      .hero { padding-top: 5vh; }
-      .books { grid-template-columns: 1fr; }
-    }
-    @media (max-width: 560px) {
-      .page { width: min(100% - 24px, 1120px); }
-      .topbar { flex-direction: column; align-items: flex-start; }
-      .language-switch { width: 100%; }
-      .language-switch button { flex: 1; }
-      .hero { padding-top: 4vh; }
-      .intro { font-size: 16px; }
-      .book { padding: 20px 18px; }
-    }
-  </style>
-</head>
-<body class="lang-en">
-  <div class="page">
-    <header class="topbar">
-      <a class="brand" href="/">Ashraellen</a>
-      <div class="language-switch" aria-label="Language switcher">
-        <button type="button" data-set-lang="en">EN</button>
-        <button type="button" data-set-lang="ru">RU</button>
-      </div>
-    </header>
-
-    <main>
-      <section class="hero">
-        <h1>MONOLITH</h1>
-        <p class="subtitle" data-lang="en">Three states of controlled disintegration: BETON. SLUDGE. GAS.</p>
-        <p class="subtitle" data-lang="ru">Три состояния контролируемого распада: БЕТОН. ЖИЖА. ГАЗ.</p>
-        <p class="intro" data-lang="en">MONOLITH is a trilogy of social science fiction, dystopia, and philosophical cyberpunk about control, memory, and the collapse of systems. Choose a volume, language, and platform.</p>
-        <p class="intro" data-lang="ru">МОНОЛИТ — трилогия социальной фантастики, антиутопии и философского киберпанка о контроле, памяти и распаде систем. Выберите том, язык и площадку.</p>
-      </section>
-
-      <section class="books" aria-label="MONOLITH books">
-        <article class="book available">
-          <p class="volume" data-lang="en">Volume I</p>
-          <p class="volume" data-lang="ru">Том I</p>
-          <h2>BETON<br><span data-lang="ru">БЕТОН</span></h2>
-          <p data-lang="en">A philosophical dystopia about a world where stability becomes a prison, memory can be edited, and the first crack appears inside the System.</p>
-          <p data-lang="ru">Философская антиутопия о мире, где стабильность становится тюрьмой, память подлежит редактированию, а первая трещина появляется внутри самой Системы.</p>
-          <div class="actions">
-            <a class="button" href="https://www.amazon.com/dp/B0H18H1CFR" target="_blank" rel="noopener noreferrer" data-lang="en">Read in English on Amazon</a>
-            <a class="button" href="https://www.amazon.com/dp/B0H18H1CFR" target="_blank" rel="noopener noreferrer" data-lang="ru">Английская версия на Amazon</a>
-            <a class="button" href="https://play.google.com/store/books/details?id=S__VEQAAQBAJ" target="_blank" rel="noopener noreferrer" data-lang="en">Read in Russian on Google Play Books</a>
-            <a class="button" href="https://play.google.com/store/books/details?id=S__VEQAAQBAJ" target="_blank" rel="noopener noreferrer" data-lang="ru">Читать на русском в Google Play Books</a>
-          </div>
-        </article>
-
-        <article class="book available">
-          <p class="volume" data-lang="en">Volume II</p>
-          <p class="volume" data-lang="ru">Том II</p>
-          <h2>SLUDGE<br><span data-lang="ru">ЖИЖА</span></h2>
-          <p data-lang="en">The form begins to collapse. What was solid becomes viscous, unstable, and inseparable from the human being trapped inside it.</p>
-          <p data-lang="ru">Форма начинает распадаться. То, что было твёрдым, становится вязким, нестабильным и уже неотделимым от человека внутри системы.</p>
-          <div class="actions">
-            <a class="button" href="https://www.amazon.com/dp/B0H196VMX9" target="_blank" rel="noopener noreferrer" data-lang="en">Read in English on Amazon</a>
-            <a class="button" href="https://www.amazon.com/dp/B0H196VMX9" target="_blank" rel="noopener noreferrer" data-lang="ru">Английская версия на Amazon</a>
-            <a class="button" href="https://play.google.com/store/books/details/Ashraellen_%D0%96%D0%98%D0%96%D0%90?id=-bzWEQAAQBAJ" target="_blank" rel="noopener noreferrer" data-lang="en">Read in Russian on Google Play Books</a>
-            <a class="button" href="https://play.google.com/store/books/details/Ashraellen_%D0%96%D0%98%D0%96%D0%90?id=-bzWEQAAQBAJ" target="_blank" rel="noopener noreferrer" data-lang="ru">Читать на русском в Google Play Books</a>
-          </div>
-        </article>
-
-        <article class="book">
-          <p class="volume" data-lang="en">Volume III</p>
-          <p class="volume" data-lang="ru">Том III</p>
-          <h2>GAS<br><span data-lang="ru">ГАЗ</span></h2>
-          <p data-lang="en">The final state of decompression. Meaning can no longer be held in concrete or sludge. It begins to spread.</p>
-          <p data-lang="ru">Финальное состояние разгерметизации. Смысл уже невозможно удержать ни в бетоне, ни в жиже. Он начинает распространяться.</p>
-          <div class="actions">
-            <span class="button-muted" data-lang="en">In preparation</span>
-            <span class="button-muted" data-lang="ru">В подготовке</span>
-          </div>
-        </article>
-      </section>
-
-      <div class="closing" data-lang="en">The System does not fear rebellion.<br />It fears the first crack.</div>
-      <div class="closing" data-lang="ru">Система боится не бунта.<br />Она боится первой трещины.</div>
-    </main>
-    <footer>Ashraellen</footer>
-  </div>
-
   <script>
     (function () {
-      const supported = ["en", "ru"];
-      const saved = localStorage.getItem("monolithLanguage");
-      const browserLanguages = navigator.languages || [navigator.language || "en"];
-      function detectLanguage() {
-        if (saved && supported.includes(saved)) return saved;
-        for (const language of browserLanguages) {
-          const code = String(language).toLowerCase().split("-")[0];
-          if (supported.includes(code)) return code;
+      var routes = {
+        en: "/en/monolith/",
+        ru: "/ru/monolith/"
+      };
+
+      var languages = navigator.languages || [navigator.language || "en"];
+      var target = routes.en;
+
+      for (var i = 0; i < languages.length; i++) {
+        var code = String(languages[i]).toLowerCase().split("-")[0];
+        if (routes[code]) {
+          target = routes[code];
+          break;
         }
-        return "en";
       }
-      function setLanguage(language) {
-        const lang = supported.includes(language) ? language : "en";
-        document.documentElement.lang = lang;
-        document.body.classList.remove("lang-en", "lang-ru");
-        document.body.classList.add("lang-" + lang);
-        localStorage.setItem("monolithLanguage", lang);
-        document.querySelectorAll("[data-set-lang]").forEach(function (button) {
-          const active = button.dataset.setLang === lang;
-          button.classList.toggle("active", active);
-          button.setAttribute("aria-pressed", active ? "true" : "false");
-        });
-      }
-      document.querySelectorAll("[data-set-lang]").forEach(function (button) {
-        button.addEventListener("click", function () { setLanguage(button.dataset.setLang); });
-      });
-      setLanguage(detectLanguage());
+
+      window.location.replace(target);
     })();
   </script>
+  <style>
+    :root { --bg:#050505; --fg:#eee8df; --muted:rgba(238,232,223,.68); --line:rgba(238,232,223,.18); }
+    * { box-sizing: border-box; }
+    html, body { margin:0; min-height:100%; background:var(--bg); color:var(--fg); font-family:Arial,Helvetica,sans-serif; }
+    body { display:flex; align-items:center; justify-content:center; padding:28px; text-align:center; }
+    main { width:min(620px,100%); border:1px solid var(--line); padding:34px 22px; background:rgba(255,255,255,.03); }
+    h1 { margin:0 0 14px; font-family:Georgia,"Times New Roman",serif; font-weight:400; font-size:clamp(42px,10vw,76px); letter-spacing:.12em; }
+    p { margin:0 0 22px; color:var(--muted); line-height:1.55; }
+    .links { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
+    a { display:block; padding:12px 14px; border:1px solid var(--line); color:var(--fg); text-decoration:none; background:rgba(255,255,255,.04); }
+    a:hover { background:rgba(255,255,255,.1); }
+    @media(max-width:480px){ .links{grid-template-columns:1fr;} }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>MONOLITH</h1>
+    <p>Detecting language…<br>Определение языка…</p>
+    <div class="links">
+      <a href="/en/monolith/">English</a>
+      <a href="/ru/monolith/">Русский</a>
+    </div>
+  </main>
 </body>
 </html>
