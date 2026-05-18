@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.ashraellen.com/</loc><priority>1.0</priority></url>
+
+  <url><loc>https://www.ashraellen.com/ru/</loc><priority>0.9</priority></url>
+  <url><loc>https://www.ashraellen.com/en/</loc><priority>0.9</priority></url>
+  <url><loc>https://www.ashraellen.com/pl/</loc><priority>0.9</priority></url>
+  <url><loc>https://www.ashraellen.com/de/</loc><priority>0.9</priority></url>
+  <url><loc>https://www.ashraellen.com/es/</loc><priority>0.9</priority></url>
+  <url><loc>https://www.ashraellen.com/fr/</loc><priority>0.9</priority></url>
+  <url><loc>https://www.ashraellen.com/pt/</loc><priority>0.9</priority></url>
+  <url><loc>https://www.ashraellen.com/uk/</loc><priority>0.9</priority></url>
+
+  <url><loc>https://www.ashraellen.com/ru/research/</loc><priority>0.85</priority></url>
+  <url><loc>https://www.ashraellen.com/en/research/</loc><priority>0.85</priority></url>
+  <url><loc>https://www.ashraellen.com/pl/research/</loc><priority>0.85</priority></url>
+  <url><loc>https://www.ashraellen.com/de/research/</loc><priority>0.85</priority></url>
+  <url><loc>https://www.ashraellen.com/es/research/</loc><priority>0.85</priority></url>
+  <url><loc>https://www.ashraellen.com/fr/research/</loc><priority>0.85</priority></url>
+  <url><loc>https://www.ashraellen.com/pt/research/</loc><priority>0.85</priority></url>
+  <url><loc>https://www.ashraellen.com/uk/research/</loc><priority>0.85</priority></url>
+
+  <url><loc>https://www.ashraellen.com/ru/research/projects/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ashraellen.com/en/research/projects/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ashraellen.com/pl/research/projects/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ashraellen.com/de/research/projects/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ashraellen.com/es/research/projects/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ashraellen.com/fr/research/projects/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ashraellen.com/pt/research/projects/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ashraellen.com/uk/research/projects/</loc><priority>0.8</priority></url>
+
+  <url><loc>https://www.ashraellen.com/ru/research/texts/</loc><priority>0.75</priority></url>
+  <url><loc>https://www.ashraellen.com/en/research/texts/</loc><priority>0.75</priority></url>
+  <url><loc>https://www.ashraellen.com/pl/research/texts/</loc><priority>0.75</priority></url>
+  <url><loc>https://www.ashraellen.com/de/research/texts/</loc><priority>0.75</priority></url>
+  <url><loc>https://www.ashraellen.com/es/research/texts/</loc><priority>0.75</priority></url>
+  <url><loc>https://www.ashraellen.com/fr/research/texts/</loc><priority>0.75</priority></url>
+  <url><loc>https://www.ashraellen.com/pt/research/texts/</loc><priority>0.75</priority></url>
+  <url><loc>https://www.ashraellen.com/uk/research/texts/</loc><priority>0.75</priority></url>
+
+  <url><loc>https://www.ashraellen.com/ru/research/archive/</loc><priority>0.55</priority></url>
+  <url><loc>https://www.ashraellen.com/en/research/archive/</loc><priority>0.55</priority></url>
+  <url><loc>https://www.ashraellen.com/pl/research/archive/</loc><priority>0.55</priority></url>
+  <url><loc>https://www.ashraellen.com/de/research/archive/</loc><priority>0.55</priority></url>
+  <url><loc>https://www.ashraellen.com/es/research/archive/</loc><priority>0.55</priority></url>
+  <url><loc>https://www.ashraellen.com/fr/research/archive/</loc><priority>0.55</priority></url>
+  <url><loc>https://www.ashraellen.com/pt/research/archive/</loc><priority>0.55</priority></url>
+  <url><loc>https://www.ashraellen.com/uk/research/archive/</loc><priority>0.55</priority></url>
+
+  <url><loc>https://www.ashraellen.com/ru/books/</loc><priority>0.85</priority></url>
+  <url><loc>https://www.ashraellen.com/en/books/</loc><priority>0.85</priority></url>
+  <url><loc>https://www.ashraellen.com/pl/books/</loc><priority>0.85</priority></url>
+  <url><loc>https://www.ashraellen.com/de/books/</loc><priority>0.85</priority></url>
+  <url><loc>https://www.ashraellen.com/es/books/</loc><priority>0.85</priority></url>
+  <url><loc>https://www.ashraellen.com/fr/books/</loc><priority>0.85</priority></url>
+  <url><loc>https://www.ashraellen.com/pt/books/</loc><priority>0.85</priority></url>
+  <url><loc>https://www.ashraellen.com/uk/books/</loc><priority>0.85</priority></url>
+
+  <url><loc>https://www.ashraellen.com/ru/books/monolith/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ashraellen.com/en/books/monolith/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ashraellen.com/pl/books/monolith/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ashraellen.com/de/books/monolith/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ashraellen.com/es/books/monolith/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ashraellen.com/fr/books/monolith/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ashraellen.com/pt/books/monolith/</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ashraellen.com/uk/books/monolith/</loc><priority>0.8</priority></url>
+
+  <url><loc>https://www.ashraellen.com/ru/books/you-are-already-online/</loc><priority>0.75</priority></url>
+  <url><loc>https://www.ashraellen.com/en/books/you-are-already-online/</loc><priority>0.75</priority></url>
+  <url><loc>https://www.ashraellen.com/pl/books/you-are-already-online/</loc><priority>0.75</priority></url>
+  <url><loc>https://www.ashraellen.com/de/books/you-are-already-online/</loc><priority>0.75</priority></url>
+  <url><loc>https://www.ashraellen.com/es/books/you-are-already-online/</loc><priority>0.75</priority></url>
+  <url><loc>https://www.ashraellen.com/fr/books/you-are-already-online/</loc><priority>0.75</priority></url>
+  <url><loc>https://www.ashraellen.com/pt/books/you-are-already-online/</loc><priority>0.75</priority></url>
+  <url><loc>https://www.ashraellen.com/uk/books/you-are-already-online/</loc><priority>0.75</priority></url>
+
+  <url><loc>https://www.ashraellen.com/ru/public/</loc><priority>0.75</priority></url>
+  <url><loc>https://www.ashraellen.com/en/public/</loc><priority>0.75</priority></url>
+  <url><loc>https://www.ashraellen.com/pl/public/</loc><priority>0.75</priority></url>
+  <url><loc>https://www.ashraellen.com/de/public/</loc><priority>0.75</priority></url>
+  <url><loc>https://www.ashraellen.com/es/public/</loc><priority>0.75</priority></url>
+  <url><loc>https://www.ashraellen.com/fr/public/</loc><priority>0.75</priority></url>
+  <url><loc>https://www.ashraellen.com/pt/public/</loc><priority>0.75</priority></url>
+  <url><loc>https://www.ashraellen.com/uk/public/</loc><priority>0.75</priority></url>
+</urlset>
