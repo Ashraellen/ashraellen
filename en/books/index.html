@@ -4,119 +4,15 @@
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
   <title>Ashraellen — Books</title>
-
-  <script>
-  (function(){
-    const isGitHub = location.hostname.endsWith('github.io');
-    const repo = location.pathname.split('/').filter(Boolean)[0];
-    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
-  })();
-  </script>
-
+  <script>(function(){const isGitHub=location.hostname.endsWith('github.io');const repo=location.pathname.split('/').filter(Boolean)[0];window.__BASE__=(isGitHub&&repo)?`/${repo}/`:`/`;})();</script>
   <link rel="stylesheet" href="../../assets/books.css?v=20260217">
 </head>
-<body>
-  <div class="wrap">
-    <div class="page">
-
-      <header class="site-header">
-        <p class="brand">Ashraellen</p>
-        <div class="menu">
-          <a id="toEntry" href="#">Entry</a> |
-          <a id="toPublic" href="#">Public</a> |
-          <a id="toBooks" href="#" aria-current="page">Books</a> |
-          <a id="toResearch" href="#">Research</a>
-        </div>
-      </header>
-
-      <main class="main">
-        <div class="container">
-
-          <h1 class="h1">Books</h1>
-
-          <p class="lead">
-            Here are texts that did not fit into a post and did not become a talk.
-            These are complete forms: novels, long projects, and book-experiments.
-            You can’t skim them in a minute. You have to live through them.
-          </p>
-
-          <section class="list">
-            <div class="list-header">
-              <h2>List</h2>
-              <p class="note">more coming</p>
-            </div>
-
-            <ul class="items">
-              <li class="item">
-                <div class="thumb">
-                  <a id="thumbLinkOnline" href="#" aria-label="Open: You Are Already Online">
-                    <img id="thumbOnline" src="#" alt="You Are Already Online — thumbnail" loading="lazy">
-                  </a>
-                </div>
-
-                <div class="body">
-                  <a id="bookOnline" href="#" title="Open book page">You Are Already Online</a>
-                  <div class="meta">
-                    A psychological techno-thriller about a man who notices: reality reacts not to events, but to the readiness to confirm them.
-                  </div>
-                </div>
-
-                <span class="badge">novel</span>
-              </li>
-
-              <li class="item">
-                <div class="thumb">
-                  <a id="thumbLinkWhinesis" href="#" aria-label="Open: The Book of Whinesis">
-                    <img id="thumbWhinesis" src="#" alt="The Book of Whinesis — thumbnail" loading="lazy">
-                  </a>
-                </div>
-
-                <div class="body">
-                  <a id="bookWhinesis" href="#" title="Open book page">The Book of Whinesis</a>
-                  <div class="meta">
-                    Sacred texts on burnout and digital “salvation”. A pseudo-biblical satire about noise, notifications, and attention.
-                  </div>
-                </div>
-
-                <span class="badge warm">whinesis</span>
-              </li>
-            </ul>
-          </section>
-
-          <div class="seal">
-            <img id="sealImg" src="#" alt="Ashraellen symbol">
-            <span>— mark of presence</span>
-          </div>
-
-        </div>
-      </main>
-
-    </div>
-  </div>
-
-  <script>
-  (function(){
-    const base = window.__BASE__ || '/';
-
-    document.getElementById('toEntry').href    = base + 'en/';
-    document.getElementById('toPublic').href   = base + 'en/public/';
-    document.getElementById('toBooks').href    = base + 'en/books/';
-    document.getElementById('toResearch').href = base + 'en/research/';
-
-    const onlineHref   = base + 'en/books/you-are-already-online/';
-    const whinesisHref = base + 'en/books/the-book-of-whinesis/';
-
-    document.getElementById('bookOnline').href = onlineHref;
-    document.getElementById('bookWhinesis').href = whinesisHref;
-
-    document.getElementById('thumbLinkOnline').href = onlineHref;
-    document.getElementById('thumbLinkWhinesis').href = whinesisHref;
-
-    document.getElementById('thumbOnline').src   = base + 'assets/covers/online-thumb.jpg';
-    document.getElementById('thumbWhinesis').src = base + 'assets/covers/whinesis-thumb.jpg';
-
-    document.getElementById('sealImg').src = base + 'assets/symbol.png';
-  })();
-  </script>
-</body>
-</html>
+<body><div class="wrap"><div class="page">
+<header class="site-header"><p class="brand">Ashraellen</p><div class="menu"><a id="toEntry" href="#">Entry</a> | <a id="toPublic" href="#">Public</a> | <a id="toBooks" href="#" aria-current="page">Books</a> | <a id="toResearch" href="#">Research</a></div></header>
+<main class="main"><div class="container"><h1 class="h1">Books</h1><p class="lead">Here are texts that did not fit into a post and did not become a talk. These are complete forms: novels, long projects, and book-experiments. You can’t skim them in a minute. You have to live through them.</p><section class="list"><div class="list-header"><h2>List</h2><p class="note">more coming</p></div><ul class="items">
+<li class="item"><div class="thumb"><a id="thumbLinkMonolith" href="#" aria-label="Open: MONOLITH"><img id="thumbMonolith" src="#" alt="MONOLITH — thumbnail" loading="lazy"></a></div><div class="body"><a id="bookMonolith" href="#" title="Open series page">MONOLITH</a><div class="meta">A trilogy of social science fiction, dystopia, and philosophical cyberpunk about control, memory, and the collapse of systems: BETON, SLUDGE, GAS.</div></div><span class="badge">series</span></li>
+<li class="item"><div class="thumb"><a id="thumbLinkOnline" href="#" aria-label="Open: You Are Already Online"><img id="thumbOnline" src="#" alt="You Are Already Online — thumbnail" loading="lazy"></a></div><div class="body"><a id="bookOnline" href="#" title="Open book page">You Are Already Online</a><div class="meta">A psychological techno-thriller about a man who notices: reality reacts not to events, but to the readiness to confirm them.</div></div><span class="badge">novel</span></li>
+<li class="item"><div class="thumb"><a id="thumbLinkWhinesis" href="#" aria-label="Open: The Book of Whinesis"><img id="thumbWhinesis" src="#" alt="The Book of Whinesis — thumbnail" loading="lazy"></a></div><div class="body"><a id="bookWhinesis" href="#" title="Open book page">The Book of Whinesis</a><div class="meta">Sacred texts on burnout and digital “salvation”. A pseudo-biblical satire about noise, notifications, and attention.</div></div><span class="badge warm">whinesis</span></li>
+</ul></section><div class="seal"><img id="sealImg" src="#" alt="Ashraellen symbol"><span>— mark of presence</span></div></div></main></div></div>
+<script>(function(){const base=window.__BASE__||'/';document.getElementById('toEntry').href=base+'en/';document.getElementById('toPublic').href=base+'en/public/';document.getElementById('toBooks').href=base+'en/books/';document.getElementById('toResearch').href=base+'en/research/';const monolithHref=base+'en/books/monolith/';const onlineHref=base+'en/books/you-are-already-online/';const whinesisHref=base+'en/books/the-book-of-whinesis/';document.getElementById('bookMonolith').href=monolithHref;document.getElementById('bookOnline').href=onlineHref;document.getElementById('bookWhinesis').href=whinesisHref;document.getElementById('thumbLinkMonolith').href=monolithHref;document.getElementById('thumbLinkOnline').href=onlineHref;document.getElementById('thumbLinkWhinesis').href=whinesisHref;document.getElementById('thumbMonolith').src=base+'assets/backgrounds/monolith-bg.webp';document.getElementById('thumbOnline').src=base+'assets/covers/online-thumb.jpg';document.getElementById('thumbWhinesis').src=base+'assets/covers/whinesis-thumb.jpg';document.getElementById('sealImg').src=base+'assets/symbol.png';})();</script>
+</body></html>
