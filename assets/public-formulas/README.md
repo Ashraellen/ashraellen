@@ -2,16 +2,16 @@
 
 Selected public posts for the Ashraellen public field section.
 
-Recommended filenames:
+Recommended filenames for JPG files:
 
-01-cheerfulness.webp
-02-still-the-same.webp
-03-let-go.webp
-04-mortality-awakens.webp
-05-on-your-own.webp
-06-insight.webp
+01-cheerfulness.jpg
+02-still-the-same.jpg
+03-let-go.jpg
+04-mortality-awakens.jpg
+05-on-your-own.jpg
+06-insight.jpg
 
-Use square images, preferably 1080x1080 or optimized WebP/JPG.
+Use square images, preferably 1080x1080 JPG. WebP optimization can be done later if needed.
 
 These images are intended for:
 
