@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Ashraellen — Проекты исследования</title>
+  <meta name="description" content="Исследовательские проекты Ashraellen: книги, циклы, художественно-философские модели, социальные и цифровые наблюдения."/>
+
+  <script>
+  (function(){
+    const isGitHub = location.hostname.endsWith('github.io');
+    const repo = location.pathname.split('/').filter(Boolean)[0];
+    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
+  })();
+  </script>
+
+  <link rel="stylesheet" href="../../../assets/texts.css">
+
+  <style>
+    .projects-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin-top:14px}.project-card{border:1px solid rgba(242,242,244,.14);border-radius:16px;padding:18px 16px;background:rgba(0,0,0,.18);backdrop-filter:blur(3px);min-height:220px;display:flex;flex-direction:column;transition:transform 140ms ease,border-color 140ms ease,background 140ms ease}.project-card:hover{transform:translateY(-2px);border-color:rgba(242,242,244,.28);background:rgba(255,255,255,.05)}.project-card h2{margin:0 0 8px;font-size:17px;font-weight:600}.project-card .kicker{margin:0 0 12px;font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:rgba(242,242,244,.55)}.project-card p{margin:0 0 12px;color:var(--muted);font-size:14px;line-height:1.65}.project-card .formula{margin-top:auto;padding-top:8px;font-family:Georgia,'Times New Roman',serif;color:var(--fg);font-size:15px;line-height:1.55}.project-card .actions{margin-top:14px;display:flex;gap:10px;flex-wrap:wrap;align-items:center}.project-card a.btn,.project-card span.btn{display:inline-flex;align-items:center;justify-content:center;padding:9px 12px;border-radius:999px;border:1px solid rgba(242,242,244,.16);background:rgba(255,255,255,.04);font-size:12px;font-weight:700;color:var(--fg);text-decoration:none}.project-card a.btn:hover{border-color:rgba(242,242,244,.34);background:rgba(255,255,255,.08);text-decoration:none}.project-card span.btn{color:var(--muted);font-weight:600}.research-note{margin-top:16px;border:1px solid rgba(242,242,244,.12);border-radius:16px;background:rgba(0,0,0,.14);padding:16px;max-width:78ch;color:var(--muted);line-height:1.75;font-size:14px}@media(max-width:900px){.projects-grid{grid-template-columns:1fr}.project-card{min-height:auto}}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="page">
+      <header class="site-header">
+        <p class="brand">Ashraellen</p>
+        <div class="menu"><a id="toEntry" href="#">Вход</a> | <a id="toPublic" href="#">Публичное</a> | <a id="toResearch" href="#">Исследование</a></div>
+      </header>
+      <main class="main">
+        <div class="content">
+          <h1 class="h1">Проекты</h1>
+          <p class="lead">Здесь собраны крупные направления исследования Ashraellen: книги, циклы, художественно-философские модели и публичные форматы, через которые наблюдение превращается в форму.</p>
+          <p class="lead">Это не витрина жанров. Это карта рабочих приборов: одни разворачивают механизм в глубине романа, другие фиксируют быстрый срез в видео, публикации или реакции читателя.</p>
+          <section class="projects-grid" aria-label="Исследовательские проекты">
+            <article class="project-card"><p class="kicker">романная лаборатория / социальная материя</p><h2>МОНОЛИТ</h2><p>Трилогия исследует три состояния человеческой и социальной реальности: застывание, разжижение и испарение смысла. Это модель того, как система входит в человека через язык, страх, порядок, привычку и добровольное согласие.</p><p class="formula">БЕТОН — застывание. ЖИЖА — распад формы. ГАЗ — невидимая среда влияния.</p><div class="actions"><a id="goMonolith" class="btn" href="#">Открыть проект →</a></div></article>
+            <article class="project-card"><p class="kicker">цифровое восприятие / подтверждение реальности</p><h2>Ты уже в сети</h2><p>Роман исследует состояние человека внутри цифровой среды, где реальность всё чаще воспринимается не напрямую, а через сигналы, интерфейсы, ожидания и внутреннюю готовность подтвердить происходящее.</p><p class="formula">Вопрос не в том, подключён ли человек к сети. Вопрос в том, когда он перестал замечать подключение.</p><div class="actions"><a id="goOnline" class="btn" href="#">Открыть книгу →</a></div></article>
+            <article class="project-card"><p class="kicker">сатирическая философия / выгорание и внимание</p><h2>Книга Нытия</h2><p>Псевдосакральная сатирическая форма, в которой исследуются выгорание, цифровое спасение, культ занятости, зависимость от уведомлений и человеческая способность превращать усталость в почти религию.</p><p class="formula">Нытьё здесь не слабость, а симптом эпохи, которая устала, но продолжает обновляться.</p><div class="actions"><span class="btn">страница в подготовке</span></div></article>
+            <article class="project-card"><p class="kicker">видео / публичная лаборатория</p><h2>YouTube</h2><p>YouTube — пространство, где исследование сжимается до коротких роликов, лекционных фрагментов и визуальных формул. Здесь мысль проверяется не только текстом, но голосом, паузой, ритмом, образом и реакцией зрителя.</p><p class="formula">Видео не заменяет книгу. Оно ловит момент, когда идея впервые касается человека.</p><div class="actions"><span class="btn">нужна ссылка</span></div></article>
+            <article class="project-card"><p class="kicker">публикации / быстрые формулы</p><h2>Instagram</h2><p>Instagram используется как поле коротких фиксаций: формул, фрагментов, визуальных образов и наблюдений, которые могут стать началом большого текста, видео или отдельного исследовательского направления.</p><p class="formula">Пост — это не обрывок мысли. Иногда это зерно, из которого вырастает целая система.</p><div class="actions"><span class="btn">нужна ссылка</span></div></article>
+            <article class="project-card"><p class="kicker">полевые наблюдения / реакции и комментарии</p><h2>Публичное поле</h2><p>Короткие ролики, публикации и комментарии работают как быстрые датчики исследования. Здесь мысль встречает живую реакцию человека: согласие, сопротивление, раздражение, благодарность, непонимание и внезапное узнавание.</p><p class="formula">Роман показывает механизм в глубине. Короткий формат ловит его вспышку.</p><div class="actions"><a id="goPublic" class="btn" href="#">Открыть публичное →</a></div></article>
+          </section>
+          <div class="research-note">Каждый проект здесь рассматривается не только как произведение, но и как исследовательская модель. Книга, ролик, пост, комментарий и визуальный образ — разные способы проявить один и тот же процесс: как человек воспринимает реальность, теряет себя в ней и может снова начать видеть.</div>
+          <div class="seal"><img id="sealImg" src="#" alt="Ashraellen symbol"><span>— mark of presence</span></div>
+        </div>
+      </main>
+    </div>
+  </div>
+  <script>
+  (function(){const base=window.__BASE__||'/';document.getElementById('toEntry').href=base+'ru/';document.getElementById('toPublic').href=base+'ru/public/';document.getElementById('toResearch').href=base+'ru/research/';document.getElementById('goMonolith').href=base+'ru/books/monolith/';document.getElementById('goOnline').href=base+'ru/books/you-are-already-online/';document.getElementById('goPublic').href=base+'ru/public/';document.getElementById('sealImg').src=base+'assets/symbol.png';})();
+  </script>
+</body>
+</html>
