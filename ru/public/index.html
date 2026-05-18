@@ -18,155 +18,26 @@
   <script defer src="/assets/analytics.js"></script>
   <style>
     .public-intro{max-width:82ch;margin:18px 0 22px;color:var(--muted);font-size:14px;line-height:1.78}
-    .public-intro p{margin:0 0 12px}
-    .section-title{margin:34px 0 10px;font-size:22px;font-weight:700;letter-spacing:.01em}
-    .section-note{max-width:78ch;color:var(--muted);font-size:14px;line-height:1.7;margin:0 0 18px}
-    .formulas-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin-top:16px}
-    .formula-card{border:1px solid rgba(242,242,244,.14);border-radius:18px;overflow:hidden;background:rgba(0,0,0,.20);backdrop-filter:blur(3px);display:flex;flex-direction:column;min-height:100%;transition:transform 140ms ease,border-color 140ms ease,background 140ms ease}
-    .formula-card:hover{transform:translateY(-2px);border-color:rgba(242,242,244,.30);background:rgba(255,255,255,.055)}
-    .formula-card img{display:block;width:100%;aspect-ratio:1/1;object-fit:cover;background:rgba(255,255,255,.04)}
-    .formula-body{padding:15px 14px 16px;display:flex;flex-direction:column;gap:9px;flex:1}
-    .formula-kicker{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:rgba(242,242,244,.52);margin:0}
-    .formula-card h3{font-size:16px;line-height:1.35;margin:0;color:var(--fg)}
-    .formula-card p{font-size:13px;line-height:1.62;margin:0;color:var(--muted)}
-    .formula-line{font-family:Georgia,'Times New Roman',serif;color:var(--fg)!important;font-size:14px!important;line-height:1.55!important;margin-top:auto!important;padding-top:4px}
-    .field-note{margin-top:20px;border:1px solid rgba(242,242,244,.12);border-radius:18px;background:rgba(0,0,0,.16);padding:16px;max-width:82ch;color:var(--muted);font-size:14px;line-height:1.75}
-    @media(max-width:980px){.formulas-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
-    @media(max-width:640px){.formulas-grid{grid-template-columns:1fr}.section-title{font-size:20px}}
+    .public-intro p{margin:0 0 12px}.section-title{margin:34px 0 10px;font-size:22px;font-weight:700;letter-spacing:.01em}.section-note{max-width:78ch;color:var(--muted);font-size:14px;line-height:1.7;margin:0 0 18px}
+    .formulas-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin-top:16px}.formula-card{border:1px solid rgba(242,242,244,.14);border-radius:18px;overflow:hidden;background:rgba(0,0,0,.20);backdrop-filter:blur(3px);display:flex;flex-direction:column;min-height:100%;transition:transform 140ms ease,border-color 140ms ease,background 140ms ease}.formula-card:hover{transform:translateY(-2px);border-color:rgba(242,242,244,.30);background:rgba(255,255,255,.055)}.formula-card img{display:block;width:100%;aspect-ratio:1/1;object-fit:cover;background:rgba(255,255,255,.04)}.formula-body{padding:15px 14px 16px;display:flex;flex-direction:column;gap:9px;flex:1}.formula-kicker{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:rgba(242,242,244,.52);margin:0}.formula-card h3{font-size:16px;line-height:1.35;margin:0;color:var(--fg)}.formula-card p{font-size:13px;line-height:1.62;margin:0;color:var(--muted)}.formula-line{font-family:Georgia,'Times New Roman',serif;color:var(--fg)!important;font-size:14px!important;line-height:1.55!important;margin-top:auto!important;padding-top:4px}.formula-open{display:inline-flex;align-items:center;justify-content:center;margin-top:8px;padding:9px 12px;border-radius:999px;border:1px solid rgba(242,242,244,.16);background:rgba(255,255,255,.04);font-size:12px;font-weight:700;color:var(--fg);text-decoration:none}.formula-open:hover{border-color:rgba(242,242,244,.34);background:rgba(255,255,255,.08);text-decoration:none}.field-note{margin-top:20px;border:1px solid rgba(242,242,244,.12);border-radius:18px;background:rgba(0,0,0,.16);padding:16px;max-width:82ch;color:var(--muted);font-size:14px;line-height:1.75}
+    @media(max-width:980px){.formulas-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:640px){.formulas-grid{grid-template-columns:1fr}.section-title{font-size:20px}}
   </style>
 </head>
 <body>
-  <div class="wrap">
-    <div class="page">
-
-      <header class="site-header">
-        <p class="brand">Ashraellen</p>
-        <div class="menu">
-          <a id="toEntry" href="#">Вход</a> |
-          <a id="toResearch" href="#">Исследование</a> |
-          <a id="toBooks" href="#">Книги</a>
-        </div>
-      </header>
-
-      <main class="main">
-        <div class="content">
-          <h1 class="h1">Публичное</h1>
-
-          <p class="lead">
-            Здесь исследование выходит из книг, черновиков и внутренних формул в живое поле: ролики, публикации, комментарии, ответы, реакции и открытые наблюдения.
-          </p>
-
-          <div class="public-intro">
-            <p>Публичное поле — это не витрина активности. Это место, где мысль проверяется живым контактом с человеком. Здесь она больше не защищена формой книги: становится короткой фразой, образом, роликом, ответом, раздражением, благодарностью или внезапным узнаванием.</p>
-            <p>Если книги показывают механизм в глубине, то публичная форма фиксирует его вспышки: где мысль была принята, где вызвала сопротивление, где была искажена, а где вдруг стала узнаваемой.</p>
-          </div>
-
-          <div class="grid">
-            <section class="card">
-              <h2>Выступления</h2>
-              <p>Видео, Shorts, публичные разборы и формы живой речи — то, что уже можно показывать миру.</p>
-              <a id="goTalks" href="#">Открыть →</a>
-            </section>
-
-            <section class="card">
-              <h2>Публикации</h2>
-              <p>Тексты, которые вышли из лаборатории и стали сообщением: формулы, фрагменты, реакции и наблюдения.</p>
-              <a id="goPosts" href="#">Открыть →</a>
-            </section>
-          </div>
-
-          <h2 class="section-title">Избранные публичные формулы</h2>
-          <p class="section-note">Шесть публикаций, выбранных как первые опорные точки публичного поля Ashraellen. Это не просто посты из социальных сетей, а короткие исследовательские приборы: каждый фиксирует отдельный способ увидеть человека, страх, пробуждение, конечность, власть или смысл пережитого.</p>
-
+  <div class="wrap"><div class="page"><header class="site-header"><p class="brand">Ashraellen</p><div class="menu"><a id="toEntry" href="#">Вход</a> | <a id="toResearch" href="#">Исследование</a> | <a id="toBooks" href="#">Книги</a></div></header>
+      <main class="main"><div class="content"><h1 class="h1">Публичное</h1><p class="lead">Здесь исследование выходит из книг, черновиков и внутренних формул в живое поле: ролики, публикации, комментарии, ответы, реакции и открытые наблюдения.</p>
+          <div class="public-intro"><p>Публичное поле — это не витрина активности. Это место, где мысль проверяется живым контактом с человеком. Здесь она больше не защищена формой книги: становится короткой фразой, образом, роликом, ответом, раздражением, благодарностью или внезапным узнаванием.</p><p>Если книги показывают механизм в глубине, то публичная форма фиксирует его вспышки: где мысль была принята, где вызвала сопротивление, где была искажена, а где вдруг стала узнаваемой.</p></div>
+          <div class="grid"><section class="card"><h2>Выступления</h2><p>Видео, Shorts, публичные разборы и формы живой речи — то, что уже можно показывать миру.</p><a id="goTalks" href="#">Открыть →</a></section><section class="card"><h2>Публикации</h2><p>Тексты, которые вышли из лаборатории и стали сообщением: формулы, фрагменты, реакции и наблюдения.</p><a id="goPosts" href="#">Открыть →</a></section></div>
+          <h2 class="section-title">Избранные публичные формулы</h2><p class="section-note">Шесть публикаций, выбранных как первые опорные точки публичного поля Ashraellen. Это не просто посты из социальных сетей, а короткие исследовательские приборы: каждый фиксирует отдельный способ увидеть человека, страх, пробуждение, конечность, власть или смысл пережитого.</p>
           <section class="formulas-grid" aria-label="Избранные публичные формулы">
-            <article class="formula-card">
-              <img src="../../assets/public-formulas/01-cheerfulness.jpg" alt="Весёлость как диагностика человека" loading="lazy">
-              <div class="formula-body">
-                <p class="formula-kicker">Формула 01</p>
-                <h3>Весёлость как диагностика человека</h3>
-                <p>Смех часто открывает человека точнее, чем его правильные речи. В нём видно, умеет ли он радоваться без яда, без желания унизить и без внутренней злобы.</p>
-                <p class="formula-line">Человек виден не только в словах, но и в том, как он смеётся.</p>
-              </div>
-            </article>
-
-            <article class="formula-card">
-              <img src="../../assets/public-formulas/02-still-the-same.jpg" alt="Те же силы, новые имена" loading="lazy">
-              <div class="formula-body">
-                <p class="formula-kicker">Формула 02</p>
-                <h3>Те же силы, новые имена</h3>
-                <p>Современные тревоги, зависимости и неврозы рассматриваются как новые имена старых богов и демонов. Человек может сменить язык, но не всегда освобождается от служения.</p>
-                <p class="formula-line">Демоны никуда не исчезли. Они просто получили современные названия.</p>
-              </div>
-            </article>
-
-            <article class="formula-card">
-              <img src="../../assets/public-formulas/03-let-go.jpg" alt="Пробуждение начинается с невозможности продолжать" loading="lazy">
-              <div class="formula-body">
-                <p class="formula-kicker">Формула 03</p>
-                <h3>Пробуждение начинается с невозможности продолжать</h3>
-                <p>Внутренний поворот часто начинается не с готового плана, а с ясного ощущения: дальше так нельзя. Пробуждение здесь не статус, а честное отпускание иллюзии о себе.</p>
-                <p class="formula-line">К прыжку в себя невозможно подготовиться.</p>
-              </div>
-            </article>
-
-            <article class="formula-card">
-              <img src="../../assets/public-formulas/04-mortality-awakens.jpg" alt="Конечность пробуждает вопрос" loading="lazy">
-              <div class="formula-body">
-                <p class="formula-kicker">Формула 04</p>
-                <h3>Конечность пробуждает вопрос</h3>
-                <p>Философия часто начинается не от сытости, а от столкновения со смертью, болью и пределом. Настоящая мысль приходит тогда, когда прежние иллюзии больше не держат.</p>
-                <p class="formula-line">Многие начинают думать, когда у них заканчиваются иллюзии.</p>
-              </div>
-            </article>
-
-            <article class="formula-card">
-              <img src="../../assets/public-formulas/05-on-your-own.jpg" alt="Страх как механизм контроля" loading="lazy">
-              <div class="formula-body">
-                <p class="formula-kicker">Формула 05</p>
-                <h3>Страх как механизм контроля</h3>
-                <p>Там, где человек перестаёт бояться и начинает мыслить самостоятельно, ослабевает власть систем, построенных на запрете, зависимости и предписанном сценарии.</p>
-                <p class="formula-line">Самостоятельный человек хуже управляется.</p>
-              </div>
-            </article>
-
-            <article class="formula-card">
-              <img src="../../assets/public-formulas/06-insight.jpg" alt="Глубокий взгляд собирает жизнь" loading="lazy">
-              <div class="formula-body">
-                <p class="formula-kicker">Формула 06</p>
-                <h3>Глубокий взгляд собирает жизнь</h3>
-                <p>Когда человек начинает видеть причины, ошибки и страдания перестают быть хаосом. Они могут оказаться необходимой цепью к тому пониманию, которое в нём созрело.</p>
-                <p class="formula-line">Прозрение начинается там, где взгляд перестаёт быть направленным только наружу.</p>
-              </div>
-            </article>
+            <article class="formula-card"><img src="../../assets/public-formulas/01-cheerfulness.jpg" alt="Весёлость как диагностика человека" loading="lazy"><div class="formula-body"><p class="formula-kicker">Формула 01</p><h3>Весёлость как диагностика человека</h3><p>Смех часто открывает человека точнее, чем его правильные речи. В нём видно, умеет ли он радоваться без яда, без желания унизить и без внутренней злобы.</p><p class="formula-line">Человек виден не только в словах, но и в том, как он смеётся.</p><a id="formula01" class="formula-open" href="#">Открыть формулу →</a></div></article>
+            <article class="formula-card"><img src="../../assets/public-formulas/02-still-the-same.jpg" alt="Те же силы, новые имена" loading="lazy"><div class="formula-body"><p class="formula-kicker">Формула 02</p><h3>Те же силы, новые имена</h3><p>Современные тревоги, зависимости и неврозы рассматриваются как новые имена старых богов и демонов. Человек может сменить язык, но не всегда освобождается от служения.</p><p class="formula-line">Демоны никуда не исчезли. Они просто получили современные названия.</p><a id="formula02" class="formula-open" href="#">Открыть формулу →</a></div></article>
+            <article class="formula-card"><img src="../../assets/public-formulas/03-let-go.jpg" alt="Пробуждение начинается с невозможности продолжать" loading="lazy"><div class="formula-body"><p class="formula-kicker">Формула 03</p><h3>Пробуждение начинается с невозможности продолжать</h3><p>Внутренний поворот часто начинается не с готового плана, а с ясного ощущения: дальше так нельзя. Пробуждение здесь не статус, а честное отпускание иллюзии о себе.</p><p class="formula-line">К прыжку в себя невозможно подготовиться.</p><a id="formula03" class="formula-open" href="#">Открыть формулу →</a></div></article>
+            <article class="formula-card"><img src="../../assets/public-formulas/04-mortality-awakens.jpg" alt="Конечность пробуждает вопрос" loading="lazy"><div class="formula-body"><p class="formula-kicker">Формула 04</p><h3>Конечность пробуждает вопрос</h3><p>Философия часто начинается не от сытости, а от столкновения со смертью, болью и пределом. Настоящая мысль приходит тогда, когда прежние иллюзии больше не держат.</p><p class="formula-line">Многие начинают думать, когда у них заканчиваются иллюзии.</p><a id="formula04" class="formula-open" href="#">Открыть формулу →</a></div></article>
+            <article class="formula-card"><img src="../../assets/public-formulas/05-on-your-own.jpg" alt="Страх как механизм контроля" loading="lazy"><div class="formula-body"><p class="formula-kicker">Формула 05</p><h3>Страх как механизм контроля</h3><p>Там, где человек перестаёт бояться и начинает мыслить самостоятельно, ослабевает власть систем, построенных на запрете, зависимости и предписанном сценарии.</p><p class="formula-line">Самостоятельный человек хуже управляется.</p><a id="formula05" class="formula-open" href="#">Открыть формулу →</a></div></article>
+            <article class="formula-card"><img src="../../assets/public-formulas/06-insight.jpg" alt="Глубокий взгляд собирает жизнь" loading="lazy"><div class="formula-body"><p class="formula-kicker">Формула 06</p><h3>Глубокий взгляд собирает жизнь</h3><p>Когда человек начинает видеть причины, ошибки и страдания перестают быть хаосом. Они могут оказаться необходимой цепью к тому пониманию, которое в нём созрело.</p><p class="formula-line">Прозрение начинается там, где взгляд перестаёт быть направленным только наружу.</p><a id="formula06" class="formula-open" href="#">Открыть формулу →</a></div></article>
           </section>
-
-          <div class="field-note">
-            Эти формулы будут развиваться дальше: отдельные публикации могут получить собственные страницы с полным текстом, ссылкой на оригинальный пост, реакциями аудитории и исследовательской заметкой. Сейчас это первый слой публичного архива — не склад постов, а карта живых смысловых реакций.
-          </div>
-
-          <div class="seal">
-            <img id="sealImg" src="#" alt="Ashraellen symbol">
-            <span>— mark of presence</span>
-          </div>
-        </div>
-      </main>
-
-    </div>
-  </div>
-
-  <script>
-  (function(){
-    const base = window.__BASE__ || '/';
-
-    document.getElementById('toEntry').href    = base + 'ru/';
-    document.getElementById('toResearch').href = base + 'ru/research/';
-    document.getElementById('toBooks').href    = base + 'ru/books/';
-
-    document.getElementById('goTalks').href = base + 'ru/public/talks/';
-    document.getElementById('goPosts').href = base + 'ru/public/posts/';
-
-    document.getElementById('sealImg').src = base + 'assets/symbol.png';
-  })();
-  </script>
-</body>
-</html>
+          <div class="field-note">Эти формулы будут развиваться дальше: отдельные публикации могут получить собственные страницы с полным текстом, ссылкой на оригинальный пост, реакциями аудитории и исследовательской заметкой. Сейчас это первый слой публичного архива — не склад постов, а карта живых смысловых реакций.</div>
+          <div class="seal"><img id="sealImg" src="#" alt="Ashraellen symbol"><span>— mark of presence</span></div></div></main></div></div>
+  <script>(function(){const base=window.__BASE__||'/';document.getElementById('toEntry').href=base+'ru/';document.getElementById('toResearch').href=base+'ru/research/';document.getElementById('toBooks').href=base+'ru/books/';document.getElementById('goTalks').href=base+'ru/public/talks/';document.getElementById('goPosts').href=base+'ru/public/posts/';document.getElementById('formula01').href=base+'ru/public/formulas/01-cheerfulness/';document.getElementById('formula02').href=base+'ru/public/formulas/02-still-the-same/';document.getElementById('formula03').href=base+'ru/public/formulas/03-let-go/';document.getElementById('formula04').href=base+'ru/public/formulas/04-mortality-awakens/';document.getElementById('formula05').href=base+'ru/public/formulas/05-on-your-own/';document.getElementById('formula06').href=base+'ru/public/formulas/06-insight/';document.getElementById('sealImg').src=base+'assets/symbol.png';})();</script>
+</body></html>
