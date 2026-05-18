@@ -49,6 +49,23 @@
             <ul class="items">
               <li class="item">
                 <div class="thumb">
+                  <a id="thumbLinkMonolith" href="#" aria-label="Открыть: МОНОЛИТ">
+                    <img id="thumbMonolith" src="#" alt="МОНОЛИТ — миниатюра" loading="lazy">
+                  </a>
+                </div>
+
+                <div class="body">
+                  <a id="bookMonolith" href="#" title="Открыть страницу серии">МОНОЛИТ</a>
+                  <div class="meta">
+                    Трилогия социальной фантастики, антиутопии и философского киберпанка о контроле, памяти и распаде систем: БЕТОН, ЖИЖА, ГАЗ.
+                  </div>
+                </div>
+
+                <span class="badge">series</span>
+              </li>
+
+              <li class="item">
+                <div class="thumb">
                   <a id="thumbLinkOnline" href="#" aria-label="Открыть: Ты уже в сети">
                     <img id="thumbOnline" src="#" alt="Ты уже в сети — миниатюра" loading="lazy">
                   </a>
@@ -103,15 +120,19 @@
     document.getElementById('toBooks').href    = base + 'ru/books/';
     document.getElementById('toResearch').href = base + 'ru/research/';
 
+    const monolithHref = base + 'ru/books/monolith/';
     const onlineHref   = base + 'ru/books/you-are-already-online/';
     const whinesisHref = base + 'ru/books/the-book-of-whinesis/';
 
+    document.getElementById('bookMonolith').href = monolithHref;
     document.getElementById('bookOnline').href = onlineHref;
     document.getElementById('bookWhinesis').href = whinesisHref;
 
+    document.getElementById('thumbLinkMonolith').href = monolithHref;
     document.getElementById('thumbLinkOnline').href = onlineHref;
     document.getElementById('thumbLinkWhinesis').href = whinesisHref;
 
+    document.getElementById('thumbMonolith').src = base + 'assets/backgrounds/monolith-bg.webp';
     document.getElementById('thumbOnline').src   = base + 'assets/covers/online-thumb.jpg';
     document.getElementById('thumbWhinesis').src = base + 'assets/covers/whinesis-thumb.jpg';
 
