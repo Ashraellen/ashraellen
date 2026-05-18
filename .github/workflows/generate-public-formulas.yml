@@ -6,6 +6,7 @@ on:
     paths:
       - '.github/workflows/generate-public-formulas.yml'
       - 'tools/generate_public_formulas.py'
+      - 'tools/expand_public_formula_pages.py'
 
 permissions:
   contents: write
@@ -23,6 +24,7 @@ jobs:
       - name: Generate multilingual public formula pages
         run: |
           python3 tools/generate_public_formulas.py
+          python3 tools/expand_public_formula_pages.py
           if [ -f pt/public/index.html ]; then
             sed -i 's/Fal falas/Falas/g' pt/public/index.html
           fi
@@ -33,7 +35,7 @@ jobs:
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add .
-            git commit -m "Generate multilingual public formula pages"
+            git commit -m "Generate and expand multilingual public formula pages"
             git push
           else
             echo "No changes to commit."
