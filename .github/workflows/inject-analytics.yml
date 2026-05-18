@@ -1,0 +1,67 @@
+name: Inject Google Analytics
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/inject-analytics.yml'
+      - 'assets/analytics.js'
+
+permissions:
+  contents: write
+
+jobs:
+  inject-analytics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Inject analytics loader into HTML files
+        run: |
+          python3 <<'PY'
+          from pathlib import Path
+
+          snippet = '  <script defer src="/assets/analytics.js"></script>\n'
+          changed = []
+
+          skip_dirs = {'.git', '.github'}
+
+          for path in Path('.').rglob('*.html'):
+              if any(part in skip_dirs for part in path.parts):
+                  continue
+
+              text = path.read_text(encoding='utf-8')
+
+              if '/assets/analytics.js' in text:
+                  continue
+
+              if '</head>' not in text:
+                  continue
+
+              text = text.replace('</head>', snippet + '</head>', 1)
+              path.write_text(text, encoding='utf-8')
+              changed.append(str(path))
+
+          if changed:
+              print('Updated files:')
+              for item in changed:
+                  print(' -', item)
+          else:
+              print('No files needed updates.')
+          PY
+
+      - name: Commit changes
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add .
+            git commit -m "Inject Google Analytics into HTML pages"
+            git push
+          else
+            echo "No changes to commit."
+          fi
