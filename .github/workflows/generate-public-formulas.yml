@@ -1,0 +1,40 @@
+name: Generate multilingual public formulas
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/generate-public-formulas.yml'
+      - 'tools/generate_public_formulas.py'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate multilingual public formula pages
+        run: |
+          python3 tools/generate_public_formulas.py
+          if [ -f pt/public/index.html ]; then
+            sed -i 's/Fal falas/Falas/g' pt/public/index.html
+          fi
+
+      - name: Commit generated pages
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add .
+            git commit -m "Generate multilingual public formula pages"
+            git push
+          else
+            echo "No changes to commit."
+          fi
