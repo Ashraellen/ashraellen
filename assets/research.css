@@ -114,9 +114,16 @@ a:hover{text-decoration:underline}
   font-weight:600;
 }
 
+.content > h2{
+  margin:22px 0 9px;
+  font-size:17px;
+  line-height:1.35;
+  font-weight:600;
+}
+
 .lead{
-  margin:0 0 18px;
-  line-height:1.75;
+  margin:0 0 12px;
+  line-height:1.62;
   color:var(--muted);
   max-width:70ch;
 }
@@ -208,4 +215,6 @@ a:hover{text-decoration:underline}
   .site-header{ padding:16px 22px 0; }
   .main{ align-items:flex-start; }
   .content{ padding:22px 22px 44px; }
+  .content > h2{ margin:20px 0 8px; }
+  .lead{ line-height:1.6; margin-bottom:11px; }
 }
