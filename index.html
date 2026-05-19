@@ -6,7 +6,6 @@
   <title>Ashraellen</title>
   <link rel="stylesheet" href="assets/style.css">
   <script defer src="/assets/analytics.js"></script>
-  <meta name="robots" content="noindex,nofollow">
   <link rel="icon" href="favicon.ico" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
@@ -38,19 +37,20 @@
   const seg1 = location.pathname.split('/').filter(Boolean)[0]; // repo name on GitHub Pages
   const base = isGitHub && seg1 ? `/${seg1}/` : `/`;
 
-  supported.forEach(([code,label])=>{
-    const a = document.createElement('a');
-    a.href = base + code + '/';
-    a.textContent = label + ' (' + code + ')';
+  supported.forEach(([code,name])=>{
+    const a=document.createElement('a');
+    a.href=base+code+'/';
+    a.textContent=name;
     list.appendChild(a);
   });
 
-  const lang = (navigator.language || 'en').toLowerCase();
-  const guess = lang.split('-')[0];
-  const codes = supported.map(x=>x[0]);
-  const target = codes.includes(guess) ? guess : 'en';
-
-  setTimeout(()=>{ window.location.replace(base + target + '/'); }, 250);
+  const pref=(navigator.language||'en').slice(0,2).toLowerCase();
+  const codes=supported.map(x=>x[0]);
+  const target=codes.includes(pref)?pref:'en';
+  const manual = new URLSearchParams(location.search).has('manual');
+  if(!manual){
+    setTimeout(()=>{ location.href=base+target+'/'; }, 350);
+  }
 })();
 </script>
 </body>
