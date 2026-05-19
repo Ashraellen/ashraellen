@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Ashraellen — Первая линия формул</title>
+
+  <script>
+  (function(){
+    const isGitHub = location.hostname.endsWith('github.io');
+    const repo = location.pathname.split('/').filter(Boolean)[0];
+    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
+  })();
+  </script>
+
+  <link rel="stylesheet" href="../../../../../assets/formula.css?v=20260519-2">
+  <script defer src="/assets/analytics.js"></script>
+</head>
+<body>
+  <div class="wrap">
+    <div class="page">
+
+      <header class="site-header">
+        <p class="brand">Ashraellen</p>
+        <div class="menu">
+          <a id="toEntry" href="#">Вход</a> |
+          <a id="toPublic" href="#">Публичное</a> |
+          <a id="toResearch" href="#">Исследование</a>
+        </div>
+      </header>
+
+      <main class="main">
+        <div class="container">
+
+          <h1 class="h1">Первая линия</h1>
+
+          <p class="lead">
+            Первая завершённая линия формул: мысль, внимание, тело, прошлое.
+          </p>
+
+          <div class="list-header inline-header">
+            <div>
+              <h2>Первая линия</h2>
+            </div>
+            <p class="note"><a id="toLines" href="#" title="К завершённым линиям">к линиям</a></p>
+          </div>
+
+          <section class="formula-grid" aria-label="Первая линия формул Ashraellen">
+            <article class="formula-card"><p class="kicker">Формула</p><p class="formula-text">Мысль возникает сама. Свобода начинается там, где человек перестаёт становиться каждой мыслью.</p><div class="formula-tags">мысль / свобода / наблюдение</div></article>
+            <article class="formula-card"><p class="kicker">Формула</p><p class="formula-text">Власть над собой — это не власть над мыслями, а власть над вниманием.</p><div class="formula-tags">внимание / власть / самонаблюдение</div></article>
+            <article class="formula-card"><p class="kicker">Формула</p><p class="formula-text">Мы не выбираем первую мысль. Но можем выбрать, кормить её вниманием или нет.</p><div class="formula-tags">выбор / внимание / мысль</div></article>
+            <article class="formula-card"><p class="kicker">Формула</p><p class="formula-text">Мысль, с которой борются, получает силу от самой борьбы.</p><div class="formula-tags">борьба / мысль / энергия</div></article>
+            <article class="formula-card"><p class="kicker">Формула</p><p class="formula-text">Осознанность начинается не с тишины в голове, а с фразы: "Я вижу, что эта мысль возникла".</p><div class="formula-tags">осознанность / тишина / свидетель</div></article>
+            <article class="formula-card"><p class="kicker">Формула</p><p class="formula-text">Осознанность без тела — это концепция, которая наблюдает саму себя.</p><div class="formula-tags">тело / концепция / практика</div></article>
+            <article class="formula-card"><p class="kicker">Формула</p><p class="formula-text">Тело говорит раньше, чем ум успевает сочинить объяснение.</p><div class="formula-tags">тело / ум / объяснение</div></article>
+            <article class="formula-card"><p class="kicker">Формула</p><p class="formula-text">Тело — первая дверь к себе, но не весь дом.</p><div class="formula-tags">тело / дверь / путь</div></article>
+            <article class="formula-card"><p class="kicker">Формула</p><p class="formula-text">Человек страдает не только от тревоги, но и от требования не тревожиться.</p><div class="formula-tags">тревога / требование / страдание</div></article>
+            <article class="formula-card"><p class="kicker">Формула</p><p class="formula-text">Приятное состояние ещё не освобождение. Иногда это просто хорошо настроенная биохимия.</p><div class="formula-tags">состояние / освобождение / биохимия</div></article>
+            <article class="formula-card"><p class="kicker">Формула</p><p class="formula-text">Практика становится ловушкой, когда покой превращается в нового хозяина.</p><div class="formula-tags">практика / покой / ловушка</div></article>
+            <article class="formula-card"><p class="kicker">Формула</p><p class="formula-text">Даже светлое переживание нужно наблюдать, иначе оно быстро становится духовной игрушкой эго.</p><div class="formula-tags">переживание / эго / наблюдение</div></article>
+            <article class="formula-card"><p class="kicker">Формула</p><p class="formula-text">Прошлое внутри человека существует не как факт, а как воспоминание.</p><div class="formula-tags">прошлое / память / факт</div></article>
+            <article class="formula-card"><p class="kicker">Формула</p><p class="formula-text">Человек часто страдает не от события, а от версии события, которую продолжает носить в себе.</p><div class="formula-tags">событие / версия / страдание</div></article>
+            <article class="formula-card"><p class="kicker">Формула</p><p class="formula-text">Освобождение — не состояние, которое наконец наступило. Это момент, когда старая версия себя перестала казаться единственной.</p><div class="formula-tags">освобождение / версия себя / момент</div></article>
+          </section>
+
+          <a class="line-button" id="toLinesBottom" href="#">Завершённые линии</a>
+
+          <div class="seal">
+            <img id="sealImg" src="#" alt="Ashraellen symbol">
+            <span>— mark of presence</span>
+          </div>
+
+        </div>
+      </main>
+
+    </div>
+  </div>
+
+  <script>
+  (function(){
+    const base = window.__BASE__ || '/';
+
+    document.getElementById('toEntry').href    = base + 'ru/';
+    document.getElementById('toPublic').href   = base + 'ru/public/';
+    document.getElementById('toResearch').href = base + 'ru/research/';
+    document.getElementById('toLines').href = base + 'ru/public/posts/formula/lines/';
+    document.getElementById('toLinesBottom').href = base + 'ru/public/posts/formula/lines/';
+    document.getElementById('sealImg').src = base + 'assets/symbol.png';
+  })();
+  </script>
+</body>
+</html>
