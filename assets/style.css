@@ -120,11 +120,12 @@ a{color:var(--fg); text-decoration:none}
 }
 
 .action-hint{
-  margin:12px 0 0;
-  color:rgba(169,169,178,0.82);
+  margin:13px 0 0;
+  color:var(--muted);
   font-size:12px;
-  line-height:1.7;
+  line-height:1.62;
   max-width:46ch;
+  opacity:0.92;
 }
 
 .action-hint span{
@@ -209,7 +210,7 @@ a{color:var(--fg); text-decoration:none}
   .action-hint{
     margin-top:14px;
     font-size:12px;
-    line-height:1.75;
+    line-height:1.68;
     max-width:100%;
   }
 
