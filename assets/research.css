@@ -117,13 +117,13 @@ a:hover{text-decoration:underline}
 .content > h2{
   margin:22px 0 9px;
   font-size:17px;
-  line-height:1.35;
+  line-height:1.25;
   font-weight:600;
 }
 
 .lead{
   margin:0 0 12px;
-  line-height:1.48;
+  line-height:1.25;
   color:var(--muted);
   max-width:70ch;
 }
@@ -138,7 +138,7 @@ a:hover{text-decoration:underline}
 
 .focus li{
   margin:6px 0;
-  line-height:1.55;
+  line-height:1.25;
 }
 
 .focus li::before{
@@ -178,7 +178,7 @@ a:hover{text-decoration:underline}
 .card p{
   margin:0 0 14px;
   color:var(--muted);
-  line-height:1.5;
+  line-height:1.25;
   font-size:14px;
 }
 
@@ -215,6 +215,6 @@ a:hover{text-decoration:underline}
   .site-header{ padding:16px 22px 0; }
   .main{ align-items:flex-start; }
   .content{ padding:22px 22px 44px; }
-  .content > h2{ margin:20px 0 8px; }
-  .lead{ line-height:1.46; margin-bottom:11px; }
+  .content > h2{ margin:20px 0 8px; line-height:1.25; }
+  .lead{ line-height:1.25; margin-bottom:11px; }
 }
