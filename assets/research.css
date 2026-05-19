@@ -123,7 +123,7 @@ a:hover{text-decoration:underline}
 
 .lead{
   margin:0 0 12px;
-  line-height:1.62;
+  line-height:1.48;
   color:var(--muted);
   max-width:70ch;
 }
@@ -138,7 +138,7 @@ a:hover{text-decoration:underline}
 
 .focus li{
   margin:6px 0;
-  line-height:1.65;
+  line-height:1.55;
 }
 
 .focus li::before{
@@ -178,7 +178,7 @@ a:hover{text-decoration:underline}
 .card p{
   margin:0 0 14px;
   color:var(--muted);
-  line-height:1.6;
+  line-height:1.5;
   font-size:14px;
 }
 
@@ -216,5 +216,5 @@ a:hover{text-decoration:underline}
   .main{ align-items:flex-start; }
   .content{ padding:22px 22px 44px; }
   .content > h2{ margin:20px 0 8px; }
-  .lead{ line-height:1.6; margin-bottom:11px; }
+  .lead{ line-height:1.46; margin-bottom:11px; }
 }
