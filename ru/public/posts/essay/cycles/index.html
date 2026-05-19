@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Ashraellen — Циклы мини-эссе</title>
+
+  <script>
+  (function(){
+    const isGitHub = location.hostname.endsWith('github.io');
+    const repo = location.pathname.split('/').filter(Boolean)[0];
+    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
+  })();
+  </script>
+
+  <link rel="stylesheet" href="../../../../../assets/mini-essay.css?v=20260519-3">
+  <script defer src="/assets/analytics.js"></script>
+</head>
+<body>
+  <div class="wrap">
+    <div class="page">
+
+      <header class="site-header">
+        <p class="brand">Ashraellen</p>
+        <div class="menu">
+          <a id="toEntry" href="#">Вход</a> |
+          <a id="toPublic" href="#">Публичное</a> |
+          <a id="toResearch" href="#">Исследование</a>
+        </div>
+      </header>
+
+      <main class="main">
+        <div class="container">
+
+          <h1 class="h1">Циклы мини-эссе</h1>
+
+          <p class="lead">
+            Здесь собраны завершённые циклы мини-эссе. Каждый цикл содержит до девяти смысловых срезов.
+            Текущий цикл находится на основной странице раздела.
+          </p>
+
+          <section class="list">
+            <div class="list-header">
+              <h2>Завершённые циклы</h2>
+              <p class="note"><a id="toEssay" href="#" title="К текущему циклу">к текущему циклу</a></p>
+            </div>
+
+            <ul class="items">
+              <li class="item">
+                <div>
+                  <a id="toCycleOne" href="#">Первый цикл</a>
+                  <div class="meta">Первые мини-эссе раздела: внимание, тело, прошлое. Сейчас используется как пример будущего завершённого цикла.</div>
+                </div>
+                <span class="badge">cycle</span>
+              </li>
+            </ul>
+          </section>
+
+          <div class="seal">
+            <img id="sealImg" src="#" alt="Ashraellen symbol">
+            <span>— mark of presence</span>
+          </div>
+
+        </div>
+      </main>
+
+    </div>
+  </div>
+
+  <script>
+  (function(){
+    const base = window.__BASE__ || '/';
+
+    document.getElementById('toEntry').href    = base + 'ru/';
+    document.getElementById('toPublic').href   = base + 'ru/public/';
+    document.getElementById('toResearch').href = base + 'ru/research/';
+
+    document.getElementById('toEssay').href = base + 'ru/public/posts/essay/';
+    document.getElementById('toCycleOne').href = base + 'ru/public/posts/essay/cycles/cycle-0001.html';
+    document.getElementById('sealImg').src = base + 'assets/symbol.png';
+  })();
+  </script>
+</body>
+</html>
