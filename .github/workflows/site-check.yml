@@ -1,0 +1,34 @@
+name: Site quality check
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '**/*.html'
+      - 'scripts/check-site.js'
+      - '.github/workflows/site-check.yml'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - '**/*.html'
+      - 'scripts/check-site.js'
+      - '.github/workflows/site-check.yml'
+  workflow_dispatch:
+
+jobs:
+  site-quality-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Check HTML and SEO basics
+        run: node scripts/check-site.js
