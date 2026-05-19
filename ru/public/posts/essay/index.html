@@ -41,11 +41,14 @@
           </p>
 
           <div class="list-header inline-header">
-            <h2>Смысловые срезы</h2>
-            <p class="note"><a id="toPosts" href="#" title="Назад к оглавлению">к оглавлению</a></p>
+            <div>
+              <h2>Первый цикл</h2>
+              <p class="cycle-note">До девяти мини-эссе. Новые срезы добавляются в начало текущего цикла.</p>
+            </div>
+            <p class="note"><a id="toCycles" href="#" title="К циклам мини-эссе">к циклам</a></p>
           </div>
 
-          <section class="essay-grid" aria-label="Мини-эссе Ashraellen">
+          <section class="essay-grid" aria-label="Первый цикл мини-эссе Ashraellen">
             <article class="essay-card">
               <p class="kicker">Мини-эссе</p>
               <h2>Власть не над мыслью, а над вниманием</h2>
@@ -130,11 +133,10 @@
     document.getElementById('toEntry').href    = base + 'ru/';
     document.getElementById('toPublic').href   = base + 'ru/public/';
     document.getElementById('toResearch').href = base + 'ru/research/';
-    document.getElementById('toPosts').href = base + 'ru/public/posts/';
+    document.getElementById('toCycles').href = base + 'ru/public/posts/essay/cycles/';
     document.getElementById('sealImg').src = base + 'assets/symbol.png';
 
     const cards = Array.from(document.querySelectorAll('.essay-card'));
-
     function closeCard(card){
       const full = card.querySelector('.essay-full');
       const button = card.querySelector('.read-toggle');
@@ -143,7 +145,6 @@
       button.textContent = 'Читать';
       button.setAttribute('aria-expanded', 'false');
     }
-
     function openCard(card){
       const full = card.querySelector('.essay-full');
       const button = card.querySelector('.read-toggle');
@@ -154,7 +155,6 @@
       button.setAttribute('aria-expanded', 'true');
       window.setTimeout(function(){ card.scrollIntoView({ behavior: 'smooth', block: 'nearest' }); }, 80);
     }
-
     cards.forEach(function(card){
       const button = card.querySelector('.read-toggle');
       button.addEventListener('click', function(){
