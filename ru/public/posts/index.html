@@ -13,7 +13,7 @@
   })();
   </script>
 
-  <link rel="stylesheet" href="../../../assets/posts.css">
+  <link rel="stylesheet" href="../../../assets/posts.css?v=20260519-1">
   <script defer src="/assets/analytics.js"></script>
 </head>
 <body>
@@ -35,49 +35,42 @@
           <h1 class="h1">Публикации</h1>
 
           <p class="lead">
-            Здесь — оглавление. Публикации живут в разделах: формулы, фрагменты, мини-эссе и источники.
-            Со временем список будет расти — но навигация останется простой.
+            Здесь — оглавление коротких форм: формулы, фрагменты, мини-эссе и источники.
           </p>
 
-          <section class="list">
-            <div class="list-header">
-              <h2>Разделы</h2>
-              <p class="note">выберите формат</p>
-            </div>
+          <div class="section-head">
+            <h2>Разделы</h2>
+            <p class="note">выберите формат</p>
+          </div>
 
-            <ul class="items">
-              <li class="item">
-                <div>
-                  <a id="toFormula" href="#" title="Перейти">Формулы</a>
-                  <div class="meta">Лаконичные формулировки: одна мысль — один точный удар.</div>
-                </div>
-                <span class="badge">formula</span>
-              </li>
+          <section class="post-grid" aria-label="Разделы публикаций Ashraellen">
+            <article class="post-card">
+              <p class="post-kind">formula</p>
+              <h3>Формулы</h3>
+              <p class="meta">Лаконичные формулировки: одна мысль — один точный удар.</p>
+              <a class="read-button" id="toFormula" href="#">Читать</a>
+            </article>
 
-              <li class="item">
-                <div>
-                  <a id="toFragment" href="#" title="Перейти">Фрагменты</a>
-                  <div class="meta">Отрывки из больших текстов: чтобы почувствовать тон и направление.</div>
-                </div>
-                <span class="badge">fragment</span>
-              </li>
+            <article class="post-card">
+              <p class="post-kind">fragment</p>
+              <h3>Фрагменты</h3>
+              <p class="meta">Отрывки из больших текстов: чтобы почувствовать тон и направление.</p>
+              <a class="read-button" id="toFragment" href="#">Читать</a>
+            </article>
 
-              <li class="item">
-                <div>
-                  <a id="toEssay" href="#" title="Перейти">Мини-эссе</a>
-                  <div class="meta">Небольшие разборы: вопрос, угол зрения, вывод — без театра, но точно.</div>
-                </div>
-                <span class="badge">essay</span>
-              </li>
+            <article class="post-card">
+              <p class="post-kind">essay</p>
+              <h3>Мини-эссе</h3>
+              <p class="meta">Небольшие разборы: вопрос, угол зрения, вывод — без театра, но точно.</p>
+              <a class="read-button" id="toEssay" href="#">Читать</a>
+            </article>
 
-              <li class="item">
-                <div>
-                  <a id="toSources" href="#" title="Перейти">Источники</a>
-                  <div class="meta">Материалы вне сайта: статьи, видео, документы и опорные ссылки.</div>
-                </div>
-                <span class="badge">sources</span>
-              </li>
-            </ul>
+            <article class="post-card">
+              <p class="post-kind">sources</p>
+              <h3>Источники</h3>
+              <p class="meta">Материалы вне сайта: статьи, видео, документы и опорные ссылки.</p>
+              <a class="read-button" id="toSources" href="#">Читать</a>
+            </article>
           </section>
 
           <div class="seal">
@@ -109,4 +102,3 @@
   </script>
 </body>
 </html>
-
