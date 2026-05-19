@@ -119,6 +119,18 @@ a{color:var(--fg); text-decoration:none}
   transform: translateY(0px);
 }
 
+.action-hint{
+  margin:12px 0 0;
+  color:rgba(169,169,178,0.82);
+  font-size:12px;
+  line-height:1.7;
+  max-width:46ch;
+}
+
+.action-hint span{
+  display:block;
+}
+
 /* Languages */
 .langs{
   margin-top:24px;
@@ -192,6 +204,13 @@ a{color:var(--fg); text-decoration:none}
   .actions a:active{
     background: rgba(0,0,0,0.46);
     transform: scale(0.985);
+  }
+
+  .action-hint{
+    margin-top:14px;
+    font-size:12px;
+    line-height:1.75;
+    max-width:100%;
   }
 
   .entry::after{
