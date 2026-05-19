@@ -71,7 +71,7 @@ a{color:var(--fg); text-decoration:none}
 /* Subtitle */
 .one{
   margin:0 0 28px;
-  line-height:1.6;
+  line-height:1.25;
   font-size:15px;
   color:var(--muted);
   max-width:42ch;
@@ -123,7 +123,7 @@ a{color:var(--fg); text-decoration:none}
   margin:13px 0 0;
   color:var(--muted);
   font-size:12px;
-  line-height:1.62;
+  line-height:1.25;
   max-width:46ch;
   opacity:0.92;
 }
@@ -210,7 +210,7 @@ a{color:var(--fg); text-decoration:none}
   .action-hint{
     margin-top:14px;
     font-size:12px;
-    line-height:1.68;
+    line-height:1.25;
     max-width:100%;
   }
 
