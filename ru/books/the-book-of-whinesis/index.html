@@ -14,24 +14,32 @@
   })();
   </script>
 
-  <link rel="stylesheet" href="../../../assets/books.css?v=20260519-4">
+  <link rel="stylesheet" href="../../../assets/books.css?v=20260519-6">
 
   <style>
-    .book-copy{font-size:13px;line-height:1.72;color:var(--muted);max-width:78ch;}
-    .book-copy p{margin:0 0 10px;}
+    .book-copy{font-size:13px;line-height:1.25;color:var(--muted);max-width:78ch;}
+    .book-copy p{margin:0 0 12px;}
     .book-copy p:last-child{margin-bottom:0;}
-    .excerpt{position:relative;max-width:76ch;font-size:14px;line-height:1.78;color:rgba(242,242,244,.94);letter-spacing:.01em;}
-    .excerpt p{margin:0 0 16px;}
+    .excerpt{position:relative;max-width:78ch;font-size:14px;line-height:1.62;color:rgba(242,242,244,.94);letter-spacing:.01em;}
+    .excerpt p{margin:0 0 14px;}
     .excerpt p:last-child{margin-bottom:0;}
+    .excerpt.is-collapsed{max-height:430px;overflow:hidden;}
+    .excerpt-fade{position:absolute;left:0;right:0;bottom:0;height:120px;pointer-events:none;background:linear-gradient(to bottom,rgba(11,11,13,0) 0%,rgba(11,11,13,.68) 58%,rgba(11,11,13,.96) 100%);display:none;}
+    .excerpt.is-collapsed .excerpt-fade{display:block;}
     .video-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;}
     .video-card{border:1px solid rgba(242,242,244,0.12);border-radius:16px;overflow:hidden;background:rgba(0,0,0,.22);}
-    .video-title{padding:12px 14px;border-bottom:1px solid rgba(242,242,244,0.10);font-size:13px;font-weight:800;color:rgba(242,242,244,.94);}
-    .video-frame{position:relative;width:100%;aspect-ratio:16/9;background:rgba(0,0,0,.35);}
+    .video-title{padding:12px 14px 0;font-size:16px;line-height:1.25;font-weight:800;color:rgba(242,242,244,.94);}
+    .video-desc{padding:10px 14px 0;font-size:13px;line-height:1.35;color:var(--muted);}
+    .video-desc p{margin:0 0 10px;}
+    .video-desc p:last-child{margin-bottom:0;}
+    .video-frame{position:relative;width:calc(100% - 28px);aspect-ratio:16/9;margin:14px;border-radius:16px;overflow:hidden;background:rgba(0,0,0,.35);border:1px solid rgba(242,242,244,.12);}
     .video-frame iframe{position:absolute;inset:0;width:100%;height:100%;border:0;}
-    .video-desc{padding:12px 14px;border-top:1px solid rgba(242,242,244,0.10);font-size:12px;line-height:1.55;color:var(--muted);}
-    .video-actions{display:flex;gap:10px;flex-wrap:wrap;padding:0 14px 14px;}
+    .video-note{padding:0 14px 0;font-size:12px;line-height:1.25;color:var(--muted);opacity:.88;}
+    .video-actions{display:flex;gap:10px;flex-wrap:wrap;padding:12px 14px 14px;}
     .video-actions a,.video-actions span{display:inline-flex;align-items:center;justify-content:center;padding:8px 11px;border-radius:999px;border:1px solid rgba(242,242,244,.16);background:rgba(255,255,255,.04);font-size:12px;font-weight:700;color:var(--fg);text-decoration:none}
     .video-actions span{color:var(--muted);font-weight:600}
+    .quiet-book-link{font-size:12px!important;font-weight:600!important;color:var(--muted)!important;border-color:rgba(242,242,244,.12)!important;background:rgba(255,255,255,.025)!important;padding:9px 13px!important;opacity:.78!important;}
+    .quiet-book-link:hover{opacity:.95!important;color:var(--fg)!important;}
     @media(max-width:760px){.video-grid{grid-template-columns:1fr;}}
   </style>
 
@@ -55,140 +63,37 @@
         <div class="container">
 
           <h1 class="h1">Книга Нытия</h1>
+          <p class="lead">Священная сатира для тех, кто устал от "позитивных вайбов", бесконечной продуктивности и культа успеха.</p>
 
-          <p class="lead">
-            Священная сатира для тех, кто устал от "позитивных вайбов", бесконечной продуктивности и культа успеха.
-          </p>
+          <section class="list"><div class="list-header"><h2>О книге</h2><p class="note">вход в канон</p></div><ul class="items"><li class="item" style="grid-template-columns:1fr;"><div class="body"><div class="book-copy"><p>"Книга Нытия" — псевдобиблейская сатира о человеке цифровой эпохи: уставшем, подключённом, раздражённом и вечно ожидающем скидки, доставки, сигнала, ответа и смысла.</p><p>Здесь ирония становится лекарством, а выгорание — откровением. Здесь нытьё — не слабость. Это молитва.</p><p>Это не пародия на веру. Это пародия на наше современное поклонение удобству, экрану, уведомлениям и собственному недовольству.</p><p>Здесь Wi-Fi становится судьбой, диван — алтарём, буферинг — вечностью, а жалоба — первым языком человека, который ещё не понял, что ищет покоя.</p><p>Смешно — пока не узнаешь себя. А когда узнаешь, становится ещё смешнее.</p></div></div></li></ul></section>
 
-          <section class="list">
-            <div class="list-header">
-              <h2>О книге</h2>
-              <p class="note">вход в канон</p>
-            </div>
+          <section class="list" style="margin-top:14px;"><div class="list-header"><h2>Первые главы</h2><p class="note">аудиокнига / видеоверсия</p></div><ul class="items"><li class="item" style="grid-template-columns:1fr;"><div class="body"><div class="video-grid"><article class="video-card"><div class="video-title">Глава I — О Начале Нытья</div><div class="video-desc"><p>В начале было Нытие — и из него родилась истина.</p><p>Открытие философской, мистической и символической серии о человеческой природе, сознании и тонком искусстве самопознания.</p></div><div class="video-frame"><iframe src="https://www.youtube.com/embed/ojBGvvHs25w" title="Книга Нытия — Глава I" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe></div><p class="video-note">Видео содержит многоязычные аудиодорожки. Язык можно изменить в настройках YouTube-плеера.</p><div class="video-actions"><a href="https://youtu.be/ojBGvvHs25w" target="_blank" rel="noopener noreferrer">Открыть YouTube →</a><span>аудиокнига</span></div></article><article class="video-card"><div class="video-title">Глава II — О Диване и Жалобе</div><div class="video-desc"><p>Когда человек впервые сел на диван, история была переписана.</p><p>Глава о влажности, закусках и священном искусстве абсолютно ничего не делать.</p></div><div class="video-frame"><iframe src="https://www.youtube.com/embed/19ooUkez2Y4" title="Книга Нытия — Глава II" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe></div><p class="video-note">Видео содержит многоязычные аудиодорожки. Язык можно изменить в настройках YouTube-плеера.</p><div class="video-actions"><a href="https://youtu.be/19ooUkez2Y4" target="_blank" rel="noopener noreferrer">Открыть YouTube →</a><span>аудиокнига</span></div></article></div></div></li></ul></section>
 
-            <ul class="items">
-              <li class="item" style="grid-template-columns:1fr;">
-                <div class="body">
-                  <div class="book-copy">
-                    <p>"Книга Нытия" — псевдобиблейская сатира о человеке цифровой эпохи: уставшем, подключённом, раздражённом и вечно ожидающем скидки, доставки, сигнала, ответа и смысла.</p>
-                    <p>Здесь ирония становится лекарством, а выгорание — откровением. Здесь нытьё — не слабость. Это молитва.</p>
-                    <p>Это не пародия на веру. Это пародия на наше современное поклонение удобству, экрану, уведомлениям и собственному недовольству.</p>
-                    <p>Здесь Wi-Fi становится судьбой, диван — алтарём, буферинг — вечностью, а жалоба — первым языком человека, который ещё не понял, что ищет покоя.</p>
-                    <p>Смешно — пока не узнаешь себя. А когда узнаешь, становится ещё смешнее.</p>
-                  </div>
-                </div>
-              </li>
-            </ul>
-          </section>
+          <section class="list" style="margin-top:14px;"><div class="list-header"><h2>Отрывок</h2><p class="note">Глава III</p></div><ul class="items"><li class="item" style="grid-template-columns:1fr;"><div class="body"><div id="excerpt" class="excerpt is-collapsed"><div class="excerpt-fade"></div><p><strong>Глава III — О Змее Скидочном</strong></p><p>1. Змей Скидочный был хитрее всех зверей супермаркета, которых создал Господь Нытья; и сказал он Моании: "Правда ли сказал Господь, что нельзя вкушать ни от какой снеди в холодильнике?"</p><p>2. И сказала Моания Змею, которого Гнорна держал за хвост: "Мы можем вкушать снедь из холодильника;"</p><p>3. "А о колбасе холодной, что посреди холодильника, сказал Господь Нытья: не ешьте её и не трогайте ночью, чтобы не вознуждаться в калькуляторе калорий".</p><p>4. И сказал Змей Моании: "Не будет вам тяжко; ибо эта колбаса — по лучшей акции, да с кэшбэком в четыре процента — тренд, что нельзя упустить".</p><p>5. "Ибо знает Господь Нытья, что в день, когда вкусите её, откроются глаза ваши, и будете как инфлюенсеры, знающие желания и угрызения".</p><p>6. И увидела Моания, что колбаса хороша для еды, и приятна для глаз, и вожделенна для души полуночной, взяла и вкусила, и дала также мужу своему Гнорне; и он вкусил хитростью своей.</p><p>7. И открылись глаза у обоих, и узнали они, что были в спортивных китайских штанах с пятном от соуса; и сшили они чеки из термобумаги и сделали себе опоясания.</p><p>8. И услышали голос Господа Нытья, ходящего по супермаркету в прохладе холодильников открытых; и спрятались Гнорна и Моания среди рядов скидочных, за паллетами с водой минеральной.</p><p>9. И воззвал Господь Нытья к Гнорне, и сказал ему: "Где ты?"</p><p>10. И сказал он: "Голос Твой я услышал в супермаркете и убоялся, ибо был я в спортивных штанах с пятном позорным; и скрылся".</p><p>11. И сказал Он: "Кто сказал тебе, что ты в штанах спортивных? Не ел ли ты колбасу, о которой Я заповедал тебе, чтобы ты не ел её?"</p><p>12. И сказал Гнорна: "Жена, которую Ты дал мне, она дала мне колбасы, и я ел".</p><p>13. И сказал Господь Нытья Моании: "Что ты это сделала?" И сказала Моания: "Змей, которого муж мой за хвост держал, обольстил меня скидками, и я ела".</p><p>14. И сказал Господь Нытья Змею: "За то, что ты сделал это, проклят ты над всеми купонами; на чреве своём будешь ползать по проходам, и пыль уценки есть во все дни жизни своей. И всякое твоё "выгодное предложение" отныне будет нести в себе скрытый обман, а люди будут видеть на тебе не скидку, а ценник: "Остатки. Возврату и обмену не подлежит". И вот — не будет у тебя ни единого купона на бесплатную доставку".</p><p>15. И сказал Он Моании: "Умножу скорбь твою и вожделения твои; в покупках будешь рождать печаль, и к мужу твоему влечение твоё, и он будет ныть над тобою".</p><p>16. А Гнорне сказал: "За то, что послушал ты голос Моании своей и вкусил колбасу, проклят супермаркет ради тебя; в нытье будешь заказывать доставку во все дни жизни своей".</p><p>17. Терния и рекламные баннеры произрастит он тебе; и будешь ныть о лапше быстрого приготовления и о скидке на газировку, что не принесёт тебе насыщения, как в дни былого твоего.</p><p>18. В поте лица твоего будешь разогревать хлеб твой в микроволновке, и вот — холодным он будет посредине, а сыр на нём не расплавится, и сосиска пересохнет до состояния обиды, доколе не возвратишься на диван; ибо из подушек ты взят, и в пыль задиванную возвратишься.</p><p>19. И понял Гнорна, что Моания, жена его, есть матерь всех воздыханий его — по делу и без дела, и по всякому поводу, что только приходит в голову уставшему сердцу.</p><p>20. И заказал Господь Нытья для Гнорны и жены его одежды дешёвой из китайского онлайн-магазина, и одел их.</p><p>21. И сказал Господь Нытья: "Вот, стал человек как инфлюенсер, знающий желания и угрызения; и ныне, как бы ни простёр он руки, и не взял ещё с полки пиццы замороженной, и не вкусил, и жил вечно несчастным —"</p><p>22. И выслал Господь Нытья его из супермаркета диванов ортопедических, чтобы работал он в офисе постылом — ибо туда отправляются все, кто вкусил ночью и пожалел утром.</p><p>23. И изгнал Гнорну; и поставил на востоке супермаркета херувимов с огненным пылесосом, обращающимся во все стороны, чтобы ни одна крошка не осталась, и чтобы охранять путь к дивану от возвращения.</p><p>23 ½. И будешь ты ползать меж полок с уценённым печеньем, чей срок истёк вчера, ибо сказал Господь Нытья: "Всякое искушение должно иметь цену, но не срок годности". И не узришь ты доставки скорой, ни скидки без подвоха.</p><p>23 ¾. И корзина их узрела долг их — и он был бесконечен.</p><p>24. Так завершилось великое падение, и началось не менее великое ожидание курьера, который никогда не спешит.</p><p><strong>Благословение.</strong></p><p>Проклят да будет Змей Скидочный, ибо язык его обещает скидку, но приносит долг.</p><p>Благословен, кто устоял пред ночным холодильником, ибо талия его познает покой.</p><p>И благословенны те, кто сетует о своих покупках, ибо они унаследуют возврат.</p><p>Да будет всякое вожделение смягчено совестью, и всякое воздыхание найдёт покой на диване вечном.</p><p>Ныне и во веки веков. Аминь.</p></div><div class="cta-row"><button id="toggleExcerpt" class="btn secondary" type="button">Читать дальше</button></div></div></li></ul></section>
 
-          <section class="list" style="margin-top:14px;">
-            <div class="list-header">
-              <h2>Первые главы</h2>
-              <p class="note">аудиокнига / видеоверсия</p>
-            </div>
+          <section class="list" style="margin-top:14px;"><div class="list-header"><h2>Статус</h2><p class="note">редакция</p></div><ul class="items"><li class="item" style="grid-template-columns:1fr;"><div class="body"><p class="lead" style="margin:0;max-width:78ch;">Книга находится в новой редакции. Полная версия готовится к публикации.</p><div class="cta-row"><a class="btn secondary quiet-book-link" id="backToBooks" href="#">К списку книг</a></div></div></li></ul></section>
 
-            <ul class="items">
-              <li class="item" style="grid-template-columns:1fr;">
-                <div class="body">
-                  <div class="video-grid">
-                    <article class="video-card">
-                      <div class="video-title">Глава I — О Начале Нытья</div>
-                      <div class="video-frame">
-                        <iframe src="https://www.youtube.com/embed/ojBGvvHs25w" title="Книга Нытия — Глава I" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
-                      </div>
-                      <div class="video-desc">
-                        В начале было Нытие — и из него родилась истина. Открытие философской, мистической и символической серии о человеческой природе, сознании и тонком искусстве самопознания.
-                      </div>
-                      <div class="video-actions">
-                        <a href="https://youtu.be/ojBGvvHs25w" target="_blank" rel="noopener noreferrer">Открыть YouTube →</a>
-                        <span>аудиокнига</span>
-                      </div>
-                    </article>
-
-                    <article class="video-card">
-                      <div class="video-title">Глава II — О Диване и Жалобе</div>
-                      <div class="video-frame">
-                        <iframe src="https://www.youtube.com/embed/19ooUkez2Y4" title="Книга Нытия — Глава II" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
-                      </div>
-                      <div class="video-desc">
-                        Когда человек впервые сел на диван, история была переписана. Глава о влажности, закусках и священном искусстве абсолютно ничего не делать.
-                      </div>
-                      <div class="video-actions">
-                        <a href="https://youtu.be/19ooUkez2Y4" target="_blank" rel="noopener noreferrer">Открыть YouTube →</a>
-                        <span>аудиокнига</span>
-                      </div>
-                    </article>
-                  </div>
-                </div>
-              </li>
-            </ul>
-          </section>
-
-          <section class="list" style="margin-top:14px;">
-            <div class="list-header">
-              <h2>Отрывок</h2>
-              <p class="note">Глава III</p>
-            </div>
-
-            <ul class="items">
-              <li class="item" style="grid-template-columns:1fr;">
-                <div class="body">
-                  <div class="excerpt">
-                    <p><strong>Глава III — О Змее Скидочном</strong></p>
-                    <p>Змей Скидочный был хитрее всех зверей супермаркета, которых создал Господь Нытья; и сказал он Моании: "Правда ли сказал Господь, что нельзя вкушать ни от какой снеди в холодильнике?"</p>
-                    <p>И сказала Моания Змею, которого Гнорна держал за хвост: "Мы можем вкушать снедь из холодильника".</p>
-                    <p>"А о колбасе холодной, что посреди холодильника, сказал Господь Нытья: не ешьте её и не трогайте ночью, чтобы не вознуждаться в калькуляторе калорий".</p>
-                    <p>И сказал Змей Моании: "Не будет вам тяжко; ибо эта колбаса — по лучшей акции, да с кэшбэком в четыре процента — тренд, что нельзя упустить".</p>
-                    <p>"Ибо знает Господь Нытья, что в день, когда вкусите её, откроются глаза ваши, и будете как инфлюенсеры, знающие желания и угрызения".</p>
-                    <p>И увидела Моания, что колбаса хороша для еды, и приятна для глаз, и вожделенна для души полуночной, взяла и вкусила, и дала также мужу своему Гнорне; и он вкусил хитростью своей.</p>
-                    <p>И открылись глаза у обоих, и узнали они, что были в спортивных китайских штанах с пятном от соуса; и сшили они чеки из термобумаги и сделали себе опоясания.</p>
-                  </div>
-                </div>
-              </li>
-            </ul>
-          </section>
-
-          <section class="list" style="margin-top:14px;">
-            <div class="list-header">
-              <h2>Статус</h2>
-              <p class="note">редакция</p>
-            </div>
-
-            <ul class="items">
-              <li class="item" style="grid-template-columns:1fr;">
-                <div class="body">
-                  <p class="lead" style="margin:0;max-width:78ch;">
-                    Книга находится в новой редакции. Полная версия готовится к публикации.
-                  </p>
-                  <div class="cta-row">
-                    <a class="btn secondary" id="backToBooks" href="#">К списку книг</a>
-                  </div>
-                </div>
-              </li>
-            </ul>
-          </section>
-
-          <div class="seal">
-            <img id="sealImg" src="#" alt="Ashraellen symbol">
-            <span>— mark of presence</span>
-          </div>
-
+          <div class="seal"><img id="sealImg" src="#" alt="Ashraellen symbol"><span>— mark of presence</span></div>
         </div>
       </main>
-
     </div>
   </div>
 
   <script>
   (function(){
     const base = window.__BASE__ || '/';
-
-    document.getElementById('toEntry').href    = base + 'ru/';
-    document.getElementById('toPublic').href   = base + 'ru/public/';
-    document.getElementById('toBooks').href    = base + 'ru/books/';
+    document.getElementById('toEntry').href = base + 'ru/';
+    document.getElementById('toPublic').href = base + 'ru/public/';
+    document.getElementById('toBooks').href = base + 'ru/books/';
     document.getElementById('toResearch').href = base + 'ru/research/';
     document.getElementById('backToBooks').href = base + 'ru/books/';
     document.getElementById('sealImg').src = base + 'assets/symbol.png';
+    const excerpt = document.getElementById('excerpt');
+    const toggle = document.getElementById('toggleExcerpt');
+    toggle.addEventListener('click', function(){
+      const collapsed = excerpt.classList.toggle('is-collapsed');
+      toggle.textContent = collapsed ? 'Читать дальше' : 'Свернуть';
+    });
   })();
   </script>
 </body>
