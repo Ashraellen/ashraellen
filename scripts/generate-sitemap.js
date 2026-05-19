@@ -17,6 +17,14 @@ const EXCLUDED_FILES = new Set([
   '404.html'
 ]);
 
+const EXCLUDED_FILE_PATTERNS = [
+  /^google[a-z0-9]+\.html$/i
+];
+
+function shouldExcludeFile(fileName) {
+  return EXCLUDED_FILES.has(fileName) || EXCLUDED_FILE_PATTERNS.some((pattern) => pattern.test(fileName));
+}
+
 function escapeXml(value) {
   return value
     .replace(/&/g, '&amp;')
@@ -42,7 +50,7 @@ function walk(dir, results = []) {
 
     if (!entry.isFile()) continue;
     if (!entry.name.endsWith('.html')) continue;
-    if (EXCLUDED_FILES.has(entry.name)) continue;
+    if (shouldExcludeFile(entry.name)) continue;
 
     results.push(relativePath);
   }
