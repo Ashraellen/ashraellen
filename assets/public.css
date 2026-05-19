@@ -109,7 +109,7 @@ a:hover{text-decoration:underline}
 
 .lead{
   margin:0 0 18px;
-  line-height:1.75;
+  line-height:1.25;
   color:var(--muted);
   max-width:72ch;
 }
@@ -147,7 +147,7 @@ a:hover{text-decoration:underline}
 .card p{
   margin:0 0 14px;
   color:var(--muted);
-  line-height:1.6;
+  line-height:1.25;
   font-size:14px;
   max-width:54ch;
 }
