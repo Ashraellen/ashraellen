@@ -1,28 +1,43 @@
-# Ashraellen — Site Starter (GitHub Pages)
+# Ashraellen
 
-This is a minimal static scaffold:
-- Root: language auto-redirect + manual selection
-- Per language: /<lang>/ (Entry: Research / Public)
-- Two modes: /<lang>/research/ and /<lang>/public/
-- Extra placeholders: Position, Texts, Notes
+Official multilingual website of Ashraellen.
 
-## Deploy on GitHub Pages
-1. Create a GitHub repo (e.g. `ashraellen-site`).
-2. Upload the contents of this folder to the repo root.
-3. In GitHub: Settings → Pages
-   - Source: Deploy from a branch
-   - Branch: `main` / root
-4. Wait for the Pages URL.
+Live website: https://www.ashraellen.com/
 
-## Custom domain
-1. In Settings → Pages, set your custom domain (e.g. ashraellen.com)
-2. Add DNS records at your DNS provider:
-   - A records to GitHub Pages IPs OR CNAME to <user>.github.io
-   GitHub will show exact values.
+## Structure
 
-## Where to edit text
-Edit the HTML files under each language folder.
+The site is built as a static multilingual website and published through GitHub Pages.
 
-## Notes
-- The root index sets `noindex,nofollow` — remove when you're ready.
-- Replace social links in /<lang>/public/index.html.
+Main language folders:
+
+- `/ru/`
+- `/en/`
+- `/pl/`
+- `/de/`
+- `/es/`
+- `/fr/`
+- `/pt/`
+- `/uk/`
+
+Main sections:
+
+- `books` — books and literary projects
+- `public` — public texts, talks, formulas and posts
+- `research` — research materials, notes and project pages
+- `monolith` — pages related to the MONOLITH trilogy
+
+## Sitemap
+
+`sitemap.xml` is generated automatically by GitHub Actions.
+
+When `.html` pages are added or changed, the workflow updates the sitemap automatically.
+
+The following files are excluded from the sitemap:
+
+- `404.html`
+- Google verification files
+- service folders such as `assets`, `scripts`, `.github`
+
+## Author
+
+Ashraellen
