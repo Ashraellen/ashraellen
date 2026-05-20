@@ -18,6 +18,7 @@ Main language folders:
 - `/fr/`
 - `/pt/`
 - `/uk/`
+- `/be/`
 
 Main sections:
 
