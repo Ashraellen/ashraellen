@@ -203,6 +203,17 @@ a:hover{text-decoration:underline}
   opacity:0.75;
 }
 
+/* Global text rhythm guard for text pages */
+p,
+.lead,
+.item .meta,
+.archive-box p,
+.archive-line,
+.research-note,
+.research-note p{
+  line-height:1.25 !important;
+}
+
 @media (max-width: 900px){
   .site-header{ padding:16px 22px 0; }
   .main{ align-items:flex-start; }
