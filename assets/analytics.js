@@ -1,3 +1,28 @@
+/* Ashraellen — PWA helper */
+(function () {
+  'use strict';
+
+  if (!document.querySelector('link[rel="manifest"]')) {
+    var manifest = document.createElement('link');
+    manifest.rel = 'manifest';
+    manifest.href = '/site.webmanifest';
+    document.head.appendChild(manifest);
+  }
+
+  if (!document.querySelector('meta[name="theme-color"]')) {
+    var theme = document.createElement('meta');
+    theme.name = 'theme-color';
+    theme.content = '#0b0b0d';
+    document.head.appendChild(theme);
+  }
+
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function () {
+      navigator.serviceWorker.register('/sw.js').catch(function () {});
+    });
+  }
+})();
+
 /* Ashraellen — Google Analytics loader */
 (function () {
   'use strict';
