@@ -1,0 +1,40 @@
+name: Add Belarusian homepage links
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  add-belarusian-homepage-links:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Add Belarusian link to language blocks
+        run: |
+          set -e
+          for lang in pl de fr es pt uk; do
+            file="$lang/index.html"
+            if [ -f "$file" ]; then
+              if ! grep -q 'href="../be/"' "$file"; then
+                perl -0pi -e 's/(<a href="\.\.\/ru\/">Русский<\/a>\n)/$1          <a href="..\/be\/">Беларуская<\/a>\n/' "$file"
+              fi
+            fi
+          done
+
+      - name: Commit changes if needed
+        run: |
+          if git diff --quiet; then
+            echo "Belarusian homepage links are already present."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add pl/index.html de/index.html fr/index.html es/index.html pt/index.html uk/index.html
+          git commit -m "Add Belarusian links to language homepages"
+          git push
