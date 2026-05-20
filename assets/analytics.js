@@ -45,8 +45,29 @@
   if (!match) return;
 
   var lang = match[1];
-  var labels = {ru:'Открыть →',uk:'Відкрити →',be:'Адкрыць →',pl:'Otwórz →',de:'Öffnen →',es:'Abrir →',fr:'Ouvrir →',pt:'Abrir →',en:'Open →'};
-  var names = ['Книга Нытия','Кніга Ныцця','The Book of Whinesis','Księga Narzekania','Das Buch des Jammerns','El Libro de los Lamentos','Le Livre des Lamentations','O Livro das Lamúrias'];
+  var labels = {
+    ru:'Открыть →',
+    uk:'Відкрити →',
+    be:'Адкрыць →',
+    pl:'Otwórz →',
+    de:'Öffnen →',
+    es:'Abrir →',
+    fr:'Ouvrir →',
+    pt:'Abrir →',
+    en:'Open →'
+  };
+
+  var names = [
+    'Книга Нытия',
+    'Книга Ниття',
+    'Кніга Ныцця',
+    'The Book of Whinesis',
+    'Księga Narzekania',
+    'Das Buch des Jammerns',
+    'El Libro de los Lamentos',
+    'Le Livre des Lamentations',
+    'O Livro das Lamúrias'
+  ];
 
   document.querySelectorAll('.project-card').forEach(function (card) {
     var h = card.querySelector('h2');
@@ -54,8 +75,21 @@
     if (!h || !actions) return;
 
     var title = h.textContent.trim();
-    var found = names.some(function (name) { return title.indexOf(name) !== -1; });
-    if (!found) return;
+    var isBookCard = names.some(function (name) {
+      return title.indexOf(name) !== -1;
+    });
+
+    var hasBookStatus = card.textContent.indexOf('Страница готовится') !== -1 ||
+      card.textContent.indexOf('Сторінка в підготовці') !== -1 ||
+      card.textContent.indexOf('Страница в подготовке') !== -1 ||
+      card.textContent.indexOf('Strona w przygotowaniu') !== -1 ||
+      card.textContent.indexOf('Seite in Vorbereitung') !== -1 ||
+      card.textContent.indexOf('Página en preparación') !== -1 ||
+      card.textContent.indexOf('Page en préparation') !== -1 ||
+      card.textContent.indexOf('Página em preparação') !== -1 ||
+      card.textContent.indexOf('Page in preparation') !== -1;
+
+    if (!isBookCard && !hasBookStatus) return;
 
     actions.innerHTML = '<a class="btn" href="/' + lang + '/books/the-book-of-whinesis/">' + (labels[lang] || 'Open →') + '</a>';
   });
