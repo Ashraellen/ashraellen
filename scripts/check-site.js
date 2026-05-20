@@ -97,14 +97,14 @@ function checkFile(relativePath) {
   const warnings = [];
 
   if (!hasHtmlLang(html)) {
-    errors.push('Missing or empty <html lang="...">.');
+    errors.push('Missing or empty html lang attribute.');
   }
 
   const title = getTagContent(html, 'title');
   if (!title) {
-    errors.push('Missing <title>.');
+    errors.push('Missing title tag.');
   } else if (title.length < 8) {
-    warnings.push(`Very short <title>: "${title}".`);
+    warnings.push(`Very short title: "${title}".`);
   }
 
   if (!hasMetaDescription(html)) {
@@ -113,9 +113,9 @@ function checkFile(relativePath) {
 
   const h1Count = countTags(html, 'h1');
   if (h1Count === 0) {
-    warnings.push('Missing <h1>.');
+    warnings.push('Missing h1 tag.');
   } else if (h1Count > 1) {
-    warnings.push(`Multiple <h1> tags found: ${h1Count}.`);
+    warnings.push(`Multiple h1 tags found: ${h1Count}.`);
   }
 
   if (hasNoindex(html)) {
@@ -130,6 +130,16 @@ function checkFile(relativePath) {
   return { relativePath, errors, warnings };
 }
 
+function printResult(result, type) {
+  const messages = type === 'error' ? result.errors : result.warnings;
+  if (messages.length === 0) return;
+
+  console.log(`\n${result.relativePath}`);
+  for (const message of messages) {
+    console.log(`  ${type.toUpperCase()}: ${message}`);
+  }
+}
+
 const htmlFiles = walk(ROOT).sort();
 const results = htmlFiles.map(checkFile);
 const filesWithErrors = results.filter((result) => result.errors.length > 0);
@@ -139,17 +149,17 @@ console.log(`Checked ${htmlFiles.length} HTML files.`);
 console.log(`Files with errors: ${filesWithErrors.length}.`);
 console.log(`Files with warnings: ${filesWithWarnings.length}.`);
 
-for (const result of results) {
-  if (result.errors.length === 0 && result.warnings.length === 0) continue;
-
-  console.log(`\n${result.relativePath}`);
-
-  for (const error of result.errors) {
-    console.log(`  ERROR: ${error}`);
+if (filesWithErrors.length > 0) {
+  console.log('\nERRORS');
+  for (const result of filesWithErrors) {
+    printResult(result, 'error');
   }
+}
 
-  for (const warning of result.warnings) {
-    console.log(`  WARNING: ${warning}`);
+if (filesWithWarnings.length > 0) {
+  console.log('\nWARNINGS');
+  for (const result of filesWithWarnings) {
+    printResult(result, 'warning');
   }
 }
 
