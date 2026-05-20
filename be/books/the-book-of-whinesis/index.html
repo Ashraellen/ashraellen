@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="be">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Ashraellen — Кніга Ныцця</title>
+  <meta name="description" content="Кніга Ныцця — святая сатыра для тых, хто стаміўся ад пазітыўных вайбаў, бясконцай прадуктыўнасці і культу поспеху."/>
+
+  <script>
+  (function(){
+    const isGitHub = location.hostname.endsWith('github.io');
+    const repo = location.pathname.split('/').filter(Boolean)[0];
+    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
+  })();
+  </script>
+
+  <link rel="stylesheet" href="../../../assets/books.css?v=20260519-6">
+
+  <style>
+    .book-copy{font-size:13px;line-height:1.25;color:var(--muted);max-width:78ch;}
+    .book-copy p{margin:0 0 12px;}
+    .book-copy p:last-child{margin-bottom:0;}
+    .excerpt{position:relative;max-width:78ch;font-size:14px;line-height:1.62;color:rgba(242,242,244,.94);letter-spacing:.01em;}
+    .excerpt p{margin:0 0 14px;}
+    .excerpt p:last-child{margin-bottom:0;}
+    .excerpt.is-collapsed{max-height:430px;overflow:hidden;}
+    .excerpt-fade{position:absolute;left:0;right:0;bottom:0;height:120px;pointer-events:none;background:linear-gradient(to bottom,rgba(11,11,13,0) 0%,rgba(11,11,13,.68) 58%,rgba(11,11,13,.96) 100%);display:none;}
+    .excerpt.is-collapsed .excerpt-fade{display:block;}
+    .video-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;}
+    .video-card{border:1px solid rgba(242,242,244,0.12);border-radius:16px;overflow:hidden;background:rgba(0,0,0,.22);}
+    .video-title{padding:12px 14px 0;font-size:16px;line-height:1.25;font-weight:800;color:rgba(242,242,244,.94);}
+    .video-desc{padding:10px 14px 0;font-size:13px;line-height:1.35;color:var(--muted);}
+    .video-desc p{margin:0 0 10px;}
+    .video-desc p:last-child{margin-bottom:0;}
+    .video-frame{position:relative;width:calc(100% - 28px);aspect-ratio:16/9;margin:14px;border-radius:16px;overflow:hidden;background:rgba(0,0,0,.35);border:1px solid rgba(242,242,244,.12);}
+    .video-frame iframe{position:absolute;inset:0;width:100%;height:100%;border:0;}
+    .video-note{padding:0 14px 0;font-size:12px;line-height:1.25;color:var(--muted);opacity:.88;}
+    .video-actions{display:flex;gap:10px;flex-wrap:wrap;padding:12px 14px 14px;}
+    .video-actions a,.video-actions span{display:inline-flex;align-items:center;justify-content:center;padding:8px 11px;border-radius:999px;border:1px solid rgba(242,242,244,.16);background:rgba(255,255,255,.04);font-size:12px;font-weight:700;color:var(--fg);text-decoration:none}
+    .video-actions span{color:var(--muted);font-weight:600}
+    .quiet-book-link{font-size:12px!important;font-weight:600!important;color:var(--muted)!important;border-color:rgba(242,242,244,.12)!important;background:rgba(255,255,255,.025)!important;padding:9px 13px!important;opacity:.78!important;}
+    .quiet-book-link:hover{opacity:.95!important;color:var(--fg)!important;}
+    @media(max-width:760px){.video-grid{grid-template-columns:1fr;}}
+  </style>
+
+  <script defer src="/assets/analytics.js"></script>
+</head>
+<body>
+  <div class="wrap">
+    <div class="page book-whinesis">
+
+      <header class="site-header">
+        <p class="brand">Ashraellen</p>
+        <div class="menu">
+          <a id="toEntry" href="#">Уваход</a> |
+          <a id="toPublic" href="#">Публічнае</a> |
+          <a id="toBooks" href="#">Кнігі</a> |
+          <a id="toResearch" href="#">Даследаванне</a>
+        </div>
+      </header>
+
+      <main class="main">
+        <div class="container">
+
+          <h1 class="h1">Кніга Ныцця</h1>
+          <p class="lead">Святая сатыра для тых, хто стаміўся ад "пазітыўных вайбаў", бясконцай прадуктыўнасці і культу поспеху.</p>
+
+          <section class="list"><div class="list-header"><h2>Пра кнігу</h2><p class="note">уваход у канон</p></div><ul class="items"><li class="item" style="grid-template-columns:1fr;"><div class="body"><div class="book-copy"><p>"Кніга Ныцця" — псеўдабіблейская сатыра пра чалавека лічбавай эпохі: стомленага, падключанага, раздражнёнага і вечна чакаючага зніжкі, дастаўкі, сігналу, адказу і сэнсу.</p><p>Тут іронія становіцца лекамі, а выгаранне — адкрыццём. Тут ныцьцё — не слабасць. Гэта малітва.</p><p>Гэта не пародыя на веру. Гэта пародыя на наша сучаснае пакланенне зручнасці, экрану, апавяшчэнням і ўласнай незадаволенасці.</p><p>Тут Wi-Fi становіцца лёсам, канапа — алтаром, буферызацыя — вечнасцю, а скарга — першай мовай чалавека, які яшчэ не зразумеў, што шукае спакою.</p><p>Смешна — пакуль не пазнаеш сябе. А калі пазнаеш, становіцца яшчэ смешней.</p></div></div></li></ul></section>
+
+          <section class="list" style="margin-top:14px;"><div class="list-header"><h2>Першыя главы</h2><p class="note">аўдыякніга / відэаверсія</p></div><ul class="items"><li class="item" style="grid-template-columns:1fr;"><div class="body"><div class="video-grid"><article class="video-card"><div class="video-title">Глава I — Пра Пачатак Ныцця</div><div class="video-desc"><p>На пачатку было Ныццё — і з яго нарадзілася ісціна.</p><p>Адкрыццё філасофскай, містычнай і сімвалічнай серыі пра чалавечую прыроду, свядомасць і тонкае мастацтва самапазнання.</p></div><div class="video-frame"><iframe src="https://www.youtube.com/embed/ojBGvvHs25w" title="Кніга Ныцця — Глава I" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe></div><p class="video-note">Відэа змяшчае шматмоўныя аўдыядарожкі. Мову можна змяніць у настройках YouTube-плеера.</p><div class="video-actions"><a href="https://youtu.be/ojBGvvHs25w" target="_blank" rel="noopener noreferrer">Адкрыць YouTube →</a><span>аўдыякніга</span></div></article><article class="video-card"><div class="video-title">Глава II — Пра Канапу і Скаргу</div><div class="video-desc"><p>Калі чалавек упершыню сеў на канапу, гісторыя была перапісана.</p><p>Глава пра вільготнасць, закускі і святое мастацтва абсалютна нічога не рабіць.</p></div><div class="video-frame"><iframe src="https://www.youtube.com/embed/19ooUkez2Y4" title="Кніга Ныцця — Глава II" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe></div><p class="video-note">Відэа змяшчае шматмоўныя аўдыядарожкі. Мову можна змяніць у настройках YouTube-плеера.</p><div class="video-actions"><a href="https://youtu.be/19ooUkez2Y4" target="_blank" rel="noopener noreferrer">Адкрыць YouTube →</a><span>аўдыякніга</span></div></article></div></div></li></ul></section>
+
+          <section class="list" style="margin-top:14px;"><div class="list-header"><h2>Урывак</h2><p class="note">Глава III</p></div><ul class="items"><li class="item" style="grid-template-columns:1fr;"><div class="body"><div id="excerpt" class="excerpt is-collapsed"><div class="excerpt-fade"></div><p><strong>Глава III — Пра Змея Зніжкавага</strong></p><p>1. Змей Зніжкавы быў хітрэйшы за ўсіх звяроў супермаркета, якіх стварыў Госпад Ныцця; і сказаў ён Моаніі: "Ці праўда сказаў Госпад, што нельга есці ніякай ежы з халадзільніка?"</p><p>2. І сказала Моанія Змею, якога Гнорна трымаў за хвост: "Мы можам есці ежу з халадзільніка;"</p><p>3. "А пра халодную каўбасу, што пасярод халадзільніка, сказаў Госпад Ныцця: не ешце яе і не дакранайцеся ноччу, каб не ўзнікла патрэба ў калькулятары калорый".</p><p>4. І сказаў Змей Моаніі: "Не будзе вам цяжка; бо гэтая каўбаса — па найлепшай акцыі, ды яшчэ з кэшбэкам у чатыры працэнты — трэнд, які нельга ўпусціць".</p><p>5. "Бо ведае Госпад Ныцця, што ў дзень, калі пакаштуеце яе, адкрыюцца вочы вашыя, і будзеце як інфлюенсеры, якія ведаюць жаданні і дакоры сумлення".</p><p>6. І ўбачыла Моанія, што каўбаса добрая для ежы, і прыемная для вачэй, і пажаданая для паўночнай душы; узяла і пакаштавала, і дала таксама мужу свайму Гнорне; і ён пакаштаваў хітрасцю сваёй.</p><p>7. І адкрыліся вочы ў абаіх, і пазналі яны, што былі ў спартыўных кітайскіх штанах з плямай ад соусу; і сшылі яны чэкі з тэрмапаперы і зрабілі сабе падпаясанні.</p><p>8. І пачулі голас Госпада Ныцця, які хадзіў па супермаркеце ў прахалодзе адкрытых халадзільнікаў; і схаваліся Гнорна і Моанія сярод зніжкавых радоў, за палетамі з мінеральнай вадой.</p><p>9. І паклікаў Госпад Ныцця Гнорну, і сказаў яму: "Дзе ты?"</p><p>10. І сказаў ён: "Голас Твой я пачуў у супермаркеце і спалохаўся, бо быў я ў спартыўных штанах з ганебнай плямай; і схаваўся".</p><p>11. І сказаў Ён: "Хто сказаў табе, што ты ў спартыўных штанах? Ці не еў ты каўбасу, пра якую Я запавядаў табе, каб ты не еў яе?"</p><p>12. І сказаў Гнорна: "Жонка, якую Ты даў мне, яна дала мне каўбасы, і я еў".</p><p>13. І сказаў Госпад Ныцця Моаніі: "Што ты гэта зрабіла?" І сказала Моанія: "Змей, якога муж мой за хвост трымаў, спакусіў мяне зніжкамі, і я ела".</p><p>14. І сказаў Госпад Ныцця Змею: "За тое, што ты зрабіў гэта, пракляты ты над усімі купонамі; на чэраве сваім будзеш поўзаць па праходах, і пыл уцэнкі есці ва ўсе дні жыцця свайго. І ўсякая твая "выгадная прапанова" ад гэтага часу будзе несці ў сабе схаваны падман, а людзі будуць бачыць на табе не зніжку, а цэннік: "Рэшткі. Вяртанню і абмену не падлягае". І вось — не будзе ў цябе ніводнага купона на бясплатную дастаўку".</p><p>15. І сказаў Ён Моаніі: "Памножу смутак твой і жаданні твае; у пакупках будзеш нараджаць журбу, і да мужа твайго будзе цяга твая, і ён будзе ныць над табою".</p><p>16. А Гнорне сказаў: "За тое, што паслухаў ты голас Моаніі сваёй і пакаштаваў каўбасу, пракляты супермаркет дзеля цябе; у ныцці будзеш заказваць дастаўку ва ўсе дні жыцця свайго".</p><p>17. Цярні і рэкламныя банеры ўзрасціць ён табе; і будзеш ныць пра локшыну хуткага прыгатавання і пра зніжку на газіроўку, што не прынясе табе насычэння, як у дні былога твайго.</p><p>18. У поце твару свайго будзеш разаграваць хлеб свой у мікрахвалёўцы, і вось — халодным ён будзе пасярэдзіне, а сыр на ім не расплавіцца, і сасіска перасохне да стану крыўды, пакуль не вернешся на канапу; бо з падушак ты ўзяты, і ў пыл заканапны вернешся.</p><p>19. І зразумеў Гнорна, што Моанія, жонка яго, ёсць маці ўсіх уздыханняў яго — па справе і без справы, і з любой нагоды, якая толькі прыходзіць у галаву стомленаму сэрцу.</p><p>20. І заказаў Госпад Ныцця для Гнорны і жонкі яго вопратку танную з кітайскай анлайн-крамы, і апрануў іх.</p><p>21. І сказаў Госпад Ныцця: "Вось, стаў чалавек як інфлюенсер, які ведае жаданні і дакоры сумлення; і цяпер, каб не працягнуў ён рук сваіх, і не ўзяў яшчэ з паліцы піцы замарожанай, і не пакаштаваў, і не жыў вечна няшчасным —"</p><p>22. І выслаў Госпад Ныцця яго з супермаркета артапедычных канап, каб працаваў ён у офісе ненавісным — бо туды адпраўляюцца ўсе, хто пакаштаваў ноччу і пашкадаваў раніцай.</p><p>23. І выгнаў Гнорну; і паставіў на ўсходзе супермаркета херувімаў з агністым пыласосам, што паварочваецца ва ўсе бакі, каб ніводная крошка не засталася, і каб ахоўваць шлях да канапы ад вяртання.</p><p>23 ½. І будзеш ты поўзаць між паліцамі з уцэненым печывам, чый тэрмін скончыўся ўчора, бо сказаў Госпад Ныцця: "Усякая спакуса павінна мець цану, але не тэрмін прыдатнасці". І не ўбачыш ты хуткай дастаўкі, ні зніжкі без падвоху.</p><p>23 ¾. І кошык іх убачыў доўг іх — і ён быў бясконцы.</p><p>24. Так завяршылася вялікае падзенне, і пачалося не менш вялікае чаканне кур’ера, які ніколі не спяшаецца.</p><p><strong>Благаслаўленне.</strong></p><p>Пракляты хай будзе Змей Зніжкавы, бо язык яго абяцае зніжку, але прыносіць доўг.</p><p>Благаслаўлёны той, хто ўстояў перад начным халадзільнікам, бо талія яго спазнае спакой.</p><p>І благаслаўлёныя тыя, хто наракае на свае пакупкі, бо яны ўспадкуюць вяртанне.</p><p>Няхай усякае пажаданне будзе змякчана сумленнем, і ўсякае ўздыханне знойдзе спакой на канапе вечнай.</p><p>Цяпер і на векі вечныя. Амінь.</p></div><div class="cta-row"><button id="toggleExcerpt" class="btn secondary" type="button">Чытаць далей</button></div></div></li></ul></section>
+
+          <section class="list" style="margin-top:14px;"><div class="list-header"><h2>Статус</h2><p class="note">рэдакцыя</p></div><ul class="items"><li class="item" style="grid-template-columns:1fr;"><div class="body"><p class="lead" style="margin:0;max-width:78ch;">Кніга знаходзіцца ў новай рэдакцыі. Поўная версія рыхтуецца да публікацыі.</p><div class="cta-row"><a class="btn secondary quiet-book-link" id="backToBooks" href="#">Да спісу кніг</a></div></div></li></ul></section>
+
+          <div class="seal"><img id="sealImg" src="#" alt="Ashraellen symbol"><span>— mark of presence</span></div>
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <script>
+  (function(){
+    const base = window.__BASE__ || '/';
+    document.getElementById('toEntry').href = base + 'be/';
+    document.getElementById('toPublic').href = base + 'be/public/';
+    document.getElementById('toBooks').href = base + 'be/books/';
+    document.getElementById('toResearch').href = base + 'be/research/';
+    document.getElementById('backToBooks').href = base + 'be/books/';
+    document.getElementById('sealImg').src = base + 'assets/symbol.png';
+    const excerpt = document.getElementById('excerpt');
+    const toggle = document.getElementById('toggleExcerpt');
+    toggle.addEventListener('click', function(){
+      const collapsed = excerpt.classList.toggle('is-collapsed');
+      toggle.textContent = collapsed ? 'Чытаць далей' : 'Згарнуць';
+    });
+  })();
+  </script>
+</body>
+</html>
