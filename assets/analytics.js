@@ -19,6 +19,30 @@
   document.head.appendChild(script);
 })();
 
+/* Ashraellen — localized project card titles */
+(function () {
+  'use strict';
+
+  var path = window.location.pathname;
+  var replacement = null;
+
+  if (path.indexOf('/ru/research/projects/') !== -1) {
+    replacement = 'Церковь Святого Нытья';
+  } else if (path.indexOf('/uk/research/projects/') !== -1) {
+    replacement = 'Церква Святого Ниття';
+  } else if (path.indexOf('/be/research/projects/') !== -1) {
+    replacement = 'Царква Святога Ныцця';
+  }
+
+  if (!replacement) return;
+
+  document.querySelectorAll('.project-card h2').forEach(function (heading) {
+    if (heading.textContent.trim() === 'Church of Saint Whine') {
+      heading.textContent = replacement;
+    }
+  });
+})();
+
 /* Ashraellen — tiny Belarusian text fixes */
 (function () {
   'use strict';
