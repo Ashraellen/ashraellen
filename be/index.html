@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="be">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Ashraellen</title>
+  <meta name="description" content="Беларуская старонка Ashraellen: даследаванні, публічныя тэксты і кнігі." />
+
+  <script>
+  (function(){
+    const isGitHub = location.hostname.endsWith('github.io');
+    const repo = location.pathname.split('/').filter(Boolean)[0];
+    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
+  })();
+  </script>
+
+  <link rel="stylesheet" href="../assets/style.css?v=20260519-1">
+  <script defer src="/assets/analytics.js"></script>
+</head>
+<body>
+  <div class="wrap">
+    <div class="entry">
+      <section class="left">
+
+        <div class="brand">Ashraellen</div>
+
+        <p class="one">
+          Тры напрамкі прысутнасці: <br>
+          адно назірае, <br>
+          другое гаворыць, <br>
+          трэцяе становіцца кнігай.
+        </p>
+
+        <div class="actions">
+          <a id="goResearch" href="#">Даследаванне</a>
+          <a id="goPublic" href="#">Публічнае</a>
+          <a id="goBooks" href="#">Кнігі</a>
+        </div>
+
+        <p class="action-hint">
+          <span>Даследаванне — зразумець механізмы.</span>
+          <span>Публічнае — убачыць жывыя рэакцыі.</span>
+          <span>Кнігі — пражыць мадэль знутры.</span>
+        </p>
+
+        <div class="langs">
+          <a href="../en/">English</a>
+          <a href="../ru/">Русский</a>
+          <a href="../pl/">Polski</a>
+          <a href="../de/">Deutsch</a>
+          <a href="../fr/">Français</a>
+          <a href="../es/">Español</a>
+          <a href="../pt/">Português</a>
+          <a href="../uk/">Українська</a>
+        </div>
+
+        <div class="seal">
+          <img id="sealImg" src="#" alt="Ashraellen symbol">
+          <span>— mark of presence</span>
+        </div>
+
+      </section>
+    </div>
+  </div>
+
+  <script>
+  (function(){
+    const base = window.__BASE__ || '/';
+    document.getElementById('goResearch').href = base + 'be/research/';
+    document.getElementById('goPublic').href   = base + 'be/public/';
+    document.getElementById('goBooks').href    = base + 'be/books/';
+    document.getElementById('sealImg').src     = base + 'assets/symbol.png';
+  })();
+  </script>
+</body>
+</html>
