@@ -40,7 +40,7 @@ const pref=(navigator.language||'en').slice(0,2).toLowerCase();
 const codes=supported.map(x=>x[0]);
 const target=codes.includes(pref)?pref:'en';
 const manual=new URLSearchParams(location.search).has('manual');
-if(!manual){setTimeout(()=>{location.href=base+target+'/';},650);}
+if(!manual){location.replace(base+target+'/');}
 })();
 </script>
 </body>
