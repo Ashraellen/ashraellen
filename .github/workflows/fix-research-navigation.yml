@@ -1,0 +1,40 @@
+name: Fix research navigation links
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fix-research-navigation:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fix links
+        run: |
+          set -e
+          for lang in ru en pl de es fr pt uk; do
+            for section in notes position; do
+              file="$lang/research/$section/index.html"
+              if [ -f "$file" ]; then
+                perl -0pi -e "s/href=\"research\/\"/href=\"\/$lang\/research\/\"/g; s/href=\"public\/\"/href=\"\/$lang\/public\/\"/g" "$file"
+              fi
+            done
+          done
+
+      - name: Commit fixed links if changed
+        run: |
+          if git diff --quiet; then
+            echo "Research navigation links are already fixed."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ru en pl de es fr pt uk
+          git commit -m "Fix research navigation links"
+          git push
