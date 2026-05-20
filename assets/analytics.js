@@ -26,20 +26,38 @@
   var path = window.location.pathname;
   var replacement = null;
 
-  if (path.indexOf('/ru/research/projects/') !== -1) {
-    replacement = 'Церковь Святого Нытья';
-  } else if (path.indexOf('/uk/research/projects/') !== -1) {
-    replacement = 'Церква Святого Ниття';
-  } else if (path.indexOf('/be/research/projects/') !== -1) {
-    replacement = 'Царква Святога Ныцця';
-  }
+  if (path.indexOf('/ru/research/projects/') !== -1) replacement = 'Церковь Святого Нытья';
+  else if (path.indexOf('/uk/research/projects/') !== -1) replacement = 'Церква Святого Ниття';
+  else if (path.indexOf('/be/research/projects/') !== -1) replacement = 'Царква Святога Ныцця';
 
   if (!replacement) return;
 
   document.querySelectorAll('.project-card h2').forEach(function (heading) {
-    if (heading.textContent.trim() === 'Church of Saint Whine') {
-      heading.textContent = replacement;
-    }
+    if (heading.textContent.trim() === 'Church of Saint Whine') heading.textContent = replacement;
+  });
+})();
+
+/* Ashraellen — link Whinesis project cards */
+(function () {
+  'use strict';
+
+  var match = window.location.pathname.match(/^\/([a-z]{2})\/research\/projects\/?/);
+  if (!match) return;
+
+  var lang = match[1];
+  var labels = {ru:'Открыть →',uk:'Відкрити →',be:'Адкрыць →',pl:'Otwórz →',de:'Öffnen →',es:'Abrir →',fr:'Ouvrir →',pt:'Abrir →',en:'Open →'};
+  var names = ['Книга Нытия','Кніга Ныцця','The Book of Whinesis','Księga Narzekania','Das Buch des Jammerns','El Libro de los Lamentos','Le Livre des Lamentations','O Livro das Lamúrias'];
+
+  document.querySelectorAll('.project-card').forEach(function (card) {
+    var h = card.querySelector('h2');
+    var actions = card.querySelector('.actions');
+    if (!h || !actions) return;
+
+    var title = h.textContent.trim();
+    var found = names.some(function (name) { return title.indexOf(name) !== -1; });
+    if (!found) return;
+
+    actions.innerHTML = '<a class="btn" href="/' + lang + '/books/the-book-of-whinesis/">' + (labels[lang] || 'Open →') + '</a>';
   });
 })();
 
