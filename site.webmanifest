@@ -2,7 +2,7 @@
   "name": "Ashraellen",
   "short_name": "Ashraellen",
   "description": "Books, research, public texts, videos and inner observation by Ashraellen.",
-  "start_url": "/?manual=1",
+  "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "background_color": "#0b0b0d",
