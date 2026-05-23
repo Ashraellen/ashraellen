@@ -15,6 +15,24 @@
 
   <link rel="stylesheet" href="../assets/style.css?v=20260519-1">
   <script defer src="/assets/analytics.js"></script>
+  <style>
+    .professional-link{
+      margin:18px 0 0;
+      font-size:13px;
+      line-height:1.4;
+      color:rgba(242,242,244,.56);
+    }
+    .professional-link a{
+      color:rgba(242,242,244,.70);
+      text-decoration:none;
+      border-bottom:1px solid rgba(242,242,244,.20);
+      transition:color 140ms ease,border-color 140ms ease;
+    }
+    .professional-link a:hover{
+      color:var(--fg);
+      border-color:rgba(242,242,244,.48);
+    }
+  </style>
 </head>
 <body>
   <div class="wrap">
@@ -40,6 +58,10 @@
           <span>Research — understand the mechanisms.</span>
           <span>Public — see living reactions.</span>
           <span>Books — live the model from within.</span>
+        </p>
+
+        <p class="professional-link">
+          <a id="goProfessional" href="#">Professional dossier</a>
         </p>
 
         <div class="langs">
@@ -68,6 +90,7 @@
     document.getElementById('goResearch').href = base + 'en/research/';
     document.getElementById('goPublic').href   = base + 'en/public/';
     document.getElementById('goBooks').href    = base + 'en/books/';
+    document.getElementById('goProfessional').href = base + 'en/professional/';
     document.getElementById('sealImg').src     = base + 'assets/symbol.png';
   })();
   </script>
