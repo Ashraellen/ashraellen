@@ -44,6 +44,20 @@
   document.head.appendChild(script);
 })();
 
+/* Ashraellen — add Russian research method card */
+(function () {
+  'use strict';
+
+  if (window.location.pathname !== '/ru/research/') return;
+  var grid = document.querySelector('.grid');
+  if (!grid || document.getElementById('goMethod')) return;
+
+  var card = document.createElement('section');
+  card.className = 'card';
+  card.innerHTML = '<h2>Метод наблюдения</h2><p>Как художественная форма, феноменологическое наблюдение и реакция читателя становятся инструментами исследования.</p><a id="goMethod" href="/ru/research/method/">Открыть →</a>';
+  grid.insertBefore(card, grid.firstChild);
+})();
+
 /* Ashraellen — localized project card titles */
 (function () {
   'use strict';
