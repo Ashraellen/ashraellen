@@ -96,6 +96,109 @@
   hint.insertAdjacentElement('afterend', p);
 })();
 
+/* Ashraellen — professional dossier public channels */
+(function () {
+  'use strict';
+
+  var parts = window.location.pathname.split('/').filter(Boolean);
+  var langIndex = window.location.hostname.endsWith('github.io') ? 1 : 0;
+  var lang = parts[langIndex] || 'en';
+  var rest = parts.slice(langIndex + 1);
+  if (rest[0] !== 'professional') return;
+
+  var labels = {
+    en: {
+      title: 'Public channels:',
+      youtube: 'multilingual video archive',
+      instagram: 'visual public field',
+      telegram: 'Russian-language notes and source-language updates'
+    },
+    ru: {
+      title: 'Публичные каналы:',
+      youtube: 'многоязычный видеоархив',
+      instagram: 'визуальное публичное поле',
+      telegram: 'русскоязычные заметки и обновления исходного языка'
+    },
+    be: {
+      title: 'Публічныя каналы:',
+      youtube: 'шматмоўны відэаархіў',
+      instagram: 'візуальнае публічнае поле',
+      telegram: 'рускамоўныя нататкі і абнаўленні мовы крыніцы'
+    },
+    pl: {
+      title: 'Kanały publiczne:',
+      youtube: 'wielojęzyczne archiwum wideo',
+      instagram: 'wizualne pole publiczne',
+      telegram: 'rosyjskojęzyczne notatki i aktualizacje języka źródłowego'
+    },
+    de: {
+      title: 'Öffentliche Kanäle:',
+      youtube: 'mehrsprachiges Videoarchiv',
+      instagram: 'visuelles öffentliches Feld',
+      telegram: 'russischsprachige Notizen und Aktualisierungen der Ausgangssprache'
+    },
+    fr: {
+      title: 'Canaux publics :',
+      youtube: 'archive vidéo multilingue',
+      instagram: 'champ public visuel',
+      telegram: 'notes en russe et mises à jour dans la langue source'
+    },
+    es: {
+      title: 'Canales públicos:',
+      youtube: 'archivo de video multilingüe',
+      instagram: 'campo público visual',
+      telegram: 'notas en ruso y actualizaciones en la lengua fuente'
+    },
+    pt: {
+      title: 'Canais públicos:',
+      youtube: 'arquivo de vídeo multilíngue',
+      instagram: 'campo público visual',
+      telegram: 'notas em russo e atualizações na língua de origem'
+    },
+    uk: {
+      title: 'Публічні канали:',
+      youtube: 'багатомовний відеоархів',
+      instagram: 'візуальне публічне поле',
+      telegram: 'російськомовні нотатки й оновлення мови джерела'
+    }
+  };
+
+  var text = labels[lang] || labels.en;
+  var box = document.querySelector('.contact-box');
+  if (!box || box.querySelector('.channel-list')) return;
+
+  if (!document.getElementById('channel-list-style')) {
+    var style = document.createElement('style');
+    style.id = 'channel-list-style';
+    style.textContent = '.channel-list{margin:12px 0 0;padding:0;list-style:none;display:grid;gap:7px}.channel-list li{color:var(--muted);font-size:14px;line-height:1.45}.channel-list a{color:var(--fg);text-decoration:none;border-bottom:1px solid rgba(242,242,244,.20)}.channel-list a:hover{border-color:rgba(242,242,244,.48)}';
+    document.head.appendChild(style);
+  }
+
+  var old = Array.prototype.slice.call(box.querySelectorAll('p')).find(function (p) {
+    return p.textContent.indexOf('Public channels') !== -1 ||
+      p.textContent.indexOf('Публичные каналы') !== -1 ||
+      p.textContent.indexOf('Публічныя каналы') !== -1 ||
+      p.textContent.indexOf('Kanały publiczne') !== -1 ||
+      p.textContent.indexOf('Öffentliche Kanäle') !== -1 ||
+      p.textContent.indexOf('Canaux publics') !== -1 ||
+      p.textContent.indexOf('Canales públicos') !== -1 ||
+      p.textContent.indexOf('Canais públicos') !== -1 ||
+      p.textContent.indexOf('Публічні канали') !== -1;
+  });
+
+  var container = document.createElement('div');
+  container.className = 'channels-block';
+  container.innerHTML = '<p><strong>' + text.title + '</strong></p>' +
+    '<ul class="channel-list">' +
+    '<li><a href="https://www.youtube.com/@ashraellen" target="_blank" rel="noopener noreferrer">YouTube</a> — ' + text.youtube + '</li>' +
+    '<li><a href="https://www.instagram.com/kostyshev/" target="_blank" rel="noopener noreferrer">Instagram</a> — ' + text.instagram + '</li>' +
+    '<li><a href="https://t.me/ashraellenchannel" target="_blank" rel="noopener noreferrer">Telegram</a> — ' + text.telegram + '</li>' +
+    '</ul>';
+
+  if (old) old.replaceWith(container);
+  else box.appendChild(container);
+})();
+
 /* Ashraellen — localized project card titles */
 (function () {
   'use strict';
