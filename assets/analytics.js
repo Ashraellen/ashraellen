@@ -44,6 +44,58 @@
   document.head.appendChild(script);
 })();
 
+/* Ashraellen — localized professional dossier button */
+(function () {
+  'use strict';
+
+  var labels = {
+    ru: 'Профессиональное досье',
+    be: 'Прафесійнае дасье',
+    pl: 'Dossier profesjonalne',
+    de: 'Professionelles Dossier',
+    fr: 'Dossier professionnel',
+    es: 'Dossier profesional',
+    pt: 'Dossiê profissional',
+    uk: 'Професійне досьє',
+    en: 'Professional dossier'
+  };
+
+  var parts = window.location.pathname.split('/').filter(Boolean);
+  var langIndex = window.location.hostname.endsWith('github.io') ? 1 : 0;
+  var lang = parts[langIndex] || '';
+  var rest = parts.slice(langIndex + 1);
+
+  if (!labels[lang] || rest.length) return;
+
+  var base = window.__BASE__ || '/';
+  var href = base + lang + '/professional/';
+  var existing = document.getElementById('goProfessional');
+  if (existing) {
+    existing.href = href;
+    return;
+  }
+
+  var hint = document.querySelector('.action-hint');
+  var langs = document.querySelector('.langs');
+  if (!hint || !langs) return;
+
+  if (!document.getElementById('professional-button-style')) {
+    var style = document.createElement('style');
+    style.id = 'professional-button-style';
+    style.textContent = '.professional-link{display:flex;justify-content:flex-start;margin:18px 0 0}.professional-link a{display:inline-flex;align-items:center;justify-content:center;padding:7px 11px;border:1px solid rgba(242,242,244,.16);border-radius:999px;background:rgba(0,0,0,.22);color:rgba(242,242,244,.60);font-size:12px;font-weight:650;line-height:1;text-decoration:none;letter-spacing:.015em;box-shadow:0 8px 24px rgba(0,0,0,.22);transition:color 140ms ease,border-color 140ms ease,background 140ms ease,transform 140ms ease}.professional-link a:hover{color:rgba(242,242,244,.86);border-color:rgba(242,242,244,.30);background:rgba(0,0,0,.34);transform:translateY(-1px)}';
+    document.head.appendChild(style);
+  }
+
+  var p = document.createElement('p');
+  p.className = 'professional-link';
+  var a = document.createElement('a');
+  a.id = 'goProfessional';
+  a.href = href;
+  a.textContent = labels[lang];
+  p.appendChild(a);
+  hint.insertAdjacentElement('afterend', p);
+})();
+
 /* Ashraellen — localized project card titles */
 (function () {
   'use strict';
