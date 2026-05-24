@@ -15,6 +15,9 @@
 
   <link rel="stylesheet" href="../assets/style.css?v=20260519-1">
   <script defer src="/assets/analytics.js"></script>
+  <style>
+    .professional-link{display:flex;justify-content:flex-start;margin:18px 0 0}.professional-link a{display:inline-flex;align-items:center;justify-content:center;padding:7px 11px;border:1px solid rgba(242,242,244,.16);border-radius:999px;background:rgba(0,0,0,.22);color:rgba(242,242,244,.60);font-size:12px;font-weight:650;line-height:1;text-decoration:none;letter-spacing:.015em;box-shadow:0 8px 24px rgba(0,0,0,.22);transition:color 140ms ease,border-color 140ms ease,background 140ms ease,transform 140ms ease}.professional-link a:hover{color:rgba(242,242,244,.86);border-color:rgba(242,242,244,.30);background:rgba(0,0,0,.34);transform:translateY(-1px)}
+  </style>
 </head>
 <body>
   <div class="wrap">
@@ -42,6 +45,8 @@
           <span>Книги — прожить модель изнутри.</span>
         </p>
 
+        <p class="professional-link"><a id="goProfessional" href="#">Профессиональное досье</a></p>
+
         <div class="langs">
           <a href="../en/">English</a>
           <a href="../be/">Беларуская</a>
@@ -68,6 +73,7 @@
     document.getElementById('goResearch').href = base + 'ru/research/';
     document.getElementById('goPublic').href   = base + 'ru/public/';
     document.getElementById('goBooks').href    = base + 'ru/books/';
+    document.getElementById('goProfessional').href = base + 'ru/professional/';
     document.getElementById('sealImg').src     = base + 'assets/symbol.png';
   })();
   </script>
