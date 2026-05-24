@@ -111,55 +111,55 @@
       title: 'Public channels:',
       youtube: 'multilingual video archive',
       instagram: 'visual public field',
-      telegram: 'Russian-language notes and source-language updates'
+      telegram: 'Russian-language notes and project updates'
     },
     ru: {
       title: 'Публичные каналы:',
       youtube: 'многоязычный видеоархив',
       instagram: 'визуальное публичное поле',
-      telegram: 'русскоязычные заметки и обновления исходного языка'
+      telegram: 'заметки и обновления проекта на русском языке'
     },
     be: {
       title: 'Публічныя каналы:',
       youtube: 'шматмоўны відэаархіў',
       instagram: 'візуальнае публічнае поле',
-      telegram: 'рускамоўныя нататкі і абнаўленні мовы крыніцы'
+      telegram: 'нататкі і абнаўленні праекта на рускай мове'
     },
     pl: {
       title: 'Kanały publiczne:',
       youtube: 'wielojęzyczne archiwum wideo',
       instagram: 'wizualne pole publiczne',
-      telegram: 'rosyjskojęzyczne notatki i aktualizacje języka źródłowego'
+      telegram: 'rosyjskojęzyczne notatki i aktualizacje projektu'
     },
     de: {
       title: 'Öffentliche Kanäle:',
       youtube: 'mehrsprachiges Videoarchiv',
       instagram: 'visuelles öffentliches Feld',
-      telegram: 'russischsprachige Notizen und Aktualisierungen der Ausgangssprache'
+      telegram: 'russischsprachige Notizen und Projektaktualisierungen'
     },
     fr: {
       title: 'Canaux publics :',
       youtube: 'archive vidéo multilingue',
       instagram: 'champ public visuel',
-      telegram: 'notes en russe et mises à jour dans la langue source'
+      telegram: 'notes en russe et mises à jour du projet'
     },
     es: {
       title: 'Canales públicos:',
       youtube: 'archivo de video multilingüe',
       instagram: 'campo público visual',
-      telegram: 'notas en ruso y actualizaciones en la lengua fuente'
+      telegram: 'notas en ruso y actualizaciones del proyecto'
     },
     pt: {
       title: 'Canais públicos:',
       youtube: 'arquivo de vídeo multilíngue',
       instagram: 'campo público visual',
-      telegram: 'notas em russo e atualizações na língua de origem'
+      telegram: 'notas em russo e atualizações do projeto'
     },
     uk: {
       title: 'Публічні канали:',
       youtube: 'багатомовний відеоархів',
       instagram: 'візуальне публічне поле',
-      telegram: 'російськомовні нотатки й оновлення мови джерела'
+      telegram: 'нотатки й оновлення проєкту російською мовою'
     }
   };
 
