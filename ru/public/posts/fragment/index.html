@@ -4,6 +4,7 @@
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
   <title>Ashraellen — Фрагменты</title>
+  <meta name="description" content="Фрагменты Ashraellen: короткие отрывки из больших текстов, романов и исследовательских материалов, где можно почувствовать тон и направление работы."/>
 
   <script>
   (function(){
@@ -13,7 +14,7 @@
   })();
   </script>
 
-  <link rel="stylesheet" href="../../../../assets/fragment.css">
+  <link rel="stylesheet" href="../../../../assets/fragment.css?v=20260525-1">
   <script defer src="/assets/analytics.js"></script>
 </head>
 <body>
@@ -36,38 +37,46 @@
 
           <p class="lead">
             Отрывки из больших текстов: чтобы почувствовать тон, увидеть направление и понять,
-            “какой кусок пазла” здесь лежит. Иногда фрагмента достаточно, чтобы найти целое.
+            какой кусок пазла здесь лежит. Иногда фрагмента достаточно, чтобы найти целое.
           </p>
 
           <section class="list">
             <div class="list-header">
-              <h2>Список</h2>
+              <h2>Первая подборка</h2>
               <p class="note"><a id="toPosts" href="#" title="Назад к оглавлению">к оглавлению</a></p>
             </div>
 
             <ul class="items">
               <li class="item">
                 <div>
-                  <a href="#" title="Скоро">Публикация 002 — Фрагмент (скоро)</a>
-                  <div class="meta">Заглушка под будущий фрагмент. Потом добавим ссылку на страницу 002 и реальный текст.</div>
+                  <a id="toMonolith" href="#" title="Открыть страницу серии МОНОЛИТ">МОНОЛИТ — человек как материал системы</a>
+                  <div class="meta">Трилогия работает как исследовательская модель: БЕТОН фиксирует застывание, ЖИЖА — распад, ГАЗ — рассеивание смысла. Здесь человек не просто живёт внутри системы, а постепенно становится её материалом.</div>
                 </div>
                 <span class="badge">fragment</span>
               </li>
 
               <li class="item">
                 <div>
-                  <a href="#" title="Скоро">Публикация 006 — Фрагмент (скоро)</a>
-                  <div class="meta">Нумерация общая для всех языков. Здесь будет только формат “фрагмент”.</div>
+                  <a id="toOnline" href="#" title="Открыть страницу книги Ты уже в сети">Ты уже в сети — реальность как подтверждение</a>
+                  <div class="meta">Фрагмент направления о цифровой зависимости, тревоге и внутреннем сценарии: человек начинает замечать, что реагирует уже не на события, а на собственную готовность увидеть в них знак.</div>
                 </div>
                 <span class="badge">fragment</span>
               </li>
 
               <li class="item">
                 <div>
-                  <a href="#" title="Скоро">Публикация 014 — Фрагмент (скоро)</a>
-                  <div class="meta">Ещё одна заготовка. Когда появятся материалы — добавляем строки, не меняя структуру.</div>
+                  <a id="toWhinesis" href="#" title="Открыть страницу Книги Нытия">Книга Нытия — жалоба как форма веры</a>
+                  <div class="meta">Сатирический фрагмент о священном нытье, усталости и самообмане: человек превращает бессилие в культ, а жалобу — в доказательство собственной правоты.</div>
                 </div>
                 <span class="badge">fragment</span>
+              </li>
+
+              <li class="item">
+                <div>
+                  <a id="toResearch" href="#" title="Открыть раздел исследования">Метод наблюдения — текст как прибор</a>
+                  <div class="meta">Фрагмент исследовательского принципа Ashraellen: роман, эссе, видео и реакция читателя рассматриваются не как украшение мысли, а как разные способы увидеть механизм в действии.</div>
+                </div>
+                <span class="badge">method</span>
               </li>
             </ul>
           </section>
@@ -89,9 +98,12 @@
 
     document.getElementById('toEntry').href    = base + 'ru/';
     document.getElementById('toPublic').href   = base + 'ru/public/';
-    document.getElementById('toResearch').href = base + 'ru/research/';
+    document.getElementById('toResearch').href = base + 'ru/research/method/';
 
     document.getElementById('toPosts').href = base + 'ru/public/posts/';
+    document.getElementById('toMonolith').href = base + 'ru/books/monolith/';
+    document.getElementById('toOnline').href = base + 'ru/books/you-are-already-online/';
+    document.getElementById('toWhinesis').href = base + 'ru/books/the-book-of-whinesis/';
 
     document.getElementById('sealImg').src = base + 'assets/symbol.png';
   })();
