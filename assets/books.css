@@ -33,7 +33,7 @@ a:hover{text-decoration:underline}
   content:"";
   position:absolute;
   inset:0;
-  background: center/cover no-repeat;
+  background:center/cover no-repeat;
   filter: brightness(0.80) contrast(1.06) saturate(0.92);
   transform: scale(1.02);
   z-index:0;
@@ -74,6 +74,12 @@ a:hover{text-decoration:underline}
 
 /* === SPECIFIC BOOK BACKGROUNDS === */
 
+/* Books index */
+.page.books-page::before{
+  background-image:url("backgrounds/books-bg.webp");
+  filter:brightness(0.72) contrast(1.08) saturate(0.86);
+}
+
 /* Ты уже в сети */
 .page.book-online::before{
   background-image: url("backgrounds/online-bg.jpg");
@@ -110,6 +116,7 @@ a:hover{text-decoration:underline}
   color:var(--muted);
   margin:0 10px;
 }
+.site-header .menu:hover{color:var(--muted);}
 .site-header .menu a:hover{
   color:var(--fg);
   text-decoration:none;
@@ -128,6 +135,7 @@ a:hover{text-decoration:underline}
   width:100%;
   max-width:980px;
   padding:28px 44px 56px;
+  text-shadow:0 2px 8px rgba(0,0,0,.84),0 0 22px rgba(0,0,0,.46);
 }
 
 .h1{
@@ -149,9 +157,10 @@ a:hover{text-decoration:underline}
   margin-top:14px;
   border:1px solid rgba(242,242,244,0.14);
   border-radius:18px;
-  background: rgba(0,0,0,0.18);
+  background: rgba(0,0,0,0.22);
   backdrop-filter: blur(4px);
   overflow:hidden;
+  box-shadow:0 12px 34px rgba(0,0,0,.24);
 }
 
 .list-header{
@@ -184,8 +193,9 @@ a:hover{text-decoration:underline}
 .item{
   padding:18px 18px;
   display:grid;
-  grid-template-columns: 1fr auto;
+  grid-template-columns: 110px 1fr auto;
   gap:18px;
+  align-items:center;
   border-top:1px solid rgba(242,242,244,0.08);
 }
 .item:first-child{ border-top:none; }
@@ -197,6 +207,8 @@ a:hover{text-decoration:underline}
   border-radius:14px;
   overflow:hidden;
   flex-shrink:0;
+  border:1px solid rgba(242,242,244,.10);
+  background:rgba(255,255,255,.04);
 }
 
 .thumb img{
@@ -264,11 +276,7 @@ button.btn{
               border-color 140ms ease,
               opacity 140ms ease;
   opacity:0.95;
-
-  /* ✅ FIX: force visible text on BOTH <a> and <button> */
   color: var(--fg) !important;
-
-  /* ✅ FIX: prevent browser default styles */
   appearance:none;
   -webkit-appearance:none;
   outline:none;
@@ -327,6 +335,10 @@ button.btn{
   .site-header{ padding:16px 22px 0; }
   .main{ align-items:flex-start; }
   .container{ padding:22px 22px 44px; }
+
+  .page.books-page::before{
+    background-position:68% center;
+  }
 
   .item{
     grid-template-columns: 1fr;
