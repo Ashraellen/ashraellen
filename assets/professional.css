@@ -1,7 +1,7 @@
 /* Professional dossier page */
 
 .page.professional-page::before{
-  background: url("backgrounds/professional-bg.webp") center/cover no-repeat;
+  background: url("backgrounds/professional-bg.webp") right center/cover no-repeat;
   filter: brightness(0.82) contrast(1.06) saturate(0.88);
   transform: scale(1.02);
 }
@@ -194,7 +194,7 @@
 
 @media(max-width:860px){
   .page.professional-page::before{
-    background-position:72% center;
+    background-position:right center;
   }
 
   .page.professional-page::after{
