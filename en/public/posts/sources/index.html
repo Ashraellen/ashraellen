@@ -3,7 +3,8 @@
 <head>
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
-  <title>Ashraellen — Sources</title>
+  <meta name="robots" content="noindex">
+  <title>Ashraellen — Sources Moved</title>
 
   <script>
   (function(){
@@ -13,7 +14,7 @@
   })();
   </script>
 
-  <link rel="stylesheet" href="../../../../assets/sources.css">
+  <link rel="stylesheet" href="../../../../assets/sources.css?v=20260525-2">
   <script defer src="/assets/analytics.js"></script>
 </head>
 <body>
@@ -30,43 +31,23 @@
 
       <main class="main">
         <div class="container">
-
-          <h1 class="h1">Sources</h1>
-
+          <h1 class="h1">Sources have moved</h1>
           <p class="lead">
-            Here are the materials I rely on: articles, books, documents, videos, and primary sources.
-            Not “external links”, but a map of anchor points — where the light comes from and what you can stand on.
+            Sources are no longer part of public posts. They now belong to the research section as part of the methodological foundation of the project.
           </p>
 
           <section class="list">
             <div class="list-header">
-              <h2>List</h2>
-              <p class="note"><a id="toPosts" href="#" title="Back to contents">back to contents</a></p>
+              <h2>New location</h2>
+              <p class="note">research</p>
             </div>
-
             <ul class="items">
               <li class="item">
                 <div>
-                  <a href="#" title="Soon">Source 001 — Title (soon)</a>
-                  <div class="meta">A link and a short note will live here: why it matters and what topic it supports.</div>
+                  <a id="toSources" href="#">Open “Sources and Tradition”</a>
+                  <div class="meta">Phenomenology, the body, narrative, cognitive science, and artistic practice as the lines at whose intersection the Ashraellen method stands.</div>
                 </div>
-                <span class="badge warm">source</span>
-              </li>
-
-              <li class="item">
-                <div>
-                  <a href="#" title="Soon">Source 002 — Title (soon)</a>
-                  <div class="meta">Later we can add topics/tags when the list grows.</div>
-                </div>
-                <span class="badge warm">source</span>
-              </li>
-
-              <li class="item">
-                <div>
-                  <a href="#" title="Soon">Source 003 — Title (soon)</a>
-                  <div class="meta">This can become a bibliography or a curated set of links — as the project expands.</div>
-                </div>
-                <span class="badge warm">source</span>
+                <span class="badge warm">moved</span>
               </li>
             </ul>
           </section>
@@ -75,7 +56,6 @@
             <img id="sealImg" src="#" alt="Ashraellen symbol">
             <span>— mark of presence</span>
           </div>
-
         </div>
       </main>
     </div>
@@ -84,11 +64,12 @@
   <script>
   (function(){
     const base = window.__BASE__ || '/';
-    document.getElementById('toEntry').href    = base + 'en/';
-    document.getElementById('toPublic').href   = base + 'en/public/';
+    const target = base + 'en/research/sources/';
+    document.getElementById('toEntry').href = base + 'en/';
+    document.getElementById('toPublic').href = base + 'en/public/';
     document.getElementById('toResearch').href = base + 'en/research/';
-    document.getElementById('toPosts').href    = base + 'en/public/posts/';
-    document.getElementById('sealImg').src     = base + 'assets/symbol.png';
+    document.getElementById('toSources').href = target;
+    document.getElementById('sealImg').src = base + 'assets/symbol.png';
   })();
   </script>
 </body>
