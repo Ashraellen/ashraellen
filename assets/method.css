@@ -1,0 +1,132 @@
+/* Method of Observation page
+   Shared styles for all language versions of /research/method/
+*/
+
+/* Page-specific background */
+.page.method-page::before{
+  background: url("backgrounds/research-method-bg.webp") center/cover no-repeat;
+  filter: brightness(0.78) contrast(1.06) saturate(0.86);
+  transform: scale(1.02);
+}
+
+.method-note{
+  margin:0 0 18px;
+  color:var(--muted);
+  max-width:78ch;
+  line-height:1.25!important;
+}
+
+.method-section{
+  margin-top:28px;
+  max-width:82ch;
+}
+
+.method-section h2{
+  margin:0 0 12px;
+  font-size:17px;
+  font-weight:700;
+}
+
+.method-section p{
+  margin:0 0 12px;
+  color:var(--muted);
+  line-height:1.25!important;
+}
+
+.method-section strong{
+  color:var(--fg);
+  font-weight:700;
+}
+
+.manifest{
+  margin-top:30px;
+  border:1px solid rgba(242,242,244,.14);
+  border-radius:18px;
+  background:rgba(0,0,0,.18);
+  max-width:84ch;
+  overflow:hidden;
+}
+
+.manifest summary{
+  cursor:pointer;
+  list-style:none;
+  padding:16px;
+  font-size:14px;
+  font-weight:700;
+  letter-spacing:.04em;
+  text-transform:uppercase;
+  color:var(--fg);
+  background:rgba(255,255,255,.035);
+}
+
+.manifest summary::-webkit-details-marker{
+  display:none;
+}
+
+.manifest summary::after{
+  content:'↓';
+  float:right;
+  color:rgba(242,242,244,.58);
+}
+
+.manifest[open] summary::after{
+  content:'↑';
+}
+
+.manifest-body{
+  padding:18px 16px;
+}
+
+.manifest h2{
+  margin:0 0 14px;
+  font-size:18px;
+}
+
+.manifest h3{
+  margin:20px 0 10px;
+  font-size:15px;
+  letter-spacing:.04em;
+  text-transform:uppercase;
+  color:rgba(242,242,244,.74);
+}
+
+.manifest p{
+  margin:0 0 12px;
+  color:var(--muted);
+  line-height:1.25!important;
+}
+
+.formula-line{
+  margin:20px 0 0;
+  color:var(--fg)!important;
+  font-family:Georgia,'Times New Roman',serif;
+  font-size:18px;
+  line-height:1.25!important;
+}
+
+.back-links{
+  margin-top:26px;
+  display:flex;
+  gap:10px;
+  flex-wrap:wrap;
+}
+
+.back-links a{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  padding:9px 12px;
+  border-radius:999px;
+  border:1px solid rgba(242,242,244,.16);
+  background:rgba(255,255,255,.04);
+  font-size:12px;
+  font-weight:700;
+  color:var(--fg);
+  text-decoration:none;
+}
+
+.back-links a:hover{
+  border-color:rgba(242,242,244,.34);
+  background:rgba(255,255,255,.08);
+  text-decoration:none;
+}
