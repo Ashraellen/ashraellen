@@ -141,7 +141,8 @@
     var lang = getLang();
     var text = labels[lang] || labels.en;
     var base = getBase();
-    var privacyHref = lang === 'ru' ? base + 'ru/privacy.html' : base + 'privacy.html';
+    var privacyHref = base + lang + '/privacy.html';
+    if (lang === 'en') privacyHref = base + 'en/privacy.html';
 
     if (!document.getElementById('ashraellen-cookie-style')) {
       var style = document.createElement('style');
@@ -182,6 +183,55 @@
     if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', showBanner);
     else showBanner();
   }
+})();
+
+/* Ashraellen — global privacy corner on language entry pages */
+(function () {
+  'use strict';
+
+  var labels = {
+    en: 'Privacy Policy',
+    ru: 'Политика конфиденциальности',
+    be: 'Палітыка прыватнасці',
+    pl: 'Polityka prywatności',
+    de: 'Datenschutzerklärung',
+    fr: 'Politique de confidentialité',
+    es: 'Política de privacidad',
+    pt: 'Política de privacidade',
+    uk: 'Політика конфіденційності'
+  };
+
+  var parts = window.location.pathname.split('/').filter(Boolean);
+  var langIndex = window.location.hostname.endsWith('github.io') ? 1 : 0;
+  var lang = parts[langIndex] || '';
+  var rest = parts.slice(langIndex + 1);
+  if (!labels[lang] || rest.length) return;
+  if (!document.querySelector('.entry')) return;
+
+  var base = window.__BASE__ || (window.location.hostname.endsWith('github.io') && parts[0] ? '/' + parts[0] + '/' : '/');
+  var existing = document.getElementById('goPrivacy') || document.querySelector('.privacy-corner a');
+
+  if (!document.getElementById('privacy-corner-style')) {
+    var style = document.createElement('style');
+    style.id = 'privacy-corner-style';
+    style.textContent = '.privacy-corner{position:fixed;right:22px;bottom:18px;z-index:5;margin:0}.privacy-corner a{display:inline-flex;align-items:center;justify-content:center;padding:7px 10px;border:1px solid rgba(242,242,244,.12);border-radius:999px;background:rgba(0,0,0,.18);backdrop-filter:blur(4px);color:rgba(242,242,244,.46);font-size:12px;line-height:1;text-decoration:none;transition:color 140ms ease,border-color 140ms ease,background 140ms ease,transform 140ms ease}.privacy-corner a:hover{color:rgba(242,242,244,.82);border-color:rgba(242,242,244,.28);background:rgba(0,0,0,.30);transform:translateY(-1px)}@media(max-width:700px){.privacy-corner{right:14px;bottom:12px}.privacy-corner a{font-size:11px;padding:7px 9px}}';
+    document.head.appendChild(style);
+  }
+
+  if (existing) {
+    existing.href = base + lang + '/privacy.html';
+    existing.textContent = labels[lang];
+    return;
+  }
+
+  var p = document.createElement('p');
+  p.className = 'privacy-corner';
+  var a = document.createElement('a');
+  a.id = 'goPrivacy';
+  a.href = base + lang + '/privacy.html';
+  a.textContent = labels[lang];
+  p.appendChild(a);
+  document.body.appendChild(p);
 })();
 
 /* Ashraellen — localized professional dossier button */
