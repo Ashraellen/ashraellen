@@ -1,6 +1,21 @@
-/* Ashraellen — PWA helper */
+/* Ashraellen — shared site helpers */
 (function () {
   'use strict';
+
+  function pathParts(){ return window.location.pathname.split('/').filter(Boolean); }
+  function isGitHub(){ return window.location.hostname.endsWith('github.io'); }
+  function langIndex(){ return isGitHub() ? 1 : 0; }
+  function basePath(){
+    if (window.__BASE__) return window.__BASE__;
+    var parts = pathParts();
+    return isGitHub() && parts[0] ? '/' + parts[0] + '/' : '/';
+  }
+  function currentLang(fallback){
+    var parts = pathParts();
+    var lang = parts[langIndex()] || document.documentElement.lang || fallback || 'en';
+    lang = String(lang).slice(0,2).toLowerCase();
+    return lang;
+  }
 
   if (!document.querySelector('link[rel="manifest"]')) {
     var manifest = document.createElement('link');
@@ -21,6 +36,8 @@
       navigator.serviceWorker.register('/sw.js').catch(function () {});
     });
   }
+
+  window.__ashraellenSite = { parts:pathParts, isGitHub:isGitHub, langIndex:langIndex, base:basePath, lang:currentLang };
 })();
 
 /* Ashraellen — cookie consent and Google Analytics loader */
@@ -29,7 +46,6 @@
 
   var GA_ID = 'G-SMQMGSMWQ3';
   var STORAGE_KEY = 'ashraellen_cookie_consent_v1';
-
   var labels = {
     en: { text: 'Ashraellen uses technical site features and optional analytics to understand how the site is used. Analytics runs only after your consent.', accept: 'Accept analytics', reject: 'Reject', privacy: 'Privacy Policy' },
     ru: { text: 'Ashraellen использует технические функции сайта и необязательную аналитику, чтобы понимать, как работает сайт. Аналитика запускается только после вашего согласия.', accept: 'Разрешить аналитику', reject: 'Отказаться', privacy: 'Политика конфиденциальности' },
@@ -42,44 +58,32 @@
     pt: { text: 'Ashraellen usa funções técnicas do site e análise opcional para entender como o site é usado. A análise só é ativada após o seu consentimento.', accept: 'Aceitar análise', reject: 'Recusar', privacy: 'Política de privacidade' }
   };
 
-  function getLang() {
-    var parts = window.location.pathname.split('/').filter(Boolean);
-    var langIndex = window.location.hostname.endsWith('github.io') ? 1 : 0;
-    var lang = parts[langIndex] || (document.documentElement.lang || 'en').slice(0, 2);
-    return labels[lang] ? lang : 'en';
-  }
+  function lang(){ var l = window.__ashraellenSite.lang('en'); return labels[l] ? l : 'en'; }
+  function base(){ return window.__ashraellenSite.base(); }
+  function readConsent(){ try { return localStorage.getItem(STORAGE_KEY); } catch(e) { return null; } }
+  function saveConsent(value){ try { localStorage.setItem(STORAGE_KEY, value); } catch(e) {} }
+  function hideBanner(){ var banner = document.getElementById('ashraellen-cookie-consent'); if (banner) banner.remove(); }
 
-  function getBase() {
-    if (window.__BASE__) return window.__BASE__;
-    var parts = window.location.pathname.split('/').filter(Boolean);
-    return window.location.hostname.endsWith('github.io') && parts[0] ? '/' + parts[0] + '/' : '/';
-  }
-
-  function loadGA() {
+  function loadGA(){
     if (window.__ashraellenAnalyticsLoaded) return;
     window.__ashraellenAnalyticsLoaded = true;
     window.dataLayer = window.dataLayer || [];
     function gtag(){ window.dataLayer.push(arguments); }
     window.gtag = window.gtag || gtag;
     window.gtag('js', new Date());
-    window.gtag('config', GA_ID, { anonymize_ip: true, cookie_flags: 'SameSite=None;Secure' });
+    window.gtag('config', GA_ID, { anonymize_ip:true, cookie_flags:'SameSite=None;Secure' });
     var script = document.createElement('script');
     script.async = true;
     script.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(GA_ID);
     document.head.appendChild(script);
   }
 
-  function readConsent() { try { return localStorage.getItem(STORAGE_KEY); } catch (e) { return null; } }
-  function saveConsent(value) { try { localStorage.setItem(STORAGE_KEY, value); } catch (e) {} }
-  function hideBanner() { var banner = document.getElementById('ashraellen-cookie-consent'); if (banner) banner.remove(); }
-
-  function showBanner() {
+  function showBanner(){
     if (document.getElementById('ashraellen-cookie-consent')) return;
-    var lang = getLang();
-    var text = labels[lang] || labels.en;
-    var base = getBase();
-    var privacyHref = base + lang + '/privacy.html';
-    if (lang === 'en') privacyHref = base + 'en/privacy.html';
+    var l = lang();
+    var t = labels[l] || labels.en;
+    var privacyHref = base() + l + '/privacy.html';
+    if (l === 'en') privacyHref = base() + 'en/privacy.html';
 
     if (!document.getElementById('ashraellen-cookie-style')) {
       var style = document.createElement('style');
@@ -91,12 +95,11 @@
     var banner = document.createElement('section');
     banner.id = 'ashraellen-cookie-consent';
     banner.setAttribute('aria-label', 'Cookie consent');
-    banner.innerHTML = '<p>' + text.text + ' <a href="' + privacyHref + '">' + text.privacy + '</a></p><div class="ashraellen-cookie-actions"><button type="button" data-cookie-choice="reject">' + text.reject + '</button><button type="button" class="primary" data-cookie-choice="accept">' + text.accept + '</button></div>';
-    banner.addEventListener('click', function (event) {
+    banner.innerHTML = '<p>' + t.text + ' <a href="' + privacyHref + '">' + t.privacy + '</a></p><div class="ashraellen-cookie-actions"><button type="button" data-cookie-choice="reject">' + t.reject + '</button><button type="button" class="primary" data-cookie-choice="accept">' + t.accept + '</button></div>';
+    banner.addEventListener('click', function(event){
       var button = event.target.closest('button[data-cookie-choice]');
       if (!button) return;
-      var choice = button.getAttribute('data-cookie-choice');
-      if (choice === 'accept') { saveConsent('accepted'); hideBanner(); loadGA(); }
+      if (button.getAttribute('data-cookie-choice') === 'accept') { saveConsent('accepted'); hideBanner(); loadGA(); }
       else { saveConsent('rejected'); hideBanner(); }
     });
     document.body.appendChild(banner);
@@ -110,17 +113,33 @@
   }
 })();
 
+/* Ashraellen — compact privacy page menu */
+(function () {
+  'use strict';
+  if (!document.querySelector('.privacy-page')) return;
+  var labels = {
+    en:{entry:'Entry',dossier:'Dossier'}, ru:{entry:'Вход',dossier:'Досье'}, be:{entry:'Уваход',dossier:'Дасье'},
+    pl:{entry:'Wejście',dossier:'Dossier'}, de:{entry:'Eingang',dossier:'Dossier'}, fr:{entry:'Entrée',dossier:'Dossier'},
+    es:{entry:'Entrada',dossier:'Dossier'}, pt:{entry:'Entrada',dossier:'Dossiê'}, uk:{entry:'Вхід',dossier:'Досьє'}
+  };
+  var l = window.__ashraellenSite.lang('en');
+  if (!labels[l]) l = 'en';
+  var base = window.__ashraellenSite.base();
+  var menu = document.querySelector('.site-header .menu');
+  if (!menu) return;
+  menu.innerHTML = '<a href="' + base + l + '/">' + labels[l].entry + '</a> | <a href="' + base + l + '/professional/">' + labels[l].dossier + '</a>';
+})();
+
 /* Ashraellen — global contact button on language entry pages */
 (function () {
   'use strict';
   var labels = { en:'Contact', ru:'Контакт', be:'Кантакт', pl:'Kontakt', de:'Kontakt', fr:'Contact', es:'Contacto', pt:'Contacto', uk:'Контакт' };
-  var parts = window.location.pathname.split('/').filter(Boolean);
-  var langIndex = window.location.hostname.endsWith('github.io') ? 1 : 0;
-  var lang = parts[langIndex] || '';
-  var rest = parts.slice(langIndex + 1);
-  if (!labels[lang] || rest.length) return;
+  var parts = window.__ashraellenSite.parts();
+  var l = parts[window.__ashraellenSite.langIndex()] || '';
+  var rest = parts.slice(window.__ashraellenSite.langIndex() + 1);
+  if (!labels[l] || rest.length) return;
   if (!document.querySelector('.entry')) return;
-  var base = window.__BASE__ || (window.location.hostname.endsWith('github.io') && parts[0] ? '/' + parts[0] + '/' : '/');
+  var base = window.__ashraellenSite.base();
   if (!document.getElementById('contact-corner-style')) {
     var style = document.createElement('style');
     style.id = 'contact-corner-style';
@@ -128,13 +147,13 @@
     document.head.appendChild(style);
   }
   var existing = document.getElementById('goContact') || document.querySelector('.contact-corner a');
-  if (existing) { existing.href = base + lang + '/contact.html'; existing.textContent = labels[lang]; return; }
+  if (existing) { existing.href = base + l + '/contact.html'; existing.textContent = labels[l]; return; }
   var p = document.createElement('p');
   p.className = 'contact-corner';
   var a = document.createElement('a');
   a.id = 'goContact';
-  a.href = base + lang + '/contact.html';
-  a.textContent = labels[lang];
+  a.href = base + l + '/contact.html';
+  a.textContent = labels[l];
   p.appendChild(a);
   document.body.appendChild(p);
 })();
@@ -143,27 +162,26 @@
 (function () {
   'use strict';
   var labels = { en:'Privacy Policy', ru:'Политика конфиденциальности', be:'Палітыка прыватнасці', pl:'Polityka prywatności', de:'Datenschutzerklärung', fr:'Politique de confidentialité', es:'Política de privacidad', pt:'Política de privacidade', uk:'Політика конфіденційності' };
-  var parts = window.location.pathname.split('/').filter(Boolean);
-  var langIndex = window.location.hostname.endsWith('github.io') ? 1 : 0;
-  var lang = parts[langIndex] || '';
-  var rest = parts.slice(langIndex + 1);
-  if (!labels[lang] || rest.length) return;
+  var parts = window.__ashraellenSite.parts();
+  var l = parts[window.__ashraellenSite.langIndex()] || '';
+  var rest = parts.slice(window.__ashraellenSite.langIndex() + 1);
+  if (!labels[l] || rest.length) return;
   if (!document.querySelector('.entry')) return;
-  var base = window.__BASE__ || (window.location.hostname.endsWith('github.io') && parts[0] ? '/' + parts[0] + '/' : '/');
-  var existing = document.getElementById('goPrivacy') || document.querySelector('.privacy-corner a');
+  var base = window.__ashraellenSite.base();
   if (!document.getElementById('privacy-corner-style')) {
     var style = document.createElement('style');
     style.id = 'privacy-corner-style';
     style.textContent = '.privacy-corner{position:fixed;right:22px;bottom:18px;z-index:5;margin:0}.privacy-corner a{display:inline-flex;align-items:center;justify-content:center;padding:7px 10px;border:1px solid rgba(242,242,244,.12);border-radius:999px;background:rgba(0,0,0,.18);backdrop-filter:blur(4px);color:rgba(242,242,244,.46);font-size:12px;line-height:1;text-decoration:none;transition:color 140ms ease,border-color 140ms ease,background 140ms ease,transform 140ms ease}.privacy-corner a:hover{color:rgba(242,242,244,.82);border-color:rgba(242,242,244,.28);background:rgba(0,0,0,.30);transform:translateY(-1px)}@media(max-width:700px){.privacy-corner{right:14px;bottom:12px}.privacy-corner a{font-size:11px;padding:7px 9px}}';
     document.head.appendChild(style);
   }
-  if (existing) { existing.href = base + lang + '/privacy.html'; existing.textContent = labels[lang]; return; }
+  var existing = document.getElementById('goPrivacy') || document.querySelector('.privacy-corner a');
+  if (existing) { existing.href = base + l + '/privacy.html'; existing.textContent = labels[l]; return; }
   var p = document.createElement('p');
   p.className = 'privacy-corner';
   var a = document.createElement('a');
   a.id = 'goPrivacy';
-  a.href = base + lang + '/privacy.html';
-  a.textContent = labels[lang];
+  a.href = base + l + '/privacy.html';
+  a.textContent = labels[l];
   p.appendChild(a);
   document.body.appendChild(p);
 })();
@@ -172,13 +190,12 @@
 (function () {
   'use strict';
   var labels = { ru:'Профессиональное досье', be:'Прафесійнае дасье', pl:'Dossier profesjonalne', de:'Professionelles Dossier', fr:'Dossier professionnel', es:'Dossier profesional', pt:'Dossiê profissional', uk:'Професійне досьє', en:'Professional dossier' };
-  var parts = window.location.pathname.split('/').filter(Boolean);
-  var langIndex = window.location.hostname.endsWith('github.io') ? 1 : 0;
-  var lang = parts[langIndex] || '';
-  var rest = parts.slice(langIndex + 1);
-  if (!labels[lang] || rest.length) return;
-  var base = window.__BASE__ || '/';
-  var href = base + lang + '/professional/';
+  var parts = window.__ashraellenSite.parts();
+  var l = parts[window.__ashraellenSite.langIndex()] || '';
+  var rest = parts.slice(window.__ashraellenSite.langIndex() + 1);
+  if (!labels[l] || rest.length) return;
+  var base = window.__ashraellenSite.base();
+  var href = base + l + '/professional/';
   var existing = document.getElementById('goProfessional');
   if (existing) { existing.href = href; return; }
   var hint = document.querySelector('.action-hint');
@@ -195,7 +212,7 @@
   var a = document.createElement('a');
   a.id = 'goProfessional';
   a.href = href;
-  a.textContent = labels[lang];
+  a.textContent = labels[l];
   p.appendChild(a);
   hint.insertAdjacentElement('afterend', p);
 })();
