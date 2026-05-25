@@ -2,8 +2,11 @@
    Shared styles for all language versions of /research/method/
 */
 
-/* Page-specific background */
-.page.method-page::before{
+/* Page-specific background.
+   .method-page is the clean target.
+   :has(.method-note) is a temporary safety bridge until all language HTML files are fully cleaned. */
+.page.method-page::before,
+.page:has(.method-note)::before{
   background: url("backgrounds/research-method-bg.webp") center/cover no-repeat;
   filter: brightness(0.78) contrast(1.06) saturate(0.86);
   transform: scale(1.02);
