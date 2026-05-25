@@ -4,6 +4,7 @@
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
   <title>Ashraellen — Fragments</title>
+  <meta name="description" content="Fragments Ashraellen : section préparée à partir d’un vaste ensemble de manuscrits, notes et publications accumulés pendant de nombreuses années de travail."/>
 
   <script>
   (function(){
@@ -13,85 +14,23 @@
   })();
   </script>
 
-  <link rel="stylesheet" href="../../../../assets/fragment.css">
+  <link rel="stylesheet" href="../../../../assets/fragment.css?v=20260525-2">
   <script defer src="/assets/analytics.js"></script>
 </head>
 <body>
   <div class="wrap">
     <div class="page">
-
-      <header class="site-header">
-        <p class="brand">Ashraellen</p>
-        <div class="menu">
-          <a id="toEntry" href="#">Entrée</a> |
-          <a id="toPublic" href="#">Public</a> |
-          <a id="toResearch" href="#">Recherche</a>
-        </div>
-      </header>
-
-      <main class="main">
-        <div class="container">
-
-          <h1 class="h1">Fragments</h1>
-
-          <p class="lead">
-            Extraits de textes plus vastes : pour sentir le ton, percevoir la direction
-            et comprendre quelle “pièce du puzzle” se trouve ici.
-            Parfois, un fragment suffit pour retrouver l’ensemble.
-          </p>
-
-          <section class="list">
-            <div class="list-header">
-              <h2>Liste</h2>
-              <p class="note"><a id="toPosts" href="#" title="Retour au sommaire">retour au sommaire</a></p>
-            </div>
-
-            <ul class="items">
-              <li class="item">
-                <div>
-                  <a href="#" title="Bientôt">Publication 002 — Fragment (bientôt)</a>
-                  <div class="meta">Espace réservé pour un futur fragment. Nous ajouterons ensuite le lien vers la page 002.</div>
-                </div>
-                <span class="badge">fragment</span>
-              </li>
-
-              <li class="item">
-                <div>
-                  <a href="#" title="Bientôt">Publication 006 — Fragment (bientôt)</a>
-                  <div class="meta">La numérotation est commune à toutes les langues. Ici vit uniquement le format “fragment”.</div>
-                </div>
-                <span class="badge">fragment</span>
-              </li>
-
-              <li class="item">
-                <div>
-                  <a href="#" title="Bientôt">Publication 014 — Fragment (bientôt)</a>
-                  <div class="meta">Encore un emplacement. Quand le contenu arrive — on ajoute simplement de nouvelles lignes.</div>
-                </div>
-                <span class="badge">fragment</span>
-              </li>
-            </ul>
-          </section>
-
-          <div class="seal">
-            <img id="sealImg" src="#" alt="Ashraellen symbol">
-            <span>— mark of presence</span>
-          </div>
-
-        </div>
-      </main>
-
+      <header class="site-header"><p class="brand">Ashraellen</p><div class="menu"><a id="toEntry" href="#">Entrée</a> | <a id="toPublic" href="#">Public</a> | <a id="toResearch" href="#">Recherche</a></div></header>
+      <main class="main"><div class="container"><h1 class="h1">Fragments</h1><p class="lead">Extraits de textes plus vastes, de notes et de matériaux de travail : une manière de sentir le ton, de voir la direction et de reconnaître quelle pièce du puzzle est posée ici.</p><section class="list"><div class="list-header"><h2>Section en préparation</h2><p class="note"><a id="toPosts" href="#" title="Retour au sommaire">retour au sommaire</a></p></div><ul class="items"><li class="item"><div><a href="#">Archive de textes de travail</a><div class="meta">Je suis en train de trier et de transférer dans une archive numérique un vaste ensemble de manuscrits, de notes et de publications accumulés pendant de nombreuses années de travail.</div></div><span class="badge">archive</span></li><li class="item"><div><a href="#">Sélection à venir</a><div class="meta">Après le traitement de l’archive, des fragments choisis apparaîtront ici : textes courts, passages denses, observations et extraits qui révèlent le mieux la logique intérieure du projet Ashraellen.</div></div><span class="badge">in work</span></li></ul></section><div class="seal"><img id="sealImg" src="#" alt="Ashraellen symbol"><span>— mark of presence</span></div></div></main>
     </div>
   </div>
 
   <script>
   (function(){
     const base = window.__BASE__ || '/';
-
     document.getElementById('toEntry').href    = base + 'fr/';
     document.getElementById('toPublic').href   = base + 'fr/public/';
     document.getElementById('toResearch').href = base + 'fr/research/';
-
     document.getElementById('toPosts').href = base + 'fr/public/posts/';
     document.getElementById('sealImg').src = base + 'assets/symbol.png';
   })();
