@@ -3,7 +3,8 @@
 <head>
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
-  <title>Ashraellen — Источники</title>
+  <meta name="robots" content="noindex">
+  <title>Ashraellen — Источники перенесены</title>
 
   <script>
   (function(){
@@ -13,7 +14,7 @@
   })();
   </script>
 
-  <link rel="stylesheet" href="../../../../assets/sources.css">
+  <link rel="stylesheet" href="../../../../assets/sources.css?v=20260525-2">
   <script defer src="/assets/analytics.js"></script>
 </head>
 <body>
@@ -30,42 +31,23 @@
 
       <main class="main">
         <div class="container">
-          <h1 class="h1">Источники</h1>
-
+          <h1 class="h1">Источники перенесены</h1>
           <p class="lead">
-            Здесь будут материалы, на которые я опираюсь: статьи, книги, документы, видео и первоисточники.
-            Это не ссылки наружу, а карта опорных точек: откуда берётся свет и на что можно встать.
+            Раздел «Источники» больше не относится к публичным публикациям. Теперь он находится в исследовании как методологическая основа проекта.
           </p>
 
           <section class="list">
             <div class="list-header">
-              <h2>Список</h2>
-              <p class="note"><a id="toPosts" href="#" title="Назад к оглавлению">к оглавлению</a></p>
+              <h2>Новый адрес</h2>
+              <p class="note">исследование</p>
             </div>
-
             <ul class="items">
               <li class="item">
                 <div>
-                  <a href="#" title="Скоро">Источник 001 — Название (скоро)</a>
-                  <div class="meta">Здесь будет ссылка и краткое пояснение: чем полезно и к какой теме относится.</div>
+                  <a id="toSources" href="#">Открыть «Источники и традиция»</a>
+                  <div class="meta">Феноменология, тело, нарратив, когнитивная наука и художественная практика как линии, на пересечении которых стоит метод Ashraellen.</div>
                 </div>
-                <span class="badge warm">source</span>
-              </li>
-
-              <li class="item">
-                <div>
-                  <a href="#" title="Скоро">Источник 002 — Название (скоро)</a>
-                  <div class="meta">Потом добавим разделение по темам и меткам, если список станет большим.</div>
-                </div>
-                <span class="badge warm">source</span>
-              </li>
-
-              <li class="item">
-                <div>
-                  <a href="#" title="Скоро">Источник 003 — Название (скоро)</a>
-                  <div class="meta">Можно будет вести как библиографию или как подборку ссылок — по мере роста проекта.</div>
-                </div>
-                <span class="badge warm">source</span>
+                <span class="badge warm">moved</span>
               </li>
             </ul>
           </section>
@@ -82,10 +64,11 @@
   <script>
   (function(){
     const base = window.__BASE__ || '/';
-    document.getElementById('toEntry').href    = base + 'ru/';
-    document.getElementById('toPublic').href   = base + 'ru/public/';
+    const target = base + 'ru/research/sources/';
+    document.getElementById('toEntry').href = base + 'ru/';
+    document.getElementById('toPublic').href = base + 'ru/public/';
     document.getElementById('toResearch').href = base + 'ru/research/';
-    document.getElementById('toPosts').href = base + 'ru/public/posts/';
+    document.getElementById('toSources').href = target;
     document.getElementById('sealImg').src = base + 'assets/symbol.png';
   })();
   </script>
