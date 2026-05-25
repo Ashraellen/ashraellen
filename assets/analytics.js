@@ -31,60 +31,15 @@
   var STORAGE_KEY = 'ashraellen_cookie_consent_v1';
 
   var labels = {
-    en: {
-      text: 'Ashraellen uses technical site features and optional analytics to understand how the site is used. Analytics runs only after your consent.',
-      accept: 'Accept analytics',
-      reject: 'Reject',
-      privacy: 'Privacy Policy'
-    },
-    ru: {
-      text: 'Ashraellen использует технические функции сайта и необязательную аналитику, чтобы понимать, как работает сайт. Аналитика запускается только после вашего согласия.',
-      accept: 'Разрешить аналитику',
-      reject: 'Отказаться',
-      privacy: 'Политика конфиденциальности'
-    },
-    be: {
-      text: 'Ashraellen выкарыстоўвае тэхнічныя функцыі сайта і неабавязковую аналітыку, каб разумець, як працуе сайт. Аналітыка запускаецца толькі пасля вашай згоды.',
-      accept: 'Дазволіць аналітыку',
-      reject: 'Адмовіцца',
-      privacy: 'Палітыка прыватнасці'
-    },
-    pl: {
-      text: 'Ashraellen używa technicznych funkcji strony oraz opcjonalnej analityki, aby rozumieć, jak działa strona. Analityka uruchamia się tylko po Twojej zgodzie.',
-      accept: 'Zezwól na analitykę',
-      reject: 'Odmów',
-      privacy: 'Polityka prywatności'
-    },
-    uk: {
-      text: 'Ashraellen використовує технічні функції сайту та необов’язкову аналітику, щоб розуміти, як працює сайт. Аналітика запускається лише після вашої згоди.',
-      accept: 'Дозволити аналітику',
-      reject: 'Відмовитися',
-      privacy: 'Політика конфіденційності'
-    },
-    de: {
-      text: 'Ashraellen verwendet technische Website-Funktionen und optionale Analyse, um zu verstehen, wie die Website genutzt wird. Analytics startet nur nach Ihrer Zustimmung.',
-      accept: 'Analytics erlauben',
-      reject: 'Ablehnen',
-      privacy: 'Datenschutzerklärung'
-    },
-    fr: {
-      text: 'Ashraellen utilise des fonctions techniques du site et une analyse optionnelle pour comprendre l’usage du site. L’analyse ne démarre qu’après votre consentement.',
-      accept: 'Autoriser l’analyse',
-      reject: 'Refuser',
-      privacy: 'Politique de confidentialité'
-    },
-    es: {
-      text: 'Ashraellen utiliza funciones técnicas del sitio y analítica opcional para comprender cómo se usa el sitio. La analítica solo se activa con tu consentimiento.',
-      accept: 'Aceptar analítica',
-      reject: 'Rechazar',
-      privacy: 'Política de privacidad'
-    },
-    pt: {
-      text: 'Ashraellen usa funções técnicas do site e análise opcional para entender como o site é usado. A análise só é ativada após o seu consentimento.',
-      accept: 'Aceitar análise',
-      reject: 'Recusar',
-      privacy: 'Política de privacidade'
-    }
+    en: { text: 'Ashraellen uses technical site features and optional analytics to understand how the site is used. Analytics runs only after your consent.', accept: 'Accept analytics', reject: 'Reject', privacy: 'Privacy Policy' },
+    ru: { text: 'Ashraellen использует технические функции сайта и необязательную аналитику, чтобы понимать, как работает сайт. Аналитика запускается только после вашего согласия.', accept: 'Разрешить аналитику', reject: 'Отказаться', privacy: 'Политика конфиденциальности' },
+    be: { text: 'Ashraellen выкарыстоўвае тэхнічныя функцыі сайта і неабавязковую аналітыку, каб разумець, як працуе сайт. Аналітыка запускаецца толькі пасля вашай згоды.', accept: 'Дазволіць аналітыку', reject: 'Адмовіцца', privacy: 'Палітыка прыватнасці' },
+    pl: { text: 'Ashraellen używa technicznych funkcji strony oraz opcjonalnej analityki, aby rozumieć, jak działa strona. Analityka uruchamia się tylko po Twojej zgodzie.', accept: 'Zezwól na analitykę', reject: 'Odmów', privacy: 'Polityka prywatności' },
+    uk: { text: 'Ashraellen використовує технічні функції сайту та необов’язкову аналітику, щоб розуміти, як працює сайт. Аналітика запускається лише після вашої згоди.', accept: 'Дозволити аналітику', reject: 'Відмовитися', privacy: 'Політика конфіденційності' },
+    de: { text: 'Ashraellen verwendet technische Website-Funktionen und optionale Analyse, um zu verstehen, wie die Website genutzt wird. Analytics startet nur nach Ihrer Zustimmung.', accept: 'Analytics erlauben', reject: 'Ablehnen', privacy: 'Datenschutzerklärung' },
+    fr: { text: 'Ashraellen utilise des fonctions techniques du site et une analyse optionnelle pour comprendre l’usage du site. L’analyse ne démarre qu’après votre consentement.', accept: 'Autoriser l’analyse', reject: 'Refuser', privacy: 'Politique de confidentialité' },
+    es: { text: 'Ashraellen utiliza funciones técnicas del sitio y analítica opcional para comprender cómo se usa el sitio. La analítica solo se activa con tu consentimiento.', accept: 'Aceptar analítica', reject: 'Rechazar', privacy: 'Política de privacidad' },
+    pt: { text: 'Ashraellen usa funções técnicas do site e análise opcional para entender como o site é usado. A análise só é ativada após o seu consentimento.', accept: 'Aceitar análise', reject: 'Recusar', privacy: 'Política de privacidade' }
   };
 
   function getLang() {
@@ -103,41 +58,23 @@
   function loadGA() {
     if (window.__ashraellenAnalyticsLoaded) return;
     window.__ashraellenAnalyticsLoaded = true;
-
     window.dataLayer = window.dataLayer || [];
     function gtag(){ window.dataLayer.push(arguments); }
     window.gtag = window.gtag || gtag;
-
     window.gtag('js', new Date());
-    window.gtag('config', GA_ID, {
-      anonymize_ip: true,
-      cookie_flags: 'SameSite=None;Secure'
-    });
-
+    window.gtag('config', GA_ID, { anonymize_ip: true, cookie_flags: 'SameSite=None;Secure' });
     var script = document.createElement('script');
     script.async = true;
     script.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(GA_ID);
     document.head.appendChild(script);
   }
 
-  function readConsent() {
-    try { return localStorage.getItem(STORAGE_KEY); }
-    catch (e) { return null; }
-  }
-
-  function saveConsent(value) {
-    try { localStorage.setItem(STORAGE_KEY, value); }
-    catch (e) {}
-  }
-
-  function hideBanner() {
-    var banner = document.getElementById('ashraellen-cookie-consent');
-    if (banner) banner.remove();
-  }
+  function readConsent() { try { return localStorage.getItem(STORAGE_KEY); } catch (e) { return null; } }
+  function saveConsent(value) { try { localStorage.setItem(STORAGE_KEY, value); } catch (e) {} }
+  function hideBanner() { var banner = document.getElementById('ashraellen-cookie-consent'); if (banner) banner.remove(); }
 
   function showBanner() {
     if (document.getElementById('ashraellen-cookie-consent')) return;
-
     var lang = getLang();
     var text = labels[lang] || labels.en;
     var base = getBase();
@@ -154,26 +91,14 @@
     var banner = document.createElement('section');
     banner.id = 'ashraellen-cookie-consent';
     banner.setAttribute('aria-label', 'Cookie consent');
-    banner.innerHTML = '<p>' + text.text + ' <a href="' + privacyHref + '">' + text.privacy + '</a></p>' +
-      '<div class="ashraellen-cookie-actions">' +
-      '<button type="button" data-cookie-choice="reject">' + text.reject + '</button>' +
-      '<button type="button" class="primary" data-cookie-choice="accept">' + text.accept + '</button>' +
-      '</div>';
-
+    banner.innerHTML = '<p>' + text.text + ' <a href="' + privacyHref + '">' + text.privacy + '</a></p><div class="ashraellen-cookie-actions"><button type="button" data-cookie-choice="reject">' + text.reject + '</button><button type="button" class="primary" data-cookie-choice="accept">' + text.accept + '</button></div>';
     banner.addEventListener('click', function (event) {
       var button = event.target.closest('button[data-cookie-choice]');
       if (!button) return;
       var choice = button.getAttribute('data-cookie-choice');
-      if (choice === 'accept') {
-        saveConsent('accepted');
-        hideBanner();
-        loadGA();
-      } else {
-        saveConsent('rejected');
-        hideBanner();
-      }
+      if (choice === 'accept') { saveConsent('accepted'); hideBanner(); loadGA(); }
+      else { saveConsent('rejected'); hideBanner(); }
     });
-
     document.body.appendChild(banner);
   }
 
@@ -185,45 +110,54 @@
   }
 })();
 
-/* Ashraellen — global privacy corner on language entry pages */
+/* Ashraellen — global contact button on language entry pages */
 (function () {
   'use strict';
-
-  var labels = {
-    en: 'Privacy Policy',
-    ru: 'Политика конфиденциальности',
-    be: 'Палітыка прыватнасці',
-    pl: 'Polityka prywatności',
-    de: 'Datenschutzerklärung',
-    fr: 'Politique de confidentialité',
-    es: 'Política de privacidad',
-    pt: 'Política de privacidade',
-    uk: 'Політика конфіденційності'
-  };
-
+  var labels = { en:'Contact', ru:'Контакт', be:'Кантакт', pl:'Kontakt', de:'Kontakt', fr:'Contact', es:'Contacto', pt:'Contacto', uk:'Контакт' };
   var parts = window.location.pathname.split('/').filter(Boolean);
   var langIndex = window.location.hostname.endsWith('github.io') ? 1 : 0;
   var lang = parts[langIndex] || '';
   var rest = parts.slice(langIndex + 1);
   if (!labels[lang] || rest.length) return;
   if (!document.querySelector('.entry')) return;
+  var base = window.__BASE__ || (window.location.hostname.endsWith('github.io') && parts[0] ? '/' + parts[0] + '/' : '/');
+  if (!document.getElementById('contact-corner-style')) {
+    var style = document.createElement('style');
+    style.id = 'contact-corner-style';
+    style.textContent = '.contact-corner{position:fixed;right:22px;top:18px;z-index:6;margin:0}.contact-corner a{display:inline-flex;align-items:center;justify-content:center;padding:7px 11px;border:1px solid rgba(242,242,244,.16);border-radius:999px;background:rgba(0,0,0,.22);backdrop-filter:blur(4px);color:rgba(242,242,244,.62);font-size:12px;font-weight:650;line-height:1;text-decoration:none;letter-spacing:.015em;box-shadow:0 8px 24px rgba(0,0,0,.22);transition:color 140ms ease,border-color 140ms ease,background 140ms ease,transform 140ms ease}.contact-corner a:hover{color:rgba(242,242,244,.86);border-color:rgba(242,242,244,.30);background:rgba(0,0,0,.34);transform:translateY(-1px)}@media(max-width:700px){.contact-corner{right:14px;top:12px}.contact-corner a{font-size:11px;padding:7px 9px}}';
+    document.head.appendChild(style);
+  }
+  var existing = document.getElementById('goContact') || document.querySelector('.contact-corner a');
+  if (existing) { existing.href = base + lang + '/contact.html'; existing.textContent = labels[lang]; return; }
+  var p = document.createElement('p');
+  p.className = 'contact-corner';
+  var a = document.createElement('a');
+  a.id = 'goContact';
+  a.href = base + lang + '/contact.html';
+  a.textContent = labels[lang];
+  p.appendChild(a);
+  document.body.appendChild(p);
+})();
 
+/* Ashraellen — global privacy corner on language entry pages */
+(function () {
+  'use strict';
+  var labels = { en:'Privacy Policy', ru:'Политика конфиденциальности', be:'Палітыка прыватнасці', pl:'Polityka prywatności', de:'Datenschutzerklärung', fr:'Politique de confidentialité', es:'Política de privacidad', pt:'Política de privacidade', uk:'Політика конфіденційності' };
+  var parts = window.location.pathname.split('/').filter(Boolean);
+  var langIndex = window.location.hostname.endsWith('github.io') ? 1 : 0;
+  var lang = parts[langIndex] || '';
+  var rest = parts.slice(langIndex + 1);
+  if (!labels[lang] || rest.length) return;
+  if (!document.querySelector('.entry')) return;
   var base = window.__BASE__ || (window.location.hostname.endsWith('github.io') && parts[0] ? '/' + parts[0] + '/' : '/');
   var existing = document.getElementById('goPrivacy') || document.querySelector('.privacy-corner a');
-
   if (!document.getElementById('privacy-corner-style')) {
     var style = document.createElement('style');
     style.id = 'privacy-corner-style';
     style.textContent = '.privacy-corner{position:fixed;right:22px;bottom:18px;z-index:5;margin:0}.privacy-corner a{display:inline-flex;align-items:center;justify-content:center;padding:7px 10px;border:1px solid rgba(242,242,244,.12);border-radius:999px;background:rgba(0,0,0,.18);backdrop-filter:blur(4px);color:rgba(242,242,244,.46);font-size:12px;line-height:1;text-decoration:none;transition:color 140ms ease,border-color 140ms ease,background 140ms ease,transform 140ms ease}.privacy-corner a:hover{color:rgba(242,242,244,.82);border-color:rgba(242,242,244,.28);background:rgba(0,0,0,.30);transform:translateY(-1px)}@media(max-width:700px){.privacy-corner{right:14px;bottom:12px}.privacy-corner a{font-size:11px;padding:7px 9px}}';
     document.head.appendChild(style);
   }
-
-  if (existing) {
-    existing.href = base + lang + '/privacy.html';
-    existing.textContent = labels[lang];
-    return;
-  }
-
+  if (existing) { existing.href = base + lang + '/privacy.html'; existing.textContent = labels[lang]; return; }
   var p = document.createElement('p');
   p.className = 'privacy-corner';
   var a = document.createElement('a');
@@ -237,45 +171,25 @@
 /* Ashraellen — localized professional dossier button */
 (function () {
   'use strict';
-
-  var labels = {
-    ru: 'Профессиональное досье',
-    be: 'Прафесійнае дасье',
-    pl: 'Dossier profesjonalne',
-    de: 'Professionelles Dossier',
-    fr: 'Dossier professionnel',
-    es: 'Dossier profesional',
-    pt: 'Dossiê profissional',
-    uk: 'Професійне досьє',
-    en: 'Professional dossier'
-  };
-
+  var labels = { ru:'Профессиональное досье', be:'Прафесійнае дасье', pl:'Dossier profesjonalne', de:'Professionelles Dossier', fr:'Dossier professionnel', es:'Dossier profesional', pt:'Dossiê profissional', uk:'Професійне досьє', en:'Professional dossier' };
   var parts = window.location.pathname.split('/').filter(Boolean);
   var langIndex = window.location.hostname.endsWith('github.io') ? 1 : 0;
   var lang = parts[langIndex] || '';
   var rest = parts.slice(langIndex + 1);
-
   if (!labels[lang] || rest.length) return;
-
   var base = window.__BASE__ || '/';
   var href = base + lang + '/professional/';
   var existing = document.getElementById('goProfessional');
-  if (existing) {
-    existing.href = href;
-    return;
-  }
-
+  if (existing) { existing.href = href; return; }
   var hint = document.querySelector('.action-hint');
   var langs = document.querySelector('.langs');
   if (!hint || !langs) return;
-
   if (!document.getElementById('professional-button-style')) {
     var style = document.createElement('style');
     style.id = 'professional-button-style';
     style.textContent = '.professional-link{display:flex;justify-content:flex-start;margin:18px 0 0}.professional-link a{display:inline-flex;align-items:center;justify-content:center;padding:7px 11px;border:1px solid rgba(242,242,244,.16);border-radius:999px;background:rgba(0,0,0,.22);color:rgba(242,242,244,.60);font-size:12px;font-weight:650;line-height:1;text-decoration:none;letter-spacing:.015em;box-shadow:0 8px 24px rgba(0,0,0,.22);transition:color 140ms ease,border-color 140ms ease,background 140ms ease,transform 140ms ease}.professional-link a:hover{color:rgba(242,242,244,.86);border-color:rgba(242,242,244,.30);background:rgba(0,0,0,.34);transform:translateY(-1px)}';
     document.head.appendChild(style);
   }
-
   var p = document.createElement('p');
   p.className = 'professional-link';
   var a = document.createElement('a');
@@ -286,203 +200,17 @@
   hint.insertAdjacentElement('afterend', p);
 })();
 
-/* Ashraellen — professional dossier public channels */
+/* Ashraellen — tiny localized project fixes */
 (function () {
   'use strict';
-
-  var parts = window.location.pathname.split('/').filter(Boolean);
-  var langIndex = window.location.hostname.endsWith('github.io') ? 1 : 0;
-  var lang = parts[langIndex] || 'en';
-  var rest = parts.slice(langIndex + 1);
-  if (rest[0] !== 'professional') return;
-
-  var labels = {
-    en: {
-      title: 'Public channels:',
-      youtube: 'multilingual video archive',
-      instagram: 'visual public field',
-      telegram: 'Russian-language notes and project updates'
-    },
-    ru: {
-      title: 'Публичные каналы:',
-      youtube: 'многоязычный видеоархив',
-      instagram: 'визуальное публичное поле',
-      telegram: 'заметки и обновления проекта на русском языке'
-    },
-    be: {
-      title: 'Публічныя каналы:',
-      youtube: 'шматмоўны відэаархіў',
-      instagram: 'візуальнае публічнае поле',
-      telegram: 'нататкі і абнаўленні праекта на рускай мове'
-    },
-    pl: {
-      title: 'Kanały publiczne:',
-      youtube: 'wielojęzyczne archiwum wideo',
-      instagram: 'wizualne pole publiczne',
-      telegram: 'rosyjskojęzyczne notatki i aktualizacje projektu'
-    },
-    de: {
-      title: 'Öffentliche Kanäle:',
-      youtube: 'mehrsprachiges Videoarchiv',
-      instagram: 'visuelles öffentliches Feld',
-      telegram: 'russischsprachige Notizen und Projektaktualisierungen'
-    },
-    fr: {
-      title: 'Canaux publics :',
-      youtube: 'archive vidéo multilingue',
-      instagram: 'champ public visuel',
-      telegram: 'notes en russe et mises à jour du projet'
-    },
-    es: {
-      title: 'Canales públicos:',
-      youtube: 'archivo de video multilingüe',
-      instagram: 'campo público visual',
-      telegram: 'notas en ruso y actualizaciones del proyecto'
-    },
-    pt: {
-      title: 'Canais públicos:',
-      youtube: 'arquivo de vídeo multilíngue',
-      instagram: 'campo público visual',
-      telegram: 'notas em russo e atualizações do projeto'
-    },
-    uk: {
-      title: 'Публічні канали:',
-      youtube: 'багатомовний відеоархів',
-      instagram: 'візуальне публічне поле',
-      telegram: 'нотатки й оновлення проєкту російською мовою'
-    }
-  };
-
-  var text = labels[lang] || labels.en;
-  var box = document.querySelector('.contact-box');
-  if (!box || box.querySelector('.channel-list')) return;
-
-  if (!document.getElementById('channel-list-style')) {
-    var style = document.createElement('style');
-    style.id = 'channel-list-style';
-    style.textContent = '.channel-list{margin:12px 0 0;padding:0;list-style:none;display:grid;gap:7px}.channel-list li{color:var(--muted);font-size:14px;line-height:1.45}.channel-list a{color:var(--fg);text-decoration:none;border-bottom:1px solid rgba(242,242,244,.20)}.channel-list a:hover{border-color:rgba(242,242,244,.48)}';
-    document.head.appendChild(style);
-  }
-
-  var old = Array.prototype.slice.call(box.querySelectorAll('p')).find(function (p) {
-    return p.textContent.indexOf('Public channels') !== -1 ||
-      p.textContent.indexOf('Публичные каналы') !== -1 ||
-      p.textContent.indexOf('Публічныя каналы') !== -1 ||
-      p.textContent.indexOf('Kanały publiczne') !== -1 ||
-      p.textContent.indexOf('Öffentliche Kanäle') !== -1 ||
-      p.textContent.indexOf('Canaux publics') !== -1 ||
-      p.textContent.indexOf('Canales públicos') !== -1 ||
-      p.textContent.indexOf('Canais públicos') !== -1 ||
-      p.textContent.indexOf('Публічні канали') !== -1;
-  });
-
-  var container = document.createElement('div');
-  container.className = 'channels-block';
-  container.innerHTML = '<p><strong>' + text.title + '</strong></p>' +
-    '<ul class="channel-list">' +
-    '<li><a href="https://www.youtube.com/@ashraellen" target="_blank" rel="noopener noreferrer">YouTube</a> — ' + text.youtube + '</li>' +
-    '<li><a href="https://www.instagram.com/kostyshev/" target="_blank" rel="noopener noreferrer">Instagram</a> — ' + text.instagram + '</li>' +
-    '<li><a href="https://t.me/ashraellenchannel" target="_blank" rel="noopener noreferrer">Telegram</a> — ' + text.telegram + '</li>' +
-    '</ul>';
-
-  if (old) old.replaceWith(container);
-  else box.appendChild(container);
-})();
-
-/* Ashraellen — localized project card titles */
-(function () {
-  'use strict';
-
   var path = window.location.pathname;
   var replacement = null;
-
   if (path.indexOf('/ru/research/projects/') !== -1) replacement = 'Церковь Святого Нытья';
   else if (path.indexOf('/uk/research/projects/') !== -1) replacement = 'Церква Святого Ниття';
   else if (path.indexOf('/be/research/projects/') !== -1) replacement = 'Царква Святога Ныцця';
-
-  if (!replacement) return;
-
-  document.querySelectorAll('.project-card h2').forEach(function (heading) {
-    if (heading.textContent.trim() === 'Church of Saint Whine') heading.textContent = replacement;
-  });
-})();
-
-/* Ashraellen — link Whinesis project cards */
-(function () {
-  'use strict';
-
-  var match = window.location.pathname.match(/^\/([a-z]{2})\/research\/projects\/?/);
-  if (!match) return;
-
-  var lang = match[1];
-  var labels = {
-    ru:'Открыть →',
-    uk:'Відкрити →',
-    be:'Адкрыць →',
-    pl:'Otwórz →',
-    de:'Öffnen →',
-    es:'Abrir →',
-    fr:'Ouvrir →',
-    pt:'Abrir →',
-    en:'Open →'
-  };
-
-  var names = [
-    'Книга Нытия',
-    'Книга Ниття',
-    'Кніга Ныцця',
-    'The Book of Whinesis',
-    'Księga Narzekania',
-    'Das Buch des Jammerns',
-    'El Libro de los Lamentos',
-    'Le Livre des Lamentations',
-    'O Livro das Lamúrias'
-  ];
-
-  document.querySelectorAll('.project-card').forEach(function (card) {
-    var h = card.querySelector('h2');
-    var actions = card.querySelector('.actions');
-    if (!h || !actions) return;
-
-    var title = h.textContent.trim();
-    var isBookCard = names.some(function (name) {
-      return title.indexOf(name) !== -1;
-    });
-
-    var hasBookStatus = card.textContent.indexOf('Страница готовится') !== -1 ||
-      card.textContent.indexOf('Сторінка в підготовці') !== -1 ||
-      card.textContent.indexOf('Страница в подготовке') !== -1 ||
-      card.textContent.indexOf('Strona w przygotowaniu') !== -1 ||
-      card.textContent.indexOf('Seite in Vorbereitung') !== -1 ||
-      card.textContent.indexOf('Página en preparación') !== -1 ||
-      card.textContent.indexOf('Page en préparation') !== -1 ||
-      card.textContent.indexOf('Página em preparação') !== -1 ||
-      card.textContent.indexOf('Page in preparation') !== -1;
-
-    if (!isBookCard && !hasBookStatus) return;
-
-    actions.innerHTML = '<a class="btn" href="/' + lang + '/books/the-book-of-whinesis/">' + (labels[lang] || 'Open →') + '</a>';
-  });
-})();
-
-/* Ashraellen — tiny Belarusian text fixes */
-(function () {
-  'use strict';
-
-  var path = window.location.pathname;
-
-  if (path.indexOf('/be/public/posts/essay/') !== -1) {
-    var description = document.querySelector('meta[name="description"]');
-    if (description && description.content.indexOf('адзін пытанне') !== -1) {
-      description.content = description.content.replace('адзін пытанне', 'адно пытанне');
-    }
-  }
-
-  if (path.indexOf('/be/public/posts/essay/cycles/cycle-0001.html') !== -1) {
-    document.querySelectorAll('p').forEach(function (node) {
-      if (node.textContent.indexOf('у зместе цыклаў') !== -1) {
-        node.textContent = node.textContent.replace('у зместе цыклаў', 'у змесце цыклаў');
-      }
+  if (replacement) {
+    document.querySelectorAll('.project-card h2').forEach(function (heading) {
+      if (heading.textContent.trim() === 'Church of Saint Whine') heading.textContent = replacement;
     });
   }
 })();
