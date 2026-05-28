@@ -4,7 +4,7 @@
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1"/>
 <meta name="theme-color" content="#0b0b0d">
-<title>Page not found — Ashraellen</title>
+<title>404 — Page not found — Ashraellen</title>
 <meta name="description" content="The requested page was not found. Choose a language and return to Ashraellen."/>
 <meta name="robots" content="noindex,follow">
 <script defer src="/assets/analytics.js"></script>
@@ -13,25 +13,25 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
-<style>
-:root{--bg:#0b0b0d;--fg:#f2f2f4;--muted:#a9a9b2;--line:rgba(242,242,244,.16);--soft:rgba(255,255,255,.045);--soft2:rgba(255,255,255,.09)}*{box-sizing:border-box}html,body{min-height:100%;margin:0}body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--fg)}main{min-height:100vh;display:flex;align-items:center;justify-content:center;padding:24px;background:radial-gradient(circle at 22% 18%,rgba(255,255,255,.08),transparent 30%),linear-gradient(135deg,#08080a,#151517 58%,#09090b)}.panel{width:min(760px,100%);padding:34px;border:1px solid var(--line);border-radius:28px;background:rgba(255,255,255,.038);box-shadow:0 24px 80px rgba(0,0,0,.34);backdrop-filter:blur(10px)}.symbol{width:48px;height:auto;display:block;margin:0 0 18px;opacity:.88}.brand{letter-spacing:.28em;text-transform:uppercase;font-size:14px;font-weight:700;margin:0 0 18px;color:rgba(242,242,244,.9)}.code{display:inline-flex;align-items:center;gap:8px;margin:0 0 14px;padding:7px 11px;border:1px solid var(--line);border-radius:999px;color:rgba(242,242,244,.64);font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;background:rgba(0,0,0,.16)}h1{margin:0;font-size:clamp(36px,8vw,64px);line-height:1.02;letter-spacing:-.045em}.lead{margin:16px 0 0;color:var(--muted);font-size:16px;line-height:1.5;max-width:62ch}.lead strong{color:var(--fg);font-weight:650}.actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:26px}.actions a,.langs a{display:inline-flex;align-items:center;justify-content:center;padding:10px 14px;border:1px solid var(--line);border-radius:999px;background:var(--soft);color:var(--fg);font-size:14px;font-weight:700;text-decoration:none}.actions a.primary{background:rgba(242,242,244,.92);color:#0b0b0d;border-color:rgba(242,242,244,.92)}.actions a:hover,.langs a:hover{background:var(--soft2)}.actions a.primary:hover{background:#fff}.langs{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px;padding-top:18px;border-top:1px solid var(--line)}footer{margin-top:24px;color:rgba(242,242,244,.48);font-size:12px;line-height:1.35}footer a{color:rgba(242,242,244,.68);text-decoration:none;border-bottom:1px solid rgba(242,242,244,.18)}footer a:hover{color:rgba(242,242,244,.9);border-color:rgba(242,242,244,.42)}@media(max-width:640px){main{align-items:flex-start;padding:18px}.panel{margin-top:24px;padding:24px}.symbol{width:42px}.lead{font-size:15px}.actions a,.langs a{width:100%}}
-</style>
+<link rel="stylesheet" href="/assets/404.css?v=20260528-1">
 </head>
 <body>
-<main>
-<section class="panel" aria-label="Ashraellen 404 page">
-<img class="symbol" src="/assets/symbol.png" alt="Ashraellen symbol">
-<p class="brand">Ashraellen</p>
-<p class="code">404 · not found</p>
-<h1>The page has stepped out of form.</h1>
-<p class="lead">The address may be old, unfinished, or simply wandering somewhere between silence and publication. <strong>Choose a language</strong> or return to the entrance.</p>
-<div class="actions" aria-label="Primary navigation">
-<a class="primary" href="/">Return to entrance</a>
-<a href="/en/">English</a>
-<a href="/ru/">Русский</a>
-<a href="/pl/">Polski</a>
-</div>
-<nav class="langs" aria-label="All language versions">
+<main class="error-page">
+<section class="error-inner" aria-label="Ashraellen 404 page">
+<img class="error-symbol" src="/assets/symbol.png" alt="Ashraellen symbol">
+<p class="error-brand">Ashraellen</p>
+<p class="error-code">404</p>
+<p class="error-status">not found</p>
+<h1 class="error-title">The page has stepped out of form.</h1>
+<p class="error-note">The address may be old, unfinished, or simply wandering somewhere between silence and publication.</p>
+<nav class="error-primary-nav" aria-label="Primary navigation">
+<a href="/">Entry</a>
+<a href="/en/professional/">Professional</a>
+<a href="/en/research/">Research</a>
+<a href="/en/public/">Public</a>
+<a href="/en/books/">Books</a>
+</nav>
+<nav class="error-lang-nav" aria-label="Language selection">
 <a href="/en/" lang="en">English</a>
 <a href="/ru/" lang="ru">Русский</a>
 <a href="/be/" lang="be">Беларуская</a>
@@ -42,7 +42,7 @@
 <a href="/fr/" lang="fr">Français</a>
 <a href="/de/" lang="de">Deutsch</a>
 </nav>
-<footer>If the link came from inside the site, the small ghost in the machine will be questioned politely. · <a href="/privacy.html">Privacy Policy</a></footer>
+<footer class="error-footer">If the link came from inside the site, the small ghost in the machine will be questioned politely. · <a href="/privacy.html">Privacy Policy</a></footer>
 </section>
 </main>
 </body>
