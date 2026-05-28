@@ -13,16 +13,17 @@ const EXCLUDED_DIRS = new Set([
   'scripts'
 ]);
 
-const EXCLUDED_FILES = new Set([
-  '404.html'
+const EXCLUDED_PATHS = new Set([
+  '404.html',
+  'privacy.html'
 ]);
 
 const EXCLUDED_FILE_PATTERNS = [
   /^google[a-z0-9]+\.html$/i
 ];
 
-function shouldExcludeFile(fileName) {
-  return EXCLUDED_FILES.has(fileName) || EXCLUDED_FILE_PATTERNS.some((pattern) => pattern.test(fileName));
+function shouldExcludeFile(relativePath, fileName) {
+  return EXCLUDED_PATHS.has(relativePath) || EXCLUDED_FILE_PATTERNS.some((pattern) => pattern.test(fileName));
 }
 
 function escapeXml(value) {
@@ -50,7 +51,7 @@ function walk(dir, results = []) {
 
     if (!entry.isFile()) continue;
     if (!entry.name.endsWith('.html')) continue;
-    if (shouldExcludeFile(entry.name)) continue;
+    if (shouldExcludeFile(relativePath, entry.name)) continue;
 
     results.push(relativePath);
   }
