@@ -12,6 +12,16 @@
 <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="manifest" href="site.webmanifest">
+<link rel="alternate" hreflang="en" href="https://www.ashraellen.com/en/">
+<link rel="alternate" hreflang="ru" href="https://www.ashraellen.com/ru/">
+<link rel="alternate" hreflang="be" href="https://www.ashraellen.com/be/">
+<link rel="alternate" hreflang="pl" href="https://www.ashraellen.com/pl/">
+<link rel="alternate" hreflang="uk" href="https://www.ashraellen.com/uk/">
+<link rel="alternate" hreflang="pt" href="https://www.ashraellen.com/pt/">
+<link rel="alternate" hreflang="es" href="https://www.ashraellen.com/es/">
+<link rel="alternate" hreflang="fr" href="https://www.ashraellen.com/fr/">
+<link rel="alternate" hreflang="de" href="https://www.ashraellen.com/de/">
+<link rel="alternate" hreflang="x-default" href="https://www.ashraellen.com/">
 <style>
 :root{--bg:#0b0b0d;--fg:#f2f2f4;--muted:#a9a9b2;--line:rgba(242,242,244,.16)}*{box-sizing:border-box}html,body{min-height:100%;margin:0}body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--fg)}main{min-height:100vh;display:flex;align-items:center;justify-content:center;padding:24px;background:linear-gradient(135deg,#08080a,#141416 58%,#09090b)}.panel{width:min(720px,100%);padding:30px;border:1px solid var(--line);border-radius:24px;background:rgba(255,255,255,.035)}.symbol{width:44px;height:auto;display:block;margin:0 0 18px;opacity:.86}.brand{letter-spacing:.28em;text-transform:uppercase;font-size:14px;font-weight:700;margin:0 0 18px}h1{margin:0;font-size:clamp(34px,8vw,58px);line-height:1.02;letter-spacing:-.04em}.note{margin:16px 0 0;color:var(--muted);font-size:15px;line-height:1.25;max-width:58ch}.langs{display:flex;flex-wrap:wrap;gap:10px;margin-top:24px}.langs a{display:inline-flex;align-items:center;justify-content:center;padding:10px 14px;border:1px solid var(--line);border-radius:999px;background:rgba(255,255,255,.045);color:var(--fg);font-size:14px;font-weight:700;text-decoration:none}.langs a:hover{background:rgba(255,255,255,.09)}footer{margin-top:24px;color:rgba(242,242,244,.48);font-size:12px;line-height:1.25}footer a{color:rgba(242,242,244,.62);text-decoration:none;border-bottom:1px solid rgba(242,242,244,.18)}footer a:hover{color:rgba(242,242,244,.86);border-color:rgba(242,242,244,.38)}@media(max-width:640px){main{align-items:flex-start;padding:18px}.panel{margin-top:24px;padding:22px}.symbol{width:40px}.note{font-size:14px}}
 </style>
@@ -24,22 +34,30 @@
 <h1>Choose your language</h1>
 <p class="note">Books, research, public texts, videos, audiobooks and inner observation — gathered as one space.</p>
 <p class="note">The site opens automatically using your browser language. You can also choose manually.</p>
-<nav class="langs" id="langlist" aria-label="Language selection"></nav>
+<nav class="langs" id="langlist" aria-label="Language selection">
+<a href="/en/" lang="en" data-lang="en">English</a>
+<a href="/ru/" lang="ru" data-lang="ru">Русский</a>
+<a href="/be/" lang="be" data-lang="be">Беларуская</a>
+<a href="/pl/" lang="pl" data-lang="pl">Polski</a>
+<a href="/uk/" lang="uk" data-lang="uk">Українська</a>
+<a href="/pt/" lang="pt" data-lang="pt">Português</a>
+<a href="/es/" lang="es" data-lang="es">Español</a>
+<a href="/fr/" lang="fr" data-lang="fr">Français</a>
+<a href="/de/" lang="de" data-lang="de">Deutsch</a>
+</nav>
 <footer>A quieter entrance into a denser space. · <a id="privacyLink" href="privacy.html">Privacy Policy</a></footer>
 </section>
 </main>
 <script>
 (function(){
-const supported=[["en","English"],["ru","Русский"],["be","Беларуская"],["pl","Polski"],["uk","Українська"],["pt","Português"],["es","Español"],["fr","Français"],["de","Deutsch"]];
-const list=document.getElementById('langlist');
+const supported=["en","ru","be","pl","uk","pt","es","fr","de"];
 const isGitHub=location.hostname.endsWith('github.io');
 const seg1=location.pathname.split('/').filter(Boolean)[0];
 const base=isGitHub&&seg1?`/${seg1}/`:`/`;
-supported.forEach(([code,name])=>{const a=document.createElement('a');a.href=base+code+'/';a.textContent=name;a.lang=code;list.appendChild(a);});
+document.querySelectorAll('#langlist a[data-lang]').forEach(a=>{a.href=base+a.dataset.lang+'/';});
 document.getElementById('privacyLink').href=base+'privacy.html';
 const pref=(navigator.language||'en').slice(0,2).toLowerCase();
-const codes=supported.map(x=>x[0]);
-const target=codes.includes(pref)?pref:'en';
+const target=supported.includes(pref)?pref:'en';
 const manual=new URLSearchParams(location.search).has('manual');
 if(!manual){location.replace(base+target+'/');}
 })();
