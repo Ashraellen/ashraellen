@@ -77,32 +77,15 @@
 
               <li class="item">
                 <div class="thumb">
-                  <a id="thumbLinkAhepsu" href="#" aria-label="Открыть образец: АХЕПСУ. Путь Честности">
+                  <a id="thumbLinkAhepsu" href="#" aria-label="Открыть: АХЕПСУ. Путь Честности">
                     <img id="thumbAhepsu" src="#" alt="АХЕПСУ. Путь Честности — миниатюра" loading="lazy">
                   </a>
                 </div>
 
                 <div class="body">
-                  <a id="bookAhepsu" href="#" title="Открыть аудио-видео образец книги">АХЕПСУ. Путь Честности</a>
+                  <a id="bookAhepsu" href="#" title="Открыть страницу книги">АХЕПСУ. Путь Честности</a>
                   <div class="meta">
-                    <strong>Готовится к печати.</strong> Жанр: философское исследование, прикладная психология, метафизика сознания.
-                    <br><br>
-                    «АХЕПСУ. Путь Честности» — первая книга масштабного исследовательского цикла, посвящённого природе человеческого самообмана, внутренним механизмам сопротивления и взаимосвязи сознания, мотивации и жизненных результатов.
-                    <br><br>
-                    Книга построена как последовательное путешествие через слои личных иллюзий. Автор рассматривает страх, алчность, стремление к безопасности, финансовые убеждения, духовную гордыню, механизмы самосаботажа и циклы эго не как моральные недостатки, а как элементы внутренней архитектуры личности.
-                    <br><br>
-                    Центральная идея книги заключается в том, что большинство жизненных ограничений создаётся не внешними обстоятельствами, а искажённым восприятием реальности. Честность рассматривается не как моральная категория, а как особый способ видеть происходящее без защитных механизмов, фантазий и внутренних оправданий.
-                    <br><br>
-                    Текст сочетает элементы философского трактата, психологического исследования и практического самоанализа. Вместо готовых рецептов автор предлагает систему наблюдений, позволяющую читателю самостоятельно исследовать собственные мотивы, убеждения и скрытые формы сопротивления переменам.
-                    <br><br>
-                    Особое внимание уделяется отношениям человека с деньгами, успехом, ответственностью, страхом изменений и стремлением к признанию. Деньги рассматриваются не как цель, а как зеркало внутренних процессов и показатель зрелости личности.
-                    <br><br>
-                    «АХЕПСУ» не обещает быстрых решений. Эта книга посвящена постепенному освобождению от внутренних иллюзий и развитию способности видеть себя и мир более ясно.
-                    <br><br>
-                    Книга является первой частью большого цикла исследований, посвящённых честности, осознанности, внутренней свободе и природе человеческого сознания.
-                    <div class="cta-row">
-                      <a id="ahepsuSample" class="btn secondary" href="#" target="_blank" rel="noopener noreferrer">Смотреть аудио-видео страницу →</a>
-                    </div>
+                    Философское исследование, прикладная психология и метафизика сознания о самообмане, честности, деньгах, сопротивлении переменам и внутренней свободе. Книга готовится к печати; первые аудио-видео страницы уже доступны.
                   </div>
                 </div>
 
@@ -165,25 +148,24 @@
     document.getElementById('toResearch').href = base + 'ru/research/';
 
     const monolithHref = base + 'ru/books/monolith/';
+    const ahepsuHref   = base + 'ru/books/seccus/';
     const onlineHref   = base + 'ru/books/you-are-already-online/';
     const whinesisHref = base + 'ru/books/the-book-of-whinesis/';
-    const ahepsuHref   = 'https://youtu.be/RZnH3A0usTs';
 
     document.getElementById('bookMonolith').href = monolithHref;
+    document.getElementById('bookAhepsu').href = ahepsuHref;
     document.getElementById('bookOnline').href = onlineHref;
     document.getElementById('bookWhinesis').href = whinesisHref;
-    document.getElementById('bookAhepsu').href = ahepsuHref;
-    document.getElementById('ahepsuSample').href = ahepsuHref;
 
     document.getElementById('thumbLinkMonolith').href = monolithHref;
+    document.getElementById('thumbLinkAhepsu').href = ahepsuHref;
     document.getElementById('thumbLinkOnline').href = onlineHref;
     document.getElementById('thumbLinkWhinesis').href = whinesisHref;
-    document.getElementById('thumbLinkAhepsu').href = ahepsuHref;
 
     document.getElementById('thumbMonolith').src = base + 'assets/backgrounds/monolith-bg.webp';
+    document.getElementById('thumbAhepsu').src   = base + 'assets/backgrounds/seccus-bg.webp';
     document.getElementById('thumbOnline').src   = base + 'assets/covers/online-thumb.jpg';
     document.getElementById('thumbWhinesis').src = base + 'assets/covers/whinesis-thumb.jpg';
-    document.getElementById('thumbAhepsu').src   = base + 'assets/backgrounds/seccus-bg.webp';
 
     document.getElementById('sealImg').src = base + 'assets/symbol.png';
   })();
