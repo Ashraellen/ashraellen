@@ -1,3 +1,9 @@
+.page.book-seccus::before{
+  background-image:url("backgrounds/seccus-bg.webp");
+  background-position:center center;
+  filter:brightness(0.68) contrast(1.08) saturate(0.9);
+}
+
 .book-copy{
   font-size:13px;
   line-height:1.25;
@@ -114,13 +120,13 @@
   position:relative;
   max-width:78ch;
   font-size:14px;
-  line-height:1.62;
+  line-height:1.46;
   color:rgba(242,242,244,.94);
   letter-spacing:.01em;
 }
 
 .excerpt p{
-  margin:0 0 14px;
+  margin:0 0 7px;
 }
 
 .excerpt h3{
@@ -131,7 +137,7 @@
 }
 
 .excerpt h4{
-  margin:20px 0 10px;
+  margin:16px 0 8px;
   font-size:13px;
   line-height:1.25;
   letter-spacing:.12em;
@@ -140,7 +146,7 @@
 }
 
 .excerpt.is-collapsed{
-  max-height:520px;
+  max-height:500px;
   overflow:hidden;
 }
 
@@ -149,7 +155,7 @@
   left:0;
   right:0;
   bottom:0;
-  height:120px;
+  height:105px;
   pointer-events:none;
   background:linear-gradient(to bottom,rgba(11,11,13,0) 0%,rgba(11,11,13,.68) 58%,rgba(11,11,13,.96) 100%);
   display:none;
