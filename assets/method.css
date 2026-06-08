@@ -21,6 +21,10 @@
   max-width:82ch;
 }
 
+.method-page [data-ashraellen-research-core="1"]{
+  display:none!important;
+}
+
 .method-section h2{
   margin:0 0 12px;
   font-size:17px;
