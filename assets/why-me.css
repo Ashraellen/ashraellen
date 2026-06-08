@@ -1,7 +1,7 @@
 /* Error 404 — Book I: Why Me? / Почему я? */
 
 .page.book-why-me::before{
-  background-image:url("covers/error-404-thumb.webp");
+  background-image:url("backgrounds/error-404-why-me-bg.webp");
   background-position:center center;
   filter:brightness(.50) contrast(1.08) saturate(.80) blur(1.1px);
 }
