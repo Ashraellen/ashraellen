@@ -129,11 +129,13 @@ a:hover{text-decoration:underline}
   flex:1;
   display:flex;
   align-items:center;
+  justify-content:center;
 }
 
 .container{
-  width:100%;
+  width:min(100%, 980px);
   max-width:980px;
+  margin:0 auto;
   padding:28px 44px 56px;
   text-shadow:0 2px 8px rgba(0,0,0,.84),0 0 22px rgba(0,0,0,.46);
 }
@@ -155,17 +157,17 @@ a:hover{text-decoration:underline}
 /* List blocks */
 .list{
   margin-top:14px;
-  border:1px solid rgba(242,242,244,0.14);
+  border:1px solid rgba(242,242,244,0.07);
   border-radius:18px;
-  background: rgba(0,0,0,0.22);
+  background: rgba(0,0,0,0.18);
   backdrop-filter: blur(4px);
   overflow:hidden;
-  box-shadow:0 12px 34px rgba(0,0,0,.24);
+  box-shadow:0 12px 34px rgba(0,0,0,.18);
 }
 
 .list-header{
   padding:14px 16px;
-  border-bottom:1px solid rgba(242,242,244,0.10);
+  border-bottom:1px solid rgba(242,242,244,0.055);
   display:flex;
   align-items:baseline;
   justify-content:space-between;
@@ -196,7 +198,7 @@ a:hover{text-decoration:underline}
   grid-template-columns: 110px 1fr auto;
   gap:18px;
   align-items:center;
-  border-top:1px solid rgba(242,242,244,0.08);
+  border-top:1px solid rgba(242,242,244,0.055);
 }
 .item:first-child{ border-top:none; }
 
@@ -207,8 +209,8 @@ a:hover{text-decoration:underline}
   border-radius:14px;
   overflow:hidden;
   flex-shrink:0;
-  border:1px solid rgba(242,242,244,.10);
-  background:rgba(255,255,255,.04);
+  border:1px solid rgba(242,242,244,.08);
+  background:rgba(255,255,255,.035);
 }
 
 .thumb img{
@@ -237,17 +239,17 @@ a:hover{text-decoration:underline}
 .badge{
   font-size:12px;
   color:var(--muted);
-  border:1px solid rgba(242,242,244,0.14);
+  border:1px solid rgba(242,242,244,0.12);
   border-radius:999px;
   padding:6px 12px;
   white-space:nowrap;
-  background: rgba(255,255,255,0.03);
+  background: rgba(255,255,255,0.025);
   align-self:start;
 }
 
 .badge.warm{
-  border-color: rgba(210,150,80,0.22);
-  background: rgba(210,150,80,0.06);
+  border-color: rgba(210,150,80,0.18);
+  background: rgba(210,150,80,0.045);
 }
 
 /* ==== BUTTON NORMALIZE (critical) ==== */
@@ -333,8 +335,14 @@ button.btn{
 /* Mobile */
 @media (max-width: 900px){
   .site-header{ padding:16px 22px 0; }
-  .main{ align-items:flex-start; }
-  .container{ padding:22px 22px 44px; }
+  .main{
+    align-items:flex-start;
+    justify-content:center;
+  }
+  .container{
+    width:100%;
+    padding:22px 22px 44px;
+  }
 
   .page.books-page::before{
     background-position:68% center;
