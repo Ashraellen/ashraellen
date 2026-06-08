@@ -147,6 +147,19 @@
   opacity:.86;
 }
 
+.book-nav{
+  margin-top:18px;
+  display:flex;
+  justify-content:flex-start;
+}
+
+.book-nav .btn{
+  font-size:12px;
+  padding:9px 13px;
+  font-weight:700;
+  opacity:.86;
+}
+
 @media(max-width:900px){
   .book-hero{
     grid-template-columns:1fr;
