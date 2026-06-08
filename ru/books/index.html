@@ -4,7 +4,7 @@
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
   <title>Ashraellen — Книги</title>
-  <meta name="description" content="Книги Ashraellen: романы, большие проекты, книги-опыты, MONOLITH, АХЕПСУ, Ты уже в сети и Книга Нытия.">
+  <meta name="description" content="Книги Ashraellen: романы, большие проекты, книги-опыты, MONOLITH, Ошибка 404: Бог не найден, АХЕПСУ, Ты уже в сети и Книга Нытия.">
   <link rel="alternate" hreflang="en" href="https://www.ashraellen.com/en/books/">
   <link rel="alternate" hreflang="ru" href="https://www.ashraellen.com/ru/books/">
   <link rel="alternate" hreflang="be" href="https://www.ashraellen.com/be/books/">
@@ -73,6 +73,23 @@
                 </div>
 
                 <span class="badge">series</span>
+              </li>
+
+              <li class="item">
+                <div class="thumb">
+                  <a id="thumbLinkError404" href="#" aria-label="Открыть: Ошибка 404: Бог не найден">
+                    <img id="thumbError404" src="#" alt="Ошибка 404: Бог не найден — миниатюра" loading="lazy">
+                  </a>
+                </div>
+
+                <div class="body">
+                  <a id="bookError404" href="#" title="Открыть страницу серии">Ошибка 404: Бог не найден</a>
+                  <div class="meta">
+                    Философско-сатирический роман-цикл о юристе Владе, который пытается оформить претензию к Мирозданию и постепенно выходит к вопросу не о том, почему это случилось с ним, а о том, кто именно спрашивает. Книга I — «Почему я?».
+                  </div>
+                </div>
+
+                <span class="badge warm">series</span>
               </li>
 
               <li class="item">
@@ -148,21 +165,25 @@
     document.getElementById('toResearch').href = base + 'ru/research/';
 
     const monolithHref = base + 'ru/books/monolith/';
+    const error404Href = base + 'ru/books/error-404-god-not-found/';
     const ahepsuHref   = base + 'ru/books/seccus/';
     const onlineHref   = base + 'ru/books/you-are-already-online/';
     const whinesisHref = base + 'ru/books/the-book-of-whinesis/';
 
     document.getElementById('bookMonolith').href = monolithHref;
+    document.getElementById('bookError404').href = error404Href;
     document.getElementById('bookAhepsu').href = ahepsuHref;
     document.getElementById('bookOnline').href = onlineHref;
     document.getElementById('bookWhinesis').href = whinesisHref;
 
     document.getElementById('thumbLinkMonolith').href = monolithHref;
+    document.getElementById('thumbLinkError404').href = error404Href;
     document.getElementById('thumbLinkAhepsu').href = ahepsuHref;
     document.getElementById('thumbLinkOnline').href = onlineHref;
     document.getElementById('thumbLinkWhinesis').href = whinesisHref;
 
     document.getElementById('thumbMonolith').src = base + 'assets/backgrounds/monolith-bg.webp';
+    document.getElementById('thumbError404').src = base + 'assets/covers/error-404-thumb.webp';
     document.getElementById('thumbAhepsu').src   = base + 'assets/backgrounds/seccus-bg.webp';
     document.getElementById('thumbOnline').src   = base + 'assets/covers/online-thumb.jpg';
     document.getElementById('thumbWhinesis').src = base + 'assets/covers/whinesis-thumb.jpg';
