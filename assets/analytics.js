@@ -217,6 +217,38 @@
   hint.insertAdjacentElement('afterend', p);
 })();
 
+/* Ashraellen — proposal links on professional pages */
+(function () {
+  'use strict';
+  var parts = window.__ashraellenSite.parts();
+  var l = parts[window.__ashraellenSite.langIndex()] || document.documentElement.lang || 'en';
+  l = String(l).slice(0,2).toLowerCase();
+  if (l !== 'en' && l !== 'ru') return;
+  var rest = parts.slice(window.__ashraellenSite.langIndex() + 1);
+  if (rest.join('/') !== 'professional') return;
+  function addLinks(){
+    var section = document.getElementById('pdf');
+    if (!section || section.querySelector('[data-proposal-link="1"]')) return;
+    var base = window.__ashraellenSite.base();
+    var suffix = l === 'ru' ? 'RU' : 'EN';
+    var text = l === 'ru' ? 'Скачать 12-месячный проектный план PDF →' : 'Download 12-month project proposal PDF →';
+    var p = document.createElement('p');
+    var a = document.createElement('a');
+    a.className = 'dossier-link';
+    a.href = base + 'assets/docs/Ashraellen_12_Month_Project_Proposal_2026_' + suffix + '.pdf';
+    a.target = '_blank';
+    a.rel = 'noopener noreferrer';
+    a.dataset.proposalLink = '1';
+    a.textContent = text;
+    p.appendChild(a);
+    section.appendChild(p);
+    var h2 = section.querySelector('h2');
+    if (h2) h2.textContent = l === 'ru' ? 'PDF-досье, бюджет и проектный план' : 'PDF dossier, budget and project proposal';
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', addLinks);
+  else addLinks();
+})();
+
 /* Ashraellen — tiny localized project fixes */
 (function () {
   'use strict';
