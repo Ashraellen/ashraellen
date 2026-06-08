@@ -249,6 +249,126 @@
   else addLinks();
 })();
 
+/* Ashraellen — multilingual research core on Research and Method pages */
+(function () {
+  'use strict';
+  var parts = window.__ashraellenSite.parts();
+  var langIndex = window.__ashraellenSite.langIndex();
+  var l = (parts[langIndex] || document.documentElement.lang || 'en').slice(0,2).toLowerCase();
+  var rest = parts.slice(langIndex + 1).join('/');
+  var isResearch = rest === 'research';
+  var isMethod = rest === 'research/method';
+  if (!isResearch && !isMethod) return;
+
+  var texts = {
+    en: {
+      title: 'Research core',
+      p: [
+        'Ashraellen is not merely a name, but a mode of seeing.',
+        'It is a lifelong artistic-philosophical inquiry into meaning: a way of perceiving the world not as separate events, thoughts and reactions, but as a web of meanings, relations, knots and reflections.',
+        'The author is present in this work not as the creator of a final system and not as the owner of truth, but as an observer and recorder of intersections. Books, videos, satire, sound, symbolic analysis, public formulas and the multilingual archive are forms of recording one long investigation.'
+      ]
+    },
+    ru: {
+      title: 'Исследовательское ядро',
+      p: [
+        'Ashraellen — это не столько имя, сколько способ видеть.',
+        'Это художественно-философское исследование смысла длиною в жизнь: способ воспринимать мир не как набор отдельных событий, мыслей и реакций, а как паутину смыслов, связей, узлов и отражений.',
+        'Автор присутствует в этой работе не как создатель окончательной системы и не как владелец истины, а как наблюдатель и фиксатор переплетений. Книги, видео, сатира, звук, символические разборы, публичные формулы и многоязычный архив — формы фиксации одного длительного исследования.'
+      ]
+    },
+    be: {
+      title: 'Даследчае ядро',
+      p: [
+        'Ashraellen — гэта не столькі імя, колькі спосаб бачыць.',
+        'Гэта мастацка-філасофскае даследаванне сэнсу даўжынёю ў жыццё: спосаб успрымаць свет не як набор асобных падзей, думак і рэакцый, а як павуцінне сэнсаў, сувязяў, вузлоў і адлюстраванняў.',
+        'Аўтар прысутнічае ў гэтай працы не як стваральнік канчатковай сістэмы і не як уладальнік ісціны, а як назіральнік і фіксатар перапляценняў. Кнігі, відэа, сатыра, гук, сімвалічныя разборы, публічныя формулы і шматмоўны архіў — формы фіксацыі аднаго працяглага даследавання.'
+      ]
+    },
+    pl: {
+      title: 'Rdzeń badania',
+      p: [
+        'Ashraellen nie jest jedynie imieniem, lecz sposobem widzenia.',
+        'To trwające całe życie artystyczno-filozoficzne badanie sensu: sposób postrzegania świata nie jako zbioru oddzielnych zdarzeń, myśli i reakcji, lecz jako sieci znaczeń, relacji, węzłów i odbić.',
+        'Autor jest obecny w tej pracy nie jako twórca ostatecznego systemu ani właściciel prawdy, lecz jako obserwator i zapisujący sploty. Książki, wideo, satyra, dźwięk, analizy symboliczne, publiczne formuły i wielojęzyczne archiwum są formami zapisu jednego długiego badania.'
+      ]
+    },
+    uk: {
+      title: 'Дослідницьке ядро',
+      p: [
+        'Ashraellen — це не стільки ім’я, скільки спосіб бачити.',
+        'Це художньо-філософське дослідження сенсу завдовжки в життя: спосіб сприймати світ не як набір окремих подій, думок і реакцій, а як павутину сенсів, зв’язків, вузлів і віддзеркалень.',
+        'Автор присутній у цій роботі не як творець остаточної системи і не як власник істини, а як спостерігач і фіксатор переплетень. Книги, відео, сатира, звук, символічні розбори, публічні формули і багатомовний архів — форми фіксації одного тривалого дослідження.'
+      ]
+    },
+    pt: {
+      title: 'Núcleo da investigação',
+      p: [
+        'Ashraellen não é apenas um nome, mas um modo de ver.',
+        'É uma investigação artístico-filosófica do sentido ao longo de uma vida: uma forma de perceber o mundo não como um conjunto de acontecimentos, pensamentos e reações separados, mas como uma teia de sentidos, relações, nós e reflexos.',
+        'O autor está presente neste trabalho não como criador de um sistema final nem como proprietário da verdade, mas como observador e registrador de entrelaçamentos. Livros, vídeos, sátira, som, análises simbólicas, fórmulas públicas e o arquivo multilíngue são formas de registrar uma longa investigação.'
+      ]
+    },
+    es: {
+      title: 'Núcleo de investigación',
+      p: [
+        'Ashraellen no es solo un nombre, sino una forma de ver.',
+        'Es una investigación artístico-filosófica del sentido a lo largo de una vida: una manera de percibir el mundo no como un conjunto de acontecimientos, pensamientos y reacciones aislados, sino como una red de sentidos, relaciones, nudos y reflejos.',
+        'El autor está presente en este trabajo no como creador de un sistema definitivo ni como dueño de la verdad, sino como observador y registrador de entrelazamientos. Libros, vídeos, sátira, sonido, análisis simbólicos, fórmulas públicas y el archivo multilingüe son formas de registrar una larga investigación.'
+      ]
+    },
+    fr: {
+      title: 'Noyau de recherche',
+      p: [
+        'Ashraellen n’est pas seulement un nom, mais une manière de voir.',
+        'C’est une recherche artistique et philosophique du sens à l’échelle d’une vie : une manière de percevoir le monde non comme une suite d’événements, de pensées et de réactions séparés, mais comme une toile de sens, de relations, de nœuds et de reflets.',
+        'L’auteur est présent dans ce travail non comme le créateur d’un système final ni comme le propriétaire de la vérité, mais comme un observateur et un enregistreur d’entrelacements. Livres, vidéos, satire, son, analyses symboliques, formules publiques et archive multilingue sont des formes d’enregistrement d’une longue recherche.'
+      ]
+    },
+    de: {
+      title: 'Forschungskern',
+      p: [
+        'Ashraellen ist nicht nur ein Name, sondern eine Weise des Sehens.',
+        'Es ist eine lebenslange künstlerisch-philosophische Untersuchung des Sinns: eine Weise, die Welt nicht als Ansammlung einzelner Ereignisse, Gedanken und Reaktionen wahrzunehmen, sondern als Gewebe von Bedeutungen, Beziehungen, Knoten und Spiegelungen.',
+        'Der Autor ist in dieser Arbeit nicht als Schöpfer eines endgültigen Systems und nicht als Besitzer der Wahrheit anwesend, sondern als Beobachter und Aufzeichner von Verflechtungen. Bücher, Videos, Satire, Klang, symbolische Analysen, öffentliche Formeln und das mehrsprachige Archiv sind Formen der Aufzeichnung einer langen Untersuchung.'
+      ]
+    }
+  };
+  var t = texts[l] || texts.en;
+
+  function addCore(){
+    if (document.querySelector('[data-ashraellen-research-core="1"]')) return;
+    var content = document.querySelector('.content');
+    var h1 = content && content.querySelector('h1');
+    if (!content || !h1) return;
+    var existing = content.textContent || '';
+    if (isResearch && (existing.indexOf('lifelong artistic-philosophical') !== -1 || existing.indexOf('длиною в жизнь') !== -1)) return;
+
+    var block = document.createElement('section');
+    block.className = isMethod ? 'method-section' : 'research-core-block';
+    block.setAttribute('data-ashraellen-research-core','1');
+    if (isMethod) {
+      var h2 = document.createElement('h2');
+      h2.textContent = t.title;
+      block.appendChild(h2);
+    }
+    t.p.forEach(function(txt){
+      var p = document.createElement('p');
+      p.className = isMethod ? '' : 'lead';
+      p.textContent = txt;
+      block.appendChild(p);
+    });
+    var after = h1;
+    if (isMethod) {
+      var notes = content.querySelectorAll('.method-note');
+      if (notes.length) after = notes[notes.length - 1];
+    }
+    after.insertAdjacentElement('afterend', block);
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', addCore);
+  else addCore();
+})();
+
 /* Ashraellen — tiny localized project fixes */
 (function () {
   'use strict';
