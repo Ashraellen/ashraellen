@@ -1,0 +1,142 @@
+/* Error 404: God Not Found — series page */
+
+/* Page background */
+.page.error404-series-page::before{
+  background-image:url("covers/error-404-thumb.webp");
+  filter:brightness(.48) contrast(1.08) saturate(.78) blur(1.2px);
+}
+
+/* Slightly calmer overlay for the warm/cold Error404 image */
+.page.error404-series-page::after{
+  background:
+    linear-gradient(90deg,
+      rgba(11,11,13,0.92) 0%,
+      rgba(11,11,13,0.76) 32%,
+      rgba(11,11,13,0.50) 60%,
+      rgba(11,11,13,0.24) 82%,
+      rgba(11,11,13,0.10) 100%),
+    radial-gradient(70% 80% at 62% 45%,
+      rgba(210,150,80,0.07) 0%,
+      rgba(210,150,80,0.00) 70%);
+}
+
+/* Series description */
+.series-desc{
+  font-size:13px;
+  line-height:1.78;
+  color:var(--muted);
+  max-width:78ch;
+}
+
+.series-desc p{
+  margin:0 0 12px;
+}
+
+.series-desc p:last-child{
+  margin-bottom:0;
+}
+
+/* Quote / signal line */
+.quote-line{
+  font-family:Georgia,'Times New Roman',serif;
+  font-size:22px;
+  line-height:1.35;
+  color:var(--fg);
+}
+
+/* Technical / institutional small note */
+.protocol{
+  font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  color:var(--muted);
+  font-size:12px;
+  letter-spacing:.04em;
+}
+
+/* Book cards grid */
+.series-grid{
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:14px;
+  margin-top:14px;
+}
+
+/* Book card */
+.series-card{
+  border:1px solid rgba(242,242,244,.08);
+  border-radius:16px;
+  padding:14px;
+  background:rgba(0,0,0,.18);
+  backdrop-filter:blur(4px);
+  box-shadow:0 12px 30px rgba(0,0,0,.16);
+  display:flex;
+  flex-direction:column;
+}
+
+/* Cover block */
+.series-cover{
+  aspect-ratio:2/3;
+  border-radius:12px;
+  overflow:hidden;
+  border:1px solid rgba(242,242,244,.08);
+  background:rgba(255,255,255,.035);
+  margin-bottom:14px;
+}
+
+.series-cover img{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  display:block;
+}
+
+/* Placeholder cover, like GAS on MONOLITH page, but quieter */
+.series-cover.placeholder{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding:18px;
+  font-family:Georgia,'Times New Roman',serif;
+  font-size:22px;
+  line-height:1.25;
+  text-align:center;
+  letter-spacing:.06em;
+  color:rgba(242,242,244,.56);
+  background:
+    linear-gradient(145deg,rgba(255,255,255,.04),rgba(255,255,255,.012)),
+    rgba(0,0,0,.16);
+}
+
+/* Card typography */
+.series-card h3{
+  margin:0 0 8px;
+  font-size:17px;
+  line-height:1.3;
+}
+
+.series-card p{
+  margin:0 0 12px;
+  color:var(--muted);
+  font-size:13px;
+  line-height:1.6;
+}
+
+.series-card .cta-row{
+  margin-top:auto;
+}
+
+.series-card .btn{
+  font-size:12px;
+  padding:10px 14px;
+  font-weight:700;
+}
+
+/* Mobile */
+@media(max-width:900px){
+  .series-grid{
+    grid-template-columns:1fr;
+  }
+
+  .series-cover{
+    max-width:320px;
+  }
+}
