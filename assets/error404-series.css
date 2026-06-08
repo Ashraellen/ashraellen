@@ -23,13 +23,14 @@
 /* Series description */
 .series-desc{
   font-size:13px;
-  line-height:1.78;
+  line-height:1.25;
   color:var(--muted);
   max-width:78ch;
 }
 
 .series-desc p{
   margin:0 0 12px;
+  line-height:1.25;
 }
 
 .series-desc p:last-child{
@@ -42,6 +43,26 @@
   font-size:22px;
   line-height:1.35;
   color:var(--fg);
+}
+
+.error404-formula{
+  margin:0 0 12px;
+  font-family:Georgia,'Times New Roman',serif;
+  color:var(--fg);
+}
+
+.error404-formula-main{
+  display:block;
+  font-size:18px;
+  line-height:1.25;
+}
+
+.error404-formula-sub{
+  display:block;
+  margin-top:8px;
+  font-size:14px;
+  line-height:1.25;
+  color:rgba(242,242,244,.86);
 }
 
 /* Technical / institutional small note */
