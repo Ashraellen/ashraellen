@@ -111,6 +111,21 @@ function slugTitle(slug) {
     .join(' ');
 }
 
+function conciseTitle(title, fallback) {
+  const cleaned = title.split('|')[0].trim();
+  const dashParts = cleaned.split('—').map(part => part.trim()).filter(Boolean);
+
+  if (dashParts.length > 1 && dashParts[0].toLowerCase() === 'ashraellen') {
+    return dashParts.slice(1).join(' — ');
+  }
+
+  if (dashParts.length > 0 && dashParts[0].toLowerCase() !== 'ashraellen') {
+    return dashParts[0];
+  }
+
+  return fallback;
+}
+
 function breadcrumbItems(rel, url, title) {
   const parts = rel.replace(/\/index\.html$/, '').split('/').filter(Boolean);
   const items = [{ '@type': 'ListItem', position: 1, name: 'Ashraellen', item: `${SITE}/` }];
@@ -127,7 +142,7 @@ function breadcrumbItems(rel, url, title) {
       name = LANGUAGES[parts[0]].sections[part];
     }
     if (i === parts.length - 1 && parts.length > 1) {
-      name = title.split('—')[0].split('|')[0].trim() || name;
+      name = conciseTitle(title, name);
     }
 
     items.push({ '@type': 'ListItem', position, name, item: `${SITE}/${current}` });
@@ -190,6 +205,11 @@ function mainEntityFor(rel, url, lang, title, description) {
   return { '@id': `${SITE}/#person` };
 }
 
+function mainEntityReference(entity) {
+  if (entity && entity['@id']) return { '@id': entity['@id'] };
+  return entity;
+}
+
 function jsonLdFor(rel, html) {
   const url = canonicalForRel(rel);
   const lang = getLanguage(rel);
@@ -232,7 +252,7 @@ function jsonLdFor(rel, html) {
       isPartOf: { '@id': `${SITE}/#website` },
       about: { '@id': `${SITE}/#person` },
       creator: { '@id': `${SITE}/#person` },
-      mainEntity,
+      mainEntity: mainEntityReference(mainEntity),
       breadcrumb: { '@id': `${url}#breadcrumb` }
     },
     {
