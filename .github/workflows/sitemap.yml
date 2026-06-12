@@ -7,6 +7,7 @@ on:
     paths:
       - '**/*.html'
       - 'scripts/apply-canonical.js'
+      - 'scripts/apply-jsonld.js'
       - 'scripts/generate-sitemap.js'
       - '.github/workflows/sitemap.yml'
   workflow_dispatch:
@@ -32,18 +33,21 @@ jobs:
       - name: Apply canonical links
         run: node scripts/apply-canonical.js
 
+      - name: Apply JSON-LD structured data
+        run: node scripts/apply-jsonld.js
+
       - name: Generate sitemap.xml
         run: node scripts/generate-sitemap.js
 
-      - name: Commit canonical links and sitemap.xml if changed
+      - name: Commit canonical links, JSON-LD and sitemap.xml if changed
         run: |
           if git diff --quiet; then
-            echo "Canonical links and sitemap.xml are already up to date."
+            echo "Canonical links, JSON-LD and sitemap.xml are already up to date."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Auto-update canonical links and sitemap"
+          git commit -m "Auto-update canonical links, JSON-LD and sitemap"
           git push
