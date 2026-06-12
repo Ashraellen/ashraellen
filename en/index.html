@@ -27,6 +27,50 @@
   <link rel="stylesheet" href="../assets/style.css?v=20260519-1">
   <script defer src="/assets/analytics.js"></script>
   <script defer src="/assets/contact-corner.js"></script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://www.ashraellen.com/#person",
+        "name": "Ashraellen",
+        "alternateName": "Nikolai Kostyshev",
+        "url": "https://www.ashraellen.com/en/",
+        "description": "Ashraellen is an independent multilingual literary-philosophical and artistic research practice exploring consciousness, language, systems, satire, digital pressure, inner autonomy and the loss of direct perception.",
+        "knowsAbout": [
+          "literary-philosophical research",
+          "artistic research",
+          "inner observation",
+          "language and meaning",
+          "digital society",
+          "satire",
+          "systems and consciousness",
+          "inner autonomy"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://www.ashraellen.com/#website",
+        "url": "https://www.ashraellen.com/",
+        "name": "Ashraellen",
+        "inLanguage": ["en", "ru", "pl", "de", "es", "fr", "pt", "uk", "be"],
+        "description": "Official multilingual website of Ashraellen: books, research, public texts, videos, audiobooks and forms of inner observation.",
+        "publisher": { "@id": "https://www.ashraellen.com/#person" }
+      },
+      {
+        "@type": "CreativeWork",
+        "@id": "https://www.ashraellen.com/en/#project",
+        "name": "Ashraellen",
+        "url": "https://www.ashraellen.com/en/",
+        "creator": { "@id": "https://www.ashraellen.com/#person" },
+        "isPartOf": { "@id": "https://www.ashraellen.com/#website" },
+        "genre": ["literary-philosophical research", "artistic research", "public philosophy", "satire"],
+        "description": "A long-term author practice using books, essays, videos, public texts, sound, images and multilingual archive as forms of observation rather than as separate content products."
+      }
+    ]
+  }
+  </script>
   <style>
     .professional-link{
       display:flex;
@@ -55,6 +99,13 @@
       border-color:rgba(242,242,244,.30);
       background:rgba(0,0,0,.34);
       transform:translateY(-1px);
+    }
+    .project-summary{
+      margin:18px 0 0;
+      max-width:58ch;
+      color:rgba(242,242,244,.46);
+      font-size:12px;
+      line-height:1.45;
     }
   </style>
 </head>
@@ -86,6 +137,10 @@
 
         <p class="professional-link">
           <a id="goProfessional" href="#">Professional dossier</a>
+        </p>
+
+        <p class="project-summary">
+          Ashraellen is an independent multilingual literary-philosophical and artistic research practice exploring consciousness, language, systems, satire, digital pressure, inner autonomy and the loss of direct perception through books, public texts, videos, sound and visual forms.
         </p>
 
         <div class="langs">
