@@ -16,14 +16,6 @@
   <link rel="alternate" hreflang="de" href="https://www.ashraellen.com/de/">
   <link rel="alternate" hreflang="x-default" href="https://www.ashraellen.com/">
 
-  <script>
-  (function(){
-    const isGitHub = location.hostname.endsWith('github.io');
-    const repo = location.pathname.split('/').filter(Boolean)[0];
-    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
-  })();
-  </script>
-
   <link rel="stylesheet" href="../assets/style.css?v=20260519-1">
   <script defer src="/assets/analytics.js"></script>
   <script defer src="/assets/contact-corner.js"></script>
@@ -124,9 +116,9 @@
         </p>
 
         <div class="actions">
-          <a id="goResearch" href="#">Research</a>
-          <a id="goPublic" href="#">Public</a>
-          <a id="goBooks" href="#">Books</a>
+          <a id="goResearch" href="research/">Research</a>
+          <a id="goPublic" href="public/">Public</a>
+          <a id="goBooks" href="books/">Books</a>
         </div>
 
         <p class="action-hint">
@@ -136,7 +128,7 @@
         </p>
 
         <p class="professional-link">
-          <a id="goProfessional" href="#">Professional dossier</a>
+          <a id="goProfessional" href="professional/">Professional dossier</a>
         </p>
 
         <p class="project-summary">
@@ -155,23 +147,12 @@
         </div>
 
         <div class="seal">
-          <img id="sealImg" src="#" alt="Ashraellen symbol">
+          <img id="sealImg" src="../assets/symbol.png" alt="Ashraellen symbol">
           <span>— mark of presence</span>
         </div>
 
       </section>
     </div>
   </div>
-
-  <script>
-  (function(){
-    const base = window.__BASE__ || '/';
-    document.getElementById('goResearch').href = base + 'en/research/';
-    document.getElementById('goPublic').href   = base + 'en/public/';
-    document.getElementById('goBooks').href    = base + 'en/books/';
-    document.getElementById('goProfessional').href = base + 'en/professional/';
-    document.getElementById('sealImg').src     = base + 'assets/symbol.png';
-  })();
-  </script>
 </body>
 </html>
