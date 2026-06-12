@@ -116,7 +116,7 @@
   </script>
 </head>
 <body><div class="wrap"><div class="page">
-<header class="site-header"><p class="brand">Ashraellen</p><div class="menu"><a id="toEntry" href="#">Вхід</a> | <a id="toPublic" href="#">Публічне</a> | <a id="toResearch" href="#">Дослідження</a></div></header>
+<header class="site-header"><p class="brand">Ashraellen</p><div class="menu"><a id="toEntry" href="https://www.ashraellen.com/uk/">Вхід</a> | <a id="toPublic" href="https://www.ashraellen.com/uk/public/">Публічне</a> | <a id="toResearch" href="https://www.ashraellen.com/uk/research/">Дослідження</a></div></header>
 <main class="main"><div class="container">
 <h1 class="h1">Міні-есе</h1>
 <p class="lead">Невеликі розбори: одне питання, один кут зору, один висновок. Без лекційної пози й без театру — лише механізм, доведений до ясності.</p>
@@ -165,7 +165,7 @@
 </div><button class="read-toggle" type="button" aria-expanded="false">Читати</button></article>
 </section>
 <a class="read-toggle cycle-button" id="toCyclesBottom" href="#">Завершені цикли</a>
-<div class="seal"><img id="sealImg" src="#" alt="Ashraellen symbol"><span>— mark of presence</span></div>
+<div class="seal"><img id="sealImg" src="https://www.ashraellen.com/assets/symbol.png" alt="Ashraellen symbol"><span>— mark of presence</span></div>
 </div></main></div></div>
 <script>(function(){const base=window.__BASE__||'/';document.getElementById('toEntry').href=base+'uk/';document.getElementById('toPublic').href=base+'uk/public/';document.getElementById('toResearch').href=base+'uk/research/';document.getElementById('toCycles').href=base+'uk/public/posts/essay/cycles/';document.getElementById('toCyclesBottom').href=base+'uk/public/posts/essay/cycles/';document.getElementById('sealImg').src=base+'assets/symbol.png';const cards=Array.from(document.querySelectorAll('.essay-card'));function closeCard(card){const full=card.querySelector('.essay-full');const button=card.querySelector('.read-toggle');card.classList.remove('is-open');full.hidden=true;button.textContent='Читати';button.setAttribute('aria-expanded','false');}function openCard(card){const full=card.querySelector('.essay-full');const button=card.querySelector('.read-toggle');cards.forEach(function(other){if(other!==card)closeCard(other);});card.classList.add('is-open');full.hidden=false;button.textContent='Згорнути';button.setAttribute('aria-expanded','true');window.setTimeout(function(){card.scrollIntoView({behavior:'smooth',block:'nearest'});},80);}cards.forEach(function(card){const button=card.querySelector('.read-toggle');button.addEventListener('click',function(){if(card.classList.contains('is-open'))closeCard(card);else openCard(card);});});})();</script>
 </body></html>

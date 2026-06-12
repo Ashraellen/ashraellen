@@ -116,7 +116,7 @@
   </script>
 </head>
 <body><div class="wrap"><div class="page">
-<header class="site-header"><p class="brand">Ashraellen</p><div class="menu"><a id="toEntry" href="#">Wejście</a> | <a id="toPublic" href="#">Publiczne</a> | <a id="toResearch" href="#">Badanie</a></div></header>
+<header class="site-header"><p class="brand">Ashraellen</p><div class="menu"><a id="toEntry" href="https://www.ashraellen.com/pl/">Wejście</a> | <a id="toPublic" href="https://www.ashraellen.com/pl/public/">Publiczne</a> | <a id="toResearch" href="https://www.ashraellen.com/pl/research/">Badanie</a></div></header>
 <main class="main"><div class="container">
 <h1 class="h1">Mini-eseje</h1>
 <p class="lead">Krótkie rozbiórki: jedno pytanie, jeden kąt widzenia, jeden wniosek. Bez pozy wykładowej i bez teatru — tylko mechanizm doprowadzony do jasności.</p>
@@ -165,7 +165,7 @@
 </div><button class="read-toggle" type="button" aria-expanded="false">Czytać</button></article>
 </section>
 <a class="read-toggle cycle-button" id="toCyclesBottom" href="#">Zakończone cykle</a>
-<div class="seal"><img id="sealImg" src="#" alt="Ashraellen symbol"><span>— mark of presence</span></div>
+<div class="seal"><img id="sealImg" src="https://www.ashraellen.com/assets/symbol.png" alt="Ashraellen symbol"><span>— mark of presence</span></div>
 </div></main></div></div>
 <script>(function(){const base=window.__BASE__||'/';document.getElementById('toEntry').href=base+'pl/';document.getElementById('toPublic').href=base+'pl/public/';document.getElementById('toResearch').href=base+'pl/research/';document.getElementById('toCycles').href=base+'pl/public/posts/essay/cycles/';document.getElementById('toCyclesBottom').href=base+'pl/public/posts/essay/cycles/';document.getElementById('sealImg').src=base+'assets/symbol.png';const cards=Array.from(document.querySelectorAll('.essay-card'));function closeCard(card){const full=card.querySelector('.essay-full');const button=card.querySelector('.read-toggle');card.classList.remove('is-open');full.hidden=true;button.textContent='Czytać';button.setAttribute('aria-expanded','false');}function openCard(card){const full=card.querySelector('.essay-full');const button=card.querySelector('.read-toggle');cards.forEach(function(other){if(other!==card)closeCard(other);});card.classList.add('is-open');full.hidden=false;button.textContent='Zwinąć';button.setAttribute('aria-expanded','true');window.setTimeout(function(){card.scrollIntoView({behavior:'smooth',block:'nearest'});},80);}cards.forEach(function(card){const button=card.querySelector('.read-toggle');button.addEventListener('click',function(){if(card.classList.contains('is-open'))closeCard(card);else openCard(card);});});})();</script>
 </body></html>
