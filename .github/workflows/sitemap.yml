@@ -9,9 +9,11 @@ on:
       - 'scripts/apply-canonical.js'
       - 'scripts/apply-static-links.js'
       - 'scripts/apply-jsonld.js'
+      - 'scripts/apply-og.js'
       - 'scripts/generate-sitemap.js'
       - 'scripts/submit-indexnow.js'
       - 'b2cda9f3e8714a6db926f48c7251ea65.txt'
+      - 'assets/og/**'
       - '.github/workflows/sitemap.yml'
   workflow_dispatch:
 
@@ -42,21 +44,24 @@ jobs:
       - name: Apply JSON-LD structured data
         run: node scripts/apply-jsonld.js
 
+      - name: Apply Open Graph tags
+        run: node scripts/apply-og.js
+
       - name: Generate sitemap.xml
         run: node scripts/generate-sitemap.js
 
       - name: Submit sitemap URLs to IndexNow
         run: node scripts/submit-indexnow.js
 
-      - name: Commit canonical links, static links, JSON-LD and sitemap.xml if changed
+      - name: Commit canonical links, static links, JSON-LD, Open Graph and sitemap.xml if changed
         run: |
           if git diff --quiet; then
-            echo "Canonical links, static links, JSON-LD and sitemap.xml are already up to date."
+            echo "Canonical links, static links, JSON-LD, Open Graph and sitemap.xml are already up to date."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Auto-update canonical links, static links, JSON-LD and sitemap"
+          git commit -m "Auto-update canonical links, static links, JSON-LD, Open Graph and sitemap"
           git push
