@@ -59,8 +59,12 @@
 .thought-card p{
   color:var(--muted);
   font-size:14px;
-  line-height:1.7;
-  margin:0;
+  line-height:1.35;
+  margin:0 0 10px;
+}
+
+.thought-card p:last-child{
+  margin-bottom:0;
 }
 
 .thought-card .formula-open{
@@ -78,8 +82,12 @@
 .intro-block p{
   color:var(--muted);
   font-size:14px;
-  line-height:1.78;
-  margin:0;
+  line-height:1.35;
+  margin:0 0 10px;
+}
+
+.intro-block p:last-child{
+  margin-bottom:0;
 }
 
 .nav-row{
