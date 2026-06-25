@@ -60,8 +60,8 @@
 .block p{
   color:var(--muted);
   font-size:14px;
-  line-height:1.78;
-  margin:0 0 12px;
+  line-height:1.35;
+  margin:0 0 10px;
 }
 
 .post-text p:last-child,
