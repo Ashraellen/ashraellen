@@ -1,0 +1,102 @@
+{
+  "entry": "Eingang",
+  "public": "Öffentlich",
+  "research": "Forschung",
+  "formulas": "Formeln",
+  "lead": "Kurze Formen des Gedankens: eine Zeile, ein klarer Schlag.",
+  "current": "Aktuelle Linie",
+  "prev": "← Vorherige Linie",
+  "next": "Nächste Linie →",
+  "block": "Formeln der Linie",
+  "kicker": "Formel",
+  "lines": {
+    "1": {
+      "h": "Gedanke, Aufmerksamkeit, Körper, Vergangenheit",
+      "lead": "Die erste archivierte Formellinie.",
+      "tags": "Gedanke / Aufmerksamkeit / Körper / Vergangenheit",
+      "f": [
+        "Ein Gedanke kommt von selbst. Freiheit beginnt, wenn der Mensch aufhört, jeden Gedanken für sich selbst zu halten.",
+        "Selbstbeherrschung ist keine Herrschaft über Gedanken. Sie ist Herrschaft über Aufmerksamkeit.",
+        "Den ersten Gedanken wählen wir nicht. Wir wählen, ob wir ihn weiter nähren.",
+        "Der Gedanke, den du bekämpfst, wächst an deinem Kampf.",
+        "Bewusstheit beginnt nicht mit Stille im Kopf. Sie beginnt mit: Ich sehe, dass dieser Gedanke da ist.",
+        "Bewusstheit ohne Körper ist nur eine Idee, die sich selbst beobachtet.",
+        "Der Körper spricht, bevor der Verstand einen Grund erfindet.",
+        "Der Körper ist die erste Tür zurück zu sich selbst, nicht das ganze Haus.",
+        "Der Mensch leidet nicht nur an Angst, sondern auch am Befehl, keine Angst zu haben.",
+        "Ein angenehmer Zustand ist noch keine Freiheit. Manchmal ist er nur gut gestimmte Chemie.",
+        "Praxis wird zur Falle, wenn Ruhe zu einem weiteren Herrn wird.",
+        "Auch eine lichte Erfahrung muss beobachtet werden, sonst macht das Ego daraus ein spirituelles Spielzeug.",
+        "Die Vergangenheit in uns ist keine Tatsache. Sie ist eine erinnerte Form.",
+        "Oft leiden wir nicht am Ereignis, sondern an der Version davon, die wir weitertragen.",
+        "Befreiung ist kein Zustand, der endlich kommt. Sie ist der Moment, in dem das alte Selbst nicht mehr wie das einzige aussieht."
+      ]
+    },
+    "2": {
+      "h": "Wort, Schweigen, Sinn",
+      "lead": "Die zweite archivierte Formellinie.",
+      "tags": "Wort / Schweigen / Sinn",
+      "f": [
+        "Worte werden genau, wenn sie nicht mehr beeindrucken wollen.",
+        "Schweigen ist nicht das Fehlen von Rede. Es ist der Ort, an dem das Wort aufhört, sich zu verstecken.",
+        "Sinn beweist sich nicht durch Lautstärke. Man erkennt ihn an Notwendigkeit.",
+        "Ein Wort zu viel bewacht oft eine leere Stelle.",
+        "Ein Satz lebt, wenn er Erfahrung trägt und nicht den Wunsch, tief zu klingen.",
+        "Manchmal beginnt Ehrlichkeit mit: Ich kann es noch nicht klar benennen.",
+        "Sprache verändert den Menschen, bevor der Mensch merkt, dass er seine Sprache verändert hat.",
+        "Wer sich endlos erklärt, ist sich selbst oft noch nicht begegnet.",
+        "Ein genauer Gedanke braucht keinen Schmuck. Er braucht nur seinen Platz.",
+        "Schweigen kann Flucht sein. Es kann auch Achtung vor dem sein, was noch nicht reif ist.",
+        "Nicht jede Tiefe ist dunkel. Manche Tiefe weigert sich nur, sich zu beeilen.",
+        "Worte zeigen nicht nur den Gedanken, sondern auch den, der ihn hält.",
+        "Wenn Sinn gefunden ist, wird der Satz kürzer.",
+        "Eine schöne Erklärung kann noch immer eine einfache Wahrheit verdecken.",
+        "Ein wahres Wort beendet das Gespräch nicht. Es öffnet den Ort, an dem Hören beginnen kann."
+      ]
+    },
+    "3": {
+      "h": "Grenzen, Maß, eigene Form",
+      "lead": "Die dritte Formellinie.",
+      "tags": "Grenze / Maß / Form",
+      "f": [
+        "Eine Grenze entsteht, wenn der Mensch aufhört, sein Recht zu sein zu erklären.",
+        "Die Meinung eines anderen wird erst Macht, wenn du ihr innerlich zustimmst.",
+        "Einverständnis mit sich selbst ist leiser als der Drang, alles zu beweisen.",
+        "Nicht jede Offenheit ist Nähe. Manchmal fehlt nur die Tür.",
+        "Was ohne Ende verteidigt werden muss, ist noch nicht wirklich dein geworden.",
+        "Reife beginnt, wenn der Mensch aufhört, mit seinem eigenen Maß zu streiten.",
+        "Die eigene Form braucht keine Erlaubnis vom fremden Geschmack.",
+        "Die Angst vor Einfachheit versteckt sich oft hinter Komplexität.",
+        "Eine Grenze entfernt dich nicht von Menschen. Sie gibt dich dir selbst zurück.",
+        "Manchmal ist Ablehnung die erste stille Form der Wahl.",
+        "Die Geschwindigkeit anderer muss nicht dein Rhythmus werden.",
+        "Ruhe wird stärker, wenn sie nicht mehr auf Zustimmung wartet.",
+        "Nicht jede Einsamkeit ist leer. Manche Einsamkeit sammelt den Menschen wieder ein.",
+        "Freiheit ohne Maß wird schnell zu einer neuen Abhängigkeit.",
+        "Was wirklich eigen geworden ist, braucht keine Bühne mehr."
+      ]
+    },
+    "4": {
+      "h": "Weg, Handlung, Rhythmus",
+      "lead": "Die vierte Formellinie.",
+      "tags": "Weg / Handlung / Rhythmus",
+      "f": [
+        "Ein Weg beginnt nicht mit Gewissheit. Er beginnt mit dem ersten ehrlichen Schritt.",
+        "Handlung ohne inneren Grund wird schnell zu Lärm.",
+        "Geduld ist kein Warten auf ein Wunder. Sie weigert sich, das Unreife zu zerbrechen.",
+        "Wenn du deinen eigenen Weg gehst, werden fremde Karten nur zu Hilfsmaterial.",
+        "Kraft drängt nicht immer vorwärts. Manchmal hält sie den unnötigen Schritt auf.",
+        "Zeit heilt nicht, was du jeden Tag neu öffnest.",
+        "Nicht jede Pause ist Schwäche. Manchmal schützt sie die Richtung.",
+        "Eine Entscheidung reift, bevor die Worte dafür kommen.",
+        "Eile verkleidet sich oft als Entschlossenheit.",
+        "Den Weg prüft nicht die Inspiration, sondern der gewöhnliche Tag.",
+        "Was wirklich deins ist, kommt nicht immer schnell, aber erkennbar.",
+        "Müdigkeit verlangt nicht immer Abschied. Manchmal verlangt sie einen anderen Rhythmus.",
+        "Wachstum lässt sich nicht beschleunigen, ohne die Form zu verzerren.",
+        "Der Weg wird klarer nach jedem ehrlich gegangenen unnötigen Kreis.",
+        "Manchmal heißt Weitergehen: leiser gehen, nicht stärker."
+      ]
+    }
+  }
+}
