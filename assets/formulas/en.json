@@ -1,0 +1,102 @@
+{
+  "entry": "Entry",
+  "public": "Public",
+  "research": "Research",
+  "formulas": "Formulas",
+  "lead": "Short forms of thought: one line, one clean strike.",
+  "current": "Current line",
+  "prev": "← Previous line",
+  "next": "Next line →",
+  "block": "Formulas of the line",
+  "kicker": "Formula",
+  "lines": {
+    "1": {
+      "h": "Thought, attention, body, past",
+      "lead": "The first archived line of formulas.",
+      "tags": "thought / attention / body / past",
+      "f": [
+        "A thought comes on its own. Freedom begins when you stop wearing every thought as yourself.",
+        "Self-command is not command over thought. It is command over attention.",
+        "We do not choose the first thought. We choose whether to keep feeding it.",
+        "The thought you fight grows stronger on the fight itself.",
+        "Awareness does not begin with a silent mind. It begins with: I see this thought has appeared.",
+        "Awareness without the body is only an idea watching itself.",
+        "The body speaks before the mind has time to invent a reason.",
+        "The body is the first door back to oneself, not the whole house.",
+        "A person suffers not only from anxiety, but from the command to stop being anxious.",
+        "A pleasant state is not liberation. Sometimes it is only well-tuned chemistry.",
+        "Practice becomes a trap when peace turns into another master.",
+        "Even a luminous experience must be watched, or the ego turns it into a spiritual toy.",
+        "The past inside us is not a fact. It is a remembered shape.",
+        "Often we suffer not from the event, but from the version of it we keep carrying.",
+        "Liberation is not a state that finally arrives. It is the moment the old self stops looking like the only one."
+      ]
+    },
+    "2": {
+      "h": "Word, silence, meaning",
+      "lead": "The second archived line of formulas.",
+      "tags": "word / silence / meaning",
+      "f": [
+        "Words become precise when they stop trying to impress.",
+        "Silence is not the absence of speech. It is where the word stops hiding.",
+        "Meaning is not proved by volume. It is recognized by necessity.",
+        "An extra word often guards an empty place.",
+        "A sentence becomes alive when it carries experience, not the wish to sound deep.",
+        "Sometimes honesty begins with: I cannot name this clearly yet.",
+        "Language changes a person before the person notices they have changed their language.",
+        "The one who explains himself constantly has often not yet met himself.",
+        "A precise thought does not need ornament. It only needs its place.",
+        "Silence can be escape. It can also be respect for what has not ripened.",
+        "Not every depth is dark. Some depth simply refuses to hurry into clarity.",
+        "Words reveal not only the thought, but the one who holds it.",
+        "When meaning is found, the sentence gets shorter.",
+        "A beautiful explanation can still hide a simple truth.",
+        "A true word does not end a conversation. It opens the place where hearing can begin."
+      ]
+    },
+    "3": {
+      "h": "Boundaries, measure, form",
+      "lead": "The third line of formulas.",
+      "tags": "boundary / measure / form",
+      "f": [
+        "A boundary appears when a person stops explaining the right to exist.",
+        "Another person’s opinion becomes power only after you consent inside.",
+        "Agreement with oneself is quieter than the need to prove everything.",
+        "Not all openness is closeness. Sometimes it is only the absence of a door.",
+        "What must be defended without end has not yet become inwardly yours.",
+        "Maturity begins when you stop arguing with your own measure.",
+        "Your form does not need permission from another person’s taste.",
+        "The fear of being simple often hides behind complexity.",
+        "A boundary does not take you away from people. It returns you to yourself.",
+        "Sometimes refusal is the first quiet form of choice.",
+        "Someone else’s speed does not have to become your rhythm.",
+        "Calm grows stronger when it stops waiting for approval.",
+        "Not every solitude is empty. Some solitude gathers a person back together.",
+        "Freedom without measure quickly becomes another dependence.",
+        "What has become truly yours no longer asks for a stage."
+      ]
+    },
+    "4": {
+      "h": "Path, action, rhythm",
+      "lead": "The fourth line of formulas.",
+      "tags": "path / action / rhythm",
+      "f": [
+        "A path does not begin with certainty. It begins with the first honest step.",
+        "Action without inner ground soon turns into noise.",
+        "Patience is not waiting for a miracle. It is refusing to break what is not ripe.",
+        "When you walk your own path, other people’s maps become reference material.",
+        "Strength does not always move forward. Sometimes it stops the unnecessary step.",
+        "Time does not heal what you reopen every day.",
+        "Not every pause is weakness. Sometimes it protects the direction.",
+        "A decision ripens before the words for it arrive.",
+        "Haste often dresses itself as resolve.",
+        "A path is tested not by inspiration, but by an ordinary day.",
+        "What is truly yours may not come quickly, but it comes recognizable.",
+        "Tiredness does not always ask you to quit. Sometimes it asks for another rhythm.",
+        "Growth cannot be hurried without distorting the form.",
+        "The path becomes clearer after every honest unnecessary circle.",
+        "Sometimes to continue is to move more quietly, not more forcefully."
+      ]
+    }
+  }
+}
