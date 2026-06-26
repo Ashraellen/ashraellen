@@ -1,0 +1,102 @@
+{
+  "entry": "Wejście",
+  "public": "Publiczne",
+  "research": "Badanie",
+  "formulas": "Formuły",
+  "lead": "Krótka forma myśli: jedna linia, jedno czyste trafienie.",
+  "current": "Aktualna linia",
+  "prev": "← Poprzednia linia",
+  "next": "Następna linia →",
+  "block": "Formuły linii",
+  "kicker": "Formuła",
+  "lines": {
+    "1": {
+      "h": "Myśl, uwaga, ciało, przeszłość",
+      "lead": "Pierwsza archiwalna linia formuł.",
+      "tags": "myśl / uwaga / ciało / przeszłość",
+      "f": [
+        "Myśl przychodzi sama. Wolność zaczyna się wtedy, gdy człowiek przestaje brać każdą myśl za siebie.",
+        "Panowanie nad sobą nie jest panowaniem nad myślami. Jest panowaniem nad uwagą.",
+        "Pierwszej myśli nie wybieramy. Wybieramy tylko, czy będziemy ją dalej karmić.",
+        "Myśl, z którą walczysz, żywi się samą walką.",
+        "Uważność nie zaczyna się od ciszy w głowie. Zaczyna się od: widzę, że ta myśl się pojawiła.",
+        "Uważność bez ciała jest tylko ideą, która obserwuje samą siebie.",
+        "Ciało mówi wcześniej, niż um zdąży wymyślić powód.",
+        "Ciało jest pierwszymi drzwiami do siebie, nie całym domem.",
+        "Człowiek cierpi nie tylko z powodu lęku, lecz także z powodu nakazu, by się nie lękać.",
+        "Przyjemny stan nie jest jeszcze wolnością. Czasem to tylko dobrze nastrojona chemia.",
+        "Praktyka staje się pułapką, gdy spokój zamienia się w kolejnego pana.",
+        "Nawet jasne przeżycie trzeba obserwować, inaczej ego zrobi z niego duchową zabawkę.",
+        "Przeszłość w człowieku nie jest faktem. Jest zapamiętanym kształtem.",
+        "Często cierpimy nie przez wydarzenie, ale przez wersję wydarzenia, którą nadal nosimy.",
+        "Wyzwolenie nie jest stanem, który wreszcie przyszedł. To chwila, gdy stara wersja siebie przestaje wyglądać jak jedyna."
+      ]
+    },
+    "2": {
+      "h": "Słowo, milczenie, sens",
+      "lead": "Druga archiwalna linia formuł.",
+      "tags": "słowo / milczenie / sens",
+      "f": [
+        "Słowa stają się celne, gdy przestają robić wrażenie.",
+        "Milczenie nie jest brakiem mowy. Jest miejscem, w którym słowo przestaje się chować.",
+        "Sensu nie udowadnia się głośnością. Sens rozpoznaje się po konieczności.",
+        "Zbędne słowo często pilnuje pustego miejsca.",
+        "Zdanie żyje wtedy, gdy niesie doświadczenie, a nie pragnienie, by brzmieć głęboko.",
+        "Czasem uczciwość zaczyna się od słów: jeszcze nie umiem tego nazwać jasno.",
+        "Język zmienia człowieka wcześniej, niż człowiek zauważy, że zmienił język.",
+        "Ten, kto bez końca siebie tłumaczy, często jeszcze się ze sobą nie spotkał.",
+        "Precyzyjna myśl nie potrzebuje ozdób. Potrzebuje tylko swojego miejsca.",
+        "Milczenie bywa ucieczką. Bywa też szacunkiem wobec tego, co jeszcze nie dojrzało.",
+        "Nie każda głębia jest ciemna. Niektóre głębie po prostu nie spieszą się do jasności.",
+        "Słowa odsłaniają nie tylko myśl, ale też tego, kto ją trzyma.",
+        "Gdy sens jest znaleziony, zdanie staje się krótsze.",
+        "Piękne wyjaśnienie nadal może zasłaniać prostą prawdę.",
+        "Prawdziwe słowo nie kończy rozmowy. Otwiera miejsce, w którym można zacząć słyszeć."
+      ]
+    },
+    "3": {
+      "h": "Granice, miara, własna forma",
+      "lead": "Trzecia linia formuł.",
+      "tags": "granica / miara / forma",
+      "f": [
+        "Granica pojawia się wtedy, gdy człowiek przestaje tłumaczyć swoje prawo do istnienia.",
+        "Cudze zdanie staje się władzą dopiero po twojej wewnętrznej zgodzie.",
+        "Zgoda ze sobą jest cichsza niż potrzeba udowodnienia wszystkiego.",
+        "Nie każda otwartość jest bliskością. Czasem to tylko brak drzwi.",
+        "To, czego trzeba bez końca bronić, nie stało się jeszcze naprawdę twoje.",
+        "Dojrzałość zaczyna się wtedy, gdy człowiek przestaje spierać się ze swoją miarą.",
+        "Własna forma nie potrzebuje pozwolenia cudzego gustu.",
+        "Lęk przed prostotą często chowa się za złożonością.",
+        "Granica nie oddala od ludzi. Ona oddaje człowieka jemu samemu.",
+        "Czasem odmowa jest pierwszą cichą formą wyboru.",
+        "Cudza prędkość nie musi stać się twoim rytmem.",
+        "Spokój mocnieje, gdy przestaje czekać na aprobatę.",
+        "Nie każda samotność jest pusta. Niektóre samotności składają człowieka z powrotem.",
+        "Wolność bez miary szybko staje się kolejną zależnością.",
+        "To, co naprawdę stało się własne, nie potrzebuje już sceny."
+      ]
+    },
+    "4": {
+      "h": "Droga, działanie, rytm",
+      "lead": "Czwarta linia formuł.",
+      "tags": "droga / działanie / rytm",
+      "f": [
+        "Droga nie zaczyna się od pewności. Zaczyna się od pierwszego uczciwego kroku.",
+        "Działanie bez wewnętrznego gruntu szybko zmienia się w hałas.",
+        "Cierpliwość nie jest czekaniem na cud. Jest odmową łamania tego, co jeszcze niedojrzałe.",
+        "Gdy idziesz własną drogą, cudze mapy stają się tylko materiałem pomocniczym.",
+        "Siła nie zawsze pcha do przodu. Czasem zatrzymuje przed zbędnym krokiem.",
+        "Czas nie leczy tego, co codziennie otwierasz na nowo.",
+        "Nie każda pauza jest słabością. Czasem chroni kierunek.",
+        "Decyzja dojrzewa wcześniej, niż przychodzą dla niej słowa.",
+        "Pośpiech często przebiera się za zdecydowanie.",
+        "Drogę sprawdza nie natchnienie, lecz zwykły dzień.",
+        "To, co naprawdę twoje, nie zawsze przychodzi szybko, ale przychodzi rozpoznawalnie.",
+        "Zmęczenie nie zawsze każe odejść. Czasem prosi o inny rytm.",
+        "Nie da się przyspieszyć wzrostu bez zniekształcenia formy.",
+        "Droga robi się jaśniejsza po każdym uczciwie przebytym, zbędnym kręgu.",
+        "Czasem iść dalej znaczy iść ciszej, nie mocniej."
+      ]
+    }
+  }
+}
