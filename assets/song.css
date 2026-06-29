@@ -1,0 +1,175 @@
+/* Song — Radiance / Сияние, Book II
+   Page-specific layer over assets/books.css.
+   Expected future assets:
+   - assets/backgrounds/song-bg.webp
+   - assets/covers/song-*.webp or book-card images chosen during visual generation
+*/
+
+:root{
+  --song-blue: rgba(91, 139, 178, 0.18);
+  --song-silver: rgba(205, 215, 224, 0.14);
+  --song-violet: rgba(126, 103, 166, 0.12);
+  --song-line: rgba(242,242,244,0.14);
+  --song-glass: rgba(0,0,0,0.23);
+}
+
+.page.book-song::before{
+  background-image:url("backgrounds/song-bg.webp");
+  background-position:58% center;
+  filter:brightness(.54) contrast(1.06) saturate(.86) blur(1.1px);
+}
+
+.page.book-song::after{
+  background:
+    linear-gradient(90deg,
+      rgba(7,8,11,0.96) 0%,
+      rgba(7,8,11,0.82) 30%,
+      rgba(7,8,11,0.52) 58%,
+      rgba(7,8,11,0.24) 84%,
+      rgba(7,8,11,0.08) 100%),
+    radial-gradient(60% 70% at 70% 36%,
+      var(--song-blue) 0%,
+      rgba(91,139,178,0.03) 50%,
+      rgba(91,139,178,0.00) 74%),
+    radial-gradient(46% 58% at 24% 78%,
+      var(--song-violet) 0%,
+      rgba(126,103,166,0.00) 76%);
+}
+
+.book-song .container{
+  max-width:1040px;
+}
+
+.book-song .lead{
+  max-width:82ch;
+  line-height:1.42;
+}
+
+.song-kicker{
+  margin:0 0 10px;
+  color:var(--muted);
+  font-size:12px;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+}
+
+.song-quote{
+  margin:0;
+  font-family:Georgia,'Times New Roman',serif;
+  font-size:24px;
+  line-height:1.38;
+  color:var(--fg);
+}
+
+.song-copy{
+  max-width:82ch;
+  font-size:14px;
+  line-height:1.78;
+  color:var(--muted);
+}
+
+.song-copy p{
+  margin:0 0 12px;
+}
+
+.song-copy p:last-child{
+  margin-bottom:0;
+}
+
+.song-grid{
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:14px;
+  padding:18px;
+}
+
+.song-card{
+  border:1px solid var(--song-line);
+  border-radius:18px;
+  padding:16px;
+  background:var(--song-glass);
+  backdrop-filter:blur(5px);
+  box-shadow:0 12px 34px rgba(0,0,0,.20);
+}
+
+.song-card h3{
+  margin:0 0 8px;
+  font-size:17px;
+}
+
+.song-card p{
+  margin:0;
+  color:var(--muted);
+  font-size:13px;
+  line-height:1.65;
+}
+
+.song-cover-row{
+  display:grid;
+  grid-template-columns:220px 1fr;
+  gap:18px;
+  align-items:start;
+  padding:18px;
+}
+
+.song-cover{
+  aspect-ratio:2/3;
+  border-radius:16px;
+  overflow:hidden;
+  border:1px solid rgba(242,242,244,.16);
+  background:linear-gradient(145deg,rgba(91,139,178,.12),rgba(0,0,0,.30));
+}
+
+.song-cover img{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  display:block;
+}
+
+.song-badge{
+  border-color:rgba(91,139,178,.30);
+  background:rgba(91,139,178,.07);
+}
+
+.song-audio-line{
+  position:relative;
+  height:1px;
+  margin:18px 0;
+  background:linear-gradient(90deg,
+    rgba(242,242,244,0.00),
+    rgba(205,215,224,0.34),
+    rgba(242,242,244,0.00));
+}
+
+.song-audio-line::after{
+  content:"";
+  position:absolute;
+  left:50%;
+  top:50%;
+  width:7px;
+  height:7px;
+  border-radius:50%;
+  transform:translate(-50%,-50%);
+  background:rgba(205,215,224,.64);
+  box-shadow:0 0 22px rgba(91,139,178,.36);
+}
+
+@media(max-width:900px){
+  .page.book-song::before{
+    background-position:64% center;
+  }
+
+  .song-grid,
+  .song-cover-row{
+    grid-template-columns:1fr;
+  }
+
+  .song-cover{
+    max-width:280px;
+  }
+
+  .song-quote{
+    font-size:21px;
+  }
+}
