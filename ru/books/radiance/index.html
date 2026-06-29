@@ -16,93 +16,114 @@
       "@type": "Person",
       "@id": "https://www.ashraellen.com/#person",
       "name": "Ashraellen",
-      "url": "https://www.ashraellen.com/"
+      "alternateName": "Nikolai Kostyshev",
+      "url": "https://www.ashraellen.com/",
+      "knowsAbout": [
+        "literary-philosophical research",
+        "artistic research",
+        "public philosophy",
+        "inner observation",
+        "language and meaning",
+        "digital autonomy",
+        "systems and consciousness",
+        "satire",
+        "MONOLITH"
+      ]
     },
     {
       "@type": "WebSite",
       "@id": "https://www.ashraellen.com/#website",
       "name": "Ashraellen",
       "url": "https://www.ashraellen.com/",
-      "publisher": { "@id": "https://www.ashraellen.com/#person" },
-      "inLanguage": ["ru", "en", "pl", "de", "es", "fr", "pt", "uk", "be"]
-    },
-    {
-      "@type": "CreativeWorkSeries",
-      "@id": "https://www.ashraellen.com/ru/books/radiance/#series",
-      "name": "Сияние",
-      "alternateName": "Radiance",
-      "description": "Литературно-философский художественно-исследовательский цикл о том, как древние истории сохраняют образные инструкции к миру.",
-      "creator": { "@id": "https://www.ashraellen.com/#person" },
-      "inLanguage": "ru",
-      "hasPart": [
-        { "@id": "https://www.ashraellen.com/ru/books/radiance/sampo/#book" },
-        { "@id": "https://www.ashraellen.com/ru/books/radiance/song/#book" }
+      "publisher": {
+        "@id": "https://www.ashraellen.com/#person"
+      },
+      "inLanguage": [
+        "en",
+        "ru",
+        "pl",
+        "de",
+        "es",
+        "fr",
+        "pt",
+        "uk",
+        "be"
       ]
     },
     {
-      "@type": "Book",
-      "@id": "https://www.ashraellen.com/ru/books/radiance/sampo/#book",
-      "name": "Сампо",
-      "alternateName": "Sampo",
-      "bookEdition": "Книга I цикла «Сияние»",
-      "author": { "@id": "https://www.ashraellen.com/#person" },
-      "isPartOf": { "@id": "https://www.ashraellen.com/ru/books/radiance/#series" },
-      "inLanguage": "ru",
-      "image": "https://www.ashraellen.com/assets/covers/sampo-cover-ru.webp",
-      "url": "https://www.ashraellen.com/ru/books/radiance/sampo/"
-    },
-    {
-      "@type": "Book",
-      "@id": "https://www.ashraellen.com/ru/books/radiance/song/#book",
-      "name": "Песня",
-      "alternateName": "Song",
-      "bookEdition": "Книга II цикла «Сияние»",
-      "author": { "@id": "https://www.ashraellen.com/#person" },
-      "isPartOf": { "@id": "https://www.ashraellen.com/ru/books/radiance/#series" },
-      "inLanguage": "ru",
-      "image": "https://www.ashraellen.com/assets/covers/song-cover-ru.webp",
-      "url": "https://www.ashraellen.com/ru/books/radiance/song/"
-    },
-    {
-      "@type": "WebPage",
+      "@type": "CollectionPage",
       "@id": "https://www.ashraellen.com/ru/books/radiance/#webpage",
       "url": "https://www.ashraellen.com/ru/books/radiance/",
       "name": "Ashraellen — Сияние | Северные сказания о настоящей истории мира",
-      "description": "Расширенная презентационная страница цикла «Сияние» для читателей, фондов, издателей, переводчиков и культурных партнёров.",
-      "isPartOf": { "@id": "https://www.ashraellen.com/#website" },
-      "about": { "@id": "https://www.ashraellen.com/ru/books/radiance/#series" },
-      "mainEntity": { "@id": "https://www.ashraellen.com/ru/books/radiance/#series" },
-      "primaryImageOfPage": "https://www.ashraellen.com/assets/covers/sampo-cover-ru.webp",
-      "breadcrumb": { "@id": "https://www.ashraellen.com/ru/books/radiance/#breadcrumb" },
+      "description": "«Сияние» — литературно-философский художественно-исследовательский цикл о том, как древние истории сохраняют образные инструкции к миру.",
+      "isPartOf": {
+        "@id": "https://www.ashraellen.com/#website"
+      },
+      "about": {
+        "@id": "https://www.ashraellen.com/#person"
+      },
+      "creator": {
+        "@id": "https://www.ashraellen.com/#person"
+      },
+      "mainEntity": {
+        "@id": "https://www.ashraellen.com/#person"
+      },
+      "breadcrumb": {
+        "@id": "https://www.ashraellen.com/ru/books/radiance/#breadcrumb"
+      },
       "inLanguage": "ru"
     },
     {
       "@type": "BreadcrumbList",
       "@id": "https://www.ashraellen.com/ru/books/radiance/#breadcrumb",
       "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Ashraellen", "item": "https://www.ashraellen.com/" },
-        { "@type": "ListItem", "position": 2, "name": "Русский", "item": "https://www.ashraellen.com/ru/" },
-        { "@type": "ListItem", "position": 3, "name": "Книги", "item": "https://www.ashraellen.com/ru/books/" },
-        { "@type": "ListItem", "position": 4, "name": "Сияние", "item": "https://www.ashraellen.com/ru/books/radiance/" }
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Ashraellen",
+          "item": "https://www.ashraellen.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Русский",
+          "item": "https://www.ashraellen.com/ru/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Книги",
+          "item": "https://www.ashraellen.com/ru/books/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Сияние",
+          "item": "https://www.ashraellen.com/ru/books/radiance/"
+        }
       ]
     }
   ]
 }
   </script>
 
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="book">
   <meta property="og:site_name" content="Ashraellen">
   <meta property="og:title" content="Ashraellen — Сияние | Северные сказания о настоящей истории мира">
   <meta property="og:description" content="«Сияние» — литературно-философский художественно-исследовательский цикл о том, как древние истории сохраняют образные инструкции к миру.">
   <meta property="og:url" content="https://www.ashraellen.com/ru/books/radiance/">
-  <meta property="og:image" content="https://www.ashraellen.com/assets/covers/sampo-cover-ru.webp">
-  <meta property="og:image:secure_url" content="https://www.ashraellen.com/assets/covers/sampo-cover-ru.webp">
-  <meta property="og:image:type" content="image/webp">
+  <meta property="og:image" content="https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg">
+  <meta property="og:image:secure_url" content="https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Ashraellen — dark formal image with the hand and eye symbol">
   <meta property="og:locale" content="ru">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Ashraellen — Сияние | Северные сказания о настоящей истории мира">
-  <meta name="twitter:description" content="Литературно-философский художественно-исследовательский цикл о древних историях как живых формах знания.">
-  <meta name="twitter:image" content="https://www.ashraellen.com/assets/covers/sampo-cover-ru.webp">
+  <meta name="twitter:description" content="«Сияние» — литературно-философский художественно-исследовательский цикл о том, как древние истории сохраняют образные инструкции к миру.">
+  <meta name="twitter:image" content="https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg">
+  <meta name="twitter:image:alt" content="Ashraellen — dark formal image with the hand and eye symbol">
 </head>
 <body>
   <div class="wrap"><div class="page series-radiance">
