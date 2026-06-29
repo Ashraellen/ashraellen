@@ -12,47 +12,118 @@
 {
   "@context": "https://schema.org",
   "@graph": [
-    { "@type": "Person", "@id": "https://www.ashraellen.com/#person", "name": "Ashraellen", "url": "https://www.ashraellen.com/" },
-    { "@type": "WebSite", "@id": "https://www.ashraellen.com/#website", "name": "Ashraellen", "url": "https://www.ashraellen.com/", "publisher": { "@id": "https://www.ashraellen.com/#person" }, "inLanguage": ["en", "ru", "pl", "de", "es", "fr", "pt", "uk", "be"] },
     {
-      "@type": "CreativeWorkSeries",
-      "@id": "https://www.ashraellen.com/en/books/radiance/#series",
-      "name": "Radiance",
-      "alternateName": "Сияние",
-      "description": "A literary-philosophical, practice-based research cycle about how ancient stories preserve imaginal instructions for the world.",
-      "creator": { "@id": "https://www.ashraellen.com/#person" },
-      "inLanguage": "en",
-      "hasPart": [
-        { "@id": "https://www.ashraellen.com/en/books/radiance/sampo/#book" },
-        { "@id": "https://www.ashraellen.com/en/books/radiance/song/#book" }
+      "@type": "Person",
+      "@id": "https://www.ashraellen.com/#person",
+      "name": "Ashraellen",
+      "alternateName": "Nikolai Kostyshev",
+      "url": "https://www.ashraellen.com/",
+      "knowsAbout": [
+        "literary-philosophical research",
+        "artistic research",
+        "public philosophy",
+        "inner observation",
+        "language and meaning",
+        "digital autonomy",
+        "systems and consciousness",
+        "satire",
+        "MONOLITH"
       ]
     },
-    { "@type": "Book", "@id": "https://www.ashraellen.com/en/books/radiance/sampo/#book", "name": "Sampo", "bookEdition": "Book I of the Radiance cycle", "author": { "@id": "https://www.ashraellen.com/#person" }, "isPartOf": { "@id": "https://www.ashraellen.com/en/books/radiance/#series" }, "inLanguage": "en", "image": "https://www.ashraellen.com/assets/covers/sampo-cover-en.webp", "url": "https://www.ashraellen.com/en/books/radiance/sampo/" },
-    { "@type": "Book", "@id": "https://www.ashraellen.com/en/books/radiance/song/#book", "name": "Song", "bookEdition": "Book II of the Radiance cycle", "author": { "@id": "https://www.ashraellen.com/#person" }, "isPartOf": { "@id": "https://www.ashraellen.com/en/books/radiance/#series" }, "inLanguage": "en", "image": "https://www.ashraellen.com/assets/covers/song-cover-en.webp", "url": "https://www.ashraellen.com/en/books/radiance/song/" },
-    { "@type": "WebPage", "@id": "https://www.ashraellen.com/en/books/radiance/#webpage", "url": "https://www.ashraellen.com/en/books/radiance/", "name": "Ashraellen — Radiance | Northern Tales of the True History of the World", "description": "A presentation page for the Radiance cycle: for readers, publishers, translators, foundations and cultural partners.", "isPartOf": { "@id": "https://www.ashraellen.com/#website" }, "about": { "@id": "https://www.ashraellen.com/en/books/radiance/#series" }, "mainEntity": { "@id": "https://www.ashraellen.com/en/books/radiance/#series" }, "primaryImageOfPage": "https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp", "breadcrumb": { "@id": "https://www.ashraellen.com/en/books/radiance/#breadcrumb" }, "inLanguage": "en" },
-    { "@type": "BreadcrumbList", "@id": "https://www.ashraellen.com/en/books/radiance/#breadcrumb", "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Ashraellen", "item": "https://www.ashraellen.com/" },
-      { "@type": "ListItem", "position": 2, "name": "English", "item": "https://www.ashraellen.com/en/" },
-      { "@type": "ListItem", "position": 3, "name": "Books", "item": "https://www.ashraellen.com/en/books/" },
-      { "@type": "ListItem", "position": 4, "name": "Radiance", "item": "https://www.ashraellen.com/en/books/radiance/" }
-    ] }
+    {
+      "@type": "WebSite",
+      "@id": "https://www.ashraellen.com/#website",
+      "name": "Ashraellen",
+      "url": "https://www.ashraellen.com/",
+      "publisher": {
+        "@id": "https://www.ashraellen.com/#person"
+      },
+      "inLanguage": [
+        "en",
+        "ru",
+        "pl",
+        "de",
+        "es",
+        "fr",
+        "pt",
+        "uk",
+        "be"
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://www.ashraellen.com/en/books/radiance/#webpage",
+      "url": "https://www.ashraellen.com/en/books/radiance/",
+      "name": "Ashraellen — Radiance | Northern Tales of the True History of the World",
+      "description": "Radiance is a literary-philosophical, practice-based research cycle about how ancient stories preserve imaginal instructions for the world.",
+      "isPartOf": {
+        "@id": "https://www.ashraellen.com/#website"
+      },
+      "about": {
+        "@id": "https://www.ashraellen.com/#person"
+      },
+      "creator": {
+        "@id": "https://www.ashraellen.com/#person"
+      },
+      "mainEntity": {
+        "@id": "https://www.ashraellen.com/#person"
+      },
+      "breadcrumb": {
+        "@id": "https://www.ashraellen.com/en/books/radiance/#breadcrumb"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.ashraellen.com/en/books/radiance/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Ashraellen",
+          "item": "https://www.ashraellen.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "English",
+          "item": "https://www.ashraellen.com/en/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Books",
+          "item": "https://www.ashraellen.com/en/books/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Radiance",
+          "item": "https://www.ashraellen.com/en/books/radiance/"
+        }
+      ]
+    }
   ]
 }
   </script>
 
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="book">
   <meta property="og:site_name" content="Ashraellen">
   <meta property="og:title" content="Ashraellen — Radiance | Northern Tales of the True History of the World">
   <meta property="og:description" content="Radiance is a literary-philosophical, practice-based research cycle about how ancient stories preserve imaginal instructions for the world.">
   <meta property="og:url" content="https://www.ashraellen.com/en/books/radiance/">
-  <meta property="og:image" content="https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp">
-  <meta property="og:image:secure_url" content="https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp">
-  <meta property="og:image:type" content="image/webp">
+  <meta property="og:image" content="https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg">
+  <meta property="og:image:secure_url" content="https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Ashraellen — dark formal image with the hand and eye symbol">
   <meta property="og:locale" content="en">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Ashraellen — Radiance | Northern Tales of the True History of the World">
-  <meta name="twitter:description" content="A literary-philosophical cycle about ancient stories as imaginal instructions for the world.">
-  <meta name="twitter:image" content="https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp">
+  <meta name="twitter:description" content="Radiance is a literary-philosophical, practice-based research cycle about how ancient stories preserve imaginal instructions for the world.">
+  <meta name="twitter:image" content="https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg">
+  <meta name="twitter:image:alt" content="Ashraellen — dark formal image with the hand and eye symbol">
 </head>
 <body>
   <div class="wrap"><div class="page series-radiance">
