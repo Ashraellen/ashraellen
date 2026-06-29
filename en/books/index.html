@@ -32,27 +32,112 @@
 {
   "@context": "https://schema.org",
   "@graph": [
-    { "@type": "Person", "@id": "https://www.ashraellen.com/#person", "name": "Ashraellen", "url": "https://www.ashraellen.com/" },
-    { "@type": "WebSite", "@id": "https://www.ashraellen.com/#website", "name": "Ashraellen", "url": "https://www.ashraellen.com/", "publisher": { "@id": "https://www.ashraellen.com/#person" }, "inLanguage": ["en", "ru", "pl", "de", "es", "fr", "pt", "uk", "be"] },
-    { "@type": "CollectionPage", "@id": "https://www.ashraellen.com/en/books/#webpage", "url": "https://www.ashraellen.com/en/books/", "name": "Ashraellen — Books", "description": "Books by Ashraellen: MONOLITH, Radiance, Error 404: God Not Found, The Sacred Book of SECCUS, You Are Already Online and The Book of Whinesis.", "isPartOf": { "@id": "https://www.ashraellen.com/#website" }, "about": { "@id": "https://www.ashraellen.com/#person" }, "creator": { "@id": "https://www.ashraellen.com/#person" }, "breadcrumb": { "@id": "https://www.ashraellen.com/en/books/#breadcrumb" }, "inLanguage": "en" },
-    { "@type": "BreadcrumbList", "@id": "https://www.ashraellen.com/en/books/#breadcrumb", "itemListElement": [ { "@type": "ListItem", "position": 1, "name": "Ashraellen", "item": "https://www.ashraellen.com/" }, { "@type": "ListItem", "position": 2, "name": "English", "item": "https://www.ashraellen.com/en/" }, { "@type": "ListItem", "position": 3, "name": "Books", "item": "https://www.ashraellen.com/en/books/" } ] }
+    {
+      "@type": "Person",
+      "@id": "https://www.ashraellen.com/#person",
+      "name": "Ashraellen",
+      "alternateName": "Nikolai Kostyshev",
+      "url": "https://www.ashraellen.com/",
+      "knowsAbout": [
+        "literary-philosophical research",
+        "artistic research",
+        "public philosophy",
+        "inner observation",
+        "language and meaning",
+        "digital autonomy",
+        "systems and consciousness",
+        "satire",
+        "MONOLITH"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.ashraellen.com/#website",
+      "name": "Ashraellen",
+      "url": "https://www.ashraellen.com/",
+      "publisher": {
+        "@id": "https://www.ashraellen.com/#person"
+      },
+      "inLanguage": [
+        "en",
+        "ru",
+        "pl",
+        "de",
+        "es",
+        "fr",
+        "pt",
+        "uk",
+        "be"
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://www.ashraellen.com/en/books/#webpage",
+      "url": "https://www.ashraellen.com/en/books/",
+      "name": "Ashraellen — Books",
+      "description": "Books by Ashraellen: MONOLITH, Radiance, Error 404: God Not Found, The Sacred Book of SECCUS, You Are Already Online and The Book of Whinesis.",
+      "isPartOf": {
+        "@id": "https://www.ashraellen.com/#website"
+      },
+      "about": {
+        "@id": "https://www.ashraellen.com/#person"
+      },
+      "creator": {
+        "@id": "https://www.ashraellen.com/#person"
+      },
+      "mainEntity": {
+        "@id": "https://www.ashraellen.com/#person"
+      },
+      "breadcrumb": {
+        "@id": "https://www.ashraellen.com/en/books/#breadcrumb"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.ashraellen.com/en/books/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Ashraellen",
+          "item": "https://www.ashraellen.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "English",
+          "item": "https://www.ashraellen.com/en/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Books",
+          "item": "https://www.ashraellen.com/en/books/"
+        }
+      ]
+    }
   ]
 }
   </script>
 
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="book">
   <meta property="og:site_name" content="Ashraellen">
   <meta property="og:title" content="Ashraellen — Books">
   <meta property="og:description" content="Books by Ashraellen: MONOLITH, Radiance, Error 404: God Not Found, The Sacred Book of SECCUS, You Are Already Online and The Book of Whinesis.">
   <meta property="og:url" content="https://www.ashraellen.com/en/books/">
-  <meta property="og:image" content="https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp">
-  <meta property="og:image:secure_url" content="https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp">
-  <meta property="og:image:type" content="image/webp">
+  <meta property="og:image" content="https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg">
+  <meta property="og:image:secure_url" content="https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Ashraellen — dark formal image with the hand and eye symbol">
   <meta property="og:locale" content="en">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Ashraellen — Books">
   <meta name="twitter:description" content="Books by Ashraellen: MONOLITH, Radiance, Error 404: God Not Found, The Sacred Book of SECCUS, You Are Already Online and The Book of Whinesis.">
-  <meta name="twitter:image" content="https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp">
+  <meta name="twitter:image" content="https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg">
+  <meta name="twitter:image:alt" content="Ashraellen — dark formal image with the hand and eye symbol">
 </head>
 <body>
   <div class="wrap"><div class="page books-page">
