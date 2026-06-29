@@ -8,7 +8,6 @@
   --fg:#f2f2f4;
   --muted:#a9a9b2;
   --sampo-gold: rgba(218, 166, 82, 0.18);
-  --sampo-ember: rgba(164, 95, 42, 0.16);
   --sampo-green: rgba(102, 130, 92, 0.12);
   --sampo-line: rgba(242,242,244,0.14);
   --sampo-glass: rgba(0,0,0,0.24);
@@ -187,7 +186,8 @@ button.btn{
   background:none;
 }
 
-.btn{
+.btn,
+.sampo-readmore summary{
   display:inline-flex;
   align-items:center;
   justify-content:center;
@@ -209,7 +209,8 @@ button.btn{
   outline:none;
 }
 
-.btn:hover{
+.btn:hover,
+.sampo-readmore summary:hover{
   background:rgba(255,255,255,.08);
   border-color:rgba(242,242,244,.34);
   transform:translateY(-1px);
@@ -218,9 +219,11 @@ button.btn{
   color:var(--fg)!important;
 }
 
-.btn:active{transform:translateY(0) scale(.99)}
+.btn:active,
+.sampo-readmore summary:active{transform:translateY(0) scale(.99)}
 
-.btn:focus-visible{
+.btn:focus-visible,
+.sampo-readmore summary:focus-visible{
   box-shadow:0 0 0 2px rgba(242,242,244,.18),0 0 0 6px rgba(242,242,244,.08);
 }
 
@@ -229,13 +232,6 @@ button.btn{
   border-color:rgba(242,242,244,.14);
   background:rgba(0,0,0,.16);
   opacity:.95;
-}
-
-.cta-row{
-  display:flex;
-  gap:12px;
-  flex-wrap:wrap;
-  margin-top:14px;
 }
 
 .seal{
@@ -331,6 +327,55 @@ button.btn{
 .sampo-copy p{margin:0 0 12px}
 .sampo-copy p:last-child{margin-bottom:0}
 
+.sampo-fragment-body{
+  padding:18px;
+}
+
+.sampo-fragment-title{
+  margin:0 0 14px;
+  color:rgba(242,242,244,.72);
+  font-size:13px;
+  line-height:1.35;
+}
+
+.sampo-fragment-line{
+  margin:0 0 18px;
+  font-family:Georgia,'Times New Roman',serif;
+  font-size:24px;
+  line-height:1.35;
+  color:var(--fg);
+}
+
+.sampo-readmore{
+  margin:0;
+}
+
+.sampo-readmore summary{
+  list-style:none;
+}
+
+.sampo-readmore summary::-webkit-details-marker{display:none}
+
+.sampo-fragment-more{
+  margin-top:16px;
+  max-width:78ch;
+  color:rgba(242,242,244,.78);
+  font-size:14px;
+  line-height:1.35;
+}
+
+.sampo-fragment-more p{
+  margin:0 0 10px;
+}
+
+.sampo-fragment-note{
+  margin:14px 0 0;
+  color:rgba(169,169,178,.78);
+  font-size:12px;
+  line-height:1.35;
+  max-width:72ch;
+}
+
 .sampo-grid{
   display:grid;
   grid-template-columns:repeat(2,minmax(0,1fr));
@@ -379,32 +424,6 @@ button.btn{
 .sampo-badge{
   border-color:rgba(218,166,82,.28);
   background:rgba(218,166,82,.07);
-}
-
-.sampo-chip-row{
-  display:flex;
-  flex-wrap:wrap;
-  gap:8px;
-  margin:18px 0 0;
-}
-
-.sampo-chip{
-  display:inline-flex;
-  align-items:center;
-  min-height:30px;
-  padding:7px 11px;
-  border-radius:999px;
-  border:1px solid rgba(242,242,244,.13);
-  background:rgba(0,0,0,.22);
-  color:rgba(242,242,244,.82);
-  font-size:12px;
-  line-height:1.2;
-}
-
-.sampo-chip.strong{
-  border-color:rgba(218,166,82,.28);
-  background:rgba(218,166,82,.07);
-  color:var(--fg);
 }
 
 .sampo-section-body{padding:18px}
@@ -494,5 +513,6 @@ button.btn{
   .sampo-two-col{grid-template-columns:1fr}
   .sampo-cover-panel{max-width:280px;justify-self:start}
   .sampo-cover{max-width:280px}
-  .sampo-quote{font-size:21px}
+  .sampo-quote,
+  .sampo-fragment-line{font-size:21px}
 }
