@@ -1,0 +1,152 @@
+/* Sampo — Radiance / Сияние, Book I
+   Page-specific layer over assets/books.css.
+   Expected future assets:
+   - assets/backgrounds/sampo-bg.webp
+   - assets/covers/sampo-*.webp or book-card images chosen during visual generation
+*/
+
+:root{
+  --sampo-gold: rgba(218, 166, 82, 0.18);
+  --sampo-ember: rgba(164, 95, 42, 0.16);
+  --sampo-green: rgba(102, 130, 92, 0.12);
+  --sampo-line: rgba(242,242,244,0.14);
+  --sampo-glass: rgba(0,0,0,0.24);
+}
+
+.page.book-sampo::before{
+  background-image:url("backgrounds/sampo-bg.webp");
+  background-position:58% center;
+  filter:brightness(.56) contrast(1.08) saturate(.82) blur(1.2px);
+}
+
+.page.book-sampo::after{
+  background:
+    linear-gradient(90deg,
+      rgba(8,8,9,0.95) 0%,
+      rgba(8,8,9,0.80) 30%,
+      rgba(8,8,9,0.50) 58%,
+      rgba(8,8,9,0.22) 84%,
+      rgba(8,8,9,0.08) 100%),
+    radial-gradient(62% 72% at 68% 38%,
+      var(--sampo-gold) 0%,
+      rgba(218,166,82,0.03) 48%,
+      rgba(218,166,82,0.00) 74%),
+    radial-gradient(42% 52% at 20% 82%,
+      var(--sampo-green) 0%,
+      rgba(102,130,92,0.00) 76%);
+}
+
+.book-sampo .container{
+  max-width:1040px;
+}
+
+.book-sampo .lead{
+  max-width:82ch;
+  line-height:1.42;
+}
+
+.radiance-kicker{
+  margin:0 0 10px;
+  color:var(--muted);
+  font-size:12px;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+}
+
+.sampo-quote{
+  margin:0;
+  font-family:Georgia,'Times New Roman',serif;
+  font-size:24px;
+  line-height:1.38;
+  color:var(--fg);
+}
+
+.sampo-copy{
+  max-width:82ch;
+  font-size:14px;
+  line-height:1.78;
+  color:var(--muted);
+}
+
+.sampo-copy p{
+  margin:0 0 12px;
+}
+
+.sampo-copy p:last-child{
+  margin-bottom:0;
+}
+
+.sampo-grid{
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:14px;
+  padding:18px;
+}
+
+.sampo-card{
+  border:1px solid var(--sampo-line);
+  border-radius:18px;
+  padding:16px;
+  background:var(--sampo-glass);
+  backdrop-filter:blur(5px);
+  box-shadow:0 12px 34px rgba(0,0,0,.20);
+}
+
+.sampo-card h3{
+  margin:0 0 8px;
+  font-size:17px;
+}
+
+.sampo-card p{
+  margin:0;
+  color:var(--muted);
+  font-size:13px;
+  line-height:1.65;
+}
+
+.sampo-cover-row{
+  display:grid;
+  grid-template-columns:220px 1fr;
+  gap:18px;
+  align-items:start;
+  padding:18px;
+}
+
+.sampo-cover{
+  aspect-ratio:2/3;
+  border-radius:16px;
+  overflow:hidden;
+  border:1px solid rgba(242,242,244,.16);
+  background:linear-gradient(145deg,rgba(218,166,82,.10),rgba(0,0,0,.28));
+}
+
+.sampo-cover img{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  display:block;
+}
+
+.sampo-badge{
+  border-color:rgba(218,166,82,.28);
+  background:rgba(218,166,82,.07);
+}
+
+@media(max-width:900px){
+  .page.book-sampo::before{
+    background-position:64% center;
+  }
+
+  .sampo-grid,
+  .sampo-cover-row{
+    grid-template-columns:1fr;
+  }
+
+  .sampo-cover{
+    max-width:280px;
+  }
+
+  .sampo-quote{
+    font-size:21px;
+  }
+}
