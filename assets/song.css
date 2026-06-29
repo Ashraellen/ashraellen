@@ -42,7 +42,7 @@
 
 .book-song .lead{
   max-width:82ch;
-  line-height:1.42;
+  line-height:1.35;
 }
 
 .song-kicker{
@@ -57,14 +57,14 @@
   margin:0;
   font-family:Georgia,'Times New Roman',serif;
   font-size:24px;
-  line-height:1.38;
+  line-height:1.35;
   color:var(--fg);
 }
 
 .song-copy{
   max-width:82ch;
   font-size:14px;
-  line-height:1.78;
+  line-height:1.35;
   color:var(--muted);
 }
 
@@ -95,13 +95,14 @@
 .song-card h3{
   margin:0 0 8px;
   font-size:17px;
+  line-height:1.25;
 }
 
 .song-card p{
   margin:0;
   color:var(--muted);
   font-size:13px;
-  line-height:1.65;
+  line-height:1.35;
 }
 
 .song-cover-row{
