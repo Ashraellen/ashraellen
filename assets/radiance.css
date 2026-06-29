@@ -150,13 +150,13 @@ a:hover{text-decoration:underline}
   display:inline-flex;
   align-items:center;
   justify-content:center;
-  padding:12px 18px;
+  padding:10px 14px;
   border-radius:14px;
   border:1px solid rgba(242,242,244,.18);
   background:rgba(0,0,0,.22);
   backdrop-filter:blur(3px);
-  font-size:14px;
-  font-weight:800;
+  font-size:12px;
+  font-weight:700;
   color:var(--fg)!important;
   cursor:pointer;
   text-decoration:none;
@@ -179,6 +179,10 @@ a:hover{text-decoration:underline}
   display:flex;
   flex-wrap:wrap;
   gap:10px;
+  margin-top:14px;
+}
+
+.hero .cta-row{
   margin-top:18px;
 }
 
@@ -237,31 +241,31 @@ a:hover{text-decoration:underline}
 
 .books-grid{
   display:grid;
-  grid-template-columns:repeat(2,minmax(0,1fr));
-  gap:26px;
-  padding:26px;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:14px;
+  margin-top:14px;
+  padding:0 18px 18px;
 }
 
 .book-card{
+  border:1px solid rgba(242,242,244,.08);
+  border-radius:16px;
+  padding:14px;
+  background:rgba(0,0,0,.18);
+  backdrop-filter:blur(4px);
+  box-shadow:0 12px 30px rgba(0,0,0,.16);
   display:flex;
   flex-direction:column;
-  border:1px solid var(--line);
-  border-radius:24px;
-  padding:26px;
-  background:rgba(0,0,0,.24);
-  box-shadow:0 18px 44px rgba(0,0,0,.24);
 }
 
 .book-cover{
   display:block;
-  width:100%;
   aspect-ratio:2/3;
-  margin:0 0 22px;
-  border-radius:18px;
+  border-radius:12px;
   overflow:hidden;
-  border:1px solid rgba(242,242,244,.16);
-  background:rgba(0,0,0,.28);
-  box-shadow:0 14px 34px rgba(0,0,0,.28);
+  border:1px solid rgba(242,242,244,.08);
+  background:rgba(255,255,255,.035);
+  margin-bottom:14px;
 }
 
 .book-cover img{
@@ -271,58 +275,46 @@ a:hover{text-decoration:underline}
   object-fit:cover;
 }
 
-.book-card h3{
-  margin:0 0 10px;
-  font-size:25px;
+.book-cover.placeholder{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding:18px;
+  font-family:Georgia,'Times New Roman',serif;
+  font-size:22px;
   line-height:1.25;
+  text-align:center;
+  letter-spacing:.08em;
+  color:rgba(242,242,244,.56);
+  background:
+    linear-gradient(145deg,rgba(255,255,255,.04),rgba(255,255,255,.012)),
+    rgba(0,0,0,.16);
 }
 
-.book-card .meta{
-  margin:0 0 14px;
-  color:rgba(242,242,244,.78);
-  font-size:15px;
-  line-height:1.35;
+.book-card h3{
+  margin:0 0 8px;
+  font-size:17px;
+  line-height:1.3;
 }
 
 .book-card p{
-  margin:0 0 18px;
+  margin:0 0 12px;
   color:var(--muted);
-  font-size:15px;
-  line-height:1.35;
+  font-size:13px;
+  line-height:1.6;
 }
 
-.book-card .small-link{
-  display:inline-flex;
-  align-items:center;
-  justify-content:center;
-  width:max-content;
-  max-width:100%;
+.book-card .cta-row{
   margin-top:auto;
-  padding:11px 16px;
-  border-radius:14px;
-  border:1px solid rgba(242,242,244,.18);
-  background:rgba(0,0,0,.24);
-  color:var(--fg);
-  font-size:14px;
-  font-weight:800;
-  text-decoration:none;
 }
 
-.book-card .small-link:hover{
-  background:rgba(255,255,255,.08);
-  border-color:rgba(242,242,244,.34);
-  text-decoration:none;
-}
-
-.map-list,
-.status-list{
+.map-list{
   margin:0;
   padding:10px 18px 12px;
   list-style:none;
 }
 
-.map-list li,
-.status-list li{
+.map-list li{
   display:flex;
   gap:14px;
   align-items:baseline;
@@ -333,11 +325,9 @@ a:hover{text-decoration:underline}
   line-height:1.35;
 }
 
-.map-list li:first-child,
-.status-list li:first-child{border-top:none}
+.map-list li:first-child{border-top:none}
 
-.map-list strong,
-.status-list strong{
+.map-list strong{
   flex:0 0 112px;
   color:var(--fg);
   font-size:13px;
@@ -373,14 +363,6 @@ a:hover{text-decoration:underline}
 
 .info-box p{margin:0 0 10px}
 
-.simple-list{
-  margin:0;
-  padding-left:18px;
-}
-
-.simple-list li{margin:0 0 8px}
-.simple-list li:last-child{margin-bottom:0}
-
 .seal{
   display:flex;
   align-items:center;
@@ -403,17 +385,12 @@ a:hover{text-decoration:underline}
   .h1{font-size:30px}
   .hero-note,.quote{font-size:21px}
   .books-grid,.two-col{grid-template-columns:1fr}
-  .books-grid{gap:26px;padding:26px}
-  .book-card{padding:26px}
-  .map-list strong,.status-list strong{flex-basis:92px}
+  .book-cover{max-width:320px}
+  .map-list strong{flex-basis:92px}
 }
 
 @media(max-width:560px){
-  .books-grid{padding:26px}
-  .book-card{padding:24px}
-  .book-cover{border-radius:18px;margin-bottom:22px}
-  .book-card h3{font-size:25px}
   .list-header{align-items:flex-start;flex-direction:column;gap:4px}
-  .map-list li,.status-list li{display:block}
-  .map-list strong,.status-list strong{display:block;margin-bottom:4px}
+  .map-list li{display:block}
+  .map-list strong{display:block;margin-bottom:4px}
 }
