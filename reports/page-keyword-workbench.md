@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-06-30T10:50:10.965Z
+Generated: 2026-06-30T12:11:47.485Z
 Pages: 551
 
 ## Index
@@ -387,8 +387,8 @@ Pages: 551
 | pt/public/posts/essay/cycles/cycle-0001.html | pt | public | Ashraellen — Primeiro ciclo de mini-ensaios | ashraellen, public, posts, essay, cycles, cycle, 0001, primeiro, ciclo, mini-ensaios, poder, não, sobre, pensamento, mas, atenção, corpo, primeira | ciclo, primeiro, mas, não, sobre, corpo, passado, pensamento, ashraellen, atenção, interpretação, mini-ensaios, objetivo, poder, porta, primeira, public, sua |
 | pt/public/posts/essay/cycles/index.html | pt | public | Ashraellen — Ciclos de mini-ensaios | ashraellen, public, posts, essay, cycles, ciclos, mini-ensaios, concluídos, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ciclos, mini-ensaios, concluídos, atual, ciclo, aqui, ashraellen, estão, fica, página, para, primeiro, principal, public, cycles, essay, posts, reunidos |
 | pt/public/posts/essay/index.html | pt | public | Ashraellen — Mini-ensaios | ashraellen, public, posts, essay, mini-ensaios, primeiro, ciclo, poder, não, sobre, pensamento, mas, atenção, corpo, primeira, porta, objetivo, passado | mas, não, mini-ensaios, sobre, corpo, passado, pensamento, ashraellen, atenção, ciclo, interpretação, objetivo, poder, porta, primeira, primeiro, public, sua |
-| pt/public/posts/formula/index.html | pt | public | Ashraellen — Fórmulas — PT | ashraellen, public, posts, formula, fórmulas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | ashraellen, public, fórmulas, archive, artistic, literary, multilingual, part, research, work, formula, posts |
-| pt/public/posts/formula/lines/index.html | pt | public | Ashraellen — Fórmulas — PT | ashraellen, public, posts, formula, lines, fórmulas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean | ashraellen, public, fórmulas, archive, artistic, literary, multilingual, part, research, work, formula, lines, posts |
+| pt/public/posts/formula/index.html | pt | public | Ashraellen — Fórmulas — PT — posts / formula | ashraellen, public, posts, formula, fórmulas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | ashraellen, public, formula, fórmulas, posts, archive, artistic, literary, multilingual, part, research, work |
+| pt/public/posts/formula/lines/index.html | pt | public | Ashraellen — Fórmulas — PT — formula / lines | ashraellen, public, posts, formula, lines, fórmulas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean | ashraellen, public, formula, fórmulas, lines, archive, artistic, literary, multilingual, part, research, work, posts |
 | pt/public/posts/formula/lines/line-0001.html | pt | public | Ashraellen — Linha 0001 | ashraellen, public, posts, formula, lines, line, 0001, linha, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, public, 0001, linha, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts |
 | pt/public/posts/formula/lines/line-0002.html | pt | public | Ashraellen — Linha 0002 | ashraellen, public, posts, formula, lines, line, 0002, linha, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, public, 0002, linha, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts |
 | pt/public/posts/fragment/index.html | pt | public | Ashraellen — Fragmentos — PT | ashraellen, public, posts, fragment, fragmentos, seção, preparada, partir, grande, arquivo, manuscritos, notas, publicações, acumulados, longo, muitos, anos, trabalho | ashraellen, fragmentos, acumulados, anos, arquivo, grande, longo, manuscritos, notas, public, seção, trabalho, aqui, fragment, muitos, partir, posts, preparação |
@@ -458,18 +458,18 @@ Pages: 551
 | ru/public/posts/index.html | ru | public | Ashraellen — Публикации | ashraellen, public, posts, публикации, разделы, формулы, фрагменты, мини-эссе, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | публикации, разделы, мини-эссе, формулы, фрагменты, ashraellen, formula, public, выберите, короткие, лекцией, мысль, наблюдения, posts, она, поймать, разные, способы |
 | ru/public/posts/sources/index.html | ru | public | Ashraellen — Источники перенесены | ashraellen, public, posts, sources, источники, перенесены, новый, адрес, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | источники, перенесены, адрес, новый, ashraellen, public, больше, исследование, исследовании, методологическая, находится, основа, относится, posts, sources, проекта, публикациям, публичным |
 | ru/public/talks/index.html | ru | public | Ashraellen — Выступления | ashraellen, public, talks, выступления, видео, публичные, разборы, ясность, восприятие, сознание, реальность, возвращение, живому, пониманию, список, происходит, после, смерти | ashraellen, sacred, public, taste, ахепсу, видео, выступления, moan, money, revelation, talks, your, youtube, возвращение, восприятие, где, дубляж, души |
-| ru/public/thoughts/01-cheerfulness/index.html | ru | public | Ashraellen — Весёлость как диагностика человека — Russian | ashraellen, public, thoughts, cheerfulness, весёлость, диагностика, человека, опорная, мысль, смех, открывает, душу, точнее, чем, правильные, речи, смысл, полный | ashraellen, весёлость, диагностика, человека, public, смех, чем, cheerfulness, russian, thoughts, без, выбрано, говорит, душу, его, если, заметка, или |
-| ru/public/thoughts/02-still-the-same/index.html | ru | public | Ashraellen — Те же силы, новые имена — Russian | ashraellen, public, thoughts, still, same, силы, новые, имена, опорная, мысль, современные, тревоги, зависимости, старых, богов, демонов, смысл, полный | ashraellen, имена, новые, public, мысль, опорная, силы, russian, same, still, thoughts, без, боги, богов, выбрано, демонов, его, жизнью |
-| ru/public/thoughts/03-let-go/index.html | ru | public | Ashraellen — Пробуждение начинается с невозможности продолжать — Russian | ashraellen, public, thoughts, let, пробуждение, начинается, невозможности, продолжать, опорная, мысль, момент, когда, дальше, жить, прежним, способом, больше, нельзя | ashraellen, пробуждение, начинается, продолжать, public, дальше, момент, мысль, невозможности, нельзя, опорная, let, russian, thoughts, больше, вот, выбрано, жить |
-| ru/public/thoughts/04-mortality-awakens/index.html | ru | public | Ashraellen — Конечность пробуждает вопрос — Russian | ashraellen, public, thoughts, mortality, awakens, конечность, пробуждает, вопрос, опорная, мысль, философия, начинается, там, где, заканчиваются, иллюзии, сознание, входит | ashraellen, конечность, вопрос, пробуждает, public, заканчиваются, иллюзии, мысль, опорная, философия, awakens, mortality, russian, thoughts, входит, выбрано, где, думать |
-| ru/public/thoughts/05-on-your-own/index.html | ru | public | Ashraellen — Страх как механизм контроля — Russian | ashraellen, public, thoughts, your, own, страх, механизм, контроля, опорная, мысль, там, где, человек, перестаёт, бояться, начинает, мыслить, самостоятельно | ashraellen, контроля, механизм, страх, public, бояться, власть, где, мыслить, мысль, начинает, самостоятельно, человек, own, russian, thoughts, your, выбрано |
-| ru/public/thoughts/06-insight/index.html | ru | public | Ashraellen — Глубокий взгляд собирает жизнь — Russian | ashraellen, public, thoughts, insight, глубокий, взгляд, собирает, жизнь, опорная, мысль, превращая, ошибки, опыт, цепь, понимания, смысл, полный, текст | ashraellen, взгляд, глубокий, жизнь, собирает, public, мысль, опорная, insight, russian, thoughts, видеть, выбрано, глубже, заметка, исследовательская, когда, начинает |
-| ru/public/thoughts/arcs/0001-cheerfulness.html | ru | public | Ashraellen — Весёлость как диагностика человека — Russian | ashraellen, public, thoughts, arcs, 0001, cheerfulness, весёлость, диагностика, человека, опорная, мысль, смех, открывает, душу, точнее, чем, правильные, речи | ashraellen, весёлость, диагностика, человека, public, мысль, смех, чем, arcs, cheerfulness, russian, thoughts, без, выбрано, говорит, душу, его, если |
-| ru/public/thoughts/arcs/0002-still-the-same.html | ru | public | Ashraellen — Те же силы, новые имена — Russian | ashraellen, public, thoughts, arcs, 0002, still, same, силы, новые, имена, опорная, мысль, современные, тревоги, зависимости, старых, богов, демонов | ashraellen, имена, новые, public, мысль, опорная, силы, arcs, russian, same, still, thoughts, без, боги, богов, выбрано, демонов, его |
-| ru/public/thoughts/arcs/0003-let-go.html | ru | public | Ashraellen — Пробуждение начинается с невозможности продолжать — Russian | ashraellen, public, thoughts, arcs, 0003, let, пробуждение, начинается, невозможности, продолжать, опорная, мысль, момент, когда, дальше, жить, прежним, способом | ashraellen, пробуждение, начинается, public, больше, дальше, момент, мысль, невозможности, нельзя, продолжать, arcs, let, russian, thoughts, вот, выбрано, жить |
-| ru/public/thoughts/arcs/0004-mortality-awakens.html | ru | public | Ashraellen — Конечность пробуждает вопрос — Russian | ashraellen, public, thoughts, arcs, 0004, mortality, awakens, конечность, пробуждает, вопрос, опорная, мысль, философия, начинается, там, где, заканчиваются, иллюзии | ashraellen, конечность, вопрос, пробуждает, public, заканчиваются, иллюзии, мысль, опорная, философия, arcs, awakens, mortality, russian, thoughts, входит, выбрано, где |
-| ru/public/thoughts/arcs/0005-on-your-own.html | ru | public | Ashraellen — Страх как механизм контроля — Russian | ashraellen, public, thoughts, arcs, 0005, your, own, страх, механизм, контроля, опорная, мысль, там, где, человек, перестаёт, бояться, начинает | ashraellen, контроля, механизм, страх, public, бояться, власть, где, мыслить, мысль, начинает, самостоятельно, человек, arcs, own, russian, thoughts, your |
-| ru/public/thoughts/arcs/0006-insight.html | ru | public | Ashraellen — Глубокий взгляд собирает жизнь — Russian | ashraellen, public, thoughts, arcs, 0006, insight, глубокий, взгляд, собирает, жизнь, опорная, мысль, превращая, ошибки, страдания, цепь, понимания, смысл | ashraellen, взгляд, глубокий, жизнь, собирает, public, мысль, страдания, arcs, insight, russian, thoughts, без, видеть, выбрано, глубже, заметка, исследовательская |
+| ru/public/thoughts/01-cheerfulness/index.html | ru | public | Ashraellen — Весёлость как диагностика человека — Russian — thoughts / cheerfulness | ashraellen, public, thoughts, cheerfulness, весёлость, диагностика, человека, опорная, мысль, смех, открывает, душу, точнее, чем, правильные, речи, смысл, полный | ashraellen, весёлость, диагностика, человека, cheerfulness, public, thoughts, смех, чем, russian, без, выбрано, говорит, душу, его, если, заметка, или |
+| ru/public/thoughts/02-still-the-same/index.html | ru | public | Ashraellen — Те же силы, новые имена — Russian — the / same | ashraellen, public, thoughts, still, same, силы, новые, имена, опорная, мысль, современные, тревоги, зависимости, старых, богов, демонов, смысл, полный | ashraellen, имена, новые, public, same, мысль, опорная, силы, russian, still, thoughts, без, боги, богов, выбрано, демонов, его, жизнью |
+| ru/public/thoughts/03-let-go/index.html | ru | public | Ashraellen — Пробуждение начинается с невозможности продолжать — Russian — let / go | ashraellen, public, thoughts, let, пробуждение, начинается, невозможности, продолжать, опорная, мысль, момент, когда, дальше, жить, прежним, способом, больше, нельзя | ashraellen, пробуждение, начинается, продолжать, let, public, дальше, момент, мысль, невозможности, нельзя, опорная, russian, thoughts, больше, вот, выбрано, жить |
+| ru/public/thoughts/04-mortality-awakens/index.html | ru | public | Ashraellen — Конечность пробуждает вопрос — Russian — mortality / awakens | ashraellen, public, thoughts, mortality, awakens, конечность, пробуждает, вопрос, опорная, мысль, философия, начинается, там, где, заканчиваются, иллюзии, сознание, входит | ashraellen, конечность, вопрос, пробуждает, awakens, mortality, public, заканчиваются, иллюзии, мысль, опорная, философия, russian, thoughts, входит, выбрано, где, думать |
+| ru/public/thoughts/05-on-your-own/index.html | ru | public | Ashraellen — Страх как механизм контроля — Russian — your / own | ashraellen, public, thoughts, your, own, страх, механизм, контроля, опорная, мысль, там, где, человек, перестаёт, бояться, начинает, мыслить, самостоятельно | ashraellen, контроля, механизм, страх, own, public, your, бояться, власть, где, мыслить, мысль, начинает, самостоятельно, человек, russian, thoughts, выбрано |
+| ru/public/thoughts/06-insight/index.html | ru | public | Ashraellen — Глубокий взгляд собирает жизнь — Russian — thoughts / insight | ashraellen, public, thoughts, insight, глубокий, взгляд, собирает, жизнь, опорная, мысль, превращая, ошибки, опыт, цепь, понимания, смысл, полный, текст | ashraellen, взгляд, глубокий, жизнь, собирает, insight, public, thoughts, мысль, опорная, russian, видеть, выбрано, глубже, заметка, исследовательская, когда, начинает |
+| ru/public/thoughts/arcs/0001-cheerfulness.html | ru | public | Ashraellen — Весёлость как диагностика человека — Russian — arcs / cheerfulness | ashraellen, public, thoughts, arcs, 0001, cheerfulness, весёлость, диагностика, человека, опорная, мысль, смех, открывает, душу, точнее, чем, правильные, речи | ashraellen, весёлость, диагностика, человека, arcs, cheerfulness, public, мысль, смех, чем, russian, thoughts, без, выбрано, говорит, душу, его, если |
+| ru/public/thoughts/arcs/0002-still-the-same.html | ru | public | Ashraellen — Те же силы, новые имена — Russian — the / same | ashraellen, public, thoughts, arcs, 0002, still, same, силы, новые, имена, опорная, мысль, современные, тревоги, зависимости, старых, богов, демонов | ashraellen, имена, новые, public, same, мысль, опорная, силы, arcs, russian, still, thoughts, без, боги, богов, выбрано, демонов, его |
+| ru/public/thoughts/arcs/0003-let-go.html | ru | public | Ashraellen — Пробуждение начинается с невозможности продолжать — Russian — let / go | ashraellen, public, thoughts, arcs, 0003, let, пробуждение, начинается, невозможности, продолжать, опорная, мысль, момент, когда, дальше, жить, прежним, способом | ashraellen, пробуждение, начинается, let, public, больше, дальше, момент, мысль, невозможности, нельзя, продолжать, arcs, russian, thoughts, вот, выбрано, жить |
+| ru/public/thoughts/arcs/0004-mortality-awakens.html | ru | public | Ashraellen — Конечность пробуждает вопрос — Russian — mortality / awakens | ashraellen, public, thoughts, arcs, 0004, mortality, awakens, конечность, пробуждает, вопрос, опорная, мысль, философия, начинается, там, где, заканчиваются, иллюзии | ashraellen, конечность, вопрос, пробуждает, awakens, mortality, public, заканчиваются, иллюзии, мысль, опорная, философия, arcs, russian, thoughts, входит, выбрано, где |
+| ru/public/thoughts/arcs/0005-on-your-own.html | ru | public | Ashraellen — Страх как механизм контроля — Russian — your / own | ashraellen, public, thoughts, arcs, 0005, your, own, страх, механизм, контроля, опорная, мысль, там, где, человек, перестаёт, бояться, начинает | ashraellen, контроля, механизм, страх, own, public, your, бояться, власть, где, мыслить, мысль, начинает, самостоятельно, человек, arcs, russian, thoughts |
+| ru/public/thoughts/arcs/0006-insight.html | ru | public | Ashraellen — Глубокий взгляд собирает жизнь — Russian — arcs / insight | ashraellen, public, thoughts, arcs, 0006, insight, глубокий, взгляд, собирает, жизнь, опорная, мысль, превращая, ошибки, страдания, цепь, понимания, смысл | ashraellen, взгляд, глубокий, жизнь, собирает, arcs, insight, public, мысль, страдания, russian, thoughts, без, видеть, выбрано, глубже, заметка, исследовательская |
 | ru/public/thoughts/arcs/0007-empty-chair.html | ru | public | Ashraellen — Пустой стул | ashraellen, public, thoughts, arcs, 0007, empty, chair, пустой, стул, опорная, мысль, некоторые, люди, уходят, полностью, они, просто, перестают | ashraellen, пустой, стул, public, люди, мысль, некоторые, полностью, просто, arcs, chair, empty, thoughts, всё, выбрано, даже, если, заметка |
 | ru/public/thoughts/arcs/0008-generalization.html | ru | public | Ashraellen — Обобщение вместо наблюдения | ashraellen, public, thoughts, arcs, 0008, generalization, обобщение, вместо, наблюдения, опорная, мысль, становится, опасным, там, где, оно, заменяет, наблюдение | обобщение, ashraellen, вместо, наблюдения, public, где, заменяет, мысль, наблюдение, оно, опасным, опорная, там, arcs, generalization, thoughts, выбрано, готовый |
 | ru/public/thoughts/arcs/0009-where-life-stopped.html | ru | public | Ashraellen — Где ты перестал быть живым | ashraellen, public, thoughts, arcs, 0009, where, life, stopped, где, перестал, быть, живым, опорная, мысль, иногда, проснуться, значит, впервые | быть, где, живым, перестал, ashraellen, public, впервые, значит, иногда, мысль, проснуться, arcs, life, stopped, thoughts, where, выбрано, жизнью |
@@ -7025,14 +7025,14 @@ Excerpt:
 
 - lang: pt
 - section: public
-- title: Ashraellen — Fórmulas — PT
+- title: Ashraellen — Fórmulas — PT — posts / formula
 - description: Ashraellen — Fórmulas — PT is part of the Ashraellen multilingual public archive of literary, artistic and research work.
 - canonical: https://www.ashraellen.com/pt/public/posts/formula/
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, fórmulas, archive, artistic, literary, multilingual, part, research, work, formula, posts
-- candidates: ashraellen, fórmulas, archive, artistic, literary, multilingual, part, public, research, work
+- suggested keyword seed: ashraellen, public, formula, fórmulas, posts, archive, artistic, literary, multilingual, part, research, work
+- candidates: ashraellen, fórmulas, archive, artistic, formula, literary, multilingual, part, posts, public, research, work
 
 Excerpt:
 
@@ -7042,14 +7042,14 @@ Excerpt:
 
 - lang: pt
 - section: public
-- title: Ashraellen — Fórmulas — PT
+- title: Ashraellen — Fórmulas — PT — formula / lines
 - description: Ashraellen — Fórmulas — PT is part of the Ashraellen multilingual public archive of literary, artistic and research work.
 - canonical: https://www.ashraellen.com/pt/public/posts/formula/lines/
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, fórmulas, archive, artistic, literary, multilingual, part, research, work, formula, lines, posts
-- candidates: ashraellen, fórmulas, archive, artistic, literary, multilingual, part, public, research, work
+- suggested keyword seed: ashraellen, public, formula, fórmulas, lines, archive, artistic, literary, multilingual, part, research, work, posts
+- candidates: ashraellen, fórmulas, archive, artistic, formula, lines, literary, multilingual, part, public, research, work
 
 Excerpt:
 
@@ -8232,13 +8232,13 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Весёлость как диагностика человека — Russian
+- title: Ashraellen — Весёлость как диагностика человека — Russian — thoughts / cheerfulness
 - description: Опорная мысль Ashraellen: весёлость как диагностика человека. Смех открывает душу точнее, чем правильные речи.
 - canonical: https://www.ashraellen.com/ru/public/thoughts/01-cheerfulness/
 - H1: Весёлость как диагностика человека
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, весёлость, диагностика, человека, public, смех, чем, cheerfulness, russian, thoughts, без, выбрано, говорит, душу, его, если, заметка, или
+- suggested keyword seed: ashraellen, весёлость, диагностика, человека, cheerfulness, public, thoughts, смех, чем, russian, без, выбрано, говорит, душу, его, если, заметка, или
 - candidates: человека, весёлость, его, без, смех, чем, через, ashraellen, говорит, диагностика, если, или, мысль, опорная, правильные, речи, смеётся, человек, вами, душу, здесь, кто, нём, открывает
 
 Excerpt:
@@ -8249,13 +8249,13 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Те же силы, новые имена — Russian
+- title: Ashraellen — Те же силы, новые имена — Russian — the / same
 - description: Опорная мысль Ashraellen: современные тревоги и зависимости как новые имена старых богов и демонов.
 - canonical: https://www.ashraellen.com/ru/public/thoughts/02-still-the-same/
 - H1: Те же силы, новые имена
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, имена, новые, public, мысль, опорная, силы, russian, same, still, thoughts, без, боги, богов, выбрано, демонов, его, жизнью
+- suggested keyword seed: ashraellen, имена, новые, public, same, мысль, опорная, силы, russian, still, thoughts, без, боги, богов, выбрано, демонов, его, жизнью
 - candidates: имена, новые, просто, человек, ashraellen, без, его, жизнью, мысль, они, опорная, боги, демоны, исчезли, никуда, остаётся, получили, психологических, рациональным, себя, силам, силы, служит, современный
 
 Excerpt:
@@ -8266,14 +8266,14 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Пробуждение начинается с невозможности продолжать — Russian
+- title: Ashraellen — Пробуждение начинается с невозможности продолжать — Russian — let / go
 - description: Опорная мысль Ashraellen: пробуждение как момент, когда дальше жить прежним способом больше нельзя.
 - canonical: https://www.ashraellen.com/ru/public/thoughts/03-let-go/
 - H1: Пробуждение начинается с невозможности продолжать
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, пробуждение, начинается, продолжать, public, дальше, момент, мысль, невозможности, нельзя, опорная, let, russian, thoughts, больше, вот, выбрано, жить
-- candidates: пробуждение, начинается, вот, дальше, ashraellen, момент, мысль, нельзя, опорная, продолжать, себя, человек, больше, иллюзии, либо, невозможно, невозможности, однажды, пока, так, mark, presence, russian, апгрейд
+- suggested keyword seed: ashraellen, пробуждение, начинается, продолжать, let, public, дальше, момент, мысль, невозможности, нельзя, опорная, russian, thoughts, больше, вот, выбрано, жить
+- candidates: пробуждение, начинается, вот, дальше, ashraellen, момент, мысль, нельзя, опорная, продолжать, себя, человек, больше, иллюзии, либо, невозможно, невозможности, однажды, пока, так, let, mark, presence, russian
 
 Excerpt:
 
@@ -8283,13 +8283,13 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Конечность пробуждает вопрос — Russian
+- title: Ashraellen — Конечность пробуждает вопрос — Russian — mortality / awakens
 - description: Опорная мысль Ashraellen: философия начинается там, где заканчиваются иллюзии и в сознание входит конечность.
 - canonical: https://www.ashraellen.com/ru/public/thoughts/04-mortality-awakens/
 - H1: Конечность пробуждает вопрос
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, конечность, вопрос, пробуждает, public, заканчиваются, иллюзии, мысль, опорная, философия, awakens, mortality, russian, thoughts, входит, выбрано, где, думать
+- suggested keyword seed: ashraellen, конечность, вопрос, пробуждает, awakens, mortality, public, заканчиваются, иллюзии, мысль, опорная, философия, russian, thoughts, входит, выбрано, где, думать
 - candidates: когда, конечность, вопрос, мысль, тогда, ashraellen, думать, заканчиваются, иллюзии, опорная, пробуждает, философия, больше, болью, входит, где, истина, многие, настоящий, начинается, начинают, них, открывается, потому
 
 Excerpt:
@@ -8300,13 +8300,13 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Страх как механизм контроля — Russian
+- title: Ashraellen — Страх как механизм контроля — Russian — your / own
 - description: Опорная мысль Ashraellen: там, где человек перестаёт бояться и начинает мыслить самостоятельно, ослабевает власть старых систем.
 - canonical: https://www.ashraellen.com/ru/public/thoughts/05-on-your-own/
 - H1: Страх как механизм контроля
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, контроля, механизм, страх, public, бояться, власть, где, мыслить, мысль, начинает, самостоятельно, человек, own, russian, thoughts, your, выбрано
+- suggested keyword seed: ashraellen, контроля, механизм, страх, own, public, your, бояться, власть, где, мыслить, мысль, начинает, самостоятельно, человек, russian, thoughts, выбрано
 - candidates: человек, мыслить, мысль, самостоятельно, страх, ashraellen, бояться, власть, где, контроля, механизм, начинает, опорная, ослабевает, перестаёт, смерти, там, человеку, больше, всё, делать, если, зависимости, запрет
 
 Excerpt:
@@ -8317,14 +8317,14 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Глубокий взгляд собирает жизнь — Russian
+- title: Ashraellen — Глубокий взгляд собирает жизнь — Russian — thoughts / insight
 - description: Опорная мысль Ashraellen: глубокий взгляд собирает жизнь, превращая ошибки и опыт в цепь понимания.
 - canonical: https://www.ashraellen.com/ru/public/thoughts/06-insight/
 - H1: Глубокий взгляд собирает жизнь
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, взгляд, глубокий, жизнь, собирает, public, мысль, опорная, insight, russian, thoughts, видеть, выбрано, глубже, заметка, исследовательская, когда, начинает
-- candidates: видеть, жизнь, начинает, человек, собирает, ashraellen, взгляд, глубже, глубокий, когда, мысль, опорная, ошибки, пониманию, видимого, внутренней, делает, жизни, опыт, перестаёт, последствий, причины, простой, среди
+- suggested keyword seed: ashraellen, взгляд, глубокий, жизнь, собирает, insight, public, thoughts, мысль, опорная, russian, видеть, выбрано, глубже, заметка, исследовательская, когда, начинает
+- candidates: видеть, жизнь, начинает, человек, собирает, ashraellen, взгляд, глубже, глубокий, когда, мысль, опорная, ошибки, пониманию, insight, видимого, внутренней, делает, жизни, опыт, перестаёт, последствий, причины, простой
 
 Excerpt:
 
@@ -8334,13 +8334,13 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Весёлость как диагностика человека — Russian
+- title: Ashraellen — Весёлость как диагностика человека — Russian — arcs / cheerfulness
 - description: Опорная мысль Ashraellen: весёлость как диагностика человека. Смех открывает душу точнее, чем правильные речи.
 - canonical: https://www.ashraellen.com/ru/public/thoughts/arcs/0001-cheerfulness.html
 - H1: Весёлость как диагностика человека
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, весёлость, диагностика, человека, public, мысль, смех, чем, arcs, cheerfulness, russian, thoughts, без, выбрано, говорит, душу, его, если
+- suggested keyword seed: ashraellen, весёлость, диагностика, человека, arcs, cheerfulness, public, мысль, смех, чем, russian, thoughts, без, выбрано, говорит, душу, его, если
 - candidates: человека, весёлость, его, без, мысль, смех, чем, через, ashraellen, говорит, диагностика, если, или, опорная, правильные, речи, смеётся, человек, вами, душу, здесь, кто, нём, открывает
 
 Excerpt:
@@ -8351,13 +8351,13 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Те же силы, новые имена — Russian
+- title: Ashraellen — Те же силы, новые имена — Russian — the / same
 - description: Опорная мысль Ashraellen: современные тревоги и зависимости как новые имена старых богов и демонов.
 - canonical: https://www.ashraellen.com/ru/public/thoughts/arcs/0002-still-the-same.html
 - H1: Те же силы, новые имена
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, имена, новые, public, мысль, опорная, силы, arcs, russian, same, still, thoughts, без, боги, богов, выбрано, демонов, его
+- suggested keyword seed: ashraellen, имена, новые, public, same, мысль, опорная, силы, arcs, russian, still, thoughts, без, боги, богов, выбрано, демонов, его
 - candidates: имена, новые, мысль, просто, человек, ashraellen, без, его, жизнью, они, опорная, боги, демоны, исчезли, никуда, остаётся, получили, психологических, рациональным, себя, силам, силы, служит, современный
 
 Excerpt:
@@ -8368,13 +8368,13 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Пробуждение начинается с невозможности продолжать — Russian
+- title: Ashraellen — Пробуждение начинается с невозможности продолжать — Russian — let / go
 - description: Опорная мысль Ashraellen: пробуждение как момент, когда дальше жить прежним способом больше нельзя.
 - canonical: https://www.ashraellen.com/ru/public/thoughts/arcs/0003-let-go.html
 - H1: Пробуждение начинается с невозможности продолжать
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, пробуждение, начинается, public, больше, дальше, момент, мысль, невозможности, нельзя, продолжать, arcs, let, russian, thoughts, вот, выбрано, жить
+- suggested keyword seed: ashraellen, пробуждение, начинается, let, public, больше, дальше, момент, мысль, невозможности, нельзя, продолжать, arcs, russian, thoughts, вот, выбрано, жить
 - candidates: пробуждение, начинается, вот, дальше, мысль, так, момент, нельзя, однажды, себя, ashraellen, больше, всех, образом, опорная, пока, продолжать, более, всё, даже, если, жизни, знаю, иллюзии
 
 Excerpt:
@@ -8385,13 +8385,13 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Конечность пробуждает вопрос — Russian
+- title: Ashraellen — Конечность пробуждает вопрос — Russian — mortality / awakens
 - description: Опорная мысль Ashraellen: философия начинается там, где заканчиваются иллюзии и в сознание входит конечность.
 - canonical: https://www.ashraellen.com/ru/public/thoughts/arcs/0004-mortality-awakens.html
 - H1: Конечность пробуждает вопрос
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, конечность, вопрос, пробуждает, public, заканчиваются, иллюзии, мысль, опорная, философия, arcs, awakens, mortality, russian, thoughts, входит, выбрано, где
+- suggested keyword seed: ashraellen, конечность, вопрос, пробуждает, awakens, mortality, public, заканчиваются, иллюзии, мысль, опорная, философия, arcs, russian, thoughts, входит, выбрано, где
 - candidates: мысль, когда, конечность, вопрос, тогда, ashraellen, думать, заканчиваются, иллюзии, опорная, пробуждает, философия, больше, болью, входит, где, истина, многие, настоящий, начинается, начинают, них, открывается, потому
 
 Excerpt:
@@ -8402,13 +8402,13 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Страх как механизм контроля — Russian
+- title: Ashraellen — Страх как механизм контроля — Russian — your / own
 - description: Опорная мысль Ashraellen: там, где человек перестаёт бояться и начинает мыслить самостоятельно, ослабевает власть старых систем.
 - canonical: https://www.ashraellen.com/ru/public/thoughts/arcs/0005-on-your-own.html
 - H1: Страх как механизм контроля
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, контроля, механизм, страх, public, бояться, власть, где, мыслить, мысль, начинает, самостоятельно, человек, arcs, own, russian, thoughts, your
+- suggested keyword seed: ashraellen, контроля, механизм, страх, own, public, your, бояться, власть, где, мыслить, мысль, начинает, самостоятельно, человек, arcs, russian, thoughts
 - candidates: мысль, человек, мыслить, самостоятельно, страх, ashraellen, бояться, власть, где, контроля, механизм, начинает, опорная, ослабевает, перестаёт, смерти, там, человеку, больше, всё, делать, если, зависимости, запрет
 
 Excerpt:
@@ -8419,14 +8419,14 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Глубокий взгляд собирает жизнь — Russian
+- title: Ashraellen — Глубокий взгляд собирает жизнь — Russian — arcs / insight
 - description: Опорная мысль Ashraellen: глубокий взгляд собирает жизнь, превращая ошибки и страдания в цепь понимания.
 - canonical: https://www.ashraellen.com/ru/public/thoughts/arcs/0006-insight.html
 - H1: Глубокий взгляд собирает жизнь
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, взгляд, глубокий, жизнь, собирает, public, мысль, страдания, arcs, insight, russian, thoughts, без, видеть, выбрано, глубже, заметка, исследовательская
-- candidates: видеть, жизнь, начинает, человек, без, мысль, собирает, страдания, ashraellen, взгляд, глубже, глубокий, когда, опорная, ошибки, пониманию, боли, видимого, делает, жизни, начинается, она, перестаёт, последствий
+- suggested keyword seed: ashraellen, взгляд, глубокий, жизнь, собирает, arcs, insight, public, мысль, страдания, russian, thoughts, без, видеть, выбрано, глубже, заметка, исследовательская
+- candidates: видеть, жизнь, начинает, человек, без, мысль, собирает, страдания, ashraellen, взгляд, глубже, глубокий, когда, опорная, ошибки, пониманию, insight, боли, видимого, делает, жизни, начинается, она, перестаёт
 
 Excerpt:
 
