@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-06-30T14:39:57.069Z
-Pages: 551
+Generated: 2026-06-30T20:18:01.301Z
+Pages: 552
 
 ## Index
 
@@ -23,10 +23,11 @@ Pages: 551
 | be/public/posts/essay/cycles/cycle-0001.html | be | public | Ashraellen — Першы цыкл міні-эсэ | ashraellen, public, posts, essay, cycles, cycle, 0001, першы, цыкл, міні-эсэ, па-беларуску, увага, цела, мінулае, першага, цыклу, улада, над | першы, цыкл, міні-эсэ, над, мінулае, цела, ashraellen, але, думкай, public, дзверы, мэта, першага, першыя, тлумачэнне, увагай, улада, цыклу |
 | be/public/posts/essay/cycles/index.html | be | public | Ashraellen — Цыклы міні-эсэ | ashraellen, public, posts, essay, cycles, цыклы, міні-эсэ, па-беларуску, завершаныя, сэнсавыя, зрэзы, бягучыя, разборы, doctype, html, title, function, const | цыклы, ashraellen, міні-эсэ, завершаныя, public, cycle, cycles, essay, mark, posts, presence, асноўнай, бягучы, бягучыя, зрэзы, па-беларуску, разборы, раздзела |
 | be/public/posts/essay/index.html | be | public | Ashraellen — Міні-эсэ | ashraellen, public, posts, essay, міні-эсэ, па-беларуску, адзін, пытанне, вугал, гледжання, адна, выснова, першы, цыкл, улада, над, думкай, увагай | міні-эсэ, ashraellen, public, адзін, але, думкай, мінулае, над, цела, essay, posts, або, адна, быць, вугал, выснова, гледжання, дзверы |
-| be/public/posts/formula/index.html | be | public | Ashraellen — Формулы — Belarusian | ashraellen, public, posts, formula, формулы, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | ashraellen, public, belarusian, формулы, archive, artistic, literary, multilingual, part, research, work, formula, posts |
+| be/public/posts/formula/index.html | be | public | Ashraellen — Шлях, дзеянне, рытм | Ashraellen, Формулы, Шлях, дзеянне, рытм, шлях / дзеянне / рытм, лінія 0004 | ashraellen, дзеянне, рытм, шлях, public, думкі, кароткія, формы, formula, posts, актуальная, дзень, заўсёды, знаходзіць, лінія, меру, пра, рух |
+| be/public/posts/formula/lines/index-31.html | be | public | Ashraellen — Межы, мера, свая форма | Ashraellen, Формулы, Межы, мера, свая форма, мяжа / мера / форма, лінія 0003 | ashraellen, межы, public, лінія, мера, пра, форма, формулы, formula, index, lines, posts, адзінота, актуальная, вяртанне, думкі, калі, кароткія |
 | be/public/posts/formula/lines/index.html | be | public | Ashraellen — Лінія формул — Belarusian | ashraellen, public, posts, formula, lines, лінія, формул, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, be, public, posts, formula, lines | ashraellen, public, belarusian, лінія, формул, archive, artistic, literary, multilingual, part, research, work, formula, lines, posts |
-| be/public/posts/formula/lines/line-0001.html | be | public | Ashraellen — Лінія 0001 — Belarusian | ashraellen, public, posts, formula, lines, line, 0001, лінія, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, be, public, posts, formula, lines, line, 0001 | ashraellen, public, 0001, belarusian, лінія, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts |
-| be/public/posts/formula/lines/line-0002.html | be | public | Ashraellen — Лінія 0002 — Belarusian | ashraellen, public, posts, formula, lines, line, 0002, лінія, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, be, public, posts, formula, lines, line, 0002 | ashraellen, public, 0002, belarusian, лінія, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts |
+| be/public/posts/formula/lines/line-0001.html | be | public | Ashraellen — Думка, увага, цела, мінулае | Ashraellen, Формулы, Думка, увага, цела, мінулае, думка / увага / цела / мінулае, лінія 0001 | ashraellen, мінулае, цела, думка, увага, public, думку, лінія, увагу, formula, line, lines, posts, актуальная, архіўная, кароткія, лініі, назірання |
+| be/public/posts/formula/lines/line-0002.html | be | public | Ashraellen — Слова, маўчанне, сэнс | Ashraellen, Формулы, Слова, маўчанне, сэнс, слова / маўчанне / сэнс, лінія 0002 | ashraellen, маўчанне, слова, сэнс, public, архіўная, лінія, пра, formula, line, lines, posts, актуальная, дакладнасць, калі, кароткія, лініі, месца |
 | be/public/posts/fragment/index.html | be | public | Ashraellen — Фрагменты — Belarusian | ashraellen, public, posts, fragment, фрагменты, па-беларуску, раздзел, які, рыхтуецца, аснове, вялікага, архіва, рукапісаў, нататак, публікацый, doctype, html, title | ashraellen, фрагменты, раздзел, рыхтуецца, public, архіва, нататак, публікацый, рукапісаў, belarusian, fragment, posts, архіў, аснове, вялікага, па-беларуску, рабочых, тут |
 | be/public/posts/index.html | be | public | Ashraellen — Публікацыі | ashraellen, public, posts, публікацыі, па-беларуску, кароткія, формы, назірання, формулы, фрагменты, міні-эсэ, раздзелы, doctype, html, title, function, const, isgithub | ashraellen, публікацыі, public, кароткія, міні-эсэ, назірання, формулы, формы, фрагменты, essay, formula, fragment, posts, па-беларуску, раздзелы, чытаць |
 | be/public/posts/sources/index.html | be | public | Ashraellen — Крыніцы перанесены | ashraellen, public, posts, sources, крыніцы, перанесены, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean | крыніцы, перанесены, ashraellen, public, адкрыць, аснова, даследавання, кагнітыўная, мастацкая, метадалагічная, навука, належаць, наратыў, праекта, posts, sources, практыка, раздзела |
@@ -81,10 +82,10 @@ Pages: 551
 | de/public/posts/essay/cycles/cycle-0001.html | de | public | Ashraellen — Erster Mini-Essay-Zyklus | ashraellen, public, posts, essay, cycles, cycle, 0001, erster, mini-essay-zyklus, zyklus, macht, nicht, über, den, gedanken, sondern, die, aufmerksamkeit | die, erster, ist, nicht, zyklus, der, über, das, erste, körper, vergangenheit, aber, ashraellen, aufmerksamkeit, den, deutung, gedanken, ihre |
 | de/public/posts/essay/cycles/index.html | de | public | Ashraellen — Mini-Essay-Zyklen | ashraellen, public, posts, essay, cycles, mini-essay-zyklen, abgeschlossene, zyklen, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | abgeschlossene, mini-essay-zyklen, zyklen, der, abschnitts, aktuelle, ashraellen, auf, befindet, des, gesammelt, hauptseite, public, zyklus, cycles, essay, hier, mini-essays |
 | de/public/posts/essay/index.html | de | public | Ashraellen — Mini-Essays — German | ashraellen, public, posts, essay, mini-essays, erster, zyklus, macht, nicht, über, den, gedanken, sondern, die, aufmerksamkeit, der, körper, ist | die, ist, nicht, mini-essays, über, das, der, vergangenheit, aber, ashraellen, aufmerksamkeit, den, deutung, erste, erster, gedanken, ihre, körper |
-| de/public/posts/formula/index.html | de | public | Ashraellen — Formeln | ashraellen, public, posts, formula, formeln, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | ashraellen, public, formeln, archive, artistic, literary, multilingual, part, research, work, formula, posts |
-| de/public/posts/formula/lines/index.html | de | public | Ashraellen — Formellinie | ashraellen, public, posts, formula, lines, formellinie, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean | ashraellen, public, formellinie, archive, artistic, literary, multilingual, part, research, work, formula, lines, posts |
-| de/public/posts/formula/lines/line-0001.html | de | public | Ashraellen — Formellinie 0001 | ashraellen, public, posts, formula, lines, line, 0001, formellinie, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, public, 0001, formellinie, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts |
-| de/public/posts/formula/lines/line-0002.html | de | public | Ashraellen — Formellinie 0002 | ashraellen, public, posts, formula, lines, line, 0002, formellinie, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, public, 0002, formellinie, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts |
+| de/public/posts/formula/index.html | de | public | Ashraellen — Weg, Handlung, Rhythmus | Ashraellen, Formeln, Weg, Handlung, Rhythmus, Weg / Handlung / Rhythmus, Linie 0004 | handlung, rhythmus, weg, ashraellen, public, aktuelle, ashraellen-formellinie, bewegung, denen, denkformen, die, ein, formel, formeln, formula, ihr, immer, ist |
+| de/public/posts/formula/lines/index.html | de | public | Ashraellen — Grenzen, Maß, eigene Form | Ashraellen, Formeln, Grenzen, Maß, eigene Form, Grenze / Maß / Form, Linie 0003 | eigene, form, grenzen, maß, ashraellen, der, grenze, linie, public, über, und, ashraellen-formellinie, denkformen, die, formel, formeln, formula, innere |
+| de/public/posts/formula/lines/line-0001.html | de | public | Ashraellen — Gedanke, Aufmerksamkeit, Körper, Vergangenheit | Ashraellen, Formeln, Gedanke, Aufmerksamkeit, Körper, Vergangenheit, Gedanke / Aufmerksamkeit / Körper / Vergangenheit, Linie 0001 | aufmerksamkeit, gedanke, körper, vergangenheit, ashraellen, der, public, über, und, archivierte, ashraellen-formellinie, beobachtungen, bewegung, das, die, erinnerung, formel, formeln |
+| de/public/posts/formula/lines/line-0002.html | de | public | Ashraellen — Wort, Schweigen, Sinn | Ashraellen, Formeln, Wort, Schweigen, Sinn, Wort / Schweigen / Sinn, Linie 0002 | schweigen, sinn, wort, ashraellen, der, linie, public, über, und, archivierte, ashraellen-formellinie, den, denkformen, ein, formel, formeln, formula, genauigkeit |
 | de/public/posts/fragment/index.html | de | public | Ashraellen — Fragmente | ashraellen, public, posts, fragment, fragmente, von, ein, bereich, der, aus, einem, großen, archiv, handschriftlicher, texte, notizen, und, veröffentlichungen | ashraellen, fragmente, bereich, wird, archiv, aus, der, notizen, public, texte, und, vorbereitet, auszüge, die, dieser, ein, einem, fragment |
 | de/public/posts/index.html | de | public | Ashraellen — Beiträge | ashraellen, public, posts, beiträge, abschnitte, formeln, fragmente, mini-essays, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beiträge, abschnitte, formeln, fragmente, mini-essays, ashraellen, beobachtung, bevor, der, kurze, public, und, ein, einen, fassen, format, formen, gedanken |
 | de/public/posts/sources/index.html | de | public | Ashraellen — Quellen verschoben | ashraellen, public, posts, sources, quellen, verschoben, wurden, neue, adresse, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | quellen, verschoben, neue, wurden, adresse, ashraellen, beiträgen, bilden, den, der, forschung, public, und, des, eine, gehören, grundlage, jetzt |
@@ -144,10 +145,10 @@ Pages: 551
 | en/public/posts/essay/cycles/cycle-0001.html | en | public | Ashraellen — First Mini-Essay Cycle | ashraellen, public, posts, essay, cycles, cycle, 0001, first, mini-essay, power, over, thought, attention, body, door, goal, past, its | first, cycle, attention, body, over, past, thought, ashraellen, door, goal, interpretation, its, power, public, become, becomes, begins, completed |
 | en/public/posts/essay/cycles/index.html | en | public | Ashraellen — Mini-Essay Cycles | ashraellen, public, posts, essay, cycles, mini-essay, completed, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | cycles, completed, mini-essay, cycle, ashraellen, current, first, gathered, here, main, mini-essays, public, section, essay, posts |
 | en/public/posts/essay/index.html | en | public | Ashraellen — Mini-Essays — English | ashraellen, public, posts, essay, mini-essays, first, cycle, power, over, thought, attention, body, door, goal, past, its, interpretation, doctype | first, mini-essays, one, over, attention, body, past, thought, ashraellen, cycle, door, goal, interpretation, its, power, public, angle, become |
-| en/public/posts/formula/index.html | en | public | Ashraellen — Path, Action, Rhythm | ashraellen, public, posts, formula, path, action, rhythm, current, line, short, forms, thought, where, movement, learns, its, measure, doctype | ashraellen, action, formula, path, rhythm, current, forms, its, learns, line, measure, movement, public, posts, short, thought, where |
-| en/public/posts/formula/lines/index.html | en | public | Ashraellen — Boundaries, Measure, Form | ashraellen, public, posts, formula, lines, boundaries, measure, form, line, concise, thoughts, inner, permission, rhythm, one’s, own, shape, doctype | ashraellen, boundaries, form, formula, measure, concise, inner, line, one’s, own, permission, public, rhythm, lines, posts, shape, thoughts |
-| en/public/posts/formula/lines/line-0001.html | en | public | Ashraellen — Thought, Attention, Body, Past | ashraellen, public, posts, formula, lines, line, 0001, thought, attention, body, past, remembered, one, precise, inner, turn, doctype, html | ashraellen, line, attention, body, formula, one, past, thought, 0001, inner, precise, public, remembered, lines, posts, turn |
-| en/public/posts/formula/lines/line-0002.html | en | public | Ashraellen — Word, Silence, Meaning | ashraellen, public, posts, formula, lines, line, 0002, word, silence, meaning, short, forms, where, language, stops, performing, begins, listen | ashraellen, formula, line, meaning, silence, word, 0002, begins, forms, language, listen, performing, public, lines, posts, short, stops, where |
+| en/public/posts/formula/index.html | en | public | Ashraellen — Path, Action, Rhythm | Ashraellen, Formulas, Path, Action, Rhythm, path / action / rhythm, line 0004 | action, ashraellen, path, rhythm, formula, line, public, always, current, does, every, forms, formulas, its, learns, measure, movement, posts |
+| en/public/posts/formula/lines/index.html | en | public | Ashraellen — Boundaries, Measure, Form | Ashraellen, Formulas, Boundaries, Measure, Form, boundary / measure / form, line 0003 | boundaries, form, measure, ashraellen, formula, line, public, another, become, boundary, does, forms, formulas, inner, limits, lines, posts, rhythm |
+| en/public/posts/formula/lines/line-0001.html | en | public | Ashraellen — Thought, Attention, Body, Past | Ashraellen, Formulas, Thought, Attention, Body, Past, thought / attention / body / past, line 0001 | ashraellen, attention, body, line, past, thought, formula, archived, public, awareness, command, first, forms, formulas, inner, lines, memory, movement |
+| en/public/posts/formula/lines/line-0002.html | en | public | Ashraellen — Word, Silence, Meaning | Ashraellen, Formulas, Word, Silence, Meaning, word / silence / meaning, line 0002 | ashraellen, line, meaning, silence, word, formula, archived, language, public, thought, can, forms, formulas, lines, listening, place, posts, precision |
 | en/public/posts/fragment/index.html | en | public | Ashraellen — Fragments — English | ashraellen, public, posts, fragment, fragments, section, being, prepared, large, archive, handwritten, texts, notes, publications, accumulated, over, many, years | ashraellen, fragments, being, accumulated, archive, handwritten, large, notes, prepared, public, section, texts, work, english, excerpts, fragment, here, many |
 | en/public/posts/index.html | en | public | Ashraellen — Posts | ashraellen, public, posts, sections, formulas, fragments, mini-essays, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | posts, sections, formulas, fragments, mini-essays, ashraellen, become, before, catching, choose, different, public, thought, forms, has, lecture, observation, read |
 | en/public/posts/sources/index.html | en | public | Ashraellen — Sources Moved | ashraellen, public, posts, sources, moved, have, new, location, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sources, moved, have, location, new, ashraellen, part, public, research, belong, foundation, longer, methodological, posts, now, open, project, section |
@@ -202,10 +203,10 @@ Pages: 551
 | es/public/posts/essay/cycles/cycle-0001.html | es | public | Ashraellen — Primer ciclo de mini-ensayos | ashraellen, public, posts, essay, cycles, cycle, 0001, primer, ciclo, mini-ensayos, poder, sobre, pensamiento, sino, atención, cuerpo, primera, puerta | ciclo, primer, sobre, cuerpo, pasado, pensamiento, pero, ashraellen, atención, interpretación, objetivo, poder, primera, public, puerta, sino, como, completado |
 | es/public/posts/essay/cycles/index.html | es | public | Ashraellen — Ciclos de mini-ensayos | ashraellen, public, posts, essay, cycles, ciclos, mini-ensayos, completados, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ciclos, mini-ensayos, completados, ciclo, actual, aquí, ashraellen, encuentra, los, página, principal, public, reúnen, cycles, essay, posts, primer, sección |
 | es/public/posts/essay/index.html | es | public | Ashraellen — Mini-Ensayos | ashraellen, public, posts, essay, mini-ensayos, primer, ciclo, poder, sobre, pensamiento, sino, atención, cuerpo, primera, puerta, pero, objetivo, pasado | mini-ensayos, sobre, cuerpo, pasado, pensamiento, pero, sino, ashraellen, atención, ciclo, interpretación, objetivo, poder, primer, primera, public, puerta, una |
-| es/public/posts/formula/index.html | es | public | Ashraellen — Fórmulas — Spanish | ashraellen, public, posts, formula, fórmulas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, es, public, posts, formula | ashraellen, public, fórmulas, spanish, archive, artistic, literary, multilingual, part, research, work, formula, posts |
-| es/public/posts/formula/lines/index.html | es | public | Ashraellen — Línea de fórmulas | ashraellen, public, posts, formula, lines, línea, fórmulas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | ashraellen, public, fórmulas, línea, archive, artistic, literary, multilingual, part, research, work, formula, lines, posts |
-| es/public/posts/formula/lines/line-0001.html | es | public | Ashraellen — Línea 0001 | ashraellen, public, posts, formula, lines, line, 0001, línea, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, public, 0001, línea, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts |
-| es/public/posts/formula/lines/line-0002.html | es | public | Ashraellen — Línea 0002 | ashraellen, public, posts, formula, lines, line, 0002, línea, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, public, 0002, línea, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts |
+| es/public/posts/formula/index.html | es | public | Ashraellen — Camino, acción, ritmo | Ashraellen, Fórmulas, Camino, acción, ritmo, camino / acción / ritmo, línea 0004 | acción, ashraellen, camino, ritmo, breves, fórmulas, línea, public, actual, aprende, con, donde, formas, formula, fórmula, medida, movimiento, pensamiento |
+| es/public/posts/formula/lines/index.html | es | public | Ashraellen — Límites, medida, forma propia | Ashraellen, Fórmulas, Límites, medida, forma propia, límite / medida / forma, línea 0003 | forma, límites, medida, propia, ashraellen, fórmulas, línea, mismo, public, sobre, actual, breves, cuando, formas, formula, fórmula, límite, lines |
+| es/public/posts/formula/lines/line-0001.html | es | public | Ashraellen — Pensamiento, atención, cuerpo, pasado | Ashraellen, Fórmulas, Pensamiento, atención, cuerpo, pasado, pensamiento / atención / cuerpo / pasado, línea 0001 | atención, cuerpo, pasado, pensamiento, ashraellen, fórmulas, línea, public, archivada, breves, empieza, formas, formula, fórmula, line, lines, memoria, observación |
+| es/public/posts/formula/lines/line-0002.html | es | public | Ashraellen — Palabra, silencio, sentido | Ashraellen, Fórmulas, Palabra, silencio, sentido, palabra / silencio / sentido, línea 0002 | palabra, sentido, silencio, ashraellen, fórmulas, línea, lenguaje, public, sobre, archivada, breves, con, cuando, escucha, formas, formula, fórmula, line |
 | es/public/posts/fragment/index.html | es | public | Ashraellen — Fragmentos — Spanish | ashraellen, public, posts, fragment, fragmentos, sección, preparada, partir, gran, archivo, manuscritos, notas, publicaciones, acumulados, durante, muchos, años, trabajo | ashraellen, fragmentos, acumulados, años, archivo, durante, notas, public, sección, trabajo, aquí, del, extractos, fragment, gran, manuscritos, muchos, partir |
 | es/public/posts/index.html | es | public | Ashraellen — Publicaciones | ashraellen, public, posts, publicaciones, secciones, fórmulas, fragmentos, mini-ensayos, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | publicaciones, fórmulas, fragmentos, mini-ensayos, alcance, antes, ashraellen, atrapar, breves, convertirse, distintas, formas, public, secciones, idea, leer, maneras, observación |
 | es/public/posts/sources/index.html | es | public | Ashraellen — Fuentes trasladadas | ashraellen, public, posts, sources, fuentes, trasladadas, las, han, sido, nueva, dirección, doctype, html, title, function, const, isgithub, location.hostname.endswith | fuentes, las, trasladadas, han, sido, ashraellen, dirección, ahora, como, del, forman, investigación, nueva, public, fundamento, metodológico, parte, pertenecen |
@@ -262,10 +263,10 @@ Pages: 551
 | fr/public/posts/essay/cycles/cycle-0001.html | fr | public | Ashraellen — Premier cycle de mini-essais | ashraellen, public, posts, essay, cycles, cycle, 0001, premier, mini-essais, pouvoir, non, sur, pensée, mais, l’attention, corps, est, première | cycle, premier, est, mais, non, sur, corps, passé, pensée, ashraellen, interprétation, l’attention, mini-essais, porte, pouvoir, première, public, son |
 | fr/public/posts/essay/cycles/index.html | fr | public | Ashraellen — Cycles de mini-essais | ashraellen, public, posts, essay, cycles, mini-essais, achevés, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | cycles, mini-essais, achevés, actuel, cycle, ashraellen, ici, les, principale, public, rassemblés, section, sont, essay, posts, premier, sur, trouve |
 | fr/public/posts/essay/index.html | fr | public | Ashraellen — Mini-essais | ashraellen, public, posts, essay, mini-essais, premier, cycle, pouvoir, non, sur, pensée, mais, l’attention, corps, est, première, porte, passé | est, mais, mini-essais, non, sur, corps, passé, pensée, ashraellen, cycle, interprétation, l’attention, porte, pouvoir, premier, première, public, son |
-| fr/public/posts/formula/index.html | fr | public | Ashraellen — Formules | ashraellen, public, posts, formula, formules, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | ashraellen, public, formules, archive, artistic, literary, multilingual, part, research, work, formula, posts |
-| fr/public/posts/formula/lines/index.html | fr | public | Ashraellen — Ligne de formules | ashraellen, public, posts, formula, lines, ligne, formules, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | ashraellen, public, formules, ligne, archive, artistic, literary, multilingual, part, research, work, formula, lines, posts |
-| fr/public/posts/formula/lines/line-0001.html | fr | public | Ashraellen — Ligne 0001 | ashraellen, public, posts, formula, lines, line, 0001, ligne, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, public, 0001, ligne, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts |
-| fr/public/posts/formula/lines/line-0002.html | fr | public | Ashraellen — Ligne 0002 | ashraellen, public, posts, formula, lines, line, 0002, ligne, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, public, 0002, ligne, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts |
+| fr/public/posts/formula/index.html | fr | public | Ashraellen — Chemin, action, rythme | Ashraellen, Formules, Chemin, action, rythme, chemin / action / rythme, ligne 0004 | chemin, rythme, action, ashraellen, formules, ligne, public, actuelle, apprend, brèves, elle, formes, formula, formule, l’action, mesure, mouvement, n’est |
+| fr/public/posts/formula/lines/index.html | fr | public | Ashraellen — Limites, mesure, forme propre | Ashraellen, Formules, Limites, mesure, forme propre, limite / mesure / forme, ligne 0003 | forme, limites, mesure, propre, ashraellen, formules, ligne, public, sur, besoin, brèves, cesse, formes, formula, formule, les, limite, lines |
+| fr/public/posts/formula/lines/line-0001.html | fr | public | Ashraellen — Pensée, attention, corps, passé | Ashraellen, Formules, Pensée, attention, corps, passé, pensée / attention / corps / passé, ligne 0001 | corps, passé, pensée, ashraellen, attention, ligne, formules, public, archivée, brèves, c’est, commence, d’observation, formes, formula, formule, l’attention, line |
+| fr/public/posts/formula/lines/line-0002.html | fr | public | Ashraellen — Mot, silence, sens | Ashraellen, Formules, Mot, silence, sens, mot / silence / sens, ligne 0002 | mot, sens, silence, ashraellen, formules, ligne, langue, public, sur, archivée, brèves, encore, formes, formula, formule, l’écoute, line, lines |
 | fr/public/posts/fragment/index.html | fr | public | Ashraellen — Fragments — French | ashraellen, public, posts, fragment, fragments, section, préparée, partir, d’un, vaste, ensemble, manuscrits, notes, publications, accumulés, pendant, nombreuses, années | ashraellen, fragments, accumulés, années, ensemble, manuscrits, notes, public, section, travail, archive, d’un, extraits, fragment, french, ici, nombreuses, partir |
 | fr/public/posts/index.html | fr | public | Ashraellen — Publications | ashraellen, public, posts, publications, sections, formules, fragments, mini-essais, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | publications, formules, fragments, mini-essais, une, ait, ashraellen, avant, brèves, d’observation, devenir, pensée, public, sections, différentes, formes, lire, manières |
 | fr/public/posts/sources/index.html | fr | public | Ashraellen — Sources déplacées | ashraellen, public, posts, sources, déplacées, les, ont, été, nouvelle, adresse, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io | sources, déplacées, les, été, ont, adresse, ashraellen, comme, des, désormais, elles, nouvelle, public, recherche, fondement, font, méthodologique, partie |
@@ -328,10 +329,10 @@ Pages: 551
 | pl/public/posts/essay/cycles/cycle-0001.html | pl | public | Ashraellen — Pierwszy cykl mini-esejów | ashraellen, public, posts, essay, cycles, cycle, 0001, pierwszy, cykl, mini-esejów, władza, nie, nad, myślą, lecz, uwagą, ciało, pierwszymi | cykl, pierwszy, nie, ciało, nad, ale, lecz, myślą, przeszłość, ashraellen, celem, drzwiami, interpretacją, jej, mini-esejów, pierwszymi, public, uwagą |
 | pl/public/posts/essay/cycles/index.html | pl | public | Ashraellen — Cykle mini-esejów | ashraellen, public, posts, essay, cycles, cykle, mini-esejów, zakończone, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | cykle, mini-esejów, zakończone, cykl, pierwszy, aktualnego, aktualny, ashraellen, cyklu, działu, głównej, public, się, stronie, cycles, essay, posts, tutaj |
 | pl/public/posts/essay/index.html | pl | public | Ashraellen — Mini-eseje | ashraellen, public, posts, essay, mini-eseje, pierwszy, cykl, władza, nie, nad, myślą, lecz, uwagą, ciało, pierwszymi, drzwiami, ale, celem | nie, mini-eseje, nad, ale, ciało, jej, lecz, myślą, ashraellen, celem, cykl, drzwiami, interpretacją, jeden, pierwszy, pierwszymi, przeszłość, public |
-| pl/public/posts/formula/index.html | pl | public | Ashraellen — Droga, działanie, rytm | ashraellen, public, posts, formula, droga, działanie, rytm, aktualna, linia, formuł, drodze, działaniu, rytmie, krótkie, myśli, ruchu, który, dojrzewa | ashraellen, aktualna, dojrzewa, drodze, droga, działanie, działaniu, formuł, krótkie, który, linia, miary, public, formula, myśli, posts, ruchu, rytm |
-| pl/public/posts/formula/lines/index.html | pl | public | Ashraellen — Granice, miara, własna forma | ashraellen, public, posts, formula, lines, granice, miara, własna, forma, linia, formuł, granicach, mierze, własnej, formie, zwięzłe, myśli, zgodzie | ashraellen, cichym, forma, formie, formuł, granicach, granice, istnienia, linia, miara, mierze, myśli, public, formula, lines, posts, prawie, sobą |
-| pl/public/posts/formula/lines/line-0001.html | pl | public | Ashraellen — Myśl, uwaga, ciało, przeszłość | ashraellen, public, posts, formula, lines, line, 0001, myśl, uwaga, ciało, przeszłość, linia, formuł, myśli, uwadze, ciele, zapamiętanej, przeszłości | ashraellen, linia, 0001, ciało, ciele, formuł, jeden, jedna, myśl, myśli, precyzyjny, przeszłość, public, formula, line, lines, posts, przeszłości |
-| pl/public/posts/formula/lines/line-0002.html | pl | public | Ashraellen — Słowo, milczenie, sens | ashraellen, public, posts, formula, lines, line, 0002, słowo, milczenie, sens, linia, formuł, słowie, milczeniu, sensie, krótkie, formy, których | ashraellen, 0002, formuł, formy, grać, język, krótkie, których, linia, milczenie, milczeniu, przestaje, public, formula, line, lines, posts, sens |
+| pl/public/posts/formula/index.html | pl | public | Ashraellen — Droga, działanie, rytm | Ashraellen, Formuły, Droga, działanie, rytm, droga / działanie / rytm, linia 0004 | ashraellen, droga, działanie, rytm, formy, linia, public, się, aktualna, bez, czasem, drodze, działaniu, formuł, formula, formuła, formuły, krótkie |
+| pl/public/posts/formula/lines/index.html | pl | public | Ashraellen — Granice, miara, własna forma | Ashraellen, Formuły, Granice, miara, własna forma, granica / miara / forma, linia 0003 | ashraellen, forma, miara, własna, granice, linia, public, aktualna, formie, formuł, formula, formuła, formuły, formy, gdy, granica, granicach, krótkie |
+| pl/public/posts/formula/lines/line-0001.html | pl | public | Ashraellen — Myśl, uwaga, ciało, przeszłość | Ashraellen, Formuły, Myśl, uwaga, ciało, przeszłość, myśl / uwaga / ciało / przeszłość, linia 0001 | ashraellen, ciało, myśl, przeszłość, uwaga, public, 261, 263, 281, 322, 347, 380, archiwalna, ciele, formuł, formula, formuła, formuły |
+| pl/public/posts/formula/lines/line-0002.html | pl | public | Ashraellen — Słowo, milczenie, sens | Ashraellen, Formuły, Słowo, milczenie, sens, słowo / milczenie / sens, linia 0002 | ashraellen, milczenie, sens, słowo, archiwalna, linia, public, aktualna, formuł, formula, formuła, formuły, formy, gdy, jeszcze, języku, krótkie, line |
 | pl/public/posts/fragment/index.html | pl | public | Ashraellen — Fragmenty | ashraellen, public, posts, fragment, fragmenty, dział, przygotowywany, podstawie, dużego, archiwum, rękopisów, notatek, publikacji, gromadzonych, przez, wiele, lat, pracy | ashraellen, fragmenty, dział, przygotowywany, archiwum, lat, notatek, pracy, przez, public, publikacji, rękopisów, dużego, fragment, gromadzonych, podstawie, posts, roboczych |
 | pl/public/posts/index.html | pl | public | Ashraellen — Publikacje | ashraellen, public, posts, publikacje, działy, formuły, fragmenty, mini-eseje, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | publikacje, działy, formuły, fragmenty, mini-eseje, ashraellen, format, formula, formy, krótkie, myśli, obserwacji, public, czytaj, posts, różne, się, sposoby |
 | pl/public/posts/sources/index.html | pl | public | Ashraellen — Źródła przeniesione | ashraellen, public, posts, sources, źródła, przeniesione, zostały, nowy, adres, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | źródła, przeniesione, adres, nowy, zostały, ashraellen, badań, badania, częścią, działu, fundament, jako, public, już, metodologiczny, należą, nie, otwórz |
@@ -387,10 +388,10 @@ Pages: 551
 | pt/public/posts/essay/cycles/cycle-0001.html | pt | public | Ashraellen — Primeiro ciclo de mini-ensaios | ashraellen, public, posts, essay, cycles, cycle, 0001, primeiro, ciclo, mini-ensaios, poder, não, sobre, pensamento, mas, atenção, corpo, primeira | ciclo, primeiro, mas, não, sobre, corpo, passado, pensamento, ashraellen, atenção, interpretação, mini-ensaios, objetivo, poder, porta, primeira, public, sua |
 | pt/public/posts/essay/cycles/index.html | pt | public | Ashraellen — Ciclos de mini-ensaios | ashraellen, public, posts, essay, cycles, ciclos, mini-ensaios, concluídos, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ciclos, mini-ensaios, concluídos, atual, ciclo, aqui, ashraellen, estão, fica, página, para, primeiro, principal, public, cycles, essay, posts, reunidos |
 | pt/public/posts/essay/index.html | pt | public | Ashraellen — Mini-ensaios | ashraellen, public, posts, essay, mini-ensaios, primeiro, ciclo, poder, não, sobre, pensamento, mas, atenção, corpo, primeira, porta, objetivo, passado | mas, não, mini-ensaios, sobre, corpo, passado, pensamento, ashraellen, atenção, ciclo, interpretação, objetivo, poder, porta, primeira, primeiro, public, sua |
-| pt/public/posts/formula/index.html | pt | public | Ashraellen — Fórmulas — PT — posts / formula | ashraellen, public, posts, formula, fórmulas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, pt, public, posts, formula | ashraellen, public, formula, posts, fórmulas, archive, artistic, context, literary, multilingual, part, research, work |
-| pt/public/posts/formula/lines/index.html | pt | public | Ashraellen — Fórmulas — PT — formula / lines | ashraellen, public, posts, formula, lines, fórmulas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean | ashraellen, public, formula, lines, fórmulas, posts, archive, artistic, context, literary, multilingual, part, research, work |
-| pt/public/posts/formula/lines/line-0001.html | pt | public | Ashraellen — Linha 0001 | ashraellen, public, posts, formula, lines, line, 0001, linha, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, public, 0001, linha, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts |
-| pt/public/posts/formula/lines/line-0002.html | pt | public | Ashraellen — Linha 0002 | ashraellen, public, posts, formula, lines, line, 0002, linha, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, public, 0002, linha, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts |
+| pt/public/posts/formula/index.html | pt | public | Ashraellen — Caminho, ação, ritmo | Ashraellen, Fórmulas, Caminho, ação, ritmo, caminho / ação / ritmo, linha 0004 | ação, caminho, ritmo, ashraellen, fórmulas, linha, public, aprende, atual, breves, com, formas, formula, fórmula, mais, medida, movimento, não |
+| pt/public/posts/formula/lines/index.html | pt | public | Ashraellen — Limites, medida, forma própria | Ashraellen, Fórmulas, Limites, medida, forma própria, limite / medida / forma, linha 0003 | forma, limites, medida, própria, ashraellen, fórmulas, linha, public, sobre, breves, formas, formula, fórmula, limite, lines, não, pensamento, posts |
+| pt/public/posts/formula/lines/line-0001.html | pt | public | Ashraellen — Pensamento, atenção, corpo, passado | Ashraellen, Fórmulas, Pensamento, atenção, corpo, passado, pensamento / atenção / corpo / passado, linha 0001 | atenção, corpo, passado, pensamento, ashraellen, fórmulas, linha, public, apenas, arquivada, breves, começa, formas, formula, fórmula, line, lines, memória |
+| pt/public/posts/formula/lines/line-0002.html | pt | public | Ashraellen — Palavra, silêncio, sentido | Ashraellen, Fórmulas, Palavra, silêncio, sentido, palavra / silêncio / sentido, linha 0002 | palavra, sentido, silêncio, ashraellen, fórmulas, linha, linguagem, public, sobre, ainda, arquivada, breves, escuta, formas, formula, fórmula, line, lines |
 | pt/public/posts/fragment/index.html | pt | public | Ashraellen — Fragmentos — PT | ashraellen, public, posts, fragment, fragmentos, seção, preparada, partir, grande, arquivo, manuscritos, notas, publicações, acumulados, longo, muitos, anos, trabalho | ashraellen, fragmentos, acumulados, anos, arquivo, grande, longo, manuscritos, notas, public, seção, trabalho, aqui, fragment, muitos, partir, posts, preparação |
 | pt/public/posts/index.html | pt | public | Ashraellen — Publicações | ashraellen, public, posts, publicações, seções, fórmulas, fragmentos, mini-ensaios, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | publicações, fórmulas, fragmentos, mini-ensaios, antes, ashraellen, breves, capturar, diferentes, ele, formas, pensamento, public, seções, ler, maneiras, observação, posts |
 | pt/public/posts/sources/index.html | pt | public | Ashraellen — Fontes transferidas | ashraellen, public, posts, sources, fontes, transferidas, foram, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | fontes, transferidas, foram, abrir, agora, ashraellen, base, ciência, como, corpo, fazem, fenomenologia, metodológica, public, narrativa, parte, pesquisa, posts |
@@ -450,10 +451,10 @@ Pages: 551
 | ru/public/posts/essay/cycles/cycle-0001.html | ru | public | Ashraellen — Первый цикл мини-эссе | ashraellen, public, posts, essay, cycles, cycle, 0001, первый, цикл, мини-эссе, первого, цикла, власть, над, мыслью, вниманием, тело, первая | первый, цикл, мини-эссе, над, прошлое, тело, его, мыслью, ashraellen, public, власть, вниманием, дверь, первая, первого, толкование, цель, цикла |
 | ru/public/posts/essay/cycles/index.html | ru | public | Ashraellen — Циклы мини-эссе | ashraellen, public, posts, essay, cycles, циклы, мини-эссе, завершённые, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | циклы, мини-эссе, завершённые, цикл, ashraellen, public, девяти, здесь, каждый, находится, основной, раздела, смысловых, текущий, cycles, essay, posts, собраны |
 | ru/public/posts/essay/index.html | ru | public | Ashraellen — Мини-эссе | ashraellen, public, posts, essay, мини-эссе, первый, цикл, власть, над, мыслью, вниманием, тело, первая, дверь, цель, прошлое, его, толкование | мини-эссе, над, один, его, мыслью, прошлое, тело, ashraellen, public, без, власть, вниманием, дверь, первая, первый, толкование, цель, цикл |
-| ru/public/posts/formula/index.html | ru | public | Ashraellen — Формулы — Russian | ashraellen, public, posts, formula, формулы, четвёртая, линия, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | линия, формулы, путь, четвёртая, ashraellen, public, следующая, формула, шаг, formula, posts, russian, верность, время, всегда, иногда, лаконичные, мысль |
-| ru/public/posts/formula/lines/index.html | ru | public | Ashraellen — Третья линия формул | ashraellen, public, posts, formula, lines, третья, линия, формул, границы, мера, своя, форма, формулы, линии, doctype, html, title, function | линия, мера, своя, форма, граница, границы, линии, право, формулы, ashraellen, public, быть, где, перестаёт, своё, третья, формул, формула |
-| ru/public/posts/formula/lines/line-0001.html | ru | public | Ashraellen — Первая линия формул | ashraellen, public, posts, formula, lines, line, 0001, первая, линия, формул, мысль, внимание, тело, прошлое, формулы, линии, doctype, html | мысль, внимание, линия, прошлое, тело, линии, первая, формулы, ashraellen, public, актуальная, формул, формула, человек, formula, line, lines, posts |
-| ru/public/posts/formula/lines/line-0002.html | ru | public | Ashraellen — Вторая линия формул | ashraellen, public, posts, formula, lines, line, 0002, вторая, линия, формул, слово, молчание, смысл, формулы, линии, doctype, html, title | слово, линии, линия, молчание, смысл, вторая, формулы, ashraellen, public, актуальная, когда, формул, формула, formula, line, lines, posts, архивная |
+| ru/public/posts/formula/index.html | ru | public | Ashraellen — Путь, действие, ритм | Ashraellen, Формулы, Путь, действие, ритм, путь / действие / ритм, линия 0004 | ashraellen, действие, путь, ритм, public, линия, formula, posts, актуальная, быстро, всегда, где, движение, действии, иногда, короткие, лишнего, мере |
+| ru/public/posts/formula/lines/index.html | ru | public | Ashraellen — Границы, мера, своя форма | Ashraellen, Формулы, Границы, мера, своя форма, граница / мера / форма, линия 0003 | ashraellen, мера, своя, форма, public, границы, линия, formula, lines, posts, актуальная, внутренней, возвращении, где, граница, границах, иногда, короткие |
+| ru/public/posts/formula/lines/line-0001.html | ru | public | Ashraellen — Мысль, внимание, тело, прошлое | Ashraellen, Формулы, Мысль, внимание, тело, прошлое, мысль / внимание / тело / прошлое, линия 0001 | ashraellen, внимание, мысль, прошлое, тело, public, архивная, линия, formula, line, lines, posts, актуальная, власть, внимании, внутреннем, движении, короткие |
+| ru/public/posts/formula/lines/line-0002.html | ru | public | Ashraellen — Слово, молчание, смысл | Ashraellen, Формулы, Слово, молчание, смысл, слово / молчание / смысл, линия 0002 | ashraellen, молчание, слово, смысл, public, архивная, линия, formula, line, lines, posts, актуальная, бывает, иногда, когда, короткие, линии, место |
 | ru/public/posts/fragment/index.html | ru | public | Ashraellen — Фрагменты — Russian | ashraellen, public, posts, fragment, фрагменты, раздел, готовится, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | фрагменты, готовится, раздел, ashraellen, public, архив, больших, заметок, здесь, какой, отрывки, рабочих, текстов, fragment, posts, russian, кусок, лежит |
 | ru/public/posts/index.html | ru | public | Ashraellen — Публикации | ashraellen, public, posts, публикации, разделы, формулы, фрагменты, мини-эссе, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | публикации, разделы, мини-эссе, формулы, фрагменты, ashraellen, formula, public, выберите, короткие, лекцией, мысль, наблюдения, posts, она, поймать, разные, способы |
 | ru/public/posts/sources/index.html | ru | public | Ashraellen — Источники перенесены | ashraellen, public, posts, sources, источники, перенесены, новый, адрес, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | источники, перенесены, адрес, новый, ashraellen, public, больше, исследование, исследовании, методологическая, находится, основа, относится, posts, sources, проекта, публикациям, публичным |
@@ -516,10 +517,10 @@ Pages: 551
 | uk/public/posts/essay/cycles/cycle-0001.html | uk | public | Ashraellen — Перший цикл міні-есе | ashraellen, public, posts, essay, cycles, cycle, 0001, перший, цикл, міні-есе, влада, над, думкою, увагою, тіло, перші, двері, але | перший, цикл, минуле, міні-есе, над, тіло, але, думкою, ashraellen, public, влада, двері, його, мета, перші, тлумачення, увагою, cycle |
 | uk/public/posts/essay/cycles/index.html | uk | public | Ashraellen — Цикли міні-есе | ashraellen, public, posts, essay, cycles, цикли, міні-есе, завершені, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | цикли, міні-есе, завершені, цикл, перший, ashraellen, public, головній, зібрані, знаходиться, поточний, поточного, розділу, сторінці, cycles, essay, posts, тут |
 | uk/public/posts/essay/index.html | uk | public | Ashraellen — Міні-есе | ashraellen, public, posts, essay, міні-есе, перший, цикл, влада, над, думкою, увагою, тіло, перші, двері, але, мета, минуле, його | міні-есе, над, але, думкою, його, минуле, тіло, ashraellen, public, без, влада, двері, мета, один, перший, перші, тлумачення, увагою |
-| uk/public/posts/formula/index.html | uk | public | Ashraellen — Формули | ashraellen, public, posts, formula, формули, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | ashraellen, public, формули, archive, artistic, literary, multilingual, part, research, work, formula, posts |
-| uk/public/posts/formula/lines/index.html | uk | public | Ashraellen — Лінія формул — Ukrainian | ashraellen, public, posts, formula, lines, лінія, формул, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, uk, public, posts, formula, lines | ashraellen, public, ukrainian, лінія, формул, archive, artistic, literary, multilingual, part, research, work, formula, lines, posts |
-| uk/public/posts/formula/lines/line-0001.html | uk | public | Ashraellen — Лінія 0001 — Ukrainian | ashraellen, public, posts, formula, lines, line, 0001, лінія, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, uk, public, posts, formula, lines, line, 0001 | ashraellen, public, 0001, ukrainian, лінія, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts |
-| uk/public/posts/formula/lines/line-0002.html | uk | public | Ashraellen — Лінія 0002 — Ukrainian | ashraellen, public, posts, formula, lines, line, 0002, лінія, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, uk, public, posts, formula, lines, line, 0002 | ashraellen, public, 0002, ukrainian, лінія, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts |
+| uk/public/posts/formula/index.html | uk | public | Ashraellen — Шлях, дія, ритм | Ashraellen, Формули, Шлях, дія, ритм, шлях / дія / ритм, лінія 0004 | ashraellen, ритм, шлях, дія, public, думки, короткі, лінія, форми, formula, posts, актуальна, вона, дію, завжди, знаходить, іноді, міру |
+| uk/public/posts/formula/lines/index.html | uk | public | Ashraellen — Межі, міра, своя форма | Ashraellen, Формули, Межі, міра, своя форма, межа / міра / форма, лінія 0003 | ashraellen, межі, міра, своя, форма, public, лінія, про, formula, lines, posts, актуальна, без, внутрішню, всяка, думки, короткі, лінії |
+| uk/public/posts/formula/lines/line-0001.html | uk | public | Ashraellen — Думка, увага, тіло, минуле | Ashraellen, Формули, Думка, увага, тіло, минуле, думка / увага / тіло / минуле, лінія 0001 | минуле, тіло, ashraellen, думка, увага, public, думку, лінія, увагу, formula, line, lines, posts, архівна, від, владнати, короткі, лінії |
+| uk/public/posts/formula/lines/line-0002.html | uk | public | Ashraellen — Слово, мовчання, сенс | Ashraellen, Формули, Слово, мовчання, сенс, слово / мовчання / сенс, лінія 0002 | ashraellen, мовчання, сенс, слово, public, архівна, лінія, про, formula, line, lines, posts, актуальна, бути, думки, коли, короткі, лінії |
 | uk/public/posts/fragment/index.html | uk | public | Ashraellen — Фрагменти | ashraellen, public, posts, fragment, фрагменти, список, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean | фрагменти, список, щоб, 002, ashraellen, fragment, public, більших, відчути, достатньо, публікація, тут, posts, змісту, знайти, зрозуміти, іноді, лежить |
 | uk/public/posts/index.html | uk | public | Ashraellen — Публікації | ashraellen, public, posts, публікації, розділи, формули, фрагменти, міні-есе, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | публікації, розділи, міні-есе, формули, фрагменти, ashraellen, formula, public, вона, впіймати, встигла, думку, короткі, posts, лекцією, оберіть, різні, способи |
 | uk/public/posts/sources/index.html | uk | public | Ashraellen — Джерела перенесено | ashraellen, public, posts, sources, джерела, перенесено, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean | джерела, перенесено, ashraellen, public, відкрити, дослідження, когнітивна, методологічна, належать, наратив, наука, основа, практика, проєкту, posts, sources, розділу, тепер |
@@ -837,18 +838,35 @@ Excerpt:
 
 - lang: be
 - section: public
-- title: Ashraellen — Формулы — Belarusian
-- description: Ashraellen — Формулы — Belarusian is part of the Ashraellen multilingual public archive of literary, artistic and research work.
+- title: Ashraellen — Шлях, дзеянне, рытм
+- description: Актуальная лінія формул Ashraellen пра шлях, дзеянне і рытм: кароткія формы думкі, у якіх рух знаходзіць сваю меру.
 - canonical: https://www.ashraellen.com/be/public/posts/formula/
-- H1: _missing_
-- H2: _missing_
+- H1: Формулы
+- H2: Шлях, дзеянне, рытм
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, belarusian, формулы, archive, artistic, literary, multilingual, part, research, work, formula, posts
-- candidates: ashraellen, belarusian, формулы, archive, artistic, literary, multilingual, part, public, research, work
+- suggested keyword seed: ashraellen, дзеянне, рытм, шлях, public, думкі, кароткія, формы, formula, posts, актуальная, дзень, заўсёды, знаходзіць, лінія, меру, пра, рух
+- candidates: шлях, дзеянне, рытм, формула, часам, заўсёды, формы, яна, ashraellen, дзень, думкі, кароткія, лінія, пачынаецца, просіць, прыходзіць, тое, хутка, mark, presence, аберагае, адзін, адкрываеш, адна
 
 Excerpt:
 
-> _empty_
+> Формулы Кароткія формы думкі: адзін радок, адна дакладнасць. Шлях, дзеянне, рытм Формула Шлях не пачынаецца з упэўненасці. Ён пачынаецца з першага сумленнага кроку. шлях / дзеянне / рытм Формула Дзеянне без унутранай глебы хутка становіцца шумам. шлях / дзеянне / рытм Формула Цярпенне не чакае цуду. Яно беражэ тое, што яшчэ не саспела. шлях / дзеянне / рытм Формула Калі ідзеш сваім шляхам, чужыя мапы становяцца толькі даведнікам. шлях / дзеянне / рытм Формула Сіла не заўсёды штурхае наперад. Часам яна спыняе лішні крок. шлях / дзеянне / рытм Формула Час не лечыць таго, што ты адкрываеш кожны дзень. шлях / дзеянне / рытм Формула Не кожная паўза — слабасць. Часам яна аберагае кірунак. шлях / дзеянне / рытм Формула Рашэнне саспявае раней, чым прыходзяць словы. шлях / дзеянне / рытм Формула Паспешнасць часта апранаецца ў рашучасць. шлях / дзеянне / рытм Формула Шлях правярае не натхненне, а 
+
+### be/public/posts/formula/lines/index-31.html
+
+- lang: be
+- section: public
+- title: Ashraellen — Межы, мера, свая форма
+- description: Лінія формул Ashraellen пра межы, меру і сваю форму: кароткія формы думкі пра ўнутраныя межы, рытм і вяртанне да сябе.
+- canonical: https://www.ashraellen.com/be/public/posts/formula/lines/
+- H1: Формулы
+- H2: Формулы лініі
+- H3: _missing_
+- suggested keyword seed: ashraellen, межы, public, лінія, мера, пра, форма, формулы, formula, index, lines, posts, адзінота, актуальная, вяртанне, думкі, калі, кароткія
+- candidates: форма, мяжа, мера, формула, лінія, межы, перастае, ashraellen, адзінота, актуальная, калі, патрабуе, пра, сапраўды, свая, стала, становіцца, тваім, тое, толькі, ўсякая, формул, формулы, чалавек
+
+Excerpt:
+
+> Формулы Трэцяя лінія формул. Формулы лініі Актуальная лінія Формула Мяжа з’яўляецца тады, калі чалавек перастае тлумачыць сваё права існаваць. мяжа / мера / форма Формула Чужая думка становіцца важнай толькі пасля тваёй унутранай згоды. мяжа / мера / форма Формула Згода з сабой цішэйшая за патрэбу ўсё даказаць. мяжа / мера / форма Формула Не ўсякая адкрытасць — блізкасць. Часам гэта толькі адсутнасць дзвярэй. мяжа / мера / форма Формула Тое, што трэба ўвесь час трымаць звонку, яшчэ не стала сапраўды тваім. мяжа / мера / форма Формула Сталасць пачынаецца там, дзе чалавек перастае спрачацца са сваёй мерай. мяжа / мера / форма Формула Свая форма не патрабуе дазволу чужога густу. мяжа / мера / форма Формула Страх простасці часта хаваецца за складанасцю. мяжа / мера / форма Формула Мяжа не аддаляе ад людзей. Яна вяртае чалавека сабе. мяжа / мера / форма Формула Часам сказаць не — гэта першая 
 
 ### be/public/posts/formula/lines/index.html
 
@@ -871,35 +889,35 @@ Excerpt:
 
 - lang: be
 - section: public
-- title: Ashraellen — Лінія 0001 — Belarusian
-- description: Ashraellen — Лінія 0001 — Belarusian is part of the Ashraellen multilingual public archive of literary, artistic and research work.
+- title: Ashraellen — Думка, увага, цела, мінулае
+- description: Архіўная лінія формул Ashraellen пра думку, увагу, цела і мінулае: кароткія формы назірання і памяці.
 - canonical: https://www.ashraellen.com/be/public/posts/formula/lines/line-0001.html
-- H1: _missing_
-- H2: _missing_
+- H1: Думка, увага, цела, мінулае
+- H2: Формулы лініі
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, 0001, belarusian, лінія, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts
-- candidates: ashraellen, 0001, belarusian, лінія, archive, artistic, literary, multilingual, part, public, research, work
+- suggested keyword seed: ashraellen, мінулае, цела, думка, увага, public, думку, лінія, увагу, formula, line, lines, posts, актуальная, архіўная, кароткія, лініі, назірання
+- candidates: цела, думка, мінулае, увага, формула, лінія, сябе, думку, пачынаецца, увагу, ashraellen, актуальная, архіўная, выбіраем, калі, перастае, прыходзіць, свабода, стан, толькі, ўладкаваць, усвядомленасць, формул, чалавек
 
 Excerpt:
 
-> _empty_
+> Думка, увага, цела, мінулае Першая архіўная лінія формул. Формулы лініі Актуальная лінія Формула Думка прыходзіць сама. Свабода пачынаецца там, дзе чалавек перастае прымаць кожную думку за сябе. думка / увага / цела / мінулае Формула Уладкаваць сябе — гэта не ўладкаваць думкі. Гэта ўладкаваць увагу. думка / увага / цела / мінулае Формула Першую думку мы не выбіраем. Мы выбіраем, ці даваць ёй увагу далей. думка / увага / цела / мінулае Формула Думка, якой мы даем напружанне, расце з гэтага напружання. думка / увага / цела / мінулае Формула Усвядомленасць не пачынаецца з цішыні ў галаве. Яна пачынаецца з: я бачу, што гэтая думка з’явілася. думка / увага / цела / мінулае Формула Усвядомленасць без цела — толькі ідэя, якая глядзіць на сябе. думка / увага / цела / мінулае Формула Цела гаворыць раней, чым розум знаходзіць прычыну. думка / увага / цела / мінулае Формула Цела — першыя дзверы наз
 
 ### be/public/posts/formula/lines/line-0002.html
 
 - lang: be
 - section: public
-- title: Ashraellen — Лінія 0002 — Belarusian
-- description: Ashraellen — Лінія 0002 — Belarusian is part of the Ashraellen multilingual public archive of literary, artistic and research work.
+- title: Ashraellen — Слова, маўчанне, сэнс
+- description: Архіўная лінія формул Ashraellen пра слова, маўчанне і сэнс: кароткія формы пра мову, дакладнасць і слуханне.
 - canonical: https://www.ashraellen.com/be/public/posts/formula/lines/line-0002.html
-- H1: _missing_
-- H2: _missing_
+- H1: Слова, маўчанне, сэнс
+- H2: Формулы лініі
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, 0002, belarusian, лінія, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts
-- candidates: ashraellen, 0002, belarusian, лінія, archive, artistic, literary, multilingual, part, public, research, work
+- suggested keyword seed: ashraellen, маўчанне, слова, сэнс, public, архіўная, лінія, пра, formula, line, lines, posts, актуальная, дакладнасць, калі, кароткія, лініі, месца
+- candidates: слова, маўчанне, сэнс, формула, лінія, месца, можа, яшчэ, калі, ashraellen, актуальная, архіўная, быць, дзе, мову, пра, словы, слуханне, таго, толькі, формул, фраза, хто, часта
 
 Excerpt:
 
-> _empty_
+> Слова, маўчанне, сэнс Другая архіўная лінія формул. Формулы лініі Актуальная лінія Формула Словы становяцца дакладнымі, калі перастаюць хацець уражваць. слова / маўчанне / сэнс Формула Маўчанне — не недахоп мовы. Гэта месца, дзе слова перастае хавацца. слова / маўчанне / сэнс Формула Сэнс не даказваюць гучнасцю. Яго пазнаюць па неабходнасці. слова / маўчанне / сэнс Формула Лішняе слова часта вартавае пустое месца. слова / маўчанне / сэнс Формула Фраза жыве, калі нясе досвед, а не жаданне гучаць глыбока. слова / маўчанне / сэнс Формула Часам шчырасць пачынаецца так: я яшчэ не магу назваць гэта ясна. слова / маўчанне / сэнс Формула Мова змяняе чалавека раней, чым чалавек заўважае, што змяніў сваю мову. слова / маўчанне / сэнс Формула Той, хто без канца тлумачыць сябе, часта яшчэ не сустрэўся з сабой. слова / маўчанне / сэнс Формула Дакладнай думцы не патрэбныя ўпрыгожанні. Ёй патрэбнае тол
 
 ### be/public/posts/fragment/index.html
 
@@ -1823,69 +1841,69 @@ Excerpt:
 
 - lang: de
 - section: public
-- title: Ashraellen — Formeln
-- description: Ashraellen — Formeln is part of the Ashraellen multilingual public archive of literary, artistic and research work.
+- title: Ashraellen — Weg, Handlung, Rhythmus
+- description: Aktuelle Ashraellen-Formellinie über Weg, Handlung und Rhythmus: kurze Denkformen, in denen Bewegung ihr Maß lernt.
 - canonical: https://www.ashraellen.com/de/public/posts/formula/
-- H1: _missing_
-- H2: _missing_
+- H1: Formeln
+- H2: Weg, Handlung, Rhythmus
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, formeln, archive, artistic, literary, multilingual, part, research, work, formula, posts
-- candidates: ashraellen, formeln, archive, artistic, literary, multilingual, part, public, research, work
+- suggested keyword seed: handlung, rhythmus, weg, ashraellen, public, aktuelle, ashraellen-formellinie, bewegung, denen, denkformen, die, ein, formel, formeln, formula, ihr, immer, ist
+- candidates: weg, handlung, rhythmus, formel, nicht, die, manchmal, sie, ein, immer, ist, sich, auf, beginnt, den, der, eine, klarer, kurze, mit, ohne, schnell, schritt, tag
 
 Excerpt:
 
-> _empty_
+> Formeln Kurze Formen des Gedankens: eine Zeile, ein klarer Schlag. Weg, Handlung, Rhythmus Formel Ein Weg beginnt nicht mit Gewissheit. Er beginnt mit dem ersten ehrlichen Schritt. Weg / Handlung / Rhythmus Formel Handlung ohne inneren Grund wird schnell zu Lärm. Weg / Handlung / Rhythmus Formel Geduld ist kein Warten auf ein Wunder. Sie weigert sich, das Unreife zu zerbrechen. Weg / Handlung / Rhythmus Formel Wenn du deinen eigenen Weg gehst, werden fremde Karten nur zu Hilfsmaterial. Weg / Handlung / Rhythmus Formel Kraft drängt nicht immer vorwärts. Manchmal hält sie den unnötigen Schritt auf. Weg / Handlung / Rhythmus Formel Zeit heilt nicht, was du jeden Tag neu öffnest. Weg / Handlung / Rhythmus Formel Nicht jede Pause ist Schwäche. Manchmal schützt sie die Richtung. Weg / Handlung / Rhythmus Formel Eine Entscheidung reift, bevor die Worte dafür kommen. Weg / Handlung / Rhythmus Fo
 
 ### de/public/posts/formula/lines/index.html
 
 - lang: de
 - section: public
-- title: Ashraellen — Formellinie
-- description: Ashraellen — Formellinie is part of the Ashraellen multilingual public archive of literary, artistic and research work.
+- title: Ashraellen — Grenzen, Maß, eigene Form
+- description: Ashraellen-Formellinie über Grenzen, Maß und eigene Form: kurze Denkformen über innere Grenze, Rhythmus und Rückkehr zu sich.
 - canonical: https://www.ashraellen.com/de/public/posts/formula/lines/
-- H1: _missing_
-- H2: _missing_
+- H1: Grenzen, Maß, eigene Form
+- H2: Formeln der Linie
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, formellinie, archive, artistic, literary, multilingual, part, research, work, formula, lines, posts
-- candidates: ashraellen, formellinie, archive, artistic, literary, multilingual, part, public, research, work
+- suggested keyword seed: eigene, form, grenzen, maß, ashraellen, der, grenze, linie, public, über, und, ashraellen-formellinie, denkformen, die, formel, formeln, formula, innere
+- candidates: form, maß, grenze, formel, die, ist, nicht, der, eigene, linie, wenn, grenzen, sich, wird, aktuelle, aufhört, braucht, dein, dich, eine, einsamkeit, geworden, jede, keine
 
 Excerpt:
 
-> _empty_
+> Grenzen, Maß, eigene Form Die dritte Formellinie. Formeln der Linie Aktuelle Linie Formel Eine Grenze entsteht, wenn der Mensch aufhört, sein Recht zu sein zu erklären. Grenze / Maß / Form Formel Die Meinung eines anderen wird erst Macht, wenn du ihr innerlich zustimmst. Grenze / Maß / Form Formel Einverständnis mit sich selbst ist leiser als der Drang, alles zu beweisen. Grenze / Maß / Form Formel Nicht jede Offenheit ist Nähe. Manchmal fehlt nur die Tür. Grenze / Maß / Form Formel Was ohne Ende verteidigt werden muss, ist noch nicht wirklich dein geworden. Grenze / Maß / Form Formel Reife beginnt, wenn der Mensch aufhört, mit seinem eigenen Maß zu streiten. Grenze / Maß / Form Formel Die eigene Form braucht keine Erlaubnis vom fremden Geschmack. Grenze / Maß / Form Formel Die Angst vor Einfachheit versteckt sich oft hinter Komplexität. Grenze / Maß / Form Formel Eine Grenze entfernt di
 
 ### de/public/posts/formula/lines/line-0001.html
 
 - lang: de
 - section: public
-- title: Ashraellen — Formellinie 0001
-- description: Ashraellen — Formellinie 0001 is part of the Ashraellen multilingual public archive of literary, artistic and research work.
+- title: Ashraellen — Gedanke, Aufmerksamkeit, Körper, Vergangenheit
+- description: Archivierte Ashraellen-Formellinie über Gedanke, Aufmerksamkeit, Körper und Vergangenheit: kurze Beobachtungen über innere Bewegung und Erinnerung.
 - canonical: https://www.ashraellen.com/de/public/posts/formula/lines/line-0001.html
-- H1: _missing_
-- H2: _missing_
+- H1: Gedanke, Aufmerksamkeit, Körper, Vergangenheit
+- H2: Formeln der Linie
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, 0001, formellinie, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts
-- candidates: ashraellen, 0001, formellinie, archive, artistic, literary, multilingual, part, public, research, work
+- suggested keyword seed: aufmerksamkeit, gedanke, körper, vergangenheit, ashraellen, der, public, über, und, archivierte, ashraellen-formellinie, beobachtungen, bewegung, das, die, erinnerung, formel, formeln
+- candidates: gedanke, körper, aufmerksamkeit, vergangenheit, formel, ist, der, nicht, die, selbst, wir, das, keine, linie, sie, über, beginnt, ein, eine, gedanken, nur, sich, aktuelle, angst
 
 Excerpt:
 
-> _empty_
+> Gedanke, Aufmerksamkeit, Körper, Vergangenheit Die erste archivierte Formellinie. Formeln der Linie Aktuelle Linie Formel Ein Gedanke kommt von selbst. Freiheit beginnt, wenn der Mensch aufhört, jeden Gedanken für sich selbst zu halten. Gedanke / Aufmerksamkeit / Körper / Vergangenheit Formel Selbstbeherrschung ist keine Herrschaft über Gedanken. Sie ist Herrschaft über Aufmerksamkeit. Gedanke / Aufmerksamkeit / Körper / Vergangenheit Formel Den ersten Gedanken wählen wir nicht. Wir wählen, ob wir ihn weiter nähren. Gedanke / Aufmerksamkeit / Körper / Vergangenheit Formel Der Gedanke, den du bekämpfst, wächst an deinem Kampf. Gedanke / Aufmerksamkeit / Körper / Vergangenheit Formel Bewusstheit beginnt nicht mit Stille im Kopf. Sie beginnt mit: Ich sehe, dass dieser Gedanke da ist. Gedanke / Aufmerksamkeit / Körper / Vergangenheit Formel Bewusstheit ohne Körper ist nur eine Idee, die sich
 
 ### de/public/posts/formula/lines/line-0002.html
 
 - lang: de
 - section: public
-- title: Ashraellen — Formellinie 0002
-- description: Ashraellen — Formellinie 0002 is part of the Ashraellen multilingual public archive of literary, artistic and research work.
+- title: Ashraellen — Wort, Schweigen, Sinn
+- description: Archivierte Ashraellen-Formellinie über Wort, Schweigen und Sinn: kurze Denkformen über Sprache, Genauigkeit und Hören.
 - canonical: https://www.ashraellen.com/de/public/posts/formula/lines/line-0002.html
-- H1: _missing_
-- H2: _missing_
+- H1: Wort, Schweigen, Sinn
+- H2: Formeln der Linie
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, 0002, formellinie, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts
-- candidates: ashraellen, 0002, formellinie, archive, artistic, literary, multilingual, part, public, research, work
+- suggested keyword seed: schweigen, sinn, wort, ashraellen, der, linie, public, über, und, archivierte, ashraellen-formellinie, den, denkformen, ein, formel, formeln, formula, genauigkeit
+- candidates: wort, schweigen, sinn, formel, nicht, ist, sich, den, der, kann, linie, ein, noch, das, dem, eine, nur, sprache, und, wenn, aktuelle, archivierte, auch, braucht
 
 Excerpt:
 
-> _empty_
+> Wort, Schweigen, Sinn Die zweite archivierte Formellinie. Formeln der Linie Aktuelle Linie Formel Worte werden genau, wenn sie nicht mehr beeindrucken wollen. Wort / Schweigen / Sinn Formel Schweigen ist nicht das Fehlen von Rede. Es ist der Ort, an dem das Wort aufhört, sich zu verstecken. Wort / Schweigen / Sinn Formel Sinn beweist sich nicht durch Lautstärke. Man erkennt ihn an Notwendigkeit. Wort / Schweigen / Sinn Formel Ein Wort zu viel bewacht oft eine leere Stelle. Wort / Schweigen / Sinn Formel Ein Satz lebt, wenn er Erfahrung trägt und nicht den Wunsch, tief zu klingen. Wort / Schweigen / Sinn Formel Manchmal beginnt Ehrlichkeit mit: Ich kann es noch nicht klar benennen. Wort / Schweigen / Sinn Formel Sprache verändert den Menschen, bevor der Mensch merkt, dass er seine Sprache verändert hat. Wort / Schweigen / Sinn Formel Wer sich endlos erklärt, ist sich selbst oft noch nicht
 
 ### de/public/posts/fragment/index.html
 
@@ -2897,66 +2915,66 @@ Excerpt:
 - title: Ashraellen — Path, Action, Rhythm
 - description: Current Ashraellen formula line on path, action and rhythm: short forms of thought where movement learns its measure.
 - canonical: https://www.ashraellen.com/en/public/posts/formula/
-- H1: _missing_
-- H2: _missing_
+- H1: Formulas
+- H2: Path, action, rhythm
 - H3: _missing_
-- suggested keyword seed: ashraellen, action, formula, path, rhythm, current, forms, its, learns, line, measure, movement, public, posts, short, thought, where
-- candidates: action, ashraellen, path, rhythm, current, forms, formula, its, learns, line, measure, movement, short, thought, where
+- suggested keyword seed: action, ashraellen, path, rhythm, formula, line, public, always, current, does, every, forms, formulas, its, learns, measure, movement, posts
+- candidates: path, action, rhythm, formula, does, sometimes, every, line, what, you, always, ashraellen, day, forms, honest, more, move, one, short, step, thought, unnecessary, without, after
 
 Excerpt:
 
-> _empty_
+> Formulas Short forms of thought: one line, one clean strike. Path, action, rhythm Formula A path does not begin with certainty. It begins with the first honest step. path / action / rhythm Formula Action without inner ground soon turns into noise. path / action / rhythm Formula Patience is not waiting for a miracle. It is refusing to break what is not ripe. path / action / rhythm Formula When you walk your own path, other people’s maps become reference material. path / action / rhythm Formula Strength does not always move forward. Sometimes it stops the unnecessary step. path / action / rhythm Formula Time does not heal what you reopen every day. path / action / rhythm Formula Not every pause is weakness. Sometimes it protects the direction. path / action / rhythm Formula A decision ripens before the words for it arrive. path / action / rhythm Formula Haste often dresses itself as resolv
 
 ### en/public/posts/formula/lines/index.html
 
 - lang: en
 - section: public
 - title: Ashraellen — Boundaries, Measure, Form
-- description: Ashraellen formula line on boundaries, measure and form: concise thoughts on inner permission, rhythm and one’s own shape.
+- description: Ashraellen formula line on boundaries, measure and form: short forms of thought on inner limits, rhythm and self-return.
 - canonical: https://www.ashraellen.com/en/public/posts/formula/lines/
-- H1: _missing_
-- H2: _missing_
+- H1: Boundaries, measure, form
+- H2: Formulas of the line
 - H3: _missing_
-- suggested keyword seed: ashraellen, boundaries, form, formula, measure, concise, inner, line, one’s, own, permission, public, rhythm, lines, posts, shape, thoughts
-- candidates: ashraellen, boundaries, form, measure, concise, formula, inner, line, one’s, own, permission, rhythm, shape, thoughts
+- suggested keyword seed: boundaries, form, measure, ashraellen, formula, line, public, another, become, boundary, does, forms, formulas, inner, limits, lines, posts, rhythm
+- candidates: form, measure, boundary, formula, line, you, another, become, boundaries, does, when, your, ashraellen, becomes, current, formulas, has, need, only, person, person’s, rhythm, solitude, sometimes
 
 Excerpt:
 
-> _empty_
+> Boundaries, measure, form The third line of formulas. Formulas of the line Current line Formula A boundary appears when a person stops explaining the right to exist. boundary / measure / form Formula Another person’s opinion becomes power only after you consent inside. boundary / measure / form Formula Agreement with oneself is quieter than the need to prove everything. boundary / measure / form Formula Not all openness is closeness. Sometimes it is only the absence of a door. boundary / measure / form Formula What must be defended without end has not yet become inwardly yours. boundary / measure / form Formula Maturity begins when you stop arguing with your own measure. boundary / measure / form Formula Your form does not need permission from another person’s taste. boundary / measure / form Formula The fear of being simple often hides behind complexity. boundary / measure / form Formul
 
 ### en/public/posts/formula/lines/line-0001.html
 
 - lang: en
 - section: public
 - title: Ashraellen — Thought, Attention, Body, Past
-- description: Ashraellen formula line 0001 on thought, attention, body and the remembered past: one line, one precise inner turn.
+- description: Archived Ashraellen formula line on thought, attention, body and past: short forms of observation on inner movement and memory.
 - canonical: https://www.ashraellen.com/en/public/posts/formula/lines/line-0001.html
-- H1: _missing_
-- H2: _missing_
+- H1: Thought, attention, body, past
+- H2: Formulas of the line
 - H3: _missing_
-- suggested keyword seed: ashraellen, line, attention, body, formula, one, past, thought, 0001, inner, precise, public, remembered, lines, posts, turn
-- candidates: ashraellen, attention, body, line, one, past, thought, 0001, formula, inner, precise, remembered, turn
+- suggested keyword seed: ashraellen, attention, body, line, past, thought, formula, archived, public, awareness, command, first, forms, formulas, inner, lines, memory, movement
+- candidates: thought, body, attention, past, formula, line, only, command, first, archived, ashraellen, awareness, begins, choose, current, fight, formulas, has, itself, keep, liberation, mind, over, state
 
 Excerpt:
 
-> _empty_
+> Thought, attention, body, past The first archived line of formulas. Formulas of the line Current line Formula A thought comes on its own. Freedom begins when you stop wearing every thought as yourself. thought / attention / body / past Formula Self-command is not command over thought. It is command over attention. thought / attention / body / past Formula We do not choose the first thought. We choose whether to keep feeding it. thought / attention / body / past Formula The thought you fight grows stronger on the fight itself. thought / attention / body / past Formula Awareness does not begin with a silent mind. It begins with: I see this thought has appeared. thought / attention / body / past Formula Awareness without the body is only an idea watching itself. thought / attention / body / past Formula The body speaks before the mind has time to invent a reason. thought / attention / body 
 
 ### en/public/posts/formula/lines/line-0002.html
 
 - lang: en
 - section: public
 - title: Ashraellen — Word, Silence, Meaning
-- description: Ashraellen formula line 0002 on word, silence and meaning: short forms where language stops performing and begins to listen.
+- description: Archived Ashraellen formula line on word, silence and meaning: short forms of thought on language, precision and listening.
 - canonical: https://www.ashraellen.com/en/public/posts/formula/lines/line-0002.html
-- H1: _missing_
-- H2: _missing_
+- H1: Word, silence, meaning
+- H2: Formulas of the line
 - H3: _missing_
-- suggested keyword seed: ashraellen, formula, line, meaning, silence, word, 0002, begins, forms, language, listen, performing, public, lines, posts, short, stops, where
-- candidates: ashraellen, meaning, silence, word, 0002, begins, forms, formula, language, line, listen, performing, short, stops, where
+- suggested keyword seed: ashraellen, line, meaning, silence, word, formula, archived, language, public, thought, can, forms, formulas, lines, listening, place, posts, precision
+- candidates: word, meaning, silence, formula, line, can, language, place, thought, when, archived, ashraellen, current, depth, does, formulas, has, himself, often, one, only, person, precise, sentence
 
 Excerpt:
 
-> _empty_
+> Word, silence, meaning The second archived line of formulas. Formulas of the line Current line Formula Words become precise when they stop trying to impress. word / silence / meaning Formula Silence is not the absence of speech. It is where the word stops hiding. word / silence / meaning Formula Meaning is not proved by volume. It is recognized by necessity. word / silence / meaning Formula An extra word often guards an empty place. word / silence / meaning Formula A sentence becomes alive when it carries experience, not the wish to sound deep. word / silence / meaning Formula Sometimes honesty begins with: I cannot name this clearly yet. word / silence / meaning Formula Language changes a person before the person notices they have changed their language. word / silence / meaning Formula The one who explains himself constantly has often not yet met himself. word / silence / meaning Formu
 
 ### en/public/posts/fragment/index.html
 
@@ -3880,69 +3898,69 @@ Excerpt:
 
 - lang: es
 - section: public
-- title: Ashraellen — Fórmulas — Spanish
-- description: Ashraellen — Fórmulas — Spanish is part of the Ashraellen multilingual public archive of literary, artistic and research work.
+- title: Ashraellen — Camino, acción, ritmo
+- description: Línea actual de fórmulas Ashraellen sobre camino, acción y ritmo: formas breves de pensamiento donde el movimiento aprende su medida.
 - canonical: https://www.ashraellen.com/es/public/posts/formula/
-- H1: _missing_
-- H2: _missing_
+- H1: Fórmulas
+- H2: Camino, acción, ritmo
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, fórmulas, spanish, archive, artistic, literary, multilingual, part, research, work, formula, posts
-- candidates: ashraellen, fórmulas, spanish, archive, artistic, literary, multilingual, part, public, research, work
+- suggested keyword seed: acción, ashraellen, camino, ritmo, breves, fórmulas, línea, public, actual, aprende, con, donde, formas, formula, fórmula, medida, movimiento, pensamiento
+- candidates: camino, acción, ritmo, fórmula, con, veces, línea, que, siempre, una, ashraellen, breves, cada, día, empieza, formas, fórmulas, fuerza, llega, más, paso, pensamiento, pide, sin
 
 Excerpt:
 
-> _empty_
+> Fórmulas Formas breves del pensamiento: una línea, una precisión. Camino, acción, ritmo Fórmula Un camino no empieza con certeza. Empieza con el primer paso honesto. camino / acción / ritmo Fórmula La acción sin suelo interior pronto se vuelve ruido. camino / acción / ritmo Fórmula La paciencia no espera un milagro. Se niega a romper lo inmaduro. camino / acción / ritmo Fórmula Cuando sigues tu propio camino, los mapas ajenos quedan como material de consulta. camino / acción / ritmo Fórmula La fuerza no siempre empuja hacia adelante. A veces detiene el paso innecesario. camino / acción / ritmo Fórmula El tiempo no cura lo que vuelves a abrir cada día. camino / acción / ritmo Fórmula No toda pausa es debilidad. A veces protege la dirección. camino / acción / ritmo Fórmula Una decisión madura antes de que lleguen sus palabras. camino / acción / ritmo Fórmula La prisa suele vestirse de dete
 
 ### es/public/posts/formula/lines/index.html
 
 - lang: es
 - section: public
-- title: Ashraellen — Línea de fórmulas
-- description: Ashraellen — Línea de fórmulas is part of the Ashraellen multilingual public archive of literary, artistic and research work.
+- title: Ashraellen — Límites, medida, forma propia
+- description: Línea de fórmulas Ashraellen sobre límites, medida y forma propia: formas breves sobre el retorno a uno mismo.
 - canonical: https://www.ashraellen.com/es/public/posts/formula/lines/
-- H1: _missing_
-- H2: _missing_
+- H1: Límites, medida, forma propia
+- H2: Fórmulas de la línea
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, fórmulas, línea, archive, artistic, literary, multilingual, part, research, work, formula, lines, posts
-- candidates: ashraellen, fórmulas, línea, archive, artistic, literary, multilingual, part, public, research, work
+- suggested keyword seed: forma, límites, medida, propia, ashraellen, fórmulas, línea, mismo, public, sobre, actual, breves, cuando, formas, formula, fórmula, límite, lines
+- candidates: forma, medida, límite, fórmula, línea, propia, cuando, que, fórmulas, límites, mismo, actual, ashraellen, con, deja, necesita, persona, sin, sobre, solo, toda, uno, veces, vuelto
 
 Excerpt:
 
-> _empty_
+> Límites, medida, forma propia La tercera línea de fórmulas. Fórmulas de la línea Línea actual Fórmula Un límite aparece cuando la persona deja de explicar su derecho a existir. límite / medida / forma Fórmula La opinión ajena se vuelve poder solo cuando tú la aceptas por dentro. límite / medida / forma Fórmula Estar de acuerdo con uno mismo hace menos ruido que querer demostrarlo todo. límite / medida / forma Fórmula No toda apertura es cercanía. A veces solo falta la puerta. límite / medida / forma Fórmula Lo que debe defenderse sin descanso aún no se ha vuelto verdaderamente tuyo. límite / medida / forma Fórmula La madurez empieza cuando dejas de discutir con tu propia medida. límite / medida / forma Fórmula La forma propia no necesita permiso del gusto ajeno. límite / medida / forma Fórmula El miedo a la sencillez suele esconderse detrás de la complejidad. límite / medida / forma Fórm
 
 ### es/public/posts/formula/lines/line-0001.html
 
 - lang: es
 - section: public
-- title: Ashraellen — Línea 0001
-- description: Ashraellen — Línea 0001 is part of the Ashraellen multilingual public archive of literary, artistic and research work.
+- title: Ashraellen — Pensamiento, atención, cuerpo, pasado
+- description: Línea archivada de fórmulas Ashraellen sobre pensamiento, atención, cuerpo y pasado: formas breves de observación y memoria.
 - canonical: https://www.ashraellen.com/es/public/posts/formula/lines/line-0001.html
-- H1: _missing_
-- H2: _missing_
+- H1: Pensamiento, atención, cuerpo, pasado
+- H2: Fórmulas de la línea
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, 0001, línea, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts
-- candidates: ashraellen, 0001, línea, archive, artistic, literary, multilingual, part, public, research, work
+- suggested keyword seed: atención, cuerpo, pasado, pensamiento, ashraellen, fórmulas, línea, public, archivada, breves, empieza, formas, formula, fórmula, line, lines, memoria, observación
+- candidates: pensamiento, cuerpo, atención, pasado, fórmula, línea, por, que, solo, una, empieza, fórmulas, hecho, mismo, sobre, actual, archivada, ashraellen, con, conciencia, convierte, cuando, elegimos, estado
 
 Excerpt:
 
-> _empty_
+> Pensamiento, atención, cuerpo, pasado La primera línea archivada de fórmulas. Fórmulas de la línea Línea actual Fórmula Un pensamiento llega solo. La libertad empieza cuando dejas de tomar cada pensamiento por ti mismo. pensamiento / atención / cuerpo / pasado Fórmula Mandarse a uno mismo no es mandar sobre los pensamientos. Es mandar sobre la atención. pensamiento / atención / cuerpo / pasado Fórmula No elegimos el primer pensamiento. Elegimos si seguimos dándole atención. pensamiento / atención / cuerpo / pasado Fórmula El pensamiento al que te opones se alimenta de esa oposición. pensamiento / atención / cuerpo / pasado Fórmula La conciencia no empieza con una mente en silencio. Empieza con: veo que este pensamiento apareció. pensamiento / atención / cuerpo / pasado Fórmula La conciencia sin cuerpo es solo una idea mirándose a sí misma. pensamiento / atención / cuerpo / pasado Fórmula
 
 ### es/public/posts/formula/lines/line-0002.html
 
 - lang: es
 - section: public
-- title: Ashraellen — Línea 0002
-- description: Ashraellen — Línea 0002 is part of the Ashraellen multilingual public archive of literary, artistic and research work.
+- title: Ashraellen — Palabra, silencio, sentido
+- description: Línea archivada de fórmulas Ashraellen sobre palabra, silencio y sentido: formas breves sobre lenguaje, precisión y escucha.
 - canonical: https://www.ashraellen.com/es/public/posts/formula/lines/line-0002.html
-- H1: _missing_
-- H2: _missing_
+- H1: Palabra, silencio, sentido
+- H2: Fórmulas de la línea
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, 0002, línea, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts
-- candidates: ashraellen, 0002, línea, archive, artistic, literary, multilingual, part, public, research, work
+- suggested keyword seed: palabra, sentido, silencio, ashraellen, fórmulas, línea, lenguaje, public, sobre, archivada, breves, con, cuando, escucha, formas, formula, fórmula, line
+- candidates: palabra, sentido, silencio, fórmula, línea, una, lugar, puede, con, cuando, fórmulas, lenguaje, que, todavía, actual, archivada, ashraellen, donde, escucha, frase, las, necesita, palabras, pensamiento
 
 Excerpt:
 
-> _empty_
+> Palabra, silencio, sentido La segunda línea archivada de fórmulas. Fórmulas de la línea Línea actual Fórmula Las palabras se vuelven precisas cuando dejan de querer impresionar. palabra / silencio / sentido Fórmula El silencio no es falta de habla. Es el lugar donde la palabra deja de esconderse. palabra / silencio / sentido Fórmula El sentido no se prueba con volumen. Se reconoce por necesidad. palabra / silencio / sentido Fórmula Una palabra de más suele custodiar un lugar vacío. palabra / silencio / sentido Fórmula Una frase vive cuando lleva experiencia, no ganas de sonar profunda. palabra / silencio / sentido Fórmula A veces la honestidad empieza con: todavía no sé nombrarlo con claridad. palabra / silencio / sentido Fórmula El lenguaje cambia a la persona antes de que la persona note que cambió su lenguaje. palabra / silencio / sentido Fórmula Quien se explica sin parar a menudo to
 
 ### es/public/posts/fragment/index.html
 
@@ -4900,69 +4918,69 @@ Excerpt:
 
 - lang: fr
 - section: public
-- title: Ashraellen — Formules
-- description: Ashraellen — Formules is part of the Ashraellen multilingual public archive of literary, artistic and research work.
+- title: Ashraellen — Chemin, action, rythme
+- description: Ligne actuelle de formules Ashraellen sur le chemin, l’action et le rythme : formes brèves où le mouvement apprend sa mesure.
 - canonical: https://www.ashraellen.com/fr/public/posts/formula/
-- H1: _missing_
-- H2: _missing_
+- H1: Formules
+- H2: Chemin, action, rythme
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, formules, archive, artistic, literary, multilingual, part, research, work, formula, posts
-- candidates: ashraellen, formules, archive, artistic, literary, multilingual, part, public, research, work
+- suggested keyword seed: chemin, rythme, action, ashraellen, formules, ligne, public, actuelle, apprend, brèves, elle, formes, formula, formule, l’action, mesure, mouvement, n’est
+- candidates: chemin, rythme, action, formule, pas, elle, par, parfois, ligne, n’est, toujours, une, ashraellen, avant, brèves, chaque, commence, demande, formes, formules, inutile, jour, l’action, les
 
 Excerpt:
 
-> _empty_
+> Formules Formes brèves de pensée : une ligne, une précision. Chemin, action, rythme Formule Un chemin ne commence pas par la certitude. Il commence par le premier pas honnête. chemin / action / rythme Formule L’action sans sol intérieur devient vite du bruit. chemin / action / rythme Formule La patience n’attend pas un miracle. Elle refuse de briser ce qui n’est pas mûr. chemin / action / rythme Formule Quand tu suis ton propre chemin, les cartes des autres deviennent de simples repères. chemin / action / rythme Formule La force ne pousse pas toujours en avant. Parfois, elle retient le pas inutile. chemin / action / rythme Formule Le temps ne guérit pas ce que tu rouvres chaque jour. chemin / action / rythme Formule Toute pause n’est pas faiblesse. Parfois, elle protège la direction. chemin / action / rythme Formule Une décision mûrit avant que les mots n’arrivent. chemin / action / ryth
 
 ### fr/public/posts/formula/lines/index.html
 
 - lang: fr
 - section: public
-- title: Ashraellen — Ligne de formules
-- description: Ashraellen — Ligne de formules is part of the Ashraellen multilingual public archive of literary, artistic and research work.
+- title: Ashraellen — Limites, mesure, forme propre
+- description: Ligne de formules Ashraellen sur les limites, la mesure et la forme propre : formes brèves sur le retour à soi.
 - canonical: https://www.ashraellen.com/fr/public/posts/formula/lines/
-- H1: _missing_
-- H2: _missing_
+- H1: Limites, mesure, forme propre
+- H2: Formules de la ligne
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, formules, ligne, archive, artistic, literary, multilingual, part, research, work, formula, lines, posts
-- candidates: ashraellen, formules, ligne, archive, artistic, literary, multilingual, part, public, research, work
+- suggested keyword seed: forme, limites, mesure, propre, ashraellen, formules, ligne, public, sur, besoin, brèves, cesse, formes, formula, formule, les, limite, lines
+- candidates: forme, mesure, limite, formule, ligne, pas, propre, cesse, une, besoin, formules, limites, n’a, n’est, actuelle, ashraellen, autres, avec, d’autrui, des, devient, est, l’être, parfois
 
 Excerpt:
 
-> _empty_
+> Limites, mesure, forme propre La troisième ligne de formules. Formules de la ligne Ligne actuelle Formule Une limite apparaît lorsque l’être cesse d’expliquer son droit d’exister. limite / mesure / forme Formule L’opinion d’autrui ne devient pouvoir que si tu y consens intérieurement. limite / mesure / forme Formule L’accord avec soi fait moins de bruit que le besoin de tout prouver. limite / mesure / forme Formule Toute ouverture n’est pas proximité. Parfois, il manque seulement une porte. limite / mesure / forme Formule Ce qu’il faut défendre sans cesse n’est pas encore vraiment tien. limite / mesure / forme Formule La maturité commence quand l’on cesse de discuter avec sa propre mesure. limite / mesure / forme Formule La forme propre n’a pas besoin de la permission du goût d’autrui. limite / mesure / forme Formule La peur de la simplicité se cache souvent derrière la complexité. limit
 
 ### fr/public/posts/formula/lines/line-0001.html
 
 - lang: fr
 - section: public
-- title: Ashraellen — Ligne 0001
-- description: Ashraellen — Ligne 0001 is part of the Ashraellen multilingual public archive of literary, artistic and research work.
+- title: Ashraellen — Pensée, attention, corps, passé
+- description: Ligne archivée de formules Ashraellen sur la pensée, l’attention, le corps et le passé : formes brèves d’observation et de mémoire.
 - canonical: https://www.ashraellen.com/fr/public/posts/formula/lines/line-0001.html
-- H1: _missing_
-- H2: _missing_
+- H1: Pensée, attention, corps, passé
+- H2: Formules de la ligne
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, 0001, ligne, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts
-- candidates: ashraellen, 0001, ligne, archive, artistic, literary, multilingual, part, public, research, work
+- suggested keyword seed: corps, passé, pensée, ashraellen, attention, ligne, formules, public, archivée, brèves, c’est, commence, d’observation, formes, formula, formule, l’attention, line
+- candidates: pensée, corps, passé, attention, formule, pas, ligne, n’est, nous, une, c’est, commence, formules, gouverner, non, première, que, actuelle, archivée, ashraellen, cesse, cette, choisissons, conscience
 
 Excerpt:
 
-> _empty_
+> Pensée, attention, corps, passé La première ligne archivée de formules. Formules de la ligne Ligne actuelle Formule Une pensée vient d’elle-même. La liberté commence quand on cesse de prendre chaque pensée pour soi. pensée / attention / corps / passé Formule Se gouverner soi-même, ce n’est pas gouverner ses pensées. C’est gouverner son attention. pensée / attention / corps / passé Formule Nous ne choisissons pas la première pensée. Nous choisissons de continuer à la nourrir ou non. pensée / attention / corps / passé Formule La pensée à laquelle on s’oppose se nourrit de cette opposition. pensée / attention / corps / passé Formule La conscience ne commence pas avec un esprit silencieux. Elle commence par : je vois que cette pensée est là. pensée / attention / corps / passé Formule La conscience sans le corps n’est qu’une idée qui se regarde elle-même. pensée / attention / corps / passé Fo
 
 ### fr/public/posts/formula/lines/line-0002.html
 
 - lang: fr
 - section: public
-- title: Ashraellen — Ligne 0002
-- description: Ashraellen — Ligne 0002 is part of the Ashraellen multilingual public archive of literary, artistic and research work.
+- title: Ashraellen — Mot, silence, sens
+- description: Ligne archivée de formules Ashraellen sur le mot, le silence et le sens : formes brèves sur la langue, la précision et l’écoute.
 - canonical: https://www.ashraellen.com/fr/public/posts/formula/lines/line-0002.html
-- H1: _missing_
-- H2: _missing_
+- H1: Mot, silence, sens
+- H2: Formules de la ligne
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, 0002, ligne, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts
-- candidates: ashraellen, 0002, ligne, archive, artistic, literary, multilingual, part, public, research, work
+- suggested keyword seed: mot, sens, silence, ashraellen, formules, ligne, langue, public, sur, archivée, brèves, encore, formes, formula, formule, l’écoute, line, lines
+- candidates: mot, sens, silence, formule, pas, ligne, une, peut, encore, formules, langue, qui, actuelle, archivée, ashraellen, aussi, besoin, cacher, celui, elle, être, l’écoute, l’être, les
 
 Excerpt:
 
-> _empty_
+> Mot, silence, sens La deuxième ligne archivée de formules. Formules de la ligne Ligne actuelle Formule Les mots deviennent précis lorsqu’ils cessent de vouloir impressionner. mot / silence / sens Formule Le silence n’est pas l’absence de parole. C’est le lieu où le mot cesse de se cacher. mot / silence / sens Formule Le sens ne se prouve pas par le volume. Il se reconnaît par nécessité. mot / silence / sens Formule Un mot de trop garde souvent une place vide. mot / silence / sens Formule Une phrase vit lorsqu’elle porte une expérience, non le désir de paraître profonde. mot / silence / sens Formule Parfois l’honnêteté commence ainsi : je ne sais pas encore le nommer clairement. mot / silence / sens Formule La langue change l’être avant que l’être remarque qu’il a changé de langue. mot / silence / sens Formule Celui qui s’explique sans fin ne s’est souvent pas encore rencontré. mot / sile
 
 ### fr/public/posts/fragment/index.html
 
@@ -6023,68 +6041,68 @@ Excerpt:
 - lang: pl
 - section: public
 - title: Ashraellen — Droga, działanie, rytm
-- description: Aktualna linia formuł Ashraellen o drodze, działaniu i rytmie: krótkie myśli o ruchu, który dojrzewa do własnej miary.
+- description: Aktualna linia formuł Ashraellen o drodze, działaniu i rytmie: krótkie formy myśli, w których ruch uczy się swojej miary.
 - canonical: https://www.ashraellen.com/pl/public/posts/formula/
-- H1: _missing_
-- H2: _missing_
+- H1: Formuły
+- H2: Droga, działanie, rytm
 - H3: _missing_
-- suggested keyword seed: ashraellen, aktualna, dojrzewa, drodze, droga, działanie, działaniu, formuł, krótkie, który, linia, miary, public, formula, myśli, posts, ruchu, rytm
-- candidates: ashraellen, aktualna, dojrzewa, drodze, droga, działanie, działaniu, formuł, krótkie, który, linia, miary, myśli, ruchu, rytm, rytmie, własnej
+- suggested keyword seed: ashraellen, droga, działanie, rytm, formy, linia, public, się, aktualna, bez, czasem, drodze, działaniu, formuł, formula, formuła, formuły, krótkie
+- candidates: droga, działanie, rytm, formuła, nie, się, czasem, linia, zawsze, ashraellen, bez, formy, iść, myśli, przychodzi, szybko, tego, zaczyna, zbędnym, aktualna, ale, chroni, cierpliwość, ciszej
 
 Excerpt:
 
-> _empty_
+> Formuły Krótka forma myśli: jedna linia, jedno czyste trafienie. Droga, działanie, rytm Formuła Droga nie zaczyna się od pewności. Zaczyna się od pierwszego uczciwego kroku. droga / działanie / rytm Formuła Działanie bez wewnętrznego gruntu szybko zmienia się w hałas. droga / działanie / rytm Formuła Cierpliwość nie jest czekaniem na cud. Jest odmową łamania tego, co jeszcze niedojrzałe. droga / działanie / rytm Formuła Gdy idziesz własną drogą, cudze mapy stają się tylko materiałem pomocniczym. droga / działanie / rytm Formuła Siła nie zawsze pcha do przodu. Czasem zatrzymuje przed zbędnym krokiem. droga / działanie / rytm Formuła Czas nie leczy tego, co codziennie otwierasz na nowo. droga / działanie / rytm Formuła Nie każda pauza jest słabością. Czasem chroni kierunek. droga / działanie / rytm Formuła Decyzja dojrzewa wcześniej, niż przychodzą dla niej słowa. droga / działanie / rytm 
 
 ### pl/public/posts/formula/lines/index.html
 
 - lang: pl
 - section: public
 - title: Ashraellen — Granice, miara, własna forma
-- description: Linia formuł Ashraellen o granicach, mierze i własnej formie: zwięzłe myśli o zgodzie ze sobą i cichym prawie do istnienia.
+- description: Linia formuł Ashraellen o granicach, mierze i własnej formie: krótkie formy myśli o wewnętrznym limicie i powrocie do siebie.
 - canonical: https://www.ashraellen.com/pl/public/posts/formula/lines/
-- H1: _missing_
-- H2: _missing_
+- H1: Granice, miara, własna forma
+- H2: Formuły linii
 - H3: _missing_
-- suggested keyword seed: ashraellen, cichym, forma, formie, formuł, granicach, granice, istnienia, linia, miara, mierze, myśli, public, formula, lines, posts, prawie, sobą
-- candidates: ashraellen, cichym, forma, formie, formuł, granicach, granice, istnienia, linia, miara, mierze, myśli, prawie, sobą, własna, własnej, zgodzie, zwięzłe
+- suggested keyword seed: ashraellen, forma, miara, własna, granice, linia, public, aktualna, formie, formuł, formula, formuła, formuły, formy, gdy, granica, granicach, krótkie
+- candidates: forma, granica, miara, formuła, się, nie, linia, gdy, przestaje, własna, aktualna, ashraellen, bez, czasem, człowiek, człowieka, formuł, granice, każda, naprawdę, potrzebuje, staje, stało, wtedy
 
 Excerpt:
 
-> _empty_
+> Granice, miara, własna forma Trzecia linia formuł. Formuły linii Aktualna linia Formuła Granica pojawia się wtedy, gdy człowiek przestaje tłumaczyć swoje prawo do istnienia. granica / miara / forma Formuła Cudze zdanie staje się władzą dopiero po twojej wewnętrznej zgodzie. granica / miara / forma Formuła Zgoda ze sobą jest cichsza niż potrzeba udowodnienia wszystkiego. granica / miara / forma Formuła Nie każda otwartość jest bliskością. Czasem to tylko brak drzwi. granica / miara / forma Formuła To, czego trzeba bez końca bronić, nie stało się jeszcze naprawdę twoje. granica / miara / forma Formuła Dojrzałość zaczyna się wtedy, gdy człowiek przestaje spierać się ze swoją miarą. granica / miara / forma Formuła Własna forma nie potrzebuje pozwolenia cudzego gustu. granica / miara / forma Formuła Lęk przed prostotą często chowa się za złożonością. granica / miara / forma Formuła Granica ni
 
 ### pl/public/posts/formula/lines/line-0001.html
 
 - lang: pl
 - section: public
 - title: Ashraellen — Myśl, uwaga, ciało, przeszłość
-- description: Linia formuł Ashraellen 0001 o myśli, uwadze, ciele i zapamiętanej przeszłości: jedna linia, jeden precyzyjny zwrot do środka.
+- description: Archiwalna linia formuł Ashraellen o myśli, uwadze, ciele i przeszłości: krótkie formy obserwacji i pamięci.
 - canonical: https://www.ashraellen.com/pl/public/posts/formula/lines/line-0001.html
-- H1: _missing_
-- H2: _missing_
+- H1: Myśl, uwaga, ciało, przeszłość
+- H2: Formuły linii
 - H3: _missing_
-- suggested keyword seed: ashraellen, linia, 0001, ciało, ciele, formuł, jeden, jedna, myśl, myśli, precyzyjny, przeszłość, public, formula, line, lines, posts, przeszłości
-- candidates: ashraellen, linia, 0001, ciało, ciele, formuł, jeden, jedna, myśl, myśli, precyzyjny, przeszłość, przeszłości, środka, uwadze, uwaga, zapamiętanej, zwrot
+- suggested keyword seed: ashraellen, ciało, myśl, przeszłość, uwaga, public, 261, 263, 281, 322, 347, 380, archiwalna, ciele, formuł, formula, formuła, formuły
+- candidates: ciało, myśl, przeszłość, uwaga, 281, 261, formuła, 322, 347, 263, nie, 380, 243, linia, siebie, tylko, cia, gdy, nad, zaczyna, aktualna, archiwalna, ashraellen, formuł
 
 Excerpt:
 
-> _empty_
+> Myśl, uwaga, ciało, przeszłość Pierwsza archiwalna linia formuł. Formuły linii Aktualna linia Formuła My&#347;l przychodzi sama. Wolno&#347;&#263; zaczyna si&#281; wtedy, gdy cz&#322;owiek przestaje bra&#263; ka&#380;d&#261; my&#347;l za siebie. myśl / uwaga / ciało / przeszłość Formuła Panowanie nad sob&#261; nie jest panowaniem nad my&#347;lami. Jest panowaniem nad uwag&#261;. myśl / uwaga / ciało / przeszłość Formuła Pierwszej my&#347;li nie wybieramy. Wybieramy tylko, czy b&#281;dziemy j&#261; dalej karmi&#263;. myśl / uwaga / ciało / przeszłość Formuła My&#347;l, z kt&#243;r&#261; walczysz, &#380;ywi si&#281; sam&#261; walk&#261;. myśl / uwaga / ciało / przeszłość Formuła Uwa&#380;no&#347;&#263; nie zaczyna si&#281; od ciszy w g&#322;owie. Zaczyna si&#281; od: widz&#281;, &#380;e ta my&#347;l si&#281; pojawi&#322;a. myśl / uwaga / ciało / przeszłość Formuła Uwa&#380;no&#347;&#263; b
 
 ### pl/public/posts/formula/lines/line-0002.html
 
 - lang: pl
 - section: public
 - title: Ashraellen — Słowo, milczenie, sens
-- description: Linia formuł Ashraellen 0002 o słowie, milczeniu i sensie: krótkie formy, w których język przestaje grać i zaczyna słyszeć.
+- description: Archiwalna linia formuł Ashraellen o słowie, milczeniu i sensie: krótkie formy myśli o języku, precyzji i słyszeniu.
 - canonical: https://www.ashraellen.com/pl/public/posts/formula/lines/line-0002.html
-- H1: _missing_
-- H2: _missing_
+- H1: Słowo, milczenie, sens
+- H2: Formuły linii
 - H3: _missing_
-- suggested keyword seed: ashraellen, 0002, formuł, formy, grać, język, krótkie, których, linia, milczenie, milczeniu, przestaje, public, formula, line, lines, posts, sens
-- candidates: ashraellen, 0002, formuł, formy, grać, język, krótkie, których, linia, milczenie, milczeniu, przestaje, sens, sensie, słowie, słowo, słyszeć, zaczyna
+- suggested keyword seed: ashraellen, milczenie, sens, słowo, archiwalna, linia, public, aktualna, formuł, formula, formuła, formuły, formy, gdy, jeszcze, języku, krótkie, line
+- candidates: słowo, milczenie, sens, formuła, nie, się, linia, gdy, jeszcze, tego, aktualna, archiwalna, ashraellen, bywa, często, formuł, język, kto, którym, miejsca, myśl, potrzebuje, słowa, też
 
 Excerpt:
 
-> _empty_
+> Słowo, milczenie, sens Druga archiwalna linia formuł. Formuły linii Aktualna linia Formuła Słowa stają się celne, gdy przestają robić wrażenie. słowo / milczenie / sens Formuła Milczenie nie jest brakiem mowy. Jest miejscem, w którym słowo przestaje się chować. słowo / milczenie / sens Formuła Sensu nie udowadnia się głośnością. Sens rozpoznaje się po konieczności. słowo / milczenie / sens Formuła Zbędne słowo często pilnuje pustego miejsca. słowo / milczenie / sens Formuła Zdanie żyje wtedy, gdy niesie doświadczenie, a nie pragnienie, by brzmieć głęboko. słowo / milczenie / sens Formuła Czasem uczciwość zaczyna się od słów: jeszcze nie umiem tego nazwać jasno. słowo / milczenie / sens Formuła Język zmienia człowieka wcześniej, niż człowiek zauważy, że zmienił język. słowo / milczenie / sens Formuła Ten, kto bez końca siebie tłumaczy, często jeszcze się ze sobą nie spotkał. słowo / milcz
 
 ### pl/public/posts/fragment/index.html
 
@@ -7025,69 +7043,69 @@ Excerpt:
 
 - lang: pt
 - section: public
-- title: Ashraellen — Fórmulas — PT — posts / formula
-- description: Ashraellen — Fórmulas — PT is part of the Ashraellen multilingual public archive of literary, artistic and research work. Page context: pt / public / posts / formula.
+- title: Ashraellen — Caminho, ação, ritmo
+- description: Linha atual de fórmulas Ashraellen sobre caminho, ação e ritmo: formas breves de pensamento onde o movimento aprende sua medida.
 - canonical: https://www.ashraellen.com/pt/public/posts/formula/
-- H1: _missing_
-- H2: _missing_
+- H1: Fórmulas
+- H2: Caminho, ação, ritmo
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, formula, posts, fórmulas, archive, artistic, context, literary, multilingual, part, research, work
-- candidates: ashraellen, formula, fórmulas, posts, public, archive, artistic, context, literary, multilingual, part, research, work
+- suggested keyword seed: ação, caminho, ritmo, ashraellen, fórmulas, linha, public, aprende, atual, breves, com, formas, formula, fórmula, mais, medida, movimento, não
+- candidates: caminho, ação, ritmo, fórmula, não, com, vezes, nem, que, linha, mais, sempre, uma, ashraellen, breves, começa, decisão, ela, força, formas, fórmulas, mas, passo, pede
 
 Excerpt:
 
-> _empty_
+> Fórmulas Formas breves do pensamento: uma linha, uma precisão. Caminho, ação, ritmo Fórmula Um caminho não começa com certeza. Começa com o primeiro passo honesto. caminho / ação / ritmo Fórmula Ação sem chão interior logo vira ruído. caminho / ação / ritmo Fórmula Paciência não espera um milagre. Ela cuida do que ainda não amadureceu. caminho / ação / ritmo Fórmula Quando você segue o próprio caminho, os mapas dos outros viram apenas referência. caminho / ação / ritmo Fórmula A força nem sempre empurra para a frente. Às vezes segura o passo desnecessário. caminho / ação / ritmo Fórmula O tempo não cura o que você reabre todos os dias. caminho / ação / ritmo Fórmula Nem toda pausa é fraqueza. Às vezes ela protege a direção. caminho / ação / ritmo Fórmula Uma decisão amadurece antes que as palavras cheguem. caminho / ação / ritmo Fórmula A pressa muitas vezes se veste de decisão. caminho 
 
 ### pt/public/posts/formula/lines/index.html
 
 - lang: pt
 - section: public
-- title: Ashraellen — Fórmulas — PT — formula / lines
-- description: Ashraellen — Fórmulas — PT is part of the Ashraellen multilingual public archive of literary, artistic and research work. Page context: public / posts / formula / lines.
+- title: Ashraellen — Limites, medida, forma própria
+- description: Linha de fórmulas Ashraellen sobre limites, medida e forma própria: formas breves de pensamento sobre retorno a si.
 - canonical: https://www.ashraellen.com/pt/public/posts/formula/lines/
-- H1: _missing_
-- H2: _missing_
+- H1: Limites, medida, forma própria
+- H2: Fórmulas da linha
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, formula, lines, fórmulas, posts, archive, artistic, context, literary, multilingual, part, research, work
-- candidates: ashraellen, formula, fórmulas, lines, public, archive, artistic, context, literary, multilingual, part, posts, research, work
+- suggested keyword seed: forma, limites, medida, própria, ashraellen, fórmulas, linha, public, sobre, breves, formas, formula, fórmula, limite, lines, não, pensamento, posts
+- candidates: forma, medida, limite, fórmula, linha, não, própria, precisa, quando, seu, fórmulas, limites, pessoa, que, vezes, você, ashraellen, atual, nem, para, realmente, sem, sobre, toda
 
 Excerpt:
 
-> _empty_
+> Limites, medida, forma própria A terceira linha de fórmulas. Fórmulas da linha Linha atual Fórmula Um limite aparece quando a pessoa deixa de explicar seu direito de existir. limite / medida / forma Fórmula A opinião alheia só vira poder quando você consente por dentro. limite / medida / forma Fórmula Estar de acordo consigo faz menos barulho do que querer provar tudo. limite / medida / forma Fórmula Nem toda abertura é proximidade. Às vezes só falta uma porta. limite / medida / forma Fórmula O que precisa de defesa sem fim ainda não se tornou realmente seu. limite / medida / forma Fórmula A maturidade começa quando a pessoa para de discutir com a própria medida. limite / medida / forma Fórmula A forma própria não precisa da permissão do gosto alheio. limite / medida / forma Fórmula O medo da simplicidade muitas vezes se esconde atrás da complexidade. limite / medida / forma Fórmula Um l
 
 ### pt/public/posts/formula/lines/line-0001.html
 
 - lang: pt
 - section: public
-- title: Ashraellen — Linha 0001
-- description: Ashraellen — Linha 0001 is part of the Ashraellen multilingual public archive of literary, artistic and research work.
+- title: Ashraellen — Pensamento, atenção, corpo, passado
+- description: Linha arquivada de fórmulas Ashraellen sobre pensamento, atenção, corpo e passado: formas breves de observação e memória.
 - canonical: https://www.ashraellen.com/pt/public/posts/formula/lines/line-0001.html
-- H1: _missing_
-- H2: _missing_
+- H1: Pensamento, atenção, corpo, passado
+- H2: Fórmulas da linha
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, 0001, linha, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts
-- candidates: ashraellen, 0001, linha, archive, artistic, literary, multilingual, part, public, research, work
+- suggested keyword seed: atenção, corpo, passado, pensamento, ashraellen, fórmulas, linha, public, apenas, arquivada, breves, começa, formas, formula, fórmula, line, lines, memória
+- candidates: pensamento, corpo, atenção, passado, fórmula, não, linha, que, uma, começa, fórmulas, apenas, arquivada, ashraellen, atual, com, consciência, damos, escolhemos, estado, governar, liberdade, mas, mente
 
 Excerpt:
 
-> _empty_
+> Pensamento, atenção, corpo, passado A primeira linha arquivada de fórmulas. Fórmulas da linha Linha atual Fórmula Um pensamento vem por si. A liberdade começa quando deixamos de tomar cada pensamento por nós mesmos. pensamento / atenção / corpo / passado Fórmula Governar-se não é governar pensamentos. É governar a atenção. pensamento / atenção / corpo / passado Fórmula Não escolhemos o primeiro pensamento. Escolhemos se damos atenção a ele ou não. pensamento / atenção / corpo / passado Fórmula O pensamento ao qual damos tensão ganha força dessa tensão. pensamento / atenção / corpo / passado Fórmula A consciência não começa com uma mente silenciosa. Começa com: vejo que este pensamento apareceu. pensamento / atenção / corpo / passado Fórmula Consciência sem corpo é apenas uma ideia olhando para si mesma. pensamento / atenção / corpo / passado Fórmula O corpo fala antes que a mente invente
 
 ### pt/public/posts/formula/lines/line-0002.html
 
 - lang: pt
 - section: public
-- title: Ashraellen — Linha 0002
-- description: Ashraellen — Linha 0002 is part of the Ashraellen multilingual public archive of literary, artistic and research work.
+- title: Ashraellen — Palavra, silêncio, sentido
+- description: Linha arquivada de fórmulas Ashraellen sobre palavra, silêncio e sentido: formas breves sobre linguagem, precisão e escuta.
 - canonical: https://www.ashraellen.com/pt/public/posts/formula/lines/line-0002.html
-- H1: _missing_
-- H2: _missing_
+- H1: Palavra, silêncio, sentido
+- H2: Fórmulas da linha
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, 0002, linha, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts
-- candidates: ashraellen, 0002, linha, archive, artistic, literary, multilingual, part, public, research, work
+- suggested keyword seed: palavra, sentido, silêncio, ashraellen, fórmulas, linha, linguagem, public, sobre, ainda, arquivada, breves, escuta, formas, formula, fórmula, line, lines
+- candidates: palavra, sentido, silêncio, fórmula, não, linha, uma, ainda, lugar, pode, fórmulas, linguagem, quando, que, vezes, apenas, arquivada, ashraellen, atual, esconder, escuta, frase, muitas, onde
 
 Excerpt:
 
-> _empty_
+> Palavra, silêncio, sentido A segunda linha arquivada de fórmulas. Fórmulas da linha Linha atual Fórmula As palavras ficam precisas quando deixam de querer impressionar. palavra / silêncio / sentido Fórmula O silêncio não é falta de fala. É o lugar onde a palavra deixa de se esconder. palavra / silêncio / sentido Fórmula O sentido não se prova pelo volume. Reconhece-se pela necessidade. palavra / silêncio / sentido Fórmula Uma palavra a mais muitas vezes guarda um lugar vazio. palavra / silêncio / sentido Fórmula Uma frase vive quando carrega experiência, não vontade de parecer profunda. palavra / silêncio / sentido Fórmula Às vezes a honestidade começa assim: ainda não sei nomear isso com clareza. palavra / silêncio / sentido Fórmula A linguagem muda a pessoa antes que a pessoa perceba que mudou a própria linguagem. palavra / silêncio / sentido Fórmula Quem se explica sem parar muitas ve
 
 ### pt/public/posts/fragment/index.html
 
@@ -8096,69 +8114,69 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Формулы — Russian
-- description: Формулы Четвёртая линия Формулы Лаконичные формулировки: одна мысль — один точный удар. Четвёртая линия следующая линия Формула Путь начинается не с уверенности, а с согласия сделать первый честный шаг. путь /…
+- title: Ashraellen — Путь, действие, ритм
+- description: Актуальная линия формул Ashraellen о пути, действии и ритме: короткие формы мысли, где движение учится своей мере.
 - canonical: https://www.ashraellen.com/ru/public/posts/formula/
 - H1: Формулы
-- H2: Четвёртая линия
+- H2: Путь, действие, ритм
 - H3: _missing_
-- suggested keyword seed: линия, формулы, путь, четвёртая, ashraellen, public, следующая, формула, шаг, formula, posts, russian, верность, время, всегда, иногда, лаконичные, мысль
-- candidates: формула, путь, линия, иногда, формулы, шаг, верность, время, всегда, сила, следующая, человек, четвёртая, быстро, действие, день, лаконичные, лишнего, мысль, направление, начинается, один, одна, ожидание
+- suggested keyword seed: ashraellen, действие, путь, ритм, public, линия, formula, posts, актуальная, быстро, всегда, где, движение, действии, иногда, короткие, лишнего, мере
+- candidates: путь, действие, ритм, формула, иногда, всегда, человек, ashraellen, быстро, линия, лишнего, она, приходит, пути, mark, presence, актуальная, без, вдохновением, верность, внутренней, вперёд, время, всякая
 
 Excerpt:
 
-> Формулы Лаконичные формулировки: одна мысль — один точный удар. Четвёртая линия следующая линия Формула Путь начинается не с уверенности, а с согласия сделать первый честный шаг. путь / честность / шаг Формула Действие без внутренней опоры быстро превращается в суету. действие / опора / суета Формула Терпение — это не ожидание чуда, а отказ ломать незрелое. терпение / зрелость / ожидание Формула Когда человек идёт своим путём, чужие карты становятся только справочником. путь / карта / своё Формула Сила не всегда толкает вперёд. Иногда она удерживает от лишнего шага. сила / шаг / удержание Формула Время не лечит то, что человек продолжает каждый день открывать заново. время / рана / повторение Формула Не всякая остановка — слабость. Иногда это способ не предать направление. остановка / направление / верность Формула Решение созревает раньше, чем человек находит слова для него. решение / с
+> Формулы Лаконичные формулировки: одна мысль — один точный удар. Путь, действие, ритм Формула Путь начинается не с уверенности, а с согласия сделать первый честный шаг. путь / действие / ритм Формула Действие без внутренней опоры быстро превращается в суету. путь / действие / ритм Формула Терпение — это не ожидание чуда, а отказ ломать незрелое. путь / действие / ритм Формула Когда человек идёт своим путём, чужие карты становятся только справочником. путь / действие / ритм Формула Сила не всегда толкает вперёд. Иногда она удерживает от лишнего шага. путь / действие / ритм Формула Время не лечит то, что человек продолжает каждый день открывать заново. путь / действие / ритм Формула Не всякая остановка — слабость. Иногда это способ не предать направление. путь / действие / ритм Формула Решение созревает раньше, чем человек находит слова для него. путь / действие / ритм Формула Поспешность ч
 
 ### ru/public/posts/formula/lines/index.html
 
 - lang: ru
 - section: public
-- title: Ashraellen — Третья линия формул
-- description: Границы, мера, своя форма Формулы линии Границы, мера, своя форма Третья линия формул. Формулы линии актуальная линия Формула Граница появляется там, где человек перестаёт объяснять своё право быть. граница / право…
+- title: Ashraellen — Границы, мера, своя форма
+- description: Линия формул Ashraellen о границах, мере и своей форме: короткие формы мысли о внутренней опоре и возвращении к себе.
 - canonical: https://www.ashraellen.com/ru/public/posts/formula/lines/
 - H1: Границы, мера, своя форма
 - H2: Формулы линии
 - H3: _missing_
-- suggested keyword seed: линия, мера, своя, форма, граница, границы, линии, право, формулы, ashraellen, public, быть, где, перестаёт, своё, третья, формул, формула
-- candidates: формула, линия, граница, мера, перестаёт, форма, быть, где, зрелость, право, своё, своя, там, человек, актуальная, границы, иногда, линии, согласие, тишина, третья, формул, формулы, без
+- suggested keyword seed: ashraellen, мера, своя, форма, public, границы, линия, formula, lines, posts, актуальная, внутренней, возвращении, где, граница, границах, иногда, короткие
+- candidates: форма, граница, мера, формула, линия, перестаёт, где, иногда, своя, там, ashraellen, актуальная, без, быть, границы, своей, себе, стало, становится, формул, человек, человека, mark, presence
 
 Excerpt:
 
-> Границы, мера, своя форма Третья линия формул. Формулы линии актуальная линия Формула Граница появляется там, где человек перестаёт объяснять своё право быть. граница / право быть / тишина Формула Чужое мнение становится властью только после внутреннего согласия. мнение / власть / согласие Формула Согласие с собой тише, чем желание всем доказать. согласие / доказательство / тишина Формула Не всякая открытость — близость. Иногда это просто отсутствие двери. открытость / близость / дверь Формула То, что требует постоянной защиты, ещё не стало внутренним. защита / внутреннее / зрелость Формула Зрелость начинается там, где человек перестаёт спорить со своей мерой. зрелость / мера / спор Формула Своя форма не просит разрешения у чужого вкуса. форма / вкус / самостоятельность Формула Тот, кто боится быть простым, часто прячется за сложностью. простота / сложность / страх Формула Граница не отд
+> Границы, мера, своя форма Третья линия формул. Формулы линии Актуальная линия Формула Граница появляется там, где человек перестаёт объяснять своё право быть. граница / мера / форма Формула Чужое мнение становится властью только после внутреннего согласия. граница / мера / форма Формула Согласие с собой тише, чем желание всем доказать. граница / мера / форма Формула Не всякая открытость — близость. Иногда это просто отсутствие двери. граница / мера / форма Формула То, что требует постоянной защиты, ещё не стало внутренним. граница / мера / форма Формула Зрелость начинается там, где человек перестаёт спорить со своей мерой. граница / мера / форма Формула Своя форма не просит разрешения у чужого вкуса. граница / мера / форма Формула Тот, кто боится быть простым, часто прячется за сложностью. граница / мера / форма Формула Граница не отдаляет от людей. Она возвращает человека себе. граница 
 
 ### ru/public/posts/formula/lines/line-0001.html
 
 - lang: ru
 - section: public
-- title: Ashraellen — Первая линия формул
-- description: Мысль, внимание, тело, прошлое Формулы линии Мысль, внимание, тело, прошлое Первая архивная линия формул. Формулы линии актуальная линия Формула Мысль возникает сама. Свобода начинается там, где человек перестаёт…
+- title: Ashraellen — Мысль, внимание, тело, прошлое
+- description: Архивная линия формул Ashraellen о мысли, внимании, теле и прошлом: короткие формы наблюдения о внутреннем движении и памяти.
 - canonical: https://www.ashraellen.com/ru/public/posts/formula/lines/line-0001.html
 - H1: Мысль, внимание, тело, прошлое
 - H2: Формулы линии
 - H3: _missing_
-- suggested keyword seed: мысль, внимание, линия, прошлое, тело, линии, первая, формулы, ashraellen, public, актуальная, формул, формула, человек, formula, line, lines, posts
-- candidates: формула, мысль, тело, линия, внимание, прошлое, власть, освобождение, первая, человек, актуальная, версия, линии, над, начинается, осознанность, практика, свобода, себя, состояние, формул, формулы, архивная, биохимия
+- suggested keyword seed: ashraellen, внимание, мысль, прошлое, тело, public, архивная, линия, formula, line, lines, posts, актуальная, власть, внимании, внутреннем, движении, короткие
+- candidates: мысль, тело, прошлое, внимание, формула, линия, власть, над, человек, ashraellen, актуальная, архивная, вниманием, когда, начинается, освобождение, осознанность, первая, себе, себя, события, состояние, становится, страдает
 
 Excerpt:
 
-> Мысль, внимание, тело, прошлое Первая архивная линия формул. Формулы линии актуальная линия Формула Мысль возникает сама. Свобода начинается там, где человек перестаёт становиться каждой мыслью. мысль / свобода / наблюдение Формула Власть над собой — это не власть над мыслями, а власть над вниманием. внимание / власть / самонаблюдение Формула Мы не выбираем первую мысль. Но можем выбрать, кормить её вниманием или нет. выбор / внимание / мысль Формула Мысль, с которой борются, получает силу от самой борьбы. борьба / мысль / энергия Формула Осознанность начинается не с тишины в голове, а с фразы: "Я вижу, что эта мысль возникла". осознанность / тишина / свидетель Формула Осознанность без тела — это концепция, которая наблюдает саму себя. тело / концепция / практика Формула Тело говорит раньше, чем ум успевает сочинить объяснение. тело / ум / объяснение Формула Тело — первая дверь к себе, н
+> Мысль, внимание, тело, прошлое Первая архивная линия формул. Формулы линии Актуальная линия Формула Мысль возникает сама. Свобода начинается там, где человек перестаёт становиться каждой мыслью. мысль / внимание / тело / прошлое Формула Власть над собой — это не власть над мыслями, а власть над вниманием. мысль / внимание / тело / прошлое Формула Мы не выбираем первую мысль. Но можем выбрать, кормить её вниманием или нет. мысль / внимание / тело / прошлое Формула Мысль, с которой борются, получает силу от самой борьбы. мысль / внимание / тело / прошлое Формула Осознанность начинается не с тишины в голове, а с фразы: «Я вижу, что эта мысль возникла». мысль / внимание / тело / прошлое Формула Осознанность без тела — это концепция, которая наблюдает саму себя. мысль / внимание / тело / прошлое Формула Тело говорит раньше, чем ум успевает сочинить объяснение. мысль / внимание / тело / прошло
 
 ### ru/public/posts/formula/lines/line-0002.html
 
 - lang: ru
 - section: public
-- title: Ashraellen — Вторая линия формул
-- description: Слово, молчание, смысл Формулы линии Слово, молчание, смысл Вторая архивная линия формул. Формулы линии актуальная линия Формула Слова становятся точными, когда перестают служить впечатлению. слово / впечатление /…
+- title: Ashraellen — Слово, молчание, смысл
+- description: Архивная линия формул Ashraellen о слове, молчании и смысле: короткие формы мысли о языке, точности и слышании.
 - canonical: https://www.ashraellen.com/ru/public/posts/formula/lines/line-0002.html
 - H1: Слово, молчание, смысл
 - H2: Формулы линии
 - H3: _missing_
-- suggested keyword seed: слово, линии, линия, молчание, смысл, вторая, формулы, ashraellen, public, актуальная, когда, формул, формула, formula, line, lines, posts, архивная
-- candidates: формула, слово, линия, молчание, смысл, когда, место, мысль, актуальная, вторая, иногда, линии, объяснение, слова, точность, формул, формулы, фраза, человек, язык, архивная, бывает, впечатление, впечатлению
+- suggested keyword seed: ashraellen, молчание, слово, смысл, public, архивная, линия, formula, line, lines, posts, актуальная, бывает, иногда, когда, короткие, линии, место
+- candidates: слово, молчание, смысл, формула, линия, иногда, когда, место, ashraellen, актуальная, архивная, бывает, где, ещё, кто, мысль, слова, становится, формул, фраза, часто, язык, mark, presence
 
 Excerpt:
 
-> Слово, молчание, смысл Вторая архивная линия формул. Формулы линии актуальная линия Формула Слова становятся точными, когда перестают служить впечатлению. слово / впечатление / точность Формула Молчание — не отсутствие речи, а место, где слово перестаёт прятаться. молчание / слово / присутствие Формула Смысл не доказывают громкостью. Его узнают по внутренней необходимости. смысл / необходимость / узнавание Формула Лишнее слово часто защищает пустое место. лишнее слово / пустота / защита Формула Фраза становится живой, когда за ней есть опыт, а не желание звучать глубоко. опыт / фраза / живость Формула Иногда честность начинается с признания: я пока не могу назвать это точно. честность / точность / признание Формула Язык меняет человека раньше, чем человек замечает, что изменил язык. язык / изменение / человек Формула Тот, кто всё время объясняет себя, часто ещё не встретился с собой. объ
+> Слово, молчание, смысл Вторая архивная линия формул. Формулы линии Актуальная линия Формула Слова становятся точными, когда перестают служить впечатлению. слово / молчание / смысл Формула Молчание — не отсутствие речи, а место, где слово перестаёт прятаться. слово / молчание / смысл Формула Смысл не доказывают громкостью. Его узнают по внутренней необходимости. слово / молчание / смысл Формула Лишнее слово часто защищает пустое место. слово / молчание / смысл Формула Фраза становится живой, когда за ней есть опыт, а не желание звучать глубоко. слово / молчание / смысл Формула Иногда честность начинается с признания: я пока не могу назвать это точно. слово / молчание / смысл Формула Язык меняет человека раньше, чем человек замечает, что изменил язык. слово / молчание / смысл Формула Тот, кто всё время объясняет себя, часто ещё не встретился с собой. слово / молчание / смысл Формула Точная
 
 ### ru/public/posts/fragment/index.html
 
@@ -9218,69 +9236,69 @@ Excerpt:
 
 - lang: uk
 - section: public
-- title: Ashraellen — Формули
-- description: Ashraellen — Формули is part of the Ashraellen multilingual public archive of literary, artistic and research work.
+- title: Ashraellen — Шлях, дія, ритм
+- description: Актуальна лінія формул Ashraellen про шлях, дію і ритм: короткі форми думки, у яких рух знаходить свою міру.
 - canonical: https://www.ashraellen.com/uk/public/posts/formula/
-- H1: _missing_
-- H2: _missing_
+- H1: Формули
+- H2: Шлях, дія, ритм
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, формули, archive, artistic, literary, multilingual, part, research, work, formula, posts
-- candidates: ashraellen, формули, archive, artistic, literary, multilingual, part, public, research, work
+- suggested keyword seed: ashraellen, ритм, шлях, дія, public, думки, короткі, лінія, форми, formula, posts, актуальна, вона, дію, завжди, знаходить, іноді, міру
+- candidates: шлях, дія, ритм, формула, іноді, вона, завжди, форми, ashraellen, думки, короткі, лінія, починається, приходить, просить, швидко, mark, presence, актуальна, але, без, береже, вдягається, відкриваєш
 
 Excerpt:
 
-> _empty_
+> Формули Короткі форми думки: один рядок, одна точність. Шлях, дія, ритм Формула Шлях не починається з упевненості. Він починається з першого чесного кроку. шлях / дія / ритм Формула Дія без внутрішнього ґрунту швидко стає шумом. шлях / дія / ритм Формула Терпіння не чекає дива. Воно береже те, що ще не дозріло. шлях / дія / ритм Формула Коли йдеш своїм шляхом, чужі карти стають лише довідником. шлях / дія / ритм Формула Сила не завжди штовхає вперед. Іноді вона зупиняє зайвий крок. шлях / дія / ритм Формула Час не лікує того, що ти відкриваєш щодня. шлях / дія / ритм Формула Не кожна пауза — слабкість. Іноді вона захищає напрям. шлях / дія / ритм Формула Рішення дозріває раніше, ніж приходять слова. шлях / дія / ритм Формула Поспіх часто вдягається в рішучість. шлях / дія / ритм Формула Шлях перевіряє не натхнення, а звичайний день. шлях / дія / ритм Формула Те, що справді твоє, не завжд
 
 ### uk/public/posts/formula/lines/index.html
 
 - lang: uk
 - section: public
-- title: Ashraellen — Лінія формул — Ukrainian
-- description: Ashraellen — Лінія формул — Ukrainian is part of the Ashraellen multilingual public archive of literary, artistic and research work.
+- title: Ashraellen — Межі, міра, своя форма
+- description: Лінія формул Ashraellen про межі, міру і свою форму: короткі форми думки про внутрішню межу і повернення до себе.
 - canonical: https://www.ashraellen.com/uk/public/posts/formula/lines/
-- H1: _missing_
-- H2: _missing_
+- H1: Межі, міра, своя форма
+- H2: Формули лінії
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, ukrainian, лінія, формул, archive, artistic, literary, multilingual, part, research, work, formula, lines, posts
-- candidates: ashraellen, ukrainian, лінія, формул, archive, artistic, literary, multilingual, part, public, research, work
+- suggested keyword seed: ashraellen, межі, міра, своя, форма, public, лінія, про, formula, lines, posts, актуальна, без, внутрішню, всяка, думки, короткі, лінії
+- candidates: форма, межа, міра, формула, лінія, межі, перестає, своя, ashraellen, актуальна, без, всяка, іноді, коли, людина, людину, потребує, про, самотність, справді, стає, стало, твоїм, формул
 
 Excerpt:
 
-> _empty_
+> Межі, міра, своя форма Третя лінія формул. Формули лінії Актуальна лінія Формула Межа з’являється тоді, коли людина перестає пояснювати своє право існувати. межа / міра / форма Формула Чужа думка стає владою тільки після твоєї внутрішньої згоди. межа / міра / форма Формула Згода із собою тихіша за потребу все довести. межа / міра / форма Формула Не всяка відкритість — близькість. Іноді це лише відсутність дверей. межа / міра / форма Формула Те, що треба без кінця захищати, ще не стало справді твоїм. межа / міра / форма Формула Зрілість починається там, де людина перестає сперечатися зі своєю мірою. межа / міра / форма Формула Своя форма не потребує дозволу чужого смаку. межа / міра / форма Формула Страх простоти часто ховається за складністю. межа / міра / форма Формула Межа не віддаляє від людей. Вона повертає людину собі. межа / міра / форма Формула Іноді сказати ні — це перша тиха фор
 
 ### uk/public/posts/formula/lines/line-0001.html
 
 - lang: uk
 - section: public
-- title: Ashraellen — Лінія 0001 — Ukrainian
-- description: Ashraellen — Лінія 0001 — Ukrainian is part of the Ashraellen multilingual public archive of literary, artistic and research work.
+- title: Ashraellen — Думка, увага, тіло, минуле
+- description: Архівна лінія формул Ashraellen про думку, увагу, тіло і минуле: короткі форми спостереження і пам’яті.
 - canonical: https://www.ashraellen.com/uk/public/posts/formula/lines/line-0001.html
-- H1: _missing_
-- H2: _missing_
+- H1: Думка, увага, тіло, минуле
+- H2: Формули лінії
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, 0001, ukrainian, лінія, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts
-- candidates: ashraellen, 0001, ukrainian, лінія, archive, artistic, literary, multilingual, part, public, research, work
+- suggested keyword seed: минуле, тіло, ashraellen, думка, увага, public, думку, лінія, увагу, formula, line, lines, posts, архівна, від, владнати, короткі, лінії
+- candidates: думка, тіло, минуле, увага, формула, лінія, від, себе, владнати, думку, починається, увагу, ashraellen, актуальна, архівна, далі, коли, людина, обираємо, перестає, приходить, свобода, стан, усвідомлення
 
 Excerpt:
 
-> _empty_
+> Думка, увага, тіло, минуле Перша архівна лінія формул. Формули лінії Актуальна лінія Формула Думка приходить сама. Свобода починається там, де людина перестає приймати кожну думку за себе. думка / увага / тіло / минуле Формула Владнати себе — це не владнати думки. Це владнати увагу. думка / увага / тіло / минуле Формула Першу думку ми не обираємо. Ми обираємо, чи давати їй увагу далі. думка / увага / тіло / минуле Формула Думка, якій ми даємо напругу, живиться цією напругою. думка / увага / тіло / минуле Формула Усвідомлення не починається з тиші в голові. Воно починається з: я бачу, що ця думка з’явилася. думка / увага / тіло / минуле Формула Усвідомлення без тіла — лише ідея, що дивиться на себе. думка / увага / тіло / минуле Формула Тіло говорить раніше, ніж розум вигадує причину. думка / увага / тіло / минуле Формула Тіло — перші двері назад до себе, не весь дім. думка / увага / тіло
 
 ### uk/public/posts/formula/lines/line-0002.html
 
 - lang: uk
 - section: public
-- title: Ashraellen — Лінія 0002 — Ukrainian
-- description: Ashraellen — Лінія 0002 — Ukrainian is part of the Ashraellen multilingual public archive of literary, artistic and research work.
+- title: Ashraellen — Слово, мовчання, сенс
+- description: Архівна лінія формул Ashraellen про слово, мовчання і сенс: короткі форми думки про мову, точність і слухання.
 - canonical: https://www.ashraellen.com/uk/public/posts/formula/lines/line-0002.html
-- H1: _missing_
-- H2: _missing_
+- H1: Слово, мовчання, сенс
+- H2: Формули лінії
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, 0002, ukrainian, лінія, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts
-- candidates: ashraellen, 0002, ukrainian, лінія, archive, artistic, literary, multilingual, part, public, research, work
+- suggested keyword seed: ashraellen, мовчання, сенс, слово, public, архівна, лінія, про, formula, line, lines, posts, актуальна, бути, думки, коли, короткі, лінії
+- candidates: слово, мовчання, сенс, формула, лінія, місце, може, коли, ashraellen, актуальна, архівна, бути, мову, про, слова, слухання, того, формул, фраза, хто, часто, mark, presence, бажання
 
 Excerpt:
 
-> _empty_
+> Слово, мовчання, сенс Друга архівна лінія формул. Формули лінії Актуальна лінія Формула Слова стають точними, коли перестають хотіти вражати. слово / мовчання / сенс Формула Мовчання — не брак мовлення. Це місце, де слово перестає ховатися. слово / мовчання / сенс Формула Сенс не доводять гучністю. Його впізнають за необхідністю. слово / мовчання / сенс Формула Зайве слово часто стереже порожнє місце. слово / мовчання / сенс Формула Фраза живе, коли несе досвід, а не бажання звучати глибоко. слово / мовчання / сенс Формула Іноді чесність починається так: я ще не можу назвати це ясно. слово / мовчання / сенс Формула Мова змінює людину раніше, ніж людина помічає, що змінила свою мову. слово / мовчання / сенс Формула Той, хто без кінця пояснює себе, часто ще не зустрівся із собою. слово / мовчання / сенс Формула Точній думці не потрібні прикраси. Їй потрібне тільки її місце. слово / мовчанн
 
 ### uk/public/posts/fragment/index.html
 
