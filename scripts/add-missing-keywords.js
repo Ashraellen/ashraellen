@@ -32,7 +32,7 @@ function between(html, name) {
   return plain(m ? m[1] : '');
 }
 function desc(html) {
-  const re = new RegExp(LT + 'meta[^' + GT + ']+name=["\\']description["\\'][^' + GT + ']+content=["\\']([^"\\']*)["\\'][^' + GT + ']*' + GT, 'i');
+  const re = new RegExp(LT + "meta[^" + GT + "]+name=[\"']description[\"'][^" + GT + "]+content=[\"']([^\"']*)[\"'][^" + GT + "]*" + GT, 'i');
   const m = html.match(re);
   return clean(m ? m[1] : '');
 }
@@ -62,7 +62,7 @@ function headMatch(html) {
   return html.match(re);
 }
 function hasKeywords(head) {
-  const re = new RegExp(LT + 'meta[^' + GT + ']+name=["\\']keywords["\\'][^' + GT + ']*' + GT, 'i');
+  const re = new RegExp(LT + "meta[^" + GT + "]+name=[\"']keywords[\"'][^" + GT + "]*" + GT, 'i');
   return re.test(head);
 }
 
@@ -74,7 +74,7 @@ for (const file of walk(ROOT)) {
   if (!m || hasKeywords(m[1])) continue;
   const line = '    ' + tag('meta', 'name="keywords" content="' + esc(keywords(html, page)) + '"');
   let newHead = m[1];
-  const descRe = new RegExp('(' + LT + 'meta[^' + GT + ']+name=["\\']description["\\'][^' + GT + ']*' + GT + ')', 'i');
+  const descRe = new RegExp('(' + LT + "meta[^" + GT + "]+name=[\"']description[\"'][^" + GT + "]*" + GT + ')', 'i');
   if (descRe.test(newHead)) newHead = newHead.replace(descRe, '$1\n' + line);
   else newHead = newHead + '\n' + line;
   fs.writeFileSync(file, html.replace(m[1], newHead));
