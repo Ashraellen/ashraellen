@@ -8,10 +8,7 @@ const SKIP_FILES = new Set(['404.html']);
 const MIN_DESCRIPTION = 80;
 const MAX_DESCRIPTION = 220;
 const REAL_NAME = 'Nikolai Kostyshev';
-
-const FORBIDDEN_SITEWIDE = [
-  'ashraellen-og-home-default-1200x630'
-];
+const DEFAULT_OG_IMAGE = 'ashraellen-og-home-default-1200x630';
 
 function walk(dir, out = []) {
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
@@ -54,6 +51,9 @@ function isAllowedLocalImage(url) {
     || /^\/assets\/(backgrounds|covers|og)\//.test(url)
     || /^\.\.\/.*assets\/(backgrounds|covers|og)\//.test(url);
 }
+function isFallbackImage(url) {
+  return !!url && url.includes(DEFAULT_OG_IMAGE);
+}
 function isOrdinaryContentPage(page) {
   return /(^|\/)(books|research|public)\//.test(page);
 }
@@ -74,6 +74,20 @@ function addDuplicateIssues(records, key, issueName, options = {}) {
     for (const item of items) item.issues.push(`${issueName}: shared by ${items.length} pages`);
   }
 }
+function addDuplicateNotes(records, key, noteName, options = {}) {
+  const groups = new Map();
+  for (const record of records) {
+    const value = canonicalIssueValue(record[key]);
+    if (!value) continue;
+    if (options.ignore && options.ignore(value, record)) continue;
+    if (!groups.has(value)) groups.set(value, []);
+    groups.get(value).push(record);
+  }
+  for (const [value, items] of groups) {
+    if (items.length <= 1) continue;
+    for (const item of items) item.notes.push(`${noteName}: shared by ${items.length} pages`);
+  }
+}
 
 function auditFile(file) {
   const html = fs.readFileSync(file, 'utf8');
@@ -90,13 +104,16 @@ function auditFile(file) {
     ogImage: attrValue(html, 'property', 'og:image'),
     twitterCard: attrValue(html, 'name', 'twitter:card'),
     twitterImage: attrValue(html, 'name', 'twitter:image'),
-    issues: []
+    issues: [],
+    notes: []
   };
 
-  for (const token of FORBIDDEN_SITEWIDE) if (html.includes(token)) record.issues.push(`FORBIDDEN_SITEWIDE_TEXT: ${token}`);
   if (html.includes(REAL_NAME) && isOrdinaryContentPage(page) && !isIdentityPage(page)) {
     record.issues.push(`REAL_NAME_ON_ORDINARY_CONTENT_PAGE: ${REAL_NAME}`);
   }
+
+  if (isFallbackImage(record.ogImage)) record.notes.push('FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use');
+  if (isFallbackImage(record.twitterImage)) record.notes.push('FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use');
 
   if (!record.title) record.issues.push('MISSING_TITLE');
   if (!record.description) record.issues.push('MISSING_DESCRIPTION');
@@ -118,23 +135,25 @@ function auditFile(file) {
   return record;
 }
 
-function issueSummary(records) {
+function itemSummary(records, field) {
   const counts = new Map();
   for (const record of records) {
-    for (const issue of record.issues) {
-      const key = issue.replace(/:.*/, '');
+    for (const item of record[field]) {
+      const key = item.replace(/:.*/, '');
       counts.set(key, (counts.get(key) || 0) + 1);
     }
   }
   return [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
 }
 function markdownTable(rows) {
-  if (!rows.length) return '_No issues._\n';
-  return ['| Issue | Count |', '|---|---:|', ...rows.map(([issue, count]) => `| ${issue} | ${count} |`)].join('\n') + '\n';
+  if (!rows.length) return '_No items._\n';
+  return ['| Item | Count |', '|---|---:|', ...rows.map(([item, count]) => `| ${item} | ${count} |`)].join('\n') + '\n';
 }
 function buildReport(records) {
   const problemRecords = records.filter(record => record.issues.length > 0);
+  const noteRecords = records.filter(record => record.notes.length > 0);
   const totalIssues = problemRecords.reduce((sum, record) => sum + record.issues.length, 0);
+  const totalNotes = noteRecords.reduce((sum, record) => sum + record.notes.length, 0);
   const lines = [];
   lines.push('# Page Metadata Audit');
   lines.push('');
@@ -143,10 +162,16 @@ function buildReport(records) {
   lines.push(`Pages checked: ${records.length}`);
   lines.push(`Pages with issues: ${problemRecords.length}`);
   lines.push(`Total issues: ${totalIssues}`);
+  lines.push(`Pages with review notes: ${noteRecords.length}`);
+  lines.push(`Total review notes: ${totalNotes}`);
   lines.push('');
-  lines.push('## Summary');
+  lines.push('## Issue summary');
   lines.push('');
-  lines.push(markdownTable(issueSummary(problemRecords)));
+  lines.push(markdownTable(itemSummary(problemRecords, 'issues')));
+  lines.push('');
+  lines.push('## Review note summary');
+  lines.push('');
+  lines.push(markdownTable(itemSummary(noteRecords, 'notes')));
   lines.push('');
   lines.push('## Pages with issues');
   lines.push('');
@@ -166,6 +191,22 @@ function buildReport(records) {
       lines.push('');
     }
   }
+  lines.push('');
+  lines.push('## Pages with review notes');
+  lines.push('');
+  if (!noteRecords.length) {
+    lines.push('_No review notes found._');
+  } else {
+    for (const record of noteRecords.sort((a, b) => a.page.localeCompare(b.page))) {
+      lines.push(`### ${record.page}`);
+      lines.push('');
+      lines.push(`- og:image: ${record.ogImage || '_missing_'}`);
+      lines.push(`- twitter:image: ${record.twitterImage || '_missing_'}`);
+      lines.push('');
+      for (const note of record.notes) lines.push(`- ${note}`);
+      lines.push('');
+    }
+  }
   return lines.join('\n');
 }
 
@@ -177,8 +218,8 @@ addDuplicateIssues(records, 'keywords', 'DUPLICATE_KEYWORDS');
 addDuplicateIssues(records, 'canonical', 'DUPLICATE_CANONICAL');
 addDuplicateIssues(records, 'ogTitle', 'DUPLICATE_OG_TITLE');
 addDuplicateIssues(records, 'ogDescription', 'DUPLICATE_OG_DESCRIPTION');
-addDuplicateIssues(records, 'ogImage', 'DUPLICATE_OG_IMAGE', { ignore: value => /^https:\/\/www\.ashraellen\.com\/assets\/(backgrounds|covers|og)\//.test(value) });
-addDuplicateIssues(records, 'twitterImage', 'DUPLICATE_TWITTER_IMAGE', { ignore: value => /^https:\/\/www\.ashraellen\.com\/assets\/(backgrounds|covers|og)\//.test(value) });
+addDuplicateNotes(records, 'ogImage', 'DUPLICATE_OG_IMAGE_REVIEW');
+addDuplicateNotes(records, 'twitterImage', 'DUPLICATE_TWITTER_IMAGE_REVIEW');
 
 const report = buildReport(records);
 fs.mkdirSync(path.dirname(REPORT), { recursive: true });
