@@ -7,6 +7,7 @@ on:
     paths:
       - '**/*.html'
       - 'scripts/add-missing-keywords.js'
+      - 'scripts/clean-public-identity-head.py'
       - 'scripts/audit-page-metadata.js'
       - 'scripts/export-page-keyword-workbench.js'
       - 'scripts/generate-sitemap.js'
@@ -35,6 +36,9 @@ jobs:
 
       - name: Add missing static keywords
         run: node scripts/add-missing-keywords.js
+
+      - name: Clean public identity in ordinary page metadata
+        run: python3 scripts/clean-public-identity-head.py
 
       - name: Audit page metadata
         run: node scripts/audit-page-metadata.js
