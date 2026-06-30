@@ -1,17 +1,18 @@
 # Page Metadata Audit
 
-Generated: 2026-06-30T07:48:28.169Z
+Generated: 2026-06-30T08:09:37.173Z
 
 Pages checked: 551
 Pages with issues: 551
-Total issues: 2190
+Total issues: 2150
 
 ## Summary
 
 | Issue | Count |
 |---|---:|
-| FORBIDDEN_TEXT | 1086 |
 | MISSING_KEYWORDS | 551 |
+| FORBIDDEN_SITEWIDE_TEXT | 546 |
+| REAL_NAME_ON_ORDINARY_CONTENT_PAGE | 500 |
 | DUPLICATE_TITLE | 106 |
 | DUPLICATE_OG_DESCRIPTION | 103 |
 | DUPLICATE_OG_TITLE | 103 |
@@ -39,8 +40,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/books/monolith/beton/index.html
@@ -51,8 +52,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
 - DUPLICATE_OG_TITLE: shared by 8 pages
@@ -65,8 +66,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
 - DUPLICATE_OG_TITLE: shared by 8 pages
@@ -79,8 +80,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
 - DUPLICATE_OG_TITLE: shared by 8 pages
@@ -93,8 +94,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/books/the-book-of-whinesis/index.html
@@ -105,8 +106,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/books/you-are-already-online/index.html
@@ -117,8 +118,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/contact.html
@@ -129,7 +130,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 
@@ -141,8 +142,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### be/monolith/index.html
@@ -153,8 +153,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 53
 
@@ -166,7 +165,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 
@@ -178,8 +177,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### be/public/index.html
@@ -190,8 +188,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/public/posts/essay/cycles/cycle-0001.html
@@ -202,8 +200,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 66
 
@@ -215,8 +213,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/public/posts/essay/index.html
@@ -227,8 +225,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/public/posts/formula/index.html
@@ -239,8 +237,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -255,8 +253,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -271,8 +269,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -287,8 +285,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -303,8 +301,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
@@ -317,8 +315,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/public/posts/sources/index.html
@@ -329,8 +327,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -343,8 +341,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/public/thoughts/arcs/0001-cheerfulness.html
@@ -355,8 +353,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/public/thoughts/arcs/0002-still-the-same.html
@@ -367,8 +365,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/public/thoughts/arcs/0003-let-go.html
@@ -379,8 +377,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/public/thoughts/arcs/0004-mortality-awakens.html
@@ -391,8 +389,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/public/thoughts/arcs/0005-on-your-own.html
@@ -403,8 +401,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/public/thoughts/arcs/0006-insight.html
@@ -415,8 +413,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/public/thoughts/arcs/0007-empty-chair.html
@@ -427,8 +425,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/public/thoughts/arcs/0008-generalization.html
@@ -439,8 +437,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/public/thoughts/arcs/0009-where-life-stopped.html
@@ -451,8 +449,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/public/thoughts/arcs/0010-dirty-cup.html
@@ -463,8 +461,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/public/thoughts/arcs/0011-do-not-regret.html
@@ -475,8 +473,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/public/thoughts/arcs/0012-close-the-book.html
@@ -487,8 +485,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/public/thoughts/arcs/0013-problem-loses-crown.html
@@ -499,8 +497,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 61
 
@@ -512,8 +510,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
@@ -524,8 +522,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 79
 
@@ -537,8 +535,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 72
 
@@ -550,8 +548,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/public/thoughts/arcs/0018-image-cannot-be-happy.html
@@ -562,8 +560,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/public/thoughts/arcs/0019-do-not-bomb.html
@@ -574,8 +572,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 55
 
@@ -587,8 +585,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 47
 - DUPLICATE_TITLE: shared by 2 pages
@@ -602,8 +600,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/public/thoughts/arcs/0022-spirituality-is-not-forced.html
@@ -614,8 +612,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 75
 
@@ -627,8 +625,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 68
 
@@ -640,8 +638,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/public/thoughts/index-0001.html
@@ -652,8 +650,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/public/thoughts/index-0002.html
@@ -664,8 +662,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 37
 
@@ -677,8 +675,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/research/archive/index.html
@@ -689,8 +687,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/research/index.html
@@ -701,8 +699,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/research/method/index.html
@@ -713,8 +711,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/research/notes/index.html
@@ -725,8 +723,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/research/position/index.html
@@ -737,8 +735,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/research/projects/index.html
@@ -749,8 +747,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### be/research/sources/index.html
@@ -761,8 +759,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/books/index.html
@@ -773,8 +771,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/books/monolith/beton/index.html
@@ -785,8 +783,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 37
 - DUPLICATE_TITLE: shared by 8 pages
@@ -800,8 +798,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
 - DUPLICATE_OG_TITLE: shared by 8 pages
@@ -814,8 +812,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 39
 - DUPLICATE_TITLE: shared by 8 pages
@@ -829,8 +827,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/books/the-book-of-whinesis/index.html
@@ -841,8 +839,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 6 pages
 - DUPLICATE_OG_TITLE: shared by 6 pages
@@ -855,8 +853,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/contact.html
@@ -867,8 +865,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 - DUPLICATE_TITLE: shared by 2 pages
@@ -882,8 +879,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### de/monolith/index.html
@@ -894,8 +890,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 29
 - DUPLICATE_TITLE: shared by 7 pages
@@ -911,8 +906,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 
@@ -924,8 +918,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### de/public/index.html
@@ -936,8 +929,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/public/posts/essay/cycles/cycle-0001.html
@@ -948,8 +941,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -962,8 +955,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -976,8 +969,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -992,8 +985,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -1006,8 +999,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -1020,8 +1013,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -1034,8 +1027,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -1048,8 +1041,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/public/posts/index.html
@@ -1060,8 +1053,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -1074,8 +1067,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -1088,8 +1081,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/public/thoughts/arcs/0001-cheerfulness.html
@@ -1100,8 +1093,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/public/thoughts/arcs/0002-still-the-same.html
@@ -1112,8 +1105,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/public/thoughts/arcs/0003-let-go.html
@@ -1124,8 +1117,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/public/thoughts/arcs/0004-mortality-awakens.html
@@ -1136,8 +1129,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 78
 
@@ -1149,8 +1142,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/public/thoughts/arcs/0006-insight.html
@@ -1161,8 +1154,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/public/thoughts/arcs/0007-empty-chair.html
@@ -1173,8 +1166,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/public/thoughts/arcs/0008-generalization.html
@@ -1185,8 +1178,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/public/thoughts/arcs/0009-where-life-stopped.html
@@ -1197,8 +1190,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/public/thoughts/arcs/0010-dirty-cup.html
@@ -1209,8 +1202,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/public/thoughts/arcs/0011-do-not-regret.html
@@ -1221,8 +1214,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/public/thoughts/arcs/0012-close-the-book.html
@@ -1233,8 +1226,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/public/thoughts/arcs/0013-problem-loses-crown.html
@@ -1245,8 +1238,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 76
 
@@ -1258,8 +1251,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
@@ -1270,8 +1263,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/public/thoughts/arcs/0016-one-fact.html
@@ -1282,8 +1275,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/public/thoughts/arcs/0017-witness-does-not-interfere.html
@@ -1294,8 +1287,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/public/thoughts/arcs/0018-image-cannot-be-happy.html
@@ -1306,8 +1299,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/public/thoughts/arcs/0019-do-not-bomb.html
@@ -1318,8 +1311,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 69
 
@@ -1331,8 +1324,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 63
 
@@ -1344,8 +1337,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/public/thoughts/arcs/0022-spirituality-is-not-forced.html
@@ -1356,8 +1349,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 79
 
@@ -1369,8 +1362,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
@@ -1381,8 +1374,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/public/thoughts/index-0001.html
@@ -1393,8 +1386,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/public/thoughts/index-0002.html
@@ -1405,8 +1398,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 43
 
@@ -1418,8 +1411,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/research/archive/index.html
@@ -1430,8 +1423,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/research/index.html
@@ -1442,8 +1435,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/research/method/index.html
@@ -1454,8 +1447,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/research/notes/index.html
@@ -1466,8 +1459,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
@@ -1482,8 +1475,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
@@ -1498,8 +1491,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### de/research/sources/index.html
@@ -1510,8 +1503,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/books/error-404-god-not-found/index.html
@@ -1522,8 +1515,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_LONG: 235
 
@@ -1535,8 +1528,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/books/index.html
@@ -1547,8 +1540,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/books/monolith/beton/index.html
@@ -1559,8 +1552,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 41
 - DUPLICATE_TITLE: shared by 8 pages
@@ -1574,8 +1567,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
 - DUPLICATE_OG_TITLE: shared by 8 pages
@@ -1588,8 +1581,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 43
 - DUPLICATE_TITLE: shared by 8 pages
@@ -1603,8 +1596,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/books/radiance/sampo/index.html
@@ -1615,8 +1608,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/books/radiance/song/index.html
@@ -1627,8 +1620,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/books/seccus/index.html
@@ -1639,8 +1632,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/books/the-book-of-whinesis/index.html
@@ -1651,8 +1644,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 6 pages
 - DUPLICATE_OG_TITLE: shared by 6 pages
@@ -1665,8 +1658,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/contact.html
@@ -1677,8 +1670,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 - DUPLICATE_TITLE: shared by 2 pages
@@ -1692,8 +1684,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### en/monolith/index.html
@@ -1704,8 +1695,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 62
 
@@ -1717,8 +1707,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 - DUPLICATE_TITLE: shared by 2 pages
@@ -1731,8 +1720,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### en/public/index.html
@@ -1743,8 +1731,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
@@ -1757,8 +1745,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -1771,8 +1759,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -1785,8 +1773,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -1801,8 +1789,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/public/posts/formula/lines/index.html
@@ -1813,8 +1801,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/public/posts/formula/lines/line-0001.html
@@ -1825,8 +1813,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/public/posts/formula/lines/line-0002.html
@@ -1837,8 +1825,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/public/posts/fragment/index.html
@@ -1849,8 +1837,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
@@ -1863,8 +1851,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -1877,8 +1865,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -1891,8 +1879,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/public/thoughts/arcs/0001-cheerfulness.html
@@ -1903,8 +1891,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/public/thoughts/arcs/0002-still-the-same.html
@@ -1915,8 +1903,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/public/thoughts/arcs/0003-let-go.html
@@ -1927,8 +1915,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/public/thoughts/arcs/0004-mortality-awakens.html
@@ -1939,8 +1927,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/public/thoughts/arcs/0005-on-your-own.html
@@ -1951,8 +1939,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/public/thoughts/arcs/0006-insight.html
@@ -1963,8 +1951,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/public/thoughts/arcs/0007-empty-chair.html
@@ -1975,8 +1963,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/public/thoughts/arcs/0008-generalization.html
@@ -1987,8 +1975,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/public/thoughts/arcs/0009-where-life-stopped.html
@@ -1999,8 +1987,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/public/thoughts/arcs/0010-dirty-cup.html
@@ -2011,8 +1999,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/public/thoughts/arcs/0011-do-not-regret.html
@@ -2023,8 +2011,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/public/thoughts/arcs/0012-close-the-book.html
@@ -2035,8 +2023,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/public/thoughts/arcs/0013-problem-loses-crown.html
@@ -2047,8 +2035,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 76
 
@@ -2060,8 +2048,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
@@ -2072,8 +2060,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/public/thoughts/arcs/0016-one-fact.html
@@ -2084,8 +2072,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/public/thoughts/arcs/0017-witness-does-not-interfere.html
@@ -2096,8 +2084,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/public/thoughts/arcs/0018-image-cannot-be-happy.html
@@ -2108,8 +2096,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 79
 
@@ -2121,8 +2109,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 63
 
@@ -2134,8 +2122,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 56
 
@@ -2147,8 +2135,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/public/thoughts/arcs/0022-spirituality-is-not-forced.html
@@ -2159,8 +2147,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/public/thoughts/arcs/0023-price-of-transition.html
@@ -2171,8 +2159,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 78
 
@@ -2184,8 +2172,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/public/thoughts/index-0001.html
@@ -2196,8 +2184,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/public/thoughts/index-0002.html
@@ -2208,8 +2196,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/public/thoughts/index.html
@@ -2220,8 +2208,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/research/archive/index.html
@@ -2232,8 +2220,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/research/index.html
@@ -2244,8 +2232,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/research/method/index.html
@@ -2256,8 +2244,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/research/notes/index.html
@@ -2268,8 +2256,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
@@ -2284,8 +2272,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
@@ -2300,8 +2288,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### en/research/sources/index.html
@@ -2312,8 +2300,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/books/index.html
@@ -2324,8 +2312,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/books/monolith/beton/index.html
@@ -2336,8 +2324,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 42
 - DUPLICATE_TITLE: shared by 8 pages
@@ -2351,8 +2339,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 75
 - DUPLICATE_TITLE: shared by 8 pages
@@ -2366,8 +2354,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 44
 - DUPLICATE_TITLE: shared by 8 pages
@@ -2381,8 +2369,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/books/the-book-of-whinesis/index.html
@@ -2393,8 +2381,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 6 pages
 - DUPLICATE_OG_TITLE: shared by 6 pages
@@ -2407,8 +2395,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/contact.html
@@ -2419,8 +2407,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 - DUPLICATE_TITLE: shared by 2 pages
@@ -2434,8 +2421,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### es/monolith/index.html
@@ -2446,8 +2432,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 29
 - DUPLICATE_TITLE: shared by 7 pages
@@ -2463,8 +2448,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 
@@ -2476,8 +2460,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### es/public/index.html
@@ -2488,8 +2471,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
@@ -2502,8 +2485,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -2516,8 +2499,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -2530,8 +2513,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -2544,8 +2527,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 3 pages
@@ -2560,8 +2543,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -2574,8 +2557,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -2588,8 +2571,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -2602,8 +2585,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
@@ -2616,8 +2599,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -2630,8 +2613,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -2644,8 +2627,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/public/thoughts/arcs/0001-cheerfulness.html
@@ -2656,8 +2639,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/public/thoughts/arcs/0002-still-the-same.html
@@ -2668,8 +2651,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/public/thoughts/arcs/0003-let-go.html
@@ -2680,8 +2663,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/public/thoughts/arcs/0004-mortality-awakens.html
@@ -2692,8 +2675,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/public/thoughts/arcs/0005-on-your-own.html
@@ -2704,8 +2687,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/public/thoughts/arcs/0006-insight.html
@@ -2716,8 +2699,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/public/thoughts/arcs/0007-empty-chair.html
@@ -2728,8 +2711,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/public/thoughts/arcs/0008-generalization.html
@@ -2740,8 +2723,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/public/thoughts/arcs/0009-where-life-stopped.html
@@ -2752,8 +2735,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/public/thoughts/arcs/0010-dirty-cup.html
@@ -2764,8 +2747,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/public/thoughts/arcs/0011-do-not-regret.html
@@ -2776,8 +2759,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/public/thoughts/arcs/0012-close-the-book.html
@@ -2788,8 +2771,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/public/thoughts/arcs/0013-problem-loses-crown.html
@@ -2800,8 +2783,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 75
 
@@ -2813,8 +2796,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
@@ -2825,8 +2808,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/public/thoughts/arcs/0016-one-fact.html
@@ -2837,8 +2820,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/public/thoughts/arcs/0017-witness-does-not-interfere.html
@@ -2849,8 +2832,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/public/thoughts/arcs/0018-image-cannot-be-happy.html
@@ -2861,8 +2844,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/public/thoughts/arcs/0019-do-not-bomb.html
@@ -2873,8 +2856,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 65
 
@@ -2886,8 +2869,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 66
 
@@ -2899,8 +2882,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/public/thoughts/arcs/0022-spirituality-is-not-forced.html
@@ -2911,8 +2894,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 77
 
@@ -2924,8 +2907,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
@@ -2936,8 +2919,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/public/thoughts/index-0001.html
@@ -2948,8 +2931,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/public/thoughts/index-0002.html
@@ -2960,8 +2943,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 49
 - DUPLICATE_TITLE: shared by 2 pages
@@ -2975,8 +2958,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/research/archive/index.html
@@ -2987,8 +2970,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/research/index.html
@@ -2999,8 +2982,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/research/method/index.html
@@ -3011,8 +2994,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/research/notes/index.html
@@ -3023,8 +3006,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
@@ -3039,8 +3022,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
@@ -3055,8 +3038,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### es/research/sources/index.html
@@ -3067,8 +3050,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fi/kone/index.html
@@ -3079,7 +3062,6 @@ Total issues: 2190
 - og:image: _missing_
 - twitter:image: _missing_
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 - MISSING_OG_TITLE
@@ -3113,8 +3095,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/books/monolith/beton/index.html
@@ -3125,8 +3107,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 41
 - DUPLICATE_TITLE: shared by 8 pages
@@ -3140,8 +3122,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
 - DUPLICATE_OG_TITLE: shared by 8 pages
@@ -3154,8 +3136,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 43
 - DUPLICATE_TITLE: shared by 8 pages
@@ -3169,8 +3151,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/books/the-book-of-whinesis/index.html
@@ -3181,8 +3163,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 6 pages
 - DUPLICATE_OG_TITLE: shared by 6 pages
@@ -3195,8 +3177,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/contact.html
@@ -3207,8 +3189,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 - DUPLICATE_TITLE: shared by 2 pages
@@ -3222,8 +3203,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### fr/monolith/index.html
@@ -3234,8 +3214,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 29
 - DUPLICATE_TITLE: shared by 7 pages
@@ -3251,8 +3230,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 
@@ -3264,8 +3242,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### fr/public/index.html
@@ -3276,8 +3253,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
@@ -3290,8 +3267,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -3304,8 +3281,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -3318,8 +3295,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -3332,8 +3309,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -3346,8 +3323,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -3360,8 +3337,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -3374,8 +3351,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -3388,8 +3365,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
@@ -3402,8 +3379,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -3416,8 +3393,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -3430,8 +3407,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/public/thoughts/arcs/0001-cheerfulness.html
@@ -3442,8 +3419,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/public/thoughts/arcs/0002-still-the-same.html
@@ -3454,8 +3431,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/public/thoughts/arcs/0003-let-go.html
@@ -3466,8 +3443,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/public/thoughts/arcs/0004-mortality-awakens.html
@@ -3478,8 +3455,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/public/thoughts/arcs/0005-on-your-own.html
@@ -3490,8 +3467,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/public/thoughts/arcs/0006-insight.html
@@ -3502,8 +3479,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/public/thoughts/arcs/0007-empty-chair.html
@@ -3514,8 +3491,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/public/thoughts/arcs/0008-generalization.html
@@ -3526,8 +3503,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/public/thoughts/arcs/0009-where-life-stopped.html
@@ -3538,8 +3515,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/public/thoughts/arcs/0010-dirty-cup.html
@@ -3550,8 +3527,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/public/thoughts/arcs/0011-do-not-regret.html
@@ -3562,8 +3539,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/public/thoughts/arcs/0012-close-the-book.html
@@ -3574,8 +3551,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/public/thoughts/arcs/0013-problem-loses-crown.html
@@ -3586,8 +3563,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 75
 
@@ -3599,8 +3576,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
@@ -3611,8 +3588,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/public/thoughts/arcs/0016-one-fact.html
@@ -3623,8 +3600,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/public/thoughts/arcs/0017-witness-does-not-interfere.html
@@ -3635,8 +3612,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/public/thoughts/arcs/0018-image-cannot-be-happy.html
@@ -3647,8 +3624,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/public/thoughts/arcs/0019-do-not-bomb.html
@@ -3659,8 +3636,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 71
 
@@ -3672,8 +3649,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 62
 
@@ -3685,8 +3662,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/public/thoughts/arcs/0022-spirituality-is-not-forced.html
@@ -3697,8 +3674,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 75
 
@@ -3710,8 +3687,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
@@ -3722,8 +3699,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/public/thoughts/index-0001.html
@@ -3734,8 +3711,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/public/thoughts/index-0002.html
@@ -3746,8 +3723,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 43
 
@@ -3759,8 +3736,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/research/archive/index.html
@@ -3771,8 +3748,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/research/index.html
@@ -3783,8 +3760,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_LONG: 221
 
@@ -3796,8 +3773,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/research/notes/index.html
@@ -3808,8 +3785,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
@@ -3824,8 +3801,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
@@ -3840,8 +3817,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### fr/research/sources/index.html
@@ -3852,8 +3829,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### google2b44b1dd60a5fdd9.html
@@ -3883,8 +3860,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### monolith/index.html
@@ -3913,8 +3889,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_LONG: 235
 
@@ -3926,8 +3902,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/books/index.html
@@ -3938,8 +3914,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/books/monolith/beton/index.html
@@ -3950,8 +3926,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 32
 - DUPLICATE_TITLE: shared by 8 pages
@@ -3965,8 +3941,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 72
 - DUPLICATE_TITLE: shared by 8 pages
@@ -3980,8 +3956,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 34
 - DUPLICATE_TITLE: shared by 8 pages
@@ -3995,8 +3971,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/books/radiance/sampo/index.html
@@ -4007,8 +3983,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/books/radiance/song/index.html
@@ -4019,8 +3995,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/books/seccus/index.html
@@ -4031,8 +4007,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/books/the-book-of-whinesis/index.html
@@ -4043,8 +4019,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 6 pages
 - DUPLICATE_OG_TITLE: shared by 6 pages
@@ -4057,8 +4033,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/contact.html
@@ -4069,8 +4045,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 - DUPLICATE_TITLE: shared by 2 pages
@@ -4084,8 +4059,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### pl/monolith/index.html
@@ -4096,8 +4070,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 29
 - DUPLICATE_TITLE: shared by 7 pages
@@ -4113,7 +4086,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 
@@ -4125,8 +4098,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### pl/public/index.html
@@ -4137,8 +4109,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/posts/essay/cycles/cycle-0001.html
@@ -4149,8 +4121,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -4163,8 +4135,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -4177,8 +4149,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -4191,8 +4163,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/posts/formula/lines/index.html
@@ -4203,8 +4175,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/posts/formula/lines/line-0001.html
@@ -4215,8 +4187,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/posts/formula/lines/line-0002.html
@@ -4227,8 +4199,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/posts/fragment/index.html
@@ -4239,8 +4211,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/posts/index.html
@@ -4251,8 +4223,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -4265,8 +4237,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -4279,8 +4251,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/thoughts/arcs/0001-cheerfulness.html
@@ -4291,8 +4263,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/thoughts/arcs/0002-still-the-same.html
@@ -4303,8 +4275,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/thoughts/arcs/0003-let-go.html
@@ -4315,8 +4287,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/thoughts/arcs/0004-mortality-awakens.html
@@ -4327,8 +4299,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/thoughts/arcs/0005-on-your-own.html
@@ -4339,8 +4311,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/thoughts/arcs/0006-insight.html
@@ -4351,8 +4323,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/thoughts/arcs/0007-empty-chair.html
@@ -4363,8 +4335,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/thoughts/arcs/0008-generalization.html
@@ -4375,8 +4347,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/thoughts/arcs/0009-where-life-stopped.html
@@ -4387,8 +4359,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/thoughts/arcs/0010-dirty-cup.html
@@ -4399,8 +4371,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/thoughts/arcs/0011-do-not-regret.html
@@ -4411,8 +4383,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/thoughts/arcs/0012-close-the-book.html
@@ -4423,8 +4395,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/thoughts/arcs/0013-problem-loses-crown.html
@@ -4435,8 +4407,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 74
 
@@ -4448,8 +4420,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
@@ -4460,8 +4432,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/thoughts/arcs/0016-one-fact.html
@@ -4472,8 +4444,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/thoughts/arcs/0017-witness-does-not-interfere.html
@@ -4484,8 +4456,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/thoughts/arcs/0018-image-cannot-be-happy.html
@@ -4496,8 +4468,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 79
 
@@ -4509,8 +4481,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 70
 
@@ -4522,8 +4494,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 50
 
@@ -4535,8 +4507,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/thoughts/arcs/0022-spirituality-is-not-forced.html
@@ -4547,8 +4519,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 78
 
@@ -4560,8 +4532,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 71
 
@@ -4573,8 +4545,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/thoughts/index-0001.html
@@ -4585,8 +4557,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/thoughts/index-0002.html
@@ -4597,8 +4569,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/public/thoughts/index.html
@@ -4609,8 +4581,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/research/archive/index.html
@@ -4621,8 +4593,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/research/index.html
@@ -4633,8 +4605,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/research/method/index.html
@@ -4645,8 +4617,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/research/notes/index.html
@@ -4657,8 +4629,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
@@ -4673,8 +4645,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
@@ -4689,8 +4661,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pl/research/sources/index.html
@@ -4701,8 +4673,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### privacy.html
@@ -4731,8 +4703,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/books/monolith/beton/index.html
@@ -4743,8 +4715,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 38
 - DUPLICATE_TITLE: shared by 8 pages
@@ -4758,8 +4730,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 76
 - DUPLICATE_TITLE: shared by 8 pages
@@ -4773,8 +4745,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 40
 - DUPLICATE_TITLE: shared by 8 pages
@@ -4788,8 +4760,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/books/the-book-of-whinesis/index.html
@@ -4800,8 +4772,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 6 pages
 - DUPLICATE_OG_TITLE: shared by 6 pages
@@ -4814,8 +4786,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/contact.html
@@ -4826,8 +4798,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 - DUPLICATE_TITLE: shared by 2 pages
@@ -4841,8 +4812,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### pt/monolith/index.html
@@ -4853,8 +4823,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 29
 - DUPLICATE_TITLE: shared by 7 pages
@@ -4870,8 +4839,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 
@@ -4883,8 +4851,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### pt/public/index.html
@@ -4895,8 +4862,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
@@ -4909,8 +4876,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -4923,8 +4890,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -4937,8 +4904,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -4951,8 +4918,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 3 pages
@@ -4967,8 +4934,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 3 pages
@@ -4983,8 +4950,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -4997,8 +4964,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -5011,8 +4978,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
@@ -5025,8 +4992,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -5039,8 +5006,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -5053,8 +5020,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/public/thoughts/arcs/0001-cheerfulness.html
@@ -5065,8 +5032,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/public/thoughts/arcs/0002-still-the-same.html
@@ -5077,8 +5044,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/public/thoughts/arcs/0003-let-go.html
@@ -5089,8 +5056,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/public/thoughts/arcs/0004-mortality-awakens.html
@@ -5101,8 +5068,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/public/thoughts/arcs/0005-on-your-own.html
@@ -5113,8 +5080,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/public/thoughts/arcs/0006-insight.html
@@ -5125,8 +5092,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/public/thoughts/arcs/0007-empty-chair.html
@@ -5137,8 +5104,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/public/thoughts/arcs/0008-generalization.html
@@ -5149,8 +5116,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/public/thoughts/arcs/0009-where-life-stopped.html
@@ -5161,8 +5128,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/public/thoughts/arcs/0010-dirty-cup.html
@@ -5173,8 +5140,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/public/thoughts/arcs/0011-do-not-regret.html
@@ -5185,8 +5152,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/public/thoughts/arcs/0012-close-the-book.html
@@ -5197,8 +5164,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/public/thoughts/arcs/0013-problem-loses-crown.html
@@ -5209,8 +5176,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 74
 
@@ -5222,8 +5189,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
@@ -5234,8 +5201,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/public/thoughts/arcs/0016-one-fact.html
@@ -5246,8 +5213,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/public/thoughts/arcs/0017-witness-does-not-interfere.html
@@ -5258,8 +5225,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/public/thoughts/arcs/0018-image-cannot-be-happy.html
@@ -5270,8 +5237,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/public/thoughts/arcs/0019-do-not-bomb.html
@@ -5282,8 +5249,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 70
 
@@ -5295,8 +5262,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 58
 
@@ -5308,8 +5275,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/public/thoughts/arcs/0022-spirituality-is-not-forced.html
@@ -5320,8 +5287,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/public/thoughts/arcs/0023-price-of-transition.html
@@ -5332,8 +5299,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
@@ -5344,8 +5311,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/public/thoughts/index-0001.html
@@ -5356,8 +5323,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/public/thoughts/index-0002.html
@@ -5368,8 +5335,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 48
 - DUPLICATE_TITLE: shared by 2 pages
@@ -5383,8 +5350,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/research/archive/index.html
@@ -5395,8 +5362,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/research/index.html
@@ -5407,8 +5374,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/research/method/index.html
@@ -5419,8 +5386,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/research/notes/index.html
@@ -5431,8 +5398,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
@@ -5447,8 +5414,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
@@ -5463,8 +5430,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### pt/research/sources/index.html
@@ -5475,8 +5442,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/books/error-404-god-not-found/index.html
@@ -5487,8 +5454,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/books/error-404-god-not-found/why-me/index.html
@@ -5499,8 +5466,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/books/index.html
@@ -5511,8 +5478,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
@@ -5525,8 +5492,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/books/monolith/index.html
@@ -5537,8 +5504,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/books/monolith/sludge/index.html
@@ -5549,8 +5516,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/books/radiance/index.html
@@ -5561,8 +5528,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/books/radiance/sampo/index.html
@@ -5573,8 +5540,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/books/radiance/song/index.html
@@ -5585,8 +5552,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/books/seccus/index.html
@@ -5597,8 +5564,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/books/the-book-of-whinesis/index.html
@@ -5609,8 +5576,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
@@ -5623,8 +5590,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/contact.html
@@ -5635,7 +5602,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 - DUPLICATE_TITLE: shared by 2 pages
@@ -5649,8 +5616,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### ru/monolith/index.html
@@ -5661,8 +5627,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 56
 
@@ -5674,7 +5639,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 
@@ -5686,8 +5651,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### ru/public/index.html
@@ -5698,8 +5662,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/public/posts/essay/cycles/cycle-0001.html
@@ -5710,8 +5674,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -5724,8 +5688,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -5738,8 +5702,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -5752,8 +5716,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -5768,8 +5732,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -5782,8 +5746,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -5796,8 +5760,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -5810,8 +5774,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -5826,8 +5790,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -5840,8 +5804,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -5854,8 +5818,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/public/thoughts/01-cheerfulness/index.html
@@ -5866,8 +5830,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_DESCRIPTION: shared by 2 pages
@@ -5882,8 +5846,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_DESCRIPTION: shared by 2 pages
@@ -5898,8 +5862,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_DESCRIPTION: shared by 2 pages
@@ -5914,8 +5878,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_DESCRIPTION: shared by 2 pages
@@ -5930,8 +5894,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_DESCRIPTION: shared by 2 pages
@@ -5946,8 +5910,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
@@ -5960,8 +5924,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_DESCRIPTION: shared by 2 pages
@@ -5976,8 +5940,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_DESCRIPTION: shared by 2 pages
@@ -5992,8 +5956,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_DESCRIPTION: shared by 2 pages
@@ -6008,8 +5972,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_DESCRIPTION: shared by 2 pages
@@ -6024,8 +5988,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_DESCRIPTION: shared by 2 pages
@@ -6040,8 +6004,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
@@ -6054,8 +6018,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/public/thoughts/arcs/0008-generalization.html
@@ -6066,8 +6030,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/public/thoughts/arcs/0009-where-life-stopped.html
@@ -6078,8 +6042,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/public/thoughts/arcs/0010-dirty-cup.html
@@ -6090,8 +6054,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/public/thoughts/arcs/0011-do-not-regret.html
@@ -6102,8 +6066,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/public/thoughts/arcs/0012-close-the-book.html
@@ -6114,8 +6078,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/public/thoughts/arcs/0013-problem-loses-crown.html
@@ -6126,8 +6090,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 67
 
@@ -6139,8 +6103,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
@@ -6151,8 +6115,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/public/thoughts/arcs/0016-one-fact.html
@@ -6163,8 +6127,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/public/thoughts/arcs/0017-witness-does-not-interfere.html
@@ -6175,8 +6139,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/public/thoughts/arcs/0018-image-cannot-be-happy.html
@@ -6187,8 +6151,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/public/thoughts/arcs/0019-do-not-bomb.html
@@ -6199,8 +6163,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 59
 
@@ -6212,8 +6176,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 56
 
@@ -6225,8 +6189,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/public/thoughts/arcs/0022-spirituality-is-not-forced.html
@@ -6237,8 +6201,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/public/thoughts/arcs/0023-price-of-transition.html
@@ -6249,8 +6213,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 76
 
@@ -6262,8 +6226,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 79
 
@@ -6275,8 +6239,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/public/thoughts/arcs/index.html
@@ -6287,8 +6251,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 65
 
@@ -6300,8 +6264,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/public/thoughts/index-0002.html
@@ -6312,8 +6276,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/public/thoughts/index.html
@@ -6324,8 +6288,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/research/archive/index.html
@@ -6336,8 +6300,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/research/index.html
@@ -6348,8 +6312,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/research/method/index.html
@@ -6360,8 +6324,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/research/notes/index.html
@@ -6372,8 +6336,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
@@ -6388,8 +6352,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
@@ -6404,8 +6368,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### ru/research/sources/index.html
@@ -6416,8 +6380,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/books/index.html
@@ -6428,8 +6392,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
@@ -6442,8 +6406,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 32
 - DUPLICATE_TITLE: shared by 8 pages
@@ -6457,8 +6421,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 71
 - DUPLICATE_TITLE: shared by 8 pages
@@ -6472,8 +6436,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 34
 - DUPLICATE_TITLE: shared by 8 pages
@@ -6487,8 +6451,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/books/the-book-of-whinesis/index.html
@@ -6499,8 +6463,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
@@ -6513,8 +6477,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/contact.html
@@ -6525,7 +6489,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 - DUPLICATE_TITLE: shared by 2 pages
@@ -6539,8 +6503,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### uk/monolith/index.html
@@ -6551,8 +6514,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 29
 - DUPLICATE_TITLE: shared by 7 pages
@@ -6568,7 +6530,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 
@@ -6580,8 +6542,7 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### uk/public/index.html
@@ -6592,8 +6553,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/public/posts/essay/cycles/cycle-0001.html
@@ -6604,8 +6565,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -6618,8 +6579,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -6632,8 +6593,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -6646,8 +6607,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -6660,8 +6621,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -6676,8 +6637,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -6692,8 +6653,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -6708,8 +6669,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -6722,8 +6683,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -6736,8 +6697,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_OG_DESCRIPTION: shared by 87 pages
@@ -6750,8 +6711,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/public/thoughts/arcs/0001-cheerfulness.html
@@ -6762,8 +6723,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/public/thoughts/arcs/0002-still-the-same.html
@@ -6774,8 +6735,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/public/thoughts/arcs/0003-let-go.html
@@ -6786,8 +6747,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/public/thoughts/arcs/0004-mortality-awakens.html
@@ -6798,8 +6759,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/public/thoughts/arcs/0005-on-your-own.html
@@ -6810,8 +6771,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/public/thoughts/arcs/0006-insight.html
@@ -6822,8 +6783,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/public/thoughts/arcs/0007-empty-chair.html
@@ -6834,8 +6795,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/public/thoughts/arcs/0008-generalization.html
@@ -6846,8 +6807,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/public/thoughts/arcs/0009-where-life-stopped.html
@@ -6858,8 +6819,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/public/thoughts/arcs/0010-dirty-cup.html
@@ -6870,8 +6831,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/public/thoughts/arcs/0011-do-not-regret.html
@@ -6882,8 +6843,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/public/thoughts/arcs/0012-close-the-book.html
@@ -6894,8 +6855,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/public/thoughts/arcs/0013-problem-loses-crown.html
@@ -6906,8 +6867,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 59
 
@@ -6919,8 +6880,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
@@ -6931,8 +6892,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 78
 
@@ -6944,8 +6905,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 78
 
@@ -6957,8 +6918,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/public/thoughts/arcs/0018-image-cannot-be-happy.html
@@ -6969,8 +6930,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 79
 
@@ -6982,8 +6943,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 52
 
@@ -6995,8 +6956,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 47
 - DUPLICATE_TITLE: shared by 2 pages
@@ -7010,8 +6971,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/public/thoughts/arcs/0022-spirituality-is-not-forced.html
@@ -7022,8 +6983,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 74
 
@@ -7035,8 +6996,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 66
 
@@ -7048,8 +7009,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/public/thoughts/index-0001.html
@@ -7060,8 +7021,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/public/thoughts/index-0002.html
@@ -7072,8 +7033,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/public/thoughts/index.html
@@ -7084,8 +7045,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/research/archive/index.html
@@ -7096,8 +7057,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/research/index.html
@@ -7108,8 +7069,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/research/method/index.html
@@ -7120,8 +7081,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/research/notes/index.html
@@ -7132,8 +7093,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
@@ -7148,8 +7109,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
@@ -7164,8 +7125,8 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
 ### uk/research/sources/index.html
@@ -7176,6 +7137,6 @@ Total issues: 2190
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_TEXT: Nikolai Kostyshev
-- FORBIDDEN_TEXT: ashraellen-og-home-default-1200x630
+- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
+- REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
