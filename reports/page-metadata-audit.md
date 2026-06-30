@@ -1,6 +1,6 @@
 # Page Metadata Audit
 
-Generated: 2026-06-30T20:18:27.982Z
+Generated: 2026-06-30T20:19:36.509Z
 
 Pages checked: 550
 Pages with issues: 2
@@ -235,7 +235,7 @@ Total review notes: 2052
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 477 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 477 pages
 
-### be/public/posts/formula/lines/index-31.html
+### be/public/posts/formula/lines/index.html
 
 - title: Ashraellen — Межы, мера, свая форма
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
