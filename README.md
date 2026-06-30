@@ -39,6 +39,14 @@ The following files are excluded from the sitemap:
 - Google verification files
 - service folders such as `assets`, `scripts`, `.github`
 
+## APM / maintenance records
+
+Project maintenance and repair notes are stored in `reports/apm/`.
+
+Current records:
+
+- `reports/apm/2026-06-30-static-metadata-repair.md` — static metadata repair, sitemap workflow cleanup, metadata audit, public identity cleanup, JSON-LD repair, deduplication, and OG image mapping from page backgrounds.
+
 ## Author
 
 Ashraellen
