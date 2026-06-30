@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-30T20:18:01.289Z",
+  "generated": "2026-06-30T20:18:28.385Z",
   "pages": [
     {
       "page": "be/books/index.html",
@@ -1286,57 +1286,6 @@
         "думкі",
         "калі",
         "кароткія"
-      ]
-    },
-    {
-      "page": "be/public/posts/formula/lines/index.html",
-      "lang": "be",
-      "section": "public",
-      "title": "Ashraellen — Лінія формул — Belarusian",
-      "description": "Ashraellen — Лінія формул — Belarusian is part of the Ashraellen multilingual public archive of literary, artistic and research work.",
-      "existingKeywords": "ashraellen, public, posts, formula, lines, лінія, формул, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, be, public, posts, formula, lines",
-      "canonical": "https://www.ashraellen.com/be/public/posts/formula/lines/",
-      "h1": [],
-      "h2": [],
-      "h3": [],
-      "slugTerms": [
-        "be",
-        "public",
-        "posts",
-        "formula",
-        "lines"
-      ],
-      "excerpt": "",
-      "candidates": [
-        "ashraellen",
-        "belarusian",
-        "лінія",
-        "формул",
-        "archive",
-        "artistic",
-        "literary",
-        "multilingual",
-        "part",
-        "public",
-        "research",
-        "work"
-      ],
-      "suggestedKeywordSeed": [
-        "ashraellen",
-        "public",
-        "belarusian",
-        "лінія",
-        "формул",
-        "archive",
-        "artistic",
-        "literary",
-        "multilingual",
-        "part",
-        "research",
-        "work",
-        "formula",
-        "lines",
-        "posts"
       ]
     },
     {
