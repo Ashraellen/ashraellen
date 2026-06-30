@@ -9,6 +9,7 @@ on:
       - 'scripts/add-missing-keywords.js'
       - 'scripts/clean-public-identity-head.py'
       - 'scripts/repair-title-description-og.py'
+      - 'scripts/repair-structured-social-gaps.py'
       - 'scripts/audit-page-metadata.js'
       - 'scripts/export-page-keyword-workbench.js'
       - 'scripts/generate-sitemap.js'
@@ -43,6 +44,9 @@ jobs:
 
       - name: Repair title description and OG metadata
         run: python3 scripts/repair-title-description-og.py
+
+      - name: Repair structured data and social gaps
+        run: python3 scripts/repair-structured-social-gaps.py
 
       - name: Audit page metadata
         run: node scripts/audit-page-metadata.js
