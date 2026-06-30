@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - '**/*.html'
+      - 'scripts/add-missing-keywords.js'
       - 'scripts/audit-page-metadata.js'
       - 'scripts/export-page-keyword-workbench.js'
       - 'scripts/generate-sitemap.js'
@@ -32,6 +33,9 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Add missing static keywords
+        run: node scripts/add-missing-keywords.js
+
       - name: Audit page metadata
         run: node scripts/audit-page-metadata.js
 
@@ -44,15 +48,15 @@ jobs:
       - name: Submit sitemap URLs to IndexNow
         run: node scripts/submit-indexnow.js
 
-      - name: Commit sitemap.xml and reports if changed
+      - name: Commit repaired HTML, sitemap.xml and reports if changed
         run: |
           if git diff --quiet; then
-            echo "sitemap.xml and reports are already up to date."
+            echo "HTML, sitemap.xml and reports are already up to date."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add sitemap.xml reports/page-metadata-audit.md reports/page-keyword-workbench.md reports/page-keyword-workbench.json
-          git commit -m "Auto-update sitemap and metadata reports"
+          git add '**/*.html' sitemap.xml reports/page-metadata-audit.md reports/page-keyword-workbench.md reports/page-keyword-workbench.json
+          git commit -m "Auto-repair static page metadata and reports"
           git push
