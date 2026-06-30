@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-06-30T10:16:26.018Z
+Generated: 2026-06-30T10:50:10.965Z
 Pages: 551
 
 ## Index
@@ -8,28 +8,28 @@ Pages: 551
 | Page | Lang | Section | Title | Existing keywords | Suggested seed |
 |---|---|---|---|---|---|
 | be/books/index.html | be | books | Ashraellen — Кнігі | ashraellen, books, кнігі, раманы, вялікія, праекты, кнігі-вопыты, monolith, сакральная, кніга, ахепсу, ўжо, сетцы, ныцця, спіс, doctype, html, title | ashraellen, кнігі, кніга, books, monolith, ахепсу, вялікія, кнігі-вопыты, ныцця, праекты, раманы, ўжо, пра, сакральная, сетцы, спіс |
-| be/books/monolith/beton/index.html | be | books | Ashraellen — BETON | ashraellen, books, monolith, beton, першы, том, трылогіі, філасофская, антыўтопія, пра, свет, дзе, стабільнасць, становіцца, турмой, досье, апісанне, doctype | beton, monolith, ashraellen, books, антыўтопія, дзе, першы, пра, том, трылогіі, апісанне, бетон, быць, досье, занадта, свет, стабільнасць, становіцца |
-| be/books/monolith/index.html | be | books | Ashraellen — MONOLITH | ashraellen, books, monolith, трылогія, сацыяльнай, фантастыкі, антыўтопіі, філасофскага, кіберпанку, пра, кантроль, памяць, распад, сістэм, серыя, тамы, том, beton | monolith, ashraellen, books, кантроль, памяць, пра, трылогія, beton, gas, sludge, адкрыць, антыўтопіі, без, кіберпанку, распад, сацыяльнай, серыі, серыя |
-| be/books/monolith/sludge/index.html | be | books | Ashraellen — SLUDGE | ashraellen, books, monolith, sludge, другі, том, трылогіі, філасофская, антыўтопія, пра, распад, формы, ператварэнне, чалавека, матэрыял, асяроддзя, досье, апісанне | sludge, monolith, ashraellen, books, другі, пра, том, чалавека, антыўтопія, апісанне, асяроддзя, гісторыя, дзе, досье, калі, матэрыял, пачынае, ператварэнне |
+| be/books/monolith/beton/index.html | be | books | Ashraellen — BETON — Belarusian | ashraellen, books, monolith, beton, першы, том, трылогіі, філасофская, антыўтопія, пра, свет, дзе, стабільнасць, становіцца, турмой, досье, апісанне, doctype | beton, monolith, ashraellen, books, антыўтопія, дзе, першы, пра, том, трылогіі, belarusian, апісанне, бетон, быць, досье, занадта, свет, стабільнасць |
+| be/books/monolith/index.html | be | books | Ashraellen — MONOLITH — Belarusian | ashraellen, books, monolith, трылогія, сацыяльнай, фантастыкі, антыўтопіі, філасофскага, кіберпанку, пра, кантроль, памяць, распад, сістэм, серыя, тамы, том, beton | monolith, ashraellen, books, кантроль, памяць, пра, трылогія, belarusian, beton, gas, sludge, адкрыць, антыўтопіі, без, кіберпанку, распад, сацыяльнай, серыі |
+| be/books/monolith/sludge/index.html | be | books | Ashraellen — SLUDGE — Belarusian | ashraellen, books, monolith, sludge, другі, том, трылогіі, філасофская, антыўтопія, пра, распад, формы, ператварэнне, чалавека, матэрыял, асяроддзя, досье, апісанне | sludge, monolith, ashraellen, books, другі, пра, том, чалавека, belarusian, антыўтопія, апісанне, асяроддзя, гісторыя, дзе, досье, калі, матэрыял, пачынае |
 | be/books/seccus/index.html | be | books | Ashraellen — САКРАЛЬНАЯ КНІГА АХЕПСУ | ashraellen, books, seccus, сакральная, кніга, ахепсу, філасофскае, даследаванне, прыкладная, псіхалогія, метафізіка, свядомасці, пра, самападман, сумленнасць, грошы, ўнутраную, свабоду | ахепсу, кніга, сакральная, ashraellen, books, грошы, пра, свядомасці, сумленнасць, seccus, але, аўдыя-відэа, без, даследаванне, звычка, калі, кнігі, кнігу |
 | be/books/the-book-of-whinesis/index.html | be | books | Ashraellen — Кніга Ныцця | ashraellen, books, book, whinesis, кніга, ныцця, святая, сатыра, тых, хто, стаміўся, пазітыўных, вайбаў, бясконцай, прадуктыўнасці, культу, поспеху, пра | кніга, ныцця, ashraellen, books, пра, хто, book, whinesis, будзе, будзеш, бясконцай, вайбаў, глава, главы, госпад, каб, кнігу, культу |
 | be/books/you-are-already-online/index.html | be | books | Ashraellen — Ты ўжо ў сетцы | ashraellen, books, you, already, online, ўжо, сетцы, імерсіўны, аўдыяраман, жанры, псіхалагічнага, трылера, кіберпанк-драмы, пра, лічбавую, рэальнасць, алгарытмы, гіперрэальнасць | сетцы, ўжо, пра, ashraellen, books, глава, рэальнасць, already, online, you, алгарытмы, аўдыяраман, было, гіперрэальнасць, дзе, жанры, занадта, імерсіўны |
 | be/contact.html | be | contact.html | Кантакт — Ashraellen | ashraellen, contact, кантакт, кантактная, старонка, супрацоўніцтва, публікацыі, гранты, медыя, запыты, праекце, doctype, html, title, function, const, isgithub, location.hostname.endswith | ashraellen, кантакт, гранты, запыты, медыя, праекце, публікацыі, супрацоўніцтва, contact, contact.html, telegram, telegram-канал, кантактная, публічныя, сувязі |
 | be/index.html | be | index.html | Ashraellen — кнігі, даследаванні і публічныя тэксты | ashraellen, кнігі, даследаванні, публічныя, тэксты, шматмоўны, аўтарскі, праект, які, аб’ядноўвае, відэа, формы, ўнутранага, назірання, doctype, html, title, function | ashraellen, даследаванні, кнігі, публічныя, тэксты, відэа, формы, deutsch, english, español, index.html, аб’ядноўвае, аўтарскі, даследаванне, назірання, праект, публічнае, ўнутранага |
-| be/monolith/index.html | be | monolith | Трылогія MONOLITH — Ashraellen | ashraellen, monolith, трылогія, тры, станы, кантраляванага, распаду, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io | monolith, beton, gas, sludge, ashraellen, amazon, books, google, play, англійская, баіцца, версія, кантраляванага, распаду, станы, том, тры, трылогія |
+| be/monolith/index.html | be | monolith | Трылогія MONOLITH — Ashraellen | ashraellen, monolith, трылогія, тры, станы, кантраляванага, распаду, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io | monolith, beton, gas, sludge, кантраляванага, распаду, станы, тры, трылогія, ashraellen, amazon, books, антыўтопіі, сацыяльнай, том, фантастыкі, філасофскага |
 | be/privacy.html | be | privacy.html | Палітыка прыватнасці — Ashraellen | ashraellen, privacy, палітыка, прыватнасці, ashraellen.com, персанальныя, даныя, аналітыка, cookies, правы, карыстальніка, кантакт, хто, адказвае, сайт, якія, могуць, збірацца | даныя, палітыка, прыватнасці, ashraellen, ashraellen.com, cookies, аналітыка, апрацоўкі, могуць, google, privacy, privacy.html, абнаўленні, або, адказвае, выкарыстоўваюцца, даных, збірацца |
 | be/professional/index.html | be | professional | Ashraellen — Прафесійнае дасье | ashraellen, professional, прафесійнае, дасье, аўтар, метад, назірання, кнігі, публічныя, формы, праекта, план, развіцця, супрацоўніцтва, кантакт, пра, аўтара, пазіцыя | ashraellen, назірання, праекта, публічныя, формы, professional, дасье, кнігі, метад, план, пра, праект, прафесійнае, развіцця, адкрыць, архіў, аўтар, аўтара |
 | be/public/index.html | be | public | Ashraellen — Публічнае | ashraellen, public, публічнае, поле, выступы, публікацыі, апорныя, думкі, рэакцыі, назіранні, дзе, даследаванне, сустракае, жывога, чалавека, новыя, бамбіце, народ | ashraellen, публічнае, апорныя, public, выступы, дзе, думкі, публікацыі, чалавека, адкрыць, апорная, даследаванне, думка, думку, духоўнасць, жывога, маса, назіранні |
-| be/public/posts/essay/cycles/cycle-0001.html | be | public | Ashraellen — Першы цыкл міні-эсэ | ashraellen, public, posts, essay, cycles, cycle, 0001, першы, цыкл, міні-эсэ, па-беларуску, увага, цела, мінулае, першага, цыклу, улада, над | міні-эсэ, ashraellen, мінулае, першы, цела, цыкл, public, але, думкай, над, cycle, cycles, essay, posts, або, быць, дзверы, думка |
+| be/public/posts/essay/cycles/cycle-0001.html | be | public | Ashraellen — Першы цыкл міні-эсэ | ashraellen, public, posts, essay, cycles, cycle, 0001, першы, цыкл, міні-эсэ, па-беларуску, увага, цела, мінулае, першага, цыклу, улада, над | першы, цыкл, міні-эсэ, над, мінулае, цела, ashraellen, але, думкай, public, дзверы, мэта, першага, першыя, тлумачэнне, увагай, улада, цыклу |
 | be/public/posts/essay/cycles/index.html | be | public | Ashraellen — Цыклы міні-эсэ | ashraellen, public, posts, essay, cycles, цыклы, міні-эсэ, па-беларуску, завершаныя, сэнсавыя, зрэзы, бягучыя, разборы, doctype, html, title, function, const | цыклы, ashraellen, міні-эсэ, завершаныя, public, cycle, cycles, essay, mark, posts, presence, асноўнай, бягучы, бягучыя, зрэзы, па-беларуску, разборы, раздзела |
 | be/public/posts/essay/index.html | be | public | Ashraellen — Міні-эсэ | ashraellen, public, posts, essay, міні-эсэ, па-беларуску, адзін, пытанне, вугал, гледжання, адна, выснова, першы, цыкл, улада, над, думкай, увагай | міні-эсэ, ashraellen, public, адзін, але, думкай, мінулае, над, цела, essay, posts, або, адна, быць, вугал, выснова, гледжання, дзверы |
-| be/public/posts/formula/index.html | be | public | Ashraellen — Формулы | ashraellen, public, posts, formula, формулы, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | ashraellen, public, формулы, formula, posts |
-| be/public/posts/formula/lines/index.html | be | public | Ashraellen — Лінія формул | ashraellen, public, posts, formula, lines, лінія, формул, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | ashraellen, public, лінія, формул, formula, lines, posts |
-| be/public/posts/formula/lines/line-0001.html | be | public | Ashraellen — Лінія 0001 | ashraellen, public, posts, formula, lines, line, 0001, лінія, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, 0001, public, лінія, formula, line, lines, posts |
-| be/public/posts/formula/lines/line-0002.html | be | public | Ashraellen — Лінія 0002 | ashraellen, public, posts, formula, lines, line, 0002, лінія, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, 0002, public, лінія, formula, line, lines, posts |
-| be/public/posts/fragment/index.html | be | public | Ashraellen — Фрагменты | ashraellen, public, posts, fragment, фрагменты, па-беларуску, раздзел, які, рыхтуецца, аснове, вялікага, архіва, рукапісаў, нататак, публікацый, doctype, html, title | ashraellen, фрагменты, раздзел, рыхтуецца, public, архіва, нататак, публікацый, рукапісаў, fragment, posts, архіў, аснове, вялікага, па-беларуску, рабочых, тут, тэкстаў |
+| be/public/posts/formula/index.html | be | public | Ashraellen — Формулы — Belarusian | ashraellen, public, posts, formula, формулы, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | ashraellen, public, belarusian, формулы, archive, artistic, literary, multilingual, part, research, work, formula, posts |
+| be/public/posts/formula/lines/index.html | be | public | Ashraellen — Лінія формул — Belarusian | ashraellen, public, posts, formula, lines, лінія, формул, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | ashraellen, public, belarusian, лінія, формул, archive, artistic, literary, multilingual, part, research, work, formula, lines, posts |
+| be/public/posts/formula/lines/line-0001.html | be | public | Ashraellen — Лінія 0001 — Belarusian | ashraellen, public, posts, formula, lines, line, 0001, лінія, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, public, 0001, belarusian, лінія, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts |
+| be/public/posts/formula/lines/line-0002.html | be | public | Ashraellen — Лінія 0002 — Belarusian | ashraellen, public, posts, formula, lines, line, 0002, лінія, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, public, 0002, belarusian, лінія, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts |
+| be/public/posts/fragment/index.html | be | public | Ashraellen — Фрагменты — Belarusian | ashraellen, public, posts, fragment, фрагменты, па-беларуску, раздзел, які, рыхтуецца, аснове, вялікага, архіва, рукапісаў, нататак, публікацый, doctype, html, title | ashraellen, фрагменты, раздзел, рыхтуецца, public, архіва, нататак, публікацый, рукапісаў, belarusian, fragment, posts, архіў, аснове, вялікага, па-беларуску, рабочых, тут |
 | be/public/posts/index.html | be | public | Ashraellen — Публікацыі | ashraellen, public, posts, публікацыі, па-беларуску, кароткія, формы, назірання, формулы, фрагменты, міні-эсэ, раздзелы, doctype, html, title, function, const, isgithub | ashraellen, публікацыі, public, кароткія, міні-эсэ, назірання, формулы, формы, фрагменты, essay, formula, fragment, posts, па-беларуску, раздзелы, чытаць |
-| be/public/posts/sources/index.html | be | public | Ashraellen — Крыніцы перанесены | ashraellen, public, posts, sources, крыніцы, перанесены, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean | ashraellen, крыніцы, перанесены, public, posts, sources, адкрыць, аснова, даследавання, кагнітыўная, мастацкая, метадалагічная, навука, належаць, наратыў |
+| be/public/posts/sources/index.html | be | public | Ashraellen — Крыніцы перанесены | ashraellen, public, posts, sources, крыніцы, перанесены, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean | крыніцы, перанесены, ashraellen, public, адкрыць, аснова, даследавання, кагнітыўная, мастацкая, метадалагічная, навука, належаць, наратыў, праекта, posts, sources, практыка, раздзела |
 | be/public/talks/index.html | be | public | Ashraellen — Выступленні | ashraellen, public, talks, выступленні, відэа, публічныя, разборы, яснасць, успрыманне, свядомасць, рэальнасць, вяртанне, жывога, разумення, спіс, адбываецца, пасля, смерці | ashraellen, sacred, public, taste, ахепсу, відэа, выступленні, moan, money, revelation, talks, your, youtube, адбываецца, адкрыць, ведаеш, вяртанне, дзе |
 | be/public/thoughts/arcs/0001-cheerfulness.html | be | public | Ashraellen — Вясёласць як дыягностыка чалавека | ashraellen, public, thoughts, arcs, 0001, cheerfulness, вясёласць, дыягностыка, чалавека, апорная, думка, смех, часта, адкрывае, душу, дакладней, правільныя, прамовы | ashraellen, вясёласць, чалавека, public, адкрывае, апорная, думка, дыягностыка, смех, arcs, cheerfulness, thoughts, або, без, выбрана, дакладней, даследчая, душу |
 | be/public/thoughts/arcs/0002-still-the-same.html | be | public | Ashraellen — Тыя самыя сілы, новыя імёны | ashraellen, public, thoughts, arcs, 0002, still, same, тыя, самыя, сілы, новыя, імёны, апорная, думка, сучасныя, трывогі, залежнасці, старых | ashraellen, імёны, новыя, public, апорная, думка, самыя, сілы, тыя, arcs, same, still, thoughts, багоў, без, выбрана, даследчая, дэманаў |
@@ -43,20 +43,20 @@ Pages: 551
 | be/public/thoughts/arcs/0010-dirty-cup.html | be | public | Ashraellen — Брудны кубак | ashraellen, public, thoughts, arcs, 0010, dirty, cup, брудны, кубак, апорная, думка, бег, коле, ачышчае, толькі, змяняе, таго, хто | кубак, ashraellen, брудны, public, апорная, думка, коле, arcs, cup, dirty, thoughts, але, аліса, ачышчае, бег, бяжыць, выбрана, даследчая |
 | be/public/thoughts/arcs/0011-do-not-regret.html | be | public | Ashraellen — Не шкадуй | ashraellen, public, thoughts, arcs, 0011, regret, шкадуй, апорная, думка, часам, міласць, выглядае, страта, ратунак, прыходзіць, пад, выглядам, няздзейсненай | ashraellen, шкадуй, public, апорная, выглядае, выглядам, думка, мары, страта, часам, arcs, regret, thoughts, але, было, выбрана, даследчая, калі |
 | be/public/thoughts/arcs/0012-close-the-book.html | be | public | Ashraellen — Калі закрыць кнігу | ashraellen, public, thoughts, arcs, 0012, close, book, калі, закрыць, кнігу, апорная, думка, пэўны, момант, шлях, працягваецца, ўжо, старонцы | ashraellen, калі, працягваецца, public, закрыць, кнігу, момант, пэўны, цішыні, шлях, arcs, book, close, thoughts, але, апорная, выбрана, даследчая |
-| be/public/thoughts/arcs/0013-problem-loses-crown.html | be | public | Ashraellen — Праблема губляе карону | ashraellen, public, thoughts, arcs, 0013, problem, loses, crown, праблема, губляе, карону, апорная, думка, праблему, знішчылі, але, пафас, так | праблема, ashraellen, public, але, губляе, думка, знішчылі, карону, пафас, праблему, так, 0013, arcs, crown, loses, problem, thoughts, апорная |
+| be/public/thoughts/arcs/0013-problem-loses-crown.html | be | public | Ashraellen — Праблема губляе карону | ashraellen, public, thoughts, arcs, 0013, problem, loses, crown, праблема, губляе, карону, апорная, думка, праблему, знішчылі, але, пафас, так | губляе, карону, праблема, 0013, але, апорная, думка, знішчылі, пафас, праблему, так, ashraellen, public, выбрана, даследчая, нататка, поўны, сэнс |
 | be/public/thoughts/arcs/0014-end-of-extra-war.html | be | public | Ashraellen — Канец лішняй вайны | ashraellen, public, thoughts, arcs, 0014, end, extra, war, канец, лішняй, вайны, апорная, думка, унутраная, згода, тым, ёсць, параза | вайны, канец, лішняй, ashraellen, public, думка, ёсць, згода, тым, 0014, arcs, end, extra, thoughts, war, але, апорная, выбрана |
-| be/public/thoughts/arcs/0015-subtle-thought-needs-silence.html | be | public | Ashraellen — Тонкая думка патрабуе цішыні | ashraellen, public, thoughts, arcs, 0015, subtle, thought, needs, silence, тонкая, думка, патрабуе, цішыні, апорная, абавязана, рабіцца, грубай, каб | думка, тонкая, патрабуе, 0015, ashraellen, public, абавязана, грубай, заўважылі, каб, рабіцца, сэнс, цішыні, arcs, needs, silence, subtle, thought |
-| be/public/thoughts/arcs/0016-one-fact.html | be | public | Ashraellen — Факт быў адзін | ashraellen, public, thoughts, arcs, 0016, one, fact, факт, быў, адзін, апорная, думка, пакуты, тры, сезоны, працягам, сэнс, поўны | адзін, быў, факт, 0016, ashraellen, public, думка, пакуты, працягам, сезоны, тры, arcs, fact, one, thoughts, апорная, выбрана, даследчая |
+| be/public/thoughts/arcs/0015-subtle-thought-needs-silence.html | be | public | Ashraellen — Тонкая думка патрабуе цішыні | ashraellen, public, thoughts, arcs, 0015, subtle, thought, needs, silence, тонкая, думка, патрабуе, цішыні, апорная, абавязана, рабіцца, грубай, каб | думка, тонкая, патрабуе, цішыні, 0015, апорная, сэнс, ashraellen, public, абавязана, выбрана, грубай, даследчая, заўважылі, каб, нататка, поўны, тэкст |
+| be/public/thoughts/arcs/0016-one-fact.html | be | public | Ashraellen — Факт быў адзін | ashraellen, public, thoughts, arcs, 0016, one, fact, факт, быў, адзін, апорная, думка, пакуты, тры, сезоны, працягам, сэнс, поўны | адзін, быў, факт, 0016, апорная, думка, пакуты, сезоны, тры, ashraellen, public, выбрана, даследчая, нататка, поўны, працягам, сэнс, тэкст |
 | be/public/thoughts/arcs/0017-witness-does-not-interfere.html | be | public | Ashraellen — Сведка не перашкаджае ісціне | ashraellen, public, thoughts, arcs, 0017, witness, does, interfere, сведка, перашкаджае, ісціне, апорная, думка, той, хто, нічога, робіць, стаць | ісціне, перашкаджае, сведка, той, хто, ashraellen, public, бачнай, думка, нічога, раней, робіць, 0017, arcs, does, interfere, thoughts, witness |
 | be/public/thoughts/arcs/0018-image-cannot-be-happy.html | be | public | Ashraellen — Вобраз не можа быць шчаслівым | ashraellen, public, thoughts, arcs, 0018, image, cannot, happy, вобраз, можа, быць, шчаслівым, апорная, думка, атрымаць, прызнанне, але, сэнс | можа, быць, вобраз, шчаслівым, ashraellen, public, але, думка, прызнанне, 0018, arcs, cannot, happy, image, thoughts, апорная, атрымаць, вобразу |
-| be/public/thoughts/arcs/0019-do-not-bomb.html | be | public | Ashraellen — Не бамбіце | ashraellen, public, thoughts, arcs, 0019, bomb, бамбіце, апорная, думка, будзеце, бамбімыя, сэнс, поўны, тэкст, чаму, выбрана, даследчая, нататка | бамбіце, 0019, ashraellen, public, бамбімыя, будзеце, думка, arcs, bomb, thoughts, апорная, выбрана, выпускае, даследчая, заўсёды, нават, нататка, потым |
-| be/public/thoughts/arcs/0020-people-and-mass.html | be | public | Ashraellen — Народ і маса | ashraellen, public, thoughts, arcs, 0020, people, mass, народ, маса, апорная, думка, памятае, рэагуе, сэнс, поўны, тэкст, чаму, выбрана | маса, народ, 0020, ashraellen, public, думка, памятае, рэагуе, arcs, mass, people, thoughts, апорная, выбрана, даследчая, масы, мне, можна |
+| be/public/thoughts/arcs/0019-do-not-bomb.html | be | public | Ashraellen — Не бамбіце | ashraellen, public, thoughts, arcs, 0019, bomb, бамбіце, апорная, думка, будзеце, бамбімыя, сэнс, поўны, тэкст, чаму, выбрана, даследчая, нататка | бамбіце, 0019, апорная, бамбімыя, будзеце, думка, сэнс, ashraellen, public, выбрана, выпускае, даследчая, нататка, поўны, свет, тэкст, чалавек, чаму |
+| be/public/thoughts/arcs/0020-people-and-mass.html | be | public | Ashraellen — Народ і маса — Belarusian | ashraellen, public, thoughts, arcs, 0020, people, mass, народ, маса, апорная, думка, памятае, рэагуе, сэнс, поўны, тэкст, чаму, выбрана | народ, маса, 0020, апорная, думка, памятае, рэагуе, сэнс, ashraellen, public, выбрана, даследчая, нататка, поўны, тэкст, чаму, arcs, belarusian |
 | be/public/thoughts/arcs/0021-mating-games.html | be | public | Ashraellen — Шлюбныя гульні | ashraellen, public, thoughts, arcs, 0021, mating, games, шлюбныя, гульні, апорная, думка, адносіны, часта, пачынаюцца, ролі, якую, ўжо, прынеслі | гульні, шлюбныя, ashraellen, public, адносіны, думка, пачынаюцца, ролі, ўжо, 0021, arcs, games, mating, thoughts, апорная, быць, выбрана, даследчая |
-| be/public/thoughts/arcs/0022-spirituality-is-not-forced.html | be | public | Ashraellen — Духоўнасць не навязваецца | ashraellen, public, thoughts, arcs, 0022, spirituality, forced, духоўнасць, навязваецца, апорная, думка, сапраўдная, зачароўваюцца, сэнс, поўны, тэкст, чаму, выбрана | духоўнасць, навязваецца, ashraellen, public, думка, зачароўваюцца, сапраўдная, 0022, arcs, forced, spirituality, thoughts, апорная, выбрана, даследчая, душа, можа, можна |
-| be/public/thoughts/arcs/0023-price-of-transition.html | be | public | Ashraellen — Кошт пераходу | ashraellen, public, thoughts, arcs, 0023, price, transition, кошт, пераходу, апорная, думка, кожны, пераход, новы, этап, аплачваецца, крызісам, сэнс | кошт, ashraellen, public, аплачваецца, думка, кожны, пераходу, этап, 0023, arcs, price, thoughts, transition, але, апорная, быць, выбрана, даследчая |
+| be/public/thoughts/arcs/0022-spirituality-is-not-forced.html | be | public | Ashraellen — Духоўнасць не навязваецца | ashraellen, public, thoughts, arcs, 0022, spirituality, forced, духоўнасць, навязваецца, апорная, думка, сапраўдная, зачароўваюцца, сэнс, поўны, тэкст, чаму, выбрана | духоўнасць, навязваецца, 0022, апорная, думка, сапраўдная, ashraellen, public, выбрана, даследчая, нататка, поўны, сэнс, тэкст, чаму, arcs, forced, spirituality |
+| be/public/thoughts/arcs/0023-price-of-transition.html | be | public | Ashraellen — Кошт пераходу | ashraellen, public, thoughts, arcs, 0023, price, transition, кошт, пераходу, апорная, думка, кожны, пераход, новы, этап, аплачваецца, крызісам, сэнс | кошт, пераходу, аплачваецца, думка, кожны, крызісам, новы, сэнс, этап, 0023, ashraellen, public, апорная, выбрана, даследчая, нататка, пераход, поўны |
 | be/public/thoughts/arcs/0024-true-enemy-not-ignorance.html | be | public | Ashraellen — Сапраўдны вораг | ashraellen, public, thoughts, arcs, 0024, true, enemy, ignorance, сапраўдны, вораг, апорная, думка, чалавека, яго, няведанне, ўпэўненасць, ужо, ведае | вораг, сапраўдны, ashraellen, public, ведае, думка, няведанне, ужо, ўпэўненасць, чалавека, яго, 0024, arcs, enemy, ignorance, thoughts, true, апорная |
 | be/public/thoughts/index-0001.html | be | public | Ashraellen — Першая дуга апорных думак | ashraellen, public, thoughts, index, 0001, першая, дуга, апорных, думак, вясёласць, старыя, сілы, прабуджэнне, сканечнасць, страх, празрэнне, дыягностыка, чалавека | ashraellen, апорных, дуга, думак, першая, вясёласць, сілы, public, збірае, прабуджэнне, сканечнасць, страх, index, thoughts, абуджае, адкрыць, апорная, глыбейшы |
-| be/public/thoughts/index-0002.html | be | public | Ashraellen — Дуга 0002 | ashraellen, public, thoughts, index, 0002, дуга, другая, апорных, думак, пустое, крэсла, абагульненне, замест, назірання, дзе, спынілася, жыццё, брудны | ashraellen, дуга, апорных, другая, думак, 0002, public, абагульненне, дзе, index, thoughts, адкрыць, апорная, брудны, думка, думку, жыццё, закрыць |
+| be/public/thoughts/index-0002.html | be | public | Ashraellen — Дуга 0002 | ashraellen, public, thoughts, index, 0002, дуга, другая, апорных, думак, пустое, крэсла, абагульненне, замест, назірання, дзе, спынілася, жыццё, брудны | дуга, апорных, другая, думак, 0002, ashraellen, абагульненне, дзе, кубак, public, брудны, жыццё, закрыць, замест, калі, кнігу, крэсла, назірання |
 | be/public/thoughts/index.html | be | public | Ashraellen — Трэцяя дуга апорных думак | ashraellen, public, thoughts, трэцяя, дуга, апорных, думак, праблема, губляе, карону, сканчаецца, лішняя, вайна, тонкая, думка, адзін, факт, сведка | ashraellen, апорных, дуга, думак, думка, праблема, сведка, тонкая, трэцяя, факт, public, адзін, вобраз, губляе, карону, thoughts, адкрыць, апорная |
 | be/research/archive/index.html | be | research | Ashraellen — Архіў даследавання | ashraellen, research, archive, архіў, даследавання, даследчых, матэрыялаў, завершаныя, версіі, ранейшыя, пласты, сляды, шляху, матэрыялы, якія, больш, знаходзяцца, жывой | ashraellen, архіў, research, даследавання, жывой, знаходзяцца, матэрыялаў, шляху, якія, яшчэ, archive, mark, presence, больш, версіі, даследаванне, даследчых, завершаныя |
 | be/research/index.html | be | research | Ashraellen — Даследаванне | ashraellen, research, даследаванне, спосаб, бачыць, мастацка-філасофскае, сэнсу, даўжынёю, жыццё, назіранне, тым, чалавек, губляе, сувязь, рэальнасцю, сэнсам, ўнутранай, свабодай | даследаванне, ashraellen, research, бачыць, даследавання, чалавек, або, адкрытыя, адкрыць, архіў, веды, відэа, грамадства, губляе, гэтую, даследуецца, даўжынёю, дзе |
@@ -66,33 +66,33 @@ Pages: 551
 | be/research/projects/index.html | be | research | Ashraellen — Праекты даследавання | ashraellen, research, projects, праекты, даследавання, карта, рабочых, палёў, monolith, асноўны, канал, публічнае, поле, сатырычныя, бакавыя, лабараторыі, ўспрымання, instagram | ashraellen, праекты, monolith, research, telegram, бакавыя, канал, лабараторыі, поле, church, inner, instagram, melodies, occultus, projects, saint, scriptorium, sounds |
 | be/research/sources/index.html | be | research | Ashraellen — Крыніцы і традыцыя | ashraellen, research, sources, крыніцы, традыцыя, фенаменалогія, свядомасці, цела, наратыў, кагнітыўная, навука, мастацкая, практыка, эдмунд, гусерль, досвед, гатовых, тлумачэнняў | ashraellen, крыніцы, традыцыя, цела, research, аповед, досвед, свядомасці, свядомасць, фенаменалогія, sources, бачным, варэла, гатовых, гусерль, даследавання, досведу, жывая |
 | de/books/index.html | de | books | Ashraellen — Bücher | ashraellen, books, bücher, von, romane, große, projekte, buch-experimente, monolith, das, heilige, buch, seccus, bist, bereits, online, und, der | bücher, ashraellen, buch, das, bereits, books, der, und, whinesis, bist, buch-experimente, die, große, heilige, liste, monolith, nicht, online |
-| de/books/monolith/beton/index.html | de | books | Ashraellen — BETON | ashraellen, books, monolith, beton, band, der, monolith-trilogie, akte, beschreibung, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | beton, ashraellen, band, books, der, monolith-trilogie, akte, beginnt, beschreibung, des, die, ein, eine, einer, ist, monolith, und |
-| de/books/monolith/index.html | de | books | Ashraellen — MONOLITH | ashraellen, books, monolith, eine, dystopische, trilogie, über, kontrolle, erinnerung, und, den, zerfall, von, systemen, serie, bände, band, beton | monolith, ashraellen, books, eine, erinnerung, und, band, bände, beton, den, der, die, dystopische, gas, ist, kontrolle, ohne, serie |
-| de/books/monolith/sludge/index.html | de | books | Ashraellen — SLUDGE | ashraellen, books, monolith, sludge, band, der, monolith-trilogie, akte, beschreibung, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | sludge, ashraellen, band, books, der, monolith-trilogie, akte, beschreibung, die, ein, eine, ist, mensch, monolith, nicht, sie, und |
+| de/books/monolith/beton/index.html | de | books | Ashraellen — BETON — German | ashraellen, books, monolith, beton, band, der, monolith-trilogie, akte, beschreibung, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | beton, akte, band, der, beginnt, mit, monolith-trilogie, ashraellen, beschreibung, books, ein, einer, die, gefängnis, german, gewohnheit, ist, monolith |
+| de/books/monolith/index.html | de | books | Ashraellen — MONOLITH — German | ashraellen, books, monolith, eine, dystopische, trilogie, über, kontrolle, erinnerung, und, den, zerfall, von, systemen, serie, bände, band, beton | monolith, ashraellen, books, eine, erinnerung, und, band, bände, beton, den, der, die, dystopische, gas, german, ist, kontrolle, ohne |
+| de/books/monolith/sludge/index.html | de | books | Ashraellen — SLUDGE — German | ashraellen, books, monolith, sludge, band, der, monolith-trilogie, akte, beschreibung, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | sludge, akte, band, der, monolith-trilogie, ashraellen, beschreibung, books, ein, mensch, nicht, wird, beginnt, dann, die, german, ist, leisten |
 | de/books/seccus/index.html | de | books | Ashraellen — DAS HEILIGE BUCH SECCUS | ashraellen, books, seccus, das, heilige, buch, philosophische, untersuchung, angewandte, psychologie, und, metaphysik, des, bewusstseins, über, selbsttäuschung, ehrlichkeit, geld | buch, das, seccus, des, heilige, und, ashraellen, books, über, als, angewandte, audio-video-seite, auszug, bewusstseins, buches, dass, den, der |
-| de/books/the-book-of-whinesis/index.html | de | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sakrale, satire, für, alle, die, von, positiven, vibes, endloser, produktivität, und, dem, kult, des | book, whinesis, ashraellen, books, des, die, und, alle, auf, auszug, buch, das, dem, den, der, endloser, erfolgs, erste |
+| de/books/the-book-of-whinesis/index.html | de | books | Ashraellen — The Book of Whinesis — German | ashraellen, books, book, whinesis, sakrale, satire, für, alle, die, von, positiven, vibes, endloser, produktivität, und, dem, kult, des | book, whinesis, ashraellen, books, des, die, und, alle, auf, auszug, buch, das, dem, den, der, endloser, erfolgs, erste |
 | de/books/you-are-already-online/index.html | de | books | Ashraellen — Du bist bereits online | ashraellen, books, you, already, online, bist, bereits, ein, immersiver, audio-roman, genre, des, psychologischen, thrillers, und, cyberpunk-dramas, über, digitale | bereits, online, bist, des, und, ashraellen, books, das, ein, über, algorithmen, already, audio-roman, auszug, buch, cyberpunk-dramas, den, der |
-| de/contact.html | de | contact.html | Kontakt — Ashraellen | ashraellen, contact, kontakt, kontaktseite, von, zusammenarbeit, publikationen, förderungen, medien, und, projektanfragen, doctype, html, title, function, const, isgithub, location.hostname.endswith | ashraellen, kontakt, förderungen, medien, projektanfragen, und, von, zusammenarbeit, contact, contact.html, der, dient, kontaktseite, kostyshev, öffentliche, publikationen |
+| de/contact.html | de | contact.html | Kontakt — Ashraellen — German | ashraellen, contact, kontakt, kontaktseite, von, zusammenarbeit, publikationen, förderungen, medien, und, projektanfragen, doctype, html, title, function, const, isgithub, location.hostname.endswith | ashraellen, kontakt, förderungen, medien, projektanfragen, und, von, zusammenarbeit, contact, contact.html, der, dient, german, kontaktseite, kostyshev, öffentliche, publikationen |
 | de/index.html | de | index.html | Ashraellen — Bücher, Forschung und öffentliche Texte | ashraellen, bücher, forschung, und, öffentliche, texte, ist, ein, mehrsprachiges, autorenprojekt, über, videos, formen, innerer, beobachtung, doctype, html, title | ashraellen, bücher, forschung, öffentliche, texte, und, autorenprojekt, formen, ist, bedeutung, beobachtung, ein, eine, index.html, innerer, mehrsprachiges, öffentlich, über |
-| de/monolith/index.html | de | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | monolith, beton, gas, sludge, ashraellen, amazon, auf, band, bei, die, englisch, erinnerung, vorbereitung |
+| de/monolith/index.html | de | monolith | MONOLITH — Ashraellen — German | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | monolith, beton, gas, sludge, ashraellen, erinnerung, ist, amazon, auf, band, bei, den, die, drei, dystopische, eine, german, kontrolle |
 | de/privacy.html | de | privacy.html | Datenschutzerklärung — Ashraellen | ashraellen, privacy, datenschutzerklärung, für, ashraellen.com, personenbezogene, daten, analyse, cookies, nutzerrechte, und, kontakt, verantwortliche, stelle, welche, verarbeitet, werden, können | und, analyse, daten, datenschutzerklärung, ashraellen, cookies, der, externe, für, können, werden, ashraellen.com, die, dienste, kann, käufe, kontakt, lokale |
 | de/professional/index.html | de | professional | Ashraellen — Professionelles Dossier | ashraellen, professional, professionelles, dossier, von, autor, beobachtungsmethode, bücher, öffentliche, formen, des, projekts, entwicklungsplan, zusammenarbeit, und, kontakt, über, den | ashraellen, der, beobachtung, des, öffentliche, und, autor, dossier, entwicklungsplan, formen, professional, professionelles, projekt, projekts, von, aktuelles, auf, ausgewählte |
 | de/public/index.html | de | public | Ashraellen — Öffentlich | ashraellen, public, öffentlich, öffentliches, feld, auftritte, veröffentlichungen, stützgedanken, reaktionen, und, beobachtungen, denen, forschung, dem, lebendigen, menschen, begegnet, neue | ashraellen, auftritte, menschen, öffentlich, public, stützgedanken, und, veröffentlichungen, begegnet, beobachtungen, dem, denen, der, des, die, eine, feld, forschung |
-| de/public/posts/essay/cycles/cycle-0001.html | de | public | Ashraellen — Erster Mini-Essay-Zyklus | ashraellen, public, posts, essay, cycles, cycle, 0001, erster, mini-essay-zyklus, zyklus, macht, nicht, über, den, gedanken, sondern, die, aufmerksamkeit | die, erster, ist, nicht, ashraellen, das, der, körper, public, über, vergangenheit, zyklus, aber, aufmerksamkeit, aus, beginnt, cycle, cycles |
-| de/public/posts/essay/cycles/index.html | de | public | Ashraellen — Mini-Essay-Zyklen | ashraellen, public, posts, essay, cycles, mini-essay-zyklen, abgeschlossene, zyklen, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, mini-essay-zyklen, abgeschlossene, public, zyklen, abschnitts, aktuelle, aktuellen, aktueller, auf, aufmerksamkeit, cycles, der, essay, posts, zyklus |
-| de/public/posts/essay/index.html | de | public | Ashraellen — Mini-Essays | ashraellen, public, posts, essay, mini-essays, erster, zyklus, macht, nicht, über, den, gedanken, sondern, die, aufmerksamkeit, der, körper, ist | die, ist, nicht, ashraellen, das, der, mini-essays, public, über, vergangenheit, aber, aufmerksamkeit, aus, beginnt, den, deutung, ein, erste |
-| de/public/posts/formula/index.html | de | public | Ashraellen — Formeln | ashraellen, public, posts, formula, formeln, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | ashraellen, formeln, public, formula, posts |
-| de/public/posts/formula/lines/index.html | de | public | Ashraellen — Formellinie | ashraellen, public, posts, formula, lines, formellinie, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean | ashraellen, formellinie, public, formula, lines, posts |
-| de/public/posts/formula/lines/line-0001.html | de | public | Ashraellen — Formellinie 0001 | ashraellen, public, posts, formula, lines, line, 0001, formellinie, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, 0001, formellinie, public, formula, line, lines, posts |
-| de/public/posts/formula/lines/line-0002.html | de | public | Ashraellen — Formellinie 0002 | ashraellen, public, posts, formula, lines, line, 0002, formellinie, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, 0002, formellinie, public, formula, line, lines, posts |
+| de/public/posts/essay/cycles/cycle-0001.html | de | public | Ashraellen — Erster Mini-Essay-Zyklus | ashraellen, public, posts, essay, cycles, cycle, 0001, erster, mini-essay-zyklus, zyklus, macht, nicht, über, den, gedanken, sondern, die, aufmerksamkeit | die, erster, ist, nicht, zyklus, der, über, das, erste, körper, vergangenheit, aber, ashraellen, aufmerksamkeit, den, deutung, gedanken, ihre |
+| de/public/posts/essay/cycles/index.html | de | public | Ashraellen — Mini-Essay-Zyklen | ashraellen, public, posts, essay, cycles, mini-essay-zyklen, abgeschlossene, zyklen, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | abgeschlossene, mini-essay-zyklen, zyklen, der, abschnitts, aktuelle, ashraellen, auf, befindet, des, gesammelt, hauptseite, public, zyklus, cycles, essay, hier, mini-essays |
+| de/public/posts/essay/index.html | de | public | Ashraellen — Mini-Essays — German | ashraellen, public, posts, essay, mini-essays, erster, zyklus, macht, nicht, über, den, gedanken, sondern, die, aufmerksamkeit, der, körper, ist | die, ist, nicht, mini-essays, über, das, der, vergangenheit, aber, ashraellen, aufmerksamkeit, den, deutung, erste, erster, gedanken, ihre, körper |
+| de/public/posts/formula/index.html | de | public | Ashraellen — Formeln | ashraellen, public, posts, formula, formeln, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | ashraellen, public, formeln, archive, artistic, literary, multilingual, part, research, work, formula, posts |
+| de/public/posts/formula/lines/index.html | de | public | Ashraellen — Formellinie | ashraellen, public, posts, formula, lines, formellinie, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean | ashraellen, public, formellinie, archive, artistic, literary, multilingual, part, research, work, formula, lines, posts |
+| de/public/posts/formula/lines/line-0001.html | de | public | Ashraellen — Formellinie 0001 | ashraellen, public, posts, formula, lines, line, 0001, formellinie, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, public, 0001, formellinie, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts |
+| de/public/posts/formula/lines/line-0002.html | de | public | Ashraellen — Formellinie 0002 | ashraellen, public, posts, formula, lines, line, 0002, formellinie, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, public, 0002, formellinie, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts |
 | de/public/posts/fragment/index.html | de | public | Ashraellen — Fragmente | ashraellen, public, posts, fragment, fragmente, von, ein, bereich, der, aus, einem, großen, archiv, handschriftlicher, texte, notizen, und, veröffentlichungen | ashraellen, fragmente, bereich, wird, archiv, aus, der, notizen, public, texte, und, vorbereitet, auszüge, die, dieser, ein, einem, fragment |
-| de/public/posts/index.html | de | public | Ashraellen — Beiträge | ashraellen, public, posts, beiträge, abschnitte, formeln, fragmente, mini-essays, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, beiträge, abschnitte, public, aber, aus, ein, formeln, fragmente, kurze, lesen, mini-essays, posts, und |
-| de/public/posts/sources/index.html | de | public | Ashraellen — Quellen verschoben | ashraellen, public, posts, sources, quellen, verschoben, wurden, neue, adresse, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | ashraellen, quellen, verschoben, adresse, public, als, beiträgen, bilden, den, der, deren, forschung, neue, posts, sources, und, wurden |
+| de/public/posts/index.html | de | public | Ashraellen — Beiträge | ashraellen, public, posts, beiträge, abschnitte, formeln, fragmente, mini-essays, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beiträge, abschnitte, formeln, fragmente, mini-essays, ashraellen, beobachtung, bevor, der, kurze, public, und, ein, einen, fassen, format, formen, gedanken |
+| de/public/posts/sources/index.html | de | public | Ashraellen — Quellen verschoben | ashraellen, public, posts, sources, quellen, verschoben, wurden, neue, adresse, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | quellen, verschoben, neue, wurden, adresse, ashraellen, beiträgen, bilden, den, der, forschung, public, und, des, eine, gehören, grundlage, jetzt |
 | de/public/talks/index.html | de | public | Ashraellen — Vorträge | ashraellen, public, talks, vorträge, videos, und, öffentliche, analysen, von, klarheit, wahrnehmung, bewusstsein, realität, die, rückkehr, zum, lebendigen, verstehen | ashraellen, die, und, das, dem, der, public, sacred, von, vorträge, ahepsu, als, analysen, bewusstsein, buch, chronik, des, ebenen |
 | de/public/thoughts/arcs/0001-cheerfulness.html | de | public | Ashraellen — Heiterkeit als Diagnose des Menschen | ashraellen, public, thoughts, arcs, 0001, cheerfulness, heiterkeit, als, diagnose, des, menschen, stützgedanke, lachen, öffnet, die, seele, oft, genauer | als, ashraellen, heiterkeit, menschen, des, diagnose, die, lachen, public, arcs, ausgewählt, cheerfulness, das, den, durch, forschungsnotiz, genauer, lacht |
 | de/public/thoughts/arcs/0002-still-the-same.html | de | public | Ashraellen — Dieselben Kräfte, neue Namen | ashraellen, public, thoughts, arcs, 0002, still, same, dieselben, kräfte, neue, namen, stützgedanke, moderne, ängste, und, abhängigkeiten, als, alter | namen, neue, ashraellen, und, dämonen, dieselben, götter, kräfte, public, abhängigkeiten, als, alter, ängste, arcs, ausgewählt, der, die, forschungsnotiz |
 | de/public/thoughts/arcs/0003-let-go.html | de | public | Ashraellen — Erwachen beginnt dort, wo es nicht mehr weitergeht | ashraellen, public, thoughts, arcs, 0003, let, erwachen, beginnt, dort, nicht, mehr, weitergeht, stützgedanke, die, alte, lebensweise, fortgesetzt, werden | beginnt, erwachen, nicht, ashraellen, dort, mehr, die, public, weitergeht, alte, arcs, ausgewählt, der, einem, forschungsnotiz, fortgesetzt, ist, kann |
-| de/public/thoughts/arcs/0004-mortality-awakens.html | de | public | Ashraellen — Endlichkeit weckt die Frage | ashraellen, public, thoughts, arcs, 0004, mortality, awakens, endlichkeit, weckt, die, frage, stützgedanke, viele, beginnen, denken, wenn, ihre, illusionen | ashraellen, die, endlichkeit, frage, denken, public, weckt, wenn, arcs, aus, ausgewählt, awakens, beginnen, dann, der, enden, forschungsnotiz, ihre |
+| de/public/thoughts/arcs/0004-mortality-awakens.html | de | public | Ashraellen — Endlichkeit weckt die Frage | ashraellen, public, thoughts, arcs, 0004, mortality, awakens, endlichkeit, weckt, die, frage, stützgedanke, viele, beginnen, denken, wenn, ihre, illusionen | die, endlichkeit, frage, weckt, ashraellen, ausgewählt, denken, forschungsnotiz, public, sinn, stützgedanke, text, viele, vollständiger, warum, wenn, 0004, arcs |
 | de/public/thoughts/arcs/0005-on-your-own.html | de | public | Ashraellen — Angst als Kontrollmechanismus | ashraellen, public, thoughts, arcs, 0005, your, own, angst, als, kontrollmechanismus, stützgedanke, der, mensch, aufhört, haben, und, beginnt, selbst | angst, als, ashraellen, denken, der, kontrollmechanismus, mensch, public, selbst, und, alte, arcs, aufhört, ausgewählt, beginnt, dem, die, forschungsnotiz |
 | de/public/thoughts/arcs/0006-insight.html | de | public | Ashraellen — Ein tieferer Blick fügt das Leben zusammen | ashraellen, public, thoughts, arcs, 0006, insight, ein, tieferer, blick, fügt, das, leben, zusammen, stützgedanke, fehler, schmerz, und, erfahrung | blick, ashraellen, das, ein, fügt, leben, tieferer, zusammen, public, und, als, arcs, ausgewählt, beginnt, der, des, die, einer |
 | de/public/thoughts/arcs/0007-empty-chair.html | de | public | Ashraellen — Der leere Stuhl | ashraellen, public, thoughts, arcs, 0007, empty, chair, der, leere, stuhl, stützgedanke, manche, menschen, gehen, nicht, vollständig, fort, sie | ashraellen, der, stuhl, auf, leere, menschen, nicht, public, als, arcs, ausgewählt, chair, den, die, ein, empty, forschungsnotiz, fort |
@@ -101,56 +101,56 @@ Pages: 551
 | de/public/thoughts/arcs/0010-dirty-cup.html | de | public | Ashraellen — Die schmutzige Tasse | ashraellen, public, thoughts, arcs, 0010, dirty, cup, die, schmutzige, tasse, stützgedanke, kreis, laufen, reinigt, nicht, verändert, nur, den | die, tasse, ashraellen, den, der, nicht, public, schmutzige, alice, arcs, ausgewählt, cup, das, dirty, forschungsnotiz, hutmacher, ist, kreis |
 | de/public/thoughts/arcs/0011-do-not-regret.html | de | public | Ashraellen — Bereue nichts | ashraellen, public, thoughts, arcs, 0011, regret, bereue, nichts, stützgedanke, manchmal, sieht, barmherzigkeit, wie, verlust, aus, kommt, rettung, gestalt | ashraellen, bereue, manchmal, aus, nichts, public, verlust, arcs, ausgewählt, barmherzigkeit, den, der, die, eines, forschungsnotiz, gestalt, hätte, kommt |
 | de/public/thoughts/arcs/0012-close-the-book.html | de | public | Ashraellen — Wann man das Buch schließen soll | ashraellen, public, thoughts, arcs, 0012, close, book, wann, man, das, buch, schließen, soll, stützgedanke, irgendwann, geht, der, weg | der, ashraellen, buch, das, geht, man, nicht, public, schließen, soll, stille, wann, weiter, arcs, auf, ausgewählt, book, close |
-| de/public/thoughts/arcs/0013-problem-loses-crown.html | de | public | Ashraellen — Das Problem verliert seine Krone | ashraellen, public, thoughts, arcs, 0013, problem, loses, crown, das, verliert, seine, krone, stützgedanke, wurde, nicht, zerstört, aber, sein | problem, das, aber, ashraellen, krone, nicht, public, schon, seine, verliert, 0013, arcs, ausgewählt, crown, dem, den, die, forschungsnotiz |
+| de/public/thoughts/arcs/0013-problem-loses-crown.html | de | public | Ashraellen — Das Problem verliert seine Krone | ashraellen, public, thoughts, arcs, 0013, problem, loses, crown, das, verliert, seine, krone, stützgedanke, wurde, nicht, zerstört, aber, sein | das, problem, krone, seine, verliert, 0013, aber, ashraellen, ausgewählt, forschungsnotiz, nicht, public, schon, sinn, stützgedanke, volltext, warum, arcs |
 | de/public/thoughts/arcs/0014-end-of-extra-war.html | de | public | Ashraellen — Das Ende des unnötigen Krieges | ashraellen, public, thoughts, arcs, 0014, end, extra, war, das, ende, des, unnötigen, krieges, stützgedanke, die, innere, zustimmung, dem | das, ende, ist, krieges, unnötigen, ashraellen, dem, des, die, public, sie, was, 0014, arcs, ausgewählt, der, eines, end |
 | de/public/thoughts/arcs/0015-subtle-thought-needs-silence.html | de | public | Ashraellen — Ein feiner Gedanke braucht Stille | ashraellen, public, thoughts, arcs, 0015, subtle, thought, needs, silence, ein, feiner, gedanke, braucht, stille, stützgedanke, ist, nicht, verpflichtet | ein, feiner, gedanke, ashraellen, braucht, ist, nicht, public, stille, 0015, arcs, ausgewählt, bemerkt, damit, dem, der, die, feinheit |
 | de/public/thoughts/arcs/0016-one-fact.html | de | public | Ashraellen — Es gab einen Fakt | ashraellen, public, thoughts, arcs, 0016, one, fact, gab, einen, fakt, stützgedanke, und, leid, für, drei, staffeln, mit, fortsetzung | einen, fakt, gab, ashraellen, mit, public, und, 0016, arcs, ausgewählt, der, die, drei, ereignis, fact, forschungsnotiz, fortsetzung, für |
 | de/public/thoughts/arcs/0017-witness-does-not-interfere.html | de | public | Ashraellen — Der Zeuge greift nicht ein | ashraellen, public, thoughts, arcs, 0017, witness, does, interfere, der, zeuge, greift, nicht, ein, stützgedanke, ist, nichts, tut, die | der, nicht, zeuge, ein, ist, ashraellen, daran, die, greift, public, werden, 0017, als, arcs, ausgewählt, das, des, does |
 | de/public/thoughts/arcs/0018-image-cannot-be-happy.html | de | public | Ashraellen — Ein Bild kann nicht glücklich sein | ashraellen, public, thoughts, arcs, 0018, image, cannot, happy, ein, bild, kann, nicht, glücklich, sein, stützgedanke, anerkennung, bekommen, aber | kann, bild, ein, nicht, sein, glücklich, aber, ashraellen, public, 0018, anerkennung, arcs, ausgewählt, bekommen, cannot, das, dem, der |
-| de/public/thoughts/arcs/0019-do-not-bomb.html | de | public | Ashraellen — Bombardiere nicht | ashraellen, public, thoughts, arcs, 0019, bomb, bombardiere, nicht, stützgedanke, und, wirst, bombardiert, sinn, volltext, warum, ausgewählt, forschungsnotiz, doctype | nicht, bombardiere, ashraellen, bombardiert, public, und, 0019, arcs, ausgewählt, bomb, dann, das, der, die, ein, forschungsnotiz, ist, mensch |
-| de/public/thoughts/arcs/0020-people-and-mass.html | de | public | Ashraellen — Volk und Masse | ashraellen, public, thoughts, arcs, 0020, people, mass, volk, und, masse, stützgedanke, ein, erinnert, sich, eine, reagiert, sinn, volltext | masse, volk, und, ashraellen, ein, eine, public, sich, 0020, arcs, ausgewählt, der, die, erinnert, forschungsnotiz, ist, kann, mass |
+| de/public/thoughts/arcs/0019-do-not-bomb.html | de | public | Ashraellen — Bombardiere nicht | ashraellen, public, thoughts, arcs, 0019, bomb, bombardiere, nicht, stützgedanke, und, wirst, bombardiert, sinn, volltext, warum, ausgewählt, forschungsnotiz, doctype | nicht, bombardiere, und, 0019, ashraellen, ausgewählt, bombardiert, forschungsnotiz, public, sinn, stützgedanke, volltext, warum, wirst, arcs, bomb, dann, das |
+| de/public/thoughts/arcs/0020-people-and-mass.html | de | public | Ashraellen — Volk und Masse | ashraellen, public, thoughts, arcs, 0020, people, mass, volk, und, masse, stützgedanke, ein, erinnert, sich, eine, reagiert, sinn, volltext | volk, masse, und, ein, eine, sich, sinn, 0020, ashraellen, ausgewählt, erinnert, forschungsnotiz, public, reagiert, stützgedanke, volltext, warum, arcs |
 | de/public/thoughts/arcs/0021-mating-games.html | de | public | Ashraellen — Paarungsspiele | ashraellen, public, thoughts, arcs, 0021, mating, games, paarungsspiele, stützgedanke, beziehungen, beginnen, oft, mit, der, rolle, die, wir, bereits | ashraellen, beginnen, beziehungen, der, die, mit, paarungsspiele, public, 0021, arcs, ausgewählt, bereits, das, des, forschungsnotiz, für, games, haben |
-| de/public/thoughts/arcs/0022-spirituality-is-not-forced.html | de | public | Ashraellen — Spiritualität wird nicht erzwungen | ashraellen, public, thoughts, arcs, 0022, spirituality, forced, spiritualität, wird, nicht, erzwungen, stützgedanke, wahre, aufgezwungen, sie, verzaubert, sinn, volltext | nicht, spiritualität, wird, ashraellen, erzwungen, public, sie, wahre, 0022, angst, arcs, aufgezwungen, ausgewählt, die, forced, forschungsnotiz, kann, man |
+| de/public/thoughts/arcs/0022-spirituality-is-not-forced.html | de | public | Ashraellen — Spiritualität wird nicht erzwungen | ashraellen, public, thoughts, arcs, 0022, spirituality, forced, spiritualität, wird, nicht, erzwungen, stützgedanke, wahre, aufgezwungen, sie, verzaubert, sinn, volltext | nicht, spiritualität, wird, erzwungen, 0022, ashraellen, ausgewählt, forschungsnotiz, public, sie, sinn, stützgedanke, volltext, wahre, warum, angst, arcs, aufgezwungen |
 | de/public/thoughts/arcs/0023-price-of-transition.html | de | public | Ashraellen — Der Preis des Übergangs | ashraellen, public, thoughts, arcs, 0023, price, transition, der, preis, des, übergangs, stützgedanke, jeder, übergang, eine, neue, stufe, wird | der, ashraellen, des, eine, einer, krise, mit, preis, public, übergangs, 0023, arcs, ausgewählt, bezahlt, den, die, eigenen, forschungsnotiz |
 | de/public/thoughts/arcs/0024-true-enemy-not-ignorance.html | de | public | Ashraellen — Der wahre Feind | ashraellen, public, thoughts, arcs, 0024, true, enemy, ignorance, der, wahre, feind, stützgedanke, des, menschen, ist, nicht, unwissenheit, sondern | der, feind, wahre, ashraellen, die, gewissheit, ist, nicht, public, unwissenheit, wissen, 0024, arcs, ausgewählt, bereits, des, enemy, forschungsnotiz |
 | de/public/thoughts/index-0001.html | de | public | Ashraellen — Erster Bogen der Stützgedanken | ashraellen, public, thoughts, index, 0001, erster, bogen, der, stützgedanken, heiterkeit, alte, kräfte, erwachen, endlichkeit, angst, und, einsicht, als | bogen, der, stützgedanken, als, angst, ashraellen, erster, kräfte, alte, die, endlichkeit, erwachen, heiterkeit, public, und, beginnt, blick, das |
-| de/public/thoughts/index-0002.html | de | public | Ashraellen — Bogen 0002 | ashraellen, public, thoughts, index, 0002, bogen, zweiter, der, stützgedanken, leere, stuhl, verallgemeinerung, statt, beobachtung, das, leben, stehen, blieb | ashraellen, bogen, der, das, stützgedanken, 0002, beobachtung, die, nicht, public, zweiter, bereue, blieb, buch, gedanken, index, leben, leere |
+| de/public/thoughts/index-0002.html | de | public | Ashraellen — Bogen 0002 | ashraellen, public, thoughts, index, 0002, bogen, zweiter, der, stützgedanken, leere, stuhl, verallgemeinerung, statt, beobachtung, das, leben, stehen, blieb | der, bogen, das, stützgedanken, ashraellen, beobachtung, die, nicht, tasse, verallgemeinerung, zweiter, bereue, blieb, buch, leben, leere, man, public |
 | de/public/thoughts/index.html | de | public | Ashraellen — Dritter Bogen der Stützgedanken | ashraellen, public, thoughts, dritter, bogen, der, stützgedanken, das, problem, verliert, die, krone, zusätzliche, krieg, endet, feiner, gedanke, eine | der, bogen, das, stützgedanken, ashraellen, bild, die, dritter, gedanke, nicht, tatsache, ein, eine, feiner, krone, problem, public, verliert |
 | de/research/archive/index.html | de | research | Ashraellen — Forschungsarchiv | ashraellen, research, archive, forschungsarchiv, archiv, der, forschungsmaterialien, von, abgeschlossene, versionen, frühere, schichten, spuren, des, weges, und, materialien, die | ashraellen, archiv, die, abgeschlossene, arbeit, materialien, nicht, noch, research, sich, und, von, archive, bewegt, der, des, forschung, forschungsarchiv |
 | de/research/index.html | de | research | Ashraellen — Forschung | ashraellen, research, forschung, ist, eine, weise, des, sehens, und, lebenslange, künstlerisch-philosophische, untersuchung, sinns, beobachtung, dessen, wie, der, mensch | eine, forschung, wie, ashraellen, der, des, ist, und, research, als, arbeit, beobachtung, den, dessen, die, diese, digitale, ein |
 | de/research/method/index.html | de | research | Ashraellen — Methode der Beobachtung | ashraellen, research, method, methode, der, beobachtung, die, von, aufzeichnung, sinnknoten, künstlerische, form, als, forschungsinstrument, und, überprüfung, durch, wiedererkennen | der, beobachtung, ashraellen, methode, von, als, die, form, künstlerische, research, sinnknoten, überprüfung, und, aufzeichnung, das, durch, ein, entsteht |
-| de/research/notes/index.html | de | research | Ashraellen — Notes | ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai | notes, ashraellen, margins, research, darum, das, doktrin, fragmente, geht, genau, material, public, ränder |
-| de/research/position/index.html | de | research | Ashraellen — Position | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev | position, ashraellen, research, als, arbeite, beobachtung, beschreibungsmodelle, betrachte, der, die, erfahrung, erfahrungen, und |
+| de/research/notes/index.html | de | research | Ashraellen — Notes — German | ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai | notes, ashraellen, margins, research, darum, das, doktrin, fragmente, geht, genau, material, public, ränder, german, sich, unfertig, weigert, wenn |
+| de/research/position/index.html | de | research | Ashraellen — Position — German | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev | position, ashraellen, als, und, arbeite, beobachtung, beschreibungsmodelle, betrachte, der, erfahrung, erfahrungen, feld, research, forscher, german, ich, innere, künstlerischer |
 | de/research/projects/index.html | de | research | Ashraellen — Forschungsprojekte | ashraellen, research, projects, forschungsprojekte, eine, karte, der, arbeitsfelder, von, monolith, hauptkanal, öffentliches, feld, satirische, projekte, und, seitenlabore, wahrnehmung | ashraellen, der, eine, monolith, projekte, research, und, von, als, arbeitsfelder, book, church, das, die, ein, feld, forschungsprojekte, hauptkanal |
 | de/research/sources/index.html | de | research | Ashraellen — Quellen und Tradition | ashraellen, research, sources, quellen, und, tradition, von, phänomenologie, des, bewusstseins, körper, narration, kognitionswissenschaft, künstlerische, praxis, als, methodische, linien | und, als, der, ashraellen, des, körper, quellen, tradition, erfahrung, forschung, research, bewusstsein, bewusstseins, das, die, edmund, eine, eleanor |
-| en/books/error-404-god-not-found/index.html | en | books | Ashraellen — Error 404: God Not Found | ashraellen, books, error, 404, god, found, multilingual, philosophical-satirical, novel, cycle, about, heavenly, chancellery, human, complaint, against, universe, searching | error, god, found, 404, books, cycle, about, address, ashraellen, chancellery, heavenly, human, searching, series, against, begins, book, complaint |
+| en/books/error-404-god-not-found/index.html | en | books | Ashraellen — Error 404: God Not Found | ashraellen, books, error, 404, god, found, multilingual, philosophical-satirical, novel, cycle, about, heavenly, chancellery, human, complaint, against, universe, searching | error, god, found, 404, books, cycle, about, against, ashraellen, chancellery, heavenly, human, searching, series, begins, book, complaint, multilingual |
 | en/books/error-404-god-not-found/why-me/index.html | en | books | Ashraellen — Why Me? | ashraellen, books, error, 404, god, found, why, book, cycle, philosophical-satirical, novel, about, man, who, files, complaint, against, receives | why, book, god, error, about, ashraellen, books, found, 404, against, answer, chancellery, complaint, cycle, did, excerpt, files, had |
 | en/books/index.html | en | books | Ashraellen — Books | ashraellen, books, monolith, radiance, error, 404, god, found, sacred, book, seccus, you, already, online, whinesis, list, doctype, html | books, ashraellen, book, 404, already, god, sacred, whinesis, you, about, cycle, error, found, list, monolith, novel, online, radiance |
-| en/books/monolith/beton/index.html | en | books | Ashraellen — BETON | ashraellen, books, monolith, beton, volume, trilogy, file, description, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, monolith, ashraellen, books, trilogy, volume, about, all, begin, begins, description, file, first, stability, too, world |
-| en/books/monolith/index.html | en | books | Ashraellen — MONOLITH | ashraellen, books, monolith, trilogy, social, science, fiction, dystopia, philosophical, cyberpunk, about, control, memory, collapse, systems, series, volumes, volume | monolith, ashraellen, books, collapse, control, memory, social, about, becomes, beton, crack, cyberpunk, dystopia, fiction, final, gas, philosophical, science |
-| en/books/monolith/sludge/index.html | en | books | Ashraellen — SLUDGE | ashraellen, books, monolith, sludge, volume, trilogy, file, description, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, monolith, ashraellen, books, volume, becomes, begins, being, description, file, form, his, human, person, they, trilogy, where |
+| en/books/monolith/beton/index.html | en | books | Ashraellen — BETON — English | ashraellen, books, monolith, beton, volume, trilogy, file, description, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, file, monolith, volume, trilogy, ashraellen, begin, begins, books, concrete, description, prison, stability, calling, does, english, first, habit |
+| en/books/monolith/index.html | en | books | Ashraellen — MONOLITH — English | ashraellen, books, monolith, trilogy, social, science, fiction, dystopia, philosophical, cyberpunk, about, control, memory, collapse, systems, series, volumes, volume | monolith, ashraellen, books, collapse, control, memory, social, about, becomes, beton, crack, cyberpunk, dystopia, english, fiction, final, gas, philosophical |
+| en/books/monolith/sludge/index.html | en | books | Ashraellen — SLUDGE — English | ashraellen, books, monolith, sludge, volume, trilogy, file, description, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, file, monolith, volume, trilogy, ashraellen, begins, being, books, description, human, all, becomes, break, does, english, first, grows |
 | en/books/radiance/index.html | en | books | Ashraellen — Radiance \| Northern Tales of the True History of the World | ashraellen, books, radiance, northern, tales, true, history, world, literary-philosophical, practice-based, research, cycle, about, how, ancient, stories, preserve, imaginal | radiance, books, cycle, instructions, research, world, ancient, artistic, ashraellen, northern, what, about, book, confused, form, frame, history, how |
 | en/books/radiance/sampo/index.html | en | books | Ashraellen — Sampo \| Radiance, Book I | ashraellen, books, radiance, sampo, book, northern, literary-philosophical, tale, abundance, possession, participation, world, where, myth, has, yet, separated, labour | sampo, book, radiance, abundance, ashraellen, books, northern, research, where, world, about, artistic, chapter, cultural, cycle, does, foundations, frame |
 | en/books/radiance/song/index.html | en | books | Ashraellen — Song \| Radiance, Book II | ashraellen, books, radiance, song, book, novel, about, sound, hearing, language, warsaw, does, become, performance, number, selected, chapter, without | song, book, radiance, about, language, ashraellen, become, books, does, hearing, sound, artistic, chapter, city, cultural, cycle, foundations, frame |
 | en/books/seccus/index.html | en | books | Ashraellen — THE SACRED BOOK OF SECCUS | ashraellen, books, seccus, sacred, book, philosophical, investigation, applied, psychology, metaphysics, consciousness, about, self-deception, honesty, money, inner, freedom, themes | book, seccus, sacred, about, ashraellen, books, honesty, inner, money, applied, audio-video, being, calm, consciousness, excerpt, first, freedom, have |
-| en/books/the-book-of-whinesis/index.html | en | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sacred, satire, those, tired, positive, vibes, endless, productivity, cult, success, about, first, chapters, excerpt | book, whinesis, ashraellen, books, about, becomes, chapters, cult, discount, endless, excerpt, first, gnorna, lord, moania, positive, productivity, sacred |
+| en/books/the-book-of-whinesis/index.html | en | books | Ashraellen — The Book of Whinesis — English | ashraellen, books, book, whinesis, sacred, satire, those, tired, positive, vibes, endless, productivity, cult, success, about, first, chapters, excerpt | book, whinesis, ashraellen, books, about, becomes, chapters, cult, discount, endless, english, excerpt, first, gnorna, lord, moania, positive, productivity |
 | en/books/you-are-already-online/index.html | en | books | Ashraellen — You Are Already Online | ashraellen, books, you, already, online, immersive, audio, novel, genre, psychological, thriller, cyberpunk, drama, about, digital, reality, algorithms, attention | already, online, you, about, ashraellen, books, chapter, first, novel, reality, algorithms, attention, audio, book, cyberpunk, did, digital, drama |
-| en/contact.html | en | contact.html | Contact — Ashraellen | ashraellen, contact, cooperation, publishing, grants, media, project, inquiries, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, contact, cooperation, grants, inquiries, media, project, publishing, channel, contact.html, kostyshev, materials, telegram |
+| en/contact.html | en | contact.html | Contact — Ashraellen — English | ashraellen, contact, cooperation, publishing, grants, media, project, inquiries, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, contact, cooperation, grants, inquiries, media, project, publishing, channel, contact.html, english, kostyshev, materials, telegram |
 | en/index.html | en | index.html | Ashraellen — Books, Research and Public Texts | ashraellen, books, research, public, texts, multilingual, author, project, combining, videos, forms, inner, observation, doctype, html, title, script, professional-link | ashraellen, books, public, research, texts, forms, inner, multilingual, videos, artistic, author, combining, index.html, observation, one, presence, project |
-| en/monolith/index.html | en | monolith | MONOLITH Trilogy — Ashraellen | ashraellen, monolith, trilogy, three, states, controlled, disintegration, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io | monolith, beton, gas, sludge, ashraellen, controlled, about, amazon, becomes, begins, can, collapse, disintegration, states, three, trilogy, volume |
-| en/privacy.html | en | privacy.html | Privacy Policy — Ashraellen | ashraellen, privacy, policy, ashraellen.com, personal, data, analytics, cookies, user, rights, contact, information, who, responsible, website, what, may, collected | data, policy, privacy, analytics, ashraellen, ashraellen.com, cookies, legal, may, platforms, website, basis, collected, consent, contact, external, google, information |
+| en/monolith/index.html | en | monolith | MONOLITH Trilogy — Ashraellen | ashraellen, monolith, trilogy, three, states, controlled, disintegration, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io | monolith, beton, gas, sludge, controlled, disintegration, states, three, trilogy, ashraellen, dystopia, about, fiction, science, social, volume |
+| en/privacy.html | en | privacy.html | Privacy Policy — Ashraellen — English | ashraellen, privacy, policy, ashraellen.com, personal, data, analytics, cookies, user, rights, contact, information, who, responsible, website, what, may, collected | data, policy, privacy, analytics, ashraellen, ashraellen.com, cookies, legal, may, platforms, website, basis, collected, consent, contact, english, external, google |
 | en/professional/index.html | en | professional | Ashraellen — Professional Dossier | ashraellen, professional, dossier, lifelong, artistic-philosophical, inquiry, meaning, books, public, forms, development, plan, support, contact, pdf, project, proposal, budget | ashraellen, professional, dossier, forms, project, public, development, meaning, observation, plan, research, about, archive, artistic-philosophical, author, books, budget, channel |
-| en/public/index.html | en | public | Ashraellen — Public | ashraellen, public, field, talks, publications, support, thoughts, reactions, observations, where, research, meets, living, person, new, bomb, people, mass | public, ashraellen, support, thoughts, field, living, person, publications, talks, where, mass, meets, new, observations, open, people, reactions, research |
-| en/public/posts/essay/cycles/cycle-0001.html | en | public | Ashraellen — First Mini-Essay Cycle | ashraellen, public, posts, essay, cycles, cycle, 0001, first, mini-essay, power, over, thought, attention, body, door, goal, past, its | first, cycle, ashraellen, attention, body, over, past, public, thought, appears, become, becomes, begins, cycles, door, essay, goal, inner |
-| en/public/posts/essay/cycles/index.html | en | public | Ashraellen — Mini-Essay Cycles | ashraellen, public, posts, essay, cycles, mini-essay, completed, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | cycles, ashraellen, mini-essay, completed, public, attention, body, current, cycle, essay, first, gathered, here, main, posts |
-| en/public/posts/essay/index.html | en | public | Ashraellen — Mini-Essays | ashraellen, public, posts, essay, mini-essays, first, cycle, power, over, thought, attention, body, door, goal, past, its, interpretation, doctype | first, ashraellen, body, mini-essays, over, past, public, thought, appears, attention, become, becomes, begins, cycle, door, essay, goal, inner |
+| en/public/index.html | en | public | Ashraellen — Public — English | ashraellen, public, field, talks, publications, support, thoughts, reactions, observations, where, research, meets, living, person, new, bomb, people, mass | public, ashraellen, support, thoughts, field, living, person, publications, talks, where, english, mass, meets, new, observations, open, people, reactions |
+| en/public/posts/essay/cycles/cycle-0001.html | en | public | Ashraellen — First Mini-Essay Cycle | ashraellen, public, posts, essay, cycles, cycle, 0001, first, mini-essay, power, over, thought, attention, body, door, goal, past, its | first, cycle, attention, body, over, past, thought, ashraellen, door, goal, interpretation, its, power, public, become, becomes, begins, completed |
+| en/public/posts/essay/cycles/index.html | en | public | Ashraellen — Mini-Essay Cycles | ashraellen, public, posts, essay, cycles, mini-essay, completed, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | cycles, completed, mini-essay, cycle, ashraellen, current, first, gathered, here, main, mini-essays, public, section, essay, posts |
+| en/public/posts/essay/index.html | en | public | Ashraellen — Mini-Essays — English | ashraellen, public, posts, essay, mini-essays, first, cycle, power, over, thought, attention, body, door, goal, past, its, interpretation, doctype | first, mini-essays, one, over, attention, body, past, thought, ashraellen, cycle, door, goal, interpretation, its, power, public, angle, become |
 | en/public/posts/formula/index.html | en | public | Ashraellen — Path, Action, Rhythm | ashraellen, public, posts, formula, path, action, rhythm, current, line, short, forms, thought, where, movement, learns, its, measure, doctype | ashraellen, action, formula, path, rhythm, current, forms, its, learns, line, measure, movement, public, posts, short, thought, where |
 | en/public/posts/formula/lines/index.html | en | public | Ashraellen — Boundaries, Measure, Form | ashraellen, public, posts, formula, lines, boundaries, measure, form, line, concise, thoughts, inner, permission, rhythm, one’s, own, shape, doctype | ashraellen, boundaries, form, formula, measure, concise, inner, line, one’s, own, permission, public, rhythm, lines, posts, shape, thoughts |
 | en/public/posts/formula/lines/line-0001.html | en | public | Ashraellen — Thought, Attention, Body, Past | ashraellen, public, posts, formula, lines, line, 0001, thought, attention, body, past, remembered, one, precise, inner, turn, doctype, html | ashraellen, line, attention, body, formula, one, past, thought, 0001, inner, precise, public, remembered, lines, posts, turn |
 | en/public/posts/formula/lines/line-0002.html | en | public | Ashraellen — Word, Silence, Meaning | ashraellen, public, posts, formula, lines, line, 0002, word, silence, meaning, short, forms, where, language, stops, performing, begins, listen | ashraellen, formula, line, meaning, silence, word, 0002, begins, forms, language, listen, performing, public, lines, posts, short, stops, where |
-| en/public/posts/fragment/index.html | en | public | Ashraellen — Fragments | ashraellen, public, posts, fragment, fragments, section, being, prepared, large, archive, handwritten, texts, notes, publications, accumulated, over, many, years | ashraellen, fragments, being, accumulated, archive, handwritten, large, notes, prepared, public, section, texts, work, excerpts, fragment, here, many, over |
-| en/public/posts/index.html | en | public | Ashraellen — Posts | ashraellen, public, posts, sections, formulas, fragments, mini-essays, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | posts, ashraellen, public, angle, become, before, catching, formulas, fragments, mini-essays, one, read, sections, thought |
-| en/public/posts/sources/index.html | en | public | Ashraellen — Sources Moved | ashraellen, public, posts, sources, moved, have, new, location, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sources, ashraellen, moved, have, public, artistic, belong, body, cognitive, foundation, intersection, location, new, part, posts, research |
+| en/public/posts/fragment/index.html | en | public | Ashraellen — Fragments — English | ashraellen, public, posts, fragment, fragments, section, being, prepared, large, archive, handwritten, texts, notes, publications, accumulated, over, many, years | ashraellen, fragments, being, accumulated, archive, handwritten, large, notes, prepared, public, section, texts, work, english, excerpts, fragment, here, many |
+| en/public/posts/index.html | en | public | Ashraellen — Posts | ashraellen, public, posts, sections, formulas, fragments, mini-essays, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | posts, sections, formulas, fragments, mini-essays, ashraellen, become, before, catching, choose, different, public, thought, forms, has, lecture, observation, read |
+| en/public/posts/sources/index.html | en | public | Ashraellen — Sources Moved | ashraellen, public, posts, sources, moved, have, new, location, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sources, moved, have, location, new, ashraellen, part, public, research, belong, foundation, longer, methodological, posts, now, open, project, section |
 | en/public/talks/index.html | en | public | Ashraellen — Talks | ashraellen, public, talks, videos, analyses, clarity, perception, consciousness, reality, return, living, understanding, list, what, happens, after, death, seven | ashraellen, sacred, public, talks, ahepsu, taste, about, after, analyses, book, can, chronicle, clarity, consciousness, dead, death, dubbing, familiar |
 | en/public/thoughts/arcs/0001-cheerfulness.html | en | public | Ashraellen — Cheerfulness as a Diagnosis of a Person | ashraellen, public, thoughts, arcs, 0001, cheerfulness, diagnosis, person, support, thought, laughter, often, reveals, soul, more, precisely, than, correct | ashraellen, cheerfulness, person, correct, diagnosis, laughter, public, than, thought, about, arcs, chosen, full, how, meaning, more, note, often |
 | en/public/thoughts/arcs/0002-still-the-same.html | en | public | Ashraellen — The Same Forces, New Names | ashraellen, public, thoughts, arcs, 0002, still, same, forces, new, names, support, thought, modern, anxieties, addictions, old, gods, demons | names, new, same, ashraellen, forces, demons, gods, modern, public, thought, addictions, anxieties, arcs, chosen, full, have, meaning, note |
@@ -164,17 +164,17 @@ Pages: 551
 | en/public/thoughts/arcs/0010-dirty-cup.html | en | public | Ashraellen — The Dirty Cup | ashraellen, public, thoughts, arcs, 0010, dirty, cup, support, thought, running, circles, does, clean, only, changes, runner, meaning, full | cup, dirty, ashraellen, does, public, thought, was, alice, arcs, change, changes, chosen, circles, clean, full, hatter, her, his |
 | en/public/thoughts/arcs/0011-do-not-regret.html | en | public | Ashraellen — Do Not Regret | ashraellen, public, thoughts, arcs, 0011, regret, support, thought, sometimes, mercy, looks, like, loss, rescue, comes, disguised, unfulfilled, dream | regret, ashraellen, dream, loss, public, sometimes, thought, unfulfilled, was, arcs, because, chosen, comes, disguised, full, have, like, looks |
 | en/public/thoughts/arcs/0012-close-the-book.html | en | public | Ashraellen — When to Close the Book | ashraellen, public, thoughts, arcs, 0012, close, book, when, support, thought, some, point, path, continues, longer, silence, meaning, full | book, close, continues, when, ashraellen, path, point, public, silence, some, 0012, about, arcs, chosen, full, instead, longer, map |
-| en/public/thoughts/arcs/0013-problem-loses-crown.html | en | public | Ashraellen — The Problem Loses Its Crown | ashraellen, public, thoughts, arcs, 0013, problem, loses, crown, its, support, thought, has, been, destroyed, drama, meaning, full, text | problem, its, crown, has, loses, ashraellen, public, thought, 0013, already, arcs, because, been, chosen, destroyed, drama, full, have |
+| en/public/thoughts/arcs/0013-problem-loses-crown.html | en | public | Ashraellen — The Problem Loses Its Crown | ashraellen, public, thoughts, arcs, 0013, problem, loses, crown, its, support, thought, has, been, destroyed, drama, meaning, full, text | problem, crown, its, loses, has, support, thought, 0013, ashraellen, chosen, full, meaning, note, public, research, text, was, why |
 | en/public/thoughts/arcs/0014-end-of-extra-war.html | en | public | Ashraellen — The End of the Extra War | ashraellen, public, thoughts, arcs, 0014, end, extra, war, support, thought, inner, agreement, what, defeat, unnecessary, meaning, full, text | end, war, extra, agreement, ashraellen, inner, public, thought, what, 0014, arcs, because, chosen, defeat, does, everything, full, meaning |
 | en/public/thoughts/arcs/0015-subtle-thought-needs-silence.html | en | public | Ashraellen — A Subtle Thought Needs Silence | ashraellen, public, thoughts, arcs, 0015, subtle, thought, needs, silence, support, obliged, become, coarse, can, noticed, meaning, full, text | thought, subtle, needs, silence, ashraellen, become, can, coarse, meaning, noticed, obliged, public, 0015, arcs, chosen, does, full, note |
 | en/public/thoughts/arcs/0016-one-fact.html | en | public | Ashraellen — There Was One Fact | ashraellen, public, thoughts, arcs, 0016, one, fact, there, was, support, thought, suffering, three, seasons, sequel, meaning, full, text | fact, one, was, there, ashraellen, public, suffering, thought, 0016, anxiety, arcs, chosen, did, event, full, inner, meaning, means |
 | en/public/thoughts/arcs/0017-witness-does-not-interfere.html | en | public | Ashraellen — The Witness Does Not Interfere | ashraellen, public, thoughts, arcs, 0017, witness, does, interfere, support, thought, someone, who, nothing, prevent, truth, becoming, visible, before | does, witness, interfere, ashraellen, before, its, meaning, public, someone, thought, time, who, 0017, arcs, because, becoming, calm, chosen |
-| en/public/thoughts/arcs/0018-image-cannot-be-happy.html | en | public | Ashraellen — An Image Cannot Be Happy | ashraellen, public, thoughts, arcs, 0018, image, cannot, happy, support, thought, may, receive, recognition, meaning, full, text, why, was | cannot, happy, image, ashraellen, may, public, 0018, arcs, chosen, convincing, full, his, inside, meaning, note, person, question, receive |
-| en/public/thoughts/arcs/0019-do-not-bomb.html | en | public | Ashraellen — Do Not Bomb | ashraellen, public, thoughts, arcs, 0019, bomb, support, thought, you, shall, bombed, meaning, full, text, why, was, chosen, research | bomb, ashraellen, bombed, public, shall, thought, you, 0019, always, any, arcs, chosen, first, full, meaning, note, person, research |
-| en/public/thoughts/arcs/0020-people-and-mass.html | en | public | Ashraellen — People and Mass | ashraellen, public, thoughts, arcs, 0020, people, mass, support, thought, remembers, reacts, meaning, full, text, why, was, chosen, research | mass, people, ashraellen, public, thought, 0020, any, arcs, because, call, can, chosen, current, full, him, human, meaning, note |
+| en/public/thoughts/arcs/0018-image-cannot-be-happy.html | en | public | Ashraellen — An Image Cannot Be Happy | ashraellen, public, thoughts, arcs, 0018, image, cannot, happy, support, thought, may, receive, recognition, meaning, full, text, why, was | image, cannot, happy, may, thought, 0018, ashraellen, chosen, full, meaning, note, public, research, support, text, was, why, arcs |
+| en/public/thoughts/arcs/0019-do-not-bomb.html | en | public | Ashraellen — Do Not Bomb | ashraellen, public, thoughts, arcs, 0019, bomb, support, thought, you, shall, bombed, meaning, full, text, why, was, chosen, research | bomb, bombed, meaning, shall, support, thought, you, 0019, ashraellen, chosen, full, note, person, public, research, text, was, why |
+| en/public/thoughts/arcs/0020-people-and-mass.html | en | public | Ashraellen — People and Mass | ashraellen, public, thoughts, arcs, 0020, people, mass, support, thought, remembers, reacts, meaning, full, text, why, was, chosen, research | people, mass, 0020, meaning, reacts, remembers, thought, ashraellen, chosen, full, note, public, research, support, text, was, why, any |
 | en/public/thoughts/arcs/0021-mating-games.html | en | public | Ashraellen — Mating Games | ashraellen, public, thoughts, arcs, 0021, mating, games, support, thought, relationships, often, begin, role, have, already, brought, meaning, full | games, mating, already, ashraellen, begin, have, public, relationships, thought, 0021, about, arcs, brought, chosen, full, has, meaning, note |
 | en/public/thoughts/arcs/0022-spirituality-is-not-forced.html | en | public | Ashraellen — Spirituality Is Not Forced | ashraellen, public, thoughts, arcs, 0022, spirituality, forced, support, thought, true, imposed, one, becomes, enchanted, meaning, full, text, why | spirituality, forced, ashraellen, one, public, thought, true, was, 0022, arcs, because, becomes, birth, can, cannot, chosen, enchanted, fear |
-| en/public/thoughts/arcs/0023-price-of-transition.html | en | public | Ashraellen — The Price of Transition | ashraellen, public, thoughts, arcs, 0023, price, transition, support, thought, every, new, stage, paid, crisis, meaning, full, text, why | transition, price, ashraellen, crisis, new, public, 0023, all, arcs, chosen, every, full, has, have, his, meaning, note, own |
+| en/public/thoughts/arcs/0023-price-of-transition.html | en | public | Ashraellen — The Price of Transition | ashraellen, public, thoughts, arcs, 0023, price, transition, support, thought, every, new, stage, paid, crisis, meaning, full, text, why | transition, price, thought, 0023, ashraellen, chosen, crisis, every, full, meaning, note, public, research, support, text, was, why, all |
 | en/public/thoughts/arcs/0024-true-enemy-not-ignorance.html | en | public | Ashraellen — The True Enemy | ashraellen, public, thoughts, arcs, 0024, true, enemy, ignorance, support, thought, person, certainty, already, knows, enough, meaning, full, text | enemy, true, ignorance, already, ashraellen, certainty, person, public, thought, 0024, arcs, can, chosen, does, enough, full, his, know |
 | en/public/thoughts/index-0001.html | en | public | Ashraellen — First Arc of Support Thoughts | ashraellen, public, thoughts, index, 0001, first, arc, support, cheerfulness, old, forces, awakening, finitude, fear, insight, diagnosis, person, same | thoughts, arc, ashraellen, first, support, awakening, cheerfulness, fear, finitude, forces, public, awakens, becomes, begins, continuing, control, deeper, diagnosis |
 | en/public/thoughts/index-0002.html | en | public | Ashraellen — Second Arc of Support Thoughts | ashraellen, public, thoughts, index, 0002, second, arc, support, memory, observation, awakening, dirty, cup, mercy, loss, border, spiritual, literature | thoughts, arc, ashraellen, second, support, cup, dirty, observation, awakening, loss, public, alive, being, book, border, chair, close, empty |
@@ -182,33 +182,33 @@ Pages: 551
 | en/research/archive/index.html | en | research | Ashraellen — Research Archive | ashraellen, research, archive, materials, completed, versions, earlier, layers, traces, path, longer, active, work, still, moving, doctype, html, title | research, archive, ashraellen, materials, active, completed, layers, longer, moving, path, still, books, earlier, traces, versions, work |
 | en/research/index.html | en | research | Ashraellen — Research | ashraellen, research, mode, seeing, lifelong, artistic-philosophical, inquiry, meaning, observation, how, human, being, loses, contact, reality, inner, freedom, what | research, ashraellen, how, meaning, being, digital, observation, what, work, artistic, artistic-philosophical, contact, does, done, forms, freedom, human, inner |
 | en/research/method/index.html | en | research | Ashraellen — Method of Observation | ashraellen, research, method, observation, recording, knots, meaning, artistic, form, instrument, verification, through, recognition, knot, field, how, appears, first-person | observation, method, ashraellen, research, form, meaning, artistic, how, verification, what, absent, appears, experience, field, first-person, forms, has, here |
-| en/research/notes/index.html | en | research | Ashraellen — Notes | ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai | notes, ashraellen, margins, research, become, doctrine, doubts, feels, fragments, material, point, public, refuses |
-| en/research/position/index.html | en | research | Ashraellen — Position | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev | position, ashraellen, research, artistic, description, experience, experiences, field, human, independent, inner, itself, models |
+| en/research/notes/index.html | en | research | Ashraellen — Notes — English | ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai | notes, margins, ashraellen, research, become, doctrine, doubts, feels, fragments, material, point, public, refuses, english, unfinished |
+| en/research/position/index.html | en | research | Ashraellen — Position — English | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev | position, ashraellen, artistic, description, experience, experiences, field, human, independent, inner, models, observation, research, english, philosophy, religion, researcher, transcendental |
 | en/research/projects/index.html | en | research | Ashraellen — Research Projects | ashraellen, research, projects, map, working, fields, monolith, main, channel, public, field, satirical, side, laboratories, perception, instagram, telegram, church | ashraellen, projects, research, channel, field, monolith, perception, book, church, fields, here, how, inner, instagram, laboratories, living, main, map |
 | en/research/sources/index.html | en | research | Ashraellen — Sources and Tradition | ashraellen, research, sources, tradition, phenomenology, consciousness, body, narrative, cognitive, science, artistic, practice, methodological, lines, edmund, husserl, experience, before | research, ashraellen, sources, body, consciousness, narrative, tradition, artistic, cognitive, experience, form, phenomenology, before, connection, directions, does, edmund, eleanor |
 | es/books/index.html | es | books | Ashraellen — Libros | ashraellen, books, libros, novelas, grandes, proyectos, libros-experimento, monolith, libro, sagrado, seccus, estás, línea, whinesis, lista, doctype, html, title | ashraellen, libros, libro, books, estás, grandes, libros-experimento, whinesis, están, las, línea, lista, los, monolith, novelas, proyectos, que, sagrado |
-| es/books/monolith/beton/index.html | es | books | Ashraellen — BETON | ashraellen, books, monolith, beton, volumen, trilogía, expediente, descripción, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, monolith, ashraellen, books, trilogía, volumen, con, concreto, demasiado, descripción, edición, empieza, expediente, mundo, sobre, una |
-| es/books/monolith/index.html | es | books | Ashraellen — MONOLITH | ashraellen, books, monolith, trilogía, distópica, sobre, control, memoria, colapso, sistemas, serie, volúmenes, volumen, beton, sludge, iii, gas, doctype | monolith, ashraellen, books, memoria, abrir, beton, colapso, control, convierte, del, distópica, estabilidad, gas, serie, sin, sistemas, sludge, sobre |
-| es/books/monolith/sludge/index.html | es | books | Ashraellen — SLUDGE | ashraellen, books, monolith, sludge, volumen, trilogía, expediente, descripción, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, monolith, ashraellen, books, trilogía, volumen, como, descripción, desde, empieza, está, expediente, humano, persona, ser, una |
+| es/books/monolith/beton/index.html | es | books | Ashraellen — BETON — Spanish | ashraellen, books, monolith, beton, volumen, trilogía, expediente, descripción, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, expediente, monolith, volumen, con, empieza, trilogía, ashraellen, books, concreto, descripción, estabilidad, una, costumbre, demasiado, edición, llamar, pared |
+| es/books/monolith/index.html | es | books | Ashraellen — MONOLITH — Spanish | ashraellen, books, monolith, trilogía, distópica, sobre, control, memoria, colapso, sistemas, serie, volúmenes, volumen, beton, sludge, iii, gas, doctype | monolith, volumen, ashraellen, beton, books, gas, memoria, serie, sludge, trilogía, una, volúmenes, abrir, ciencia, colapso, control, convierte, del |
+| es/books/monolith/sludge/index.html | es | books | Ashraellen — SLUDGE — Spanish | ashraellen, books, monolith, sludge, volumen, trilogía, expediente, descripción, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, expediente, monolith, volumen, trilogía, ashraellen, books, descripción, humano, inmediato, primero, ser, cansa, empieza, está, luego, persona, resistir |
 | es/books/seccus/index.html | es | books | Ashraellen — EL LIBRO SAGRADO DE SECCUS | ashraellen, books, seccus, libro, sagrado, investigación, filosófica, psicología, aplicada, metafísica, conciencia, sobre, autoengaño, honestidad, dinero, libertad, interior, temas | libro, seccus, sagrado, ashraellen, books, del, página, sobre, aplicada, audio-vídeo, autoengaño, como, conciencia, dinero, estado, filosófica, fragmento, honestidad |
-| es/books/the-book-of-whinesis/index.html | es | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sátira, sagrada, para, quienes, han, cansado, las, vibras, positivas, productividad, infinita, culto, éxito, sobre | book, whinesis, ashraellen, books, para, sobre, cansado, capítulos, con, culto, del, dijo, estado, éxito, fragmento, han, infinita, las |
+| es/books/the-book-of-whinesis/index.html | es | books | Ashraellen — The Book of Whinesis — Spanish | ashraellen, books, book, whinesis, sátira, sagrada, para, quienes, han, cansado, las, vibras, positivas, productividad, infinita, culto, éxito, sobre | book, whinesis, ashraellen, books, para, sobre, cansado, capítulos, con, culto, del, dijo, estado, éxito, fragmento, han, infinita, las |
 | es/books/you-are-already-online/index.html | es | books | Ashraellen — Ya estás en la red | ashraellen, books, you, already, online, estás, red, una, novela, sonora, inmersiva, género, del, thriller, psicológico, drama, cyberpunk, sobre | estás, red, ashraellen, books, capítulo, del, los, novela, realidad, sobre, una, algoritmos, already, antes, como, cyberpunk, digital, drama |
-| es/contact.html | es | contact.html | Contacto — Ashraellen | ashraellen, contact, contacto, página, cooperación, publicaciones, subvenciones, medios, consultas, del, proyecto, doctype, html, title, function, const, isgithub, location.hostname.endswith | ashraellen, contacto, consultas, cooperación, del, medios, proyecto, subvenciones, canal, contact, contact.html, investigación, página, para, publicaciones, telegram |
+| es/contact.html | es | contact.html | Contacto — Ashraellen — Spanish | ashraellen, contact, contacto, página, cooperación, publicaciones, subvenciones, medios, consultas, del, proyecto, doctype, html, title, function, const, isgithub, location.hostname.endswith | ashraellen, contacto, consultas, cooperación, del, medios, proyecto, subvenciones, canal, contact, contact.html, investigación, página, para, publicaciones, spanish, telegram |
 | es/index.html | es | index.html | Ashraellen — libros, investigación y textos públicos | ashraellen, libros, investigación, textos, públicos, proyecto, autoral, multilingüe, que, reúne, videos, formas, observación, interior, doctype, html, title, function | ashraellen, investigación, libros, públicos, textos, formas, multilingüe, que, artística, autoral, index.html, interior, los, observación, proyecto, público, reúne, una |
-| es/monolith/index.html | es | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | monolith, ashraellen, beton, gas, sludge, actualmente, amazon, inglés, leer, memoria, preparación, volumen |
+| es/monolith/index.html | es | monolith | MONOLITH — Ashraellen — Spanish | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | monolith, beton, gas, sludge, ashraellen, colapso, control, controlada, memoria, amazon, desintegración, distópica, estados, inglés, preparación, sistemas, sobre, spanish |
 | es/privacy.html | es | privacy.html | Política de privacidad — Ashraellen | ashraellen, privacy, política, privacidad, ashraellen.com, datos, personales, analítica, cookies, derechos, del, usuario, contacto, quién, responsable, sitio, qué, pueden | datos, del, política, privacidad, analítica, ashraellen, cookies, los, para, plataformas, qué, sitio, actualizaciones, ashraellen.com, base, compras, con, contacto |
 | es/professional/index.html | es | professional | Ashraellen — Dosier profesional | ashraellen, professional, dosier, profesional, autor, método, observación, libros, formas, públicas, del, proyecto, plan, desarrollo, cooperación, contacto, sobre, posición | ashraellen, observación, proyecto, del, autor, desarrollo, dosier, formas, método, plan, profesional, professional, públicas, actual, apoyo, archivo, busca, campos |
-| es/public/index.html | es | public | Ashraellen — Público | ashraellen, public, público, campo, intervenciones, publicaciones, pensamientos, apoyo, reacciones, observaciones, donde, investigación, encuentra, con, persona, viva, nuevos, bombardees | público, apoyo, ashraellen, pensamientos, campo, con, intervenciones, persona, public, publicaciones, abrir, del, donde, dónde, encuentra, investigación, nuevos, observaciones |
-| es/public/posts/essay/cycles/cycle-0001.html | es | public | Ashraellen — Primer ciclo de mini-ensayos | ashraellen, public, posts, essay, cycles, cycle, 0001, primer, ciclo, mini-ensayos, poder, sobre, pensamiento, sino, atención, cuerpo, primera, puerta | ciclo, primer, ashraellen, atención, cuerpo, pasado, pensamiento, pero, public, sobre, como, con, cycle, cycles, del, essay, interpretación, mini-ensayos |
-| es/public/posts/essay/cycles/index.html | es | public | Ashraellen — Ciclos de mini-ensayos | ashraellen, public, posts, essay, cycles, ciclos, mini-ensayos, completados, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ciclos, ashraellen, mini-ensayos, completados, public, actual, aquí, atención, ciclo, cuerpo, cycle, cycles, encuentra, essay, posts, primer |
-| es/public/posts/essay/index.html | es | public | Ashraellen — Mini-Ensayos | ashraellen, public, posts, essay, mini-ensayos, primer, ciclo, poder, sobre, pensamiento, sino, atención, cuerpo, primera, puerta, pero, objetivo, pasado | ashraellen, cuerpo, mini-ensayos, pasado, pensamiento, pero, public, sobre, atención, ciclo, como, con, del, empieza, essay, interpretación, objetivo, persona |
-| es/public/posts/formula/index.html | es | public | Ashraellen — Fórmulas | ashraellen, public, posts, formula, fórmulas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | ashraellen, fórmulas, public, formula, posts |
-| es/public/posts/formula/lines/index.html | es | public | Ashraellen — Línea de fórmulas | ashraellen, public, posts, formula, lines, línea, fórmulas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | ashraellen, fórmulas, línea, public, formula, lines, posts |
-| es/public/posts/formula/lines/line-0001.html | es | public | Ashraellen — Línea 0001 | ashraellen, public, posts, formula, lines, line, 0001, línea, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, 0001, línea, public, formula, line, lines, posts |
-| es/public/posts/formula/lines/line-0002.html | es | public | Ashraellen — Línea 0002 | ashraellen, public, posts, formula, lines, line, 0002, línea, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, 0002, línea, public, formula, line, lines, posts |
-| es/public/posts/fragment/index.html | es | public | Ashraellen — Fragmentos | ashraellen, public, posts, fragment, fragmentos, sección, preparada, partir, gran, archivo, manuscritos, notas, publicaciones, acumulados, durante, muchos, años, trabajo | ashraellen, fragmentos, acumulados, años, archivo, durante, notas, public, sección, trabajo, aquí, del, extractos, fragment, gran, manuscritos, muchos, partir |
-| es/public/posts/index.html | es | public | Ashraellen — Publicaciones | ashraellen, public, posts, publicaciones, secciones, fórmulas, fragmentos, mini-ensayos, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, publicaciones, public, alcance, análisis, ángulo, antes, atrapar, breves, fórmulas, fragmentos, leer, mini-ensayos, posts, secciones |
-| es/public/posts/sources/index.html | es | public | Ashraellen — Fuentes trasladadas | ashraellen, public, posts, sources, fuentes, trasladadas, las, han, sido, nueva, dirección, doctype, html, title, function, const, isgithub, location.hostname.endswith | ashraellen, fuentes, trasladadas, las, public, abrir, ahora, artística, ciencia, cognitiva, como, cruce, dirección, han, investigación, nueva, posts, sido |
+| es/public/index.html | es | public | Ashraellen — Público — Spanish | ashraellen, public, público, campo, intervenciones, publicaciones, pensamientos, apoyo, reacciones, observaciones, donde, investigación, encuentra, con, persona, viva, nuevos, bombardees | público, apoyo, ashraellen, pensamientos, campo, con, intervenciones, persona, public, publicaciones, abrir, del, donde, dónde, encuentra, investigación, nuevos, observaciones |
+| es/public/posts/essay/cycles/cycle-0001.html | es | public | Ashraellen — Primer ciclo de mini-ensayos | ashraellen, public, posts, essay, cycles, cycle, 0001, primer, ciclo, mini-ensayos, poder, sobre, pensamiento, sino, atención, cuerpo, primera, puerta | ciclo, primer, sobre, cuerpo, pasado, pensamiento, pero, ashraellen, atención, interpretación, objetivo, poder, primera, public, puerta, sino, como, completado |
+| es/public/posts/essay/cycles/index.html | es | public | Ashraellen — Ciclos de mini-ensayos | ashraellen, public, posts, essay, cycles, ciclos, mini-ensayos, completados, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ciclos, mini-ensayos, completados, ciclo, actual, aquí, ashraellen, encuentra, los, página, principal, public, reúnen, cycles, essay, posts, primer, sección |
+| es/public/posts/essay/index.html | es | public | Ashraellen — Mini-Ensayos | ashraellen, public, posts, essay, mini-ensayos, primer, ciclo, poder, sobre, pensamiento, sino, atención, cuerpo, primera, puerta, pero, objetivo, pasado | mini-ensayos, sobre, cuerpo, pasado, pensamiento, pero, sino, ashraellen, atención, ciclo, interpretación, objetivo, poder, primer, primera, public, puerta, una |
+| es/public/posts/formula/index.html | es | public | Ashraellen — Fórmulas — Spanish | ashraellen, public, posts, formula, fórmulas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | ashraellen, public, fórmulas, spanish, archive, artistic, literary, multilingual, part, research, work, formula, posts |
+| es/public/posts/formula/lines/index.html | es | public | Ashraellen — Línea de fórmulas | ashraellen, public, posts, formula, lines, línea, fórmulas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | ashraellen, public, fórmulas, línea, archive, artistic, literary, multilingual, part, research, work, formula, lines, posts |
+| es/public/posts/formula/lines/line-0001.html | es | public | Ashraellen — Línea 0001 | ashraellen, public, posts, formula, lines, line, 0001, línea, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, public, 0001, línea, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts |
+| es/public/posts/formula/lines/line-0002.html | es | public | Ashraellen — Línea 0002 | ashraellen, public, posts, formula, lines, line, 0002, línea, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, public, 0002, línea, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts |
+| es/public/posts/fragment/index.html | es | public | Ashraellen — Fragmentos — Spanish | ashraellen, public, posts, fragment, fragmentos, sección, preparada, partir, gran, archivo, manuscritos, notas, publicaciones, acumulados, durante, muchos, años, trabajo | ashraellen, fragmentos, acumulados, años, archivo, durante, notas, public, sección, trabajo, aquí, del, extractos, fragment, gran, manuscritos, muchos, partir |
+| es/public/posts/index.html | es | public | Ashraellen — Publicaciones | ashraellen, public, posts, publicaciones, secciones, fórmulas, fragmentos, mini-ensayos, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | publicaciones, fórmulas, fragmentos, mini-ensayos, alcance, antes, ashraellen, atrapar, breves, convertirse, distintas, formas, public, secciones, idea, leer, maneras, observación |
+| es/public/posts/sources/index.html | es | public | Ashraellen — Fuentes trasladadas | ashraellen, public, posts, sources, fuentes, trasladadas, las, han, sido, nueva, dirección, doctype, html, title, function, const, isgithub, location.hostname.endswith | fuentes, las, trasladadas, han, sido, ashraellen, dirección, ahora, como, del, forman, investigación, nueva, public, fundamento, metodológico, parte, pertenecen |
 | es/public/talks/index.html | es | public | Ashraellen — Presentaciones | ashraellen, public, talks, presentaciones, videos, análisis, públicos, claridad, percepción, conciencia, realidad, regreso, una, comprensión, viva, lista, qué, sucede | ashraellen, análisis, presentaciones, public, sacred, una, abrir, ahepsu, alma, autoengaño, claridad, como, comprensión, con, conciencia, crónica, del, demasiado |
 | es/public/thoughts/arcs/0001-cheerfulness.html | es | public | Ashraellen — La alegría como diagnóstico de la persona | ashraellen, public, thoughts, arcs, 0001, cheerfulness, alegría, como, diagnóstico, persona, pensamiento, apoyo, risa, menudo, abre, alma, con, más | alegría, ashraellen, como, persona, con, diagnóstico, más, pensamiento, public, que, abre, alma, apoyo, arcs, bondad, cheerfulness, cómo, completo |
 | es/public/thoughts/arcs/0002-still-the-same.html | es | public | Ashraellen — Las mismas fuerzas, nuevos nombres | ashraellen, public, thoughts, arcs, 0002, still, same, las, mismas, fuerzas, nuevos, nombres, pensamiento, apoyo, ansiedades, dependencias, modernas, como | las, nombres, nuevos, ashraellen, fuerzas, como, demonios, dioses, mismas, pensamiento, por, public, ansiedades, antiguos, apoyo, arcs, completo, dependencias |
@@ -222,53 +222,53 @@ Pages: 551
 | es/public/thoughts/arcs/0010-dirty-cup.html | es | public | Ashraellen — La taza sucia | ashraellen, public, thoughts, arcs, 0010, dirty, cup, taza, sucia, pensamiento, apoyo, correr, círculos, limpia, solo, cambia, quien, corre | taza, ashraellen, sucia, pensamiento, public, alicia, apoyo, arcs, cambia, círculos, completo, con, corre, correr, cup, dirty, elegido, eso |
 | es/public/thoughts/arcs/0011-do-not-regret.html | es | public | Ashraellen — No te arrepientas | ashraellen, public, thoughts, arcs, 0011, regret, arrepientas, pensamiento, apoyo, veces, misericordia, parece, pérdida, salvación, llega, disfrazada, sueño, cumplido | arrepientas, ashraellen, cumplido, fue, pensamiento, pérdida, por, public, veces, apoyo, arcs, completo, cuando, disfrazada, elegido, investigación, llega, misericordia |
 | es/public/thoughts/arcs/0012-close-the-book.html | es | public | Ashraellen — Cuándo cerrar el libro | ashraellen, public, thoughts, arcs, 0012, close, book, cuándo, cerrar, libro, pensamiento, apoyo, cierto, momento, camino, continúa, página, silencio | ashraellen, continúa, cuándo, libro, camino, cerrar, cierto, momento, public, silencio, apoyo, arcs, book, close, completo, elegido, fue, investigación |
-| es/public/thoughts/arcs/0013-problem-loses-crown.html | es | public | Ashraellen — El problema pierde la corona | ashraellen, public, thoughts, arcs, 0013, problem, loses, crown, problema, pierde, corona, pensamiento, apoyo, fue, destruido, pero, drama, sentido | problema, corona, fue, ashraellen, destruido, drama, pensamiento, pero, pierde, por, public, qué, 0013, apoyo, arcs, completo, con, crown |
+| es/public/thoughts/arcs/0013-problem-loses-crown.html | es | public | Ashraellen — El problema pierde la corona | ashraellen, public, thoughts, arcs, 0013, problem, loses, crown, problema, pierde, corona, pensamiento, apoyo, fue, destruido, pero, drama, sentido | problema, pierde, corona, fue, 0013, pensamiento, por, qué, apoyo, ashraellen, completo, elegido, investigación, nota, pero, public, sentido, texto |
 | es/public/thoughts/arcs/0014-end-of-extra-war.html | es | public | Ashraellen — El fin de la guerra innecesaria | ashraellen, public, thoughts, arcs, 0014, end, extra, war, fin, guerra, innecesaria, pensamiento, apoyo, concordancia, interior, con, que, derrota | fin, guerra, innecesaria, ashraellen, con, interior, pensamiento, por, public, que, 0014, apoyo, arcs, completo, concordancia, derrota, elegido, end |
 | es/public/thoughts/arcs/0015-subtle-thought-needs-silence.html | es | public | Ashraellen — Un pensamiento sutil necesita silencio | ashraellen, public, thoughts, arcs, 0015, subtle, thought, needs, silence, pensamiento, sutil, necesita, silencio, apoyo, está, obligado, volverse, tosco | pensamiento, sutil, necesita, ashraellen, está, para, por, public, que, sentido, silencio, 0015, apoyo, arcs, completo, comprensión, elegido, fue |
 | es/public/thoughts/arcs/0016-one-fact.html | es | public | Ashraellen — Había un hecho | ashraellen, public, thoughts, arcs, 0016, one, fact, había, hecho, pensamiento, apoyo, sufrimiento, para, tres, temporadas, con, continuación, sentido | había, hecho, ashraellen, con, pensamiento, por, public, sufrimiento, 0016, acontecimiento, alguien, apoyo, arcs, completo, continuación, elegido, entonces, fact |
 | es/public/thoughts/arcs/0017-witness-does-not-interfere.html | es | public | Ashraellen — El testigo no interfiere | ashraellen, public, thoughts, arcs, 0017, witness, does, interfere, testigo, interfiere, pensamiento, apoyo, quien, hace, nada, impide, que, verdad | testigo, quien, antes, ashraellen, hace, impide, interfiere, pensamiento, por, public, que, sentido, 0017, apoyo, arcs, calma, como, completo |
 | es/public/thoughts/arcs/0018-image-cannot-be-happy.html | es | public | Ashraellen — Una imagen no puede ser feliz | ashraellen, public, thoughts, arcs, 0018, image, cannot, happy, una, imagen, puede, ser, feliz, pensamiento, apoyo, recibir, reconocimiento, pero | puede, feliz, imagen, ser, una, ashraellen, pensamiento, pero, por, public, 0018, apoyo, arcs, autorrealización, cannot, completo, con, correcta |
-| es/public/thoughts/arcs/0019-do-not-bomb.html | es | public | Ashraellen — No Bombardees | ashraellen, public, thoughts, arcs, 0019, bomb, bombardees, pensamiento, apoyo, serás, bombardeado, sentido, texto, completo, por, qué, fue, elegido | bombardees, ashraellen, bombardeado, pensamiento, public, serás, 0019, apoyo, arcs, bomb, como, completo, después, elegido, fue, investigación, mundo, nota |
-| es/public/thoughts/arcs/0020-people-and-mass.html | es | public | Ashraellen — Pueblo y Masa | ashraellen, public, thoughts, arcs, 0020, people, mass, pueblo, masa, pensamiento, apoyo, recuerda, una, reacciona, sentido, texto, completo, por | masa, pueblo, ashraellen, pensamiento, por, public, qué, una, 0020, apoyo, arcs, como, completo, corriente, elegido, ella, fue, investigación |
+| es/public/thoughts/arcs/0019-do-not-bomb.html | es | public | Ashraellen — No Bombardees | ashraellen, public, thoughts, arcs, 0019, bomb, bombardees, pensamiento, apoyo, serás, bombardeado, sentido, texto, completo, por, qué, fue, elegido | bombardees, 0019, pensamiento, serás, apoyo, ashraellen, bombardeado, completo, elegido, fue, investigación, nota, por, public, qué, sentido, texto, arcs |
+| es/public/thoughts/arcs/0020-people-and-mass.html | es | public | Ashraellen — Pueblo y Masa | ashraellen, public, thoughts, arcs, 0020, people, mass, pueblo, masa, pensamiento, apoyo, recuerda, una, reacciona, sentido, texto, completo, por | masa, pueblo, pensamiento, por, qué, una, 0020, apoyo, ashraellen, completo, elegido, fue, investigación, nota, public, recuerda, sentido, texto |
 | es/public/thoughts/arcs/0021-mating-games.html | es | public | Ashraellen — Juegos de Apareamiento | ashraellen, public, thoughts, arcs, 0021, mating, games, juegos, apareamiento, pensamiento, apoyo, las, relaciones, menudo, comienzan, con, papel, que | apareamiento, con, ashraellen, comienzan, juegos, las, pensamiento, por, public, que, relaciones, 0021, apoyo, arcs, completo, elegido, fue, games |
-| es/public/thoughts/arcs/0022-spirituality-is-not-forced.html | es | public | Ashraellen — La espiritualidad no se impone | ashraellen, public, thoughts, arcs, 0022, spirituality, forced, espiritualidad, impone, pensamiento, apoyo, verdadera, encanta, sentido, texto, completo, por, qué | espiritualidad, impone, ashraellen, pensamiento, por, public, verdadera, 0022, alma, apoyo, arcs, completo, con, elegido, encanta, forced, fue, investigación |
+| es/public/thoughts/arcs/0022-spirituality-is-not-forced.html | es | public | Ashraellen — La espiritualidad no se impone | ashraellen, public, thoughts, arcs, 0022, spirituality, forced, espiritualidad, impone, pensamiento, apoyo, verdadera, encanta, sentido, texto, completo, por, qué | espiritualidad, impone, pensamiento, por, 0022, apoyo, ashraellen, completo, elegido, fue, investigación, nota, public, qué, sentido, texto, verdadera, alma |
 | es/public/thoughts/arcs/0023-price-of-transition.html | es | public | Ashraellen — El precio de la transición | ashraellen, public, thoughts, arcs, 0023, price, transition, precio, transición, pensamiento, apoyo, toda, una, nueva, etapa, paga, con, crisis | transición, precio, una, ashraellen, con, crisis, nueva, pensamiento, public, 0023, apoyo, arcs, completo, elegido, etapa, fue, investigación, más |
 | es/public/thoughts/arcs/0024-true-enemy-not-ignorance.html | es | public | Ashraellen — El verdadero enemigo | ashraellen, public, thoughts, arcs, 0024, true, enemy, ignorance, verdadero, enemigo, pensamiento, apoyo, persona, ignorancia, sino, certeza, que, sabe | enemigo, verdadero, ashraellen, certeza, ignorancia, persona, public, que, sabe, sino, 0024, apoyo, arcs, completo, con, elegido, enemy, fue |
 | es/public/thoughts/index-0001.html | es | public | Ashraellen — Primer arco de pensamientos de apoyo | ashraellen, public, thoughts, index, 0001, primer, arco, pensamientos, apoyo, alegría, antiguas, fuerzas, despertar, finitud, miedo, visión, como, diagnóstico | apoyo, arco, ashraellen, pensamientos, alegría, fuerzas, miedo, primer, antiguas, como, despertar, finitud, más, public, una, abrir, continuar, control |
-| es/public/thoughts/index-0002.html | es | public | Ashraellen — Arco 0002 | ashraellen, public, thoughts, index, 0002, arco, segundo, pensamientos, apoyo, silla, vacía, generalización, vez, observación, donde, vida, detuvo, taza | arco, ashraellen, apoyo, pensamientos, segundo, 0002, generalización, observación, public, abrir, arrepientas, cerrar, cuándo, despertar, detuvo, donde, index, libro |
+| es/public/thoughts/index-0002.html | es | public | Ashraellen — Arco 0002 — Spanish | ashraellen, public, thoughts, index, 0002, arco, segundo, pensamientos, apoyo, silla, vacía, generalización, vez, observación, donde, vida, detuvo, taza | arco, apoyo, ashraellen, pensamientos, segundo, arrepientas, generalización, observación, taza, 0002, cerrar, cuándo, detuvo, donde, libro, public, silla, sucia |
 | es/public/thoughts/index.html | es | public | Ashraellen — Tercer arco de pensamientos de apoyo | ashraellen, public, thoughts, tercer, arco, pensamientos, apoyo, problema, pierde, corona, termina, guerra, extra, pensamiento, sutil, hecho, testigo, imagen | apoyo, arco, ashraellen, pensamientos, guerra, hecho, imagen, pensamiento, problema, sutil, tercer, testigo, corona, extra, pierde, public, abrir, feliz |
 | es/research/archive/index.html | es | research | Ashraellen — Archivo de investigación | ashraellen, research, archive, archivo, investigación, materiales, versiones, concluidas, capas, anteriores, rastros, del, camino, que, están, trabajo, vivo, sigue | archivo, ashraellen, investigación, materiales, camino, capas, concluidas, del, están, que, research, vivo, anteriores, archive, libros, movimiento, rastros, sigue |
 | es/research/index.html | es | research | Ashraellen — Investigación | ashraellen, research, investigación, una, forma, ver, artístico-filosófica, del, sentido, largo, vida, observación, cómo, ser, humano, pierde, contacto, con | investigación, ashraellen, cómo, una, sentido, con, del, observación, research, abierto, artística, artístico-filosófica, como, conocimiento, contacto, digital, entender, este |
 | es/research/method/index.html | es | research | Ashraellen — Método de observación | ashraellen, research, method, método, observación, registro, nudos, sentido, forma, artística, como, instrumento, investigación, verificación, mediante, reconocimiento, nudo, campo | observación, ashraellen, método, artística, como, está, forma, investigación, por, que, research, sentido, verificación, aparece, aquí, ausente, campo, cómo |
-| es/research/notes/index.html | es | research | Ashraellen — Notes | ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai | notes, ashraellen, margins, research, convertirse, doctrina, dudas, ese, fragmentos, inacabado, márgenes, material, niega |
-| es/research/position/index.html | es | research | Ashraellen — Position | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev | position, ashraellen, research, artístico, campo, como, descripción, experiencia, experiencias, filosofía, independiente, interna, investigador |
+| es/research/notes/index.html | es | research | Ashraellen — Notes — Spanish | ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai | notes, ashraellen, margins, research, convertirse, doctrina, dudas, ese, fragmentos, inacabado, márgenes, material, niega, public, punto, que, siente, spanish |
+| es/research/position/index.html | es | research | Ashraellen — Position — Spanish | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev | position, ashraellen, como, artístico, campo, descripción, experiencia, experiencias, filosofía, independiente, interna, investigador, research, modelos, observación, religión, son, spanish |
 | es/research/projects/index.html | es | research | Ashraellen — Proyectos de investigación | ashraellen, research, projects, proyectos, investigación, mapa, campos, trabajo, monolith, canal, principal, campo, público, satíricos, laboratorios, laterales, percepción, instagram | ashraellen, proyectos, monolith, percepción, research, abrir, aquí, book, campo, campos, canal, church, como, cómo, con, del, inner, instagram |
 | es/research/sources/index.html | es | research | Ashraellen — Fuentes y tradición | ashraellen, research, sources, fuentes, tradición, fenomenología, conciencia, cuerpo, relato, ciencia, cognitiva, práctica, artística, edmund, husserl, experiencia, antes, las | como, ashraellen, conciencia, cuerpo, fuentes, relato, tradición, artística, experiencia, fenomenología, forma, research, antes, ciencia, cognitiva, comprensión, con, direcciones |
 | fi/kone/index.html | fi | kone | Ashraellen — tiivistelmä Koneen Säätiölle | ashraellen, kone, tiivistelmä, koneen, säätiölle, suomenkielinen, ashraellen-hankkeesta, elämänmittainen, taiteellis-filosofinen, tutkimus, merkityksestä, kirjallisuudesta, videoista, monikielisestä, arkistosta, tutkimuksen, ydin, tekijä | ashraellen, koneen, kone, säätiölle, tiivistelmä, tutkimuksen, tutkimus, arkistosta, ashraellen-hankkeesta, asiakirjat, elämänmittainen, hankkeen, infrastruktuuri, julkinen, kirjallisuudesta, kuukauden, merkityksestä, miten |
-| flow/index.html | root | flow | FLOW — Ashraellen | ashraellen, flow, playlist, youtube, music, doctype, html, title, window.location.replace, https, music.youtube.com, list, plliwih1l4vxtrzs4, wvti69pbdhddk4ny, iuwpb0ptwi1d1elk, script, root, 050505 | flow, ashraellen, music, playlist, youtube, open, opening |
+| flow/index.html | root | flow | FLOW — Ashraellen | ashraellen, flow, playlist, youtube, music, doctype, html, title, window.location.replace, https, music.youtube.com, list, plliwih1l4vxtrzs4, wvti69pbdhddk4ny, iuwpb0ptwi1d1elk, script, root, 050505 | flow, ashraellen, playlist, music, youtube, open, opening |
 | fr/books/index.html | fr | books | Ashraellen — Livres | ashraellen, books, livres, d’ashraellen, romans, grands, projets, livres-expériences, monolith, livre, sacré, seccus, déjà, ligne, whinesis, liste, doctype, html | livres, livre, ashraellen, books, déjà, grands, ligne, whinesis, d’ashraellen, des, les, liste, livres-expériences, monolith, pas, projets, romans, sacré |
-| fr/books/monolith/beton/index.html | fr | books | Ashraellen — BETON | ashraellen, books, monolith, beton, volume, trilogie, dossier, description, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, monolith, ashraellen, books, trilogie, volume, béton, commence, dans, des, description, dossier, est, monde, trop, une |
-| fr/books/monolith/index.html | fr | books | Ashraellen — MONOLITH | ashraellen, books, monolith, trilogie, dystopique, sur, contrôle, mémoire, l’effondrement, des, systèmes, série, volumes, volume, beton, sludge, iii, gas | monolith, ashraellen, books, mémoire, beton, contrôle, des, devient, dystopique, est, gas, l’effondrement, ouvrir, sans, série, sludge, stabilité, sur |
-| fr/books/monolith/sludge/index.html | fr | books | Ashraellen — SLUDGE | ashraellen, books, monolith, sludge, volume, trilogie, dossier, description, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, monolith, ashraellen, books, trilogie, volume, commence, description, dossier, est, forme, humain, l’être, pas, peu, une |
+| fr/books/monolith/beton/index.html | fr | books | Ashraellen — BETON — French | ashraellen, books, monolith, beton, volume, trilogie, dossier, description, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, dossier, monolith, volume, commence, par, trilogie, ashraellen, béton, books, description, pas, une, d’appeler, est, french, l’habitude, monde |
+| fr/books/monolith/index.html | fr | books | Ashraellen — MONOLITH — French | ashraellen, books, monolith, trilogie, dystopique, sur, contrôle, mémoire, l’effondrement, des, systèmes, série, volumes, volume, beton, sludge, iii, gas | monolith, ashraellen, books, mémoire, beton, contrôle, des, devient, dystopique, est, french, gas, l’effondrement, ouvrir, sans, série, sludge, stabilité |
+| fr/books/monolith/sludge/index.html | fr | books | Ashraellen — SLUDGE — French | ashraellen, books, monolith, sludge, volume, trilogie, dossier, description, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, dossier, monolith, volume, trilogie, ashraellen, books, brise, description, humain, l’être, pas, coup, d’abord, d’un, est, fatigue, french |
 | fr/books/seccus/index.html | fr | books | Ashraellen — LE LIVRE SACRÉ DE SECCUS | ashraellen, books, seccus, livre, sacré, recherche, philosophique, psychologie, appliquée, métaphysique, conscience, sur, l’auto-tromperie, l’honnêteté, l’argent, liberté, intérieure, propos | livre, seccus, sacré, ashraellen, books, appliquée, audio-vidéo, c’est, comme, conscience, des, est, extrait, intérieure, l’argent, l’auto-tromperie, l’honnêteté, les |
-| fr/books/the-book-of-whinesis/index.html | fr | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, satire, sacrée, pour, celles, ceux, qui, sont, fatigués, des, ondes, positives, productivité, sans, fin | book, whinesis, ashraellen, books, des, qui, celles, ceux, chapitres, culte, dans, dit, extrait, fatigués, fin, les, livre, moania |
+| fr/books/the-book-of-whinesis/index.html | fr | books | Ashraellen — The Book of Whinesis — French | ashraellen, books, book, whinesis, satire, sacrée, pour, celles, ceux, qui, sont, fatigués, des, ondes, positives, productivité, sans, fin | book, whinesis, ashraellen, books, des, qui, celles, ceux, chapitres, culte, dans, dit, extrait, fatigués, fin, french, les, livre |
 | fr/books/you-are-already-online/index.html | fr | books | Ashraellen — Tu es déjà en ligne | ashraellen, books, you, already, online, déjà, ligne, roman, audio, immersif, entre, thriller, psychologique, drame, cyberpunk, sur, réalité, numérique | déjà, ligne, ashraellen, audio, books, les, réalité, roman, algorithmes, already, avait, avant, chapitre, comme, cyberpunk, dans, des, drame |
-| fr/contact.html | fr | contact.html | Contact — Ashraellen | ashraellen, contact, coopération, édition, subventions, médias, demandes, liées, projet, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | ashraellen, contact, coopération, demandes, médias, projet, subventions, aux, canal, contact.html, des, édition, kostyshev, liées, telegram |
+| fr/contact.html | fr | contact.html | Contact — Ashraellen — French | ashraellen, contact, coopération, édition, subventions, médias, demandes, liées, projet, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | ashraellen, contact, coopération, demandes, médias, projet, subventions, aux, canal, contact.html, des, édition, french, kostyshev, liées, telegram |
 | fr/index.html | fr | index.html | Ashraellen — livres, recherche et textes publics | ashraellen, livres, recherche, textes, publics, est, projet, d’auteur, multilingue, réunissant, vidéos, formes, d’observation, intérieure, doctype, html, title, function | ashraellen, livres, publics, recherche, textes, est, formes, multilingue, artistique, avec, d’auteur, d’observation, index.html, intérieure, les, projet, public, réunissant |
-| fr/monolith/index.html | fr | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | monolith, beton, gas, sludge, ashraellen, amazon, anglais, est, lire, mémoire, préparation, sur, volume |
+| fr/monolith/index.html | fr | monolith | MONOLITH — Ashraellen — French | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | monolith, beton, gas, sludge, ashraellen, est, mémoire, sur, une, amazon, anglais, contrôle, contrôlée, des, désintégration, dystopique, états, french |
 | fr/privacy.html | fr | privacy.html | Politique de confidentialité — Ashraellen | ashraellen, privacy, politique, confidentialité, d’ashraellen.com, données, personnelles, analyse, cookies, droits, l’utilisateur, contact, responsable, pouvant, être, collectées, finalités, traitement | confidentialité, politique, données, analyse, ashraellen, cookies, être, jour, services, achats, base, cette, collectées, contact, d’ashraellen.com, des, droits, externes |
 | fr/professional/index.html | fr | professional | Ashraellen — Dossier professionnel | ashraellen, professional, dossier, professionnel, d’ashraellen, auteur, méthode, d’observation, livres, formes, publiques, projet, plan, développement, coopération, contact, propos, l’auteur | ashraellen, projet, d’observation, formes, développement, dossier, méthode, plan, professional, professionnel, publiques, recherche, actuel, auteur, cadres, champs, comment, contact |
-| fr/public/index.html | fr | public | Ashraellen — Public | ashraellen, public, champ, interventions, publications, pensées, d’appui, réactions, observations, recherche, rencontre, personne, vivante, nouvelles, bombardez, pas, peuple, masse | public, ashraellen, d’appui, champ, interventions, pensées, personne, publications, dans, elle, est, les, nouvelles, observations, ouvrir, pas, pensée, réactions |
-| fr/public/posts/essay/cycles/cycle-0001.html | fr | public | Ashraellen — Premier cycle de mini-essais | ashraellen, public, posts, essay, cycles, cycle, 0001, premier, mini-essais, pouvoir, non, sur, pensée, mais, l’attention, corps, est, première | cycle, est, mais, premier, ashraellen, corps, non, passé, pensée, public, sur, comme, commence, cycles, elle, essay, interprétation, l’attention |
-| fr/public/posts/essay/cycles/index.html | fr | public | Ashraellen — Cycles de mini-essais | ashraellen, public, posts, essay, cycles, mini-essais, achevés, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | cycles, ashraellen, mini-essais, achevés, public, actuel, attention, corps, cycle, essay, ici, les, mark, posts, premier |
-| fr/public/posts/essay/index.html | fr | public | Ashraellen — Mini-essais | ashraellen, public, posts, essay, mini-essais, premier, cycle, pouvoir, non, sur, pensée, mais, l’attention, corps, est, première, porte, passé | est, mais, ashraellen, mini-essais, non, passé, pensée, public, sur, comme, commence, corps, cycle, dans, elle, essay, interprétation, l’attention |
-| fr/public/posts/formula/index.html | fr | public | Ashraellen — Formules | ashraellen, public, posts, formula, formules, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | ashraellen, formules, public, formula, posts |
-| fr/public/posts/formula/lines/index.html | fr | public | Ashraellen — Ligne de formules | ashraellen, public, posts, formula, lines, ligne, formules, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | ashraellen, formules, ligne, public, formula, lines, posts |
-| fr/public/posts/formula/lines/line-0001.html | fr | public | Ashraellen — Ligne 0001 | ashraellen, public, posts, formula, lines, line, 0001, ligne, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, 0001, ligne, public, formula, line, lines, posts |
-| fr/public/posts/formula/lines/line-0002.html | fr | public | Ashraellen — Ligne 0002 | ashraellen, public, posts, formula, lines, line, 0002, ligne, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, 0002, ligne, public, formula, line, lines, posts |
-| fr/public/posts/fragment/index.html | fr | public | Ashraellen — Fragments | ashraellen, public, posts, fragment, fragments, section, préparée, partir, d’un, vaste, ensemble, manuscrits, notes, publications, accumulés, pendant, nombreuses, années | ashraellen, fragments, accumulés, années, ensemble, manuscrits, notes, public, section, travail, archive, d’un, extraits, fragment, ici, nombreuses, partir, pendant |
-| fr/public/posts/index.html | fr | public | Ashraellen — Publications | ashraellen, public, posts, publications, sections, formules, fragments, mini-essais, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, publications, public, ait, angle, avant, brèves, formules, fragments, lire, mini-essais, pensée, posts, sections, une |
-| fr/public/posts/sources/index.html | fr | public | Ashraellen — Sources déplacées | ashraellen, public, posts, sources, déplacées, les, ont, été, nouvelle, adresse, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io | sources, ashraellen, déplacées, adresse, les, public, artistique, cognitives, comme, corps, croisement, déplacé, été, nouvelle, ont, posts, recherche |
+| fr/public/index.html | fr | public | Ashraellen — Public — French | ashraellen, public, champ, interventions, publications, pensées, d’appui, réactions, observations, recherche, rencontre, personne, vivante, nouvelles, bombardez, pas, peuple, masse | public, ashraellen, d’appui, champ, interventions, pensées, personne, publications, dans, elle, est, french, les, nouvelles, observations, ouvrir, pas, pensée |
+| fr/public/posts/essay/cycles/cycle-0001.html | fr | public | Ashraellen — Premier cycle de mini-essais | ashraellen, public, posts, essay, cycles, cycle, 0001, premier, mini-essais, pouvoir, non, sur, pensée, mais, l’attention, corps, est, première | cycle, premier, est, mais, non, sur, corps, passé, pensée, ashraellen, interprétation, l’attention, mini-essais, porte, pouvoir, première, public, son |
+| fr/public/posts/essay/cycles/index.html | fr | public | Ashraellen — Cycles de mini-essais | ashraellen, public, posts, essay, cycles, mini-essais, achevés, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | cycles, mini-essais, achevés, actuel, cycle, ashraellen, ici, les, principale, public, rassemblés, section, sont, essay, posts, premier, sur, trouve |
+| fr/public/posts/essay/index.html | fr | public | Ashraellen — Mini-essais | ashraellen, public, posts, essay, mini-essais, premier, cycle, pouvoir, non, sur, pensée, mais, l’attention, corps, est, première, porte, passé | est, mais, mini-essais, non, sur, corps, passé, pensée, ashraellen, cycle, interprétation, l’attention, porte, pouvoir, premier, première, public, son |
+| fr/public/posts/formula/index.html | fr | public | Ashraellen — Formules | ashraellen, public, posts, formula, formules, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | ashraellen, public, formules, archive, artistic, literary, multilingual, part, research, work, formula, posts |
+| fr/public/posts/formula/lines/index.html | fr | public | Ashraellen — Ligne de formules | ashraellen, public, posts, formula, lines, ligne, formules, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | ashraellen, public, formules, ligne, archive, artistic, literary, multilingual, part, research, work, formula, lines, posts |
+| fr/public/posts/formula/lines/line-0001.html | fr | public | Ashraellen — Ligne 0001 | ashraellen, public, posts, formula, lines, line, 0001, ligne, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, public, 0001, ligne, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts |
+| fr/public/posts/formula/lines/line-0002.html | fr | public | Ashraellen — Ligne 0002 | ashraellen, public, posts, formula, lines, line, 0002, ligne, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, public, 0002, ligne, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts |
+| fr/public/posts/fragment/index.html | fr | public | Ashraellen — Fragments — French | ashraellen, public, posts, fragment, fragments, section, préparée, partir, d’un, vaste, ensemble, manuscrits, notes, publications, accumulés, pendant, nombreuses, années | ashraellen, fragments, accumulés, années, ensemble, manuscrits, notes, public, section, travail, archive, d’un, extraits, fragment, french, ici, nombreuses, partir |
+| fr/public/posts/index.html | fr | public | Ashraellen — Publications | ashraellen, public, posts, publications, sections, formules, fragments, mini-essais, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | publications, formules, fragments, mini-essais, une, ait, ashraellen, avant, brèves, d’observation, devenir, pensée, public, sections, différentes, formes, lire, manières |
+| fr/public/posts/sources/index.html | fr | public | Ashraellen — Sources déplacées | ashraellen, public, posts, sources, déplacées, les, ont, été, nouvelle, adresse, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io | sources, déplacées, les, été, ont, adresse, ashraellen, comme, des, désormais, elles, nouvelle, public, recherche, fondement, font, méthodologique, partie |
 | fr/public/talks/index.html | fr | public | Ashraellen — Interventions | ashraellen, public, talks, interventions, vidéos, analyses, publiques, d’ashraellen, clarté, perception, conscience, réalité, retour, une, compréhension, vivante, liste, que | ashraellen, dans, interventions, public, sacred, une, âme, analyses, après, c’est, chronique, clarté, comme, compréhension, conscience, d’ahepsu, d’ashraellen, d’auto-tromperie |
 | fr/public/thoughts/arcs/0001-cheerfulness.html | fr | public | Ashraellen — La joie comme diagnostic de la personne | ashraellen, public, thoughts, arcs, 0001, cheerfulness, joie, comme, diagnostic, personne, pensée, d’appui, rire, ouvre, souvent, l’âme, plus, précisément | ashraellen, comme, joie, personne, diagnostic, pensée, plus, public, que, rire, arcs, bonté, cheerfulness, choix, complet, corrects, d’appui, discours |
 | fr/public/thoughts/arcs/0002-still-the-same.html | fr | public | Ashraellen — Les mêmes forces, de nouveaux noms | ashraellen, public, thoughts, arcs, 0002, still, same, les, mêmes, forces, nouveaux, noms, pensée, d’appui, angoisses, dépendances, modernes, comme | les, noms, nouveaux, ashraellen, forces, mêmes, démons, dieux, pensée, public, angoisses, arcs, choix, comme, complet, d’anciens, d’appui, dans |
@@ -282,59 +282,59 @@ Pages: 551
 | fr/public/thoughts/arcs/0010-dirty-cup.html | fr | public | Ashraellen — La tasse sale | ashraellen, public, thoughts, arcs, 0010, dirty, cup, tasse, sale, pensée, d’appui, tourner, rond, lave, pas, cela, fait, que | tasse, ashraellen, cela, changer, pas, pensée, public, que, qui, sale, alice, arcs, celui, chapelier, choix, complet, court, cup |
 | fr/public/thoughts/arcs/0011-do-not-regret.html | fr | public | Ashraellen — Ne regrette rien | ashraellen, public, thoughts, arcs, 0011, regret, regrette, rien, pensée, d’appui, parfois, miséricorde, ressemble, une, perte, salut, vient, sous | ashraellen, inaccompli, parfois, pensée, perte, public, regrette, rêve, rien, une, arcs, choix, complet, d’appui, d’un, l’apparence, mais, miséricorde |
 | fr/public/thoughts/arcs/0012-close-the-book.html | fr | public | Ashraellen — Quand fermer le livre | ashraellen, public, thoughts, arcs, 0012, close, book, quand, fermer, livre, pensée, d’appui, certain, moment, chemin, continue, plus, sur | ashraellen, continue, livre, certain, chemin, fermer, plus, public, quand, silence, sur, arcs, book, carte, choix, close, complet, d’appui |
-| fr/public/thoughts/arcs/0013-problem-loses-crown.html | fr | public | Ashraellen — Le problème perd sa couronne | ashraellen, public, thoughts, arcs, 0013, problem, loses, crown, problème, perd, couronne, pensée, d’appui, n’a, pas, été, détruit, mais | problème, couronne, ashraellen, détruit, mais, pas, pensée, perd, public, son, 0013, alors, arcs, avec, choix, complet, crown, d’appui |
+| fr/public/thoughts/arcs/0013-problem-loses-crown.html | fr | public | Ashraellen — Le problème perd sa couronne | ashraellen, public, thoughts, arcs, 0013, problem, loses, crown, problème, perd, couronne, pensée, d’appui, n’a, pas, été, détruit, mais | problème, couronne, perd, 0013, pensée, ashraellen, choix, complet, d’appui, mais, note, pas, pourquoi, public, recherche, sens, son, texte |
 | fr/public/thoughts/arcs/0014-end-of-extra-war.html | fr | public | Ashraellen — La fin de la guerre inutile | ashraellen, public, thoughts, arcs, 0014, end, extra, war, fin, guerre, inutile, pensée, d’appui, l’accord, intérieur, avec, qui, est | fin, guerre, inutile, ashraellen, avec, c’est, est, n’est, pas, public, qui, 0014, arcs, celui, choix, complet, d’appui, d’une |
 | fr/public/thoughts/arcs/0015-subtle-thought-needs-silence.html | fr | public | Ashraellen — Une pensée subtile a besoin de silence | ashraellen, public, thoughts, arcs, 0015, subtle, thought, needs, silence, une, pensée, subtile, besoin, d’appui, n’est, pas, obligée, devenir | pensée, subtile, une, silence, ashraellen, besoin, être, grossière, n’est, pas, pour, public, sens, 0015, arcs, choix, complet, compréhension |
 | fr/public/thoughts/arcs/0016-one-fact.html | fr | public | Ashraellen — Il y avait un fait | ashraellen, public, thoughts, arcs, 0016, one, fact, avait, fait, pensée, d’appui, souffrance, pour, trois, saisons, avec, suite, sens | avait, fait, ashraellen, avec, pensée, public, souffrance, 0016, arcs, choix, complet, d’appui, des, donc, est, fact, mais, non |
 | fr/public/thoughts/arcs/0017-witness-does-not-interfere.html | fr | public | Ashraellen — Le témoin n’interfère pas | ashraellen, public, thoughts, arcs, 0017, witness, does, interfere, témoin, n’interfère, pas, pensée, d’appui, n’est, celui, qui, fait, rien | pas, témoin, celui, qui, ashraellen, n’est, n’interfère, pensée, public, 0017, arcs, avant, c’est, calme, choix, complet, d’appui, devenir |
 | fr/public/thoughts/arcs/0018-image-cannot-be-happy.html | fr | public | Ashraellen — Une image ne peut pas être heureuse | ashraellen, public, thoughts, arcs, 0018, image, cannot, happy, une, peut, pas, être, heureuse, pensée, d’appui, recevoir, reconnaissance, mais | image, peut, être, heureuse, pas, une, ashraellen, mais, public, 0018, arcs, bonne, cannot, choix, complet, d’appui, elle, happy |
-| fr/public/thoughts/arcs/0019-do-not-bomb.html | fr | public | Ashraellen — Ne bombardez pas | ashraellen, public, thoughts, arcs, 0019, bomb, bombardez, pas, pensée, d’appui, vous, serez, bombardés, sens, texte, complet, pourquoi, choix | pas, bombardez, ashraellen, bombardés, pensée, public, vous, 0019, arcs, bomb, choix, complet, d’abord, d’appui, dans, est, monde, note |
-| fr/public/thoughts/arcs/0020-people-and-mass.html | fr | public | Ashraellen — Peuple et Masse | ashraellen, public, thoughts, arcs, 0020, people, mass, peuple, masse, pensée, d’appui, souvient, une, réagit, sens, texte, complet, pourquoi | masse, peuple, ashraellen, pensée, public, une, 0020, arcs, choix, complet, d’appui, elle, est, les, mass, note, people, personne |
+| fr/public/thoughts/arcs/0019-do-not-bomb.html | fr | public | Ashraellen — Ne bombardez pas | ashraellen, public, thoughts, arcs, 0019, bomb, bombardez, pas, pensée, d’appui, vous, serez, bombardés, sens, texte, complet, pourquoi, choix | pas, bombardez, pensée, serez, vous, 0019, ashraellen, choix, complet, d’appui, note, pourquoi, public, recherche, sens, texte, arcs, bomb |
+| fr/public/thoughts/arcs/0020-people-and-mass.html | fr | public | Ashraellen — Peuple et Masse | ashraellen, public, thoughts, arcs, 0020, people, mass, peuple, masse, pensée, d’appui, souvient, une, réagit, sens, texte, complet, pourquoi | masse, peuple, pensée, sens, une, 0020, ashraellen, choix, complet, d’appui, note, pourquoi, public, réagit, recherche, souvient, texte, arcs |
 | fr/public/thoughts/arcs/0021-mating-games.html | fr | public | Ashraellen — Jeux d’accouplement | ashraellen, public, thoughts, arcs, 0021, mating, games, jeux, d’accouplement, pensée, d’appui, les, relations, commencent, souvent, par, rôle, que | d’accouplement, nous, apporté, ashraellen, avec, commencent, déjà, jeux, les, pensée, public, que, relations, 0021, arcs, avons, choix, complet |
-| fr/public/thoughts/arcs/0022-spirituality-is-not-forced.html | fr | public | Ashraellen — La spiritualité ne s’impose pas | ashraellen, public, thoughts, arcs, 0022, spirituality, forced, spiritualité, s’impose, pas, pensée, d’appui, vraie, elle, enchante, sens, texte, complet | pas, spiritualité, s’impose, ashraellen, elle, public, vraie, 0022, arcs, choix, complet, d’appui, enchante, forced, l’âme, mais, non, note |
+| fr/public/thoughts/arcs/0022-spirituality-is-not-forced.html | fr | public | Ashraellen — La spiritualité ne s’impose pas | ashraellen, public, thoughts, arcs, 0022, spirituality, forced, spiritualité, s’impose, pas, pensée, d’appui, vraie, elle, enchante, sens, texte, complet | pas, s’impose, spiritualité, pensée, 0022, ashraellen, choix, complet, d’appui, elle, note, pourquoi, public, recherche, sens, texte, vraie, arcs |
 | fr/public/thoughts/arcs/0023-price-of-transition.html | fr | public | Ashraellen — Le prix du passage | ashraellen, public, thoughts, arcs, 0023, price, transition, prix, passage, pensée, d’appui, tout, vers, une, nouvelle, étape, paie, par | passage, prix, une, ashraellen, crise, par, pensée, public, 0023, arcs, avec, choix, complet, d’appui, d’une, est, étape, même |
 | fr/public/thoughts/arcs/0024-true-enemy-not-ignorance.html | fr | public | Ashraellen — Le véritable ennemi | ashraellen, public, thoughts, arcs, 0024, true, enemy, ignorance, véritable, ennemi, pensée, d’appui, personne, n’est, pas, l’ignorance, mais, certitude | ennemi, véritable, ashraellen, certitude, mais, n’est, pas, personne, public, savoir, 0024, arcs, assez, choix, complet, d’appui, déjà, elle |
 | fr/public/thoughts/index-0001.html | fr | public | Ashraellen — Premier arc de pensées d’appui | ashraellen, public, thoughts, index, 0001, premier, arc, pensées, d’appui, joie, anciennes, forces, éveil, finitude, peur, vision, comme, diagnostic | arc, ashraellen, d’appui, pensées, finitude, forces, joie, peur, plus, premier, anciennes, comme, public, commence, continuer, contrôle, diagnostic, éveil |
-| fr/public/thoughts/index-0002.html | fr | public | Ashraellen — Arc 0002 | ashraellen, public, thoughts, index, 0002, arc, deuxième, pensées, d’appui, chaise, vide, généralisation, lieu, d’observation, vie, s’est, arrêtée, tasse | arc, ashraellen, d’appui, deuxième, pensées, 0002, généralisation, lieu, pas, public, arrêtée, chaise, d’observation, fermer, index, livre, ouvrir, pensée |
+| fr/public/thoughts/index-0002.html | fr | public | Ashraellen — Arc 0002 | ashraellen, public, thoughts, index, 0002, arc, deuxième, pensées, d’appui, chaise, vide, généralisation, lieu, d’observation, vie, s’est, arrêtée, tasse | arc, pensées, d’appui, deuxième, arrêtée, ashraellen, généralisation, lieu, pas, tasse, 0002, chaise, d’observation, fermer, livre, public, quand, regrettez |
 | fr/public/thoughts/index.html | fr | public | Ashraellen — Troisième arc de pensées d’appui | ashraellen, public, thoughts, troisième, arc, pensées, d’appui, problème, perd, couronne, guerre, supplémentaire, prend, fin, pensée, subtile, fait, témoin | arc, d’appui, pensées, ashraellen, fait, fin, guerre, image, pas, pensée, subtile, troisième, une, couronne, perd, problème, public, supplémentaire |
 | fr/research/archive/index.html | fr | research | Ashraellen — Archive de recherche | ashraellen, research, archive, recherche, des, materiaux, versions, achevees, couches, anterieures, traces, chemin, qui, sont, plus, dans, travail, vivant | archive, ashraellen, recherche, materiaux, dans, des, encore, est, qui, research, sont, achevees, anterieures, chemin, couches, les, mouvement, plus |
 | fr/research/index.html | fr | research | Ashraellen — Recherche | ashraellen, research, recherche, est, une, manière, voir, artistique, philosophique, sens, l’échelle, d’une, vie, observation, façon, dont, l’être, humain | recherche, ashraellen, sens, une, artistique, comment, dont, est, research, avec, cela, comme, comprendre, contact, d’une, dans, des, façon |
 | fr/research/method/index.html | fr | research | Ashraellen — Méthode d’observation | ashraellen, research, method, méthode, d’observation, d’ashraellen, enregistrement, des, nœuds, sens, forme, artistique, comme, instrument, recherche, vérification, par, reconnaissance | méthode, d’observation, artistique, ashraellen, comme, est, forme, les, par, recherche, research, sens, vérification, absent, apparaît, champ, comment, d’ashraellen |
-| fr/research/notes/index.html | fr | research | Ashraellen — Notes | ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai | notes, ashraellen, margins, research, c’est, cela, devenir, doctrine, doutes, fragments, inachevé, marges, matière |
-| fr/research/position/index.html | fr | research | Ashraellen — Position | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev | position, ashraellen, research, artistique, champ, chercheur, comme, considérant, d’observation, des, description, elle, expériences |
+| fr/research/notes/index.html | fr | research | Ashraellen — Notes — French | ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai | notes, ashraellen, margins, research, c’est, cela, devenir, doctrine, doutes, fragments, inachevé, marges, matière, french, principe, public, qui, refuse |
+| fr/research/position/index.html | fr | research | Ashraellen — Position — French | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev | position, ashraellen, comme, artistique, champ, chercheur, considérant, d’observation, des, expériences, indépendant, intérieure, research, french, l’expérience, philosophies, religions, sont |
 | fr/research/projects/index.html | fr | research | Ashraellen — Projets de recherche | ashraellen, research, projects, projets, recherche, carte, des, champs, travail, d’ashraellen, monolith, chaîne, principale, champ, public, satiriques, laboratoires, latéraux | ashraellen, projets, des, monolith, perception, research, book, carte, chaîne, champ, champs, church, comme, d’ashraellen, est, inner, instagram, laboratoires |
 | fr/research/sources/index.html | fr | research | Ashraellen — Sources et tradition | ashraellen, research, sources, tradition, d’ashraellen, phénoménologie, conscience, corps, récit, sciences, cognitives, pratique, artistique, edmund, husserl, l’expérience, avant, les | comme, sources, ashraellen, conscience, corps, récit, tradition, forme, l’expérience, phénoménologie, research, artistique, avant, avec, cognitives, compréhension, d’ashraellen, dans |
 | google2b44b1dd60a5fdd9.html | root | google2b44b1dd60a5fdd9.html |  | _missing_ | google2b44b1dd60a5fdd9.html, ashraellen, google-site-verification, google2b44b1dd60a5fdd9 |
 | index.html | root | index.html | Ashraellen — Entry | ashraellen, index, entry, books, research, public, texts, videos, audiobooks, inner, observation, choose, your, language, doctype, html, title, script | ashraellen, audiobooks, books, choose, inner, language, observation, public, research, texts, videos, your, entry, index, index.html |
-| monolith/index.html | root | monolith | MONOLITH — Ashraellen | ashraellen, monolith, language, gateway, beton, sludge, gas, doctype, html, title, function, var, routes, languages, navigator.languages, navigator.language, target, routes.en | monolith, ashraellen, beton, gas, gateway, language, detecting, deutsch, english, español, français, polski, sludge |
-| pl/books/error-404-god-not-found/index.html | pl | books | Ashraellen — Błąd 404: Boga nie znaleziono | ashraellen, books, error, 404, god, found, błąd, boga, nie, znaleziono, wielojęzyczny, filozoficzno-satyryczny, cykl, powieściowy, niebiańskiej, kancelarii, ludzkiej, pretensji | nie, 404, błąd, boga, znaleziono, się, ashraellen, books, kancelarii, który, niebiańskiej, szukania, albo, błędzie, bogu, cykl, cyklu, error |
+| monolith/index.html | root | monolith | MONOLITH — Ashraellen | ashraellen, monolith, language, gateway, beton, sludge, gas, doctype, html, title, function, var, routes, languages, navigator.languages, navigator.language, target, routes.en | monolith, language, ashraellen, detecting, deutsch, english, español, français, polski, português, беларуская, определение, русский, beton, gas, gateway, sludge, українська |
+| pl/books/error-404-god-not-found/index.html | pl | books | Ashraellen — Błąd 404: Boga nie znaleziono | ashraellen, books, error, 404, god, found, błąd, boga, nie, znaleziono, wielojęzyczny, filozoficzno-satyryczny, cykl, powieściowy, niebiańskiej, kancelarii, ludzkiej, pretensji | nie, 404, błąd, boga, znaleziono, ashraellen, bogu, books, kancelarii, który, niebiańskiej, szukania, albo, błędzie, cykl, cyklu, error, filozoficzno-satyryczny |
 | pl/books/error-404-god-not-found/why-me/index.html | pl | books | Ashraellen — Dlaczego ja? | ashraellen, books, error, 404, god, found, why, dlaczego, pierwsza, księga, cyklu, błąd, boga, nie, znaleziono, filozoficzno-satyryczna, powieść, człowieku | dlaczego, boga, 404, ashraellen, błąd, books, który, nie, ale, cyklu, człowieku, error, filozoficzno-satyryczna, found, fragment, god, jako, kancelarii |
 | pl/books/index.html | pl | books | Ashraellen — Książki | ashraellen, books, książki, monolith, blask, błąd, 404, boga, nie, znaleziono, święta, księga, seccus, już, jesteś, sieci, whinesis, lista | ashraellen, książki, księga, 404, błąd, blask, boga, books, już, nie, whinesis, cykl, jesteś, lista, monolith, seccus, się, sieci |
-| pl/books/monolith/beton/index.html | pl | books | Ashraellen — BETON | ashraellen, books, monolith, beton, tom, trylogii, akta, opis, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, monolith, akta, ashraellen, books, tom, trylogii, jego, nie, opis, pierwszy, się, świecie, zaczyna, zbyt |
-| pl/books/monolith/index.html | pl | books | Ashraellen — MONOLITH | ashraellen, books, monolith, trylogia, dystopijna, kontroli, pamięci, rozpadzie, systemów, seria, tomy, tom, beton, sludge, iii, gas, doctype, html | monolith, ashraellen, books, pamięci, beton, bez, dystopijna, forma, gas, kontroli, otwórz, rozpadzie, seria, się, sludge, stabilność, staje, systemów |
-| pl/books/monolith/sludge/index.html | pl | books | Ashraellen — SLUDGE | ashraellen, books, monolith, sludge, tom, trylogii, akta, opis, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, monolith, akta, ashraellen, books, tom, trylogii, człowiek, człowieka, łamie, najpierw, nie, opis, się, zaczyna |
+| pl/books/monolith/beton/index.html | pl | books | Ashraellen — BETON — Polish | ashraellen, books, monolith, beton, tom, trylogii, akta, opis, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, akta, monolith, tom, się, trylogii, zaczyna, 2026-001b, ashraellen, books, nie, opis, więzienia, 6666548a, indeks, nawyku, nazywania, polish |
+| pl/books/monolith/index.html | pl | books | Ashraellen — MONOLITH — Polish | ashraellen, books, monolith, trylogia, dystopijna, kontroli, pamięci, rozpadzie, systemów, seria, tomy, tom, beton, sludge, iii, gas, doctype, html | monolith, tom, ashraellen, beton, books, gas, pamięci, seria, sludge, społecznej, tomy, trylogia, bez, dystopii, dystopijna, fantastyki, filozoficznego, iii |
+| pl/books/monolith/sludge/index.html | pl | books | Ashraellen — SLUDGE — Polish | ashraellen, books, monolith, sludge, tom, trylogii, akta, opis, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, akta, monolith, się, tom, trylogii, ashraellen, books, człowiek, łamie, najpierw, nie, opis, razu, zaczyna, 2026-001b, 6666548a, indeks |
 | pl/books/radiance/index.html | pl | books | Ashraellen — Blask \| Północne opowieści o prawdziwej historii świata | ashraellen, books, radiance, blask, północne, opowieści, prawdziwej, historii, świata, literacko-filozoficzny, artystyczno-badawczy, cykl, tym, jak, dawne, historie, przechowują, obrazowe | blask, świata, ashraellen, books, cykl, cyklu, dawne, historie, instrukcje, literacko-filozoficzny, nie, artystyczno-badawcza, artystyczno-badawczy, czego, czym, forma, historii, instrukcji |
 | pl/books/radiance/sampo/index.html | pl | books | Ashraellen — Sampo \| Blask, Księga I | ashraellen, books, radiance, sampo, blask, księga, cyklu, północna, opowieść, literacko-filozoficzna, obfitości, posiadaniu, uczestnictwie, świecie, którym, mit, nie, oddzielił | sampo, blask, ashraellen, books, cyklu, jeszcze, księga, którym, nie, obfitości, się, artystyczno-badawcza, bez, fundacji, jako, językowy, kogo, książce |
 | pl/books/radiance/song/index.html | pl | books | Ashraellen — Pieśń \| Blask, Księga II | ashraellen, books, radiance, song, pieśń, blask, księga, cyklu, powieść, dźwięku, słyszeniu, języku, warszawie, pieśni, która, nie, staje, się | pieśń, blask, ashraellen, bez, books, cyklu, dźwięku, księga, nie, się, artystyczno-badawcza, fundacji, jako, językowy, języku, kogo, książce, książka |
 | pl/books/seccus/index.html | pl | books | Ashraellen — ŚWIĘTA KSIĘGA SECCUS | ashraellen, books, seccus, święta, księga, filozoficzne, badanie, psychologia, stosowana, metafizyka, świadomości, samooszukiwaniu, uczciwości, pieniądzach, wewnętrznej, wolności, książce, tematy | seccus, księga, święta, ashraellen, books, świadomości, audio-wideo, badanie, bez, filozoficzne, fragment, gdy, jako, książce, książka, książki, który, lecz |
-| pl/books/the-book-of-whinesis/index.html | pl | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sakralna, satyra, dla, tych, którzy, zmęczyli, się, pozytywnymi, wibracjami, niekończącą, produktywnością, kultem, sukcesu, książce | book, whinesis, się, ashraellen, books, albowiem, będzie, będziesz, fragment, jego, książce, którzy, kultem, moania, moanii, narzekania, nie, niekończącą |
+| pl/books/the-book-of-whinesis/index.html | pl | books | Ashraellen — The Book of Whinesis — Polish | ashraellen, books, book, whinesis, sakralna, satyra, dla, tych, którzy, zmęczyli, się, pozytywnymi, wibracjami, niekończącą, produktywnością, kultem, sukcesu, książce | book, whinesis, się, ashraellen, books, albowiem, będzie, będziesz, fragment, jego, książce, którzy, kultem, moania, moanii, narzekania, nie, niekończącą |
 | pl/books/you-are-already-online/index.html | pl | books | Ashraellen — Już jesteś w sieci | ashraellen, books, you, already, online, już, jesteś, sieci, immersyjna, powieść, audio, gatunku, thrillera, psychologicznego, dramatu, cyberpunkowego, cyfrowej, rzeczywistości | jesteś, już, sieci, ashraellen, books, rozdział, algorytmach, already, audio, było, cyberpunkowego, cyfrowej, dramatu, fragment, gatunku, gdzie, hiperrealności, immersyjna |
-| pl/contact.html | pl | contact.html | Kontakt — Ashraellen | ashraellen, contact, kontakt, współpraca, publikacje, granty, media, zapytania, projektowe, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | ashraellen, kontakt, granty, media, współpraca, contact, contact.html, kanał, kontaktu, projektów, projektowe, publiczne, publikacje, publikacji, służy, telegram, zapytania |
+| pl/contact.html | pl | contact.html | Kontakt — Ashraellen — Polish | ashraellen, contact, kontakt, współpraca, publikacje, granty, media, zapytania, projektowe, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | ashraellen, kontakt, granty, media, współpraca, contact, contact.html, kanał, kontaktu, polish, projektów, projektowe, publiczne, publikacje, publikacji, służy, telegram, zapytania |
 | pl/index.html | pl | index.html | Ashraellen — książki, badania i teksty publiczne | ashraellen, książki, badania, teksty, publiczne, wielojęzyczny, projekt, autorski, łączący, wideo, formy, wewnętrznej, obserwacji, doctype, html, title, function, const | ashraellen, badania, książki, publiczne, teksty, autorski, formy, wideo, artystyczno-badawcza, badające, człowieka, deutsch, index.html, łączący, obserwacji, projekt, wewnętrznej, wielojęzyczny |
-| pl/monolith/index.html | pl | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | monolith, ashraellen, beton, gas, sludge, amazon, angielskie, angielsku, czytaj, przygotowaniu, się, tom |
+| pl/monolith/index.html | pl | monolith | MONOLITH — Ashraellen — Polish | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | monolith, beton, gas, sludge, ashraellen, dystopijna, edycja, kontroli, amazon, angielsku, czytaj, kontrolowanego, pamięci, polish, polska, przygotowaniu, rozpadu, rozpadzie |
 | pl/privacy.html | pl | privacy.html | Polityka prywatności — Ashraellen | ashraellen, privacy, polityka, prywatności, ashraellen.com, dane, osobowe, analityka, cookies, prawa, użytkownika, kontakt, administrator, strony, jakie, mogą, być, zbierane | polityka, prywatności, cookies, dane, analityka, ashraellen, ashraellen.com, być, mogą, strony, zewnętrzne, administrator, aktualizacje, cel, danych, google, jakie, kontakt |
 | pl/professional/index.html | pl | professional | Ashraellen — dossier profesjonalne | ashraellen, professional, dossier, profesjonalne, autor, metoda, obserwacji, książki, publiczne, formy, projektu, plan, rozwoju, współpraca, kontakt, autorze, pozycja, ramy | ashraellen, obserwacji, profesjonalne, projektu, publiczne, dossier, formy, metoda, plan, professional, projekt, rozwoju, archiwum, autor, autorze, jako, kontakt, książki |
 | pl/public/index.html | pl | public | Ashraellen — Publiczne | ashraellen, public, publiczne, pole, wystąpienia, publikacje, myśli, przewodnie, reakcje, obserwacje, gdzie, badanie, spotyka, żywego, człowieka, nowe, nie, bombardujcie | publiczne, ashraellen, myśli, człowieka, gdzie, przewodnie, public, publikacje, wystąpienia, badanie, już, masa, myśl, naród, nie, nowe, obserwacje, otwórz |
-| pl/public/posts/essay/cycles/cycle-0001.html | pl | public | Ashraellen — Pierwszy cykl mini-esejów | ashraellen, public, posts, essay, cycles, cycle, 0001, pierwszy, cykl, mini-esejów, władza, nie, nad, myślą, lecz, uwagą, ciało, pierwszymi | pierwszy, cykl, nie, ale, ashraellen, ciało, lecz, myślą, nad, public, celem, cycle, cycles, człowiek, drzwiami, essay, interpretacją, jako |
-| pl/public/posts/essay/cycles/index.html | pl | public | Ashraellen — Cykle mini-esejów | ashraellen, public, posts, essay, cycles, cykle, mini-esejów, zakończone, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | cykle, ashraellen, mini-esejów, public, zakończone, aktualnego, aktualny, ciało, cycle, cycles, cykl, cyklu, działu, essay, pierwszy, posts |
-| pl/public/posts/essay/index.html | pl | public | Ashraellen — Mini-eseje | ashraellen, public, posts, essay, mini-eseje, pierwszy, cykl, władza, nie, nad, myślą, lecz, uwagą, ciało, pierwszymi, drzwiami, ale, celem | nie, ale, ashraellen, ciało, lecz, mini-eseje, myślą, nad, public, celem, cykl, człowiek, drzwiami, essay, interpretacją, jako, jej, myśl |
+| pl/public/posts/essay/cycles/cycle-0001.html | pl | public | Ashraellen — Pierwszy cykl mini-esejów | ashraellen, public, posts, essay, cycles, cycle, 0001, pierwszy, cykl, mini-esejów, władza, nie, nad, myślą, lecz, uwagą, ciało, pierwszymi | cykl, pierwszy, nie, ciało, nad, ale, lecz, myślą, przeszłość, ashraellen, celem, drzwiami, interpretacją, jej, mini-esejów, pierwszymi, public, uwagą |
+| pl/public/posts/essay/cycles/index.html | pl | public | Ashraellen — Cykle mini-esejów | ashraellen, public, posts, essay, cycles, cykle, mini-esejów, zakończone, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | cykle, mini-esejów, zakończone, cykl, pierwszy, aktualnego, aktualny, ashraellen, cyklu, działu, głównej, public, się, stronie, cycles, essay, posts, tutaj |
+| pl/public/posts/essay/index.html | pl | public | Ashraellen — Mini-eseje | ashraellen, public, posts, essay, mini-eseje, pierwszy, cykl, władza, nie, nad, myślą, lecz, uwagą, ciało, pierwszymi, drzwiami, ale, celem | nie, mini-eseje, nad, ale, ciało, jej, lecz, myślą, ashraellen, celem, cykl, drzwiami, interpretacją, jeden, pierwszy, pierwszymi, przeszłość, public |
 | pl/public/posts/formula/index.html | pl | public | Ashraellen — Droga, działanie, rytm | ashraellen, public, posts, formula, droga, działanie, rytm, aktualna, linia, formuł, drodze, działaniu, rytmie, krótkie, myśli, ruchu, który, dojrzewa | ashraellen, aktualna, dojrzewa, drodze, droga, działanie, działaniu, formuł, krótkie, który, linia, miary, public, formula, myśli, posts, ruchu, rytm |
 | pl/public/posts/formula/lines/index.html | pl | public | Ashraellen — Granice, miara, własna forma | ashraellen, public, posts, formula, lines, granice, miara, własna, forma, linia, formuł, granicach, mierze, własnej, formie, zwięzłe, myśli, zgodzie | ashraellen, cichym, forma, formie, formuł, granicach, granice, istnienia, linia, miara, mierze, myśli, public, formula, lines, posts, prawie, sobą |
 | pl/public/posts/formula/lines/line-0001.html | pl | public | Ashraellen — Myśl, uwaga, ciało, przeszłość | ashraellen, public, posts, formula, lines, line, 0001, myśl, uwaga, ciało, przeszłość, linia, formuł, myśli, uwadze, ciele, zapamiętanej, przeszłości | ashraellen, linia, 0001, ciało, ciele, formuł, jeden, jedna, myśl, myśli, precyzyjny, przeszłość, public, formula, line, lines, posts, przeszłości |
 | pl/public/posts/formula/lines/line-0002.html | pl | public | Ashraellen — Słowo, milczenie, sens | ashraellen, public, posts, formula, lines, line, 0002, słowo, milczenie, sens, linia, formuł, słowie, milczeniu, sensie, krótkie, formy, których | ashraellen, 0002, formuł, formy, grać, język, krótkie, których, linia, milczenie, milczeniu, przestaje, public, formula, line, lines, posts, sens |
 | pl/public/posts/fragment/index.html | pl | public | Ashraellen — Fragmenty | ashraellen, public, posts, fragment, fragmenty, dział, przygotowywany, podstawie, dużego, archiwum, rękopisów, notatek, publikacji, gromadzonych, przez, wiele, lat, pracy | ashraellen, fragmenty, dział, przygotowywany, archiwum, lat, notatek, pracy, przez, public, publikacji, rękopisów, dużego, fragment, gromadzonych, podstawie, posts, roboczych |
-| pl/public/posts/index.html | pl | public | Ashraellen — Publikacje | ashraellen, public, posts, publikacje, działy, formuły, fragmenty, mini-eseje, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, publikacje, działy, public, ale, bez, czytaj, essay, format, formuły, fragmenty, krótkie, mini-eseje, posts |
-| pl/public/posts/sources/index.html | pl | public | Ashraellen — Źródła przeniesione | ashraellen, public, posts, sources, źródła, przeniesione, zostały, nowy, adres, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | ashraellen, przeniesione, źródła, adres, public, artystyczna, badań, badania, ciało, częścią, działu, fenomenologia, jako, nowy, posts, sources, zostały |
+| pl/public/posts/index.html | pl | public | Ashraellen — Publikacje | ashraellen, public, posts, publikacje, działy, formuły, fragmenty, mini-eseje, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | publikacje, działy, formuły, fragmenty, mini-eseje, ashraellen, format, formula, formy, krótkie, myśli, obserwacji, public, czytaj, posts, różne, się, sposoby |
+| pl/public/posts/sources/index.html | pl | public | Ashraellen — Źródła przeniesione | ashraellen, public, posts, sources, źródła, przeniesione, zostały, nowy, adres, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | źródła, przeniesione, adres, nowy, zostały, ashraellen, badań, badania, częścią, działu, fundament, jako, public, już, metodologiczny, należą, nie, otwórz |
 | pl/public/talks/index.html | pl | public | Ashraellen — Wystąpienia | ashraellen, public, talks, wystąpienia, wideo, publiczne, analizy, jasność, percepcja, świadomość, rzeczywistość, powrót, żywego, rozumienia, lista, dzieje, się, śmierci | ashraellen, sacred, się, ahepsu, public, wideo, wystąpienia, analizy, ciszę, dubbing, duszy, dużo, dzieje, jako, jasność, kronika, księga, lecz |
 | pl/public/thoughts/arcs/0001-cheerfulness.html | pl | public | Ashraellen — Wesołość jako diagnoza człowieka | ashraellen, public, thoughts, arcs, 0001, cheerfulness, wesołość, jako, diagnoza, człowieka, myśl, przewodnia, śmiech, często, odsłania, duszę, dokładniej, niż | ashraellen, człowieka, jako, wesołość, diagnoza, myśl, niż, public, śmiech, arcs, badawcza, bez, cheerfulness, często, człowiek, dlaczego, dokładniej, duszę |
 | pl/public/thoughts/arcs/0002-still-the-same.html | pl | public | Ashraellen — Te same siły, nowe imiona | ashraellen, public, thoughts, arcs, 0002, still, same, siły, nowe, imiona, myśl, przewodnia, współczesne, lęki, zależności, jako, dawnych, bogów | ashraellen, imiona, nowe, same, jako, myśl, public, siły, arcs, badawcza, bez, bogów, człowiek, dawnych, demonów, dlaczego, lęki, nie |
@@ -348,17 +348,17 @@ Pages: 551
 | pl/public/thoughts/arcs/0010-dirty-cup.html | pl | public | Ashraellen — Brudna filiżanka | ashraellen, public, thoughts, arcs, 0010, dirty, cup, brudna, filiżanka, myśl, przewodnia, bieg, kółko, nie, czyści, filiżanki, zmienia, tylko | ashraellen, brudna, filiżanka, filiżanki, myśl, nie, public, ale, alicja, arcs, badawcza, bieg, biegnącego, cup, człowiek, czyści, dirty, dlaczego |
 | pl/public/thoughts/arcs/0011-do-not-regret.html | pl | public | Ashraellen — Nie żałuj | ashraellen, public, thoughts, arcs, 0011, regret, nie, żałuj, myśl, przewodnia, czasem, miłosierdzie, wygląda, jak, strata, ratunek, przychodzi, pod | ashraellen, nie, żałuj, czasem, marzenia, myśl, public, strata, ale, arcs, badawcza, było, człowiek, dlaczego, kiedy, lecz, miłosierdzie, niespełnionego |
 | pl/public/thoughts/arcs/0012-close-the-book.html | pl | public | Ashraellen — Kiedy zamknąć książkę | ashraellen, public, thoughts, arcs, 0012, close, book, kiedy, zamknąć, książkę, myśl, przewodnia, pewnym, momencie, droga, toczy, się, już | ashraellen, kiedy, się, toczy, ciszy, książkę, momencie, nie, pewnym, public, zamknąć, ale, arcs, badawcza, book, close, czytać, dlaczego |
-| pl/public/thoughts/arcs/0013-problem-loses-crown.html | pl | public | Ashraellen — Problem traci koronę | ashraellen, public, thoughts, arcs, 0013, problem, loses, crown, traci, koronę, myśl, przewodnia, nie, został, zniszczony, ale, jego, patos | problem, ale, ashraellen, jego, koronę, myśl, nie, patos, public, traci, 0013, arcs, badawcza, crown, dlaczego, dlatego, jako, już |
+| pl/public/thoughts/arcs/0013-problem-loses-crown.html | pl | public | Ashraellen — Problem traci koronę | ashraellen, public, thoughts, arcs, 0013, problem, loses, crown, traci, koronę, myśl, przewodnia, nie, został, zniszczony, ale, jego, patos | problem, koronę, traci, myśl, nie, zniszczony, 0013, ale, ashraellen, badawcza, dlaczego, jego, nota, pełny, przewodnia, public, sens, tekst |
 | pl/public/thoughts/arcs/0014-end-of-extra-war.html | pl | public | Ashraellen — Koniec zbędnej wojny | ashraellen, public, thoughts, arcs, 0014, end, extra, war, koniec, zbędnej, wojny, myśl, przewodnia, wewnętrzna, zgoda, nie, porażką, sens | koniec, wojny, zbędnej, ashraellen, myśl, nie, public, wewnętrzna, 0014, arcs, badawcza, dlaczego, dlatego, end, extra, kto, nota, pełny |
 | pl/public/thoughts/arcs/0015-subtle-thought-needs-silence.html | pl | public | Ashraellen — Subtelna myśl potrzebuje ciszy | ashraellen, public, thoughts, arcs, 0015, subtle, thought, needs, silence, subtelna, myśl, potrzebuje, ciszy, przewodnia, nie, obowiązku, stać, się | myśl, subtelna, ciszy, potrzebuje, ashraellen, nie, obowiązku, public, się, stać, toporna, 0015, arcs, badawcza, czasem, dlaczego, needs, nota |
 | pl/public/thoughts/arcs/0016-one-fact.html | pl | public | Ashraellen — Był jeden fakt | ashraellen, public, thoughts, arcs, 0016, one, fact, był, jeden, fakt, myśl, przewodnia, cierpienia, trzy, sezony, kontynuacją, sens, pełny | był, fakt, jeden, ashraellen, cierpienia, kontynuacją, myśl, public, sezony, 0016, arcs, badawcza, dlaczego, fact, ktoś, nie, nota, one |
 | pl/public/thoughts/arcs/0017-witness-does-not-interfere.html | pl | public | Ashraellen — Świadek nie przeszkadza prawdzie | ashraellen, public, thoughts, arcs, 0017, witness, does, interfere, świadek, nie, przeszkadza, prawdzie, myśl, przewodnia, ten, kto, nic, robi | nie, prawdzie, przeszkadza, świadek, kto, ten, ashraellen, czasem, myśl, przed, public, się, 0017, arcs, badawcza, człowiek, dlaczego, does |
-| pl/public/thoughts/arcs/0018-image-cannot-be-happy.html | pl | public | Ashraellen — Obraz nie może być szczęśliwy | ashraellen, public, thoughts, arcs, 0018, image, cannot, happy, obraz, nie, może, być, szczęśliwy, myśl, przewodnia, otrzymać, uznanie, ale | może, być, nie, obraz, szczęśliwy, ale, ashraellen, myśl, public, 0018, arcs, badawcza, cannot, człowiek, dlaczego, happy, image, nota |
-| pl/public/thoughts/arcs/0019-do-not-bomb.html | pl | public | Ashraellen — Nie bombardujcie | ashraellen, public, thoughts, arcs, 0019, bomb, nie, bombardujcie, myśl, przewodnia, będziecie, bombardowani, sens, pełny, tekst, dlaczego, wybrano, notatka | nie, bombardujcie, ashraellen, będziecie, bombardowani, myśl, public, 0019, arcs, badawcza, bomb, człowiek, czy, dlaczego, najpierw, notatka, pełny, potem |
-| pl/public/thoughts/arcs/0020-people-and-mass.html | pl | public | Ashraellen — Naród i masa | ashraellen, public, thoughts, arcs, 0020, people, mass, naród, masa, myśl, przewodnia, pamięta, reaguje, sens, pełny, tekst, dlaczego, wybrano | masa, naród, ashraellen, myśl, public, 0020, arcs, badawcza, człowiek, dlaczego, jako, mass, masy, mnie, można, myśli, nie, niego |
+| pl/public/thoughts/arcs/0018-image-cannot-be-happy.html | pl | public | Ashraellen — Obraz nie może być szczęśliwy | ashraellen, public, thoughts, arcs, 0018, image, cannot, happy, obraz, nie, może, być, szczęśliwy, myśl, przewodnia, otrzymać, uznanie, ale | może, obraz, być, nie, szczęśliwy, myśl, 0018, ale, ashraellen, badawcza, dlaczego, nota, pełny, przewodnia, public, sens, tekst, wybrano |
+| pl/public/thoughts/arcs/0019-do-not-bomb.html | pl | public | Ashraellen — Nie bombardujcie | ashraellen, public, thoughts, arcs, 0019, bomb, nie, bombardujcie, myśl, przewodnia, będziecie, bombardowani, sens, pełny, tekst, dlaczego, wybrano, notatka | nie, bombardujcie, 0019, będziecie, myśl, ashraellen, badawcza, bombardowani, dlaczego, notatka, pełny, przewodnia, public, sens, tekst, wybrano, arcs, bomb |
+| pl/public/thoughts/arcs/0020-people-and-mass.html | pl | public | Ashraellen — Naród i masa | ashraellen, public, thoughts, arcs, 0020, people, mass, naród, masa, myśl, przewodnia, pamięta, reaguje, sens, pełny, tekst, dlaczego, wybrano | naród, masa, 0020, myśl, pamięta, reaguje, sens, ashraellen, badawcza, dlaczego, notatka, pełny, przewodnia, public, się, tekst, wybrano, arcs |
 | pl/public/thoughts/arcs/0021-mating-games.html | pl | public | Ashraellen — Gry godowe | ashraellen, public, thoughts, arcs, 0021, mating, games, gry, godowe, myśl, przewodnia, relacje, często, zaczynają, się, roli, którą, już | godowe, gry, ashraellen, już, myśl, public, relacje, się, zaczynają, 0021, arcs, badawcza, często, człowieka, dlaczego, games, inne, innych |
-| pl/public/thoughts/arcs/0022-spirituality-is-not-forced.html | pl | public | Ashraellen — Duchowości się nie narzuca | ashraellen, public, thoughts, arcs, 0022, spirituality, forced, duchowości, się, nie, narzuca, myśl, przewodnia, prawdziwej, nią, zachwyca, sens, pełny | się, duchowości, narzuca, nie, ashraellen, myśl, public, 0022, arcs, badawcza, człowieka, dlaczego, dlatego, duchowość, forced, może, można, nią |
-| pl/public/thoughts/arcs/0023-price-of-transition.html | pl | public | Ashraellen — Cena przejścia | ashraellen, public, thoughts, arcs, 0023, price, transition, cena, przejścia, myśl, przewodnia, każde, przejście, nowy, etap, opłaca, się, kryzysem | przejścia, ashraellen, cena, etap, kryzysem, myśl, opłaca, public, się, 0023, ale, arcs, badawcza, czy, dlaczego, już, każde, kryzys |
+| pl/public/thoughts/arcs/0022-spirituality-is-not-forced.html | pl | public | Ashraellen — Duchowości się nie narzuca | ashraellen, public, thoughts, arcs, 0022, spirituality, forced, duchowości, się, nie, narzuca, myśl, przewodnia, prawdziwej, nią, zachwyca, sens, pełny | się, duchowości, narzuca, nie, myśl, prawdziwej, 0022, ashraellen, badawcza, dlaczego, notatka, pełny, przewodnia, public, sens, tekst, wybrano, arcs |
+| pl/public/thoughts/arcs/0023-price-of-transition.html | pl | public | Ashraellen — Cena przejścia | ashraellen, public, thoughts, arcs, 0023, price, transition, cena, przejścia, myśl, przewodnia, każde, przejście, nowy, etap, opłaca, się, kryzysem | cena, przejścia, etap, myśl, opłaca, się, 0023, ashraellen, badawcza, dlaczego, każde, notatka, nowy, pełny, przejście, przewodnia, public, sens |
 | pl/public/thoughts/arcs/0024-true-enemy-not-ignorance.html | pl | public | Ashraellen — Prawdziwy wróg | ashraellen, public, thoughts, arcs, 0024, true, enemy, ignorance, prawdziwy, wróg, myśl, przewodnia, prawdziwym, wrogiem, człowieka, nie, niewiedza, lecz | ashraellen, człowieka, już, lecz, myśl, nie, niewiedza, pewność, prawdziwy, prawdziwym, public, wie, wróg, 0024, arcs, badawcza, dlaczego, enemy |
 | pl/public/thoughts/index-0001.html | pl | public | Ashraellen — Pierwszy łuk myśli przewodnich | ashraellen, public, thoughts, index, 0001, pierwszy, łuk, myśli, przewodnich, wesołość, stare, siły, przebudzenie, skończoność, strach, wgląd, jako, diagnoza | ashraellen, łuk, myśli, pierwszy, przewodnich, przebudzenie, siły, jako, nie, public, się, skończoność, strach, wesołość, budzi, człowieka, dalej, diagnoza |
 | pl/public/thoughts/index-0002.html | pl | public | Ashraellen — Drugi łuk myśli przewodnich | ashraellen, public, thoughts, index, 0002, drugi, łuk, myśli, przewodnich, pamięć, obserwacja, przebudzenie, brudna, filiżanka, miłosierdzie, straty, granica, literatury | ashraellen, drugi, łuk, myśli, przewodnich, brudna, filiżanka, nie, public, być, czasem, duchowej, gdzie, granica, index, kiedy, krzesło, książkę |
@@ -366,34 +366,34 @@ Pages: 551
 | pl/research/archive/index.html | pl | research | Ashraellen — Archiwum badań | ashraellen, research, archive, archiwum, badań, materiałów, badawczych, zakończone, wersje, wcześniejsze, warstwy, ślady, drogi, materiały, które, nie, już, żywej | archiwum, ashraellen, drogi, już, które, materiałów, nie, pracy, research, się, żywej, aby, ale, archive, badań, badanie, badawczych, materiały |
 | pl/research/index.html | pl | research | Ashraellen — Badanie | ashraellen, research, badanie, sposób, widzenia, trwające, całe, życie, artystyczno-filozoficzne, sensu, obserwacja, tego, jak, człowiek, traci, kontakt, rzeczywistością, sensem | ashraellen, badanie, badania, człowiek, research, się, archiwum, artystyczne, artystyczno-filozoficzne, badane, całe, cyfrowe, formy, jako, kontakt, lecz, metoda, nie |
 | pl/research/method/index.html | pl | research | Ashraellen — Metoda obserwacji | ashraellen, research, method, metoda, obserwacji, zapisywanie, węzłów, znaczeń, forma, artystyczna, jako, narzędzie, badawcze, weryfikacja, przez, rozpoznanie, węzeł, znaczenia | ashraellen, obserwacji, forma, jako, metoda, obserwacja, artystyczna, nie, research, się, weryfikacja, badania, badawcze, czego, człowiek, dlaczego, formy, lecz |
-| pl/research/notes/index.html | pl | research | Ashraellen — Notes | ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai | notes, ashraellen, margins, research, chce, chodzi, doktryną, fragmenty, jeśli, który, marginesy, materiał, nie |
-| pl/research/position/index.html | pl | research | Ashraellen — Position | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev | position, ashraellen, research, artystyczny, badacz, doświadczenia, doświadczenie, filozofia, jako, modele, nie, niezależny, obserwacji |
+| pl/research/notes/index.html | pl | research | Ashraellen — Notes — Polish | ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai | notes, ashraellen, margins, research, chce, chodzi, doktryną, fragmenty, jeśli, który, marginesy, materiał, nie, niedokończone, polish, public, się, stać |
+| pl/research/position/index.html | pl | research | Ashraellen — Position — Polish | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev | position, ashraellen, jako, artystyczny, badacz, doświadczenia, doświadczenie, filozofia, modele, nie, niezależny, obserwacji, research, opisu, pole, polish, pracuję, religia |
 | pl/research/projects/index.html | pl | research | Ashraellen — Projekty badawcze | ashraellen, research, projects, projekty, badawcze, mapa, pól, pracy, monolit, główny, kanał, pole, publiczne, satyryczne, boczne, laboratoria, percepcji, instagram | ashraellen, projekty, boczne, monolit, pole, research, bada, badawcze, book, church, człowiek, główny, inner, instagram, jako, kanał, laboratoria, lecz |
 | pl/research/sources/index.html | pl | research | Ashraellen — Źródła i tradycja | ashraellen, research, sources, źródła, tradycja, fenomenologia, świadomości, ciało, narracja, nauki, kognitywne, praktyka, artystyczna, jako, linie, metodologiczne, badania, edmund | jako, ashraellen, ciało, tradycja, źródła, badania, doświadczenie, fenomenologia, research, świadomości, artystyczna, edmund, eleanor, esej, evan, forma, formy, francisco |
-| privacy.html | root | privacy.html | Privacy Policy — Ashraellen | ashraellen, privacy, policy, redirecting, english, ashraellen.com, doctype, html, title, window.location.replace, privacy.html, script, head, body | privacy, ashraellen, policy, ashraellen.com, english, redirecting, privacy.html |
+| privacy.html | root | privacy.html | Privacy Policy — Ashraellen | ashraellen, privacy, policy, redirecting, english, ashraellen.com, doctype, html, title, window.location.replace, privacy.html, script, head, body | privacy, policy, ashraellen, redirecting, ashraellen.com, english, privacy.html |
 | pt/books/index.html | pt | books | Ashraellen — Livros | ashraellen, books, livros, romances, grandes, projetos, livros-experiência, monolith, livro, sagrado, seccus, você, está, online, whinesis, lista, doctype, html | ashraellen, livros, livro, books, está, grandes, livros-experiência, monolith, online, whinesis, estão, lista, não, projetos, romances, sagrado, seccus, sobre |
-| pt/books/monolith/beton/index.html | pt | books | Ashraellen — BETON | ashraellen, books, monolith, beton, volume, trilogia, arquivo, descrição, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, monolith, arquivo, ashraellen, books, trilogia, volume, apenas, demais, descrição, edição, mundo, que, sobre, uma |
-| pt/books/monolith/index.html | pt | books | Ashraellen — MONOLITH | ashraellen, books, monolith, trilogia, distópica, sobre, controle, memória, colapso, sistemas, série, volumes, volume, beton, sludge, iii, gas, doctype | monolith, ashraellen, books, colapso, memória, abrir, beton, começa, controle, distópica, estabilidade, gas, sem, série, sistemas, sludge, sobre, torna |
-| pt/books/monolith/sludge/index.html | pt | books | Ashraellen — SLUDGE | ashraellen, books, monolith, sludge, volume, trilogia, arquivo, descrição, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, monolith, ashraellen, books, volume, arquivo, começa, descrição, ela, humano, não, pelo, pessoa, que, ser, trilogia, uma |
+| pt/books/monolith/beton/index.html | pt | books | Ashraellen — BETON — PT | ashraellen, books, monolith, beton, volume, trilogia, arquivo, descrição, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, arquivo, monolith, volume, com, começa, trilogia, uma, ashraellen, books, concreto, descrição, estabilidade, chamar, demais, edição, hábito, não |
+| pt/books/monolith/index.html | pt | books | Ashraellen — MONOLITH — PT | ashraellen, books, monolith, trilogia, distópica, sobre, controle, memória, colapso, sistemas, série, volumes, volume, beton, sludge, iii, gas, doctype | monolith, volume, trilogia, ashraellen, beton, books, gas, memória, série, sludge, social, volumes, abrir, colapso, controle, distopia, distópica, estabilidade |
+| pt/books/monolith/sludge/index.html | pt | books | Ashraellen — SLUDGE — PT | ashraellen, books, monolith, sludge, volume, trilogia, arquivo, descrição, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, arquivo, monolith, volume, trilogia, ashraellen, books, começa, depois, descrição, humano, não, ser, uma, cansa, concordar, pelo, primeiro |
 | pt/books/seccus/index.html | pt | books | Ashraellen — O LIVRO SAGRADO DE SECCUS | ashraellen, books, seccus, livro, sagrado, investigação, filosófica, psicologia, aplicada, metafísica, consciência, sobre, autoengano, honestidade, dinheiro, liberdade, interior, temas | livro, seccus, sagrado, ashraellen, books, página, sobre, aplicada, áudio-vídeo, autoengano, como, consciência, dinheiro, filosófica, honestidade, interior, investigação, liberdade |
-| pt/books/the-book-of-whinesis/index.html | pt | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sátira, sagrada, para, quem, cansou, das, vibrações, positivas, produtividade, infinita, culto, sucesso, sobre, livro | book, whinesis, ashraellen, books, para, sobre, cansou, capítulos, culto, das, desconto, disse, gnorna, infinita, livro, moania, não, pois |
+| pt/books/the-book-of-whinesis/index.html | pt | books | Ashraellen — The Book of Whinesis — PT | ashraellen, books, book, whinesis, sátira, sagrada, para, quem, cansou, das, vibrações, positivas, produtividade, infinita, culto, sucesso, sobre, livro | book, whinesis, ashraellen, books, para, sobre, cansou, capítulos, culto, das, desconto, disse, gnorna, infinita, livro, moania, não, pois |
 | pt/books/you-are-already-online/index.html | pt | books | Ashraellen — Você já está online | ashraellen, books, you, already, online, você, está, romance, áudio, imersivo, entre, thriller, psicológico, drama, cyberpunk, sobre, realidade, digital | está, online, você, ashraellen, books, capítulo, realidade, romance, sobre, algoritmos, already, antes, áudio, como, cyberpunk, demais, digital, drama |
-| pt/contact.html | pt | contact.html | Contacto — Ashraellen | ashraellen, contact, contacto, página, cooperação, publicações, bolsas, media, pedidos, relacionados, com, projeto, doctype, html, title, function, const, isgithub | ashraellen, contacto, bolsas, com, cooperação, media, pedidos, projeto, canal, contact, contact.html, investigação, página, para, publicações, relacionados, telegram |
+| pt/contact.html | pt | contact.html | Contacto — Ashraellen — PT | ashraellen, contact, contacto, página, cooperação, publicações, bolsas, media, pedidos, relacionados, com, projeto, doctype, html, title, function, const, isgithub | ashraellen, contacto, bolsas, com, cooperação, media, pedidos, projeto, canal, contact, contact.html, investigação, página, para, publicações, relacionados, telegram |
 | pt/index.html | pt | index.html | Ashraellen — livros, pesquisa e textos públicos | ashraellen, livros, pesquisa, textos, públicos, projeto, autoral, multilíngue, que, reúne, vídeos, formas, observação, interior, doctype, html, title, function | ashraellen, livros, pesquisa, públicos, textos, autoral, formas, multilíngue, artística, com, index.html, interior, observação, projeto, público, que, reúne, uma |
-| pt/monolith/index.html | pt | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | monolith, ashraellen, beton, gas, sludge, amazon, atualmente, inglês, ler, memória, preparação, volume |
+| pt/monolith/index.html | pt | monolith | MONOLITH — Ashraellen — PT | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | monolith, beton, gas, sludge, ashraellen, colapso, controlada, controle, memória, amazon, desintegração, distópica, edição, estados, inglês, preparação, sistemas, sobre |
 | pt/privacy.html | pt | privacy.html | Política de privacidade — Ashraellen | ashraellen, privacy, política, privacidade, ashraellen.com, dados, pessoais, análise, cookies, direitos, utilizador, contacto, quem, responsável, pelo, que, podem, ser | dados, política, privacidade, análise, que, ashraellen, cookies, para, plataformas, podem, ser, ashraellen.com, atualizações, base, com, compras, contacto, direitos |
 | pt/professional/index.html | pt | professional | Ashraellen — Dossiê profissional | ashraellen, professional, dossiê, profissional, autor, método, observação, livros, formas, públicas, projeto, plano, desenvolvimento, cooperação, contato, sobre, posição, enquadramentos | ashraellen, observação, projeto, apoio, autor, desenvolvimento, dossiê, formas, método, plano, professional, profissional, públicas, arquivo, atual, busca, campos, como |
-| pt/public/index.html | pt | public | Ashraellen — Público | ashraellen, public, público, campo, falas, publicações, pensamentos, apoio, reações, observações, onde, pesquisa, encontra, pessoa, viva, novos, não, bombardeie | público, apoio, ashraellen, pensamentos, campo, falas, onde, pessoa, public, publicações, abrir, com, encontra, não, novos, observações, pensamento, pesquisa |
-| pt/public/posts/essay/cycles/cycle-0001.html | pt | public | Ashraellen — Primeiro ciclo de mini-ensaios | ashraellen, public, posts, essay, cycles, cycle, 0001, primeiro, ciclo, mini-ensaios, poder, não, sobre, pensamento, mas, atenção, corpo, primeira | ciclo, mas, não, primeiro, ashraellen, corpo, passado, pensamento, public, sobre, atenção, com, começa, como, cycle, cycles, essay, interpretação |
-| pt/public/posts/essay/cycles/index.html | pt | public | Ashraellen — Ciclos de mini-ensaios | ashraellen, public, posts, essay, cycles, ciclos, mini-ensaios, concluídos, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ciclos, ashraellen, mini-ensaios, concluídos, public, aqui, atenção, atual, ciclo, corpo, cycle, cycles, essay, estão, posts, primeiro |
-| pt/public/posts/essay/index.html | pt | public | Ashraellen — Mini-ensaios | ashraellen, public, posts, essay, mini-ensaios, primeiro, ciclo, poder, não, sobre, pensamento, mas, atenção, corpo, primeira, porta, objetivo, passado | mas, não, ashraellen, corpo, mini-ensaios, passado, pensamento, public, sobre, atenção, ciclo, com, começa, como, essay, interpretação, objetivo, pessoa |
-| pt/public/posts/formula/index.html | pt | public | Ashraellen — Fórmulas | ashraellen, public, posts, formula, fórmulas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | ashraellen, fórmulas, public, formula, posts |
-| pt/public/posts/formula/lines/index.html | pt | public | Ashraellen — Fórmulas | ashraellen, public, posts, formula, lines, fórmulas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean | ashraellen, fórmulas, public, formula, lines, posts |
-| pt/public/posts/formula/lines/line-0001.html | pt | public | Ashraellen — Linha 0001 | ashraellen, public, posts, formula, lines, line, 0001, linha, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, 0001, linha, public, formula, line, lines, posts |
-| pt/public/posts/formula/lines/line-0002.html | pt | public | Ashraellen — Linha 0002 | ashraellen, public, posts, formula, lines, line, 0002, linha, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, 0002, linha, public, formula, line, lines, posts |
-| pt/public/posts/fragment/index.html | pt | public | Ashraellen — Fragmentos | ashraellen, public, posts, fragment, fragmentos, seção, preparada, partir, grande, arquivo, manuscritos, notas, publicações, acumulados, longo, muitos, anos, trabalho | ashraellen, fragmentos, acumulados, anos, arquivo, grande, longo, manuscritos, notas, public, seção, trabalho, aqui, fragment, muitos, partir, posts, preparação |
-| pt/public/posts/index.html | pt | public | Ashraellen — Publicações | ashraellen, public, posts, publicações, seções, fórmulas, fragmentos, mini-ensaios, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, publicações, public, análises, ângulo, antes, breves, capturar, fórmulas, fragmentos, ler, mini-ensaios, pensamento, posts, seções |
-| pt/public/posts/sources/index.html | pt | public | Ashraellen — Fontes transferidas | ashraellen, public, posts, sources, fontes, transferidas, foram, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | ashraellen, fontes, transferidas, public, abrir, agora, artística, base, ciência, cognitiva, como, corpo, fazem, foram, posts, sources |
+| pt/public/index.html | pt | public | Ashraellen — Público — PT | ashraellen, public, público, campo, falas, publicações, pensamentos, apoio, reações, observações, onde, pesquisa, encontra, pessoa, viva, novos, não, bombardeie | público, apoio, ashraellen, pensamentos, campo, falas, onde, pessoa, public, publicações, abrir, com, encontra, não, novos, observações, pensamento, pesquisa |
+| pt/public/posts/essay/cycles/cycle-0001.html | pt | public | Ashraellen — Primeiro ciclo de mini-ensaios | ashraellen, public, posts, essay, cycles, cycle, 0001, primeiro, ciclo, mini-ensaios, poder, não, sobre, pensamento, mas, atenção, corpo, primeira | ciclo, primeiro, mas, não, sobre, corpo, passado, pensamento, ashraellen, atenção, interpretação, mini-ensaios, objetivo, poder, porta, primeira, public, sua |
+| pt/public/posts/essay/cycles/index.html | pt | public | Ashraellen — Ciclos de mini-ensaios | ashraellen, public, posts, essay, cycles, ciclos, mini-ensaios, concluídos, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ciclos, mini-ensaios, concluídos, atual, ciclo, aqui, ashraellen, estão, fica, página, para, primeiro, principal, public, cycles, essay, posts, reunidos |
+| pt/public/posts/essay/index.html | pt | public | Ashraellen — Mini-ensaios | ashraellen, public, posts, essay, mini-ensaios, primeiro, ciclo, poder, não, sobre, pensamento, mas, atenção, corpo, primeira, porta, objetivo, passado | mas, não, mini-ensaios, sobre, corpo, passado, pensamento, ashraellen, atenção, ciclo, interpretação, objetivo, poder, porta, primeira, primeiro, public, sua |
+| pt/public/posts/formula/index.html | pt | public | Ashraellen — Fórmulas — PT | ashraellen, public, posts, formula, fórmulas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | ashraellen, public, fórmulas, archive, artistic, literary, multilingual, part, research, work, formula, posts |
+| pt/public/posts/formula/lines/index.html | pt | public | Ashraellen — Fórmulas — PT | ashraellen, public, posts, formula, lines, fórmulas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean | ashraellen, public, fórmulas, archive, artistic, literary, multilingual, part, research, work, formula, lines, posts |
+| pt/public/posts/formula/lines/line-0001.html | pt | public | Ashraellen — Linha 0001 | ashraellen, public, posts, formula, lines, line, 0001, linha, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, public, 0001, linha, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts |
+| pt/public/posts/formula/lines/line-0002.html | pt | public | Ashraellen — Linha 0002 | ashraellen, public, posts, formula, lines, line, 0002, linha, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, public, 0002, linha, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts |
+| pt/public/posts/fragment/index.html | pt | public | Ashraellen — Fragmentos — PT | ashraellen, public, posts, fragment, fragmentos, seção, preparada, partir, grande, arquivo, manuscritos, notas, publicações, acumulados, longo, muitos, anos, trabalho | ashraellen, fragmentos, acumulados, anos, arquivo, grande, longo, manuscritos, notas, public, seção, trabalho, aqui, fragment, muitos, partir, posts, preparação |
+| pt/public/posts/index.html | pt | public | Ashraellen — Publicações | ashraellen, public, posts, publicações, seções, fórmulas, fragmentos, mini-ensaios, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | publicações, fórmulas, fragmentos, mini-ensaios, antes, ashraellen, breves, capturar, diferentes, ele, formas, pensamento, public, seções, ler, maneiras, observação, posts |
+| pt/public/posts/sources/index.html | pt | public | Ashraellen — Fontes transferidas | ashraellen, public, posts, sources, fontes, transferidas, foram, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | fontes, transferidas, foram, abrir, agora, ashraellen, base, ciência, como, corpo, fazem, fenomenologia, metodológica, public, narrativa, parte, pesquisa, posts |
 | pt/public/talks/index.html | pt | public | Ashraellen — Apresentações | ashraellen, public, talks, apresentações, vídeos, análises, públicas, clareza, percepção, consciência, realidade, retorno, compreensão, viva, lista, que, acontece, depois | ashraellen, apresentações, para, public, que, sacred, uma, abrir, acontece, ahepsu, alma, análises, autoengano, clareza, com, como, compreensão, consciência |
 | pt/public/thoughts/arcs/0001-cheerfulness.html | pt | public | Ashraellen — A alegria como diagnóstico da pessoa | ashraellen, public, thoughts, arcs, 0001, cheerfulness, alegria, como, diagnóstico, pessoa, pensamento, apoio, riso, muitas, vezes, abre, alma, com | alegria, ashraellen, como, pessoa, que, com, diagnóstico, mais, pensamento, public, abre, alma, apoio, arcs, bondade, cheerfulness, completo, corretos |
 | pt/public/thoughts/arcs/0002-still-the-same.html | pt | public | Ashraellen — As mesmas forças, novos nomes | ashraellen, public, thoughts, arcs, 0002, still, same, mesmas, forças, novos, nomes, pensamento, apoio, ansiedades, dependências, modernas, como, antigos | nomes, novos, ashraellen, forças, mesmas, demônios, deuses, pensamento, por, public, que, ansiedades, antigos, apoio, arcs, como, completo, dependências |
@@ -407,31 +407,31 @@ Pages: 551
 | pt/public/thoughts/arcs/0010-dirty-cup.html | pt | public | Ashraellen — A chávena suja | ashraellen, public, thoughts, arcs, 0010, dirty, cup, chávena, suja, pensamento, apoio, correr, círculos, não, limpa, apenas, muda, quem | chávena, ashraellen, não, pensamento, por, public, que, suja, alice, apenas, apoio, arcs, chapeleiro, círculos, completo, corre, correr, cup |
 | pt/public/thoughts/arcs/0011-do-not-regret.html | pt | public | Ashraellen — Não te arrependas | ashraellen, public, thoughts, arcs, 0011, regret, não, arrependas, pensamento, apoio, vezes, misericórdia, parece, perda, salvação, chega, disfarçada, sonho | não, arrependas, ashraellen, foi, pensamento, perda, por, public, que, vezes, apoio, arcs, chega, como, completo, disfarçada, escolhido, mas |
 | pt/public/thoughts/arcs/0012-close-the-book.html | pt | public | Ashraellen — Quando fechar o livro | ashraellen, public, thoughts, arcs, 0012, close, book, quando, fechar, livro, pensamento, apoio, certo, momento, caminho, não, continua, página | ashraellen, continua, livro, caminho, certo, fechar, momento, não, public, quando, silêncio, apoio, arcs, book, close, completo, escolhido, foi |
-| pt/public/thoughts/arcs/0013-problem-loses-crown.html | pt | public | Ashraellen — O problema perde a coroa | ashraellen, public, thoughts, arcs, 0013, problem, loses, crown, problema, perde, coroa, pensamento, apoio, não, foi, destruído, mas, seu | foi, problema, coroa, ashraellen, destruído, drama, mas, não, pensamento, perde, public, que, seu, 0013, apoio, arcs, com, completo |
+| pt/public/thoughts/arcs/0013-problem-loses-crown.html | pt | public | Ashraellen — O problema perde a coroa | ashraellen, public, thoughts, arcs, 0013, problem, loses, crown, problema, perde, coroa, pensamento, apoio, não, foi, destruído, mas, seu | problema, coroa, foi, perde, 0013, apoio, pensamento, que, ashraellen, completo, escolhido, mas, não, nota, pesquisa, por, public, sentido |
 | pt/public/thoughts/arcs/0014-end-of-extra-war.html | pt | public | Ashraellen — O fim da guerra desnecessária | ashraellen, public, thoughts, arcs, 0014, end, extra, war, fim, guerra, desnecessária, pensamento, apoio, concordância, interior, com, que, não | desnecessária, fim, guerra, que, ashraellen, com, interior, não, pensamento, public, 0014, apoio, arcs, completo, concordância, derrota, ela, end |
 | pt/public/thoughts/arcs/0015-subtle-thought-needs-silence.html | pt | public | Ashraellen — Um pensamento sutil precisa de silêncio | ashraellen, public, thoughts, arcs, 0015, subtle, thought, needs, silence, pensamento, sutil, precisa, silêncio, apoio, não, obrigado, tornar, grosseiro | pensamento, sutil, ashraellen, grosseiro, não, notado, para, precisa, public, que, sentido, ser, silêncio, 0015, apoio, arcs, completo, compreensão |
 | pt/public/thoughts/arcs/0016-one-fact.html | pt | public | Ashraellen — Havia um fato | ashraellen, public, thoughts, arcs, 0016, one, fact, havia, fato, pensamento, apoio, sofrimento, para, três, temporadas, com, continuação, sentido | fato, havia, ashraellen, com, pensamento, public, que, sofrimento, 0016, acontecimento, apoio, arcs, completo, continuação, então, escolhido, fact, foi |
 | pt/public/thoughts/arcs/0017-witness-does-not-interfere.html | pt | public | Ashraellen — A testemunha não interfere | ashraellen, public, thoughts, arcs, 0017, witness, does, interfere, testemunha, não, pensamento, apoio, quem, nada, faz, impede, verdade, tornar | não, testemunha, interfere, quem, antes, ashraellen, faz, pensamento, por, public, que, sentido, 0017, ainda, apoio, arcs, calma, completo |
 | pt/public/thoughts/arcs/0018-image-cannot-be-happy.html | pt | public | Ashraellen — Uma imagem não pode ser feliz | ashraellen, public, thoughts, arcs, 0018, image, cannot, happy, uma, imagem, não, pode, ser, feliz, pensamento, apoio, receber, reconhecimento | pode, imagem, não, ser, uma, feliz, ashraellen, mas, por, public, que, 0018, apoio, arcs, cannot, com, completo, correta |
-| pt/public/thoughts/arcs/0019-do-not-bomb.html | pt | public | Ashraellen — Não Bombardeie | ashraellen, public, thoughts, arcs, 0019, bomb, não, bombardeie, pensamento, apoio, você, será, bombardeado, sentido, texto, completo, por, que | não, bombardeie, ashraellen, bombardeado, pensamento, public, que, 0019, apoio, arcs, bomb, completo, depois, escolhido, foi, mundo, nota, para |
-| pt/public/thoughts/arcs/0020-people-and-mass.html | pt | public | Ashraellen — Povo e Massa | ashraellen, public, thoughts, arcs, 0020, people, mass, povo, massa, pensamento, apoio, lembra, uma, reage, sentido, texto, completo, por | massa, povo, ashraellen, pensamento, por, public, que, uma, 0020, apoio, arcs, chamar, como, completo, ela, escolhido, foi, lembra |
+| pt/public/thoughts/arcs/0019-do-not-bomb.html | pt | public | Ashraellen — Não Bombardeie | ashraellen, public, thoughts, arcs, 0019, bomb, não, bombardeie, pensamento, apoio, você, será, bombardeado, sentido, texto, completo, por, que | não, bombardeie, pensamento, que, você, 0019, apoio, ashraellen, bombardeado, completo, escolhido, foi, nota, pesquisa, por, public, sentido, texto |
+| pt/public/thoughts/arcs/0020-people-and-mass.html | pt | public | Ashraellen — Povo e Massa | ashraellen, public, thoughts, arcs, 0020, people, mass, povo, massa, pensamento, apoio, lembra, uma, reage, sentido, texto, completo, por | massa, povo, lembra, pensamento, por, que, sentido, uma, 0020, apoio, ashraellen, completo, escolhido, foi, nota, pesquisa, public, reage |
 | pt/public/thoughts/arcs/0021-mating-games.html | pt | public | Ashraellen — Jogos de Acasalamento | ashraellen, public, thoughts, arcs, 0021, mating, games, jogos, acasalamento, pensamento, apoio, relações, muitas, vezes, começam, pelo, papel, que | acasalamento, que, ashraellen, começam, jogos, pensamento, por, public, relações, 0021, alguns, amor, apoio, arcs, com, completo, conosco, escolhido |
 | pt/public/thoughts/arcs/0022-spirituality-is-not-forced.html | pt | public | Ashraellen — A Espiritualidade Não Se Impõe | ashraellen, public, thoughts, arcs, 0022, spirituality, forced, espiritualidade, não, impõe, pensamento, apoio, verdadeira, ela, encanta, sentido, texto, completo | espiritualidade, impõe, não, ashraellen, pensamento, public, verdadeira, 0022, alma, apoio, arcs, com, completo, ela, encanta, escolhido, foi, forced |
 | pt/public/thoughts/arcs/0023-price-of-transition.html | pt | public | Ashraellen — O Preço da Transição | ashraellen, public, thoughts, arcs, 0023, price, transition, preço, transição, pensamento, apoio, toda, passagem, para, uma, nova, etapa, paga | preço, uma, ashraellen, com, crise, para, pensamento, public, que, transição, 0023, apoio, arcs, completo, escolhido, etapa, foi, mais |
 | pt/public/thoughts/arcs/0024-true-enemy-not-ignorance.html | pt | public | Ashraellen — O Verdadeiro Inimigo | ashraellen, public, thoughts, arcs, 0024, true, enemy, ignorance, verdadeiro, inimigo, pensamento, apoio, pessoa, não, ignorância, mas, certeza, que | inimigo, verdadeiro, que, ashraellen, certeza, ignorância, mas, não, pessoa, public, sabe, 0024, apoio, arcs, bastante, com, completo, ela |
 | pt/public/thoughts/index-0001.html | pt | public | Ashraellen — Primeiro arco de pensamentos de apoio | ashraellen, public, thoughts, index, 0001, primeiro, arco, pensamentos, apoio, alegria, antigas, forças, despertar, finitude, medo, visão, como, diagnóstico | apoio, arco, ashraellen, pensamentos, alegria, despertar, forças, medo, primeiro, antigas, como, finitude, mais, public, abrir, começa, continuar, controle |
-| pt/public/thoughts/index-0002.html | pt | public | Ashraellen — Arco 0002 | ashraellen, public, thoughts, index, 0002, arco, segundo, pensamentos, apoio, cadeira, vazia, generalização, vez, observação, onde, vida, parou, xícara | arco, ashraellen, apoio, pensamentos, 0002, generalização, não, observação, public, segundo, abrir, arrependa, cadeira, despertar, fechar, index, livro, onde |
+| pt/public/thoughts/index-0002.html | pt | public | Ashraellen — Arco 0002 — PT | ashraellen, public, thoughts, index, 0002, arco, segundo, pensamentos, apoio, cadeira, vazia, generalização, vez, observação, onde, vida, parou, xícara | arco, apoio, pensamentos, segundo, ashraellen, generalização, não, observação, quando, xícara, 0002, arrependa, cadeira, fechar, livro, onde, parou, public |
 | pt/public/thoughts/index.html | pt | public | Ashraellen — Terceiro arco de pensamentos de apoio | ashraellen, public, thoughts, terceiro, arco, pensamentos, apoio, problema, perde, coroa, termina, guerra, extra, pensamento, sutil, fato, testemunha, imagem | apoio, arco, pensamentos, ashraellen, fato, guerra, imagem, não, pensamento, problema, sutil, terceiro, testemunha, coroa, extra, perde, public, abrir |
 | pt/research/archive/index.html | pt | research | Ashraellen — Arquivo de pesquisa | ashraellen, research, archive, arquivo, pesquisa, materiais, versões, concluídas, camadas, anteriores, rastros, caminho, que, não, estão, trabalho, vivo, ainda | arquivo, ashraellen, pesquisa, materiais, ainda, camadas, caminho, estão, não, que, research, vivo, anteriores, archive, concluídas, está, movimento, para |
 | pt/research/index.html | pt | research | Ashraellen — Investigação | ashraellen, research, investigação, modo, ver, uma, artístico-filosófica, sentido, longo, vida, observação, como, ser, humano, perde, contato, com, realidade | investigação, ashraellen, como, sentido, uma, observação, que, research, aberto, artística, artístico-filosófica, com, conhecimento, contato, dentro, digital, entender, este |
 | pt/research/method/index.html | pt | research | Ashraellen — Método de Observação | ashraellen, research, method, método, observação, registro, nós, sentido, forma, artística, como, instrumento, investigação, verificação, pelo, reconhecimento, campo, aparece | observação, ashraellen, como, método, que, artística, forma, investigação, por, research, sentido, verificação, aparece, aqui, ausente, campo, dentro, está |
-| pt/research/notes/index.html | pt | research | Ashraellen — Notes | ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai | notes, ashraellen, margins, research, doutrina, dúvidas, esse, fragmentos, inacabado, margens, material, parece, ponto |
-| pt/research/position/index.html | pt | research | Ashraellen — Position | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev | position, ashraellen, research, artístico, campo, como, descrição, experiência, experiências, filosofia, independente, interna, modelos |
+| pt/research/notes/index.html | pt | research | Ashraellen — Notes — PT | ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai | notes, ashraellen, margins, research, doutrina, dúvidas, esse, fragmentos, inacabado, margens, material, parece, ponto, public, que, recusa, virar |
+| pt/research/position/index.html | pt | research | Ashraellen — Position — PT | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev | position, ashraellen, como, artístico, campo, descrição, experiência, experiências, filosofia, independente, interna, modelos, research, não, observação, pesquisador, religião, são |
 | pt/research/projects/index.html | pt | research | Ashraellen — Projetos de pesquisa | ashraellen, research, projects, projetos, pesquisa, mapa, dos, campos, trabalho, monolith, canal, principal, campo, público, satíricos, laboratórios, laterais, percepção | ashraellen, projetos, campo, monolith, percepção, pesquisa, research, abrir, aqui, book, campos, canal, church, como, dos, inner, instagram, laboratórios |
 | pt/research/sources/index.html | pt | research | Ashraellen — Fontes e tradição | ashraellen, research, sources, fontes, tradição, fenomenologia, consciência, corpo, narrativa, ciência, cognitiva, prática, artística, edmund, husserl, experiência, antes, das | como, ashraellen, consciência, corpo, fontes, narrativa, tradição, experiência, fenomenologia, forma, research, antes, artística, ciência, cognitiva, com, compreensão, das |
 | ru/books/error-404-god-not-found/index.html | ru | books | Ashraellen — Ошибка 404: Бог не найден | ashraellen, books, error, 404, god, found, ошибка, бог, найден, многоязычный, философско-сатирический, роман-цикл, небесной, канцелярии, неверно, направленном, поиске, бога | 404, бог, найден, ошибка, ashraellen, books, бога, канцелярии, небесной, error, found, god, дело, его, или, истины, книга, книги |
 | ru/books/error-404-god-not-found/why-me/index.html | ru | books | Ashraellen — Почему я? | ashraellen, books, error, 404, god, found, why, почему, первая, книга, цикла, ошибка, бог, найден, философско-сатирический, роман, человеке, который | почему, 404, ashraellen, books, бога, книга, ошибка, error, found, god, why, бог, влад, всё, жалобу, или, канцелярии, книге |
-| ru/books/index.html | ru | books | Ashraellen — Книги | ashraellen, books, книги, монолит, сияние, ошибка, 404, бог, найден, ахепсу, уже, сети, книга, нытия, список, doctype, html, title | ashraellen, книги, 404, books, ахепсу, бог, книга, уже, series, или, истории, канцелярии, которые, монолит, найден, нытия, ошибка, сети |
+| ru/books/index.html | ru | books | Ashraellen — Книги — Russian | ashraellen, books, книги, монолит, сияние, ошибка, 404, бог, найден, ахепсу, уже, сети, книга, нытия, список, doctype, html, title | ashraellen, книги, 404, books, ахепсу, бог, книга, уже, russian, series, или, истории, канцелярии, которые, монолит, найден, нытия, ошибка |
 | ru/books/monolith/beton/index.html | ru | books | Ashraellen — БЕТОН | ashraellen, books, monolith, beton, бетон, первый, том, трилогии, монолит, философская, антиутопия, мире, где, стабильность, становится, тюрьмой, дело, описание | бетон, ashraellen, books, антиутопия, где, мире, монолит, первый, том, трилогии, beton, monolith, быть, дело, который, описание, памяти, слишком |
 | ru/books/monolith/index.html | ru | books | Ashraellen — МОНОЛИТ | ashraellen, books, monolith, монолит, трилогия, социальной, фантастики, антиутопии, философского, киберпанка, контроле, памяти, распаде, систем, серия, тома, том, бетон | монолит, ashraellen, books, контроле, памяти, социальной, трилогия, monolith, антиутопии, без, бетон, газ, жижа, киберпанка, открыть, распаде, серии, серия |
 | ru/books/monolith/sludge/index.html | ru | books | Ashraellen — ЖИЖА | ashraellen, books, monolith, sludge, жижа, второй, том, трилогии, монолит, философская, антиутопия, распаде, формы, превращении, человека, материал, среды, дело | жижа, ashraellen, books, второй, монолит, том, трилогии, monolith, sludge, антиутопия, где, дело, его, история, когда, материал, мире, начинает |
@@ -439,90 +439,90 @@ Pages: 551
 | ru/books/radiance/sampo/index.html | ru | books | Ashraellen — Сампо \| Сияние, книга I | ashraellen, books, radiance, sampo, сампо, сияние, книга, первая, цикла, северное, литературно-философское, сказание, изобилии, владении, участии, мире, где, миф | сампо, книга, сияние, ashraellen, books, без, где, ещё, цикла, radiance, sampo, вещь, владении, вопрос, глава, избранная, издателей, издательский |
 | ru/books/radiance/song/index.html | ru | books | Ashraellen — Песня \| Сияние, книга II | ashraellen, books, radiance, song, песня, сияние, книга, вторая, цикла, расширенная, презентационная, страница, романа, звуке, слышании, языке, варшаве, песне | песня, книга, сияние, ashraellen, books, без, звуке, radiance, song, варшава, варшаве, вторая, глава, город, избранная, издателей, издательский, инструмент |
 | ru/books/seccus/index.html | ru | books | Ashraellen — Сакральная Книга АХЕПСУ | ashraellen, books, seccus, сакральная, книга, ахепсу, путь, честности, философское, исследование, прикладная, психология, метафизика, сознания, самообмане, деньгах, внутренней, свободе | ахепсу, книга, ashraellen, books, аудио-видео, путь, сакральная, сознания, честности, sacrunomicon, seccus, без, внутренней, внутренних, деньгах, исследование, книге, книги |
-| ru/books/the-book-of-whinesis/index.html | ru | books | Ashraellen — Книга Нытия | ashraellen, books, book, whinesis, книга, нытия, священная, сатира, тех, кто, устал, позитивных, вайбов, бесконечной, продуктивности, культа, успеха, книге | книга, нытия, ashraellen, books, кто, book, whinesis, бесконечной, будет, будешь, вайбов, глава, главы, господь, его, ибо, книге, культа |
+| ru/books/the-book-of-whinesis/index.html | ru | books | Ashraellen — Книга Нытия — Russian | ashraellen, books, book, whinesis, книга, нытия, священная, сатира, тех, кто, устал, позитивных, вайбов, бесконечной, продуктивности, культа, успеха, книге | книга, нытия, ashraellen, books, кто, book, russian, whinesis, бесконечной, будет, будешь, вайбов, глава, главы, господь, его, ибо, книге |
 | ru/books/you-are-already-online/index.html | ru | books | Ashraellen — Ты уже в сети | ashraellen, books, you, already, online, уже, сети, иммерсивный, аудиороман, жанре, психологического, триллера, киберпанк-драмы, цифровой, реальности, алгоритмах, гиперреальности, книге | сети, уже, ashraellen, books, глава, already, online, you, алгоритмах, аудиороман, без, было, где, гиперреальности, жанре, идеально, иммерсивный, истончение |
-| ru/contact.html | ru | contact.html | Контакт — Ashraellen | ashraellen, contact, контакт, контактная, страница, сотрудничество, издательские, грантовые, медийные, проектные, запросы, doctype, html, title, function, const, isgithub, location.hostname.endswith | ashraellen, контакт, запросы, издательские, сотрудничество, ashraellen.live, ashraellenchannel, contact, contact.html, telegram, telegram-канал, грантовые, контактная, медийные, обращения, проектные, публичные, связи |
+| ru/contact.html | ru | contact.html | Контакт — Ashraellen — Russian | ashraellen, contact, контакт, контактная, страница, сотрудничество, издательские, грантовые, медийные, проектные, запросы, doctype, html, title, function, const, isgithub, location.hostname.endswith | ashraellen, контакт, запросы, издательские, сотрудничество, ashraellen.live, ashraellenchannel, contact, contact.html, russian, telegram, telegram-канал, грантовые, контактная, медийные, обращения, проектные, публичные |
 | ru/index.html | ru | index.html | Ashraellen — книги, исследования и публичные тексты | ashraellen, книги, исследования, публичные, тексты, многоязычный, авторский, проект, видео, формы, внутреннего, наблюдения, doctype, html, title, function, const, isgithub | ashraellen, исследования, книги, публичные, тексты, видео, формы, deutsch, english, español, index.html, авторский, внутреннего, исследование, многоязычный, наблюдения, проект, публичное |
-| ru/monolith/index.html | ru | monolith | Трилогия МОНОЛИТ — Ashraellen | ashraellen, monolith, трилогия, монолит, три, состояния, контролируемого, распада, бетон, жижа, газ, doctype, html, title, function, const, isgithub, location.hostname.endswith | monolith, бетон, газ, жижа, ashraellen, amazon, books, google, play, английская, боится, версия, внутри, контролируемого, монолит, распада, состояния, том |
+| ru/monolith/index.html | ru | monolith | Трилогия МОНОЛИТ — Ashraellen | ashraellen, monolith, трилогия, монолит, три, состояния, контролируемого, распада, бетон, жижа, газ, doctype, html, title, function, const, isgithub, location.hostname.endswith | monolith, бетон, газ, жижа, контролируемого, монолит, распада, состояния, три, трилогия, ashraellen, amazon, антиутопии, социальной, том, фантастики, философского |
 | ru/privacy.html | ru | privacy.html | Политика конфиденциальности — Ashraellen | ashraellen, privacy, политика, конфиденциальности, ashraellen.com, персональные, данные, аналитика, cookies, права, пользователя, контакт, кто, отвечает, сайт, какие, могут, собираться | данные, конфиденциальности, политика, аналитика, ashraellen, ashraellen.com, cookies, обработки, google, privacy, privacy.html, внешние, данных, если, или, используются, какие, контакт |
 | ru/professional/index.html | ru | professional | Ashraellen — Профессиональное досье | ashraellen, professional, профессиональное, досье, художественно-философское, исследование, смысла, книги, публичные, формы, план, развития, поддержка, контакт, pdf-досье, проектный, бюджет, исследовательское | ashraellen, план, формы, professional, досье, исследование, наблюдения, профессиональное, публичные, развития, смысла, pdf-досье, авторе, архив, бюджет, видео, где, избранные |
 | ru/public/index.html | ru | public | Ashraellen — Публичное | ashraellen, public, публичное, поле, выступления, публикации, опорные, мысли, реакции, наблюдения, где, исследование, встречает, живого, человека, новые, бомбите, народ | ashraellen, публичное, мысли, public, выступления, где, опорные, публикации, человека, встречает, духовность, живого, исследование, масса, мыслей, мысль, наблюдения, новые |
-| ru/public/posts/essay/cycles/cycle-0001.html | ru | public | Ashraellen — Первый цикл мини-эссе | ashraellen, public, posts, essay, cycles, cycle, 0001, первый, цикл, мини-эссе, первого, цикла, власть, над, мыслью, вниманием, тело, первая | мини-эссе, ashraellen, public, его, мыслью, над, первый, прошлое, тело, цикл, cycle, cycles, essay, posts, быть, власть, вниманием, вот |
-| ru/public/posts/essay/cycles/index.html | ru | public | Ashraellen — Циклы мини-эссе | ashraellen, public, posts, essay, cycles, циклы, мини-эссе, завершённые, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | циклы, ashraellen, мини-эссе, public, завершённые, cycle, cycles, essay, mark, posts, presence, будущего, внимание, раздела, текущий, цикл |
-| ru/public/posts/essay/index.html | ru | public | Ashraellen — Мини-эссе | ashraellen, public, posts, essay, мини-эссе, первый, цикл, власть, над, мыслью, вниманием, тело, первая, дверь, цель, прошлое, его, толкование | мини-эссе, ashraellen, public, его, мыслью, над, прошлое, тело, essay, posts, быть, власть, вниманием, вот, дверь, мысль, начинается, она |
-| ru/public/posts/formula/index.html | ru | public | Ashraellen — Формулы | ashraellen, public, posts, formula, формулы, четвёртая, линия, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | ashraellen, public, линия, формулы, formula, posts, быстро, верность, время, всегда, действие, иногда, путь, сила, формула, человек, четвёртая, шаг |
-| ru/public/posts/formula/lines/index.html | ru | public | Ashraellen — Третья линия формул | ashraellen, public, posts, formula, lines, третья, линия, формул, границы, мера, своя, форма, формулы, линии, doctype, html, title, function | ashraellen, public, линия, мера, formula, lines, posts, быть, где, граница, границы, зрелость, иногда, линии, перестаёт, своё, своя, согласие |
-| ru/public/posts/formula/lines/line-0001.html | ru | public | Ashraellen — Первая линия формул | ashraellen, public, posts, formula, lines, line, 0001, первая, линия, формул, мысль, внимание, тело, прошлое, формулы, линии, doctype, html | ashraellen, public, внимание, линия, мысль, первая, тело, formula, line, lines, posts, версия, власть, линии, над, освобождение, осознанность, практика |
-| ru/public/posts/formula/lines/line-0002.html | ru | public | Ashraellen — Вторая линия формул | ashraellen, public, posts, formula, lines, line, 0002, вторая, линия, формул, слово, молчание, смысл, формулы, линии, doctype, html, title | ashraellen, public, линия, молчание, слово, смысл, formula, line, lines, posts, вторая, иногда, когда, линии, место, мысль, объяснение, точность |
-| ru/public/posts/fragment/index.html | ru | public | Ashraellen — Фрагменты | ashraellen, public, posts, fragment, фрагменты, раздел, готовится, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | ashraellen, фрагменты, public, archive, fragment, mark, posts, presence, work, архив, готовится, заметок, здесь, отрывки, рабочих, раздел, текстов |
-| ru/public/posts/index.html | ru | public | Ashraellen — Публикации | ashraellen, public, posts, публикации, разделы, формулы, фрагменты, мини-эссе, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, публикации, public, essay, formula, fragment, mark, posts, presence, мини-эссе, мысль, разделы, формулы, фрагменты, читать |
-| ru/public/posts/sources/index.html | ru | public | Ashraellen — Источники перенесены | ashraellen, public, posts, sources, источники, перенесены, новый, адрес, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, источники, перенесены, public, адрес, mark, moved, posts, presence, sources, больше, исследование, исследовании, когнитивная, которых, новый |
+| ru/public/posts/essay/cycles/cycle-0001.html | ru | public | Ashraellen — Первый цикл мини-эссе | ashraellen, public, posts, essay, cycles, cycle, 0001, первый, цикл, мини-эссе, первого, цикла, власть, над, мыслью, вниманием, тело, первая | первый, цикл, мини-эссе, над, прошлое, тело, его, мыслью, ashraellen, public, власть, вниманием, дверь, первая, первого, толкование, цель, цикла |
+| ru/public/posts/essay/cycles/index.html | ru | public | Ashraellen — Циклы мини-эссе | ashraellen, public, posts, essay, cycles, циклы, мини-эссе, завершённые, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | циклы, мини-эссе, завершённые, цикл, ashraellen, public, девяти, здесь, каждый, находится, основной, раздела, смысловых, текущий, cycles, essay, posts, собраны |
+| ru/public/posts/essay/index.html | ru | public | Ashraellen — Мини-эссе | ashraellen, public, posts, essay, мини-эссе, первый, цикл, власть, над, мыслью, вниманием, тело, первая, дверь, цель, прошлое, его, толкование | мини-эссе, над, один, его, мыслью, прошлое, тело, ashraellen, public, без, власть, вниманием, дверь, первая, первый, толкование, цель, цикл |
+| ru/public/posts/formula/index.html | ru | public | Ashraellen — Формулы — Russian | ashraellen, public, posts, formula, формулы, четвёртая, линия, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | линия, формулы, путь, четвёртая, ashraellen, public, следующая, формула, шаг, formula, posts, russian, верность, время, всегда, иногда, лаконичные, мысль |
+| ru/public/posts/formula/lines/index.html | ru | public | Ashraellen — Третья линия формул | ashraellen, public, posts, formula, lines, третья, линия, формул, границы, мера, своя, форма, формулы, линии, doctype, html, title, function | линия, мера, своя, форма, граница, границы, линии, право, формулы, ashraellen, public, быть, где, перестаёт, своё, третья, формул, формула |
+| ru/public/posts/formula/lines/line-0001.html | ru | public | Ashraellen — Первая линия формул | ashraellen, public, posts, formula, lines, line, 0001, первая, линия, формул, мысль, внимание, тело, прошлое, формулы, линии, doctype, html | мысль, внимание, линия, прошлое, тело, линии, первая, формулы, ashraellen, public, актуальная, формул, формула, человек, formula, line, lines, posts |
+| ru/public/posts/formula/lines/line-0002.html | ru | public | Ashraellen — Вторая линия формул | ashraellen, public, posts, formula, lines, line, 0002, вторая, линия, формул, слово, молчание, смысл, формулы, линии, doctype, html, title | слово, линии, линия, молчание, смысл, вторая, формулы, ashraellen, public, актуальная, когда, формул, формула, formula, line, lines, posts, архивная |
+| ru/public/posts/fragment/index.html | ru | public | Ashraellen — Фрагменты — Russian | ashraellen, public, posts, fragment, фрагменты, раздел, готовится, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | фрагменты, готовится, раздел, ashraellen, public, архив, больших, заметок, здесь, какой, отрывки, рабочих, текстов, fragment, posts, russian, кусок, лежит |
+| ru/public/posts/index.html | ru | public | Ashraellen — Публикации | ashraellen, public, posts, публикации, разделы, формулы, фрагменты, мини-эссе, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | публикации, разделы, мини-эссе, формулы, фрагменты, ashraellen, formula, public, выберите, короткие, лекцией, мысль, наблюдения, posts, она, поймать, разные, способы |
+| ru/public/posts/sources/index.html | ru | public | Ashraellen — Источники перенесены | ashraellen, public, posts, sources, источники, перенесены, новый, адрес, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | источники, перенесены, адрес, новый, ashraellen, public, больше, исследование, исследовании, методологическая, находится, основа, относится, posts, sources, проекта, публикациям, публичным |
 | ru/public/talks/index.html | ru | public | Ashraellen — Выступления | ashraellen, public, talks, выступления, видео, публичные, разборы, ясность, восприятие, сознание, реальность, возвращение, живому, пониманию, список, происходит, после, смерти | ashraellen, sacred, public, taste, ахепсу, видео, выступления, moan, money, revelation, talks, your, youtube, возвращение, восприятие, где, дубляж, души |
-| ru/public/thoughts/01-cheerfulness/index.html | ru | public | Ashraellen — Весёлость как диагностика человека | ashraellen, public, thoughts, cheerfulness, весёлость, диагностика, человека, опорная, мысль, смех, открывает, душу, точнее, чем, правильные, речи, смысл, полный | ashraellen, весёлость, диагностика, человека, public, смех, чем, cheerfulness, thoughts, без, выбрано, говорит, душу, его, если, заметка, или, исследовательская |
-| ru/public/thoughts/02-still-the-same/index.html | ru | public | Ashraellen — Те же силы, новые имена | ashraellen, public, thoughts, still, same, силы, новые, имена, опорная, мысль, современные, тревоги, зависимости, старых, богов, демонов, смысл, полный | ashraellen, имена, новые, public, мысль, опорная, силы, same, still, thoughts, без, боги, богов, выбрано, демонов, его, жизнью, зависимости |
-| ru/public/thoughts/03-let-go/index.html | ru | public | Ashraellen — Пробуждение начинается с невозможности продолжать | ashraellen, public, thoughts, let, пробуждение, начинается, невозможности, продолжать, опорная, мысль, момент, когда, дальше, жить, прежним, способом, больше, нельзя | ashraellen, пробуждение, начинается, продолжать, public, дальше, момент, мысль, невозможности, нельзя, опорная, let, thoughts, больше, вот, выбрано, жить, заметка |
-| ru/public/thoughts/04-mortality-awakens/index.html | ru | public | Ashraellen — Конечность пробуждает вопрос | ashraellen, public, thoughts, mortality, awakens, конечность, пробуждает, вопрос, опорная, мысль, философия, начинается, там, где, заканчиваются, иллюзии, сознание, входит | ashraellen, конечность, вопрос, пробуждает, public, заканчиваются, иллюзии, мысль, опорная, философия, awakens, mortality, thoughts, входит, выбрано, где, думать, заметка |
-| ru/public/thoughts/05-on-your-own/index.html | ru | public | Ashraellen — Страх как механизм контроля | ashraellen, public, thoughts, your, own, страх, механизм, контроля, опорная, мысль, там, где, человек, перестаёт, бояться, начинает, мыслить, самостоятельно | ashraellen, контроля, механизм, страх, public, бояться, власть, где, мыслить, мысль, начинает, самостоятельно, человек, own, thoughts, your, выбрано, заметка |
-| ru/public/thoughts/06-insight/index.html | ru | public | Ashraellen — Глубокий взгляд собирает жизнь | ashraellen, public, thoughts, insight, глубокий, взгляд, собирает, жизнь, опорная, мысль, превращая, ошибки, опыт, цепь, понимания, смысл, полный, текст | ashraellen, взгляд, глубокий, жизнь, собирает, public, мысль, опорная, insight, thoughts, видеть, выбрано, глубже, заметка, исследовательская, когда, начинает, опыт |
-| ru/public/thoughts/arcs/0001-cheerfulness.html | ru | public | Ashraellen — Весёлость как диагностика человека | ashraellen, public, thoughts, arcs, 0001, cheerfulness, весёлость, диагностика, человека, опорная, мысль, смех, открывает, душу, точнее, чем, правильные, речи | ashraellen, весёлость, диагностика, человека, public, мысль, смех, чем, arcs, cheerfulness, thoughts, без, выбрано, говорит, душу, его, если, заметка |
-| ru/public/thoughts/arcs/0002-still-the-same.html | ru | public | Ashraellen — Те же силы, новые имена | ashraellen, public, thoughts, arcs, 0002, still, same, силы, новые, имена, опорная, мысль, современные, тревоги, зависимости, старых, богов, демонов | ashraellen, имена, новые, public, мысль, опорная, силы, arcs, same, still, thoughts, без, боги, богов, выбрано, демонов, его, жизнью |
-| ru/public/thoughts/arcs/0003-let-go.html | ru | public | Ashraellen — Пробуждение начинается с невозможности продолжать | ashraellen, public, thoughts, arcs, 0003, let, пробуждение, начинается, невозможности, продолжать, опорная, мысль, момент, когда, дальше, жить, прежним, способом | ashraellen, пробуждение, начинается, public, больше, дальше, момент, мысль, невозможности, нельзя, продолжать, arcs, let, thoughts, вот, выбрано, жить, заметка |
-| ru/public/thoughts/arcs/0004-mortality-awakens.html | ru | public | Ashraellen — Конечность пробуждает вопрос | ashraellen, public, thoughts, arcs, 0004, mortality, awakens, конечность, пробуждает, вопрос, опорная, мысль, философия, начинается, там, где, заканчиваются, иллюзии | ashraellen, конечность, вопрос, пробуждает, public, заканчиваются, иллюзии, мысль, опорная, философия, arcs, awakens, mortality, thoughts, входит, выбрано, где, думать |
-| ru/public/thoughts/arcs/0005-on-your-own.html | ru | public | Ashraellen — Страх как механизм контроля | ashraellen, public, thoughts, arcs, 0005, your, own, страх, механизм, контроля, опорная, мысль, там, где, человек, перестаёт, бояться, начинает | ashraellen, контроля, механизм, страх, public, бояться, власть, где, мыслить, мысль, начинает, самостоятельно, человек, arcs, own, thoughts, your, выбрано |
-| ru/public/thoughts/arcs/0006-insight.html | ru | public | Ashraellen — Глубокий взгляд собирает жизнь | ashraellen, public, thoughts, arcs, 0006, insight, глубокий, взгляд, собирает, жизнь, опорная, мысль, превращая, ошибки, страдания, цепь, понимания, смысл | ashraellen, взгляд, глубокий, жизнь, собирает, public, мысль, страдания, arcs, insight, thoughts, без, видеть, выбрано, глубже, заметка, исследовательская, начинает |
+| ru/public/thoughts/01-cheerfulness/index.html | ru | public | Ashraellen — Весёлость как диагностика человека — Russian | ashraellen, public, thoughts, cheerfulness, весёлость, диагностика, человека, опорная, мысль, смех, открывает, душу, точнее, чем, правильные, речи, смысл, полный | ashraellen, весёлость, диагностика, человека, public, смех, чем, cheerfulness, russian, thoughts, без, выбрано, говорит, душу, его, если, заметка, или |
+| ru/public/thoughts/02-still-the-same/index.html | ru | public | Ashraellen — Те же силы, новые имена — Russian | ashraellen, public, thoughts, still, same, силы, новые, имена, опорная, мысль, современные, тревоги, зависимости, старых, богов, демонов, смысл, полный | ashraellen, имена, новые, public, мысль, опорная, силы, russian, same, still, thoughts, без, боги, богов, выбрано, демонов, его, жизнью |
+| ru/public/thoughts/03-let-go/index.html | ru | public | Ashraellen — Пробуждение начинается с невозможности продолжать — Russian | ashraellen, public, thoughts, let, пробуждение, начинается, невозможности, продолжать, опорная, мысль, момент, когда, дальше, жить, прежним, способом, больше, нельзя | ashraellen, пробуждение, начинается, продолжать, public, дальше, момент, мысль, невозможности, нельзя, опорная, let, russian, thoughts, больше, вот, выбрано, жить |
+| ru/public/thoughts/04-mortality-awakens/index.html | ru | public | Ashraellen — Конечность пробуждает вопрос — Russian | ashraellen, public, thoughts, mortality, awakens, конечность, пробуждает, вопрос, опорная, мысль, философия, начинается, там, где, заканчиваются, иллюзии, сознание, входит | ashraellen, конечность, вопрос, пробуждает, public, заканчиваются, иллюзии, мысль, опорная, философия, awakens, mortality, russian, thoughts, входит, выбрано, где, думать |
+| ru/public/thoughts/05-on-your-own/index.html | ru | public | Ashraellen — Страх как механизм контроля — Russian | ashraellen, public, thoughts, your, own, страх, механизм, контроля, опорная, мысль, там, где, человек, перестаёт, бояться, начинает, мыслить, самостоятельно | ashraellen, контроля, механизм, страх, public, бояться, власть, где, мыслить, мысль, начинает, самостоятельно, человек, own, russian, thoughts, your, выбрано |
+| ru/public/thoughts/06-insight/index.html | ru | public | Ashraellen — Глубокий взгляд собирает жизнь — Russian | ashraellen, public, thoughts, insight, глубокий, взгляд, собирает, жизнь, опорная, мысль, превращая, ошибки, опыт, цепь, понимания, смысл, полный, текст | ashraellen, взгляд, глубокий, жизнь, собирает, public, мысль, опорная, insight, russian, thoughts, видеть, выбрано, глубже, заметка, исследовательская, когда, начинает |
+| ru/public/thoughts/arcs/0001-cheerfulness.html | ru | public | Ashraellen — Весёлость как диагностика человека — Russian | ashraellen, public, thoughts, arcs, 0001, cheerfulness, весёлость, диагностика, человека, опорная, мысль, смех, открывает, душу, точнее, чем, правильные, речи | ashraellen, весёлость, диагностика, человека, public, мысль, смех, чем, arcs, cheerfulness, russian, thoughts, без, выбрано, говорит, душу, его, если |
+| ru/public/thoughts/arcs/0002-still-the-same.html | ru | public | Ashraellen — Те же силы, новые имена — Russian | ashraellen, public, thoughts, arcs, 0002, still, same, силы, новые, имена, опорная, мысль, современные, тревоги, зависимости, старых, богов, демонов | ashraellen, имена, новые, public, мысль, опорная, силы, arcs, russian, same, still, thoughts, без, боги, богов, выбрано, демонов, его |
+| ru/public/thoughts/arcs/0003-let-go.html | ru | public | Ashraellen — Пробуждение начинается с невозможности продолжать — Russian | ashraellen, public, thoughts, arcs, 0003, let, пробуждение, начинается, невозможности, продолжать, опорная, мысль, момент, когда, дальше, жить, прежним, способом | ashraellen, пробуждение, начинается, public, больше, дальше, момент, мысль, невозможности, нельзя, продолжать, arcs, let, russian, thoughts, вот, выбрано, жить |
+| ru/public/thoughts/arcs/0004-mortality-awakens.html | ru | public | Ashraellen — Конечность пробуждает вопрос — Russian | ashraellen, public, thoughts, arcs, 0004, mortality, awakens, конечность, пробуждает, вопрос, опорная, мысль, философия, начинается, там, где, заканчиваются, иллюзии | ashraellen, конечность, вопрос, пробуждает, public, заканчиваются, иллюзии, мысль, опорная, философия, arcs, awakens, mortality, russian, thoughts, входит, выбрано, где |
+| ru/public/thoughts/arcs/0005-on-your-own.html | ru | public | Ashraellen — Страх как механизм контроля — Russian | ashraellen, public, thoughts, arcs, 0005, your, own, страх, механизм, контроля, опорная, мысль, там, где, человек, перестаёт, бояться, начинает | ashraellen, контроля, механизм, страх, public, бояться, власть, где, мыслить, мысль, начинает, самостоятельно, человек, arcs, own, russian, thoughts, your |
+| ru/public/thoughts/arcs/0006-insight.html | ru | public | Ashraellen — Глубокий взгляд собирает жизнь — Russian | ashraellen, public, thoughts, arcs, 0006, insight, глубокий, взгляд, собирает, жизнь, опорная, мысль, превращая, ошибки, страдания, цепь, понимания, смысл | ashraellen, взгляд, глубокий, жизнь, собирает, public, мысль, страдания, arcs, insight, russian, thoughts, без, видеть, выбрано, глубже, заметка, исследовательская |
 | ru/public/thoughts/arcs/0007-empty-chair.html | ru | public | Ashraellen — Пустой стул | ashraellen, public, thoughts, arcs, 0007, empty, chair, пустой, стул, опорная, мысль, некоторые, люди, уходят, полностью, они, просто, перестают | ashraellen, пустой, стул, public, люди, мысль, некоторые, полностью, просто, arcs, chair, empty, thoughts, всё, выбрано, даже, если, заметка |
 | ru/public/thoughts/arcs/0008-generalization.html | ru | public | Ashraellen — Обобщение вместо наблюдения | ashraellen, public, thoughts, arcs, 0008, generalization, обобщение, вместо, наблюдения, опорная, мысль, становится, опасным, там, где, оно, заменяет, наблюдение | обобщение, ashraellen, вместо, наблюдения, public, где, заменяет, мысль, наблюдение, оно, опасным, опорная, там, arcs, generalization, thoughts, выбрано, готовый |
 | ru/public/thoughts/arcs/0009-where-life-stopped.html | ru | public | Ashraellen — Где ты перестал быть живым | ashraellen, public, thoughts, arcs, 0009, where, life, stopped, где, перестал, быть, живым, опорная, мысль, иногда, проснуться, значит, впервые | быть, где, живым, перестал, ashraellen, public, впервые, значит, иногда, мысль, проснуться, arcs, life, stopped, thoughts, where, выбрано, жизнью |
 | ru/public/thoughts/arcs/0010-dirty-cup.html | ru | public | Ashraellen — Грязная чашка | ashraellen, public, thoughts, arcs, 0010, dirty, cup, грязная, чашка, опорная, мысль, бег, кругу, очищает, чашку, только, делает, бегущего | ashraellen, грязная, public, делает, кругу, мысль, чашка, чашку, arcs, cup, dirty, thoughts, алиса, бег, бегущего, болванщик, всё, выбрано |
 | ru/public/thoughts/arcs/0011-do-not-regret.html | ru | public | Ashraellen — Не сожалей | ashraellen, public, thoughts, arcs, 0011, regret, сожалей, опорная, мысль, иногда, милость, выглядит, потеря, спасение, приходит, под, видом, несбывшейся | ashraellen, сожалей, public, видом, выглядит, иногда, мечты, милость, мысль, несбывшейся, потеря, arcs, regret, thoughts, было, выбрано, заметка, исследовательская |
 | ru/public/thoughts/arcs/0012-close-the-book.html | ru | public | Ashraellen — Когда закрыть книгу | ashraellen, public, thoughts, arcs, 0012, close, book, когда, закрыть, книгу, опорная, мысль, какой-то, момент, путь, продолжается, уже, странице | ashraellen, когда, продолжается, public, закрыть, какой-то, книгу, момент, путь, тишине, arcs, book, close, thoughts, вместо, выбрано, заметка, исследовательская |
-| ru/public/thoughts/arcs/0013-problem-loses-crown.html | ru | public | Ashraellen — Проблема теряет корону | ashraellen, public, thoughts, arcs, 0013, problem, loses, crown, проблема, теряет, корону, опорная, мысль, уничтожена, пафос, смысл, полный, текст | ashraellen, проблема, public, корону, мысль, опорная, пафос, теряет, arcs, crown, loses, problem, thoughts, вашей, выбрано, делать, есть, заметка |
+| ru/public/thoughts/arcs/0013-problem-loses-crown.html | ru | public | Ashraellen — Проблема теряет корону | ashraellen, public, thoughts, arcs, 0013, problem, loses, crown, проблема, теряет, корону, опорная, мысль, уничтожена, пафос, смысл, полный, текст | проблема, корону, теряет, ashraellen, мысль, опорная, уничтожена, public, выбрано, заметка, исследовательская, полный, почему, смысл, текст, 0013, arcs, crown |
 | ru/public/thoughts/arcs/0014-end-of-extra-war.html | ru | public | Ashraellen — Конец лишней войны | ashraellen, public, thoughts, arcs, 0014, end, extra, war, конец, лишней, войны, опорная, мысль, внутреннее, соглашение, тем, есть, поражение | ashraellen, войны, конец, лишней, public, есть, мысль, тем, arcs, end, extra, thoughts, war, внутреннее, всё, выбрано, заметка, исследовательская |
 | ru/public/thoughts/arcs/0015-subtle-thought-needs-silence.html | ru | public | Ashraellen — Тонкая мысль требует тишины | ashraellen, public, thoughts, arcs, 0015, subtle, thought, needs, silence, тонкая, мысль, требует, тишины, опорная, обязана, становиться, грубой, чтобы | мысль, ashraellen, тонкая, требует, public, грубой, заметили, обязана, опорная, смысл, тишины, чтобы, arcs, needs, silence, subtle, thought, thoughts |
 | ru/public/thoughts/arcs/0016-one-fact.html | ru | public | Ashraellen — Факт был один | ashraellen, public, thoughts, arcs, 0016, one, fact, факт, был, один, опорная, мысль, страдания, три, сезона, продолжением, смысл, полный | был, один, факт, ashraellen, public, мысль, опорная, продолжением, сезона, страдания, три, arcs, fact, one, thoughts, выбрано, заметка, значит |
 | ru/public/thoughts/arcs/0017-witness-does-not-interfere.html | ru | public | Ashraellen — Свидетель не мешает истине | ashraellen, public, thoughts, arcs, 0017, witness, does, interfere, свидетель, мешает, истине, опорная, мысль, стать, видимой, раньше, времени, смысл | истине, мешает, свидетель, ashraellen, public, видимой, времени, мысль, опорная, раньше, arcs, does, interfere, thoughts, witness, выбрано, заметка, иногда |
 | ru/public/thoughts/arcs/0018-image-cannot-be-happy.html | ru | public | Ashraellen — Образ не может быть счастлив | ashraellen, public, thoughts, arcs, 0018, image, cannot, happy, образ, может, быть, счастлив, опорная, мысль, получить, признание, смысл, полный | может, быть, образ, счастлив, ashraellen, public, мысль, признание, arcs, cannot, happy, image, thoughts, внутри, вопроса, выбрано, его, заметка |
-| ru/public/thoughts/arcs/0019-do-not-bomb.html | ru | public | Ashraellen — Не бомбите | ashraellen, public, thoughts, arcs, 0019, bomb, бомбите, опорная, мысль, бомбимы, будете, смысл, полный, текст, почему, выбрано, исследовательская, заметка | бомбите, ashraellen, public, бомбимы, будете, мысль, arcs, bomb, thoughts, всегда, выбрано, выпускает, даже, если, заметка, исследовательская, мир, опорная |
-| ru/public/thoughts/arcs/0020-people-and-mass.html | ru | public | Ashraellen — Народ и масса | ashraellen, public, thoughts, arcs, 0020, people, mass, народ, масса, опорная, мысль, помнит, реагирует, смысл, полный, текст, почему, выбрано | ashraellen, масса, народ, public, мысль, помнит, реагирует, arcs, mass, people, thoughts, выбрано, заметка, исследовательская, мне, можно, него, опорная |
+| ru/public/thoughts/arcs/0019-do-not-bomb.html | ru | public | Ashraellen — Не бомбите | ashraellen, public, thoughts, arcs, 0019, bomb, бомбите, опорная, мысль, бомбимы, будете, смысл, полный, текст, почему, выбрано, исследовательская, заметка | бомбите, ashraellen, бомбимы, будете, мысль, опорная, смысл, public, выбрано, заметка, исследовательская, полный, почему, текст, человек, 0019, arcs, bomb |
+| ru/public/thoughts/arcs/0020-people-and-mass.html | ru | public | Ashraellen — Народ и масса | ashraellen, public, thoughts, arcs, 0020, people, mass, народ, масса, опорная, мысль, помнит, реагирует, смысл, полный, текст, почему, выбрано | народ, масса, ashraellen, мысль, опорная, помнит, реагирует, смысл, public, выбрано, заметка, исследовательская, полный, почему, текст, 0020, arcs, mass |
 | ru/public/thoughts/arcs/0021-mating-games.html | ru | public | Ashraellen — Брачные игры | ashraellen, public, thoughts, arcs, 0021, mating, games, брачные, игры, опорная, мысль, отношения, часто, начинаются, роли, которую, человек, уже | ashraellen, брачные, игры, public, мысль, начинаются, отношения, роли, уже, arcs, games, mating, thoughts, быть, всё, выбрано, заметка, исследовательская |
 | ru/public/thoughts/arcs/0022-spirituality-is-not-forced.html | ru | public | Ashraellen — Духовность не навязывается | ashraellen, public, thoughts, arcs, 0022, spirituality, forced, духовность, навязывается, опорная, мысль, подлинная, очаровываются, смысл, полный, текст, почему, выбрано | духовность, навязывается, ashraellen, public, мысль, подлинная, arcs, forced, spirituality, thoughts, выбрано, душа, заметка, исследовательская, может, можно, начинается, нельзя |
-| ru/public/thoughts/arcs/0023-price-of-transition.html | ru | public | Ashraellen — Цена перехода | ashraellen, public, thoughts, arcs, 0023, price, transition, цена, перехода, опорная, мысль, любой, переход, новый, этап, оплачивается, кризисом, смысл | ashraellen, public, кризисом, мысль, оплачивается, переход, перехода, цена, этап, arcs, price, thoughts, transition, всё, выбрано, давно, заметка, или |
-| ru/public/thoughts/arcs/0024-true-enemy-not-ignorance.html | ru | public | Ashraellen — Подлинный враг | ashraellen, public, thoughts, arcs, 0024, true, enemy, ignorance, подлинный, враг, опорная, мысль, подлинным, врагом, человека, является, его, невежество | ashraellen, public, враг, врагом, его, мысль, невежество, подлинный, подлинным, человека, является, arcs, enemy, ignorance, thoughts, true, выбрано, ещё |
+| ru/public/thoughts/arcs/0023-price-of-transition.html | ru | public | Ashraellen — Цена перехода | ashraellen, public, thoughts, arcs, 0023, price, transition, цена, перехода, опорная, мысль, любой, переход, новый, этап, оплачивается, кризисом, смысл | цена, перехода, ashraellen, мысль, переход, этап, public, выбрано, заметка, исследовательская, кризисом, любой, новый, опорная, полный, почему, смысл, текст |
+| ru/public/thoughts/arcs/0024-true-enemy-not-ignorance.html | ru | public | Ashraellen — Подлинный враг | ashraellen, public, thoughts, arcs, 0024, true, enemy, ignorance, подлинный, враг, опорная, мысль, подлинным, врагом, человека, является, его, невежество | враг, подлинный, ashraellen, врагом, мысль, подлинным, человека, public, выбрано, его, заметка, исследовательская, невежество, опорная, полный, почему, смысл, текст |
 | ru/public/thoughts/arcs/arc-0001.html | ru | public | Ashraellen — Первая дуга | ashraellen, public, thoughts, arcs, arc, 0001, первая, дуга, завершённая, смысловая, публичного, поля, шесть, опорных, мыслей, человеке, страхе, пробуждении | ashraellen, дуга, первая, public, взгляд, взгляде, власти, внутреннем, вопрос, начинается, смысловая, arc, arcs, thoughts, весёлость, глубокий, диагностика, жизнь |
-| ru/public/thoughts/arcs/index.html | ru | public | Ashraellen — Смысловые дуги | ashraellen, public, thoughts, arcs, смысловые, дуги, список, завершённых, смысловых, подборок, публичного, поля, первая, дуга, doctype, html, title, function | ashraellen, дуги, смысловые, public, дуга, завершённых, подборок, поля, публичного, смысловых, список, 0001, arcs, mark, thoughts, первая |
+| ru/public/thoughts/arcs/index.html | ru | public | Ashraellen — Смысловые дуги | ashraellen, public, thoughts, arcs, смысловые, дуги, список, завершённых, смысловых, подборок, публичного, поля, первая, дуга, doctype, html, title, function | ashraellen, дуги, смысловые, дуга, завершённых, подборок, поля, публичного, смысловых, список, public, мысли, опорные, первая, arcs, thoughts, смысловая |
 | ru/public/thoughts/index-0001.html | ru | public | Ashraellen — Первая дуга опорных мыслей | ashraellen, public, thoughts, index, 0001, первая, дуга, опорных, мыслей, весёлость, старые, силы, пробуждение, конечность, страх, прозрение, диагностика, человека | ashraellen, дуга, мыслей, опорных, первая, весёлость, конечность, пробуждение, силы, public, страх, index, thoughts, взгляд, вопрос, глубокий, диагностика, жизнь |
 | ru/public/thoughts/index-0002.html | ru | public | Ashraellen — Вторая дуга опорных мыслей | ashraellen, public, thoughts, index, 0002, вторая, дуга, опорных, мыслей, память, наблюдение, пробуждение, грязная, чашка, милость, потери, граница, духовной | ashraellen, вторая, дуга, мыслей, опорных, public, где, грязная, милость, наблюдение, чашка, index, thoughts, быть, вместо, граница, духовной, живым |
 | ru/public/thoughts/index.html | ru | public | Ashraellen — Третья дуга опорных мыслей | ashraellen, public, thoughts, третья, дуга, опорных, мыслей, проблема, теряет, корону, конец, лишней, войны, тонкая, мысль, факт, свидетель, образ | дуга, мыслей, опорных, ashraellen, войны, конец, лишней, мысль, проблема, свидетель, тонкая, третья, public, корону, образ, теряет, факт, thoughts |
 | ru/research/archive/index.html | ru | research | Ashraellen — Архив исследования | ashraellen, research, archive, архив, исследования, исследовательских, материалов, завершённые, версии, прежние, слои, следы, пути, материалы, которые, больше, находятся, живой | ashraellen, архив, research, ещё, живой, исследования, которые, материалов, находятся, пути, archive, mark, presence, больше, версии, движется, завершённые, исследование |
 | ru/research/index.html | ru | research | Ashraellen — Исследование | ashraellen, research, исследование, способ, видеть, художественно-философское, смысла, длиною, жизнь, наблюдение, тем, человек, теряет, контакт, реальностью, смыслом, внутренней, свободой | исследование, ashraellen, research, исследования, человек, архив, видео, видеть, внутренней, внутри, где, делается, длиною, его, жизнь, здесь, знание, или |
 | ru/research/method/index.html | ru | research | Ashraellen — Метод наблюдения | ashraellen, research, method, метод, наблюдения, фиксация, смысловых, узлов, художественная, форма, инструмент, исследования, проверка, через, узнавание, читателя, смысловой, узел | ashraellen, метод, наблюдение, наблюдения, форма, research, здесь, исследования, нет, проверка, художественная, через, method, где, его, инструмент, лица, метода |
-| ru/research/notes/index.html | ru | research | Ashraellen — Notes | ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai | notes, ashraellen, research, margins, public, доктриной, если, задумано, кажется, который, материал, незавершённым |
-| ru/research/position/index.html | ru | research | Ashraellen — Position | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev | position, ashraellen, research, public, внутренний, исследователь, модели, наблюдения, независимый, описания, опыт, опыты |
+| ru/research/notes/index.html | ru | research | Ashraellen — Notes — Russian | ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai | notes, ashraellen, margins, research, public, доктриной, если, задумано, кажется, который, материал, незавершённым, russian, поля, сомнения, становиться, так, фрагменты |
+| ru/research/position/index.html | ru | research | Ashraellen — Position — Russian | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev | position, ashraellen, research, внутренний, исследователь, модели, наблюдения, независимый, описания, опыт, опыты, поле, работаю, russian, рассматривая, реальность, религии, сама |
 | ru/research/projects/index.html | ru | research | Ashraellen — Проекты исследования | ashraellen, research, projects, проекты, исследования, карта, рабочих, полей, монолит, основной, канал, публичное, поле, сатирические, боковые, лаборатории, восприятия, instagram | ashraellen, проекты, research, telegram, боковые, канал, лаборатории, монолит, поле, church, inner, instagram, melodies, occultus, projects, saint, scriptorium, sounds |
 | ru/research/sources/index.html | ru | research | Ashraellen — Источники и традиция | ashraellen, research, sources, источники, традиция, феноменология, сознания, тело, нарратив, когнитивная, наука, художественная, практика, методологические, линии, исследования, эдмунд, гуссерль | ashraellen, источники, тело, традиция, форма, research, варела, исследования, опыт, сознание, сознания, феноменология, sources, взаимодействие, восприятия, где, готовых, гуссерль |
-| uk/books/index.html | uk | books | Ashraellen — Книги | ashraellen, books, книги, романи, великі, проєкти, книги-експерименти, monolith, сакральна, книга, ахепсу, вже, мережі, ниття, список, doctype, html, title | ashraellen, книги, книга, books, monolith, ахепсу, великі, вже, книги-експерименти, мережі, ниття, проєкти, про, романи, сакральна, список |
-| uk/books/monolith/beton/index.html | uk | books | Ashraellen — BETON | ashraellen, books, monolith, beton, том, трилогії, справа, опис, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, monolith, ashraellen, books, том, трилогії, бетон, бути, він, занадто, його, опис, перший, починається, про, справа |
-| uk/books/monolith/index.html | uk | books | Ashraellen — MONOLITH | ashraellen, books, monolith, антиутопічна, трилогія, про, контроль, пам’ять, розпад, систем, серія, томи, том, beton, sludge, iii, gas, doctype | monolith, ashraellen, books, контроль, пам’ять, beton, gas, sludge, антиутопічна, без, видання, відкрити, про, розпад, серія, систем, стабільність, стає |
-| uk/books/monolith/sludge/index.html | uk | books | Ashraellen — SLUDGE | ashraellen, books, monolith, sludge, том, трилогії, справа, опис, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, monolith, ashraellen, books, справа, том, трилогії, вона, людина, людину, одразу, опис, поступово, починає, про |
+| uk/books/index.html | uk | books | Ashraellen — Книги — Ukrainian | ashraellen, books, книги, романи, великі, проєкти, книги-експерименти, monolith, сакральна, книга, ахепсу, вже, мережі, ниття, список, doctype, html, title | ashraellen, книги, книга, books, monolith, ахепсу, великі, вже, книги-експерименти, мережі, ниття, проєкти, ukrainian, про, романи, сакральна, список |
+| uk/books/monolith/beton/index.html | uk | books | Ashraellen — BETON — Ukrainian | ashraellen, books, monolith, beton, том, трилогії, справа, опис, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, справа, monolith, том, починається, трилогії, 2026-001b, ashraellen, books, бетон, він, опис, ukrainian, бути, в’язницю, занадто, звички, індекс |
+| uk/books/monolith/index.html | uk | books | Ashraellen — MONOLITH — Ukrainian | ashraellen, books, monolith, антиутопічна, трилогія, про, контроль, пам’ять, розпад, систем, серія, томи, том, beton, sludge, iii, gas, doctype | monolith, том, ashraellen, beton, books, gas, sludge, пам’ять, серія, соціальної, томи, трилогія, iii, ukrainian, антиутопії, антиутопічна, без, видання |
+| uk/books/monolith/sludge/index.html | uk | books | Ashraellen — SLUDGE — Ukrainian | ashraellen, books, monolith, sludge, том, трилогії, справа, опис, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, справа, monolith, том, трилогії, 2026-001b, ashraellen, books, вона, втомлюється, ламається, людина, одразу, опис, починає, ukrainian, опір, погоджуватися |
 | uk/books/seccus/index.html | uk | books | Ashraellen — САКРАЛЬНА КНИГА АХЕПСУ | ashraellen, books, seccus, сакральна, книга, ахепсу, філософське, дослідження, прикладна, психологія, метафізика, свідомості, про, самообман, чесність, гроші, внутрішню, свободу | ахепсу, книга, сакральна, ashraellen, books, гроші, дослідження, про, seccus, але, аудіо-відео, без, від, внутрішніх, внутрішню, звичка, книги, книгу |
-| uk/books/the-book-of-whinesis/index.html | uk | books | Ashraellen — Книга Нытия | ashraellen, books, book, whinesis, книга, нытия, сакральна, сатира, тих, хто, втомився, від, позитивних, вайбів, нескінченної, продуктивності, культу, успіху | книга, нытия, ashraellen, books, про, хто, book, whinesis, буде, вайбів, від, він, втомився, глава, глави, господь, його, книгу |
+| uk/books/the-book-of-whinesis/index.html | uk | books | Ashraellen — Книга Нытия — Ukrainian | ashraellen, books, book, whinesis, книга, нытия, сакральна, сатира, тих, хто, втомився, від, позитивних, вайбів, нескінченної, продуктивності, культу, успіху | книга, нытия, ashraellen, books, про, хто, book, ukrainian, whinesis, буде, вайбів, від, він, втомився, глава, глави, господь, його |
 | uk/books/you-are-already-online/index.html | uk | books | Ashraellen — Ти вже в мережі | ashraellen, books, you, already, online, вже, мережі, психологічний, технотрилер, про, цифрове, сприйняття, підтвердження, реальність, яка, починає, відповідати, запитання | вже, мережі, ashraellen, books, про, реальність, яка, already, online, you, буде, від, відбувається, відповідати, вона, гачок, дослідницький, запитання |
-| uk/contact.html | uk | contact.html | Контакт — Ashraellen | ashraellen, contact, контакт, контактна, сторінка, співпраця, публікації, гранти, медіа, запити, щодо, проєкту, doctype, html, title, function, const, isgithub | ashraellen, контакт, гранти, запити, медіа, проєкту, публікації, співпраця, contact, contact.html, telegram, telegram-канал, зв’язку, контактна, публічні, сторінка, щодо |
+| uk/contact.html | uk | contact.html | Контакт — Ashraellen — Ukrainian | ashraellen, contact, контакт, контактна, сторінка, співпраця, публікації, гранти, медіа, запити, щодо, проєкту, doctype, html, title, function, const, isgithub | ashraellen, контакт, гранти, запити, медіа, проєкту, публікації, співпраця, contact, contact.html, telegram, telegram-канал, ukrainian, зв’язку, контактна, публічні, сторінка, щодо |
 | uk/index.html | uk | index.html | Ashraellen — книжки, дослідження і публічні тексти | ashraellen, книжки, дослідження, публічні, тексти, багатомовний, авторський, проєкт, поєднує, відео, форми, внутрішнього, спостереження, doctype, html, title, function, const | ashraellen, дослідження, книжки, публічні, тексти, відео, форми, deutsch, english, español, français, index.html, авторський, багатомовний, внутрішнього, поєднує, проєкт, публічне |
-| uk/monolith/index.html | uk | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | monolith, beton, gas, sludge, ashraellen, amazon, google, play, англійською, видання, пам’ять, том, читати |
+| uk/monolith/index.html | uk | monolith | MONOLITH — Ashraellen — Ukrainian | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | monolith, beton, gas, sludge, ashraellen, видання, пам’ять, amazon, google, play, ukrainian, англійською, антиутопічна, контроль, контрольованого, про, розпад, розпаду |
 | uk/privacy.html | uk | privacy.html | Політика конфіденційності — Ashraellen | ashraellen, privacy, політика, конфіденційності, ashraellen.com, персональні, дані, аналітика, cookies, права, користувача, контакт, хто, відповідає, сайт, які, можуть, збиратися | дані, конфіденційності, політика, ashraellen, ashraellen.com, cookies, аналітика, можуть, обробки, google, privacy, privacy.html, або, використовуються, відповідає, даних, збиратися, зовнішні |
 | uk/professional/index.html | uk | professional | Ashraellen — Професійне досьє | ashraellen, professional, професійне, досьє, автор, метод, спостереження, книги, публічні, форми, проєкту, план, розвитку, співпраця, контакт, про, автора, позиція | ashraellen, спостереження, проєкту, публічні, professional, досьє, метод, план, про, проєкт, професійне, роботи, розвитку, форми, автор, автора, архів, вибрані |
 | uk/public/index.html | uk | public | Ashraellen — Публічне | ashraellen, public, публічне, поле, виступи, публікації, опорні, думки, реакції, спостереження, дослідження, зустрічає, живу, людину, нові, бомбіть, народ, маса | ashraellen, публічне, думки, public, виступи, опорні, публікації, вже, відкрити, вона, дослідження, думка, думку, духовність, живу, зустрічає, людину, маса |
-| uk/public/posts/essay/cycles/cycle-0001.html | uk | public | Ashraellen — Перший цикл міні-есе | ashraellen, public, posts, essay, cycles, cycle, 0001, перший, цикл, міні-есе, влада, над, думкою, увагою, тіло, перші, двері, але | перший, цикл, ashraellen, public, але, думкою, минуле, міні-есе, над, тіло, cycle, cycles, essay, posts, бути, влада, вона, двері |
-| uk/public/posts/essay/cycles/index.html | uk | public | Ashraellen — Цикли міні-есе | ashraellen, public, posts, essay, cycles, цикли, міні-есе, завершені, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | цикли, ashraellen, міні-есе, public, завершені, cycle, cycles, essay, mark, posts, presence, головній, зібрані, перший, поточний, цикл |
-| uk/public/posts/essay/index.html | uk | public | Ashraellen — Міні-есе | ashraellen, public, posts, essay, міні-есе, перший, цикл, влада, над, думкою, увагою, тіло, перші, двері, але, мета, минуле, його | міні-есе, ashraellen, public, але, думкою, минуле, над, тіло, essay, posts, бути, влада, вона, двері, думка, живе, його, людина |
-| uk/public/posts/formula/index.html | uk | public | Ashraellen — Формули | ashraellen, public, posts, formula, формули, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | ashraellen, public, формули, formula, posts |
-| uk/public/posts/formula/lines/index.html | uk | public | Ashraellen — Лінія формул | ashraellen, public, posts, formula, lines, лінія, формул, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | ashraellen, public, лінія, формул, formula, lines, posts |
-| uk/public/posts/formula/lines/line-0001.html | uk | public | Ashraellen — Лінія 0001 | ashraellen, public, posts, formula, lines, line, 0001, лінія, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, 0001, public, лінія, formula, line, lines, posts |
-| uk/public/posts/formula/lines/line-0002.html | uk | public | Ashraellen — Лінія 0002 | ashraellen, public, posts, formula, lines, line, 0002, лінія, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, 0002, public, лінія, formula, line, lines, posts |
-| uk/public/posts/fragment/index.html | uk | public | Ashraellen — Фрагменти | ashraellen, public, posts, fragment, фрагменти, список, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean | ashraellen, фрагменти, fragment, public, 002, 006, 014, mark, posts, публікація, скоро, список, тут, фрагмент, щоб |
-| uk/public/posts/index.html | uk | public | Ashraellen — Публікації | ashraellen, public, posts, публікації, розділи, формули, фрагменти, міні-есе, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, публікації, public, essay, formula, fragment, mark, posts, presence, але, міні-есе, розділи, формули, фрагменти, читати |
-| uk/public/posts/sources/index.html | uk | public | Ashraellen — Джерела перенесено | ashraellen, public, posts, sources, джерела, перенесено, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean | ashraellen, джерела, перенесено, public, posts, sources, відкрити, дослідження, когнітивна, методологічна, належать, наратив, наука, основа, практика |
+| uk/public/posts/essay/cycles/cycle-0001.html | uk | public | Ashraellen — Перший цикл міні-есе | ashraellen, public, posts, essay, cycles, cycle, 0001, перший, цикл, міні-есе, влада, над, думкою, увагою, тіло, перші, двері, але | перший, цикл, минуле, міні-есе, над, тіло, але, думкою, ashraellen, public, влада, двері, його, мета, перші, тлумачення, увагою, cycle |
+| uk/public/posts/essay/cycles/index.html | uk | public | Ashraellen — Цикли міні-есе | ashraellen, public, posts, essay, cycles, цикли, міні-есе, завершені, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | цикли, міні-есе, завершені, цикл, перший, ashraellen, public, головній, зібрані, знаходиться, поточний, поточного, розділу, сторінці, cycles, essay, posts, тут |
+| uk/public/posts/essay/index.html | uk | public | Ashraellen — Міні-есе | ashraellen, public, posts, essay, міні-есе, перший, цикл, влада, над, думкою, увагою, тіло, перші, двері, але, мета, минуле, його | міні-есе, над, але, думкою, його, минуле, тіло, ashraellen, public, без, влада, двері, мета, один, перший, перші, тлумачення, увагою |
+| uk/public/posts/formula/index.html | uk | public | Ashraellen — Формули | ashraellen, public, posts, formula, формули, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window | ashraellen, public, формули, archive, artistic, literary, multilingual, part, research, work, formula, posts |
+| uk/public/posts/formula/lines/index.html | uk | public | Ashraellen — Лінія формул — Ukrainian | ashraellen, public, posts, formula, lines, лінія, формул, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | ashraellen, public, ukrainian, лінія, формул, archive, artistic, literary, multilingual, part, research, work, formula, lines, posts |
+| uk/public/posts/formula/lines/line-0001.html | uk | public | Ashraellen — Лінія 0001 — Ukrainian | ashraellen, public, posts, formula, lines, line, 0001, лінія, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, public, 0001, ukrainian, лінія, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts |
+| uk/public/posts/formula/lines/line-0002.html | uk | public | Ashraellen — Лінія 0002 — Ukrainian | ashraellen, public, posts, formula, lines, line, 0002, лінія, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, public, 0002, ukrainian, лінія, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts |
+| uk/public/posts/fragment/index.html | uk | public | Ashraellen — Фрагменти | ashraellen, public, posts, fragment, фрагменти, список, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean | фрагменти, список, щоб, 002, ashraellen, fragment, public, більших, відчути, достатньо, публікація, тут, posts, змісту, знайти, зрозуміти, іноді, лежить |
+| uk/public/posts/index.html | uk | public | Ashraellen — Публікації | ashraellen, public, posts, публікації, розділи, формули, фрагменти, міні-есе, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | публікації, розділи, міні-есе, формули, фрагменти, ashraellen, formula, public, вона, впіймати, встигла, думку, короткі, posts, лекцією, оберіть, різні, способи |
+| uk/public/posts/sources/index.html | uk | public | Ashraellen — Джерела перенесено | ashraellen, public, posts, sources, джерела, перенесено, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean | джерела, перенесено, ashraellen, public, відкрити, дослідження, когнітивна, методологічна, належать, наратив, наука, основа, практика, проєкту, posts, sources, розділу, тепер |
 | uk/public/talks/index.html | uk | public | Ashraellen — Виступи | ashraellen, public, talks, виступи, відео, публічні, розбори, ясність, сприйняття, свідомість, реальність, повернення, живого, розуміння, список, відбувається, після, смерті | ashraellen, sacred, public, taste, ахепсу, виступи, відео, moan, money, revelation, talks, your, youtube, багатомовний, відбувається, відкрити, дубляж, душі |
 | uk/public/thoughts/arcs/0001-cheerfulness.html | uk | public | Ashraellen — Веселість як діагностика людини | ashraellen, public, thoughts, arcs, 0001, cheerfulness, веселість, діагностика, людини, опорна, думка, сміх, часто, відкриває, душу, точніше, ніж, правильні | ashraellen, веселість, людини, public, відкриває, діагностика, думка, ніж, опорна, сміх, arcs, cheerfulness, thoughts, без, вибрано, дослідницька, душу, людина |
 | uk/public/thoughts/arcs/0002-still-the-same.html | uk | public | Ashraellen — Ті самі сили, нові імена | ashraellen, public, thoughts, arcs, 0002, still, same, самі, сили, нові, імена, опорна, думка, сучасні, тривоги, залежності, давніх, богів | ashraellen, імена, нові, public, думка, опорна, самі, сили, arcs, same, still, thoughts, але, без, богів, вибрано, вона, вони |
@@ -536,17 +536,17 @@ Pages: 551
 | uk/public/thoughts/arcs/0010-dirty-cup.html | uk | public | Ashraellen — Брудна чашка | ashraellen, public, thoughts, arcs, 0010, dirty, cup, брудна, чашка, опорна, думка, біг, колу, очищує, чашку, він, тільки, змінює | ashraellen, брудна, public, думка, колу, чашка, чашку, arcs, cup, dirty, thoughts, але, аліса, березневий, біг, біжить, вибрано, він |
 | uk/public/thoughts/arcs/0011-do-not-regret.html | uk | public | Ashraellen — Не шкодуй | ashraellen, public, thoughts, arcs, 0011, regret, шкодуй, опорна, думка, іноді, милість, виглядає, втрата, порятунок, приходить, під, виглядом, нездійсненої | ashraellen, шкодуй, public, виглядає, виглядом, втрата, думка, іноді, милість, мрії, arcs, regret, thoughts, але, вибрано, вона, дослідницька, коли |
 | uk/public/thoughts/arcs/0012-close-the-book.html | uk | public | Ashraellen — Коли закрити книгу | ashraellen, public, thoughts, arcs, 0012, close, book, коли, закрити, книгу, опорна, думка, певний, момент, шлях, триває, вже, сторінці | ashraellen, коли, триває, public, закрити, книгу, момент, певний, тиші, шлях, arcs, book, close, thoughts, але, вже, вибрано, він |
-| uk/public/thoughts/arcs/0013-problem-loses-crown.html | uk | public | Ashraellen — Проблема втрачає корону | ashraellen, public, thoughts, arcs, 0013, problem, loses, crown, проблема, втрачає, корону, опорна, думка, проблему, знищено, але, пафос, так | корону, проблема, ashraellen, public, але, втрачає, думка, знищено, пафос, проблему, так, 0013, arcs, crown, loses, problem, thoughts, вибрано |
+| uk/public/thoughts/arcs/0013-problem-loses-crown.html | uk | public | Ashraellen — Проблема втрачає корону | ashraellen, public, thoughts, arcs, 0013, problem, loses, crown, проблема, втрачає, корону, опорна, думка, проблему, знищено, але, пафос, так | втрачає, корону, проблема, 0013, але, думка, знищено, пафос, проблему, так, ashraellen, public, вибрано, дослідницька, нотатка, опорна, повний, сенс |
 | uk/public/thoughts/arcs/0014-end-of-extra-war.html | uk | public | Ashraellen — Кінець зайвої війни | ashraellen, public, thoughts, arcs, 0014, end, extra, war, кінець, зайвої, війни, опорна, думка, внутрішня, згода, тим, поразка, сенс | війни, зайвої, кінець, ashraellen, public, внутрішня, думка, згода, тим, 0014, arcs, end, extra, thoughts, war, вибрано, від, дослідницька |
-| uk/public/thoughts/arcs/0015-subtle-thought-needs-silence.html | uk | public | Ashraellen — Тонка думка потребує тиші | ashraellen, public, thoughts, arcs, 0015, subtle, thought, needs, silence, тонка, думка, потребує, тиші, опорна, зобов’язана, ставати, грубою, щоб | думка, тонка, ashraellen, public, грубою, зобов’язана, помітили, потребує, сенс, ставати, тиші, щоб, 0015, arcs, needs, silence, subtle, thought |
-| uk/public/thoughts/arcs/0016-one-fact.html | uk | public | Ashraellen — Факт був один | ashraellen, public, thoughts, arcs, 0016, one, fact, факт, був, один, опорна, думка, страждання, три, сезони, продовженням, сенс, повний | був, один, факт, ashraellen, public, думка, продовженням, сезони, страждання, три, 0016, arcs, fact, one, thoughts, вибрано, від, дослідницька |
+| uk/public/thoughts/arcs/0015-subtle-thought-needs-silence.html | uk | public | Ashraellen — Тонка думка потребує тиші | ashraellen, public, thoughts, arcs, 0015, subtle, thought, needs, silence, тонка, думка, потребує, тиші, опорна, зобов’язана, ставати, грубою, щоб | думка, тонка, потребує, тиші, 0015, опорна, сенс, ashraellen, public, вибрано, грубою, дослідницька, зобов’язана, нотатка, повний, текст, чому, щоб |
+| uk/public/thoughts/arcs/0016-one-fact.html | uk | public | Ashraellen — Факт був один | ashraellen, public, thoughts, arcs, 0016, one, fact, факт, був, один, опорна, думка, страждання, три, сезони, продовженням, сенс, повний | був, один, факт, 0016, думка, опорна, страждання, три, ashraellen, public, вибрано, дослідницька, нотатка, повний, продовженням, сенс, текст, чому |
 | uk/public/thoughts/arcs/0017-witness-does-not-interfere.html | uk | public | Ashraellen — Свідок не заважає істині | ashraellen, public, thoughts, arcs, 0017, witness, does, interfere, свідок, заважає, істині, опорна, думка, той, хто, нічого, робить, стати | заважає, істині, свідок, той, хто, ashraellen, public, видимою, думка, нічого, раніше, робить, 0017, arcs, does, interfere, thoughts, witness |
-| uk/public/thoughts/arcs/0018-image-cannot-be-happy.html | uk | public | Ashraellen — Образ не може бути щасливим | ashraellen, public, thoughts, arcs, 0018, image, cannot, happy, образ, може, бути, щасливим, опорна, думка, отримати, визнання, але, він | може, бути, образ, щасливим, ashraellen, public, але, визнання, думка, 0018, arcs, cannot, happy, image, thoughts, вибрано, він, дослідницька |
-| uk/public/thoughts/arcs/0019-do-not-bomb.html | uk | public | Ashraellen — Не бомбіть | ashraellen, public, thoughts, arcs, 0019, bomb, бомбіть, опорна, думка, будете, бомбимі, сенс, повний, текст, чому, вибрано, дослідницька, нотатка | бомбіть, ashraellen, public, бомбимі, будете, думка, 0019, arcs, bomb, thoughts, вибрано, випускає, вона, дослідницька, завжди, людина, навіть, нотатка |
-| uk/public/thoughts/arcs/0020-people-and-mass.html | uk | public | Ashraellen — Народ і маса | ashraellen, public, thoughts, arcs, 0020, people, mass, народ, маса, опорна, думка, пам’ятає, реагує, сенс, повний, текст, чому, вибрано | маса, народ, ashraellen, public, думка, пам’ятає, реагує, 0020, arcs, mass, people, thoughts, вибрано, вона, дослідницька, людина, маси, мені |
+| uk/public/thoughts/arcs/0018-image-cannot-be-happy.html | uk | public | Ashraellen — Образ не може бути щасливим | ashraellen, public, thoughts, arcs, 0018, image, cannot, happy, образ, може, бути, щасливим, опорна, думка, отримати, визнання, але, він | може, образ, бути, щасливим, думка, 0018, ashraellen, public, але, вибрано, визнання, дослідницька, нотатка, опорна, повний, сенс, текст, чому |
+| uk/public/thoughts/arcs/0019-do-not-bomb.html | uk | public | Ashraellen — Не бомбіть | ashraellen, public, thoughts, arcs, 0019, bomb, бомбіть, опорна, думка, будете, бомбимі, сенс, повний, текст, чому, вибрано, дослідницька, нотатка | бомбіть, 0019, бомбимі, будете, думка, сенс, ashraellen, public, вибрано, випускає, дослідницька, людина, нотатка, опорна, повний, світ, текст, чому |
+| uk/public/thoughts/arcs/0020-people-and-mass.html | uk | public | Ashraellen — Народ і маса — Ukrainian | ashraellen, public, thoughts, arcs, 0020, people, mass, народ, маса, опорна, думка, пам’ятає, реагує, сенс, повний, текст, чому, вибрано | народ, маса, 0020, думка, пам’ятає, реагує, сенс, ashraellen, public, вибрано, дослідницька, нотатка, опорна, повний, текст, чому, arcs, mass |
 | uk/public/thoughts/arcs/0021-mating-games.html | uk | public | Ashraellen — Шлюбні ігри | ashraellen, public, thoughts, arcs, 0021, mating, games, шлюбні, ігри, опорна, думка, стосунки, часто, починаються, ролі, яку, вже, принесли | ігри, шлюбні, ashraellen, public, вже, думка, починаються, ролі, стосунки, 0021, arcs, games, mating, thoughts, вибрано, він, вона, дослідницька |
-| uk/public/thoughts/arcs/0022-spirituality-is-not-forced.html | uk | public | Ashraellen — Духовність не нав’язується | ashraellen, public, thoughts, arcs, 0022, spirituality, forced, духовність, нав’язується, опорна, думка, справжня, нею, зачаровуються, сенс, повний, текст, чому | духовність, нав’язується, ashraellen, public, думка, справжня, 0022, arcs, forced, spirituality, thoughts, вибрано, вона, дослідницька, душа, зачаровуються, людину, може |
-| uk/public/thoughts/arcs/0023-price-of-transition.html | uk | public | Ashraellen — Ціна переходу | ashraellen, public, thoughts, arcs, 0023, price, transition, ціна, переходу, опорна, думка, кожен, перехід, новий, етап, оплачується, кризою, сенс | ashraellen, public, думка, етап, кожен, оплачується, переходу, ціна, 0023, arcs, price, thoughts, transition, але, бути, вже, вибрано, вона |
+| uk/public/thoughts/arcs/0022-spirituality-is-not-forced.html | uk | public | Ashraellen — Духовність не нав’язується | ashraellen, public, thoughts, arcs, 0022, spirituality, forced, духовність, нав’язується, опорна, думка, справжня, нею, зачаровуються, сенс, повний, текст, чому | духовність, нав’язується, 0022, думка, справжня, ashraellen, public, вибрано, дослідницька, нотатка, опорна, повний, сенс, текст, чому, arcs, forced, spirituality |
+| uk/public/thoughts/arcs/0023-price-of-transition.html | uk | public | Ashraellen — Ціна переходу | ashraellen, public, thoughts, arcs, 0023, price, transition, ціна, переходу, опорна, думка, кожен, перехід, новий, етап, оплачується, кризою, сенс | переходу, ціна, думка, етап, кожен, кризою, новий, оплачується, сенс, 0023, ashraellen, public, вибрано, дослідницька, нотатка, опорна, перехід, повний |
 | uk/public/thoughts/arcs/0024-true-enemy-not-ignorance.html | uk | public | Ashraellen — Справжній ворог | ashraellen, public, thoughts, arcs, 0024, true, enemy, ignorance, справжній, ворог, опорна, думка, людини, незнання, впевненість, вона, вже, знає | ворог, справжній, ashraellen, public, вже, вона, впевненість, думка, знає, людини, незнання, 0024, arcs, enemy, ignorance, thoughts, true, вибрано |
 | uk/public/thoughts/index-0001.html | uk | public | Ashraellen — Перша дуга опорних думок | ashraellen, public, thoughts, index, 0001, перша, дуга, опорних, думок, веселість, старі, сили, пробудження, скінченність, страх, прозріння, діагностика, людини | ashraellen, дуга, думок, опорних, перша, веселість, сили, public, збирає, пробудження, скінченність, страх, index, thoughts, вже, відкрити, глибший, далі |
 | uk/public/thoughts/index-0002.html | uk | public | Ashraellen — Друга дуга опорних думок | ashraellen, public, thoughts, index, 0002, друга, дуга, опорних, думок, пам’ять, спостереження, пробудження, брудна, чашка, милість, втрати, межа, духовної | ashraellen, друга, дуга, думок, опорних, брудна, спостереження, public, втрати, чашка, index, thoughts, бути, відкрити, думка, думку, духовної, живим |
@@ -554,8 +554,8 @@ Pages: 551
 | uk/research/archive/index.html | uk | research | Ashraellen — Архів дослідження | ashraellen, research, archive, архів, дослідження, дослідницьких, матеріалів, завершені, версії, попередні, шари, сліди, шляху, матеріали, які, вже, перебувають, живій | ashraellen, архів, дослідження, research, вже, живій, матеріалів, перебувають, роботі, шляху, які, archive, mark, версії, відео, дослідницьких, завершені, матеріали |
 | uk/research/index.html | uk | research | Ashraellen — Дослідження | ashraellen, research, дослідження, спосіб, бачити, художньо-філософське, сенсу, завдовжки, життя, спостереження, тим, людина, втрачає, контакт, реальністю, сенсом, внутрішньою, свободою | дослідження, ashraellen, research, людина, метод, сенсу, спостереження, або, архів, бачити, відео, відкрите, відкрити, внутрішньою, втрачає, досліджується, життя, завдовжки |
 | uk/research/method/index.html | uk | research | Ashraellen — Метод спостереження | ashraellen, research, method, метод, спостереження, фіксація, вузлів, сенсу, художня, форма, дослідницький, інструмент, перевірка, через, упізнавання, вузол, поле, дослідження | спостереження, ashraellen, метод, форма, research, немає, перевірка, сенсу, художня, через, method, він, вона, всередині, вузлів, вузол, дослідження, дослідницький |
-| uk/research/notes/index.html | uk | research | Ashraellen — Notes | ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai | notes, ashraellen, research, margins, public, доктриною, здається, матеріал, незавершеним, поля, ставати, сумніви |
-| uk/research/position/index.html | uk | research | Ashraellen — Position | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev | position, ashraellen, research, public, внутрішній, досвід, дослідник, моделі, незалежний, опису, поле, працюю |
+| uk/research/notes/index.html | uk | research | Ashraellen — Notes — Ukrainian | ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai | notes, ashraellen, margins, research, public, доктриною, здається, матеріал, незавершеним, поля, ставати, сумніви, ukrainian, так, треба, фрагменти, хоче, якщо |
+| uk/research/position/index.html | uk | research | Ashraellen — Position — Ukrainian | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev | position, ashraellen, research, внутрішній, досвід, дослідник, моделі, незалежний, опису, поле, працюю, реальність, ukrainian, релігії, розглядаючи, сама, спостереження, стани |
 | uk/research/projects/index.html | uk | research | Ashraellen — Дослідницькі проєкти | ashraellen, research, projects, дослідницькі, проєкти, карта, робочих, полів, monolith, основний, канал, публічне, поле, сатиричні, бічні, лабораторії, сприйняття, instagram | ashraellen, проєкти, monolith, research, бічні, канал, лабораторії, поле, сприйняття, book, church, inner, instagram, melodies, occultus, projects, saint, scriptorium |
 | uk/research/sources/index.html | uk | research | Ashraellen — Джерела і традиція | ashraellen, research, sources, джерела, традиція, феноменологія, свідомості, тіло, наратив, когнітивна, наука, художня, практика, едмунд, гуссерль, досвід, готових, пояснень | ashraellen, джерела, тіло, традиція, research, досвід, дослідження, свідомість, свідомості, феноменологія, sources, варела, взаємодія, видимим, готових, гуссерль, досвіду, еван |
 
@@ -582,13 +582,13 @@ Excerpt:
 
 - lang: be
 - section: books
-- title: Ashraellen — BETON
+- title: Ashraellen — BETON — Belarusian
 - description: BETON — першы том трылогіі MONOLITH. Філасофская антыўтопія пра свет, дзе стабільнасць становіцца турмой.
 - canonical: https://www.ashraellen.com/be/books/monolith/beton/
 - H1: BETON
 - H2: Досье | Апісанне
 - H3: _missing_
-- suggested keyword seed: beton, monolith, ashraellen, books, антыўтопія, дзе, першы, пра, том, трылогіі, апісанне, бетон, быць, досье, занадта, свет, стабільнасць, становіцца
+- suggested keyword seed: beton, monolith, ashraellen, books, антыўтопія, дзе, першы, пра, том, трылогіі, belarusian, апісанне, бетон, быць, досье, занадта, свет, стабільнасць
 - candidates: пра, beton, занадта, першы, том, які, monolith, быць, дзе, трылогіі, антыўтопія, бетон, гісторыя, досье, павінна, памяці, пачынаецца, рэальнасці, свет, свеце, стабільнасць, сцяны, сэнсаў, філасофская
 
 Excerpt:
@@ -599,13 +599,13 @@ Excerpt:
 
 - lang: be
 - section: books
-- title: Ashraellen — MONOLITH
+- title: Ashraellen — MONOLITH — Belarusian
 - description: MONOLITH — трылогія сацыяльнай фантастыкі, антыўтопіі і філасофскага кіберпанку пра кантроль, памяць і распад сістэм.
 - canonical: https://www.ashraellen.com/be/books/monolith/
 - H1: MONOLITH
 - H2: Серыя | Тамы | Фраза серыі
 - H3: Том I — BETON | Том II — SLUDGE | Том III — GAS
-- suggested keyword seed: monolith, ashraellen, books, кантроль, памяць, пра, трылогія, beton, gas, sludge, адкрыць, антыўтопіі, без, кіберпанку, распад, сацыяльнай, серыі, серыя
+- suggested keyword seed: monolith, ashraellen, books, кантроль, памяць, пра, трылогія, belarusian, beton, gas, sludge, адкрыць, антыўтопіі, без, кіберпанку, распад, сацыяльнай, серыі
 - candidates: пра, monolith, том, gas, без, памяць, становіцца, трылогія, beton, sludge, адкрыць, кантроль, распад, сацыяльнай, сістэмы, стабільнасць, антыўтопіі, баіцца, будучыню, дзе, кіберпанку, пачынае, першай, сістэм
 
 Excerpt:
@@ -616,13 +616,13 @@ Excerpt:
 
 - lang: be
 - section: books
-- title: Ashraellen — SLUDGE
+- title: Ashraellen — SLUDGE — Belarusian
 - description: SLUDGE — другі том трылогіі MONOLITH. Філасофская антыўтопія пра распад формы і ператварэнне чалавека ў матэрыял асяроддзя.
 - canonical: https://www.ashraellen.com/be/books/monolith/sludge/
 - H1: SLUDGE
 - H2: Досье | Апісанне
 - H3: _missing_
-- suggested keyword seed: sludge, monolith, ashraellen, books, другі, пра, том, чалавека, антыўтопія, апісанне, асяроддзя, гісторыя, дзе, досье, калі, матэрыял, пачынае, ператварэнне
+- suggested keyword seed: sludge, monolith, ashraellen, books, другі, пра, том, чалавека, belarusian, антыўтопія, апісанне, асяроддзя, гісторыя, дзе, досье, калі, матэрыял, пачынае
 - candidates: пра, sludge, яго, monolith, дзе, калі, том, чалавека, гісторыя, другі, пачынае, становіцца, трылогіі, ўжо, чалавек, 2026-001b, адразу, антыўтопія, асяроддзе, асяроддзя, быў, быць, досье, звонку
 
 Excerpt:
@@ -719,13 +719,13 @@ Excerpt:
 - lang: be
 - section: monolith
 - title: Трылогія MONOLITH — Ashraellen
-- description: Тры станы кантраляванага распаду: BETON. SLUDGE. GAS.
+- description: Тры станы кантраляванага распаду: BETON. SLUDGE. GAS. MONOLITH BETON SLUDGE GAS MONOLITH Тры станы кантраляванага распаду: BETON. SLUDGE. GAS. MONOLITH — трылогія сацыяльнай фантастыкі, антыўтопіі і філасофскага…
 - canonical: https://www.ashraellen.com/be/monolith/
 - H1: MONOLITH
 - H2: BETON | SLUDGE | GAS
 - H3: _missing_
-- suggested keyword seed: monolith, beton, gas, sludge, ashraellen, amazon, books, google, play, англійская, баіцца, версія, кантраляванага, распаду, станы, том, тры, трылогія
-- candidates: gas, том, beton, monolith, sludge, amazon, books, google, play, англійская, баіцца, версія, кантраляванага, па-руску, памяць, пачынае, пра, распаду, сістэмы, становіцца, станы, тры, трылогія, ўнутры
+- suggested keyword seed: monolith, beton, gas, sludge, кантраляванага, распаду, станы, тры, трылогія, ashraellen, amazon, books, антыўтопіі, сацыяльнай, том, фантастыкі, філасофскага
+- candidates: gas, monolith, beton, sludge, том, кантраляванага, распаду, станы, тры, трылогія, amazon, books, google, play, англійская, антыўтопіі, баіцца, версія, па-руску, памяць, пачынае, пра, сацыяльнай, сістэмы
 
 Excerpt:
 
@@ -787,13 +787,13 @@ Excerpt:
 - lang: be
 - section: public
 - title: Ashraellen — Першы цыкл міні-эсэ
-- description: Першы цыкл міні-эсэ Ashraellen па-беларуску: увага, цела, мінулае.
+- description: Першы цыкл міні-эсэ Ashraellen па-беларуску: увага, цела, мінулае. Першы цыкл Міні-эсэ першага цыклу Улада не над думкай, а над увагай Цела — першыя дзверы, але не мэта Мінулае — гэта яго тлумачэнне Першы цыкл Першы…
 - canonical: https://www.ashraellen.com/be/public/posts/essay/cycles/cycle-0001.html
 - H1: Першы цыкл
 - H2: Міні-эсэ першага цыклу | Улада не над думкай, а над увагай | Цела — першыя дзверы, але не мэта | Мінулае — гэта яго тлумачэнне
 - H3: _missing_
-- suggested keyword seed: міні-эсэ, ashraellen, мінулае, першы, цела, цыкл, public, але, думкай, над, cycle, cycles, essay, posts, або, быць, дзверы, думка
-- candidates: але, цела, чалавек, мінулае, пачынаецца, міні-эсэ, думка, думкай, калі, яна, або, быць, вось, жыве, з’яўляецца, першы, першыя, свабода, станавіцца, так, тое, цыкл, часам, яго
+- suggested keyword seed: першы, цыкл, міні-эсэ, над, мінулае, цела, ashraellen, але, думкай, public, дзверы, мэта, першага, першыя, тлумачэнне, увагай, улада, цыклу
+- candidates: але, цела, мінулае, чалавек, міні-эсэ, пачынаецца, першы, думкай, цыкл, думка, калі, над, першыя, яго, яна, або, быць, вось, дзверы, жыве, з’яўляецца, свабода, станавіцца, так
 
 Excerpt:
 
@@ -837,14 +837,14 @@ Excerpt:
 
 - lang: be
 - section: public
-- title: Ashraellen — Формулы
-- description: _missing_
+- title: Ashraellen — Формулы — Belarusian
+- description: Ashraellen — Формулы — Belarusian is part of the Ashraellen multilingual public archive of literary, artistic and research work.
 - canonical: https://www.ashraellen.com/be/public/posts/formula/
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, формулы, formula, posts
-- candidates: ashraellen, формулы
+- suggested keyword seed: ashraellen, public, belarusian, формулы, archive, artistic, literary, multilingual, part, research, work, formula, posts
+- candidates: ashraellen, belarusian, формулы, archive, artistic, literary, multilingual, part, public, research, work
 
 Excerpt:
 
@@ -854,14 +854,14 @@ Excerpt:
 
 - lang: be
 - section: public
-- title: Ashraellen — Лінія формул
-- description: _missing_
+- title: Ashraellen — Лінія формул — Belarusian
+- description: Ashraellen — Лінія формул — Belarusian is part of the Ashraellen multilingual public archive of literary, artistic and research work.
 - canonical: https://www.ashraellen.com/be/public/posts/formula/lines/
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, лінія, формул, formula, lines, posts
-- candidates: ashraellen, лінія, формул
+- suggested keyword seed: ashraellen, public, belarusian, лінія, формул, archive, artistic, literary, multilingual, part, research, work, formula, lines, posts
+- candidates: ashraellen, belarusian, лінія, формул, archive, artistic, literary, multilingual, part, public, research, work
 
 Excerpt:
 
@@ -871,14 +871,14 @@ Excerpt:
 
 - lang: be
 - section: public
-- title: Ashraellen — Лінія 0001
-- description: _missing_
+- title: Ashraellen — Лінія 0001 — Belarusian
+- description: Ashraellen — Лінія 0001 — Belarusian is part of the Ashraellen multilingual public archive of literary, artistic and research work.
 - canonical: https://www.ashraellen.com/be/public/posts/formula/lines/line-0001.html
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, 0001, public, лінія, formula, line, lines, posts
-- candidates: 0001, ashraellen, лінія
+- suggested keyword seed: ashraellen, public, 0001, belarusian, лінія, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts
+- candidates: ashraellen, 0001, belarusian, лінія, archive, artistic, literary, multilingual, part, public, research, work
 
 Excerpt:
 
@@ -888,14 +888,14 @@ Excerpt:
 
 - lang: be
 - section: public
-- title: Ashraellen — Лінія 0002
-- description: _missing_
+- title: Ashraellen — Лінія 0002 — Belarusian
+- description: Ashraellen — Лінія 0002 — Belarusian is part of the Ashraellen multilingual public archive of literary, artistic and research work.
 - canonical: https://www.ashraellen.com/be/public/posts/formula/lines/line-0002.html
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, 0002, public, лінія, formula, line, lines, posts
-- candidates: 0002, ashraellen, лінія
+- suggested keyword seed: ashraellen, public, 0002, belarusian, лінія, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts
+- candidates: ashraellen, 0002, belarusian, лінія, archive, artistic, literary, multilingual, part, public, research, work
 
 Excerpt:
 
@@ -905,14 +905,14 @@ Excerpt:
 
 - lang: be
 - section: public
-- title: Ashraellen — Фрагменты
+- title: Ashraellen — Фрагменты — Belarusian
 - description: Фрагменты Ashraellen па-беларуску: раздзел, які рыхтуецца на аснове вялікага архіва рукапісаў, нататак і публікацый.
 - canonical: https://www.ashraellen.com/be/public/posts/fragment/
 - H1: Фрагменты
 - H2: Раздзел рыхтуецца
 - H3: _missing_
-- suggested keyword seed: ashraellen, фрагменты, раздзел, рыхтуецца, public, архіва, нататак, публікацый, рукапісаў, fragment, posts, архіў, аснове, вялікага, па-беларуску, рабочых, тут, тэкстаў
-- candidates: фрагменты, ashraellen, нататак, архіва, архіў, публікацый, рабочых, раздзел, рукапісаў, рыхтуецца, тут, тэкстаў, які, archive, mark, presence, work, адчуць, апрацоўкі, аснове, будучы, выбар, выбраныя, вытрымкі
+- suggested keyword seed: ashraellen, фрагменты, раздзел, рыхтуецца, public, архіва, нататак, публікацый, рукапісаў, belarusian, fragment, posts, архіў, аснове, вялікага, па-беларуску, рабочых, тут
+- candidates: фрагменты, ashraellen, нататак, архіва, архіў, публікацый, рабочых, раздзел, рукапісаў, рыхтуецца, тут, тэкстаў, які, archive, belarusian, mark, presence, work, адчуць, апрацоўкі, аснове, будучы, выбар, выбраныя
 
 Excerpt:
 
@@ -940,13 +940,13 @@ Excerpt:
 - lang: be
 - section: public
 - title: Ashraellen — Крыніцы перанесены
-- description: _missing_
+- description: Крыніцы перанесены Крыніцы перанесены Крыніцы цяпер належаць да раздзела даследавання як метадалагічная аснова праекта. Адкрыць «Крыніцы і традыцыя» Фенаменалогія, цела, наратыў, кагнітыўная навука і мастацкая практыка…
 - canonical: https://www.ashraellen.com/be/public/posts/sources/
 - H1: Крыніцы перанесены
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, крыніцы, перанесены, public, posts, sources, адкрыць, аснова, даследавання, кагнітыўная, мастацкая, метадалагічная, навука, належаць, наратыў
-- candidates: крыніцы, перанесены, ashraellen, адкрыць, аснова, даследавання, кагнітыўная, мастацкая, метадалагічная, навука, належаць, наратыў, перанесена, праекта, практыка, раздзела, традыцыя, фенаменалогія, цела, цяпер
+- suggested keyword seed: крыніцы, перанесены, ashraellen, public, адкрыць, аснова, даследавання, кагнітыўная, мастацкая, метадалагічная, навука, належаць, наратыў, праекта, posts, sources, практыка, раздзела
+- candidates: крыніцы, перанесены, адкрыць, аснова, даследавання, кагнітыўная, мастацкая, метадалагічная, навука, належаць, наратыў, праекта, практыка, раздзела, традыцыя, фенаменалогія, цела, цяпер, ashraellen, перанесена
 
 Excerpt:
 
@@ -1178,13 +1178,13 @@ Excerpt:
 - lang: be
 - section: public
 - title: Ashraellen — Праблема губляе карону
-- description: Апорная думка 0013: Праблему не знішчылі. Але яе пафас — так.
+- description: Апорная думка 0013: Праблему не знішчылі. Але яе пафас — так. Праблема губляе карону Сэнс Поўны тэкст Чаму выбрана Даследчая нататка Апорная думка 0013 Праблема губляе карону Праблему не знішчылі. Але яе пафас — так.…
 - canonical: https://www.ashraellen.com/be/public/thoughts/arcs/0013-problem-loses-crown.html
 - H1: Праблема губляе карону
 - H2: Сэнс | Поўны тэкст | Чаму выбрана | Даследчая нататка
 - H3: _missing_
-- suggested keyword seed: праблема, ashraellen, public, але, губляе, думка, знішчылі, карону, пафас, праблему, так, 0013, arcs, crown, loses, problem, thoughts, апорная
-- candidates: але, праблему, думка, праблема, ёсць, знішчылі, метад, пафас, таго, так, таму, яна, 0013, апорная, губляе, карону, проста, прыняцце, рабіць, спрабаваў, тваёй, тут, ужо, ўжо
+- suggested keyword seed: губляе, карону, праблема, 0013, але, апорная, думка, знішчылі, пафас, праблему, так, ashraellen, public, выбрана, даследчая, нататка, поўны, сэнс
+- candidates: але, праблему, праблема, думка, губляе, ёсць, знішчылі, карону, пафас, так, 0013, апорная, метад, таго, таму, яна, выбрана, даследчая, нататка, поўны, проста, прыняцце, рабіць, спрабаваў
 
 Excerpt:
 
@@ -1212,13 +1212,13 @@ Excerpt:
 - lang: be
 - section: public
 - title: Ashraellen — Тонкая думка патрабуе цішыні
-- description: Апорная думка 0015: Тонкая думка не абавязана рабіцца грубай, каб яе заўважылі.
+- description: Апорная думка 0015: Тонкая думка не абавязана рабіцца грубай, каб яе заўважылі. Тонкая думка патрабуе цішыні Сэнс Поўны тэкст Чаму выбрана Даследчая нататка Апорная думка 0015 Тонкая думка патрабуе цішыні Тонкая думка…
 - canonical: https://www.ashraellen.com/be/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
 - H1: Тонкая думка патрабуе цішыні
 - H2: Сэнс | Поўны тэкст | Чаму выбрана | Даследчая нататка
 - H3: _missing_
-- suggested keyword seed: думка, тонкая, патрабуе, 0015, ashraellen, public, абавязана, грубай, заўважылі, каб, рабіцца, сэнс, цішыні, arcs, needs, silence, subtle, thought
-- candidates: думка, тонкая, часам, грубай, каб, абавязана, заўважылі, патрабуе, проста, рабіцца, сэнс, 0015, ashraellen, адразу, апорная, думкі, занадта, разуменне, справа, таму, тонкасць, тым, тэкст, ўсё
+- suggested keyword seed: думка, тонкая, патрабуе, цішыні, 0015, апорная, сэнс, ashraellen, public, абавязана, выбрана, грубай, даследчая, заўважылі, каб, нататка, поўны, тэкст
+- candidates: думка, тонкая, патрабуе, часам, грубай, каб, сэнс, цішыні, 0015, абавязана, апорная, заўважылі, проста, рабіцца, тэкст, ashraellen, адразу, выбрана, даследчая, думкі, занадта, нататка, поўны, разуменне
 
 Excerpt:
 
@@ -1229,13 +1229,13 @@ Excerpt:
 - lang: be
 - section: public
 - title: Ashraellen — Факт быў адзін
-- description: Апорная думка 0016: Факт быў адзін. А пакуты — на тры сезоны з працягам.
+- description: Апорная думка 0016: Факт быў адзін. А пакуты — на тры сезоны з працягам. Факт быў адзін Сэнс Поўны тэкст Чаму выбрана Даследчая нататка Апорная думка 0016 Факт быў адзін Факт быў адзін. А пакуты — на тры сезоны з…
 - canonical: https://www.ashraellen.com/be/public/thoughts/arcs/0016-one-fact.html
 - H1: Факт быў адзін
 - H2: Сэнс | Поўны тэкст | Чаму выбрана | Даследчая нататка
 - H3: _missing_
-- suggested keyword seed: адзін, быў, факт, 0016, ashraellen, public, думка, пакуты, працягам, сезоны, тры, arcs, fact, one, thoughts, апорная, выбрана, даследчая
-- candidates: адзін, быў, думка, факт, значыць, пакуты, нехта, працягам, розум, сезоны, тры, 0016, адказаў, апорная, ведаю, дадумвай, дакладна, коратка, лішняга, нешта, паглядзеў, падзеі, рэальнасць, сказаў
+- suggested keyword seed: адзін, быў, факт, 0016, апорная, думка, пакуты, сезоны, тры, ashraellen, public, выбрана, даследчая, нататка, поўны, працягам, сэнс, тэкст
+- candidates: адзін, быў, факт, думка, пакуты, значыць, сезоны, тры, 0016, апорная, нехта, працягам, розум, тэкст, адказаў, ведаю, выбрана, дадумвай, дакладна, даследчая, коратка, лішняга, нататка, нешта
 
 Excerpt:
 
@@ -1280,13 +1280,13 @@ Excerpt:
 - lang: be
 - section: public
 - title: Ashraellen — Не бамбіце
-- description: Апорная думка 0019: не бамбіце — і не будзеце бамбімыя.
+- description: Апорная думка 0019: не бамбіце — і не будзеце бамбімыя. Не бамбіце Сэнс Поўны тэкст Чаму выбрана Даследчая нататка Апорная думка 0019 Не бамбіце Не бамбіце — і не будзеце бамбімыя. Сэнс Чалавек часта выпускае ў свет…
 - canonical: https://www.ashraellen.com/be/public/thoughts/arcs/0019-do-not-bomb.html
 - H1: Не бамбіце
 - H2: Сэнс | Поўны тэкст | Чаму выбрана | Даследчая нататка
 - H3: _missing_
-- suggested keyword seed: бамбіце, 0019, ashraellen, public, бамбімыя, будзеце, думка, arcs, bomb, thoughts, апорная, выбрана, выпускае, даследчая, заўсёды, нават, нататка, потым
-- candidates: бамбіце, думка, потым, чалавек, свет, спачатку, бамбімыя, будзеце, заўсёды, выпускае, нават, 0019, але, апорная, бамбіць, вакол, вельмі, відавочная, высакародную, грубасць, гэтая, жыве, занадта, здзіўляецца
+- suggested keyword seed: бамбіце, 0019, апорная, бамбімыя, будзеце, думка, сэнс, ashraellen, public, выбрана, выпускае, даследчая, нататка, поўны, свет, тэкст, чалавек, чаму
+- candidates: бамбіце, думка, чалавек, потым, свет, бамбімыя, будзеце, спачатку, выпускае, заўсёды, 0019, апорная, нават, сэнс, тэкст, але, бамбіць, вакол, вельмі, відавочная, выбрана, высакародную, грубасць, гэтая
 
 Excerpt:
 
@@ -1296,14 +1296,14 @@ Excerpt:
 
 - lang: be
 - section: public
-- title: Ashraellen — Народ і маса
-- description: Апорная думка 0020: народ памятае. Маса рэагуе.
+- title: Ashraellen — Народ і маса — Belarusian
+- description: Апорная думка 0020: народ памятае. Маса рэагуе. Народ і маса Сэнс Поўны тэкст Чаму выбрана Даследчая нататка Апорная думка 0020 Народ і маса Народ памятае. Маса рэагуе. Сэнс Народ складаецца з твараў, памяці, мовы і…
 - canonical: https://www.ashraellen.com/be/public/thoughts/arcs/0020-people-and-mass.html
 - H1: Народ і маса
 - H2: Сэнс | Поўны тэкст | Чаму выбрана | Даследчая нататка
 - H3: _missing_
-- suggested keyword seed: маса, народ, 0020, ashraellen, public, думка, памятае, рэагуе, arcs, mass, people, thoughts, апорная, выбрана, даследчая, масы, мне, можна
-- candidates: народ, маса, чалавек, думка, можна, плынь, яго, масы, мне, памятае, рэагуе, 0020, абудзіць, апорная, думае, душы, каго, лёгка, людзей, мае, назваць, народа, памяць, пачынае
+- suggested keyword seed: народ, маса, 0020, апорная, думка, памятае, рэагуе, сэнс, ashraellen, public, выбрана, даследчая, нататка, поўны, тэкст, чаму, arcs, belarusian
+- candidates: народ, маса, чалавек, думка, можна, памятае, плынь, рэагуе, яго, 0020, апорная, масы, мне, складаецца, сэнс, твараў, тэкст, абудзіць, выбрана, даследчая, думае, душы, каго, лёгка
 
 Excerpt:
 
@@ -1331,13 +1331,13 @@ Excerpt:
 - lang: be
 - section: public
 - title: Ashraellen — Духоўнасць не навязваецца
-- description: Апорная думка 0022: сапраўдная духоўнасць не навязваецца. Ёю зачароўваюцца.
+- description: Апорная думка 0022: сапраўдная духоўнасць не навязваецца. Ёю зачароўваюцца. Духоўнасць не навязваецца Сэнс Поўны тэкст Чаму выбрана Даследчая нататка Апорная думка 0022 Духоўнасць не навязваецца Сапраўдная духоўнасць…
 - canonical: https://www.ashraellen.com/be/public/thoughts/arcs/0022-spirituality-is-not-forced.html
 - H1: Духоўнасць не навязваецца
 - H2: Сэнс | Поўны тэкст | Чаму выбрана | Даследчая нататка
 - H3: _missing_
-- suggested keyword seed: духоўнасць, навязваецца, ashraellen, public, думка, зачароўваюцца, сапраўдная, 0022, arcs, forced, spirituality, thoughts, апорная, выбрана, даследчая, душа, можа, можна
-- candidates: духоўнасць, сапраўдная, можа, таму, думка, навязваецца, нарадзіць, страх, чалавека, душа, зачароўваюцца, можна, немагчыма, пачынаецца, стаць, 0022, але, апорная, душы, жывую, жывым, звычку, знешнюю, крыніцай
+- suggested keyword seed: духоўнасць, навязваецца, 0022, апорная, думка, сапраўдная, ashraellen, public, выбрана, даследчая, нататка, поўны, сэнс, тэкст, чаму, arcs, forced, spirituality
+- candidates: духоўнасць, сапраўдная, навязваецца, думка, можа, таму, нарадзіць, страх, чалавека, 0022, апорная, душа, зачароўваюцца, можна, немагчыма, пачынаецца, стаць, тэкст, але, выбрана, даследчая, душы, жывую, жывым
 
 Excerpt:
 
@@ -1348,13 +1348,13 @@ Excerpt:
 - lang: be
 - section: public
 - title: Ashraellen — Кошт пераходу
-- description: Апорная думка 0023: кожны пераход на новы этап аплачваецца крызісам.
+- description: Апорная думка 0023: кожны пераход на новы этап аплачваецца крызісам. Кошт пераходу Сэнс Поўны тэкст Чаму выбрана Даследчая нататка Апорная думка 0023 Кошт пераходу Кожны пераход на новы этап аплачваецца крызісам. Сэнс…
 - canonical: https://www.ashraellen.com/be/public/thoughts/arcs/0023-price-of-transition.html
 - H1: Кошт пераходу
 - H2: Сэнс | Поўны тэкст | Чаму выбрана | Даследчая нататка
 - H3: _missing_
-- suggested keyword seed: кошт, ashraellen, public, аплачваецца, думка, кожны, пераходу, этап, 0023, arcs, price, thoughts, transition, але, апорная, быць, выбрана, даследчая
-- candidates: крызіс, яго, думка, кошт, няма, аплачваецца, даўно, кожны, так, этап, але, быць, інакш, крызісам, новы, пераход, пераходу, ролі, самы, сваёй, сябе, той, ўвайсці, ўжо
+- suggested keyword seed: кошт, пераходу, аплачваецца, думка, кожны, крызісам, новы, сэнс, этап, 0023, ashraellen, public, апорная, выбрана, даследчая, нататка, пераход, поўны
+- candidates: кошт, крызіс, думка, яго, аплачваецца, кожны, няма, пераходу, этап, даўно, крызісам, новы, пераход, так, 0023, але, апорная, быць, інакш, ролі, самы, сваёй, сэнс, сябе
 
 Excerpt:
 
@@ -1399,13 +1399,13 @@ Excerpt:
 - lang: be
 - section: public
 - title: Ashraellen — Дуга 0002
-- description: Другая дуга апорных думак Ashraellen.
+- description: Другая дуга апорных думак Ashraellen. Другая дуга апорных думак Пустое крэсла Абагульненне замест назірання Дзе спынілася жыццё Брудны кубак Не шкадуй Калі закрыць кнігу Апорныя думкі ДУГА 0002 Другая дуга апорных…
 - canonical: https://www.ashraellen.com/be/public/thoughts/index-0002.html
 - H1: Другая дуга апорных думак
 - H2: Пустое крэсла | Абагульненне замест назірання | Дзе спынілася жыццё | Брудны кубак | Не шкадуй | Калі закрыць кнігу
 - H3: _missing_
-- suggested keyword seed: ashraellen, дуга, апорных, другая, думак, 0002, public, абагульненне, дзе, index, thoughts, адкрыць, апорная, брудны, думка, думку, жыццё, закрыць
-- candidates: адкрыць, апорная, дуга, думка, думку, 0002, ashraellen, абагульненне, апорных, дзе, другая, думак, кубак, назіранне, страта, 0007, 0008, 0009, 0010, 0011, 0012, mark, presence, апорныя
+- suggested keyword seed: дуга, апорных, другая, думак, 0002, ashraellen, абагульненне, дзе, кубак, public, брудны, жыццё, закрыць, замест, калі, кнігу, крэсла, назірання
+- candidates: дуга, адкрыць, апорная, думка, думку, апорных, другая, 0002, абагульненне, дзе, думак, кубак, ashraellen, апорныя, брудны, думкі, жыццё, закрыць, замест, калі, кнігу, крэсла, назіранне, назірання
 
 Excerpt:
 
@@ -1568,14 +1568,14 @@ Excerpt:
 
 - lang: de
 - section: books
-- title: Ashraellen — BETON
-- description: BETON — Band I der MONOLITH-Trilogie.
+- title: Ashraellen — BETON — German
+- description: BETON — Band I der MONOLITH-Trilogie. BETON Akte Beschreibung BETON Band I der MONOLITH-Trilogie. Akte Band I Beton beginnt nicht mit einer Wand. Er beginnt mit der Gewohnheit, ein Gefängnis Stabilität zu nennen. AKTE…
 - canonical: https://www.ashraellen.com/de/books/monolith/beton/
 - H1: BETON
 - H2: Akte | Beschreibung
 - H3: _missing_
-- suggested keyword seed: beton, ashraellen, band, books, der, monolith-trilogie, akte, beginnt, beschreibung, des, die, ein, eine, einer, ist, monolith, und
-- candidates: der, ist, beton, die, ein, und, band, beginnt, des, eine, einer, monolith-trilogie, über, welt, akte, ausgabe, bedeutungen, das, den, erste, mit, nicht, nur, stabilität
+- suggested keyword seed: beton, akte, band, der, beginnt, mit, monolith-trilogie, ashraellen, beschreibung, books, ein, einer, die, gefängnis, german, gewohnheit, ist, monolith
+- candidates: beton, der, ist, band, ein, akte, beginnt, die, und, einer, mit, monolith-trilogie, des, eine, nicht, stabilität, über, welt, ausgabe, bedeutungen, beschreibung, das, den, erste
 
 Excerpt:
 
@@ -1585,13 +1585,13 @@ Excerpt:
 
 - lang: de
 - section: books
-- title: Ashraellen — MONOLITH
+- title: Ashraellen — MONOLITH — German
 - description: MONOLITH — eine dystopische Trilogie über Kontrolle, Erinnerung und den Zerfall von Systemen.
 - canonical: https://www.ashraellen.com/de/books/monolith/
 - H1: MONOLITH
 - H2: Serie | Bände
 - H3: Band I — BETON | Band II — SLUDGE | Band III — GAS
-- suggested keyword seed: monolith, ashraellen, books, eine, erinnerung, und, band, bände, beton, den, der, die, dystopische, gas, ist, kontrolle, ohne, serie
+- suggested keyword seed: monolith, ashraellen, books, eine, erinnerung, und, band, bände, beton, den, der, die, dystopische, gas, german, ist, kontrolle, ohne
 - candidates: band, die, monolith, wird, der, erinnerung, gas, ohne, und, beton, eine, ist, öffnen, sludge, stabilität, von, auf, aus, dem, den, endgültige, form, halten, kontrolle
 
 Excerpt:
@@ -1602,14 +1602,14 @@ Excerpt:
 
 - lang: de
 - section: books
-- title: Ashraellen — SLUDGE
-- description: SLUDGE — Band II der MONOLITH-Trilogie.
+- title: Ashraellen — SLUDGE — German
+- description: SLUDGE — Band II der MONOLITH-Trilogie. SLUDGE Akte Beschreibung SLUDGE Band II der MONOLITH-Trilogie. Akte Band II Ein Mensch zerbricht nicht sofort. Zuerst wird er müde, Widerstand zu leisten. Dann beginnt er…
 - canonical: https://www.ashraellen.com/de/books/monolith/sludge/
 - H1: SLUDGE
 - H2: Akte | Beschreibung
 - H3: _missing_
-- suggested keyword seed: sludge, ashraellen, band, books, der, monolith-trilogie, akte, beschreibung, die, ein, eine, ist, mensch, monolith, nicht, sie, und
-- candidates: der, die, ist, sludge, und, band, nicht, ein, eine, mensch, monolith-trilogie, sie, über, wird, akte, allmählich, als, ausgabe, beginnt, das, den, form, geschichte, menschen
+- suggested keyword seed: sludge, akte, band, der, monolith-trilogie, ashraellen, beschreibung, books, ein, mensch, nicht, wird, beginnt, dann, die, german, ist, leisten
+- candidates: der, sludge, band, die, ist, nicht, und, akte, ein, mensch, monolith-trilogie, wird, beginnt, eine, sie, sofort, über, allmählich, als, ausgabe, beschreibung, dann, das, den
 
 Excerpt:
 
@@ -1636,7 +1636,7 @@ Excerpt:
 
 - lang: de
 - section: books
-- title: Ashraellen — The Book of Whinesis
+- title: Ashraellen — The Book of Whinesis — German
 - description: The Book of Whinesis — sakrale Satire für alle, die von positiven Vibes, endloser Produktivität und dem Kult des Erfolgs müde geworden sind.
 - canonical: https://www.ashraellen.com/de/books/the-book-of-whinesis/
 - H1: The Book of Whinesis
@@ -1670,13 +1670,13 @@ Excerpt:
 
 - lang: de
 - section: contact.html
-- title: Kontakt — Ashraellen
+- title: Kontakt — Ashraellen — German
 - description: Kontaktseite von Ashraellen: Zusammenarbeit, Publikationen, Förderungen, Medien und Projektanfragen.
 - canonical: https://www.ashraellen.com/de/contact.html
 - H1: Kontakt
 - H2: Ashraellen
 - H3: _missing_
-- suggested keyword seed: ashraellen, kontakt, förderungen, medien, projektanfragen, und, von, zusammenarbeit, contact, contact.html, der, dient, kontaktseite, kostyshev, öffentliche, publikationen
+- suggested keyword seed: ashraellen, kontakt, förderungen, medien, projektanfragen, und, von, zusammenarbeit, contact, contact.html, der, dient, german, kontaktseite, kostyshev, öffentliche, publikationen
 - candidates: und, ashraellen, der, förderungen, medien, von, zusammenarbeit, dient, kontakt, kostyshev, öffentliche, projektanfragen, publikationen, telegram-kanal, telegram-kontakt, ashraellen-projekten, ashraellen.live, ashraellenchannel, ashraellenlive, direkt, direkten, ein, email, europäische
 
 Excerpt:
@@ -1704,14 +1704,14 @@ Excerpt:
 
 - lang: de
 - section: monolith
-- title: MONOLITH — Ashraellen
-- description: MONOLITH: BETON. SLUDGE. GAS.
+- title: MONOLITH — Ashraellen — German
+- description: MONOLITH: BETON. SLUDGE. GAS. MONOLITH BETON SLUDGE GAS MONOLITH Drei Zustände kontrollierten Zerfalls: BETON. SLUDGE. GAS. MONOLITH ist eine dystopische Trilogie über Kontrolle, Erinnerung und den Zerfall von Systemen…
 - canonical: https://www.ashraellen.com/de/monolith/
 - H1: MONOLITH
 - H2: BETON | SLUDGE | GAS
 - H3: _missing_
-- suggested keyword seed: monolith, beton, gas, sludge, ashraellen, amazon, auf, band, bei, die, englisch, erinnerung, vorbereitung
-- candidates: gas, monolith, amazon, auf, band, beton, die, sludge, vorbereitung, bei, englisch, erinnerung, ist, lesen, wird, ashraellen, ausgabe, ausgaben, bearbeitet, beginnt, dem, den, derzeit, deutsche
+- suggested keyword seed: monolith, beton, gas, sludge, ashraellen, erinnerung, ist, amazon, auf, band, bei, den, die, drei, dystopische, eine, german, kontrolle
+- candidates: monolith, gas, beton, sludge, amazon, auf, band, die, erinnerung, ist, vorbereitung, bei, den, drei, dystopische, eine, englisch, kontrolle, kontrollierten, lesen, systemen, trilogie, über, und
 
 Excerpt:
 
@@ -1773,13 +1773,13 @@ Excerpt:
 - lang: de
 - section: public
 - title: Ashraellen — Erster Mini-Essay-Zyklus
-- description: _missing_
+- description: Erster Zyklus Erster Zyklus Macht nicht über den Gedanken, sondern über die Aufmerksamkeit Der Körper ist die erste Tür, aber nicht das Ziel Die Vergangenheit ist ihre Deutung Erster Zyklus Der erste abgeschlossene…
 - canonical: https://www.ashraellen.com/de/public/posts/essay/cycles/cycle-0001.html
 - H1: Erster Zyklus
 - H2: Erster Zyklus | Macht nicht über den Gedanken, sondern über die Aufmerksamkeit | Der Körper ist die erste Tür, aber nicht das Ziel | Die Vergangenheit ist ihre Deutung
 - H3: _missing_
-- suggested keyword seed: die, erster, ist, nicht, ashraellen, das, der, körper, public, über, vergangenheit, zyklus, aber, aufmerksamkeit, aus, beginnt, cycle, cycles
-- candidates: der, nicht, die, ist, das, ein, vergangenheit, aus, mensch, mit, beginnt, körper, selbst, sich, und, wir, dem, gedanken, sie, sondern, werden, aber, als, aufmerksamkeit
+- suggested keyword seed: die, erster, ist, nicht, zyklus, der, über, das, erste, körper, vergangenheit, aber, ashraellen, aufmerksamkeit, den, deutung, gedanken, ihre
+- candidates: der, nicht, die, ist, das, vergangenheit, ein, aus, körper, mensch, mit, beginnt, gedanken, selbst, sich, sondern, und, wir, aber, aufmerksamkeit, dem, den, erste, sie
 
 Excerpt:
 
@@ -1790,13 +1790,13 @@ Excerpt:
 - lang: de
 - section: public
 - title: Ashraellen — Mini-Essay-Zyklen
-- description: _missing_
+- description: Mini-Essay-Zyklen Abgeschlossene Zyklen Mini-Essay-Zyklen Hier sind abgeschlossene Zyklen der Mini-Essays gesammelt. Der aktuelle Zyklus befindet sich auf der Hauptseite des Abschnitts. Abgeschlossene Zyklen zum…
 - canonical: https://www.ashraellen.com/de/public/posts/essay/cycles/
 - H1: Mini-Essay-Zyklen
 - H2: Abgeschlossene Zyklen
 - H3: _missing_
-- suggested keyword seed: ashraellen, mini-essay-zyklen, abgeschlossene, public, zyklen, abschnitts, aktuelle, aktuellen, aktueller, auf, aufmerksamkeit, cycles, der, essay, posts, zyklus
-- candidates: der, zyklus, abgeschlossene, mini-essay-zyklen, zyklen, abschnitts, aktuelle, aktuellen, aktueller, ashraellen, auf, aufmerksamkeit, befindet, cycle, des, erste, erster, gesammelt, hauptseite, hier, körper, mark, mini-essay-zyklus, mini-essays
+- suggested keyword seed: abgeschlossene, mini-essay-zyklen, zyklen, der, abschnitts, aktuelle, ashraellen, auf, befindet, des, gesammelt, hauptseite, public, zyklus, cycles, essay, hier, mini-essays
+- candidates: der, abgeschlossene, zyklen, zyklus, mini-essay-zyklen, abschnitts, aktuelle, auf, befindet, des, gesammelt, hauptseite, hier, mini-essays, sich, sind, zum, aktuellen, aktueller, ashraellen, aufmerksamkeit, cycle, erste, erster
 
 Excerpt:
 
@@ -1806,14 +1806,14 @@ Excerpt:
 
 - lang: de
 - section: public
-- title: Ashraellen — Mini-Essays
-- description: _missing_
+- title: Ashraellen — Mini-Essays — German
+- description: Mini-Essays Erster Zyklus Macht nicht über den Gedanken, sondern über die Aufmerksamkeit Der Körper ist die erste Tür, aber nicht das Ziel Die Vergangenheit ist ihre Deutung Mini-Essays Kurze Betrachtungen: eine Frage,…
 - canonical: https://www.ashraellen.com/de/public/posts/essay/
 - H1: Mini-Essays
 - H2: Erster Zyklus | Macht nicht über den Gedanken, sondern über die Aufmerksamkeit | Der Körper ist die erste Tür, aber nicht das Ziel | Die Vergangenheit ist ihre Deutung
 - H3: _missing_
-- suggested keyword seed: die, ist, nicht, ashraellen, das, der, mini-essays, public, über, vergangenheit, aber, aufmerksamkeit, aus, beginnt, den, deutung, ein, erste
-- candidates: der, nicht, die, ist, ein, das, vergangenheit, aus, mensch, mit, und, beginnt, selbst, sich, wir, dem, gedanken, körper, sie, sondern, werden, aber, als, den
+- suggested keyword seed: die, ist, nicht, mini-essays, über, das, der, vergangenheit, aber, ashraellen, aufmerksamkeit, den, deutung, erste, erster, gedanken, ihre, körper
+- candidates: der, nicht, die, ist, ein, das, vergangenheit, aus, mensch, mit, und, beginnt, gedanken, körper, selbst, sich, sondern, wir, aber, dem, den, eine, sie, werden
 
 Excerpt:
 
@@ -1824,13 +1824,13 @@ Excerpt:
 - lang: de
 - section: public
 - title: Ashraellen — Formeln
-- description: _missing_
+- description: Ashraellen — Formeln is part of the Ashraellen multilingual public archive of literary, artistic and research work.
 - canonical: https://www.ashraellen.com/de/public/posts/formula/
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, formeln, public, formula, posts
-- candidates: ashraellen, formeln
+- suggested keyword seed: ashraellen, public, formeln, archive, artistic, literary, multilingual, part, research, work, formula, posts
+- candidates: ashraellen, formeln, archive, artistic, literary, multilingual, part, public, research, work
 
 Excerpt:
 
@@ -1841,13 +1841,13 @@ Excerpt:
 - lang: de
 - section: public
 - title: Ashraellen — Formellinie
-- description: _missing_
+- description: Ashraellen — Formellinie is part of the Ashraellen multilingual public archive of literary, artistic and research work.
 - canonical: https://www.ashraellen.com/de/public/posts/formula/lines/
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, formellinie, public, formula, lines, posts
-- candidates: ashraellen, formellinie
+- suggested keyword seed: ashraellen, public, formellinie, archive, artistic, literary, multilingual, part, research, work, formula, lines, posts
+- candidates: ashraellen, formellinie, archive, artistic, literary, multilingual, part, public, research, work
 
 Excerpt:
 
@@ -1858,13 +1858,13 @@ Excerpt:
 - lang: de
 - section: public
 - title: Ashraellen — Formellinie 0001
-- description: _missing_
+- description: Ashraellen — Formellinie 0001 is part of the Ashraellen multilingual public archive of literary, artistic and research work.
 - canonical: https://www.ashraellen.com/de/public/posts/formula/lines/line-0001.html
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, 0001, formellinie, public, formula, line, lines, posts
-- candidates: 0001, ashraellen, formellinie
+- suggested keyword seed: ashraellen, public, 0001, formellinie, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts
+- candidates: ashraellen, 0001, formellinie, archive, artistic, literary, multilingual, part, public, research, work
 
 Excerpt:
 
@@ -1875,13 +1875,13 @@ Excerpt:
 - lang: de
 - section: public
 - title: Ashraellen — Formellinie 0002
-- description: _missing_
+- description: Ashraellen — Formellinie 0002 is part of the Ashraellen multilingual public archive of literary, artistic and research work.
 - canonical: https://www.ashraellen.com/de/public/posts/formula/lines/line-0002.html
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, 0002, formellinie, public, formula, line, lines, posts
-- candidates: 0002, ashraellen, formellinie
+- suggested keyword seed: ashraellen, public, 0002, formellinie, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts
+- candidates: ashraellen, 0002, formellinie, archive, artistic, literary, multilingual, part, public, research, work
 
 Excerpt:
 
@@ -1909,13 +1909,13 @@ Excerpt:
 - lang: de
 - section: public
 - title: Ashraellen — Beiträge
-- description: _missing_
+- description: Beiträge Abschnitte Formeln Fragmente Mini-Essays Beiträge Kurze Formen der Beobachtung: Formeln, Fragmente und Mini-Essays. Verschiedene Wege, einen Gedanken zu fassen, bevor er zur Vorlesung wird. Abschnitte Format…
 - canonical: https://www.ashraellen.com/de/public/posts/
 - H1: Beiträge
 - H2: Abschnitte
 - H3: Formeln | Fragmente | Mini-Essays
-- suggested keyword seed: ashraellen, beiträge, abschnitte, public, aber, aus, ein, formeln, fragmente, kurze, lesen, mini-essays, posts, und
-- candidates: lesen, beiträge, ein, formeln, fragmente, kurze, mini-essays, und, aber, abschnitte, ashraellen, aus, ausschnitte, beobachtung, betrachtungen, bevor, blickwinkel, der, einen, essay, fassen, format, formen, formula
+- suggested keyword seed: beiträge, abschnitte, formeln, fragmente, mini-essays, ashraellen, beobachtung, bevor, der, kurze, public, und, ein, einen, fassen, format, formen, gedanken
+- candidates: beiträge, formeln, fragmente, mini-essays, abschnitte, kurze, lesen, und, beobachtung, bevor, der, ein, einen, fassen, format, formen, gedanken, verschiedene, vorlesung, wege, wird, zur, aber, ashraellen
 
 Excerpt:
 
@@ -1926,13 +1926,13 @@ Excerpt:
 - lang: de
 - section: public
 - title: Ashraellen — Quellen verschoben
-- description: _missing_
+- description: Quellen wurden verschoben Neue Adresse Quellen wurden verschoben Quellen gehören nicht mehr zu den öffentlichen Beiträgen. Sie sind jetzt Teil der Forschung und bilden eine methodische Grundlage des Projekts. Neue…
 - canonical: https://www.ashraellen.com/de/public/posts/sources/
 - H1: Quellen wurden verschoben
 - H2: Neue Adresse
 - H3: _missing_
-- suggested keyword seed: ashraellen, quellen, verschoben, adresse, public, als, beiträgen, bilden, den, der, deren, forschung, neue, posts, sources, und, wurden
-- candidates: quellen, und, verschoben, ashraellen, forschung, adresse, als, beiträgen, bilden, den, der, deren, des, die, eine, gehören, grundlage, jetzt, kognitionswissenschaft, körper, künstlerische, linien, mark, mehr
+- suggested keyword seed: quellen, verschoben, neue, wurden, adresse, ashraellen, beiträgen, bilden, den, der, forschung, public, und, des, eine, gehören, grundlage, jetzt
+- candidates: quellen, verschoben, und, forschung, neue, wurden, adresse, ashraellen, beiträgen, bilden, den, der, des, eine, gehören, grundlage, jetzt, mehr, methodische, nicht, öffentlichen, projekts, sie, sind
 
 Excerpt:
 
@@ -2011,13 +2011,13 @@ Excerpt:
 - lang: de
 - section: public
 - title: Ashraellen — Endlichkeit weckt die Frage
-- description: Stützgedanke Ashraellen: Viele beginnen zu denken, wenn ihre Illusionen enden.
+- description: Stützgedanke Ashraellen: Viele beginnen zu denken, wenn ihre Illusionen enden. Endlichkeit weckt die Frage Sinn Vollständiger Text Warum ausgewählt Forschungsnotiz Stützgedanke 0004 Endlichkeit weckt die Frage Viele…
 - canonical: https://www.ashraellen.com/de/public/thoughts/arcs/0004-mortality-awakens.html
 - H1: Endlichkeit weckt die Frage
 - H2: Sinn | Vollständiger Text | Warum ausgewählt | Forschungsnotiz
 - H3: _missing_
-- suggested keyword seed: ashraellen, die, endlichkeit, frage, denken, public, weckt, wenn, arcs, aus, ausgewählt, awakens, beginnen, dann, der, enden, forschungsnotiz, ihre
-- candidates: nicht, sondern, denken, der, die, und, wenn, aus, dann, endlichkeit, frage, mit, ashraellen, beginnen, dem, enden, ihre, illusionen, ist, stützgedanke, tod, viele, weckt, wird
+- suggested keyword seed: die, endlichkeit, frage, weckt, ashraellen, ausgewählt, denken, forschungsnotiz, public, sinn, stützgedanke, text, viele, vollständiger, warum, wenn, 0004, arcs
+- candidates: nicht, die, sondern, denken, der, endlichkeit, frage, und, wenn, weckt, aus, dann, mit, stützgedanke, viele, ashraellen, beginnen, dem, enden, ihre, illusionen, ist, tod, warum
 
 Excerpt:
 
@@ -2164,13 +2164,13 @@ Excerpt:
 - lang: de
 - section: public
 - title: Ashraellen — Das Problem verliert seine Krone
-- description: Stützgedanke 0013: Das Problem wurde nicht zerstört. Aber sein Pathos schon.
+- description: Stützgedanke 0013: Das Problem wurde nicht zerstört. Aber sein Pathos schon. Das Problem verliert seine Krone Sinn Volltext Warum ausgewählt Forschungsnotiz Stützgedanke 0013 Das Problem verliert seine Krone Das…
 - canonical: https://www.ashraellen.com/de/public/thoughts/arcs/0013-problem-loses-crown.html
 - H1: Das Problem verliert seine Krone
 - H2: Sinn | Volltext | Warum ausgewählt | Forschungsnotiz
 - H3: _missing_
-- suggested keyword seed: problem, das, aber, ashraellen, krone, nicht, public, schon, seine, verliert, 0013, arcs, ausgewählt, crown, dem, den, die, forschungsnotiz
-- candidates: und, das, problem, nicht, ist, aber, die, schon, dem, den, hast, mit, seine, was, daraus, der, dich, einfach, folgt, gedanke, krone, methode, pathos, sein
+- suggested keyword seed: das, problem, krone, seine, verliert, 0013, aber, ashraellen, ausgewählt, forschungsnotiz, nicht, public, schon, sinn, stützgedanke, volltext, warum, arcs
+- candidates: das, problem, und, nicht, ist, aber, die, seine, krone, schon, dem, den, hast, mit, verliert, was, 0013, daraus, der, dich, einfach, folgt, gedanke, methode
 
 Excerpt:
 
@@ -2266,13 +2266,13 @@ Excerpt:
 - lang: de
 - section: public
 - title: Ashraellen — Bombardiere nicht
-- description: Stützgedanke 0019: bombardiere nicht, und du wirst nicht bombardiert.
+- description: Stützgedanke 0019: bombardiere nicht, und du wirst nicht bombardiert. Bombardiere nicht Sinn Volltext Warum ausgewählt Forschungsnotiz Stützgedanke 0019 Bombardiere nicht Bombardiere nicht, und du wirst nicht…
 - canonical: https://www.ashraellen.com/de/public/thoughts/arcs/0019-do-not-bomb.html
 - H1: Bombardiere nicht
 - H2: Sinn | Volltext | Warum ausgewählt | Forschungsnotiz
 - H3: _missing_
-- suggested keyword seed: nicht, bombardiere, ashraellen, bombardiert, public, und, 0019, arcs, ausgewählt, bomb, dann, das, der, die, ein, forschungsnotiz, ist, mensch
-- candidates: nicht, die, der, und, ist, bombardiere, das, mensch, welt, bombardiert, dann, ein, zuerst, dass, eine, gedanke, ich, immer, wirst, als, den, eigenen, etwas, jede
+- suggested keyword seed: nicht, bombardiere, und, 0019, ashraellen, ausgewählt, bombardiert, forschungsnotiz, public, sinn, stützgedanke, volltext, warum, wirst, arcs, bomb, dann, das
+- candidates: nicht, die, und, der, bombardiere, ist, das, mensch, welt, bombardiert, dann, ein, wirst, zuerst, dass, eine, gedanke, ich, immer, 0019, als, den, eigenen, etwas
 
 Excerpt:
 
@@ -2283,13 +2283,13 @@ Excerpt:
 - lang: de
 - section: public
 - title: Ashraellen — Volk und Masse
-- description: Stützgedanke 0020: ein Volk erinnert sich. Eine Masse reagiert.
+- description: Stützgedanke 0020: ein Volk erinnert sich. Eine Masse reagiert. Volk und Masse Sinn Volltext Warum ausgewählt Forschungsnotiz Stützgedanke 0020 Volk und Masse Ein Volk erinnert sich. Eine Masse reagiert. Sinn Ein Volk…
 - canonical: https://www.ashraellen.com/de/public/thoughts/arcs/0020-people-and-mass.html
 - H1: Volk und Masse
 - H2: Sinn | Volltext | Warum ausgewählt | Forschungsnotiz
 - H3: _missing_
-- suggested keyword seed: masse, volk, und, ashraellen, ein, eine, public, sich, 0020, arcs, ausgewählt, der, die, erinnert, forschungsnotiz, ist, kann, mass
-- candidates: masse, volk, der, ein, und, eine, ist, mensch, sich, was, die, kann, menschen, als, aus, das, für, ihn, man, nicht, dem, eigenen, erinnert, erinnerung
+- suggested keyword seed: volk, masse, und, ein, eine, sich, sinn, 0020, ashraellen, ausgewählt, erinnert, forschungsnotiz, public, reagiert, stützgedanke, volltext, warum, arcs
+- candidates: masse, volk, ein, und, der, eine, ist, mensch, sich, was, die, kann, menschen, als, aus, das, erinnert, für, ihn, man, nicht, reagiert, 0020, dem
 
 Excerpt:
 
@@ -2317,13 +2317,13 @@ Excerpt:
 - lang: de
 - section: public
 - title: Ashraellen — Spiritualität wird nicht erzwungen
-- description: Stützgedanke 0022: wahre Spiritualität wird nicht aufgezwungen. Sie verzaubert.
+- description: Stützgedanke 0022: wahre Spiritualität wird nicht aufgezwungen. Sie verzaubert. Spiritualität wird nicht erzwungen Sinn Volltext Warum ausgewählt Forschungsnotiz Stützgedanke 0022 Spiritualität wird nicht erzwungen…
 - canonical: https://www.ashraellen.com/de/public/thoughts/arcs/0022-spirituality-is-not-forced.html
 - H1: Spiritualität wird nicht erzwungen
 - H2: Sinn | Volltext | Warum ausgewählt | Forschungsnotiz
 - H3: _missing_
-- suggested keyword seed: nicht, spiritualität, wird, ashraellen, erzwungen, public, sie, wahre, 0022, angst, arcs, aufgezwungen, ausgewählt, die, forced, forschungsnotiz, kann, man
-- candidates: nicht, spiritualität, kann, die, man, sie, und, wahre, angst, mit, weil, seele, wird, der, keine, menschen, quelle, aufgezwungen, beginnt, dem, den, gedanke, hervorbringen, ist
+- suggested keyword seed: nicht, spiritualität, wird, erzwungen, 0022, ashraellen, ausgewählt, forschungsnotiz, public, sie, sinn, stützgedanke, volltext, wahre, warum, angst, arcs, aufgezwungen
+- candidates: nicht, spiritualität, kann, die, man, sie, und, wahre, angst, wird, mit, weil, seele, der, erzwungen, keine, menschen, quelle, 0022, aufgezwungen, beginnt, dem, den, gedanke
 
 Excerpt:
 
@@ -2385,13 +2385,13 @@ Excerpt:
 - lang: de
 - section: public
 - title: Ashraellen — Bogen 0002
-- description: Zweiter Bogen der Stützgedanken Ashraellen.
+- description: Zweiter Bogen der Stützgedanken Ashraellen. Zweiter Bogen der Stützgedanken Der leere Stuhl Verallgemeinerung statt Beobachtung Wo das Leben stehen blieb Die schmutzige Tasse Bereue nicht Wann man das Buch schließt…
 - canonical: https://www.ashraellen.com/de/public/thoughts/index-0002.html
 - H1: Zweiter Bogen der Stützgedanken
 - H2: Der leere Stuhl | Verallgemeinerung statt Beobachtung | Wo das Leben stehen blieb | Die schmutzige Tasse | Bereue nicht | Wann man das Buch schließt
 - H3: _missing_
-- suggested keyword seed: ashraellen, bogen, der, das, stützgedanken, 0002, beobachtung, die, nicht, public, zweiter, bereue, blieb, buch, gedanken, index, leben, leere
-- candidates: bogen, gedanken, öffnen, stützgedanke, der, beobachtung, nicht, stützgedanken, 0002, ashraellen, das, die, erwachen, fort, tasse, verallgemeinerung, verlust, zweiter, 0007, 0008, 0009, 0010, 0011, 0012
+- suggested keyword seed: der, bogen, das, stützgedanken, ashraellen, beobachtung, die, nicht, tasse, verallgemeinerung, zweiter, bereue, blieb, buch, leben, leere, man, public
+- candidates: bogen, der, gedanken, öffnen, stützgedanke, beobachtung, das, nicht, stützgedanken, die, tasse, verallgemeinerung, zweiter, 0002, ashraellen, bereue, blieb, buch, erwachen, fort, leben, leere, man, schließt
 
 Excerpt:
 
@@ -2469,14 +2469,14 @@ Excerpt:
 
 - lang: de
 - section: research
-- title: Ashraellen — Notes
-- description: _missing_
+- title: Ashraellen — Notes — German
+- description: Notes / Margins Ashraellen Notes / Margins Ränder, Zweifel, Fragmente. Material, das sich weigert, zur Doktrin zu werden. Wenn es unfertig wirkt — genau darum geht es. ← Research Public
 - canonical: https://www.ashraellen.com/de/research/notes/
 - H1: Notes / Margins
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: notes, ashraellen, margins, research, darum, das, doktrin, fragmente, geht, genau, material, public, ränder
-- candidates: ashraellen, notes, darum, das, doktrin, fragmente, geht, genau, margins, material, public, ränder, research, sich, unfertig, weigert, wenn, werden, wirkt, zur, zweifel
+- suggested keyword seed: notes, ashraellen, margins, research, darum, das, doktrin, fragmente, geht, genau, material, public, ränder, german, sich, unfertig, weigert, wenn
+- candidates: notes, ashraellen, margins, darum, das, doktrin, fragmente, geht, genau, material, public, ränder, research, sich, unfertig, weigert, wenn, werden, wirkt, zur, zweifel, german
 
 Excerpt:
 
@@ -2486,14 +2486,14 @@ Excerpt:
 
 - lang: de
 - section: research
-- title: Ashraellen — Position
-- description: _missing_
+- title: Ashraellen — Position — German
+- description: Position Ashraellen Position Ich arbeite als unabhängiger künstlerischer Forscher und betrachte innere Erfahrung als Feld der Beobachtung. Religion, Philosophie und transzendente Erfahrungen sind Beschreibungsmodelle —…
 - canonical: https://www.ashraellen.com/de/research/position/
 - H1: Position
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: position, ashraellen, research, als, arbeite, beobachtung, beschreibungsmodelle, betrachte, der, die, erfahrung, erfahrungen, und
-- candidates: als, ashraellen, position, und, arbeite, beobachtung, beschreibungsmodelle, betrachte, der, die, erfahrung, erfahrungen, feld, forscher, ich, innere, künstlerischer, nicht, philosophie, public, realität, religion, research, selbst
+- suggested keyword seed: position, ashraellen, als, und, arbeite, beobachtung, beschreibungsmodelle, betrachte, der, erfahrung, erfahrungen, feld, research, forscher, german, ich, innere, künstlerischer
+- candidates: als, position, und, ashraellen, arbeite, beobachtung, beschreibungsmodelle, betrachte, der, erfahrung, erfahrungen, feld, forscher, ich, innere, künstlerischer, philosophie, religion, sind, transzendente, unabhängiger, die, german, nicht
 
 Excerpt:
 
@@ -2538,13 +2538,13 @@ Excerpt:
 - lang: en
 - section: books
 - title: Ashraellen — Error 404: God Not Found
-- description: Error 404: God Not Found — a multilingual philosophical-satirical novel cycle about the Heavenly Chancellery, the human complaint against the Universe, and the error of searching that begins not in God, but in the very mode of address.
+- description: Error 404: God Not Found — a multilingual philosophical-satirical novel cycle about the Heavenly Chancellery, the human complaint against the Universe, and the error of searching that begins not in God, but in the very…
 - canonical: https://www.ashraellen.com/en/books/error-404-god-not-found/
 - H1: Error 404: God Not Found
 - H2: Series | Books of the cycle | Series phrase
 - H3: Book I — Why Me? | Book II — All Things by His Will | Book III — in preparation
-- suggested keyword seed: error, god, found, 404, books, cycle, about, address, ashraellen, chancellery, heavenly, human, searching, series, against, begins, book, complaint
-- candidates: god, error, heavenly, book, chancellery, found, cycle, human, 404, searching, about, address, against, another, answer, case, form, new, philosophical-satirical, preparation, through, universe, vlad, will
+- suggested keyword seed: error, god, found, 404, books, cycle, about, against, ashraellen, chancellery, heavenly, human, searching, series, begins, book, complaint, multilingual
+- candidates: god, error, heavenly, book, chancellery, found, cycle, human, 404, searching, about, against, another, answer, case, form, new, philosophical-satirical, preparation, through, universe, vlad, will, address
 
 Excerpt:
 
@@ -2588,14 +2588,14 @@ Excerpt:
 
 - lang: en
 - section: books
-- title: Ashraellen — BETON
-- description: BETON — Volume I of the MONOLITH trilogy.
+- title: Ashraellen — BETON — English
+- description: BETON — Volume I of the MONOLITH trilogy. BETON File Description BETON Volume I of the MONOLITH trilogy. File Volume I Concrete does not begin with a wall. It begins with the habit of calling a prison stability. FILE №…
 - canonical: https://www.ashraellen.com/en/books/monolith/beton/
 - H1: BETON
 - H2: File | Description
 - H3: _missing_
-- suggested keyword seed: beton, monolith, ashraellen, books, trilogy, volume, about, all, begin, begins, description, file, first, stability, too, world
-- candidates: beton, too, volume, first, monolith, stability, trilogy, world, about, all, begin, begins, concrete, fiction, file, has, have, its, meanings, memory, part, philosophical, prison, psychological
+- suggested keyword seed: beton, file, monolith, volume, trilogy, ashraellen, begin, begins, books, concrete, description, prison, stability, calling, does, english, first, habit
+- candidates: beton, volume, file, monolith, stability, too, trilogy, begin, begins, concrete, first, prison, wall, world, about, all, calling, description, does, english, fiction, habit, has, have
 
 Excerpt:
 
@@ -2605,13 +2605,13 @@ Excerpt:
 
 - lang: en
 - section: books
-- title: Ashraellen — MONOLITH
+- title: Ashraellen — MONOLITH — English
 - description: MONOLITH is a trilogy of social science fiction, dystopia, and philosophical cyberpunk about control, memory, and the collapse of systems.
 - canonical: https://www.ashraellen.com/en/books/monolith/
 - H1: MONOLITH
 - H2: Series | Volumes | Signal
 - H3: Volume I — BETON | Volume II — SLUDGE | Volume III — GAS
-- suggested keyword seed: monolith, ashraellen, books, collapse, control, memory, social, about, becomes, beton, crack, cyberpunk, dystopia, fiction, final, gas, philosophical, science
+- suggested keyword seed: monolith, ashraellen, books, collapse, control, memory, social, about, becomes, beton, crack, cyberpunk, dystopia, english, fiction, final, gas, philosophical
 - candidates: volume, becomes, monolith, beton, gas, memory, social, without, collapse, control, crack, final, first, form, open, sludge, stability, system, trilogy, about, begins, called, cyberpunk, decompression
 
 Excerpt:
@@ -2622,14 +2622,14 @@ Excerpt:
 
 - lang: en
 - section: books
-- title: Ashraellen — SLUDGE
-- description: SLUDGE — Volume II of the MONOLITH trilogy.
+- title: Ashraellen — SLUDGE — English
+- description: SLUDGE — Volume II of the MONOLITH trilogy. SLUDGE File Description SLUDGE Volume II of the MONOLITH trilogy. File Volume II A human being does not break all at once. First, he grows tired of resisting. Then he begins…
 - canonical: https://www.ashraellen.com/en/books/monolith/sludge/
 - H1: SLUDGE
 - H2: File | Description
 - H3: _missing_
-- suggested keyword seed: sludge, monolith, ashraellen, books, volume, becomes, begins, being, description, file, form, his, human, person, they, trilogy, where
-- candidates: sludge, his, becomes, being, human, they, volume, where, begins, form, monolith, person, process, social, story, trilogy, world, about, after, does, environment, fiction, file, first
+- suggested keyword seed: sludge, file, monolith, volume, trilogy, ashraellen, begins, being, books, description, human, all, becomes, break, does, english, first, grows
+- candidates: sludge, his, volume, being, human, becomes, begins, file, monolith, they, trilogy, where, does, first, form, person, process, social, story, world, about, after, all, break
 
 Excerpt:
 
@@ -2707,13 +2707,13 @@ Excerpt:
 
 - lang: en
 - section: books
-- title: Ashraellen — The Book of Whinesis
+- title: Ashraellen — The Book of Whinesis — English
 - description: The Book of Whinesis — sacred satire for those tired of positive vibes, endless productivity, and the cult of success.
 - canonical: https://www.ashraellen.com/en/books/the-book-of-whinesis/
 - H1: The Book of Whinesis
 - H2: About the book | First chapters | Excerpt | Status
 - H3: _missing_
-- suggested keyword seed: book, whinesis, ashraellen, books, about, becomes, chapters, cult, discount, endless, excerpt, first, gnorna, lord, moania, positive, productivity, sacred
+- suggested keyword seed: book, whinesis, ashraellen, books, about, becomes, chapters, cult, discount, endless, english, excerpt, first, gnorna, lord, moania, positive, productivity
 - candidates: you, shall, whine, said, your, lord, moania, unto, was, discount, gnorna, becomes, couch, eat, his, sausage, serpent, all, ate, book, every, supermarket, they, upon
 
 Excerpt:
@@ -2741,13 +2741,13 @@ Excerpt:
 
 - lang: en
 - section: contact.html
-- title: Contact — Ashraellen
+- title: Contact — Ashraellen — English
 - description: Contact page for Ashraellen: cooperation, publishing, grants, media and project inquiries.
 - canonical: https://www.ashraellen.com/en/contact.html
 - H1: Contact
 - H2: Ashraellen
 - H3: _missing_
-- suggested keyword seed: ashraellen, contact, cooperation, grants, inquiries, media, project, publishing, channel, contact.html, kostyshev, materials, telegram
+- suggested keyword seed: ashraellen, contact, cooperation, grants, inquiries, media, project, publishing, channel, contact.html, english, kostyshev, materials, telegram
 - candidates: contact, ashraellen, project, telegram, cooperation, grants, inquiries, media, publishing, channel, kostyshev, materials, public, research, used, ashraellen.live, ashraellenchannel, ashraellenlive, can, channels, creative, direct, directly, email
 
 Excerpt:
@@ -2776,13 +2776,13 @@ Excerpt:
 - lang: en
 - section: monolith
 - title: MONOLITH Trilogy — Ashraellen
-- description: Three states of controlled disintegration: BETON. SLUDGE. GAS.
+- description: Three states of controlled disintegration: BETON. SLUDGE. GAS. MONOLITH BETON SLUDGE GAS MONOLITH Three states of controlled disintegration: BETON. SLUDGE. GAS. MONOLITH is a trilogy of social science fiction, dystopia…
 - canonical: https://www.ashraellen.com/en/monolith/
 - H1: MONOLITH
 - H2: BETON | SLUDGE | GAS
 - H3: _missing_
-- suggested keyword seed: monolith, beton, gas, sludge, ashraellen, controlled, about, amazon, becomes, begins, can, collapse, disintegration, states, three, trilogy, volume
-- candidates: gas, sludge, volume, beton, monolith, about, amazon, becomes, begins, can, collapse, controlled, crack, disintegration, dystopia, edition, english, first, google, inside, memory, philosophical, play, read
+- suggested keyword seed: monolith, beton, gas, sludge, controlled, disintegration, states, three, trilogy, ashraellen, dystopia, about, fiction, science, social, volume
+- candidates: gas, monolith, sludge, beton, volume, controlled, disintegration, dystopia, states, three, trilogy, about, amazon, becomes, begins, can, collapse, crack, edition, english, fiction, first, google, inside
 
 Excerpt:
 
@@ -2792,13 +2792,13 @@ Excerpt:
 
 - lang: en
 - section: privacy.html
-- title: Privacy Policy — Ashraellen
+- title: Privacy Policy — Ashraellen — English
 - description: Privacy Policy for Ashraellen.com: personal data, analytics, cookies, user rights and contact information.
 - canonical: https://www.ashraellen.com/en/privacy.html
 - H1: Privacy Policy
 - H2: 1. Who is responsible for this website | 2. What data may be collected | 3. Why data is used | 4. Legal basis | 5. Analytics and third-party services | 6. Cookies and local technologies | 7. Newsletter and updates | 8. Purchases and external platforms
 - H3: _missing_
-- suggested keyword seed: data, policy, privacy, analytics, ashraellen, ashraellen.com, cookies, legal, may, platforms, website, basis, collected, consent, contact, external, google, information
+- suggested keyword seed: data, policy, privacy, analytics, ashraellen, ashraellen.com, cookies, legal, may, platforms, website, basis, collected, consent, contact, english, external, google
 - candidates: data, may, website, analytics, policy, technical, you, ashraellen.com, consent, google, legal, platforms, privacy, used, books, collect, contact, cookies, email, kept, long, only, personal, project
 
 Excerpt:
@@ -2826,13 +2826,13 @@ Excerpt:
 
 - lang: en
 - section: public
-- title: Ashraellen — Public
+- title: Ashraellen — Public — English
 - description: Ashraellen public field: talks, publications, support thoughts, reactions and observations where research meets the living person.
 - canonical: https://www.ashraellen.com/en/public/
 - H1: Public
 - H2: Talks | Publications | New support thoughts
 - H3: Do Not Bomb | People and Mass | Mating Games | Spirituality Is Not Forced | The Price of Transition | The True Enemy
-- suggested keyword seed: public, ashraellen, support, thoughts, field, living, person, publications, talks, where, mass, meets, new, observations, open, people, reactions, research
+- suggested keyword seed: public, ashraellen, support, thoughts, field, living, person, publications, talks, where, english, mass, meets, new, observations, open, people, reactions
 - candidates: thought, support, open, public, person, where, field, living, mass, people, spirituality, thoughts, already, ashraellen, becomes, certainty, crisis, have, new, observations, price, publications, reactions, role
 
 Excerpt:
@@ -2844,13 +2844,13 @@ Excerpt:
 - lang: en
 - section: public
 - title: Ashraellen — First Mini-Essay Cycle
-- description: _missing_
+- description: First Cycle First Cycle Power Not Over Thought, but Over Attention The Body Is the First Door, but Not the Goal The Past Is Its Interpretation First Cycle The first completed cycle of mini-essays: attention, body, past…
 - canonical: https://www.ashraellen.com/en/public/posts/essay/cycles/cycle-0001.html
 - H1: First Cycle
 - H2: First Cycle | Power Not Over Thought, but Over Attention | The Body Is the First Door, but Not the Goal | The Past Is Its Interpretation
 - H3: _missing_
-- suggested keyword seed: first, cycle, ashraellen, attention, body, over, past, public, thought, appears, become, becomes, begins, cycles, door, essay, goal, inner
-- candidates: past, person, thought, first, body, begins, attention, become, becomes, inner, new, appears, does, memory, state, being, cycle, freedom, happened, interpretation, its, mini-essay, movement, one
+- suggested keyword seed: first, cycle, attention, body, over, past, thought, ashraellen, door, goal, interpretation, its, power, public, become, becomes, begins, completed
+- candidates: first, past, thought, person, body, attention, cycle, begins, become, becomes, inner, new, appears, does, interpretation, its, memory, over, state, being, door, freedom, happened, mini-essay
 
 Excerpt:
 
@@ -2861,13 +2861,13 @@ Excerpt:
 - lang: en
 - section: public
 - title: Ashraellen — Mini-Essay Cycles
-- description: _missing_
+- description: Mini-Essay Cycles Completed Cycles Mini-Essay Cycles Completed cycles of mini-essays are gathered here. The current cycle is on the main page of the section. Completed Cycles to current cycle First Cycle The first…
 - canonical: https://www.ashraellen.com/en/public/posts/essay/cycles/
 - H1: Mini-Essay Cycles
 - H2: Completed Cycles
 - H3: _missing_
-- suggested keyword seed: cycles, ashraellen, mini-essay, completed, public, attention, body, current, cycle, essay, first, gathered, here, main, posts
-- candidates: cycle, cycles, current, mini-essay, completed, first, ashraellen, attention, body, gathered, here, main, mark, mini-essays, past, presence, section
+- suggested keyword seed: cycles, completed, mini-essay, cycle, ashraellen, current, first, gathered, here, main, mini-essays, public, section, essay, posts
+- candidates: cycle, cycles, completed, current, mini-essay, first, gathered, here, main, mini-essays, section, ashraellen, attention, body, mark, past, presence
 
 Excerpt:
 
@@ -2877,14 +2877,14 @@ Excerpt:
 
 - lang: en
 - section: public
-- title: Ashraellen — Mini-Essays
-- description: _missing_
+- title: Ashraellen — Mini-Essays — English
+- description: Mini-Essays First Cycle Power Not Over Thought, but Over Attention The Body Is the First Door, but Not the Goal The Past Is Its Interpretation Mini-Essays Small examinations: one question, one angle of view, one…
 - canonical: https://www.ashraellen.com/en/public/posts/essay/
 - H1: Mini-Essays
 - H2: First Cycle | Power Not Over Thought, but Over Attention | The Body Is the First Door, but Not the Goal | The Past Is Its Interpretation
 - H3: _missing_
-- suggested keyword seed: first, ashraellen, body, mini-essays, over, past, public, thought, appears, attention, become, becomes, begins, cycle, door, essay, goal, inner
-- candidates: past, person, thought, begins, body, first, one, become, becomes, inner, new, appears, attention, does, memory, state, being, freedom, happened, interpretation, its, movement, practice, version
+- suggested keyword seed: first, mini-essays, one, over, attention, body, past, thought, ashraellen, cycle, door, goal, interpretation, its, power, public, angle, become
+- candidates: past, thought, person, one, first, body, begins, attention, become, becomes, inner, new, appears, does, interpretation, its, memory, over, state, being, door, freedom, happened, mini-essays
 
 Excerpt:
 
@@ -2962,13 +2962,13 @@ Excerpt:
 
 - lang: en
 - section: public
-- title: Ashraellen — Fragments
+- title: Ashraellen — Fragments — English
 - description: Ashraellen fragments: a section being prepared from a large archive of handwritten texts, notes, and publications accumulated over many years of work.
 - canonical: https://www.ashraellen.com/en/public/posts/fragment/
 - H1: Fragments
 - H2: This section is being prepared
 - H3: _missing_
-- suggested keyword seed: ashraellen, fragments, being, accumulated, archive, handwritten, large, notes, prepared, public, section, texts, work, excerpts, fragment, here, many, over
+- suggested keyword seed: ashraellen, fragments, being, accumulated, archive, handwritten, large, notes, prepared, public, section, texts, work, english, excerpts, fragment, here, many
 - candidates: archive, texts, fragments, ashraellen, being, notes, work, accumulated, excerpts, handwritten, here, large, many, over, prepared, publications, section, working, years, appear, back, been, best, body
 
 Excerpt:
@@ -2980,13 +2980,13 @@ Excerpt:
 - lang: en
 - section: public
 - title: Ashraellen — Posts
-- description: _missing_
+- description: Posts Sections Formulas Fragments Mini-Essays Posts Short forms of observation: formulas, fragments, and mini-essays. Different ways of catching a thought before it has time to become a lecture. Sections choose a…
 - canonical: https://www.ashraellen.com/en/public/posts/
 - H1: Posts
 - H2: Sections
 - H3: Formulas | Fragments | Mini-Essays
-- suggested keyword seed: posts, ashraellen, public, angle, become, before, catching, formulas, fragments, mini-essays, one, read, sections, thought
-- candidates: read, formulas, fragments, mini-essays, one, posts, thought, angle, ashraellen, become, before, catching, choose, concise, conclusion, different, direction, essay, examinations, feel, format, forms, formula, formulations
+- suggested keyword seed: posts, sections, formulas, fragments, mini-essays, ashraellen, become, before, catching, choose, different, public, thought, forms, has, lecture, observation, read
+- candidates: formulas, fragments, mini-essays, posts, read, sections, thought, become, before, catching, choose, different, forms, has, lecture, observation, one, short, time, ways, angle, ashraellen, concise, conclusion
 
 Excerpt:
 
@@ -2997,13 +2997,13 @@ Excerpt:
 - lang: en
 - section: public
 - title: Ashraellen — Sources Moved
-- description: _missing_
+- description: Sources have moved New location Sources have moved Sources are no longer part of public posts. They now belong to the research section as part of the methodological foundation of the project. New location research Open…
 - canonical: https://www.ashraellen.com/en/public/posts/sources/
 - H1: Sources have moved
 - H2: New location
 - H3: _missing_
-- suggested keyword seed: sources, ashraellen, moved, have, public, artistic, belong, body, cognitive, foundation, intersection, location, new, part, posts, research
-- candidates: sources, moved, ashraellen, part, research, artistic, belong, body, cognitive, foundation, have, intersection, lines, location, longer, mark, method, methodological, narrative, new, now, open, phenomenology, posts
+- suggested keyword seed: sources, moved, have, location, new, ashraellen, part, public, research, belong, foundation, longer, methodological, posts, now, open, project, section
+- candidates: sources, moved, part, research, have, location, new, ashraellen, belong, foundation, longer, methodological, now, open, posts, project, public, section, they, artistic, body, cognitive, intersection, lines
 
 Excerpt:
 
@@ -3235,13 +3235,13 @@ Excerpt:
 - lang: en
 - section: public
 - title: Ashraellen — The Problem Loses Its Crown
-- description: Support Thought 0013: The problem has not been destroyed. But its drama has.
+- description: Support Thought 0013: The problem has not been destroyed. But its drama has. The Problem Loses Its Crown Meaning Full text Why this was chosen Research note Support Thought 0013 The Problem Loses Its Crown The problem…
 - canonical: https://www.ashraellen.com/en/public/thoughts/arcs/0013-problem-loses-crown.html
 - H1: The Problem Loses Its Crown
 - H2: Meaning | Full text | Why this was chosen | Research note
 - H3: _missing_
-- suggested keyword seed: problem, its, crown, has, loses, ashraellen, public, thought, 0013, already, arcs, because, been, chosen, destroyed, drama, full, have
-- candidates: problem, you, has, have, its, thought, because, your, inner, tried, what, already, been, crown, destroyed, drama, method, one, person, support, 0013, acceptance, again, almost
+- suggested keyword seed: problem, crown, its, loses, has, support, thought, 0013, ashraellen, chosen, full, meaning, note, public, research, text, was, why
+- candidates: problem, its, you, has, thought, have, because, crown, your, inner, loses, support, tried, what, 0013, already, been, chosen, destroyed, drama, method, one, person, text
 
 Excerpt:
 
@@ -3320,13 +3320,13 @@ Excerpt:
 - lang: en
 - section: public
 - title: Ashraellen — An Image Cannot Be Happy
-- description: Support Thought 0018: An image may receive recognition. But it cannot be happy.
+- description: Support Thought 0018: An image may receive recognition. But it cannot be happy. An Image Cannot Be Happy Meaning Full text Why this was chosen Research note Support Thought 0018 An Image Cannot Be Happy An image may…
 - canonical: https://www.ashraellen.com/en/public/thoughts/arcs/0018-image-cannot-be-happy.html
 - H1: An Image Cannot Be Happy
 - H2: Meaning | Full text | Why this was chosen | Research note
 - H3: _missing_
-- suggested keyword seed: cannot, happy, image, ashraellen, may, public, 0018, arcs, chosen, convincing, full, his, inside, meaning, note, person, question, receive
-- candidates: image, may, person, right, what, cannot, happy, question, they, convincing, his, inside, live, recognition, self-realization, thought, living, real, realization, receive, spiritual, support, 0018, arc
+- suggested keyword seed: image, cannot, happy, may, thought, 0018, ashraellen, chosen, full, meaning, note, public, research, support, text, was, why, arcs
+- candidates: image, may, cannot, happy, person, right, what, question, they, thought, convincing, his, inside, live, recognition, self-realization, support, 0018, chosen, living, real, realization, receive, spiritual
 
 Excerpt:
 
@@ -3337,13 +3337,13 @@ Excerpt:
 - lang: en
 - section: public
 - title: Ashraellen — Do Not Bomb
-- description: Support Thought 0019: do not bomb, and you shall not be bombed.
+- description: Support Thought 0019: do not bomb, and you shall not be bombed. Do Not Bomb Meaning Full text Why it was chosen Research note Support Thought 0019 Do Not Bomb Do not bomb, and you shall not be bombed. Meaning A person…
 - canonical: https://www.ashraellen.com/en/public/thoughts/arcs/0019-do-not-bomb.html
 - H1: Do Not Bomb
 - H2: Meaning | Full text | Why it was chosen | Research note
 - H3: _missing_
-- suggested keyword seed: bomb, ashraellen, bombed, public, shall, thought, you, 0019, always, any, arcs, chosen, first, full, meaning, note, person, research
-- candidates: bomb, then, thought, world, you, first, person, always, bombed, shall, what, any, even, him, his, obvious, own, releases, support, they, 0019, aggression, already, around
+- suggested keyword seed: bomb, bombed, meaning, shall, support, thought, you, 0019, ashraellen, chosen, full, note, person, public, research, text, was, why
+- candidates: bomb, thought, you, person, then, world, bombed, first, shall, always, support, what, 0019, any, even, him, his, meaning, obvious, own, releases, text, they, was
 
 Excerpt:
 
@@ -3354,13 +3354,13 @@ Excerpt:
 - lang: en
 - section: public
 - title: Ashraellen — People and Mass
-- description: Support Thought 0020: a people remembers; a mass reacts.
+- description: Support Thought 0020: a people remembers; a mass reacts. People and Mass Meaning Full text Why it was chosen Research note Support Thought 0020 People and Mass A people remembers. A mass reacts. Meaning A people is…
 - canonical: https://www.ashraellen.com/en/public/thoughts/arcs/0020-people-and-mass.html
 - H1: People and Mass
 - H2: Meaning | Full text | Why it was chosen | Research note
 - H3: _missing_
-- suggested keyword seed: mass, people, ashraellen, public, thought, 0020, any, arcs, because, call, can, chosen, current, full, him, human, meaning, note
-- candidates: people, mass, person, what, call, thought, can, him, any, because, current, human, inner, memory, own, reacts, remembers, who, 0020, awakened, begins, being, chosen, easily
+- suggested keyword seed: people, mass, 0020, meaning, reacts, remembers, thought, ashraellen, chosen, full, note, public, research, support, text, was, why, any
+- candidates: people, mass, person, thought, what, call, can, him, reacts, remembers, 0020, any, because, chosen, current, human, inner, meaning, memory, own, support, text, was, who
 
 Excerpt:
 
@@ -3405,13 +3405,13 @@ Excerpt:
 - lang: en
 - section: public
 - title: Ashraellen — The Price of Transition
-- description: Support Thought 0023: every transition to a new stage is paid for by a crisis.
+- description: Support Thought 0023: every transition to a new stage is paid for by a crisis. The Price of Transition Meaning Full text Why it was chosen Research note Support Thought 0023 The Price of Transition Every transition to…
 - canonical: https://www.ashraellen.com/en/public/thoughts/arcs/0023-price-of-transition.html
 - H1: The Price of Transition
 - H2: Meaning | Full text | Why it was chosen | Research note
 - H3: _missing_
-- suggested keyword seed: transition, price, ashraellen, crisis, new, public, 0023, all, arcs, chosen, every, full, has, have, his, meaning, note, own
-- candidates: crisis, own, your, his, have, role, transition, you, all, has, new, price, same, thought, long, longer, one, paid, stage, who, about, because, change, every
+- suggested keyword seed: transition, price, thought, 0023, ashraellen, chosen, crisis, every, full, meaning, note, public, research, support, text, was, why, all
+- candidates: crisis, own, transition, your, his, price, have, role, thought, you, all, has, new, same, every, long, longer, one, paid, stage, who, 0023, about, because
 
 Excerpt:
 
@@ -3540,14 +3540,14 @@ Excerpt:
 
 - lang: en
 - section: research
-- title: Ashraellen — Notes
-- description: _missing_
+- title: Ashraellen — Notes — English
+- description: Notes / Margins Ashraellen Notes / Margins Margins, doubts, fragments. Material that refuses to become doctrine. If it feels unfinished — that is the point. ← Research Public
 - canonical: https://www.ashraellen.com/en/research/notes/
 - H1: Notes / Margins
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: notes, ashraellen, margins, research, become, doctrine, doubts, feels, fragments, material, point, public, refuses
-- candidates: ashraellen, margins, notes, become, doctrine, doubts, feels, fragments, material, point, public, refuses, research, unfinished
+- suggested keyword seed: notes, margins, ashraellen, research, become, doctrine, doubts, feels, fragments, material, point, public, refuses, english, unfinished
+- candidates: margins, notes, ashraellen, become, doctrine, doubts, feels, fragments, material, point, public, refuses, research, unfinished, english
 
 Excerpt:
 
@@ -3557,14 +3557,14 @@ Excerpt:
 
 - lang: en
 - section: research
-- title: Ashraellen — Position
-- description: _missing_
+- title: Ashraellen — Position — English
+- description: Position Ashraellen Position I work as an independent artistic researcher, treating inner human experience as a field of observation. Religion, philosophy and transcendental experiences are models of description — not…
 - canonical: https://www.ashraellen.com/en/research/position/
 - H1: Position
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: position, ashraellen, research, artistic, description, experience, experiences, field, human, independent, inner, itself, models
-- candidates: ashraellen, position, artistic, description, experience, experiences, field, human, independent, inner, itself, models, observation, philosophy, public, reality, religion, research, researcher, transcendental, treating, work
+- suggested keyword seed: position, ashraellen, artistic, description, experience, experiences, field, human, independent, inner, models, observation, research, english, philosophy, religion, researcher, transcendental
+- candidates: position, ashraellen, artistic, description, experience, experiences, field, human, independent, inner, models, observation, philosophy, religion, researcher, transcendental, treating, work, english, itself, public, reality, research
 
 Excerpt:
 
@@ -3625,14 +3625,14 @@ Excerpt:
 
 - lang: es
 - section: books
-- title: Ashraellen — BETON
-- description: BETON — Volumen I de la trilogía MONOLITH.
+- title: Ashraellen — BETON — Spanish
+- description: BETON — Volumen I de la trilogía MONOLITH. BETON Expediente Descripción BETON Volumen I de la trilogía MONOLITH. Expediente Volumen I El concreto no empieza con una pared. Empieza con la costumbre de llamar estabilidad…
 - canonical: https://www.ashraellen.com/es/books/monolith/beton/
 - H1: BETON
 - H2: Expediente | Descripción
 - H3: _missing_
-- suggested keyword seed: beton, monolith, ashraellen, books, trilogía, volumen, con, concreto, demasiado, descripción, edición, empieza, expediente, mundo, sobre, una
-- candidates: una, beton, volumen, demasiado, edición, empieza, monolith, mundo, sobre, trilogía, con, concreto, del, está, estabilidad, expediente, inglés, memoria, primera, prisión, que, significados, sistema, solo
+- suggested keyword seed: beton, expediente, monolith, volumen, con, empieza, trilogía, ashraellen, books, concreto, descripción, estabilidad, una, costumbre, demasiado, edición, llamar, pared
+- candidates: beton, una, volumen, empieza, con, expediente, monolith, trilogía, concreto, demasiado, edición, estabilidad, mundo, sobre, costumbre, del, descripción, está, inglés, llamar, memoria, pared, primera, prisión
 
 Excerpt:
 
@@ -3642,14 +3642,14 @@ Excerpt:
 
 - lang: es
 - section: books
-- title: Ashraellen — MONOLITH
-- description: MONOLITH — trilogía distópica sobre control, memoria y colapso de sistemas.
+- title: Ashraellen — MONOLITH — Spanish
+- description: MONOLITH — trilogía distópica sobre control, memoria y colapso de sistemas. MONOLITH Serie Volúmenes Volumen I — BETON Volumen II — SLUDGE Volumen III — GAS MONOLITH MONOLITH es una trilogía de ciencia ficción social,…
 - canonical: https://www.ashraellen.com/es/books/monolith/
 - H1: MONOLITH
 - H2: Serie | Volúmenes
 - H3: Volumen I — BETON | Volumen II — SLUDGE | Volumen III — GAS
-- suggested keyword seed: monolith, ashraellen, books, memoria, abrir, beton, colapso, control, convierte, del, distópica, estabilidad, gas, serie, sin, sistemas, sludge, sobre
-- candidates: volumen, monolith, gas, memoria, sin, abrir, beton, convierte, del, estabilidad, sludge, una, colapso, control, donde, forma, grieta, materia, preparación, primera, sistema, sistemas, sobre, social
+- suggested keyword seed: monolith, volumen, ashraellen, beton, books, gas, memoria, serie, sludge, trilogía, una, volúmenes, abrir, ciencia, colapso, control, convierte, del
+- candidates: volumen, monolith, gas, beton, memoria, sin, sludge, una, abrir, convierte, del, estabilidad, social, trilogía, ciencia, colapso, control, donde, ficción, forma, grieta, iii, materia, preparación
 
 Excerpt:
 
@@ -3659,14 +3659,14 @@ Excerpt:
 
 - lang: es
 - section: books
-- title: Ashraellen — SLUDGE
-- description: SLUDGE — Volumen II de la trilogía MONOLITH.
+- title: Ashraellen — SLUDGE — Spanish
+- description: SLUDGE — Volumen II de la trilogía MONOLITH. SLUDGE Expediente Descripción SLUDGE Volumen II de la trilogía MONOLITH. Expediente Volumen II El ser humano no se rompe de inmediato. Primero se cansa de resistir. Luego…
 - canonical: https://www.ashraellen.com/es/books/monolith/sludge/
 - H1: SLUDGE
 - H2: Expediente | Descripción
 - H3: _missing_
-- suggested keyword seed: sludge, monolith, ashraellen, books, trilogía, volumen, como, descripción, desde, empieza, está, expediente, humano, persona, ser, una
-- candidates: sludge, ser, volumen, empieza, está, humano, monolith, persona, trilogía, una, como, desde, donde, edición, expediente, forma, historia, inglés, inmediato, mundo, primero, que, rompe, sobre
+- suggested keyword seed: sludge, expediente, monolith, volumen, trilogía, ashraellen, books, descripción, humano, inmediato, primero, ser, cansa, empieza, está, luego, persona, resistir
+- candidates: sludge, volumen, ser, expediente, humano, monolith, trilogía, empieza, está, inmediato, persona, primero, rompe, una, cansa, como, descripción, desde, donde, edición, forma, historia, inglés, luego
 
 Excerpt:
 
@@ -3693,7 +3693,7 @@ Excerpt:
 
 - lang: es
 - section: books
-- title: Ashraellen — The Book of Whinesis
+- title: Ashraellen — The Book of Whinesis — Spanish
 - description: The Book of Whinesis — sátira sagrada para quienes se han cansado de las vibras positivas, la productividad infinita y el culto al éxito.
 - canonical: https://www.ashraellen.com/es/books/the-book-of-whinesis/
 - H1: The Book of Whinesis
@@ -3727,13 +3727,13 @@ Excerpt:
 
 - lang: es
 - section: contact.html
-- title: Contacto — Ashraellen
+- title: Contacto — Ashraellen — Spanish
 - description: Página de contacto de Ashraellen: cooperación, publicaciones, subvenciones, medios y consultas del proyecto.
 - canonical: https://www.ashraellen.com/es/contact.html
 - H1: Contacto
 - H2: Ashraellen
 - H3: _missing_
-- suggested keyword seed: ashraellen, contacto, consultas, cooperación, del, medios, proyecto, subvenciones, canal, contact, contact.html, investigación, página, para, publicaciones, telegram
+- suggested keyword seed: ashraellen, contacto, consultas, cooperación, del, medios, proyecto, subvenciones, canal, contact, contact.html, investigación, página, para, publicaciones, spanish, telegram
 - candidates: contacto, ashraellen, para, proyecto, telegram, consultas, cooperación, del, medios, subvenciones, canal, investigación, kostyshev, materiales, por, publicaciones, públicos, usa, actualizaciones, adecuados, ashraellen.live, ashraellenchannel, ashraellenlive, canales
 
 Excerpt:
@@ -3761,14 +3761,14 @@ Excerpt:
 
 - lang: es
 - section: monolith
-- title: MONOLITH — Ashraellen
-- description: MONOLITH: BETON. SLUDGE. GAS.
+- title: MONOLITH — Ashraellen — Spanish
+- description: MONOLITH: BETON. SLUDGE. GAS. MONOLITH BETON SLUDGE GAS MONOLITH Tres estados de desintegración controlada: BETON. SLUDGE. GAS. MONOLITH es una trilogía distópica sobre control, memoria y colapso de sistemas. La…
 - canonical: https://www.ashraellen.com/es/monolith/
 - H1: MONOLITH
 - H2: BETON | SLUDGE | GAS
 - H3: _missing_
-- suggested keyword seed: monolith, ashraellen, beton, gas, sludge, actualmente, amazon, inglés, leer, memoria, preparación, volumen
-- candidates: gas, monolith, amazon, beton, inglés, preparación, sludge, volumen, leer, memoria, actualmente, ashraellen, colapsar, colapso, control, controlada, convierte, desintegración, después, disponibles, distópica, edición, ediciones, edita
+- suggested keyword seed: monolith, beton, gas, sludge, ashraellen, colapso, control, controlada, memoria, amazon, desintegración, distópica, estados, inglés, preparación, sistemas, sobre, spanish
+- candidates: monolith, gas, beton, sludge, amazon, inglés, memoria, preparación, volumen, colapso, control, controlada, desintegración, distópica, estados, leer, sistemas, sobre, tres, trilogía, una, actualmente, ashraellen, colapsar
 
 Excerpt:
 
@@ -3812,7 +3812,7 @@ Excerpt:
 
 - lang: es
 - section: public
-- title: Ashraellen — Público
+- title: Ashraellen — Público — Spanish
 - description: Campo público Ashraellen: intervenciones, publicaciones, pensamientos de apoyo, reacciones y observaciones donde la investigación se encuentra con la persona viva.
 - canonical: https://www.ashraellen.com/es/public/
 - H1: Público
@@ -3830,13 +3830,13 @@ Excerpt:
 - lang: es
 - section: public
 - title: Ashraellen — Primer ciclo de mini-ensayos
-- description: _missing_
+- description: Primer ciclo Primer ciclo El poder no sobre el pensamiento, sino sobre la atención El cuerpo es la primera puerta, pero no el objetivo El pasado es su interpretación Primer ciclo El primer ciclo completado de…
 - canonical: https://www.ashraellen.com/es/public/posts/essay/cycles/cycle-0001.html
 - H1: Primer ciclo
 - H2: Primer ciclo | El poder no sobre el pensamiento, sino sobre la atención | El cuerpo es la primera puerta, pero no el objetivo | El pasado es su interpretación
 - H3: _missing_
-- suggested keyword seed: ciclo, primer, ashraellen, atención, cuerpo, pasado, pensamiento, pero, public, sobre, como, con, cycle, cycles, del, essay, interpretación, mini-ensayos
-- candidates: que, pasado, una, pensamiento, pero, persona, por, como, cuerpo, del, con, atención, empieza, los, más, primer, puede, sino, aparece, convierte, estado, aquí, ciclo, conciencia
+- suggested keyword seed: ciclo, primer, sobre, cuerpo, pasado, pensamiento, pero, ashraellen, atención, interpretación, objetivo, poder, primera, public, puerta, sino, como, completado
+- candidates: pasado, que, pensamiento, pero, una, persona, por, primer, cuerpo, ciclo, como, del, atención, con, sino, empieza, los, más, puede, sobre, aparece, convierte, estado, interpretación
 
 Excerpt:
 
@@ -3847,13 +3847,13 @@ Excerpt:
 - lang: es
 - section: public
 - title: Ashraellen — Ciclos de mini-ensayos
-- description: _missing_
+- description: Ciclos de mini-ensayos Ciclos completados Ciclos de mini-ensayos Aquí se reúnen los ciclos completados de mini-ensayos. El ciclo actual se encuentra en la página principal de la sección. Ciclos completados al ciclo…
 - canonical: https://www.ashraellen.com/es/public/posts/essay/cycles/
 - H1: Ciclos de mini-ensayos
 - H2: Ciclos completados
 - H3: _missing_
-- suggested keyword seed: ciclos, ashraellen, mini-ensayos, completados, public, actual, aquí, atención, ciclo, cuerpo, cycle, cycles, encuentra, essay, posts, primer
-- candidates: ciclo, ciclos, mini-ensayos, actual, completados, primer, aquí, ashraellen, atención, cuerpo, cycle, encuentra, los, mark, página, pasado, presence, principal, reúnen, sección
+- suggested keyword seed: ciclos, mini-ensayos, completados, ciclo, actual, aquí, ashraellen, encuentra, los, página, principal, public, reúnen, cycles, essay, posts, primer, sección
+- candidates: ciclos, ciclo, mini-ensayos, completados, actual, aquí, encuentra, los, página, primer, principal, reúnen, sección, ashraellen, atención, cuerpo, cycle, mark, pasado, presence
 
 Excerpt:
 
@@ -3864,13 +3864,13 @@ Excerpt:
 - lang: es
 - section: public
 - title: Ashraellen — Mini-Ensayos
-- description: _missing_
+- description: Mini-ensayos Primer ciclo El poder no sobre el pensamiento, sino sobre la atención El cuerpo es la primera puerta, pero no el objetivo El pasado es su interpretación Mini-ensayos Pequeños análisis: una pregunta, un…
 - canonical: https://www.ashraellen.com/es/public/posts/essay/
 - H1: Mini-ensayos
 - H2: Primer ciclo | El poder no sobre el pensamiento, sino sobre la atención | El cuerpo es la primera puerta, pero no el objetivo | El pasado es su interpretación
 - H3: _missing_
-- suggested keyword seed: ashraellen, cuerpo, mini-ensayos, pasado, pensamiento, pero, public, sobre, atención, ciclo, como, con, del, empieza, essay, interpretación, objetivo, persona
-- candidates: una, que, pasado, pensamiento, pero, persona, por, como, del, con, cuerpo, empieza, los, más, puede, sino, aparece, atención, convierte, estado, aquí, conciencia, convertirse, esto
+- suggested keyword seed: mini-ensayos, sobre, cuerpo, pasado, pensamiento, pero, sino, ashraellen, atención, ciclo, interpretación, objetivo, poder, primer, primera, public, puerta, una
+- candidates: una, que, pasado, pensamiento, pero, persona, por, como, cuerpo, del, con, sino, atención, empieza, los, más, puede, sobre, aparece, convierte, estado, interpretación, aquí, conciencia
 
 Excerpt:
 
@@ -3880,14 +3880,14 @@ Excerpt:
 
 - lang: es
 - section: public
-- title: Ashraellen — Fórmulas
-- description: _missing_
+- title: Ashraellen — Fórmulas — Spanish
+- description: Ashraellen — Fórmulas — Spanish is part of the Ashraellen multilingual public archive of literary, artistic and research work.
 - canonical: https://www.ashraellen.com/es/public/posts/formula/
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, fórmulas, public, formula, posts
-- candidates: ashraellen, fórmulas
+- suggested keyword seed: ashraellen, public, fórmulas, spanish, archive, artistic, literary, multilingual, part, research, work, formula, posts
+- candidates: ashraellen, fórmulas, spanish, archive, artistic, literary, multilingual, part, public, research, work
 
 Excerpt:
 
@@ -3898,13 +3898,13 @@ Excerpt:
 - lang: es
 - section: public
 - title: Ashraellen — Línea de fórmulas
-- description: _missing_
+- description: Ashraellen — Línea de fórmulas is part of the Ashraellen multilingual public archive of literary, artistic and research work.
 - canonical: https://www.ashraellen.com/es/public/posts/formula/lines/
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, fórmulas, línea, public, formula, lines, posts
-- candidates: ashraellen, fórmulas, línea
+- suggested keyword seed: ashraellen, public, fórmulas, línea, archive, artistic, literary, multilingual, part, research, work, formula, lines, posts
+- candidates: ashraellen, fórmulas, línea, archive, artistic, literary, multilingual, part, public, research, work
 
 Excerpt:
 
@@ -3915,13 +3915,13 @@ Excerpt:
 - lang: es
 - section: public
 - title: Ashraellen — Línea 0001
-- description: _missing_
+- description: Ashraellen — Línea 0001 is part of the Ashraellen multilingual public archive of literary, artistic and research work.
 - canonical: https://www.ashraellen.com/es/public/posts/formula/lines/line-0001.html
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, 0001, línea, public, formula, line, lines, posts
-- candidates: 0001, ashraellen, línea
+- suggested keyword seed: ashraellen, public, 0001, línea, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts
+- candidates: ashraellen, 0001, línea, archive, artistic, literary, multilingual, part, public, research, work
 
 Excerpt:
 
@@ -3932,13 +3932,13 @@ Excerpt:
 - lang: es
 - section: public
 - title: Ashraellen — Línea 0002
-- description: _missing_
+- description: Ashraellen — Línea 0002 is part of the Ashraellen multilingual public archive of literary, artistic and research work.
 - canonical: https://www.ashraellen.com/es/public/posts/formula/lines/line-0002.html
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, 0002, línea, public, formula, line, lines, posts
-- candidates: 0002, ashraellen, línea
+- suggested keyword seed: ashraellen, public, 0002, línea, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts
+- candidates: ashraellen, 0002, línea, archive, artistic, literary, multilingual, part, public, research, work
 
 Excerpt:
 
@@ -3948,7 +3948,7 @@ Excerpt:
 
 - lang: es
 - section: public
-- title: Ashraellen — Fragmentos
+- title: Ashraellen — Fragmentos — Spanish
 - description: Fragmentos Ashraellen: sección preparada a partir de un gran archivo de manuscritos, notas y publicaciones acumulados durante muchos años de trabajo.
 - canonical: https://www.ashraellen.com/es/public/posts/fragment/
 - H1: Fragmentos
@@ -3966,13 +3966,13 @@ Excerpt:
 - lang: es
 - section: public
 - title: Ashraellen — Publicaciones
-- description: _missing_
+- description: Publicaciones Secciones Fórmulas Fragmentos Mini-ensayos Publicaciones Formas breves de observación: fórmulas, fragmentos y mini-ensayos. Distintas maneras de atrapar una idea antes de que alcance a convertirse en…
 - canonical: https://www.ashraellen.com/es/public/posts/
 - H1: Publicaciones
 - H2: Secciones
 - H3: Fórmulas | Fragmentos | Mini-ensayos
-- suggested keyword seed: ashraellen, publicaciones, public, alcance, análisis, ángulo, antes, atrapar, breves, fórmulas, fragmentos, leer, mini-ensayos, posts, secciones
-- candidates: leer, fórmulas, fragmentos, mini-ensayos, publicaciones, alcance, análisis, ángulo, antes, ashraellen, atrapar, breves, con, conclusión, conferencia, convertirse, dirección, distintas, elige, essay, formas, formato, formula, formulaciones
+- suggested keyword seed: publicaciones, fórmulas, fragmentos, mini-ensayos, alcance, antes, ashraellen, atrapar, breves, convertirse, distintas, formas, public, secciones, idea, leer, maneras, observación
+- candidates: fórmulas, fragmentos, mini-ensayos, publicaciones, leer, alcance, antes, atrapar, breves, convertirse, distintas, formas, idea, maneras, observación, que, secciones, una, análisis, ángulo, ashraellen, con, conclusión, conferencia
 
 Excerpt:
 
@@ -3983,13 +3983,13 @@ Excerpt:
 - lang: es
 - section: public
 - title: Ashraellen — Fuentes trasladadas
-- description: _missing_
+- description: Las fuentes han sido trasladadas Nueva dirección Las fuentes han sido trasladadas Las fuentes ya no forman parte de las publicaciones públicas. Ahora pertenecen a la investigación como fundamento metodológico del…
 - canonical: https://www.ashraellen.com/es/public/posts/sources/
 - H1: Las fuentes han sido trasladadas
 - H2: Nueva dirección
 - H3: _missing_
-- suggested keyword seed: ashraellen, fuentes, trasladadas, las, public, abrir, ahora, artística, ciencia, cognitiva, como, cruce, dirección, han, investigación, nueva, posts, sido
-- candidates: fuentes, las, ashraellen, como, investigación, trasladadas, abrir, ahora, artística, ciencia, cognitiva, cruce, cuerpo, cuyo, del, dirección, fenomenología, forman, fundamento, han, líneas, mark, método, metodológico
+- suggested keyword seed: fuentes, las, trasladadas, han, sido, ashraellen, dirección, ahora, como, del, forman, investigación, nueva, public, fundamento, metodológico, parte, pertenecen
+- candidates: fuentes, las, trasladadas, como, han, investigación, sido, ahora, ashraellen, del, dirección, forman, fundamento, metodológico, nueva, parte, pertenecen, publicaciones, públicas, abrir, artística, ciencia, cognitiva, cruce
 
 Excerpt:
 
@@ -4221,13 +4221,13 @@ Excerpt:
 - lang: es
 - section: public
 - title: Ashraellen — El problema pierde la corona
-- description: Pensamiento de apoyo 0013: El problema no fue destruido. Pero su drama, sí.
+- description: Pensamiento de apoyo 0013: El problema no fue destruido. Pero su drama, sí. El problema pierde la corona Sentido Texto completo Por qué fue elegido Nota de investigación Pensamiento de apoyo 0013 El problema pierde la…
 - canonical: https://www.ashraellen.com/es/public/thoughts/arcs/0013-problem-loses-crown.html
 - H1: El problema pierde la corona
 - H2: Sentido | Texto completo | Por qué fue elegido | Nota de investigación
 - H3: _missing_
-- suggested keyword seed: problema, corona, fue, ashraellen, destruido, drama, pensamiento, pero, pierde, por, public, qué, 0013, apoyo, arcs, completo, con, crown
-- candidates: problema, pero, con, pensamiento, fue, haya, por, que, qué, corona, destruido, drama, método, porque, una, 0013, aceptación, algo, apoyo, como, está, hacer, hecho, intentaste
+- suggested keyword seed: problema, pierde, corona, fue, 0013, pensamiento, por, qué, apoyo, ashraellen, completo, elegido, investigación, nota, pero, public, sentido, texto
+- candidates: problema, pero, pensamiento, con, fue, por, qué, corona, haya, pierde, que, 0013, apoyo, destruido, drama, método, porque, una, aceptación, algo, como, completo, elegido, está
 
 Excerpt:
 
@@ -4323,13 +4323,13 @@ Excerpt:
 - lang: es
 - section: public
 - title: Ashraellen — No Bombardees
-- description: Pensamiento de apoyo 0019: no bombardees, y no serás bombardeado.
+- description: Pensamiento de apoyo 0019: no bombardees, y no serás bombardeado. No Bombardees Sentido Texto completo Por qué fue elegido Nota de investigación Pensamiento de apoyo 0019 No Bombardees No bombardees, y no serás…
 - canonical: https://www.ashraellen.com/es/public/thoughts/arcs/0019-do-not-bomb.html
 - H1: No Bombardees
 - H2: Sentido | Texto completo | Por qué fue elegido | Nota de investigación
 - H3: _missing_
-- suggested keyword seed: bombardees, ashraellen, bombardeado, pensamiento, public, serás, 0019, apoyo, arcs, bomb, como, completo, después, elegido, fue, investigación, mundo, nota
-- candidates: que, una, bombardees, mundo, pensamiento, persona, primero, siempre, bombardeado, después, serás, como, con, cualquier, evidente, incluso, los, propia, 0019, agresión, algo, apoyo, convierte, defensa
+- suggested keyword seed: bombardees, 0019, pensamiento, serás, apoyo, ashraellen, bombardeado, completo, elegido, fue, investigación, nota, por, public, qué, sentido, texto, arcs
+- candidates: que, bombardees, pensamiento, una, mundo, persona, primero, serás, siempre, bombardeado, después, 0019, apoyo, como, con, cualquier, evidente, incluso, los, nota, por, propia, qué, texto
 
 Excerpt:
 
@@ -4340,13 +4340,13 @@ Excerpt:
 - lang: es
 - section: public
 - title: Ashraellen — Pueblo y Masa
-- description: Pensamiento de apoyo 0020: un pueblo recuerda. Una masa reacciona.
+- description: Pensamiento de apoyo 0020: un pueblo recuerda. Una masa reacciona. Pueblo y Masa Sentido Texto completo Por qué fue elegido Nota de investigación Pensamiento de apoyo 0020 Pueblo y Masa Un pueblo recuerda. Una masa…
 - canonical: https://www.ashraellen.com/es/public/thoughts/arcs/0020-people-and-mass.html
 - H1: Pueblo y Masa
 - H2: Sentido | Texto completo | Por qué fue elegido | Nota de investigación
 - H3: _missing_
-- suggested keyword seed: masa, pueblo, ashraellen, pensamiento, por, public, qué, una, 0020, apoyo, arcs, como, completo, corriente, elegido, ella, fue, investigación
-- candidates: pueblo, masa, una, persona, qué, los, por, corriente, pensamiento, puede, como, ella, quién, con, cualquier, está, hacia, llamar, memoria, reacciona, recuerda, ser, 0020, ahora
+- suggested keyword seed: masa, pueblo, pensamiento, por, qué, una, 0020, apoyo, ashraellen, completo, elegido, fue, investigación, nota, public, recuerda, sentido, texto
+- candidates: pueblo, masa, una, persona, qué, por, los, pensamiento, corriente, puede, como, ella, quién, recuerda, 0020, apoyo, con, cualquier, está, hacia, llamar, memoria, reacciona, ser
 
 Excerpt:
 
@@ -4374,13 +4374,13 @@ Excerpt:
 - lang: es
 - section: public
 - title: Ashraellen — La espiritualidad no se impone
-- description: Pensamiento de apoyo 0022: la verdadera espiritualidad no se impone. Encanta.
+- description: Pensamiento de apoyo 0022: la verdadera espiritualidad no se impone. Encanta. La espiritualidad no se impone Sentido Texto completo Por qué fue elegido Nota de investigación Pensamiento de apoyo 0022 La espiritualidad…
 - canonical: https://www.ashraellen.com/es/public/thoughts/arcs/0022-spirituality-is-not-forced.html
 - H1: La espiritualidad no se impone
 - H2: Sentido | Texto completo | Por qué fue elegido | Nota de investigación
 - H3: _missing_
-- suggested keyword seed: espiritualidad, impone, ashraellen, pensamiento, por, public, verdadera, 0022, alma, apoyo, arcs, completo, con, elegido, encanta, forced, fue, investigación
-- candidates: espiritualidad, puede, con, verdadera, porque, miedo, por, una, alma, impone, pensamiento, persona, fuente, camino, comienza, corrección, del, encanta, exterior, generar, que, reconocimiento, ser, sino
+- suggested keyword seed: espiritualidad, impone, pensamiento, por, 0022, apoyo, ashraellen, completo, elegido, fue, investigación, nota, public, qué, sentido, texto, verdadera, alma
+- candidates: espiritualidad, puede, con, verdadera, por, porque, impone, miedo, pensamiento, una, alma, persona, fuente, 0022, apoyo, camino, comienza, corrección, del, encanta, exterior, generar, que, reconocimiento
 
 Excerpt:
 
@@ -4441,14 +4441,14 @@ Excerpt:
 
 - lang: es
 - section: public
-- title: Ashraellen — Arco 0002
-- description: Segundo arco de pensamientos de apoyo Ashraellen.
+- title: Ashraellen — Arco 0002 — Spanish
+- description: Segundo arco de pensamientos de apoyo Ashraellen. Segundo arco de pensamientos de apoyo La silla vacía Generalización en vez de observación Donde la vida se detuvo La taza sucia No te arrepientas Cuándo cerrar el libro…
 - canonical: https://www.ashraellen.com/es/public/thoughts/index-0002.html
 - H1: Segundo arco de pensamientos de apoyo
 - H2: La silla vacía | Generalización en vez de observación | Donde la vida se detuvo | La taza sucia | No te arrepientas | Cuándo cerrar el libro
 - H3: _missing_
-- suggested keyword seed: arco, ashraellen, apoyo, pensamientos, segundo, 0002, generalización, observación, public, abrir, arrepientas, cerrar, cuándo, despertar, detuvo, donde, index, libro
-- candidates: pensamiento, apoyo, abrir, arco, observación, pensamientos, 0002, ashraellen, despertar, generalización, pérdida, segundo, taza, 0007, 0008, 0009, 0010, 0011, 0012, algunas, anterior, arrepientas, camino, cerrar
+- suggested keyword seed: arco, apoyo, ashraellen, pensamientos, segundo, arrepientas, generalización, observación, taza, 0002, cerrar, cuándo, detuvo, donde, libro, public, silla, sucia
+- candidates: pensamiento, apoyo, arco, abrir, observación, pensamientos, generalización, segundo, taza, 0002, arrepientas, ashraellen, cerrar, cuándo, despertar, detuvo, donde, libro, pérdida, silla, sucia, vacía, vez, vida
 
 Excerpt:
 
@@ -4526,14 +4526,14 @@ Excerpt:
 
 - lang: es
 - section: research
-- title: Ashraellen — Notes
-- description: _missing_
+- title: Ashraellen — Notes — Spanish
+- description: Notes / Margins Ashraellen Notes / Margins Márgenes, dudas, fragmentos. Material que se niega a convertirse en doctrina. Si se siente inacabado — ese es el punto. ← Research Public
 - canonical: https://www.ashraellen.com/es/research/notes/
 - H1: Notes / Margins
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: notes, ashraellen, margins, research, convertirse, doctrina, dudas, ese, fragmentos, inacabado, márgenes, material, niega
-- candidates: ashraellen, notes, convertirse, doctrina, dudas, ese, fragmentos, inacabado, márgenes, margins, material, niega, public, punto, que, research, siente
+- suggested keyword seed: notes, ashraellen, margins, research, convertirse, doctrina, dudas, ese, fragmentos, inacabado, márgenes, material, niega, public, punto, que, siente, spanish
+- candidates: notes, ashraellen, margins, convertirse, doctrina, dudas, ese, fragmentos, inacabado, márgenes, material, niega, public, punto, que, research, siente, spanish
 
 Excerpt:
 
@@ -4543,14 +4543,14 @@ Excerpt:
 
 - lang: es
 - section: research
-- title: Ashraellen — Position
-- description: _missing_
+- title: Ashraellen — Position — Spanish
+- description: Position Ashraellen Position Trabajo como investigador artístico independiente, tratando la experiencia interna como campo de observación. Religión, filosofía y experiencias trascendentales son modelos de descripción,…
 - canonical: https://www.ashraellen.com/es/research/position/
 - H1: Position
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: position, ashraellen, research, artístico, campo, como, descripción, experiencia, experiencias, filosofía, independiente, interna, investigador
-- candidates: ashraellen, como, position, artístico, campo, descripción, experiencia, experiencias, filosofía, independiente, interna, investigador, misma, modelos, observación, public, realidad, religión, research, son, trabajo, trascendentales, tratando
+- suggested keyword seed: position, ashraellen, como, artístico, campo, descripción, experiencia, experiencias, filosofía, independiente, interna, investigador, research, modelos, observación, religión, son, spanish
+- candidates: como, position, ashraellen, artístico, campo, descripción, experiencia, experiencias, filosofía, independiente, interna, investigador, modelos, observación, religión, son, trabajo, trascendentales, tratando, misma, public, realidad, research, spanish
 
 Excerpt:
 
@@ -4612,13 +4612,13 @@ Excerpt:
 - lang: root
 - section: flow
 - title: FLOW — Ashraellen
-- description: FLOW — Ashraellen playlist on YouTube Music.
+- description: FLOW — Ashraellen playlist on YouTube Music. FLOW FLOW Opening the playlist on YouTube Music... Open playlist
 - canonical: https://www.ashraellen.com/flow/
 - H1: FLOW
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: flow, ashraellen, music, playlist, youtube, open, opening
-- candidates: flow, playlist, ashraellen, music, youtube, open, opening
+- suggested keyword seed: flow, ashraellen, playlist, music, youtube, open, opening
+- candidates: flow, playlist, music, youtube, ashraellen, open, opening
 
 Excerpt:
 
@@ -4645,14 +4645,14 @@ Excerpt:
 
 - lang: fr
 - section: books
-- title: Ashraellen — BETON
-- description: BETON — Volume I de la trilogie MONOLITH.
+- title: Ashraellen — BETON — French
+- description: BETON — Volume I de la trilogie MONOLITH. BETON Dossier Description BETON Volume I de la trilogie MONOLITH. Dossier Volume I Le béton ne commence pas par un mur. Il commence par l’habitude d’appeler une prison…
 - canonical: https://www.ashraellen.com/fr/books/monolith/beton/
 - H1: BETON
 - H2: Dossier | Description
 - H3: _missing_
-- suggested keyword seed: beton, monolith, ashraellen, books, trilogie, volume, béton, commence, dans, des, description, dossier, est, monde, trop, une
-- candidates: est, une, beton, volume, commence, monde, monolith, trilogie, trop, béton, dans, des, dossier, être, l’édition, mémoire, par, pas, première, prison, qui, significations, stabilité, sur
+- suggested keyword seed: beton, dossier, monolith, volume, commence, par, trilogie, ashraellen, béton, books, description, pas, une, d’appeler, est, french, l’habitude, monde
+- candidates: beton, une, est, volume, commence, dossier, monolith, par, trilogie, béton, monde, pas, prison, trop, d’appeler, dans, des, description, être, l’édition, l’habitude, mémoire, mur, première
 
 Excerpt:
 
@@ -4662,13 +4662,13 @@ Excerpt:
 
 - lang: fr
 - section: books
-- title: Ashraellen — MONOLITH
+- title: Ashraellen — MONOLITH — French
 - description: MONOLITH — trilogie dystopique sur le contrôle, la mémoire et l’effondrement des systèmes.
 - canonical: https://www.ashraellen.com/fr/books/monolith/
 - H1: MONOLITH
 - H2: Série | Volumes
 - H3: Volume I — BETON | Volume II — SLUDGE | Volume III — GAS
-- suggested keyword seed: monolith, ashraellen, books, mémoire, beton, contrôle, des, devient, dystopique, est, gas, l’effondrement, ouvrir, sans, série, sludge, stabilité, sur
+- suggested keyword seed: monolith, ashraellen, books, mémoire, beton, contrôle, des, devient, dystopique, est, french, gas, l’effondrement, ouvrir, sans, série, sludge, stabilité
 - candidates: volume, monolith, devient, gas, mémoire, sans, une, beton, est, ouvrir, sludge, stabilité, sur, commence, contrôle, des, fissure, forme, l’effondrement, matière, première, préparation, sociale, système
 
 Excerpt:
@@ -4679,14 +4679,14 @@ Excerpt:
 
 - lang: fr
 - section: books
-- title: Ashraellen — SLUDGE
-- description: SLUDGE — Volume II de la trilogie MONOLITH.
+- title: Ashraellen — SLUDGE — French
+- description: SLUDGE — Volume II de la trilogie MONOLITH. SLUDGE Dossier Description SLUDGE Volume II de la trilogie MONOLITH. Dossier Volume II L’être humain ne se brise pas d’un seul coup. D’abord, il se fatigue de résister.…
 - canonical: https://www.ashraellen.com/fr/books/monolith/sludge/
 - H1: SLUDGE
 - H2: Dossier | Description
 - H3: _missing_
-- suggested keyword seed: sludge, monolith, ashraellen, books, trilogie, volume, commence, description, dossier, est, forme, humain, l’être, pas, peu, une
-- candidates: est, sludge, humain, peu, une, volume, commence, forme, l’être, monolith, pas, trilogie, brise, coup, d’un, devient, dossier, elle, l’édition, monde, sur, 2026-001b, 6666548a, actuellement
+- suggested keyword seed: sludge, dossier, monolith, volume, trilogie, ashraellen, books, brise, description, humain, l’être, pas, coup, d’abord, d’un, est, fatigue, french
+- candidates: sludge, est, volume, humain, dossier, l’être, monolith, pas, peu, trilogie, une, brise, commence, coup, d’un, forme, d’abord, description, devient, elle, fatigue, l’édition, monde, résister
 
 Excerpt:
 
@@ -4713,13 +4713,13 @@ Excerpt:
 
 - lang: fr
 - section: books
-- title: Ashraellen — The Book of Whinesis
+- title: Ashraellen — The Book of Whinesis — French
 - description: The Book of Whinesis — satire sacrée pour celles et ceux qui sont fatigués des ondes positives, de la productivité sans fin et du culte du succès.
 - canonical: https://www.ashraellen.com/fr/books/the-book-of-whinesis/
 - H1: The Book of Whinesis
 - H2: À propos du livre | Premiers chapitres | Extrait | Statut
 - H3: _missing_
-- suggested keyword seed: book, whinesis, ashraellen, books, des, qui, celles, ceux, chapitres, culte, dans, dit, extrait, fatigués, fin, les, livre, moania
+- suggested keyword seed: book, whinesis, ashraellen, books, des, qui, celles, ceux, chapitres, culte, dans, dit, extrait, fatigués, fin, french, les, livre
 - candidates: des, les, que, dit, plainte, une, dans, pas, qui, seigneur, sur, moania, pour, car, gnorna, canapé, devient, réduction, serpent, tous, est, saucisson, supermarché, ton
 
 Excerpt:
@@ -4747,13 +4747,13 @@ Excerpt:
 
 - lang: fr
 - section: contact.html
-- title: Contact — Ashraellen
+- title: Contact — Ashraellen — French
 - description: Page de contact Ashraellen : coopération, édition, subventions, médias et demandes liées au projet.
 - canonical: https://www.ashraellen.com/fr/contact.html
 - H1: Contact
 - H2: Ashraellen
 - H3: _missing_
-- suggested keyword seed: ashraellen, contact, coopération, demandes, médias, projet, subventions, aux, canal, contact.html, des, édition, kostyshev, liées, telegram
+- suggested keyword seed: ashraellen, contact, coopération, demandes, médias, projet, subventions, aux, canal, contact.html, des, édition, french, kostyshev, liées, telegram
 - candidates: contact, ashraellen, des, telegram, coopération, demandes, médias, projet, subventions, aux, canal, kostyshev, liées, projets, publics, recherche, sert, appropriés, ashraellen.live, ashraellenchannel, ashraellenlive, canaux, créatif, d’édition
 
 Excerpt:
@@ -4781,14 +4781,14 @@ Excerpt:
 
 - lang: fr
 - section: monolith
-- title: MONOLITH — Ashraellen
-- description: MONOLITH: BETON. SLUDGE. GAS.
+- title: MONOLITH — Ashraellen — French
+- description: MONOLITH: BETON. SLUDGE. GAS. MONOLITH BETON SLUDGE GAS MONOLITH Trois états de désintégration contrôlée : BETON. SLUDGE. GAS. MONOLITH est une trilogie dystopique sur le contrôle, la mémoire et l’effondrement des…
 - canonical: https://www.ashraellen.com/fr/monolith/
 - H1: MONOLITH
 - H2: BETON | SLUDGE | GAS
 - H3: _missing_
-- suggested keyword seed: monolith, beton, gas, sludge, ashraellen, amazon, anglais, est, lire, mémoire, préparation, sur, volume
-- candidates: gas, monolith, sur, amazon, beton, est, préparation, sludge, volume, anglais, lire, mémoire, une, actuellement, anglaises, après, ashraellen, commence, contrôle, contrôlée, des, désintégration, devient, disponibles
+- suggested keyword seed: monolith, beton, gas, sludge, ashraellen, est, mémoire, sur, une, amazon, anglais, contrôle, contrôlée, des, désintégration, dystopique, états, french
+- candidates: monolith, gas, beton, sludge, sur, est, amazon, mémoire, préparation, une, volume, anglais, contrôle, contrôlée, des, désintégration, dystopique, états, l’effondrement, lire, trilogie, trois, actuellement, anglaises
 
 Excerpt:
 
@@ -4832,13 +4832,13 @@ Excerpt:
 
 - lang: fr
 - section: public
-- title: Ashraellen — Public
+- title: Ashraellen — Public — French
 - description: Champ public Ashraellen : interventions, publications, pensées d’appui, réactions et observations où la recherche rencontre la personne vivante.
 - canonical: https://www.ashraellen.com/fr/public/
 - H1: Public
 - H2: Interventions | Publications | Nouvelles pensées d’appui
 - H3: Ne bombardez pas | Peuple et Masse | Jeux d’accouplement | La spiritualité ne s’impose pas | Le prix du passage | Le véritable ennemi
-- suggested keyword seed: public, ashraellen, d’appui, champ, interventions, pensées, personne, publications, dans, elle, est, les, nouvelles, observations, ouvrir, pas, pensée, réactions
+- suggested keyword seed: public, ashraellen, d’appui, champ, interventions, pensées, personne, publications, dans, elle, est, french, les, nouvelles, observations, ouvrir, pas, pensée
 - candidates: pensée, d’appui, ouvrir, pas, une, est, personne, public, champ, dans, elle, les, pensées, avec, masse, peuple, qui, spiritualité, vivante, ashraellen, certitude, crise, déjà, des
 
 Excerpt:
@@ -4850,13 +4850,13 @@ Excerpt:
 - lang: fr
 - section: public
 - title: Ashraellen — Premier cycle de mini-essais
-- description: _missing_
+- description: Premier cycle Premier cycle Le pouvoir non sur la pensée, mais sur l’attention Le corps est la première porte, mais non le but Le passé est son interprétation Premier cycle Le premier cycle achevé de mini-essais :…
 - canonical: https://www.ashraellen.com/fr/public/posts/essay/cycles/cycle-0001.html
 - H1: Premier cycle
 - H2: Premier cycle | Le pouvoir non sur la pensée, mais sur l’attention | Le corps est la première porte, mais non le but | Le passé est son interprétation
 - H3: _missing_
-- suggested keyword seed: cycle, est, mais, premier, ashraellen, corps, non, passé, pensée, public, sur, comme, commence, cycles, elle, essay, interprétation, l’attention
-- candidates: pas, une, mais, est, nous, passé, pensée, elle, les, comme, commence, corps, dans, personne, non, peut, avec, c’est, des, devenir, être, par, plus, premier
+- suggested keyword seed: cycle, premier, est, mais, non, sur, corps, passé, pensée, ashraellen, interprétation, l’attention, mini-essais, porte, pouvoir, première, public, son
+- candidates: pas, mais, une, est, passé, nous, pensée, corps, elle, les, premier, comme, commence, cycle, dans, non, personne, peut, avec, c’est, des, devenir, être, interprétation
 
 Excerpt:
 
@@ -4867,13 +4867,13 @@ Excerpt:
 - lang: fr
 - section: public
 - title: Ashraellen — Cycles de mini-essais
-- description: _missing_
+- description: Cycles de mini-essais Cycles achevés Cycles de mini-essais Les cycles achevés de mini-essais sont rassemblés ici. Le cycle actuel se trouve sur la page principale de la section. Cycles achevés vers le cycle actuel…
 - canonical: https://www.ashraellen.com/fr/public/posts/essay/cycles/
 - H1: Cycles de mini-essais
 - H2: Cycles achevés
 - H3: _missing_
-- suggested keyword seed: cycles, ashraellen, mini-essais, achevés, public, actuel, attention, corps, cycle, essay, ici, les, mark, posts, premier
-- candidates: cycle, cycles, mini-essais, actuel, achevés, premier, ashraellen, attention, corps, ici, les, mark, passé, presence, principale, rassemblés, section, sont, sur, trouve, vers
+- suggested keyword seed: cycles, mini-essais, achevés, actuel, cycle, ashraellen, ici, les, principale, public, rassemblés, section, sont, essay, posts, premier, sur, trouve
+- candidates: cycles, cycle, mini-essais, achevés, actuel, ici, les, premier, principale, rassemblés, section, sont, sur, trouve, vers, ashraellen, attention, corps, mark, passé, presence
 
 Excerpt:
 
@@ -4884,13 +4884,13 @@ Excerpt:
 - lang: fr
 - section: public
 - title: Ashraellen — Mini-essais
-- description: _missing_
+- description: Mini-essais Premier cycle Le pouvoir non sur la pensée, mais sur l’attention Le corps est la première porte, mais non le but Le passé est son interprétation Mini-essais De courts examens : une question, un angle de vue…
 - canonical: https://www.ashraellen.com/fr/public/posts/essay/
 - H1: Mini-essais
 - H2: Premier cycle | Le pouvoir non sur la pensée, mais sur l’attention | Le corps est la première porte, mais non le but | Le passé est son interprétation
 - H3: _missing_
-- suggested keyword seed: est, mais, ashraellen, mini-essais, non, passé, pensée, public, sur, comme, commence, corps, cycle, dans, elle, essay, interprétation, l’attention
-- candidates: pas, une, mais, est, nous, passé, pensée, elle, les, comme, commence, dans, personne, corps, non, peut, avec, c’est, des, devenir, être, par, plus, que
+- suggested keyword seed: est, mais, mini-essais, non, sur, corps, passé, pensée, ashraellen, cycle, interprétation, l’attention, porte, pouvoir, premier, première, public, son
+- candidates: pas, une, mais, est, nous, passé, pensée, elle, les, comme, commence, corps, dans, non, personne, peut, avec, c’est, des, devenir, être, interprétation, par, plus
 
 Excerpt:
 
@@ -4901,13 +4901,13 @@ Excerpt:
 - lang: fr
 - section: public
 - title: Ashraellen — Formules
-- description: _missing_
+- description: Ashraellen — Formules is part of the Ashraellen multilingual public archive of literary, artistic and research work.
 - canonical: https://www.ashraellen.com/fr/public/posts/formula/
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, formules, public, formula, posts
-- candidates: ashraellen, formules
+- suggested keyword seed: ashraellen, public, formules, archive, artistic, literary, multilingual, part, research, work, formula, posts
+- candidates: ashraellen, formules, archive, artistic, literary, multilingual, part, public, research, work
 
 Excerpt:
 
@@ -4918,13 +4918,13 @@ Excerpt:
 - lang: fr
 - section: public
 - title: Ashraellen — Ligne de formules
-- description: _missing_
+- description: Ashraellen — Ligne de formules is part of the Ashraellen multilingual public archive of literary, artistic and research work.
 - canonical: https://www.ashraellen.com/fr/public/posts/formula/lines/
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, formules, ligne, public, formula, lines, posts
-- candidates: ashraellen, formules, ligne
+- suggested keyword seed: ashraellen, public, formules, ligne, archive, artistic, literary, multilingual, part, research, work, formula, lines, posts
+- candidates: ashraellen, formules, ligne, archive, artistic, literary, multilingual, part, public, research, work
 
 Excerpt:
 
@@ -4935,13 +4935,13 @@ Excerpt:
 - lang: fr
 - section: public
 - title: Ashraellen — Ligne 0001
-- description: _missing_
+- description: Ashraellen — Ligne 0001 is part of the Ashraellen multilingual public archive of literary, artistic and research work.
 - canonical: https://www.ashraellen.com/fr/public/posts/formula/lines/line-0001.html
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, 0001, ligne, public, formula, line, lines, posts
-- candidates: 0001, ashraellen, ligne
+- suggested keyword seed: ashraellen, public, 0001, ligne, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts
+- candidates: ashraellen, 0001, ligne, archive, artistic, literary, multilingual, part, public, research, work
 
 Excerpt:
 
@@ -4952,13 +4952,13 @@ Excerpt:
 - lang: fr
 - section: public
 - title: Ashraellen — Ligne 0002
-- description: _missing_
+- description: Ashraellen — Ligne 0002 is part of the Ashraellen multilingual public archive of literary, artistic and research work.
 - canonical: https://www.ashraellen.com/fr/public/posts/formula/lines/line-0002.html
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, 0002, ligne, public, formula, line, lines, posts
-- candidates: 0002, ashraellen, ligne
+- suggested keyword seed: ashraellen, public, 0002, ligne, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts
+- candidates: ashraellen, 0002, ligne, archive, artistic, literary, multilingual, part, public, research, work
 
 Excerpt:
 
@@ -4968,13 +4968,13 @@ Excerpt:
 
 - lang: fr
 - section: public
-- title: Ashraellen — Fragments
+- title: Ashraellen — Fragments — French
 - description: Fragments Ashraellen : section préparée à partir d’un vaste ensemble de manuscrits, notes et publications accumulés pendant de nombreuses années de travail.
 - canonical: https://www.ashraellen.com/fr/public/posts/fragment/
 - H1: Fragments
 - H2: Section en préparation
 - H3: _missing_
-- suggested keyword seed: ashraellen, fragments, accumulés, années, ensemble, manuscrits, notes, public, section, travail, archive, d’un, extraits, fragment, ici, nombreuses, partir, pendant
+- suggested keyword seed: ashraellen, fragments, accumulés, années, ensemble, manuscrits, notes, public, section, travail, archive, d’un, extraits, fragment, french, ici, nombreuses, partir
 - candidates: fragments, travail, archive, ashraellen, notes, textes, accumulés, années, ensemble, extraits, ici, manuscrits, nombreuses, pendant, publications, section, une, vaste, apparaîtront, après, choisis, courts, d’un, dans
 
 Excerpt:
@@ -4986,13 +4986,13 @@ Excerpt:
 - lang: fr
 - section: public
 - title: Ashraellen — Publications
-- description: _missing_
+- description: Publications Sections Formules Fragments Mini-essais Publications Formes brèves d’observation : formules, fragments et mini-essais. Différentes manières de saisir une pensée avant qu’elle ait le temps de devenir une…
 - canonical: https://www.ashraellen.com/fr/public/posts/
 - H1: Publications
 - H2: Sections
 - H3: Formules | Fragments | Mini-essais
-- suggested keyword seed: ashraellen, publications, public, ait, angle, avant, brèves, formules, fragments, lire, mini-essais, pensée, posts, sections, une
-- candidates: une, lire, brèves, formules, fragments, mini-essais, pensée, publications, ait, angle, ashraellen, avant, avec, choisissez, conclusion, conférence, courts, d’observation, devenir, différentes, direction, essay, examens, format
+- suggested keyword seed: publications, formules, fragments, mini-essais, une, ait, ashraellen, avant, brèves, d’observation, devenir, pensée, public, sections, différentes, formes, lire, manières
+- candidates: une, formules, fragments, mini-essais, publications, brèves, lire, pensée, ait, avant, d’observation, devenir, différentes, formes, manières, qu’elle, saisir, sections, temps, angle, ashraellen, avec, choisissez, conclusion
 
 Excerpt:
 
@@ -5003,13 +5003,13 @@ Excerpt:
 - lang: fr
 - section: public
 - title: Ashraellen — Sources déplacées
-- description: _missing_
+- description: Les sources ont été déplacées Nouvelle adresse Les sources ont été déplacées Les sources ne relèvent plus des publications publiques. Elles font désormais partie de la recherche, comme fondement méthodologique du…
 - canonical: https://www.ashraellen.com/fr/public/posts/sources/
 - H1: Les sources ont été déplacées
 - H2: Nouvelle adresse
 - H3: _missing_
-- suggested keyword seed: sources, ashraellen, déplacées, adresse, les, public, artistique, cognitives, comme, corps, croisement, déplacé, été, nouvelle, ont, posts, recherche
-- candidates: sources, ashraellen, comme, déplacées, les, recherche, adresse, artistique, cognitives, corps, croisement, déplacé, des, désormais, desquelles, elles, été, fondement, font, lignes, mark, méthode, méthodologique, nouvelle
+- suggested keyword seed: sources, déplacées, les, été, ont, adresse, ashraellen, comme, des, désormais, elles, nouvelle, public, recherche, fondement, font, méthodologique, partie
+- candidates: sources, les, déplacées, comme, été, ont, recherche, adresse, ashraellen, des, désormais, elles, fondement, font, méthodologique, nouvelle, partie, plus, publications, publiques, relèvent, artistique, cognitives, corps
 
 Excerpt:
 
@@ -5241,13 +5241,13 @@ Excerpt:
 - lang: fr
 - section: public
 - title: Ashraellen — Le problème perd sa couronne
-- description: Pensée d’appui 0013 : Le problème n’a pas été détruit. Mais son drame, oui.
+- description: Pensée d’appui 0013 : Le problème n’a pas été détruit. Mais son drame, oui. Le problème perd sa couronne Sens Texte complet Pourquoi ce choix Note de recherche Pensée d’appui 0013 Le problème perd sa couronne Le…
 - canonical: https://www.ashraellen.com/fr/public/thoughts/arcs/0013-problem-loses-crown.html
 - H1: Le problème perd sa couronne
 - H2: Sens | Texte complet | Pourquoi ce choix | Note de recherche
 - H3: _missing_
-- suggested keyword seed: problème, couronne, ashraellen, détruit, mais, pas, pensée, perd, public, son, 0013, alors, arcs, avec, choix, complet, crown, d’appui
-- candidates: problème, mais, est, pas, pensée, que, avec, son, alors, couronne, déjà, détruit, drame, été, méthode, n’a, oui, parce, une, 0013, chose, d’appui, dramatique, essayé
+- suggested keyword seed: problème, couronne, perd, 0013, pensée, ashraellen, choix, complet, d’appui, mais, note, pas, pourquoi, public, recherche, sens, son, texte
+- candidates: problème, mais, est, pas, pensée, couronne, que, avec, perd, son, 0013, alors, d’appui, déjà, détruit, drame, été, méthode, n’a, oui, parce, une, choix, chose
 
 Excerpt:
 
@@ -5343,13 +5343,13 @@ Excerpt:
 - lang: fr
 - section: public
 - title: Ashraellen — Ne bombardez pas
-- description: Pensée d’appui 0019 : ne bombardez pas, et vous ne serez pas bombardés.
+- description: Pensée d’appui 0019 : ne bombardez pas, et vous ne serez pas bombardés. Ne bombardez pas Sens Texte complet Pourquoi ce choix Note de recherche Pensée d’appui 0019 Ne bombardez pas Ne bombardez pas, et vous ne serez…
 - canonical: https://www.ashraellen.com/fr/public/thoughts/arcs/0019-do-not-bomb.html
 - H1: Ne bombardez pas
 - H2: Sens | Texte complet | Pourquoi ce choix | Note de recherche
 - H3: _missing_
-- suggested keyword seed: pas, bombardez, ashraellen, bombardés, pensée, public, vous, 0019, arcs, bomb, choix, complet, d’abord, d’appui, dans, est, monde, note
-- candidates: pas, que, bombardez, dans, monde, pensée, puis, une, d’abord, est, vous, bombardés, les, serez, toujours, cette, humain, l’être, même, n’importe, personne, pour, propre, quelle
+- suggested keyword seed: pas, bombardez, pensée, serez, vous, 0019, ashraellen, choix, complet, d’appui, note, pourquoi, public, recherche, sens, texte, arcs, bomb
+- candidates: pas, bombardez, que, pensée, dans, monde, puis, une, vous, d’abord, est, serez, bombardés, les, toujours, 0019, cette, choix, d’appui, humain, l’être, même, n’importe, personne
 
 Excerpt:
 
@@ -5360,13 +5360,13 @@ Excerpt:
 - lang: fr
 - section: public
 - title: Ashraellen — Peuple et Masse
-- description: Pensée d’appui 0020 : un peuple se souvient. Une masse réagit.
+- description: Pensée d’appui 0020 : un peuple se souvient. Une masse réagit. Peuple et Masse Sens Texte complet Pourquoi ce choix Note de recherche Pensée d’appui 0020 Peuple et Masse Un peuple se souvient. Une masse réagit. Sens Un…
 - canonical: https://www.ashraellen.com/fr/public/thoughts/arcs/0020-people-and-mass.html
 - H1: Peuple et Masse
 - H2: Sens | Texte complet | Pourquoi ce choix | Note de recherche
 - H3: _missing_
-- suggested keyword seed: masse, peuple, ashraellen, pensée, public, une, 0020, arcs, choix, complet, d’appui, elle, est, les, mass, note, people, personne
-- candidates: peuple, masse, une, personne, elle, est, les, pensée, peut, pour, que, qui, appeler, comme, des, mais, moi, courant, être, mémoire, n’importe, plus, réagit, souvient
+- suggested keyword seed: masse, peuple, pensée, sens, une, 0020, ashraellen, choix, complet, d’appui, note, pourquoi, public, réagit, recherche, souvient, texte, arcs
+- candidates: peuple, masse, une, personne, elle, est, pensée, les, peut, pour, que, qui, appeler, comme, des, mais, moi, réagit, souvient, 0020, courant, d’appui, être, mémoire
 
 Excerpt:
 
@@ -5394,13 +5394,13 @@ Excerpt:
 - lang: fr
 - section: public
 - title: Ashraellen — La spiritualité ne s’impose pas
-- description: Pensée d’appui 0022 : la vraie spiritualité ne s’impose pas. Elle enchante.
+- description: Pensée d’appui 0022 : la vraie spiritualité ne s’impose pas. Elle enchante. La spiritualité ne s’impose pas Sens Texte complet Pourquoi ce choix Note de recherche Pensée d’appui 0022 La spiritualité ne s’impose pas La…
 - canonical: https://www.ashraellen.com/fr/public/thoughts/arcs/0022-spirituality-is-not-forced.html
 - H1: La spiritualité ne s’impose pas
 - H2: Sens | Texte complet | Pourquoi ce choix | Note de recherche
 - H3: _missing_
-- suggested keyword seed: pas, spiritualité, s’impose, ashraellen, elle, public, vraie, 0022, arcs, choix, complet, d’appui, enchante, forced, l’âme, mais, non, note
-- candidates: pas, peut, spiritualité, une, elle, non, vraie, parce, peur, l’âme, mais, par, pensée, personne, s’impose, avec, produire, qu’on, source, chemin, commence, correction, devenir, enchante
+- suggested keyword seed: pas, s’impose, spiritualité, pensée, 0022, ashraellen, choix, complet, d’appui, elle, note, pourquoi, public, recherche, sens, texte, vraie, arcs
+- candidates: pas, spiritualité, peut, une, elle, non, vraie, s’impose, parce, pensée, peur, l’âme, mais, par, personne, avec, produire, qu’on, source, 0022, chemin, commence, correction, d’appui
 
 Excerpt:
 
@@ -5462,13 +5462,13 @@ Excerpt:
 - lang: fr
 - section: public
 - title: Ashraellen — Arc 0002
-- description: Deuxième arc de pensées d’appui Ashraellen.
+- description: Deuxième arc de pensées d’appui Ashraellen. Deuxième arc de pensées d’appui La chaise vide Généralisation au lieu d’observation Là où la vie s’est arrêtée La tasse sale Ne regrettez pas Quand fermer le livre Pensées…
 - canonical: https://www.ashraellen.com/fr/public/thoughts/index-0002.html
 - H1: Deuxième arc de pensées d’appui
 - H2: La chaise vide | Généralisation au lieu d’observation | Là où la vie s’est arrêtée | La tasse sale | Ne regrettez pas | Quand fermer le livre
 - H3: _missing_
-- suggested keyword seed: arc, ashraellen, d’appui, deuxième, pensées, 0002, généralisation, lieu, pas, public, arrêtée, chaise, d’observation, fermer, index, livre, ouvrir, pensée
-- candidates: pensée, d’appui, arc, ouvrir, pas, pensées, 0002, ashraellen, deuxième, généralisation, lieu, perte, tasse, 0007, 0008, 0009, 0010, 0011, 0012, arrêtée, c’est, certaines, chaise, chemin
+- suggested keyword seed: arc, pensées, d’appui, deuxième, arrêtée, ashraellen, généralisation, lieu, pas, tasse, 0002, chaise, d’observation, fermer, livre, public, quand, regrettez
+- candidates: pensée, d’appui, arc, ouvrir, pensées, pas, deuxième, généralisation, lieu, tasse, 0002, arrêtée, ashraellen, chaise, d’observation, fermer, livre, perte, quand, regrettez, s’est, sale, vide, vie
 
 Excerpt:
 
@@ -5513,7 +5513,7 @@ Excerpt:
 - lang: fr
 - section: research
 - title: Ashraellen — Recherche
-- description: Ashraellen est une manière de voir et une recherche artistique et philosophique du sens à l’échelle d’une vie : observation de la façon dont l’être humain perd le contact avec la réalité, le sens et la liberté intérieure.
+- description: Ashraellen est une manière de voir et une recherche artistique et philosophique du sens à l’échelle d’une vie : observation de la façon dont l’être humain perd le contact avec la réalité, le sens et la liberté…
 - canonical: https://www.ashraellen.com/fr/research/
 - H1: Recherche
 - H2: Ce qui est recherché | Comment cela se fait | Méthode | Formes de recherche | Comment comprendre ce travail | Recherche artistique | Savoir ouvert | Société numérique
@@ -5546,14 +5546,14 @@ Excerpt:
 
 - lang: fr
 - section: research
-- title: Ashraellen — Notes
-- description: _missing_
+- title: Ashraellen — Notes — French
+- description: Notes / Margins Ashraellen Notes / Margins Marges, doutes, fragments. Une matière qui refuse de devenir doctrine. Si cela semble inachevé — c’est le principe. ← Research Public
 - canonical: https://www.ashraellen.com/fr/research/notes/
 - H1: Notes / Margins
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: notes, ashraellen, margins, research, c’est, cela, devenir, doctrine, doutes, fragments, inachevé, marges, matière
-- candidates: ashraellen, notes, c’est, cela, devenir, doctrine, doutes, fragments, inachevé, marges, margins, matière, principe, public, qui, refuse, research, semble, une
+- suggested keyword seed: notes, ashraellen, margins, research, c’est, cela, devenir, doctrine, doutes, fragments, inachevé, marges, matière, french, principe, public, qui, refuse
+- candidates: notes, ashraellen, margins, c’est, cela, devenir, doctrine, doutes, fragments, inachevé, marges, matière, principe, public, qui, refuse, research, semble, une, french
 
 Excerpt:
 
@@ -5563,14 +5563,14 @@ Excerpt:
 
 - lang: fr
 - section: research
-- title: Ashraellen — Position
-- description: _missing_
+- title: Ashraellen — Position — French
+- description: Position Ashraellen Position Je travaille comme chercheur artistique indépendant, en considérant l’expérience intérieure comme un champ d’observation. Religions, philosophies et expériences transcendantes sont des…
 - canonical: https://www.ashraellen.com/fr/research/position/
 - H1: Position
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: position, ashraellen, research, artistique, champ, chercheur, comme, considérant, d’observation, des, description, elle, expériences
-- candidates: ashraellen, comme, position, artistique, champ, chercheur, considérant, d’observation, des, description, elle, expériences, indépendant, intérieure, l’expérience, même, modèles, pas, philosophies, public, réalité, religions, research, sont
+- suggested keyword seed: position, ashraellen, comme, artistique, champ, chercheur, considérant, d’observation, des, expériences, indépendant, intérieure, research, french, l’expérience, philosophies, religions, sont
+- candidates: comme, position, ashraellen, artistique, champ, chercheur, considérant, d’observation, des, expériences, indépendant, intérieure, l’expérience, philosophies, religions, sont, transcendantes, travaille, description, elle, french, même, modèles, pas
 
 Excerpt:
 
@@ -5649,13 +5649,13 @@ Excerpt:
 - lang: root
 - section: monolith
 - title: MONOLITH — Ashraellen
-- description: MONOLITH language gateway: BETON. SLUDGE. GAS.
+- description: MONOLITH language gateway: BETON. SLUDGE. GAS. MONOLITH MONOLITH Detecting language… Определение языка… English Русский Беларуская Polski Deutsch Español Français Português Українська
 - canonical: https://www.ashraellen.com/monolith/
 - H1: MONOLITH
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: monolith, ashraellen, beton, gas, gateway, language, detecting, deutsch, english, español, français, polski, sludge
-- candidates: monolith, language, ashraellen, beton, detecting, deutsch, english, español, français, gas, gateway, polski, português, sludge, беларуская, определение, русский, українська, языка
+- suggested keyword seed: monolith, language, ashraellen, detecting, deutsch, english, español, français, polski, português, беларуская, определение, русский, beton, gas, gateway, sludge, українська
+- candidates: monolith, language, detecting, deutsch, english, español, français, polski, português, беларуская, определение, русский, українська, языка, ashraellen, beton, gas, gateway, sludge
 
 Excerpt:
 
@@ -5666,13 +5666,13 @@ Excerpt:
 - lang: pl
 - section: books
 - title: Ashraellen — Błąd 404: Boga nie znaleziono
-- description: Błąd 404: Boga nie znaleziono — wielojęzyczny filozoficzno-satyryczny cykl powieściowy o Niebiańskiej Kancelarii, ludzkiej pretensji do Wszechświata i błędzie szukania, który zaczyna się nie w Bogu, lecz w samym sposobie zwracania się.
+- description: Błąd 404: Boga nie znaleziono — wielojęzyczny filozoficzno-satyryczny cykl powieściowy o Niebiańskiej Kancelarii, ludzkiej pretensji do Wszechświata i błędzie szukania, który zaczyna się nie w Bogu, lecz w samym…
 - canonical: https://www.ashraellen.com/pl/books/error-404-god-not-found/
 - H1: Błąd 404: Boga nie znaleziono
 - H2: Seria | Książki cyklu | Fraza serii
 - H3: Księga I — Dlaczego ja? | Księga II — Na wszystko Jego wola | Księga III — w przygotowaniu
-- suggested keyword seed: nie, 404, błąd, boga, znaleziono, się, ashraellen, books, kancelarii, który, niebiańskiej, szukania, albo, błędzie, bogu, cykl, cyklu, error
-- candidates: nie, boga, błąd, kancelarii, niebiańskiej, szukania, znaleziono, 404, albo, który, przygotowaniu, się, bogu, cykl, księga, odpowiedź, przez, sposobie, ale, błędzie, cyklu, człowiek, dlatego, filozoficzno-satyryczny
+- suggested keyword seed: nie, 404, błąd, boga, znaleziono, ashraellen, bogu, books, kancelarii, który, niebiańskiej, szukania, albo, błędzie, cykl, cyklu, error, filozoficzno-satyryczny
+- candidates: nie, boga, błąd, kancelarii, niebiańskiej, szukania, znaleziono, 404, albo, który, przygotowaniu, bogu, cykl, księga, odpowiedź, przez, się, ale, błędzie, cyklu, człowiek, dlatego, filozoficzno-satyryczny, forma
 
 Excerpt:
 
@@ -5716,14 +5716,14 @@ Excerpt:
 
 - lang: pl
 - section: books
-- title: Ashraellen — BETON
-- description: BETON — tom I trylogii MONOLITH.
+- title: Ashraellen — BETON — Polish
+- description: BETON — tom I trylogii MONOLITH. BETON Akta Opis BETON Tom I trylogii MONOLITH. Akta Tom I Beton nie zaczyna się od ściany. Zaczyna się od nawyku nazywania więzienia stabilnością. AKTA № 2026-001B. Indeks: 6666548A.…
 - canonical: https://www.ashraellen.com/pl/books/monolith/beton/
 - H1: BETON
 - H2: Akta | Opis
 - H3: _missing_
-- suggested keyword seed: beton, monolith, akta, ashraellen, books, tom, trylogii, jego, nie, opis, pierwszy, się, świecie, zaczyna, zbyt
-- candidates: beton, się, tom, monolith, świecie, trylogii, zaczyna, zbyt, akta, jego, nie, pierwszy, tylko, więzienia, znaczeń, zostać, 2026-001b, 6666548a, amazon, angielskie, angielsku, anton, archiwów, ashraellen
+- suggested keyword seed: beton, akta, monolith, tom, się, trylogii, zaczyna, 2026-001b, ashraellen, books, nie, opis, więzienia, 6666548a, indeks, nawyku, nazywania, polish
+- candidates: beton, się, tom, akta, zaczyna, monolith, trylogii, nie, świecie, więzienia, zbyt, 2026-001b, 6666548a, indeks, jego, nawyku, nazywania, opis, pierwszy, ściany, stabilnością, tylko, znaczeń, zostać
 
 Excerpt:
 
@@ -5733,14 +5733,14 @@ Excerpt:
 
 - lang: pl
 - section: books
-- title: Ashraellen — MONOLITH
-- description: MONOLITH — trylogia dystopijna o kontroli, pamięci i rozpadzie systemów.
+- title: Ashraellen — MONOLITH — Polish
+- description: MONOLITH — trylogia dystopijna o kontroli, pamięci i rozpadzie systemów. MONOLITH Seria Tomy Tom I — BETON Tom II — SLUDGE Tom III — GAS MONOLITH MONOLITH to trylogia społecznej fantastyki, dystopii i filozoficznego…
 - canonical: https://www.ashraellen.com/pl/books/monolith/
 - H1: MONOLITH
 - H2: Seria | Tomy
 - H3: Tom I — BETON | Tom II — SLUDGE | Tom III — GAS
-- suggested keyword seed: monolith, ashraellen, books, pamięci, beton, bez, dystopijna, forma, gas, kontroli, otwórz, rozpadzie, seria, się, sludge, stabilność, staje, systemów
-- candidates: się, tom, gas, monolith, beton, bez, otwórz, pamięci, sludge, stabilność, staje, forma, kontroli, przygotowaniu, rozpadzie, społecznej, systemów, systemu, trylogia, zaczyna, absolutna, ale, amazon, angielskie
+- suggested keyword seed: monolith, tom, ashraellen, beton, books, gas, pamięci, seria, sludge, społecznej, tomy, trylogia, bez, dystopii, dystopijna, fantastyki, filozoficznego, iii
+- candidates: się, tom, monolith, gas, beton, sludge, bez, otwórz, pamięci, społecznej, stabilność, staje, trylogia, dystopii, fantastyki, filozoficznego, forma, iii, kontroli, przygotowaniu, rozpadzie, seria, systemów, systemu
 
 Excerpt:
 
@@ -5750,14 +5750,14 @@ Excerpt:
 
 - lang: pl
 - section: books
-- title: Ashraellen — SLUDGE
-- description: SLUDGE — tom II trylogii MONOLITH.
+- title: Ashraellen — SLUDGE — Polish
+- description: SLUDGE — tom II trylogii MONOLITH. SLUDGE Akta Opis SLUDGE Tom II trylogii MONOLITH. Akta Tom II Człowiek nie łamie się od razu. Najpierw męczy się oporem. Potem zaczyna się zgadzać. AKTA № 2026-001B. Indeks: 6666548A.…
 - canonical: https://www.ashraellen.com/pl/books/monolith/sludge/
 - H1: SLUDGE
 - H2: Akta | Opis
 - H3: _missing_
-- suggested keyword seed: sludge, monolith, akta, ashraellen, books, tom, trylogii, człowiek, człowieka, łamie, najpierw, nie, opis, się, zaczyna
-- candidates: się, sludge, nie, tom, człowiek, monolith, trylogii, zaczyna, akta, człowieka, łamie, najpierw, razu, świecie, tylko, 2026-001b, 6666548a, amazon, angielskie, angielsku, ashraellen, beton, być, był
+- suggested keyword seed: sludge, akta, monolith, się, tom, trylogii, ashraellen, books, człowiek, łamie, najpierw, nie, opis, razu, zaczyna, 2026-001b, 6666548a, indeks
+- candidates: się, sludge, tom, akta, nie, człowiek, monolith, trylogii, zaczyna, łamie, najpierw, razu, 2026-001b, 6666548a, człowieka, indeks, męczy, opis, oporem, potem, świecie, tylko, zgadzać, amazon
 
 Excerpt:
 
@@ -5835,7 +5835,7 @@ Excerpt:
 
 - lang: pl
 - section: books
-- title: Ashraellen — The Book of Whinesis
+- title: Ashraellen — The Book of Whinesis — Polish
 - description: The Book of Whinesis — sakralna satyra dla tych, którzy zmęczyli się pozytywnymi wibracjami, niekończącą się produktywnością i kultem sukcesu.
 - canonical: https://www.ashraellen.com/pl/books/the-book-of-whinesis/
 - H1: The Book of Whinesis
@@ -5869,13 +5869,13 @@ Excerpt:
 
 - lang: pl
 - section: contact.html
-- title: Kontakt — Ashraellen
+- title: Kontakt — Ashraellen — Polish
 - description: Kontakt z Ashraellen: współpraca, publikacje, granty, media i zapytania projektowe.
 - canonical: https://www.ashraellen.com/pl/contact.html
 - H1: Kontakt
 - H2: Ashraellen
 - H3: _missing_
-- suggested keyword seed: ashraellen, kontakt, granty, media, współpraca, contact, contact.html, kanał, kontaktu, projektów, projektowe, publiczne, publikacje, publikacji, służy, telegram, zapytania
+- suggested keyword seed: ashraellen, kontakt, granty, media, współpraca, contact, contact.html, kanał, kontaktu, polish, projektów, projektowe, publiczne, publikacje, publikacji, służy, telegram, zapytania
 - candidates: ashraellen, kontaktu, telegram, kontakt, granty, kanał, media, projektów, publiczne, publikacji, służy, współpraca, zapytania, aktualizacji, ashraellen.live, ashraellenchannel, ashraellenlive, badawcze, badawczy, bezpośrednich, bezpośrednio, dotyczące, email, europejska
 
 Excerpt:
@@ -5903,14 +5903,14 @@ Excerpt:
 
 - lang: pl
 - section: monolith
-- title: MONOLITH — Ashraellen
-- description: MONOLITH: BETON. SLUDGE. GAS.
+- title: MONOLITH — Ashraellen — Polish
+- description: MONOLITH: BETON. SLUDGE. GAS. MONOLITH BETON SLUDGE GAS MONOLITH Trzy stany kontrolowanego rozpadu: BETON. SLUDGE. GAS. MONOLITH to trylogia dystopijna o kontroli, pamięci i rozpadzie systemów. Polska edycja jest w…
 - canonical: https://www.ashraellen.com/pl/monolith/
 - H1: MONOLITH
 - H2: BETON | SLUDGE | GAS
 - H3: _missing_
-- suggested keyword seed: monolith, ashraellen, beton, gas, sludge, amazon, angielskie, angielsku, czytaj, przygotowaniu, się, tom
-- candidates: gas, monolith, amazon, beton, przygotowaniu, sludge, tom, angielsku, czytaj, się, angielskie, ashraellen, dostępne, dystopijna, edycja, forma, iii, kontroli, kontrolowanego, obecnie, pamięć, pamięci, pierwszej, polska
+- suggested keyword seed: monolith, beton, gas, sludge, ashraellen, dystopijna, edycja, kontroli, amazon, angielsku, czytaj, kontrolowanego, pamięci, polish, polska, przygotowaniu, rozpadu, rozpadzie
+- candidates: monolith, gas, beton, sludge, amazon, przygotowaniu, tom, angielsku, czytaj, dystopijna, edycja, kontroli, kontrolowanego, pamięci, polska, rozpadu, rozpadzie, się, stany, systemów, trylogia, trzy, angielskie, ashraellen
 
 Excerpt:
 
@@ -5972,13 +5972,13 @@ Excerpt:
 - lang: pl
 - section: public
 - title: Ashraellen — Pierwszy cykl mini-esejów
-- description: _missing_
+- description: Pierwszy cykl Pierwszy cykl Władza nie nad myślą, lecz nad uwagą Ciało jest pierwszymi drzwiami, ale nie celem Przeszłość jest jej interpretacją Pierwszy cykl Pierwszy zakończony cykl mini-esejów: uwaga, ciało,…
 - canonical: https://www.ashraellen.com/pl/public/posts/essay/cycles/cycle-0001.html
 - H1: Pierwszy cykl
 - H2: Pierwszy cykl | Władza nie nad myślą, lecz nad uwagą | Ciało jest pierwszymi drzwiami, ale nie celem | Przeszłość jest jej interpretacją
 - H3: _missing_
-- suggested keyword seed: pierwszy, cykl, nie, ale, ashraellen, ciało, lecz, myślą, nad, public, celem, cycle, cycles, człowiek, drzwiami, essay, interpretacją, jako
-- candidates: się, nie, ale, człowiek, zaczyna, ciało, lecz, przeszłości, jako, myśl, myślą, pierwszy, pojawia, przeszłość, tak, być, cykl, czasem, jej, myśli, nowym, oto, tego, właśnie
+- suggested keyword seed: cykl, pierwszy, nie, ciało, nad, ale, lecz, myślą, przeszłość, ashraellen, celem, drzwiami, interpretacją, jej, mini-esejów, pierwszymi, public, uwagą
+- candidates: się, nie, ale, ciało, człowiek, pierwszy, cykl, zaczyna, lecz, myślą, przeszłość, przeszłości, jako, jej, myśl, nad, pojawia, tak, być, czasem, myśli, nowym, oto, pierwszymi
 
 Excerpt:
 
@@ -5989,13 +5989,13 @@ Excerpt:
 - lang: pl
 - section: public
 - title: Ashraellen — Cykle mini-esejów
-- description: _missing_
+- description: Cykle mini-esejów Zakończone cykle Cykle mini-esejów Tutaj zebrane są zakończone cykle mini-esejów. Aktualny cykl znajduje się na głównej stronie działu. Zakończone cykle do aktualnego cyklu Pierwszy cykl Pierwszy cykl…
 - canonical: https://www.ashraellen.com/pl/public/posts/essay/cycles/
 - H1: Cykle mini-esejów
 - H2: Zakończone cykle
 - H3: _missing_
-- suggested keyword seed: cykle, ashraellen, mini-esejów, public, zakończone, aktualnego, aktualny, ciało, cycle, cycles, cykl, cyklu, działu, essay, pierwszy, posts
-- candidates: cykl, cykle, mini-esejów, aktualny, pierwszy, zakończone, aktualnego, ashraellen, ciało, cycle, cyklu, działu, głównej, mark, presence, przeszłość, się, stronie, tutaj, uwaga, zebrane, znajduje
+- suggested keyword seed: cykle, mini-esejów, zakończone, cykl, pierwszy, aktualnego, aktualny, ashraellen, cyklu, działu, głównej, public, się, stronie, cycles, essay, posts, tutaj
+- candidates: cykle, cykl, mini-esejów, zakończone, pierwszy, aktualny, aktualnego, cyklu, działu, głównej, się, stronie, tutaj, zebrane, znajduje, ashraellen, ciało, cycle, mark, presence, przeszłość, uwaga
 
 Excerpt:
 
@@ -6006,13 +6006,13 @@ Excerpt:
 - lang: pl
 - section: public
 - title: Ashraellen — Mini-eseje
-- description: _missing_
+- description: Mini-eseje Pierwszy cykl Władza nie nad myślą, lecz nad uwagą Ciało jest pierwszymi drzwiami, ale nie celem Przeszłość jest jej interpretacją Mini-eseje Krótkie rozbiórki: jedno pytanie, jeden kąt widzenia, jeden…
 - canonical: https://www.ashraellen.com/pl/public/posts/essay/
 - H1: Mini-eseje
 - H2: Pierwszy cykl | Władza nie nad myślą, lecz nad uwagą | Ciało jest pierwszymi drzwiami, ale nie celem | Przeszłość jest jej interpretacją
 - H3: _missing_
-- suggested keyword seed: nie, ale, ashraellen, ciało, lecz, mini-eseje, myślą, nad, public, celem, cykl, człowiek, drzwiami, essay, interpretacją, jako, jej, myśl
-- candidates: się, nie, ale, człowiek, zaczyna, ciało, lecz, przeszłości, jako, myśl, myślą, pojawia, tak, być, czasem, jej, myśli, nowym, oto, przeszłość, tego, właśnie, wolność, żyje
+- suggested keyword seed: nie, mini-eseje, nad, ale, ciało, jej, lecz, myślą, ashraellen, celem, cykl, drzwiami, interpretacją, jeden, pierwszy, pierwszymi, przeszłość, public
+- candidates: się, nie, ale, człowiek, zaczyna, ciało, lecz, myślą, przeszłości, jako, jej, myśl, nad, pojawia, przeszłość, tak, być, czasem, jeden, mini-eseje, myśli, nowym, oto, pierwszymi
 
 Excerpt:
 
@@ -6108,13 +6108,13 @@ Excerpt:
 - lang: pl
 - section: public
 - title: Ashraellen — Publikacje
-- description: _missing_
+- description: Publikacje Działy Formuły Fragmenty Mini-eseje Publikacje Krótkie formy obserwacji: formuły, fragmenty i mini-eseje. Różne sposoby uchwycenia myśli, zanim zdąży stać się wykładem. Działy wybierz format formula Formuły…
 - canonical: https://www.ashraellen.com/pl/public/posts/
 - H1: Publikacje
 - H2: Działy
 - H3: Formuły | Fragmenty | Mini-eseje
-- suggested keyword seed: ashraellen, publikacje, działy, public, ale, bez, czytaj, essay, format, formuły, fragmenty, krótkie, mini-eseje, posts
-- candidates: czytaj, formuły, fragmenty, krótkie, mini-eseje, publikacje, ale, ashraellen, bez, działy, essay, format, formula, formy, fragment, jedna, jedno, kąt, kierunek, lakoniczne, mark, myśl, myśli, obserwacji
+- suggested keyword seed: publikacje, działy, formuły, fragmenty, mini-eseje, ashraellen, format, formula, formy, krótkie, myśli, obserwacji, public, czytaj, posts, różne, się, sposoby
+- candidates: formuły, fragmenty, mini-eseje, publikacje, czytaj, działy, krótkie, format, formula, formy, myśli, obserwacji, różne, się, sposoby, stać, uchwycenia, wybierz, wykładem, zanim, zdąży, ale, ashraellen, bez
 
 Excerpt:
 
@@ -6125,13 +6125,13 @@ Excerpt:
 - lang: pl
 - section: public
 - title: Ashraellen — Źródła przeniesione
-- description: _missing_
+- description: Źródła zostały przeniesione Nowy adres Źródła zostały przeniesione Źródła nie należą już do publicznych publikacji. Są teraz częścią działu badań jako metodologiczny fundament projektu. Nowy adres badania Otwórz…
 - canonical: https://www.ashraellen.com/pl/public/posts/sources/
 - H1: Źródła zostały przeniesione
 - H2: Nowy adres
 - H3: _missing_
-- suggested keyword seed: ashraellen, przeniesione, źródła, adres, public, artystyczna, badań, badania, ciało, częścią, działu, fenomenologia, jako, nowy, posts, sources, zostały
-- candidates: źródła, przeniesione, ashraellen, jako, adres, artystyczna, badań, badania, ciało, częścią, działu, fenomenologia, fundament, już, kognitywne, których, linie, mark, metoda, metodologiczny, należą, narracja, nauki, nie
+- suggested keyword seed: źródła, przeniesione, adres, nowy, zostały, ashraellen, badań, badania, częścią, działu, fundament, jako, public, już, metodologiczny, należą, nie, otwórz
+- candidates: źródła, przeniesione, adres, jako, nowy, zostały, ashraellen, badań, badania, częścią, działu, fundament, już, metodologiczny, należą, nie, otwórz, projektu, publicznych, publikacji, teraz, artystyczna, ciało, fenomenologia
 
 Excerpt:
 
@@ -6363,13 +6363,13 @@ Excerpt:
 - lang: pl
 - section: public
 - title: Ashraellen — Problem traci koronę
-- description: Myśl przewodnia 0013: Problem nie został zniszczony. Ale jego patos — tak.
+- description: Myśl przewodnia 0013: Problem nie został zniszczony. Ale jego patos — tak. Problem traci koronę Sens Pełny tekst Dlaczego wybrano Nota badawcza Myśl przewodnia 0013 Problem traci koronę Problem nie został zniszczony.…
 - canonical: https://www.ashraellen.com/pl/public/thoughts/arcs/0013-problem-loses-crown.html
 - H1: Problem traci koronę
 - H2: Sens | Pełny tekst | Dlaczego wybrano | Nota badawcza
 - H3: _missing_
-- suggested keyword seed: problem, ale, ashraellen, jego, koronę, myśl, nie, patos, public, traci, 0013, arcs, badawcza, crown, dlaczego, dlatego, jako, już
-- candidates: nie, problem, ale, myśl, się, dlatego, jego, już, próbowałeś, jako, metoda, patos, tak, tego, zniszczony, został, 0013, ashraellen, histerią, karmić, kontrolne, koronę, między, może
+- suggested keyword seed: problem, koronę, traci, myśl, nie, zniszczony, 0013, ale, ashraellen, badawcza, dlaczego, jego, nota, pełny, przewodnia, public, sens, tekst
+- candidates: nie, problem, ale, myśl, się, dlatego, jego, już, koronę, próbowałeś, traci, zniszczony, został, 0013, jako, metoda, patos, przewodnia, tak, tego, tekst, ashraellen, badawcza, dlaczego
 
 Excerpt:
 
@@ -6448,13 +6448,13 @@ Excerpt:
 - lang: pl
 - section: public
 - title: Ashraellen — Obraz nie może być szczęśliwy
-- description: Myśl przewodnia 0018: Obraz może otrzymać uznanie. Ale nie może być szczęśliwy.
+- description: Myśl przewodnia 0018: Obraz może otrzymać uznanie. Ale nie może być szczęśliwy. Obraz nie może być szczęśliwy Sens Pełny tekst Dlaczego wybrano Nota badawcza Myśl przewodnia 0018 Obraz nie może być szczęśliwy Obraz…
 - canonical: https://www.ashraellen.com/pl/public/thoughts/arcs/0018-image-cannot-be-happy.html
 - H1: Obraz nie może być szczęśliwy
 - H2: Sens | Pełny tekst | Dlaczego wybrano | Nota badawcza
 - H3: _missing_
-- suggested keyword seed: może, być, nie, obraz, szczęśliwy, ale, ashraellen, myśl, public, 0018, arcs, badawcza, cannot, człowiek, dlaczego, happy, image, nota
-- candidates: może, nie, obraz, być, się, ale, człowiek, obrazu, pytania, szczęśliwy, właściwą, myśl, siebie, środku, uznanie, gdy, ludzi, otrzymać, żyje, 0018, albo, bardziej, bardzo, budować
+- suggested keyword seed: może, obraz, być, nie, szczęśliwy, myśl, 0018, ale, ashraellen, badawcza, dlaczego, nota, pełny, przewodnia, public, sens, tekst, wybrano
+- candidates: może, nie, obraz, być, się, szczęśliwy, ale, człowiek, myśl, obrazu, pytania, właściwą, siebie, środku, uznanie, 0018, dlaczego, gdy, ludzi, otrzymać, przewodnia, tekst, żyje, albo
 
 Excerpt:
 
@@ -6465,13 +6465,13 @@ Excerpt:
 - lang: pl
 - section: public
 - title: Ashraellen — Nie bombardujcie
-- description: Myśl przewodnia 0019: nie bombardujcie — a nie będziecie bombardowani.
+- description: Myśl przewodnia 0019: nie bombardujcie — a nie będziecie bombardowani. Nie bombardujcie Sens Pełny tekst Dlaczego wybrano Notatka badawcza Myśl przewodnia 0019 Nie bombardujcie Nie bombardujcie — a nie będziecie…
 - canonical: https://www.ashraellen.com/pl/public/thoughts/arcs/0019-do-not-bomb.html
 - H1: Nie bombardujcie
 - H2: Sens | Pełny tekst | Dlaczego wybrano | Notatka badawcza
 - H3: _missing_
-- suggested keyword seed: nie, bombardujcie, ashraellen, będziecie, bombardowani, myśl, public, 0019, arcs, badawcza, bomb, człowiek, czy, dlaczego, najpierw, notatka, pełny, potem
-- candidates: nie, się, bombardujcie, człowiek, myśl, potem, najpierw, świat, będziecie, bombardowani, zawsze, czy, nawet, oczywiste, wypuszcza, 0019, ale, bardzo, cisza, dziwi, jeśli, już, każdą, misję
+- suggested keyword seed: nie, bombardujcie, 0019, będziecie, myśl, ashraellen, badawcza, bombardowani, dlaczego, notatka, pełny, przewodnia, public, sens, tekst, wybrano, arcs, bomb
+- candidates: nie, się, bombardujcie, myśl, człowiek, potem, będziecie, najpierw, świat, bombardowani, zawsze, 0019, czy, nawet, oczywiste, przewodnia, tekst, wypuszcza, ale, badawcza, bardzo, cisza, dlaczego, dziwi
 
 Excerpt:
 
@@ -6482,13 +6482,13 @@ Excerpt:
 - lang: pl
 - section: public
 - title: Ashraellen — Naród i masa
-- description: Myśl przewodnia 0020: naród pamięta. Masa reaguje.
+- description: Myśl przewodnia 0020: naród pamięta. Masa reaguje. Naród i masa Sens Pełny tekst Dlaczego wybrano Notatka badawcza Myśl przewodnia 0020 Naród i masa Naród pamięta. Masa reaguje. Sens Naród składa się z twarzy, pamięci,…
 - canonical: https://www.ashraellen.com/pl/public/thoughts/arcs/0020-people-and-mass.html
 - H1: Naród i masa
 - H2: Sens | Pełny tekst | Dlaczego wybrano | Notatka badawcza
 - H3: _missing_
-- suggested keyword seed: masa, naród, ashraellen, myśl, public, 0020, arcs, badawcza, człowiek, dlaczego, jako, mass, masy, mnie, można, myśli, nie, niego
-- candidates: naród, się, człowiek, masa, myśl, nie, jako, można, niego, masy, mnie, myśli, pamięta, reaguje, 0020, czy, dlatego, duszy, już, kogo, kto, który, łatwo, ludzi
+- suggested keyword seed: naród, masa, 0020, myśl, pamięta, reaguje, sens, ashraellen, badawcza, dlaczego, notatka, pełny, przewodnia, public, się, tekst, wybrano, arcs
+- candidates: naród, się, masa, człowiek, myśl, nie, jako, można, niego, pamięta, reaguje, 0020, masy, mnie, myśli, przewodnia, sens, składa, tekst, twarzy, badawcza, czy, dlaczego, dlatego
 
 Excerpt:
 
@@ -6516,13 +6516,13 @@ Excerpt:
 - lang: pl
 - section: public
 - title: Ashraellen — Duchowości się nie narzuca
-- description: Myśl przewodnia 0022: prawdziwej duchowości się nie narzuca. Nią się zachwyca.
+- description: Myśl przewodnia 0022: prawdziwej duchowości się nie narzuca. Nią się zachwyca. Duchowości się nie narzuca Sens Pełny tekst Dlaczego wybrano Notatka badawcza Myśl przewodnia 0022 Duchowości się nie narzuca Prawdziwej…
 - canonical: https://www.ashraellen.com/pl/public/thoughts/arcs/0022-spirituality-is-not-forced.html
 - H1: Duchowości się nie narzuca
 - H2: Sens | Pełny tekst | Dlaczego wybrano | Notatka badawcza
 - H3: _missing_
-- suggested keyword seed: się, duchowości, narzuca, nie, ashraellen, myśl, public, 0022, arcs, badawcza, człowieka, dlaczego, dlatego, duchowość, forced, może, można, nią
-- candidates: nie, się, dlatego, duchowość, może, człowieka, duchowości, myśl, narzuca, prawdziwa, można, zrodzić, dusza, nią, prawdziwej, rodzi, stać, zachwyca, zaczyna, zewnętrzną, 0022, ale, człowiek, drogi
+- suggested keyword seed: się, duchowości, narzuca, nie, myśl, prawdziwej, 0022, ashraellen, badawcza, dlaczego, notatka, pełny, przewodnia, public, sens, tekst, wybrano, arcs
+- candidates: nie, się, duchowości, narzuca, dlatego, duchowość, może, myśl, człowieka, prawdziwa, można, prawdziwej, zrodzić, 0022, dusza, nią, przewodnia, rodzi, stać, tekst, zachwyca, zaczyna, zewnętrzną, ale
 
 Excerpt:
 
@@ -6533,13 +6533,13 @@ Excerpt:
 - lang: pl
 - section: public
 - title: Ashraellen — Cena przejścia
-- description: Myśl przewodnia 0023: każde przejście na nowy etap opłaca się kryzysem.
+- description: Myśl przewodnia 0023: każde przejście na nowy etap opłaca się kryzysem. Cena przejścia Sens Pełny tekst Dlaczego wybrano Notatka badawcza Myśl przewodnia 0023 Cena przejścia Każde przejście na nowy etap opłaca się…
 - canonical: https://www.ashraellen.com/pl/public/thoughts/arcs/0023-price-of-transition.html
 - H1: Cena przejścia
 - H2: Sens | Pełny tekst | Dlaczego wybrano | Notatka badawcza
 - H3: _missing_
-- suggested keyword seed: przejścia, ashraellen, cena, etap, kryzysem, myśl, opłaca, public, się, 0023, ale, arcs, badawcza, czy, dlaczego, już, każde, kryzys
-- candidates: nie, się, kryzys, tak, myśl, ale, czy, etap, już, kryzysem, opłaca, przejścia, swoją, być, dawno, inaczej, każde, nowy, przejście, roli, swoim, trzeba, tym, wejść
+- suggested keyword seed: cena, przejścia, etap, myśl, opłaca, się, 0023, ashraellen, badawcza, dlaczego, każde, notatka, nowy, pełny, przejście, przewodnia, public, sens
+- candidates: nie, się, kryzys, myśl, przejścia, tak, etap, opłaca, ale, cena, czy, już, każde, kryzysem, nowy, przejście, swoją, 0023, być, dawno, inaczej, przewodnia, roli, swoim
 
 Excerpt:
 
@@ -6668,14 +6668,14 @@ Excerpt:
 
 - lang: pl
 - section: research
-- title: Ashraellen — Notes
-- description: _missing_
+- title: Ashraellen — Notes — Polish
+- description: Notes / Margins Ashraellen Notes / Margins Marginesy, wątpliwości, fragmenty. Materiał, który nie chce stać się doktryną. Jeśli jest niedokończone — o to chodzi. ← Research Public
 - canonical: https://www.ashraellen.com/pl/research/notes/
 - H1: Notes / Margins
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: notes, ashraellen, margins, research, chce, chodzi, doktryną, fragmenty, jeśli, który, marginesy, materiał, nie
-- candidates: ashraellen, notes, chce, chodzi, doktryną, fragmenty, jeśli, który, marginesy, margins, materiał, nie, niedokończone, public, research, się, stać, wątpliwości
+- suggested keyword seed: notes, ashraellen, margins, research, chce, chodzi, doktryną, fragmenty, jeśli, który, marginesy, materiał, nie, niedokończone, polish, public, się, stać
+- candidates: notes, ashraellen, margins, chce, chodzi, doktryną, fragmenty, jeśli, który, marginesy, materiał, nie, niedokończone, public, research, się, stać, wątpliwości, polish
 
 Excerpt:
 
@@ -6685,14 +6685,14 @@ Excerpt:
 
 - lang: pl
 - section: research
-- title: Ashraellen — Position
-- description: _missing_
+- title: Ashraellen — Position — Polish
+- description: Position Ashraellen Position Pracuję jako niezależny badacz artystyczny, traktując doświadczenie wewnętrzne jako pole obserwacji. Religia, filozofia i doświadczenia transgresyjne to modele opisu — nie sama…
 - canonical: https://www.ashraellen.com/pl/research/position/
 - H1: Position
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: position, ashraellen, research, artystyczny, badacz, doświadczenia, doświadczenie, filozofia, jako, modele, nie, niezależny, obserwacji
-- candidates: ashraellen, jako, position, artystyczny, badacz, doświadczenia, doświadczenie, filozofia, modele, nie, niezależny, obserwacji, opisu, pole, pracuję, public, religia, research, rzeczywistość, sama, traktując, transgresyjne, wewnętrzne
+- suggested keyword seed: position, ashraellen, jako, artystyczny, badacz, doświadczenia, doświadczenie, filozofia, modele, nie, niezależny, obserwacji, research, opisu, pole, polish, pracuję, religia
+- candidates: jako, position, ashraellen, artystyczny, badacz, doświadczenia, doświadczenie, filozofia, modele, nie, niezależny, obserwacji, opisu, pole, pracuję, religia, sama, traktując, transgresyjne, wewnętrzne, polish, public, research, rzeczywistość
 
 Excerpt:
 
@@ -6737,12 +6737,12 @@ Excerpt:
 - lang: root
 - section: privacy.html
 - title: Privacy Policy — Ashraellen
-- description: Redirecting to the English Privacy Policy for Ashraellen.com.
+- description: Redirecting to the English Privacy Policy for Ashraellen.com. Redirecting to Privacy Policy .
 - canonical: https://www.ashraellen.com/privacy.html
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: privacy, ashraellen, policy, ashraellen.com, english, redirecting, privacy.html
+- suggested keyword seed: privacy, policy, ashraellen, redirecting, ashraellen.com, english, privacy.html
 - candidates: policy, privacy, redirecting, ashraellen, ashraellen.com, english
 
 Excerpt:
@@ -6770,14 +6770,14 @@ Excerpt:
 
 - lang: pt
 - section: books
-- title: Ashraellen — BETON
-- description: BETON — Volume I da trilogia MONOLITH.
+- title: Ashraellen — BETON — PT
+- description: BETON — Volume I da trilogia MONOLITH. BETON Arquivo Descrição BETON Volume I da trilogia MONOLITH. Arquivo Volume I O concreto não começa com uma parede. Começa com o hábito de chamar uma prisão de estabilidade.…
 - canonical: https://www.ashraellen.com/pt/books/monolith/beton/
 - H1: BETON
 - H2: Arquivo | Descrição
 - H3: _missing_
-- suggested keyword seed: beton, monolith, arquivo, ashraellen, books, trilogia, volume, apenas, demais, descrição, edição, mundo, que, sobre, uma
-- candidates: beton, uma, volume, demais, edição, monolith, mundo, que, sobre, trilogia, apenas, arquivo, com, começa, concreto, está, estabilidade, inglês, memória, não, primeira, prisão, ser, significados
+- suggested keyword seed: beton, arquivo, monolith, volume, com, começa, trilogia, uma, ashraellen, books, concreto, descrição, estabilidade, chamar, demais, edição, hábito, não
+- candidates: beton, uma, volume, arquivo, com, começa, monolith, trilogia, concreto, demais, edição, estabilidade, mundo, não, prisão, que, sobre, apenas, chamar, descrição, está, hábito, inglês, memória
 
 Excerpt:
 
@@ -6787,14 +6787,14 @@ Excerpt:
 
 - lang: pt
 - section: books
-- title: Ashraellen — MONOLITH
-- description: MONOLITH — trilogia distópica sobre controle, memória e colapso de sistemas.
+- title: Ashraellen — MONOLITH — PT
+- description: MONOLITH — trilogia distópica sobre controle, memória e colapso de sistemas. MONOLITH Série Volumes Volume I — BETON Volume II — SLUDGE Volume III — GAS MONOLITH MONOLITH é uma trilogia de ficção social, distopia e…
 - canonical: https://www.ashraellen.com/pt/books/monolith/
 - H1: MONOLITH
 - H2: Série | Volumes
 - H3: Volume I — BETON | Volume II — SLUDGE | Volume III — GAS
-- suggested keyword seed: monolith, ashraellen, books, colapso, memória, abrir, beton, começa, controle, distópica, estabilidade, gas, sem, série, sistemas, sludge, sobre, torna
-- candidates: volume, monolith, gas, memória, sem, abrir, beton, estabilidade, sludge, torna, colapso, começa, controle, fissura, forma, matéria, onde, preparação, primeira, sistema, sistemas, sobre, social, trilogia
+- suggested keyword seed: monolith, volume, trilogia, ashraellen, beton, books, gas, memória, série, sludge, social, volumes, abrir, colapso, controle, distopia, distópica, estabilidade
+- candidates: volume, monolith, gas, beton, memória, sem, sludge, abrir, estabilidade, social, torna, trilogia, uma, colapso, começa, controle, distopia, ficção, fissura, forma, iii, matéria, onde, preparação
 
 Excerpt:
 
@@ -6804,14 +6804,14 @@ Excerpt:
 
 - lang: pt
 - section: books
-- title: Ashraellen — SLUDGE
-- description: SLUDGE — Volume II da trilogia MONOLITH.
+- title: Ashraellen — SLUDGE — PT
+- description: SLUDGE — Volume II da trilogia MONOLITH. SLUDGE Arquivo Descrição SLUDGE Volume II da trilogia MONOLITH. Arquivo Volume II O ser humano não se quebra de uma vez. Primeiro se cansa de resistir. Depois começa a concordar…
 - canonical: https://www.ashraellen.com/pt/books/monolith/sludge/
 - H1: SLUDGE
 - H2: Arquivo | Descrição
 - H3: _missing_
-- suggested keyword seed: sludge, monolith, ashraellen, books, volume, arquivo, começa, descrição, ela, humano, não, pelo, pessoa, que, ser, trilogia, uma
-- candidates: sludge, pelo, ser, uma, volume, começa, ela, humano, monolith, não, pessoa, que, sobre, trilogia, apenas, arquivo, como, depois, edição, está, forma, história, inglês, mundo
+- suggested keyword seed: sludge, arquivo, monolith, volume, trilogia, ashraellen, books, começa, depois, descrição, humano, não, ser, uma, cansa, concordar, pelo, primeiro
+- candidates: sludge, ser, volume, pelo, uma, arquivo, começa, humano, monolith, não, trilogia, depois, ela, pessoa, primeiro, que, sobre, apenas, cansa, como, concordar, descrição, edição, está
 
 Excerpt:
 
@@ -6838,7 +6838,7 @@ Excerpt:
 
 - lang: pt
 - section: books
-- title: Ashraellen — The Book of Whinesis
+- title: Ashraellen — The Book of Whinesis — PT
 - description: The Book of Whinesis — sátira sagrada para quem se cansou das vibrações positivas, da produtividade infinita e do culto ao sucesso.
 - canonical: https://www.ashraellen.com/pt/books/the-book-of-whinesis/
 - H1: The Book of Whinesis
@@ -6872,7 +6872,7 @@ Excerpt:
 
 - lang: pt
 - section: contact.html
-- title: Contacto — Ashraellen
+- title: Contacto — Ashraellen — PT
 - description: Página de contacto da Ashraellen: cooperação, publicações, bolsas, media e pedidos relacionados com o projeto.
 - canonical: https://www.ashraellen.com/pt/contact.html
 - H1: Contacto
@@ -6906,14 +6906,14 @@ Excerpt:
 
 - lang: pt
 - section: monolith
-- title: MONOLITH — Ashraellen
-- description: MONOLITH: BETON. SLUDGE. GAS.
+- title: MONOLITH — Ashraellen — PT
+- description: MONOLITH: BETON. SLUDGE. GAS. MONOLITH BETON SLUDGE GAS MONOLITH Três estados de desintegração controlada: BETON. SLUDGE. GAS. MONOLITH é uma trilogia distópica sobre controle, memória e colapso de sistemas. A edição…
 - canonical: https://www.ashraellen.com/pt/monolith/
 - H1: MONOLITH
 - H2: BETON | SLUDGE | GAS
 - H3: _missing_
-- suggested keyword seed: monolith, ashraellen, beton, gas, sludge, amazon, atualmente, inglês, ler, memória, preparação, volume
-- candidates: gas, monolith, amazon, beton, inglês, preparação, sludge, volume, ler, memória, ashraellen, atualmente, colapso, começa, controlada, controle, depois, desintegração, disponíveis, distópica, edição, edições, editada, está
+- suggested keyword seed: monolith, beton, gas, sludge, ashraellen, colapso, controlada, controle, memória, amazon, desintegração, distópica, edição, estados, inglês, preparação, sistemas, sobre
+- candidates: monolith, gas, beton, sludge, amazon, inglês, memória, preparação, volume, colapso, controlada, controle, desintegração, distópica, edição, estados, ler, sistemas, sobre, três, trilogia, uma, ashraellen, atualmente
 
 Excerpt:
 
@@ -6957,7 +6957,7 @@ Excerpt:
 
 - lang: pt
 - section: public
-- title: Ashraellen — Público
+- title: Ashraellen — Público — PT
 - description: Campo público Ashraellen: falas, publicações, pensamentos de apoio, reações e observações onde a pesquisa encontra a pessoa viva.
 - canonical: https://www.ashraellen.com/pt/public/
 - H1: Público
@@ -6975,13 +6975,13 @@ Excerpt:
 - lang: pt
 - section: public
 - title: Ashraellen — Primeiro ciclo de mini-ensaios
-- description: _missing_
+- description: Primeiro ciclo Primeiro ciclo O poder não sobre o pensamento, mas sobre a atenção O corpo é a primeira porta, mas não o objetivo O passado é sua interpretação Primeiro ciclo O primeiro ciclo concluído de mini-ensaios:…
 - canonical: https://www.ashraellen.com/pt/public/posts/essay/cycles/cycle-0001.html
 - H1: Primeiro ciclo
 - H2: Primeiro ciclo | O poder não sobre o pensamento, mas sobre a atenção | O corpo é a primeira porta, mas não o objetivo | O passado é sua interpretação
 - H3: _missing_
-- suggested keyword seed: ciclo, mas, não, primeiro, ashraellen, corpo, passado, pensamento, public, sobre, atenção, com, começa, como, cycle, cycles, essay, interpretação
-- candidates: não, mas, que, passado, pensamento, pessoa, uma, como, começa, corpo, por, com, atenção, primeiro, aqui, estado, mais, tornar, vezes, aparece, ciclo, consciência, interior, interpretação
+- suggested keyword seed: ciclo, primeiro, mas, não, sobre, corpo, passado, pensamento, ashraellen, atenção, interpretação, mini-ensaios, objetivo, poder, porta, primeira, public, sua
+- candidates: não, mas, passado, que, pensamento, pessoa, uma, primeiro, como, corpo, ciclo, começa, por, atenção, com, sobre, aqui, estado, interpretação, mais, sua, tornar, vezes, aparece
 
 Excerpt:
 
@@ -6992,13 +6992,13 @@ Excerpt:
 - lang: pt
 - section: public
 - title: Ashraellen — Ciclos de mini-ensaios
-- description: _missing_
+- description: Ciclos de mini-ensaios Ciclos concluídos Ciclos de mini-ensaios Aqui estão reunidos os ciclos concluídos de mini-ensaios. O ciclo atual fica na página principal da seção. Ciclos concluídos para o ciclo atual Primeiro…
 - canonical: https://www.ashraellen.com/pt/public/posts/essay/cycles/
 - H1: Ciclos de mini-ensaios
 - H2: Ciclos concluídos
 - H3: _missing_
-- suggested keyword seed: ciclos, ashraellen, mini-ensaios, concluídos, public, aqui, atenção, atual, ciclo, corpo, cycle, cycles, essay, estão, posts, primeiro
-- candidates: ciclo, ciclos, mini-ensaios, atual, concluídos, primeiro, aqui, ashraellen, atenção, corpo, cycle, estão, fica, mark, página, para, passado, presence, principal, reunidos, seção
+- suggested keyword seed: ciclos, mini-ensaios, concluídos, atual, ciclo, aqui, ashraellen, estão, fica, página, para, primeiro, principal, public, cycles, essay, posts, reunidos
+- candidates: ciclos, ciclo, mini-ensaios, atual, concluídos, primeiro, aqui, estão, fica, página, para, principal, reunidos, seção, ashraellen, atenção, corpo, cycle, mark, passado, presence
 
 Excerpt:
 
@@ -7009,13 +7009,13 @@ Excerpt:
 - lang: pt
 - section: public
 - title: Ashraellen — Mini-ensaios
-- description: _missing_
+- description: Mini-ensaios Primeiro ciclo O poder não sobre o pensamento, mas sobre a atenção O corpo é a primeira porta, mas não o objetivo O passado é sua interpretação Mini-ensaios Pequenas análises: uma pergunta, um ângulo de…
 - canonical: https://www.ashraellen.com/pt/public/posts/essay/
 - H1: Mini-ensaios
 - H2: Primeiro ciclo | O poder não sobre o pensamento, mas sobre a atenção | O corpo é a primeira porta, mas não o objetivo | O passado é sua interpretação
 - H3: _missing_
-- suggested keyword seed: mas, não, ashraellen, corpo, mini-ensaios, passado, pensamento, public, sobre, atenção, ciclo, com, começa, como, essay, interpretação, objetivo, pessoa
-- candidates: não, mas, que, uma, passado, pensamento, pessoa, como, começa, por, com, corpo, aqui, atenção, estado, mais, tornar, vezes, aparece, apenas, consciência, interior, interpretação, isto
+- suggested keyword seed: mas, não, mini-ensaios, sobre, corpo, passado, pensamento, ashraellen, atenção, ciclo, interpretação, objetivo, poder, porta, primeira, primeiro, public, sua
+- candidates: não, mas, uma, que, passado, pensamento, pessoa, como, começa, corpo, por, com, atenção, sobre, aqui, estado, interpretação, mais, sua, tornar, vezes, aparece, apenas, consciência
 
 Excerpt:
 
@@ -7025,14 +7025,14 @@ Excerpt:
 
 - lang: pt
 - section: public
-- title: Ashraellen — Fórmulas
-- description: _missing_
+- title: Ashraellen — Fórmulas — PT
+- description: Ashraellen — Fórmulas — PT is part of the Ashraellen multilingual public archive of literary, artistic and research work.
 - canonical: https://www.ashraellen.com/pt/public/posts/formula/
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, fórmulas, public, formula, posts
-- candidates: ashraellen, fórmulas
+- suggested keyword seed: ashraellen, public, fórmulas, archive, artistic, literary, multilingual, part, research, work, formula, posts
+- candidates: ashraellen, fórmulas, archive, artistic, literary, multilingual, part, public, research, work
 
 Excerpt:
 
@@ -7042,14 +7042,14 @@ Excerpt:
 
 - lang: pt
 - section: public
-- title: Ashraellen — Fórmulas
-- description: _missing_
+- title: Ashraellen — Fórmulas — PT
+- description: Ashraellen — Fórmulas — PT is part of the Ashraellen multilingual public archive of literary, artistic and research work.
 - canonical: https://www.ashraellen.com/pt/public/posts/formula/lines/
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, fórmulas, public, formula, lines, posts
-- candidates: ashraellen, fórmulas
+- suggested keyword seed: ashraellen, public, fórmulas, archive, artistic, literary, multilingual, part, research, work, formula, lines, posts
+- candidates: ashraellen, fórmulas, archive, artistic, literary, multilingual, part, public, research, work
 
 Excerpt:
 
@@ -7060,13 +7060,13 @@ Excerpt:
 - lang: pt
 - section: public
 - title: Ashraellen — Linha 0001
-- description: _missing_
+- description: Ashraellen — Linha 0001 is part of the Ashraellen multilingual public archive of literary, artistic and research work.
 - canonical: https://www.ashraellen.com/pt/public/posts/formula/lines/line-0001.html
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, 0001, linha, public, formula, line, lines, posts
-- candidates: 0001, ashraellen, linha
+- suggested keyword seed: ashraellen, public, 0001, linha, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts
+- candidates: ashraellen, 0001, linha, archive, artistic, literary, multilingual, part, public, research, work
 
 Excerpt:
 
@@ -7077,13 +7077,13 @@ Excerpt:
 - lang: pt
 - section: public
 - title: Ashraellen — Linha 0002
-- description: _missing_
+- description: Ashraellen — Linha 0002 is part of the Ashraellen multilingual public archive of literary, artistic and research work.
 - canonical: https://www.ashraellen.com/pt/public/posts/formula/lines/line-0002.html
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, 0002, linha, public, formula, line, lines, posts
-- candidates: 0002, ashraellen, linha
+- suggested keyword seed: ashraellen, public, 0002, linha, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts
+- candidates: ashraellen, 0002, linha, archive, artistic, literary, multilingual, part, public, research, work
 
 Excerpt:
 
@@ -7093,7 +7093,7 @@ Excerpt:
 
 - lang: pt
 - section: public
-- title: Ashraellen — Fragmentos
+- title: Ashraellen — Fragmentos — PT
 - description: Fragmentos Ashraellen: seção preparada a partir de um grande arquivo de manuscritos, notas e publicações acumulados ao longo de muitos anos de trabalho.
 - canonical: https://www.ashraellen.com/pt/public/posts/fragment/
 - H1: Fragmentos
@@ -7111,13 +7111,13 @@ Excerpt:
 - lang: pt
 - section: public
 - title: Ashraellen — Publicações
-- description: _missing_
+- description: Publicações Seções Fórmulas Fragmentos Mini-ensaios Publicações Formas breves de observação: fórmulas, fragmentos e mini-ensaios. Diferentes maneiras de capturar um pensamento antes que ele tenha tempo de virar uma…
 - canonical: https://www.ashraellen.com/pt/public/posts/
 - H1: Publicações
 - H2: Seções
 - H3: Fórmulas | Fragmentos | Mini-ensaios
-- suggested keyword seed: ashraellen, publicações, public, análises, ângulo, antes, breves, capturar, fórmulas, fragmentos, ler, mini-ensaios, pensamento, posts, seções
-- candidates: ler, fórmulas, fragmentos, mini-ensaios, pensamento, publicações, análises, ângulo, antes, ashraellen, breves, capturar, com, conclusão, diferentes, direção, ele, escolha, essay, formas, formato, formula, formulações, fragment
+- suggested keyword seed: publicações, fórmulas, fragmentos, mini-ensaios, antes, ashraellen, breves, capturar, diferentes, ele, formas, pensamento, public, seções, ler, maneiras, observação, posts
+- candidates: fórmulas, fragmentos, mini-ensaios, publicações, ler, pensamento, antes, breves, capturar, diferentes, ele, formas, maneiras, observação, que, seções, tempo, tenha, uma, virar, análises, ângulo, ashraellen, com
 
 Excerpt:
 
@@ -7128,13 +7128,13 @@ Excerpt:
 - lang: pt
 - section: public
 - title: Ashraellen — Fontes transferidas
-- description: _missing_
+- description: As fontes foram transferidas As fontes foram transferidas As fontes agora fazem parte da seção de pesquisa, como base metodológica do projeto. Abrir “Fontes e tradição” Fenomenologia, corpo, narrativa, ciência…
 - canonical: https://www.ashraellen.com/pt/public/posts/sources/
 - H1: As fontes foram transferidas
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, fontes, transferidas, public, abrir, agora, artística, base, ciência, cognitiva, como, corpo, fazem, foram, posts, sources
-- candidates: fontes, transferidas, abrir, agora, artística, ashraellen, base, ciência, cognitiva, como, corpo, fazem, fenomenologia, foram, metodológica, narrativa, parte, pesquisa, prática, projeto, seção, tradição, transferido
+- suggested keyword seed: fontes, transferidas, foram, abrir, agora, ashraellen, base, ciência, como, corpo, fazem, fenomenologia, metodológica, public, narrativa, parte, pesquisa, posts
+- candidates: fontes, transferidas, foram, abrir, agora, base, ciência, como, corpo, fazem, fenomenologia, metodológica, narrativa, parte, pesquisa, projeto, seção, tradição, artística, ashraellen, cognitiva, prática, transferido
 
 Excerpt:
 
@@ -7366,13 +7366,13 @@ Excerpt:
 - lang: pt
 - section: public
 - title: Ashraellen — O problema perde a coroa
-- description: Pensamento de apoio 0013: O problema não foi destruído. Mas seu drama foi.
+- description: Pensamento de apoio 0013: O problema não foi destruído. Mas seu drama foi. O problema perde a coroa Sentido Texto completo Por que foi escolhido Nota de pesquisa Pensamento de apoio 0013 O problema perde a coroa O…
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0013-problem-loses-crown.html
 - H1: O problema perde a coroa
 - H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
 - H3: _missing_
-- suggested keyword seed: foi, problema, coroa, ashraellen, destruído, drama, mas, não, pensamento, perde, public, que, seu, 0013, apoio, arcs, com, completo
-- candidates: problema, não, mas, foi, que, pensamento, seu, com, coroa, daí, destruído, drama, ele, método, nem, porque, você, 0013, aceitação, algo, apoio, como, ela, fato
+- suggested keyword seed: problema, coroa, foi, perde, 0013, apoio, pensamento, que, ashraellen, completo, escolhido, mas, não, nota, pesquisa, por, public, sentido
+- candidates: problema, não, foi, mas, que, pensamento, coroa, seu, com, perde, 0013, apoio, daí, destruído, drama, ele, método, nem, por, porque, você, aceitação, algo, como
 
 Excerpt:
 
@@ -7468,13 +7468,13 @@ Excerpt:
 - lang: pt
 - section: public
 - title: Ashraellen — Não Bombardeie
-- description: Pensamento de apoio 0019: não bombardeie, e você não será bombardeado.
+- description: Pensamento de apoio 0019: não bombardeie, e você não será bombardeado. Não Bombardeie Sentido Texto completo Por que foi escolhido Nota de pesquisa Pensamento de apoio 0019 Não Bombardeie Não bombardeie, e você não…
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0019-do-not-bomb.html
 - H1: Não Bombardeie
 - H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
 - H3: _missing_
-- suggested keyword seed: não, bombardeie, ashraellen, bombardeado, pensamento, public, que, 0019, apoio, arcs, bomb, completo, depois, escolhido, foi, mundo, nota, para
-- candidates: não, que, bombardeie, depois, mundo, pensamento, uma, pessoa, primeiro, sempre, bombardeado, para, própria, será, você, até, com, como, nem, óbvio, por, qualquer, 0019, agressão
+- suggested keyword seed: não, bombardeie, pensamento, que, você, 0019, apoio, ashraellen, bombardeado, completo, escolhido, foi, nota, pesquisa, por, public, sentido, texto
+- candidates: não, que, bombardeie, pensamento, depois, mundo, uma, pessoa, primeiro, sempre, você, bombardeado, para, por, própria, será, 0019, apoio, até, com, como, nem, óbvio, qualquer
 
 Excerpt:
 
@@ -7485,13 +7485,13 @@ Excerpt:
 - lang: pt
 - section: public
 - title: Ashraellen — Povo e Massa
-- description: Pensamento de apoio 0020: um povo lembra. Uma massa reage.
+- description: Pensamento de apoio 0020: um povo lembra. Uma massa reage. Povo e Massa Sentido Texto completo Por que foi escolhido Nota de pesquisa Pensamento de apoio 0020 Povo e Massa Um povo lembra. Uma massa reage. Sentido Um…
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0020-people-and-mass.html
 - H1: Povo e Massa
 - H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
 - H3: _missing_
-- suggested keyword seed: massa, povo, ashraellen, pensamento, por, public, que, uma, 0020, apoio, arcs, chamar, como, completo, ela, escolhido, foi, lembra
-- candidates: povo, massa, pessoa, que, uma, por, ela, não, pensamento, chamar, como, mas, pode, qualquer, quem, corrente, está, lembra, memória, mim, para, pessoas, reage, ser
+- suggested keyword seed: massa, povo, lembra, pensamento, por, que, sentido, uma, 0020, apoio, ashraellen, completo, escolhido, foi, nota, pesquisa, public, reage
+- candidates: povo, massa, pessoa, que, uma, por, ela, pensamento, não, chamar, como, lembra, mas, pode, qualquer, quem, reage, 0020, apoio, corrente, está, memória, mim, para
 
 Excerpt:
 
@@ -7586,14 +7586,14 @@ Excerpt:
 
 - lang: pt
 - section: public
-- title: Ashraellen — Arco 0002
-- description: Segundo arco de pensamentos de apoio Ashraellen.
+- title: Ashraellen — Arco 0002 — PT
+- description: Segundo arco de pensamentos de apoio Ashraellen. Segundo arco de pensamentos de apoio A Cadeira Vazia Generalização em vez de observação Onde a vida parou A Xícara Suja Não se arrependa Quando fechar o livro…
 - canonical: https://www.ashraellen.com/pt/public/thoughts/index-0002.html
 - H1: Segundo arco de pensamentos de apoio
 - H2: A Cadeira Vazia | Generalização em vez de observação | Onde a vida parou | A Xícara Suja | Não se arrependa | Quando fechar o livro
 - H3: _missing_
-- suggested keyword seed: arco, ashraellen, apoio, pensamentos, 0002, generalização, não, observação, public, segundo, abrir, arrependa, cadeira, despertar, fechar, index, livro, onde
-- candidates: pensamento, apoio, abrir, arco, não, observação, pensamentos, 0002, ashraellen, despertar, generalização, perda, quando, segundo, xícara, 0007, 0008, 0009, 0010, 0011, 0012, algumas, anterior, arrependa
+- suggested keyword seed: arco, apoio, pensamentos, segundo, ashraellen, generalização, não, observação, quando, xícara, 0002, arrependa, cadeira, fechar, livro, onde, parou, public
+- candidates: pensamento, apoio, arco, abrir, não, observação, pensamentos, generalização, quando, segundo, xícara, 0002, arrependa, ashraellen, cadeira, despertar, fechar, livro, onde, parou, perda, suja, vazia, vez
 
 Excerpt:
 
@@ -7671,14 +7671,14 @@ Excerpt:
 
 - lang: pt
 - section: research
-- title: Ashraellen — Notes
-- description: _missing_
+- title: Ashraellen — Notes — PT
+- description: Notes / Margins Ashraellen Notes / Margins Margens, dúvidas, fragmentos. Material que se recusa a virar doutrina. Se parece inacabado — esse é o ponto. ← Research Public
 - canonical: https://www.ashraellen.com/pt/research/notes/
 - H1: Notes / Margins
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: notes, ashraellen, margins, research, doutrina, dúvidas, esse, fragmentos, inacabado, margens, material, parece, ponto
-- candidates: ashraellen, notes, doutrina, dúvidas, esse, fragmentos, inacabado, margens, margins, material, parece, ponto, public, que, recusa, research, virar
+- suggested keyword seed: notes, ashraellen, margins, research, doutrina, dúvidas, esse, fragmentos, inacabado, margens, material, parece, ponto, public, que, recusa, virar
+- candidates: notes, ashraellen, margins, doutrina, dúvidas, esse, fragmentos, inacabado, margens, material, parece, ponto, public, que, recusa, research, virar
 
 Excerpt:
 
@@ -7688,14 +7688,14 @@ Excerpt:
 
 - lang: pt
 - section: research
-- title: Ashraellen — Position
-- description: _missing_
+- title: Ashraellen — Position — PT
+- description: Position Ashraellen Position Trabalho como pesquisador artístico independente, tratando a experiência interna como campo de observação. Religião, filosofia e experiências transcendentais são modelos de descrição — não…
 - canonical: https://www.ashraellen.com/pt/research/position/
 - H1: Position
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: position, ashraellen, research, artístico, campo, como, descrição, experiência, experiências, filosofia, independente, interna, modelos
-- candidates: ashraellen, como, position, artístico, campo, descrição, experiência, experiências, filosofia, independente, interna, modelos, não, observação, pesquisador, public, realidade, religião, research, são, trabalho, transcendentais, tratando
+- suggested keyword seed: position, ashraellen, como, artístico, campo, descrição, experiência, experiências, filosofia, independente, interna, modelos, research, não, observação, pesquisador, religião, são
+- candidates: como, position, ashraellen, artístico, campo, descrição, experiência, experiências, filosofia, independente, interna, modelos, não, observação, pesquisador, religião, são, trabalho, transcendentais, tratando, public, realidade, research
 
 Excerpt:
 
@@ -7773,13 +7773,13 @@ Excerpt:
 
 - lang: ru
 - section: books
-- title: Ashraellen — Книги
+- title: Ashraellen — Книги — Russian
 - description: Книги Ashraellen: МОНОЛИТ, Сияние, Ошибка 404: Бог не найден, АХЕПСУ, Ты уже в сети и Книга Нытия.
 - canonical: https://www.ashraellen.com/ru/books/
 - H1: Книги
 - H2: Список
 - H3: _missing_
-- suggested keyword seed: ashraellen, книги, 404, books, ахепсу, бог, книга, уже, series, или, истории, канцелярии, которые, монолит, найден, нытия, ошибка, сети
+- suggested keyword seed: ashraellen, книги, 404, books, ахепсу, бог, книга, уже, russian, series, или, истории, канцелярии, которые, монолит, найден, нытия, ошибка
 - candidates: книга, книги, уже, 404, ashraellen, series, ахепсу, бог, или, истории, канцелярии, которые, монолит, найден, небесной, нытия, ошибка, сети, сияние, тексты, cycle, mark, novel, preprint
 
 Excerpt:
@@ -7909,13 +7909,13 @@ Excerpt:
 
 - lang: ru
 - section: books
-- title: Ashraellen — Книга Нытия
+- title: Ashraellen — Книга Нытия — Russian
 - description: Книга Нытия — священная сатира для тех, кто устал от позитивных вайбов, бесконечной продуктивности и культа успеха.
 - canonical: https://www.ashraellen.com/ru/books/the-book-of-whinesis/
 - H1: Книга Нытия
 - H2: О книге | Первые главы | Отрывок | Статус
 - H3: _missing_
-- suggested keyword seed: книга, нытия, ashraellen, books, кто, book, whinesis, бесконечной, будет, будешь, вайбов, глава, главы, господь, его, ибо, книге, культа
+- suggested keyword seed: книга, нытия, ashraellen, books, кто, book, russian, whinesis, бесконечной, будет, будешь, вайбов, глава, главы, господь, его, ибо, книге
 - candidates: сказал, нытья, господь, ибо, будет, будешь, его, кто, глава, книга, моании, моания, тебе, чтобы, вкусил, все, всякое, гнорна, змей, нытия, своей, аудиокнига, был, вот
 
 Excerpt:
@@ -7943,14 +7943,14 @@ Excerpt:
 
 - lang: ru
 - section: contact.html
-- title: Контакт — Ashraellen
+- title: Контакт — Ashraellen — Russian
 - description: Контактная страница Ashraellen: сотрудничество, издательские, грантовые, медийные и проектные запросы.
 - canonical: https://www.ashraellen.com/ru/contact.html
 - H1: Контакт
 - H2: Ashraellen
 - H3: _missing_
-- suggested keyword seed: ashraellen, контакт, запросы, издательские, сотрудничество, ashraellen.live, ashraellenchannel, contact, contact.html, telegram, telegram-канал, грантовые, контактная, медийные, обращения, проектные, публичные, связи
-- candidates: ashraellen, связи, telegram, telegram-канал, запросы, издательские, контакт, обращения, публичные, сотрудничество, ashraellen.live, ashraellenchannel, ashraellenlive, email, gmail.com, instagram, kostyshev, mark, presence, youtube, вопросы, грантовые, грантовых, гранты
+- suggested keyword seed: ashraellen, контакт, запросы, издательские, сотрудничество, ashraellen.live, ashraellenchannel, contact, contact.html, russian, telegram, telegram-канал, грантовые, контактная, медийные, обращения, проектные, публичные
+- candidates: ashraellen, связи, telegram, telegram-канал, запросы, издательские, контакт, обращения, публичные, сотрудничество, ashraellen.live, ashraellenchannel, ashraellenlive, email, gmail.com, instagram, kostyshev, mark, presence, russian, youtube, вопросы, грантовые, грантовых
 
 Excerpt:
 
@@ -7978,13 +7978,13 @@ Excerpt:
 - lang: ru
 - section: monolith
 - title: Трилогия МОНОЛИТ — Ashraellen
-- description: Три состояния контролируемого распада: БЕТОН. ЖИЖА. ГАЗ.
+- description: Три состояния контролируемого распада: БЕТОН. ЖИЖА. ГАЗ. MONOLITH БЕТОН ЖИЖА ГАЗ MONOLITH Три состояния контролируемого распада: БЕТОН. ЖИЖА. ГАЗ. МОНОЛИТ — трилогия социальной фантастики, антиутопии и философского…
 - canonical: https://www.ashraellen.com/ru/monolith/
 - H1: MONOLITH
 - H2: БЕТОН | ЖИЖА | ГАЗ
 - H3: _missing_
-- suggested keyword seed: monolith, бетон, газ, жижа, ashraellen, amazon, books, google, play, английская, боится, версия, внутри, контролируемого, монолит, распада, состояния, том
-- candidates: газ, том, бетон, жижа, amazon, books, google, play, английская, боится, версия, внутри, контролируемого, монолит, начинает, распада, русском, системы, состояния, становится, три, трилогия, уже, читать
+- suggested keyword seed: monolith, бетон, газ, жижа, контролируемого, монолит, распада, состояния, три, трилогия, ashraellen, amazon, антиутопии, социальной, том, фантастики, философского
+- candidates: газ, бетон, жижа, том, monolith, контролируемого, монолит, распада, состояния, три, трилогия, amazon, books, google, play, английская, антиутопии, боится, версия, внутри, начинает, русском, системы, социальной
 
 Excerpt:
 
@@ -8046,13 +8046,13 @@ Excerpt:
 - lang: ru
 - section: public
 - title: Ashraellen — Первый цикл мини-эссе
-- description: _missing_
+- description: Первый цикл Мини-эссе первого цикла Власть не над мыслью, а над вниманием Тело — первая дверь, но не цель Прошлое — это его толкование Первый цикл Первый цикл мини-эссе: внимание, тело, прошлое. Это завершённый…
 - canonical: https://www.ashraellen.com/ru/public/posts/essay/cycles/cycle-0001.html
 - H1: Первый цикл
 - H2: Мини-эссе первого цикла | Власть не над мыслью, а над вниманием | Тело — первая дверь, но не цель | Прошлое — это его толкование
 - H3: _missing_
-- suggested keyword seed: мини-эссе, ashraellen, public, его, мыслью, над, первый, прошлое, тело, цикл, cycle, cycles, essay, posts, быть, власть, вниманием, вот
-- candidates: человек, начинается, прошлое, тело, мини-эссе, мысль, мыслью, она, так, быть, вот, его, живёт, или, появляется, свобода, становиться, внимание, дверь, именно, иногда, когда, может, над
+- suggested keyword seed: первый, цикл, мини-эссе, над, прошлое, тело, его, мыслью, ashraellen, public, власть, вниманием, дверь, первая, первого, толкование, цель, цикла
+- candidates: прошлое, тело, человек, мини-эссе, начинается, мысль, мыслью, первый, цикл, его, над, она, так, быть, внимание, вот, дверь, живёт, или, первая, появляется, свобода, становиться, именно
 
 Excerpt:
 
@@ -8063,13 +8063,13 @@ Excerpt:
 - lang: ru
 - section: public
 - title: Ashraellen — Циклы мини-эссе
-- description: _missing_
+- description: Циклы мини-эссе Завершённые циклы Циклы мини-эссе Здесь собраны завершённые циклы мини-эссе. Каждый цикл содержит до девяти смысловых срезов. Текущий цикл находится на основной странице раздела. Завершённые циклы к…
 - canonical: https://www.ashraellen.com/ru/public/posts/essay/cycles/
 - H1: Циклы мини-эссе
 - H2: Завершённые циклы
 - H3: _missing_
-- suggested keyword seed: циклы, ashraellen, мини-эссе, public, завершённые, cycle, cycles, essay, mark, posts, presence, будущего, внимание, раздела, текущий, цикл
-- candidates: мини-эссе, цикл, циклы, завершённые, раздела, текущий, ashraellen, cycle, mark, presence, будущего, внимание, девяти, завершённого, здесь, используется, каждый, находится, основной, первые, первый, пример, прошлое, сейчас
+- suggested keyword seed: циклы, мини-эссе, завершённые, цикл, ashraellen, public, девяти, здесь, каждый, находится, основной, раздела, смысловых, текущий, cycles, essay, posts, собраны
+- candidates: циклы, мини-эссе, цикл, завершённые, раздела, текущий, девяти, здесь, каждый, находится, основной, смысловых, собраны, содержит, срезов, странице, ashraellen, cycle, mark, presence, будущего, внимание, завершённого, используется
 
 Excerpt:
 
@@ -8080,13 +8080,13 @@ Excerpt:
 - lang: ru
 - section: public
 - title: Ashraellen — Мини-эссе
-- description: _missing_
+- description: Мини-эссе Первый цикл Власть не над мыслью, а над вниманием Тело — первая дверь, но не цель Прошлое — это его толкование Мини-эссе Небольшие разборы: один вопрос, один угол зрения, один вывод. Без лекционной позы и без…
 - canonical: https://www.ashraellen.com/ru/public/posts/essay/
 - H1: Мини-эссе
 - H2: Первый цикл | Власть не над мыслью, а над вниманием | Тело — первая дверь, но не цель | Прошлое — это его толкование
 - H3: _missing_
-- suggested keyword seed: мини-эссе, ashraellen, public, его, мыслью, над, прошлое, тело, essay, posts, быть, власть, вниманием, вот, дверь, мысль, начинается, она
-- candidates: человек, начинается, мысль, прошлое, тело, мини-эссе, мыслью, она, так, быть, вот, его, живёт, или, один, появляется, свобода, становиться, дверь, именно, иногда, когда, может, над
+- suggested keyword seed: мини-эссе, над, один, его, мыслью, прошлое, тело, ashraellen, public, без, власть, вниманием, дверь, первая, первый, толкование, цель, цикл
+- candidates: человек, начинается, мини-эссе, один, прошлое, тело, мысль, мыслью, его, над, она, так, без, быть, вот, дверь, живёт, или, первая, появляется, свобода, становиться, именно, иногда
 
 Excerpt:
 
@@ -8096,14 +8096,14 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Формулы
-- description: _missing_
+- title: Ashraellen — Формулы — Russian
+- description: Формулы Четвёртая линия Формулы Лаконичные формулировки: одна мысль — один точный удар. Четвёртая линия следующая линия Формула Путь начинается не с уверенности, а с согласия сделать первый честный шаг. путь /…
 - canonical: https://www.ashraellen.com/ru/public/posts/formula/
 - H1: Формулы
 - H2: Четвёртая линия
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, линия, формулы, formula, posts, быстро, верность, время, всегда, действие, иногда, путь, сила, формула, человек, четвёртая, шаг
-- candidates: формула, путь, иногда, верность, время, всегда, линия, сила, человек, шаг, быстро, действие, день, лишнего, направление, ожидание, она, остановка, отказ, поспешность, приходит, решение, решимость, ритм
+- suggested keyword seed: линия, формулы, путь, четвёртая, ashraellen, public, следующая, формула, шаг, formula, posts, russian, верность, время, всегда, иногда, лаконичные, мысль
+- candidates: формула, путь, линия, иногда, формулы, шаг, верность, время, всегда, сила, следующая, человек, четвёртая, быстро, действие, день, лаконичные, лишнего, мысль, направление, начинается, один, одна, ожидание
 
 Excerpt:
 
@@ -8114,13 +8114,13 @@ Excerpt:
 - lang: ru
 - section: public
 - title: Ashraellen — Третья линия формул
-- description: _missing_
+- description: Границы, мера, своя форма Формулы линии Границы, мера, своя форма Третья линия формул. Формулы линии актуальная линия Формула Граница появляется там, где человек перестаёт объяснять своё право быть. граница / право…
 - canonical: https://www.ashraellen.com/ru/public/posts/formula/lines/
 - H1: Границы, мера, своя форма
 - H2: Формулы линии
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, линия, мера, formula, lines, posts, быть, где, граница, границы, зрелость, иногда, линии, перестаёт, своё, своя, согласие
-- candidates: формула, линия, граница, зрелость, перестаёт, быть, где, иногда, мера, своё, согласие, там, тишина, форма, человек, актуальная, без, близость, возвращение, мнение, одиночество, открытость, право, свобода
+- suggested keyword seed: линия, мера, своя, форма, граница, границы, линии, право, формулы, ashraellen, public, быть, где, перестаёт, своё, третья, формул, формула
+- candidates: формула, линия, граница, мера, перестаёт, форма, быть, где, зрелость, право, своё, своя, там, человек, актуальная, границы, иногда, линии, согласие, тишина, третья, формул, формулы, без
 
 Excerpt:
 
@@ -8131,13 +8131,13 @@ Excerpt:
 - lang: ru
 - section: public
 - title: Ashraellen — Первая линия формул
-- description: _missing_
+- description: Мысль, внимание, тело, прошлое Формулы линии Мысль, внимание, тело, прошлое Первая архивная линия формул. Формулы линии актуальная линия Формула Мысль возникает сама. Свобода начинается там, где человек перестаёт…
 - canonical: https://www.ashraellen.com/ru/public/posts/formula/lines/line-0001.html
 - H1: Мысль, внимание, тело, прошлое
 - H2: Формулы линии
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, внимание, линия, мысль, первая, тело, formula, line, lines, posts, версия, власть, линии, над, освобождение, осознанность, практика
-- candidates: формула, мысль, тело, линия, власть, освобождение, версия, внимание, над, осознанность, первая, практика, прошлое, себя, состояние, человек, актуальная, биохимия, вниманием, дверь, когда, концепция, момент, наблюдение
+- suggested keyword seed: мысль, внимание, линия, прошлое, тело, линии, первая, формулы, ashraellen, public, актуальная, формул, формула, человек, formula, line, lines, posts
+- candidates: формула, мысль, тело, линия, внимание, прошлое, власть, освобождение, первая, человек, актуальная, версия, линии, над, начинается, осознанность, практика, свобода, себя, состояние, формул, формулы, архивная, биохимия
 
 Excerpt:
 
@@ -8148,13 +8148,13 @@ Excerpt:
 - lang: ru
 - section: public
 - title: Ashraellen — Вторая линия формул
-- description: _missing_
+- description: Слово, молчание, смысл Формулы линии Слово, молчание, смысл Вторая архивная линия формул. Формулы линии актуальная линия Формула Слова становятся точными, когда перестают служить впечатлению. слово / впечатление /…
 - canonical: https://www.ashraellen.com/ru/public/posts/formula/lines/line-0002.html
 - H1: Слово, молчание, смысл
 - H2: Формулы линии
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, линия, молчание, слово, смысл, formula, line, lines, posts, вторая, иногда, когда, линии, место, мысль, объяснение, точность
-- candidates: формула, слово, линия, молчание, смысл, место, мысль, иногда, когда, объяснение, точность, фраза, человек, язык, актуальная, бывает, время, вторая, где, глубина, ещё, кто, лишнее, опыт
+- suggested keyword seed: слово, линии, линия, молчание, смысл, вторая, формулы, ashraellen, public, актуальная, когда, формул, формула, formula, line, lines, posts, архивная
+- candidates: формула, слово, линия, молчание, смысл, когда, место, мысль, актуальная, вторая, иногда, линии, объяснение, слова, точность, формул, формулы, фраза, человек, язык, архивная, бывает, впечатление, впечатлению
 
 Excerpt:
 
@@ -8164,14 +8164,14 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Фрагменты
-- description: _missing_
+- title: Ashraellen — Фрагменты — Russian
+- description: Фрагменты Раздел готовится Фрагменты Отрывки из больших текстов, заметок и рабочих материалов: чтобы почувствовать тон, увидеть направление и понять, какой кусок пазла здесь лежит. Раздел готовится к оглавлению Архив…
 - canonical: https://www.ashraellen.com/ru/public/posts/fragment/
 - H1: Фрагменты
 - H2: Раздел готовится
 - H3: _missing_
-- suggested keyword seed: ashraellen, фрагменты, public, archive, fragment, mark, posts, presence, work, архив, готовится, заметок, здесь, отрывки, рабочих, раздел, текстов
-- candidates: текстов, фрагменты, ashraellen, архив, заметок, здесь, отрывки, рабочих, archive, mark, presence, work, архива, больших, большой, будущая, внутреннюю, всего, годы, готовится, какой, короткие, которые, куски
+- suggested keyword seed: фрагменты, готовится, раздел, ashraellen, public, архив, больших, заметок, здесь, какой, отрывки, рабочих, текстов, fragment, posts, russian, кусок, лежит
+- candidates: фрагменты, текстов, архив, готовится, заметок, здесь, отрывки, рабочих, раздел, ashraellen, больших, какой, кусок, лежит, материалов, направление, оглавлению, пазла, понять, почувствовать, тон, увидеть, чтобы, archive
 
 Excerpt:
 
@@ -8182,13 +8182,13 @@ Excerpt:
 - lang: ru
 - section: public
 - title: Ashraellen — Публикации
-- description: _missing_
+- description: Публикации Разделы Формулы Фрагменты Мини-эссе Публикации Короткие формы наблюдения: формулы, фрагменты и мини-эссе. Разные способы поймать мысль до того, как она успела стать лекцией. Разделы выберите формат formula…
 - canonical: https://www.ashraellen.com/ru/public/posts/
 - H1: Публикации
 - H2: Разделы
 - H3: Формулы | Фрагменты | Мини-эссе
-- suggested keyword seed: ashraellen, публикации, public, essay, formula, fragment, mark, posts, presence, мини-эссе, мысль, разделы, формулы, фрагменты, читать
-- candidates: читать, мини-эссе, мысль, публикации, формулы, фрагменты, ashraellen, essay, formula, fragment, mark, presence, без, больших, вопрос, выберите, вывод, зрения, короткие, лаконичные, лекцией, наблюдения, направление, небольшие
+- suggested keyword seed: публикации, разделы, мини-эссе, формулы, фрагменты, ashraellen, formula, public, выберите, короткие, лекцией, мысль, наблюдения, posts, она, поймать, разные, способы
+- candidates: мини-эссе, публикации, формулы, фрагменты, мысль, разделы, читать, formula, выберите, короткие, лекцией, наблюдения, она, поймать, разные, способы, стать, того, успела, формат, формы, ashraellen, essay, fragment
 
 Excerpt:
 
@@ -8199,13 +8199,13 @@ Excerpt:
 - lang: ru
 - section: public
 - title: Ashraellen — Источники перенесены
-- description: _missing_
+- description: Источники перенесены Новый адрес Источники перенесены Раздел «Источники» больше не относится к публичным публикациям. Теперь он находится в исследовании как методологическая основа проекта. Новый адрес исследование…
 - canonical: https://www.ashraellen.com/ru/public/posts/sources/
 - H1: Источники перенесены
 - H2: Новый адрес
 - H3: _missing_
-- suggested keyword seed: ashraellen, источники, перенесены, public, адрес, mark, moved, posts, presence, sources, больше, исследование, исследовании, когнитивная, которых, новый
-- candidates: источники, ashraellen, перенесены, mark, moved, presence, адрес, больше, исследование, исследовании, когнитивная, которых, линии, метод, методологическая, нарратив, наука, находится, новый, основа, открыть, относится, пересечении, практика
+- suggested keyword seed: источники, перенесены, адрес, новый, ashraellen, public, больше, исследование, исследовании, методологическая, находится, основа, относится, posts, sources, проекта, публикациям, публичным
+- candidates: источники, перенесены, адрес, новый, ashraellen, больше, исследование, исследовании, методологическая, находится, основа, относится, проекта, публикациям, публичным, раздел, теперь, mark, moved, presence, когнитивная, которых, линии, метод
 
 Excerpt:
 
@@ -8232,13 +8232,13 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Весёлость как диагностика человека
+- title: Ashraellen — Весёлость как диагностика человека — Russian
 - description: Опорная мысль Ashraellen: весёлость как диагностика человека. Смех открывает душу точнее, чем правильные речи.
 - canonical: https://www.ashraellen.com/ru/public/thoughts/01-cheerfulness/
 - H1: Весёлость как диагностика человека
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, весёлость, диагностика, человека, public, смех, чем, cheerfulness, thoughts, без, выбрано, говорит, душу, его, если, заметка, или, исследовательская
+- suggested keyword seed: ashraellen, весёлость, диагностика, человека, public, смех, чем, cheerfulness, russian, thoughts, без, выбрано, говорит, душу, его, если, заметка, или
 - candidates: человека, весёлость, его, без, смех, чем, через, ashraellen, говорит, диагностика, если, или, мысль, опорная, правильные, речи, смеётся, человек, вами, душу, здесь, кто, нём, открывает
 
 Excerpt:
@@ -8249,13 +8249,13 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Те же силы, новые имена
+- title: Ashraellen — Те же силы, новые имена — Russian
 - description: Опорная мысль Ashraellen: современные тревоги и зависимости как новые имена старых богов и демонов.
 - canonical: https://www.ashraellen.com/ru/public/thoughts/02-still-the-same/
 - H1: Те же силы, новые имена
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, имена, новые, public, мысль, опорная, силы, same, still, thoughts, без, боги, богов, выбрано, демонов, его, жизнью, зависимости
+- suggested keyword seed: ashraellen, имена, новые, public, мысль, опорная, силы, russian, same, still, thoughts, без, боги, богов, выбрано, демонов, его, жизнью
 - candidates: имена, новые, просто, человек, ashraellen, без, его, жизнью, мысль, они, опорная, боги, демоны, исчезли, никуда, остаётся, получили, психологических, рациональным, себя, силам, силы, служит, современный
 
 Excerpt:
@@ -8266,14 +8266,14 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Пробуждение начинается с невозможности продолжать
+- title: Ashraellen — Пробуждение начинается с невозможности продолжать — Russian
 - description: Опорная мысль Ashraellen: пробуждение как момент, когда дальше жить прежним способом больше нельзя.
 - canonical: https://www.ashraellen.com/ru/public/thoughts/03-let-go/
 - H1: Пробуждение начинается с невозможности продолжать
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, пробуждение, начинается, продолжать, public, дальше, момент, мысль, невозможности, нельзя, опорная, let, thoughts, больше, вот, выбрано, жить, заметка
-- candidates: пробуждение, начинается, вот, дальше, ashraellen, момент, мысль, нельзя, опорная, продолжать, себя, человек, больше, иллюзии, либо, невозможно, невозможности, однажды, пока, так, mark, presence, апгрейд, без
+- suggested keyword seed: ashraellen, пробуждение, начинается, продолжать, public, дальше, момент, мысль, невозможности, нельзя, опорная, let, russian, thoughts, больше, вот, выбрано, жить
+- candidates: пробуждение, начинается, вот, дальше, ashraellen, момент, мысль, нельзя, опорная, продолжать, себя, человек, больше, иллюзии, либо, невозможно, невозможности, однажды, пока, так, mark, presence, russian, апгрейд
 
 Excerpt:
 
@@ -8283,13 +8283,13 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Конечность пробуждает вопрос
+- title: Ashraellen — Конечность пробуждает вопрос — Russian
 - description: Опорная мысль Ashraellen: философия начинается там, где заканчиваются иллюзии и в сознание входит конечность.
 - canonical: https://www.ashraellen.com/ru/public/thoughts/04-mortality-awakens/
 - H1: Конечность пробуждает вопрос
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, конечность, вопрос, пробуждает, public, заканчиваются, иллюзии, мысль, опорная, философия, awakens, mortality, thoughts, входит, выбрано, где, думать, заметка
+- suggested keyword seed: ashraellen, конечность, вопрос, пробуждает, public, заканчиваются, иллюзии, мысль, опорная, философия, awakens, mortality, russian, thoughts, входит, выбрано, где, думать
 - candidates: когда, конечность, вопрос, мысль, тогда, ashraellen, думать, заканчиваются, иллюзии, опорная, пробуждает, философия, больше, болью, входит, где, истина, многие, настоящий, начинается, начинают, них, открывается, потому
 
 Excerpt:
@@ -8300,13 +8300,13 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Страх как механизм контроля
+- title: Ashraellen — Страх как механизм контроля — Russian
 - description: Опорная мысль Ashraellen: там, где человек перестаёт бояться и начинает мыслить самостоятельно, ослабевает власть старых систем.
 - canonical: https://www.ashraellen.com/ru/public/thoughts/05-on-your-own/
 - H1: Страх как механизм контроля
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, контроля, механизм, страх, public, бояться, власть, где, мыслить, мысль, начинает, самостоятельно, человек, own, thoughts, your, выбрано, заметка
+- suggested keyword seed: ashraellen, контроля, механизм, страх, public, бояться, власть, где, мыслить, мысль, начинает, самостоятельно, человек, own, russian, thoughts, your, выбрано
 - candidates: человек, мыслить, мысль, самостоятельно, страх, ashraellen, бояться, власть, где, контроля, механизм, начинает, опорная, ослабевает, перестаёт, смерти, там, человеку, больше, всё, делать, если, зависимости, запрет
 
 Excerpt:
@@ -8317,13 +8317,13 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Глубокий взгляд собирает жизнь
+- title: Ashraellen — Глубокий взгляд собирает жизнь — Russian
 - description: Опорная мысль Ashraellen: глубокий взгляд собирает жизнь, превращая ошибки и опыт в цепь понимания.
 - canonical: https://www.ashraellen.com/ru/public/thoughts/06-insight/
 - H1: Глубокий взгляд собирает жизнь
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, взгляд, глубокий, жизнь, собирает, public, мысль, опорная, insight, thoughts, видеть, выбрано, глубже, заметка, исследовательская, когда, начинает, опыт
+- suggested keyword seed: ashraellen, взгляд, глубокий, жизнь, собирает, public, мысль, опорная, insight, russian, thoughts, видеть, выбрано, глубже, заметка, исследовательская, когда, начинает
 - candidates: видеть, жизнь, начинает, человек, собирает, ashraellen, взгляд, глубже, глубокий, когда, мысль, опорная, ошибки, пониманию, видимого, внутренней, делает, жизни, опыт, перестаёт, последствий, причины, простой, среди
 
 Excerpt:
@@ -8334,13 +8334,13 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Весёлость как диагностика человека
+- title: Ashraellen — Весёлость как диагностика человека — Russian
 - description: Опорная мысль Ashraellen: весёлость как диагностика человека. Смех открывает душу точнее, чем правильные речи.
 - canonical: https://www.ashraellen.com/ru/public/thoughts/arcs/0001-cheerfulness.html
 - H1: Весёлость как диагностика человека
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, весёлость, диагностика, человека, public, мысль, смех, чем, arcs, cheerfulness, thoughts, без, выбрано, говорит, душу, его, если, заметка
+- suggested keyword seed: ashraellen, весёлость, диагностика, человека, public, мысль, смех, чем, arcs, cheerfulness, russian, thoughts, без, выбрано, говорит, душу, его, если
 - candidates: человека, весёлость, его, без, мысль, смех, чем, через, ashraellen, говорит, диагностика, если, или, опорная, правильные, речи, смеётся, человек, вами, душу, здесь, кто, нём, открывает
 
 Excerpt:
@@ -8351,13 +8351,13 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Те же силы, новые имена
+- title: Ashraellen — Те же силы, новые имена — Russian
 - description: Опорная мысль Ashraellen: современные тревоги и зависимости как новые имена старых богов и демонов.
 - canonical: https://www.ashraellen.com/ru/public/thoughts/arcs/0002-still-the-same.html
 - H1: Те же силы, новые имена
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, имена, новые, public, мысль, опорная, силы, arcs, same, still, thoughts, без, боги, богов, выбрано, демонов, его, жизнью
+- suggested keyword seed: ashraellen, имена, новые, public, мысль, опорная, силы, arcs, russian, same, still, thoughts, без, боги, богов, выбрано, демонов, его
 - candidates: имена, новые, мысль, просто, человек, ashraellen, без, его, жизнью, они, опорная, боги, демоны, исчезли, никуда, остаётся, получили, психологических, рациональным, себя, силам, силы, служит, современный
 
 Excerpt:
@@ -8368,13 +8368,13 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Пробуждение начинается с невозможности продолжать
+- title: Ashraellen — Пробуждение начинается с невозможности продолжать — Russian
 - description: Опорная мысль Ashraellen: пробуждение как момент, когда дальше жить прежним способом больше нельзя.
 - canonical: https://www.ashraellen.com/ru/public/thoughts/arcs/0003-let-go.html
 - H1: Пробуждение начинается с невозможности продолжать
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, пробуждение, начинается, public, больше, дальше, момент, мысль, невозможности, нельзя, продолжать, arcs, let, thoughts, вот, выбрано, жить, заметка
+- suggested keyword seed: ashraellen, пробуждение, начинается, public, больше, дальше, момент, мысль, невозможности, нельзя, продолжать, arcs, let, russian, thoughts, вот, выбрано, жить
 - candidates: пробуждение, начинается, вот, дальше, мысль, так, момент, нельзя, однажды, себя, ashraellen, больше, всех, образом, опорная, пока, продолжать, более, всё, даже, если, жизни, знаю, иллюзии
 
 Excerpt:
@@ -8385,13 +8385,13 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Конечность пробуждает вопрос
+- title: Ashraellen — Конечность пробуждает вопрос — Russian
 - description: Опорная мысль Ashraellen: философия начинается там, где заканчиваются иллюзии и в сознание входит конечность.
 - canonical: https://www.ashraellen.com/ru/public/thoughts/arcs/0004-mortality-awakens.html
 - H1: Конечность пробуждает вопрос
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, конечность, вопрос, пробуждает, public, заканчиваются, иллюзии, мысль, опорная, философия, arcs, awakens, mortality, thoughts, входит, выбрано, где, думать
+- suggested keyword seed: ashraellen, конечность, вопрос, пробуждает, public, заканчиваются, иллюзии, мысль, опорная, философия, arcs, awakens, mortality, russian, thoughts, входит, выбрано, где
 - candidates: мысль, когда, конечность, вопрос, тогда, ashraellen, думать, заканчиваются, иллюзии, опорная, пробуждает, философия, больше, болью, входит, где, истина, многие, настоящий, начинается, начинают, них, открывается, потому
 
 Excerpt:
@@ -8402,13 +8402,13 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Страх как механизм контроля
+- title: Ashraellen — Страх как механизм контроля — Russian
 - description: Опорная мысль Ashraellen: там, где человек перестаёт бояться и начинает мыслить самостоятельно, ослабевает власть старых систем.
 - canonical: https://www.ashraellen.com/ru/public/thoughts/arcs/0005-on-your-own.html
 - H1: Страх как механизм контроля
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, контроля, механизм, страх, public, бояться, власть, где, мыслить, мысль, начинает, самостоятельно, человек, arcs, own, thoughts, your, выбрано
+- suggested keyword seed: ashraellen, контроля, механизм, страх, public, бояться, власть, где, мыслить, мысль, начинает, самостоятельно, человек, arcs, own, russian, thoughts, your
 - candidates: мысль, человек, мыслить, самостоятельно, страх, ashraellen, бояться, власть, где, контроля, механизм, начинает, опорная, ослабевает, перестаёт, смерти, там, человеку, больше, всё, делать, если, зависимости, запрет
 
 Excerpt:
@@ -8419,13 +8419,13 @@ Excerpt:
 
 - lang: ru
 - section: public
-- title: Ashraellen — Глубокий взгляд собирает жизнь
+- title: Ashraellen — Глубокий взгляд собирает жизнь — Russian
 - description: Опорная мысль Ashraellen: глубокий взгляд собирает жизнь, превращая ошибки и страдания в цепь понимания.
 - canonical: https://www.ashraellen.com/ru/public/thoughts/arcs/0006-insight.html
 - H1: Глубокий взгляд собирает жизнь
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, взгляд, глубокий, жизнь, собирает, public, мысль, страдания, arcs, insight, thoughts, без, видеть, выбрано, глубже, заметка, исследовательская, начинает
+- suggested keyword seed: ashraellen, взгляд, глубокий, жизнь, собирает, public, мысль, страдания, arcs, insight, russian, thoughts, без, видеть, выбрано, глубже, заметка, исследовательская
 - candidates: видеть, жизнь, начинает, человек, без, мысль, собирает, страдания, ashraellen, взгляд, глубже, глубокий, когда, опорная, ошибки, пониманию, боли, видимого, делает, жизни, начинается, она, перестаёт, последствий
 
 Excerpt:
@@ -8539,13 +8539,13 @@ Excerpt:
 - lang: ru
 - section: public
 - title: Ashraellen — Проблема теряет корону
-- description: Опорная мысль Ashraellen: проблема не уничтожена. Но её пафос — да.
+- description: Опорная мысль Ashraellen: проблема не уничтожена. Но её пафос — да. Проблема теряет корону Смысл Полный текст Почему выбрано Исследовательская заметка Опорная мысль 0013 Проблема теряет корону Проблема не уничтожена.…
 - canonical: https://www.ashraellen.com/ru/public/thoughts/arcs/0013-problem-loses-crown.html
 - H1: Проблема теряет корону
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, проблема, public, корону, мысль, опорная, пафос, теряет, arcs, crown, loses, problem, thoughts, вашей, выбрано, делать, есть, заметка
-- candidates: проблема, мысль, потому, есть, она, пробовали, уже, ashraellen, вашей, делать, опорная, пафос, проблемы, раз, уничтожена, внутреннего, вопрос, задайте, здесь, истерикой, кормить, корону, меня, методика
+- suggested keyword seed: проблема, корону, теряет, ashraellen, мысль, опорная, уничтожена, public, выбрано, заметка, исследовательская, полный, почему, смысл, текст, 0013, arcs, crown
+- candidates: проблема, мысль, потому, есть, корону, она, опорная, пробовали, теряет, уже, уничтожена, ashraellen, вашей, делать, пафос, проблемы, раз, текст, 0013, внутреннего, вопрос, выбрано, задайте, заметка
 
 Excerpt:
 
@@ -8641,13 +8641,13 @@ Excerpt:
 - lang: ru
 - section: public
 - title: Ashraellen — Не бомбите
-- description: Опорная мысль Ashraellen: не бомбите — и не бомбимы будете.
+- description: Опорная мысль Ashraellen: не бомбите — и не бомбимы будете. Не бомбите Смысл Полный текст Почему выбрано Исследовательская заметка Опорная мысль 0019 Не бомбите Не бомбите — и не бомбимы будете. Смысл Человек часто…
 - canonical: https://www.ashraellen.com/ru/public/thoughts/arcs/0019-do-not-bomb.html
 - H1: Не бомбите
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: бомбите, ashraellen, public, бомбимы, будете, мысль, arcs, bomb, thoughts, всегда, выбрано, выпускает, даже, если, заметка, исследовательская, мир, опорная
-- candidates: бомбите, мысль, потом, мир, сначала, человек, бомбимы, будете, всегда, выпускает, даже, если, или, опорная, ashraellen, благородную, вокруг, вообще, миссию, начинает, него, они, очевидная, очень
+- suggested keyword seed: бомбите, ashraellen, бомбимы, будете, мысль, опорная, смысл, public, выбрано, заметка, исследовательская, полный, почему, текст, человек, 0019, arcs, bomb
+- candidates: бомбите, мысль, потом, человек, бомбимы, будете, мир, сначала, всегда, опорная, выпускает, даже, если, или, смысл, текст, 0019, ashraellen, благородную, вокруг, вообще, выбрано, заметка, исследовательская
 
 Excerpt:
 
@@ -8658,13 +8658,13 @@ Excerpt:
 - lang: ru
 - section: public
 - title: Ashraellen — Народ и масса
-- description: Опорная мысль Ashraellen: народ помнит, масса реагирует.
+- description: Опорная мысль Ashraellen: народ помнит, масса реагирует. Народ и масса Смысл Полный текст Почему выбрано Исследовательская заметка Опорная мысль 0020 Народ и масса Народ помнит. Масса реагирует. Смысл Народ состоит из…
 - canonical: https://www.ashraellen.com/ru/public/thoughts/arcs/0020-people-and-mass.html
 - H1: Народ и масса
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, масса, народ, public, мысль, помнит, реагирует, arcs, mass, people, thoughts, выбрано, заметка, исследовательская, мне, можно, него, опорная
-- candidates: народ, масса, человек, мысль, можно, него, поток, мне, помнит, потому, реагирует, ashraellen, думает, душе, или, кого, кто, легко, лиц, людей, массу, массы, народа, начинает
+- suggested keyword seed: народ, масса, ashraellen, мысль, опорная, помнит, реагирует, смысл, public, выбрано, заметка, исследовательская, полный, почему, текст, 0020, arcs, mass
+- candidates: народ, масса, человек, мысль, можно, него, помнит, поток, реагирует, мне, опорная, потому, смысл, состоит, текст, 0020, ashraellen, выбрано, думает, душе, заметка, или, исследовательская, кого
 
 Excerpt:
 
@@ -8709,13 +8709,13 @@ Excerpt:
 - lang: ru
 - section: public
 - title: Ashraellen — Цена перехода
-- description: Опорная мысль Ashraellen: любой переход на новый этап оплачивается кризисом.
+- description: Опорная мысль Ashraellen: любой переход на новый этап оплачивается кризисом. Цена перехода Смысл Полный текст Почему выбрано Исследовательская заметка Опорная мысль 0023 Цена перехода Любой переход на новый этап…
 - canonical: https://www.ashraellen.com/ru/public/thoughts/arcs/0023-price-of-transition.html
 - H1: Цена перехода
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, кризисом, мысль, оплачивается, переход, перехода, цена, этап, arcs, price, thoughts, transition, всё, выбрано, давно, заметка, или
-- candidates: кризис, всё, мысль, нет, так, уже, давно, или, кризисом, оплачивается, переход, этап, быть, все, его, есть, ещё, иначе, любой, новый, потому, равно, роли, своя
+- suggested keyword seed: цена, перехода, ashraellen, мысль, переход, этап, public, выбрано, заметка, исследовательская, кризисом, любой, новый, опорная, полный, почему, смысл, текст
+- candidates: кризис, мысль, всё, нет, переход, так, уже, цена, этап, давно, или, кризисом, любой, новый, оплачивается, перехода, быть, все, его, есть, ещё, иначе, опорная, потому
 
 Excerpt:
 
@@ -8726,13 +8726,13 @@ Excerpt:
 - lang: ru
 - section: public
 - title: Ashraellen — Подлинный враг
-- description: Опорная мысль Ashraellen: подлинным врагом человека является не его невежество.
+- description: Опорная мысль Ashraellen: подлинным врагом человека является не его невежество. Подлинный враг Смысл Полный текст Почему выбрано Исследовательская заметка Опорная мысль 0024 Подлинный враг Подлинным врагом человека…
 - canonical: https://www.ashraellen.com/ru/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
 - H1: Подлинный враг
 - H2: Смысл | Полный текст | Почему выбрано | Исследовательская заметка
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, враг, врагом, его, мысль, невежество, подлинный, подлинным, человека, является, arcs, enemy, ignorance, thoughts, true, выбрано, ещё
-- candidates: его, знает, невежество, может, человека, врагом, мысль, подлинным, уже, является, ashraellen, ещё, которая, она, оно, опаснее, пустоте, своей, уверенность, человек, 0024, без, больше, враг
+- suggested keyword seed: враг, подлинный, ashraellen, врагом, мысль, подлинным, человека, public, выбрано, его, заметка, исследовательская, невежество, опорная, полный, почему, смысл, текст
+- candidates: его, знает, невежество, человека, врагом, может, мысль, подлинным, враг, подлинный, уже, является, 0024, ashraellen, ещё, которая, она, оно, опаснее, опорная, пустоте, своей, текст, уверенность
 
 Excerpt:
 
@@ -8760,13 +8760,13 @@ Excerpt:
 - lang: ru
 - section: public
 - title: Ashraellen — Смысловые дуги
-- description: Список завершённых смысловых подборок публичного поля Ashraellen.
+- description: Список завершённых смысловых подборок публичного поля Ashraellen. Смысловые дуги Первая дуга Опорные мысли Смысловые дуги Это список завершённых смысловых подборок публичного поля Ashraellen. Смысловая дуга — это не…
 - canonical: https://www.ashraellen.com/ru/public/thoughts/arcs/
 - H1: Смысловые дуги
 - H2: Первая дуга
 - H3: _missing_
-- suggested keyword seed: ashraellen, дуги, смысловые, public, дуга, завершённых, подборок, поля, публичного, смысловых, список, 0001, arcs, mark, thoughts, первая
-- candidates: ashraellen, дуга, дуги, завершённых, подборок, поля, публичного, смысловые, смысловых, список, 0001, mark, presence, весёлость, внутренний, дугу, единую, законченный, конечность, линию, мыслей, мысли, наблюдения, набор
+- suggested keyword seed: ashraellen, дуги, смысловые, дуга, завершённых, подборок, поля, публичного, смысловых, список, public, мысли, опорные, первая, arcs, thoughts, смысловая
+- candidates: дуга, ashraellen, дуги, смысловые, завершённых, подборок, поля, публичного, смысловых, список, мысли, опорные, первая, смысловая, 0001, mark, presence, весёлость, внутренний, дугу, единую, законченный, конечность, линию
 
 Excerpt:
 
@@ -8878,14 +8878,14 @@ Excerpt:
 
 - lang: ru
 - section: research
-- title: Ashraellen — Notes
-- description: _missing_
+- title: Ashraellen — Notes — Russian
+- description: Notes / Margins Ashraellen Notes / Margins Поля, сомнения, фрагменты. Материал, который не хочет становиться доктриной. Если кажется незавершённым — так и задумано. ← Research Public
 - canonical: https://www.ashraellen.com/ru/research/notes/
 - H1: Notes / Margins
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: notes, ashraellen, research, margins, public, доктриной, если, задумано, кажется, который, материал, незавершённым
-- candidates: ashraellen, notes, margins, public, research, доктриной, если, задумано, кажется, который, материал, незавершённым, поля, сомнения, становиться, так, фрагменты, хочет
+- suggested keyword seed: notes, ashraellen, margins, research, public, доктриной, если, задумано, кажется, который, материал, незавершённым, russian, поля, сомнения, становиться, так, фрагменты
+- candidates: notes, ashraellen, margins, public, research, доктриной, если, задумано, кажется, который, материал, незавершённым, поля, сомнения, становиться, так, фрагменты, хочет, russian
 
 Excerpt:
 
@@ -8895,14 +8895,14 @@ Excerpt:
 
 - lang: ru
 - section: research
-- title: Ashraellen — Position
-- description: _missing_
+- title: Ashraellen — Position — Russian
+- description: Position Ashraellen Position Я работаю как независимый художественный исследователь, рассматривая внутренний опыт как поле наблюдения. Религии, философии и трансцендентные опыты — модели описания, а не сама реальность.…
 - canonical: https://www.ashraellen.com/ru/research/position/
 - H1: Position
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: position, ashraellen, research, public, внутренний, исследователь, модели, наблюдения, независимый, описания, опыт, опыты
-- candidates: ashraellen, position, public, research, внутренний, исследователь, модели, наблюдения, независимый, описания, опыт, опыты, поле, работаю, рассматривая, реальность, религии, сама, трансцендентные, философии, художественный
+- suggested keyword seed: position, ashraellen, research, внутренний, исследователь, модели, наблюдения, независимый, описания, опыт, опыты, поле, работаю, russian, рассматривая, реальность, религии, сама
+- candidates: position, ashraellen, внутренний, исследователь, модели, наблюдения, независимый, описания, опыт, опыты, поле, работаю, рассматривая, реальность, религии, сама, трансцендентные, философии, художественный, public, research, russian
 
 Excerpt:
 
@@ -8946,14 +8946,14 @@ Excerpt:
 
 - lang: uk
 - section: books
-- title: Ashraellen — Книги
+- title: Ashraellen — Книги — Ukrainian
 - description: Книги Ashraellen: романи, великі проєкти, книги-експерименти, MONOLITH, САКРАЛЬНА КНИГА АХЕПСУ, Ти вже в мережі та Книга Ниття.
 - canonical: https://www.ashraellen.com/uk/books/
 - H1: Книги
 - H2: Список
 - H3: _missing_
-- suggested keyword seed: ashraellen, книги, книга, books, monolith, ахепсу, великі, вже, книги-експерименти, мережі, ниття, проєкти, про, романи, сакральна, список
-- candidates: книга, про, вже, книги, ashraellen, monolith, ахепсу, великі, книги-експерименти, мережі, ниття, проєкти, романи, сакральна, тексти, beton, gas, novel, preprint, series, sludge, whinesis, антиутопії, аудіо-відео
+- suggested keyword seed: ashraellen, книги, книга, books, monolith, ахепсу, великі, вже, книги-експерименти, мережі, ниття, проєкти, ukrainian, про, романи, сакральна, список
+- candidates: книга, про, вже, книги, ashraellen, monolith, ахепсу, великі, книги-експерименти, мережі, ниття, проєкти, романи, сакральна, тексти, beton, gas, novel, preprint, series, sludge, ukrainian, whinesis, антиутопії
 
 Excerpt:
 
@@ -8963,14 +8963,14 @@ Excerpt:
 
 - lang: uk
 - section: books
-- title: Ashraellen — BETON
-- description: BETON — Том I трилогії MONOLITH.
+- title: Ashraellen — BETON — Ukrainian
+- description: BETON — Том I трилогії MONOLITH. BETON Справа Опис BETON Том I трилогії MONOLITH. Справа Том I Бетон починається не зі стіни. Він починається зі звички називати в’язницю стабільністю. СПРАВА № 2026-001B. Індекс:…
 - canonical: https://www.ashraellen.com/uk/books/monolith/beton/
 - H1: BETON
 - H2: Справа | Опис
 - H3: _missing_
-- suggested keyword seed: beton, monolith, ashraellen, books, том, трилогії, бетон, бути, він, занадто, його, опис, перший, починається, про, справа
-- candidates: beton, том, monolith, занадто, про, трилогії, бетон, бути, він, його, перший, починається, світі, сенсів, справа, читати, 2026-001b, 6666548a, amazon, ashraellen, google, play, або, англійська
+- suggested keyword seed: beton, справа, monolith, том, починається, трилогії, 2026-001b, ashraellen, books, бетон, він, опис, ukrainian, бути, в’язницю, занадто, звички, індекс
+- candidates: beton, том, справа, monolith, починається, трилогії, бетон, він, занадто, про, 2026-001b, бути, в’язницю, звички, індекс, його, називати, опис, перший, світі, сенсів, стабільністю, стіни, читати
 
 Excerpt:
 
@@ -8980,14 +8980,14 @@ Excerpt:
 
 - lang: uk
 - section: books
-- title: Ashraellen — MONOLITH
-- description: MONOLITH — антиутопічна трилогія про контроль, пам’ять і розпад систем.
+- title: Ashraellen — MONOLITH — Ukrainian
+- description: MONOLITH — антиутопічна трилогія про контроль, пам’ять і розпад систем. MONOLITH Серія Томи Том I — BETON Том II — SLUDGE Том III — GAS MONOLITH MONOLITH — трилогія соціальної фантастики, антиутопії та філософського…
 - canonical: https://www.ashraellen.com/uk/books/monolith/
 - H1: MONOLITH
 - H2: Серія | Томи
 - H3: Том I — BETON | Том II — SLUDGE | Том III — GAS
-- suggested keyword seed: monolith, ashraellen, books, контроль, пам’ять, beton, gas, sludge, антиутопічна, без, видання, відкрити, про, розпад, серія, систем, стабільність, стає
-- candidates: monolith, том, gas, без, beton, sludge, видання, відкрити, пам’ять, стабільність, стає, контроль, починає, про, розпад, систем, системи, соціальної, трилогія, форма, amazon, ashraellen, books, google
+- suggested keyword seed: monolith, том, ashraellen, beton, books, gas, sludge, пам’ять, серія, соціальної, томи, трилогія, iii, ukrainian, антиутопії, антиутопічна, без, видання
+- candidates: monolith, том, gas, beton, sludge, без, видання, відкрити, пам’ять, соціальної, стабільність, стає, трилогія, iii, антиутопії, контроль, починає, про, розпад, серія, систем, системи, томи, фантастики
 
 Excerpt:
 
@@ -8997,14 +8997,14 @@ Excerpt:
 
 - lang: uk
 - section: books
-- title: Ashraellen — SLUDGE
-- description: SLUDGE — Том II трилогії MONOLITH.
+- title: Ashraellen — SLUDGE — Ukrainian
+- description: SLUDGE — Том II трилогії MONOLITH. SLUDGE Справа Опис SLUDGE Том II трилогії MONOLITH. Справа Том II Людина не ламається одразу. Спочатку вона втомлюється чинити опір. Потім починає погоджуватися. СПРАВА № 2026-001B.…
 - canonical: https://www.ashraellen.com/uk/books/monolith/sludge/
 - H1: SLUDGE
 - H2: Справа | Опис
 - H3: _missing_
-- suggested keyword seed: sludge, monolith, ashraellen, books, справа, том, трилогії, вона, людина, людину, одразу, опис, поступово, починає, про
-- candidates: sludge, вона, том, monolith, людина, починає, трилогії, людину, одразу, поступово, про, справа, читати, 2026-001b, 6666548a, amazon, ashraellen, beton, google, play, англійська, англійською, антиутопія, був
+- suggested keyword seed: sludge, справа, monolith, том, трилогії, 2026-001b, ashraellen, books, вона, втомлюється, ламається, людина, одразу, опис, починає, ukrainian, опір, погоджуватися
+- candidates: sludge, том, вона, справа, monolith, людина, починає, трилогії, одразу, 2026-001b, втомлюється, ламається, людину, опис, опір, погоджуватися, поступово, потім, про, спочатку, чинити, читати, 6666548a, amazon
 
 Excerpt:
 
@@ -9031,13 +9031,13 @@ Excerpt:
 
 - lang: uk
 - section: books
-- title: Ashraellen — Книга Нытия
+- title: Ashraellen — Книга Нытия — Ukrainian
 - description: Книга Нытия — сакральна сатира для тих, хто втомився від позитивних вайбів, нескінченної продуктивності та культу успіху.
 - canonical: https://www.ashraellen.com/uk/books/the-book-of-whinesis/
 - H1: Книга Нытия
 - H2: Про книгу | Перші глави | Уривок | Статус
 - H3: _missing_
-- suggested keyword seed: книга, нытия, ashraellen, books, про, хто, book, whinesis, буде, вайбів, від, він, втомився, глава, глави, господь, його, книгу
+- suggested keyword seed: книга, нытия, ashraellen, books, про, хто, book, ukrainian, whinesis, буде, вайбів, від, він, втомився, глава, глави, господь, його
 - candidates: сказав, нарікання, господь, він, про, буде, його, хто, глава, книга, моанії, моанія, тобі, щоб, від, гнорна, диван, змій, знижку, можна, нытия, аудіокнига, був, вони
 
 Excerpt:
@@ -9065,14 +9065,14 @@ Excerpt:
 
 - lang: uk
 - section: contact.html
-- title: Контакт — Ashraellen
+- title: Контакт — Ashraellen — Ukrainian
 - description: Контактна сторінка Ashraellen: співпраця, публікації, гранти, медіа та запити щодо проєкту.
 - canonical: https://www.ashraellen.com/uk/contact.html
 - H1: Контакт
 - H2: Ashraellen
 - H3: _missing_
-- suggested keyword seed: ashraellen, контакт, гранти, запити, медіа, проєкту, публікації, співпраця, contact, contact.html, telegram, telegram-канал, зв’язку, контактна, публічні, сторінка, щодо
-- candidates: ashraellen, зв’язку, медіа, telegram, telegram-канал, гранти, запити, контакт, проєкту, публікації, публічні, співпраця, щодо, ashraellen.live, ashraellenchannel, ashraellenlive, email, gmail.com, instagram, kostyshev, mark, presence, youtube, видавничі
+- suggested keyword seed: ashraellen, контакт, гранти, запити, медіа, проєкту, публікації, співпраця, contact, contact.html, telegram, telegram-канал, ukrainian, зв’язку, контактна, публічні, сторінка, щодо
+- candidates: ashraellen, зв’язку, медіа, telegram, telegram-канал, гранти, запити, контакт, проєкту, публікації, публічні, співпраця, щодо, ashraellen.live, ashraellenchannel, ashraellenlive, email, gmail.com, instagram, kostyshev, mark, presence, ukrainian, youtube
 
 Excerpt:
 
@@ -9099,14 +9099,14 @@ Excerpt:
 
 - lang: uk
 - section: monolith
-- title: MONOLITH — Ashraellen
-- description: MONOLITH: BETON. SLUDGE. GAS.
+- title: MONOLITH — Ashraellen — Ukrainian
+- description: MONOLITH: BETON. SLUDGE. GAS. MONOLITH BETON SLUDGE GAS MONOLITH Три стани контрольованого розпаду: BETON. SLUDGE. GAS. MONOLITH — антиутопічна трилогія про контроль, пам’ять і розпад систем. Українське видання…
 - canonical: https://www.ashraellen.com/uk/monolith/
 - H1: MONOLITH
 - H2: BETON | SLUDGE | GAS
 - H3: _missing_
-- suggested keyword seed: monolith, beton, gas, sludge, ashraellen, amazon, google, play, англійською, видання, пам’ять, том, читати
-- candidates: gas, monolith, читати, amazon, beton, google, play, sludge, видання, том, англійською, пам’ять, підготовці, російською, ashraellen, books, iii, англійські, антиутопічна, в’язницею, готується, доступні, контроль, контрольованого
+- suggested keyword seed: monolith, beton, gas, sludge, ashraellen, видання, пам’ять, amazon, google, play, ukrainian, англійською, антиутопічна, контроль, контрольованого, про, розпад, розпаду
+- candidates: monolith, gas, beton, sludge, видання, читати, amazon, google, play, пам’ять, том, англійською, антиутопічна, контроль, контрольованого, підготовці, про, розпад, розпаду, російською, систем, стани, три, трилогія
 
 Excerpt:
 
@@ -9168,13 +9168,13 @@ Excerpt:
 - lang: uk
 - section: public
 - title: Ashraellen — Перший цикл міні-есе
-- description: _missing_
+- description: Перший цикл Перший цикл Влада не над думкою, а над увагою Тіло — перші двері, але не мета Минуле — це його тлумачення Перший цикл Перший завершений цикл міні-есе: увага, тіло, минуле. Перший цикл до циклів Міні-есе…
 - canonical: https://www.ashraellen.com/uk/public/posts/essay/cycles/cycle-0001.html
 - H1: Перший цикл
 - H2: Перший цикл | Влада не над думкою, а над увагою | Тіло — перші двері, але не мета | Минуле — це його тлумачення
 - H3: _missing_
-- suggested keyword seed: перший, цикл, ashraellen, public, але, думкою, минуле, міні-есе, над, тіло, cycle, cycles, essay, posts, бути, влада, вона, двері
-- candidates: але, вона, людина, починається, минуле, тіло, думка, живе, міні-есе, саме, бути, думкою, з’являється, його, ось, перший, перші, свобода, ставати, стан, так, цикл, воно, двері
+- suggested keyword seed: перший, цикл, минуле, міні-есе, над, тіло, але, думкою, ashraellen, public, влада, двері, його, мета, перші, тлумачення, увагою, cycle
+- candidates: але, вона, людина, минуле, перший, тіло, цикл, починається, міні-есе, думка, думкою, живе, його, над, перші, саме, бути, двері, з’являється, ось, свобода, ставати, стан, так
 
 Excerpt:
 
@@ -9185,13 +9185,13 @@ Excerpt:
 - lang: uk
 - section: public
 - title: Ashraellen — Цикли міні-есе
-- description: _missing_
+- description: Цикли міні-есе Завершені цикли Цикли міні-есе Тут зібрані завершені цикли міні-есе. Поточний цикл знаходиться на головній сторінці розділу. Завершені цикли до поточного циклу Перший цикл Перший цикл міні-есе: увага,…
 - canonical: https://www.ashraellen.com/uk/public/posts/essay/cycles/
 - H1: Цикли міні-есе
 - H2: Завершені цикли
 - H3: _missing_
-- suggested keyword seed: цикли, ashraellen, міні-есе, public, завершені, cycle, cycles, essay, mark, posts, presence, головній, зібрані, перший, поточний, цикл
-- candidates: міні-есе, цикл, цикли, завершені, перший, поточний, ashraellen, cycle, mark, presence, головній, зібрані, знаходиться, минуле, поточного, розділу, сторінці, тіло, тут, увага, циклу
+- suggested keyword seed: цикли, міні-есе, завершені, цикл, перший, ashraellen, public, головній, зібрані, знаходиться, поточний, поточного, розділу, сторінці, cycles, essay, posts, тут
+- candidates: цикли, міні-есе, цикл, завершені, перший, поточний, головній, зібрані, знаходиться, поточного, розділу, сторінці, тут, увага, циклу, ashraellen, cycle, mark, presence, минуле, тіло
 
 Excerpt:
 
@@ -9202,13 +9202,13 @@ Excerpt:
 - lang: uk
 - section: public
 - title: Ashraellen — Міні-есе
-- description: _missing_
+- description: Міні-есе Перший цикл Влада не над думкою, а над увагою Тіло — перші двері, але не мета Минуле — це його тлумачення Міні-есе Невеликі розбори: одне питання, один кут зору, один висновок. Без лекційної пози й без театру…
 - canonical: https://www.ashraellen.com/uk/public/posts/essay/
 - H1: Міні-есе
 - H2: Перший цикл | Влада не над думкою, а над увагою | Тіло — перші двері, але не мета | Минуле — це його тлумачення
 - H3: _missing_
-- suggested keyword seed: міні-есе, ashraellen, public, але, думкою, минуле, над, тіло, essay, posts, бути, влада, вона, двері, думка, живе, його, людина
-- candidates: але, вона, людина, починається, минуле, тіло, думка, живе, міні-есе, саме, бути, думкою, з’являється, його, ось, перші, свобода, ставати, стан, так, воно, двері, іноді, коли
+- suggested keyword seed: міні-есе, над, але, думкою, його, минуле, тіло, ashraellen, public, без, влада, двері, мета, один, перший, перші, тлумачення, увагою
+- candidates: але, вона, людина, починається, минуле, міні-есе, тіло, думка, думкою, живе, його, над, перші, саме, без, бути, двері, з’являється, один, ось, свобода, ставати, стан, так
 
 Excerpt:
 
@@ -9219,13 +9219,13 @@ Excerpt:
 - lang: uk
 - section: public
 - title: Ashraellen — Формули
-- description: _missing_
+- description: Ashraellen — Формули is part of the Ashraellen multilingual public archive of literary, artistic and research work.
 - canonical: https://www.ashraellen.com/uk/public/posts/formula/
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, формули, formula, posts
-- candidates: ashraellen, формули
+- suggested keyword seed: ashraellen, public, формули, archive, artistic, literary, multilingual, part, research, work, formula, posts
+- candidates: ashraellen, формули, archive, artistic, literary, multilingual, part, public, research, work
 
 Excerpt:
 
@@ -9235,14 +9235,14 @@ Excerpt:
 
 - lang: uk
 - section: public
-- title: Ashraellen — Лінія формул
-- description: _missing_
+- title: Ashraellen — Лінія формул — Ukrainian
+- description: Ashraellen — Лінія формул — Ukrainian is part of the Ashraellen multilingual public archive of literary, artistic and research work.
 - canonical: https://www.ashraellen.com/uk/public/posts/formula/lines/
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, лінія, формул, formula, lines, posts
-- candidates: ashraellen, лінія, формул
+- suggested keyword seed: ashraellen, public, ukrainian, лінія, формул, archive, artistic, literary, multilingual, part, research, work, formula, lines, posts
+- candidates: ashraellen, ukrainian, лінія, формул, archive, artistic, literary, multilingual, part, public, research, work
 
 Excerpt:
 
@@ -9252,14 +9252,14 @@ Excerpt:
 
 - lang: uk
 - section: public
-- title: Ashraellen — Лінія 0001
-- description: _missing_
+- title: Ashraellen — Лінія 0001 — Ukrainian
+- description: Ashraellen — Лінія 0001 — Ukrainian is part of the Ashraellen multilingual public archive of literary, artistic and research work.
 - canonical: https://www.ashraellen.com/uk/public/posts/formula/lines/line-0001.html
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, 0001, public, лінія, formula, line, lines, posts
-- candidates: 0001, ashraellen, лінія
+- suggested keyword seed: ashraellen, public, 0001, ukrainian, лінія, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts
+- candidates: ashraellen, 0001, ukrainian, лінія, archive, artistic, literary, multilingual, part, public, research, work
 
 Excerpt:
 
@@ -9269,14 +9269,14 @@ Excerpt:
 
 - lang: uk
 - section: public
-- title: Ashraellen — Лінія 0002
-- description: _missing_
+- title: Ashraellen — Лінія 0002 — Ukrainian
+- description: Ashraellen — Лінія 0002 — Ukrainian is part of the Ashraellen multilingual public archive of literary, artistic and research work.
 - canonical: https://www.ashraellen.com/uk/public/posts/formula/lines/line-0002.html
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, 0002, public, лінія, formula, line, lines, posts
-- candidates: 0002, ashraellen, лінія
+- suggested keyword seed: ashraellen, public, 0002, ukrainian, лінія, archive, artistic, literary, multilingual, part, research, work, formula, line, lines, posts
+- candidates: ashraellen, 0002, ukrainian, лінія, archive, artistic, literary, multilingual, part, public, research, work
 
 Excerpt:
 
@@ -9287,13 +9287,13 @@ Excerpt:
 - lang: uk
 - section: public
 - title: Ashraellen — Фрагменти
-- description: _missing_
+- description: Фрагменти Список Фрагменти Уривки з більших текстів: щоб відчути тон, побачити напрям і зрозуміти, який “шматок пазла” лежить тут. Іноді фрагмента достатньо, щоб знайти ціле. Список назад до змісту Публікація 002 —…
 - canonical: https://www.ashraellen.com/uk/public/posts/fragment/
 - H1: Фрагменти
 - H2: Список
 - H3: _missing_
-- suggested keyword seed: ashraellen, фрагменти, fragment, public, 002, 006, 014, mark, posts, публікація, скоро, список, тут, фрагмент, щоб
-- candidates: фрагмент, fragment, публікація, скоро, 002, тут, фрагменти, щоб, 006, 014, ashraellen, mark, presence, без, більших, відчути, всіх, додаємо, додамо, достатньо, живе, з’явиться, заглушка, заготовка
+- suggested keyword seed: фрагменти, список, щоб, 002, ashraellen, fragment, public, більших, відчути, достатньо, публікація, тут, posts, змісту, знайти, зрозуміти, іноді, лежить
+- candidates: фрагмент, публікація, фрагменти, щоб, 002, fragment, скоро, список, тут, більших, відчути, достатньо, змісту, знайти, зрозуміти, іноді, лежить, назад, напрям, пазла, побачити, текстів, тон, уривки
 
 Excerpt:
 
@@ -9304,13 +9304,13 @@ Excerpt:
 - lang: uk
 - section: public
 - title: Ashraellen — Публікації
-- description: _missing_
+- description: Публікації Розділи Формули Фрагменти Міні-есе Публікації Короткі форми спостереження: формули, фрагменти й міні-есе. Різні способи впіймати думку до того, як вона встигла стати лекцією. Розділи оберіть формат formula…
 - canonical: https://www.ashraellen.com/uk/public/posts/
 - H1: Публікації
 - H2: Розділи
 - H3: Формули | Фрагменти | Міні-есе
-- suggested keyword seed: ashraellen, публікації, public, essay, formula, fragment, mark, posts, presence, але, міні-есе, розділи, формули, фрагменти, читати
-- candidates: читати, міні-есе, публікації, формули, фрагменти, ashraellen, essay, formula, fragment, mark, presence, але, без, великих, висновок, відчути, вона, впіймати, встигла, думка, думку, зору, короткі, кут
+- suggested keyword seed: публікації, розділи, міні-есе, формули, фрагменти, ashraellen, formula, public, вона, впіймати, встигла, думку, короткі, posts, лекцією, оберіть, різні, способи
+- candidates: міні-есе, публікації, формули, фрагменти, розділи, читати, formula, вона, впіймати, встигла, думку, короткі, лекцією, оберіть, різні, способи, спостереження, стати, того, формат, форми, ashraellen, essay, fragment
 
 Excerpt:
 
@@ -9321,13 +9321,13 @@ Excerpt:
 - lang: uk
 - section: public
 - title: Ashraellen — Джерела перенесено
-- description: _missing_
+- description: Джерела перенесено Джерела перенесено Джерела тепер належать до розділу дослідження як методологічна основа проєкту. Відкрити «Джерела і традиція» Феноменологія, тіло, наратив, когнітивна наука і художня практика.…
 - canonical: https://www.ashraellen.com/uk/public/posts/sources/
 - H1: Джерела перенесено
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, джерела, перенесено, public, posts, sources, відкрити, дослідження, когнітивна, методологічна, належать, наратив, наука, основа, практика
-- candidates: джерела, перенесено, ashraellen, відкрити, дослідження, когнітивна, методологічна, належать, наратив, наука, основа, практика, проєкту, розділу, тепер, тіло, традиція, феноменологія, художня
+- suggested keyword seed: джерела, перенесено, ashraellen, public, відкрити, дослідження, когнітивна, методологічна, належать, наратив, наука, основа, практика, проєкту, posts, sources, розділу, тепер
+- candidates: джерела, перенесено, відкрити, дослідження, когнітивна, методологічна, належать, наратив, наука, основа, практика, проєкту, розділу, тепер, тіло, традиція, феноменологія, художня, ashraellen
 
 Excerpt:
 
@@ -9559,13 +9559,13 @@ Excerpt:
 - lang: uk
 - section: public
 - title: Ashraellen — Проблема втрачає корону
-- description: Опорна думка 0013: Проблему не знищено. Але її пафос — так.
+- description: Опорна думка 0013: Проблему не знищено. Але її пафос — так. Проблема втрачає корону Сенс Повний текст Чому вибрано Дослідницька нотатка Опорна думка 0013 Проблема втрачає корону Проблему не знищено. Але її пафос — так.…
 - canonical: https://www.ashraellen.com/uk/public/thoughts/arcs/0013-problem-loses-crown.html
 - H1: Проблема втрачає корону
 - H2: Сенс | Повний текст | Чому вибрано | Дослідницька нотатка
 - H3: _missing_
-- suggested keyword seed: корону, проблема, ashraellen, public, але, втрачає, думка, знищено, пафос, проблему, так, 0013, arcs, crown, loses, problem, thoughts, вибрано
-- candidates: проблему, але, думка, проблема, вона, знищено, корону, метод, пафос, прийняття, так, твоєї, того, тому, 0013, вже, втрачає, намагався, опорна, просто, робити, саме, тут, уже
+- suggested keyword seed: втрачає, корону, проблема, 0013, але, думка, знищено, пафос, проблему, так, ashraellen, public, вибрано, дослідницька, нотатка, опорна, повний, сенс
+- candidates: проблему, але, думка, проблема, корону, втрачає, знищено, пафос, так, 0013, вона, метод, опорна, прийняття, твоєї, того, тому, вже, вибрано, дослідницька, намагався, нотатка, повний, просто
 
 Excerpt:
 
@@ -9593,13 +9593,13 @@ Excerpt:
 - lang: uk
 - section: public
 - title: Ashraellen — Тонка думка потребує тиші
-- description: Опорна думка 0015: Тонка думка не зобов’язана ставати грубою, щоб її помітили.
+- description: Опорна думка 0015: Тонка думка не зобов’язана ставати грубою, щоб її помітили. Тонка думка потребує тиші Сенс Повний текст Чому вибрано Дослідницька нотатка Опорна думка 0015 Тонка думка потребує тиші Тонка думка не…
 - canonical: https://www.ashraellen.com/uk/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
 - H1: Тонка думка потребує тиші
 - H2: Сенс | Повний текст | Чому вибрано | Дослідницька нотатка
 - H3: _missing_
-- suggested keyword seed: думка, тонка, ashraellen, public, грубою, зобов’язана, помітили, потребує, сенс, ставати, тиші, щоб, 0015, arcs, needs, silence, subtle, thought
-- candidates: думка, іноді, тому, тонка, щоб, грубою, зобов’язана, помітили, просто, розуміння, сенс, ставати, 0015, ashraellen, воно, все, долоню, думки, дурницею, надто, незрозуміле, опорна, потребує, річ
+- suggested keyword seed: думка, тонка, потребує, тиші, 0015, опорна, сенс, ashraellen, public, вибрано, грубою, дослідницька, зобов’язана, нотатка, повний, текст, чому, щоб
+- candidates: думка, тонка, іноді, тому, потребує, сенс, тиші, щоб, 0015, грубою, зобов’язана, опорна, помітили, просто, розуміння, ставати, текст, ashraellen, вибрано, воно, все, долоню, дослідницька, думки
 
 Excerpt:
 
@@ -9610,13 +9610,13 @@ Excerpt:
 - lang: uk
 - section: public
 - title: Ashraellen — Факт був один
-- description: Опорна думка 0016: Факт був один. А страждання — на три сезони з продовженням.
+- description: Опорна думка 0016: Факт був один. А страждання — на три сезони з продовженням. Факт був один Сенс Повний текст Чому вибрано Дослідницька нотатка Опорна думка 0016 Факт був один Факт був один. А страждання — на три…
 - canonical: https://www.ashraellen.com/uk/public/thoughts/arcs/0016-one-fact.html
 - H1: Факт був один
 - H2: Сенс | Повний текст | Чому вибрано | Дослідницька нотатка
 - H3: _missing_
-- suggested keyword seed: був, один, факт, ashraellen, public, думка, продовженням, сезони, страждання, три, 0016, arcs, fact, one, thoughts, вибрано, від, дослідницька
-- candidates: був, думка, один, факт, значить, страждання, від, продовженням, розум, сезони, три, хтось, 0016, вже, відповів, додумуй, з’являється, зайвого, знаю, іноді, коротко, напевно, неї, опорна
+- suggested keyword seed: був, один, факт, 0016, думка, опорна, страждання, три, ashraellen, public, вибрано, дослідницька, нотатка, повний, продовженням, сенс, текст, чому
+- candidates: був, один, факт, думка, страждання, значить, три, 0016, від, опорна, продовженням, розум, сезони, текст, хтось, вже, вибрано, відповів, додумуй, дослідницька, з’являється, зайвого, знаю, іноді
 
 Excerpt:
 
@@ -9644,13 +9644,13 @@ Excerpt:
 - lang: uk
 - section: public
 - title: Ashraellen — Образ не може бути щасливим
-- description: Опорна думка 0018: Образ може отримати визнання. Але він не може бути щасливим.
+- description: Опорна думка 0018: Образ може отримати визнання. Але він не може бути щасливим. Образ не може бути щасливим Сенс Повний текст Чому вибрано Дослідницька нотатка Опорна думка 0018 Образ не може бути щасливим Образ може…
 - canonical: https://www.ashraellen.com/uk/public/thoughts/arcs/0018-image-cannot-be-happy.html
 - H1: Образ не може бути щасливим
 - H2: Сенс | Повний текст | Чому вибрано | Дослідницька нотатка
 - H3: _missing_
-- suggested keyword seed: може, бути, образ, щасливим, ashraellen, public, але, визнання, думка, 0018, arcs, cannot, happy, image, thoughts, вибрано, він, дослідницька
-- candidates: може, образ, бути, але, образу, людина, щасливим, визнання, думка, питання, правильну, себе, він, всередині, живе, отримати, 0018, багато, будувати, вона, вони, дуже, живуть, життя
+- suggested keyword seed: може, образ, бути, щасливим, думка, 0018, ashraellen, public, але, вибрано, визнання, дослідницька, нотатка, опорна, повний, сенс, текст, чому
+- candidates: може, образ, бути, щасливим, але, образу, думка, людина, визнання, питання, правильну, себе, 0018, він, всередині, живе, опорна, отримати, текст, чому, багато, будувати, вибрано, вона
 
 Excerpt:
 
@@ -9661,13 +9661,13 @@ Excerpt:
 - lang: uk
 - section: public
 - title: Ashraellen — Не бомбіть
-- description: Опорна думка 0019: не бомбіть — і не будете бомбимі.
+- description: Опорна думка 0019: не бомбіть — і не будете бомбимі. Не бомбіть Сенс Повний текст Чому вибрано Дослідницька нотатка Опорна думка 0019 Не бомбіть Не бомбіть — і не будете бомбимі. Сенс Людина часто випускає у світ…
 - canonical: https://www.ashraellen.com/uk/public/thoughts/arcs/0019-do-not-bomb.html
 - H1: Не бомбіть
 - H2: Сенс | Повний текст | Чому вибрано | Дослідницька нотатка
 - H3: _missing_
-- suggested keyword seed: бомбіть, ashraellen, public, бомбимі, будете, думка, 0019, arcs, bomb, thoughts, вибрано, випускає, вона, дослідницька, завжди, людина, навіть, нотатка
-- candidates: бомбіть, думка, людина, потім, світ, спершу, бомбимі, будете, завжди, випускає, вона, навіть, 0019, але, будь-яку, власну, вони, грубість, дивується, дуже, живе, місію, навколо, опорна
+- suggested keyword seed: бомбіть, 0019, бомбимі, будете, думка, сенс, ashraellen, public, вибрано, випускає, дослідницька, людина, нотатка, опорна, повний, світ, текст, чому
+- candidates: бомбіть, думка, людина, потім, світ, бомбимі, будете, спершу, випускає, завжди, 0019, вона, навіть, опорна, сенс, текст, але, будь-яку, вибрано, власну, вони, грубість, дивується, дослідницька
 
 Excerpt:
 
@@ -9677,14 +9677,14 @@ Excerpt:
 
 - lang: uk
 - section: public
-- title: Ashraellen — Народ і маса
-- description: Опорна думка 0020: народ пам’ятає. Маса реагує.
+- title: Ashraellen — Народ і маса — Ukrainian
+- description: Опорна думка 0020: народ пам’ятає. Маса реагує. Народ і маса Сенс Повний текст Чому вибрано Дослідницька нотатка Опорна думка 0020 Народ і маса Народ пам’ятає. Маса реагує. Сенс Народ складається з облич, пам’яті, мови…
 - canonical: https://www.ashraellen.com/uk/public/thoughts/arcs/0020-people-and-mass.html
 - H1: Народ і маса
 - H2: Сенс | Повний текст | Чому вибрано | Дослідницька нотатка
 - H3: _missing_
-- suggested keyword seed: маса, народ, ashraellen, public, думка, пам’ятає, реагує, 0020, arcs, mass, people, thoughts, вибрано, вона, дослідницька, людина, маси, мені
-- candidates: народ, людина, маса, думка, можна, неї, потік, вона, маси, мені, пам’ятає, реагує, 0020, вже, від, власної, думає, душі, зараз, кого, легко, людей, назвати, народу
+- suggested keyword seed: народ, маса, 0020, думка, пам’ятає, реагує, сенс, ashraellen, public, вибрано, дослідницька, нотатка, опорна, повний, текст, чому, arcs, mass
+- candidates: народ, маса, людина, думка, можна, неї, пам’ятає, потік, реагує, 0020, вона, маси, мені, облич, опорна, сенс, складається, текст, вже, вибрано, від, власної, дослідницька, думає
 
 Excerpt:
 
@@ -9712,13 +9712,13 @@ Excerpt:
 - lang: uk
 - section: public
 - title: Ashraellen — Духовність не нав’язується
-- description: Опорна думка 0022: справжня духовність не нав’язується. Нею зачаровуються.
+- description: Опорна думка 0022: справжня духовність не нав’язується. Нею зачаровуються. Духовність не нав’язується Сенс Повний текст Чому вибрано Дослідницька нотатка Опорна думка 0022 Духовність не нав’язується Справжня духовність…
 - canonical: https://www.ashraellen.com/uk/public/thoughts/arcs/0022-spirituality-is-not-forced.html
 - H1: Духовність не нав’язується
 - H2: Сенс | Повний текст | Чому вибрано | Дослідницька нотатка
 - H3: _missing_
-- suggested keyword seed: духовність, нав’язується, ashraellen, public, думка, справжня, 0022, arcs, forced, spirituality, thoughts, вибрано, вона, дослідницька, душа, зачаровуються, людину, може
-- candidates: духовність, справжня, може, тому, думка, нав’язується, людину, народити, неможливо, страх, вона, душа, зачаровуються, можна, нею, починається, стати, упізнавання, 0022, але, джерелом, душі, живим, звичку
+- suggested keyword seed: духовність, нав’язується, 0022, думка, справжня, ashraellen, public, вибрано, дослідницька, нотатка, опорна, повний, сенс, текст, чому, arcs, forced, spirituality
+- candidates: духовність, справжня, нав’язується, думка, може, тому, людину, народити, неможливо, страх, 0022, вона, душа, зачаровуються, можна, нею, опорна, починається, стати, текст, упізнавання, але, вибрано, джерелом
 
 Excerpt:
 
@@ -9729,13 +9729,13 @@ Excerpt:
 - lang: uk
 - section: public
 - title: Ashraellen — Ціна переходу
-- description: Опорна думка 0023: кожен перехід на новий етап оплачується кризою.
+- description: Опорна думка 0023: кожен перехід на новий етап оплачується кризою. Ціна переходу Сенс Повний текст Чому вибрано Дослідницька нотатка Опорна думка 0023 Ціна переходу Кожен перехід на новий етап оплачується кризою. Сенс…
 - canonical: https://www.ashraellen.com/uk/public/thoughts/arcs/0023-price-of-transition.html
 - H1: Ціна переходу
 - H2: Сенс | Повний текст | Чому вибрано | Дослідницька нотатка
 - H3: _missing_
-- suggested keyword seed: ashraellen, public, думка, етап, кожен, оплачується, переходу, ціна, 0023, arcs, price, thoughts, transition, але, бути, вже, вибрано, вона
-- candidates: думка, криза, немає, так, давно, етап, кожен, оплачується, але, бути, вже, вона, інакше, його, кризою, новий, перехід, переходу, ролі, себе, усі, ціна, 0023, вихід
+- suggested keyword seed: переходу, ціна, думка, етап, кожен, кризою, новий, оплачується, сенс, 0023, ashraellen, public, вибрано, дослідницька, нотатка, опорна, перехід, повний
+- candidates: думка, етап, кожен, криза, немає, оплачується, переходу, так, ціна, давно, кризою, новий, перехід, 0023, але, бути, вже, вона, інакше, його, опорна, ролі, себе, сенс
 
 Excerpt:
 
@@ -9864,14 +9864,14 @@ Excerpt:
 
 - lang: uk
 - section: research
-- title: Ashraellen — Notes
-- description: _missing_
+- title: Ashraellen — Notes — Ukrainian
+- description: Notes / Margins Ashraellen Notes / Margins Поля, сумніви, фрагменти. Матеріал, що не хоче ставати доктриною. Якщо здається незавершеним — так і треба. ← Research Public
 - canonical: https://www.ashraellen.com/uk/research/notes/
 - H1: Notes / Margins
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: notes, ashraellen, research, margins, public, доктриною, здається, матеріал, незавершеним, поля, ставати, сумніви
-- candidates: ashraellen, notes, margins, public, research, доктриною, здається, матеріал, незавершеним, поля, ставати, сумніви, так, треба, фрагменти, хоче, якщо
+- suggested keyword seed: notes, ashraellen, margins, research, public, доктриною, здається, матеріал, незавершеним, поля, ставати, сумніви, ukrainian, так, треба, фрагменти, хоче, якщо
+- candidates: notes, ashraellen, margins, public, research, доктриною, здається, матеріал, незавершеним, поля, ставати, сумніви, так, треба, фрагменти, хоче, якщо, ukrainian
 
 Excerpt:
 
@@ -9881,14 +9881,14 @@ Excerpt:
 
 - lang: uk
 - section: research
-- title: Ashraellen — Position
-- description: _missing_
+- title: Ashraellen — Position — Ukrainian
+- description: Position Ashraellen Position Я працюю як незалежний художній дослідник, розглядаючи внутрішній досвід як поле спостереження. Релігії, філософії й трансцендентні стани — це моделі опису, а не сама реальність. ← Research…
 - canonical: https://www.ashraellen.com/uk/research/position/
 - H1: Position
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: position, ashraellen, research, public, внутрішній, досвід, дослідник, моделі, незалежний, опису, поле, працюю
-- candidates: ashraellen, position, public, research, внутрішній, досвід, дослідник, моделі, незалежний, опису, поле, працюю, реальність, релігії, розглядаючи, сама, спостереження, стани, трансцендентні, філософії, художній
+- suggested keyword seed: position, ashraellen, research, внутрішній, досвід, дослідник, моделі, незалежний, опису, поле, працюю, реальність, ukrainian, релігії, розглядаючи, сама, спостереження, стани
+- candidates: position, ashraellen, research, внутрішній, досвід, дослідник, моделі, незалежний, опису, поле, працюю, реальність, релігії, розглядаючи, сама, спостереження, стани, трансцендентні, філософії, художній, public, ukrainian
 
 Excerpt:
 
