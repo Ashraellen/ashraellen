@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-06-30T12:56:35.423Z
+Generated: 2026-06-30T12:57:38.363Z
 
 Pages checked: 550
-Pages with issues: 41
-Total issues: 70
+Pages with issues: 0
+Total issues: 0
 Pages with review notes: 550
 Total review notes: 2200
 
@@ -12,11 +12,6 @@ Total review notes: 2200
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_KEYWORDS | 30 |
-| DUPLICATE_DESCRIPTION | 12 |
-| DUPLICATE_OG_DESCRIPTION | 12 |
-| DUPLICATE_OG_TITLE | 8 |
-| DUPLICATE_TITLE | 8 |
 
 
 ## Review note summary
@@ -30,445 +25,6 @@ Total review notes: 2200
 
 
 ## Pages with issues
-
-### be/public/posts/formula/lines/index.html
-
-- title: Ashraellen — Лінія формул — Belarusian
-- description length: 133
-- canonical: https://www.ashraellen.com/be/public/posts/formula/lines/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 2 pages
-
-### be/public/posts/formula/lines/line-0001.html
-
-- title: Ashraellen — Лінія 0001 — Belarusian
-- description length: 131
-- canonical: https://www.ashraellen.com/be/public/posts/formula/lines/line-0001.html
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 2 pages
-
-### be/public/posts/formula/lines/line-0002.html
-
-- title: Ashraellen — Лінія 0002 — Belarusian
-- description length: 131
-- canonical: https://www.ashraellen.com/be/public/posts/formula/lines/line-0002.html
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 2 pages
-
-### de/monolith/index.html
-
-- title: MONOLITH — Ashraellen — German
-- description length: 219
-- canonical: https://www.ashraellen.com/de/monolith/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 6 pages
-
-### de/research/notes/index.html
-
-- title: Ashraellen — Notes — German
-- description length: 185
-- canonical: https://www.ashraellen.com/de/research/notes/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 8 pages
-
-### de/research/position/index.html
-
-- title: Ashraellen — Position — German
-- description length: 219
-- canonical: https://www.ashraellen.com/de/research/position/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 8 pages
-
-### en/research/notes/index.html
-
-- title: Ashraellen — Notes — English
-- description length: 174
-- canonical: https://www.ashraellen.com/en/research/notes/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 8 pages
-
-### en/research/position/index.html
-
-- title: Ashraellen — Position — English
-- description length: 218
-- canonical: https://www.ashraellen.com/en/research/position/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 8 pages
-
-### es/monolith/index.html
-
-- title: MONOLITH — Ashraellen — Spanish
-- description length: 212
-- canonical: https://www.ashraellen.com/es/monolith/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 6 pages
-
-### es/public/posts/formula/index.html
-
-- title: Ashraellen — Fórmulas — Spanish
-- description length: 126
-- canonical: https://www.ashraellen.com/es/public/posts/formula/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 2 pages
-
-### es/research/notes/index.html
-
-- title: Ashraellen — Notes — Spanish
-- description length: 180
-- canonical: https://www.ashraellen.com/es/research/notes/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 8 pages
-
-### es/research/position/index.html
-
-- title: Ashraellen — Position — Spanish
-- description length: 218
-- canonical: https://www.ashraellen.com/es/research/position/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 8 pages
-
-### fr/monolith/index.html
-
-- title: MONOLITH — Ashraellen — French
-- description length: 214
-- canonical: https://www.ashraellen.com/fr/monolith/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 6 pages
-
-### fr/research/notes/index.html
-
-- title: Ashraellen — Notes — French
-- description length: 176
-- canonical: https://www.ashraellen.com/fr/research/notes/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 8 pages
-
-### fr/research/position/index.html
-
-- title: Ashraellen — Position — French
-- description length: 214
-- canonical: https://www.ashraellen.com/fr/research/position/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 8 pages
-
-### pl/monolith/index.html
-
-- title: MONOLITH — Ashraellen — Polish
-- description length: 215
-- canonical: https://www.ashraellen.com/pl/monolith/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 6 pages
-
-### pl/research/notes/index.html
-
-- title: Ashraellen — Notes — Polish
-- description length: 179
-- canonical: https://www.ashraellen.com/pl/research/notes/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 8 pages
-
-### pl/research/position/index.html
-
-- title: Ashraellen — Position — Polish
-- description length: 206
-- canonical: https://www.ashraellen.com/pl/research/position/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 8 pages
-
-### pt/monolith/index.html
-
-- title: MONOLITH — Ashraellen — PT
-- description length: 217
-- canonical: https://www.ashraellen.com/pt/monolith/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 6 pages
-
-### pt/public/posts/formula/index.html
-
-- title: Ashraellen — Fórmulas — PT — posts / formula
-- description length: 121
-- canonical: https://www.ashraellen.com/pt/public/posts/formula/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_DESCRIPTION: shared by 2 pages
-- DUPLICATE_KEYWORDS: shared by 2 pages
-- DUPLICATE_OG_DESCRIPTION: shared by 2 pages
-
-### pt/public/posts/formula/lines/index.html
-
-- title: Ashraellen — Fórmulas — PT — formula / lines
-- description length: 121
-- canonical: https://www.ashraellen.com/pt/public/posts/formula/lines/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_DESCRIPTION: shared by 2 pages
-- DUPLICATE_OG_DESCRIPTION: shared by 2 pages
-
-### pt/research/notes/index.html
-
-- title: Ashraellen — Notes — PT
-- description length: 169
-- canonical: https://www.ashraellen.com/pt/research/notes/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 8 pages
-
-### pt/research/position/index.html
-
-- title: Ashraellen — Position — PT
-- description length: 218
-- canonical: https://www.ashraellen.com/pt/research/position/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 8 pages
-
-### ru/public/thoughts/01-cheerfulness/index.html
-
-- title: Ashraellen — Весёлость как диагностика человека — Russian — thoughts / cheerfulness
-- description length: 110
-- canonical: https://www.ashraellen.com/ru/public/thoughts/01-cheerfulness/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_DESCRIPTION: shared by 2 pages
-- DUPLICATE_OG_DESCRIPTION: shared by 2 pages
-
-### ru/public/thoughts/02-still-the-same/index.html
-
-- title: Ashraellen — Те же силы, новые имена — Russian — the / same
-- description length: 99
-- canonical: https://www.ashraellen.com/ru/public/thoughts/02-still-the-same/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_TITLE: shared by 2 pages
-- DUPLICATE_DESCRIPTION: shared by 2 pages
-- DUPLICATE_OG_TITLE: shared by 2 pages
-- DUPLICATE_OG_DESCRIPTION: shared by 2 pages
-
-### ru/public/thoughts/03-let-go/index.html
-
-- title: Ashraellen — Пробуждение начинается с невозможности продолжать — Russian — let / go
-- description length: 99
-- canonical: https://www.ashraellen.com/ru/public/thoughts/03-let-go/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_TITLE: shared by 2 pages
-- DUPLICATE_DESCRIPTION: shared by 2 pages
-- DUPLICATE_OG_TITLE: shared by 2 pages
-- DUPLICATE_OG_DESCRIPTION: shared by 2 pages
-
-### ru/public/thoughts/04-mortality-awakens/index.html
-
-- title: Ashraellen — Конечность пробуждает вопрос — Russian — mortality / awakens
-- description length: 109
-- canonical: https://www.ashraellen.com/ru/public/thoughts/04-mortality-awakens/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_TITLE: shared by 2 pages
-- DUPLICATE_DESCRIPTION: shared by 2 pages
-- DUPLICATE_OG_TITLE: shared by 2 pages
-- DUPLICATE_OG_DESCRIPTION: shared by 2 pages
-
-### ru/public/thoughts/05-on-your-own/index.html
-
-- title: Ashraellen — Страх как механизм контроля — Russian — your / own
-- description length: 128
-- canonical: https://www.ashraellen.com/ru/public/thoughts/05-on-your-own/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_TITLE: shared by 2 pages
-- DUPLICATE_DESCRIPTION: shared by 2 pages
-- DUPLICATE_OG_TITLE: shared by 2 pages
-- DUPLICATE_OG_DESCRIPTION: shared by 2 pages
-
-### ru/public/thoughts/arcs/0001-cheerfulness.html
-
-- title: Ashraellen — Весёлость как диагностика человека — Russian — arcs / cheerfulness
-- description length: 110
-- canonical: https://www.ashraellen.com/ru/public/thoughts/arcs/0001-cheerfulness.html
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_DESCRIPTION: shared by 2 pages
-- DUPLICATE_OG_DESCRIPTION: shared by 2 pages
-
-### ru/public/thoughts/arcs/0002-still-the-same.html
-
-- title: Ashraellen — Те же силы, новые имена — Russian — the / same
-- description length: 99
-- canonical: https://www.ashraellen.com/ru/public/thoughts/arcs/0002-still-the-same.html
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_TITLE: shared by 2 pages
-- DUPLICATE_DESCRIPTION: shared by 2 pages
-- DUPLICATE_OG_TITLE: shared by 2 pages
-- DUPLICATE_OG_DESCRIPTION: shared by 2 pages
-
-### ru/public/thoughts/arcs/0003-let-go.html
-
-- title: Ashraellen — Пробуждение начинается с невозможности продолжать — Russian — let / go
-- description length: 99
-- canonical: https://www.ashraellen.com/ru/public/thoughts/arcs/0003-let-go.html
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_TITLE: shared by 2 pages
-- DUPLICATE_DESCRIPTION: shared by 2 pages
-- DUPLICATE_OG_TITLE: shared by 2 pages
-- DUPLICATE_OG_DESCRIPTION: shared by 2 pages
-
-### ru/public/thoughts/arcs/0004-mortality-awakens.html
-
-- title: Ashraellen — Конечность пробуждает вопрос — Russian — mortality / awakens
-- description length: 109
-- canonical: https://www.ashraellen.com/ru/public/thoughts/arcs/0004-mortality-awakens.html
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_TITLE: shared by 2 pages
-- DUPLICATE_DESCRIPTION: shared by 2 pages
-- DUPLICATE_OG_TITLE: shared by 2 pages
-- DUPLICATE_OG_DESCRIPTION: shared by 2 pages
-
-### ru/public/thoughts/arcs/0005-on-your-own.html
-
-- title: Ashraellen — Страх как механизм контроля — Russian — your / own
-- description length: 128
-- canonical: https://www.ashraellen.com/ru/public/thoughts/arcs/0005-on-your-own.html
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_TITLE: shared by 2 pages
-- DUPLICATE_DESCRIPTION: shared by 2 pages
-- DUPLICATE_OG_TITLE: shared by 2 pages
-- DUPLICATE_OG_DESCRIPTION: shared by 2 pages
-
-### ru/research/notes/index.html
-
-- title: Ashraellen — Notes — Russian
-- description length: 182
-- canonical: https://www.ashraellen.com/ru/research/notes/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 8 pages
-
-### ru/research/position/index.html
-
-- title: Ashraellen — Position — Russian
-- description length: 219
-- canonical: https://www.ashraellen.com/ru/research/position/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 8 pages
-
-### uk/monolith/index.html
-
-- title: MONOLITH — Ashraellen — Ukrainian
-- description length: 211
-- canonical: https://www.ashraellen.com/uk/monolith/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 6 pages
-
-### uk/public/posts/formula/lines/index.html
-
-- title: Ashraellen — Лінія формул — Ukrainian
-- description length: 132
-- canonical: https://www.ashraellen.com/uk/public/posts/formula/lines/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 2 pages
-
-### uk/public/posts/formula/lines/line-0001.html
-
-- title: Ashraellen — Лінія 0001 — Ukrainian
-- description length: 130
-- canonical: https://www.ashraellen.com/uk/public/posts/formula/lines/line-0001.html
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 2 pages
-
-### uk/public/posts/formula/lines/line-0002.html
-
-- title: Ashraellen — Лінія 0002 — Ukrainian
-- description length: 130
-- canonical: https://www.ashraellen.com/uk/public/posts/formula/lines/line-0002.html
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 2 pages
-
-### uk/research/notes/index.html
-
-- title: Ashraellen — Notes — Ukrainian
-- description length: 168
-- canonical: https://www.ashraellen.com/uk/research/notes/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 8 pages
-
-### uk/research/position/index.html
-
-- title: Ashraellen — Position — Ukrainian
-- description length: 219
-- canonical: https://www.ashraellen.com/uk/research/position/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_KEYWORDS: shared by 8 pages
 
 
 ## Pages with review notes
@@ -5436,7 +4992,7 @@ Total review notes: 2200
 
 ### ru/public/thoughts/02-still-the-same/index.html
 
-- title: Ashraellen — Те же силы, новые имена — Russian — the / same
+- title: Ashraellen — Те же силы, новые имена — Russian — the / same — 02 / still / the / same
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -5447,7 +5003,7 @@ Total review notes: 2200
 
 ### ru/public/thoughts/03-let-go/index.html
 
-- title: Ashraellen — Пробуждение начинается с невозможности продолжать — Russian — let / go
+- title: Ashraellen — Пробуждение начинается с невозможности продолжать — Russian — let / go — thoughts / 03 / let / go
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -5458,7 +5014,7 @@ Total review notes: 2200
 
 ### ru/public/thoughts/04-mortality-awakens/index.html
 
-- title: Ashraellen — Конечность пробуждает вопрос — Russian — mortality / awakens
+- title: Ashraellen — Конечность пробуждает вопрос — Russian — mortality / awakens — thoughts / 04 / mortality / awakens
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -5469,7 +5025,7 @@ Total review notes: 2200
 
 ### ru/public/thoughts/05-on-your-own/index.html
 
-- title: Ashraellen — Страх как механизм контроля — Russian — your / own
+- title: Ashraellen — Страх как механизм контроля — Russian — your / own — 05 / on / your / own
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -5502,7 +5058,7 @@ Total review notes: 2200
 
 ### ru/public/thoughts/arcs/0002-still-the-same.html
 
-- title: Ashraellen — Те же силы, новые имена — Russian — the / same
+- title: Ashraellen — Те же силы, новые имена — Russian — the / same — 0002 / still / the / same
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -5513,7 +5069,7 @@ Total review notes: 2200
 
 ### ru/public/thoughts/arcs/0003-let-go.html
 
-- title: Ashraellen — Пробуждение начинается с невозможности продолжать — Russian — let / go
+- title: Ashraellen — Пробуждение начинается с невозможности продолжать — Russian — let / go — arcs / 0003 / let / go
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -5524,7 +5080,7 @@ Total review notes: 2200
 
 ### ru/public/thoughts/arcs/0004-mortality-awakens.html
 
-- title: Ashraellen — Конечность пробуждает вопрос — Russian — mortality / awakens
+- title: Ashraellen — Конечность пробуждает вопрос — Russian — mortality / awakens — arcs / 0004 / mortality / awakens
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -5535,7 +5091,7 @@ Total review notes: 2200
 
 ### ru/public/thoughts/arcs/0005-on-your-own.html
 
-- title: Ashraellen — Страх как механизм контроля — Russian — your / own
+- title: Ashraellen — Страх как механизм контроля — Russian — your / own — 0005 / on / your / own
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
