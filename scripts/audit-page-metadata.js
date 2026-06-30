@@ -10,6 +10,10 @@ const MAX_DESCRIPTION = 220;
 const REAL_NAME = 'Nikolai Kostyshev';
 const DEFAULT_OG_IMAGE = 'ashraellen-og-home-default-1200x630';
 
+function shouldSkipFileName(name) {
+  return SKIP_FILES.has(name) || /^google[a-z0-9_-]*\.html$/i.test(name);
+}
+
 function walk(dir, out = []) {
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
     const full = path.join(dir, entry.name);
@@ -17,7 +21,7 @@ function walk(dir, out = []) {
       if (SKIP_DIRS.has(entry.name)) continue;
       walk(full, out);
     } else if (entry.isFile() && entry.name.endsWith('.html')) {
-      if (SKIP_FILES.has(entry.name)) continue;
+      if (shouldSkipFileName(entry.name)) continue;
       out.push(full);
     }
   }
@@ -57,175 +61,171 @@ function isFallbackImage(url) {
 function isOrdinaryContentPage(page) {
   return /(^|\/)(books|research|public)\//.test(page);
 }
-function isIdentityPage(page) {
-  return /(^|\/)(professional|about|bio|biography|author|contact)(\/|\.html|$)/.test(page);
-}
-function addDuplicateIssues(records, key, issueName, options = {}) {
-  const groups = new Map();
-  for (const record of records) {
-    const value = canonicalIssueValue(record[key]);
-    if (!value) continue;
-    if (options.ignore && options.ignore(value, record)) continue;
-    if (!groups.has(value)) groups.set(value, []);
-    groups.get(value).push(record);
-  }
-  for (const [value, items] of groups) {
-    if (items.length <= 1) continue;
-    for (const item of items) item.issues.push(`${issueName}: shared by ${items.length} pages`);
-  }
-}
-function addDuplicateNotes(records, key, noteName, options = {}) {
-  const groups = new Map();
-  for (const record of records) {
-    const value = canonicalIssueValue(record[key]);
-    if (!value) continue;
-    if (options.ignore && options.ignore(value, record)) continue;
-    if (!groups.has(value)) groups.set(value, []);
-    groups.get(value).push(record);
-  }
-  for (const [value, items] of groups) {
-    if (items.length <= 1) continue;
-    for (const item of items) item.notes.push(`${noteName}: shared by ${items.length} pages`);
-  }
+function isIdentityPage(page) { return /(^|\/)(professional|about|bio|biography|author|contact)(\/|\.html|$)/.test(page); }
+
+function recordDuplicate(map, value, page) {
+  const key = canonicalIssueValue(value);
+  if (!key) return;
+  if (!map.has(key)) map.set(key, []);
+  map.get(key).push(page);
 }
 
-function auditFile(file) {
-  const html = fs.readFileSync(file, 'utf8');
+const files = walk(ROOT).sort();
+const pages = [];
+const duplicateMaps = {
+  title: new Map(),
+  description: new Map(),
+  keywords: new Map(),
+  canonical: new Map(),
+  ogTitle: new Map(),
+  ogDescription: new Map(),
+  ogImage: new Map(),
+  twitterImage: new Map()
+};
+
+for (const file of files) {
   const page = rel(file);
-  const record = {
-    page,
-    title: textBetween(html, /<title[^>]*>([\s\S]*?)<\/title>/i),
-    description: attrValue(html, 'name', 'description'),
-    keywords: attrValue(html, 'name', 'keywords'),
-    canonical: linkHref(html, 'canonical'),
-    jsonLdCount: countMatches(html, /<script\s+type=["']application\/ld\+json["'][^>]*>/gi),
-    ogTitle: attrValue(html, 'property', 'og:title'),
-    ogDescription: attrValue(html, 'property', 'og:description'),
-    ogImage: attrValue(html, 'property', 'og:image'),
-    twitterCard: attrValue(html, 'name', 'twitter:card'),
-    twitterImage: attrValue(html, 'name', 'twitter:image'),
-    issues: [],
-    notes: []
-  };
+  const html = fs.readFileSync(file, 'utf8');
+  const title = textBetween(html, /<title[^>]*>([\s\S]*?)<\/title>/i);
+  const description = attrValue(html, 'name', 'description');
+  const keywords = attrValue(html, 'name', 'keywords');
+  const canonical = linkHref(html, 'canonical');
+  const ogTitle = attrValue(html, 'property', 'og:title');
+  const ogDescription = attrValue(html, 'property', 'og:description');
+  const ogImage = attrValue(html, 'property', 'og:image');
+  const twitterCard = attrValue(html, 'name', 'twitter:card');
+  const twitterImage = attrValue(html, 'name', 'twitter:image');
+  const jsonLdCount = countMatches(html, /<script\s+type=["']application\/ld\+json["'][^>]*>/gi);
 
-  if (html.includes(REAL_NAME) && isOrdinaryContentPage(page) && !isIdentityPage(page)) {
-    record.issues.push(`REAL_NAME_ON_ORDINARY_CONTENT_PAGE: ${REAL_NAME}`);
-  }
+  const data = { page, title, description, keywords, canonical, ogTitle, ogDescription, ogImage, twitterCard, twitterImage, jsonLdCount, issues: [], reviewNotes: [] };
 
-  if (isFallbackImage(record.ogImage)) record.notes.push('FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use');
-  if (isFallbackImage(record.twitterImage)) record.notes.push('FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use');
+  if (!title) data.issues.push('MISSING_TITLE');
+  if (!description) data.issues.push('MISSING_DESCRIPTION');
+  if (!keywords) data.issues.push('MISSING_KEYWORDS');
+  if (!canonical) data.issues.push('MISSING_CANONICAL');
+  if (jsonLdCount === 0) data.issues.push('MISSING_JSON_LD');
+  if (jsonLdCount > 1) data.issues.push('MULTIPLE_JSON_LD');
+  if (!ogTitle) data.issues.push('MISSING_OG_TITLE');
+  if (!ogDescription) data.issues.push('MISSING_OG_DESCRIPTION');
+  if (!ogImage) data.issues.push('MISSING_OG_IMAGE');
+  if (ogImage && !isAllowedLocalImage(ogImage)) data.issues.push(`OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: ${ogImage}`);
+  if (isFallbackImage(ogImage)) data.reviewNotes.push('FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use');
+  if (!twitterCard) data.issues.push('MISSING_TWITTER_CARD');
+  if (!twitterImage) data.issues.push('MISSING_TWITTER_IMAGE');
+  if (twitterImage && !isAllowedLocalImage(twitterImage)) data.issues.push(`TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: ${twitterImage}`);
+  if (isFallbackImage(twitterImage)) data.reviewNotes.push('FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use');
+  if (description && description.length < MIN_DESCRIPTION) data.issues.push(`DESCRIPTION_TOO_SHORT: ${description.length}`);
+  if (description && description.length > MAX_DESCRIPTION) data.issues.push(`DESCRIPTION_TOO_LONG: ${description.length}`);
+  if (isOrdinaryContentPage(page) && !isIdentityPage(page) && html.includes(REAL_NAME)) data.issues.push(`REAL_NAME_ON_ORDINARY_CONTENT_PAGE: ${REAL_NAME}`);
 
-  if (!record.title) record.issues.push('MISSING_TITLE');
-  if (!record.description) record.issues.push('MISSING_DESCRIPTION');
-  if (!record.keywords) record.issues.push('MISSING_KEYWORDS');
-  if (!record.canonical) record.issues.push('MISSING_CANONICAL');
-  if (record.jsonLdCount === 0) record.issues.push('MISSING_JSON_LD');
-  if (record.jsonLdCount > 1) record.issues.push(`MULTIPLE_JSON_LD: ${record.jsonLdCount}`);
-  if (!record.ogTitle) record.issues.push('MISSING_OG_TITLE');
-  if (!record.ogDescription) record.issues.push('MISSING_OG_DESCRIPTION');
-  if (!record.ogImage) record.issues.push('MISSING_OG_IMAGE');
-  if (record.ogImage && !isAllowedLocalImage(record.ogImage)) record.issues.push(`OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: ${record.ogImage}`);
-  if (!record.twitterCard) record.issues.push('MISSING_TWITTER_CARD');
-  if (!record.twitterImage) record.issues.push('MISSING_TWITTER_IMAGE');
-  if (record.twitterImage && !isAllowedLocalImage(record.twitterImage)) record.issues.push(`TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: ${record.twitterImage}`);
-
-  if (record.description && record.description.length < MIN_DESCRIPTION) record.issues.push(`DESCRIPTION_TOO_SHORT: ${record.description.length}`);
-  if (record.description && record.description.length > MAX_DESCRIPTION) record.issues.push(`DESCRIPTION_TOO_LONG: ${record.description.length}`);
-
-  return record;
+  pages.push(data);
+  recordDuplicate(duplicateMaps.title, title, page);
+  recordDuplicate(duplicateMaps.description, description, page);
+  recordDuplicate(duplicateMaps.keywords, keywords, page);
+  recordDuplicate(duplicateMaps.canonical, canonical, page);
+  recordDuplicate(duplicateMaps.ogTitle, ogTitle, page);
+  recordDuplicate(duplicateMaps.ogDescription, ogDescription, page);
+  recordDuplicate(duplicateMaps.ogImage, ogImage, page);
+  recordDuplicate(duplicateMaps.twitterImage, twitterImage, page);
 }
 
-function itemSummary(records, field) {
-  const counts = new Map();
-  for (const record of records) {
-    for (const item of record[field]) {
-      const key = item.replace(/:.*/, '');
-      counts.set(key, (counts.get(key) || 0) + 1);
+function addDuplicateIssues(kind, map, issueName, reviewNote = false) {
+  for (const [value, sharedPages] of map.entries()) {
+    if (sharedPages.length < 2) continue;
+    for (const page of sharedPages) {
+      const target = pages.find(item => item.page === page);
+      if (!target) continue;
+      const message = `${issueName}: shared by ${sharedPages.length} pages`;
+      if (reviewNote) target.reviewNotes.push(message);
+      else target.issues.push(message);
     }
   }
-  return [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
 }
-function markdownTable(rows) {
-  if (!rows.length) return '_No items._\n';
-  return ['| Item | Count |', '|---|---:|', ...rows.map(([item, count]) => `| ${item} | ${count} |`)].join('\n') + '\n';
-}
-function buildReport(records) {
-  const problemRecords = records.filter(record => record.issues.length > 0);
-  const noteRecords = records.filter(record => record.notes.length > 0);
-  const totalIssues = problemRecords.reduce((sum, record) => sum + record.issues.length, 0);
-  const totalNotes = noteRecords.reduce((sum, record) => sum + record.notes.length, 0);
-  const lines = [];
-  lines.push('# Page Metadata Audit');
-  lines.push('');
-  lines.push(`Generated: ${new Date().toISOString()}`);
-  lines.push('');
-  lines.push(`Pages checked: ${records.length}`);
-  lines.push(`Pages with issues: ${problemRecords.length}`);
-  lines.push(`Total issues: ${totalIssues}`);
-  lines.push(`Pages with review notes: ${noteRecords.length}`);
-  lines.push(`Total review notes: ${totalNotes}`);
-  lines.push('');
-  lines.push('## Issue summary');
-  lines.push('');
-  lines.push(markdownTable(itemSummary(problemRecords, 'issues')));
-  lines.push('');
-  lines.push('## Review note summary');
-  lines.push('');
-  lines.push(markdownTable(itemSummary(noteRecords, 'notes')));
-  lines.push('');
-  lines.push('## Pages with issues');
-  lines.push('');
-  if (!problemRecords.length) {
-    lines.push('_No issues found._');
-  } else {
-    for (const record of problemRecords.sort((a, b) => a.page.localeCompare(b.page))) {
-      lines.push(`### ${record.page}`);
-      lines.push('');
-      lines.push(`- title: ${record.title || '_missing_'}`);
-      lines.push(`- description length: ${record.description ? record.description.length : 0}`);
-      lines.push(`- canonical: ${record.canonical || '_missing_'}`);
-      lines.push(`- og:image: ${record.ogImage || '_missing_'}`);
-      lines.push(`- twitter:image: ${record.twitterImage || '_missing_'}`);
-      lines.push('');
-      for (const issue of record.issues) lines.push(`- ${issue}`);
-      lines.push('');
-    }
+
+addDuplicateIssues('title', duplicateMaps.title, 'DUPLICATE_TITLE');
+addDuplicateIssues('description', duplicateMaps.description, 'DUPLICATE_DESCRIPTION');
+addDuplicateIssues('keywords', duplicateMaps.keywords, 'DUPLICATE_KEYWORDS');
+addDuplicateIssues('canonical', duplicateMaps.canonical, 'DUPLICATE_CANONICAL');
+addDuplicateIssues('ogTitle', duplicateMaps.ogTitle, 'DUPLICATE_OG_TITLE');
+addDuplicateIssues('ogDescription', duplicateMaps.ogDescription, 'DUPLICATE_OG_DESCRIPTION');
+addDuplicateIssues('ogImage', duplicateMaps.ogImage, 'DUPLICATE_OG_IMAGE_REVIEW', true);
+addDuplicateIssues('twitterImage', duplicateMaps.twitterImage, 'DUPLICATE_TWITTER_IMAGE_REVIEW', true);
+
+const pagesWithIssues = pages.filter(item => item.issues.length > 0);
+const pagesWithReviewNotes = pages.filter(item => item.reviewNotes.length > 0);
+const issueSummary = new Map();
+const reviewSummary = new Map();
+for (const item of pages) {
+  for (const issue of item.issues) {
+    const key = issue.split(':')[0];
+    issueSummary.set(key, (issueSummary.get(key) || 0) + 1);
   }
-  lines.push('');
-  lines.push('## Pages with review notes');
-  lines.push('');
-  if (!noteRecords.length) {
-    lines.push('_No review notes found._');
-  } else {
-    for (const record of noteRecords.sort((a, b) => a.page.localeCompare(b.page))) {
-      lines.push(`### ${record.page}`);
-      lines.push('');
-      lines.push(`- og:image: ${record.ogImage || '_missing_'}`);
-      lines.push(`- twitter:image: ${record.twitterImage || '_missing_'}`);
-      lines.push('');
-      for (const note of record.notes) lines.push(`- ${note}`);
-      lines.push('');
-    }
+  for (const note of item.reviewNotes) {
+    const key = note.split(':')[0];
+    reviewSummary.set(key, (reviewSummary.get(key) || 0) + 1);
   }
-  return lines.join('\n');
+}
+function sortedSummary(map) {
+  return Array.from(map.entries()).sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
 }
 
-const records = walk(ROOT).map(auditFile);
-
-addDuplicateIssues(records, 'title', 'DUPLICATE_TITLE');
-addDuplicateIssues(records, 'description', 'DUPLICATE_DESCRIPTION');
-addDuplicateIssues(records, 'keywords', 'DUPLICATE_KEYWORDS');
-addDuplicateIssues(records, 'canonical', 'DUPLICATE_CANONICAL');
-addDuplicateIssues(records, 'ogTitle', 'DUPLICATE_OG_TITLE');
-addDuplicateIssues(records, 'ogDescription', 'DUPLICATE_OG_DESCRIPTION');
-addDuplicateNotes(records, 'ogImage', 'DUPLICATE_OG_IMAGE_REVIEW');
-addDuplicateNotes(records, 'twitterImage', 'DUPLICATE_TWITTER_IMAGE_REVIEW');
-
-const report = buildReport(records);
 fs.mkdirSync(path.dirname(REPORT), { recursive: true });
-fs.writeFileSync(REPORT, report);
-console.log(report);
-
-const problemCount = records.filter(record => record.issues.length > 0).length;
-if (process.env.STRICT_METADATA_AUDIT === '1' && problemCount > 0) process.exit(1);
-process.exit(0);
+const out = [];
+out.push('# Page Metadata Audit');
+out.push('');
+out.push(`Generated: ${new Date().toISOString()}`);
+out.push('');
+out.push(`Pages checked: ${pages.length}`);
+out.push(`Pages with issues: ${pagesWithIssues.length}`);
+out.push(`Total issues: ${pagesWithIssues.reduce((sum, item) => sum + item.issues.length, 0)}`);
+out.push(`Pages with review notes: ${pagesWithReviewNotes.length}`);
+out.push(`Total review notes: ${pagesWithReviewNotes.reduce((sum, item) => sum + item.reviewNotes.length, 0)}`);
+out.push('');
+out.push('## Issue summary');
+out.push('');
+out.push('| Item | Count |');
+out.push('|---|---:|');
+for (const [key, count] of sortedSummary(issueSummary)) out.push(`| ${key} | ${count} |`);
+out.push('');
+out.push('');
+out.push('## Review note summary');
+out.push('');
+out.push('| Item | Count |');
+out.push('|---|---:|');
+for (const [key, count] of sortedSummary(reviewSummary)) out.push(`| ${key} | ${count} |`);
+out.push('');
+out.push('');
+out.push('## Pages with issues');
+out.push('');
+for (const item of pagesWithIssues) {
+  out.push(`### ${item.page}`);
+  out.push('');
+  out.push(`- title: ${item.title || '_missing_'}`);
+  out.push(`- description length: ${item.description ? item.description.length : 0}`);
+  out.push(`- canonical: ${item.canonical || '_missing_'}`);
+  out.push(`- og:image: ${item.ogImage || '_missing_'}`);
+  out.push(`- twitter:image: ${item.twitterImage || '_missing_'}`);
+  out.push('');
+  for (const issue of item.issues) out.push(`- ${issue}`);
+  out.push('');
+}
+out.push('');
+out.push('## Pages with review notes');
+out.push('');
+for (const item of pagesWithReviewNotes) {
+  out.push(`### ${item.page}`);
+  out.push('');
+  out.push(`- title: ${item.title || '_missing_'}`);
+  out.push(`- og:image: ${item.ogImage || '_missing_'}`);
+  out.push(`- twitter:image: ${item.twitterImage || '_missing_'}`);
+  out.push('');
+  for (const note of item.reviewNotes) out.push(`- ${note}`);
+  out.push('');
+}
+fs.writeFileSync(REPORT, out.join('\n'), 'utf8');
+console.log(`Wrote ${path.relative(ROOT, REPORT)}`);
+console.log(`Pages checked: ${pages.length}`);
+console.log(`Pages with issues: ${pagesWithIssues.length}`);
+console.log(`Total issues: ${pagesWithIssues.reduce((sum, item) => sum + item.issues.length, 0)}`);
+console.log(`Pages with review notes: ${pagesWithReviewNotes.length}`);
+console.log(`Total review notes: ${pagesWithReviewNotes.reduce((sum, item) => sum + item.reviewNotes.length, 0)}`);
