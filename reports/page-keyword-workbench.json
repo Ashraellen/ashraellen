@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-30T13:22:32.921Z",
+  "generated": "2026-06-30T14:39:57.058Z",
   "pages": [
     {
       "page": "be/books/index.html",
@@ -21267,7 +21267,7 @@
       "section": "index.html",
       "title": "Ashraellen — Entry",
       "description": "Ashraellen: books, research, public texts, videos, audiobooks and inner observation.",
-      "existingKeywords": "ashraellen, index, entry, books, research, public, texts, videos, audiobooks, inner, observation, choose, your, language, doctype, html, title, script",
+      "existingKeywords": "",
       "canonical": "https://www.ashraellen.com/",
       "h1": [
         "Choose your language"
@@ -25980,8 +25980,8 @@
       "lang": "root",
       "section": "privacy.html",
       "title": "Privacy Policy — Ashraellen",
-      "description": "Redirecting to the English Privacy Policy for Ashraellen.com. Redirecting to Privacy Policy .",
-      "existingKeywords": "ashraellen, privacy, policy, redirecting, english, ashraellen.com, doctype, html, title, window.location.replace, privacy.html, script, head, body",
+      "description": "Redirecting to the English Privacy Policy for Ashraellen.com.",
+      "existingKeywords": "",
       "canonical": "https://www.ashraellen.com/privacy.html",
       "h1": [],
       "h2": [],
@@ -26000,11 +26000,11 @@
       ],
       "suggestedKeywordSeed": [
         "privacy",
-        "policy",
         "ashraellen",
-        "redirecting",
+        "policy",
         "ashraellen.com",
         "english",
+        "redirecting",
         "privacy.html"
       ]
     },
