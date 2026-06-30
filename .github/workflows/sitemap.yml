@@ -1,4 +1,4 @@
-name: Generate sitemap
+name: Generate sitemap and reports
 
 on:
   push:
@@ -6,12 +6,6 @@ on:
       - main
     paths:
       - '**/*.html'
-      - 'scripts/add-missing-keywords.js'
-      - 'scripts/clean-public-identity-head.py'
-      - 'scripts/repair-title-description-og.py'
-      - 'scripts/repair-structured-social-gaps.py'
-      - 'scripts/dedupe-page-metadata.py'
-      - 'scripts/apply-og-from-page-backgrounds.py'
       - 'scripts/audit-page-metadata.js'
       - 'scripts/export-page-keyword-workbench.js'
       - 'scripts/generate-sitemap.js'
@@ -38,24 +32,6 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Add missing static keywords
-        run: node scripts/add-missing-keywords.js
-
-      - name: Clean public identity in ordinary page metadata
-        run: python3 scripts/clean-public-identity-head.py
-
-      - name: Repair title description and OG metadata
-        run: python3 scripts/repair-title-description-og.py
-
-      - name: Repair structured data and social gaps
-        run: python3 scripts/repair-structured-social-gaps.py
-
-      - name: Dedupe page metadata
-        run: python3 scripts/dedupe-page-metadata.py
-
-      - name: Apply OG images from page backgrounds
-        run: python3 scripts/apply-og-from-page-backgrounds.py
-
       - name: Audit page metadata
         run: node scripts/audit-page-metadata.js
 
@@ -68,15 +44,15 @@ jobs:
       - name: Submit sitemap URLs to IndexNow
         run: node scripts/submit-indexnow.js
 
-      - name: Commit repaired HTML, sitemap.xml and reports if changed
+      - name: Commit sitemap.xml and reports if changed
         run: |
-          if git diff --quiet; then
-            echo "HTML, sitemap.xml and reports are already up to date."
+          if git diff --quiet -- sitemap.xml reports/page-metadata-audit.md reports/page-keyword-workbench.md reports/page-keyword-workbench.json; then
+            echo "sitemap.xml and reports are already up to date."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add '**/*.html' sitemap.xml reports/page-metadata-audit.md reports/page-keyword-workbench.md reports/page-keyword-workbench.json reports/page-backgrounds.md
-          git commit -m "Auto-repair static page metadata and reports"
+          git add sitemap.xml reports/page-metadata-audit.md reports/page-keyword-workbench.md reports/page-keyword-workbench.json
+          git commit -m "Update sitemap and metadata reports"
           git push
