@@ -8,6 +8,7 @@ on:
       - '**/*.html'
       - 'scripts/add-missing-keywords.js'
       - 'scripts/clean-public-identity-head.py'
+      - 'scripts/repair-title-description-og.py'
       - 'scripts/audit-page-metadata.js'
       - 'scripts/export-page-keyword-workbench.js'
       - 'scripts/generate-sitemap.js'
@@ -39,6 +40,9 @@ jobs:
 
       - name: Clean public identity in ordinary page metadata
         run: python3 scripts/clean-public-identity-head.py
+
+      - name: Repair title description and OG metadata
+        run: python3 scripts/repair-title-description-og.py
 
       - name: Audit page metadata
         run: node scripts/audit-page-metadata.js
