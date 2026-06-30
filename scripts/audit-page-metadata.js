@@ -7,9 +7,9 @@ const SKIP_DIRS = new Set(['.git', '.github', 'assets', 'scripts', 'node_modules
 const SKIP_FILES = new Set(['404.html']);
 const MIN_DESCRIPTION = 80;
 const MAX_DESCRIPTION = 220;
+const REAL_NAME = 'Nikolai Kostyshev';
 
-const FORBIDDEN = [
-  'Nikolai Kostyshev',
+const FORBIDDEN_SITEWIDE = [
   'ashraellen-og-home-default-1200x630'
 ];
 
@@ -54,6 +54,12 @@ function isAllowedLocalImage(url) {
     || /^\/assets\/(backgrounds|covers|og)\//.test(url)
     || /^\.\.\/.*assets\/(backgrounds|covers|og)\//.test(url);
 }
+function isOrdinaryContentPage(page) {
+  return /(^|\/)(books|research|public)\//.test(page);
+}
+function isIdentityPage(page) {
+  return /(^|\/)(professional|about|bio|biography|author|contact)(\/|\.html|$)/.test(page);
+}
 function addDuplicateIssues(records, key, issueName, options = {}) {
   const groups = new Map();
   for (const record of records) {
@@ -87,7 +93,10 @@ function auditFile(file) {
     issues: []
   };
 
-  for (const token of FORBIDDEN) if (html.includes(token)) record.issues.push(`FORBIDDEN_TEXT: ${token}`);
+  for (const token of FORBIDDEN_SITEWIDE) if (html.includes(token)) record.issues.push(`FORBIDDEN_SITEWIDE_TEXT: ${token}`);
+  if (html.includes(REAL_NAME) && isOrdinaryContentPage(page) && !isIdentityPage(page)) {
+    record.issues.push(`REAL_NAME_ON_ORDINARY_CONTENT_PAGE: ${REAL_NAME}`);
+  }
 
   if (!record.title) record.issues.push('MISSING_TITLE');
   if (!record.description) record.issues.push('MISSING_DESCRIPTION');
