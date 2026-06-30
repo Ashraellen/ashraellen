@@ -60,6 +60,26 @@ Every public page should contain, directly in HTML:
 - meaningful alt text for images;
 - JSON-LD where appropriate.
 
+## Identity and social image metadata
+
+Use Ashraellen as the primary public identity of the site, authorial project, and creative archive.
+
+Nikolai Kostyshev is the author's real name. It may be used where the page context calls for real author identity: biography, professional dossier, contact/about pages, author identity blocks, and JSON-LD Person data as alternateName.
+
+The real name is not secret and is not forbidden. The metadata issue is uncontrolled repetition in generic page templates. For ordinary book, archive, research, and public text pages, the primary visible identity should normally remain Ashraellen.
+
+The default OG image ashraellen-og-home-default-1200x630 is an approved fallback image for Ashraellen.com. It may be used when a page does not have a better page-specific image, cover, background, or project image.
+
+Preferred order for OG and Twitter images:
+
+1. page-specific image, cover, or background;
+2. series-specific or project-specific image;
+3. approved default Ashraellen OG image.
+
+Repeated use of the default OG image is a review signal, not an automatic error. Check whether a more specific image exists before replacing it.
+
+Metadata should be page-specific where possible. Generic author identity or fallback images are acceptable when intentional, not accidental template leftovers.
+
 ## No patch policy
 
 Do not solve structural problems by adding a script, a hidden fallback, a temporary redirect, or a dynamic correction.
