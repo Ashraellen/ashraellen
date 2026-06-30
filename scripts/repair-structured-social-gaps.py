@@ -105,7 +105,8 @@ def make_keywords(head, text, page, title, desc):
     kw = get_meta(head, 'name', 'keywords')
     if kw:
         return kw
-    words = re.findall(r'[\w\-]{3,}', clean(' '.join([PUBLIC, page, title, desc, body_text(text)[:400])).lower(), flags=re.U)
+    source = clean(' '.join([PUBLIC, page, title, desc, body_text(text)[:400]])).lower()
+    words = re.findall(r'[\w\-]{3,}', source, flags=re.U)
     out = []
     seen = set()
     stop = {'the','and','for','with','this','that','page','site','from','into','ashraellen'}
