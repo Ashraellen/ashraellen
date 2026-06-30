@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - '**/*.html'
+      - 'scripts/audit-page-metadata.js'
       - 'scripts/generate-sitemap.js'
       - 'scripts/submit-indexnow.js'
       - 'b2cda9f3e8714a6db926f48c7251ea65.txt'
@@ -29,6 +30,9 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+
+      - name: Audit page metadata
+        run: node scripts/audit-page-metadata.js
 
       - name: Generate sitemap.xml
         run: node scripts/generate-sitemap.js
