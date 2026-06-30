@@ -1,17 +1,18 @@
 # Page Metadata Audit
 
-Generated: 2026-06-30T08:09:37.173Z
+Generated: 2026-06-30T08:17:10.552Z
 
 Pages checked: 551
 Pages with issues: 551
-Total issues: 2150
+Total issues: 1604
+Pages with review notes: 546
+Total review notes: 2184
 
-## Summary
+## Issue summary
 
-| Issue | Count |
+| Item | Count |
 |---|---:|
 | MISSING_KEYWORDS | 551 |
-| FORBIDDEN_SITEWIDE_TEXT | 546 |
 | REAL_NAME_ON_ORDINARY_CONTENT_PAGE | 500 |
 | DUPLICATE_TITLE | 106 |
 | DUPLICATE_OG_DESCRIPTION | 103 |
@@ -30,6 +31,16 @@ Total issues: 2150
 | MISSING_TITLE | 1 |
 
 
+## Review note summary
+
+| Item | Count |
+|---|---:|
+| DUPLICATE_OG_IMAGE_REVIEW | 546 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 546 |
+| FALLBACK_OG_IMAGE_USED | 546 |
+| FALLBACK_TWITTER_IMAGE_USED | 546 |
+
+
 ## Pages with issues
 
 ### be/books/index.html
@@ -40,7 +51,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -52,7 +62,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
@@ -66,7 +75,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
@@ -80,7 +88,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
@@ -94,7 +101,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -106,7 +112,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -118,7 +123,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -130,7 +134,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 
@@ -142,7 +145,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### be/monolith/index.html
@@ -153,7 +155,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 53
 
@@ -165,7 +166,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 
@@ -177,7 +177,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### be/public/index.html
@@ -188,7 +187,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -200,7 +198,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 66
@@ -213,7 +210,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -225,7 +221,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -237,7 +232,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -253,7 +247,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -269,7 +262,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -285,7 +277,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -301,7 +292,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -315,7 +305,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -327,7 +316,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -341,7 +329,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -353,7 +340,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -365,7 +351,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -377,7 +362,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -389,7 +373,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -401,7 +384,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -413,7 +395,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -425,7 +406,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -437,7 +417,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -449,7 +428,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -461,7 +439,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -473,7 +450,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -485,7 +461,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -497,7 +472,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 61
@@ -510,7 +484,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -522,7 +495,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 79
@@ -535,7 +507,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 72
@@ -548,7 +519,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -560,7 +530,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -572,7 +541,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 55
@@ -585,7 +553,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 47
@@ -600,7 +567,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -612,7 +578,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 75
@@ -625,7 +590,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 68
@@ -638,7 +602,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -650,7 +613,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -662,7 +624,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 37
@@ -675,7 +636,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -687,7 +647,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -699,7 +658,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -711,7 +669,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -723,7 +680,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -735,7 +691,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -747,7 +702,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -759,7 +713,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -771,7 +724,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -783,7 +735,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 37
@@ -798,7 +749,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
@@ -812,7 +762,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 39
@@ -827,7 +776,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -839,7 +787,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 6 pages
@@ -853,7 +800,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -865,7 +811,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 - DUPLICATE_TITLE: shared by 2 pages
@@ -879,7 +824,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### de/monolith/index.html
@@ -890,7 +834,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 29
 - DUPLICATE_TITLE: shared by 7 pages
@@ -906,7 +849,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 
@@ -918,7 +860,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### de/public/index.html
@@ -929,7 +870,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -941,7 +881,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -955,7 +894,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -969,7 +907,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -985,7 +922,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -999,7 +935,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -1013,7 +948,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -1027,7 +961,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -1041,7 +974,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1053,7 +985,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -1067,7 +998,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -1081,7 +1011,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1093,7 +1022,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1105,7 +1033,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1117,7 +1044,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1129,7 +1055,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 78
@@ -1142,7 +1067,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1154,7 +1078,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1166,7 +1089,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1178,7 +1100,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1190,7 +1111,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1202,7 +1122,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1214,7 +1133,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1226,7 +1144,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1238,7 +1155,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 76
@@ -1251,7 +1167,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1263,7 +1178,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1275,7 +1189,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1287,7 +1200,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1299,7 +1211,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1311,7 +1222,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 69
@@ -1324,7 +1234,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 63
@@ -1337,7 +1246,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1349,7 +1257,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 79
@@ -1362,7 +1269,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1374,7 +1280,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1386,7 +1291,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1398,7 +1302,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 43
@@ -1411,7 +1314,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1423,7 +1325,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1435,7 +1336,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1447,7 +1347,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1459,7 +1358,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -1475,7 +1373,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -1491,7 +1388,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1503,7 +1399,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1515,7 +1410,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_LONG: 235
@@ -1528,7 +1422,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1540,7 +1433,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1552,7 +1444,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 41
@@ -1567,7 +1458,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
@@ -1581,7 +1471,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 43
@@ -1596,7 +1485,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1608,7 +1496,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1620,7 +1507,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1632,7 +1518,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1644,7 +1529,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 6 pages
@@ -1658,7 +1542,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1670,7 +1553,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 - DUPLICATE_TITLE: shared by 2 pages
@@ -1684,7 +1566,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### en/monolith/index.html
@@ -1695,7 +1576,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 62
 
@@ -1707,7 +1587,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 - DUPLICATE_TITLE: shared by 2 pages
@@ -1720,7 +1599,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### en/public/index.html
@@ -1731,7 +1609,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -1745,7 +1622,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -1759,7 +1635,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -1773,7 +1648,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -1789,7 +1663,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1801,7 +1674,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1813,7 +1685,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1825,7 +1696,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1837,7 +1707,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -1851,7 +1720,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -1865,7 +1733,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -1879,7 +1746,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1891,7 +1757,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1903,7 +1768,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1915,7 +1779,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1927,7 +1790,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1939,7 +1801,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1951,7 +1812,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1963,7 +1823,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1975,7 +1834,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1987,7 +1845,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -1999,7 +1856,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2011,7 +1867,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2023,7 +1878,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2035,7 +1889,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 76
@@ -2048,7 +1901,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2060,7 +1912,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2072,7 +1923,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2084,7 +1934,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2096,7 +1945,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 79
@@ -2109,7 +1957,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 63
@@ -2122,7 +1969,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 56
@@ -2135,7 +1981,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2147,7 +1992,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2159,7 +2003,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 78
@@ -2172,7 +2015,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2184,7 +2026,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2196,7 +2037,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2208,7 +2048,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2220,7 +2059,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2232,7 +2070,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2244,7 +2081,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2256,7 +2092,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -2272,7 +2107,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -2288,7 +2122,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2300,7 +2133,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2312,7 +2144,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2324,7 +2155,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 42
@@ -2339,7 +2169,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 75
@@ -2354,7 +2183,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 44
@@ -2369,7 +2197,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2381,7 +2208,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 6 pages
@@ -2395,7 +2221,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2407,7 +2232,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 - DUPLICATE_TITLE: shared by 2 pages
@@ -2421,7 +2245,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### es/monolith/index.html
@@ -2432,7 +2255,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 29
 - DUPLICATE_TITLE: shared by 7 pages
@@ -2448,7 +2270,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 
@@ -2460,7 +2281,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### es/public/index.html
@@ -2471,7 +2291,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -2485,7 +2304,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -2499,7 +2317,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -2513,7 +2330,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -2527,7 +2343,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -2543,7 +2358,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -2557,7 +2371,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -2571,7 +2384,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -2585,7 +2397,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -2599,7 +2410,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -2613,7 +2423,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -2627,7 +2436,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2639,7 +2447,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2651,7 +2458,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2663,7 +2469,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2675,7 +2480,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2687,7 +2491,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2699,7 +2502,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2711,7 +2513,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2723,7 +2524,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2735,7 +2535,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2747,7 +2546,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2759,7 +2557,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2771,7 +2568,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2783,7 +2579,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 75
@@ -2796,7 +2591,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2808,7 +2602,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2820,7 +2613,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2832,7 +2624,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2844,7 +2635,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2856,7 +2646,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 65
@@ -2869,7 +2658,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 66
@@ -2882,7 +2670,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2894,7 +2681,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 77
@@ -2907,7 +2693,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2919,7 +2704,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2931,7 +2715,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2943,7 +2726,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 49
@@ -2958,7 +2740,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2970,7 +2751,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2982,7 +2762,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -2994,7 +2773,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3006,7 +2784,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -3022,7 +2799,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -3038,7 +2814,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3050,7 +2825,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3095,7 +2869,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3107,7 +2880,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 41
@@ -3122,7 +2894,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 8 pages
@@ -3136,7 +2907,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 43
@@ -3151,7 +2921,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3163,7 +2932,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 6 pages
@@ -3177,7 +2945,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3189,7 +2956,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 - DUPLICATE_TITLE: shared by 2 pages
@@ -3203,7 +2969,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### fr/monolith/index.html
@@ -3214,7 +2979,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 29
 - DUPLICATE_TITLE: shared by 7 pages
@@ -3230,7 +2994,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 
@@ -3242,7 +3005,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### fr/public/index.html
@@ -3253,7 +3015,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -3267,7 +3028,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -3281,7 +3041,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -3295,7 +3054,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -3309,7 +3067,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -3323,7 +3080,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -3337,7 +3093,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -3351,7 +3106,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -3365,7 +3119,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -3379,7 +3132,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -3393,7 +3145,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -3407,7 +3158,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3419,7 +3169,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3431,7 +3180,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3443,7 +3191,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3455,7 +3202,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3467,7 +3213,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3479,7 +3224,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3491,7 +3235,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3503,7 +3246,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3515,7 +3257,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3527,7 +3268,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3539,7 +3279,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3551,7 +3290,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3563,7 +3301,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 75
@@ -3576,7 +3313,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3588,7 +3324,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3600,7 +3335,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3612,7 +3346,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3624,7 +3357,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3636,7 +3368,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 71
@@ -3649,7 +3380,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 62
@@ -3662,7 +3392,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3674,7 +3403,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 75
@@ -3687,7 +3415,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3699,7 +3426,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3711,7 +3437,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3723,7 +3448,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 43
@@ -3736,7 +3460,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3748,7 +3471,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3760,7 +3482,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_LONG: 221
@@ -3773,7 +3494,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3785,7 +3505,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -3801,7 +3520,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -3817,7 +3535,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3829,7 +3546,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3860,7 +3576,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### monolith/index.html
@@ -3889,7 +3604,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_LONG: 235
@@ -3902,7 +3616,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3914,7 +3627,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3926,7 +3638,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 32
@@ -3941,7 +3652,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 72
@@ -3956,7 +3666,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 34
@@ -3971,7 +3680,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3983,7 +3691,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -3995,7 +3702,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4007,7 +3713,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4019,7 +3724,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 6 pages
@@ -4033,7 +3737,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4045,7 +3748,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 - DUPLICATE_TITLE: shared by 2 pages
@@ -4059,7 +3761,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### pl/monolith/index.html
@@ -4070,7 +3771,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 29
 - DUPLICATE_TITLE: shared by 7 pages
@@ -4086,7 +3786,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 
@@ -4098,7 +3797,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### pl/public/index.html
@@ -4109,7 +3807,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4121,7 +3818,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -4135,7 +3831,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -4149,7 +3844,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -4163,7 +3857,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4175,7 +3868,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4187,7 +3879,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4199,7 +3890,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4211,7 +3901,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4223,7 +3912,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -4237,7 +3925,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -4251,7 +3938,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4263,7 +3949,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4275,7 +3960,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4287,7 +3971,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4299,7 +3982,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4311,7 +3993,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4323,7 +4004,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4335,7 +4015,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4347,7 +4026,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4359,7 +4037,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4371,7 +4048,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4383,7 +4059,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4395,7 +4070,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4407,7 +4081,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 74
@@ -4420,7 +4093,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4432,7 +4104,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4444,7 +4115,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4456,7 +4126,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4468,7 +4137,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 79
@@ -4481,7 +4149,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 70
@@ -4494,7 +4161,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 50
@@ -4507,7 +4173,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4519,7 +4184,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 78
@@ -4532,7 +4196,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 71
@@ -4545,7 +4208,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4557,7 +4219,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4569,7 +4230,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4581,7 +4241,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4593,7 +4252,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4605,7 +4263,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4617,7 +4274,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4629,7 +4285,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -4645,7 +4300,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -4661,7 +4315,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4673,7 +4326,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4703,7 +4355,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4715,7 +4366,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 38
@@ -4730,7 +4380,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 76
@@ -4745,7 +4394,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 40
@@ -4760,7 +4408,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4772,7 +4419,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 6 pages
@@ -4786,7 +4432,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -4798,7 +4443,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 - DUPLICATE_TITLE: shared by 2 pages
@@ -4812,7 +4456,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### pt/monolith/index.html
@@ -4823,7 +4466,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 29
 - DUPLICATE_TITLE: shared by 7 pages
@@ -4839,7 +4481,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 
@@ -4851,7 +4492,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### pt/public/index.html
@@ -4862,7 +4502,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -4876,7 +4515,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -4890,7 +4528,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -4904,7 +4541,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -4918,7 +4554,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -4934,7 +4569,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -4950,7 +4584,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -4964,7 +4597,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -4978,7 +4610,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -4992,7 +4623,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -5006,7 +4636,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -5020,7 +4649,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5032,7 +4660,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5044,7 +4671,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5056,7 +4682,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5068,7 +4693,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5080,7 +4704,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5092,7 +4715,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5104,7 +4726,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5116,7 +4737,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5128,7 +4748,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5140,7 +4759,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5152,7 +4770,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5164,7 +4781,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5176,7 +4792,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 74
@@ -5189,7 +4804,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5201,7 +4815,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5213,7 +4826,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5225,7 +4837,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5237,7 +4848,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5249,7 +4859,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 70
@@ -5262,7 +4871,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 58
@@ -5275,7 +4883,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5287,7 +4894,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5299,7 +4905,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5311,7 +4916,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5323,7 +4927,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5335,7 +4938,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 48
@@ -5350,7 +4952,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5362,7 +4963,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5374,7 +4974,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5386,7 +4985,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5398,7 +4996,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -5414,7 +5011,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -5430,7 +5026,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5442,7 +5037,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5454,7 +5048,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5466,7 +5059,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5478,7 +5070,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -5492,7 +5083,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5504,7 +5094,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5516,7 +5105,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5528,7 +5116,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5540,7 +5127,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5552,7 +5138,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5564,7 +5149,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5576,7 +5160,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -5590,7 +5173,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5602,7 +5184,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 - DUPLICATE_TITLE: shared by 2 pages
@@ -5616,7 +5197,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### ru/monolith/index.html
@@ -5627,7 +5207,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 56
 
@@ -5639,7 +5218,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 
@@ -5651,7 +5229,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### ru/public/index.html
@@ -5662,7 +5239,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5674,7 +5250,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -5688,7 +5263,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -5702,7 +5276,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -5716,7 +5289,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -5732,7 +5304,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -5746,7 +5317,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -5760,7 +5330,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -5774,7 +5343,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -5790,7 +5358,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -5804,7 +5371,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -5818,7 +5384,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -5830,7 +5395,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -5846,7 +5410,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -5862,7 +5425,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -5878,7 +5440,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -5894,7 +5455,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -5910,7 +5470,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -5924,7 +5483,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -5940,7 +5498,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -5956,7 +5513,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -5972,7 +5528,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -5988,7 +5543,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -6004,7 +5558,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -6018,7 +5571,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6030,7 +5582,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6042,7 +5593,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6054,7 +5604,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6066,7 +5615,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6078,7 +5626,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6090,7 +5637,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 67
@@ -6103,7 +5649,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6115,7 +5660,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6127,7 +5671,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6139,7 +5682,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6151,7 +5693,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6163,7 +5704,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 59
@@ -6176,7 +5716,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 56
@@ -6189,7 +5728,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6201,7 +5739,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6213,7 +5750,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 76
@@ -6226,7 +5762,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 79
@@ -6239,7 +5774,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6251,7 +5785,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 65
@@ -6264,7 +5797,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6276,7 +5808,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6288,7 +5819,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6300,7 +5830,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6312,7 +5841,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6324,7 +5852,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6336,7 +5863,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -6352,7 +5878,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -6368,7 +5893,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6380,7 +5904,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6392,7 +5915,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -6406,7 +5928,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 32
@@ -6421,7 +5942,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 71
@@ -6436,7 +5956,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 34
@@ -6451,7 +5970,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6463,7 +5981,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
@@ -6477,7 +5994,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6489,7 +6005,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 - DUPLICATE_TITLE: shared by 2 pages
@@ -6503,7 +6018,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### uk/monolith/index.html
@@ -6514,7 +6028,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 29
 - DUPLICATE_TITLE: shared by 7 pages
@@ -6530,7 +6043,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 
@@ -6542,7 +6054,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - MISSING_KEYWORDS
 
 ### uk/public/index.html
@@ -6553,7 +6064,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6565,7 +6075,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -6579,7 +6088,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -6593,7 +6101,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -6607,7 +6114,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -6621,7 +6127,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -6637,7 +6142,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -6653,7 +6157,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -6669,7 +6172,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -6683,7 +6185,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -6697,7 +6198,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -6711,7 +6211,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6723,7 +6222,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6735,7 +6233,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6747,7 +6244,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6759,7 +6255,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6771,7 +6266,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6783,7 +6277,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6795,7 +6288,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6807,7 +6299,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6819,7 +6310,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6831,7 +6321,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6843,7 +6332,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6855,7 +6343,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6867,7 +6354,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 59
@@ -6880,7 +6366,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6892,7 +6377,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 78
@@ -6905,7 +6389,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 78
@@ -6918,7 +6401,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6930,7 +6412,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 79
@@ -6943,7 +6424,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 52
@@ -6956,7 +6436,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 47
@@ -6971,7 +6450,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -6983,7 +6461,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 74
@@ -6996,7 +6473,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 66
@@ -7009,7 +6485,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -7021,7 +6496,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -7033,7 +6507,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -7045,7 +6518,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -7057,7 +6529,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -7069,7 +6540,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -7081,7 +6551,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -7093,7 +6562,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -7109,7 +6577,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_DESCRIPTION
 - MISSING_KEYWORDS
@@ -7125,7 +6592,6 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
 
@@ -7137,6 +6603,5468 @@ Total issues: 2150
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- FORBIDDEN_SITEWIDE_TEXT: ashraellen-og-home-default-1200x630
 - REAL_NAME_ON_ORDINARY_CONTENT_PAGE: Nikolai Kostyshev
 - MISSING_KEYWORDS
+
+
+## Pages with review notes
+
+### be/books/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/books/monolith/beton/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/books/monolith/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/books/monolith/sludge/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/books/seccus/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/books/the-book-of-whinesis/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/books/you-are-already-online/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/contact.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/monolith/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/privacy.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/professional/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/posts/essay/cycles/cycle-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/posts/essay/cycles/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/posts/essay/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/posts/formula/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/posts/formula/lines/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/posts/formula/lines/line-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/posts/formula/lines/line-0002.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/posts/fragment/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/posts/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/posts/sources/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/talks/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/arcs/0001-cheerfulness.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/arcs/0002-still-the-same.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/arcs/0003-let-go.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/arcs/0004-mortality-awakens.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/arcs/0005-on-your-own.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/arcs/0006-insight.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/arcs/0007-empty-chair.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/arcs/0008-generalization.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/arcs/0009-where-life-stopped.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/arcs/0010-dirty-cup.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/arcs/0011-do-not-regret.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/arcs/0012-close-the-book.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/arcs/0013-problem-loses-crown.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/arcs/0014-end-of-extra-war.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/arcs/0016-one-fact.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/arcs/0017-witness-does-not-interfere.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/arcs/0018-image-cannot-be-happy.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/arcs/0019-do-not-bomb.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/arcs/0020-people-and-mass.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/arcs/0021-mating-games.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/arcs/0022-spirituality-is-not-forced.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/arcs/0023-price-of-transition.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/index-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/index-0002.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/public/thoughts/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/research/archive/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/research/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/research/method/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/research/notes/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/research/position/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/research/projects/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### be/research/sources/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/books/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/books/monolith/beton/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/books/monolith/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/books/monolith/sludge/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/books/seccus/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/books/the-book-of-whinesis/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/books/you-are-already-online/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/contact.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/monolith/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/privacy.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/professional/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/posts/essay/cycles/cycle-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/posts/essay/cycles/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/posts/essay/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/posts/formula/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/posts/formula/lines/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/posts/formula/lines/line-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/posts/formula/lines/line-0002.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/posts/fragment/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/posts/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/posts/sources/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/talks/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/arcs/0001-cheerfulness.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/arcs/0002-still-the-same.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/arcs/0003-let-go.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/arcs/0004-mortality-awakens.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/arcs/0005-on-your-own.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/arcs/0006-insight.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/arcs/0007-empty-chair.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/arcs/0008-generalization.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/arcs/0009-where-life-stopped.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/arcs/0010-dirty-cup.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/arcs/0011-do-not-regret.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/arcs/0012-close-the-book.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/arcs/0013-problem-loses-crown.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/arcs/0014-end-of-extra-war.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/arcs/0016-one-fact.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/arcs/0017-witness-does-not-interfere.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/arcs/0018-image-cannot-be-happy.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/arcs/0019-do-not-bomb.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/arcs/0020-people-and-mass.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/arcs/0021-mating-games.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/arcs/0022-spirituality-is-not-forced.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/arcs/0023-price-of-transition.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/index-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/index-0002.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/public/thoughts/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/research/archive/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/research/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/research/method/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/research/notes/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/research/position/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/research/projects/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### de/research/sources/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/books/error-404-god-not-found/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/books/error-404-god-not-found/why-me/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/books/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/books/monolith/beton/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/books/monolith/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/books/monolith/sludge/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/books/radiance/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/books/radiance/sampo/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/books/radiance/song/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/books/seccus/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/books/the-book-of-whinesis/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/books/you-are-already-online/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/contact.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/monolith/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/privacy.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/professional/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/posts/essay/cycles/cycle-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/posts/essay/cycles/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/posts/essay/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/posts/formula/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/posts/formula/lines/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/posts/formula/lines/line-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/posts/formula/lines/line-0002.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/posts/fragment/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/posts/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/posts/sources/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/talks/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/arcs/0001-cheerfulness.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/arcs/0002-still-the-same.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/arcs/0003-let-go.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/arcs/0004-mortality-awakens.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/arcs/0005-on-your-own.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/arcs/0006-insight.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/arcs/0007-empty-chair.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/arcs/0008-generalization.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/arcs/0009-where-life-stopped.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/arcs/0010-dirty-cup.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/arcs/0011-do-not-regret.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/arcs/0012-close-the-book.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/arcs/0013-problem-loses-crown.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/arcs/0014-end-of-extra-war.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/arcs/0016-one-fact.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/arcs/0017-witness-does-not-interfere.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/arcs/0018-image-cannot-be-happy.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/arcs/0019-do-not-bomb.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/arcs/0020-people-and-mass.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/arcs/0021-mating-games.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/arcs/0022-spirituality-is-not-forced.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/arcs/0023-price-of-transition.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/index-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/index-0002.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/public/thoughts/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/research/archive/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/research/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/research/method/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/research/notes/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/research/position/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/research/projects/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### en/research/sources/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/books/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/books/monolith/beton/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/books/monolith/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/books/monolith/sludge/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/books/seccus/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/books/the-book-of-whinesis/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/books/you-are-already-online/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/contact.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/monolith/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/privacy.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/professional/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/posts/essay/cycles/cycle-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/posts/essay/cycles/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/posts/essay/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/posts/formula/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/posts/formula/lines/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/posts/formula/lines/line-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/posts/formula/lines/line-0002.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/posts/fragment/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/posts/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/posts/sources/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/talks/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/arcs/0001-cheerfulness.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/arcs/0002-still-the-same.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/arcs/0003-let-go.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/arcs/0004-mortality-awakens.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/arcs/0005-on-your-own.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/arcs/0006-insight.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/arcs/0007-empty-chair.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/arcs/0008-generalization.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/arcs/0009-where-life-stopped.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/arcs/0010-dirty-cup.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/arcs/0011-do-not-regret.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/arcs/0012-close-the-book.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/arcs/0013-problem-loses-crown.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/arcs/0014-end-of-extra-war.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/arcs/0016-one-fact.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/arcs/0017-witness-does-not-interfere.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/arcs/0018-image-cannot-be-happy.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/arcs/0019-do-not-bomb.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/arcs/0020-people-and-mass.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/arcs/0021-mating-games.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/arcs/0022-spirituality-is-not-forced.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/arcs/0023-price-of-transition.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/index-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/index-0002.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/public/thoughts/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/research/archive/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/research/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/research/method/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/research/notes/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/research/position/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/research/projects/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### es/research/sources/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/books/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/books/monolith/beton/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/books/monolith/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/books/monolith/sludge/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/books/seccus/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/books/the-book-of-whinesis/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/books/you-are-already-online/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/contact.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/monolith/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/privacy.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/professional/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/posts/essay/cycles/cycle-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/posts/essay/cycles/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/posts/essay/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/posts/formula/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/posts/formula/lines/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/posts/formula/lines/line-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/posts/formula/lines/line-0002.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/posts/fragment/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/posts/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/posts/sources/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/talks/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/arcs/0001-cheerfulness.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/arcs/0002-still-the-same.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/arcs/0003-let-go.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/arcs/0004-mortality-awakens.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/arcs/0005-on-your-own.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/arcs/0006-insight.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/arcs/0007-empty-chair.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/arcs/0008-generalization.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/arcs/0009-where-life-stopped.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/arcs/0010-dirty-cup.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/arcs/0011-do-not-regret.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/arcs/0012-close-the-book.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/arcs/0013-problem-loses-crown.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/arcs/0014-end-of-extra-war.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/arcs/0016-one-fact.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/arcs/0017-witness-does-not-interfere.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/arcs/0018-image-cannot-be-happy.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/arcs/0019-do-not-bomb.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/arcs/0020-people-and-mass.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/arcs/0021-mating-games.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/arcs/0022-spirituality-is-not-forced.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/arcs/0023-price-of-transition.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/index-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/index-0002.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/public/thoughts/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/research/archive/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/research/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/research/method/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/research/notes/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/research/position/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/research/projects/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### fr/research/sources/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/books/error-404-god-not-found/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/books/error-404-god-not-found/why-me/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/books/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/books/monolith/beton/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/books/monolith/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/books/monolith/sludge/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/books/radiance/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/books/radiance/sampo/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/books/radiance/song/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/books/seccus/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/books/the-book-of-whinesis/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/books/you-are-already-online/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/contact.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/monolith/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/privacy.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/professional/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/posts/essay/cycles/cycle-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/posts/essay/cycles/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/posts/essay/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/posts/formula/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/posts/formula/lines/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/posts/formula/lines/line-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/posts/formula/lines/line-0002.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/posts/fragment/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/posts/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/posts/sources/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/talks/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/arcs/0001-cheerfulness.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/arcs/0002-still-the-same.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/arcs/0003-let-go.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/arcs/0004-mortality-awakens.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/arcs/0005-on-your-own.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/arcs/0006-insight.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/arcs/0007-empty-chair.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/arcs/0008-generalization.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/arcs/0009-where-life-stopped.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/arcs/0010-dirty-cup.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/arcs/0011-do-not-regret.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/arcs/0012-close-the-book.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/arcs/0013-problem-loses-crown.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/arcs/0014-end-of-extra-war.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/arcs/0016-one-fact.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/arcs/0017-witness-does-not-interfere.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/arcs/0018-image-cannot-be-happy.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/arcs/0019-do-not-bomb.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/arcs/0020-people-and-mass.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/arcs/0021-mating-games.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/arcs/0022-spirituality-is-not-forced.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/arcs/0023-price-of-transition.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/index-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/index-0002.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/public/thoughts/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/research/archive/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/research/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/research/method/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/research/notes/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/research/position/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/research/projects/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pl/research/sources/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/books/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/books/monolith/beton/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/books/monolith/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/books/monolith/sludge/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/books/seccus/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/books/the-book-of-whinesis/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/books/you-are-already-online/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/contact.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/monolith/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/privacy.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/professional/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/posts/essay/cycles/cycle-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/posts/essay/cycles/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/posts/essay/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/posts/formula/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/posts/formula/lines/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/posts/formula/lines/line-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/posts/formula/lines/line-0002.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/posts/fragment/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/posts/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/posts/sources/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/talks/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/arcs/0001-cheerfulness.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/arcs/0002-still-the-same.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/arcs/0003-let-go.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/arcs/0004-mortality-awakens.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/arcs/0005-on-your-own.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/arcs/0006-insight.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/arcs/0007-empty-chair.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/arcs/0008-generalization.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/arcs/0009-where-life-stopped.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/arcs/0010-dirty-cup.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/arcs/0011-do-not-regret.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/arcs/0012-close-the-book.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/arcs/0013-problem-loses-crown.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/arcs/0014-end-of-extra-war.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/arcs/0016-one-fact.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/arcs/0017-witness-does-not-interfere.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/arcs/0018-image-cannot-be-happy.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/arcs/0019-do-not-bomb.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/arcs/0020-people-and-mass.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/arcs/0021-mating-games.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/arcs/0022-spirituality-is-not-forced.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/arcs/0023-price-of-transition.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/index-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/index-0002.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/public/thoughts/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/research/archive/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/research/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/research/method/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/research/notes/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/research/position/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/research/projects/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### pt/research/sources/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/books/error-404-god-not-found/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/books/error-404-god-not-found/why-me/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/books/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/books/monolith/beton/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/books/monolith/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/books/monolith/sludge/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/books/radiance/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/books/radiance/sampo/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/books/radiance/song/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/books/seccus/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/books/the-book-of-whinesis/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/books/you-are-already-online/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/contact.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/monolith/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/privacy.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/professional/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/posts/essay/cycles/cycle-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/posts/essay/cycles/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/posts/essay/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/posts/formula/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/posts/formula/lines/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/posts/formula/lines/line-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/posts/formula/lines/line-0002.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/posts/fragment/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/posts/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/posts/sources/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/talks/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/01-cheerfulness/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/02-still-the-same/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/03-let-go/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/04-mortality-awakens/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/05-on-your-own/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/06-insight/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/arcs/0001-cheerfulness.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/arcs/0002-still-the-same.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/arcs/0003-let-go.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/arcs/0004-mortality-awakens.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/arcs/0005-on-your-own.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/arcs/0006-insight.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/arcs/0007-empty-chair.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/arcs/0008-generalization.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/arcs/0009-where-life-stopped.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/arcs/0010-dirty-cup.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/arcs/0011-do-not-regret.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/arcs/0012-close-the-book.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/arcs/0013-problem-loses-crown.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/arcs/0014-end-of-extra-war.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/arcs/0016-one-fact.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/arcs/0017-witness-does-not-interfere.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/arcs/0018-image-cannot-be-happy.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/arcs/0019-do-not-bomb.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/arcs/0020-people-and-mass.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/arcs/0021-mating-games.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/arcs/0022-spirituality-is-not-forced.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/arcs/0023-price-of-transition.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/arcs/arc-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/arcs/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/index-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/index-0002.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/public/thoughts/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/research/archive/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/research/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/research/method/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/research/notes/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/research/position/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/research/projects/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### ru/research/sources/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/books/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/books/monolith/beton/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/books/monolith/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/books/monolith/sludge/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/books/seccus/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/books/the-book-of-whinesis/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/books/you-are-already-online/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/contact.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/monolith/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/privacy.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/professional/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/posts/essay/cycles/cycle-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/posts/essay/cycles/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/posts/essay/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/posts/formula/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/posts/formula/lines/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/posts/formula/lines/line-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/posts/formula/lines/line-0002.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/posts/fragment/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/posts/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/posts/sources/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/talks/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/arcs/0001-cheerfulness.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/arcs/0002-still-the-same.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/arcs/0003-let-go.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/arcs/0004-mortality-awakens.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/arcs/0005-on-your-own.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/arcs/0006-insight.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/arcs/0007-empty-chair.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/arcs/0008-generalization.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/arcs/0009-where-life-stopped.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/arcs/0010-dirty-cup.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/arcs/0011-do-not-regret.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/arcs/0012-close-the-book.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/arcs/0013-problem-loses-crown.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/arcs/0014-end-of-extra-war.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/arcs/0016-one-fact.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/arcs/0017-witness-does-not-interfere.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/arcs/0018-image-cannot-be-happy.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/arcs/0019-do-not-bomb.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/arcs/0020-people-and-mass.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/arcs/0021-mating-games.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/arcs/0022-spirituality-is-not-forced.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/arcs/0023-price-of-transition.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/index-0001.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/index-0002.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/public/thoughts/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/research/archive/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/research/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/research/method/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/research/notes/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/research/position/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/research/projects/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
+
+### uk/research/sources/index.html
+
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 546 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 546 pages
