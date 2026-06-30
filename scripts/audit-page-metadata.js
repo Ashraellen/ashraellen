@@ -52,8 +52,11 @@ function canonicalIssueValue(value) { return clean(value).toLowerCase(); }
 function isAllowedLocalImage(url) {
   if (!url) return false;
   return /^https:\/\/www\.ashraellen\.com\/assets\/(backgrounds|covers|og)\//.test(url)
+    || /^https:\/\/www\.ashraellen\.com\/assets\/hero\.webp$/.test(url)
     || /^\/assets\/(backgrounds|covers|og)\//.test(url)
-    || /^\.\.\/.*assets\/(backgrounds|covers|og)\//.test(url);
+    || /^\/assets\/hero\.webp$/.test(url)
+    || /^\.\.\/.*assets\/(backgrounds|covers|og)\//.test(url)
+    || /^\.\.\/.*assets\/hero\.webp$/.test(url);
 }
 function isFallbackImage(url) {
   return !!url && url.includes(DEFAULT_OG_IMAGE);
