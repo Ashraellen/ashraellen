@@ -1,3 +1,70 @@
-name: Metadata repair
+name: Emergency static metadata repair
 
-# Temporary workflow shell created for controlled split.
+on:
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: 'Type RUN_EMERGENCY_REPAIR to run broad metadata repair scripts'
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  emergency-metadata-repair:
+    if: github.event.inputs.confirm == 'RUN_EMERGENCY_REPAIR'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Add missing static keywords
+        run: node scripts/add-missing-keywords.js
+
+      - name: Clean public identity in ordinary page metadata
+        run: python3 scripts/clean-public-identity-head.py
+
+      - name: Repair title description and OG metadata
+        run: python3 scripts/repair-title-description-og.py
+
+      - name: Repair structured data and social gaps
+        run: python3 scripts/repair-structured-social-gaps.py
+
+      - name: Dedupe page metadata
+        run: python3 scripts/dedupe-page-metadata.py
+
+      - name: Apply OG images from page backgrounds
+        run: python3 scripts/apply-og-from-page-backgrounds.py
+
+      - name: Audit page metadata
+        run: node scripts/audit-page-metadata.js
+
+      - name: Export page keyword workbench
+        run: node scripts/export-page-keyword-workbench.js
+
+      - name: Generate sitemap.xml
+        run: node scripts/generate-sitemap.js
+
+      - name: Submit sitemap URLs to IndexNow
+        run: node scripts/submit-indexnow.js
+
+      - name: Commit repaired HTML, sitemap.xml and reports if changed
+        run: |
+          if git diff --quiet; then
+            echo "HTML, sitemap.xml and reports are already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add '**/*.html' sitemap.xml reports/page-metadata-audit.md reports/page-keyword-workbench.md reports/page-keyword-workbench.json reports/page-backgrounds.md
+          git commit -m "Emergency repair static page metadata and reports"
+          git push
