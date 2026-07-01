@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: /focus-group/
 Allow: /
 
 Sitemap: https://www.ashraellen.com/sitemap.xml
