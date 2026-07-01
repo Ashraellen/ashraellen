@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-06-30T20:19:36.509Z
+Generated: 2026-07-01T04:46:13.149Z
 
 Pages checked: 550
-Pages with issues: 2
-Total issues: 9
+Pages with issues: 1
+Total issues: 8
 Pages with review notes: 549
 Total review notes: 2052
 
@@ -12,9 +12,9 @@ Total review notes: 2052
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 2 |
 | DESCRIPTION_TOO_SHORT | 1 |
 | MISSING_JSON_LD | 1 |
+| MISSING_KEYWORDS | 1 |
 | MISSING_OG_DESCRIPTION | 1 |
 | MISSING_OG_IMAGE | 1 |
 | MISSING_OG_TITLE | 1 |
@@ -33,16 +33,6 @@ Total review notes: 2052
 
 
 ## Pages with issues
-
-### index.html
-
-- title: Ashraellen — Entry
-- description length: 84
-- canonical: https://www.ashraellen.com/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- MISSING_KEYWORDS
 
 ### privacy.html
 
