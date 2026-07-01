@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-01T04:46:13.557Z
+Generated: 2026-07-01T04:46:40.032Z
 Pages: 551
 
 ## Index
@@ -370,7 +370,7 @@ Pages: 551
 | pl/research/position/index.html | pl | research | Ashraellen — Position — Polish | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, pl, research, position | position, ashraellen, jako, artystyczny, badacz, doświadczenia, doświadczenie, filozofia, modele, nie, niezależny, obserwacji, research, opisu, pole, polish, pracuję, religia |
 | pl/research/projects/index.html | pl | research | Ashraellen — Projekty badawcze | ashraellen, research, projects, projekty, badawcze, mapa, pól, pracy, monolit, główny, kanał, pole, publiczne, satyryczne, boczne, laboratoria, percepcji, instagram | ashraellen, projekty, boczne, monolit, pole, research, bada, badawcze, book, church, człowiek, główny, inner, instagram, jako, kanał, laboratoria, lecz |
 | pl/research/sources/index.html | pl | research | Ashraellen — Źródła i tradycja | ashraellen, research, sources, źródła, tradycja, fenomenologia, świadomości, ciało, narracja, nauki, kognitywne, praktyka, artystyczna, jako, linie, metodologiczne, badania, edmund | jako, ashraellen, ciało, tradycja, źródła, badania, doświadczenie, fenomenologia, research, świadomości, artystyczna, edmund, eleanor, esej, evan, forma, formy, francisco |
-| privacy.html | root | privacy.html | Privacy Policy — Ashraellen | _missing_ | privacy, ashraellen, policy, ashraellen.com, english, redirecting, privacy.html |
+| privacy.html | root | privacy.html | Privacy Policy — Ashraellen | Ashraellen, privacy policy, website privacy, analytics, language redirection, contact data | privacy, ashraellen, analytics, ashraellen.com, basic, contact, data, handles, how, including, information, policy, language, privacy.html, redirection, user |
 | pt/books/index.html | pt | books | Ashraellen — Livros | ashraellen, books, livros, romances, grandes, projetos, livros-experiência, monolith, livro, sagrado, seccus, você, está, online, whinesis, lista, doctype, html | ashraellen, livros, livro, books, está, grandes, livros-experiência, monolith, online, whinesis, estão, lista, não, projetos, romances, sagrado, seccus, sobre |
 | pt/books/monolith/beton/index.html | pt | books | Ashraellen — BETON — PT | ashraellen, books, monolith, beton, volume, trilogia, arquivo, descrição, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, arquivo, monolith, volume, com, começa, trilogia, uma, ashraellen, books, concreto, descrição, estabilidade, chamar, demais, edição, hábito, não |
 | pt/books/monolith/index.html | pt | books | Ashraellen — MONOLITH — PT | ashraellen, books, monolith, trilogia, distópica, sobre, controle, memória, colapso, sistemas, série, volumes, volume, beton, sludge, iii, gas, doctype | monolith, volume, trilogia, ashraellen, beton, books, gas, memória, série, sludge, social, volumes, abrir, colapso, controle, distopia, distópica, estabilidade |
@@ -6737,13 +6737,13 @@ Excerpt:
 - lang: root
 - section: privacy.html
 - title: Privacy Policy — Ashraellen
-- description: Redirecting to the English Privacy Policy for Ashraellen.com.
+- description: Privacy information for Ashraellen.com, including how the site handles basic analytics, language redirection and user contact data.
 - canonical: https://www.ashraellen.com/privacy.html
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: privacy, ashraellen, policy, ashraellen.com, english, redirecting, privacy.html
-- candidates: policy, privacy, redirecting, ashraellen, ashraellen.com, english
+- suggested keyword seed: privacy, ashraellen, analytics, ashraellen.com, basic, contact, data, handles, how, including, information, policy, language, privacy.html, redirection, user
+- candidates: privacy, policy, analytics, ashraellen, ashraellen.com, basic, contact, data, handles, how, including, information, language, redirecting, redirection, user
 
 Excerpt:
 

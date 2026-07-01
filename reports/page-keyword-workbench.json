@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-01T04:46:13.544Z",
+  "generated": "2026-07-01T04:46:40.021Z",
   "pages": [
     {
       "page": "be/books/index.html",
@@ -26412,8 +26412,8 @@
       "lang": "root",
       "section": "privacy.html",
       "title": "Privacy Policy — Ashraellen",
-      "description": "Redirecting to the English Privacy Policy for Ashraellen.com.",
-      "existingKeywords": "",
+      "description": "Privacy information for Ashraellen.com, including how the site handles basic analytics, language redirection and user contact data.",
+      "existingKeywords": "Ashraellen, privacy policy, website privacy, analytics, language redirection, contact data",
       "canonical": "https://www.ashraellen.com/privacy.html",
       "h1": [],
       "h2": [],
@@ -26423,21 +26423,40 @@
       ],
       "excerpt": "Redirecting to Privacy Policy .",
       "candidates": [
-        "policy",
         "privacy",
-        "redirecting",
+        "policy",
+        "analytics",
         "ashraellen",
         "ashraellen.com",
-        "english"
+        "basic",
+        "contact",
+        "data",
+        "handles",
+        "how",
+        "including",
+        "information",
+        "language",
+        "redirecting",
+        "redirection",
+        "user"
       ],
       "suggestedKeywordSeed": [
         "privacy",
         "ashraellen",
-        "policy",
+        "analytics",
         "ashraellen.com",
-        "english",
-        "redirecting",
-        "privacy.html"
+        "basic",
+        "contact",
+        "data",
+        "handles",
+        "how",
+        "including",
+        "information",
+        "policy",
+        "language",
+        "privacy.html",
+        "redirection",
+        "user"
       ]
     },
     {
