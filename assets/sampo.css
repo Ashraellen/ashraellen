@@ -356,6 +356,10 @@ button.btn{
 
 .sampo-readmore summary::-webkit-details-marker{display:none}
 
+.sampo-readmore .when-open{display:none}
+.sampo-readmore[open] .when-closed{display:none}
+.sampo-readmore[open] .when-open{display:inline}
+
 .sampo-fragment-more{
   margin-top:16px;
   max-width:78ch;
