@@ -325,7 +325,7 @@ button.btn{font-family:inherit;background:none}
 .song-copy p{margin:0 0 12px}
 .song-copy p:last-child{margin-bottom:0}
 
-.song-fragment-body{padding:18px}
+.song-fragment-body{padding:10px 18px 18px}
 
 .song-fragment-title{
   margin:0 0 14px;
@@ -342,9 +342,15 @@ button.btn{font-family:inherit;background:none}
   color:var(--fg);
 }
 
-.song-readmore{margin:0}
+.song-readmore{
+  margin:0;
+  scroll-margin-top:20px;
+}
 .song-readmore summary{list-style:none}
 .song-readmore summary::-webkit-details-marker{display:none}
+.song-readmore .when-open{display:none}
+.song-readmore[open] .when-closed{display:none}
+.song-readmore[open] .when-open{display:inline}
 
 .song-fragment-more{
   margin-top:16px;
@@ -356,11 +362,29 @@ button.btn{font-family:inherit;background:none}
 
 .song-fragment-more p{margin:0 0 10px}
 
-.song-fragment-note{
-  margin:14px 0 0;
-  color:rgba(169,169,178,.78);
-  font-size:12px;
+.song-chapter-return{
+  margin:26px 0 2px;
+  padding-top:14px;
+  border-top:1px solid rgba(242,242,244,.08);
+}
+
+.song-chapter-return a{
+  color:rgba(205,215,224,.90);
+  font-size:13px;
   line-height:1.35;
+  text-decoration:none;
+}
+
+.song-chapter-return a:hover,
+.song-chapter-return a:focus-visible{
+  text-decoration:underline;
+}
+
+.song-fragment-note{
+  margin:0 0 14px;
+  color:rgba(169,169,178,.84);
+  font-size:14px;
+  line-height:1.5;
   max-width:72ch;
 }
 
