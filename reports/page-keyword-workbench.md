@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-06T23:42:53.232Z
+Generated: 2026-07-06T23:45:01.319Z
 Pages: 551
 
 ## Index
@@ -250,7 +250,7 @@ Pages: 551
 | fr/books/monolith/beton/index.html | fr | books | Ashraellen — BETON — French | ashraellen, books, monolith, beton, volume, trilogie, dossier, description, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, dossier, monolith, volume, commence, par, trilogie, ashraellen, béton, books, description, pas, une, d’appeler, est, french, l’habitude, monde |
 | fr/books/monolith/index.html | fr | books | Ashraellen — MONOLITH — French | ashraellen, books, monolith, trilogie, dystopique, sur, contrôle, mémoire, l’effondrement, des, systèmes, série, volumes, volume, beton, sludge, iii, gas | monolith, ashraellen, books, mémoire, beton, contrôle, des, devient, dystopique, est, french, gas, l’effondrement, ouvrir, sans, série, sludge, stabilité |
 | fr/books/monolith/sludge/index.html | fr | books | Ashraellen — SLUDGE — French | ashraellen, books, monolith, sludge, volume, trilogie, dossier, description, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, dossier, monolith, volume, trilogie, ashraellen, books, brise, description, humain, l’être, pas, coup, d’abord, d’un, est, fatigue, french |
-| fr/books/seccus/index.html | fr | books | Ashraellen — LE LIVRE SACRÉ DE SECCUS | ashraellen, books, seccus, livre, sacré, recherche, philosophique, psychologie, appliquée, métaphysique, conscience, sur, l’auto-tromperie, l’honnêteté, l’argent, liberté, intérieure, propos | livre, seccus, sacré, ashraellen, books, appliquée, audio-vidéo, c’est, comme, conscience, des, est, extrait, intérieure, l’argent, l’auto-tromperie, l’honnêteté, les |
+| fr/books/seccus/index.html | fr | books | Ashraellen — LE LIVRE SACRÉ DE SECCUS | Ashraellen, SECCUS, Le Livre Sacré de SECCUS, Le Chemin de l’Honnêteté, satire philosophique, argent, réussite, auto-illusion, savoir comme alibi, responsabilité, Sacrunomicon, Ordo Sacrunomiconis, Tétra-Livre | livre, seccus, sacré, ashraellen, books, est, philosophique, pour, qui, réussite, sur, une, alibi, cadre, chemin, choisie, choix, comme |
 | fr/books/the-book-of-whinesis/index.html | fr | books | Ashraellen — The Book of Whinesis — French | ashraellen, books, book, whinesis, satire, sacrée, pour, celles, ceux, qui, sont, fatigués, des, ondes, positives, productivité, sans, fin | book, whinesis, ashraellen, books, des, qui, celles, ceux, chapitres, culte, dans, dit, extrait, fatigués, fin, french, les, livre |
 | fr/books/you-are-already-online/index.html | fr | books | Ashraellen — Tu es déjà en ligne | ashraellen, books, you, already, online, déjà, ligne, roman, audio, immersif, entre, thriller, psychologique, drame, cyberpunk, sur, réalité, numérique | déjà, ligne, ashraellen, audio, books, les, réalité, roman, algorithmes, already, avait, avant, chapitre, comme, cyberpunk, dans, des, drame |
 | fr/contact.html | fr | contact.html | Contact — Ashraellen — French | ashraellen, contact, coopération, édition, subventions, médias, demandes, liées, projet, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | ashraellen, contact, coopération, demandes, médias, projet, subventions, aux, canal, contact.html, des, édition, french, kostyshev, liées, telegram |
@@ -4697,17 +4697,17 @@ Excerpt:
 - lang: fr
 - section: books
 - title: Ashraellen — LE LIVRE SACRÉ DE SECCUS
-- description: LE LIVRE SACRÉ DE SECCUS — recherche philosophique, psychologie appliquée et métaphysique de la conscience sur l’auto-tromperie, l’honnêteté, l’argent et la liberté intérieure.
+- description: « LE LIVRE SACRÉ DE SECCUS — Le Chemin de l’Honnêteté » est une satire philosophique sur l’argent, la réussite, l’auto-illusion, le savoir comme alibi et la responsabilité de son propre choix.
 - canonical: https://www.ashraellen.com/fr/books/seccus/
 - H1: LE LIVRE SACRÉ DE SECCUS
-- H2: À propos du livre | Thèmes du livre | Page audio-vidéo | Extrait | Statut
-- H3: Rouleau I — L’Ascension de la Recherche
-- suggested keyword seed: livre, seccus, sacré, ashraellen, books, appliquée, audio-vidéo, c’est, comme, conscience, des, est, extrait, intérieure, l’argent, l’auto-tromperie, l’honnêteté, les
-- candidates: vous, pas, est, des, que, livre, mais, qui, les, comme, sans, c’est, plus, recherche, seccus, une, calme, pour, conscience, intérieure, peur, première, votre, avec
+- H2: Page choisie | À propos du livre | Sans divulgâcher | Cadre littéraire et philosophique | La voix du livre | Thèmes | Pour qui | Le Tétra-Livre et le corpus
+- H3: Page 71 — La Source d’Énergie de l’Ombre | La réussite à l’envers | L’argent comme miroir | Le savoir comme alibi | Une conversation directe | Page III — Le Point Zéro | Réussite | Argent
+- suggested keyword seed: livre, seccus, sacré, ashraellen, books, est, philosophique, pour, qui, réussite, sur, une, alibi, cadre, chemin, choisie, choix, comme
+- candidates: livre, une, pas, que, est, réussite, pour, qui, des, les, personne, sur, mais, seccus, comme, comment, pages, plus, sans, trois, chemins, corpus, dans, l’argent
 
 Excerpt:
 
-> LE LIVRE SACRÉ DE SECCUS Recherche philosophique, psychologie appliquée et métaphysique de la conscience sur l’auto-tromperie, la résistance au changement, l’argent, la responsabilité et la liberté intérieure. À propos du livre en préparation pour l’impression Genre : recherche philosophique, psychologie appliquée, métaphysique de la conscience. « LE LIVRE SACRÉ DE SECCUS » est le premier livre d’un vaste cycle de recherche consacré à la nature de l’auto-tromperie humaine, aux mécanismes intérieurs de résistance et à l’interrelation entre conscience, motivation et résultats de vie. Le livre est construit comme un voyage progressif à travers les couches des illusions personnelles. L’auteur examine la peur, l’avidité, le désir de sécurité, les croyances financières, l’orgueil spirituel, les mécanismes d’auto-sabotage et les cycles de l’ego non comme des défauts moraux, mais comme des éléme
+> SACRUNOMICON — UN TÉTRA-LIVRE SUR LA RÉUSSITE RENVERSÉE LE LIVRE SACRÉ DE SECCUS Le Chemin de l’Honnêteté Un livre sur l’argent et la réussite qui retourne la question habituelle. Non pas « comment obtenir ce que l’on désire », mais ce qu’une personne espère exactement acquérir avec la liberté, la reconnaissance et le droit de se considérer comme accomplie. L’argent n’est qu’un prétexte. Le véritable sujet du livre est la personne qui le désire. Couverture russe : АХЕПСУ. Sacrunomicon. Page choisie Rouleau IV : La Chute des Murs Une page sur le motif qui se cache derrière les mots justes à propos de liberté, d’aide, d’utilité et de vocation. Ouvrir la page Fermer la page Page 71 — La Source d’Énergie de l’Ombre Nous approchons de la couche la plus profonde de ta motivation — celle que tu as soigneusement contournée en te couvrant de belles paroles et de nobles objectifs. Tu te disais que
 
 ### fr/books/the-book-of-whinesis/index.html
 
