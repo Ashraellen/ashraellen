@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-06T16:39:15.479Z
+Generated: 2026-07-06T16:55:56.566Z
 Pages: 551
 
 ## Index
@@ -364,7 +364,7 @@ Pages: 551
 | pl/public/thoughts/index-0002.html | pl | public | Ashraellen — Drugi łuk myśli przewodnich | ashraellen, public, thoughts, index, 0002, drugi, łuk, myśli, przewodnich, pamięć, obserwacja, przebudzenie, brudna, filiżanka, miłosierdzie, straty, granica, literatury | ashraellen, drugi, łuk, myśli, przewodnich, brudna, filiżanka, nie, public, być, czasem, duchowej, gdzie, granica, index, kiedy, krzesło, książkę |
 | pl/public/thoughts/index.html | pl | public | Ashraellen — Trzeci łuk myśli przewodnich | ashraellen, public, thoughts, trzeci, łuk, myśli, przewodnich, problem, traci, koronę, kończy, się, zbędna, wojna, subtelna, myśl, jeden, fakt | łuk, myśli, przewodnich, ashraellen, fakt, myśl, nie, problem, subtelna, świadek, trzeci, jeden, koronę, obraz, public, się, traci, być |
 | pl/research/archive/index.html | pl | research | Ashraellen — Archiwum badań | ashraellen, research, archive, archiwum, badań, materiałów, badawczych, zakończone, wersje, wcześniejsze, warstwy, ślady, drogi, materiały, które, nie, już, żywej | archiwum, ashraellen, drogi, już, które, materiałów, nie, pracy, research, się, żywej, aby, ale, archive, badań, badanie, badawczych, materiały |
-| pl/research/index.html | pl | research | Ashraellen — Badanie | ashraellen, research, badanie, sposób, widzenia, trwające, całe, życie, artystyczno-filozoficzne, sensu, obserwacja, tego, jak, człowiek, traci, kontakt, rzeczywistością, sensem | ashraellen, badanie, badania, człowiek, research, się, archiwum, artystyczne, artystyczno-filozoficzne, badane, całe, cyfrowe, formy, jako, kontakt, lecz, metoda, nie |
+| pl/research/index.html | pl | research | Ashraellen — Badanie | ashraellen, research, badanie, sposób, widzenia, trwające, całe, życie, artystyczno-filozoficzne, sensu, obserwacja, tego, jak, człowiek, traci, kontakt, rzeczywistością, sensem | badanie, ashraellen, badania, człowiek, research, się, artystyczne, artystyczno-filozoficzne, badane, całe, ciągłość, cyfrowe, forma, formy, fragmentaryczna, jako, kontakt, lecz |
 | pl/research/method/index.html | pl | research | Ashraellen — Metoda obserwacji | ashraellen, research, method, metoda, obserwacji, zapisywanie, węzłów, znaczeń, forma, artystyczna, jako, narzędzie, badawcze, weryfikacja, przez, rozpoznanie, węzeł, znaczenia | ashraellen, obserwacji, forma, jako, metoda, obserwacja, artystyczna, nie, research, się, weryfikacja, badania, badawcze, czego, człowiek, dlaczego, formy, lecz |
 | pl/research/notes/index.html | pl | research | Ashraellen — Notes — Polish | ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, pl, research, notes | notes, ashraellen, margins, research, chce, chodzi, doktryną, fragmenty, jeśli, który, marginesy, materiał, nie, niedokończone, polish, public, się, stać |
 | pl/research/position/index.html | pl | research | Ashraellen — Position — Polish | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, pl, research, position | position, ashraellen, jako, artystyczny, badacz, doświadczenia, doświadczenie, filozofia, modele, nie, niezależny, obserwacji, research, opisu, pole, polish, pracuję, religia |
@@ -6638,10 +6638,10 @@ Excerpt:
 - description: Ashraellen to sposób widzenia i trwające całe życie artystyczno-filozoficzne badanie sensu: obserwacja tego, jak człowiek traci kontakt z rzeczywistością, sensem i wewnętrzną wolnością.
 - canonical: https://www.ashraellen.com/pl/research/
 - H1: Badanie
-- H2: Co jest badane | Jak to się odbywa | Metoda | Formy badania | Jak rozumieć tę pracę | Badanie artystyczne | Otwarta wiedza | Społeczeństwo cyfrowe
+- H2: Co jest badane | Jak to się odbywa | Forma fragmentaryczna, ciągłość badania | Metoda | Formy badania | Jak rozumieć tę pracę | Badanie artystyczne | Otwarta wiedza
 - H3: _missing_
-- suggested keyword seed: ashraellen, badanie, badania, człowiek, research, się, archiwum, artystyczne, artystyczno-filozoficzne, badane, całe, cyfrowe, formy, jako, kontakt, lecz, metoda, nie
-- candidates: nie, się, lecz, ashraellen, badania, człowiek, jako, obserwacji, wideo, tym, wewnątrz, archiwum, badanie, cyfrowe, formy, gdzie, już, otwórz, sensu, tego, częścią, dźwięk, forma, mechanizm
+- suggested keyword seed: badanie, ashraellen, badania, człowiek, research, się, artystyczne, artystyczno-filozoficzne, badane, całe, ciągłość, cyfrowe, forma, formy, fragmentaryczna, jako, kontakt, lecz
+- candidates: nie, się, lecz, ashraellen, badania, wideo, człowiek, jako, obserwacji, tym, badanie, cyfrowe, formy, myśl, sensu, wewnątrz, archiwum, dźwięk, forma, gdzie, już, może, otwórz, pozwala
 
 Excerpt:
 
