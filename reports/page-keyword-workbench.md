@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-06T23:37:17.928Z
+Generated: 2026-07-06T23:38:49.717Z
 Pages: 551
 
 ## Index
@@ -316,7 +316,7 @@ Pages: 551
 | pl/books/radiance/index.html | pl | books | Ashraellen — Blask \| Północne opowieści o prawdziwej historii świata | ashraellen, books, radiance, blask, północne, opowieści, prawdziwej, historii, świata, literacko-filozoficzny, artystyczno-badawczy, cykl, tym, jak, dawne, historie, przechowują, obrazowe | blask, świata, ashraellen, books, cykl, cyklu, dawne, historie, instrukcje, literacko-filozoficzny, nie, artystyczno-badawcza, artystyczno-badawczy, czego, czym, forma, historii, instrukcji |
 | pl/books/radiance/sampo/index.html | pl | books | Ashraellen — Sampo \| Blask, Księga I | ashraellen, books, radiance, sampo, blask, księga, cyklu, północna, opowieść, literacko-filozoficzna, obfitości, posiadaniu, uczestnictwie, świecie, którym, mit, nie, oddzielił | sampo, blask, ashraellen, books, cyklu, jeszcze, księga, którym, nie, obfitości, się, artystyczno-badawcza, bez, fundacji, jako, językowy, kogo, książce |
 | pl/books/radiance/song/index.html | pl | books | Ashraellen — Pieśń \| Blask, Księga II | ashraellen, books, radiance, song, pieśń, blask, księga, cyklu, powieść, dźwięku, słyszeniu, języku, warszawie, pieśni, która, nie, staje, się | pieśń, blask, ashraellen, bez, books, cyklu, dźwięku, księga, nie, się, artystyczno-badawcza, fundacji, jako, językowy, języku, kogo, książce, książka |
-| pl/books/seccus/index.html | pl | books | Ashraellen — ŚWIĘTA KSIĘGA SECCUS | ashraellen, books, seccus, święta, księga, filozoficzne, badanie, psychologia, stosowana, metafizyka, świadomości, samooszukiwaniu, uczciwości, pieniądzach, wewnętrznej, wolności, książce, tematy | seccus, księga, święta, ashraellen, books, świadomości, audio-wideo, badanie, bez, filozoficzne, fragment, gdy, jako, książce, książka, książki, który, lecz |
+| pl/books/seccus/index.html | pl | books | Ashraellen — ŚWIĘTA KSIĘGA SECCUS | Ashraellen, SECCUS, Święta Księga SECCUS, Droga Uczciwości, satyra filozoficzna, pieniądze, sukces, samooszustwo, wiedza jako alibi, odpowiedzialność, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Księga | seccus, księga, święta, ashraellen, books, jako, alibi, ani, bez, człowiek, droga, filozoficzna, głos, kogo, korpus, książce, książka, książki |
 | pl/books/the-book-of-whinesis/index.html | pl | books | Ashraellen — The Book of Whinesis — Polish | ashraellen, books, book, whinesis, sakralna, satyra, dla, tych, którzy, zmęczyli, się, pozytywnymi, wibracjami, niekończącą, produktywnością, kultem, sukcesu, książce | book, whinesis, się, ashraellen, books, albowiem, będzie, będziesz, fragment, jego, książce, którzy, kultem, moania, moanii, narzekania, nie, niekończącą |
 | pl/books/you-are-already-online/index.html | pl | books | Ashraellen — Już jesteś w sieci | ashraellen, books, you, already, online, już, jesteś, sieci, immersyjna, powieść, audio, gatunku, thrillera, psychologicznego, dramatu, cyberpunkowego, cyfrowej, rzeczywistości | jesteś, już, sieci, ashraellen, books, rozdział, algorytmach, already, audio, było, cyberpunkowego, cyfrowej, dramatu, fragment, gatunku, gdzie, hiperrealności, immersyjna |
 | pl/contact.html | pl | contact.html | Kontakt — Ashraellen — Polish | ashraellen, contact, kontakt, współpraca, publikacje, granty, media, zapytania, projektowe, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | ashraellen, kontakt, granty, media, współpraca, contact, contact.html, kanał, kontaktu, polish, projektów, projektowe, publiczne, publikacje, publikacji, służy, telegram, zapytania |
@@ -5819,17 +5819,17 @@ Excerpt:
 - lang: pl
 - section: books
 - title: Ashraellen — ŚWIĘTA KSIĘGA SECCUS
-- description: ŚWIĘTA KSIĘGA SECCUS — filozoficzne badanie, psychologia stosowana i metafizyka świadomości o samooszukiwaniu, uczciwości, pieniądzach i wewnętrznej wolności.
+- description: „ŚWIĘTA KSIĘGA SECCUS — Droga Uczciwości” to filozoficzna satyra o pieniądzach, sukcesie, samooszustwie, wiedzy jako alibi i odpowiedzialności za własny wybór.
 - canonical: https://www.ashraellen.com/pl/books/seccus/
 - H1: ŚWIĘTA KSIĘGA SECCUS
-- H2: O książce | Tematy książki | Strona audio-wideo | Fragment | Status
-- H3: Zwój I — Wzniesienie Poszukiwania
-- suggested keyword seed: seccus, księga, święta, ashraellen, books, świadomości, audio-wideo, badanie, bez, filozoficzne, fragment, gdy, jako, książce, książka, książki, który, lecz
-- candidates: nie, się, bez, jako, lecz, seccus, książka, pierwszy, spokój, świadomości, gdy, który, nawyk, przed, szum, wewnętrznych, ale, audio-wideo, iluzji, już, księga, raz, sacrunomicon, siebie
+- H2: Wybrana strona | O książce | Bez spoilerów | Rama literacko-filozoficzna | Głos książki | Tematy | Dla kogo | Tetra-Księga i korpus
+- H3: Strona 71 — Cieniste Źródło Energii | Sukces na odwrót | Pieniądze jako lustro | Wiedza jako alibi | Bezpośrednia rozmowa | Strona III — Punkt Zerowy | Sukces | Pieniądze
+- suggested keyword seed: seccus, księga, święta, ashraellen, books, jako, alibi, ani, bez, człowiek, droga, filozoficzna, głos, kogo, korpus, książce, książka, książki
+- candidates: nie, się, lecz, człowiek, księga, książka, seccus, jako, sacrunomicon, strony, sukcesu, ani, bez, sukcesie, własnej, dlaczego, dróg, droga, główna, już, pieniądze, siebie, ssmv, staje
 
 Excerpt:
 
-> ŚWIĘTA KSIĘGA SECCUS Filozoficzne badanie, psychologia stosowana i metafizyka świadomości o samooszukiwaniu, oporze wobec zmian, pieniądzach, odpowiedzialności i wewnętrznej wolności. O książce przygotowywana do druku Gatunek: filozoficzne badanie, psychologia stosowana, metafizyka świadomości. „ŚWIĘTA KSIĘGA SECCUS” to pierwsza książka dużego cyklu badawczego poświęconego naturze ludzkiego samooszukiwania, wewnętrznym mechanizmom oporu oraz związkom między świadomością, motywacją i życiowymi rezultatami. Książka została zbudowana jako konsekwentna podróż przez warstwy osobistych iluzji. Autor rozpatruje strach, chciwość, dążenie do bezpieczeństwa, przekonania finansowe, duchową pychę, mechanizmy autosabotażu i cykle ego nie jako moralne wady, lecz jako elementy wewnętrznej architektury osobowości. Centralna idea książki polega na tym, że większość życiowych ograniczeń tworzą nie zewnętr
+> SACRUNOMICON — TETRA-KSIĘGA O ODWRÓCONYM SUKCESIE ŚWIĘTA KSIĘGA SECCUS Droga Uczciwości Książka o pieniądzach i sukcesie, która odwraca zwykłe pytanie. Nie „jak zdobyć to, czego się pragnie”, lecz co właściwie człowiek ma nadzieję kupić razem z wolnością, uznaniem i prawem do uważania siebie za osobę spełnioną. Pieniądze są tylko pretekstem. Prawdziwym przedmiotem książki jest człowiek, który ich pragnie. Rosyjska okładka: АХЕПСУ. Sacrunomicon. Wybrana strona Zwój IV: Upadek Murów Strona o motywie, który kryje się za właściwymi słowami o wolności, pomocy, pożytku i przeznaczeniu. Otwórz stronę Zamknij stronę Strona 71 — Cieniste Źródło Energii Zbliżamy się do najgłębszej warstwy twojej motywacji — tej, którą starannie omijałeś, zasłaniając się pięknymi słowami i szlachetnymi celami. Mówiłeś sobie, że chcesz pieniędzy dla wolności, dla pomocy bliskim, dla służenia światu. Lecz pod tą gład
 
 ### pl/books/the-book-of-whinesis/index.html
 
