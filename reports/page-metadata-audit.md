@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-07-06T22:54:44.171Z
+Generated: 2026-07-06T22:56:20.465Z
 
 Pages checked: 550
-Pages with issues: 2
-Total issues: 2
+Pages with issues: 3
+Total issues: 3
 Pages with review notes: 550
 Total review notes: 2056
 
@@ -12,7 +12,7 @@ Total review notes: 2056
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_KEYWORDS | 2 |
+| DUPLICATE_KEYWORDS | 3 |
 
 
 ## Review note summary
@@ -27,6 +27,16 @@ Total review notes: 2056
 
 ## Pages with issues
 
+### be/books/index.html
+
+- title: Ashraellen — Кнігі
+- description length: 127
+- canonical: https://www.ashraellen.com/be/books/
+- og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
+
+- DUPLICATE_KEYWORDS: shared by 3 pages
+
 ### en/books/index.html
 
 - title: Ashraellen — Books
@@ -35,7 +45,7 @@ Total review notes: 2056
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
-- DUPLICATE_KEYWORDS: shared by 2 pages
+- DUPLICATE_KEYWORDS: shared by 3 pages
 
 ### pl/books/index.html
 
@@ -45,7 +55,7 @@ Total review notes: 2056
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
-- DUPLICATE_KEYWORDS: shared by 2 pages
+- DUPLICATE_KEYWORDS: shared by 3 pages
 
 
 ## Pages with review notes
