@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-06T17:01:28.741Z
+Generated: 2026-07-06T17:02:49.424Z
 Pages: 551
 
 ## Index
@@ -117,7 +117,7 @@ Pages: 551
 | de/public/thoughts/index-0002.html | de | public | Ashraellen — Bogen 0002 | ashraellen, public, thoughts, index, 0002, bogen, zweiter, der, stützgedanken, leere, stuhl, verallgemeinerung, statt, beobachtung, das, leben, stehen, blieb | der, bogen, das, stützgedanken, ashraellen, beobachtung, die, nicht, tasse, verallgemeinerung, zweiter, bereue, blieb, buch, leben, leere, man, public |
 | de/public/thoughts/index.html | de | public | Ashraellen — Dritter Bogen der Stützgedanken | ashraellen, public, thoughts, dritter, bogen, der, stützgedanken, das, problem, verliert, die, krone, zusätzliche, krieg, endet, feiner, gedanke, eine | der, bogen, das, stützgedanken, ashraellen, bild, die, dritter, gedanke, nicht, tatsache, ein, eine, feiner, krone, problem, public, verliert |
 | de/research/archive/index.html | de | research | Ashraellen — Forschungsarchiv | ashraellen, research, archive, forschungsarchiv, archiv, der, forschungsmaterialien, von, abgeschlossene, versionen, frühere, schichten, spuren, des, weges, und, materialien, die | ashraellen, archiv, die, abgeschlossene, arbeit, materialien, nicht, noch, research, sich, und, von, archive, bewegt, der, des, forschung, forschungsarchiv |
-| de/research/index.html | de | research | Ashraellen — Forschung | ashraellen, research, forschung, ist, eine, weise, des, sehens, und, lebenslange, künstlerisch-philosophische, untersuchung, sinns, beobachtung, dessen, wie, der, mensch | eine, forschung, wie, ashraellen, der, des, ist, und, research, als, arbeit, beobachtung, den, dessen, die, diese, digitale, ein |
+| de/research/index.html | de | research | Ashraellen — Forschung | ashraellen, research, forschung, ist, eine, weise, des, sehens, und, lebenslange, künstlerisch-philosophische, untersuchung, sinns, beobachtung, dessen, wie, der, mensch | forschung, ashraellen, eine, wie, der, des, ist, und, research, arbeit, beobachtung, den, dessen, die, diese, ein, form, formen |
 | de/research/method/index.html | de | research | Ashraellen — Methode der Beobachtung | ashraellen, research, method, methode, der, beobachtung, die, von, aufzeichnung, sinnknoten, künstlerische, form, als, forschungsinstrument, und, überprüfung, durch, wiedererkennen | der, beobachtung, ashraellen, methode, von, als, die, form, künstlerische, research, sinnknoten, überprüfung, und, aufzeichnung, das, durch, ein, entsteht |
 | de/research/notes/index.html | de | research | Ashraellen — Notes — German | ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, de, research, notes | notes, ashraellen, margins, research, darum, das, doktrin, fragmente, geht, genau, material, public, ränder, german, sich, unfertig, weigert, wenn |
 | de/research/position/index.html | de | research | Ashraellen — Position — German | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, de, research, position | position, ashraellen, als, und, arbeite, beobachtung, beschreibungsmodelle, betrachte, der, erfahrung, erfahrungen, feld, research, forscher, german, ich, innere, künstlerischer |
@@ -2439,10 +2439,10 @@ Excerpt:
 - description: Ashraellen ist eine Weise des Sehens und eine lebenslange künstlerisch-philosophische Untersuchung des Sinns: eine Beobachtung dessen, wie der Mensch den Kontakt zu Wirklichkeit, Sinn und innerer Freiheit verliert.
 - canonical: https://www.ashraellen.com/de/research/
 - H1: Forschung
-- H2: Was untersucht wird | Wie es geschieht | Methode | Formen der Forschung | Wie diese Arbeit zu verstehen ist | Künstlerische Forschung | Offenes Wissen | Digitale Gesellschaft
+- H2: Was untersucht wird | Wie es geschieht | Fragmentarische Form, fortlaufende Forschung | Methode | Formen der Forschung | Wie diese Arbeit zu verstehen ist | Künstlerische Forschung | Offenes Wissen
 - H3: _missing_
-- suggested keyword seed: eine, forschung, wie, ashraellen, der, des, ist, und, research, als, arbeit, beobachtung, den, dessen, die, diese, digitale, ein
-- candidates: und, der, die, eine, ein, des, ist, nicht, von, wie, sondern, als, ashraellen, dem, den, beobachtung, das, mensch, mit, forschung, keine, arbeit, einer, oder
+- suggested keyword seed: forschung, ashraellen, eine, wie, der, des, ist, und, research, arbeit, beobachtung, den, dessen, die, diese, ein, form, formen
+- candidates: und, der, die, ein, eine, des, nicht, ist, wie, sondern, von, ashraellen, das, als, dem, den, beobachtung, forschung, mit, einem, einer, mensch, oder, werden
 
 Excerpt:
 
