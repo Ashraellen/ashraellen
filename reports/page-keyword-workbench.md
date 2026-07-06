@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-06T23:04:10.367Z
+Generated: 2026-07-06T23:37:17.928Z
 Pages: 551
 
 ## Index
@@ -132,7 +132,7 @@ Pages: 551
 | en/books/radiance/index.html | en | books | Ashraellen — Radiance \| Northern Tales of the True History of the World | ashraellen, books, radiance, northern, tales, true, history, world, literary-philosophical, practice-based, research, cycle, about, how, ancient, stories, preserve, imaginal | radiance, books, cycle, instructions, research, world, ancient, artistic, ashraellen, northern, what, about, book, confused, form, frame, history, how |
 | en/books/radiance/sampo/index.html | en | books | Ashraellen — Sampo \| Radiance, Book I | ashraellen, books, radiance, sampo, book, northern, literary-philosophical, tale, abundance, possession, participation, world, where, myth, has, yet, separated, labour | sampo, book, radiance, abundance, ashraellen, books, northern, research, where, world, about, artistic, chapter, cultural, cycle, does, foundations, frame |
 | en/books/radiance/song/index.html | en | books | Ashraellen — Song \| Radiance, Book II | ashraellen, books, radiance, song, book, novel, about, sound, hearing, language, warsaw, does, become, performance, number, selected, chapter, without | song, book, radiance, about, language, ashraellen, become, books, does, hearing, sound, artistic, chapter, city, cultural, cycle, foundations, frame |
-| en/books/seccus/index.html | en | books | Ashraellen — THE SACRED BOOK OF SECCUS | ashraellen, books, seccus, sacred, book, philosophical, investigation, applied, psychology, metaphysics, consciousness, about, self-deception, honesty, money, inner, freedom, themes | book, seccus, sacred, about, ashraellen, books, honesty, inner, money, applied, audio-video, being, calm, consciousness, excerpt, first, freedom, have |
+| en/books/seccus/index.html | en | books | Ashraellen — THE SACRED BOOK OF SECCUS | Ashraellen, SECCUS, The Sacred Book of SECCUS, The Path of Honesty, philosophical satire, money, success, self-deception, knowledge as an alibi, responsibility, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Book | book, seccus, about, sacred, ashraellen, books, money, own, success, alibi, choice, corpus, does, frame, honesty, how, knowledge, literary-philosophical |
 | en/books/the-book-of-whinesis/index.html | en | books | Ashraellen — The Book of Whinesis — English | ashraellen, books, book, whinesis, sacred, satire, those, tired, positive, vibes, endless, productivity, cult, success, about, first, chapters, excerpt | book, whinesis, ashraellen, books, about, becomes, chapters, cult, discount, endless, english, excerpt, first, gnorna, lord, moania, positive, productivity |
 | en/books/you-are-already-online/index.html | en | books | Ashraellen — You Are Already Online | ashraellen, books, you, already, online, immersive, audio, novel, genre, psychological, thriller, cyberpunk, drama, about, digital, reality, algorithms, attention | already, online, you, about, ashraellen, books, chapter, first, novel, reality, algorithms, attention, audio, book, cyberpunk, did, digital, drama |
 | en/contact.html | en | contact.html | Contact — Ashraellen — English | ashraellen, contact, cooperation, publishing, grants, media, project, inquiries, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, contact, cooperation, grants, inquiries, media, project, publishing, channel, contact.html, english, kostyshev, materials, telegram |
@@ -2691,17 +2691,17 @@ Excerpt:
 - lang: en
 - section: books
 - title: Ashraellen — THE SACRED BOOK OF SECCUS
-- description: THE SACRED BOOK OF SECCUS — a philosophical investigation, applied psychology and metaphysics of consciousness about self-deception, honesty, money and inner freedom.
+- description: “THE SACRED BOOK OF SECCUS — The Path of Honesty” is a philosophical satire about money, success, self-deception, knowledge as an alibi, and responsibility for one’s own choice.
 - canonical: https://www.ashraellen.com/en/books/seccus/
 - H1: THE SACRED BOOK OF SECCUS
-- H2: About the book | Themes of the book | Audio-video page | Excerpt | Status
-- H3: Scroll I — The Ascent of the Search
-- suggested keyword seed: book, seccus, sacred, about, ashraellen, books, honesty, inner, money, applied, audio-video, being, calm, consciousness, excerpt, first, freedom, have
-- candidates: you, book, inner, without, first, seccus, your, calm, have, honesty, money, being, consciousness, desire, fear, habit, illusions, noise, own, sacred, when, audio-video, because, does
+- H2: Selected page | About the book | Without spoilers | Literary-philosophical frame | The voice of the book | Themes | For whom | The Tetra-Book and the corpus
+- H3: Page 71 — The Shadow Source of Energy | Success reversed | Money as a mirror | Knowledge as an alibi | A direct conversation | Page III — The Zero Point | Success | Money
+- suggested keyword seed: book, seccus, about, sacred, ashraellen, books, money, own, success, alibi, choice, corpus, does, frame, honesty, how, knowledge, literary-philosophical
+- candidates: book, you, success, does, person, money, seccus, about, how, own, pages, shadow, three, while, corpus, freedom, paths, project, sacrunomicon, what, your, another, becomes, desire
 
 Excerpt:
 
-> THE SACRED BOOK OF SECCUS A philosophical investigation, applied psychology and metaphysics of consciousness about self-deception, resistance to change, money, responsibility and inner freedom. About the book being prepared for print Genre: philosophical investigation, applied psychology, metaphysics of consciousness. “THE SACRED BOOK OF SECCUS” is the first book in a large-scale research cycle devoted to the nature of human self-deception, the inner mechanisms of resistance, and the relationship between consciousness, motivation and life results. The book is built as a sequential journey through layers of personal illusions. The author examines fear, greed, the desire for safety, financial beliefs, spiritual pride, mechanisms of self-sabotage and cycles of ego not as moral flaws, but as elements of the inner architecture of personality. The central idea of the book is that most life lim
+> SACRUNOMICON — A TETRA-BOOK OF SUCCESS TURNED INSIDE OUT THE SACRED BOOK OF SECCUS The Path of Honesty A book about money and success that turns the familiar question around. Not “how to get what you want,” but what exactly a person hopes to buy together with freedom, recognition, and the right to consider themselves accomplished. Money is only the pretext. The real subject of the book is the person who wants it. Russian cover: АХЕПСУ. Sacrunomicon. Selected page Scroll IV: The Fall of Walls A page about the motive hidden behind correct words about freedom, help, usefulness, and purpose. Open page Close page Page 71 — The Shadow Source of Energy We are approaching the deepest layer of your motivation—the one you carefully avoided while sheltering behind beautiful words and noble aims. You told yourself that you wanted money for freedom, to help your family, to serve the world. But beneat
 
 ### en/books/the-book-of-whinesis/index.html
 
