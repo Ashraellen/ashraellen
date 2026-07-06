@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-06T23:41:24.357Z
+Generated: 2026-07-06T23:42:53.232Z
 Pages: 551
 
 ## Index
@@ -69,7 +69,7 @@ Pages: 551
 | de/books/monolith/beton/index.html | de | books | Ashraellen — BETON — German | ashraellen, books, monolith, beton, band, der, monolith-trilogie, akte, beschreibung, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | beton, akte, band, der, beginnt, mit, monolith-trilogie, ashraellen, beschreibung, books, ein, einer, die, gefängnis, german, gewohnheit, ist, monolith |
 | de/books/monolith/index.html | de | books | Ashraellen — MONOLITH — German | ashraellen, books, monolith, eine, dystopische, trilogie, über, kontrolle, erinnerung, und, den, zerfall, von, systemen, serie, bände, band, beton | monolith, ashraellen, books, eine, erinnerung, und, band, bände, beton, den, der, die, dystopische, gas, german, ist, kontrolle, ohne |
 | de/books/monolith/sludge/index.html | de | books | Ashraellen — SLUDGE — German | ashraellen, books, monolith, sludge, band, der, monolith-trilogie, akte, beschreibung, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | sludge, akte, band, der, monolith-trilogie, ashraellen, beschreibung, books, ein, mensch, nicht, wird, beginnt, dann, die, german, ist, leisten |
-| de/books/seccus/index.html | de | books | Ashraellen — DAS HEILIGE BUCH SECCUS | ashraellen, books, seccus, das, heilige, buch, philosophische, untersuchung, angewandte, psychologie, und, metaphysik, des, bewusstseins, über, selbsttäuschung, ehrlichkeit, geld | buch, das, seccus, des, heilige, und, ashraellen, books, über, als, angewandte, audio-video-seite, auszug, bewusstseins, buches, dass, den, der |
+| de/books/seccus/index.html | de | books | Ashraellen — DAS HEILIGE BUCH SECCUS | Ashraellen, SECCUS, Das Heilige Buch SECCUS, Der Weg der Ehrlichkeit, philosophische Satire, Geld, Erfolg, Selbsttäuschung, Wissen als Alibi, Verantwortung, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Buch | das, buch, der, die, seccus, heilige, und, ashraellen, books, des, für, ist, seite, über, alibi, als, ausgewählte, buches |
 | de/books/the-book-of-whinesis/index.html | de | books | Ashraellen — The Book of Whinesis — German | ashraellen, books, book, whinesis, sakrale, satire, für, alle, die, von, positiven, vibes, endloser, produktivität, und, dem, kult, des | book, whinesis, ashraellen, books, des, die, und, alle, auf, auszug, buch, das, dem, den, der, endloser, erfolgs, erste |
 | de/books/you-are-already-online/index.html | de | books | Ashraellen — Du bist bereits online | ashraellen, books, you, already, online, bist, bereits, ein, immersiver, audio-roman, genre, des, psychologischen, thrillers, und, cyberpunk-dramas, über, digitale | bereits, online, bist, des, und, ashraellen, books, das, ein, über, algorithmen, already, audio-roman, auszug, buch, cyberpunk-dramas, den, der |
 | de/contact.html | de | contact.html | Kontakt — Ashraellen — German | ashraellen, contact, kontakt, kontaktseite, von, zusammenarbeit, publikationen, förderungen, medien, und, projektanfragen, doctype, html, title, function, const, isgithub, location.hostname.endswith | ashraellen, kontakt, förderungen, medien, projektanfragen, und, von, zusammenarbeit, contact, contact.html, der, dient, german, kontaktseite, kostyshev, öffentliche, publikationen |
@@ -1620,17 +1620,17 @@ Excerpt:
 - lang: de
 - section: books
 - title: Ashraellen — DAS HEILIGE BUCH SECCUS
-- description: DAS HEILIGE BUCH SECCUS — philosophische Untersuchung, angewandte Psychologie und Metaphysik des Bewusstseins über Selbsttäuschung, Ehrlichkeit, Geld und innere Freiheit.
+- description: „DAS HEILIGE BUCH SECCUS — Der Weg der Ehrlichkeit“ ist eine philosophische Satire über Geld, Erfolg, Selbsttäuschung, Wissen als Alibi und die Verantwortung für die eigene Entscheidung.
 - canonical: https://www.ashraellen.com/de/books/seccus/
 - H1: DAS HEILIGE BUCH SECCUS
-- H2: Über das Buch | Themen des Buches | Audio-Video-Seite | Auszug | Status
-- H3: Schriftrolle I — Der Aufstieg der Suche
-- suggested keyword seed: buch, das, seccus, des, heilige, und, ashraellen, books, über, als, angewandte, audio-video-seite, auszug, bewusstseins, buches, dass, den, der
-- candidates: der, und, die, das, ist, nicht, ohne, als, buch, des, den, dass, seccus, sondern, dem, ein, ruhe, ehrlichkeit, ersten, geld, innere, nach, seite, wenn
+- H2: Ausgewählte Seite | Über das Buch | Ohne Spoiler | Literarisch-philosophischer Rahmen | Die Stimme des Buches | Themen | Für wen | Das Tetra-Buch und der Korpus
+- H3: Seite 71 — Die Schattenquelle der Energie | Erfolg umgekehrt | Geld als Spiegel | Wissen als Alibi | Ein direktes Gespräch | Seite III — Der Nullpunkt | Erfolg | Geld
+- suggested keyword seed: das, buch, der, die, seccus, heilige, und, ashraellen, books, des, für, ist, seite, über, alibi, als, ausgewählte, buches
+- candidates: der, das, die, und, ein, ist, nicht, des, buch, den, seite, sich, dem, als, eine, wird, für, mensch, über, zur, erfolg, geld, seccus, von
 
 Excerpt:
 
-> DAS HEILIGE BUCH SECCUS Philosophische Untersuchung, angewandte Psychologie und Metaphysik des Bewusstseins über Selbsttäuschung, Widerstand gegen Veränderung, Geld, Verantwortung und innere Freiheit. Über das Buch wird für den Druck vorbereitet Genre: philosophische Untersuchung, angewandte Psychologie, Metaphysik des Bewusstseins. „DAS HEILIGE BUCH SECCUS“ ist das erste Buch eines groß angelegten Forschungszyklus, der der Natur menschlicher Selbsttäuschung, den inneren Mechanismen des Widerstands und der Wechselbeziehung zwischen Bewusstsein, Motivation und Lebensergebnissen gewidmet ist. Das Buch ist als schrittweise Reise durch die Schichten persönlicher Illusionen aufgebaut. Der Autor betrachtet Angst, Gier, das Streben nach Sicherheit, finanzielle Überzeugungen, spirituellen Stolz, Mechanismen der Selbstsabotage und Zyklen des Ego nicht als moralische Mängel, sondern als Elemente d
+> SACRUNOMICON — EIN TETRA-BUCH ÜBER UMGEKEHRTEN ERFOLG DAS HEILIGE BUCH SECCUS Der Weg der Ehrlichkeit Ein Buch über Geld und Erfolg, das die gewohnte Frage umkehrt. Nicht „wie bekomme ich, was ich will“, sondern was genau ein Mensch zusammen mit Freiheit, Anerkennung und dem Recht, sich selbst als angekommen zu betrachten, zu erwerben hofft. Geld ist nur der Vorwand. Der eigentliche Gegenstand des Buches ist der Mensch, der es will. Russisches Cover: АХЕПСУ. Sacrunomicon. Ausgewählte Seite Schriftrolle IV: Der Fall der Mauern Eine Seite über das Motiv, das sich hinter den richtigen Worten über Freiheit, Hilfe, Nutzen und Bestimmung verbirgt. Seite öffnen Seite schließen Seite 71 — Die Schattenquelle der Energie Wir nähern uns der tiefsten Schicht deiner Motivation — jener, die du sorgfältig umgangen hast, indem du dich hinter schönen Worten und edlen Zielen verborgen hast. Du hast dir ge
 
 ### de/books/the-book-of-whinesis/index.html
 
