@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-07-06T22:57:59.215Z
+Generated: 2026-07-06T22:59:20.724Z
 
 Pages checked: 550
-Pages with issues: 4
-Total issues: 4
+Pages with issues: 5
+Total issues: 5
 Pages with review notes: 550
 Total review notes: 2056
 
@@ -12,7 +12,7 @@ Total review notes: 2056
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_KEYWORDS | 4 |
+| DUPLICATE_KEYWORDS | 5 |
 
 
 ## Review note summary
@@ -35,7 +35,17 @@ Total review notes: 2056
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
-- DUPLICATE_KEYWORDS: shared by 4 pages
+- DUPLICATE_KEYWORDS: shared by 5 pages
+
+### de/books/index.html
+
+- title: Ashraellen — Bücher
+- description length: 142
+- canonical: https://www.ashraellen.com/de/books/
+- og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
+
+- DUPLICATE_KEYWORDS: shared by 5 pages
 
 ### en/books/index.html
 
@@ -45,7 +55,7 @@ Total review notes: 2056
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
-- DUPLICATE_KEYWORDS: shared by 4 pages
+- DUPLICATE_KEYWORDS: shared by 5 pages
 
 ### pl/books/index.html
 
@@ -55,7 +65,7 @@ Total review notes: 2056
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
-- DUPLICATE_KEYWORDS: shared by 4 pages
+- DUPLICATE_KEYWORDS: shared by 5 pages
 
 ### uk/books/index.html
 
@@ -65,7 +75,7 @@ Total review notes: 2056
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
-- DUPLICATE_KEYWORDS: shared by 4 pages
+- DUPLICATE_KEYWORDS: shared by 5 pages
 
 
 ## Pages with review notes

@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-06T22:57:59.635Z
+Generated: 2026-07-06T22:59:21.142Z
 Pages: 551
 
 ## Index
@@ -65,7 +65,7 @@ Pages: 551
 | be/research/position/index.html | be | research | Ashraellen — Пазіцыя | ashraellen, research, position, пазіцыя, незалежнае, мастацкае, даследаванне, ўнутранага, досведу, поля, назірання, doctype, html, title, script, context, https, schema.org | ashraellen, пазіцыя, research, даследаванне, досведу, мастацкае, назірання, position, апісання, даследчык, досвед, досведы, мадэлі, мастацкі, незалежнае, поля, ўнутранага |
 | be/research/projects/index.html | be | research | Ashraellen — Праекты даследавання | ashraellen, research, projects, праекты, даследавання, карта, рабочых, палёў, monolith, асноўны, канал, публічнае, поле, сатырычныя, бакавыя, лабараторыі, ўспрымання, instagram | ashraellen, праекты, monolith, research, telegram, бакавыя, канал, лабараторыі, поле, church, inner, instagram, melodies, occultus, projects, saint, scriptorium, sounds |
 | be/research/sources/index.html | be | research | Ashraellen — Крыніцы і традыцыя | ashraellen, research, sources, крыніцы, традыцыя, фенаменалогія, свядомасці, цела, наратыў, кагнітыўная, навука, мастацкая, практыка, эдмунд, гусерль, досвед, гатовых, тлумачэнняў | ashraellen, крыніцы, традыцыя, цела, research, аповед, досвед, свядомасці, свядомасць, фенаменалогія, sources, бачным, варэла, гатовых, гусерль, даследавання, досведу, жывая |
-| de/books/index.html | de | books | Ashraellen — Bücher | ashraellen, books, bücher, von, romane, große, projekte, buch-experimente, monolith, das, heilige, buch, seccus, bist, bereits, online, und, der | bücher, ashraellen, buch, das, bereits, books, der, und, whinesis, bist, buch-experimente, die, große, heilige, liste, monolith, nicht, online |
+| de/books/index.html | de | books | Ashraellen — Bücher | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | bücher, ashraellen, und, books, buch, satire, 404, audioroman, bereits, bist, book, buchzyklen, das, der, die, eigenständige, ein, eine |
 | de/books/monolith/beton/index.html | de | books | Ashraellen — BETON — German | ashraellen, books, monolith, beton, band, der, monolith-trilogie, akte, beschreibung, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | beton, akte, band, der, beginnt, mit, monolith-trilogie, ashraellen, beschreibung, books, ein, einer, die, gefängnis, german, gewohnheit, ist, monolith |
 | de/books/monolith/index.html | de | books | Ashraellen — MONOLITH — German | ashraellen, books, monolith, eine, dystopische, trilogie, über, kontrolle, erinnerung, und, den, zerfall, von, systemen, serie, bände, band, beton | monolith, ashraellen, books, eine, erinnerung, und, band, bände, beton, den, der, die, dystopische, gas, german, ist, kontrolle, ohne |
 | de/books/monolith/sludge/index.html | de | books | Ashraellen — SLUDGE — German | ashraellen, books, monolith, sludge, band, der, monolith-trilogie, akte, beschreibung, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | sludge, akte, band, der, monolith-trilogie, ashraellen, beschreibung, books, ein, mensch, nicht, wird, beginnt, dann, die, german, ist, leisten |
@@ -1552,17 +1552,17 @@ Excerpt:
 - lang: de
 - section: books
 - title: Ashraellen — Bücher
-- description: Bücher von Ashraellen: Romane, große Projekte, Buch-Experimente, MONOLITH, DAS HEILIGE BUCH SECCUS, Du bist bereits online und Das Buch der Whinesis.
+- description: Bücher von Ashraellen: MONOLITH, RADIANCE, ERROR 404: GOD NOT FOUND, Das Heilige Buch SECCUS, Du bist bereits online und The Book of Whinesis.
 - canonical: https://www.ashraellen.com/de/books/
 - H1: Bücher
-- H2: Liste
+- H2: Buchzyklen | Eigenständige Bücher und Forschung | Satire
 - H3: _missing_
-- suggested keyword seed: bücher, ashraellen, buch, das, bereits, books, der, und, whinesis, bist, buch-experimente, die, große, heilige, liste, monolith, nicht, online
-- candidates: und, das, buch, über, der, die, bereits, bücher, nicht, sie, sind, whinesis, ashraellen, auf, bist, buch-experimente, den, eine, einen, große, heilige, man, monolith, online
+- suggested keyword seed: bücher, ashraellen, und, books, buch, satire, 404, audioroman, bereits, bist, book, buchzyklen, das, der, die, eigenständige, ein, eine
+- candidates: und, ein, über, buch, öffnen, eine, bücher, der, die, satire, zyklus, audioroman, das, den, trilogie, von, 404, ashraellen, bemerkt, bereits, bist, book, buchzyklen, eigene
 
 Excerpt:
 
-> Bücher Hier sind Texte, die nicht in einen Post passten und kein Vortrag wurden. Das sind abgeschlossene Formen: Romane, große Projekte und Buch-Experimente. Man kann sie nicht in einer Minute überfliegen. Man muss sie durchleben. Liste wird ergänzt MONOLITH Eine Trilogie aus Social Science Fiction, Dystopie und philosophischem Cyberpunk über Kontrolle, Erinnerung und den Zerfall von Systemen: BETON, SLUDGE, GAS. series DAS HEILIGE BUCH SECCUS Philosophische Untersuchung, angewandte Psychologie und Metaphysik des Bewusstseins über Selbsttäuschung, Ehrlichkeit, Geld, Widerstand gegen Veränderung und innere Freiheit. Das Buch wird für den Druck vorbereitet; die ersten Audio-Video-Seiten sind bereits verfügbar. preprint Du bist bereits online Ein psychologischer Techno-Thriller über einen Mann, der bemerkt: Die Realität reagiert nicht auf Ereignisse, sondern auf die Bereitschaft, sie zu bes
+> Bücher Hier sind Ashraellens Buchzyklen, eigenständige Romane, Forschungsbücher und Satire versammelt. Wählen Sie ein größeres Projekt oder beginnen Sie mit einem einzelnen Buch. Buchzyklen Reihen und langfristige Projekte MONOLITH Eine literarisch-philosophische dystopische Trilogie über Kontrolle, Erinnerung und den Zerfall von Systemen. BETON, SLUDGE und GAS verfolgen den Übergang gesellschaftlicher Materie von erstarrter Stabilität über zähe Verformung bis zum Verlust ihrer geschlossenen Form. Trilogie öffnen Trilogie RADIANCE Ein literarisch-philosophischer Zyklus künstlerischer Forschung über nordische Überlieferungen und alte Bilder als lebendige Anleitungen zur Welt. Keine Nacherzählung der „Kalevala“, sondern eine Rückkehr zu jener menschlichen Erfahrung, aus der solche Geschichten entstehen konnten. Zyklus öffnen Zyklus ERROR 404: GOD NOT FOUND Ein philosophisch-satirischer Rom
 
 ### de/books/monolith/beton/index.html
 
