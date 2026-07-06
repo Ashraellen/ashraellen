@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-07-06T22:59:20.724Z
+Generated: 2026-07-06T23:01:08.761Z
 
 Pages checked: 550
-Pages with issues: 5
-Total issues: 5
+Pages with issues: 6
+Total issues: 6
 Pages with review notes: 550
 Total review notes: 2056
 
@@ -12,7 +12,7 @@ Total review notes: 2056
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_KEYWORDS | 5 |
+| DUPLICATE_KEYWORDS | 6 |
 
 
 ## Review note summary
@@ -35,7 +35,7 @@ Total review notes: 2056
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
-- DUPLICATE_KEYWORDS: shared by 5 pages
+- DUPLICATE_KEYWORDS: shared by 6 pages
 
 ### de/books/index.html
 
@@ -45,7 +45,7 @@ Total review notes: 2056
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
-- DUPLICATE_KEYWORDS: shared by 5 pages
+- DUPLICATE_KEYWORDS: shared by 6 pages
 
 ### en/books/index.html
 
@@ -55,7 +55,17 @@ Total review notes: 2056
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
-- DUPLICATE_KEYWORDS: shared by 5 pages
+- DUPLICATE_KEYWORDS: shared by 6 pages
+
+### fr/books/index.html
+
+- title: Ashraellen — Livres
+- description length: 138
+- canonical: https://www.ashraellen.com/fr/books/
+- og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
+
+- DUPLICATE_KEYWORDS: shared by 6 pages
 
 ### pl/books/index.html
 
@@ -65,7 +75,7 @@ Total review notes: 2056
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
-- DUPLICATE_KEYWORDS: shared by 5 pages
+- DUPLICATE_KEYWORDS: shared by 6 pages
 
 ### uk/books/index.html
 
@@ -75,7 +85,7 @@ Total review notes: 2056
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
-- DUPLICATE_KEYWORDS: shared by 5 pages
+- DUPLICATE_KEYWORDS: shared by 6 pages
 
 
 ## Pages with review notes
