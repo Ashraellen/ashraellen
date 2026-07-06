@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-07-06T22:53:27.657Z
+Generated: 2026-07-06T22:54:44.171Z
 
 Pages checked: 550
-Pages with issues: 0
-Total issues: 0
+Pages with issues: 2
+Total issues: 2
 Pages with review notes: 550
 Total review notes: 2056
 
@@ -12,6 +12,7 @@ Total review notes: 2056
 
 | Item | Count |
 |---|---:|
+| DUPLICATE_KEYWORDS | 2 |
 
 
 ## Review note summary
@@ -25,6 +26,26 @@ Total review notes: 2056
 
 
 ## Pages with issues
+
+### en/books/index.html
+
+- title: Ashraellen — Books
+- description length: 143
+- canonical: https://www.ashraellen.com/en/books/
+- og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
+
+- DUPLICATE_KEYWORDS: shared by 2 pages
+
+### pl/books/index.html
+
+- title: Ashraellen — Książki
+- description length: 133
+- canonical: https://www.ashraellen.com/pl/books/
+- og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
+
+- DUPLICATE_KEYWORDS: shared by 2 pages
 
 
 ## Pages with review notes

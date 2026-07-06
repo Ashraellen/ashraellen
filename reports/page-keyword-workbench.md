@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-06T22:53:28.086Z
+Generated: 2026-07-06T22:54:44.595Z
 Pages: 551
 
 ## Index
@@ -309,7 +309,7 @@ Pages: 551
 | monolith/index.html | root | monolith | MONOLITH — Ashraellen | ashraellen, monolith, language, gateway, beton, sludge, gas, doctype, html, title, function, var, routes, languages, navigator.languages, navigator.language, target, routes.en | monolith, language, ashraellen, detecting, deutsch, english, español, français, polski, português, беларуская, определение, русский, beton, gas, gateway, sludge, українська |
 | pl/books/error-404-god-not-found/index.html | pl | books | Ashraellen — Błąd 404: Boga nie znaleziono | ashraellen, books, error, 404, god, found, błąd, boga, nie, znaleziono, wielojęzyczny, filozoficzno-satyryczny, cykl, powieściowy, niebiańskiej, kancelarii, ludzkiej, pretensji | nie, 404, błąd, boga, znaleziono, ashraellen, bogu, books, kancelarii, który, niebiańskiej, szukania, albo, błędzie, cykl, cyklu, error, filozoficzno-satyryczny |
 | pl/books/error-404-god-not-found/why-me/index.html | pl | books | Ashraellen — Dlaczego ja? | ashraellen, books, error, 404, god, found, why, dlaczego, pierwsza, księga, cyklu, błąd, boga, nie, znaleziono, filozoficzno-satyryczna, powieść, człowieku | dlaczego, boga, 404, ashraellen, błąd, books, który, nie, ale, cyklu, człowieku, error, filozoficzno-satyryczna, found, fragment, god, jako, kancelarii |
-| pl/books/index.html | pl | books | Ashraellen — Książki | ashraellen, books, książki, monolith, blask, błąd, 404, boga, nie, znaleziono, święta, księga, seccus, już, jesteś, sieci, whinesis, lista | ashraellen, książki, księga, 404, błąd, blask, boga, books, już, nie, whinesis, cykl, jesteś, lista, monolith, seccus, się, sieci |
+| pl/books/index.html | pl | books | Ashraellen — Książki | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | książki, 404, ashraellen, ashraellena, błąd, boga, books, nie, satyra, albo, audio, badania, blask, book, cykl, cykle, jesteś, już |
 | pl/books/monolith/beton/index.html | pl | books | Ashraellen — BETON — Polish | ashraellen, books, monolith, beton, tom, trylogii, akta, opis, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, akta, monolith, tom, się, trylogii, zaczyna, 2026-001b, ashraellen, books, nie, opis, więzienia, 6666548a, indeks, nawyku, nazywania, polish |
 | pl/books/monolith/index.html | pl | books | Ashraellen — MONOLITH — Polish | ashraellen, books, monolith, trylogia, dystopijna, kontroli, pamięci, rozpadzie, systemów, seria, tomy, tom, beton, sludge, iii, gas, doctype, html | monolith, tom, ashraellen, beton, books, gas, pamięci, seria, sludge, społecznej, tomy, trylogia, bez, dystopii, dystopijna, fantastyki, filozoficznego, iii |
 | pl/books/monolith/sludge/index.html | pl | books | Ashraellen — SLUDGE — Polish | ashraellen, books, monolith, sludge, tom, trylogii, akta, opis, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, akta, monolith, się, tom, trylogii, ashraellen, books, człowiek, łamie, najpierw, nie, opis, razu, zaczyna, 2026-001b, 6666548a, indeks |
@@ -5700,17 +5700,17 @@ Excerpt:
 - lang: pl
 - section: books
 - title: Ashraellen — Książki
-- description: Książki Ashraellen: MONOLITH, Blask, Błąd 404: Boga nie znaleziono, Święta Księga SECCUS, Już jesteś w sieci i Księga Whinesis.
+- description: Książki Ashraellena: MONOLITH, Blask, Błąd 404: Boga nie znaleziono, Święta Księga SECCUS, Już jesteś w sieci i The Book of Whinesis.
 - canonical: https://www.ashraellen.com/pl/books/
 - H1: Książki
-- H2: Lista
+- H2: Cykle książkowe | Samodzielne książki i badania | Satyra
 - H3: _missing_
-- suggested keyword seed: ashraellen, książki, księga, 404, błąd, blask, boga, books, już, nie, whinesis, cykl, jesteś, lista, monolith, seccus, się, sieci
-- candidates: nie, księga, się, boga, cykl, już, książki, whinesis, 404, ashraellen, błąd, blask, jesteś, kancelarii, lecz, monolith, niebiańskiej, powieść, przez, seccus, seria, sieci, świata, święta
+- suggested keyword seed: książki, 404, ashraellen, ashraellena, błąd, boga, books, nie, satyra, albo, audio, badania, blask, book, cykl, cykle, jesteś, już
+- candidates: cykl, otwórz, książki, audio, błąd, boga, nie, powieść, satyra, 404, albo, ashraellena, blask, book, cyfrowej, cykle, jesteś, już, książka-badanie, książkę, książkowe, księga, monolith, powieściowy
 
 Excerpt:
 
-> Książki Tutaj zebrane są teksty, które nie zmieściły się w poście i nie stały się wystąpieniem. To formy domknięte: powieści, duże projekty i książki-eksperymenty. Nie da się ich przejrzeć w minutę. Trzeba przez nie przejść. Lista dział jest uzupełniany MONOLITH Trylogia społecznej fantastyki, dystopii i filozoficznego cyberpunku o kontroli, pamięci i rozpadzie systemów: BETON, SLUDGE, GAS. seria Blask Północne opowieści o prawdziwej historii świata. Literacko-filozoficzny, artystyczno-badawczy cykl o tym, jak dawne historie przechowują obrazowe instrukcje rozumienia świata. seria Błąd 404: Boga nie znaleziono Wielojęzyczny, filozoficzno-satyryczny cykl powieściowy o Niebiańskiej Kancelarii i ludziach, którzy próbują znaleźć Boga, Prawdę, sprawiedliwość, sens albo odpowiedź — lecz szukają przez zniekształcającą soczewkę własnego lęku, bólu, zawodu, wiary, wiedzy lub samooszustwa. Każda p
+> Książki Zebrano tu cykle książkowe, samodzielne powieści, książki-badania i satyrę Ashraellena. Wybierz większy projekt albo zacznij od konkretnej książki. Cykle książkowe serie i projekty długoterminowe MONOLITH Literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów. BETON, SLUDGE i GAS zapisują przejście materii społecznej od zastygłej stabilności przez lepką deformację aż po utratę szczelności formy. Otwórz trylogię trylogia Blask Literacko-filozoficzny cykl artystyczno-badawczy o północnych podaniach i dawnych obrazach jako żywych instrukcjach do świata. Nie jest to streszczenie „Kalevali”, lecz powrót do ludzkiego doświadczenia, z którego takie opowieści mogły powstać. Otwórz cykl cykl Błąd 404: Boga nie znaleziono Filozoficzno-satyryczny cykl powieściowy o Niebiańskiej Kancelarii i ludziach, którzy szukają Boga, Prawdy albo sprawiedliwości poprzez wła
 
 ### pl/books/monolith/beton/index.html
 
