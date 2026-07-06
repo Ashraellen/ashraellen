@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-06T23:01:09.187Z
+Generated: 2026-07-06T23:02:29.680Z
 Pages: 551
 
 ## Index
@@ -186,7 +186,7 @@ Pages: 551
 | en/research/position/index.html | en | research | Ashraellen — Position — English | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev | position, ashraellen, artistic, description, experience, experiences, field, human, independent, inner, models, observation, research, english, philosophy, religion, researcher, transcendental |
 | en/research/projects/index.html | en | research | Ashraellen — Research Projects | ashraellen, research, projects, map, working, fields, monolith, main, channel, public, field, satirical, side, laboratories, perception, instagram, telegram, church | ashraellen, projects, research, channel, field, monolith, perception, book, church, fields, here, how, inner, instagram, laboratories, living, main, map |
 | en/research/sources/index.html | en | research | Ashraellen — Sources and Tradition | ashraellen, research, sources, tradition, phenomenology, consciousness, body, narrative, cognitive, science, artistic, practice, methodological, lines, edmund, husserl, experience, before | research, ashraellen, sources, body, consciousness, narrative, tradition, artistic, cognitive, experience, form, phenomenology, before, connection, directions, does, edmund, eleanor |
-| es/books/index.html | es | books | Ashraellen — Libros | ashraellen, books, libros, novelas, grandes, proyectos, libros-experimento, monolith, libro, sagrado, seccus, estás, línea, whinesis, lista, doctype, html, title | ashraellen, libros, libro, books, estás, grandes, libros-experimento, whinesis, están, las, línea, lista, los, monolith, novelas, proyectos, que, sagrado |
+| es/books/index.html | es | books | Ashraellen — Libros | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | libros, ashraellen, books, libro, sátira, 404, abrir, audionovela, book, ciclo, ciclos, error, estás, found, god, independientes, investigaciones, las |
 | es/books/monolith/beton/index.html | es | books | Ashraellen — BETON — Spanish | ashraellen, books, monolith, beton, volumen, trilogía, expediente, descripción, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, expediente, monolith, volumen, con, empieza, trilogía, ashraellen, books, concreto, descripción, estabilidad, una, costumbre, demasiado, edición, llamar, pared |
 | es/books/monolith/index.html | es | books | Ashraellen — MONOLITH — Spanish | ashraellen, books, monolith, trilogía, distópica, sobre, control, memoria, colapso, sistemas, serie, volúmenes, volumen, beton, sludge, iii, gas, doctype | monolith, volumen, ashraellen, beton, books, gas, memoria, serie, sludge, trilogía, una, volúmenes, abrir, ciencia, colapso, control, convierte, del |
 | es/books/monolith/sludge/index.html | es | books | Ashraellen — SLUDGE — Spanish | ashraellen, books, monolith, sludge, volumen, trilogía, expediente, descripción, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, expediente, monolith, volumen, trilogía, ashraellen, books, descripción, humano, inmediato, primero, ser, cansa, empieza, está, luego, persona, resistir |
@@ -3609,17 +3609,17 @@ Excerpt:
 - lang: es
 - section: books
 - title: Ashraellen — Libros
-- description: Libros de Ashraellen: novelas, grandes proyectos, libros-experimento, MONOLITH, EL LIBRO SAGRADO DE SECCUS, Ya estás en línea y El Libro de Whinesis.
+- description: Libros de Ashraellen: MONOLITH, RADIANCE, ERROR 404: GOD NOT FOUND, El Libro Sagrado de SECCUS, Ya estás en la red y The Book of Whinesis.
 - canonical: https://www.ashraellen.com/es/books/
 - H1: Libros
-- H2: Lista
+- H2: Ciclos de libros | Libros independientes e investigaciones | Sátira
 - H3: _missing_
-- suggested keyword seed: ashraellen, libros, libro, books, estás, grandes, libros-experimento, whinesis, están, las, línea, lista, los, monolith, novelas, proyectos, que, sagrado
-- candidates: libro, sobre, libros, los, que, whinesis, ashraellen, están, estás, grandes, las, libros-experimento, línea, monolith, novelas, proyectos, sagrado, seccus, textos, agotamiento, ampliando, aplicada, aquí, atención
+- suggested keyword seed: libros, ashraellen, books, libro, sátira, 404, abrir, audionovela, book, ciclo, ciclos, error, estás, found, god, independientes, investigaciones, las
+- candidates: abrir, ciclo, libro, libros, sobre, una, los, sátira, ashraellen, audionovela, las, que, trilogía, 404, aquí, autoengaño, book, ciclos, del, digital, error, estás, filosófica, filosófico
 
 Excerpt:
 
-> Libros Aquí están los textos que no cabían en un post y no llegaron a ser una charla. Son formas completas: novelas, grandes proyectos y libros-experimento. No se pueden hojear en un minuto. Hay que vivirlos. Lista se irá ampliando MONOLITH Trilogía de ciencia ficción social, distopía y ciberpunk filosófico sobre el control, la memoria y el colapso de los sistemas: BETON, SLUDGE, GAS. series EL LIBRO SAGRADO DE SECCUS Investigación filosófica, psicología aplicada y metafísica de la conciencia sobre el autoengaño, la honestidad, el dinero, la resistencia al cambio y la libertad interior. El libro se prepara para la impresión; las primeras páginas audio-vídeo ya están disponibles. preprint Ya estás en línea Un techno-thriller psicológico sobre un hombre que nota: la realidad no reacciona a los hechos, sino a la disposición de confirmarlos. novel El Libro de Whinesis Textos sagrados sobre e
+> Libros Aquí se reúnen los ciclos de libros, las novelas independientes, los libros-investigación y la sátira de Ashraellen. Elige un proyecto amplio o empieza por un libro concreto. Ciclos de libros series y proyectos a largo plazo MONOLITH Una trilogía distópica literaria y filosófica sobre el control, la memoria y la desintegración de los sistemas. BETON, SLUDGE y GAS registran el paso de la materia social desde la estabilidad endurecida, a través de la deformación viscosa, hasta la pérdida de estanqueidad de la forma. Abrir la trilogía trilogía RADIANCE Un ciclo literario y filosófico de investigación artística sobre las leyendas del norte y las imágenes antiguas como instrucciones vivas para el mundo. No es un recuento del «Kalevala», sino un regreso a la experiencia humana de la que pudieron surgir historias así. Abrir el ciclo ciclo ERROR 404: GOD NOT FOUND Un ciclo novelístico fil
 
 ### es/books/monolith/beton/index.html
 
