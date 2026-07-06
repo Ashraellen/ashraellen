@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-06T23:02:29.680Z
+Generated: 2026-07-06T23:04:10.367Z
 Pages: 551
 
 ## Index
@@ -371,7 +371,7 @@ Pages: 551
 | pl/research/projects/index.html | pl | research | Ashraellen — Projekty badawcze | ashraellen, research, projects, projekty, badawcze, mapa, pól, pracy, monolit, główny, kanał, pole, publiczne, satyryczne, boczne, laboratoria, percepcji, instagram | ashraellen, projekty, boczne, monolit, pole, research, bada, badawcze, book, church, człowiek, główny, inner, instagram, jako, kanał, laboratoria, lecz |
 | pl/research/sources/index.html | pl | research | Ashraellen — Źródła i tradycja | ashraellen, research, sources, źródła, tradycja, fenomenologia, świadomości, ciało, narracja, nauki, kognitywne, praktyka, artystyczna, jako, linie, metodologiczne, badania, edmund | jako, ashraellen, ciało, tradycja, źródła, badania, doświadczenie, fenomenologia, research, świadomości, artystyczna, edmund, eleanor, esej, evan, forma, formy, francisco |
 | privacy.html | root | privacy.html | Privacy Policy — Ashraellen | Ashraellen, privacy policy, website privacy, analytics, language redirection, contact data | privacy, ashraellen, analytics, ashraellen.com, basic, contact, data, handles, how, including, information, policy, language, privacy.html, redirection, user |
-| pt/books/index.html | pt | books | Ashraellen — Livros | ashraellen, books, livros, romances, grandes, projetos, livros-experiência, monolith, livro, sagrado, seccus, você, está, online, whinesis, lista, doctype, html | ashraellen, livros, livro, books, está, grandes, livros-experiência, monolith, online, whinesis, estão, lista, não, projetos, romances, sagrado, seccus, sobre |
+| pt/books/index.html | pt | books | Ashraellen — Livros | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | livros, ashraellen, 404, books, livro, sátira, abrir, áudio, book, ciclo, ciclos, error, está, found, god, independentes, monolith, online |
 | pt/books/monolith/beton/index.html | pt | books | Ashraellen — BETON — PT | ashraellen, books, monolith, beton, volume, trilogia, arquivo, descrição, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, arquivo, monolith, volume, com, começa, trilogia, uma, ashraellen, books, concreto, descrição, estabilidade, chamar, demais, edição, hábito, não |
 | pt/books/monolith/index.html | pt | books | Ashraellen — MONOLITH — PT | ashraellen, books, monolith, trilogia, distópica, sobre, controle, memória, colapso, sistemas, série, volumes, volume, beton, sludge, iii, gas, doctype | monolith, volume, trilogia, ashraellen, beton, books, gas, memória, série, sludge, social, volumes, abrir, colapso, controle, distopia, distópica, estabilidade |
 | pt/books/monolith/sludge/index.html | pt | books | Ashraellen — SLUDGE — PT | ashraellen, books, monolith, sludge, volume, trilogia, arquivo, descrição, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, arquivo, monolith, volume, trilogia, ashraellen, books, começa, depois, descrição, humano, não, ser, uma, cansa, concordar, pelo, primeiro |
@@ -6754,17 +6754,17 @@ Excerpt:
 - lang: pt
 - section: books
 - title: Ashraellen — Livros
-- description: Livros de Ashraellen: romances, grandes projetos, livros-experiência, MONOLITH, O LIVRO SAGRADO DE SECCUS, Você já está online e O Livro de Whinesis.
+- description: Livros de Ashraellen: MONOLITH, RADIANCE, ERROR 404: GOD NOT FOUND, O Livro Sagrado de SECCUS, Você já está online e The Book of Whinesis.
 - canonical: https://www.ashraellen.com/pt/books/
 - H1: Livros
-- H2: Lista
+- H2: Ciclos de livros | Livros independentes e pesquisas | Sátira
 - H3: _missing_
-- suggested keyword seed: ashraellen, livros, livro, books, está, grandes, livros-experiência, monolith, online, whinesis, estão, lista, não, projetos, romances, sagrado, seccus, sobre
-- candidates: livro, sobre, não, está, livros, whinesis, ashraellen, estão, grandes, livros-experiência, monolith, online, para, projetos, que, romances, sagrado, seccus, textos, uma, você, aos, aplicada, aqui
+- suggested keyword seed: livros, ashraellen, 404, books, livro, sátira, abrir, áudio, book, ciclo, ciclos, error, está, found, god, independentes, monolith, online
+- candidates: uma, abrir, ciclo, livro, livros, sobre, sátira, ashraellen, áudio, romance, trilogia, 404, aqui, autoengano, book, ciclos, digital, dos, error, está, filosófica, filosófico, found, god
 
 Excerpt:
 
-> Livros Aqui estão textos que não cabiam num post e não viraram uma palestra. São formas completas: romances, grandes projetos e livros-experiência. Não dá para passar o olho em um minuto. É preciso vivê-los. Lista em expansão MONOLITH Trilogia de ficção social, distopia e cyberpunk filosófico sobre controle, memória e colapso de sistemas: BETON, SLUDGE, GAS. series O LIVRO SAGRADO DE SECCUS Investigação filosófica, psicologia aplicada e metafísica da consciência sobre autoengano, honestidade, dinheiro, resistência à mudança e liberdade interior. O livro está sendo preparado para impressão; as primeiras páginas em áudio-vídeo já estão disponíveis. preprint Você já está online Um techno-thriller psicológico sobre um homem que percebe: a realidade reage não aos eventos, mas à prontidão de confirmá-los. novel O Livro de Whinesis Textos sagrados sobre burnout e salvação digital. Uma sátira ps
+> Livros Aqui estão reunidos os ciclos de livros, os romances independentes, os livros-pesquisa e a sátira de Ashraellen. Escolha um projeto amplo ou comece por um livro específico. Ciclos de livros séries e projetos de longo prazo MONOLITH Uma trilogia distópica literária e filosófica sobre controle, memória e desagregação dos sistemas. BETON, SLUDGE e GAS registram a passagem da matéria social da estabilidade endurecida, pela deformação viscosa, até a perda de vedação da forma. Abrir a trilogia trilogia RADIANCE Um ciclo literário e filosófico de pesquisa artística sobre lendas do norte e imagens antigas como instruções vivas para o mundo. Não é uma recontagem do «Kalevala», mas um retorno à experiência humana da qual histórias assim puderam surgir. Abrir o ciclo ciclo ERROR 404: GOD NOT FOUND Um ciclo romanesco filosófico e satírico sobre a Chancelaria Celestial e pessoas que procuram D
 
 ### pt/books/monolith/beton/index.html
 
