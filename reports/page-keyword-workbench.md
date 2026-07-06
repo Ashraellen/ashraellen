@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-06T23:45:46.825Z
+Generated: 2026-07-06T23:47:06.398Z
 Pages: 551
 
 ## Index
@@ -375,7 +375,7 @@ Pages: 551
 | pt/books/monolith/beton/index.html | pt | books | Ashraellen — BETON — PT | ashraellen, books, monolith, beton, volume, trilogia, arquivo, descrição, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, arquivo, monolith, volume, com, começa, trilogia, uma, ashraellen, books, concreto, descrição, estabilidade, chamar, demais, edição, hábito, não |
 | pt/books/monolith/index.html | pt | books | Ashraellen — MONOLITH — PT | ashraellen, books, monolith, trilogia, distópica, sobre, controle, memória, colapso, sistemas, série, volumes, volume, beton, sludge, iii, gas, doctype | monolith, volume, trilogia, ashraellen, beton, books, gas, memória, série, sludge, social, volumes, abrir, colapso, controle, distopia, distópica, estabilidade |
 | pt/books/monolith/sludge/index.html | pt | books | Ashraellen — SLUDGE — PT | ashraellen, books, monolith, sludge, volume, trilogia, arquivo, descrição, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, arquivo, monolith, volume, trilogia, ashraellen, books, começa, depois, descrição, humano, não, ser, uma, cansa, concordar, pelo, primeiro |
-| pt/books/seccus/index.html | pt | books | Ashraellen — O LIVRO SAGRADO DE SECCUS | ashraellen, books, seccus, livro, sagrado, investigação, filosófica, psicologia, aplicada, metafísica, consciência, sobre, autoengano, honestidade, dinheiro, liberdade, interior, temas | livro, seccus, sagrado, ashraellen, books, página, sobre, aplicada, áudio-vídeo, autoengano, como, consciência, dinheiro, filosófica, honestidade, interior, investigação, liberdade |
+| pt/books/seccus/index.html | pt | books | Ashraellen — O LIVRO SAGRADO DE SECCUS | Ashraellen, SECCUS, O Livro Sagrado de SECCUS, O Caminho da Honestidade, sátira filosófica, dinheiro, sucesso, autoengano, conhecimento como álibi, responsabilidade, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Livro | livro, seccus, sagrado, ashraellen, books, como, página, para, sobre, sucesso, uma, álibi, autoengano, caminho, conhecimento, corpus, dinheiro, escolha |
 | pt/books/the-book-of-whinesis/index.html | pt | books | Ashraellen — The Book of Whinesis — PT | ashraellen, books, book, whinesis, sátira, sagrada, para, quem, cansou, das, vibrações, positivas, produtividade, infinita, culto, sucesso, sobre, livro | book, whinesis, ashraellen, books, para, sobre, cansou, capítulos, culto, das, desconto, disse, gnorna, infinita, livro, moania, não, pois |
 | pt/books/you-are-already-online/index.html | pt | books | Ashraellen — Você já está online | ashraellen, books, you, already, online, você, está, romance, áudio, imersivo, entre, thriller, psicológico, drama, cyberpunk, sobre, realidade, digital | está, online, você, ashraellen, books, capítulo, realidade, romance, sobre, algoritmos, already, antes, áudio, como, cyberpunk, demais, digital, drama |
 | pt/contact.html | pt | contact.html | Contacto — Ashraellen — PT | ashraellen, contact, contacto, página, cooperação, publicações, bolsas, media, pedidos, relacionados, com, projeto, doctype, html, title, function, const, isgithub | ashraellen, contacto, bolsas, com, cooperação, media, pedidos, projeto, canal, contact, contact.html, investigação, página, para, publicações, relacionados, telegram |
@@ -6822,17 +6822,17 @@ Excerpt:
 - lang: pt
 - section: books
 - title: Ashraellen — O LIVRO SAGRADO DE SECCUS
-- description: O LIVRO SAGRADO DE SECCUS — investigação filosófica, psicologia aplicada e metafísica da consciência sobre autoengano, honestidade, dinheiro e liberdade interior.
+- description: “O LIVRO SAGRADO DE SECCUS — O Caminho da Honestidade” é uma sátira filosófica sobre dinheiro, sucesso, autoengano, conhecimento como álibi e responsabilidade pela própria escolha.
 - canonical: https://www.ashraellen.com/pt/books/seccus/
 - H1: O LIVRO SAGRADO DE SECCUS
-- H2: Sobre o livro | Temas do livro | Página áudio-vídeo | Trecho | Status
-- H3: Rolo I — A Elevação da Busca
-- suggested keyword seed: livro, seccus, sagrado, ashraellen, books, página, sobre, aplicada, áudio-vídeo, autoengano, como, consciência, dinheiro, filosófica, honestidade, interior, investigação, liberdade
-- candidates: não, que, você, livro, mas, sem, como, uma, mais, página, por, seccus, calma, com, interior, consciência, dinheiro, honestidade, primeira, ser, das, hábito, ilusões, interiores
+- H2: Página selecionada | Sobre o livro | Sem spoilers | Estrutura literário-filosófica | A voz do livro | Temas | Para quem | O Tetra-Livro e o corpus
+- H3: Página 71 — A Fonte Sombria de Energia | Sucesso ao contrário | Dinheiro como espelho | Conhecimento como álibi | Uma conversa direta | Página III — O Ponto Zero | Sucesso | Dinheiro
+- suggested keyword seed: livro, seccus, sagrado, ashraellen, books, como, página, para, sobre, sucesso, uma, álibi, autoengano, caminho, conhecimento, corpus, dinheiro, escolha
+- candidates: que, não, uma, livro, para, sucesso, você, como, mas, página, pessoa, mais, por, sobre, dinheiro, seccus, páginas, três, caminhos, corpus, está, liberdade, pode, projeto
 
 Excerpt:
 
-> O LIVRO SAGRADO DE SECCUS Investigação filosófica, psicologia aplicada e metafísica da consciência sobre autoengano, resistência à mudança, dinheiro, responsabilidade e liberdade interior. Sobre o livro em preparação para impressão Gênero: investigação filosófica, psicologia aplicada, metafísica da consciência. “O LIVRO SAGRADO DE SECCUS” é o primeiro livro de um amplo ciclo de pesquisa dedicado à natureza do autoengano humano, aos mecanismos internos de resistência e à inter-relação entre consciência, motivação e resultados de vida. O livro é construído como uma jornada sequencial através das camadas das ilusões pessoais. O autor examina o medo, a ganância, a busca por segurança, as crenças financeiras, o orgulho espiritual, os mecanismos de autossabotagem e os ciclos do ego não como falhas morais, mas como elementos da arquitetura interior da personalidade. A ideia central do livro é q
+> SACRUNOMICON — UM TETRA-LIVRO SOBRE O SUCESSO INVERTIDO O LIVRO SAGRADO DE SECCUS O Caminho da Honestidade Um livro sobre dinheiro e sucesso que vira a pergunta habitual ao contrário. Não “como obter o que se deseja”, mas o que exatamente uma pessoa espera comprar junto com liberdade, reconhecimento e o direito de se considerar realizada. O dinheiro é apenas o pretexto. O verdadeiro tema do livro é a pessoa que o deseja. Capa russa: АХЕПСУ. Sacrunomicon. Página selecionada Pergaminho IV: A Queda dos Muros Uma página sobre o motivo que se esconde por trás das palavras corretas sobre liberdade, ajuda, utilidade e propósito. Abrir a página Fechar a página Página 71 — A Fonte Sombria de Energia Estamos nos aproximando da camada mais profunda da sua motivação — aquela que você evitou cuidadosamente, escondendo-se atrás de palavras bonitas e objetivos nobres. Você dizia a si mesmo que queria d
 
 ### pt/books/the-book-of-whinesis/index.html
 
