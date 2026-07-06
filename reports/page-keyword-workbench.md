@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-06T16:59:38.044Z
+Generated: 2026-07-06T17:00:30.332Z
 Pages: 551
 
 ## Index
@@ -238,7 +238,7 @@ Pages: 551
 | es/public/thoughts/index-0002.html | es | public | Ashraellen — Arco 0002 — Spanish | ashraellen, public, thoughts, index, 0002, arco, segundo, pensamientos, apoyo, silla, vacía, generalización, vez, observación, donde, vida, detuvo, taza | arco, apoyo, ashraellen, pensamientos, segundo, arrepientas, generalización, observación, taza, 0002, cerrar, cuándo, detuvo, donde, libro, public, silla, sucia |
 | es/public/thoughts/index.html | es | public | Ashraellen — Tercer arco de pensamientos de apoyo | ashraellen, public, thoughts, tercer, arco, pensamientos, apoyo, problema, pierde, corona, termina, guerra, extra, pensamiento, sutil, hecho, testigo, imagen | apoyo, arco, ashraellen, pensamientos, guerra, hecho, imagen, pensamiento, problema, sutil, tercer, testigo, corona, extra, pierde, public, abrir, feliz |
 | es/research/archive/index.html | es | research | Ashraellen — Archivo de investigación | ashraellen, research, archive, archivo, investigación, materiales, versiones, concluidas, capas, anteriores, rastros, del, camino, que, están, trabajo, vivo, sigue | archivo, ashraellen, investigación, materiales, camino, capas, concluidas, del, están, que, research, vivo, anteriores, archive, libros, movimiento, rastros, sigue |
-| es/research/index.html | es | research | Ashraellen — Investigación | ashraellen, research, investigación, una, forma, ver, artístico-filosófica, del, sentido, largo, vida, observación, cómo, ser, humano, pierde, contacto, con | investigación, ashraellen, cómo, una, sentido, con, del, observación, research, abierto, artística, artístico-filosófica, como, conocimiento, contacto, digital, entender, este |
+| es/research/index.html | es | research | Ashraellen — Investigación | ashraellen, research, investigación, una, forma, ver, artístico-filosófica, del, sentido, largo, vida, observación, cómo, ser, humano, pierde, contacto, con | investigación, ashraellen, cómo, una, sentido, con, del, forma, observación, research, abierto, artística, artístico-filosófica, como, conocimiento, contacto, continua, entender |
 | es/research/method/index.html | es | research | Ashraellen — Método de observación | ashraellen, research, method, método, observación, registro, nudos, sentido, forma, artística, como, instrumento, investigación, verificación, mediante, reconocimiento, nudo, campo | observación, ashraellen, método, artística, como, está, forma, investigación, por, que, research, sentido, verificación, aparece, aquí, ausente, campo, cómo |
 | es/research/notes/index.html | es | research | Ashraellen — Notes — Spanish | ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, es, research, notes | notes, ashraellen, margins, research, convertirse, doctrina, dudas, ese, fragmentos, inacabado, márgenes, material, niega, public, punto, que, siente, spanish |
 | es/research/position/index.html | es | research | Ashraellen — Position — Spanish | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, es, research, position | position, ashraellen, como, artístico, campo, descripción, experiencia, experiencias, filosofía, independiente, interna, investigador, research, modelos, observación, religión, son, spanish |
@@ -4496,10 +4496,10 @@ Excerpt:
 - description: Ashraellen es una forma de ver y una investigación artístico-filosófica del sentido a lo largo de una vida: observación de cómo el ser humano pierde contacto con la realidad, el sentido y la libertad interior.
 - canonical: https://www.ashraellen.com/es/research/
 - H1: Investigación
-- H2: Qué se investiga | Cómo se hace | Método | Formas de investigación | Cómo entender este trabajo | Investigación artística | Conocimiento abierto | Sociedad digital
+- H2: Qué se investiga | Cómo se hace | Forma fragmentaria, investigación continua | Método | Formas de investigación | Cómo entender este trabajo | Investigación artística | Conocimiento abierto
 - H3: _missing_
-- suggested keyword seed: investigación, ashraellen, cómo, una, sentido, con, del, observación, research, abierto, artística, artístico-filosófica, como, conocimiento, contacto, digital, entender, este
-- candidates: una, investigación, del, que, cómo, sino, como, las, ashraellen, con, observación, sentido, dentro, donde, persona, son, trabajo, digital, forma, para, abrir, aquí, archivo, desde
+- suggested keyword seed: investigación, ashraellen, cómo, una, sentido, con, del, forma, observación, research, abierto, artística, artístico-filosófica, como, conocimiento, contacto, continua, entender
+- candidates: una, investigación, del, cómo, que, sino, sentido, ashraellen, como, las, con, observación, dentro, forma, digital, persona, donde, son, trabajo, para, desde, más, misma, pensamiento
 
 Excerpt:
 
