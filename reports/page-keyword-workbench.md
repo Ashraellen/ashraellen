@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-06T17:02:49.424Z
+Generated: 2026-07-06T22:53:28.086Z
 Pages: 551
 
 ## Index
@@ -125,7 +125,7 @@ Pages: 551
 | de/research/sources/index.html | de | research | Ashraellen — Quellen und Tradition | ashraellen, research, sources, quellen, und, tradition, von, phänomenologie, des, bewusstseins, körper, narration, kognitionswissenschaft, künstlerische, praxis, als, methodische, linien | und, als, der, ashraellen, des, körper, quellen, tradition, erfahrung, forschung, research, bewusstsein, bewusstseins, das, die, edmund, eine, eleanor |
 | en/books/error-404-god-not-found/index.html | en | books | Ashraellen — Error 404: God Not Found | ashraellen, books, error, 404, god, found, multilingual, philosophical-satirical, novel, cycle, about, heavenly, chancellery, human, complaint, against, universe, searching | error, god, found, 404, books, cycle, about, against, ashraellen, chancellery, heavenly, human, searching, series, begins, book, complaint, multilingual |
 | en/books/error-404-god-not-found/why-me/index.html | en | books | Ashraellen — Why Me? | ashraellen, books, error, 404, god, found, why, book, cycle, philosophical-satirical, novel, about, man, who, files, complaint, against, receives | why, book, god, error, about, ashraellen, books, found, 404, against, answer, chancellery, complaint, cycle, did, excerpt, files, had |
-| en/books/index.html | en | books | Ashraellen — Books | ashraellen, books, monolith, radiance, error, 404, god, found, sacred, book, seccus, you, already, online, whinesis, list, doctype, html | books, ashraellen, book, 404, already, god, sacred, whinesis, you, about, cycle, error, found, list, monolith, novel, online, radiance |
+| en/books/index.html | en | books | Ashraellen — Books | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | books, book, ashraellen, 404, god, research, satire, about, already, audio, cycle, cycles, error, found, monolith, novel, online, open |
 | en/books/monolith/beton/index.html | en | books | Ashraellen — BETON — English | ashraellen, books, monolith, beton, volume, trilogy, file, description, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, file, monolith, volume, trilogy, ashraellen, begin, begins, books, concrete, description, prison, stability, calling, does, english, first, habit |
 | en/books/monolith/index.html | en | books | Ashraellen — MONOLITH — English | ashraellen, books, monolith, trilogy, social, science, fiction, dystopia, philosophical, cyberpunk, about, control, memory, collapse, systems, series, volumes, volume | monolith, ashraellen, books, collapse, control, memory, social, about, becomes, beton, crack, cyberpunk, dystopia, english, fiction, final, gas, philosophical |
 | en/books/monolith/sludge/index.html | en | books | Ashraellen — SLUDGE — English | ashraellen, books, monolith, sludge, volume, trilogy, file, description, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, file, monolith, volume, trilogy, ashraellen, begins, being, books, description, human, all, becomes, break, does, english, first, grows |
@@ -2572,17 +2572,17 @@ Excerpt:
 - lang: en
 - section: books
 - title: Ashraellen — Books
-- description: Books by Ashraellen: MONOLITH, Radiance, Error 404: God Not Found, The Sacred Book of SECCUS, You Are Already Online and The Book of Whinesis.
+- description: Books by Ashraellen: MONOLITH, RADIANCE, ERROR 404: GOD NOT FOUND, The Sacred Book of SECCUS, You Are Already Online, and The Book of Whinesis.
 - canonical: https://www.ashraellen.com/en/books/
 - H1: Books
-- H2: List
+- H2: Book cycles | Standalone books and research | Satire
 - H3: _missing_
-- suggested keyword seed: books, ashraellen, book, 404, already, god, sacred, whinesis, you, about, cycle, error, found, list, monolith, novel, online, radiance
-- candidates: about, book, you, already, books, cycle, god, novel, sacred, them, whinesis, 404, ashraellen, chancellery, did, error, found, heavenly, monolith, online, philosophical, radiance, seccus, self-deception
+- suggested keyword seed: books, book, ashraellen, 404, god, research, satire, about, already, audio, cycle, cycles, error, found, monolith, novel, online, open
+- candidates: book, cycle, open, about, books, novel, research, satire, audio, god, trilogy, 404, already, ashraellen, cycles, digital, error, first, found, human, inner, literary-philosophical, monolith, online
 
 Excerpt:
 
-> Books Here are texts that did not fit into a post and did not become a talk. These are complete forms: novels, long projects, and book-experiments. You can’t skim them in a minute. You have to live through them. List more coming MONOLITH A trilogy of social science fiction, dystopia, and philosophical cyberpunk about control, memory, and the collapse of systems: BETON, SLUDGE, GAS. series Radiance Northern Tales of the True History of the World. A literary-philosophical, practice-based research cycle about how ancient stories preserve imaginal instructions for the world. series Error 404: God Not Found A multilingual philosophical-satirical novel cycle about the Heavenly Chancellery and people who try to find God, Truth, justice, meaning, or an answer — but search through the distorted form of their own fear, pain, profession, faith, knowledge, or self-deception. Each novel is a separate
+> Books This section brings together Ashraellen’s book cycles, standalone novels, research books and satire. Choose a larger project or begin with a specific book. Book cycles series and long-term projects MONOLITH A literary-philosophical dystopian trilogy about control, memory and the breakdown of systems. BETON, SLUDGE and GAS trace the movement of social matter from hardened stability through viscous deformation to the loss of a sealed form. Open trilogy trilogy RADIANCE A literary-philosophical cycle of artistic research into northern legends and ancient images as living instructions for the world. Not a retelling of the Kalevala, but a return to the human experience from which such stories could arise. Open cycle cycle ERROR 404: GOD NOT FOUND A philosophical-satirical novel cycle about the Heavenly Chancellery and people who seek God, Truth or justice through their own fear, pain an
 
 ### en/books/monolith/beton/index.html
 

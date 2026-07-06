@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-06T17:02:49.414Z",
+  "generated": "2026-07-06T22:53:28.075Z",
   "pages": [
     {
       "page": "be/books/index.html",
@@ -8611,66 +8611,68 @@
       "lang": "en",
       "section": "books",
       "title": "Ashraellen — Books",
-      "description": "Books by Ashraellen: MONOLITH, Radiance, Error 404: God Not Found, The Sacred Book of SECCUS, You Are Already Online and The Book of Whinesis.",
-      "existingKeywords": "ashraellen, books, monolith, radiance, error, 404, god, found, sacred, book, seccus, you, already, online, whinesis, list, doctype, html",
+      "description": "Books by Ashraellen: MONOLITH, RADIANCE, ERROR 404: GOD NOT FOUND, The Sacred Book of SECCUS, You Are Already Online, and The Book of Whinesis.",
+      "existingKeywords": "Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis",
       "canonical": "https://www.ashraellen.com/en/books/",
       "h1": [
         "Books"
       ],
       "h2": [
-        "List"
+        "Book cycles",
+        "Standalone books and research",
+        "Satire"
       ],
       "h3": [],
       "slugTerms": [
         "en",
         "books"
       ],
-      "excerpt": "Books Here are texts that did not fit into a post and did not become a talk. These are complete forms: novels, long projects, and book-experiments. You can’t skim them in a minute. You have to live through them. List more coming MONOLITH A trilogy of social science fiction, dystopia, and philosophical cyberpunk about control, memory, and the collapse of systems: BETON, SLUDGE, GAS. series Radiance Northern Tales of the True History of the World. A literary-philosophical, practice-based research cycle about how ancient stories preserve imaginal instructions for the world. series Error 404: God Not Found A multilingual philosophical-satirical novel cycle about the Heavenly Chancellery and people who try to find God, Truth, justice, meaning, or an answer — but search through the distorted form of their own fear, pain, profession, faith, knowledge, or self-deception. Each novel is a separate",
+      "excerpt": "Books This section brings together Ashraellen’s book cycles, standalone novels, research books and satire. Choose a larger project or begin with a specific book. Book cycles series and long-term projects MONOLITH A literary-philosophical dystopian trilogy about control, memory and the breakdown of systems. BETON, SLUDGE and GAS trace the movement of social matter from hardened stability through viscous deformation to the loss of a sealed form. Open trilogy trilogy RADIANCE A literary-philosophical cycle of artistic research into northern legends and ancient images as living instructions for the world. Not a retelling of the Kalevala, but a return to the human experience from which such stories could arise. Open cycle cycle ERROR 404: GOD NOT FOUND A philosophical-satirical novel cycle about the Heavenly Chancellery and people who seek God, Truth or justice through their own fear, pain an",
       "candidates": [
-        "about",
         "book",
-        "you",
-        "already",
-        "books",
         "cycle",
-        "god",
+        "open",
+        "about",
+        "books",
         "novel",
-        "sacred",
-        "them",
-        "whinesis",
+        "research",
+        "satire",
+        "audio",
+        "god",
+        "trilogy",
         "404",
+        "already",
         "ashraellen",
-        "chancellery",
-        "did",
+        "cycles",
+        "digital",
         "error",
+        "first",
         "found",
-        "heavenly",
+        "human",
+        "inner",
+        "literary-philosophical",
         "monolith",
-        "online",
-        "philosophical",
-        "radiance",
-        "seccus",
-        "self-deception"
+        "online"
       ],
       "suggestedKeywordSeed": [
         "books",
-        "ashraellen",
         "book",
+        "ashraellen",
         "404",
-        "already",
         "god",
-        "sacred",
-        "whinesis",
-        "you",
+        "research",
+        "satire",
         "about",
+        "already",
+        "audio",
         "cycle",
+        "cycles",
         "error",
         "found",
-        "list",
         "monolith",
         "novel",
         "online",
-        "radiance"
+        "open"
       ]
     },
     {
