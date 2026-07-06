@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-07-06T22:56:20.465Z
+Generated: 2026-07-06T22:57:59.215Z
 
 Pages checked: 550
-Pages with issues: 3
-Total issues: 3
+Pages with issues: 4
+Total issues: 4
 Pages with review notes: 550
 Total review notes: 2056
 
@@ -12,7 +12,7 @@ Total review notes: 2056
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_KEYWORDS | 3 |
+| DUPLICATE_KEYWORDS | 4 |
 
 
 ## Review note summary
@@ -35,7 +35,7 @@ Total review notes: 2056
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
-- DUPLICATE_KEYWORDS: shared by 3 pages
+- DUPLICATE_KEYWORDS: shared by 4 pages
 
 ### en/books/index.html
 
@@ -45,7 +45,7 @@ Total review notes: 2056
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
-- DUPLICATE_KEYWORDS: shared by 3 pages
+- DUPLICATE_KEYWORDS: shared by 4 pages
 
 ### pl/books/index.html
 
@@ -55,7 +55,17 @@ Total review notes: 2056
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
-- DUPLICATE_KEYWORDS: shared by 3 pages
+- DUPLICATE_KEYWORDS: shared by 4 pages
+
+### uk/books/index.html
+
+- title: Ashraellen — Книги
+- description length: 128
+- canonical: https://www.ashraellen.com/uk/books/
+- og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
+
+- DUPLICATE_KEYWORDS: shared by 4 pages
 
 
 ## Pages with review notes
@@ -5346,7 +5356,7 @@ Total review notes: 2056
 
 ### uk/books/index.html
 
-- title: Ashraellen — Книги — Ukrainian
+- title: Ashraellen — Книги
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
