@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T07:28:55.363Z
+Generated: 2026-07-07T07:31:46.922Z
 Pages: 551
 
 ## Index
@@ -248,7 +248,7 @@ Pages: 551
 | flow/index.html | root | flow | FLOW — Ashraellen | ashraellen, flow, playlist, youtube, music, doctype, html, title, window.location.replace, https, music.youtube.com, list, plliwih1l4vxtrzs4, wvti69pbdhddk4ny, iuwpb0ptwi1d1elk, script, root, 050505 | flow, ashraellen, playlist, music, youtube, open, opening |
 | fr/books/index.html | fr | books | Ashraellen — Livres | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | livres, ashraellen, books, livre, satire, 404, audio, book, cycle, cycles, d’ashraellen, déjà, des, error, found, god, indépendants, les |
 | fr/books/monolith/beton/index.html | fr | books | Ashraellen — BETON — French | ashraellen, books, monolith, beton, volume, trilogie, dossier, description, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, dossier, monolith, volume, commence, par, trilogie, ashraellen, béton, books, description, pas, une, d’appeler, est, french, l’habitude, monde |
-| fr/books/monolith/index.html | fr | books | Ashraellen — MONOLITH — French | ashraellen, books, monolith, trilogie, dystopique, sur, contrôle, mémoire, l’effondrement, des, systèmes, série, volumes, volume, beton, sludge, iii, gas | monolith, ashraellen, books, mémoire, beton, contrôle, des, devient, dystopique, est, french, gas, l’effondrement, ouvrir, sans, série, sludge, stabilité |
+| fr/books/monolith/index.html | fr | books | Ashraellen — MONOLITH | _missing_ | monolith, ashraellen, beton, books, contrôle, des, est, gas, mémoire, pas, une, artistique, cadre, carte, confondre, dans, désagrégation, dystopique |
 | fr/books/monolith/sludge/index.html | fr | books | Ashraellen — SLUDGE — French | ashraellen, books, monolith, sludge, volume, trilogie, dossier, description, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, dossier, monolith, volume, trilogie, ashraellen, books, brise, description, humain, l’être, pas, coup, d’abord, d’un, est, fatigue, french |
 | fr/books/seccus/index.html | fr | books | Ashraellen — LE LIVRE SACRÉ DE SECCUS | Ashraellen, SECCUS, Le Livre Sacré de SECCUS, Le Chemin de l’Honnêteté, satire philosophique, argent, réussite, auto-illusion, savoir comme alibi, responsabilité, Sacrunomicon, Ordo Sacrunomiconis, Tétra-Livre | livre, seccus, sacré, ashraellen, books, est, philosophique, pour, qui, réussite, sur, une, alibi, cadre, chemin, choisie, choix, comme |
 | fr/books/the-book-of-whinesis/index.html | fr | books | Ashraellen — The Book of Whinesis — French | ashraellen, books, book, whinesis, satire, sacrée, pour, celles, ceux, qui, sont, fatigués, des, ondes, positives, productivité, sans, fin | book, whinesis, ashraellen, books, des, qui, celles, ceux, chapitres, culte, dans, dit, extrait, fatigués, fin, french, les, livre |
@@ -4662,18 +4662,18 @@ Excerpt:
 
 - lang: fr
 - section: books
-- title: Ashraellen — MONOLITH — French
-- description: MONOLITH — trilogie dystopique sur le contrôle, la mémoire et l’effondrement des systèmes.
+- title: Ashraellen — MONOLITH
+- description: MONOLITH est une trilogie dystopique littéraire et philosophique sur le contrôle, la mémoire et l’effondrement des systèmes : BETON, SLUDGE et GAS.
 - canonical: https://www.ashraellen.com/fr/books/monolith/
 - H1: MONOLITH
-- H2: Série | Volumes
-- H3: Volume I — BETON | Volume II — SLUDGE | Volume III — GAS
-- suggested keyword seed: monolith, ashraellen, books, mémoire, beton, contrôle, des, devient, dystopique, est, french, gas, l’effondrement, ouvrir, sans, série, sludge, stabilité
-- candidates: volume, monolith, devient, gas, mémoire, sans, une, beton, est, ouvrir, sludge, stabilité, sur, commence, contrôle, des, fissure, forme, l’effondrement, matière, première, préparation, sociale, système
+- H2: Ce qu’est MONOLITH | Volumes | Cadre artistique et de recherche | Carte de la désagrégation | À qui s’adresse ce projet | Ce qu’il ne faut pas confondre | La phrase de la série
+- H3: Volume I — BETON | Volume II — SLUDGE | Volume III — GAS | BETON | SLUDGE | GAS | Lecteurs | Éditeurs / partenaires / traducteurs
+- suggested keyword seed: monolith, ashraellen, beton, books, contrôle, des, est, gas, mémoire, pas, une, artistique, cadre, carte, confondre, dans, désagrégation, dystopique
+- candidates: pas, une, monolith, est, forme, mémoire, dans, contrôle, des, gas, que, beton, commence, qui, sludge, comme, mais, elle, fissure, n’est, plus, première, sur, système
 
 Excerpt:
 
-> MONOLITH MONOLITH est une trilogie de science-fiction sociale, de dystopie et de cyberpunk philosophique sur le contrôle, la mémoire et l’effondrement des systèmes. Série BETON / SLUDGE / GAS Une chronique de désintégration contrôlée : trois états de la matière sociale — BETON, SLUDGE, GAS. Nous avons pris l’habitude d’appeler la stabilité sécurité. Mais si la stabilité absolue n’était que le durcissement extrême d’un système où toute pensée vivante devient un défaut ? Dans le monde de MONOLITH, la société devient une construction parfaite : sans couture, sans mémoire, sans vérité personnelle et sans droit à la résonance intérieure. L’édition française est en préparation. Les éditions anglaises sont actuellement disponibles sur Amazon. Volumes ouvrir la page du volume Volume I — BETON La stabilité devient une prison. La mémoire est éditée. La première fissure apparaît à l’intérieur du Sy
+> PROTOCOLE DE DÉSAGRÉGATION DE LA MATIÈRE SOCIALE / BETON — SLUDGE — GAS MONOLITH MONOLITH est une trilogie dystopique littéraire et philosophique sur le contrôle, la mémoire et l’effondrement des systèmes. Ses trois volumes enregistrent le passage de la matière sociale par trois états : BETON, SLUDGE et GAS — de la stabilité durcie à la déformation visqueuse, puis à la décompression complète de la forme. Le système ne craint pas la révolte. Il craint la première fissure. Volumes de la trilogie Carte de la désagrégation Ce qu’il ne faut pas confondre Ce qu’est MONOLITH BETON / SLUDGE / GAS Voici une chronique de la désagrégation contrôlée : l’enregistrement continu de la transition de phase de la matière sociale, saisie dans trois états — BETON, SLUDGE et GAS. Ce qui importe ici n’est pas une prédiction de l’avenir, mais la matière du présent : un ordre que l’on a trop longtemps appelé sé
 
 ### fr/books/monolith/sludge/index.html
 
