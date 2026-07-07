@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T08:33:31.072Z
+Generated: 2026-07-07T08:37:26.726Z
 Pages: 551
 
 ## Index
@@ -189,7 +189,7 @@ Pages: 551
 | es/books/index.html | es | books | Ashraellen — Libros | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | libros, ashraellen, books, libro, sátira, 404, abrir, audionovela, book, ciclo, ciclos, error, estás, found, god, independientes, investigaciones, las |
 | es/books/monolith/beton/index.html | es | books | Ashraellen — BETON | _missing_ | beton, ashraellen, books, del, estabilidad, memoria, monolith, para, sobre, una, anton, artístico, como, con, dentro, destripes, distopía, editada |
 | es/books/monolith/index.html | es | books | Ashraellen — MONOLITH | _missing_ | monolith, desintegración, ashraellen, beton, books, control, gas, memoria, que, sludge, una, artístico, confundirse, debe, del, distópica, este, filosófica |
-| es/books/monolith/sludge/index.html | es | books | Ashraellen — SLUDGE — Spanish | ashraellen, books, monolith, sludge, volumen, trilogía, expediente, descripción, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, expediente, monolith, volumen, trilogía, ashraellen, books, descripción, humano, inmediato, primero, ser, cansa, empieza, está, luego, persona, resistir |
+| es/books/monolith/sludge/index.html | es | books | Ashraellen — SLUDGE | _missing_ | sludge, ashraellen, books, monolith, para, sobre, una, adam, agotamiento, artístico, chaleco, como, complicidad, con, convertida, del, destripes, distopía |
 | es/books/seccus/index.html | es | books | Ashraellen — EL LIBRO SAGRADO DE SECCUS | Ashraellen, SECCUS, El Libro Sagrado de SECCUS, El Camino de la Honestidad, sátira filosófica, dinero, éxito, autoengaño, conocimiento como coartada, responsabilidad, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Libro | libro, seccus, sagrado, ashraellen, books, del, dinero, éxito, página, para, sobre, una, autoengaño, camino, coartada, como, con, conocimiento |
 | es/books/the-book-of-whinesis/index.html | es | books | Ashraellen — The Book of Whinesis — Spanish | ashraellen, books, book, whinesis, sátira, sagrada, para, quienes, han, cansado, las, vibras, positivas, productividad, infinita, culto, éxito, sobre | book, whinesis, ashraellen, books, para, sobre, cansado, capítulos, con, culto, del, dijo, estado, éxito, fragmento, han, infinita, las |
 | es/books/you-are-already-online/index.html | es | books | Ashraellen — Ya estás en la red | ashraellen, books, you, already, online, estás, red, una, novela, sonora, inmersiva, género, del, thriller, psicológico, drama, cyberpunk, sobre | estás, red, ashraellen, books, capítulo, del, los, novela, realidad, sobre, una, algoritmos, already, antes, como, cyberpunk, digital, drama |
@@ -3659,18 +3659,18 @@ Excerpt:
 
 - lang: es
 - section: books
-- title: Ashraellen — SLUDGE — Spanish
-- description: SLUDGE — Volumen II de la trilogía MONOLITH. SLUDGE Expediente Descripción SLUDGE Volumen II de la trilogía MONOLITH. Expediente Volumen II El ser humano no se rompe de inmediato. Primero se cansa de resistir. Luego…
+- title: Ashraellen — SLUDGE
+- description: SLUDGE es el volumen II de MONOLITH, una distopía filosófica sobre la presión convertida en entorno, el agotamiento, la complicidad y la pérdida de forma.
 - canonical: https://www.ashraellen.com/es/books/monolith/sludge/
 - H1: SLUDGE
-- H2: Expediente | Descripción
-- H3: _missing_
-- suggested keyword seed: sludge, expediente, monolith, volumen, trilogía, ashraellen, books, descripción, humano, inmediato, primero, ser, cansa, empieza, está, luego, persona, resistir
-- candidates: sludge, volumen, ser, expediente, humano, monolith, trilogía, empieza, está, inmediato, persona, primero, rompe, una, cansa, como, descripción, desde, donde, edición, forma, historia, inglés, luego
+- H2: Expediente | Fragmento seleccionado | Sobre el libro | Sin destripes | Marco artístico y de investigación | Temas | Para quién | Lugar en la trilogía
+- H3: Viscosidad | Cansancio | Hambre | Ritual | Complicidad | Pérdida de forma
+- suggested keyword seed: sludge, ashraellen, books, monolith, para, sobre, una, adam, agotamiento, artístico, chaleco, como, complicidad, con, convertida, del, destripes, distopía
+- candidates: que, una, por, del, adam, las, solo, los, para, chaleco, como, con, más, sludge, canoso, dentro, entorno, forma, monolith, era, había, presión, sino, volumen
 
 Excerpt:
 
-> SLUDGE Volumen II de la trilogía MONOLITH. Expediente Volumen II El ser humano no se rompe de inmediato. Primero se cansa de resistir. Luego empieza a aceptar. EXPEDIENTE № 2026-001B. Índice: 6666548A. ESTADO: Alto secreto. Leer en inglés en Amazon Volver a la serie Descripción sobre el libro SLUDGE es una distopía filosófica, thriller psicológico y ciencia ficción social sobre un mundo donde el ser humano deja de ser persona y se convierte gradualmente en material del entorno. Es el segundo volumen de la trilogía MONOLITH y la etapa de descompresión de la realidad. Si BETON era la historia de un sistema que se endureció demasiado rápido, SLUDGE cuenta lo que ocurre después de la primera grieta. La estructura ya no solo presiona desde fuera; empieza a procesar al ser humano desde dentro. La violencia no siempre llega como un golpe. Actúa mediante el lenguaje, el ritual, el cansancio, el 
+> SLUDGE Una distopía filosófica donde la presión deja de parecer una pared y se convierte en un entorno viscoso, agotador e íntimo. Volumen II de MONOLITH. Expediente Volumen II Cuando el muro se ablanda, la libertad no empieza. La presión solo aprende a fluir. EXPEDIENTE N.º 2026-002S. Fase viscosa / deformación activa. Edición rusa en Google Play Books Edición inglesa en Amazon Volver a MONOLITH Fragmento seleccionado Capítulo 6 / § 6.2 El fragmento completo conserva los 59 párrafos del texto ruso seleccionado. Abrir el fragmento completo Capítulo 6. Primeros pasos por SLUDGE. § 6.2. Almacenes de Conservación de Fragmentos Para desayunar les dieron gachas. No comida en el sentido humano, sino exactamente gachas: grises, viscosas, con el sabor que aparece cuando el grano ha pasado demasiado tiempo en un saco húmedo y después se cuece no para saciar, sino para cumplir una cuota. Las sirvi
 
 ### es/books/seccus/index.html
 
