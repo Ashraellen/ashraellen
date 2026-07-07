@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T13:47:15.851Z
+Generated: 2026-07-07T16:54:37.700Z
 Pages: 551
 
 ## Index
@@ -8,9 +8,9 @@ Pages: 551
 | Page | Lang | Section | Title | Existing keywords | Suggested seed |
 |---|---|---|---|---|---|
 | be/books/index.html | be | books | Ashraellen — Кнігі | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | кнігі, ashraellen, 404, book, books, error, found, кніга, сатыра, god, monolith, radiance, whinesis, адкрыць, асобныя, аўдыяраман, ахепсу, даследаванні |
-| be/books/monolith/beton/index.html | be | books | Ashraellen — BETON | _missing_ | beton, monolith, ashraellen, books, памяць, пра, стабільнасць, абраны, адрэдагаваную, антон, антыўтопія, без, выданне, занадта, зацвярдзелую, каго, калі, клей |
-| be/books/monolith/index.html | be | books | Ashraellen — MONOLITH | _missing_ | monolith, ashraellen, beton, books, gas, sludge, кантроль, памяць, пра, антыўтапічная, важна, гэты, дзе, каго, карта, літаратурна-філасофская, мастацка-даследчая, пачынае |
-| be/books/monolith/sludge/index.html | be | books | Ashraellen — SLUDGE | _missing_ | sludge, monolith, ashraellen, books, пра, абраны, адам, але, антыўтопія, без, была, вязкі, другі, занадта, каго, калі, кнігу, мастацка-даследчая |
+| be/books/monolith/beton/index.html | be | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, monolith, пра, ashraellen, books, памяць, сістэмы, стабільнасць, том, абраны, адрэдагаваную, антон, антыўтопія, без, вузлы, выданне, гэтая, зацвярдзелую |
+| be/books/monolith/index.html | be | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ashraellen, beton, books, gas, sludge, кантроль, памяць, пра, антыўтапічная, важна, гэты, дзе, каго, карта, літаратурна-філасофская, мастацка-даследчая, пачынае |
+| be/books/monolith/sludge/index.html | be | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, monolith, пра, ashraellen, books, абраны, адам, але, антыўтопія, без, вязкі, другі, каго, кнігу, мастацка-даследчая, месца, нават, рамка |
 | be/books/seccus/index.html | be | books | Ashraellen — САКРАЛЬНАЯ КНІГА АХЕПСУ | Ashraellen, АХЕПСУ, Сакральная кніга АХЕПСУ, Шлях Сумленнасці, філасофская сатыра, грошы, поспех, самаашуканства, веды як алібі, адказнасць, Sacrunomicon, Ordo Sacrunomiconis, Тэтра-Кніга | ахепсу, кніга, пра, сакральная, ashraellen, books, грошы, поспех, sacrunomicon, seccus, ssmv, або, абраная, адказнасць, але, алібі, без, веды |
 | be/books/the-book-of-whinesis/index.html | be | books | Ashraellen — Кніга Ныцця | ashraellen, books, book, whinesis, кніга, ныцця, святая, сатыра, тых, хто, стаміўся, пазітыўных, вайбаў, бясконцай, прадуктыўнасці, культу, поспеху, пра | кніга, ныцця, ashraellen, books, пра, хто, book, whinesis, будзе, будзеш, бясконцай, вайбаў, глава, главы, госпад, каб, кнігу, культу |
 | be/books/you-are-already-online/index.html | be | books | Ashraellen — Ты ўжо ў сетцы | ashraellen, books, you, already, online, ўжо, сетцы, імерсіўны, аўдыяраман, жанры, псіхалагічнага, трылера, кіберпанк-драмы, пра, лічбавую, рэальнасць, алгарытмы, гіперрэальнасць | сетцы, ўжо, пра, ashraellen, books, глава, рэальнасць, already, online, you, алгарытмы, аўдыяраман, было, гіперрэальнасць, дзе, жанры, занадта, імерсіўны |
@@ -66,9 +66,9 @@ Pages: 551
 | be/research/projects/index.html | be | research | Ashraellen — Праекты даследавання | ashraellen, research, projects, праекты, даследавання, карта, рабочых, палёў, monolith, асноўны, канал, публічнае, поле, сатырычныя, бакавыя, лабараторыі, ўспрымання, instagram | ashraellen, праекты, monolith, research, telegram, бакавыя, канал, лабараторыі, поле, church, inner, instagram, melodies, occultus, projects, saint, scriptorium, sounds |
 | be/research/sources/index.html | be | research | Ashraellen — Крыніцы і традыцыя | ashraellen, research, sources, крыніцы, традыцыя, фенаменалогія, свядомасці, цела, наратыў, кагнітыўная, навука, мастацкая, практыка, эдмунд, гусерль, досвед, гатовых, тлумачэнняў | ashraellen, крыніцы, традыцыя, цела, research, аповед, досвед, свядомасці, свядомасць, фенаменалогія, sources, бачным, варэла, гатовых, гусерль, даследавання, досведу, жывая |
 | de/books/index.html | de | books | Ashraellen — Bücher | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | bücher, ashraellen, und, books, buch, satire, 404, audioroman, bereits, bist, book, buchzyklen, das, der, die, eigenständige, ein, eine |
-| de/books/monolith/beton/index.html | de | books | Ashraellen — BETON | _missing_ | beton, ashraellen, books, das, den, der, für, ist, monolith, über, und, von, akte, ausgewählter, auszug, band, buch, die |
-| de/books/monolith/index.html | de | books | Ashraellen — MONOLITH | _missing_ | monolith, ist, der, und, ashraellen, books, den, eine, erinnerung, gas, kontrolle, nicht, was, bände, beton, darf, des, die |
-| de/books/monolith/sludge/index.html | de | books | Ashraellen — SLUDGE | _missing_ | sludge, ashraellen, books, das, der, eine, ist, monolith, über, und, von, akte, als, ausgewählter, auszug, band, buch, dem |
+| de/books/monolith/beton/index.html | de | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ist, ashraellen, books, buch, das, den, der, für, monolith, über, und, akte, als, ausgewählter, auszug, band, bedeutungsknoten |
+| de/books/monolith/index.html | de | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ist, der, und, ashraellen, books, den, eine, erinnerung, gas, kontrolle, nicht, was, bände, beton, darf, des, die |
+| de/books/monolith/sludge/index.html | de | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, ashraellen, books, das, der, für, monolith, über, und, akte, als, ausgewählter, auszug, band, buch, den, die, druck |
 | de/books/seccus/index.html | de | books | Ashraellen — DAS HEILIGE BUCH SECCUS | Ashraellen, SECCUS, Das Heilige Buch SECCUS, Der Weg der Ehrlichkeit, philosophische Satire, Geld, Erfolg, Selbsttäuschung, Wissen als Alibi, Verantwortung, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Buch | das, buch, der, die, seccus, heilige, und, ashraellen, books, des, für, ist, seite, über, alibi, als, ausgewählte, buches |
 | de/books/the-book-of-whinesis/index.html | de | books | Ashraellen — The Book of Whinesis — German | ashraellen, books, book, whinesis, sakrale, satire, für, alle, die, von, positiven, vibes, endloser, produktivität, und, dem, kult, des | book, whinesis, ashraellen, books, des, die, und, alle, auf, auszug, buch, das, dem, den, der, endloser, erfolgs, erste |
 | de/books/you-are-already-online/index.html | de | books | Ashraellen — Du bist bereits online | ashraellen, books, you, already, online, bist, bereits, ein, immersiver, audio-roman, genre, des, psychologischen, thrillers, und, cyberpunk-dramas, über, digitale | bereits, online, bist, des, und, ashraellen, books, das, ein, über, algorithmen, already, audio-roman, auszug, buch, cyberpunk-dramas, den, der |
@@ -126,9 +126,9 @@ Pages: 551
 | en/books/error-404-god-not-found/index.html | en | books | Ashraellen — Error 404: God Not Found | ashraellen, books, error, 404, god, found, multilingual, philosophical-satirical, novel, cycle, about, heavenly, chancellery, human, complaint, against, universe, searching | error, god, found, 404, books, cycle, about, against, ashraellen, chancellery, heavenly, human, searching, series, begins, book, complaint, multilingual |
 | en/books/error-404-god-not-found/why-me/index.html | en | books | Ashraellen — Why Me? | ashraellen, books, error, 404, god, found, why, book, cycle, philosophical-satirical, novel, about, man, who, files, complaint, against, receives | why, book, god, error, about, ashraellen, books, found, 404, against, answer, chancellery, complaint, cycle, did, excerpt, files, had |
 | en/books/index.html | en | books | Ashraellen — Books | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | books, book, ashraellen, 404, god, research, satire, about, already, audio, cycle, cycles, error, found, monolith, novel, online, open |
-| en/books/monolith/beton/index.html | en | books | Ashraellen — BETON | _missing_ | beton, monolith, about, ashraellen, books, crack, first, memory, stability, anton, artistic-research, book, case, dystopia, edited, excerpt, file, frame |
-| en/books/monolith/index.html | en | books | Ashraellen — MONOLITH | _missing_ | monolith, ashraellen, beton, books, collapse, control, gas, memory, sludge, what, about, artistic-research, confused, crack, dystopian, fear, first, form |
-| en/books/monolith/sludge/index.html | en | books | Ashraellen — SLUDGE | _missing_ | sludge, monolith, about, ashraellen, books, adam, artistic-research, book, case, complicity, dystopia, environment, excerpt, exhausted, file, form, frame, had |
+| en/books/monolith/beton/index.html | en | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, monolith, about, ashraellen, book, books, crack, first, memory, stability, system, anton, artistic-research, case, dystopia, edited, excerpt, file |
+| en/books/monolith/index.html | en | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ashraellen, beton, books, collapse, control, gas, memory, sludge, what, about, artistic-research, confused, crack, dystopian, fear, first, form |
+| en/books/monolith/sludge/index.html | en | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, monolith, about, ashraellen, books, adam, already, artistic-research, book, case, complicity, dystopia, environment, excerpt, exhausted, file, form, frame |
 | en/books/radiance/index.html | en | books | Ashraellen — Radiance \| Northern Tales of the True History of the World | ashraellen, books, radiance, northern, tales, true, history, world, literary-philosophical, practice-based, research, cycle, about, how, ancient, stories, preserve, imaginal | radiance, books, cycle, instructions, research, world, ancient, artistic, ashraellen, northern, what, about, book, confused, form, frame, history, how |
 | en/books/radiance/sampo/index.html | en | books | Ashraellen — Sampo \| Radiance, Book I | ashraellen, books, radiance, sampo, book, northern, literary-philosophical, tale, abundance, possession, participation, world, where, myth, has, yet, separated, labour | sampo, book, radiance, abundance, ashraellen, books, northern, research, where, world, about, artistic, chapter, cultural, cycle, does, foundations, frame |
 | en/books/radiance/song/index.html | en | books | Ashraellen — Song \| Radiance, Book II | ashraellen, books, radiance, song, book, novel, about, sound, hearing, language, warsaw, does, become, performance, number, selected, chapter, without | song, book, radiance, about, language, ashraellen, become, books, does, hearing, sound, artistic, chapter, city, cultural, cycle, foundations, frame |
@@ -136,11 +136,11 @@ Pages: 551
 | en/books/the-book-of-whinesis/index.html | en | books | Ashraellen — The Book of Whinesis — English | ashraellen, books, book, whinesis, sacred, satire, those, tired, positive, vibes, endless, productivity, cult, success, about, first, chapters, excerpt | book, whinesis, ashraellen, books, about, becomes, chapters, cult, discount, endless, english, excerpt, first, gnorna, lord, moania, positive, productivity |
 | en/books/you-are-already-online/index.html | en | books | Ashraellen — You Are Already Online | ashraellen, books, you, already, online, immersive, audio, novel, genre, psychological, thriller, cyberpunk, drama, about, digital, reality, algorithms, attention | already, online, you, about, ashraellen, books, chapter, first, novel, reality, algorithms, attention, audio, book, cyberpunk, did, digital, drama |
 | en/contact.html | en | contact.html | Contact — Ashraellen — English | ashraellen, contact, cooperation, publishing, grants, media, project, inquiries, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, contact, cooperation, grants, inquiries, media, project, publishing, channel, contact.html, english, kostyshev, materials, telegram |
-| en/index.html | en | index.html | Ashraellen — Books, Research and Public Texts | _missing_ | ashraellen, books, public, research, texts, forms, inner, multilingual, videos, artistic, author, combining, index.html, observation, one, presence, project |
+| en/index.html | en | index.html | Ashraellen — Books, Research and Public Texts | ashraellen, books, research, public, texts, multilingual, author, project, combining, videos, forms, inner, observation, doctype, html, title, script, professional-link | ashraellen, books, public, research, texts, forms, inner, multilingual, videos, artistic, author, combining, index.html, observation, one, presence, project |
 | en/monolith/index.html | en | monolith | MONOLITH Trilogy — Ashraellen | ashraellen, monolith, trilogy, three, states, controlled, disintegration, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io | monolith, beton, gas, sludge, controlled, disintegration, states, three, trilogy, ashraellen, dystopia, about, fiction, science, social, volume |
 | en/privacy.html | en | privacy.html | Privacy Policy — Ashraellen — English | ashraellen, privacy, policy, ashraellen.com, personal, data, analytics, cookies, user, rights, contact, information, who, responsible, website, what, may, collected | data, policy, privacy, analytics, ashraellen, ashraellen.com, cookies, legal, may, platforms, website, basis, collected, consent, contact, english, external, google |
-| en/professional/index.html | en | professional | Ashraellen — Professional Dossier | _missing_ | ashraellen, professional, work, development, dossier, public, already, archive, author, body, literary, method, priorities, artistic-research, background, book, contact, current |
-| en/public/index.html | en | public | Ashraellen — Public — English | _missing_ | public, ashraellen, support, thoughts, field, living, person, publications, talks, where, english, mass, meets, new, observations, open, people, reactions |
+| en/professional/index.html | en | professional | Ashraellen — Professional Dossier | ashraellen, professional, dossier, lifelong, artistic-philosophical, inquiry, meaning, books, public, forms, development, plan, support, contact, pdf, project, proposal, budget | ashraellen, professional, dossier, forms, project, public, development, meaning, observation, plan, research, about, archive, artistic-philosophical, author, books, budget, channel |
+| en/public/index.html | en | public | Ashraellen — Public — English | ashraellen, public, field, talks, publications, support, thoughts, reactions, observations, where, research, meets, living, person, new, bomb, people, mass | public, ashraellen, support, thoughts, field, living, person, publications, talks, where, english, mass, meets, new, observations, open, people, reactions |
 | en/public/posts/essay/cycles/cycle-0001.html | en | public | Ashraellen — First Mini-Essay Cycle | ashraellen, public, posts, essay, cycles, cycle, 0001, first, mini-essay, power, over, thought, attention, body, door, goal, past, its | first, cycle, attention, body, over, past, thought, ashraellen, door, goal, interpretation, its, power, public, become, becomes, begins, completed |
 | en/public/posts/essay/cycles/index.html | en | public | Ashraellen — Mini-Essay Cycles | ashraellen, public, posts, essay, cycles, mini-essay, completed, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | cycles, completed, mini-essay, cycle, ashraellen, current, first, gathered, here, main, mini-essays, public, section, essay, posts |
 | en/public/posts/essay/index.html | en | public | Ashraellen — Mini-Essays — English | ashraellen, public, posts, essay, mini-essays, first, cycle, power, over, thought, attention, body, door, goal, past, its, interpretation, doctype | first, mini-essays, one, over, attention, body, past, thought, ashraellen, cycle, door, goal, interpretation, its, power, public, angle, become |
@@ -187,9 +187,9 @@ Pages: 551
 | en/research/projects/index.html | en | research | Ashraellen — Research Projects | ashraellen, research, projects, map, working, fields, monolith, main, channel, public, field, satirical, side, laboratories, perception, instagram, telegram, church | ashraellen, projects, research, channel, field, monolith, perception, book, church, fields, here, how, inner, instagram, laboratories, living, main, map |
 | en/research/sources/index.html | en | research | Ashraellen — Sources and Tradition | ashraellen, research, sources, tradition, phenomenology, consciousness, body, narrative, cognitive, science, artistic, practice, methodological, lines, edmund, husserl, experience, before | research, ashraellen, sources, body, consciousness, narrative, tradition, artistic, cognitive, experience, form, phenomenology, before, connection, directions, does, edmund, eleanor |
 | es/books/index.html | es | books | Ashraellen — Libros | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | libros, ashraellen, books, libro, sátira, 404, abrir, audionovela, book, ciclo, ciclos, error, estás, found, god, independientes, investigaciones, las |
-| es/books/monolith/beton/index.html | es | books | Ashraellen — BETON | _missing_ | beton, ashraellen, books, del, estabilidad, memoria, monolith, para, sobre, una, anton, artístico, como, con, dentro, destripes, distopía, editada |
-| es/books/monolith/index.html | es | books | Ashraellen — MONOLITH | _missing_ | monolith, desintegración, ashraellen, beton, books, control, gas, memoria, que, sludge, una, artístico, confundirse, debe, del, distópica, este, filosófica |
-| es/books/monolith/sludge/index.html | es | books | Ashraellen — SLUDGE | _missing_ | sludge, ashraellen, books, monolith, sobre, una, adam, agotada, artístico, como, complicidad, con, del, destripes, distopía, entorno, expediente, filosófica |
+| es/books/monolith/beton/index.html | es | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ashraellen, books, del, estabilidad, libro, memoria, monolith, para, sobre, una, anton, artístico, como, con, dentro, destripes, distopía |
+| es/books/monolith/index.html | es | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, desintegración, ashraellen, beton, books, control, gas, memoria, que, sludge, una, artístico, confundirse, debe, del, distópica, este, filosófica |
+| es/books/monolith/sludge/index.html | es | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, ashraellen, books, monolith, para, sobre, una, adam, agotada, artístico, como, complicidad, con, del, destripes, distopía, era, expediente |
 | es/books/seccus/index.html | es | books | Ashraellen — EL LIBRO SAGRADO DE SECCUS | Ashraellen, SECCUS, El Libro Sagrado de SECCUS, El Camino de la Honestidad, sátira filosófica, dinero, éxito, autoengaño, conocimiento como coartada, responsabilidad, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Libro | libro, seccus, sagrado, ashraellen, books, del, dinero, éxito, página, para, sobre, una, autoengaño, camino, coartada, como, con, conocimiento |
 | es/books/the-book-of-whinesis/index.html | es | books | Ashraellen — The Book of Whinesis — Spanish | ashraellen, books, book, whinesis, sátira, sagrada, para, quienes, han, cansado, las, vibras, positivas, productividad, infinita, culto, éxito, sobre | book, whinesis, ashraellen, books, para, sobre, cansado, capítulos, con, culto, del, dijo, estado, éxito, fragmento, han, infinita, las |
 | es/books/you-are-already-online/index.html | es | books | Ashraellen — Ya estás en la red | ashraellen, books, you, already, online, estás, red, una, novela, sonora, inmersiva, género, del, thriller, psicológico, drama, cyberpunk, sobre | estás, red, ashraellen, books, capítulo, del, los, novela, realidad, sobre, una, algoritmos, already, antes, como, cyberpunk, digital, drama |
@@ -247,9 +247,9 @@ Pages: 551
 | fi/kone/index.html | fi | kone | Ashraellen — tiivistelmä Koneen Säätiölle | ashraellen, kone, tiivistelmä, koneen, säätiölle, suomenkielinen, ashraellen-hankkeesta, elämänmittainen, taiteellis-filosofinen, tutkimus, merkityksestä, kirjallisuudesta, videoista, monikielisestä, arkistosta, tutkimuksen, ydin, tekijä | ashraellen, koneen, kone, säätiölle, tiivistelmä, tutkimuksen, tutkimus, arkistosta, ashraellen-hankkeesta, asiakirjat, elämänmittainen, hankkeen, infrastruktuuri, julkinen, kirjallisuudesta, kuukauden, merkityksestä, miten |
 | flow/index.html | root | flow | FLOW — Ashraellen | ashraellen, flow, playlist, youtube, music, doctype, html, title, window.location.replace, https, music.youtube.com, list, plliwih1l4vxtrzs4, wvti69pbdhddk4ny, iuwpb0ptwi1d1elk, script, root, 050505 | flow, ashraellen, playlist, music, youtube, open, opening |
 | fr/books/index.html | fr | books | Ashraellen — Livres | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | livres, ashraellen, books, livre, satire, 404, audio, book, cycle, cycles, d’ashraellen, déjà, des, error, found, god, indépendants, les |
-| fr/books/monolith/beton/index.html | fr | books | Ashraellen — BETON | _missing_ | beton, ashraellen, books, dans, est, monolith, pour, qui, stabilité, une, anton, artistique, cadre, choisi, cœur, des, divulgâcher, dossier |
-| fr/books/monolith/index.html | fr | books | Ashraellen — MONOLITH | _missing_ | monolith, ashraellen, beton, books, contrôle, des, est, gas, mémoire, pas, une, artistique, cadre, carte, confondre, dans, désagrégation, dystopique |
-| fr/books/monolith/sludge/index.html | fr | books | Ashraellen — SLUDGE | _missing_ | sludge, ashraellen, books, dans, monolith, pour, qui, une, artistique, cadre, choisi, complicité, des, divulgâcher, dossier, dystopie, épuisée, est |
+| fr/books/monolith/beton/index.html | fr | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ashraellen, books, dans, est, livre, monolith, stabilité, une, anton, artistique, cadre, choisi, cœur, comme, des, divulgâcher, dossier |
+| fr/books/monolith/index.html | fr | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ashraellen, beton, books, contrôle, des, est, gas, mémoire, pas, une, artistique, cadre, carte, confondre, dans, désagrégation, dystopique |
+| fr/books/monolith/sludge/index.html | fr | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, ashraellen, books, dans, monolith, pour, qui, sur, une, artistique, cadre, choisi, comme, complicité, des, divulgâcher, dossier, dystopie |
 | fr/books/seccus/index.html | fr | books | Ashraellen — LE LIVRE SACRÉ DE SECCUS | Ashraellen, SECCUS, Le Livre Sacré de SECCUS, Le Chemin de l’Honnêteté, satire philosophique, argent, réussite, auto-illusion, savoir comme alibi, responsabilité, Sacrunomicon, Ordo Sacrunomiconis, Tétra-Livre | livre, seccus, sacré, ashraellen, books, est, philosophique, pour, qui, réussite, sur, une, alibi, cadre, chemin, choisie, choix, comme |
 | fr/books/the-book-of-whinesis/index.html | fr | books | Ashraellen — The Book of Whinesis — French | ashraellen, books, book, whinesis, satire, sacrée, pour, celles, ceux, qui, sont, fatigués, des, ondes, positives, productivité, sans, fin | book, whinesis, ashraellen, books, des, qui, celles, ceux, chapitres, culte, dans, dit, extrait, fatigués, fin, french, les, livre |
 | fr/books/you-are-already-online/index.html | fr | books | Ashraellen — Tu es déjà en ligne | ashraellen, books, you, already, online, déjà, ligne, roman, audio, immersif, entre, thriller, psychologique, drame, cyberpunk, sur, réalité, numérique | déjà, ligne, ashraellen, audio, books, les, réalité, roman, algorithmes, already, avait, avant, chapitre, comme, cyberpunk, dans, des, drame |
@@ -310,9 +310,9 @@ Pages: 551
 | pl/books/error-404-god-not-found/index.html | pl | books | Ashraellen — Błąd 404: Boga nie znaleziono | ashraellen, books, error, 404, god, found, błąd, boga, nie, znaleziono, wielojęzyczny, filozoficzno-satyryczny, cykl, powieściowy, niebiańskiej, kancelarii, ludzkiej, pretensji | nie, 404, błąd, boga, znaleziono, ashraellen, bogu, books, kancelarii, który, niebiańskiej, szukania, albo, błędzie, cykl, cyklu, error, filozoficzno-satyryczny |
 | pl/books/error-404-god-not-found/why-me/index.html | pl | books | Ashraellen — Dlaczego ja? | ashraellen, books, error, 404, god, found, why, dlaczego, pierwsza, księga, cyklu, błąd, boga, nie, znaleziono, filozoficzno-satyryczna, powieść, człowieku | dlaczego, boga, 404, ashraellen, błąd, books, który, nie, ale, cyklu, człowieku, error, filozoficzno-satyryczna, found, fragment, god, jako, kancelarii |
 | pl/books/index.html | pl | books | Ashraellen — Książki | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | książki, 404, ashraellen, ashraellena, błąd, boga, books, nie, satyra, albo, audio, badania, blask, book, cykl, cykle, jesteś, już |
-| pl/books/monolith/beton/index.html | pl | books | Ashraellen — BETON | _missing_ | beton, ashraellen, books, monolithu, akta, anton, antyutopia, artystyczno-badawcza, bez, filozoficzna, fragment, gdy, jako, jego, kogo, książce, mark, miejsce |
-| pl/books/monolith/index.html | pl | books | Ashraellen — MONOLITH | _missing_ | monolith, ashraellen, beton, books, gas, nie, sludge, antyutopijna, artystyczno-badawcza, czego, czym, forma, fraza, jako, już, kogo, kontroli, lecz |
-| pl/books/monolith/sludge/index.html | pl | books | Ashraellen — SLUDGE | _missing_ | sludge, ashraellen, books, adam, akta, antyutopia, artystyczno-badawcza, bez, drugi, filozoficzna, formy, fragment, jakby, jego, już, kogo, książce, lecz |
+| pl/books/monolith/beton/index.html | pl | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ashraellen, books, stabilności, systemu, akta, anton, antyutopia, artystyczno-badawcza, bez, filozoficzna, fragment, gdy, jako, jego, kogo, książce, książka |
+| pl/books/monolith/index.html | pl | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ashraellen, beton, books, gas, nie, sludge, antyutopijna, artystyczno-badawcza, czego, czym, forma, fraza, jako, już, kogo, kontroli, lecz |
+| pl/books/monolith/sludge/index.html | pl | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, ashraellen, books, adam, akta, ale, antyutopia, artystyczno-badawcza, bez, drugi, filozoficzna, formy, fragment, jego, już, kogo, książce, który |
 | pl/books/radiance/index.html | pl | books | Ashraellen — Blask \| Północne opowieści o prawdziwej historii świata | ashraellen, books, radiance, blask, północne, opowieści, prawdziwej, historii, świata, literacko-filozoficzny, artystyczno-badawczy, cykl, tym, jak, dawne, historie, przechowują, obrazowe | blask, świata, ashraellen, books, cykl, cyklu, dawne, historie, instrukcje, literacko-filozoficzny, nie, artystyczno-badawcza, artystyczno-badawczy, czego, czym, forma, historii, instrukcji |
 | pl/books/radiance/sampo/index.html | pl | books | Ashraellen — Sampo \| Blask, Księga I | ashraellen, books, radiance, sampo, blask, księga, cyklu, północna, opowieść, literacko-filozoficzna, obfitości, posiadaniu, uczestnictwie, świecie, którym, mit, nie, oddzielił | sampo, blask, ashraellen, books, cyklu, jeszcze, księga, którym, nie, obfitości, się, artystyczno-badawcza, bez, fundacji, jako, językowy, kogo, książce |
 | pl/books/radiance/song/index.html | pl | books | Ashraellen — Pieśń \| Blask, Księga II | ashraellen, books, radiance, song, pieśń, blask, księga, cyklu, powieść, dźwięku, słyszeniu, języku, warszawie, pieśni, która, nie, staje, się | pieśń, blask, ashraellen, bez, books, cyklu, dźwięku, księga, nie, się, artystyczno-badawcza, fundacji, jako, językowy, języku, kogo, książce, książka |
@@ -372,9 +372,9 @@ Pages: 551
 | pl/research/sources/index.html | pl | research | Ashraellen — Źródła i tradycja | ashraellen, research, sources, źródła, tradycja, fenomenologia, świadomości, ciało, narracja, nauki, kognitywne, praktyka, artystyczna, jako, linie, metodologiczne, badania, edmund | jako, ashraellen, ciało, tradycja, źródła, badania, doświadczenie, fenomenologia, research, świadomości, artystyczna, edmund, eleanor, esej, evan, forma, formy, francisco |
 | privacy.html | root | privacy.html | Privacy Policy — Ashraellen | Ashraellen, privacy policy, website privacy, analytics, language redirection, contact data | privacy, ashraellen, analytics, ashraellen.com, basic, contact, data, handles, how, including, information, policy, language, privacy.html, redirection, user |
 | pt/books/index.html | pt | books | Ashraellen — Livros | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | livros, ashraellen, 404, books, livro, sátira, abrir, áudio, book, ciclo, ciclos, error, está, found, god, independentes, monolith, online |
-| pt/books/monolith/beton/index.html | pt | books | Ashraellen — BETON | _missing_ | beton, ashraellen, books, estabilidade, memória, monolith, para, sobre, uma, anton, artístico-investigativa, com, como, dentro, distopia, dossiê, editada, endurecida |
-| pt/books/monolith/index.html | pt | books | Ashraellen — MONOLITH | _missing_ | monolith, que, ashraellen, beton, books, colapso, controle, gas, memória, não, sludge, uma, artístico-investigativa, como, confundido, deve, distópica, dos |
-| pt/books/monolith/sludge/index.html | pt | books | Ashraellen — SLUDGE | _missing_ | sludge, ashraellen, books, monolith, para, sobre, uma, adam, artístico-investigativa, com, como, cumplicidade, distopia, dossiê, estrutura, exaurida, filosófica, forma |
+| pt/books/monolith/beton/index.html | pt | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ashraellen, books, estabilidade, livro, memória, monolith, para, sobre, uma, anton, artístico-investigativa, com, como, dentro, distopia, dossiê, editada |
+| pt/books/monolith/index.html | pt | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, que, ashraellen, beton, books, colapso, controle, gas, memória, não, sludge, uma, artístico-investigativa, como, confundido, deve, distópica, dos |
+| pt/books/monolith/sludge/index.html | pt | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, ashraellen, books, monolith, para, sobre, uma, adam, artístico-investigativa, com, como, cumplicidade, distopia, dossiê, era, estrutura, exaurida, filosófica |
 | pt/books/seccus/index.html | pt | books | Ashraellen — O LIVRO SAGRADO DE SECCUS | Ashraellen, SECCUS, O Livro Sagrado de SECCUS, O Caminho da Honestidade, sátira filosófica, dinheiro, sucesso, autoengano, conhecimento como álibi, responsabilidade, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Livro | livro, seccus, sagrado, ashraellen, books, como, página, para, sobre, sucesso, uma, álibi, autoengano, caminho, conhecimento, corpus, dinheiro, escolha |
 | pt/books/the-book-of-whinesis/index.html | pt | books | Ashraellen — The Book of Whinesis — PT | ashraellen, books, book, whinesis, sátira, sagrada, para, quem, cansou, das, vibrações, positivas, produtividade, infinita, culto, sucesso, sobre, livro | book, whinesis, ashraellen, books, para, sobre, cansou, capítulos, culto, das, desconto, disse, gnorna, infinita, livro, moania, não, pois |
 | pt/books/you-are-already-online/index.html | pt | books | Ashraellen — Você já está online | ashraellen, books, you, already, online, você, está, romance, áudio, imersivo, entre, thriller, psicológico, drama, cyberpunk, sobre, realidade, digital | está, online, você, ashraellen, books, capítulo, realidade, romance, sobre, algoritmos, already, antes, áudio, como, cyberpunk, demais, digital, drama |
@@ -501,9 +501,9 @@ Pages: 551
 | ru/research/projects/index.html | ru | research | Ashraellen — Проекты исследования | ashraellen, research, projects, проекты, исследования, карта, рабочих, полей, монолит, основной, канал, публичное, поле, сатирические, боковые, лаборатории, восприятия, instagram | ashraellen, проекты, research, telegram, боковые, канал, лаборатории, монолит, поле, church, inner, instagram, melodies, occultus, projects, saint, scriptorium, sounds |
 | ru/research/sources/index.html | ru | research | Ashraellen — Источники и традиция | ashraellen, research, sources, источники, традиция, феноменология, сознания, тело, нарратив, когнитивная, наука, художественная, практика, методологические, линии, исследования, эдмунд, гуссерль | ashraellen, источники, тело, традиция, форма, research, варела, исследования, опыт, сознание, сознания, феноменология, sources, взаимодействие, восприятия, где, готовых, гуссерль |
 | uk/books/index.html | uk | books | Ashraellen — Книги | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | книги, ashraellen, 404, book, books, error, found, книга, сатира, god, monolith, radiance, whinesis, аудіороман, ахепсу, вже, відкрити, дослідження |
-| uk/books/monolith/beton/index.html | uk | books | Ashraellen — BETON | _missing_ | beton, monolith, ashraellen, books, пам’ять, про, стабільність, антиутопія, антон, без, вибраний, видання, відредаговану, він, вона, вони, всередині, затверділу |
-| uk/books/monolith/index.html | uk | books | Ashraellen — MONOLITH | _missing_ | monolith, ashraellen, beton, books, gas, sludge, контроль, пам’ять, про, антиутопічна, важливо, вже, він, карта, кого, літературно-філософська, людина, плутати |
-| uk/books/monolith/sludge/index.html | uk | books | Ashraellen — SLUDGE | _missing_ | sludge, monolith, ashraellen, books, про, том, адам, але, антиутопія, без, в’язкий, вибраний, виснажений, він, втрату, другий, жилет, його |
+| uk/books/monolith/beton/index.html | uk | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, monolith, про, ashraellen, books, пам’ять, стабільність, том, антиутопія, антон, без, вибраний, видання, відредаговану, він, вони, всередині, вузли |
+| uk/books/monolith/index.html | uk | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ashraellen, beton, books, gas, sludge, контроль, пам’ять, про, антиутопічна, важливо, вже, він, карта, кого, літературно-філософська, людина, плутати |
+| uk/books/monolith/sludge/index.html | uk | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, ashraellen, books, monolith, про, адам, але, антиутопія, без, в’язкий, вже, вибраний, виснажений, від, він, всередині, втрату, другий |
 | uk/books/seccus/index.html | uk | books | Ashraellen — САКРАЛЬНА КНИГА АХЕПСУ | Ashraellen, АХЕПСУ, Сакральна книга АХЕПСУ, Шлях Чесності, філософська сатира, гроші, успіх, самообман, знання як алібі, відповідальність, Sacrunomicon, Ordo Sacrunomiconis, Тетра-Книга | ахепсу, книга, про, сакральна, ashraellen, books, гроші, сторінка, успіх, sacrunomicon, seccus, ssmv, але, алібі, без, вибір, вибрана, від |
 | uk/books/the-book-of-whinesis/index.html | uk | books | Ashraellen — Книга Нытия — Ukrainian | ashraellen, books, book, whinesis, книга, нытия, сакральна, сатира, тих, хто, втомився, від, позитивних, вайбів, нескінченної, продуктивності, культу, успіху | книга, нытия, ashraellen, books, про, хто, book, ukrainian, whinesis, буде, вайбів, від, він, втомився, глава, глави, господь, його |
 | uk/books/you-are-already-online/index.html | uk | books | Ashraellen — Ти вже в мережі | ashraellen, books, you, already, online, вже, мережі, психологічний, технотрилер, про, цифрове, сприйняття, підтвердження, реальність, яка, починає, відповідати, запитання | вже, мережі, ashraellen, books, про, реальність, яка, already, online, you, буде, від, відбувається, відповідати, вона, гачок, дослідницький, запитання |
@@ -586,10 +586,10 @@ Excerpt:
 - description: BETON — першы том MONOLITH: філасофская антыўтопія пра зацвярдзелую стабільнасць, адрэдагаваную памяць і першую расколіну ўнутры Сістэмы.
 - canonical: https://www.ashraellen.com/be/books/monolith/beton/
 - H1: BETON
-- H2: Справа | Абраны фрагмент | Пра кнігу | Без спойлераў | Мастацка-даследчая рамка | Тэмы | Для каго | Месца ў трылогіі
-- H3: Стабільнасць | Памяць | Кантроль | Шум | Віна | Першая расколіна
-- suggested keyword seed: beton, monolith, ashraellen, books, памяць, пра, стабільнасць, абраны, адрэдагаваную, антон, антыўтопія, без, выданне, занадта, зацвярдзелую, каго, калі, клей
-- candidates: beton, яго, антон, памяць, monolith, калі, марк, стабільнасць, яны, выданне, занадта, клей, пра, том, але, больш, каб, пах, першая, становіцца, ўжо, ўнутры, ўсё, чалавек
+- H2: Справа | Абраны фрагмент | Пра кнігу | Без спойлераў | Мастацка-даследчая рамка | Тэмы / сэнсавыя вузлы | Для каго гэтая кніга | Месца ў трылогіі
+- H3: Стабільнасць | Памяць | Шум | Выпраўленне | Дэпартамент Сэнсаў | Расколіна
+- suggested keyword seed: beton, monolith, пра, ashraellen, books, памяць, сістэмы, стабільнасць, том, абраны, адрэдагаваную, антон, антыўтопія, без, вузлы, выданне, гэтая, зацвярдзелую
+- candidates: яго, beton, антон, памяць, monolith, марк, стабільнасць, том, выданне, пра, сістэмы, сябе, яны, але, дзе, занадта, каб, калі, клей, лічыць, пах, першая, стабільнасці, сэнсаў
 
 Excerpt:
 
@@ -622,12 +622,12 @@ Excerpt:
 - H1: SLUDGE
 - H2: Справа | Абраны фрагмент | Пра кнігу | Без спойлераў | Мастацка-даследчая рамка | Тэмы | Для каго | Месца ў трылогіі
 - H3: Вязкасць | Стомленасць | Голад | Рытуал | Саўдзел | Страта формы
-- suggested keyword seed: sludge, monolith, ashraellen, books, пра, абраны, адам, але, антыўтопія, без, была, вязкі, другі, занадта, каго, калі, кнігу, мастацка-даследчая
-- candidates: sludge, яго, толькі, monolith, адам, які, але, была, праз, сівы, занадта, калі, том, ўжо, яшчэ, быццам, каб, сказаў, стомленасць, супраціў, ціск, асяроддзем, выданне, камізэльку
+- suggested keyword seed: sludge, monolith, пра, ashraellen, books, абраны, адам, але, антыўтопія, без, вязкі, другі, каго, кнігу, мастацка-даследчая, месца, нават, рамка
+- candidates: яго, sludge, які, адам, monolith, але, нават, толькі, ўжо, тут, яшчэ, пра, праз, сівы, чалавек, амаль, быў, калі, потым, том, тым, чалавека, аргументацыі, была
 
 Excerpt:
 
-> SLUDGE SLUDGE — філасофская антыўтопія пра свет, у якім ціск больш не нагадвае сцяну. Ён становіцца асяроддзем: вязкім, знясільвальным і блізкім. Том II трылогіі MONOLITH. Справа Том II Калі сцяна размякчаецца, свабода не пачынаецца. Ціск проста вучыцца цячы. СПРАВА № 2026-002S. СТАТУС: Вязкая фаза / актыўная дэфармацыя. Чытаць рускае выданне ў Google Play Books Чытаць англійскае выданне на Amazon Назад да MONOLITH Абраны фрагмент Раздзел 6 / § 6.2 Раздзел 6. Першыя крокі праз SLUDGE. § 6.2. Склады Захавання Аскепкаў Фрагмент паказвае, як звычайная патрэба, састарэлае абсталяванне і мова бюракратыі ператвараюць абарону ў імітацыю, а выжыванне — у паслугу, якую чалавек павінен аплаціць сам. Адкрыць поўны фрагмент Раздзел 6. Першыя крокі праз SLUDGE. § 6.2. Склады Захавання Аскепкаў На сняданак ім далі кашу. Не ежу ў чалавечым сэнсе, а менавіта кашу: шэрую, вязкую, з характэрным смакам, як
+> SLUDGE SLUDGE — філасофская антыўтопія пра свет, дзе ціск больш не падобны да сцяны: ён прасочваецца ў побыт, мову і цела, размывае межы і ператварае чалавека ў матэрыял асяроддзя. Том II трылогіі MONOLITH: вязкая дэфармацыя, стома супраціву і саўдзел як звычка. Справа Том II Чалавек не ламаецца адразу. Спачатку ён стамляецца супраціўляцца. Потым пачынае згаджацца. СПРАВА № 2026-001B. Індэкс: 6666548A. СТАТУС: Цалкам сакрэтна. Чытаць рускае выданне ў Google Play Books Чытаць англійскае выданне на Amazon Назад да MONOLITH Абраны фрагмент Раздзел 6 / § 6.2 Раздзел 6. Першыя крокі праз SLUDGE. § 6.2. Склады Захавання Аскепкаў Фрагмент паказвае, як звычайная патрэба, рытуалізаваная працэдура, страх, маўчанне і саўдзел становяцца паўсядзённай матэрыяй SLUDGE. Адкрыць поўны фрагмент Раздзел 6. Першыя крокі па Жыжы. § 6.2. Склады Захаванасці Аскепкаў На сняданак ім далі кашу. Не ежу ў чалавечым
 
 ### be/books/seccus/index.html
 
@@ -1572,10 +1572,10 @@ Excerpt:
 - description: BETON ist Band I von MONOLITH: eine philosophische Dystopie über verhärtete Stabilität, redigierte Erinnerung und den ersten Riss im System.
 - canonical: https://www.ashraellen.com/de/books/monolith/beton/
 - H1: BETON
-- H2: Akte | Ausgewählter Auszug | Über das Buch | Ohne Spoiler | Künstlerisch-forschender Rahmen | Themen | Für wen | Platz in der Trilogie
-- H3: Stabilität | Erinnerung | Kontrolle | Rauschen | Schuld | Der erste Riss
-- suggested keyword seed: beton, ashraellen, books, das, den, der, für, ist, monolith, über, und, von, akte, ausgewählter, auszug, band, buch, die
-- candidates: die, der, ist, und, ein, das, den, sie, für, beton, nicht, von, eine, als, anton, erinnerung, sich, stabilität, mit, wir, aus, dass, des, mark
+- H2: Akte | Ausgewählter Auszug | Über das Buch | Ohne Spoiler | Künstlerisch-forschender Rahmen | Themen / Bedeutungsknoten | Für wen dieses Buch ist | Platz in der Trilogie
+- H3: Stabilität | Erinnerung | Rauschen | Korrektur | Department für Bedeutungen | Der Riss
+- suggested keyword seed: beton, ist, ashraellen, books, buch, das, den, der, für, monolith, über, und, akte, als, ausgewählter, auszug, band, bedeutungsknoten
+- candidates: die, der, ist, und, das, ein, für, als, den, sie, beton, sich, von, erinnerung, nicht, stabilität, anton, mit, des, eine, wir, dass, dem, mark
 
 Excerpt:
 
@@ -1608,12 +1608,12 @@ Excerpt:
 - H1: SLUDGE
 - H2: Akte | Ausgewählter Auszug | Über das Buch | Ohne Spoiler | Künstlerisch-forschender Rahmen | Themen | Für wen | Platz in der Trilogie
 - H3: Zähflüssigkeit | Erschöpfung | Hunger | Ritual | Mittäterschaft | Formverlust
-- suggested keyword seed: sludge, ashraellen, books, das, der, eine, ist, monolith, über, und, von, akte, als, ausgewählter, auszug, band, buch, dem
-- candidates: der, und, die, das, nicht, eine, von, als, ist, den, dem, nur, sludge, war, ein, sie, wird, adam, umgebung, auf, sich, wie, aus, des
+- suggested keyword seed: sludge, ashraellen, books, das, der, für, monolith, über, und, akte, als, ausgewählter, auszug, band, buch, den, die, druck
+- candidates: der, und, die, das, nicht, den, ein, wie, für, als, mit, war, dem, eine, sie, des, von, adam, ist, sich, sondern, nur, sludge, wird
 
 Excerpt:
 
-> SLUDGE SLUDGE ist eine philosophische Dystopie über eine Welt, in der Druck nicht mehr wie eine Wand aussieht. Er wird zur Umgebung: zähflüssig, erschöpfend und nah. Band II der MONOLITH-Trilogie. Akte Band II Wenn die Wand weich wird, beginnt keine Freiheit. Der Druck lernt nur zu fließen. AKTE NR. 2026-002S. STATUS: Zähflüssige Phase / aktive Verformung. Russische Ausgabe bei Google Play Books lesen Englische Ausgabe bei Amazon lesen Zurück zu MONOLITH Ausgewählter Auszug Kapitel 6 / § 6.2 Kapitel 6. Erste Schritte durch SLUDGE. § 6.2. Lager zur Bewahrung von Splittern Der Auszug zeigt, wie gewöhnlicher Bedarf, veraltete Ausrüstung und bürokratische Sprache Schutz in Nachahmung und Überleben in eine selbst zu finanzierende Dienstleistung verwandeln. Vollständigen Auszug öffnen Kapitel 6. Erste Schritte durch SLUDGE. § 6.2. Lager zur Bewahrung von Splittern Zum Frühstück bekamen sie Bre
+> SLUDGE SLUDGE ist eine philosophische Dystopie über eine Welt, in der Druck nicht mehr einer Wand gleicht: Er sickert in Alltag, Sprache und Körper ein, verwischt Grenzen und macht den Menschen zum Material seiner Umgebung. Band II der MONOLITH-Trilogie: zähflüssige Verformung, erschöpfter Widerstand und Mittäterschaft als Gewohnheit. Akte Band II Ein Mensch zerbricht nicht sofort. Zuerst wird er des Widerstands müde. Dann beginnt er zuzustimmen. AKTE NR. 2026-001B. Index: 6666548A. STATUS: Streng geheim. Russische Ausgabe bei Google Play Books lesen Englische Ausgabe bei Amazon lesen Zurück zu MONOLITH Ausgewählter Auszug Kapitel 6 / § 6.2 Kapitel 6. Erste Schritte durch SLUDGE. § 6.2. Lager zur Bewahrung von Splittern Der Auszug zeigt, wie gewöhnliche Not, ritualisierte Abläufe, Angst, Schweigen und Mittäterschaft zum alltäglichen Stoff von SLUDGE werden. Vollständigen Auszug öffnen Ka
 
 ### de/books/seccus/index.html
 
@@ -2592,10 +2592,10 @@ Excerpt:
 - description: BETON is Volume I of MONOLITH, a philosophical dystopia about hardened stability, edited memory and the first crack inside the System.
 - canonical: https://www.ashraellen.com/en/books/monolith/beton/
 - H1: BETON
-- H2: Case file | Selected excerpt | About the book | Without spoilers | Artistic-research frame | Themes | For whom | Place in the trilogy
-- H3: Stability | Memory | Control | Noise | Guilt | The first crack
-- suggested keyword seed: beton, monolith, about, ashraellen, books, crack, first, memory, stability, anton, artistic-research, book, case, dystopia, edited, excerpt, file, frame
-- candidates: anton, beton, his, stability, mark, memory, first, has, had, monolith, crack, person, they, does, system, them, when, about, correction, edition, inside, language, noise, still
+- H2: Case file | Selected excerpt | About the book | Without spoilers | Artistic-research frame | Themes / semantic nodes | For whom this book is written | Place in the trilogy
+- H3: Stability | Memory | Noise | Correction | Department of Meanings | The crack
+- suggested keyword seed: beton, monolith, about, ashraellen, book, books, crack, first, memory, stability, system, anton, artistic-research, case, dystopia, edited, excerpt, file
+- candidates: stability, anton, beton, his, memory, mark, has, system, crack, first, had, monolith, about, inner, noise, them, they, volume, already, does, edition, person, wall, your
 
 Excerpt:
 
@@ -2628,12 +2628,12 @@ Excerpt:
 - H1: SLUDGE
 - H2: Case file | Selected excerpt | About the book | Without spoilers | Artistic-research frame | Themes | For whom | Place in the trilogy
 - H3: Viscosity | Fatigue | Hunger | Ritual | Complicity | Loss of form
-- suggested keyword seed: sludge, monolith, about, ashraellen, books, adam, artistic-research, book, case, complicity, dystopia, environment, excerpt, exhausted, file, form, frame, had
-- candidates: was, his, sludge, had, environment, adam, monolith, through, vest, you, only, their, they, too, volume, already, form, grey-haired, person, resistance, your, does, first, inside
+- suggested keyword seed: sludge, monolith, about, ashraellen, books, adam, already, artistic-research, book, case, complicity, dystopia, environment, excerpt, exhausted, file, form, frame
+- candidates: was, his, sludge, had, adam, environment, like, only, monolith, they, through, already, what, even, first, grey-haired, you, about, form, here, its, person, than, their
 
 Excerpt:
 
-> SLUDGE SLUDGE is a philosophical dystopia about a world in which pressure no longer resembles a wall. It becomes an environment: viscous, exhausting and intimate. Volume II of the MONOLITH trilogy. Case file Volume II When the wall softens, freedom does not begin. Pressure simply learns to flow. CASE No. 2026-002S. STATUS: Viscous phase / active deformation. Read the Russian edition on Google Play Books Read the English edition on Amazon Back to MONOLITH Selected excerpt Chapter 6 / § 6.2 Chapter 6. First Steps through Sludge. § 6.2. Warehouses for the Preservation of Shards The excerpt shows how ordinary need, obsolete equipment and bureaucratic language turn protection into imitation and survival into a service people must finance themselves. Open the complete excerpt Chapter 6. First Steps through Sludge. § 6.2. Warehouses for the Preservation of Shards For breakfast they were given p
+> SLUDGE SLUDGE is a philosophical dystopia about a world in which pressure no longer resembles a wall: it seeps into everyday life, language and the body, blurs boundaries and turns the human being into material of the environment. Volume II of the MONOLITH trilogy: viscous deformation, exhausted resistance and complicity as habit. Case file Volume II A person does not break all at once. First they grow tired of resisting. Then they begin to agree. CASE No. 2026-001B. Index: 6666548A. STATUS: Top Secret. Read the Russian edition on Google Play Books Read the English edition on Amazon Back to MONOLITH Selected excerpt Chapter 6 / § 6.2 Chapter 6. First Steps through Sludge. § 6.2. Warehouses for the Preservation of Shards The excerpt shows how ordinary need, ritualised procedure, fear, silence and complicity become the everyday composition of SLUDGE. Open the complete excerpt Chapter 6. Fi
 
 ### en/books/radiance/index.html
 
@@ -2810,17 +2810,17 @@ Excerpt:
 - lang: en
 - section: professional
 - title: Ashraellen — Professional Dossier
-- description: Professional dossier of Ashraellen: author background, verified body of literary and artistic-research work, method, public infrastructure, development priorities and contact.
+- description: Professional dossier of Ashraellen: a lifelong artistic-philosophical inquiry into meaning, books, public forms, development plan, support and contact.
 - canonical: https://www.ashraellen.com/en/professional/
 - H1: Ashraellen
-- H2: Author and origin of the work | What already exists | Flagship literary cycle: MONOLITH | Wider body of work | Method of observation | Public forms and archive | Current development priorities | Professional materials
-- H3: Six book directions | Nine-language architecture | Visible development stages | Independent production | RADIANCE | ERROR 404: GOD NOT FOUND | THE SACRED BOOK OF SECCUS | You Are Already Online
-- suggested keyword seed: ashraellen, professional, work, development, dossier, public, already, archive, author, body, literary, method, priorities, artistic-research, background, book, contact, current
-- candidates: public, research, open, work, book, language, pages, already, archive, ashraellen, development, dossier, english, about, cycle, forms, multilingual, preparation, professional, 404, artistic, audio, body, dedicated
+- H2: PDF dossier, project proposal and budget | Research core | About the author | Method of observation | Professional frames | Selected works and fields | Public forms of the project | Current stage and development plan
+- H3: Artistic research | Open knowledge | Digital society | Independent digital archive | MONOLITH | Error 404: God Not Found | You Are Already Online | The Book of Whinesis
+- suggested keyword seed: ashraellen, professional, dossier, forms, project, public, development, meaning, observation, plan, research, about, archive, artistic-philosophical, author, books, budget, channel
+- candidates: public, ashraellen, project, open, research, forms, meaning, observation, archive, channel, digital, dossier, form, multilingual, already, contact, how, inquiry, media, perception, professional, support, working, about
 
 Excerpt:
 
-> Professional dossier Ashraellen Independent writer and artistic researcher · Literary-philosophical inquiry · Multilingual public archive This page presents the author, the verified body of work, the research method and the current development priorities of Ashraellen for publishing, cultural, grant and institutional contexts. Author and origin of the work Ashraellen is the working name of Nikolai Kostyshev, an independent writer and artistic researcher living in Poland. I spent nearly a decade incarcerated in Belarus. That experience trained the faculty at the centre of this work: sustained observation under pressure. I read extensively and watched, at close range, how fear, hierarchy, language, violence, belief and self-deception can reorganise a human being. Later, living across Belarus, Kazakhstan, Russia and Poland sharpened the central question: how much of what a person calls real
+> Professional dossier Ashraellen A mode of seeing · Artistic-philosophical inquiry · Literary and public archive This page gathers the Ashraellen project in a professional form for grant, publishing, cultural, media and institutional contexts. The main website remains a living space for readers and viewers; this dossier is its working table. PDF dossier, project proposal and budget Compact documents are available for grant, publishing, media and institutional inquiries. Download PDF dossier → Download 12-month project proposal PDF → Download budget PDF → Download budget spreadsheet → Research core Ashraellen is not merely a name, but a mode of seeing. It is a lifelong artistic-philosophical inquiry into meaning, perception, self-deception, inner freedom and the human loss of contact with reality. The work is based on the author’s ability to perceive meanings inside meanings, structures wi
 
 ### en/public/index.html
 
@@ -3629,10 +3629,10 @@ Excerpt:
 - description: BETON es el volumen I de MONOLITH: una distopía filosófica sobre la estabilidad endurecida, la memoria editada y la primera grieta dentro del Sistema.
 - canonical: https://www.ashraellen.com/es/books/monolith/beton/
 - H1: BETON
-- H2: Expediente | Fragmento seleccionado | Sobre el libro | Sin destripes | Marco artístico y de investigación | Temas | Para quién | Lugar en la trilogía
-- H3: Estabilidad | Memoria | Control | Ruido | Culpa | Primera grieta
-- suggested keyword seed: beton, ashraellen, books, del, estabilidad, memoria, monolith, para, sobre, una, anton, artístico, como, con, dentro, destripes, distopía, editada
-- candidates: que, una, del, los, con, beton, por, anton, estabilidad, memoria, para, como, las, mark, monolith, primera, grieta, dentro, persona, demasiado, departamento, edición, interior, lenguaje
+- H2: Expediente | Fragmento seleccionado | Sobre el libro | Sin destripes | Marco artístico y de investigación | Temas / nodos de sentido | Para quién es este libro | Lugar en la trilogía
+- H3: Estabilidad | Memoria | Ruido | Corrección | Departamento de Sentidos | La grieta
+- suggested keyword seed: beton, ashraellen, books, del, estabilidad, libro, memoria, monolith, para, sobre, una, anton, artístico, como, con, dentro, destripes, distopía
+- candidates: que, una, del, los, con, para, beton, estabilidad, por, anton, como, memoria, las, mark, grieta, monolith, sistema, primera, departamento, interior, ruido, sobre, volumen, dentro
 
 Excerpt:
 
@@ -3665,12 +3665,12 @@ Excerpt:
 - H1: SLUDGE
 - H2: Expediente | Fragmento seleccionado | Sobre el libro | Sin destripes | Marco artístico y de investigación | Temas | Para quién | Lugar en la trilogía
 - H3: Viscosidad | Cansancio | Hambre | Ritual | Complicidad | Pérdida de forma
-- suggested keyword seed: sludge, ashraellen, books, monolith, sobre, una, adam, agotada, artístico, como, complicidad, con, del, destripes, distopía, entorno, expediente, filosófica
-- candidates: que, una, del, por, sludge, solo, las, adam, entorno, los, como, con, más, monolith, para, chaleco, persona, forma, volumen, canoso, dentro, resistencia, después, era
+- suggested keyword seed: sludge, ashraellen, books, monolith, para, sobre, una, adam, agotada, artístico, como, complicidad, con, del, destripes, distopía, era, expediente
+- candidates: que, una, del, con, por, los, las, para, adam, como, sino, era, sludge, persona, entorno, más, dentro, forma, sin, pero, canoso, sobre, solo, entre
 
 Excerpt:
 
-> SLUDGE SLUDGE es una distopía filosófica sobre un mundo en el que la presión deja de parecer una pared. Se convierte en entorno: viscoso, agotador y próximo. Volumen II de la trilogía MONOLITH. Expediente Volumen II Cuando el muro se ablanda, la libertad no empieza. La presión solo aprende a fluir. EXPEDIENTE N.º 2026-002S. ESTADO: Fase viscosa / deformación activa. Leer la edición rusa en Google Play Books Leer la edición inglesa en Amazon Volver a MONOLITH Fragmento seleccionado Capítulo 6 / § 6.2 Capítulo 6. Primeros pasos por SLUDGE. § 6.2. Almacenes de Conservación de Fragmentos El fragmento muestra cómo la necesidad ordinaria, el equipo obsoleto y el lenguaje burocrático convierten la protección en imitación y la supervivencia en un servicio que la propia persona debe financiar. Abrir el fragmento completo Capítulo 6. Primeros pasos por SLUDGE. § 6.2. Almacenes de Conservación de F
+> SLUDGE SLUDGE es una distopía filosófica sobre un mundo donde la presión ya no se parece a una pared: se filtra en la vida cotidiana, el lenguaje y el cuerpo, borra los límites y convierte a la persona en material del entorno. Volumen II de la trilogía MONOLITH: deformación viscosa, agotamiento de la resistencia y complicidad convertida en hábito. Expediente Volumen II Una persona no se quiebra de golpe. Primero se cansa de resistir. Después empieza a asentir. EXPEDIENTE N.º 2026-001B. Índice: 6666548A. ESTADO: Estrictamente secreto. Leer la edición rusa en Google Play Books Leer la edición inglesa en Amazon Volver a MONOLITH Fragmento seleccionado Capítulo 6 / § 6.2 Capítulo 6. Primeros pasos por SLUDGE. § 6.2. Almacenes de Conservación de Fragmentos El fragmento muestra cómo la necesidad ordinaria, el procedimiento ritualizado, el miedo, el silencio y la complicidad se convierten en la
 
 ### es/books/seccus/index.html
 
@@ -4649,10 +4649,10 @@ Excerpt:
 - description: BETON est le volume I de MONOLITH : une dystopie philosophique sur la stabilité durcie, la mémoire réécrite et la première fissure au cœur du Système.
 - canonical: https://www.ashraellen.com/fr/books/monolith/beton/
 - H1: BETON
-- H2: Dossier | Extrait choisi | À propos du livre | Sans divulgâcher | Cadre artistique et de recherche | Thèmes | Pour qui | Place dans la trilogie
-- H3: Stabilité | Mémoire | Contrôle | Bruit | Culpabilité | Première fissure
-- suggested keyword seed: beton, ashraellen, books, dans, est, monolith, pour, qui, stabilité, une, anton, artistique, cadre, choisi, cœur, des, divulgâcher, dossier
-- candidates: une, les, dans, est, que, pas, des, beton, pour, anton, qui, stabilité, sur, mémoire, mark, monolith, plus, c’est, comme, fissure, nous, première, sens, par
+- H2: Dossier | Extrait choisi | À propos du livre | Sans divulgâcher | Cadre artistique et de recherche | Thèmes / nœuds de sens | À qui s’adresse ce livre | Place dans la trilogie
+- H3: Stabilité | Mémoire | Bruit | Correction | Département des Sens | La fissure
+- suggested keyword seed: beton, ashraellen, books, dans, est, livre, monolith, stabilité, une, anton, artistique, cadre, choisi, cœur, comme, des, divulgâcher, dossier
+- candidates: une, les, est, que, dans, des, pas, pour, beton, stabilité, anton, comme, mémoire, sur, qui, mark, fissure, monolith, sens, système, c’est, nous, plus, bruit
 
 Excerpt:
 
@@ -4685,12 +4685,12 @@ Excerpt:
 - H1: SLUDGE
 - H2: Dossier | Extrait choisi | À propos du livre | Sans divulgâcher | Cadre artistique et de recherche | Thèmes | Pour qui | Place dans la trilogie
 - H3: Viscosité | Fatigue | Faim | Rituel | Complicité | Perte de forme
-- suggested keyword seed: sludge, ashraellen, books, dans, monolith, pour, qui, une, artistique, cadre, choisi, complicité, des, divulgâcher, dossier, dystopie, épuisée, est
-- candidates: pas, une, les, dans, des, que, qui, plus, pour, mais, sludge, son, milieu, sur, comme, adam, gilet, monolith, personne, est, était, par, d’un, volume
+- suggested keyword seed: sludge, ashraellen, books, dans, monolith, pour, qui, sur, une, artistique, cadre, choisi, comme, complicité, des, divulgâcher, dossier, dystopie
+- candidates: les, pas, une, qui, dans, des, mais, que, plus, pour, comme, sur, adam, sludge, son, même, sans, avec, milieu, était, ses, déjà, forme, d’un
 
 Excerpt:
 
-> SLUDGE SLUDGE est une dystopie philosophique sur un monde où la pression ne ressemble plus à un mur. Elle devient un milieu : visqueux, épuisant et proche. Volume II de la trilogie MONOLITH. Dossier Volume II Quand le mur ramollit, la liberté ne commence pas. La pression apprend simplement à couler. DOSSIER N° 2026-002S. STATUT : Phase visqueuse / déformation active. Lire l’édition russe sur Google Play Books Lire l’édition anglaise sur Amazon Retour à MONOLITH Extrait choisi Chapitre 6 / § 6.2 Chapitre 6. Premiers pas dans SLUDGE. § 6.2. Entrepôts de Conservation des Éclats L’extrait montre comment le besoin ordinaire, l’équipement obsolète et la langue bureaucratique transforment la protection en imitation, et la survie en service que chacun doit financer lui-même. Ouvrir l’extrait complet Chapitre 6. Premiers pas dans SLUDGE. § 6.2. Entrepôts de Conservation des Éclats Au petit déjeun
+> SLUDGE SLUDGE est une dystopie philosophique sur un monde où la pression ne ressemble plus à un mur : elle s’infiltre dans le quotidien, le langage et le corps, brouille les frontières et transforme l’être humain en matériau du milieu. Volume II de la trilogie MONOLITH : déformation visqueuse, épuisement de la résistance et complicité devenue habitude. Dossier Volume II Un être humain ne se brise pas d’un coup. D’abord, il se fatigue de résister. Puis il commence à consentir. DOSSIER N° 2026-001B. Indice : 6666548A. STATUT : Strictement secret. Lire l’édition russe sur Google Play Books Lire l’édition anglaise sur Amazon Retour à MONOLITH Extrait choisi Chapitre 6 / § 6.2 Chapitre 6. Premiers pas dans SLUDGE. § 6.2. Entrepôts de Conservation des Éclats L’extrait montre comment le besoin ordinaire, la procédure ritualisée, la peur, le silence et la complicité deviennent la matière quotidi
 
 ### fr/books/seccus/index.html
 
@@ -5720,10 +5720,10 @@ Excerpt:
 - description: BETON to pierwszy tom MONOLITHU: filozoficzna antyutopia o skamieniałej stabilności, redagowanej pamięci i pierwszej szczelinie wewnątrz Systemu.
 - canonical: https://www.ashraellen.com/pl/books/monolith/beton/
 - H1: BETON
-- H2: Akta | Wybrany fragment | O książce | Bez spoilerów | Rama artystyczno-badawcza | Tematy | Dla kogo | Miejsce w trylogii
-- H3: Stabilność | Pamięć | Kontrola | Szum | Wina | Pierwsza szczelina
-- suggested keyword seed: beton, ashraellen, books, monolithu, akta, anton, antyutopia, artystyczno-badawcza, bez, filozoficzna, fragment, gdy, jako, jego, kogo, książce, mark, miejsce
-- candidates: się, nie, beton, anton, jego, gdy, mark, pamięć, jako, stabilność, monolithu, wydanie, zbyt, człowiek, już, klej, obraz, stabilności, tom, tylko, 9.1, bez, duma, fragment
+- H2: Akta | Wybrany fragment | O książce | Bez spoilerów | Rama artystyczno-badawcza | Tematy / węzły znaczeń | Dla kogo jest ta książka | Miejsce w trylogii
+- H3: Stabilność | Pamięć | Szum | Korekta | Departament Znaczeń | Pęknięcie
+- suggested keyword seed: beton, ashraellen, books, stabilności, systemu, akta, anton, antyutopia, artystyczno-badawcza, bez, filozoficzna, fragment, gdy, jako, jego, kogo, książce, książka
+- candidates: się, nie, beton, anton, jego, jako, mark, pamięć, stabilność, gdy, stabilności, systemu, tom, tylko, wydanie, już, klej, monolith, monolithu, zbyt, 9.1, bez, człowiek, duma
 
 Excerpt:
 
@@ -5756,12 +5756,12 @@ Excerpt:
 - H1: SLUDGE
 - H2: Akta | Wybrany fragment | O książce | Bez spoilerów | Rama artystyczno-badawcza | Tematy | Dla kogo | Miejsce w trylogii
 - H3: Lepkość | Zmęczenie | Głód | Rytuał | Współudział | Utrata formy
-- suggested keyword seed: sludge, ashraellen, books, adam, akta, antyutopia, artystyczno-badawcza, bez, drugi, filozoficzna, formy, fragment, jakby, jego, już, kogo, książce, lecz
-- candidates: nie, się, sludge, lecz, adam, przez, jego, już, siwy, tylko, zbyt, jakby, monolithu, powiedział, środowiskiem, tom, wydanie, zmęczenie, gdy, jedynie, kamizelkę, który, monolith, potem
+- suggested keyword seed: sludge, ashraellen, books, adam, akta, ale, antyutopia, artystyczno-badawcza, bez, drugi, filozoficzna, formy, fragment, jego, już, kogo, książce, który
+- candidates: nie, się, sludge, lecz, już, adam, przez, który, ale, nawet, tylko, jego, potem, siwy, wszystko, była, było, człowiek, człowieka, niemal, środku, tutaj, tym, zmęczenie
 
 Excerpt:
 
-> SLUDGE SLUDGE to filozoficzna antyutopia o świecie, w którym presja przestaje przypominać ścianę. Staje się środowiskiem: lepkim, wyczerpującym i bliskim. Tom II trylogii MONOLITH. Akta Tom II Kiedy ściana mięknie, wolność się nie zaczyna. Presja po prostu uczy się płynąć. SPRAWA NR 2026-002S. STATUS: Faza lepka / aktywna deformacja. Czytaj rosyjskie wydanie w Google Play Books Czytaj angielskie wydanie na Amazon Wróć do MONOLITHU Wybrany fragment Rozdział 6 / § 6.2 Rozdział 6. Pierwsze kroki przez SLUDGE. § 6.2. Magazyny Zachowania Odłamków Fragment pokazuje, jak zwykła potrzeba, zużyty sprzęt i język biurokracji zamieniają ochronę w imitację, a przetrwanie w usługę, którą człowiek musi sfinansować sam. Otwórz pełny fragment Rozdział 6. Pierwsze kroki przez SLUDGE. § 6.2. Magazyny Zachowania Odłamków Na śniadanie dostali kaszę. Nie jedzenie w ludzkim znaczeniu, lecz właśnie kaszę: szarą
+> SLUDGE SLUDGE to filozoficzna antyutopia o świecie, w którym presja przestaje przypominać ścianę: przenika do codzienności, języka i ciała, zaciera granice i zamienia człowieka w materiał środowiska. Tom II trylogii MONOLITH: lepka deformacja, zmęczenie oporu i współudział jako nawyk. Akta Tom II Człowiek nie łamie się od razu. Najpierw męczy się stawianiem oporu. Potem zaczyna się zgadzać. SPRAWA NR 2026-001B. Indeks: 6666548A. STATUS: Ściśle tajne. Czytaj rosyjskie wydanie w Google Play Books Czytaj angielskie wydanie na Amazon Wróć do MONOLITHU Wybrany fragment Rozdział 6 / § 6.2 Rozdział 6. Pierwsze kroki przez SLUDGE. § 6.2. Magazyny Zachowania Odłamków Fragment pokazuje, jak zwykła potrzeba, zrytualizowana procedura, strach, milczenie i współudział stają się codziennym tworzywem SLUDGE. Otwórz pełny fragment Rozdział 6. Pierwsze kroki przez SLUDGE. § 6.2. Magazyny Zachowania Odłamk
 
 ### pl/books/radiance/index.html
 
@@ -6774,10 +6774,10 @@ Excerpt:
 - description: BETON é o Volume I de MONOLITH: uma distopia filosófica sobre estabilidade endurecida, memória editada e a primeira fissura dentro do Sistema.
 - canonical: https://www.ashraellen.com/pt/books/monolith/beton/
 - H1: BETON
-- H2: Dossiê | Trecho selecionado | Sobre o livro | Sem spoilers | Estrutura artístico-investigativa | Temas | Para quem | Lugar na trilogia
-- H3: Estabilidade | Memória | Controle | Ruído | Culpa | Primeira fissura
-- suggested keyword seed: beton, ashraellen, books, estabilidade, memória, monolith, para, sobre, uma, anton, artístico-investigativa, com, como, dentro, distopia, dossiê, editada, endurecida
-- candidates: que, uma, não, com, para, beton, como, anton, estabilidade, memória, mark, sua, monolith, por, primeira, fissura, pessoa, ruído, apenas, cola, demais, dentro, edição, eles
+- H2: Dossiê | Trecho selecionado | Sobre o livro | Sem spoilers | Estrutura artístico-investigativa | Temas / nós de sentido | Para quem é este livro | Lugar na trilogia
+- H3: Estabilidade | Memória | Ruído | Correção | Departamento dos Sentidos | A fissura
+- suggested keyword seed: beton, ashraellen, books, estabilidade, livro, memória, monolith, para, sobre, uma, anton, artístico-investigativa, com, como, dentro, distopia, dossiê, editada
+- candidates: que, uma, não, para, como, com, beton, estabilidade, anton, memória, mark, por, fissura, monolith, sistema, sua, primeira, ruído, ser, volume, apenas, departamento, edição, eles
 
 Excerpt:
 
@@ -6810,12 +6810,12 @@ Excerpt:
 - H1: SLUDGE
 - H2: Dossiê | Trecho selecionado | Sobre o livro | Sem spoilers | Estrutura artístico-investigativa | Temas | Para quem | Lugar na trilogia
 - H3: Viscosidade | Cansaço | Fome | Ritual | Cumplicidade | Perda de forma
-- suggested keyword seed: sludge, ashraellen, books, monolith, para, sobre, uma, adam, artístico-investigativa, com, como, cumplicidade, distopia, dossiê, estrutura, exaurida, filosófica, forma
-- candidates: que, não, uma, com, para, mas, por, como, sludge, mais, sua, adam, ambiente, apenas, colete, monolith, pessoa, depois, era, parecia, volume, dentro, forma, grisalho
+- suggested keyword seed: sludge, ashraellen, books, monolith, para, sobre, uma, adam, artístico-investigativa, com, como, cumplicidade, distopia, dossiê, era, estrutura, exaurida, filosófica
+- candidates: que, não, uma, para, mas, com, como, por, adam, era, mais, sludge, pessoa, ambiente, forma, depois, sem, dentro, grisalho, parecia, vez, volume, ainda, limites
 
 Excerpt:
 
-> SLUDGE SLUDGE é uma distopia filosófica sobre um mundo em que a pressão já não se parece com uma parede. Ela se torna ambiente: viscosa, exaustiva e íntima. Volume II da trilogia MONOLITH. Dossiê Volume II Quando a parede amolece, a liberdade não começa. A pressão apenas aprende a fluir. DOSSIÊ N.º 2026-002S. STATUS: Fase viscosa / deformação ativa. Ler a edição russa no Google Play Books Ler a edição inglesa na Amazon Voltar a MONOLITH Trecho selecionado Capítulo 6 / § 6.2 Capítulo 6. Primeiros passos através de SLUDGE. § 6.2. Armazéns de Preservação de Fragmentos O trecho mostra como a necessidade comum, o equipamento obsoleto e a linguagem burocrática transformam proteção em imitação e sobrevivência num serviço que a própria pessoa precisa financiar. Abrir o trecho completo Capítulo 6. Primeiros passos através de SLUDGE. § 6.2. Armazéns de Preservação de Fragmentos No café da manhã, d
+> SLUDGE SLUDGE é uma distopia filosófica sobre um mundo em que a pressão já não se parece com uma parede: infiltra-se na vida cotidiana, na linguagem e no corpo, desfaz limites e transforma a pessoa em material do ambiente. Volume II da trilogia MONOLITH: deformação viscosa, desgaste da resistência e cumplicidade como hábito. Dossiê Volume II Uma pessoa não se quebra de uma vez. Primeiro se cansa de resistir. Depois começa a concordar. DOSSIÊ N.º 2026-001B. Índice: 6666548A. STATUS: Ultrassecreto. Ler a edição russa no Google Play Books Ler a edição inglesa na Amazon Voltar a MONOLITH Trecho selecionado Capítulo 6 / § 6.2 Capítulo 6. Primeiros passos através de SLUDGE. § 6.2. Armazéns de Preservação de Fragmentos O trecho mostra como a necessidade comum, o procedimento ritualizado, o medo, o silêncio e a cumplicidade se tornam a matéria cotidiana de SLUDGE. Abrir o trecho completo Capítul
 
 ### pt/books/seccus/index.html
 
@@ -8967,10 +8967,10 @@ Excerpt:
 - description: BETON — перший том MONOLITH: філософська антиутопія про затверділу стабільність, відредаговану пам’ять і першу тріщину всередині Системи.
 - canonical: https://www.ashraellen.com/uk/books/monolith/beton/
 - H1: BETON
-- H2: Справа | Вибраний фрагмент | Про книгу | Без спойлерів | Художньо-дослідницька рамка | Теми | Для кого | Місце у трилогії
-- H3: Стабільність | Пам’ять | Контроль | Шум | Провина | Перша тріщина
-- suggested keyword seed: beton, monolith, ashraellen, books, пам’ять, про, стабільність, антиутопія, антон, без, вибраний, видання, відредаговану, він, вона, вони, всередині, затверділу
-- candidates: він, beton, пам’ять, monolith, антон, його, коли, стабільність, видання, вони, марк, вона, клей, надто, про, том, вже, виправлення, всередині, запах, людина, перша, стає, щоб
+- H2: Справа | Вибраний фрагмент | Про книгу | Без спойлерів | Художньо-дослідницька рамка | Теми / смислові вузли | Для кого ця книга | Місце в трилогії
+- H3: Стабільність | Пам’ять | Шум | Виправлення | Департамент Сенсів | Тріщина
+- suggested keyword seed: beton, monolith, про, ashraellen, books, пам’ять, стабільність, том, антиутопія, антон, без, вибраний, видання, відредаговану, він, вони, всередині, вузли
+- candidates: він, beton, пам’ять, monolith, антон, його, стабільність, видання, марк, том, вони, про, системи, вже, виправлення, вона, всередині, запах, клей, надто, перша, себе, сенсів, стабільності
 
 Excerpt:
 
@@ -9003,12 +9003,12 @@ Excerpt:
 - H1: SLUDGE
 - H2: Справа | Вибраний фрагмент | Про книгу | Без спойлерів | Художньо-дослідницька рамка | Теми | Для кого | Місце у трилогії
 - H3: В’язкість | Утома | Голод | Ритуал | Співучасть | Втрата форми
-- suggested keyword seed: sludge, monolith, ashraellen, books, про, том, адам, але, антиутопія, без, в’язкий, вибраний, виснажений, він, втрату, другий, жилет, його
-- candidates: sludge, він, monolith, лише, його, адам, жилет, сивий, який, але, надто, том, видання, межі, опір, сказав, тиск, щоб, був, вже, всередині, збереження, коли, наче
+- suggested keyword seed: sludge, ashraellen, books, monolith, про, адам, але, антиутопія, без, в’язкий, вже, вибраний, виснажений, від, він, всередині, втрату, другий
+- candidates: він, sludge, який, адам, від, але, лише, навіть, вже, всередині, його, тут, monolith, людина, про, сивий, був, майже, межі, опір, потім, том, аргументації, біля
 
 Excerpt:
 
-> SLUDGE SLUDGE — філософська антиутопія про світ, у якому тиск більше не нагадує стіну. Він стає середовищем: в’язким, виснажливим і близьким. Том II трилогії MONOLITH. Справа Том II Коли стіна розм’якшується, свобода не починається. Тиск просто вчиться текти. СПРАВА № 2026-002S. СТАТУС: В’язка фаза / активна деформація. Читати російське видання в Google Play Books Читати англійське видання на Amazon Назад до MONOLITH Вибраний фрагмент Розділ 6 / § 6.2 Розділ 6. Перші кроки крізь SLUDGE. § 6.2. Склади Збереження Уламків Фрагмент показує, як звичайна потреба, застаріле спорядження й мова бюрократії перетворюють захист на імітацію, а виживання — на послугу, яку людина мусить оплатити сама. Відкрити повний фрагмент Розділ 6. Перші кроки крізь SLUDGE. § 6.2. Склади Збереження Уламків На сніданок їм дали кашу. Не їжу в людському розумінні, а саме кашу: сіру, в’язку, з характерним смаком, який 
+> SLUDGE SLUDGE — філософська антиутопія про світ, де тиск більше не схожий на стіну: він просочується в побут, мову й тіло, розмиває межі та перетворює людину на матеріал середовища. Том II трилогії MONOLITH: в’язка деформація, втома опору та співучасть як звичка. Справа Том II Людина не ламається одразу. Спочатку вона втомлюється чинити опір. Потім починає погоджуватися. СПРАВА № 2026-001B. Індекс: 6666548A. СТАТУС: Цілком таємно. Читати російське видання в Google Play Books Читати англійське видання на Amazon Назад до MONOLITH Вибраний фрагмент Розділ 6 / § 6.2 Розділ 6. Перші кроки крізь SLUDGE. § 6.2. Склади Збереження Уламків Фрагмент показує, як звичайна потреба, ритуалізована процедура, страх, мовчання та співучасть стають повсякденною матерією SLUDGE. Відкрити повний фрагмент Розділ 6. Перші кроки по Жижі. § 6.2. Склади Збереження Уламків На сніданок їм дали кашу. Не їжу в людсько
 
 ### uk/books/seccus/index.html
 
