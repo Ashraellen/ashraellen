@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T07:17:59.715Z
+Generated: 2026-07-07T07:20:06.967Z
 Pages: 551
 
 ## Index
@@ -311,7 +311,7 @@ Pages: 551
 | pl/books/error-404-god-not-found/why-me/index.html | pl | books | Ashraellen — Dlaczego ja? | ashraellen, books, error, 404, god, found, why, dlaczego, pierwsza, księga, cyklu, błąd, boga, nie, znaleziono, filozoficzno-satyryczna, powieść, człowieku | dlaczego, boga, 404, ashraellen, błąd, books, który, nie, ale, cyklu, człowieku, error, filozoficzno-satyryczna, found, fragment, god, jako, kancelarii |
 | pl/books/index.html | pl | books | Ashraellen — Książki | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | książki, 404, ashraellen, ashraellena, błąd, boga, books, nie, satyra, albo, audio, badania, blask, book, cykl, cykle, jesteś, już |
 | pl/books/monolith/beton/index.html | pl | books | Ashraellen — BETON — Polish | ashraellen, books, monolith, beton, tom, trylogii, akta, opis, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, akta, monolith, tom, się, trylogii, zaczyna, 2026-001b, ashraellen, books, nie, opis, więzienia, 6666548a, indeks, nawyku, nazywania, polish |
-| pl/books/monolith/index.html | pl | books | Ashraellen — MONOLITH — Polish | ashraellen, books, monolith, trylogia, dystopijna, kontroli, pamięci, rozpadzie, systemów, seria, tomy, tom, beton, sludge, iii, gas, doctype, html | monolith, tom, ashraellen, beton, books, gas, pamięci, seria, sludge, społecznej, tomy, trylogia, bez, dystopii, dystopijna, fantastyki, filozoficznego, iii |
+| pl/books/monolith/index.html | pl | books | Ashraellen — MONOLITH | _missing_ | monolith, ashraellen, beton, books, gas, nie, sludge, antyutopijna, artystyczno-badawcza, czego, czym, forma, fraza, jako, już, kogo, kontroli, lecz |
 | pl/books/monolith/sludge/index.html | pl | books | Ashraellen — SLUDGE — Polish | ashraellen, books, monolith, sludge, tom, trylogii, akta, opis, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, akta, monolith, się, tom, trylogii, ashraellen, books, człowiek, łamie, najpierw, nie, opis, razu, zaczyna, 2026-001b, 6666548a, indeks |
 | pl/books/radiance/index.html | pl | books | Ashraellen — Blask \| Północne opowieści o prawdziwej historii świata | ashraellen, books, radiance, blask, północne, opowieści, prawdziwej, historii, świata, literacko-filozoficzny, artystyczno-badawczy, cykl, tym, jak, dawne, historie, przechowują, obrazowe | blask, świata, ashraellen, books, cykl, cyklu, dawne, historie, instrukcje, literacko-filozoficzny, nie, artystyczno-badawcza, artystyczno-badawczy, czego, czym, forma, historii, instrukcji |
 | pl/books/radiance/sampo/index.html | pl | books | Ashraellen — Sampo \| Blask, Księga I | ashraellen, books, radiance, sampo, blask, księga, cyklu, północna, opowieść, literacko-filozoficzna, obfitości, posiadaniu, uczestnictwie, świecie, którym, mit, nie, oddzielił | sampo, blask, ashraellen, books, cyklu, jeszcze, księga, którym, nie, obfitości, się, artystyczno-badawcza, bez, fundacji, jako, językowy, kogo, książce |
@@ -5733,18 +5733,18 @@ Excerpt:
 
 - lang: pl
 - section: books
-- title: Ashraellen — MONOLITH — Polish
-- description: MONOLITH — trylogia dystopijna o kontroli, pamięci i rozpadzie systemów. MONOLITH Seria Tomy Tom I — BETON Tom II — SLUDGE Tom III — GAS MONOLITH MONOLITH to trylogia społecznej fantastyki, dystopii i filozoficznego…
+- title: Ashraellen — MONOLITH
+- description: MONOLITH to literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów: BETON, SLUDGE i GAS.
 - canonical: https://www.ashraellen.com/pl/books/monolith/
 - H1: MONOLITH
-- H2: Seria | Tomy
-- H3: Tom I — BETON | Tom II — SLUDGE | Tom III — GAS
-- suggested keyword seed: monolith, tom, ashraellen, beton, books, gas, pamięci, seria, sludge, społecznej, tomy, trylogia, bez, dystopii, dystopijna, fantastyki, filozoficznego, iii
-- candidates: się, tom, monolith, gas, beton, sludge, bez, otwórz, pamięci, społecznej, stabilność, staje, trylogia, dystopii, fantastyki, filozoficznego, forma, iii, kontroli, przygotowaniu, rozpadzie, seria, systemów, systemu
+- H2: Czym jest MONOLITH | Tomy | Rama artystyczno-badawcza | Mapa rozpadu | Dla kogo jest ten projekt | Czego nie należy mylić | Fraza serii
+- H3: Tom I — BETON | Tom II — SLUDGE | Tom III — GAS | BETON | SLUDGE | GAS | Czytelnicy | Wydawcy / partnerzy / tłumacze
+- suggested keyword seed: monolith, ashraellen, beton, books, gas, nie, sludge, antyutopijna, artystyczno-badawcza, czego, czym, forma, fraza, jako, już, kogo, kontroli, lecz
+- candidates: się, nie, monolith, gas, sludge, beton, forma, pamięć, zaczyna, jako, lecz, już, kontrola, staje, człowiek, pamięci, rozpadu, system, tom, człowieka, kontroli, materii, nawyk, przez
 
 Excerpt:
 
-> MONOLITH MONOLITH to trylogia społecznej fantastyki, dystopii i filozoficznego cyberpunku o kontroli, pamięci i rozpadzie systemów. Seria BETON / SLUDGE / GAS Kronika kontrolowanego rozpadu: trzy stany materii społecznej — BETON, SLUDGE, GAS. Przyzwyczailiśmy się uważać stabilność za bezpieczeństwo. Ale co, jeśli absolutna stabilność jest tylko skrajnym stwardnieniem systemu, w którym każda żywa myśl staje się defektem? W świecie MONOLITHU społeczeństwo zmienia się w konstrukcję bez szwów, bez pamięci i bez prawa do wewnętrznego rezonansu. Rzeczywistość można poprawiać, redagować i wygładzać w imię porządku. Polska edycja jest w przygotowaniu. Obecnie dostępne są angielskie wydania na Amazon. Tomy otwórz stronę tomu Tom I — BETON Stabilność staje się więzieniem. Pamięć jest redagowana. Pierwsza rysa pojawia się wewnątrz Systemu. Otwórz tom Tom II — SLUDGE Po pierwszej rysie forma zaczyna
+> PROTOKÓŁ ROZPADU MATERII SPOŁECZNEJ / BETON — SLUDGE — GAS MONOLITH MONOLITH to literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów. Trzy tomy rejestrują przejście materii społecznej przez trzy stany: BETON, SLUDGE i GAS — od skamieniałej stabilności, przez lepką deformację, po całkowite rozszczelnienie formy. System nie boi się buntu. Boi się pierwszej szczeliny. Tomy trylogii Mapa rozpadu Czego nie należy mylić Czym jest MONOLITH BETON / SLUDGE / GAS Przed tobą kronika kontrolowanego rozpadu: konsekwentny zapis przemiany fazowej materii społecznej, utrwalonej w trzech stanach — BETON, SLUDGE i GAS. Nie chodzi tu o prognozę przyszłości, lecz o materiał teraźniejszości: porządek, który zbyt długo nazywano bezpieczeństwem; pamięć, którą wygodniej poprawić niż usłyszeć; człowieka, który zaczyna dostrzegać szczelinę, zanim system przyzna, że ona istnieje. B
 
 ### pl/books/monolith/sludge/index.html
 
