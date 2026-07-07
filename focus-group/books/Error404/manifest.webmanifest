@@ -1,0 +1,20 @@
+{
+  "name": "Ошибка 404: Бог не найден — читательская панель",
+  "short_name": "Ошибка 404",
+  "description": "Читательская панель фокус-группы для первого тома «Почему я?»",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f0e8",
+  "theme_color": "#7a392b",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -6,6 +6,13 @@
 <meta name="color-scheme" content="light dark">
 <meta name="description" content="Удобная читательская панель для вычитки книги «Ошибка 404: Бог не найден». Том I — «Почему я?»">
 <title>Ошибка 404: Бог не найден — читательская панель</title>
+<link rel="manifest" href="./manifest.webmanifest">
+<meta name="theme-color" content="#7a392b">
+<meta name="application-name" content="Ошибка 404">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Ошибка 404">
+<link rel="apple-touch-icon" href="./icon.svg">
 <style>
 :root{
   --bg:#f4f0e8;--panel:rgba(255,255,255,.86);--panel-solid:#fffdf8;
@@ -221,6 +228,7 @@ footer{padding:6px 0 42px;color:var(--muted);text-align:center;font-size:13px}
       <button class="btn primary" id="continueBtn" type="button">Продолжить вычитку</button>
       <button class="btn" id="exportBtn" type="button">Скачать все заметки</button>
       <button class="btn ghost" id="themeBtn" type="button" aria-pressed="false">Тёмный режим</button>
+      <button class="btn" id="installBtn" type="button" hidden>Установить приложение</button>
     </div>
   </div>
 </header>
@@ -305,7 +313,7 @@ footer{padding:6px 0 42px;color:var(--muted);text-align:center;font-size:13px}
 
 <div class="toast" id="toast" role="status"></div>
 
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="./marked.min.js"></script>
 <script>
 const chapters=[
   {"n":1,"title":"Ошибка 404","version":"v1","file":"E404GNFB1WM-RU_CH-001_v1.md"},
@@ -672,6 +680,43 @@ applyFontSize();
 updateProgress();
 renderList();
 syncFullscreenButton();
+</script>
+<script>
+(() => {
+  const installBtn = document.getElementById('installBtn');
+  let deferredPrompt = null;
+
+  const isStandalone = window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone === true;
+  if (isStandalone && installBtn) installBtn.hidden = true;
+
+  window.addEventListener('beforeinstallprompt', event => {
+    event.preventDefault();
+    deferredPrompt = event;
+    if (installBtn) installBtn.hidden = false;
+  });
+
+  if (installBtn) {
+    installBtn.addEventListener('click', async () => {
+      if (!deferredPrompt) {
+        alert('Откройте меню браузера и выберите «Установить приложение» или «Добавить на главный экран».');
+        return;
+      }
+      deferredPrompt.prompt();
+      await deferredPrompt.userChoice;
+      deferredPrompt = null;
+      installBtn.hidden = true;
+    });
+  }
+
+  window.addEventListener('appinstalled', () => {
+    deferredPrompt = null;
+    if (installBtn) installBtn.hidden = true;
+  });
+
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => navigator.serviceWorker.register('./sw.js'));
+  }
+})();
 </script>
 </body>
 </html>
