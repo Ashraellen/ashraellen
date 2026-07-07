@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T07:22:56.649Z
+Generated: 2026-07-07T07:25:55.629Z
 Pages: 551
 
 ## Index
@@ -502,7 +502,7 @@ Pages: 551
 | ru/research/sources/index.html | ru | research | Ashraellen — Источники и традиция | ashraellen, research, sources, источники, традиция, феноменология, сознания, тело, нарратив, когнитивная, наука, художественная, практика, методологические, линии, исследования, эдмунд, гуссерль | ashraellen, источники, тело, традиция, форма, research, варела, исследования, опыт, сознание, сознания, феноменология, sources, взаимодействие, восприятия, где, готовых, гуссерль |
 | uk/books/index.html | uk | books | Ashraellen — Книги | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | книги, ashraellen, 404, book, books, error, found, книга, сатира, god, monolith, radiance, whinesis, аудіороман, ахепсу, вже, відкрити, дослідження |
 | uk/books/monolith/beton/index.html | uk | books | Ashraellen — BETON — Ukrainian | ashraellen, books, monolith, beton, том, трилогії, справа, опис, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, справа, monolith, том, починається, трилогії, 2026-001b, ashraellen, books, бетон, він, опис, ukrainian, бути, в’язницю, занадто, звички, індекс |
-| uk/books/monolith/index.html | uk | books | Ashraellen — MONOLITH — Ukrainian | ashraellen, books, monolith, антиутопічна, трилогія, про, контроль, пам’ять, розпад, систем, серія, томи, том, beton, sludge, iii, gas, doctype | monolith, том, ashraellen, beton, books, gas, sludge, пам’ять, серія, соціальної, томи, трилогія, iii, ukrainian, антиутопії, антиутопічна, без, видання |
+| uk/books/monolith/index.html | uk | books | Ashraellen — MONOLITH | _missing_ | monolith, ashraellen, beton, books, gas, sludge, контроль, пам’ять, про, антиутопічна, важливо, вже, він, карта, кого, літературно-філософська, людина, плутати |
 | uk/books/monolith/sludge/index.html | uk | books | Ashraellen — SLUDGE — Ukrainian | ashraellen, books, monolith, sludge, том, трилогії, справа, опис, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, справа, monolith, том, трилогії, 2026-001b, ashraellen, books, вона, втомлюється, ламається, людина, одразу, опис, починає, ukrainian, опір, погоджуватися |
 | uk/books/seccus/index.html | uk | books | Ashraellen — САКРАЛЬНА КНИГА АХЕПСУ | Ashraellen, АХЕПСУ, Сакральна книга АХЕПСУ, Шлях Чесності, філософська сатира, гроші, успіх, самообман, знання як алібі, відповідальність, Sacrunomicon, Ordo Sacrunomiconis, Тетра-Книга | ахепсу, книга, про, сакральна, ashraellen, books, гроші, сторінка, успіх, sacrunomicon, seccus, ssmv, але, алібі, без, вибір, вибрана, від |
 | uk/books/the-book-of-whinesis/index.html | uk | books | Ashraellen — Книга Нытия — Ukrainian | ashraellen, books, book, whinesis, книга, нытия, сакральна, сатира, тих, хто, втомився, від, позитивних, вайбів, нескінченної, продуктивності, культу, успіху | книга, нытия, ashraellen, books, про, хто, book, ukrainian, whinesis, буде, вайбів, від, він, втомився, глава, глави, господь, його |
@@ -8980,18 +8980,18 @@ Excerpt:
 
 - lang: uk
 - section: books
-- title: Ashraellen — MONOLITH — Ukrainian
-- description: MONOLITH — антиутопічна трилогія про контроль, пам’ять і розпад систем. MONOLITH Серія Томи Том I — BETON Том II — SLUDGE Том III — GAS MONOLITH MONOLITH — трилогія соціальної фантастики, антиутопії та філософського…
+- title: Ashraellen — MONOLITH
+- description: MONOLITH — літературно-філософська антиутопічна трилогія про контроль, пам’ять і розпад систем: BETON, SLUDGE і GAS.
 - canonical: https://www.ashraellen.com/uk/books/monolith/
 - H1: MONOLITH
-- H2: Серія | Томи
-- H3: Том I — BETON | Том II — SLUDGE | Том III — GAS
-- suggested keyword seed: monolith, том, ashraellen, beton, books, gas, sludge, пам’ять, серія, соціальної, томи, трилогія, iii, ukrainian, антиутопії, антиутопічна, без, видання
-- candidates: monolith, том, gas, beton, sludge, без, видання, відкрити, пам’ять, соціальної, стабільність, стає, трилогія, iii, антиутопії, контроль, починає, про, розпад, серія, систем, системи, томи, фантастики
+- H2: Що таке MONOLITH | Томи | Художньо-дослідницька рамка | Карта розпаду | Для кого цей проєкт | Що важливо не плутати | Фраза серії
+- H3: Том I — BETON | Том II — SLUDGE | Том III — GAS | BETON | SLUDGE | GAS | Читачам | Видавцям / партнерам / перекладачам
+- suggested keyword seed: monolith, ashraellen, beton, books, gas, sludge, контроль, пам’ять, про, антиутопічна, важливо, вже, він, карта, кого, літературно-філософська, людина, плутати
+- candidates: monolith, пам’ять, gas, beton, sludge, контроль, форма, вже, він, людина, починає, про, розпаду, стає, страх, том, вона, всередині, входить, коли, матерії, система, соціальної, тиск
 
 Excerpt:
 
-> MONOLITH MONOLITH — трилогія соціальної фантастики, антиутопії та філософського кіберпанку про контроль, пам’ять і розпад систем. Серія BETON / SLUDGE / GAS Хроніка контрольованого розпаду: три стани соціальної матерії — BETON, SLUDGE, GAS. Ми звикли вважати стабільність безпекою. Але що, якщо абсолютна стабільність — лише граничне затвердіння системи, де кожна жива думка стає дефектом? У світі MONOLITH суспільство перетворено на ідеальну конструкцію: без швів, без пам’яті, без особистої правди і без права на внутрішній резонанс. Українське видання готується. Наразі доступні англійські видання на Amazon і російські видання в Google Play Books. Томи відкрити сторінку тому Том I — BETON Стабільність стає в’язницею. Пам’ять редагується. Перша тріщина з’являється всередині Системи. Відкрити том Том II — SLUDGE Після першої тріщини форма починає розпадатися. Людина стає матеріалом середовища.
+> ПРОТОКОЛ РОЗПАДУ СОЦІАЛЬНОЇ МАТЕРІЇ / BETON — SLUDGE — GAS MONOLITH MONOLITH — літературно-філософська антиутопічна трилогія про контроль, пам’ять і розпад систем. Три томи фіксують перехід соціальної матерії крізь три стани: BETON, SLUDGE і GAS — від затверділої стабільності до в’язкої деформації та повної розгерметизації форми. Система боїться не бунту. Вона боїться першої тріщини. Томи трилогії Карта розпаду Що важливо не плутати Що таке MONOLITH BETON / SLUDGE / GAS Перед вами хроніка керованого розпаду: послідовна фіксація фазового переходу соціальної матерії, закарбована у трьох станах — BETON, SLUDGE і GAS. Тут важливий не прогноз майбутнього, а матеріал теперішнього: порядок, який надто довго називали безпекою; пам’ять, яку зручніше виправити, ніж почути; людина, яка починає помічати тріщину раніше, ніж система визнає її існування. BETON — стадія затверділої стабільності, де поря
 
 ### uk/books/monolith/sludge/index.html
 
