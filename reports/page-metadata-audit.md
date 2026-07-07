@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-07-07T09:38:35.448Z
+Generated: 2026-07-07T12:55:32.617Z
 
 Pages checked: 550
-Pages with issues: 32
-Total issues: 104
+Pages with issues: 33
+Total issues: 105
 Pages with review notes: 550
 Total review notes: 2040
 
@@ -12,9 +12,9 @@ Total review notes: 2040
 
 | Item | Count |
 |---|---:|
+| MISSING_KEYWORDS | 25 |
 | DUPLICATE_OG_TITLE | 24 |
 | DUPLICATE_TITLE | 24 |
-| MISSING_KEYWORDS | 24 |
 | MISSING_TWITTER_IMAGE | 24 |
 | DUPLICATE_KEYWORDS | 8 |
 
@@ -177,6 +177,16 @@ Total review notes: 2040
 - MISSING_TWITTER_IMAGE
 - DUPLICATE_TITLE: shared by 8 pages
 - DUPLICATE_OG_TITLE: shared by 8 pages
+
+### en/professional/index.html
+
+- title: Ashraellen — Professional Dossier
+- description length: 179
+- canonical: https://www.ashraellen.com/en/professional/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- MISSING_KEYWORDS
 
 ### es/books/index.html
 

@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T09:38:35.967Z
+Generated: 2026-07-07T12:55:33.079Z
 Pages: 551
 
 ## Index
@@ -139,7 +139,7 @@ Pages: 551
 | en/index.html | en | index.html | Ashraellen — Books, Research and Public Texts | ashraellen, books, research, public, texts, multilingual, author, project, combining, videos, forms, inner, observation, doctype, html, title, script, professional-link | ashraellen, books, public, research, texts, forms, inner, multilingual, videos, artistic, author, combining, index.html, observation, one, presence, project |
 | en/monolith/index.html | en | monolith | MONOLITH Trilogy — Ashraellen | ashraellen, monolith, trilogy, three, states, controlled, disintegration, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io | monolith, beton, gas, sludge, controlled, disintegration, states, three, trilogy, ashraellen, dystopia, about, fiction, science, social, volume |
 | en/privacy.html | en | privacy.html | Privacy Policy — Ashraellen — English | ashraellen, privacy, policy, ashraellen.com, personal, data, analytics, cookies, user, rights, contact, information, who, responsible, website, what, may, collected | data, policy, privacy, analytics, ashraellen, ashraellen.com, cookies, legal, may, platforms, website, basis, collected, consent, contact, english, external, google |
-| en/professional/index.html | en | professional | Ashraellen — Professional Dossier | ashraellen, professional, dossier, lifelong, artistic-philosophical, inquiry, meaning, books, public, forms, development, plan, support, contact, pdf, project, proposal, budget | ashraellen, professional, dossier, forms, project, public, development, meaning, observation, plan, research, about, archive, artistic-philosophical, author, books, budget, channel |
+| en/professional/index.html | en | professional | Ashraellen — Professional Dossier | _missing_ | ashraellen, professional, method, 12-month, current, dossier, founder, multilingual, observation, proposal, research, what, about, acceleration, already, archive, artistic-research, author |
 | en/public/index.html | en | public | Ashraellen — Public — English | ashraellen, public, field, talks, publications, support, thoughts, reactions, observations, where, research, meets, living, person, new, bomb, people, mass | public, ashraellen, support, thoughts, field, living, person, publications, talks, where, english, mass, meets, new, observations, open, people, reactions |
 | en/public/posts/essay/cycles/cycle-0001.html | en | public | Ashraellen — First Mini-Essay Cycle | ashraellen, public, posts, essay, cycles, cycle, 0001, first, mini-essay, power, over, thought, attention, body, door, goal, past, its | first, cycle, attention, body, over, past, thought, ashraellen, door, goal, interpretation, its, power, public, become, becomes, begins, completed |
 | en/public/posts/essay/cycles/index.html | en | public | Ashraellen — Mini-Essay Cycles | ashraellen, public, posts, essay, cycles, mini-essay, completed, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | cycles, completed, mini-essay, cycle, ashraellen, current, first, gathered, here, main, mini-essays, public, section, essay, posts |
@@ -2810,17 +2810,17 @@ Excerpt:
 - lang: en
 - section: professional
 - title: Ashraellen — Professional Dossier
-- description: Professional dossier of Ashraellen: a lifelong artistic-philosophical inquiry into meaning, books, public forms, development plan, support and contact.
+- description: Professional dossier of Ashraellen: founder background, existing multilingual artistic-research platform, method, works, current 12-month development proposal, budget and contact.
 - canonical: https://www.ashraellen.com/en/professional/
 - H1: Ashraellen
-- H2: PDF dossier, project proposal and budget | Research core | About the author | Method of observation | Professional frames | Selected works and fields | Public forms of the project | Current stage and development plan
-- H3: Artistic research | Open knowledge | Digital society | Independent digital archive | MONOLITH | Error 404: God Not Found | You Are Already Online | The Book of Whinesis
-- suggested keyword seed: ashraellen, professional, dossier, forms, project, public, development, meaning, observation, plan, research, about, archive, artistic-philosophical, author, books, budget, channel
-- candidates: public, ashraellen, project, open, research, forms, meaning, observation, archive, channel, digital, dossier, form, multilingual, already, contact, how, inquiry, media, perception, professional, support, working, about
+- H2: Founder and origin of the method | What already exists | Current 12-month acceleration proposal | What funding unlocks | Research core | About the author | Method of observation | Professional frames
+- H3: Multilingual architecture | Research and method | Literary body of work | Public research field | Independent archive | Founder-led production | Artistic research | Open knowledge
+- suggested keyword seed: ashraellen, professional, method, 12-month, current, dossier, founder, multilingual, observation, proposal, research, what, about, acceleration, already, archive, artistic-research, author
+- candidates: research, public, ashraellen, observation, project, archive, method, multilingual, open, forms, work, digital, how, language, meaning, professional, working, already, artistic, books, channel, form, independent, infrastructure
 
 Excerpt:
 
-> Professional dossier Ashraellen A mode of seeing · Artistic-philosophical inquiry · Literary and public archive This page gathers the Ashraellen project in a professional form for grant, publishing, cultural, media and institutional contexts. The main website remains a living space for readers and viewers; this dossier is its working table. PDF dossier, project proposal and budget Compact documents are available for grant, publishing, media and institutional inquiries. Download PDF dossier → Download 12-month project proposal PDF → Download budget PDF → Download budget spreadsheet → Research core Ashraellen is not merely a name, but a mode of seeing. It is a lifelong artistic-philosophical inquiry into meaning, perception, self-deception, inner freedom and the human loss of contact with reality. The work is based on the author’s ability to perceive meanings inside meanings, structures wi
+> Professional dossier Ashraellen A mode of seeing · Artistic-philosophical inquiry · Literary and public archive This page gathers the Ashraellen project in a professional form for grant, publishing, cultural, media and institutional contexts. The main website remains a living space for readers and viewers; this dossier is its working table. Founder and origin of the method Ashraellen is the working name of Nikolai Kostyshev, an independent writer and artistic researcher living in Poland. I spent nearly a decade incarcerated in Belarus. That experience trained the faculty at the centre of this project: sustained observation under pressure. I read extensively and watched, at close range, how fear, hierarchy, language, violence, belief and self-deception can reorganise a human being. Later, living across Belarus, Kazakhstan, Russia and Poland made one question increasingly unavoidable: how 
 
 ### en/public/index.html
 
