@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T09:36:02.041Z
+Generated: 2026-07-07T09:38:35.967Z
 Pages: 551
 
 ## Index
@@ -189,7 +189,7 @@ Pages: 551
 | es/books/index.html | es | books | Ashraellen — Libros | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | libros, ashraellen, books, libro, sátira, 404, abrir, audionovela, book, ciclo, ciclos, error, estás, found, god, independientes, investigaciones, las |
 | es/books/monolith/beton/index.html | es | books | Ashraellen — BETON | _missing_ | beton, ashraellen, books, del, estabilidad, memoria, monolith, para, sobre, una, anton, artístico, como, con, dentro, destripes, distopía, editada |
 | es/books/monolith/index.html | es | books | Ashraellen — MONOLITH | _missing_ | monolith, desintegración, ashraellen, beton, books, control, gas, memoria, que, sludge, una, artístico, confundirse, debe, del, distópica, este, filosófica |
-| es/books/monolith/sludge/index.html | es | books | Ashraellen — SLUDGE | _missing_ | sludge, ashraellen, books, monolith, para, sobre, una, adam, agotamiento, artístico, chaleco, como, complicidad, con, convertida, del, destripes, distopía |
+| es/books/monolith/sludge/index.html | es | books | Ashraellen — SLUDGE | _missing_ | sludge, ashraellen, books, monolith, sobre, una, adam, agotada, artístico, como, complicidad, con, del, destripes, distopía, entorno, expediente, filosófica |
 | es/books/seccus/index.html | es | books | Ashraellen — EL LIBRO SAGRADO DE SECCUS | Ashraellen, SECCUS, El Libro Sagrado de SECCUS, El Camino de la Honestidad, sátira filosófica, dinero, éxito, autoengaño, conocimiento como coartada, responsabilidad, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Libro | libro, seccus, sagrado, ashraellen, books, del, dinero, éxito, página, para, sobre, una, autoengaño, camino, coartada, como, con, conocimiento |
 | es/books/the-book-of-whinesis/index.html | es | books | Ashraellen — The Book of Whinesis — Spanish | ashraellen, books, book, whinesis, sátira, sagrada, para, quienes, han, cansado, las, vibras, positivas, productividad, infinita, culto, éxito, sobre | book, whinesis, ashraellen, books, para, sobre, cansado, capítulos, con, culto, del, dijo, estado, éxito, fragmento, han, infinita, las |
 | es/books/you-are-already-online/index.html | es | books | Ashraellen — Ya estás en la red | ashraellen, books, you, already, online, estás, red, una, novela, sonora, inmersiva, género, del, thriller, psicológico, drama, cyberpunk, sobre | estás, red, ashraellen, books, capítulo, del, los, novela, realidad, sobre, una, algoritmos, already, antes, como, cyberpunk, digital, drama |
@@ -3660,17 +3660,17 @@ Excerpt:
 - lang: es
 - section: books
 - title: Ashraellen — SLUDGE
-- description: SLUDGE es el volumen II de MONOLITH, una distopía filosófica sobre la presión convertida en entorno, el agotamiento, la complicidad y la pérdida de forma.
+- description: SLUDGE es el volumen II de MONOLITH: una distopía filosófica sobre presión viscosa, resistencia agotada, complicidad y pérdida de forma.
 - canonical: https://www.ashraellen.com/es/books/monolith/sludge/
 - H1: SLUDGE
 - H2: Expediente | Fragmento seleccionado | Sobre el libro | Sin destripes | Marco artístico y de investigación | Temas | Para quién | Lugar en la trilogía
 - H3: Viscosidad | Cansancio | Hambre | Ritual | Complicidad | Pérdida de forma
-- suggested keyword seed: sludge, ashraellen, books, monolith, para, sobre, una, adam, agotamiento, artístico, chaleco, como, complicidad, con, convertida, del, destripes, distopía
-- candidates: que, una, por, del, adam, las, solo, los, para, chaleco, como, con, más, sludge, canoso, dentro, entorno, forma, monolith, era, había, presión, sino, volumen
+- suggested keyword seed: sludge, ashraellen, books, monolith, sobre, una, adam, agotada, artístico, como, complicidad, con, del, destripes, distopía, entorno, expediente, filosófica
+- candidates: que, una, del, por, sludge, solo, las, adam, entorno, los, como, con, más, monolith, para, chaleco, persona, forma, volumen, canoso, dentro, resistencia, después, era
 
 Excerpt:
 
-> SLUDGE Una distopía filosófica donde la presión deja de parecer una pared y se convierte en un entorno viscoso, agotador e íntimo. Volumen II de MONOLITH. Expediente Volumen II Cuando el muro se ablanda, la libertad no empieza. La presión solo aprende a fluir. EXPEDIENTE N.º 2026-002S. Fase viscosa / deformación activa. Edición rusa en Google Play Books Edición inglesa en Amazon Volver a MONOLITH Fragmento seleccionado Capítulo 6 / § 6.2 El fragmento completo conserva los 59 párrafos del texto ruso seleccionado. Abrir el fragmento completo Capítulo 6. Primeros pasos por SLUDGE. § 6.2. Almacenes de Conservación de Fragmentos Para desayunar les dieron gachas. No comida en el sentido humano, sino exactamente gachas: grises, viscosas, con el sabor que aparece cuando el grano ha pasado demasiado tiempo en un saco húmedo y después se cuece no para saciar, sino para cumplir una cuota. Las sirvi
+> SLUDGE SLUDGE es una distopía filosófica sobre un mundo en el que la presión deja de parecer una pared. Se convierte en entorno: viscoso, agotador y próximo. Volumen II de la trilogía MONOLITH. Expediente Volumen II Cuando el muro se ablanda, la libertad no empieza. La presión solo aprende a fluir. EXPEDIENTE N.º 2026-002S. ESTADO: Fase viscosa / deformación activa. Leer la edición rusa en Google Play Books Leer la edición inglesa en Amazon Volver a MONOLITH Fragmento seleccionado Capítulo 6 / § 6.2 Capítulo 6. Primeros pasos por SLUDGE. § 6.2. Almacenes de Conservación de Fragmentos El fragmento muestra cómo la necesidad ordinaria, el equipo obsoleto y el lenguaje burocrático convierten la protección en imitación y la supervivencia en un servicio que la propia persona debe financiar. Abrir el fragmento completo Capítulo 6. Primeros pasos por SLUDGE. § 6.2. Almacenes de Conservación de F
 
 ### es/books/seccus/index.html
 
