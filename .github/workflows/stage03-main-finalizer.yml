@@ -1,0 +1,67 @@
+name: Stage 03 main finalizer
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  finalize:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main with history
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Execute validated Stage 03 revision
+        shell: bash
+        run: |
+          git fetch origin stage03-final-revision
+          git show origin/stage03-final-revision:.github/workflows/stage03-final-revision.yml > /tmp/stage03-final-revision.yml
+          python - <<'PY'
+          from pathlib import Path
+          import subprocess
+
+          lines = Path('/tmp/stage03-final-revision.yml').read_text(encoding='utf-8').splitlines()
+          blocks = []
+          i = 0
+          while i < len(lines):
+              line = lines[i]
+              if line.strip() == 'run: |':
+                  indent = len(line) - len(line.lstrip())
+                  i += 1
+                  body = []
+                  while i < len(lines):
+                      current = lines[i]
+                      current_indent = len(current) - len(current.lstrip()) if current.strip() else indent + 2
+                      if current.strip() and current_indent <= indent:
+                          break
+                      body.append(current[indent + 2:] if len(current) >= indent + 2 else '')
+                      i += 1
+                  blocks.append('\n'.join(body))
+                  continue
+              i += 1
+
+          if len(blocks) < 3:
+              raise SystemExit(f'Expected at least three validated blocks, found {len(blocks)}')
+
+          subprocess.run(['bash', '-euo', 'pipefail', '-c', blocks[0]], check=True)
+          subprocess.run(['bash', '-euo', 'pipefail', '-c', blocks[1]], check=True)
+          Path('.github/workflows/stage03-main-finalizer.yml').unlink()
+          subprocess.run(['bash', '-euo', 'pipefail', '-c', blocks[2]], check=True)
+          PY
+
+      - name: Commit clean final state
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Stage 03: finalize SLUDGE source parity and clean scope"
+          git push origin HEAD:main
