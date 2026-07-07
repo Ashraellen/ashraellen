@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T08:04:47.502Z
+Generated: 2026-07-07T08:09:49.820Z
 Pages: 551
 
 ## Index
@@ -128,7 +128,7 @@ Pages: 551
 | en/books/index.html | en | books | Ashraellen — Books | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | books, book, ashraellen, 404, god, research, satire, about, already, audio, cycle, cycles, error, found, monolith, novel, online, open |
 | en/books/monolith/beton/index.html | en | books | Ashraellen — BETON | _missing_ | beton, monolith, about, ashraellen, books, crack, first, memory, stability, anton, artistic-research, book, case, dystopia, edited, excerpt, file, frame |
 | en/books/monolith/index.html | en | books | Ashraellen — MONOLITH | _missing_ | monolith, ashraellen, beton, books, collapse, control, gas, memory, sludge, what, about, artistic-research, confused, crack, dystopian, fear, first, form |
-| en/books/monolith/sludge/index.html | en | books | Ashraellen — SLUDGE — English | ashraellen, books, monolith, sludge, volume, trilogy, file, description, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, file, monolith, volume, trilogy, ashraellen, begins, being, books, description, human, all, becomes, break, does, english, first, grows |
+| en/books/monolith/sludge/index.html | en | books | Ashraellen — SLUDGE | _missing_ | sludge, monolith, about, ashraellen, books, adam, artistic-research, book, case, complicity, dystopia, environment, excerpt, exhausted, file, form, frame, had |
 | en/books/radiance/index.html | en | books | Ashraellen — Radiance \| Northern Tales of the True History of the World | ashraellen, books, radiance, northern, tales, true, history, world, literary-philosophical, practice-based, research, cycle, about, how, ancient, stories, preserve, imaginal | radiance, books, cycle, instructions, research, world, ancient, artistic, ashraellen, northern, what, about, book, confused, form, frame, history, how |
 | en/books/radiance/sampo/index.html | en | books | Ashraellen — Sampo \| Radiance, Book I | ashraellen, books, radiance, sampo, book, northern, literary-philosophical, tale, abundance, possession, participation, world, where, myth, has, yet, separated, labour | sampo, book, radiance, abundance, ashraellen, books, northern, research, where, world, about, artistic, chapter, cultural, cycle, does, foundations, frame |
 | en/books/radiance/song/index.html | en | books | Ashraellen — Song \| Radiance, Book II | ashraellen, books, radiance, song, book, novel, about, sound, hearing, language, warsaw, does, become, performance, number, selected, chapter, without | song, book, radiance, about, language, ashraellen, become, books, does, hearing, sound, artistic, chapter, city, cultural, cycle, foundations, frame |
@@ -2622,18 +2622,18 @@ Excerpt:
 
 - lang: en
 - section: books
-- title: Ashraellen — SLUDGE — English
-- description: SLUDGE — Volume II of the MONOLITH trilogy. SLUDGE File Description SLUDGE Volume II of the MONOLITH trilogy. File Volume II A human being does not break all at once. First, he grows tired of resisting. Then he begins…
+- title: Ashraellen — SLUDGE
+- description: SLUDGE is Volume II of MONOLITH, a philosophical dystopia about viscous pressure, exhausted resistance, complicity and the loss of form.
 - canonical: https://www.ashraellen.com/en/books/monolith/sludge/
 - H1: SLUDGE
-- H2: File | Description
-- H3: _missing_
-- suggested keyword seed: sludge, file, monolith, volume, trilogy, ashraellen, begins, being, books, description, human, all, becomes, break, does, english, first, grows
-- candidates: sludge, his, volume, being, human, becomes, begins, file, monolith, they, trilogy, where, does, first, form, person, process, social, story, world, about, after, all, break
+- H2: Case file | Selected excerpt | About the book | Without spoilers | Artistic-research frame | Themes | For whom | Place in the trilogy
+- H3: Viscosity | Fatigue | Hunger | Ritual | Complicity | Loss of form
+- suggested keyword seed: sludge, monolith, about, ashraellen, books, adam, artistic-research, book, case, complicity, dystopia, environment, excerpt, exhausted, file, form, frame, had
+- candidates: was, his, sludge, had, environment, adam, monolith, through, vest, you, only, their, they, too, volume, already, form, grey-haired, person, resistance, your, does, first, inside
 
 Excerpt:
 
-> SLUDGE Volume II of the MONOLITH trilogy. File Volume II A human being does not break all at once. First, he grows tired of resisting. Then he begins to agree. FILE № 2026-001B. Index: 6666548A. STATUS: Top Secret. Read in English on Amazon Back to series Description about the book SLUDGE is a philosophical dystopia, psychological thriller, and social science fiction novel about a world where a human being ceases to be a person and gradually becomes material of the environment. It is the second volume of the MONOLITH trilogy and the stage of reality decompression. If BETON was the story of a system that hardened too quickly, SLUDGE is the story of what happens after the first crack. The monolithic structure no longer merely presses from the outside; it begins to process the human being from within. Stability stops being a wall and becomes a viscous medium where memory, guilt, fear, and r
+> SLUDGE SLUDGE is a philosophical dystopia about a world in which pressure no longer resembles a wall. It becomes an environment: viscous, exhausting and intimate. Volume II of the MONOLITH trilogy. Case file Volume II When the wall softens, freedom does not begin. Pressure simply learns to flow. CASE No. 2026-002S. STATUS: Viscous phase / active deformation. Read the Russian edition on Google Play Books Read the English edition on Amazon Back to MONOLITH Selected excerpt Chapter 6 / § 6.2 Chapter 6. First Steps through Sludge. § 6.2. Warehouses for the Preservation of Shards The excerpt shows how ordinary need, obsolete equipment and bureaucratic language turn protection into imitation and survival into a service people must finance themselves. Open the complete excerpt Chapter 6. First Steps through Sludge. § 6.2. Warehouses for the Preservation of Shards For breakfast they were given p
 
 ### en/books/radiance/index.html
 
