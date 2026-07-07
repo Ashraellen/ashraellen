@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T13:03:19.952Z
+Generated: 2026-07-07T13:04:08.775Z
 Pages: 551
 
 ## Index
@@ -140,7 +140,7 @@ Pages: 551
 | en/monolith/index.html | en | monolith | MONOLITH Trilogy — Ashraellen | ashraellen, monolith, trilogy, three, states, controlled, disintegration, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io | monolith, beton, gas, sludge, controlled, disintegration, states, three, trilogy, ashraellen, dystopia, about, fiction, science, social, volume |
 | en/privacy.html | en | privacy.html | Privacy Policy — Ashraellen — English | ashraellen, privacy, policy, ashraellen.com, personal, data, analytics, cookies, user, rights, contact, information, who, responsible, website, what, may, collected | data, policy, privacy, analytics, ashraellen, ashraellen.com, cookies, legal, may, platforms, website, basis, collected, consent, contact, english, external, google |
 | en/professional/index.html | en | professional | Ashraellen — Professional Dossier | _missing_ | ashraellen, professional, method, 12-month, current, dossier, founder, multilingual, observation, proposal, research, what, about, acceleration, already, archive, artistic-research, author |
-| en/public/index.html | en | public | Ashraellen — Public — English | ashraellen, public, field, talks, publications, support, thoughts, reactions, observations, where, research, meets, living, person, new, bomb, people, mass | public, ashraellen, support, thoughts, field, living, person, publications, talks, where, english, mass, meets, new, observations, open, people, reactions |
+| en/public/index.html | en | public | Ashraellen — Public — English | _missing_ | public, ashraellen, support, thoughts, field, living, person, publications, talks, where, english, mass, meets, new, observations, open, people, reactions |
 | en/public/posts/essay/cycles/cycle-0001.html | en | public | Ashraellen — First Mini-Essay Cycle | ashraellen, public, posts, essay, cycles, cycle, 0001, first, mini-essay, power, over, thought, attention, body, door, goal, past, its | first, cycle, attention, body, over, past, thought, ashraellen, door, goal, interpretation, its, power, public, become, becomes, begins, completed |
 | en/public/posts/essay/cycles/index.html | en | public | Ashraellen — Mini-Essay Cycles | ashraellen, public, posts, essay, cycles, mini-essay, completed, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | cycles, completed, mini-essay, cycle, ashraellen, current, first, gathered, here, main, mini-essays, public, section, essay, posts |
 | en/public/posts/essay/index.html | en | public | Ashraellen — Mini-Essays — English | ashraellen, public, posts, essay, mini-essays, first, cycle, power, over, thought, attention, body, door, goal, past, its, interpretation, doctype | first, mini-essays, one, over, attention, body, past, thought, ashraellen, cycle, door, goal, interpretation, its, power, public, angle, become |
