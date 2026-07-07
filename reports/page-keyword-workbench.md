@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T07:56:02.640Z
+Generated: 2026-07-07T08:00:17.646Z
 Pages: 551
 
 ## Index
@@ -247,7 +247,7 @@ Pages: 551
 | fi/kone/index.html | fi | kone | Ashraellen — tiivistelmä Koneen Säätiölle | ashraellen, kone, tiivistelmä, koneen, säätiölle, suomenkielinen, ashraellen-hankkeesta, elämänmittainen, taiteellis-filosofinen, tutkimus, merkityksestä, kirjallisuudesta, videoista, monikielisestä, arkistosta, tutkimuksen, ydin, tekijä | ashraellen, koneen, kone, säätiölle, tiivistelmä, tutkimuksen, tutkimus, arkistosta, ashraellen-hankkeesta, asiakirjat, elämänmittainen, hankkeen, infrastruktuuri, julkinen, kirjallisuudesta, kuukauden, merkityksestä, miten |
 | flow/index.html | root | flow | FLOW — Ashraellen | ashraellen, flow, playlist, youtube, music, doctype, html, title, window.location.replace, https, music.youtube.com, list, plliwih1l4vxtrzs4, wvti69pbdhddk4ny, iuwpb0ptwi1d1elk, script, root, 050505 | flow, ashraellen, playlist, music, youtube, open, opening |
 | fr/books/index.html | fr | books | Ashraellen — Livres | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | livres, ashraellen, books, livre, satire, 404, audio, book, cycle, cycles, d’ashraellen, déjà, des, error, found, god, indépendants, les |
-| fr/books/monolith/beton/index.html | fr | books | Ashraellen — BETON — French | ashraellen, books, monolith, beton, volume, trilogie, dossier, description, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, dossier, monolith, volume, commence, par, trilogie, ashraellen, béton, books, description, pas, une, d’appeler, est, french, l’habitude, monde |
+| fr/books/monolith/beton/index.html | fr | books | Ashraellen — BETON | _missing_ | beton, ashraellen, books, dans, est, monolith, pour, qui, stabilité, une, anton, artistique, cadre, choisi, cœur, des, divulgâcher, dossier |
 | fr/books/monolith/index.html | fr | books | Ashraellen — MONOLITH | _missing_ | monolith, ashraellen, beton, books, contrôle, des, est, gas, mémoire, pas, une, artistique, cadre, carte, confondre, dans, désagrégation, dystopique |
 | fr/books/monolith/sludge/index.html | fr | books | Ashraellen — SLUDGE — French | ashraellen, books, monolith, sludge, volume, trilogie, dossier, description, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, dossier, monolith, volume, trilogie, ashraellen, books, brise, description, humain, l’être, pas, coup, d’abord, d’un, est, fatigue, french |
 | fr/books/seccus/index.html | fr | books | Ashraellen — LE LIVRE SACRÉ DE SECCUS | Ashraellen, SECCUS, Le Livre Sacré de SECCUS, Le Chemin de l’Honnêteté, satire philosophique, argent, réussite, auto-illusion, savoir comme alibi, responsabilité, Sacrunomicon, Ordo Sacrunomiconis, Tétra-Livre | livre, seccus, sacré, ashraellen, books, est, philosophique, pour, qui, réussite, sur, une, alibi, cadre, chemin, choisie, choix, comme |
@@ -4645,18 +4645,18 @@ Excerpt:
 
 - lang: fr
 - section: books
-- title: Ashraellen — BETON — French
-- description: BETON — Volume I de la trilogie MONOLITH. BETON Dossier Description BETON Volume I de la trilogie MONOLITH. Dossier Volume I Le béton ne commence pas par un mur. Il commence par l’habitude d’appeler une prison…
+- title: Ashraellen — BETON
+- description: BETON est le volume I de MONOLITH : une dystopie philosophique sur la stabilité durcie, la mémoire réécrite et la première fissure au cœur du Système.
 - canonical: https://www.ashraellen.com/fr/books/monolith/beton/
 - H1: BETON
-- H2: Dossier | Description
-- H3: _missing_
-- suggested keyword seed: beton, dossier, monolith, volume, commence, par, trilogie, ashraellen, béton, books, description, pas, une, d’appeler, est, french, l’habitude, monde
-- candidates: beton, une, est, volume, commence, dossier, monolith, par, trilogie, béton, monde, pas, prison, trop, d’appeler, dans, des, description, être, l’édition, l’habitude, mémoire, mur, première
+- H2: Dossier | Extrait choisi | À propos du livre | Sans divulgâcher | Cadre artistique et de recherche | Thèmes | Pour qui | Place dans la trilogie
+- H3: Stabilité | Mémoire | Contrôle | Bruit | Culpabilité | Première fissure
+- suggested keyword seed: beton, ashraellen, books, dans, est, monolith, pour, qui, stabilité, une, anton, artistique, cadre, choisi, cœur, des, divulgâcher, dossier
+- candidates: une, les, dans, est, que, pas, des, beton, pour, anton, qui, stabilité, sur, mémoire, mark, monolith, plus, c’est, comme, fissure, nous, première, sens, par
 
 Excerpt:
 
-> BETON Volume I de la trilogie MONOLITH. Dossier Volume I Le béton ne commence pas par un mur. Il commence par l’habitude d’appeler une prison stabilité. DOSSIER № 2026-001B. Index : 6666548A. STATUT : Top secret. Lire en anglais sur Amazon Retour à la série Description à propos du livre BETON est une dystopie philosophique, un thriller psychologique et une science-fiction sociale sur un monde où la stabilité est devenue une nouvelle forme de prison. C’est le premier volume de la trilogie MONOLITH et la première étape de vérification de la réalité. Anton n’est pas seulement un employé. Il est un instrument du Système, destiné à calibrer les significations humaines. Son travail consiste à détecter et à lisser le « bruit » : souvenirs trop vifs, sentiments trop aigus, questions trop dangereuses. Dans ce monde, tout ce qui trouble la structure monolithique doit être édité. La peur, l’amour, 
+> BETON BETON est une dystopie philosophique sur un monde où la stabilité est devenue une prison, où la mémoire est considérée comme une menace et où la première fissure apparaît à l’intérieur d’un système qui se croit encore éternel. Volume I de la trilogie MONOLITH. Dossier Volume I Le béton ne commence pas par un mur. Il commence par l’habitude d’appeler une prison stabilité. DOSSIER N° 2026-001B. Indice : 6666548A. STATUT : Secret absolu. Lire l’édition russe sur Google Play Books Lire l’édition anglaise sur Amazon Retour à MONOLITH Extrait choisi Chapitre 9 / § 9.1 Chapitre 9. Protocole « Fierté » § 9.1. La meilleure colle pour la société L’extrait révèle l’un des mécanismes de BETON : comment la douleur devient slogan, la culpabilité colle sociale, et la perte humaine une image administrable de la stabilité. Ouvrir l’extrait complet Chapitre 9. Protocole « Fierté » § 9.1. La meilleur
 
 ### fr/books/monolith/index.html
 
