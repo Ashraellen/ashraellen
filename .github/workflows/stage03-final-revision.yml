@@ -1,0 +1,177 @@
+name: Stage 03 final revision
+
+on:
+  pull_request:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  revise:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout revision branch with history
+        uses: actions/checkout@v4
+        with:
+          ref: stage03-final-revision
+          fetch-depth: 0
+
+      - name: Align SLUDGE framing and clean Stage 03 scope
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          root = Path('.')
+          replacements = {
+            'en': {
+              'SLUDGE is a philosophical dystopia about a world in which pressure no longer resembles a wall. It becomes an environment: viscous, exhausting and intimate. Volume II of the MONOLITH trilogy.': 'SLUDGE is a philosophical dystopia about a world in which pressure no longer resembles a wall: it seeps into everyday life, language and the body, blurs boundaries and turns the human being into material of the environment. Volume II of the MONOLITH trilogy: viscous deformation, exhausted resistance and complicity as habit.',
+              'When the wall softens, freedom does not begin. Pressure simply learns to flow.': 'A person does not break all at once. First they grow tired of resisting. Then they begin to agree.',
+              'CASE No. 2026-002S. STATUS: Viscous phase / active deformation.': 'CASE No. 2026-001B. Index: 6666548A. STATUS: Top Secret.',
+              'The excerpt shows how ordinary need, obsolete equipment and bureaucratic language turn protection into imitation and survival into a service people must finance themselves.': 'The excerpt shows how ordinary need, ritualised procedure, fear, silence and complicity become the everyday composition of SLUDGE.'},
+            'pl': {
+              'SLUDGE to filozoficzna antyutopia o świecie, w którym presja przestaje przypominać ścianę. Staje się środowiskiem: lepkim, wyczerpującym i bliskim. Tom II trylogii MONOLITH.': 'SLUDGE to filozoficzna antyutopia o świecie, w którym presja przestaje przypominać ścianę: przenika do codzienności, języka i ciała, zaciera granice i zamienia człowieka w materiał środowiska. Tom II trylogii MONOLITH: lepka deformacja, zmęczenie oporu i współudział jako nawyk.',
+              'Kiedy ściana mięknie, wolność się nie zaczyna. Presja po prostu uczy się płynąć.': 'Człowiek nie łamie się od razu. Najpierw męczy się stawianiem oporu. Potem zaczyna się zgadzać.',
+              'SPRAWA NR 2026-002S. STATUS: Faza lepka / aktywna deformacja.': 'SPRAWA NR 2026-001B. Indeks: 6666548A. STATUS: Ściśle tajne.',
+              'Fragment pokazuje, jak zwykła potrzeba, zużyty sprzęt i język biurokracji zamieniają ochronę w imitację, a przetrwanie w usługę, którą człowiek musi sfinansować sam.': 'Fragment pokazuje, jak zwykła potrzeba, zrytualizowana procedura, strach, milczenie i współudział stają się codziennym tworzywem SLUDGE.'},
+            'be': {
+              'SLUDGE — філасофская антыўтопія пра свет, у якім ціск больш не нагадвае сцяну. Ён становіцца асяроддзем: вязкім, знясільвальным і блізкім. Том II трылогіі MONOLITH.': 'SLUDGE — філасофская антыўтопія пра свет, дзе ціск больш не падобны да сцяны: ён прасочваецца ў побыт, мову і цела, размывае межы і ператварае чалавека ў матэрыял асяроддзя. Том II трылогіі MONOLITH: вязкая дэфармацыя, стома супраціву і саўдзел як звычка.',
+              'Калі сцяна размякчаецца, свабода не пачынаецца. Ціск проста вучыцца цячы.': 'Чалавек не ламаецца адразу. Спачатку ён стамляецца супраціўляцца. Потым пачынае згаджацца.',
+              'СПРАВА № 2026-002S. СТАТУС: Вязкая фаза / актыўная дэфармацыя.': 'СПРАВА № 2026-001B. Індэкс: 6666548A. СТАТУС: Цалкам сакрэтна.',
+              'Фрагмент паказвае, як звычайная патрэба, састарэлае абсталяванне і мова бюракратыі ператвараюць абарону ў імітацыю, а выжыванне — у паслугу, якую чалавек павінен аплаціць сам.': 'Фрагмент паказвае, як звычайная патрэба, рытуалізаваная працэдура, страх, маўчанне і саўдзел становяцца паўсядзённай матэрыяй SLUDGE.'},
+            'uk': {
+              'SLUDGE — філософська антиутопія про світ, у якому тиск більше не нагадує стіну. Він стає середовищем: в’язким, виснажливим і близьким. Том II трилогії MONOLITH.': 'SLUDGE — філософська антиутопія про світ, де тиск більше не схожий на стіну: він просочується в побут, мову й тіло, розмиває межі та перетворює людину на матеріал середовища. Том II трилогії MONOLITH: в’язка деформація, втома опору та співучасть як звичка.',
+              'Коли стіна розм’якшується, свобода не починається. Тиск просто вчиться текти.': 'Людина не ламається одразу. Спочатку вона втомлюється чинити опір. Потім починає погоджуватися.',
+              'СПРАВА № 2026-002S. СТАТУС: В’язка фаза / активна деформація.': 'СПРАВА № 2026-001B. Індекс: 6666548A. СТАТУС: Цілком таємно.',
+              'Фрагмент показує, як звичайна потреба, застаріле спорядження й мова бюрократії перетворюють захист на імітацію, а виживання — на послугу, яку людина мусить оплатити сама.': 'Фрагмент показує, як звичайна потреба, ритуалізована процедура, страх, мовчання та співучасть стають повсякденною матерією SLUDGE.'},
+            'de': {
+              'SLUDGE ist eine philosophische Dystopie über eine Welt, in der Druck nicht mehr wie eine Wand aussieht. Er wird zur Umgebung: zähflüssig, erschöpfend und nah. Band II der MONOLITH-Trilogie.': 'SLUDGE ist eine philosophische Dystopie über eine Welt, in der Druck nicht mehr einer Wand gleicht: Er sickert in Alltag, Sprache und Körper ein, verwischt Grenzen und macht den Menschen zum Material seiner Umgebung. Band II der MONOLITH-Trilogie: zähflüssige Verformung, erschöpfter Widerstand und Mittäterschaft als Gewohnheit.',
+              'Wenn die Wand weich wird, beginnt keine Freiheit. Der Druck lernt nur zu fließen.': 'Ein Mensch zerbricht nicht sofort. Zuerst wird er des Widerstands müde. Dann beginnt er zuzustimmen.',
+              'AKTE NR. 2026-002S. STATUS: Zähflüssige Phase / aktive Verformung.': 'AKTE NR. 2026-001B. Index: 6666548A. STATUS: Streng geheim.',
+              'Der Auszug zeigt, wie gewöhnlicher Bedarf, veraltete Ausrüstung und bürokratische Sprache Schutz in Nachahmung und Überleben in eine selbst zu finanzierende Dienstleistung verwandeln.': 'Der Auszug zeigt, wie gewöhnliche Not, ritualisierte Abläufe, Angst, Schweigen und Mittäterschaft zum alltäglichen Stoff von SLUDGE werden.'},
+            'fr': {
+              'SLUDGE est une dystopie philosophique sur un monde où la pression ne ressemble plus à un mur. Elle devient un milieu : visqueux, épuisant et proche. Volume II de la trilogie MONOLITH.': 'SLUDGE est une dystopie philosophique sur un monde où la pression ne ressemble plus à un mur : elle s’infiltre dans le quotidien, le langage et le corps, brouille les frontières et transforme l’être humain en matériau du milieu. Volume II de la trilogie MONOLITH : déformation visqueuse, épuisement de la résistance et complicité devenue habitude.',
+              'Quand le mur ramollit, la liberté ne commence pas. La pression apprend simplement à couler.': 'Un être humain ne se brise pas d’un coup. D’abord, il se fatigue de résister. Puis il commence à consentir.',
+              'DOSSIER N° 2026-002S. STATUT : Phase visqueuse / déformation active.': 'DOSSIER N° 2026-001B. Indice : 6666548A. STATUT : Strictement secret.',
+              'L’extrait montre comment le besoin ordinaire, l’équipement obsolète et la langue bureaucratique transforment la protection en imitation, et la survie en service que chacun doit financer lui-même.': 'L’extrait montre comment le besoin ordinaire, la procédure ritualisée, la peur, le silence et la complicité deviennent la matière quotidienne de SLUDGE.'},
+            'es': {
+              'SLUDGE es una distopía filosófica sobre un mundo en el que la presión deja de parecer una pared. Se convierte en entorno: viscoso, agotador y próximo. Volumen II de la trilogía MONOLITH.': 'SLUDGE es una distopía filosófica sobre un mundo donde la presión ya no se parece a una pared: se filtra en la vida cotidiana, el lenguaje y el cuerpo, borra los límites y convierte a la persona en material del entorno. Volumen II de la trilogía MONOLITH: deformación viscosa, agotamiento de la resistencia y complicidad convertida en hábito.',
+              'Cuando el muro se ablanda, la libertad no empieza. La presión solo aprende a fluir.': 'Una persona no se quiebra de golpe. Primero se cansa de resistir. Después empieza a asentir.',
+              'EXPEDIENTE N.º 2026-002S. ESTADO: Fase viscosa / deformación activa.': 'EXPEDIENTE N.º 2026-001B. Índice: 6666548A. ESTADO: Estrictamente secreto.',
+              'El fragmento muestra cómo la necesidad ordinaria, el equipo obsoleto y el lenguaje burocrático convierten la protección en imitación y la supervivencia en un servicio que la propia persona debe financiar.': 'El fragmento muestra cómo la necesidad ordinaria, el procedimiento ritualizado, el miedo, el silencio y la complicidad se convierten en la materia cotidiana de SLUDGE.'},
+            'pt': {
+              'SLUDGE é uma distopia filosófica sobre um mundo em que a pressão já não se parece com uma parede. Ela se torna ambiente: viscosa, exaustiva e íntima. Volume II da trilogia MONOLITH.': 'SLUDGE é uma distopia filosófica sobre um mundo em que a pressão já não se parece com uma parede: infiltra-se na vida cotidiana, na linguagem e no corpo, desfaz limites e transforma a pessoa em material do ambiente. Volume II da trilogia MONOLITH: deformação viscosa, desgaste da resistência e cumplicidade como hábito.',
+              'Quando a parede amolece, a liberdade não começa. A pressão apenas aprende a fluir.': 'Uma pessoa não se quebra de uma vez. Primeiro se cansa de resistir. Depois começa a concordar.',
+              'DOSSIÊ N.º 2026-002S. STATUS: Fase viscosa / deformação ativa.': 'DOSSIÊ N.º 2026-001B. Índice: 6666548A. STATUS: Ultrassecreto.',
+              'O trecho mostra como a necessidade comum, o equipamento obsoleto e a linguagem burocrática transformam proteção em imitação e sobrevivência num serviço que a própria pessoa precisa financiar.': 'O trecho mostra como a necessidade comum, o procedimento ritualizado, o medo, o silêncio e a cumplicidade se tornam a matéria cotidiana de SLUDGE.'}
+          }
+
+          for lang, pairs in replacements.items():
+              path = root / lang / 'books/monolith/sludge/index.html'
+              text = path.read_text(encoding='utf-8')
+              for old, new in pairs.items():
+                  count = text.count(old)
+                  if count != 1:
+                      raise SystemExit(f'{lang}: expected one occurrence, found {count}: {old[:80]}')
+                  text = text.replace(old, new, 1)
+              path.write_text(text, encoding='utf-8')
+          PY
+
+          git checkout c830f241b75e07bcfa44184dd69dbc6761b37e4d -- en/index.html en/public/index.html en/professional/index.html
+          rm -f .stage03_label_pass.py .github/workflows/stage03-label-pass.yml
+          rm -f .github/workflows/stage03-final-revision.yml
+
+      - name: Regenerate normal repository reports
+        shell: bash
+        run: |
+          node scripts/generate-sitemap.js
+          node scripts/audit-page-metadata.js
+          node scripts/export-page-keyword-workbench.js
+
+      - name: Validate final Stage 03 revision
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import json, re, subprocess
+
+          root = Path('.')
+          langs = ['en','pl','be','uk','de','fr','es','pt']
+          expected_new = {
+            'en': ['A person does not break all at once.', 'CASE No. 2026-001B.', 'ritualised procedure'],
+            'pl': ['Człowiek nie łamie się od razu.', 'SPRAWA NR 2026-001B.', 'zrytualizowana procedura'],
+            'be': ['Чалавек не ламаецца адразу.', 'СПРАВА № 2026-001B.', 'рытуалізаваная працэдура'],
+            'uk': ['Людина не ламається одразу.', 'СПРАВА № 2026-001B.', 'ритуалізована процедура'],
+            'de': ['Ein Mensch zerbricht nicht sofort.', 'AKTE NR. 2026-001B.', 'ritualisierte Abläufe'],
+            'fr': ['Un être humain ne se brise pas d’un coup.', 'DOSSIER N° 2026-001B.', 'procédure ritualisée'],
+            'es': ['Una persona no se quiebra de golpe.', 'EXPEDIENTE N.º 2026-001B.', 'procedimiento ritualizado'],
+            'pt': ['Uma pessoa não se quebra de uma vez.', 'DOSSIÊ N.º 2026-001B.', 'procedimento ritualizado']
+          }
+          old_markers = ['2026-002S', 'When the wall softens', 'Kiedy ściana mięknie', 'Калі сцяна размякчаецца', 'Коли стіна розм’якшується', 'Wenn die Wand weich wird', 'Quand le mur ramollit', 'Cuando el muro se ablanda', 'Quando a parede amolece']
+
+          def git_show(ref, path):
+              return subprocess.check_output(['git','show',f'{ref}:{path}'])
+
+          def block(raw, tag):
+              m = re.search(fr'<{tag}\b[^>]*>[\s\S]*?</{tag}>', raw, re.I)
+              if not m:
+                  raise AssertionError(f'missing {tag}')
+              return m.group(0)
+
+          for lang in langs:
+              rel = f'{lang}/books/monolith/sludge/index.html'
+              raw = (root / rel).read_text(encoding='utf-8')
+              old = git_show('0e7e31969a3a25d83b4f402b43c8980b34b469d9', rel).decode('utf-8')
+              assert block(raw, 'head') == block(old, 'head'), f'{lang}: metadata/head changed'
+              assert block(raw, 'details') == block(old, 'details'), f'{lang}: literary excerpt changed'
+              seq = [int(x) for x in re.findall(r'data-p="(\d+)"', block(raw, 'details'))]
+              assert seq == list(range(1,60)), f'{lang}: paragraph sequence {seq[:3]}...{seq[-3:]}'
+              scripts = re.findall(r'<script type="application/ld\+json">([\s\S]*?)</script>', raw)
+              assert len(scripts) == 1, f'{lang}: JSON-LD count'
+              graph = json.loads(scripts[0]).get('@graph')
+              assert isinstance(graph, list) and len(graph) == 6, f'{lang}: metadata graph'
+              for marker in expected_new[lang]:
+                  assert marker in raw, f'{lang}: missing {marker}'
+              for marker in old_markers:
+                  assert marker not in raw, f'{lang}: stale alternate block {marker}'
+              assert '6666548A' in raw
+              assert 'innerHTML' not in raw and 'textContent' not in raw
+              print(f'{lang}: PASS — head/excerpt preserved; 59/59; framing current')
+
+          for rel in ['en/index.html','en/public/index.html','en/professional/index.html']:
+              assert (root / rel).read_bytes() == git_show('c830f241b75e07bcfa44184dd69dbc6761b37e4d', rel), f'{rel}: not restored'
+              print(f'{rel}: exact c830 restoration PASS')
+
+          for rel in ['.stage03_label_pass.py','.github/workflows/stage03-label-pass.yml','.github/workflows/stage03-final-revision.yml']:
+              assert not (root / rel).exists(), f'temporary file remains: {rel}'
+
+          allowed = set()
+          for lang in langs:
+              allowed.update({
+                f'{lang}/books/monolith/index.html',
+                f'{lang}/books/monolith/beton/index.html',
+                f'{lang}/books/monolith/sludge/index.html'
+              })
+          allowed.update({
+            'sitemap.xml',
+            'reports/page-keyword-workbench.json',
+            'reports/page-keyword-workbench.md',
+            'reports/page-metadata-audit.md'
+          })
+          changed = set(subprocess.check_output(['git','diff','--name-only','c830f241b75e07bcfa44184dd69dbc6761b37e4d','--'], text=True).splitlines())
+          assert changed == allowed, f'scope mismatch\nextra={sorted(changed-allowed)}\nmissing={sorted(allowed-changed)}'
+          assert len(changed) == 28
+          print('scope: PASS — exactly 24 authorized HTML pages + 4 normal generated artifacts')
+          PY
+
+      - name: Commit validated revision to branch
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Stage 03: finalize SLUDGE source parity and clean scope"
+          git push origin HEAD:stage03-final-revision
