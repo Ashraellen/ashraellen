@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T08:20:30.609Z
+Generated: 2026-07-07T08:24:38.589Z
 Pages: 551
 
 ## Index
@@ -68,7 +68,7 @@ Pages: 551
 | de/books/index.html | de | books | Ashraellen — Bücher | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | bücher, ashraellen, und, books, buch, satire, 404, audioroman, bereits, bist, book, buchzyklen, das, der, die, eigenständige, ein, eine |
 | de/books/monolith/beton/index.html | de | books | Ashraellen — BETON | _missing_ | beton, ashraellen, books, das, den, der, für, ist, monolith, über, und, von, akte, ausgewählter, auszug, band, buch, die |
 | de/books/monolith/index.html | de | books | Ashraellen — MONOLITH | _missing_ | monolith, ist, der, und, ashraellen, books, den, eine, erinnerung, gas, kontrolle, nicht, was, bände, beton, darf, des, die |
-| de/books/monolith/sludge/index.html | de | books | Ashraellen — SLUDGE — German | ashraellen, books, monolith, sludge, band, der, monolith-trilogie, akte, beschreibung, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | sludge, akte, band, der, monolith-trilogie, ashraellen, beschreibung, books, ein, mensch, nicht, wird, beginnt, dann, die, german, ist, leisten |
+| de/books/monolith/sludge/index.html | de | books | Ashraellen — SLUDGE | _missing_ | sludge, ashraellen, books, das, der, eine, ist, monolith, über, und, von, akte, als, ausgewählter, auszug, band, buch, dem |
 | de/books/seccus/index.html | de | books | Ashraellen — DAS HEILIGE BUCH SECCUS | Ashraellen, SECCUS, Das Heilige Buch SECCUS, Der Weg der Ehrlichkeit, philosophische Satire, Geld, Erfolg, Selbsttäuschung, Wissen als Alibi, Verantwortung, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Buch | das, buch, der, die, seccus, heilige, und, ashraellen, books, des, für, ist, seite, über, alibi, als, ausgewählte, buches |
 | de/books/the-book-of-whinesis/index.html | de | books | Ashraellen — The Book of Whinesis — German | ashraellen, books, book, whinesis, sakrale, satire, für, alle, die, von, positiven, vibes, endloser, produktivität, und, dem, kult, des | book, whinesis, ashraellen, books, des, die, und, alle, auf, auszug, buch, das, dem, den, der, endloser, erfolgs, erste |
 | de/books/you-are-already-online/index.html | de | books | Ashraellen — Du bist bereits online | ashraellen, books, you, already, online, bist, bereits, ein, immersiver, audio-roman, genre, des, psychologischen, thrillers, und, cyberpunk-dramas, über, digitale | bereits, online, bist, des, und, ashraellen, books, das, ein, über, algorithmen, already, audio-roman, auszug, buch, cyberpunk-dramas, den, der |
@@ -1602,18 +1602,18 @@ Excerpt:
 
 - lang: de
 - section: books
-- title: Ashraellen — SLUDGE — German
-- description: SLUDGE — Band II der MONOLITH-Trilogie. SLUDGE Akte Beschreibung SLUDGE Band II der MONOLITH-Trilogie. Akte Band II Ein Mensch zerbricht nicht sofort. Zuerst wird er müde, Widerstand zu leisten. Dann beginnt er…
+- title: Ashraellen — SLUDGE
+- description: SLUDGE ist Band II von MONOLITH: eine philosophische Dystopie über zähflüssigen Druck, erschöpften Widerstand, Mittäterschaft und Formverlust.
 - canonical: https://www.ashraellen.com/de/books/monolith/sludge/
 - H1: SLUDGE
-- H2: Akte | Beschreibung
-- H3: _missing_
-- suggested keyword seed: sludge, akte, band, der, monolith-trilogie, ashraellen, beschreibung, books, ein, mensch, nicht, wird, beginnt, dann, die, german, ist, leisten
-- candidates: der, sludge, band, die, ist, nicht, und, akte, ein, mensch, monolith-trilogie, wird, beginnt, eine, sie, sofort, über, allmählich, als, ausgabe, beschreibung, dann, das, den
+- H2: Akte | Ausgewählter Auszug | Über das Buch | Ohne Spoiler | Künstlerisch-forschender Rahmen | Themen | Für wen | Platz in der Trilogie
+- H3: Zähflüssigkeit | Erschöpfung | Hunger | Ritual | Mittäterschaft | Formverlust
+- suggested keyword seed: sludge, ashraellen, books, das, der, eine, ist, monolith, über, und, von, akte, als, ausgewählter, auszug, band, buch, dem
+- candidates: der, und, die, das, nicht, eine, von, als, ist, den, dem, nur, sludge, war, ein, sie, wird, adam, umgebung, auf, sich, wie, aus, des
 
 Excerpt:
 
-> SLUDGE Band II der MONOLITH-Trilogie. Akte Band II Ein Mensch zerbricht nicht sofort. Zuerst wird er müde, Widerstand zu leisten. Dann beginnt er zuzustimmen. AKTE № 2026-001B. Index: 6666548A. STATUS: Streng geheim. Auf Englisch bei Amazon lesen Zurück zur Serie Beschreibung über das Buch SLUDGE ist eine philosophische Dystopie, ein psychologischer Thriller und Social Science Fiction über eine Welt, in der der Mensch aufhört, Person zu sein, und allmählich zum Material der Umgebung wird. Es ist der zweite Band der MONOLITH-Trilogie und die Stufe der Realitäts-Dekompression. Wenn BETON die Geschichte eines Systems war, das zu schnell erstarrte, erzählt SLUDGE davon, was nach dem ersten Riss geschieht. Die Struktur drückt nicht mehr nur von außen; sie beginnt, den Menschen von innen zu verarbeiten. Gewalt erscheint hier nicht immer als Schlag. Sie wirkt durch Sprache, Ritual, Erschöpfung,
+> SLUDGE SLUDGE ist eine philosophische Dystopie über eine Welt, in der Druck nicht mehr wie eine Wand aussieht. Er wird zur Umgebung: zähflüssig, erschöpfend und nah. Band II der MONOLITH-Trilogie. Akte Band II Wenn die Wand weich wird, beginnt keine Freiheit. Der Druck lernt nur zu fließen. AKTE NR. 2026-002S. STATUS: Zähflüssige Phase / aktive Verformung. Russische Ausgabe bei Google Play Books lesen Englische Ausgabe bei Amazon lesen Zurück zu MONOLITH Ausgewählter Auszug Kapitel 6 / § 6.2 Kapitel 6. Erste Schritte durch SLUDGE. § 6.2. Lager zur Bewahrung von Splittern Der Auszug zeigt, wie gewöhnlicher Bedarf, veraltete Ausrüstung und bürokratische Sprache Schutz in Nachahmung und Überleben in eine selbst zu finanzierende Dienstleistung verwandeln. Vollständigen Auszug öffnen Kapitel 6. Erste Schritte durch SLUDGE. § 6.2. Lager zur Bewahrung von Splittern Zum Frühstück bekamen sie Bre
 
 ### de/books/seccus/index.html
 
