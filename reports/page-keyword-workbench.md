@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T00:24:05.004Z
+Generated: 2026-07-07T07:17:59.715Z
 Pages: 551
 
 ## Index
@@ -127,7 +127,7 @@ Pages: 551
 | en/books/error-404-god-not-found/why-me/index.html | en | books | Ashraellen — Why Me? | ashraellen, books, error, 404, god, found, why, book, cycle, philosophical-satirical, novel, about, man, who, files, complaint, against, receives | why, book, god, error, about, ashraellen, books, found, 404, against, answer, chancellery, complaint, cycle, did, excerpt, files, had |
 | en/books/index.html | en | books | Ashraellen — Books | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | books, book, ashraellen, 404, god, research, satire, about, already, audio, cycle, cycles, error, found, monolith, novel, online, open |
 | en/books/monolith/beton/index.html | en | books | Ashraellen — BETON — English | ashraellen, books, monolith, beton, volume, trilogy, file, description, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, file, monolith, volume, trilogy, ashraellen, begin, begins, books, concrete, description, prison, stability, calling, does, english, first, habit |
-| en/books/monolith/index.html | en | books | Ashraellen — MONOLITH — English | ashraellen, books, monolith, trilogy, social, science, fiction, dystopia, philosophical, cyberpunk, about, control, memory, collapse, systems, series, volumes, volume | monolith, ashraellen, books, collapse, control, memory, social, about, becomes, beton, crack, cyberpunk, dystopia, english, fiction, final, gas, philosophical |
+| en/books/monolith/index.html | en | books | Ashraellen — MONOLITH | _missing_ | monolith, ashraellen, beton, books, collapse, control, gas, memory, sludge, what, about, artistic-research, confused, crack, dystopian, fear, first, form |
 | en/books/monolith/sludge/index.html | en | books | Ashraellen — SLUDGE — English | ashraellen, books, monolith, sludge, volume, trilogy, file, description, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, file, monolith, volume, trilogy, ashraellen, begins, being, books, description, human, all, becomes, break, does, english, first, grows |
 | en/books/radiance/index.html | en | books | Ashraellen — Radiance \| Northern Tales of the True History of the World | ashraellen, books, radiance, northern, tales, true, history, world, literary-philosophical, practice-based, research, cycle, about, how, ancient, stories, preserve, imaginal | radiance, books, cycle, instructions, research, world, ancient, artistic, ashraellen, northern, what, about, book, confused, form, frame, history, how |
 | en/books/radiance/sampo/index.html | en | books | Ashraellen — Sampo \| Radiance, Book I | ashraellen, books, radiance, sampo, book, northern, literary-philosophical, tale, abundance, possession, participation, world, where, myth, has, yet, separated, labour | sampo, book, radiance, abundance, ashraellen, books, northern, research, where, world, about, artistic, chapter, cultural, cycle, does, foundations, frame |
@@ -2605,18 +2605,18 @@ Excerpt:
 
 - lang: en
 - section: books
-- title: Ashraellen — MONOLITH — English
-- description: MONOLITH is a trilogy of social science fiction, dystopia, and philosophical cyberpunk about control, memory, and the collapse of systems.
+- title: Ashraellen — MONOLITH
+- description: MONOLITH is a literary-philosophical dystopian trilogy about control, memory and the collapse of systems: BETON, SLUDGE and GAS.
 - canonical: https://www.ashraellen.com/en/books/monolith/
 - H1: MONOLITH
-- H2: Series | Volumes | Signal
-- H3: Volume I — BETON | Volume II — SLUDGE | Volume III — GAS
-- suggested keyword seed: monolith, ashraellen, books, collapse, control, memory, social, about, becomes, beton, crack, cyberpunk, dystopia, english, fiction, final, gas, philosophical
-- candidates: volume, becomes, monolith, beton, gas, memory, social, without, collapse, control, crack, final, first, form, open, sludge, stability, system, trilogy, about, begins, called, cyberpunk, decompression
+- H2: What MONOLITH is | Volumes | Artistic-research frame | Map of collapse | Who this project is for | What must not be confused | The phrase of the series
+- H3: Volume I — BETON | Volume II — SLUDGE | Volume III — GAS | BETON | SLUDGE | GAS | Readers | Publishers / partners / translators
+- suggested keyword seed: monolith, ashraellen, beton, books, collapse, control, gas, memory, sludge, what, about, artistic-research, confused, crack, dystopian, fear, first, form
+- candidates: monolith, memory, form, control, gas, beton, person, sludge, crack, fear, first, system, they, becomes, begins, does, about, collapse, its, stability, volume, what, where, artistic
 
 Excerpt:
 
-> MONOLITH MONOLITH is a trilogy of social science fiction, dystopia, and philosophical cyberpunk about control, memory, and the collapse of systems. Series BETON / SLUDGE / GAS A chronicle of controlled disintegration: three states of social matter — BETON, SLUDGE, GAS. We are used to calling stability safety. But what if absolute stability is only the final hardening of a system where every living thought becomes a defect and every inner resistance becomes a threat? In the world of MONOLITH, society has become a perfect construction: without seams, without memory, without personal truth, and without the right to inner resonance. “Correction” is called mercy, “removing noise” is called care for the future, and editing reality becomes an ordinary mechanism of control. The trilogy follows the path from the immobility of social Beton through erosion, fermentation, and loss of form toward the
+> PROTOCOL OF THE DISINTEGRATION OF SOCIAL MATTER / BETON — SLUDGE — GAS MONOLITH MONOLITH is a literary-philosophical dystopian trilogy about control, memory and the collapse of systems. Its three volumes record the passage of social matter through three states: BETON, SLUDGE and GAS—from hardened stability to viscous deformation and the complete decompression of form. The system does not fear rebellion. It fears the first crack. Volumes Map of collapse What must not be confused What MONOLITH is BETON / SLUDGE / GAS Before you is a chronicle of controlled disintegration: a consecutive record of the phase transition of social matter, captured in three states—BETON, SLUDGE and GAS. What matters here is not a forecast of the future, but the material of the present: an order that was called safety for too long; a memory that is easier to correct than to hear; a person who begins to notice the
 
 ### en/books/monolith/sludge/index.html
 
