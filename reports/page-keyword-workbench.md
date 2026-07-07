@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T08:00:17.646Z
+Generated: 2026-07-07T08:01:25.283Z
 Pages: 551
 
 ## Index
@@ -187,7 +187,7 @@ Pages: 551
 | en/research/projects/index.html | en | research | Ashraellen — Research Projects | ashraellen, research, projects, map, working, fields, monolith, main, channel, public, field, satirical, side, laboratories, perception, instagram, telegram, church | ashraellen, projects, research, channel, field, monolith, perception, book, church, fields, here, how, inner, instagram, laboratories, living, main, map |
 | en/research/sources/index.html | en | research | Ashraellen — Sources and Tradition | ashraellen, research, sources, tradition, phenomenology, consciousness, body, narrative, cognitive, science, artistic, practice, methodological, lines, edmund, husserl, experience, before | research, ashraellen, sources, body, consciousness, narrative, tradition, artistic, cognitive, experience, form, phenomenology, before, connection, directions, does, edmund, eleanor |
 | es/books/index.html | es | books | Ashraellen — Libros | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | libros, ashraellen, books, libro, sátira, 404, abrir, audionovela, book, ciclo, ciclos, error, estás, found, god, independientes, investigaciones, las |
-| es/books/monolith/beton/index.html | es | books | Ashraellen — BETON — Spanish | ashraellen, books, monolith, beton, volumen, trilogía, expediente, descripción, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, expediente, monolith, volumen, con, empieza, trilogía, ashraellen, books, concreto, descripción, estabilidad, una, costumbre, demasiado, edición, llamar, pared |
+| es/books/monolith/beton/index.html | es | books | Ashraellen — BETON | _missing_ | beton, ashraellen, books, del, estabilidad, memoria, monolith, para, sobre, una, anton, artístico, como, con, dentro, destripes, distopía, editada |
 | es/books/monolith/index.html | es | books | Ashraellen — MONOLITH | _missing_ | monolith, desintegración, ashraellen, beton, books, control, gas, memoria, que, sludge, una, artístico, confundirse, debe, del, distópica, este, filosófica |
 | es/books/monolith/sludge/index.html | es | books | Ashraellen — SLUDGE — Spanish | ashraellen, books, monolith, sludge, volumen, trilogía, expediente, descripción, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, expediente, monolith, volumen, trilogía, ashraellen, books, descripción, humano, inmediato, primero, ser, cansa, empieza, está, luego, persona, resistir |
 | es/books/seccus/index.html | es | books | Ashraellen — EL LIBRO SAGRADO DE SECCUS | Ashraellen, SECCUS, El Libro Sagrado de SECCUS, El Camino de la Honestidad, sátira filosófica, dinero, éxito, autoengaño, conocimiento como coartada, responsabilidad, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Libro | libro, seccus, sagrado, ashraellen, books, del, dinero, éxito, página, para, sobre, una, autoengaño, camino, coartada, como, con, conocimiento |
@@ -3625,18 +3625,18 @@ Excerpt:
 
 - lang: es
 - section: books
-- title: Ashraellen — BETON — Spanish
-- description: BETON — Volumen I de la trilogía MONOLITH. BETON Expediente Descripción BETON Volumen I de la trilogía MONOLITH. Expediente Volumen I El concreto no empieza con una pared. Empieza con la costumbre de llamar estabilidad…
+- title: Ashraellen — BETON
+- description: BETON es el volumen I de MONOLITH: una distopía filosófica sobre la estabilidad endurecida, la memoria editada y la primera grieta dentro del Sistema.
 - canonical: https://www.ashraellen.com/es/books/monolith/beton/
 - H1: BETON
-- H2: Expediente | Descripción
-- H3: _missing_
-- suggested keyword seed: beton, expediente, monolith, volumen, con, empieza, trilogía, ashraellen, books, concreto, descripción, estabilidad, una, costumbre, demasiado, edición, llamar, pared
-- candidates: beton, una, volumen, empieza, con, expediente, monolith, trilogía, concreto, demasiado, edición, estabilidad, mundo, sobre, costumbre, del, descripción, está, inglés, llamar, memoria, pared, primera, prisión
+- H2: Expediente | Fragmento seleccionado | Sobre el libro | Sin destripes | Marco artístico y de investigación | Temas | Para quién | Lugar en la trilogía
+- H3: Estabilidad | Memoria | Control | Ruido | Culpa | Primera grieta
+- suggested keyword seed: beton, ashraellen, books, del, estabilidad, memoria, monolith, para, sobre, una, anton, artístico, como, con, dentro, destripes, distopía, editada
+- candidates: que, una, del, los, con, beton, por, anton, estabilidad, memoria, para, como, las, mark, monolith, primera, grieta, dentro, persona, demasiado, departamento, edición, interior, lenguaje
 
 Excerpt:
 
-> BETON Volumen I de la trilogía MONOLITH. Expediente Volumen I El concreto no empieza con una pared. Empieza con la costumbre de llamar estabilidad a una prisión. EXPEDIENTE № 2026-001B. Índice: 6666548A. ESTADO: Alto secreto. Leer en inglés en Amazon Volver a la serie Descripción sobre el libro BETON es una distopía filosófica, thriller psicológico y ciencia ficción social sobre un mundo donde la estabilidad se ha convertido en una nueva forma de prisión. Es el primer volumen de la trilogía MONOLITH y la primera etapa de verificación de la realidad. Anton no es solo un empleado. Es un instrumento del Sistema, diseñado para calibrar significados humanos. Su trabajo consiste en detectar y suavizar el “ruido”: recuerdos demasiado vivos, emociones demasiado agudas, preguntas demasiado peligrosas. En este mundo, todo lo que altera la estructura monolítica debe ser editado. El miedo, el amor, 
+> BETON BETON es una distopía filosófica sobre un mundo en el que la estabilidad se ha convertido en prisión, la memoria es tratada como amenaza y la primera grieta aparece dentro de un sistema que todavía se cree eterno. Volumen I de la trilogía MONOLITH. Expediente Volumen I El hormigón no empieza con un muro. Empieza con la costumbre de llamar estabilidad a una prisión. EXPEDIENTE N.º 2026-001B. Índice: 6666548A. ESTADO: Alto secreto. Leer la edición rusa en Google Play Books Leer la edición inglesa en Amazon Volver a MONOLITH Fragmento seleccionado Capítulo 9 / § 9.1 Capítulo 9. Protocolo «Orgullo» § 9.1. El mejor pegamento para la sociedad El fragmento muestra uno de los mecanismos de BETON: cómo el dolor se convierte en consigna, la culpa en pegamento social y la pérdida humana en una imagen administrable de estabilidad. Abrir el fragmento completo Capítulo 9. Protocolo «Orgullo» § 9
 
 ### es/books/monolith/index.html
 
