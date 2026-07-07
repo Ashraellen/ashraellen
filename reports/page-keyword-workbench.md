@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T08:24:38.589Z
+Generated: 2026-07-07T08:33:31.072Z
 Pages: 551
 
 ## Index
@@ -249,7 +249,7 @@ Pages: 551
 | fr/books/index.html | fr | books | Ashraellen — Livres | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | livres, ashraellen, books, livre, satire, 404, audio, book, cycle, cycles, d’ashraellen, déjà, des, error, found, god, indépendants, les |
 | fr/books/monolith/beton/index.html | fr | books | Ashraellen — BETON | _missing_ | beton, ashraellen, books, dans, est, monolith, pour, qui, stabilité, une, anton, artistique, cadre, choisi, cœur, des, divulgâcher, dossier |
 | fr/books/monolith/index.html | fr | books | Ashraellen — MONOLITH | _missing_ | monolith, ashraellen, beton, books, contrôle, des, est, gas, mémoire, pas, une, artistique, cadre, carte, confondre, dans, désagrégation, dystopique |
-| fr/books/monolith/sludge/index.html | fr | books | Ashraellen — SLUDGE — French | ashraellen, books, monolith, sludge, volume, trilogie, dossier, description, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, dossier, monolith, volume, trilogie, ashraellen, books, brise, description, humain, l’être, pas, coup, d’abord, d’un, est, fatigue, french |
+| fr/books/monolith/sludge/index.html | fr | books | Ashraellen — SLUDGE | _missing_ | sludge, ashraellen, books, dans, monolith, pour, qui, une, adam, artistique, cadre, choisi, complicité, des, devenue, divulgâcher, dossier, dystopie |
 | fr/books/seccus/index.html | fr | books | Ashraellen — LE LIVRE SACRÉ DE SECCUS | Ashraellen, SECCUS, Le Livre Sacré de SECCUS, Le Chemin de l’Honnêteté, satire philosophique, argent, réussite, auto-illusion, savoir comme alibi, responsabilité, Sacrunomicon, Ordo Sacrunomiconis, Tétra-Livre | livre, seccus, sacré, ashraellen, books, est, philosophique, pour, qui, réussite, sur, une, alibi, cadre, chemin, choisie, choix, comme |
 | fr/books/the-book-of-whinesis/index.html | fr | books | Ashraellen — The Book of Whinesis — French | ashraellen, books, book, whinesis, satire, sacrée, pour, celles, ceux, qui, sont, fatigués, des, ondes, positives, productivité, sans, fin | book, whinesis, ashraellen, books, des, qui, celles, ceux, chapitres, culte, dans, dit, extrait, fatigués, fin, french, les, livre |
 | fr/books/you-are-already-online/index.html | fr | books | Ashraellen — Tu es déjà en ligne | ashraellen, books, you, already, online, déjà, ligne, roman, audio, immersif, entre, thriller, psychologique, drame, cyberpunk, sur, réalité, numérique | déjà, ligne, ashraellen, audio, books, les, réalité, roman, algorithmes, already, avait, avant, chapitre, comme, cyberpunk, dans, des, drame |
@@ -4679,18 +4679,18 @@ Excerpt:
 
 - lang: fr
 - section: books
-- title: Ashraellen — SLUDGE — French
-- description: SLUDGE — Volume II de la trilogie MONOLITH. SLUDGE Dossier Description SLUDGE Volume II de la trilogie MONOLITH. Dossier Volume II L’être humain ne se brise pas d’un seul coup. D’abord, il se fatigue de résister.…
+- title: Ashraellen — SLUDGE
+- description: SLUDGE est le volume II de MONOLITH, une dystopie philosophique sur la pression devenue milieu, l’épuisement, la complicité et la perte de forme.
 - canonical: https://www.ashraellen.com/fr/books/monolith/sludge/
 - H1: SLUDGE
-- H2: Dossier | Description
-- H3: _missing_
-- suggested keyword seed: sludge, dossier, monolith, volume, trilogie, ashraellen, books, brise, description, humain, l’être, pas, coup, d’abord, d’un, est, fatigue, french
-- candidates: sludge, est, volume, humain, dossier, l’être, monolith, pas, peu, trilogie, une, brise, commence, coup, d’un, forme, d’abord, description, devient, elle, fatigue, l’édition, monde, résister
+- H2: Dossier | Extrait choisi | À propos du livre | Sans divulgâcher | Cadre artistique et de recherche | Thèmes | Pour qui | Place dans la trilogie
+- H3: Viscosité | Fatigue | Faim | Rituel | Complicité | Perte de forme
+- suggested keyword seed: sludge, ashraellen, books, dans, monolith, pour, qui, une, adam, artistique, cadre, choisi, complicité, des, devenue, divulgâcher, dossier, dystopie
+- candidates: les, pas, une, dans, des, que, mais, plus, qui, pour, adam, gilet, milieu, par, son, monolith, sludge, grisonnant, personne, sans, sur, avec, comme, est
 
 Excerpt:
 
-> SLUDGE Volume II de la trilogie MONOLITH. Dossier Volume II L’être humain ne se brise pas d’un seul coup. D’abord, il se fatigue de résister. Ensuite, il commence à consentir. DOSSIER № 2026-001B. Index : 6666548A. STATUT : Top secret. Lire en anglais sur Amazon Retour à la série Description à propos du livre SLUDGE est une dystopie philosophique, un thriller psychologique et une science-fiction sociale sur un monde où l’être humain cesse d’être une personne et devient peu à peu la matière du milieu. C’est le deuxième volume de la trilogie MONOLITH et le stade de décompression de la réalité. Si BETON racontait l’histoire d’un système durci trop vite, SLUDGE montre ce qui arrive après la première fissure. La structure ne presse plus seulement de l’extérieur ; elle commence à traiter l’humain de l’intérieur. La violence ne vient pas toujours sous forme de coup. Elle agit par le langage, le
+> SLUDGE Une dystopie philosophique où la pression ne ressemble plus à un mur : elle devient un milieu visqueux, épuisant et intime. Volume II de MONOLITH. Dossier Volume II Quand le mur ramollit, la liberté ne commence pas. La pression apprend simplement à couler. DOSSIER N° 2026-002S. Phase visqueuse / déformation active. Édition russe sur Google Play Books Édition anglaise sur Amazon Retour à MONOLITH Extrait choisi Chapitre 6 / § 6.2 Le texte complet conserve chaque paragraphe du fragment russe sélectionné. Ouvrir l’extrait complet Chapitre 6. Premiers pas dans SLUDGE. § 6.2. Entrepôts de Conservation des Éclats Au petit déjeuner, on leur servit de la bouillie. Non pas de la nourriture au sens humain, mais précisément de la bouillie : grise, visqueuse, avec le goût qui apparaît lorsque les céréales restent trop longtemps dans un sac humide, puis sont cuites non pour rassasier, mais pou
 
 ### fr/books/seccus/index.html
 
