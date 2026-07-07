@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-07-07T12:55:32.617Z
+Generated: 2026-07-07T13:03:19.514Z
 
 Pages checked: 550
-Pages with issues: 33
-Total issues: 105
+Pages with issues: 34
+Total issues: 106
 Pages with review notes: 550
 Total review notes: 2040
 
@@ -12,7 +12,7 @@ Total review notes: 2040
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 25 |
+| MISSING_KEYWORDS | 26 |
 | DUPLICATE_OG_TITLE | 24 |
 | DUPLICATE_TITLE | 24 |
 | MISSING_TWITTER_IMAGE | 24 |
@@ -177,6 +177,16 @@ Total review notes: 2040
 - MISSING_TWITTER_IMAGE
 - DUPLICATE_TITLE: shared by 8 pages
 - DUPLICATE_OG_TITLE: shared by 8 pages
+
+### en/index.html
+
+- title: Ashraellen — Books, Research and Public Texts
+- description length: 123
+- canonical: https://www.ashraellen.com/en/
+- og:image: https://www.ashraellen.com/assets/hero.webp
+- twitter:image: https://www.ashraellen.com/assets/hero.webp
+
+- MISSING_KEYWORDS
 
 ### en/professional/index.html
 
