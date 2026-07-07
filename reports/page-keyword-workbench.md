@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T07:41:08.913Z
+Generated: 2026-07-07T07:44:28.083Z
 Pages: 551
 
 ## Index
@@ -310,7 +310,7 @@ Pages: 551
 | pl/books/error-404-god-not-found/index.html | pl | books | Ashraellen — Błąd 404: Boga nie znaleziono | ashraellen, books, error, 404, god, found, błąd, boga, nie, znaleziono, wielojęzyczny, filozoficzno-satyryczny, cykl, powieściowy, niebiańskiej, kancelarii, ludzkiej, pretensji | nie, 404, błąd, boga, znaleziono, ashraellen, bogu, books, kancelarii, który, niebiańskiej, szukania, albo, błędzie, cykl, cyklu, error, filozoficzno-satyryczny |
 | pl/books/error-404-god-not-found/why-me/index.html | pl | books | Ashraellen — Dlaczego ja? | ashraellen, books, error, 404, god, found, why, dlaczego, pierwsza, księga, cyklu, błąd, boga, nie, znaleziono, filozoficzno-satyryczna, powieść, człowieku | dlaczego, boga, 404, ashraellen, błąd, books, który, nie, ale, cyklu, człowieku, error, filozoficzno-satyryczna, found, fragment, god, jako, kancelarii |
 | pl/books/index.html | pl | books | Ashraellen — Książki | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | książki, 404, ashraellen, ashraellena, błąd, boga, books, nie, satyra, albo, audio, badania, blask, book, cykl, cykle, jesteś, już |
-| pl/books/monolith/beton/index.html | pl | books | Ashraellen — BETON — Polish | ashraellen, books, monolith, beton, tom, trylogii, akta, opis, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, akta, monolith, tom, się, trylogii, zaczyna, 2026-001b, ashraellen, books, nie, opis, więzienia, 6666548a, indeks, nawyku, nazywania, polish |
+| pl/books/monolith/beton/index.html | pl | books | Ashraellen — BETON | _missing_ | beton, ashraellen, books, monolithu, akta, anton, antyutopia, artystyczno-badawcza, bez, filozoficzna, fragment, gdy, jako, jego, kogo, książce, mark, miejsce |
 | pl/books/monolith/index.html | pl | books | Ashraellen — MONOLITH | _missing_ | monolith, ashraellen, beton, books, gas, nie, sludge, antyutopijna, artystyczno-badawcza, czego, czym, forma, fraza, jako, już, kogo, kontroli, lecz |
 | pl/books/monolith/sludge/index.html | pl | books | Ashraellen — SLUDGE — Polish | ashraellen, books, monolith, sludge, tom, trylogii, akta, opis, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, akta, monolith, się, tom, trylogii, ashraellen, books, człowiek, łamie, najpierw, nie, opis, razu, zaczyna, 2026-001b, 6666548a, indeks |
 | pl/books/radiance/index.html | pl | books | Ashraellen — Blask \| Północne opowieści o prawdziwej historii świata | ashraellen, books, radiance, blask, północne, opowieści, prawdziwej, historii, świata, literacko-filozoficzny, artystyczno-badawczy, cykl, tym, jak, dawne, historie, przechowują, obrazowe | blask, świata, ashraellen, books, cykl, cyklu, dawne, historie, instrukcje, literacko-filozoficzny, nie, artystyczno-badawcza, artystyczno-badawczy, czego, czym, forma, historii, instrukcji |
@@ -5716,18 +5716,18 @@ Excerpt:
 
 - lang: pl
 - section: books
-- title: Ashraellen — BETON — Polish
-- description: BETON — tom I trylogii MONOLITH. BETON Akta Opis BETON Tom I trylogii MONOLITH. Akta Tom I Beton nie zaczyna się od ściany. Zaczyna się od nawyku nazywania więzienia stabilnością. AKTA № 2026-001B. Indeks: 6666548A.…
+- title: Ashraellen — BETON
+- description: BETON to pierwszy tom MONOLITHU: filozoficzna antyutopia o skamieniałej stabilności, redagowanej pamięci i pierwszej szczelinie wewnątrz Systemu.
 - canonical: https://www.ashraellen.com/pl/books/monolith/beton/
 - H1: BETON
-- H2: Akta | Opis
-- H3: _missing_
-- suggested keyword seed: beton, akta, monolith, tom, się, trylogii, zaczyna, 2026-001b, ashraellen, books, nie, opis, więzienia, 6666548a, indeks, nawyku, nazywania, polish
-- candidates: beton, się, tom, akta, zaczyna, monolith, trylogii, nie, świecie, więzienia, zbyt, 2026-001b, 6666548a, indeks, jego, nawyku, nazywania, opis, pierwszy, ściany, stabilnością, tylko, znaczeń, zostać
+- H2: Akta | Wybrany fragment | O książce | Bez spoilerów | Rama artystyczno-badawcza | Tematy | Dla kogo | Miejsce w trylogii
+- H3: Stabilność | Pamięć | Kontrola | Szum | Wina | Pierwsza szczelina
+- suggested keyword seed: beton, ashraellen, books, monolithu, akta, anton, antyutopia, artystyczno-badawcza, bez, filozoficzna, fragment, gdy, jako, jego, kogo, książce, mark, miejsce
+- candidates: się, nie, beton, anton, jego, gdy, mark, pamięć, jako, stabilność, monolithu, wydanie, zbyt, człowiek, już, klej, obraz, stabilności, tom, tylko, 9.1, bez, duma, fragment
 
 Excerpt:
 
-> BETON Tom I trylogii MONOLITH. Akta Tom I Beton nie zaczyna się od ściany. Zaczyna się od nawyku nazywania więzienia stabilnością. AKTA № 2026-001B. Indeks: 6666548A. STATUS: Ściśle tajne. Czytaj po angielsku na Amazon Wróć do serii Opis o książce BETON to filozoficzna dystopia, thriller psychologiczny i społeczna fantastyka o świecie, w którym stabilność stała się nową formą więzienia. To pierwszy tom trylogii MONOLITH i pierwszy etap weryfikacji rzeczywistości. Anton nie jest tylko pracownikiem. Jest narzędziem Systemu, przeznaczonym do kalibracji ludzkich znaczeń. Jego praca polega na wykrywaniu i wygładzaniu „szumu”: zbyt żywych wspomnień, zbyt ostrych uczuć, zbyt niebezpiecznych pytań. W tym świecie wszystko, co narusza monolityczność struktury, musi zostać poprawione. Strach, miłość, ból, wybór, przeszłość, wina i pamięć mogą zostać zapisane od nowa — aż do chwili, gdy sam System z
+> BETON BETON to filozoficzna antyutopia o świecie, w którym stabilność stała się więzieniem, pamięć uznano za zagrożenie, a pierwsza szczelina pojawia się wewnątrz systemu wciąż przekonanego o własnej wieczności. Tom I trylogii MONOLITH. Akta Tom I Beton nie zaczyna się od ściany. Zaczyna się od nawyku nazywania więzienia stabilnością. SPRAWA NR 2026-001B. Indeks: 6666548A. STATUS: Ściśle tajne. Czytaj rosyjskie wydanie w Google Play Books Czytaj angielskie wydanie na Amazon Wróć do MONOLITHU Wybrany fragment Rozdział 9 / § 9.1 Rozdział 9. Protokół „Duma” § 9.1. Najlepszy klej dla społeczeństwa Fragment pokazuje jeden z mechanizmów BETONU: jak ból zmienia się w hasło, winę — w społeczny klej, a ludzką stratę — w sterowalny obraz stabilności. Otwórz pełny fragment Rozdział 9. Protokół „Duma” § 9.1. Najlepszy klej dla społeczeństwa Poranek w Departamencie Sensów rozpoczął się od „białego ko
 
 ### pl/books/monolith/index.html
 
