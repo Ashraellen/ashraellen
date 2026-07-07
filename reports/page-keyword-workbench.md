@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T00:16:50.019Z
+Generated: 2026-07-07T00:18:45.166Z
 Pages: 551
 
 ## Index
@@ -1626,7 +1626,7 @@ Excerpt:
 - H2: Ausgewählte Seite | Über das Buch | Ohne Spoiler | Literarisch-philosophischer Rahmen | Die Stimme des Buches | Themen | Für wen | Das Tetra-Buch und der Korpus
 - H3: Seite 71 — Die Schattenquelle der Energie | Erfolg umgekehrt | Geld als Spiegel | Wissen als Alibi | Ein direktes Gespräch | Seite III — Der Nullpunkt | Erfolg | Geld
 - suggested keyword seed: das, buch, der, die, seccus, heilige, und, ashraellen, books, des, für, ist, seite, über, alibi, als, ausgewählte, buches
-- candidates: der, das, die, und, ein, ist, nicht, des, buch, den, seite, sich, dem, als, eine, wird, für, mensch, über, zur, erfolg, geld, seccus, von
+- candidates: der, das, und, die, ein, nicht, ist, buch, den, des, sich, seite, dem, für, eine, über, wird, als, mensch, zur, dich, erfolg, geld, seccus
 
 Excerpt:
 
