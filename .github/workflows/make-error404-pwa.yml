@@ -1,0 +1,150 @@
+name: Make Error404 reader installable
+
+on:
+  push:
+    paths:
+      - '.github/workflows/make-error404-pwa.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pwa:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Add PWA files and patch reader
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+          import json
+
+          root = Path('focus-group/books/Error404')
+          index_path = root / 'index.html'
+          index = index_path.read_text(encoding='utf-8')
+
+          head_links = '''<link rel="manifest" href="./manifest.webmanifest">
+          <meta name="theme-color" content="#7a392b">
+          <meta name="application-name" content="Ошибка 404">
+          <meta name="apple-mobile-web-app-capable" content="yes">
+          <meta name="apple-mobile-web-app-status-bar-style" content="default">
+          <meta name="apple-mobile-web-app-title" content="Ошибка 404">
+          <link rel="apple-touch-icon" href="./icon.svg">'''
+          if 'manifest.webmanifest' not in index:
+              index = index.replace('</title>', '</title>\n' + head_links, 1)
+
+          install_button = '<button class="btn" id="installBtn" type="button" hidden>Установить приложение</button>'
+          if 'id="installBtn"' not in index:
+              marker = '<button class="btn ghost" id="themeBtn" type="button" aria-pressed="false">Тёмный режим</button>'
+              index = index.replace(marker, marker + '\n      ' + install_button, 1)
+
+          index = index.replace(
+              '<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>',
+              '<script src="./marked.min.js"></script>'
+          )
+
+          pwa_script = r'''<script>
+          (() => {
+            const installBtn = document.getElementById('installBtn');
+            let deferredPrompt = null;
+
+            const isStandalone = window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone === true;
+            if (isStandalone && installBtn) installBtn.hidden = true;
+
+            window.addEventListener('beforeinstallprompt', event => {
+              event.preventDefault();
+              deferredPrompt = event;
+              if (installBtn) installBtn.hidden = false;
+            });
+
+            if (installBtn) {
+              installBtn.addEventListener('click', async () => {
+                if (!deferredPrompt) {
+                  alert('Откройте меню браузера и выберите «Установить приложение» или «Добавить на главный экран».');
+                  return;
+                }
+                deferredPrompt.prompt();
+                await deferredPrompt.userChoice;
+                deferredPrompt = null;
+                installBtn.hidden = true;
+              });
+            }
+
+            window.addEventListener('appinstalled', () => {
+              deferredPrompt = null;
+              if (installBtn) installBtn.hidden = true;
+            });
+
+            if ('serviceWorker' in navigator) {
+              window.addEventListener('load', () => navigator.serviceWorker.register('./sw.js'));
+            }
+          })();
+          </script>'''
+          if "serviceWorker.register('./sw.js')" not in index:
+              index = index.replace('</body>', pwa_script + '\n</body>', 1)
+
+          index_path.write_text(index, encoding='utf-8')
+
+          manifest = {
+            'name': 'Ошибка 404: Бог не найден — читательская панель',
+            'short_name': 'Ошибка 404',
+            'description': 'Читательская панель фокус-группы для первого тома «Почему я?»',
+            'lang': 'ru',
+            'start_url': './',
+            'scope': './',
+            'display': 'standalone',
+            'orientation': 'any',
+            'background_color': '#f4f0e8',
+            'theme_color': '#7a392b',
+            'icons': [
+              {'src': './icon.svg', 'sizes': 'any', 'type': 'image/svg+xml', 'purpose': 'any maskable'}
+            ]
+          }
+          (root / 'manifest.webmanifest').write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding='utf-8')
+
+          icon = '''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+          <rect width="512" height="512" rx="96" fill="#7a392b"/>
+          <rect x="58" y="58" width="396" height="396" rx="72" fill="#f4f0e8"/>
+          <text x="256" y="225" text-anchor="middle" font-family="Georgia, serif" font-size="126" font-weight="700" fill="#7a392b">404</text>
+          <path d="M132 296h248" stroke="#7a392b" stroke-width="22" stroke-linecap="round"/>
+          <circle cx="256" cy="356" r="28" fill="#7a392b"/>
+          </svg>'''
+          (root / 'icon.svg').write_text(icon, encoding='utf-8')
+
+          files = ['./', './index.html', './manifest.webmanifest', './icon.svg', './marked.min.js']
+          files += ['./' + p.name for p in sorted(root.glob('E404GNFB1WM-RU_CH-*_v*.md'))]
+          sw = "const CACHE='error404-reader-v1';\nconst ASSETS=" + json.dumps(files, ensure_ascii=False) + ";\n" + r'''
+          self.addEventListener('install', event => {
+            event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(ASSETS)).then(() => self.skipWaiting()));
+          });
+          self.addEventListener('activate', event => {
+            event.waitUntil(caches.keys().then(keys => Promise.all(keys.filter(key => key !== CACHE).map(key => caches.delete(key)))).then(() => self.clients.claim()));
+          });
+          self.addEventListener('fetch', event => {
+            if (event.request.method !== 'GET') return;
+            event.respondWith(
+              caches.match(event.request).then(cached => cached || fetch(event.request).then(response => {
+                const copy = response.clone();
+                caches.open(CACHE).then(cache => cache.put(event.request, copy));
+                return response;
+              }).catch(() => caches.match('./index.html')))
+            );
+          });
+          '''
+          (root / 'sw.js').write_text(sw, encoding='utf-8')
+          PY
+
+          curl -fsSL https://cdn.jsdelivr.net/npm/marked/marked.min.js -o focus-group/books/Error404/marked.min.js
+
+      - name: Commit PWA version
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add focus-group/books/Error404
+          git commit -m "Make Error404 reader installable as a PWA" || exit 0
+          git push
