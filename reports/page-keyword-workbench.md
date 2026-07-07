@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T08:37:26.726Z
+Generated: 2026-07-07T09:32:38.465Z
 Pages: 551
 
 ## Index
@@ -374,7 +374,7 @@ Pages: 551
 | pt/books/index.html | pt | books | Ashraellen — Livros | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | livros, ashraellen, 404, books, livro, sátira, abrir, áudio, book, ciclo, ciclos, error, está, found, god, independentes, monolith, online |
 | pt/books/monolith/beton/index.html | pt | books | Ashraellen — BETON | _missing_ | beton, ashraellen, books, estabilidade, memória, monolith, para, sobre, uma, anton, artístico-investigativa, com, como, dentro, distopia, dossiê, editada, endurecida |
 | pt/books/monolith/index.html | pt | books | Ashraellen — MONOLITH | _missing_ | monolith, que, ashraellen, beton, books, colapso, controle, gas, memória, não, sludge, uma, artístico-investigativa, como, confundido, deve, distópica, dos |
-| pt/books/monolith/sludge/index.html | pt | books | Ashraellen — SLUDGE — PT | ashraellen, books, monolith, sludge, volume, trilogia, arquivo, descrição, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, arquivo, monolith, volume, trilogia, ashraellen, books, começa, depois, descrição, humano, não, ser, uma, cansa, concordar, pelo, primeiro |
+| pt/books/monolith/sludge/index.html | pt | books | Ashraellen — SLUDGE | _missing_ | sludge, ashraellen, books, monolith, para, sobre, uma, adam, artístico-investigativa, com, como, cumplicidade, distopia, dossiê, estrutura, exaurida, filosófica, forma |
 | pt/books/seccus/index.html | pt | books | Ashraellen — O LIVRO SAGRADO DE SECCUS | Ashraellen, SECCUS, O Livro Sagrado de SECCUS, O Caminho da Honestidade, sátira filosófica, dinheiro, sucesso, autoengano, conhecimento como álibi, responsabilidade, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Livro | livro, seccus, sagrado, ashraellen, books, como, página, para, sobre, sucesso, uma, álibi, autoengano, caminho, conhecimento, corpus, dinheiro, escolha |
 | pt/books/the-book-of-whinesis/index.html | pt | books | Ashraellen — The Book of Whinesis — PT | ashraellen, books, book, whinesis, sátira, sagrada, para, quem, cansou, das, vibrações, positivas, produtividade, infinita, culto, sucesso, sobre, livro | book, whinesis, ashraellen, books, para, sobre, cansou, capítulos, culto, das, desconto, disse, gnorna, infinita, livro, moania, não, pois |
 | pt/books/you-are-already-online/index.html | pt | books | Ashraellen — Você já está online | ashraellen, books, you, already, online, você, está, romance, áudio, imersivo, entre, thriller, psicológico, drama, cyberpunk, sobre, realidade, digital | está, online, você, ashraellen, books, capítulo, realidade, romance, sobre, algoritmos, already, antes, áudio, como, cyberpunk, demais, digital, drama |
@@ -6804,18 +6804,18 @@ Excerpt:
 
 - lang: pt
 - section: books
-- title: Ashraellen — SLUDGE — PT
-- description: SLUDGE — Volume II da trilogia MONOLITH. SLUDGE Arquivo Descrição SLUDGE Volume II da trilogia MONOLITH. Arquivo Volume II O ser humano não se quebra de uma vez. Primeiro se cansa de resistir. Depois começa a concordar…
+- title: Ashraellen — SLUDGE
+- description: SLUDGE é o Volume II de MONOLITH: uma distopia filosófica sobre pressão viscosa, resistência exaurida, cumplicidade e perda de forma.
 - canonical: https://www.ashraellen.com/pt/books/monolith/sludge/
 - H1: SLUDGE
-- H2: Arquivo | Descrição
-- H3: _missing_
-- suggested keyword seed: sludge, arquivo, monolith, volume, trilogia, ashraellen, books, começa, depois, descrição, humano, não, ser, uma, cansa, concordar, pelo, primeiro
-- candidates: sludge, ser, volume, pelo, uma, arquivo, começa, humano, monolith, não, trilogia, depois, ela, pessoa, primeiro, que, sobre, apenas, cansa, como, concordar, descrição, edição, está
+- H2: Dossiê | Trecho selecionado | Sobre o livro | Sem spoilers | Estrutura artístico-investigativa | Temas | Para quem | Lugar na trilogia
+- H3: Viscosidade | Cansaço | Fome | Ritual | Cumplicidade | Perda de forma
+- suggested keyword seed: sludge, ashraellen, books, monolith, para, sobre, uma, adam, artístico-investigativa, com, como, cumplicidade, distopia, dossiê, estrutura, exaurida, filosófica, forma
+- candidates: que, não, uma, com, para, mas, por, como, sludge, mais, sua, adam, ambiente, apenas, colete, monolith, pessoa, depois, era, parecia, volume, dentro, forma, grisalho
 
 Excerpt:
 
-> SLUDGE Volume II da trilogia MONOLITH. Arquivo Volume II O ser humano não se quebra de uma vez. Primeiro se cansa de resistir. Depois começa a concordar. ARQUIVO № 2026-001B. Índice: 6666548A. STATUS: Ultra-secreto. Ler em inglês na Amazon Voltar à série Descrição sobre o livro SLUDGE é uma distopia filosófica, thriller psicológico e ficção social sobre um mundo onde o ser humano deixa de ser pessoa e gradualmente se torna material do ambiente. É o segundo volume da trilogia MONOLITH e a etapa de descompressão da realidade. Se BETON era a história de um sistema que endureceu rápido demais, SLUDGE mostra o que acontece depois da primeira fissura. A estrutura já não apenas pressiona por fora; começa a processar o ser humano por dentro. A violência nem sempre chega como golpe. Ela age pela linguagem, pelo ritual, pelo cansaço, pela fome, pelo procedimento, pelo costume e pelo consentimento 
+> SLUDGE SLUDGE é uma distopia filosófica sobre um mundo em que a pressão já não se parece com uma parede. Ela se torna ambiente: viscosa, exaustiva e íntima. Volume II da trilogia MONOLITH. Dossiê Volume II Quando a parede amolece, a liberdade não começa. A pressão apenas aprende a fluir. DOSSIÊ N.º 2026-002S. STATUS: Fase viscosa / deformação ativa. Ler a edição russa no Google Play Books Ler a edição inglesa na Amazon Voltar a MONOLITH Trecho selecionado Capítulo 6 / § 6.2 Capítulo 6. Primeiros passos através de SLUDGE. § 6.2. Armazéns de Preservação de Fragmentos O trecho mostra como a necessidade comum, o equipamento obsoleto e a linguagem burocrática transformam proteção em imitação e sobrevivência num serviço que a própria pessoa precisa financiar. Abrir o trecho completo Capítulo 6. Primeiros passos através de SLUDGE. § 6.2. Armazéns de Preservação de Fragmentos No café da manhã, d
 
 ### pt/books/seccus/index.html
 
