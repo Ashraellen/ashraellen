@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T07:52:32.136Z
+Generated: 2026-07-07T07:56:02.640Z
 Pages: 551
 
 ## Index
@@ -66,7 +66,7 @@ Pages: 551
 | be/research/projects/index.html | be | research | Ashraellen — Праекты даследавання | ashraellen, research, projects, праекты, даследавання, карта, рабочых, палёў, monolith, асноўны, канал, публічнае, поле, сатырычныя, бакавыя, лабараторыі, ўспрымання, instagram | ashraellen, праекты, monolith, research, telegram, бакавыя, канал, лабараторыі, поле, church, inner, instagram, melodies, occultus, projects, saint, scriptorium, sounds |
 | be/research/sources/index.html | be | research | Ashraellen — Крыніцы і традыцыя | ashraellen, research, sources, крыніцы, традыцыя, фенаменалогія, свядомасці, цела, наратыў, кагнітыўная, навука, мастацкая, практыка, эдмунд, гусерль, досвед, гатовых, тлумачэнняў | ashraellen, крыніцы, традыцыя, цела, research, аповед, досвед, свядомасці, свядомасць, фенаменалогія, sources, бачным, варэла, гатовых, гусерль, даследавання, досведу, жывая |
 | de/books/index.html | de | books | Ashraellen — Bücher | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | bücher, ashraellen, und, books, buch, satire, 404, audioroman, bereits, bist, book, buchzyklen, das, der, die, eigenständige, ein, eine |
-| de/books/monolith/beton/index.html | de | books | Ashraellen — BETON — German | ashraellen, books, monolith, beton, band, der, monolith-trilogie, akte, beschreibung, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | beton, akte, band, der, beginnt, mit, monolith-trilogie, ashraellen, beschreibung, books, ein, einer, die, gefängnis, german, gewohnheit, ist, monolith |
+| de/books/monolith/beton/index.html | de | books | Ashraellen — BETON | _missing_ | beton, ashraellen, books, das, den, der, für, ist, monolith, über, und, von, akte, ausgewählter, auszug, band, buch, die |
 | de/books/monolith/index.html | de | books | Ashraellen — MONOLITH | _missing_ | monolith, ist, der, und, ashraellen, books, den, eine, erinnerung, gas, kontrolle, nicht, was, bände, beton, darf, des, die |
 | de/books/monolith/sludge/index.html | de | books | Ashraellen — SLUDGE — German | ashraellen, books, monolith, sludge, band, der, monolith-trilogie, akte, beschreibung, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | sludge, akte, band, der, monolith-trilogie, ashraellen, beschreibung, books, ein, mensch, nicht, wird, beginnt, dann, die, german, ist, leisten |
 | de/books/seccus/index.html | de | books | Ashraellen — DAS HEILIGE BUCH SECCUS | Ashraellen, SECCUS, Das Heilige Buch SECCUS, Der Weg der Ehrlichkeit, philosophische Satire, Geld, Erfolg, Selbsttäuschung, Wissen als Alibi, Verantwortung, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Buch | das, buch, der, die, seccus, heilige, und, ashraellen, books, des, für, ist, seite, über, alibi, als, ausgewählte, buches |
@@ -1568,18 +1568,18 @@ Excerpt:
 
 - lang: de
 - section: books
-- title: Ashraellen — BETON — German
-- description: BETON — Band I der MONOLITH-Trilogie. BETON Akte Beschreibung BETON Band I der MONOLITH-Trilogie. Akte Band I Beton beginnt nicht mit einer Wand. Er beginnt mit der Gewohnheit, ein Gefängnis Stabilität zu nennen. AKTE…
+- title: Ashraellen — BETON
+- description: BETON ist Band I von MONOLITH: eine philosophische Dystopie über verhärtete Stabilität, redigierte Erinnerung und den ersten Riss im System.
 - canonical: https://www.ashraellen.com/de/books/monolith/beton/
 - H1: BETON
-- H2: Akte | Beschreibung
-- H3: _missing_
-- suggested keyword seed: beton, akte, band, der, beginnt, mit, monolith-trilogie, ashraellen, beschreibung, books, ein, einer, die, gefängnis, german, gewohnheit, ist, monolith
-- candidates: beton, der, ist, band, ein, akte, beginnt, die, und, einer, mit, monolith-trilogie, des, eine, nicht, stabilität, über, welt, ausgabe, bedeutungen, beschreibung, das, den, erste
+- H2: Akte | Ausgewählter Auszug | Über das Buch | Ohne Spoiler | Künstlerisch-forschender Rahmen | Themen | Für wen | Platz in der Trilogie
+- H3: Stabilität | Erinnerung | Kontrolle | Rauschen | Schuld | Der erste Riss
+- suggested keyword seed: beton, ashraellen, books, das, den, der, für, ist, monolith, über, und, von, akte, ausgewählter, auszug, band, buch, die
+- candidates: die, der, ist, und, ein, das, den, sie, für, beton, nicht, von, eine, als, anton, erinnerung, sich, stabilität, mit, wir, aus, dass, des, mark
 
 Excerpt:
 
-> BETON Band I der MONOLITH-Trilogie. Akte Band I Beton beginnt nicht mit einer Wand. Er beginnt mit der Gewohnheit, ein Gefängnis Stabilität zu nennen. AKTE № 2026-001B. Index: 6666548A. STATUS: Streng geheim. Auf Englisch bei Amazon lesen Zurück zur Serie Beschreibung über das Buch BETON ist eine philosophische Dystopie, ein psychologischer Thriller und Social Science Fiction über eine Welt, in der Stabilität zu einer neuen Form des Gefängnisses geworden ist. Es ist der erste Band der MONOLITH-Trilogie und die erste Stufe der Realitätsverifikation. Anton ist nicht nur ein Mitarbeiter. Er ist ein Instrument des Systems, bestimmt zur Kalibrierung menschlicher Bedeutungen. Seine Arbeit besteht darin, „Rauschen“ zu erkennen und zu glätten: zu lebendige Erinnerungen, zu scharfe Gefühle, zu gefährliche Fragen. In dieser Welt muss alles, was die monolithische Struktur stört, bearbeitet werden. 
+> BETON BETON ist eine philosophische Dystopie über eine Welt, in der Stabilität zum Gefängnis geworden ist, Erinnerung als Gefahr gilt und der erste Riss in einem System entsteht, das sich noch immer für ewig hält. Band I der MONOLITH-Trilogie. Akte Band I Beton beginnt nicht mit einer Wand. Er beginnt mit der Gewohnheit, ein Gefängnis Stabilität zu nennen. AKTE NR. 2026-001B. Index: 6666548A. STATUS: Streng geheim. Russische Ausgabe bei Google Play Books lesen Englische Ausgabe bei Amazon lesen Zurück zu MONOLITH Ausgewählter Auszug Kapitel 9 / § 9.1 Kapitel 9. Das Protokoll „Stolz“ § 9.1. Der beste Klebstoff für die Gesellschaft Der Auszug zeigt einen Mechanismus von BETON: wie Schmerz in einen Slogan, Schuld in sozialen Klebstoff und menschlicher Verlust in ein steuerbares Bild von Stabilität verwandelt werden. Vollständigen Auszug öffnen Kapitel 9. Das Protokoll „Stolz“ § 9.1. Der bes
 
 ### de/books/monolith/index.html
 
