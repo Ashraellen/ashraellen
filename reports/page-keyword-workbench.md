@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T08:09:49.820Z
+Generated: 2026-07-07T08:11:25.092Z
 Pages: 551
 
 ## Index
@@ -312,7 +312,7 @@ Pages: 551
 | pl/books/index.html | pl | books | Ashraellen — Książki | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | książki, 404, ashraellen, ashraellena, błąd, boga, books, nie, satyra, albo, audio, badania, blask, book, cykl, cykle, jesteś, już |
 | pl/books/monolith/beton/index.html | pl | books | Ashraellen — BETON | _missing_ | beton, ashraellen, books, monolithu, akta, anton, antyutopia, artystyczno-badawcza, bez, filozoficzna, fragment, gdy, jako, jego, kogo, książce, mark, miejsce |
 | pl/books/monolith/index.html | pl | books | Ashraellen — MONOLITH | _missing_ | monolith, ashraellen, beton, books, gas, nie, sludge, antyutopijna, artystyczno-badawcza, czego, czym, forma, fraza, jako, już, kogo, kontroli, lecz |
-| pl/books/monolith/sludge/index.html | pl | books | Ashraellen — SLUDGE — Polish | ashraellen, books, monolith, sludge, tom, trylogii, akta, opis, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, akta, monolith, się, tom, trylogii, ashraellen, books, człowiek, łamie, najpierw, nie, opis, razu, zaczyna, 2026-001b, 6666548a, indeks |
+| pl/books/monolith/sludge/index.html | pl | books | Ashraellen — SLUDGE | _missing_ | sludge, ashraellen, books, adam, akta, antyutopia, artystyczno-badawcza, bez, drugi, filozoficzna, formy, fragment, jakby, jego, już, kogo, książce, lecz |
 | pl/books/radiance/index.html | pl | books | Ashraellen — Blask \| Północne opowieści o prawdziwej historii świata | ashraellen, books, radiance, blask, północne, opowieści, prawdziwej, historii, świata, literacko-filozoficzny, artystyczno-badawczy, cykl, tym, jak, dawne, historie, przechowują, obrazowe | blask, świata, ashraellen, books, cykl, cyklu, dawne, historie, instrukcje, literacko-filozoficzny, nie, artystyczno-badawcza, artystyczno-badawczy, czego, czym, forma, historii, instrukcji |
 | pl/books/radiance/sampo/index.html | pl | books | Ashraellen — Sampo \| Blask, Księga I | ashraellen, books, radiance, sampo, blask, księga, cyklu, północna, opowieść, literacko-filozoficzna, obfitości, posiadaniu, uczestnictwie, świecie, którym, mit, nie, oddzielił | sampo, blask, ashraellen, books, cyklu, jeszcze, księga, którym, nie, obfitości, się, artystyczno-badawcza, bez, fundacji, jako, językowy, kogo, książce |
 | pl/books/radiance/song/index.html | pl | books | Ashraellen — Pieśń \| Blask, Księga II | ashraellen, books, radiance, song, pieśń, blask, księga, cyklu, powieść, dźwięku, słyszeniu, języku, warszawie, pieśni, która, nie, staje, się | pieśń, blask, ashraellen, bez, books, cyklu, dźwięku, księga, nie, się, artystyczno-badawcza, fundacji, jako, językowy, języku, kogo, książce, książka |
@@ -5750,18 +5750,18 @@ Excerpt:
 
 - lang: pl
 - section: books
-- title: Ashraellen — SLUDGE — Polish
-- description: SLUDGE — tom II trylogii MONOLITH. SLUDGE Akta Opis SLUDGE Tom II trylogii MONOLITH. Akta Tom II Człowiek nie łamie się od razu. Najpierw męczy się oporem. Potem zaczyna się zgadzać. AKTA № 2026-001B. Indeks: 6666548A.…
+- title: Ashraellen — SLUDGE
+- description: SLUDGE to drugi tom MONOLITHU: filozoficzna antyutopia o lepkiej presji, wyczerpanym oporze, współudziale i utracie formy.
 - canonical: https://www.ashraellen.com/pl/books/monolith/sludge/
 - H1: SLUDGE
-- H2: Akta | Opis
-- H3: _missing_
-- suggested keyword seed: sludge, akta, monolith, się, tom, trylogii, ashraellen, books, człowiek, łamie, najpierw, nie, opis, razu, zaczyna, 2026-001b, 6666548a, indeks
-- candidates: się, sludge, tom, akta, nie, człowiek, monolith, trylogii, zaczyna, łamie, najpierw, razu, 2026-001b, 6666548a, człowieka, indeks, męczy, opis, oporem, potem, świecie, tylko, zgadzać, amazon
+- H2: Akta | Wybrany fragment | O książce | Bez spoilerów | Rama artystyczno-badawcza | Tematy | Dla kogo | Miejsce w trylogii
+- H3: Lepkość | Zmęczenie | Głód | Rytuał | Współudział | Utrata formy
+- suggested keyword seed: sludge, ashraellen, books, adam, akta, antyutopia, artystyczno-badawcza, bez, drugi, filozoficzna, formy, fragment, jakby, jego, już, kogo, książce, lecz
+- candidates: nie, się, sludge, lecz, adam, przez, jego, już, siwy, tylko, zbyt, jakby, monolithu, powiedział, środowiskiem, tom, wydanie, zmęczenie, gdy, jedynie, kamizelkę, który, monolith, potem
 
 Excerpt:
 
-> SLUDGE Tom II trylogii MONOLITH. Akta Tom II Człowiek nie łamie się od razu. Najpierw męczy się oporem. Potem zaczyna się zgadzać. AKTA № 2026-001B. Indeks: 6666548A. STATUS: Ściśle tajne. Czytaj po angielsku na Amazon Wróć do serii Opis o książce SLUDGE to filozoficzna dystopia, thriller psychologiczny i społeczna fantastyka o świecie, w którym człowiek przestaje być osobą i stopniowo staje się materiałem środowiska. To drugi tom trylogii MONOLITH i etap rozszczelnienia rzeczywistości. Jeśli BETON był historią systemu, który zbyt szybko stwardniał, SLUDGE opowiada o tym, co dzieje się po pierwszej rysie. Struktura nie tylko naciska z zewnątrz — zaczyna przetwarzać człowieka od środka. Przemoc nie zawsze przychodzi jako cios. Działa przez język, rytuał, zmęczenie, głód, procedurę, przyzwyczajenie i stopniową zgodę. Człowieka nie łamie się od razu. Najpierw się go zmiękcza. SLUDGE to hist
+> SLUDGE SLUDGE to filozoficzna antyutopia o świecie, w którym presja przestaje przypominać ścianę. Staje się środowiskiem: lepkim, wyczerpującym i bliskim. Tom II trylogii MONOLITH. Akta Tom II Kiedy ściana mięknie, wolność się nie zaczyna. Presja po prostu uczy się płynąć. SPRAWA NR 2026-002S. STATUS: Faza lepka / aktywna deformacja. Czytaj rosyjskie wydanie w Google Play Books Czytaj angielskie wydanie na Amazon Wróć do MONOLITHU Wybrany fragment Rozdział 6 / § 6.2 Rozdział 6. Pierwsze kroki przez SLUDGE. § 6.2. Magazyny Zachowania Odłamków Fragment pokazuje, jak zwykła potrzeba, zużyty sprzęt i język biurokracji zamieniają ochronę w imitację, a przetrwanie w usługę, którą człowiek musi sfinansować sam. Otwórz pełny fragment Rozdział 6. Pierwsze kroki przez SLUDGE. § 6.2. Magazyny Zachowania Odłamków Na śniadanie dostali kaszę. Nie jedzenie w ludzkim znaczeniu, lecz właśnie kaszę: szarą
 
 ### pl/books/radiance/index.html
 
