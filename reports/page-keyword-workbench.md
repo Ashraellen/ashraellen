@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T09:32:38.465Z
+Generated: 2026-07-07T09:36:02.041Z
 Pages: 551
 
 ## Index
@@ -249,7 +249,7 @@ Pages: 551
 | fr/books/index.html | fr | books | Ashraellen — Livres | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | livres, ashraellen, books, livre, satire, 404, audio, book, cycle, cycles, d’ashraellen, déjà, des, error, found, god, indépendants, les |
 | fr/books/monolith/beton/index.html | fr | books | Ashraellen — BETON | _missing_ | beton, ashraellen, books, dans, est, monolith, pour, qui, stabilité, une, anton, artistique, cadre, choisi, cœur, des, divulgâcher, dossier |
 | fr/books/monolith/index.html | fr | books | Ashraellen — MONOLITH | _missing_ | monolith, ashraellen, beton, books, contrôle, des, est, gas, mémoire, pas, une, artistique, cadre, carte, confondre, dans, désagrégation, dystopique |
-| fr/books/monolith/sludge/index.html | fr | books | Ashraellen — SLUDGE | _missing_ | sludge, ashraellen, books, dans, monolith, pour, qui, une, adam, artistique, cadre, choisi, complicité, des, devenue, divulgâcher, dossier, dystopie |
+| fr/books/monolith/sludge/index.html | fr | books | Ashraellen — SLUDGE | _missing_ | sludge, ashraellen, books, dans, monolith, pour, qui, une, artistique, cadre, choisi, complicité, des, divulgâcher, dossier, dystopie, épuisée, est |
 | fr/books/seccus/index.html | fr | books | Ashraellen — LE LIVRE SACRÉ DE SECCUS | Ashraellen, SECCUS, Le Livre Sacré de SECCUS, Le Chemin de l’Honnêteté, satire philosophique, argent, réussite, auto-illusion, savoir comme alibi, responsabilité, Sacrunomicon, Ordo Sacrunomiconis, Tétra-Livre | livre, seccus, sacré, ashraellen, books, est, philosophique, pour, qui, réussite, sur, une, alibi, cadre, chemin, choisie, choix, comme |
 | fr/books/the-book-of-whinesis/index.html | fr | books | Ashraellen — The Book of Whinesis — French | ashraellen, books, book, whinesis, satire, sacrée, pour, celles, ceux, qui, sont, fatigués, des, ondes, positives, productivité, sans, fin | book, whinesis, ashraellen, books, des, qui, celles, ceux, chapitres, culte, dans, dit, extrait, fatigués, fin, french, les, livre |
 | fr/books/you-are-already-online/index.html | fr | books | Ashraellen — Tu es déjà en ligne | ashraellen, books, you, already, online, déjà, ligne, roman, audio, immersif, entre, thriller, psychologique, drame, cyberpunk, sur, réalité, numérique | déjà, ligne, ashraellen, audio, books, les, réalité, roman, algorithmes, already, avait, avant, chapitre, comme, cyberpunk, dans, des, drame |
@@ -4680,17 +4680,17 @@ Excerpt:
 - lang: fr
 - section: books
 - title: Ashraellen — SLUDGE
-- description: SLUDGE est le volume II de MONOLITH, une dystopie philosophique sur la pression devenue milieu, l’épuisement, la complicité et la perte de forme.
+- description: SLUDGE est le volume II de MONOLITH : une dystopie philosophique sur la pression visqueuse, la résistance épuisée, la complicité et la perte de forme.
 - canonical: https://www.ashraellen.com/fr/books/monolith/sludge/
 - H1: SLUDGE
 - H2: Dossier | Extrait choisi | À propos du livre | Sans divulgâcher | Cadre artistique et de recherche | Thèmes | Pour qui | Place dans la trilogie
 - H3: Viscosité | Fatigue | Faim | Rituel | Complicité | Perte de forme
-- suggested keyword seed: sludge, ashraellen, books, dans, monolith, pour, qui, une, adam, artistique, cadre, choisi, complicité, des, devenue, divulgâcher, dossier, dystopie
-- candidates: les, pas, une, dans, des, que, mais, plus, qui, pour, adam, gilet, milieu, par, son, monolith, sludge, grisonnant, personne, sans, sur, avec, comme, est
+- suggested keyword seed: sludge, ashraellen, books, dans, monolith, pour, qui, une, artistique, cadre, choisi, complicité, des, divulgâcher, dossier, dystopie, épuisée, est
+- candidates: pas, une, les, dans, des, que, qui, plus, pour, mais, sludge, son, milieu, sur, comme, adam, gilet, monolith, personne, est, était, par, d’un, volume
 
 Excerpt:
 
-> SLUDGE Une dystopie philosophique où la pression ne ressemble plus à un mur : elle devient un milieu visqueux, épuisant et intime. Volume II de MONOLITH. Dossier Volume II Quand le mur ramollit, la liberté ne commence pas. La pression apprend simplement à couler. DOSSIER N° 2026-002S. Phase visqueuse / déformation active. Édition russe sur Google Play Books Édition anglaise sur Amazon Retour à MONOLITH Extrait choisi Chapitre 6 / § 6.2 Le texte complet conserve chaque paragraphe du fragment russe sélectionné. Ouvrir l’extrait complet Chapitre 6. Premiers pas dans SLUDGE. § 6.2. Entrepôts de Conservation des Éclats Au petit déjeuner, on leur servit de la bouillie. Non pas de la nourriture au sens humain, mais précisément de la bouillie : grise, visqueuse, avec le goût qui apparaît lorsque les céréales restent trop longtemps dans un sac humide, puis sont cuites non pour rassasier, mais pou
+> SLUDGE SLUDGE est une dystopie philosophique sur un monde où la pression ne ressemble plus à un mur. Elle devient un milieu : visqueux, épuisant et proche. Volume II de la trilogie MONOLITH. Dossier Volume II Quand le mur ramollit, la liberté ne commence pas. La pression apprend simplement à couler. DOSSIER N° 2026-002S. STATUT : Phase visqueuse / déformation active. Lire l’édition russe sur Google Play Books Lire l’édition anglaise sur Amazon Retour à MONOLITH Extrait choisi Chapitre 6 / § 6.2 Chapitre 6. Premiers pas dans SLUDGE. § 6.2. Entrepôts de Conservation des Éclats L’extrait montre comment le besoin ordinaire, l’équipement obsolète et la langue bureaucratique transforment la protection en imitation, et la survie en service que chacun doit financer lui-même. Ouvrir l’extrait complet Chapitre 6. Premiers pas dans SLUDGE. § 6.2. Entrepôts de Conservation des Éclats Au petit déjeun
 
 ### fr/books/seccus/index.html
 
