@@ -1,0 +1,118 @@
+name: Stage 04 Radiance apply
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  apply:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: stage04-radiance-work
+          fetch-depth: 0
+
+      - name: Download validated control artifact
+        uses: dawidd6/action-download-artifact@v11
+        with:
+          github_token: ${{ github.token }}
+          repo: Ashraellen/apm
+          workflow: stage04-final-assemble.yml
+          workflow_conclusion: success
+          branch: stage03-final-audit-work
+          name: stage04-radiance-final
+          path: /tmp/stage04-final
+          search_artifacts: true
+
+      - name: Apply exact validated archive
+        shell: bash
+        run: |
+          set -euxo pipefail
+          test -f /tmp/stage04-final/stage04-radiance-final.tar.gz
+          (cd /tmp/stage04-final && sha256sum -c ARCHIVE_SHA256)
+          tar -xzf /tmp/stage04-final/stage04-radiance-final.tar.gz -C .
+          while read -r sum path; do
+            echo "$sum  $path" | sha256sum -c -
+          done < /tmp/stage04-final/SHA256SUMS
+
+      - name: Validate final website state
+        shell: bash
+        run: |
+          set -euxo pipefail
+          python -m pip install --disable-pip-version-check beautifulsoup4
+          python - <<'PY'
+          from pathlib import Path
+          from bs4 import BeautifulSoup
+          import json, subprocess
+          langs=['en','pl','be','uk','de','fr','es','pt']
+          titles={
+            'en':('Radiance','Sampo','Song'),'pl':('Blask','Sampo','Pieśń'),
+            'be':('Ззянне','САМПО','Песня'),'uk':('Сяйво','САМПО','Пісня'),
+            'de':('Glanz','Sampo','Lied'),'fr':('Éclat','Sampo','Chant'),
+            'es':('Resplandor','Sampo','Canto'),'pt':('Esplendor','Sampo','Canto')}
+          routes=[('radiance',0),('radiance/sampo',569),('radiance/song',351)]
+          expected=[]; total=0
+          for lang in langs:
+            for route,n in routes:
+              path=Path(f'{lang}/books/{route}/index.html'); expected.append(str(path))
+              text=path.read_text(encoding='utf-8'); soup=BeautifulSoup(text,'html.parser')
+              page='radiance' if route=='radiance' else route.rsplit('/',1)[1]
+              title={'radiance':titles[lang][0],'sampo':titles[lang][1],'song':titles[lang][2]}[page]
+              if soup.html.get('lang')!=lang: raise SystemExit(f'lang {path}')
+              if not soup.h1 or soup.h1.get_text(' ',strip=True)!=title: raise SystemExit(f'h1 {path}')
+              if title not in (soup.title.get_text(' ',strip=True) if soup.title else ''): raise SystemExit(f'title {path}')
+              canonical=f'https://www.ashraellen.com/{lang}/books/{route}/'
+              c=soup.find('link',rel='canonical')
+              if not c or c.get('href')!=canonical: raise SystemExit(f'canonical {path}')
+              if any(x in text for x in ('window.__BASE__','innerHTML','textContent','fetch(')): raise SystemExit(f'runtime patch {path}')
+              if n:
+                details=soup.find('details'); ps=details.find_all('p') if details else []
+                if len(ps)!=n: raise SystemExit(f'paragraph count {path}: {len(ps)}')
+                if [p.get('data-p') for p in ps] != [str(i) for i in range(1,n+1)]: raise SystemExit(f'paragraph sequence {path}')
+                total += len(ps)
+              scripts=soup.find_all('script',attrs={'type':'application/ld+json'})
+              if len(scripts)!=1: raise SystemExit(f'jsonld count {path}')
+              graph=json.loads(scripts[0].string or '{}').get('@graph',[])
+              types={x.get('@type') for x in graph}
+              req={'Person','WebSite','CollectionPage','BreadcrumbList','ImageObject','BookSeries' if page=='radiance' else 'Book'}
+              if not req.issubset(types): raise SystemExit(f'jsonld types {path}')
+              visible=soup.body.get_text(' ',strip=True)
+              if titles[lang][1] not in visible: raise SystemExit(f'Sampo visible title {path}')
+              if lang in ('be','uk') and 'Sampo' in visible: raise SystemExit(f'Latin Sampo residue {path}')
+          if total!=7360: raise SystemExit(f'total protected paragraphs {total}')
+          source_sha={
+            'ru/books/radiance/index.html':'8d871ad4f8e5f19bba9f0be3bac20a86dd5184e1',
+            'ru/books/radiance/sampo/index.html':'009ca28cfb6d45ee766035c3f0bb1bc418d8b1dc',
+            'ru/books/radiance/song/index.html':'63ec0d3aedc8b716ecbd284bffe9b6cc6ebbc8fc'}
+          for path,sha in source_sha.items():
+            got=subprocess.check_output(['git','hash-object',path],text=True).strip()
+            if got!=sha: raise SystemExit(f'Russian source changed {path}: {got}')
+          print(json.dumps({'status':'PASS','pages':len(expected),'protected_paragraphs':total},ensure_ascii=False))
+          PY
+
+      - name: Commit exact Stage 04 scope
+        shell: bash
+        run: |
+          set -euxo pipefail
+          rm -f .github/workflows/stage04-radiance-apply.yml
+          git add -A
+          python - <<'PY'
+          import subprocess
+          langs=['en','pl','be','uk','de','fr','es','pt']
+          expected={f'{l}/books/{r}/index.html' for l in langs for r in ['radiance','radiance/sampo','radiance/song']}
+          changed=set(subprocess.check_output(['git','diff','--cached','--name-only'],text=True).splitlines())
+          if changed!=expected:
+            raise SystemExit(f'scope mismatch extra={sorted(changed-expected)} missing={sorted(expected-changed)}')
+          print('scope PASS: 24 authorized files')
+          PY
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Stage 04: synchronize Radiance family"
+          git push origin HEAD:stage04-radiance-work
