@@ -1,6 +1,6 @@
 # Page Metadata Audit
 
-Generated: 2026-07-07T13:04:08.334Z
+Generated: 2026-07-07T13:47:15.398Z
 
 Pages checked: 550
 Pages with issues: 35
@@ -191,7 +191,7 @@ Total review notes: 2040
 ### en/professional/index.html
 
 - title: Ashraellen — Professional Dossier
-- description length: 179
+- description length: 175
 - canonical: https://www.ashraellen.com/en/professional/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
