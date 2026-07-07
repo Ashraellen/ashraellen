@@ -1,0 +1,48 @@
+name: Unpack Error404 focus-group reader
+
+on:
+  push:
+    paths:
+      - '.github/workflows/unpack-error404-focus-group.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  unpack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Unpack archive into focus-group/books/Error404
+        shell: bash
+        run: |
+          set -euo pipefail
+          archive='focus-group/books/Error404_FR.zip'
+          target='focus-group/books/Error404'
+          tempdir="$(mktemp -d)"
+
+          test -f "$archive"
+          rm -rf "$target"
+          mkdir -p "$target"
+          unzip -q "$archive" -d "$tempdir"
+
+          if [ -d "$tempdir/FR" ]; then
+            cp -a "$tempdir/FR/." "$target/"
+          else
+            cp -a "$tempdir/." "$target/"
+          fi
+
+          test -f "$target/index.html"
+          count=$(find "$target" -maxdepth 1 -type f -name 'E404GNFB1WM-RU_CH-*_v*.md' | wc -l)
+          test "$count" -eq 22
+
+      - name: Commit unpacked reader
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add focus-group/books/Error404
+          git commit -m "Add Error404 focus-group reader" || exit 0
+          git push
