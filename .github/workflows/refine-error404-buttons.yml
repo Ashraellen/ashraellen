@@ -1,0 +1,110 @@
+name: Refine Error404 reader buttons
+
+on:
+  push:
+    paths:
+      - '.github/workflows/refine-error404-buttons.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refine:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Apply elegant button styling
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path('focus-group/books/Error404/index.html')
+          html = path.read_text(encoding='utf-8')
+
+          marker_start = '/* elegant-buttons:start */'
+          marker_end = '/* elegant-buttons:end */'
+          block = r'''
+/* elegant-buttons:start */
+.btn{
+  min-height:36px;
+  padding:7px 12px;
+  border-width:1px;
+  border-radius:10px;
+  background:color-mix(in srgb,var(--panel-solid) 82%,transparent);
+  font-size:14px;
+  font-weight:560;
+  letter-spacing:.01em;
+  box-shadow:0 1px 0 rgba(255,255,255,.28) inset;
+  transition:background .16s ease,border-color .16s ease,color .16s ease,box-shadow .16s ease,transform .16s ease
+}
+.btn:hover{
+  transform:none;
+  border-color:color-mix(in srgb,var(--accent) 48%,var(--line));
+  background:color-mix(in srgb,var(--accent-soft) 40%,var(--panel-solid));
+  box-shadow:0 4px 14px rgba(52,42,30,.07)
+}
+.btn:active{transform:translateY(1px);box-shadow:none}
+.btn:focus-visible{outline:2px solid color-mix(in srgb,var(--accent) 58%,transparent);outline-offset:2px}
+.btn.primary{
+  background:var(--accent);
+  border-color:var(--accent);
+  color:#fff;
+  font-weight:600;
+  box-shadow:0 3px 10px rgba(122,57,43,.16)
+}
+.btn.primary:hover{
+  background:color-mix(in srgb,var(--accent) 88%,#fff);
+  border-color:color-mix(in srgb,var(--accent) 88%,#fff);
+  box-shadow:0 5px 14px rgba(122,57,43,.20)
+}
+.btn.small{
+  min-height:32px;
+  padding:5px 9px;
+  border-radius:9px;
+  font-size:13px
+}
+.btn.ghost{background:transparent;box-shadow:none}
+.done-label{
+  min-height:32px;
+  padding:5px 9px;
+  border-radius:9px;
+  font-size:13px;
+  font-weight:560;
+  background:color-mix(in srgb,var(--panel-solid) 72%,transparent)
+}
+.done-label input{width:16px;height:16px}
+/* elegant-buttons:end */
+'''
+
+          if marker_start in html and marker_end in html:
+              before = html.split(marker_start, 1)[0]
+              after = html.split(marker_end, 1)[1]
+              html = before + block + after
+          else:
+              html = html.replace('</style>', block + '\n</style>', 1)
+
+          path.write_text(html, encoding='utf-8')
+          PY
+
+      - name: Bump service worker cache
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          path = Path('focus-group/books/Error404/sw.js')
+          text = path.read_text(encoding='utf-8')
+          text = text.replace("const CACHE='error404-reader-v1';", "const CACHE='error404-reader-v2';")
+          path.write_text(text, encoding='utf-8')
+          PY
+
+      - name: Commit refined buttons
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add focus-group/books/Error404/index.html focus-group/books/Error404/sw.js
+          git commit -m "Refine Error404 reader button styling" || exit 0
+          git push
