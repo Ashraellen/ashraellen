@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-06T23:47:06.398Z
+Generated: 2026-07-07T00:12:24.148Z
 Pages: 551
 
 ## Index
@@ -2697,7 +2697,7 @@ Excerpt:
 - H2: Selected page | About the book | Without spoilers | Literary-philosophical frame | The voice of the book | Themes | For whom | The Tetra-Book and the corpus
 - H3: Page 71 — The Shadow Source of Energy | Success reversed | Money as a mirror | Knowledge as an alibi | A direct conversation | Page III — The Zero Point | Success | Money
 - suggested keyword seed: book, seccus, about, sacred, ashraellen, books, money, own, success, alibi, choice, corpus, does, frame, honesty, how, knowledge, literary-philosophical
-- candidates: book, you, success, does, person, money, seccus, about, how, own, pages, shadow, three, while, corpus, freedom, paths, project, sacrunomicon, what, your, another, becomes, desire
+- candidates: book, you, does, success, person, money, seccus, about, how, own, pages, shadow, three, while, corpus, freedom, paths, project, sacrunomicon, ssmv, what, your, another, becomes
 
 Excerpt:
 
