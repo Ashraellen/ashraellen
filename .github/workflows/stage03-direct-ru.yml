@@ -1,0 +1,75 @@
+name: Stage 03 direct Russian revision
+
+on:
+  pull_request:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  revise:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout isolated revision branch
+        uses: actions/checkout@v4
+        with:
+          ref: stage03-revision-work
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install validator dependencies
+        run: python -m pip install --disable-pip-version-check requests beautifulsoup4
+
+      - name: Rebuild all Stage 03 targets directly from Russian
+        run: python tools/stage03_direct_ru.py
+
+      - name: Verify and commit the validated 24-page revision
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -f tools/stage03_direct_ru.py
+          rm -f .github/workflows/stage03-direct-ru.yml
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          for lang in en pl be uk de fr es pt; do
+            git add "$lang/books/monolith/index.html"
+            git add "$lang/books/monolith/beton/index.html"
+            git add "$lang/books/monolith/sludge/index.html"
+          done
+          git add -A -- tools/stage03_direct_ru.py .github/workflows/stage03-direct-ru.yml
+
+          python - <<'PY'
+          import re
+          import subprocess
+
+          changed = subprocess.check_output(
+              ['git', 'diff', '--cached', '--name-only'], text=True
+          ).splitlines()
+          allowed = re.compile(
+              r'^(?:en|pl|be|uk|de|fr|es|pt)/books/monolith/(?:index\.html|beton/index\.html|sludge/index\.html)$'
+          )
+          helpers = {
+              'tools/stage03_direct_ru.py',
+              '.github/workflows/stage03-direct-ru.yml',
+          }
+          content = [path for path in changed if path not in helpers]
+          unexpected = [path for path in content if not allowed.match(path)]
+          if unexpected:
+              raise SystemExit(f'Unexpected staged paths: {unexpected}')
+          if len(content) != 24:
+              raise SystemExit(f'Expected exactly 24 Stage 03 HTML files, got {len(content)}: {content}')
+          print('STAGED_SCOPE_PASS: 24 authorized Stage 03 HTML files')
+          PY
+
+          git commit -m "Stage 03 revision: rebuild MONOLITH directly from Russian"
+          git push origin HEAD:stage03-revision-work
