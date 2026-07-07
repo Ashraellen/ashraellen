@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T00:15:13.226Z
+Generated: 2026-07-07T00:16:50.019Z
 Pages: 551
 
 ## Index
@@ -504,7 +504,7 @@ Pages: 551
 | uk/books/monolith/beton/index.html | uk | books | Ashraellen — BETON — Ukrainian | ashraellen, books, monolith, beton, том, трилогії, справа, опис, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, справа, monolith, том, починається, трилогії, 2026-001b, ashraellen, books, бетон, він, опис, ukrainian, бути, в’язницю, занадто, звички, індекс |
 | uk/books/monolith/index.html | uk | books | Ashraellen — MONOLITH — Ukrainian | ashraellen, books, monolith, антиутопічна, трилогія, про, контроль, пам’ять, розпад, систем, серія, томи, том, beton, sludge, iii, gas, doctype | monolith, том, ashraellen, beton, books, gas, sludge, пам’ять, серія, соціальної, томи, трилогія, iii, ukrainian, антиутопії, антиутопічна, без, видання |
 | uk/books/monolith/sludge/index.html | uk | books | Ashraellen — SLUDGE — Ukrainian | ashraellen, books, monolith, sludge, том, трилогії, справа, опис, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, справа, monolith, том, трилогії, 2026-001b, ashraellen, books, вона, втомлюється, ламається, людина, одразу, опис, починає, ukrainian, опір, погоджуватися |
-| uk/books/seccus/index.html | uk | books | Ashraellen — САКРАЛЬНА КНИГА АХЕПСУ | Ashraellen, АХЕПСУ, Сакральна книга АХЕПСУ, Шлях Чесності, філософська сатира, гроші, успіх, самообман, знання як алібі, відповідальність, Sacrunomicon, Ordo Sacrunomiconis, Тетра-Книга | ахепсу, книга, про, сакральна, ashraellen, books, гроші, сторінка, успіх, sacrunomicon, seccus, але, алібі, без, вибір, вибрана, від, відповідальність |
+| uk/books/seccus/index.html | uk | books | Ashraellen — САКРАЛЬНА КНИГА АХЕПСУ | Ashraellen, АХЕПСУ, Сакральна книга АХЕПСУ, Шлях Чесності, філософська сатира, гроші, успіх, самообман, знання як алібі, відповідальність, Sacrunomicon, Ordo Sacrunomiconis, Тетра-Книга | ахепсу, книга, про, сакральна, ashraellen, books, гроші, сторінка, успіх, sacrunomicon, seccus, ssmv, але, алібі, без, вибір, вибрана, від |
 | uk/books/the-book-of-whinesis/index.html | uk | books | Ashraellen — Книга Нытия — Ukrainian | ashraellen, books, book, whinesis, книга, нытия, сакральна, сатира, тих, хто, втомився, від, позитивних, вайбів, нескінченної, продуктивності, культу, успіху | книга, нытия, ashraellen, books, про, хто, book, ukrainian, whinesis, буде, вайбів, від, він, втомився, глава, глави, господь, його |
 | uk/books/you-are-already-online/index.html | uk | books | Ashraellen — Ти вже в мережі | ashraellen, books, you, already, online, вже, мережі, психологічний, технотрилер, про, цифрове, сприйняття, підтвердження, реальність, яка, починає, відповідати, запитання | вже, мережі, ashraellen, books, про, реальність, яка, already, online, you, буде, від, відбувається, відповідати, вона, гачок, дослідницький, запитання |
 | uk/contact.html | uk | contact.html | Контакт — Ashraellen — Ukrainian | ashraellen, contact, контакт, контактна, сторінка, співпраця, публікації, гранти, медіа, запити, щодо, проєкту, doctype, html, title, function, const, isgithub | ashraellen, контакт, гранти, запити, медіа, проєкту, публікації, співпраця, contact, contact.html, telegram, telegram-канал, ukrainian, зв’язку, контактна, публічні, сторінка, щодо |
@@ -9020,8 +9020,8 @@ Excerpt:
 - H1: САКРАЛЬНА КНИГА АХЕПСУ
 - H2: Вибрана сторінка | Про книгу | Без спойлерів | Літературно-філософська рамка | Голос книги | Теми | Для кого | Тетра-Книга і корпус
 - H3: Сторінка 71 — Тіньове Джерело Енергії | Успіх навпаки | Гроші як дзеркало | Знання як алібі | Пряма розмова | Сторінка III — Нульова Точка | Успіх | Гроші
-- suggested keyword seed: ахепсу, книга, про, сакральна, ashraellen, books, гроші, сторінка, успіх, sacrunomicon, seccus, але, алібі, без, вибір, вибрана, від, відповідальність
-- candidates: книга, про, ахепсу, людина, успіх, сторінка, sacrunomicon, але, гроші, заради, сторінки, від, який, ssmv, або, бажання, без, головна, замість, знання, коли, корпус, самообман, себе
+- suggested keyword seed: ахепсу, книга, про, сакральна, ashraellen, books, гроші, сторінка, успіх, sacrunomicon, seccus, ssmv, але, алібі, без, вибір, вибрана, від
+- candidates: книга, про, ахепсу, людина, сторінка, успіх, sacrunomicon, ssmv, але, гроші, заради, від, сторінки, який, або, бажання, без, головна, замість, знання, коли, корпус, самообман, себе
 
 Excerpt:
 
