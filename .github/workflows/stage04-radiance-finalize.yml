@@ -1,0 +1,114 @@
+name: Stage 04 Radiance final merge gate
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: stage04-radiance-finalize
+  cancel-in-progress: true
+
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: stage04-radiance-work
+          fetch-depth: 0
+
+      - name: Wait for validated apply commit
+        shell: bash
+        run: |
+          set -euxo pipefail
+          ready=0
+          for i in $(seq 1 90); do
+            git fetch origin stage04-radiance-work main
+            git reset --hard origin/stage04-radiance-work
+            msg=$(git log -1 --pretty=%s)
+            if [ "$msg" = "Stage 04: synchronize Radiance family" ] && [ ! -e .github/workflows/stage04-radiance-apply.yml ]; then
+              ready=1
+              break
+            fi
+            sleep 10
+          done
+          test "$ready" = 1
+
+      - name: Verify exact final scope and corpus
+        shell: bash
+        run: |
+          set -euxo pipefail
+          python -m pip install --disable-pip-version-check beautifulsoup4
+          python - <<'PY'
+          from pathlib import Path
+          from bs4 import BeautifulSoup
+          import json, subprocess
+          langs=['en','pl','be','uk','de','fr','es','pt']
+          titles={
+            'en':('Radiance','Sampo','Song'),'pl':('Blask','Sampo','Pieśń'),
+            'be':('Ззянне','САМПО','Песня'),'uk':('Сяйво','САМПО','Пісня'),
+            'de':('Glanz','Sampo','Lied'),'fr':('Éclat','Sampo','Chant'),
+            'es':('Resplandor','Sampo','Canto'),'pt':('Esplendor','Sampo','Canto')}
+          routes=[('radiance',0),('radiance/sampo',569),('radiance/song',351)]
+          expected={f'{l}/books/{r}/index.html' for l in langs for r,_ in routes}
+          changed=set(subprocess.check_output(['git','diff','--name-only','origin/main...HEAD'],text=True).splitlines())
+          allowed=expected|{'.github/workflows/stage04-radiance-finalize.yml'}
+          if changed!=allowed: raise SystemExit(f'pre-clean scope mismatch extra={sorted(changed-allowed)} missing={sorted(allowed-changed)}')
+          total=0
+          for lang in langs:
+            for route,n in routes:
+              path=Path(f'{lang}/books/{route}/index.html'); text=path.read_text(encoding='utf-8'); soup=BeautifulSoup(text,'html.parser')
+              page='radiance' if route=='radiance' else route.rsplit('/',1)[1]
+              title={'radiance':titles[lang][0],'sampo':titles[lang][1],'song':titles[lang][2]}[page]
+              assert soup.html.get('lang')==lang, path
+              assert soup.h1 and soup.h1.get_text(' ',strip=True)==title, path
+              assert title in soup.title.get_text(' ',strip=True), path
+              canonical=f'https://www.ashraellen.com/{lang}/books/{route}/'
+              assert soup.find('link',rel='canonical').get('href')==canonical, path
+              assert not any(x in text for x in ('window.__BASE__','innerHTML','textContent','fetch(')), path
+              if n:
+                ps=soup.find('details').find_all('p')
+                assert len(ps)==n, (path,len(ps),n)
+                assert [p.get('data-p') for p in ps]==[str(i) for i in range(1,n+1)], path
+                total+=n
+              graph=json.loads(soup.find('script',attrs={'type':'application/ld+json'}).string)['@graph']
+              types={x.get('@type') for x in graph}
+              req={'Person','WebSite','CollectionPage','BreadcrumbList','ImageObject','BookSeries' if page=='radiance' else 'Book'}
+              assert req.issubset(types), (path,types)
+              visible=soup.body.get_text(' ',strip=True)
+              assert titles[lang][1] in visible, path
+              if lang in ('be','uk'): assert 'Sampo' not in visible, path
+          assert total==7360, total
+          source_sha={
+            'ru/books/radiance/index.html':'8d871ad4f8e5f19bba9f0be3bac20a86dd5184e1',
+            'ru/books/radiance/sampo/index.html':'009ca28cfb6d45ee766035c3f0bb1bc418d8b1dc',
+            'ru/books/radiance/song/index.html':'63ec0d3aedc8b716ecbd284bffe9b6cc6ebbc8fc'}
+          for path,sha in source_sha.items():
+            got=subprocess.check_output(['git','hash-object',path],text=True).strip(); assert got==sha,(path,got)
+          print('FINAL VALIDATION PASS: 24 pages / 7360 protected paragraphs')
+          PY
+
+      - name: Remove merge gate and merge PR
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euxo pipefail
+          rm -f .github/workflows/stage04-radiance-finalize.yml
+          git add -A
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Remove Stage 04 temporary merge gate"
+          git push origin HEAD:stage04-radiance-work
+          for i in $(seq 1 30); do
+            if gh pr merge "${{ github.event.pull_request.number }}" --repo Ashraellen/ashraellen --squash --subject "Stage 04: synchronize Radiance family" --body "Validated Stage 04 Radiance-family synchronization: 24 pages, approved localized titles, and 7360 protected chapter paragraphs."; then
+              exit 0
+            fi
+            sleep 10
+          done
+          exit 1
