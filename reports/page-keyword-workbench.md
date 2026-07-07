@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T07:48:33.119Z
+Generated: 2026-07-07T07:52:32.136Z
 Pages: 551
 
 ## Index
@@ -501,7 +501,7 @@ Pages: 551
 | ru/research/projects/index.html | ru | research | Ashraellen — Проекты исследования | ashraellen, research, projects, проекты, исследования, карта, рабочих, полей, монолит, основной, канал, публичное, поле, сатирические, боковые, лаборатории, восприятия, instagram | ashraellen, проекты, research, telegram, боковые, канал, лаборатории, монолит, поле, church, inner, instagram, melodies, occultus, projects, saint, scriptorium, sounds |
 | ru/research/sources/index.html | ru | research | Ashraellen — Источники и традиция | ashraellen, research, sources, источники, традиция, феноменология, сознания, тело, нарратив, когнитивная, наука, художественная, практика, методологические, линии, исследования, эдмунд, гуссерль | ashraellen, источники, тело, традиция, форма, research, варела, исследования, опыт, сознание, сознания, феноменология, sources, взаимодействие, восприятия, где, готовых, гуссерль |
 | uk/books/index.html | uk | books | Ashraellen — Книги | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | книги, ashraellen, 404, book, books, error, found, книга, сатира, god, monolith, radiance, whinesis, аудіороман, ахепсу, вже, відкрити, дослідження |
-| uk/books/monolith/beton/index.html | uk | books | Ashraellen — BETON — Ukrainian | ashraellen, books, monolith, beton, том, трилогії, справа, опис, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, справа, monolith, том, починається, трилогії, 2026-001b, ashraellen, books, бетон, він, опис, ukrainian, бути, в’язницю, занадто, звички, індекс |
+| uk/books/monolith/beton/index.html | uk | books | Ashraellen — BETON | _missing_ | beton, monolith, ashraellen, books, пам’ять, про, стабільність, антиутопія, антон, без, вибраний, видання, відредаговану, він, вона, вони, всередині, затверділу |
 | uk/books/monolith/index.html | uk | books | Ashraellen — MONOLITH | _missing_ | monolith, ashraellen, beton, books, gas, sludge, контроль, пам’ять, про, антиутопічна, важливо, вже, він, карта, кого, літературно-філософська, людина, плутати |
 | uk/books/monolith/sludge/index.html | uk | books | Ashraellen — SLUDGE — Ukrainian | ashraellen, books, monolith, sludge, том, трилогії, справа, опис, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, справа, monolith, том, трилогії, 2026-001b, ashraellen, books, вона, втомлюється, ламається, людина, одразу, опис, починає, ukrainian, опір, погоджуватися |
 | uk/books/seccus/index.html | uk | books | Ashraellen — САКРАЛЬНА КНИГА АХЕПСУ | Ashraellen, АХЕПСУ, Сакральна книга АХЕПСУ, Шлях Чесності, філософська сатира, гроші, успіх, самообман, знання як алібі, відповідальність, Sacrunomicon, Ordo Sacrunomiconis, Тетра-Книга | ахепсу, книга, про, сакральна, ashraellen, books, гроші, сторінка, успіх, sacrunomicon, seccus, ssmv, але, алібі, без, вибір, вибрана, від |
@@ -8963,18 +8963,18 @@ Excerpt:
 
 - lang: uk
 - section: books
-- title: Ashraellen — BETON — Ukrainian
-- description: BETON — Том I трилогії MONOLITH. BETON Справа Опис BETON Том I трилогії MONOLITH. Справа Том I Бетон починається не зі стіни. Він починається зі звички називати в’язницю стабільністю. СПРАВА № 2026-001B. Індекс:…
+- title: Ashraellen — BETON
+- description: BETON — перший том MONOLITH: філософська антиутопія про затверділу стабільність, відредаговану пам’ять і першу тріщину всередині Системи.
 - canonical: https://www.ashraellen.com/uk/books/monolith/beton/
 - H1: BETON
-- H2: Справа | Опис
-- H3: _missing_
-- suggested keyword seed: beton, справа, monolith, том, починається, трилогії, 2026-001b, ashraellen, books, бетон, він, опис, ukrainian, бути, в’язницю, занадто, звички, індекс
-- candidates: beton, том, справа, monolith, починається, трилогії, бетон, він, занадто, про, 2026-001b, бути, в’язницю, звички, індекс, його, називати, опис, перший, світі, сенсів, стабільністю, стіни, читати
+- H2: Справа | Вибраний фрагмент | Про книгу | Без спойлерів | Художньо-дослідницька рамка | Теми | Для кого | Місце у трилогії
+- H3: Стабільність | Пам’ять | Контроль | Шум | Провина | Перша тріщина
+- suggested keyword seed: beton, monolith, ashraellen, books, пам’ять, про, стабільність, антиутопія, антон, без, вибраний, видання, відредаговану, він, вона, вони, всередині, затверділу
+- candidates: він, beton, пам’ять, monolith, антон, його, коли, стабільність, видання, вони, марк, вона, клей, надто, про, том, вже, виправлення, всередині, запах, людина, перша, стає, щоб
 
 Excerpt:
 
-> BETON Том I трилогії MONOLITH. Справа Том I Бетон починається не зі стіни. Він починається зі звички називати в’язницю стабільністю. СПРАВА № 2026-001B. Індекс: 6666548A. СТАТУС: Цілком таємно. Читати англійською на Amazon Читати російською в Google Play Назад до серії Опис про книгу BETON — філософська антиутопія, психологічний трилер і соціальна фантастика про світ, де стабільність стала новою формою в’язниці. Це перший том трилогії MONOLITH і перший етап верифікації реальності. Антон — не просто співробітник. Він інструмент Системи, призначений для калібрування людських сенсів. Його робота — виявляти й згладжувати «шум»: занадто яскраві спогади, занадто гострі почуття, занадто живі питання. У цьому світі все, що порушує монолітність структури, має бути відредаговано. Страх, любов, біль, вибір, минуле, провина і пам’ять можуть бути виправлені, переписані або видалені — доки сама Систем
+> BETON BETON — філософська антиутопія про світ, у якому стабільність стала в’язницею, пам’ять визнано загрозою, а перша тріщина з’являється всередині системи, що досі вважає себе вічною. Том I трилогії MONOLITH. Справа Том I Бетон починається не зі стіни. Він починається зі звички називати в’язницю стабільністю. СПРАВА № 2026-001B. Індекс: 6666548A. СТАТУС: Цілком таємно. Читати російське видання в Google Play Books Читати англійське видання на Amazon Назад до MONOLITH Вибраний фрагмент Розділ 9 / § 9.1 Розділ 9. Протокол «Гордість» § 9.1. Найкращий клей для суспільства Фрагмент показує один із механізмів BETON: як біль перетворюють на гасло, провину — на суспільний клей, а людську втрату — на керований образ стабільності. Відкрити повний фрагмент Розділ 9. Протокол «Гордість» § 9.1. Найкращий клей для суспільства Ранок у Департаменті Сенсів почався з «білого коду». Це означало, що всі по
 
 ### uk/books/monolith/index.html
 
