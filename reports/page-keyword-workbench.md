@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T00:22:09.982Z
+Generated: 2026-07-07T00:24:05.004Z
 Pages: 551
 
 ## Index
@@ -6828,7 +6828,7 @@ Excerpt:
 - H2: Página selecionada | Sobre o livro | Sem spoilers | Estrutura literário-filosófica | A voz do livro | Temas | Para quem | O Tetra-Livro e o corpus
 - H3: Página 71 — A Fonte Sombria de Energia | Sucesso ao contrário | Dinheiro como espelho | Conhecimento como álibi | Uma conversa direta | Página III — O Ponto Zero | Sucesso | Dinheiro
 - suggested keyword seed: livro, seccus, sagrado, ashraellen, books, como, página, para, sobre, sucesso, uma, álibi, autoengano, caminho, conhecimento, corpus, dinheiro, escolha
-- candidates: que, não, uma, livro, para, sucesso, você, como, mas, página, pessoa, mais, por, sobre, dinheiro, seccus, páginas, três, caminhos, corpus, está, liberdade, pode, projeto
+- candidates: que, não, uma, livro, para, você, como, mas, página, sucesso, pessoa, mais, sobre, dinheiro, por, seccus, caminhos, páginas, três, corpus, liberdade, pode, projeto, sacrunomicon
 
 Excerpt:
 
