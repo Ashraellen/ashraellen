@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T07:38:39.105Z
+Generated: 2026-07-07T07:41:08.913Z
 Pages: 551
 
 ## Index
@@ -126,7 +126,7 @@ Pages: 551
 | en/books/error-404-god-not-found/index.html | en | books | Ashraellen — Error 404: God Not Found | ashraellen, books, error, 404, god, found, multilingual, philosophical-satirical, novel, cycle, about, heavenly, chancellery, human, complaint, against, universe, searching | error, god, found, 404, books, cycle, about, against, ashraellen, chancellery, heavenly, human, searching, series, begins, book, complaint, multilingual |
 | en/books/error-404-god-not-found/why-me/index.html | en | books | Ashraellen — Why Me? | ashraellen, books, error, 404, god, found, why, book, cycle, philosophical-satirical, novel, about, man, who, files, complaint, against, receives | why, book, god, error, about, ashraellen, books, found, 404, against, answer, chancellery, complaint, cycle, did, excerpt, files, had |
 | en/books/index.html | en | books | Ashraellen — Books | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | books, book, ashraellen, 404, god, research, satire, about, already, audio, cycle, cycles, error, found, monolith, novel, online, open |
-| en/books/monolith/beton/index.html | en | books | Ashraellen — BETON — English | ashraellen, books, monolith, beton, volume, trilogy, file, description, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, file, monolith, volume, trilogy, ashraellen, begin, begins, books, concrete, description, prison, stability, calling, does, english, first, habit |
+| en/books/monolith/beton/index.html | en | books | Ashraellen — BETON | _missing_ | beton, monolith, about, ashraellen, books, crack, first, memory, stability, anton, artistic-research, book, case, dystopia, edited, excerpt, file, frame |
 | en/books/monolith/index.html | en | books | Ashraellen — MONOLITH | _missing_ | monolith, ashraellen, beton, books, collapse, control, gas, memory, sludge, what, about, artistic-research, confused, crack, dystopian, fear, first, form |
 | en/books/monolith/sludge/index.html | en | books | Ashraellen — SLUDGE — English | ashraellen, books, monolith, sludge, volume, trilogy, file, description, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, file, monolith, volume, trilogy, ashraellen, begins, being, books, description, human, all, becomes, break, does, english, first, grows |
 | en/books/radiance/index.html | en | books | Ashraellen — Radiance \| Northern Tales of the True History of the World | ashraellen, books, radiance, northern, tales, true, history, world, literary-philosophical, practice-based, research, cycle, about, how, ancient, stories, preserve, imaginal | radiance, books, cycle, instructions, research, world, ancient, artistic, ashraellen, northern, what, about, book, confused, form, frame, history, how |
@@ -2588,18 +2588,18 @@ Excerpt:
 
 - lang: en
 - section: books
-- title: Ashraellen — BETON — English
-- description: BETON — Volume I of the MONOLITH trilogy. BETON File Description BETON Volume I of the MONOLITH trilogy. File Volume I Concrete does not begin with a wall. It begins with the habit of calling a prison stability. FILE №…
+- title: Ashraellen — BETON
+- description: BETON is Volume I of MONOLITH, a philosophical dystopia about hardened stability, edited memory and the first crack inside the System.
 - canonical: https://www.ashraellen.com/en/books/monolith/beton/
 - H1: BETON
-- H2: File | Description
-- H3: _missing_
-- suggested keyword seed: beton, file, monolith, volume, trilogy, ashraellen, begin, begins, books, concrete, description, prison, stability, calling, does, english, first, habit
-- candidates: beton, volume, file, monolith, stability, too, trilogy, begin, begins, concrete, first, prison, wall, world, about, all, calling, description, does, english, fiction, habit, has, have
+- H2: Case file | Selected excerpt | About the book | Without spoilers | Artistic-research frame | Themes | For whom | Place in the trilogy
+- H3: Stability | Memory | Control | Noise | Guilt | The first crack
+- suggested keyword seed: beton, monolith, about, ashraellen, books, crack, first, memory, stability, anton, artistic-research, book, case, dystopia, edited, excerpt, file, frame
+- candidates: anton, beton, his, stability, mark, memory, first, has, had, monolith, crack, person, they, does, system, them, when, about, correction, edition, inside, language, noise, still
 
 Excerpt:
 
-> BETON Volume I of the MONOLITH trilogy. File Volume I Concrete does not begin with a wall. It begins with the habit of calling a prison stability. FILE № 2026-001B. Index: 6666548A. STATUS: Top Secret. Read in English on Amazon Back to series Description about the book BETON is a philosophical dystopia, psychological thriller, and social science fiction novel about a world where stability has become a new form of prison. It is the first volume of the MONOLITH trilogy and the first stage of reality verification. Anton is not merely an employee. He is an instrument of the System, designed to calibrate human meanings. His work is to detect and smooth out “noise”: memories too vivid, feelings too sharp, questions too alive, manifestations of memory and inner resistance too dangerous. In this world, everything that disrupts the monolithic structure must be edited. Fear, love, pain, choice, th
+> BETON BETON is a philosophical dystopia about a world in which stability has become a prison, memory is treated as a threat and the first crack appears inside a system that still believes itself eternal. Volume I of the MONOLITH trilogy. Case file Volume I Concrete does not begin with a wall. It begins with the habit of calling a prison stability. CASE No. 2026-001B. Index: 6666548A. STATUS: Top Secret. Read the Russian edition on Google Play Books Read the English edition on Amazon Back to MONOLITH Selected excerpt Chapter 9 / § 9.1 Chapter 9. The “Pride” Protocol § 9.1. The Best Glue for Society The excerpt reveals one of BETON’s mechanisms: how pain is turned into a slogan, guilt into social glue and human loss into a managed image of stability. Open the complete excerpt Chapter 9. The “Pride” Protocol § 9.1. The Best Glue for Society Morning at the Department of Meanings began with a
 
 ### en/books/monolith/index.html
 
