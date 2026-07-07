@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T00:19:37.651Z
+Generated: 2026-07-07T00:22:09.982Z
 Pages: 551
 
 ## Index
@@ -190,7 +190,7 @@ Pages: 551
 | es/books/monolith/beton/index.html | es | books | Ashraellen — BETON — Spanish | ashraellen, books, monolith, beton, volumen, trilogía, expediente, descripción, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beton, expediente, monolith, volumen, con, empieza, trilogía, ashraellen, books, concreto, descripción, estabilidad, una, costumbre, demasiado, edición, llamar, pared |
 | es/books/monolith/index.html | es | books | Ashraellen — MONOLITH — Spanish | ashraellen, books, monolith, trilogía, distópica, sobre, control, memoria, colapso, sistemas, serie, volúmenes, volumen, beton, sludge, iii, gas, doctype | monolith, volumen, ashraellen, beton, books, gas, memoria, serie, sludge, trilogía, una, volúmenes, abrir, ciencia, colapso, control, convierte, del |
 | es/books/monolith/sludge/index.html | es | books | Ashraellen — SLUDGE — Spanish | ashraellen, books, monolith, sludge, volumen, trilogía, expediente, descripción, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sludge, expediente, monolith, volumen, trilogía, ashraellen, books, descripción, humano, inmediato, primero, ser, cansa, empieza, está, luego, persona, resistir |
-| es/books/seccus/index.html | es | books | Ashraellen — EL LIBRO SAGRADO DE SECCUS | Ashraellen, SECCUS, El Libro Sagrado de SECCUS, El Camino de la Honestidad, sátira filosófica, dinero, éxito, autoengaño, conocimiento como coartada, responsabilidad, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Libro | libro, seccus, sagrado, ashraellen, books, del, dinero, éxito, página, para, por, sobre, una, autoengaño, camino, coartada, como, con |
+| es/books/seccus/index.html | es | books | Ashraellen — EL LIBRO SAGRADO DE SECCUS | Ashraellen, SECCUS, El Libro Sagrado de SECCUS, El Camino de la Honestidad, sátira filosófica, dinero, éxito, autoengaño, conocimiento como coartada, responsabilidad, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Libro | libro, seccus, sagrado, ashraellen, books, del, dinero, éxito, página, para, sobre, una, autoengaño, camino, coartada, como, con, conocimiento |
 | es/books/the-book-of-whinesis/index.html | es | books | Ashraellen — The Book of Whinesis — Spanish | ashraellen, books, book, whinesis, sátira, sagrada, para, quienes, han, cansado, las, vibras, positivas, productividad, infinita, culto, éxito, sobre | book, whinesis, ashraellen, books, para, sobre, cansado, capítulos, con, culto, del, dijo, estado, éxito, fragmento, han, infinita, las |
 | es/books/you-are-already-online/index.html | es | books | Ashraellen — Ya estás en la red | ashraellen, books, you, already, online, estás, red, una, novela, sonora, inmersiva, género, del, thriller, psicológico, drama, cyberpunk, sobre | estás, red, ashraellen, books, capítulo, del, los, novela, realidad, sobre, una, algoritmos, already, antes, como, cyberpunk, digital, drama |
 | es/contact.html | es | contact.html | Contacto — Ashraellen — Spanish | ashraellen, contact, contacto, página, cooperación, publicaciones, subvenciones, medios, consultas, del, proyecto, doctype, html, title, function, const, isgithub, location.hostname.endswith | ashraellen, contacto, consultas, cooperación, del, medios, proyecto, subvenciones, canal, contact, contact.html, investigación, página, para, publicaciones, spanish, telegram |
@@ -3682,8 +3682,8 @@ Excerpt:
 - H1: EL LIBRO SAGRADO DE SECCUS
 - H2: Página seleccionada | Sobre el libro | Sin destripes | Marco literario y filosófico | La voz del libro | Temas | Para quién | El Tetra-Libro y el corpus
 - H3: Página 71 — La Fuente de Energía de la Sombra | El éxito al revés | El dinero como espejo | El conocimiento como coartada | Una conversación directa | Página III — El Punto Cero | Éxito | Dinero
-- suggested keyword seed: libro, seccus, sagrado, ashraellen, books, del, dinero, éxito, página, para, por, sobre, una, autoengaño, camino, coartada, como, con
-- candidates: una, que, libro, del, éxito, página, con, para, persona, los, dinero, por, qué, seccus, cómo, convierte, páginas, sino, sobre, sombra, tres, caminos, como, corpus
+- suggested keyword seed: libro, seccus, sagrado, ashraellen, books, del, dinero, éxito, página, para, sobre, una, autoengaño, camino, coartada, como, con, conocimiento
+- candidates: una, que, libro, del, éxito, página, con, para, persona, los, dinero, qué, seccus, como, cómo, convierte, páginas, por, sino, sobre, sombra, tres, caminos, corpus
 
 Excerpt:
 
