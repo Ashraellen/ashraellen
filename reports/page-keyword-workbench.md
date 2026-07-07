@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T07:25:55.629Z
+Generated: 2026-07-07T07:28:55.363Z
 Pages: 551
 
 ## Index
@@ -67,7 +67,7 @@ Pages: 551
 | be/research/sources/index.html | be | research | Ashraellen — Крыніцы і традыцыя | ashraellen, research, sources, крыніцы, традыцыя, фенаменалогія, свядомасці, цела, наратыў, кагнітыўная, навука, мастацкая, практыка, эдмунд, гусерль, досвед, гатовых, тлумачэнняў | ashraellen, крыніцы, традыцыя, цела, research, аповед, досвед, свядомасці, свядомасць, фенаменалогія, sources, бачным, варэла, гатовых, гусерль, даследавання, досведу, жывая |
 | de/books/index.html | de | books | Ashraellen — Bücher | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | bücher, ashraellen, und, books, buch, satire, 404, audioroman, bereits, bist, book, buchzyklen, das, der, die, eigenständige, ein, eine |
 | de/books/monolith/beton/index.html | de | books | Ashraellen — BETON — German | ashraellen, books, monolith, beton, band, der, monolith-trilogie, akte, beschreibung, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | beton, akte, band, der, beginnt, mit, monolith-trilogie, ashraellen, beschreibung, books, ein, einer, die, gefängnis, german, gewohnheit, ist, monolith |
-| de/books/monolith/index.html | de | books | Ashraellen — MONOLITH — German | ashraellen, books, monolith, eine, dystopische, trilogie, über, kontrolle, erinnerung, und, den, zerfall, von, systemen, serie, bände, band, beton | monolith, ashraellen, books, eine, erinnerung, und, band, bände, beton, den, der, die, dystopische, gas, german, ist, kontrolle, ohne |
+| de/books/monolith/index.html | de | books | Ashraellen — MONOLITH | _missing_ | monolith, ist, der, und, ashraellen, books, den, eine, erinnerung, gas, kontrolle, nicht, was, bände, beton, darf, des, die |
 | de/books/monolith/sludge/index.html | de | books | Ashraellen — SLUDGE — German | ashraellen, books, monolith, sludge, band, der, monolith-trilogie, akte, beschreibung, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | sludge, akte, band, der, monolith-trilogie, ashraellen, beschreibung, books, ein, mensch, nicht, wird, beginnt, dann, die, german, ist, leisten |
 | de/books/seccus/index.html | de | books | Ashraellen — DAS HEILIGE BUCH SECCUS | Ashraellen, SECCUS, Das Heilige Buch SECCUS, Der Weg der Ehrlichkeit, philosophische Satire, Geld, Erfolg, Selbsttäuschung, Wissen als Alibi, Verantwortung, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Buch | das, buch, der, die, seccus, heilige, und, ashraellen, books, des, für, ist, seite, über, alibi, als, ausgewählte, buches |
 | de/books/the-book-of-whinesis/index.html | de | books | Ashraellen — The Book of Whinesis — German | ashraellen, books, book, whinesis, sakrale, satire, für, alle, die, von, positiven, vibes, endloser, produktivität, und, dem, kult, des | book, whinesis, ashraellen, books, des, die, und, alle, auf, auszug, buch, das, dem, den, der, endloser, erfolgs, erste |
@@ -1585,18 +1585,18 @@ Excerpt:
 
 - lang: de
 - section: books
-- title: Ashraellen — MONOLITH — German
-- description: MONOLITH — eine dystopische Trilogie über Kontrolle, Erinnerung und den Zerfall von Systemen.
+- title: Ashraellen — MONOLITH
+- description: MONOLITH ist eine literarisch-philosophische dystopische Trilogie über Kontrolle, Erinnerung und den Zerfall von Systemen: BETON, SLUDGE und GAS.
 - canonical: https://www.ashraellen.com/de/books/monolith/
 - H1: MONOLITH
-- H2: Serie | Bände
-- H3: Band I — BETON | Band II — SLUDGE | Band III — GAS
-- suggested keyword seed: monolith, ashraellen, books, eine, erinnerung, und, band, bände, beton, den, der, die, dystopische, gas, german, ist, kontrolle, ohne
-- candidates: band, die, monolith, wird, der, erinnerung, gas, ohne, und, beton, eine, ist, öffnen, sludge, stabilität, von, auf, aus, dem, den, endgültige, form, halten, kontrolle
+- H2: Was MONOLITH ist | Bände | Künstlerisch-forschender Rahmen | Karte des Zerfalls | Für wen dieses Projekt ist | Was nicht verwechselt werden darf | Der Satz der Reihe
+- H3: Band I — BETON | Band II — SLUDGE | Band III — GAS | BETON | SLUDGE | GAS | Leser | Verlage / Partner / Übersetzer
+- suggested keyword seed: monolith, ist, der, und, ashraellen, books, den, eine, erinnerung, gas, kontrolle, nicht, was, bände, beton, darf, des, die
+- candidates: die, der, und, ist, nicht, eine, monolith, erinnerung, form, den, gas, kontrolle, als, beton, das, sludge, des, ein, wird, riss, seine, sondern, über, was
 
 Excerpt:
 
-> MONOLITH MONOLITH ist eine Trilogie aus Social Science Fiction, Dystopie und philosophischem Cyberpunk über Kontrolle, Erinnerung und den Zerfall von Systemen. Serie BETON / SLUDGE / GAS Eine Chronik kontrollierten Zerfalls: drei Zustände sozialer Materie — BETON, SLUDGE, GAS. Wir sind daran gewöhnt, Stabilität für Sicherheit zu halten. Doch was, wenn absolute Stabilität nur die endgültige Verhärtung eines Systems ist, in dem jeder lebendige Gedanke zum Defekt wird? In der Welt von MONOLITH wird Gesellschaft zu einer perfekten Konstruktion: ohne Nähte, ohne Erinnerung, ohne persönliche Wahrheit und ohne Recht auf inneren Widerhall. Die deutsche Ausgabe ist in Vorbereitung. Derzeit sind die englischen Ausgaben auf Amazon verfügbar. Bände Bandseite öffnen Band I — BETON Stabilität wird zum Gefängnis. Erinnerung wird bearbeitet. Der erste Riss erscheint im System. Band öffnen Band II — SLUD
+> PROTOKOLL DES ZERFALLS SOZIALER MATERIE / BETON — SLUDGE — GAS MONOLITH MONOLITH ist eine literarisch-philosophische dystopische Trilogie über Kontrolle, Erinnerung und den Zerfall von Systemen. Drei Bände halten den Übergang sozialer Materie durch drei Zustände fest: BETON, SLUDGE und GAS — von verhärteter Stabilität über zähflüssige Verformung bis zur vollständigen Dekompression der Form. Das System fürchtet nicht den Aufstand. Es fürchtet den ersten Riss. Bände der Trilogie Karte des Zerfalls Was nicht verwechselt werden darf Was MONOLITH ist BETON / SLUDGE / GAS Vor Ihnen liegt eine Chronik des kontrollierten Zerfalls: die fortlaufende Aufzeichnung des Phasenübergangs sozialer Materie, festgehalten in drei Aggregatzuständen — BETON, SLUDGE und GAS. Entscheidend ist hier nicht eine Prognose der Zukunft, sondern das Material der Gegenwart: eine Ordnung, die zu lange Sicherheit genannt 
 
 ### de/books/monolith/sludge/index.html
 
