@@ -45,7 +45,12 @@ jobs:
             checksum=$(find "/tmp/stage04-artifacts/$lang" -type f -name "stage04-$lang.sha256" | head -1)
             test -n "$archive" -a -n "$checksum"
             (cd "$(dirname "$archive")" && sha256sum -c "$(basename "$checksum")")
-            tar -xzf "$archive" -C .
+            mkdir -p "/tmp/stage04-artifacts/$lang/extracted"
+            tar -xzf "$archive" -C "/tmp/stage04-artifacts/$lang/extracted"
+            test -d "/tmp/stage04-artifacts/$lang/extracted/site/$lang/books/radiance"
+            mkdir -p "$lang/books"
+            rm -rf "$lang/books/radiance"
+            cp -a "/tmp/stage04-artifacts/$lang/extracted/site/$lang/books/radiance" "$lang/books/radiance"
           done < /tmp/stage04-artifacts/urls.tsv
 
       - name: Validate exact Stage 04 corpus
@@ -60,7 +65,6 @@ jobs:
           langs=['en','pl','be','uk','de','fr','es','pt']
           titles={'en':('Radiance','Sampo','Song'),'pl':('Blask','Sampo','Pieśń'),'be':('Ззянне','САМПО','Песня'),'uk':('Сяйво','САМПО','Пісня'),'de':('Glanz','Sampo','Lied'),'fr':('Éclat','Sampo','Chant'),'es':('Resplandor','Sampo','Canto'),'pt':('Esplendor','Sampo','Canto')}
           routes=[('radiance',0),('radiance/sampo',569),('radiance/song',351)]
-          expected={f'{lang}/books/{route}/index.html' for lang in langs for route,_ in routes}
           total=0
           for lang in langs:
             for route,n in routes:
