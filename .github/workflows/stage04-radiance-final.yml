@@ -1,0 +1,75 @@
+name: Stage 04 Radiance final transfer
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stage04-radiance-final-transfer
+  cancel-in-progress: true
+
+jobs:
+  transfer:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: stage04-radiance-transfer
+          fetch-depth: 0
+
+      - name: Restore completed language artifacts
+        shell: bash
+        run: |
+          set -euxo pipefail
+          mkdir -p /tmp/stage04
+          cat > /tmp/stage04/urls.tsv <<'EOF'
+          be	https://sdmntprnortheu.oaiusercontent.com/files/00000000-ebe8-71f4-96a1-413e9a404c11/raw?se=2026-07-08T07:09:56Z&sp=r&sv=2026-02-06&sr=b&scid=8ab71bb3-1347-55cc-94d6-b11bc7683a77&skoid=5bfb38a5-43fb-4c63-80a1-6ae1e97e2e16&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-07-08T05:44:38Z&ske=2026-07-10T05:44:38Z&sks=b&skv=2026-02-06&sig=ifXH5hDwpTa2qmnHHZXrSkqpr8%2BuIwcfmNIi3XyGRiw%3D
+          en	https://sdmntprnortheu.oaiusercontent.com/files/00000000-0f40-71f4-b618-5ce8a7c0b3e9/raw?se=2026-07-08T07:10:34Z&sp=r&sv=2026-02-06&sr=b&scid=15f591ef-b355-51b5-95fc-89a05e0f3ff1&skoid=5bfb38a5-43fb-4c63-80a1-6ae1e97e2e16&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-07-08T06:01:22Z&ske=2026-07-10T06:01:22Z&sks=b&skv=2026-02-06&sig=/V6Ab6UveGdVZE63aLpJsrTt%2BkvorlzHpeHwu%2BGs/8U%3D
+          es	https://sdmntprnortheu.oaiusercontent.com/files/00000000-10bc-71f4-8bd8-446ad7f878f3/raw?se=2026-07-08T07:10:49Z&sp=r&sv=2026-02-06&sr=b&scid=b3b43907-5a65-515a-9cff-0859370ce8ac&skoid=5bfb38a5-43fb-4c63-80a1-6ae1e97e2e16&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-07-08T03:39:50Z&ske=2026-07-10T03:39:50Z&sks=b&skv=2026-02-06&sig=f8awlTpky%2BVocwwzGJlqa9XJsDSDu/8ulRr3/TlCbhs%3D
+          pt	https://sdmntprnortheu.oaiusercontent.com/files/00000000-a3b8-71f4-82fe-9aed1732cc75/raw?se=2026-07-08T07:11:01Z&sp=r&sv=2026-02-06&sr=b&scid=403ce748-1fb0-5d11-9556-6e38216960a6&skoid=5bfb38a5-43fb-4c63-80a1-6ae1e97e2e16&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-07-08T06:01:50Z&ske=2026-07-10T06:01:50Z&sks=b&skv=2026-02-06&sig=ClOtFsVgcLPzWXayWkgWjJGupA4297vzKrVX2tFfegc%3D
+          de	https://sdmntprnortheu.oaiusercontent.com/files/00000000-4928-71f4-b712-a63f0bdb0916/raw?se=2026-07-08T07:11:13Z&sp=r&sv=2026-02-06&sr=b&scid=a4957202-419c-55b6-b9ad-5975b178dac9&skoid=5bfb38a5-43fb-4c63-80a1-6ae1e97e2e16&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-07-08T04:47:19Z&ske=2026-07-10T04:47:19Z&sks=b&skv=2026-02-06&sig=sMKyY76vcGdBdVc9xS566Ih8t7GoIRXQMR6D2TqbeSY%3D
+          fr	https://sdmntprnortheu.oaiusercontent.com/files/00000000-1970-71f4-8d0e-578b20ce1623/raw?se=2026-07-08T07:11:24Z&sp=r&sv=2026-02-06&sr=b&scid=8d804ed4-89f1-59e5-9199-6291612fe5c3&skoid=5bfb38a5-43fb-4c63-80a1-6ae1e97e2e16&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-07-08T06:01:59Z&ske=2026-07-10T06:01:59Z&sks=b&skv=2026-02-06&sig=hgFkceqh0s79VL334JuYR0YeoXfUafsdMzUPFUz2aiw%3D
+          pl	https://sdmntprnortheu.oaiusercontent.com/files/00000000-c534-71f4-ba67-1cfad4a92bdd/raw?se=2026-07-08T07:11:36Z&sp=r&sv=2026-02-06&sr=b&scid=b8996e47-bc58-596b-a483-8660c5f5d4e7&skoid=5bfb38a5-43fb-4c63-80a1-6ae1e97e2e16&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-07-08T04:47:28Z&ske=2026-07-10T04:47:28Z&sks=b&skv=2026-02-06&sig=mpzfiZrjIITSBkvzAIm8LTeLEVqwgIyeM2mrbHX9JHs%3D
+          uk	https://sdmntprnortheu.oaiusercontent.com/files/00000000-7cf8-71f4-83aa-37177cf0c448/raw?se=2026-07-08T07:11:48Z&sp=r&sv=2026-02-06&sr=b&scid=963b2ed1-c0f5-56f8-8487-597b62f40f7c&skoid=5bfb38a5-43fb-4c63-80a1-6ae1e97e2e16&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-07-08T06:15:51Z&ske=2026-07-10T06:15:51Z&sks=b&skv=2026-02-06&sig=CgOaKTcwXmGq10Lrjx0cBT36WBEmVLQAk0awWyjR2mU%3D
+          EOF
+          while IFS=$'\t' read -r lang url; do
+            curl --fail --location --retry 2 "$url" -o "/tmp/stage04/$lang.zip"
+            mkdir -p "/tmp/stage04/$lang/unzip" "/tmp/stage04/$lang/extracted"
+            unzip -q "/tmp/stage04/$lang.zip" -d "/tmp/stage04/$lang/unzip"
+            archive=$(find "/tmp/stage04/$lang/unzip" -type f -name "stage04-$lang.tar.gz" | head -1)
+            checksum=$(find "/tmp/stage04/$lang/unzip" -type f -name "stage04-$lang.sha256" | head -1)
+            (cd "$(dirname "$archive")" && sha256sum -c "$(basename "$checksum")")
+            tar -xzf "$archive" -C "/tmp/stage04/$lang/extracted"
+            mkdir -p "$lang/books"
+            rm -rf "$lang/books/radiance"
+            cp -a "/tmp/stage04/$lang/extracted/site/$lang/books/radiance" "$lang/books/radiance"
+          done < /tmp/stage04/urls.tsv
+
+      - name: Validate and commit completed Stage 04
+        shell: bash
+        run: |
+          set -euxo pipefail
+          python -m pip install --disable-pip-version-check beautifulsoup4
+          python tools/stage04-validate-transfer.py
+          rm -f .github/workflows/stage04-radiance-transfer.yml
+          rm -f .github/workflows/stage04-radiance-final.yml
+          rm -f tools/stage04-validate-transfer.py
+          git add -A
+          python - <<'PY'
+          import subprocess
+          langs=['en','pl','be','uk','de','fr','es','pt']
+          pages={f'{lang}/books/{route}/index.html' for lang in langs for route in ['radiance','radiance/sampo','radiance/song']}
+          temporary={'.github/workflows/stage04-radiance-transfer.yml','.github/workflows/stage04-radiance-final.yml','tools/stage04-validate-transfer.py'}
+          changed=set(subprocess.check_output(['git','diff','--cached','--name-only'],text=True).splitlines())
+          assert changed==pages|temporary,(sorted(changed-(pages|temporary)),sorted((pages|temporary)-changed))
+          print('scope PASS: 24 pages plus removal of three temporary transfer files')
+          PY
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Stage 04: synchronize Radiance family"
+          git push origin HEAD:stage04-radiance-transfer
