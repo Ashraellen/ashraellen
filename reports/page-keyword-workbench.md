@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-07T16:54:37.700Z
-Pages: 551
+Generated: 2026-07-08T07:09:54.799Z
+Pages: 570
 
 ## Index
 
@@ -11,6 +11,9 @@ Pages: 551
 | be/books/monolith/beton/index.html | be | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, monolith, пра, ashraellen, books, памяць, сістэмы, стабільнасць, том, абраны, адрэдагаваную, антон, антыўтопія, без, вузлы, выданне, гэтая, зацвярдзелую |
 | be/books/monolith/index.html | be | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ashraellen, beton, books, gas, sludge, кантроль, памяць, пра, антыўтапічная, важна, гэты, дзе, каго, карта, літаратурна-філасофская, мастацка-даследчая, пачынае |
 | be/books/monolith/sludge/index.html | be | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, monolith, пра, ashraellen, books, абраны, адам, але, антыўтопія, без, вязкі, другі, каго, кнігу, мастацка-даследчая, месца, нават, рамка |
+| be/books/radiance/index.html | be | books | Ashraellen — Ззянне \| Паўночныя паданні аб сапраўднай гісторыі свету | Ashraellen, Ззянне, САМПО, Песня, Кнігі, literary-philosophical, artistic research | ззянне, гісторыі, ashraellen, books, інструкцыі, літаратурна-філасофскі, старажытныя, цыкл, radiance, важна, вобразныя, гэты, захоўваюць, інструкцый, каго, карта, кніга, кнігі |
+| be/books/radiance/sampo/index.html | be | books | Ashraellen — САМПО \| Ззянне, кніга I | Ashraellen, Ззянне, САМПО, Песня, Кнігі, literary-philosophical, artistic research | сампо, ashraellen, books, ззянне, кніга, radiance, sampo, аддзяліўся, але, амаль, багацці, без, было, валоданні, выбраная, выдавецкі, выдаўцоў, глава |
+| be/books/radiance/song/index.html | be | books | Ashraellen — Песня \| Ззянне, кніга II | Ashraellen, Ззянне, САМПО, Песня, Кнігі, literary-philosophical, artistic research | песня, ashraellen, books, ззянне, кніга, пра, radiance, song, айла, але, амаль, без, была, было, быў, варшаву, выбраная, выдавецкі |
 | be/books/seccus/index.html | be | books | Ashraellen — САКРАЛЬНАЯ КНІГА АХЕПСУ | Ashraellen, АХЕПСУ, Сакральная кніга АХЕПСУ, Шлях Сумленнасці, філасофская сатыра, грошы, поспех, самаашуканства, веды як алібі, адказнасць, Sacrunomicon, Ordo Sacrunomiconis, Тэтра-Кніга | ахепсу, кніга, пра, сакральная, ashraellen, books, грошы, поспех, sacrunomicon, seccus, ssmv, або, абраная, адказнасць, але, алібі, без, веды |
 | be/books/the-book-of-whinesis/index.html | be | books | Ashraellen — Кніга Ныцця | ashraellen, books, book, whinesis, кніга, ныцця, святая, сатыра, тых, хто, стаміўся, пазітыўных, вайбаў, бясконцай, прадуктыўнасці, культу, поспеху, пра | кніга, ныцця, ashraellen, books, пра, хто, book, whinesis, будзе, будзеш, бясконцай, вайбаў, глава, главы, госпад, каб, кнігу, культу |
 | be/books/you-are-already-online/index.html | be | books | Ashraellen — Ты ўжо ў сетцы | ashraellen, books, you, already, online, ўжо, сетцы, імерсіўны, аўдыяраман, жанры, псіхалагічнага, трылера, кіберпанк-драмы, пра, лічбавую, рэальнасць, алгарытмы, гіперрэальнасць | сетцы, ўжо, пра, ashraellen, books, глава, рэальнасць, already, online, you, алгарытмы, аўдыяраман, было, гіперрэальнасць, дзе, жанры, занадта, імерсіўны |
@@ -69,6 +72,9 @@ Pages: 551
 | de/books/monolith/beton/index.html | de | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ist, ashraellen, books, buch, das, den, der, für, monolith, über, und, akte, als, ausgewählter, auszug, band, bedeutungsknoten |
 | de/books/monolith/index.html | de | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ist, der, und, ashraellen, books, den, eine, erinnerung, gas, kontrolle, nicht, was, bände, beton, darf, des, die |
 | de/books/monolith/sludge/index.html | de | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, ashraellen, books, das, der, für, monolith, über, und, akte, als, ausgewählter, auszug, band, buch, den, die, druck |
+| de/books/radiance/index.html | de | books | Ashraellen — Glanz \| Nordische Geschichten über die wahre Geschichte der Welt | Ashraellen, Glanz, Sampo, Lied, Bücher, literary-philosophical, artistic research | glanz, ist, der, die, für, geschichten, und, welt, ashraellen, books, ein, was, als, anleitungskarte, antike, anweisungen, bewahren, buch |
+| de/books/radiance/sampo/index.html | de | books | Ashraellen — Sampo \| Glanz, Buch I | Ashraellen, Glanz, Sampo, Lied, Bücher, literary-philosophical, artistic research | und, sampo, buch, das, der, ist, ashraellen, books, eine, für, glanz, nicht, über, arbeit, auf, besitz, den, die |
+| de/books/radiance/song/index.html | de | books | Ashraellen — Lied \| Glanz, Buch II | Ashraellen, Glanz, Sampo, Lied, Bücher, literary-philosophical, artistic research | das, lied, und, buch, ashraellen, books, der, eine, für, glanz, nicht, sprache, über, auf, den, die, ein, eines |
 | de/books/seccus/index.html | de | books | Ashraellen — DAS HEILIGE BUCH SECCUS | Ashraellen, SECCUS, Das Heilige Buch SECCUS, Der Weg der Ehrlichkeit, philosophische Satire, Geld, Erfolg, Selbsttäuschung, Wissen als Alibi, Verantwortung, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Buch | das, buch, der, die, seccus, heilige, und, ashraellen, books, des, für, ist, seite, über, alibi, als, ausgewählte, buches |
 | de/books/the-book-of-whinesis/index.html | de | books | Ashraellen — The Book of Whinesis — German | ashraellen, books, book, whinesis, sakrale, satire, für, alle, die, von, positiven, vibes, endloser, produktivität, und, dem, kult, des | book, whinesis, ashraellen, books, des, die, und, alle, auf, auszug, buch, das, dem, den, der, endloser, erfolgs, erste |
 | de/books/you-are-already-online/index.html | de | books | Ashraellen — Du bist bereits online | ashraellen, books, you, already, online, bist, bereits, ein, immersiver, audio-roman, genre, des, psychologischen, thrillers, und, cyberpunk-dramas, über, digitale | bereits, online, bist, des, und, ashraellen, books, das, ein, über, algorithmen, already, audio-roman, auszug, buch, cyberpunk-dramas, den, der |
@@ -129,9 +135,9 @@ Pages: 551
 | en/books/monolith/beton/index.html | en | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, monolith, about, ashraellen, book, books, crack, first, memory, stability, system, anton, artistic-research, case, dystopia, edited, excerpt, file |
 | en/books/monolith/index.html | en | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ashraellen, beton, books, collapse, control, gas, memory, sludge, what, about, artistic-research, confused, crack, dystopian, fear, first, form |
 | en/books/monolith/sludge/index.html | en | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, monolith, about, ashraellen, books, adam, already, artistic-research, book, case, complicity, dystopia, environment, excerpt, exhausted, file, form, frame |
-| en/books/radiance/index.html | en | books | Ashraellen — Radiance \| Northern Tales of the True History of the World | ashraellen, books, radiance, northern, tales, true, history, world, literary-philosophical, practice-based, research, cycle, about, how, ancient, stories, preserve, imaginal | radiance, books, cycle, instructions, research, world, ancient, artistic, ashraellen, northern, what, about, book, confused, form, frame, history, how |
-| en/books/radiance/sampo/index.html | en | books | Ashraellen — Sampo \| Radiance, Book I | ashraellen, books, radiance, sampo, book, northern, literary-philosophical, tale, abundance, possession, participation, world, where, myth, has, yet, separated, labour | sampo, book, radiance, abundance, ashraellen, books, northern, research, where, world, about, artistic, chapter, cultural, cycle, does, foundations, frame |
-| en/books/radiance/song/index.html | en | books | Ashraellen — Song \| Radiance, Book II | ashraellen, books, radiance, song, book, novel, about, sound, hearing, language, warsaw, does, become, performance, number, selected, chapter, without | song, book, radiance, about, language, ashraellen, become, books, does, hearing, sound, artistic, chapter, city, cultural, cycle, foundations, frame |
+| en/books/radiance/index.html | en | books | Ashraellen — Radiance \| Northern tales about the real history of the world | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | radiance, about, books, research, what, world, ancient, artistic, ashraellen, cycle, northern, philosophical, art, book, card, confuse, figurative, form |
+| en/books/radiance/sampo/index.html | en | books | Ashraellen — Sampo \| Radiance, Book I | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | sampo, book, radiance, ashraellen, books, about, abundance, art, been, chapter, cultural, featured, first, foundations, frame, has, her, his |
+| en/books/radiance/song/index.html | en | books | Ashraellen — Song \| Radiance, Book II | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | song, about, book, radiance, ashraellen, books, language, sound, art, ayla, become, chapter, cultural, does, extended, featured, foundations, frame |
 | en/books/seccus/index.html | en | books | Ashraellen — THE SACRED BOOK OF SECCUS | Ashraellen, SECCUS, The Sacred Book of SECCUS, The Path of Honesty, philosophical satire, money, success, self-deception, knowledge as an alibi, responsibility, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Book | book, seccus, about, sacred, ashraellen, books, money, own, success, alibi, choice, corpus, does, frame, honesty, how, knowledge, literary-philosophical |
 | en/books/the-book-of-whinesis/index.html | en | books | Ashraellen — The Book of Whinesis — English | ashraellen, books, book, whinesis, sacred, satire, those, tired, positive, vibes, endless, productivity, cult, success, about, first, chapters, excerpt | book, whinesis, ashraellen, books, about, becomes, chapters, cult, discount, endless, english, excerpt, first, gnorna, lord, moania, positive, productivity |
 | en/books/you-are-already-online/index.html | en | books | Ashraellen — You Are Already Online | ashraellen, books, you, already, online, immersive, audio, novel, genre, psychological, thriller, cyberpunk, drama, about, digital, reality, algorithms, attention | already, online, you, about, ashraellen, books, chapter, first, novel, reality, algorithms, attention, audio, book, cyberpunk, did, digital, drama |
@@ -190,6 +196,9 @@ Pages: 551
 | es/books/monolith/beton/index.html | es | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ashraellen, books, del, estabilidad, libro, memoria, monolith, para, sobre, una, anton, artístico, como, con, dentro, destripes, distopía |
 | es/books/monolith/index.html | es | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, desintegración, ashraellen, beton, books, control, gas, memoria, que, sludge, una, artístico, confundirse, debe, del, distópica, este, filosófica |
 | es/books/monolith/sludge/index.html | es | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, ashraellen, books, monolith, para, sobre, una, adam, agotada, artístico, como, complicidad, con, del, destripes, distopía, era, expediente |
+| es/books/radiance/index.html | es | books | Ashraellen — Resplandor \| Cuentos del norte sobre la historia real del mundo. | Ashraellen, Resplandor, Sampo, Canto, Libros, literary-philosophical, artistic research | resplandor, del, mundo, para, sobre, ashraellen, books, ciclo, instrucciones, investigación, que, antiguas, artística, artístico, como, cómo, con, confundir |
+| es/books/radiance/sampo/index.html | es | books | Ashraellen — Sampo \| Resplandor, libro I | Ashraellen, Resplandor, Sampo, Canto, Libros, literary-philosophical, artistic research | del, sampo, libro, ashraellen, books, para, resplandor, una, abundancia, acerca, artística, aún, capítulo, como, con, culturales, destacado, donde |
+| es/books/radiance/song/index.html | es | books | Ashraellen — Canto \| Resplandor, libro II | Ashraellen, Resplandor, Sampo, Canto, Libros, literary-philosophical, artistic research | canto, libro, para, una, ashraellen, books, del, que, resplandor, acerca, ampliada, artística, ayla, capítulo, como, con, convierte, culturales |
 | es/books/seccus/index.html | es | books | Ashraellen — EL LIBRO SAGRADO DE SECCUS | Ashraellen, SECCUS, El Libro Sagrado de SECCUS, El Camino de la Honestidad, sátira filosófica, dinero, éxito, autoengaño, conocimiento como coartada, responsabilidad, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Libro | libro, seccus, sagrado, ashraellen, books, del, dinero, éxito, página, para, sobre, una, autoengaño, camino, coartada, como, con, conocimiento |
 | es/books/the-book-of-whinesis/index.html | es | books | Ashraellen — The Book of Whinesis — Spanish | ashraellen, books, book, whinesis, sátira, sagrada, para, quienes, han, cansado, las, vibras, positivas, productividad, infinita, culto, éxito, sobre | book, whinesis, ashraellen, books, para, sobre, cansado, capítulos, con, culto, del, dijo, estado, éxito, fragmento, han, infinita, las |
 | es/books/you-are-already-online/index.html | es | books | Ashraellen — Ya estás en la red | ashraellen, books, you, already, online, estás, red, una, novela, sonora, inmersiva, género, del, thriller, psicológico, drama, cyberpunk, sobre | estás, red, ashraellen, books, capítulo, del, los, novela, realidad, sobre, una, algoritmos, already, antes, como, cyberpunk, digital, drama |
@@ -246,10 +255,14 @@ Pages: 551
 | es/research/sources/index.html | es | research | Ashraellen — Fuentes y tradición | ashraellen, research, sources, fuentes, tradición, fenomenología, conciencia, cuerpo, relato, ciencia, cognitiva, práctica, artística, edmund, husserl, experiencia, antes, las | como, ashraellen, conciencia, cuerpo, fuentes, relato, tradición, artística, experiencia, fenomenología, forma, research, antes, ciencia, cognitiva, comprensión, con, direcciones |
 | fi/kone/index.html | fi | kone | Ashraellen — tiivistelmä Koneen Säätiölle | ashraellen, kone, tiivistelmä, koneen, säätiölle, suomenkielinen, ashraellen-hankkeesta, elämänmittainen, taiteellis-filosofinen, tutkimus, merkityksestä, kirjallisuudesta, videoista, monikielisestä, arkistosta, tutkimuksen, ydin, tekijä | ashraellen, koneen, kone, säätiölle, tiivistelmä, tutkimuksen, tutkimus, arkistosta, ashraellen-hankkeesta, asiakirjat, elämänmittainen, hankkeen, infrastruktuuri, julkinen, kirjallisuudesta, kuukauden, merkityksestä, miten |
 | flow/index.html | root | flow | FLOW — Ashraellen | ashraellen, flow, playlist, youtube, music, doctype, html, title, window.location.replace, https, music.youtube.com, list, plliwih1l4vxtrzs4, wvti69pbdhddk4ny, iuwpb0ptwi1d1elk, script, root, 050505 | flow, ashraellen, playlist, music, youtube, open, opening |
+| focus-group/books/Error404/index.html | root | focus-group | Ошибка 404: Бог не найден — читательская панель | _missing_ | 404, бог, найден, ошибка, панель, читательская, ashraellen, books, ch.title, error404, escapehtml, focus, focus-group, group, важно, вычитки, где, главы |
 | fr/books/index.html | fr | books | Ashraellen — Livres | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | livres, ashraellen, books, livre, satire, 404, audio, book, cycle, cycles, d’ashraellen, déjà, des, error, found, god, indépendants, les |
 | fr/books/monolith/beton/index.html | fr | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ashraellen, books, dans, est, livre, monolith, stabilité, une, anton, artistique, cadre, choisi, cœur, comme, des, divulgâcher, dossier |
 | fr/books/monolith/index.html | fr | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ashraellen, beton, books, contrôle, des, est, gas, mémoire, pas, une, artistique, cadre, carte, confondre, dans, désagrégation, dystopique |
 | fr/books/monolith/sludge/index.html | fr | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, ashraellen, books, dans, monolith, pour, qui, sur, une, artistique, cadre, choisi, comme, complicité, des, divulgâcher, dossier, dystopie |
+| fr/books/radiance/index.html | fr | books | Ashraellen — Éclat \| Contes nordiques sur la véritable histoire du monde | Ashraellen, Éclat, Sampo, Chant, Livres, literary-philosophical, artistic research | éclat, les, monde, sur, anciennes, artistique, ashraellen, books, cycle, est, pas, recherche, cadre, carte, confondre, contes, d'instructions, des |
+| fr/books/radiance/sampo/index.html | fr | books | Ashraellen — Sampo \| Éclat, livre I | Ashraellen, Éclat, Sampo, Chant, Livres, literary-philosophical, artistic research | sampo, ashraellen, books, les, livre, pas, pour, artistique, avec, cadre, chapitre, comme, culturels, dans, éclat, éditeurs, elle, fondations |
+| fr/books/radiance/song/index.html | fr | books | Ashraellen — Chant \| Éclat, livre II | Ashraellen, Éclat, Sampo, Chant, Livres, literary-philosophical, artistic research | ashraellen, books, chant, les, livre, pas, pour, qui, artistique, avec, ayla, cadre, chapitre, culturels, dans, des, éclat, éditeurs |
 | fr/books/seccus/index.html | fr | books | Ashraellen — LE LIVRE SACRÉ DE SECCUS | Ashraellen, SECCUS, Le Livre Sacré de SECCUS, Le Chemin de l’Honnêteté, satire philosophique, argent, réussite, auto-illusion, savoir comme alibi, responsabilité, Sacrunomicon, Ordo Sacrunomiconis, Tétra-Livre | livre, seccus, sacré, ashraellen, books, est, philosophique, pour, qui, réussite, sur, une, alibi, cadre, chemin, choisie, choix, comme |
 | fr/books/the-book-of-whinesis/index.html | fr | books | Ashraellen — The Book of Whinesis — French | ashraellen, books, book, whinesis, satire, sacrée, pour, celles, ceux, qui, sont, fatigués, des, ondes, positives, productivité, sans, fin | book, whinesis, ashraellen, books, des, qui, celles, ceux, chapitres, culte, dans, dit, extrait, fatigués, fin, french, les, livre |
 | fr/books/you-are-already-online/index.html | fr | books | Ashraellen — Tu es déjà en ligne | ashraellen, books, you, already, online, déjà, ligne, roman, audio, immersif, entre, thriller, psychologique, drame, cyberpunk, sur, réalité, numérique | déjà, ligne, ashraellen, audio, books, les, réalité, roman, algorithmes, already, avait, avant, chapitre, comme, cyberpunk, dans, des, drame |
@@ -313,9 +326,9 @@ Pages: 551
 | pl/books/monolith/beton/index.html | pl | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ashraellen, books, stabilności, systemu, akta, anton, antyutopia, artystyczno-badawcza, bez, filozoficzna, fragment, gdy, jako, jego, kogo, książce, książka |
 | pl/books/monolith/index.html | pl | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ashraellen, beton, books, gas, nie, sludge, antyutopijna, artystyczno-badawcza, czego, czym, forma, fraza, jako, już, kogo, kontroli, lecz |
 | pl/books/monolith/sludge/index.html | pl | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, ashraellen, books, adam, akta, ale, antyutopia, artystyczno-badawcza, bez, drugi, filozoficzna, formy, fragment, jego, już, kogo, książce, który |
-| pl/books/radiance/index.html | pl | books | Ashraellen — Blask \| Północne opowieści o prawdziwej historii świata | ashraellen, books, radiance, blask, północne, opowieści, prawdziwej, historii, świata, literacko-filozoficzny, artystyczno-badawczy, cykl, tym, jak, dawne, historie, przechowują, obrazowe | blask, świata, ashraellen, books, cykl, cyklu, dawne, historie, instrukcje, literacko-filozoficzny, nie, artystyczno-badawcza, artystyczno-badawczy, czego, czym, forma, historii, instrukcji |
-| pl/books/radiance/sampo/index.html | pl | books | Ashraellen — Sampo \| Blask, Księga I | ashraellen, books, radiance, sampo, blask, księga, cyklu, północna, opowieść, literacko-filozoficzna, obfitości, posiadaniu, uczestnictwie, świecie, którym, mit, nie, oddzielił | sampo, blask, ashraellen, books, cyklu, jeszcze, księga, którym, nie, obfitości, się, artystyczno-badawcza, bez, fundacji, jako, językowy, kogo, książce |
-| pl/books/radiance/song/index.html | pl | books | Ashraellen — Pieśń \| Blask, Księga II | ashraellen, books, radiance, song, pieśń, blask, księga, cyklu, powieść, dźwięku, słyszeniu, języku, warszawie, pieśni, która, nie, staje, się | pieśń, blask, ashraellen, bez, books, cyklu, dźwięku, księga, nie, się, artystyczno-badawcza, fundacji, jako, językowy, języku, kogo, książce, książka |
+| pl/books/radiance/index.html | pl | books | Ashraellen — Blask \| Północne opowieści o prawdziwej historii świata | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | blask, opowieści, świata, ashraellen, books, cykl, instrukcje, nie, aby, artystyczno-badawczy, artystycznych, badań, czy, figuratywne, filozoficzny, forma, historii, instrukcji |
+| pl/books/radiance/sampo/index.html | pl | books | Ashraellen — Sampo \| Blask, Księga I | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | sampo, ashraellen, blask, books, nie, ale, artystycznych, badań, bez, było, chleb, czy, filozoficznej, fundacji, jeszcze, język, już, kogo |
+| pl/books/radiance/song/index.html | pl | books | Ashraellen — Pieśń \| Blask, Księga II | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | pieśń, ashraellen, bez, blask, books, nie, się, ale, artystycznych, ayla, badań, być, był, była, było, druga, dźwięku, fundacji |
 | pl/books/seccus/index.html | pl | books | Ashraellen — ŚWIĘTA KSIĘGA SECCUS | Ashraellen, SECCUS, Święta Księga SECCUS, Droga Uczciwości, satyra filozoficzna, pieniądze, sukces, samooszustwo, wiedza jako alibi, odpowiedzialność, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Księga | seccus, księga, święta, ashraellen, bez, books, jako, alibi, ani, człowiek, droga, filozoficzna, głos, kogo, korpus, książce, książka, książki |
 | pl/books/the-book-of-whinesis/index.html | pl | books | Ashraellen — The Book of Whinesis — Polish | ashraellen, books, book, whinesis, sakralna, satyra, dla, tych, którzy, zmęczyli, się, pozytywnymi, wibracjami, niekończącą, produktywnością, kultem, sukcesu, książce | book, whinesis, się, ashraellen, books, albowiem, będzie, będziesz, fragment, jego, książce, którzy, kultem, moania, moanii, narzekania, nie, niekończącą |
 | pl/books/you-are-already-online/index.html | pl | books | Ashraellen — Już jesteś w sieci | ashraellen, books, you, already, online, już, jesteś, sieci, immersyjna, powieść, audio, gatunku, thrillera, psychologicznego, dramatu, cyberpunkowego, cyfrowej, rzeczywistości | jesteś, już, sieci, ashraellen, books, rozdział, algorytmach, already, audio, było, cyberpunkowego, cyfrowej, dramatu, fragment, gatunku, gdzie, hiperrealności, immersyjna |
@@ -375,6 +388,9 @@ Pages: 551
 | pt/books/monolith/beton/index.html | pt | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ashraellen, books, estabilidade, livro, memória, monolith, para, sobre, uma, anton, artístico-investigativa, com, como, dentro, distopia, dossiê, editada |
 | pt/books/monolith/index.html | pt | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, que, ashraellen, beton, books, colapso, controle, gas, memória, não, sludge, uma, artístico-investigativa, como, confundido, deve, distópica, dos |
 | pt/books/monolith/sludge/index.html | pt | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, ashraellen, books, monolith, para, sobre, uma, adam, artístico-investigativa, com, como, cumplicidade, distopia, dossiê, era, estrutura, exaurida, filosófica |
+| pt/books/radiance/index.html | pt | books | Ashraellen — Esplendor \| Contos do norte sobre a história real do mundo | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | esplendor, instruções, mundo, para, que, sobre, ashraellen, books, ciclo, como, não, pesquisa, antigas, artística, artístico, cartão, confundir, contos |
+| pt/books/radiance/sampo/index.html | pt | books | Ashraellen — Sampo \| Esplendor, livro I | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | sampo, livro, para, ashraellen, books, esplendor, não, sobre, abundância, ainda, artística, capítulo, com, como, conto, culturais, destaque, editoras |
+| pt/books/radiance/song/index.html | pt | books | Ashraellen — Canto \| Esplendor, livro II | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | canto, livro, para, ashraellen, books, esplendor, não, que, sem, sobre, uma, apresentação, artística, audição, ayla, capítulo, com, como |
 | pt/books/seccus/index.html | pt | books | Ashraellen — O LIVRO SAGRADO DE SECCUS | Ashraellen, SECCUS, O Livro Sagrado de SECCUS, O Caminho da Honestidade, sátira filosófica, dinheiro, sucesso, autoengano, conhecimento como álibi, responsabilidade, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Livro | livro, seccus, sagrado, ashraellen, books, como, página, para, sobre, sucesso, uma, álibi, autoengano, caminho, conhecimento, corpus, dinheiro, escolha |
 | pt/books/the-book-of-whinesis/index.html | pt | books | Ashraellen — The Book of Whinesis — PT | ashraellen, books, book, whinesis, sátira, sagrada, para, quem, cansou, das, vibrações, positivas, produtividade, infinita, culto, sucesso, sobre, livro | book, whinesis, ashraellen, books, para, sobre, cansou, capítulos, culto, das, desconto, disse, gnorna, infinita, livro, moania, não, pois |
 | pt/books/you-are-already-online/index.html | pt | books | Ashraellen — Você já está online | ashraellen, books, you, already, online, você, está, romance, áudio, imersivo, entre, thriller, psicológico, drama, cyberpunk, sobre, realidade, digital | está, online, você, ashraellen, books, capítulo, realidade, romance, sobre, algoritmos, already, antes, áudio, como, cyberpunk, demais, digital, drama |
@@ -504,6 +520,9 @@ Pages: 551
 | uk/books/monolith/beton/index.html | uk | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, monolith, про, ashraellen, books, пам’ять, стабільність, том, антиутопія, антон, без, вибраний, видання, відредаговану, він, вони, всередині, вузли |
 | uk/books/monolith/index.html | uk | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ashraellen, beton, books, gas, sludge, контроль, пам’ять, про, антиутопічна, важливо, вже, він, карта, кого, літературно-філософська, людина, плутати |
 | uk/books/monolith/sludge/index.html | uk | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, ashraellen, books, monolith, про, адам, але, антиутопія, без, в’язкий, вже, вибраний, виснажений, від, він, всередині, втрату, другий |
+| uk/books/radiance/index.html | uk | books | Ashraellen — Сяйво \| Північні оповіді про справжню історію світу | Ashraellen, Сяйво, САМПО, Пісня, Книги, literary-philosophical, artistic research | сяйво, про, ashraellen, books, інструкції, історії, літературно-філософський, світу, цикл, циклу, radiance, важливо, відповідальність, давні, зберігають, інструкцій, історію, карта |
+| uk/books/radiance/sampo/index.html | uk | books | Ashraellen — САМПО \| Сяйво, книга I | Ashraellen, Сяйво, САМПО, Пісня, Книги, literary-philosophical, artistic research | сампо, ashraellen, books, книга, про, сяйво, radiance, sampo, але, без, біля, було, вибраний, видавничий, видавців, від, відокремився, він |
+| uk/books/radiance/song/index.html | uk | books | Ashraellen — Пісня \| Сяйво, книга II | Ashraellen, Сяйво, САМПО, Пісня, Книги, literary-philosophical, artistic research | пісня, про, ashraellen, books, звук, книга, сяйво, radiance, song, айла, але, без, була, було, варшаву, вибраний, видавничий, видавців |
 | uk/books/seccus/index.html | uk | books | Ashraellen — САКРАЛЬНА КНИГА АХЕПСУ | Ashraellen, АХЕПСУ, Сакральна книга АХЕПСУ, Шлях Чесності, філософська сатира, гроші, успіх, самообман, знання як алібі, відповідальність, Sacrunomicon, Ordo Sacrunomiconis, Тетра-Книга | ахепсу, книга, про, сакральна, ashraellen, books, гроші, сторінка, успіх, sacrunomicon, seccus, ssmv, але, алібі, без, вибір, вибрана, від |
 | uk/books/the-book-of-whinesis/index.html | uk | books | Ashraellen — Книга Нытия — Ukrainian | ashraellen, books, book, whinesis, книга, нытия, сакральна, сатира, тих, хто, втомився, від, позитивних, вайбів, нескінченної, продуктивності, культу, успіху | книга, нытия, ashraellen, books, про, хто, book, ukrainian, whinesis, буде, вайбів, від, він, втомився, глава, глави, господь, його |
 | uk/books/you-are-already-online/index.html | uk | books | Ashraellen — Ти вже в мережі | ashraellen, books, you, already, online, вже, мережі, психологічний, технотрилер, про, цифрове, сприйняття, підтвердження, реальність, яка, починає, відповідати, запитання | вже, мережі, ashraellen, books, про, реальність, яка, already, online, you, буде, від, відбувається, відповідати, вона, гачок, дослідницький, запитання |
@@ -628,6 +647,57 @@ Excerpt:
 Excerpt:
 
 > SLUDGE SLUDGE — філасофская антыўтопія пра свет, дзе ціск больш не падобны да сцяны: ён прасочваецца ў побыт, мову і цела, размывае межы і ператварае чалавека ў матэрыял асяроддзя. Том II трылогіі MONOLITH: вязкая дэфармацыя, стома супраціву і саўдзел як звычка. Справа Том II Чалавек не ламаецца адразу. Спачатку ён стамляецца супраціўляцца. Потым пачынае згаджацца. СПРАВА № 2026-001B. Індэкс: 6666548A. СТАТУС: Цалкам сакрэтна. Чытаць рускае выданне ў Google Play Books Чытаць англійскае выданне на Amazon Назад да MONOLITH Абраны фрагмент Раздзел 6 / § 6.2 Раздзел 6. Першыя крокі праз SLUDGE. § 6.2. Склады Захавання Аскепкаў Фрагмент паказвае, як звычайная патрэба, рытуалізаваная працэдура, страх, маўчанне і саўдзел становяцца паўсядзённай матэрыяй SLUDGE. Адкрыць поўны фрагмент Раздзел 6. Першыя крокі па Жыжы. § 6.2. Склады Захаванасці Аскепкаў На сняданак ім далі кашу. Не ежу ў чалавечым
+
+### be/books/radiance/index.html
+
+- lang: be
+- section: books
+- title: Ashraellen — Ззянне | Паўночныя паданні аб сапраўднай гісторыі свету
+- description: «Ззянне» — літаратурна-філасофскі мастацка-даследчы цыкл пра тое, як старажытныя гісторыі захоўваюць вобразныя інструкцыі да міру.
+- canonical: https://www.ashraellen.com/be/books/radiance/
+- H1: Ззянне
+- H2: Што такое «Ззянне» | Кнігі цыкла | Мастацка-даследчая рамка | Карта інструкцый | Для каго гэты праект | Што важна не пераблытаць
+- H3: Кніга I - САМПО | Кніга II - Песня | Кніга III - Кузня | Чытачам | Партнёрам
+- suggested keyword seed: ззянне, гісторыі, ashraellen, books, інструкцыі, літаратурна-філасофскі, старажытныя, цыкл, radiance, важна, вобразныя, гэты, захоўваюць, інструкцый, каго, карта, кніга, кнігі
+- candidates: ззянне, цыкл, гісторыі, кніга, тым, форма, інструкцыі, літаратурна-філасофскі, можа, сампо, слова, старажытныя, адказнасць, без, вобразныя, кнігі, мастацка-даследчы, мастацкая, песня, праект, праз, свет, цыкла, artistic
+
+Excerpt:
+
+> Літаратурна-філасофскі цыкл / artistic research through fiction Ззянне Паўночныя паданні аб сапраўднай гісторыі свету. Доўгатэрміновы цыкл, у якім мастацкая форма становіцца спосабам даследавання. Мы не пераказваем «Kalevala». Мы паказваем свет, з якога такія гісторыі маглі ўзнікнуць. Кнігі цыкла Рамка даследавання Што такое «Ззянне» коратка Эпасы, казкі і старажытныя гісторыі розных народаў можна чытаць як розныя вобразныя мовы доступу да глыбінных ведаў. Кожны народ атрымаў свае інструменты і інструкцыі ў форме, якая адпавядае яго зямлі, мове, памяці, болю, клімату, працы і спосабу чуць свет. Radiance / «Ззянне» - гэта літаратурна-філасофскі мастацка-даследчы цыкл аб тым, як старажытныя гісторыі захоўваюць вобразныя інструкцыі да міру. Фінска-карэльскі і Kalevalaскі матэрыял з'яўляецца галоўным паўночным пазваночнікам цыклу. Мы спрабуем зразумець, які чалавечы досвед зрабіў гэтыя выявы
+
+### be/books/radiance/sampo/index.html
+
+- lang: be
+- section: books
+- title: Ashraellen — САМПО | Ззянне, кніга I
+- description: «САМПО» — першая кніга цыклу «Ззянне»: паўночнае літаратурна-філасофскае паданне аб багацці, валоданні, удзеле і свеце, дзе міф яшчэ не аддзяліўся ад працы.
+- canonical: https://www.ashraellen.com/be/books/radiance/sampo/
+- H1: САМПО
+- H2: Выбраная глава | Пра кнігу | Без спойлераў | Мастацка-даследчая рамка | Тэмы | Для каго | Моўны і выдавецкі статус | Для фондаў, выдаўцоў і культурных партнёраў
+- H3: Паўночны дом | Рэч і крыніца | Івар і мера | Міф да міфа | Багацце | Валоданне | Удзел | Праца і цуд
+- suggested keyword seed: сампо, ashraellen, books, ззянне, кніга, radiance, sampo, аддзяліўся, але, амаль, багацці, без, было, валоданні, выбраная, выдавецкі, выдаўцоў, глава
+- candidates: сафія, яна, яго, нік, але, потым, так, сказаў, хлеб, амаль, было, томас, занадта, быў, яшчэ, дзе, калі, нара, проста, без, была, каб, паглядзеў, таму
+
+Excerpt:
+
+> Ззянне — Паўночныя паданні пра сапраўдную гісторыю свету САМПО Кніга I літаратурна-філасофскага цыкла «Ззянне». Паўночнае паданне аб рэчы, якая апынулася больш рэчы: аб багацці, валоданні, удзеле і свеце, дзе міф яшчэ не аддзяліўся ад працы, холаду, дома і агню. Мы не пераказваем «Kalevala». Мы паказваем свет, з якога такія гісторыі маглі ўзнікнуць. Руская вокладка. Ashraellen. Выбраная глава Кіраўнік трэці. Ломаць Раніца пасля першай немагчымай ночы: хлеб, зямля, дровы і чалавечая спроба зразумець, дзе заканчваецца запас і пачынаецца ўдзел. Адкрыць главу Зачыніць раздзел Раніцай хлеб ляжаў на стале так, быццам ноччу нічога не адбылося. Гэта было амаль дзёрзка. Сафія спынілася ў дзвярах кухні і некалькі секунд глядзела на баханку, не ўваходзячы. Дом ужо прачнуўся, хоць ніхто не аб'яўляў ўздыму. Па лесвіцы рыпелі крокі, у трубах злосна праходзіла вада, недзе грукнулі дзверы, нехта кашляну
+
+### be/books/radiance/song/index.html
+
+- lang: be
+- section: books
+- title: Ashraellen — Песня | Ззянне, кніга II
+- description: «Песня» — другая кніга цыкла «Ззянне»: пашыраная прэзентацыйная старонка рамана пра гук, чунне, мову, Варшаву і Песня, якая не становіцца нумарам.
+- canonical: https://www.ashraellen.com/be/books/radiance/song/
+- H1: Песня
+- H2: Выбраная глава | Пра кнігу | Без спойлераў | Мастацка-даследчая рамка | Тэмы | Для каго | Моўны і выдавецкі статус | Для фондаў, выдаўцоў і культурных партнёраў
+- H3: Варшава як прастора, якая чуе. | Інструмент без ідала | Айла і вяртанне | Песня да Песня | Слова | Чуванне | Мова | Інструмент
+- suggested keyword seed: песня, ashraellen, books, ззянне, кніга, пра, radiance, song, айла, але, амаль, без, была, было, быў, варшаву, выбраная, выдавецкі
+- candidates: яна, айла, але, было, які, так, проста, была, занадта, калі, амаль, быў, яго, без, гук, потым, зноў, песня, пра, быць, пасля, дзе, ўсё, каб
+
+Excerpt:
+
+> Ззянне — Паўночныя паданні пра сапраўдную гісторыю свету Песня Кніга II літаратурна-філасофскага цыкла «Ззянне». Раман аб гуку, які не бярэ ўладу: аб чунні, мове, горадзе, рабочай сцэне і Песня, якая не становіцца нумарам. Пасля «САМПО» пытанне багацця змяняецца пытаннем слова: ці можа мова стаць не меркаваннем, не спрэчкай і не самавыяўленнем, а формай наладкі? Руская вокладка. Ashraellen. Выбраная глава Кіраўнік першы. Звычайны шум Поўны першы раздзел: вяртанне Айлы ў Варшаву, звычайны гарадскі шум і першы разрыў паміж гукам як працай і пачуццём як стаўленнем. Адкрыць главу Зачыніць раздзел Варшава сустрэла Айлу не знаёмым, не бачаннем і не якім-небудзь годным працягу старажытнага пралога шэптам з-пад зямлі. Варшава сустрэла яе аб'явай у цягніку. Спачатку тонкая пстрычка ў дынаміцы, потым жаночы голас, занадта ветлівы для шасці раніцы, паведаміў нешта пра наступную станцыю, перасадку, 
 
 ### be/books/seccus/index.html
 
@@ -1614,6 +1684,57 @@ Excerpt:
 Excerpt:
 
 > SLUDGE SLUDGE ist eine philosophische Dystopie über eine Welt, in der Druck nicht mehr einer Wand gleicht: Er sickert in Alltag, Sprache und Körper ein, verwischt Grenzen und macht den Menschen zum Material seiner Umgebung. Band II der MONOLITH-Trilogie: zähflüssige Verformung, erschöpfter Widerstand und Mittäterschaft als Gewohnheit. Akte Band II Ein Mensch zerbricht nicht sofort. Zuerst wird er des Widerstands müde. Dann beginnt er zuzustimmen. AKTE NR. 2026-001B. Index: 6666548A. STATUS: Streng geheim. Russische Ausgabe bei Google Play Books lesen Englische Ausgabe bei Amazon lesen Zurück zu MONOLITH Ausgewählter Auszug Kapitel 6 / § 6.2 Kapitel 6. Erste Schritte durch SLUDGE. § 6.2. Lager zur Bewahrung von Splittern Der Auszug zeigt, wie gewöhnliche Not, ritualisierte Abläufe, Angst, Schweigen und Mittäterschaft zum alltäglichen Stoff von SLUDGE werden. Vollständigen Auszug öffnen Ka
+
+### de/books/radiance/index.html
+
+- lang: de
+- section: books
+- title: Ashraellen — Glanz | Nordische Geschichten über die wahre Geschichte der Welt
+- description: „Glanz“ ist ein literarischer und philosophischer Kunst- und Forschungszyklus darüber, wie antike Geschichten figurative Anweisungen für die Welt bewahren.
+- canonical: https://www.ashraellen.com/de/books/radiance/
+- H1: Glanz
+- H2: Was ist „Glanz“ | Bücher der Reihe | Kunstforschungsrahmen | Anleitungskarte | Für wen ist dieses Projekt? | Was wichtig ist, nicht zu verwechseln
+- H3: Buch I – Sampo | Buch II – Lied | Buch III – Schmiede | Für Leser | Für Partner
+- suggested keyword seed: glanz, ist, der, die, für, geschichten, und, welt, ashraellen, books, ein, was, als, anleitungskarte, antike, anweisungen, bewahren, buch
+- candidates: und, die, der, das, ist, buch, als, für, glanz, welt, ein, geschichten, sprache, einer, mit, was, antike, anweisungen, dem, hören, keine, sampo, seinem, verantwortung
+
+Excerpt:
+
+> Literarischer und philosophischer Zyklus / artistic research through fiction Glanz Nordische Geschichten über die wahre Geschichte der Welt. Ein langfristiger Zyklus, in dem eine Kunstform zu einer Art der Erkundung wird. Wir erzählen „Kalevala“ nicht nach. Wir zeigen die Welt, aus der solche Geschichten entstehen könnten. Bücher der Reihe Studienrahmen Was ist „Glanz“ kurz Epen, Märchen und antike Geschichten verschiedener Völker können als unterschiedliche Bildsprachen des Zugangs zu tiefem Wissen gelesen werden. Jedes Volk erhielt seine Werkzeuge und Anweisungen in einer Form, die seinem Land, seiner Sprache, seinem Gedächtnis, seinem Schmerz, seinem Klima, seiner Arbeit und seiner Art, die Welt zu hören, angemessen war. Ausstrahlung / „Glanz“ ist eine literarische und philosophisch-künstlerische Forschungsreihe darüber, wie antike Geschichten fantasievolle Anweisungen für die Welt be
+
+### de/books/radiance/sampo/index.html
+
+- lang: de
+- section: books
+- title: Ashraellen — Sampo | Glanz, Buch I
+- description: „Sampo“ ist das erste Buch der „Glanz“-Reihe: eine nordische literarische und philosophische Geschichte über Überfluss, Besitz, Teilhabe und eine Welt, in der Mythos noch nicht von Arbeit getrennt ist.
+- canonical: https://www.ashraellen.com/de/books/radiance/sampo/
+- H1: Sampo
+- H2: Empfohlenes Kapitel | Über das Buch | Keine Spoiler | Kunstforschungsrahmen | Themen | Für wen | Sprache und Veröffentlichungsstatus | Für Stiftungen, Verlage und Kulturpartner
+- H3: Nordhaus | Sache und Quelle | Ivar und Mera | Mythos vor Mythos | Fülle | Eigentum | Teilnahme | Arbeit und Wunder
+- suggested keyword seed: und, sampo, buch, das, der, ist, ashraellen, books, eine, für, glanz, nicht, über, arbeit, auf, besitz, den, die
+- candidates: die, nicht, der, und, das, sie, auf, ich, den, ist, sofia, war, als, mit, ein, sich, eine, dem, hat, nick, aber, dann, dass, aus
+
+Excerpt:
+
+> Glanz – Nordische Geschichten über die wahre Geschichte der Welt Sampo Buch I des literarischen und philosophischen Zyklus „Glanz“. Eine nordische Legende über etwas, das mehr als nur ein Ding war: über Fülle, Besitz, Teilhabe und Frieden, wo sich der Mythos noch nicht von Arbeit, Kälte, Heimat und Feuer getrennt hat. Wir erzählen „Kalevala“ nicht nach. Wir zeigen die Welt, aus der solche Geschichten entstehen könnten. Russisches Cover. Ashraellen. Empfohlenes Kapitel Kapitel drei. Hunk Der Morgen nach der ersten unmöglichen Nacht: Brot, Land, Feuerholz und ein menschlicher Versuch zu verstehen, wo der Vorrat aufhört und die Teilnahme beginnt. Kapitel öffnen Kapitel schließen Morgens lag das Brot auf dem Tisch, als wäre in der Nacht nichts passiert. Es war fast frech. Sofia blieb in der Küchentür stehen und betrachtete das Brot ein paar Sekunden lang, ohne einzutreten. Das Haus war berei
+
+### de/books/radiance/song/index.html
+
+- lang: de
+- section: books
+- title: Ashraellen — Lied | Glanz, Buch II
+- description: „Lied“ ist das zweite Buch der „Glanz“-Reihe: eine erweiterte Präsentationsseite eines Romans über Klang, Hören, Sprache, Warschau und Lied, das nicht zur Zahl wird.
+- canonical: https://www.ashraellen.com/de/books/radiance/song/
+- H1: Lied
+- H2: Empfohlenes Kapitel | Über das Buch | Keine Spoiler | Kunstforschungsrahmen | Themen | Für wen | Sprache und Veröffentlichungsstatus | Für Stiftungen, Verlage und Kulturpartner
+- H3: Warschau als Hörraum | Werkzeug ohne Idol | Ayla und zurück | Lied bis Lied | Wort | Anhörung | Sprache | Werkzeug
+- suggested keyword seed: das, lied, und, buch, ashraellen, books, der, eine, für, glanz, nicht, sprache, über, auf, den, die, ein, eines
+- candidates: die, sie, der, nicht, und, das, ein, eine, den, war, mit, auf, ist, ayla, sich, dem, als, aber, hat, ich, einem, wie, dass, einer
+
+Excerpt:
+
+> Glanz – Nordische Geschichten über die wahre Geschichte der Welt Lied Buch II des literarischen und philosophischen Zyklus „Glanz“. Ein Roman über Klang, der keine Macht übernimmt: über das Hören, die Sprache, die Stadt, die Arbeitsszene und Lied, der nicht zur Nummer wird. Nach „Sampo“ wird die Frage nach der Fülle durch die Frage nach dem Wort ersetzt: Kann Sprache keine Meinung, kein Argument, kein Selbstausdruck, sondern eine Form der Individualisierung werden? Russisches Cover. Ashraellen. Empfohlenes Kapitel Kapitel Eins. Normales Geräusch Komplettes erstes Kapitel: Aylas Rückkehr nach Warschau, gewöhnlicher Stadtlärm und der erste Bruch zwischen Klang als Arbeit und Hören als Haltung. Kapitel öffnen Kapitel schließen Warschau begegnete Ayla nicht mit einem Zeichen, nicht mit einer Vision und nicht mit einem Flüstern aus dem Untergrund, das einer Fortsetzung des antiken Prologs wür
 
 ### de/books/seccus/index.html
 
@@ -2639,52 +2760,52 @@ Excerpt:
 
 - lang: en
 - section: books
-- title: Ashraellen — Radiance | Northern Tales of the True History of the World
-- description: Radiance is a literary-philosophical, practice-based research cycle about how ancient stories preserve imaginal instructions for the world.
+- title: Ashraellen — Radiance | Northern tales about the real history of the world
+- description: “Radiance” is a literary and philosophical artistic and research cycle about how ancient stories preserve figurative instructions for the world.
 - canonical: https://www.ashraellen.com/en/books/radiance/
 - H1: Radiance
-- H2: What Radiance is | Books of the cycle | Artistic research frame | Map of instructions | Who this project is for | What must not be confused
-- H3: Book I — Sampo | Book II — Song | Book III — The Forge | Readers | Partners
-- suggested keyword seed: radiance, books, cycle, instructions, research, world, ancient, artistic, ashraellen, northern, what, about, book, confused, form, frame, history, how
-- candidates: cycle, book, research, ancient, radiance, world, artistic, form, human, instructions, northern, through, what, word, attunement, can, hearing, language, literary-philosophical, project, responsibility, return, sampo, stories
+- H2: What is “Radiance” | Books of the series | Art Research Frame | Instruction card | Who is this project for? | What is important not to confuse
+- H3: Book I - Sampo | Book II - Song | Book III - Forge | For Readers | For partners
+- suggested keyword seed: radiance, about, books, research, what, world, ancient, artistic, ashraellen, cycle, northern, philosophical, art, book, card, confuse, figurative, form
+- candidates: about, book, radiance, ancient, world, cycle, form, research, what, artistic, northern, philosophical, through, art, can, hearing, instructions, language, literary, project, responsibility, return, sampo, series
 
 Excerpt:
 
-> Literary-philosophical cycle / artistic research through fiction Radiance Northern Tales of the True History of the World. A long-form cycle in which artistic form becomes a way of research. We do not retell the Kalevala. We show the world from which such stories could have arisen. Books of the cycle Research frame What Radiance is in brief Epics, fairy tales and ancient stories of different peoples can be read as different imaginal languages of access to deep knowledge. Each people received its own tools and instructions in a form shaped by its land, language, memory, pain, climate, labour and way of hearing the world. Radiance is a literary-philosophical, practice-based research cycle about how ancient stories preserve imaginal instructions for the world. The Finno-Karelian and Kalevala material forms the main northern backbone of the cycle. We try to understand what human experience m
+> Literary and philosophical cycle / artistic research through fiction Radiance Northern tales about the real history of the world. A long-term cycle in which an art form becomes a mode of exploration. We do not retell "Kalevala". We show the world from which such stories could emerge. Books of the series Study frame What is “Radiance” short Epics, fairy tales and ancient histories of different peoples can be read as different figurative languages of access to deep knowledge. Each people received its tools and instructions in a form appropriate to its land, language, memory, pain, climate, work and way of hearing the world. Radiance / "Radiance" is a literary and philosophical artistic research series about how ancient stories preserve imaginative instructions for the world. Finnish-Karelian and Kalevala material is the main northern spine of the cycle. We are trying to understand what hum
 
 ### en/books/radiance/sampo/index.html
 
 - lang: en
 - section: books
 - title: Ashraellen — Sampo | Radiance, Book I
-- description: Sampo is Book I of Radiance: a northern literary-philosophical tale of abundance, possession, participation and a world where myth has not yet separated from labour.
+- description: “Sampo” is the first book in the “Radiance” series: a northern literary and philosophical tale of abundance, ownership, participation and a world where myth has not yet been separated from labor.
 - canonical: https://www.ashraellen.com/en/books/radiance/sampo/
 - H1: Sampo
-- H2: Selected chapter | About the book | Without spoilers | Artistic research frame | Themes | For whom | Language and publishing status | For foundations, publishers and cultural partners
-- H3: The northern house | The thing and the source | Ivar and measure | Myth before myth | Abundance | Possession | Participation | Labour and wonder
-- suggested keyword seed: sampo, book, radiance, abundance, ashraellen, books, northern, research, where, world, about, artistic, chapter, cultural, cycle, does, foundations, frame
-- candidates: world, book, sampo, radiance, what, cycle, does, northern, research, where, human, abundance, becomes, house, source, have, participation, thing, through, without, ancient, artistic, being, completed
+- H2: Featured Chapter | About the book | No spoilers | Art Research Frame | Topics | For whom | Language and publishing status | For foundations, publishers and cultural partners
+- H3: North house | Thing and source | Ivar and Mera | Myth before myth | Abundance | Ownership | Participation | Labor and miracle
+- suggested keyword seed: sampo, book, radiance, ashraellen, books, about, abundance, art, been, chapter, cultural, featured, first, foundations, frame, has, her, his
+- candidates: was, sofia, she, looked, his, her, nick, you, then, too, like, said, thomas, bread, took, did, what, hand, there, almost, didn't, him, morning, had
 
 Excerpt:
 
-> Radiance — Northern Tales of the True History of the World Sampo Book I of the literary-philosophical cycle Radiance. A northern tale of a thing that turned out to be more than a thing: of abundance, possession, participation and a world where myth has not yet separated from labour, cold, house and fire. We do not retell the Kalevala. We show the world from which such stories could have arisen. English cover. Ashraellen. Selected chapter Chapter One. A Small Event Fragment from the first chapter At Helsinki Airport, the earth did not grind. Read more It merely endured. Suitcases rolled over it, heels struck it, doors beeped, and the air smelled of coffee, wet wool, duty-free perfume and the tiredness of people who had not yet had time to understand whether they had arrived somewhere or had merely exchanged one queue for another. Beyond the glass wall, the end of August hung in the air. I
+> Radiance - Northern tales about the real history of the world Sampo Book I of the literary and philosophical cycle “Radiance”. A northern legend about a thing that turned out to be more than a thing: about abundance, possession, participation and peace, where myth has not yet separated from labor, cold, home and fire. We do not retell "Kalevala". We show the world from which such stories could emerge. English cover. Ashraellen. Featured Chapter Chapter Three. Hunk The morning after the first impossible night: bread, land, firewood and a human attempt to understand where the supply ends and participation begins. Open chapter Close chapter In the morning the bread lay on the table as if nothing had happened during the night. It was almost cheeky. Sofia stopped in the kitchen doorway and looked at the loaf for a few seconds without entering. The house had already woken up, although no one a
 
 ### en/books/radiance/song/index.html
 
 - lang: en
 - section: books
 - title: Ashraellen — Song | Radiance, Book II
-- description: Song is Book II of Radiance: a novel about sound, hearing, language, Warsaw and a song that does not become a performance number.
+- description: “Song” is the second book in the “Radiance” series: an extended presentation page of a novel about sound, hearing, language, Warsaw and Song, which does not become a number.
 - canonical: https://www.ashraellen.com/en/books/radiance/song/
 - H1: Song
-- H2: Selected chapter | About the book | Without spoilers | Artistic research frame | Themes | For whom | Language and publishing status | For foundations, publishers and cultural partners
-- H3: Warsaw as a hearing space | Instrument without idol | Ayla and return | Song before song | Word | Hearing | Language | Instrument
-- suggested keyword seed: song, book, radiance, about, language, ashraellen, become, books, does, hearing, sound, artistic, chapter, city, cultural, cycle, foundations, frame
-- candidates: song, book, sound, become, city, does, language, about, hearing, radiance, through, cycle, research, warsaw, without, english, noise, question, what, word, ancient, attunement, ayla, background
+- H2: Featured Chapter | About the book | No spoilers | Art Research Frame | Topics | For whom | Language and publishing status | For foundations, publishers and cultural partners
+- H3: Warsaw as a hearing space | Tool without idol | Ayla and return | Song to Song | Word | Hearing | Language | Tool
+- suggested keyword seed: song, about, book, radiance, ashraellen, books, language, sound, art, ayla, become, chapter, cultural, does, extended, featured, foundations, frame
+- candidates: was, she, ayla, her, you, sound, there, then, like, about, out, without, martha, too, had, who, almost, just, again, were, can, how, now, person
 
 Excerpt:
 
-> Radiance — Northern Tales of the True History of the World Song Book II of the literary-philosophical cycle Radiance. A novel about sound that does not take power: about hearing, language, city, working stage and a song that does not become a performance number. After Sampo, the question of abundance becomes the question of word: can language become not opinion, argument or self-expression, but a form of attunement? English cover. Ashraellen. Selected chapter Chapter One. Ordinary Noise Fragment from the first chapter Warsaw met Ayla not with a sign, not with a vision, and not with any whisper from under the earth worthy of continuing an ancient prologue. Read more Warsaw met her with an announcement in the train. First came a thin click in the speaker; then a woman’s voice, too polite for six in the morning, reported something about the next station, a connection, caution when leaving a
+> Radiance - Northern tales about the real history of the world Song Book II of the literary and philosophical cycle “Radiance”. A novel about sound that does not take power: about hearing, language, the city, the working scene and Song, which does not become a number. After “Sampo” the question of abundance is replaced by the question of the word: can language become not an opinion, not an argument, not a self-expression, but a form of customization? English cover. Ashraellen. Featured Chapter Chapter One. Normal noise Complete first chapter: Ayla's return to Warsaw, ordinary city noise and the first break between sound as work and hearing as attitude. Open chapter Close chapter Warsaw met Ayla not with a sign, not with a vision, and not with some whisper from underground worthy of a continuation of the ancient prologue. Warsaw greeted her with an announcement on the train. First a thin c
 
 ### en/books/seccus/index.html
 
@@ -3672,6 +3793,57 @@ Excerpt:
 
 > SLUDGE SLUDGE es una distopía filosófica sobre un mundo donde la presión ya no se parece a una pared: se filtra en la vida cotidiana, el lenguaje y el cuerpo, borra los límites y convierte a la persona en material del entorno. Volumen II de la trilogía MONOLITH: deformación viscosa, agotamiento de la resistencia y complicidad convertida en hábito. Expediente Volumen II Una persona no se quiebra de golpe. Primero se cansa de resistir. Después empieza a asentir. EXPEDIENTE N.º 2026-001B. Índice: 6666548A. ESTADO: Estrictamente secreto. Leer la edición rusa en Google Play Books Leer la edición inglesa en Amazon Volver a MONOLITH Fragmento seleccionado Capítulo 6 / § 6.2 Capítulo 6. Primeros pasos por SLUDGE. § 6.2. Almacenes de Conservación de Fragmentos El fragmento muestra cómo la necesidad ordinaria, el procedimiento ritualizado, el miedo, el silencio y la complicidad se convierten en la
 
+### es/books/radiance/index.html
+
+- lang: es
+- section: books
+- title: Ashraellen — Resplandor | Cuentos del norte sobre la historia real del mundo.
+- description: “Resplandor” es un ciclo artístico y de investigación literario y filosófico sobre cómo las historias antiguas preservan instrucciones figurativas para el mundo.
+- canonical: https://www.ashraellen.com/es/books/radiance/
+- H1: Resplandor
+- H2: ¿Qué es “Resplandor”? | Libros de la serie | Marco de investigación artística | Tarjeta de instrucciones | ¿Para quién es este proyecto? | Lo que es importante no confundir
+- H3: Libro I - Sampo | Libro II - Canto | Libro III - Forja | Para lectores | Para socios
+- suggested keyword seed: resplandor, del, mundo, para, sobre, ashraellen, books, ciclo, instrucciones, investigación, que, antiguas, artística, artístico, como, cómo, con, confundir
+- candidates: una, del, libro, que, resplandor, sobre, forma, mundo, ciclo, como, para, con, instrucciones, las, palabra, antiguas, historias, investigación, norte, proyecto, puede, qué, responsabilidad, sampo
+
+Excerpt:
+
+> Ciclo literario y filosófico / artistic research through fiction Resplandor Cuentos del norte sobre la historia real del mundo. Un ciclo de largo plazo en el que una forma de arte se convierte en un modo de exploración. No volvemos a contar "Kalevala". Mostramos el mundo del que podrían surgir este tipo de historias. Libros de la serie Marco de estudio ¿Qué es “Resplandor”? corto Las epopeyas, los cuentos de hadas y las historias antiguas de diferentes pueblos pueden leerse como diferentes lenguajes figurados de acceso al conocimiento profundo. Cada pueblo recibió sus herramientas e instrucciones en una forma adecuada a su tierra, lengua, memoria, dolor, clima, trabajo y forma de oír el mundo. Resplandor / "Resplandor" es una serie de investigación artística literaria y filosófica sobre cómo las historias antiguas preservan instrucciones imaginativas para el mundo. El material finlandés-
+
+### es/books/radiance/sampo/index.html
+
+- lang: es
+- section: books
+- title: Ashraellen — Sampo | Resplandor, libro I
+- description: “Sampo” es el primer libro de la serie “Resplandor”: una historia literaria y filosófica del norte sobre abundancia, propiedad, participación y un mundo donde el mito aún no se ha separado del trabajo.
+- canonical: https://www.ashraellen.com/es/books/radiance/sampo/
+- H1: Sampo
+- H2: Capítulo destacado | Acerca del libro | Sin spoilers | Marco de investigación artística | Temas | Para quién | Idioma y estado de publicación | Para fundaciones, editoriales y socios culturales
+- H3: Casa norte | Cosa y fuente | Ivar y Mera | Mito antes que mito | Abundancia | Propiedad | Participación | Trabajo y milagro
+- suggested keyword seed: del, sampo, libro, ashraellen, books, para, resplandor, una, abundancia, acerca, artística, aún, capítulo, como, con, culturales, destacado, donde
+- candidates: que, una, con, sofía, por, del, como, miró, las, nick, los, más, pero, para, dijo, estaba, luego, pan, thomas, qué, mano, tomó, sobre, había
+
+Excerpt:
+
+> Resplandor - Cuentos del norte sobre la historia real del mundo Sampo Libro I del ciclo literario y filosófico “Resplandor”. Una leyenda norteña sobre una cosa que resultó ser más que una cosa: sobre la abundancia, la posesión, la participación y la paz, donde el mito aún no se ha separado del trabajo, el frío, el hogar y el fuego. No volvemos a contar "Kalevala". Mostramos el mundo del que podrían surgir este tipo de historias. Cubierta rusa. Ashraellen. Capítulo destacado Capítulo Tres. trozo La mañana después de la primera noche imposible: pan, tierra, leña y un intento humano por entender dónde termina el suministro y comienza la participación. Abrir capítulo Cerrar capítulo Por la mañana el pan yacía sobre la mesa como si nada hubiera pasado durante la noche. Fue casi descarado. Sofía se detuvo en el umbral de la cocina y miró el pan durante unos segundos sin entrar. La casa ya habí
+
+### es/books/radiance/song/index.html
+
+- lang: es
+- section: books
+- title: Ashraellen — Canto | Resplandor, libro II
+- description: “Canto” es el segundo libro de la serie “Resplandor”: una página de presentación ampliada de una novela sobre el sonido, el oído, el lenguaje, Varsovia y Canto, que no se convierte en un número.
+- canonical: https://www.ashraellen.com/es/books/radiance/song/
+- H1: Canto
+- H2: Capítulo destacado | Acerca del libro | Sin spoilers | Marco de investigación artística | Temas | Para quién | Idioma y estado de publicación | Para fundaciones, editoriales y socios culturales
+- H3: Varsovia como espacio de audiencia | Herramienta sin ídolo | Ayla y regreso | Canto a Canto | Palabra | Audiencia | Idioma | Herramienta
+- suggested keyword seed: canto, libro, para, una, ashraellen, books, del, que, resplandor, acerca, ampliada, artística, ayla, capítulo, como, con, convierte, culturales
+- candidates: que, una, con, ayla, como, del, los, por, pero, ella, para, era, las, sin, más, sonido, había, sobre, casi, persona, demasiado, marta, sino, estaba
+
+Excerpt:
+
+> Resplandor - Cuentos del norte sobre la historia real del mundo Canto Libro II del ciclo literario y filosófico “Resplandor”. Una novela sobre el sonido que no toma poder: sobre el oído, el lenguaje, la ciudad, el mundo laboral y Canto, que no se convierte en un número. Después de “Sampo” la pregunta sobre la abundancia es reemplazada por la pregunta sobre la palabra: ¿puede el lenguaje convertirse no en una opinión, ni en un argumento, ni en una autoexpresión, sino en una forma de personalización? Cubierta rusa. Ashraellen. Capítulo destacado Capítulo Uno. Ruido normal Primer capítulo completo: el regreso de Ayla a Varsovia, el ruido ordinario de la ciudad y la primera ruptura entre el sonido como trabajo y el oído como actitud. Abrir capítulo Cerrar capítulo Varsovia recibió a Ayla no con una señal, ni con una visión, ni con algún susurro subterráneo digno de una continuación del antig
+
 ### es/books/seccus/index.html
 
 - lang: es
@@ -4624,6 +4796,23 @@ Excerpt:
 
 > FLOW Opening the playlist on YouTube Music... Open playlist
 
+### focus-group/books/Error404/index.html
+
+- lang: root
+- section: focus-group
+- title: Ошибка 404: Бог не найден — читательская панель
+- description: Удобная читательская панель для вычитки книги «Ошибка 404: Бог не найден». Том I — «Почему я?»
+- canonical: _missing_
+- H1: Ошибка 404: Бог не найден
+- H2: Что особенно важно отметить | Загрузка… | ${escapeHtml(ch.title)}
+- H3: _missing_
+- suggested keyword seed: 404, бог, найден, ошибка, панель, читательская, ashraellen, books, ch.title, error404, escapehtml, focus, focus-group, group, важно, вычитки, где, главы
+- candidates: где, 404, бог, главы, заметки, или, найден, ошибка, панель, проверены, читательская, чтения, автором, браузере, важно, вместо, все, вычитки, галочки, герой, есть, живого, живым, закрыть
+
+Excerpt:
+
+> Прогресс чтения 0 / 22 Сбросить Начните с первой главы. Галочки и заметки сохраняются только в этом браузере. Что особенно важно отметить Не нужно играть в корректора с красной ручкой. Нужна честная реакция живого читателя. Короткая памятка Где стало скучно, непонятно или захотелось закрыть текст. Что зацепило, рассмешило или осталось в памяти. Где герой кажется живым, а где — автором на кафедре. Ошибки и опечатки — тоже отмечайте, но не охотьтесь за ними вместо чтения. Все главы Не проверены Проверены Есть заметки Печать списка
+
 ### fr/books/index.html
 
 - lang: fr
@@ -4691,6 +4880,57 @@ Excerpt:
 Excerpt:
 
 > SLUDGE SLUDGE est une dystopie philosophique sur un monde où la pression ne ressemble plus à un mur : elle s’infiltre dans le quotidien, le langage et le corps, brouille les frontières et transforme l’être humain en matériau du milieu. Volume II de la trilogie MONOLITH : déformation visqueuse, épuisement de la résistance et complicité devenue habitude. Dossier Volume II Un être humain ne se brise pas d’un coup. D’abord, il se fatigue de résister. Puis il commence à consentir. DOSSIER N° 2026-001B. Indice : 6666548A. STATUT : Strictement secret. Lire l’édition russe sur Google Play Books Lire l’édition anglaise sur Amazon Retour à MONOLITH Extrait choisi Chapitre 6 / § 6.2 Chapitre 6. Premiers pas dans SLUDGE. § 6.2. Entrepôts de Conservation des Éclats L’extrait montre comment le besoin ordinaire, la procédure ritualisée, la peur, le silence et la complicité deviennent la matière quotidi
+
+### fr/books/radiance/index.html
+
+- lang: fr
+- section: books
+- title: Ashraellen — Éclat | Contes nordiques sur la véritable histoire du monde
+- description: « Éclat » est un cycle artistique et de recherche littéraire et philosophique sur la manière dont les histoires anciennes préservent les instructions figuratives du monde.
+- canonical: https://www.ashraellen.com/fr/books/radiance/
+- H1: Éclat
+- H2: Qu'est-ce que "Éclat" | Livres de la série | Cadre de recherche artistique | Carte d'instructions | À qui s'adresse ce projet ? | Ce qu'il est important de ne pas confondre
+- H3: Livre I - Sampo | Livre II - Chant | Livre III - La Forge | Pour les lecteurs | Pour les partenaires
+- suggested keyword seed: éclat, les, monde, sur, anciennes, artistique, ashraellen, books, cycle, est, pas, recherche, cadre, carte, confondre, contes, d'instructions, des
+- candidates: les, une, cycle, livre, sur, éclat, monde, des, forme, parole, pas, anciennes, comme, est, histoires, instructions, philosophique, projet, qui, recherche, responsabilité, sampo, série, ancienne
+
+Excerpt:
+
+> Cycle littéraire et philosophique / artistic research through fiction Éclat Contes nordiques sur la véritable histoire du monde. Un cycle au long cours dans lequel une forme d’art devient un mode d’exploration. Nous ne racontons pas "Kalevala". Nous montrons le monde d’où de telles histoires pourraient surgir. Livres de la série Cadre de recherche Qu'est-ce que "Éclat" court Les épopées, les contes de fées et les histoires anciennes de différents peuples peuvent être lus comme différents langages figuratifs d'accès à des connaissances approfondies. Chaque peuple a reçu ses outils et ses instructions sous une forme adaptée à sa terre, sa langue, sa mémoire, sa douleur, son climat, son travail et sa manière d'entendre le monde. Radiance / "Éclat" est une série de recherches artistiques littéraires et philosophiques sur la manière dont les histoires anciennes préservent les instructions fig
+
+### fr/books/radiance/sampo/index.html
+
+- lang: fr
+- section: books
+- title: Ashraellen — Sampo | Éclat, livre I
+- description: _missing_
+- canonical: https://www.ashraellen.com/fr/books/radiance/sampo/
+- H1: Sampo
+- H2: Chapitre en vedette | À propos du livre | Pas de spoilers | Cadre de recherche artistique | Sujets | Pour qui | Langue et statut de publication | Pour les fondations, éditeurs et partenaires culturels
+- H3: Maison Nord | Chose et source | Ivar et Mera | Mythe avant mythe | Abondance | Propriété | Participation | Travail et miracle
+- suggested keyword seed: sampo, ashraellen, books, les, livre, pas, pour, artistique, avec, cadre, chapitre, comme, culturels, dans, éclat, éditeurs, elle, fondations
+- candidates: pas, une, les, sur, elle, que, sofia, dans, mais, comme, avec, plus, pour, qui, est, nick, était, s'est, pain, thomas, des, puis, regarda, main
+
+Excerpt:
+
+> Éclat - Contes nordiques sur la véritable histoire du monde Sampo Livre I du cycle littéraire et philosophique « Éclat ». Une légende nordique sur une chose qui s'est avérée être plus qu'une chose : sur l'abondance, la possession, la participation et la paix, où le mythe ne s'est pas encore séparé du travail, du froid, de la maison et du feu. Nous ne racontons pas "Kalevala". Nous montrons le monde d’où de telles histoires pourraient surgir. Couverture russe. Ashraellen. Chapitre en vedette Chapitre trois. Morceau Le matin après la première nuit impossible : du pain, de la terre, du bois de chauffage et une tentative humaine de comprendre où s'arrête l'approvisionnement et où commence la participation. Ouvrir le chapitre Fermer le chapitre Le matin, le pain gisait sur la table comme si de rien n'était pendant la nuit. C'était presque effronté. Sofia s'est arrêtée sur le seuil de la cuisi
+
+### fr/books/radiance/song/index.html
+
+- lang: fr
+- section: books
+- title: Ashraellen — Chant | Éclat, livre II
+- description: _missing_
+- canonical: https://www.ashraellen.com/fr/books/radiance/song/
+- H1: Chant
+- H2: Chapitre en vedette | À propos du livre | Pas de spoilers | Cadre de recherche artistique | Sujets | Pour qui | Langue et statut de publication | Pour les fondations, éditeurs et partenaires culturels
+- H3: Varsovie comme espace d'audience | Outil sans idole | Ayla et retour | Chant à Chant | Mot | Audience | Langue | Outil
+- suggested keyword seed: ashraellen, books, chant, les, livre, pas, pour, qui, artistique, avec, ayla, cadre, chapitre, culturels, dans, des, éclat, éditeurs
+- candidates: pas, une, elle, les, qui, dans, mais, avec, que, ayla, est, des, comme, pour, son, sur, était, plus, avait, c'est, vous, sans, tout, trop
+
+Excerpt:
+
+> Éclat - Contes nordiques sur la véritable histoire du monde Chant Livre II du cycle littéraire et philosophique « Éclat ». Un roman sur le son qui ne prend pas le pouvoir : sur l'ouïe, le langage, la ville, le monde du travail et Chant, qui ne devient pas un numéro. Après « Sampo » la question de l'abondance est remplacée par la question du mot : le langage peut-il devenir non pas une opinion, pas un argument, pas une expression de soi, mais une forme de personnalisation ? Couverture russe. Ashraellen. Chapitre en vedette Chapitre un. Bruit normal Premier chapitre complet : le retour d'Ayla à Varsovie, le bruit ordinaire de la ville et la première rupture entre le son comme travail et l'audition comme attitude. Ouvrir le chapitre Fermer le chapitre Varsovie n'a rencontré Ayla ni avec un signe, ni avec une vision, ni avec un murmure souterrain digne d'une continuation de l'ancien prologue
 
 ### fr/books/seccus/index.html
 
@@ -5768,51 +6008,51 @@ Excerpt:
 - lang: pl
 - section: books
 - title: Ashraellen — Blask | Północne opowieści o prawdziwej historii świata
-- description: Blask to literacko-filozoficzny, artystyczno-badawczy cykl o tym, jak dawne historie przechowują obrazowe instrukcje rozumienia świata.
+- description: „Blask” to literacki i filozoficzny cykl artystyczno-badawczy o tym, jak starożytne opowieści utrwalają figuratywne instrukcje dla świata.
 - canonical: https://www.ashraellen.com/pl/books/radiance/
 - H1: Blask
-- H2: Czym jest „Blask” | Książki cyklu | Rama artystyczno-badawcza | Mapa instrukcji | Dla kogo jest ten projekt | Czego nie należy mylić
-- H3: Księga I — Sampo | Księga II — Pieśń | Księga III — Kuźnia | Czytelnicy | Partnerzy
-- suggested keyword seed: blask, świata, ashraellen, books, cykl, cyklu, dawne, historie, instrukcje, literacko-filozoficzny, nie, artystyczno-badawcza, artystyczno-badawczy, czego, czym, forma, historii, instrukcji
-- candidates: nie, blask, cykl, cyklu, forma, świata, dawne, historie, instrukcje, jako, księga, literacko-filozoficzny, może, sampo, słowo, tym, artystyczna, artystyczno-badawczy, bez, czy, język, książki, nowo, obrazowe
+- H2: Co to jest „Blask” | Książki z serii | Rama do badań artystycznych | Karta instrukcji | Dla kogo jest ten projekt? | Co ważne, aby nie mylić
+- H3: Księga I - Sampo | Księga II - Pieśń | Księga III – Kuźnia | Dla czytelników | Dla partnerów
+- suggested keyword seed: blask, opowieści, świata, ashraellen, books, cykl, instrukcje, nie, aby, artystyczno-badawczy, artystycznych, badań, czy, figuratywne, filozoficzny, forma, historii, instrukcji
+- candidates: blask, nie, cykl, forma, jako, świata, czy, instrukcje, księga, może, opowieści, sampo, słowo, starożytne, bez, książkę, książki, odpowiedzialność, pieśń, projekt, się, sztuki, tego, tym
 
 Excerpt:
 
-> Cykl literacko-filozoficzny / artistic research through fiction Blask Północne opowieści o prawdziwej historii świata. Długofalowy cykl, w którym forma artystyczna staje się sposobem badania. Nie opowiadamy Kalevali na nowo. Pokazujemy świat, z którego takie historie mogły powstać. Książki cyklu Rama badawcza Czym jest „Blask” krótko Eposy, baśnie i dawne historie różnych narodów można czytać jako różne obrazowe języki dostępu do głębokiej wiedzy. Każdy naród otrzymał własne narzędzia i instrukcje w formie odpowiadającej jego ziemi, językowi, pamięci, bólowi, klimatowi, pracy i sposobowi słyszenia świata. Radiance / Blask to literacko-filozoficzny, artystyczno-badawczy cykl o tym, jak dawne historie przechowują obrazowe instrukcje rozumienia świata. Materiał fińsko-karelski i kalevalski jest głównym północnym kręgosłupem cyklu. Próbujemy zrozumieć, jakie ludzkie doświadczenie uczyniło te
+> Cykl literacko-filozoficzny / artistic research through fiction Blask Północne opowieści o prawdziwej historii świata. Długoterminowy cykl, w którym forma sztuki staje się sposobem eksploracji. Nie powtarzamy „Kalevala”. Pokazujemy świat, z którego mogłyby powstać takie historie. Książki z serii Rama do nauki Co to jest „Blask” krótki Eposy, baśnie i starożytne historie różnych ludów można czytać jako różne przenośne języki dostępu do głębokiej wiedzy. Każdy naród otrzymał swoje narzędzia i instrukcje w formie odpowiedniej dla swojej ziemi, języka, pamięci, bólu, klimatu, pracy i sposobu słuchania świata. Promieniowanie / „Blask” to literacko-filozoficzna seria badań artystycznych na temat tego, jak starożytne opowieści zachowują wyobraźnię dla świata. Materiał fińsko-karelski i Kalevala stanowi główny północny kręgosłup cyklu. Próbujemy zrozumieć, jakie ludzkie doświadczenie sprawiło, ż
 
 ### pl/books/radiance/sampo/index.html
 
 - lang: pl
 - section: books
 - title: Ashraellen — Sampo | Blask, Księga I
-- description: Sampo to Księga I cyklu Blask: północna opowieść literacko-filozoficzna o obfitości, posiadaniu, uczestnictwie i świecie, w którym mit nie oddzielił się jeszcze od pracy.
+- description: „Sampo” to pierwsza książka z serii „Blask”: literackiej i filozoficznej opowieści z północy o obfitości, własności, uczestnictwie i świecie, w którym mit nie został jeszcze oddzielony od pracy.
 - canonical: https://www.ashraellen.com/pl/books/radiance/sampo/
 - H1: Sampo
-- H2: Wybrany rozdział | O książce | Bez spoilerów | Rama artystyczno-badawcza | Tematy | Dla kogo | Status językowy i wydawniczy | Dla fundacji, wydawców i partnerów kultury
-- H3: Północny dom | Rzecz i źródło | Ivar i miara | Mit przed mitem | Obfitość | Posiadanie | Uczestnictwo | Praca i cud
-- suggested keyword seed: sampo, blask, ashraellen, books, cyklu, jeszcze, księga, którym, nie, obfitości, się, artystyczno-badawcza, bez, fundacji, jako, językowy, kogo, książce
-- candidates: nie, się, sampo, blask, świata, cyklu, którym, jako, książka, staje, jeszcze, obfitości, świat, bez, człowiek, czy, dom, księga, pracy, przez, rzecz, ukończona, źródło, ale
+- H2: Polecany rozdział | O książce | Bez spoilerów | Rama do badań artystycznych | Tematy | Dla kogo | Język i stan publikacji | Dla fundacji, wydawców i partnerów kulturalnych
+- H3: Dom północny | Rzecz i źródło | Ivar i Mera | Mit przed mitem | Obfitość | Własność | Uczestnictwo | Praca i cud
+- suggested keyword seed: sampo, ashraellen, blask, books, nie, ale, artystycznych, badań, bez, było, chleb, czy, filozoficznej, fundacji, jeszcze, język, już, kogo
+- candidates: nie, się, sofia, ale, nick, było, tak, potem, powiedział, chleb, już, czy, prawie, nora, tego, thomas, pod, spojrzał, tylko, bez, był, ivar, kawałek, nic
 
 Excerpt:
 
-> Blask — Północne opowieści o prawdziwej historii świata Sampo Księga I literacko-filozoficznego cyklu Blask. Północna opowieść o rzeczy, która okazała się czymś więcej niż rzeczą: o obfitości, posiadaniu, uczestnictwie i świecie, w którym mit nie oddzielił się jeszcze od pracy, zimna, domu i ognia. Nie opowiadamy Kalevali na nowo. Pokazujemy świat, z którego takie historie mogły powstać. Polska okładka. Ashraellen. Wybrany rozdział Rozdział pierwszy. Małe zdarzenie Fragment pierwszego rozdziału Na lotnisku w Helsinkach ziemia nie mieliła. Czytaj dalej Ona po prostu znosiła. Jechały po niej walizki, stukały obcasy, pikały drzwi, pachniało kawą, mokrą wełną, perfumami z duty free i zmęczeniem ludzi, którzy nie zdążyli jeszcze zrozumieć, czy dokądś przylecieli, czy tylko zamienili jedną kolejkę na drugą. Za szklaną ścianą wisiał koniec sierpnia. Nie przypominał końca lata w miejscach, gdzie
+> Blask - Północne opowieści o prawdziwej historii świata Sampo Księga I cyklu literacko-filozoficznego „Blask”. Północna legenda o rzeczy, która okazała się czymś więcej niż rzeczą: o obfitości, posiadaniu, uczestnictwie i pokoju, gdzie mit nie oddzielił się jeszcze od pracy, zimna, domu i ognia. Nie powtarzamy „Kalevala”. Pokazujemy świat, z którego mogłyby powstać takie historie. Polska okładka. Ashraellen. Polecany rozdział Rozdział trzeci. Przystojniak Poranek po pierwszej niemożliwej nocy: chleb, ziemia, drewno na opał i ludzka próba zrozumienia, gdzie kończy się podaż, a zaczyna uczestnictwo. Otwórz rozdział Zamknij rozdział Rano chleb leżał na stole jak gdyby w nocy nic się nie działo. To było prawie bezczelne. Sofia zatrzymała się w drzwiach kuchni i przez kilka sekund, nie wchodząc, patrzyła na bochenek. Dom już się obudził, chociaż nikt nie ogłosił powstania. Na schodach skrzypi
 
 ### pl/books/radiance/song/index.html
 
 - lang: pl
 - section: books
 - title: Ashraellen — Pieśń | Blask, Księga II
-- description: Pieśń to Księga II cyklu Blask: powieść o dźwięku, słyszeniu, języku, Warszawie i pieśni, która nie staje się numerem scenicznym.
+- description: „Pieśń” to druga książka z serii „Blask”: rozbudowana strona prezentacyjna powieści o dźwięku, słyszeniu, języku, Warszawie i Pieśń, która nie staje się liczbą.
 - canonical: https://www.ashraellen.com/pl/books/radiance/song/
 - H1: Pieśń
-- H2: Wybrany rozdział | O książce | Bez spoilerów | Rama artystyczno-badawcza | Tematy | Dla kogo | Status językowy i wydawniczy | Dla fundacji, wydawców i partnerów kultury
-- H3: Warszawa jako przestrzeń słyszenia | Instrument bez idola | Ayla i powrót | Pieśń przed pieśnią | Słowo | Słyszenie | Język | Instrument
-- suggested keyword seed: pieśń, blask, ashraellen, bez, books, cyklu, dźwięku, księga, nie, się, artystyczno-badawcza, fundacji, jako, językowy, języku, kogo, książce, książka
-- candidates: nie, się, pieśń, jako, lecz, blask, książka, może, przez, bez, cyklu, dźwięku, miasto, słowo, czy, dźwięk, instrument, język, księga, pieśni, pytanie, sampo, słyszenie, stać
+- H2: Polecany rozdział | O książce | Bez spoilerów | Rama do badań artystycznych | Tematy | Dla kogo | Język i stan publikacji | Dla fundacji, wydawców i partnerów kulturalnych
+- H3: Warszawa jako przestrzeń słuchu | Narzędzie bez idola | Ayla i wróć | Pieśń do Pieśń | Słowo | Słuch | Język | Narzędzie
+- suggested keyword seed: pieśń, ashraellen, bez, blask, books, nie, się, ale, artystycznych, ayla, badań, być, był, była, było, druga, dźwięku, fundacji
+- candidates: nie, się, ale, ayla, było, tak, był, bez, była, marta, być, jej, który, tylko, pieśń, teraz, dźwięk, zbyt, jako, już, może, przez, tego, coś
 
 Excerpt:
 
-> Blask — Północne opowieści o prawdziwej historii świata Pieśń Księga II literacko-filozoficznego cyklu Blask. Powieść o dźwięku, który nie przejmuje władzy: o słyszeniu, języku, mieście, roboczej scenie i pieśni, która nie staje się numerem scenicznym. Po Sampo pytanie o obfitość przechodzi w pytanie o słowo: czy język może stać się nie opinią, nie sporem i nie autoekspresją, lecz formą strojenia? Polska okładka. Ashraellen. Wybrany rozdział Rozdział pierwszy. Zwykły szum Fragment pierwszego rozdziału Warszawa spotkała Aylę nie znakiem, nie widzeniem i nie żadnym godnym kontynuacji dawnego prologu szeptem spod ziemi. Wybrany fragment pokazuje wejście w książkę: nie mistyczny znak, lecz miasto, głośnik, poranek i szum, który nagle przestaje być tłem. O książce dla czytelnika Pieśń kontynuuje cykl Blask nie przez uroczyste objawienie, lecz przez współczesną Warszawę, powrót, codzienny szum
+> Blask - Północne opowieści o prawdziwej historii świata Pieśń Księga II cyklu literacko-filozoficznego „Blask”. Powieść o dźwięku, który nie przejmuje władzy: o słuchu, języku, mieście, scenie pracy i Pieśń, które nie staje się liczbą. Po „Sampo” pytanie o obfitość zostaje zastąpione pytaniem o słowo: czy język może nie stać się opinią, nie argumentem, nie autoekspresją, ale formą dostosowania? Polska okładka. Ashraellen. Polecany rozdział Rozdział pierwszy. Normalny hałas Kompletny rozdział pierwszy: Powrót Ayli do Warszawy, zwykły miejski zgiełk i pierwsza przerwa pomiędzy dźwiękiem jako pracą a słyszeniem jako postawą. Otwórz rozdział Zamknij rozdział Warszawa spotkała Aylę nie znakiem, nie wizją, ani jakimś szeptem z podziemia godnym kontynuacji starożytnego prologu. Warszawa przywitała ją zapowiedzią w pociągu. Najpierw delikatne kliknięcie w głośniku, potem kobiecy głos, zbyt uprze
 
 ### pl/books/seccus/index.html
 
@@ -6816,6 +7056,57 @@ Excerpt:
 Excerpt:
 
 > SLUDGE SLUDGE é uma distopia filosófica sobre um mundo em que a pressão já não se parece com uma parede: infiltra-se na vida cotidiana, na linguagem e no corpo, desfaz limites e transforma a pessoa em material do ambiente. Volume II da trilogia MONOLITH: deformação viscosa, desgaste da resistência e cumplicidade como hábito. Dossiê Volume II Uma pessoa não se quebra de uma vez. Primeiro se cansa de resistir. Depois começa a concordar. DOSSIÊ N.º 2026-001B. Índice: 6666548A. STATUS: Ultrassecreto. Ler a edição russa no Google Play Books Ler a edição inglesa na Amazon Voltar a MONOLITH Trecho selecionado Capítulo 6 / § 6.2 Capítulo 6. Primeiros passos através de SLUDGE. § 6.2. Armazéns de Preservação de Fragmentos O trecho mostra como a necessidade comum, o procedimento ritualizado, o medo, o silêncio e a cumplicidade se tornam a matéria cotidiana de SLUDGE. Abrir o trecho completo Capítul
+
+### pt/books/radiance/index.html
+
+- lang: pt
+- section: books
+- title: Ashraellen — Esplendor | Contos do norte sobre a história real do mundo
+- description: “Esplendor” é um ciclo literário e filosófico artístico e de pesquisa sobre como as histórias antigas preservam instruções figurativas para o mundo.
+- canonical: https://www.ashraellen.com/pt/books/radiance/
+- H1: Esplendor
+- H2: O que é “Esplendor” | Livros da série | Quadro de pesquisa artística | Cartão de instruções | Para quem é este projeto? | O que é importante não confundir
+- H3: Livro I - Sampo | Livro II - Canto | Livro III - Forja | Para leitores | Para parceiros
+- suggested keyword seed: esplendor, instruções, mundo, para, que, sobre, ashraellen, books, ciclo, como, não, pesquisa, antigas, artística, artístico, cartão, confundir, contos
+- candidates: uma, que, livro, sobre, como, esplendor, instruções, mundo, para, ciclo, forma, não, antigas, com, histórias, norte, palavra, pesquisa, pode, projeto, responsabilidade, sampo, série, aberto
+
+Excerpt:
+
+> Ciclo literário e filosófico / artistic research through fiction Esplendor Contos do norte sobre a história real do mundo. Um ciclo de longo prazo em que uma forma de arte se torna um modo de exploração. Não recontamos "Kalevala". Mostramos ao mundo de onde essas histórias podem surgir. Livros da série Quadro de estudo O que é “Esplendor” curto Épicos, contos de fadas e histórias antigas de diferentes povos podem ser lidos como diferentes linguagens figurativas de acesso ao conhecimento profundo. Cada povo recebeu seus instrumentos e instruções de forma adequada à sua terra, língua, memória, dor, clima, trabalho e modo de ouvir o mundo. Radiância / "Esplendor" é uma série de pesquisa artística literária e filosófica sobre como histórias antigas preservam instruções imaginativas para o mundo. O material finlandês-carélico e Kalevala é a principal coluna norte do ciclo. Estamos tentando en
+
+### pt/books/radiance/sampo/index.html
+
+- lang: pt
+- section: books
+- title: Ashraellen — Sampo | Esplendor, livro I
+- description: “Sampo” é o primeiro livro da série “Esplendor”: um conto literário e filosófico do norte sobre abundância, propriedade, participação e um mundo onde o mito ainda não foi separado do trabalho.
+- canonical: https://www.ashraellen.com/pt/books/radiance/sampo/
+- H1: Sampo
+- H2: Capítulo em destaque | Sobre o livro | Sem spoilers | Quadro de pesquisa artística | Tópicos | Para quem | Idioma e status de publicação | Para fundações, editoras e parceiros culturais
+- H3: Casa norte | Coisa e fonte | Ivar e Mera | Mito antes do mito | Abundância | Propriedade | Participação | Trabalho e milagre
+- suggested keyword seed: sampo, livro, para, ashraellen, books, esplendor, não, sobre, abundância, ainda, artística, capítulo, com, como, conto, culturais, destaque, editoras
+- candidates: não, que, para, ele, uma, com, ela, sofia, como, mas, estava, mais, nick, olhou, disse, pão, mão, thomas, você, por, sem, pegou, manhã, quase
+
+Excerpt:
+
+> Esplendor - Contos do norte sobre a história real do mundo Sampo Livro I do ciclo literário e filosófico “Esplendor”. Uma lenda nortenha sobre uma coisa que acabou por ser mais do que uma coisa: sobre abundância, posse, participação e paz, onde o mito ainda não se separou do trabalho, do frio, do lar e do fogo. Não recontamos "Kalevala". Mostramos ao mundo de onde essas histórias podem surgir. Capa russa. Ashraellen. Capítulo em destaque Capítulo Três. Pedaço A manhã seguinte à primeira noite impossível: pão, terra, lenha e uma tentativa humana de perceber onde termina a oferta e começa a participação. Abrir capítulo Fechar capítulo De manhã o pão estava na mesa como se nada tivesse acontecido durante a noite. Foi quase atrevido. Sofia parou na porta da cozinha e ficou alguns segundos olhando para o pão sem entrar. A casa já havia acordado, embora ninguém anunciasse a subida. Passos rang
+
+### pt/books/radiance/song/index.html
+
+- lang: pt
+- section: books
+- title: Ashraellen — Canto | Esplendor, livro II
+- description: “Canto” é o segundo livro da série “Esplendor”: uma página de apresentação estendida de um romance sobre som, audição, linguagem, Varsóvia e Canto, que não se torna um número.
+- canonical: https://www.ashraellen.com/pt/books/radiance/song/
+- H1: Canto
+- H2: Capítulo em destaque | Sobre o livro | Sem spoilers | Quadro de pesquisa artística | Tópicos | Para quem | Idioma e status de publicação | Para fundações, editoras e parceiros culturais
+- H3: Varsóvia como espaço de audiência | Ferramenta sem ídolo | Ayla e retorno | Canto para Canto | Palavra | Audição | Idioma | Ferramenta
+- suggested keyword seed: canto, livro, para, ashraellen, books, esplendor, não, que, sem, sobre, uma, apresentação, artística, audição, ayla, capítulo, com, como
+- candidates: não, que, uma, ela, com, para, mas, ayla, como, por, você, sem, ser, estava, era, som, mais, foi, sobre, ele, muito, está, pessoa, quase
+
+Excerpt:
+
+> Esplendor - Contos do norte sobre a história real do mundo Canto Livro II do ciclo literário e filosófico “Esplendor”. Um romance sobre o som que não toma poder: sobre a audição, a linguagem, a cidade, o cenário do trabalho e Canto, que não vira número. Depois de “Sampo” a questão da abundância é substituída pela questão da palavra: pode a linguagem tornar-se não uma opinião, não um argumento, não uma auto-expressão, mas uma forma de personalização? Capa russa. Ashraellen. Capítulo em destaque Capítulo Um. Ruído normal Primeiro capítulo completo: o retorno de Ayla a Varsóvia, o barulho comum da cidade e a primeira ruptura entre o som como trabalho e a audição como atitude. Abrir capítulo Fechar capítulo Varsóvia encontrou Ayla não com um sinal, não com uma visão, e não com algum sussurro do subsolo digno de uma continuação do antigo prólogo. Varsóvia a cumprimentou com um anúncio no trem
 
 ### pt/books/seccus/index.html
 
@@ -9009,6 +9300,57 @@ Excerpt:
 Excerpt:
 
 > SLUDGE SLUDGE — філософська антиутопія про світ, де тиск більше не схожий на стіну: він просочується в побут, мову й тіло, розмиває межі та перетворює людину на матеріал середовища. Том II трилогії MONOLITH: в’язка деформація, втома опору та співучасть як звичка. Справа Том II Людина не ламається одразу. Спочатку вона втомлюється чинити опір. Потім починає погоджуватися. СПРАВА № 2026-001B. Індекс: 6666548A. СТАТУС: Цілком таємно. Читати російське видання в Google Play Books Читати англійське видання на Amazon Назад до MONOLITH Вибраний фрагмент Розділ 6 / § 6.2 Розділ 6. Перші кроки крізь SLUDGE. § 6.2. Склади Збереження Уламків Фрагмент показує, як звичайна потреба, ритуалізована процедура, страх, мовчання та співучасть стають повсякденною матерією SLUDGE. Відкрити повний фрагмент Розділ 6. Перші кроки по Жижі. § 6.2. Склади Збереження Уламків На сніданок їм дали кашу. Не їжу в людсько
+
+### uk/books/radiance/index.html
+
+- lang: uk
+- section: books
+- title: Ashraellen — Сяйво | Північні оповіді про справжню історію світу
+- description: «Сяйво» — літературно-філософський художньо-дослідницький цикл про те, як давні історії зберігають образні інструкції до світу.
+- canonical: https://www.ashraellen.com/uk/books/radiance/
+- H1: Сяйво
+- H2: Що таке «Сяйво» | Книги циклу | Художньо-дослідницька рамка | Карта інструкцій | Для кого цей проект | Що важливо не переплутати
+- H3: Книга I - САМПО | Книга II - Пісня | Книга III - Кузня | Читачам | Партнерам
+- suggested keyword seed: сяйво, про, ashraellen, books, інструкції, історії, літературно-філософський, світу, цикл, циклу, radiance, важливо, відповідальність, давні, зберігають, інструкцій, історію, карта
+- candidates: про, сяйво, цикл, книга, слово, форма, циклу, відповідальність, інструкції, історії, літературно-філософський, може, сампо, світу, без, давні, достаток, знання, книги, налаштування, образні, пісня, повернення, проект
+
+Excerpt:
+
+> Літературно-філософський цикл / artistic research through fiction Сяйво Північні оповіді про справжню історію світу. Довгостроковий цикл, у якому художня форма стає способом дослідження. Ми не переказуємо «Kalevala». Ми показуємо світ, із якого такі історії могли виникнути. Книги циклу Рамка дослідження Що таке «Сяйво» коротко Епоси, казки та давні історії різних народів можна читати як різні образні мови доступу до глибинного знання. Кожен народ отримав свої інструменти та інструкції у формі, що відповідає його землі, мові, пам'яті, болю, клімату, праці та способу чути світ. Radiance / «Сяйво» - це літературно-філософський художньо-дослідницький цикл про те, як давні історії зберігають образні інструкції до світу. Фінсько-карельський та Kalevala матеріал є головним північним хребтом циклу. Ми намагаємося зрозуміти, який людський досвід зробив ці образи потрібними — і чи може художня фор
+
+### uk/books/radiance/sampo/index.html
+
+- lang: uk
+- section: books
+- title: Ashraellen — САМПО | Сяйво, книга I
+- description: «САМПО» — перша книга циклу «Сяйво»: північна літературно-філософська оповідь про достаток, володіння, участь і світ, де міф ще не відокремився від праці.
+- canonical: https://www.ashraellen.com/uk/books/radiance/sampo/
+- H1: САМПО
+- H2: Вибраний розділ | Про книгу | Без спойлерів | Художньо-дослідницька рамка | Теми | Для кого | Мовний та видавничий статус | Для фондів, видавців та культурних партнерів
+- H3: Північний будинок | Річ та джерело | Івар та міра | Міф до міфу | Достаток | Володіння | Участь | Праця та диво
+- suggested keyword seed: сампо, ashraellen, books, книга, про, сяйво, radiance, sampo, але, без, біля, було, вибраний, видавничий, видавців, від, відокремився, він
+- candidates: він, софія, вона, нік, але, так, потім, біля, було, сказав, майже, хліб, його, томас, все, про, був, нора, просто, без, надто, була, вже, івар
+
+Excerpt:
+
+> Сяйво — Північні оповіді про справжню історію світу САМПО Книга I літературно-філософського циклу "Сяйво". Північна оповідь про річ, яка виявилася більшою за річ: про достаток, володіння, участь і світ, де міф ще не відокремився від праці, холоду, будинку та вогню. Ми не переказуємо «Kalevala». Ми показуємо світ, із якого такі історії могли виникнути. Російська обкладинка. Ashraellen. Вибраний розділ Розділ третій. Ломота Ранок після першої неможливої ночі: хліб, земля, дрова та людська спроба зрозуміти, де закінчується запас і починається участь. Відкрити розділ Закрити розділ Зранку хліб лежав на столі так, ніби вночі нічого не сталося. Це було майже зухвало. Софія зупинилася у дверях кухні і кілька секунд дивилася на буханець, не входячи. Будинок уже прокинувся, хоча ніхто не оголошував підйому. Сходами рипіли кроками, в трубах сердито проходила вода, десь грюкнули двері, хтось кашлян
+
+### uk/books/radiance/song/index.html
+
+- lang: uk
+- section: books
+- title: Ashraellen — Пісня | Сяйво, книга II
+- description: «Пісня» — друга книга циклу «Сяйво»: розширена презентаційна сторінка роману про звук, чуння, мову, Варшаву та Пісня, яка не стає номером.
+- canonical: https://www.ashraellen.com/uk/books/radiance/song/
+- H1: Пісня
+- H2: Вибраний розділ | Про книгу | Без спойлерів | Художньо-дослідницька рамка | Теми | Для кого | Мовний та видавничий статус | Для фондів, видавців та культурних партнерів
+- H3: Варшава як чуючий простір | Інструмент без ідола | Айла та повернення | Пісня до Пісня | Слово | Чутки | Мова | Інструмент
+- suggested keyword seed: пісня, про, ashraellen, books, звук, книга, сяйво, radiance, song, айла, але, без, була, було, варшаву, вибраний, видавничий, видавців
+- candidates: вона, айла, але, було, так, була, просто, про, потім, він, звук, майже, який, без, його, був, знову, пісня, бути, яка, все, можна, після, людина
+
+Excerpt:
+
+> Сяйво — Північні оповіді про справжню історію світу Пісня Книга II літературно-філософського циклу "Сяйво". Роман про звук, який не бере владу: про чуння, мову, місто, робочу сцену та Пісня, яка не стає номером. Після «САМПО» питання достатку змінюється питанням слова: чи може мова стати не думкою, не суперечкою і самовираженням, а формою налаштування? Російська обкладинка. Ashraellen. Вибраний розділ Розділ перший. Звичайний шум Повний перший розділ: повернення Айли до Варшави, звичайний міський шум і перший розрив між звуком як роботою та чунням як ставленням. Відкрити розділ Закрити розділ Варшава зустріла Айлу не знайомим, не баченням і не якимось гідним продовження стародавнього прологу пошепки з-під землі. Варшава зустріла її оголошенням у поїзді. Спочатку тонке клацання в динаміці, потім жіночий голос, надто ввічливий для шостої ранку, повідомив щось про наступну станцію, пересадк
 
 ### uk/books/seccus/index.html
 

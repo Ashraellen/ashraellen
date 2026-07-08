@@ -22,7 +22,19 @@
   </url>
   <url>
     <loc>https://www.ashraellen.com/be/books/monolith/sludge/</loc>
-    <lastmod>2026-07-07T15:44:52Z</lastmod>
+    <lastmod>2026-07-07T16:54:37Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/be/books/radiance/</loc>
+    <lastmod>2026-07-08T09:09:40+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/be/books/radiance/sampo/</loc>
+    <lastmod>2026-07-08T09:09:40+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/be/books/radiance/song/</loc>
+    <lastmod>2026-07-08T09:09:40+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/be/books/seccus/</loc>
@@ -254,7 +266,19 @@
   </url>
   <url>
     <loc>https://www.ashraellen.com/de/books/monolith/sludge/</loc>
-    <lastmod>2026-07-07T15:37:38Z</lastmod>
+    <lastmod>2026-07-07T16:54:37Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/de/books/radiance/</loc>
+    <lastmod>2026-07-08T09:09:40+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/de/books/radiance/sampo/</loc>
+    <lastmod>2026-07-08T09:09:40+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/de/books/radiance/song/</loc>
+    <lastmod>2026-07-08T09:09:40+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/de/books/seccus/</loc>
@@ -470,7 +494,7 @@
   </url>
   <url>
     <loc>https://www.ashraellen.com/en/</loc>
-    <lastmod>2026-07-07T15:03:03+02:00</lastmod>
+    <lastmod>2026-07-07T16:54:37Z</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/en/books/</loc>
@@ -494,19 +518,19 @@
   </url>
   <url>
     <loc>https://www.ashraellen.com/en/books/monolith/sludge/</loc>
-    <lastmod>2026-07-07T15:44:52Z</lastmod>
+    <lastmod>2026-07-07T16:54:37Z</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/en/books/radiance/</loc>
-    <lastmod>2026-06-30T13:22:35Z</lastmod>
+    <lastmod>2026-07-08T09:09:40+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/en/books/radiance/sampo/</loc>
-    <lastmod>2026-06-30T13:22:35Z</lastmod>
+    <lastmod>2026-07-08T09:09:40+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/en/books/radiance/song/</loc>
-    <lastmod>2026-06-30T13:22:35Z</lastmod>
+    <lastmod>2026-07-08T09:09:40+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/en/books/seccus/</loc>
@@ -534,11 +558,11 @@
   </url>
   <url>
     <loc>https://www.ashraellen.com/en/professional/</loc>
-    <lastmod>2026-07-07T15:47:00+02:00</lastmod>
+    <lastmod>2026-07-07T16:54:37Z</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/en/public/</loc>
-    <lastmod>2026-07-07T15:03:54+02:00</lastmod>
+    <lastmod>2026-07-07T16:54:37Z</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/en/public/posts/</loc>
@@ -738,7 +762,19 @@
   </url>
   <url>
     <loc>https://www.ashraellen.com/es/books/monolith/sludge/</loc>
-    <lastmod>2026-07-07T15:44:52Z</lastmod>
+    <lastmod>2026-07-07T16:54:37Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/es/books/radiance/</loc>
+    <lastmod>2026-07-08T09:09:40+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/es/books/radiance/sampo/</loc>
+    <lastmod>2026-07-08T09:09:40+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/es/books/radiance/song/</loc>
+    <lastmod>2026-07-08T09:09:40+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/es/books/seccus/</loc>
@@ -961,6 +997,10 @@
     <lastmod>2026-06-30T13:22:35Z</lastmod>
   </url>
   <url>
+    <loc>https://www.ashraellen.com/focus-group/books/Error404/</loc>
+    <lastmod>2026-07-07T23:02:23Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.ashraellen.com/fr/</loc>
     <lastmod>2026-06-30T13:22:35Z</lastmod>
   </url>
@@ -978,7 +1018,19 @@
   </url>
   <url>
     <loc>https://www.ashraellen.com/fr/books/monolith/sludge/</loc>
-    <lastmod>2026-07-07T15:37:38Z</lastmod>
+    <lastmod>2026-07-07T16:54:37Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/fr/books/radiance/</loc>
+    <lastmod>2026-07-08T09:09:40+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/fr/books/radiance/sampo/</loc>
+    <lastmod>2026-07-08T09:09:40+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/fr/books/radiance/song/</loc>
+    <lastmod>2026-07-08T09:09:40+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/fr/books/seccus/</loc>
@@ -1222,19 +1274,19 @@
   </url>
   <url>
     <loc>https://www.ashraellen.com/pl/books/monolith/sludge/</loc>
-    <lastmod>2026-07-07T15:37:38Z</lastmod>
+    <lastmod>2026-07-07T16:54:37Z</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/pl/books/radiance/</loc>
-    <lastmod>2026-06-30T13:22:35Z</lastmod>
+    <lastmod>2026-07-08T09:09:40+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/pl/books/radiance/sampo/</loc>
-    <lastmod>2026-06-30T13:22:35Z</lastmod>
+    <lastmod>2026-07-08T09:09:40+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/pl/books/radiance/song/</loc>
-    <lastmod>2026-06-30T13:22:35Z</lastmod>
+    <lastmod>2026-07-08T09:09:40+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/pl/books/seccus/</loc>
@@ -1466,7 +1518,19 @@
   </url>
   <url>
     <loc>https://www.ashraellen.com/pt/books/monolith/sludge/</loc>
-    <lastmod>2026-07-07T15:44:52Z</lastmod>
+    <lastmod>2026-07-07T16:54:37Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/pt/books/radiance/</loc>
+    <lastmod>2026-07-08T09:09:40+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/pt/books/radiance/sampo/</loc>
+    <lastmod>2026-07-08T09:09:40+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/pt/books/radiance/song/</loc>
+    <lastmod>2026-07-08T09:09:40+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/pt/books/seccus/</loc>
@@ -1982,7 +2046,19 @@
   </url>
   <url>
     <loc>https://www.ashraellen.com/uk/books/monolith/sludge/</loc>
-    <lastmod>2026-07-07T15:37:38Z</lastmod>
+    <lastmod>2026-07-07T16:54:37Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/uk/books/radiance/</loc>
+    <lastmod>2026-07-08T09:09:40+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/uk/books/radiance/sampo/</loc>
+    <lastmod>2026-07-08T09:09:40+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/uk/books/radiance/song/</loc>
+    <lastmod>2026-07-08T09:09:40+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/uk/books/seccus/</loc>
