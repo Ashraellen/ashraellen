@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-09T11:28:40.197Z",
+  "generated": "2026-07-09T11:29:18.392Z",
   "pages": [
     {
       "page": "be/books/error-404-god-not-found/index.html",
@@ -14082,6 +14082,82 @@
         "filosófico-satírico",
         "forma",
         "found"
+      ]
+    },
+    {
+      "page": "es/books/error-404-god-not-found/why-me/index.html",
+      "lang": "es",
+      "section": "books",
+      "title": "Ashraellen — ¿Por qué yo?",
+      "description": "¿Por qué yo? — Libro I del ciclo Error 404: Dios no encontrado. Una novela filosófico-satírica sobre dolor, reclamación, fe, burocracia del alma y Cancillería Celestial.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/es/books/error-404-god-not-found/why-me/",
+      "h1": [
+        "¿Por qué yo?"
+      ],
+      "h2": [
+        "Sobre el libro",
+        "Fragmento"
+      ],
+      "h3": [
+        "Capítulo primero. Error 404"
+      ],
+      "slugTerms": [
+        "es",
+        "books",
+        "error",
+        "god",
+        "not",
+        "found",
+        "why",
+        "me"
+      ],
+      "excerpt": "¿Por qué yo? Libro I del ciclo Error 404: Dios no encontrado . Una novela filosófico-satírica sobre dolor, reclamación, fe, burocracia del alma y Cancillería Celestial. Sobre el libro en preparación para impresión En preparación ¿Por qué yo? es el primer libro del ciclo Error 404: Dios no encontrado . Es la historia de Vlad, abogado y solicitante irritado contra el Universo, que intenta convertir su dolor en una reclamación correctamente formulada. Vlad no busca iluminación. Quiere explicaciones, preferiblemente por escrito, con firma, sello, número de expediente y posibilidad de apelación. Pero la Cancillería Celestial no funciona como un departamento de compensaciones. Registra la solicitud, aclara la categoría y muestra poco a poco que el error puede no estar en la falta de respuesta, sino en la propia forma de buscar. Fragmento Capítulo primero — Error 404 Capítulo primero. Error 404",
+      "candidates": [
+        "por",
+        "una",
+        "404",
+        "error",
+        "del",
+        "dios",
+        "que",
+        "qué",
+        "sobre",
+        "cancillería",
+        "celestial",
+        "encontrado",
+        "libro",
+        "los",
+        "solicitud",
+        "alma",
+        "burocracia",
+        "capítulo",
+        "ciclo",
+        "dolor",
+        "luego",
+        "primero",
+        "reclamación",
+        "respuesta"
+      ],
+      "suggestedKeywordSeed": [
+        "por",
+        "qué",
+        "del",
+        "error",
+        "sobre",
+        "404",
+        "ashraellen",
+        "books",
+        "cancillería",
+        "celestial",
+        "dios",
+        "encontrado",
+        "libro",
+        "una",
+        "alma",
+        "burocracia",
+        "ciclo",
+        "dolor"
       ]
     },
     {
@@ -28343,6 +28419,81 @@
         "privacy.html",
         "redirection",
         "user"
+      ]
+    },
+    {
+      "page": "pt/books/error-404-god-not-found/index.html",
+      "lang": "pt",
+      "section": "books",
+      "title": "Ashraellen — Erro 404: Deus não encontrado",
+      "description": "Erro 404: Deus não encontrado — um ciclo romanesco filosófico-satírico sobre a Chancelaria Celestial, a reclamação humana contra o Universo e o erro de busca.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/pt/books/error-404-god-not-found/",
+      "h1": [
+        "Erro 404: Deus não encontrado"
+      ],
+      "h2": [
+        "Série",
+        "Livros do ciclo",
+        "Frase da série"
+      ],
+      "h3": [
+        "Livro I — Por que eu?"
+      ],
+      "slugTerms": [
+        "pt",
+        "books",
+        "error",
+        "god",
+        "not",
+        "found"
+      ],
+      "excerpt": "Erro 404: Deus não encontrado Um ciclo romanesco filosófico-satírico sobre a Chancelaria Celestial, a reclamação humana contra o Universo e o erro de busca que começa não em Deus, mas na forma de se dirigir. Série casos da Chancelaria Celestial Deus “não foi encontrado” não porque Ele não exista. Deus não é encontrado porque o ser humano O procura como objeto, endereço, instância, prova, justificativa ou serviço de apoio. Erro 404: Deus não encontrado é um ciclo de romances sobre pessoas que tentam encontrar Deus, a Verdade, a justiça, o sentido ou uma resposta, mas procuram através da forma distorcida do próprio medo, dor, profissão, fé, conhecimento ou autoengano. Livros do ciclo estrutura atual Livro I — Por que eu? Vlad, advogado e requerente irritado contra o Universo, tenta transformar a dor em documento. Abrir livro Frase da série fórmula O erro não está em Deus. O erro está na fo",
+      "candidates": [
+        "não",
+        "deus",
+        "erro",
+        "encontrado",
+        "404",
+        "ciclo",
+        "celestial",
+        "chancelaria",
+        "contra",
+        "forma",
+        "que",
+        "sobre",
+        "universo",
+        "busca",
+        "dor",
+        "está",
+        "filosófico-satírico",
+        "humana",
+        "livro",
+        "mas",
+        "porque",
+        "reclamação",
+        "romanesco",
+        "série"
+      ],
+      "suggestedKeywordSeed": [
+        "erro",
+        "404",
+        "deus",
+        "encontrado",
+        "não",
+        "ciclo",
+        "ashraellen",
+        "books",
+        "celestial",
+        "chancelaria",
+        "contra",
+        "série",
+        "sobre",
+        "busca",
+        "error",
+        "filosófico-satírico",
+        "forma",
+        "found"
       ]
     },
     {
