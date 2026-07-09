@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-09T12:18:35.669Z
+Generated: 2026-07-09T12:19:22.570Z
 Pages: 582
 
 ## Index
@@ -392,7 +392,7 @@ Pages: 582
 | pl/research/projects/index.html | pl | research | Ashraellen — Projekty badawcze | ashraellen, research, projects, projekty, badawcze, mapa, pól, pracy, monolit, główny, kanał, pole, publiczne, satyryczne, boczne, laboratoria, percepcji, instagram | ashraellen, projekty, boczne, monolit, pole, research, bada, badawcze, book, church, człowiek, główny, inner, instagram, jako, kanał, laboratoria, lecz |
 | pl/research/sources/index.html | pl | research | Ashraellen — Źródła i tradycja | ashraellen, research, sources, źródła, tradycja, fenomenologia, świadomości, ciało, narracja, nauki, kognitywne, praktyka, artystyczna, jako, linie, metodologiczne, badania, edmund | jako, ashraellen, ciało, tradycja, źródła, badania, doświadczenie, fenomenologia, research, świadomości, artystyczna, edmund, eleanor, esej, evan, forma, formy, francisco |
 | privacy.html | root | privacy.html | Privacy Policy — Ashraellen | Ashraellen, privacy policy, website privacy, analytics, language redirection, contact data | privacy, ashraellen, analytics, ashraellen.com, basic, contact, data, handles, how, including, information, policy, language, privacy.html, redirection, user |
-| pt/books/error-404-god-not-found/index.html | pt | books | Ashraellen — Erro 404: Deus não encontrado | _missing_ | erro, 404, deus, encontrado, não, ciclo, ashraellen, books, celestial, chancelaria, contra, série, sobre, busca, error, filosófico-satírico, forma, found |
+| pt/books/error-404-god-not-found/index.html | pt | books | Ashraellen — Erro 404: Deus não encontrado | _missing_ | erro, 404, deus, encontrado, não, ciclo, ashraellen, books, celestial, chancelaria, série, sobre, busca, contra, error, filosófico-satírico, forma, found |
 | pt/books/error-404-god-not-found/why-me/index.html | pt | books | Ashraellen — Por que eu? | _missing_ | por, que, sobre, 404, ashraellen, books, celestial, chancelaria, deus, encontrado, erro, livro, não, alma, burocracia, ciclo, dor, error |
 | pt/books/index.html | pt | books | Ashraellen — Livros | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | livros, ashraellen, 404, books, livro, sátira, abrir, áudio, book, ciclo, ciclos, error, está, found, god, independentes, monolith, online |
 | pt/books/monolith/beton/index.html | pt | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ashraellen, books, estabilidade, livro, memória, monolith, para, sobre, uma, anton, artístico-investigativa, com, como, dentro, distopia, dossiê, editada |
@@ -7146,13 +7146,13 @@ Excerpt:
 - canonical: https://www.ashraellen.com/pt/books/error-404-god-not-found/
 - H1: Erro 404: Deus não encontrado
 - H2: Série | Livros do ciclo | Frase da série
-- H3: Livro I — Por que eu?
-- suggested keyword seed: erro, 404, deus, encontrado, não, ciclo, ashraellen, books, celestial, chancelaria, contra, série, sobre, busca, error, filosófico-satírico, forma, found
-- candidates: não, deus, erro, encontrado, 404, ciclo, celestial, chancelaria, contra, forma, que, sobre, universo, busca, dor, está, filosófico-satírico, humana, livro, mas, porque, reclamação, romanesco, série
+- H3: Livro I — Por que eu? | Livro II — Sobre tudo, a Sua vontade | Livro III — em preparação
+- suggested keyword seed: erro, 404, deus, encontrado, não, ciclo, ashraellen, books, celestial, chancelaria, série, sobre, busca, contra, error, filosófico-satírico, forma, found
+- candidates: não, deus, erro, uma, celestial, chancelaria, encontrado, livro, ciclo, forma, sobre, 404, busca, preparação, que, caso, contra, humano, mas, nem, nova, requerente, resposta, universo
 
 Excerpt:
 
-> Erro 404: Deus não encontrado Um ciclo romanesco filosófico-satírico sobre a Chancelaria Celestial, a reclamação humana contra o Universo e o erro de busca que começa não em Deus, mas na forma de se dirigir. Série casos da Chancelaria Celestial Deus “não foi encontrado” não porque Ele não exista. Deus não é encontrado porque o ser humano O procura como objeto, endereço, instância, prova, justificativa ou serviço de apoio. Erro 404: Deus não encontrado é um ciclo de romances sobre pessoas que tentam encontrar Deus, a Verdade, a justiça, o sentido ou uma resposta, mas procuram através da forma distorcida do próprio medo, dor, profissão, fé, conhecimento ou autoengano. Livros do ciclo estrutura atual Livro I — Por que eu? Vlad, advogado e requerente irritado contra o Universo, tenta transformar a dor em documento. Abrir livro Frase da série fórmula O erro não está em Deus. O erro está na fo
+> Erro 404: Deus não encontrado Um ciclo romanesco filosófico-satírico sobre a Chancelaria Celestial, a reclamação humana contra o Universo e o erro de busca que começa não em Deus, mas na forma de se dirigir. Série casos da Chancelaria Celestial Deus “não foi encontrado” não porque Ele não exista. Deus não é encontrado porque o ser humano O procura como objeto, endereço, instância, prova, justificativa ou serviço de apoio. Erro 404: Deus não encontrado é um ciclo de romances filosófico-satíricos sobre pessoas que tentam encontrar Deus, a Verdade, a justiça, o sentido ou uma resposta, mas procuram através da forma distorcida do próprio medo, dor, profissão, fé, conhecimento ou autoengano. A Chancelaria Celestial aqui não é um lugar, nem uma instituição, nem uma aplicação, nem uma burocracia fantástica. É um estado através do qual a pessoa encontra o próprio pedido dirigido a Deus, à vida, 
 
 ### pt/books/error-404-god-not-found/why-me/index.html
 
