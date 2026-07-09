@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-09T11:29:42.556Z
+Generated: 2026-07-09T12:04:50.055Z
 Pages: 582
 
 ## Index
@@ -134,7 +134,7 @@ Pages: 582
 | de/research/projects/index.html | de | research | Ashraellen — Forschungsprojekte | ashraellen, research, projects, forschungsprojekte, eine, karte, der, arbeitsfelder, von, monolith, hauptkanal, öffentliches, feld, satirische, projekte, und, seitenlabore, wahrnehmung | ashraellen, der, eine, monolith, projekte, research, und, von, als, arbeitsfelder, book, church, das, die, ein, feld, forschungsprojekte, hauptkanal |
 | de/research/sources/index.html | de | research | Ashraellen — Quellen und Tradition | ashraellen, research, sources, quellen, und, tradition, von, phänomenologie, des, bewusstseins, körper, narration, kognitionswissenschaft, künstlerische, praxis, als, methodische, linien | und, als, der, ashraellen, des, körper, quellen, tradition, erfahrung, forschung, research, bewusstsein, bewusstseins, das, die, edmund, eine, eleanor |
 | en/books/error-404-god-not-found/index.html | en | books | Ashraellen — Error 404: God Not Found | ashraellen, books, error, 404, god, found, multilingual, philosophical-satirical, novel, cycle, about, heavenly, chancellery, human, complaint, against, universe, searching | error, god, found, 404, books, cycle, about, against, ashraellen, chancellery, heavenly, human, searching, series, begins, book, complaint, multilingual |
-| en/books/error-404-god-not-found/why-me/index.html | en | books | Ashraellen — Why Me? | ashraellen, books, error, 404, god, found, why, book, cycle, philosophical-satirical, novel, about, man, who, files, complaint, against, receives | why, book, god, error, about, ashraellen, books, found, 404, against, answer, chancellery, complaint, cycle, did, excerpt, files, had |
+| en/books/error-404-god-not-found/why-me/index.html | en | books | Ashraellen — Why Me? | _missing_ | why, book, error, god, about, ashraellen, books, found, 404, appeal, bureaucracy, chancellery, complaint, did, excerpt, faith, had, heavenly |
 | en/books/index.html | en | books | Ashraellen — Books | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | books, book, ashraellen, 404, god, research, satire, about, already, audio, cycle, cycles, error, found, monolith, novel, online, open |
 | en/books/monolith/beton/index.html | en | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, monolith, about, ashraellen, book, books, crack, first, memory, stability, system, anton, artistic-research, case, dystopia, edited, excerpt, file |
 | en/books/monolith/index.html | en | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ashraellen, beton, books, collapse, control, gas, memory, sludge, what, about, artistic-research, confused, crack, dystopian, fear, first, form |
@@ -2756,17 +2756,17 @@ Excerpt:
 - lang: en
 - section: books
 - title: Ashraellen — Why Me?
-- description: Why Me? — Book I of the Error 404: God Not Found cycle. A philosophical-satirical novel about a man who files a complaint against God and receives an answer from the Heavenly Chancellery.
+- description: Why Me? — Book I of Error 404: God Not Found. A philosophical-satirical novel about pain, complaint, faith, the bureaucracy of the soul and the Heavenly Chancellery.
 - canonical: https://www.ashraellen.com/en/books/error-404-god-not-found/why-me/
 - H1: Why Me?
 - H2: About the book | Theme of the book | Layers of meaning | Excerpt
 - H3: Chapter One. Error 404
-- suggested keyword seed: why, book, god, error, about, ashraellen, books, found, 404, against, answer, chancellery, complaint, cycle, did, excerpt, files, had
-- candidates: had, then, vlad, god, was, why, book, did, error, his, more, phone, request, said, who, 404, again, inside, like, long, one, about, cross, does
+- suggested keyword seed: why, book, error, god, about, ashraellen, books, found, 404, appeal, bureaucracy, chancellery, complaint, did, excerpt, faith, had, heavenly
+- candidates: had, then, vlad, was, god, why, book, did, appeal, error, his, phone, said, 404, again, inside, like, long, more, one, pain, who, about, cross
 
 Excerpt:
 
-> Why Me? Book I of the cycle Error 404: God Not Found . A philosophical-satirical novel about pain, complaint, faith, the bureaucracy of the soul, and the Heavenly Chancellery, which answers not the wording of the appeal, but the one who submits it. About the book preparing for print Preparing for print Why Me? is the first book of the cycle Error 404: God Not Found . It is the story of Vlad, a lawyer and an irritated claimant against the Universe, who tries to turn his own pain into a properly formatted complaint. Vlad is not looking for enlightenment. He wants explanations. Preferably in writing, with a signature, a stamp, a case number, and the possibility of appeal. He is convinced that suffering gives him the right to demand an answer, and that life should at least acknowledge a procedural violation. But the Heavenly Chancellery does not work like a compensation department. It does n
+> Why Me? Book I of the cycle Error 404: God Not Found . A philosophical-satirical novel about pain, complaint, faith, the bureaucracy of the soul, and the Heavenly Chancellery, which answers not the wording of the appeal, but the one who submits it. About the book preparing for print Preparing for print Why Me? is the first book of the cycle Error 404: God Not Found . It is the story of Vlad, a lawyer and irritated claimant against the Universe, who tries to turn his own pain into a properly formatted complaint. Vlad is not looking for enlightenment. He wants explanations. Preferably in writing, with a signature, stamp, case number and the possibility of appeal. He is convinced that suffering gives him the right to demand an answer, and that life should at least acknowledge a procedural violation. But the Heavenly Chancellery does not work like a compensation department. It does not argue
 
 ### en/books/index.html
 
