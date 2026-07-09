@@ -98,7 +98,6 @@ jobs:
               ('presentations artistic research through fiction.', 'presentations of artistic research through fiction.'),
           ])
 
-          # focused high-risk processing-artifact sweep in other protected target files only
           touched = []
           for lang in ['pl','be','uk','de','fr','es','pt']:
               for book in ['sampo','song']:
@@ -135,3 +134,4 @@ jobs:
           else
             echo "No protected patch changes"
           fi
+# trigger 2026-07-09 stage04 protected patch
