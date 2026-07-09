@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-09T12:04:50.055Z
+Generated: 2026-07-09T12:05:56.442Z
 Pages: 582
 
 ## Index
@@ -329,7 +329,7 @@ Pages: 582
 | index.html | root | index.html | Ashraellen — Entry | Ashraellen, Nikolai Kostyshev, books, research, public texts, multilingual archive, literary-philosophical research, inner observation | ashraellen, audiobooks, books, choose, inner, language, observation, public, research, texts, videos, your, entry, index, index.html |
 | monolith/index.html | root | monolith | MONOLITH — Ashraellen | ashraellen, monolith, language, gateway, beton, sludge, gas, doctype, html, title, function, var, routes, languages, navigator.languages, navigator.language, target, routes.en | monolith, language, ashraellen, detecting, deutsch, english, español, français, polski, português, беларуская, определение, русский, beton, gas, gateway, sludge, українська |
 | pl/books/error-404-god-not-found/index.html | pl | books | Ashraellen — Błąd 404: Boga nie znaleziono | ashraellen, books, error, 404, god, found, błąd, boga, nie, znaleziono, wielojęzyczny, filozoficzno-satyryczny, cykl, powieściowy, niebiańskiej, kancelarii, ludzkiej, pretensji | nie, 404, błąd, boga, znaleziono, ashraellen, bogu, books, kancelarii, który, niebiańskiej, szukania, albo, błędzie, cykl, cyklu, error, filozoficzno-satyryczny |
-| pl/books/error-404-god-not-found/why-me/index.html | pl | books | Ashraellen — Dlaczego ja? | ashraellen, books, error, 404, god, found, why, dlaczego, pierwsza, księga, cyklu, błąd, boga, nie, znaleziono, filozoficzno-satyryczna, powieść, człowieku | dlaczego, boga, 404, ashraellen, błąd, books, który, nie, ale, cyklu, człowieku, error, filozoficzno-satyryczna, found, fragment, god, jako, kancelarii |
+| pl/books/error-404-god-not-found/why-me/index.html | pl | books | Ashraellen — Dlaczego ja? | _missing_ | dlaczego, ashraellen, błąd, boga, books, nie, 404, albo, ale, biurokracji, bólu, cyklu, duszy, error, filozoficzno-satyryczna, found, fragment, god |
 | pl/books/index.html | pl | books | Ashraellen — Książki | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | książki, 404, ashraellen, ashraellena, błąd, boga, books, nie, satyra, albo, audio, badania, blask, book, cykl, cykle, jesteś, już |
 | pl/books/monolith/beton/index.html | pl | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ashraellen, books, stabilności, systemu, akta, anton, antyutopia, artystyczno-badawcza, bez, filozoficzna, fragment, gdy, jako, jego, kogo, książce, książka |
 | pl/books/monolith/index.html | pl | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ashraellen, beton, books, gas, nie, sludge, antyutopijna, artystyczno-badawcza, czego, czym, forma, fraza, jako, już, kogo, kontroli, lecz |
@@ -6071,13 +6071,13 @@ Excerpt:
 - lang: pl
 - section: books
 - title: Ashraellen — Dlaczego ja?
-- description: Dlaczego ja? — pierwsza księga cyklu Błąd 404: Boga nie znaleziono. Filozoficzno-satyryczna powieść o człowieku, który składa skargę na Boga i otrzymuje odpowiedź od Niebiańskiej Kancelarii.
+- description: Dlaczego ja? — Księga I cyklu Błąd 404: Boga nie znaleziono. Filozoficzno-satyryczna powieść o bólu, pretensji, wierze, biurokracji duszy i Niebiańskiej Kancelarii.
 - canonical: https://www.ashraellen.com/pl/books/error-404-god-not-found/why-me/
 - H1: Dlaczego ja?
 - H2: O książce | Temat książki | Warstwy sensu | Fragment
 - H3: Rozdział pierwszy. Błąd 404
-- suggested keyword seed: dlaczego, boga, 404, ashraellen, błąd, books, który, nie, ale, cyklu, człowieku, error, filozoficzno-satyryczna, found, fragment, god, jako, kancelarii
-- candidates: nie, się, boga, błąd, dlaczego, potem, 404, wład, ale, jako, krzyżyk, który, lecz, może, oto, sobie, albo, ból, cyklu, książka, książki, księga, pierwszy, wnioskodawcy
+- suggested keyword seed: dlaczego, ashraellen, błąd, boga, books, nie, 404, albo, ale, biurokracji, bólu, cyklu, duszy, error, filozoficzno-satyryczna, found, fragment, god
+- candidates: nie, się, potem, wład, boga, albo, dlaczego, ale, błąd, powiedział, tak, telefon, wszystko, 404, był, proszę, znów, bardzo, coś, jako, już, krzyżyk, lecz, ludzie
 
 Excerpt:
 
