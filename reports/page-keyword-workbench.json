@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-09T11:27:39.164Z",
+  "generated": "2026-07-09T11:28:40.197Z",
   "pages": [
     {
       "page": "be/books/error-404-god-not-found/index.html",
@@ -14010,6 +14010,81 @@
       ]
     },
     {
+      "page": "es/books/error-404-god-not-found/index.html",
+      "lang": "es",
+      "section": "books",
+      "title": "Ashraellen — Error 404: Dios no encontrado",
+      "description": "Error 404: Dios no encontrado — un ciclo novelístico filosófico-satírico sobre la Cancillería Celestial, la queja humana contra el Universo y el error de búsqueda.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/es/books/error-404-god-not-found/",
+      "h1": [
+        "Error 404: Dios no encontrado"
+      ],
+      "h2": [
+        "Serie",
+        "Libros del ciclo",
+        "Frase de la serie"
+      ],
+      "h3": [
+        "Libro I — ¿Por qué yo?"
+      ],
+      "slugTerms": [
+        "es",
+        "books",
+        "error",
+        "god",
+        "not",
+        "found"
+      ],
+      "excerpt": "Error 404: Dios no encontrado Un ciclo novelístico filosófico-satírico sobre la Cancillería Celestial, la queja humana contra el Universo y el error de búsqueda que empieza no en Dios, sino en la forma de dirigirse. Serie casos de la Cancillería Celestial Dios “no se encuentra” no porque no exista. Dios no se encuentra porque el ser humano lo busca como objeto, dirección, instancia, prueba, justificación o servicio de soporte. Error 404: Dios no encontrado es un ciclo de novelas sobre personas que intentan encontrar a Dios, la Verdad, la justicia, el sentido o una respuesta, pero buscan a través de la forma deformada de su miedo, dolor, profesión, fe, conocimiento o autoengaño. Libros del ciclo estructura actual Libro I — ¿Por qué yo? Vlad, abogado y solicitante irritado contra el Universo, intenta convertir el dolor en documento. Abrir libro Frase de la serie fórmula El error no está en",
+      "candidates": [
+        "dios",
+        "error",
+        "404",
+        "ciclo",
+        "encontrado",
+        "cancillería",
+        "celestial",
+        "contra",
+        "forma",
+        "sobre",
+        "universo",
+        "búsqueda",
+        "dolor",
+        "encuentra",
+        "está",
+        "filosófico-satírico",
+        "humana",
+        "libro",
+        "novelístico",
+        "porque",
+        "que",
+        "queja",
+        "serie",
+        "abogado"
+      ],
+      "suggestedKeywordSeed": [
+        "error",
+        "404",
+        "dios",
+        "encontrado",
+        "ciclo",
+        "ashraellen",
+        "books",
+        "búsqueda",
+        "cancillería",
+        "celestial",
+        "contra",
+        "serie",
+        "sobre",
+        "universo",
+        "del",
+        "filosófico-satírico",
+        "forma",
+        "found"
+      ]
+    },
+    {
       "page": "es/books/index.html",
       "lang": "es",
       "section": "books",
@@ -18710,6 +18785,157 @@
         "вычитки",
         "где",
         "главы"
+      ]
+    },
+    {
+      "page": "fr/books/error-404-god-not-found/index.html",
+      "lang": "fr",
+      "section": "books",
+      "title": "Ashraellen — Erreur 404 : Dieu introuvable",
+      "description": "Erreur 404 : Dieu introuvable — un cycle romanesque philosophico-satirique sur la Chancellerie céleste, la plainte humaine contre l’Univers et l’erreur de recherche.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/fr/books/error-404-god-not-found/",
+      "h1": [
+        "Erreur 404 : Dieu introuvable"
+      ],
+      "h2": [
+        "Série",
+        "Livres du cycle",
+        "Phrase de la série"
+      ],
+      "h3": [
+        "Livre I — Pourquoi moi ?"
+      ],
+      "slugTerms": [
+        "fr",
+        "books",
+        "error",
+        "god",
+        "not",
+        "found"
+      ],
+      "excerpt": "Erreur 404 : Dieu introuvable Un cycle romanesque philosophico-satirique sur la Chancellerie céleste, la plainte humaine contre l’Univers et l’erreur de recherche qui commence non en Dieu, mais dans la manière de s’adresser. Série dossiers de la Chancellerie céleste Dieu est « introuvable » non parce qu’Il n’existe pas. Dieu est introuvable parce que l’être humain Le cherche comme objet, adresse, instance, preuve, justification ou service d’assistance. Erreur 404 : Dieu introuvable est un cycle de romans sur ceux qui cherchent Dieu, la Vérité, la justice, le sens ou une réponse à travers la forme déformée de leur peur, douleur, profession, foi, savoir ou auto-illusion. Livres du cycle structure actuelle Livre I — Pourquoi moi ? Vlad, juriste et demandeur irrité contre l’Univers, tente de transformer sa douleur en document. Ouvrir le livre Phrase de la série formule L’erreur n’est pas en ",
+      "candidates": [
+        "dieu",
+        "introuvable",
+        "404",
+        "cycle",
+        "erreur",
+        "est",
+        "l’erreur",
+        "céleste",
+        "chancellerie",
+        "contre",
+        "l’univers",
+        "sur",
+        "dans",
+        "douleur",
+        "humaine",
+        "livre",
+        "manière",
+        "non",
+        "parce",
+        "pas",
+        "philosophico-satirique",
+        "plainte",
+        "qui",
+        "recherche"
+      ],
+      "suggestedKeywordSeed": [
+        "404",
+        "dieu",
+        "erreur",
+        "introuvable",
+        "cycle",
+        "ashraellen",
+        "books",
+        "céleste",
+        "chancellerie",
+        "contre",
+        "l’erreur",
+        "l’univers",
+        "série",
+        "sur",
+        "error",
+        "est",
+        "found",
+        "god"
+      ]
+    },
+    {
+      "page": "fr/books/error-404-god-not-found/why-me/index.html",
+      "lang": "fr",
+      "section": "books",
+      "title": "Ashraellen — Pourquoi moi ?",
+      "description": "Pourquoi moi ? — Livre I du cycle Erreur 404 : Dieu introuvable. Un roman philosophico-satirique sur la douleur, la plainte, la foi, la bureaucratie de l’âme et la Chancellerie céleste.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/fr/books/error-404-god-not-found/why-me/",
+      "h1": [
+        "Pourquoi moi ?"
+      ],
+      "h2": [
+        "À propos du livre",
+        "Extrait"
+      ],
+      "h3": [
+        "Chapitre premier. Erreur 404"
+      ],
+      "slugTerms": [
+        "fr",
+        "books",
+        "error",
+        "god",
+        "not",
+        "found",
+        "why",
+        "me"
+      ],
+      "excerpt": "Pourquoi moi ? Livre I du cycle « Erreur 404 : Dieu introuvable ». Un roman philosophico-satirique sur la douleur, la plainte, la foi, la bureaucratie de l’âme et la Chancellerie céleste. À propos du livre préparation à l’impression En préparation Pourquoi moi ? est le premier livre du cycle Erreur 404 : Dieu introuvable . C’est l’histoire de Vlad, juriste et demandeur irrité contre l’Univers, qui tente de transformer sa douleur en réclamation correctement rédigée. Vlad ne cherche pas l’illumination. Il veut des explications, de préférence écrites, avec signature, cachet, numéro de dossier et possibilité de recours. Mais la Chancellerie céleste ne fonctionne pas comme un service d’indemnisation. Elle enregistre la demande, précise la catégorie et montre peu à peu que l’erreur peut ne pas être dans l’absence de réponse, mais dans la manière même de chercher. Extrait Chapitre premier — Err",
+      "candidates": [
+        "404",
+        "pas",
+        "erreur",
+        "dieu",
+        "pourquoi",
+        "une",
+        "céleste",
+        "chancellerie",
+        "des",
+        "introuvable",
+        "j’ai",
+        "les",
+        "livre",
+        "moi",
+        "premier",
+        "sur",
+        "bureaucratie",
+        "cela",
+        "chapitre",
+        "cycle",
+        "dans",
+        "demande",
+        "douleur",
+        "été"
+      ],
+      "suggestedKeywordSeed": [
+        "pourquoi",
+        "moi",
+        "404",
+        "ashraellen",
+        "books",
+        "céleste",
+        "chancellerie",
+        "dieu",
+        "erreur",
+        "introuvable",
+        "livre",
+        "bureaucratie",
+        "cycle",
+        "des",
+        "douleur",
+        "error",
+        "extrait",
+        "foi"
       ]
     },
     {
