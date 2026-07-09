@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-08T08:33:17.496Z
+Generated: 2026-07-09T08:54:41.139Z
 Pages: 570
 
 ## Index
@@ -72,7 +72,7 @@ Pages: 570
 | de/books/monolith/beton/index.html | de | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ist, ashraellen, books, buch, das, den, der, für, monolith, über, und, akte, als, ausgewählter, auszug, band, bedeutungsknoten |
 | de/books/monolith/index.html | de | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ist, der, und, ashraellen, books, den, eine, erinnerung, gas, kontrolle, nicht, was, bände, beton, darf, des, die |
 | de/books/monolith/sludge/index.html | de | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, ashraellen, books, das, der, für, monolith, über, und, akte, als, ausgewählter, auszug, band, buch, den, die, druck |
-| de/books/radiance/index.html | de | books | Ashraellen — Glanz \| Nordische Geschichten über die wahre Geschichte der Welt | Ashraellen, Glanz, Sampo, Lied, Bücher, literary-philosophical, artistic research | glanz, ist, der, die, für, geschichten, und, welt, ashraellen, books, ein, was, als, anleitungskarte, antike, anweisungen, bewahren, buch |
+| de/books/radiance/index.html | de | books | Ashraellen — Glanz \| Nordische Geschichten über die wahre Geschichte der Welt | Ashraellen, Glanz, Sampo, Lied, Bücher, literary-philosophical, artistic research | glanz, ist, der, die, für, geschichten, welt, ashraellen, books, ein, was, als, alte, anleitungskarte, anweisungen, bewahren, bildhafte, buch |
 | de/books/radiance/sampo/index.html | de | books | Ashraellen — Sampo \| Glanz, Buch I | Ashraellen, Glanz, Sampo, Lied, Bücher, literary-philosophical, artistic research | und, sampo, buch, das, der, ist, ashraellen, books, eine, für, glanz, nicht, über, arbeit, auf, besitz, den, die |
 | de/books/radiance/song/index.html | de | books | Ashraellen — Lied \| Glanz, Buch II | Ashraellen, Glanz, Sampo, Lied, Bücher, literary-philosophical, artistic research | das, lied, und, buch, ashraellen, books, der, eine, für, glanz, nicht, sprache, über, auf, den, die, ein, eines |
 | de/books/seccus/index.html | de | books | Ashraellen — DAS HEILIGE BUCH SECCUS | Ashraellen, SECCUS, Das Heilige Buch SECCUS, Der Weg der Ehrlichkeit, philosophische Satire, Geld, Erfolg, Selbsttäuschung, Wissen als Alibi, Verantwortung, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Buch | das, buch, der, die, seccus, heilige, und, ashraellen, books, des, für, ist, seite, über, alibi, als, ausgewählte, buches |
@@ -260,7 +260,7 @@ Pages: 570
 | fr/books/monolith/beton/index.html | fr | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ashraellen, books, dans, est, livre, monolith, stabilité, une, anton, artistique, cadre, choisi, cœur, comme, des, divulgâcher, dossier |
 | fr/books/monolith/index.html | fr | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ashraellen, beton, books, contrôle, des, est, gas, mémoire, pas, une, artistique, cadre, carte, confondre, dans, désagrégation, dystopique |
 | fr/books/monolith/sludge/index.html | fr | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, ashraellen, books, dans, monolith, pour, qui, sur, une, artistique, cadre, choisi, comme, complicité, des, divulgâcher, dossier, dystopie |
-| fr/books/radiance/index.html | fr | books | Ashraellen — Éclat \| Contes nordiques sur la véritable histoire du monde | Ashraellen, Éclat, Sampo, Chant, Livres, literary-philosophical, artistic research | éclat, les, monde, sur, anciennes, artistique, ashraellen, books, cycle, est, pas, recherche, cadre, carte, confondre, contes, d'instructions, des |
+| fr/books/radiance/index.html | fr | books | Ashraellen — Éclat \| Contes nordiques sur la véritable histoire du monde | Ashraellen, Éclat, Sampo, Chant, Livres, literary-philosophical, artistic research | éclat, artistique, les, monde, sur, ashraellen, books, cycle, est, pas, recherche, anciennes, cadre, carte, confondre, contes, d'instructions, des |
 | fr/books/radiance/sampo/index.html | fr | books | Ashraellen — Sampo \| Éclat, livre I | Ashraellen, Éclat, Sampo, Chant, Livres, literary-philosophical, artistic research | sampo, ashraellen, books, les, livre, pas, pour, artistique, avec, cadre, chapitre, comme, culturels, dans, éclat, éditeurs, elle, fondations |
 | fr/books/radiance/song/index.html | fr | books | Ashraellen — Chant \| Éclat, livre II | Ashraellen, Éclat, Sampo, Chant, Livres, literary-philosophical, artistic research | ashraellen, books, chant, les, livre, pas, pour, qui, artistique, avec, ayla, cadre, chapitre, culturels, dans, des, éclat, éditeurs |
 | fr/books/seccus/index.html | fr | books | Ashraellen — LE LIVRE SACRÉ DE SECCUS | Ashraellen, SECCUS, Le Livre Sacré de SECCUS, Le Chemin de l’Honnêteté, satire philosophique, argent, réussite, auto-illusion, savoir comme alibi, responsabilité, Sacrunomicon, Ordo Sacrunomiconis, Tétra-Livre | livre, seccus, sacré, ashraellen, books, est, philosophique, pour, qui, réussite, sur, une, alibi, cadre, chemin, choisie, choix, comme |
@@ -326,7 +326,7 @@ Pages: 570
 | pl/books/monolith/beton/index.html | pl | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ashraellen, books, stabilności, systemu, akta, anton, antyutopia, artystyczno-badawcza, bez, filozoficzna, fragment, gdy, jako, jego, kogo, książce, książka |
 | pl/books/monolith/index.html | pl | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ashraellen, beton, books, gas, nie, sludge, antyutopijna, artystyczno-badawcza, czego, czym, forma, fraza, jako, już, kogo, kontroli, lecz |
 | pl/books/monolith/sludge/index.html | pl | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, ashraellen, books, adam, akta, ale, antyutopia, artystyczno-badawcza, bez, drugi, filozoficzna, formy, fragment, jego, już, kogo, książce, który |
-| pl/books/radiance/index.html | pl | books | Ashraellen — Blask \| Północne opowieści o prawdziwej historii świata | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | blask, opowieści, świata, ashraellen, books, cykl, instrukcje, nie, aby, artystyczno-badawczy, artystycznych, badań, czy, figuratywne, filozoficzny, forma, historii, instrukcji |
+| pl/books/radiance/index.html | pl | books | Ashraellen — Blask \| Północne opowieści o prawdziwej historii świata | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | blask, opowieści, ashraellen, books, cykl, instrukcje, literacko-filozoficzny, nie, aby, artystyczno-badawcza, artystyczno-badawczy, dawne, forma, historii, instrukcji, jako, kogo, książki |
 | pl/books/radiance/sampo/index.html | pl | books | Ashraellen — Sampo \| Blask, Księga I | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | sampo, ashraellen, blask, books, nie, ale, artystycznych, badań, bez, było, chleb, czy, filozoficznej, fundacji, jeszcze, język, już, kogo |
 | pl/books/radiance/song/index.html | pl | books | Ashraellen — Pieśń \| Blask, Księga II | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | pieśń, ashraellen, bez, blask, books, nie, się, ale, artystycznych, ayla, badań, być, był, była, było, druga, dźwięku, fundacji |
 | pl/books/seccus/index.html | pl | books | Ashraellen — ŚWIĘTA KSIĘGA SECCUS | Ashraellen, SECCUS, Święta Księga SECCUS, Droga Uczciwości, satyra filozoficzna, pieniądze, sukces, samooszustwo, wiedza jako alibi, odpowiedzialność, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Księga | seccus, księga, święta, ashraellen, bez, books, jako, alibi, ani, człowiek, droga, filozoficzna, głos, kogo, korpus, książce, książka, książki |
@@ -388,7 +388,7 @@ Pages: 570
 | pt/books/monolith/beton/index.html | pt | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ashraellen, books, estabilidade, livro, memória, monolith, para, sobre, uma, anton, artístico-investigativa, com, como, dentro, distopia, dossiê, editada |
 | pt/books/monolith/index.html | pt | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, que, ashraellen, beton, books, colapso, controle, gas, memória, não, sludge, uma, artístico-investigativa, como, confundido, deve, distópica, dos |
 | pt/books/monolith/sludge/index.html | pt | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, ashraellen, books, monolith, para, sobre, uma, adam, artístico-investigativa, com, como, cumplicidade, distopia, dossiê, era, estrutura, exaurida, filosófica |
-| pt/books/radiance/index.html | pt | books | Ashraellen — Esplendor \| Contos do norte sobre a história real do mundo | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | esplendor, instruções, mundo, para, que, sobre, ashraellen, books, ciclo, como, não, pesquisa, antigas, artística, artístico, cartão, confundir, contos |
+| pt/books/radiance/index.html | pt | books | Ashraellen — Esplendor \| Contos do norte sobre a história real do mundo | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | esplendor, instruções, mundo, para, que, sobre, ashraellen, books, ciclo, como, não, pesquisa, antigas, artística, artístico, confundir, contos, este |
 | pt/books/radiance/sampo/index.html | pt | books | Ashraellen — Sampo \| Esplendor, livro I | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | sampo, livro, para, ashraellen, books, esplendor, não, sobre, abundância, ainda, artística, capítulo, com, como, conto, culturais, destaque, editoras |
 | pt/books/radiance/song/index.html | pt | books | Ashraellen — Canto \| Esplendor, livro II | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | canto, livro, para, ashraellen, books, esplendor, não, que, sem, sobre, uma, apresentação, artística, audição, ayla, capítulo, com, como |
 | pt/books/seccus/index.html | pt | books | Ashraellen — O LIVRO SAGRADO DE SECCUS | Ashraellen, SECCUS, O Livro Sagrado de SECCUS, O Caminho da Honestidade, sátira filosófica, dinheiro, sucesso, autoengano, conhecimento como álibi, responsabilidade, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Livro | livro, seccus, sagrado, ashraellen, books, como, página, para, sobre, sucesso, uma, álibi, autoengano, caminho, conhecimento, corpus, dinheiro, escolha |
@@ -1690,17 +1690,17 @@ Excerpt:
 - lang: de
 - section: books
 - title: Ashraellen — Glanz | Nordische Geschichten über die wahre Geschichte der Welt
-- description: „Glanz“ ist ein literarischer und philosophischer Kunst- und Forschungszyklus darüber, wie antike Geschichten figurative Anweisungen für die Welt bewahren.
+- description: „Glanz“ ist ein literarisch-philosophischer künstlerischer Forschungszyklus darüber, wie alte Geschichten bildhafte Anweisungen für die Welt bewahren.
 - canonical: https://www.ashraellen.com/de/books/radiance/
 - H1: Glanz
 - H2: Was ist „Glanz“ | Bücher der Reihe | Kunstforschungsrahmen | Anleitungskarte | Für wen ist dieses Projekt? | Was wichtig ist, nicht zu verwechseln
 - H3: Buch I – Sampo | Buch II – Lied | Buch III – Schmiede | Für Leser | Für Partner
-- suggested keyword seed: glanz, ist, der, die, für, geschichten, und, welt, ashraellen, books, ein, was, als, anleitungskarte, antike, anweisungen, bewahren, buch
-- candidates: und, die, der, das, ist, buch, als, für, glanz, welt, ein, geschichten, sprache, einer, mit, was, antike, anweisungen, dem, hören, keine, sampo, seinem, verantwortung
+- suggested keyword seed: glanz, ist, der, die, für, geschichten, welt, ashraellen, books, ein, was, als, alte, anleitungskarte, anweisungen, bewahren, bildhafte, buch
+- candidates: und, die, der, das, ist, buch, als, ein, für, glanz, welt, geschichten, sprache, einer, mit, was, wort, abstimmung, dem, hören, keine, sampo, seinem, verantwortung
 
 Excerpt:
 
-> Literarischer und philosophischer Zyklus / artistic research through fiction Glanz Nordische Geschichten über die wahre Geschichte der Welt. Ein langfristiger Zyklus, in dem eine Kunstform zu einer Art der Erkundung wird. Wir erzählen „Kalevala“ nicht nach. Wir zeigen die Welt, aus der solche Geschichten entstehen könnten. Bücher der Reihe Studienrahmen Was ist „Glanz“ kurz Epen, Märchen und antike Geschichten verschiedener Völker können als unterschiedliche Bildsprachen des Zugangs zu tiefem Wissen gelesen werden. Jedes Volk erhielt seine Werkzeuge und Anweisungen in einer Form, die seinem Land, seiner Sprache, seinem Gedächtnis, seinem Schmerz, seinem Klima, seiner Arbeit und seiner Art, die Welt zu hören, angemessen war. Ausstrahlung / „Glanz“ ist eine literarische und philosophisch-künstlerische Forschungsreihe darüber, wie antike Geschichten fantasievolle Anweisungen für die Welt be
+> Literarischer und philosophischer Zyklus / artistic research through fiction Glanz Nordische Geschichten über die wahre Geschichte der Welt. Ein langfristiger Zyklus, in dem eine Kunstform zu einer Art der Erkundung wird. Wir erzählen „Kalevala“ nicht nach. Wir zeigen die Welt, aus der solche Geschichten entstehen könnten. Bücher der Reihe Forschungsrahmen Was ist „Glanz“ kurz Epen, Märchen und antike Geschichten verschiedener Völker können als unterschiedliche Bildsprachen des Zugangs zu tiefem Wissen gelesen werden. Jedes Volk erhielt seine Werkzeuge und Anweisungen in einer Form, die seinem Land, seiner Sprache, seinem Gedächtnis, seinem Schmerz, seinem Klima, seiner Arbeit und seiner Art, die Welt zu hören, angemessen war. Radiance / „Glanz“ ist ein literarisch-philosophischer künstlerischer Forschungszyklus darüber, wie alte Geschichten bildhafte Anweisungen für die Welt bewahren. D
 
 ### de/books/radiance/sampo/index.html
 
@@ -3801,14 +3801,14 @@ Excerpt:
 - description: “Resplandor” es un ciclo artístico y de investigación literario y filosófico sobre cómo las historias antiguas preservan instrucciones figurativas para el mundo.
 - canonical: https://www.ashraellen.com/es/books/radiance/
 - H1: Resplandor
-- H2: ¿Qué es “Resplandor”? | Libros de la serie | Marco de investigación artística | Tarjeta de instrucciones | ¿Para quién es este proyecto? | Lo que es importante no confundir
+- H2: ¿Qué es “Resplandor”? | Libros de la serie | Marco de investigación artística | Mapa de instrucciones | ¿Para quién es este proyecto? | Lo que es importante no confundir
 - H3: Libro I - Sampo | Libro II - Canto | Libro III - Forja | Para lectores | Para socios
 - suggested keyword seed: resplandor, del, mundo, para, sobre, ashraellen, books, ciclo, instrucciones, investigación, que, antiguas, artística, artístico, como, cómo, con, confundir
-- candidates: una, del, libro, que, resplandor, sobre, forma, mundo, ciclo, como, para, con, instrucciones, las, palabra, antiguas, historias, investigación, norte, proyecto, puede, qué, responsabilidad, sampo
+- candidates: una, del, ciclo, libro, que, sobre, mundo, resplandor, como, forma, para, con, instrucciones, investigación, las, palabra, antiguas, historias, norte, proyecto, puede, qué, responsabilidad, sampo
 
 Excerpt:
 
-> Ciclo literario y filosófico / artistic research through fiction Resplandor Cuentos del norte sobre la historia real del mundo. Un ciclo de largo plazo en el que una forma de arte se convierte en un modo de exploración. No volvemos a contar "Kalevala". Mostramos el mundo del que podrían surgir este tipo de historias. Libros de la serie Marco de estudio ¿Qué es “Resplandor”? corto Las epopeyas, los cuentos de hadas y las historias antiguas de diferentes pueblos pueden leerse como diferentes lenguajes figurados de acceso al conocimiento profundo. Cada pueblo recibió sus herramientas e instrucciones en una forma adecuada a su tierra, lengua, memoria, dolor, clima, trabajo y forma de oír el mundo. Resplandor / "Resplandor" es una serie de investigación artística literaria y filosófica sobre cómo las historias antiguas preservan instrucciones imaginativas para el mundo. El material finlandés-
+> Ciclo literario y filosófico / artistic research through fiction Resplandor Cuentos del norte sobre la historia real del mundo. Un ciclo de largo plazo en el que una forma de arte se convierte en un modo de exploración. No recontamos «Kalevala». Mostramos el mundo del que podrían surgir este tipo de historias. Libros de la serie Marco de investigación ¿Qué es “Resplandor”? corto Las epopeyas, los cuentos de hadas y las historias antiguas de diferentes pueblos pueden leerse como diferentes lenguajes figurados de acceso al conocimiento profundo. Cada pueblo recibió sus herramientas e instrucciones en una forma adecuada a su tierra, lengua, memoria, dolor, clima, trabajo y modo de escuchar el mundo. Radiance / «Resplandor» es un ciclo de investigación artística literaria y filosófica sobre cómo las historias antiguas preservan instrucciones figurativas para el mundo. El material finlandés-c
 
 ### es/books/radiance/sampo/index.html
 
@@ -4889,14 +4889,14 @@ Excerpt:
 - description: « Éclat » est un cycle artistique et de recherche littéraire et philosophique sur la manière dont les histoires anciennes préservent les instructions figuratives du monde.
 - canonical: https://www.ashraellen.com/fr/books/radiance/
 - H1: Éclat
-- H2: Qu'est-ce que "Éclat" | Livres de la série | Cadre de recherche artistique | Carte d'instructions | À qui s'adresse ce projet ? | Ce qu'il est important de ne pas confondre
+- H2: Qu’est-ce qu’« Éclat » | Livres de la série | Cadre de recherche artistique | Carte d'instructions | À qui s'adresse ce projet ? | Ce qu'il est important de ne pas confondre
 - H3: Livre I - Sampo | Livre II - Chant | Livre III - La Forge | Pour les lecteurs | Pour les partenaires
-- suggested keyword seed: éclat, les, monde, sur, anciennes, artistique, ashraellen, books, cycle, est, pas, recherche, cadre, carte, confondre, contes, d'instructions, des
-- candidates: les, une, cycle, livre, sur, éclat, monde, des, forme, parole, pas, anciennes, comme, est, histoires, instructions, philosophique, projet, qui, recherche, responsabilité, sampo, série, ancienne
+- suggested keyword seed: éclat, artistique, les, monde, sur, ashraellen, books, cycle, est, pas, recherche, anciennes, cadre, carte, confondre, contes, d'instructions, des
+- candidates: les, une, cycle, livre, des, éclat, monde, sur, forme, parole, pas, artistique, philosophique, recherche, comme, est, instructions, littéraire, pour, projet, qui, responsabilité, sampo, ancienne
 
 Excerpt:
 
-> Cycle littéraire et philosophique / artistic research through fiction Éclat Contes nordiques sur la véritable histoire du monde. Un cycle au long cours dans lequel une forme d’art devient un mode d’exploration. Nous ne racontons pas "Kalevala". Nous montrons le monde d’où de telles histoires pourraient surgir. Livres de la série Cadre de recherche Qu'est-ce que "Éclat" court Les épopées, les contes de fées et les histoires anciennes de différents peuples peuvent être lus comme différents langages figuratifs d'accès à des connaissances approfondies. Chaque peuple a reçu ses outils et ses instructions sous une forme adaptée à sa terre, sa langue, sa mémoire, sa douleur, son climat, son travail et sa manière d'entendre le monde. Radiance / "Éclat" est une série de recherches artistiques littéraires et philosophiques sur la manière dont les histoires anciennes préservent les instructions fig
+> Cycle littéraire et philosophique / artistic research through fiction Éclat Contes nordiques sur la véritable histoire du monde. Un cycle au long cours dans lequel une forme d’art devient un mode d’exploration. Nous ne réécrivons pas « Kalevala ». Nous montrons le monde d’où de telles histoires pourraient surgir. Livres de la série Cadre de recherche Qu’est-ce qu’« Éclat » en bref Les épopées, les contes de fées et les histoires anciennes de différents peuples peuvent être lus comme différents langages figuratifs d'accès à des connaissances approfondies. Chaque peuple a reçu ses outils et ses instructions sous une forme adaptée à sa terre, sa langue, sa mémoire, sa douleur, son climat, son travail et sa manière d'entendre le monde. Radiance / « Éclat » est un cycle de recherche artistique littéraire et philosophique sur la manière dont les récits anciens préservent des instructions imagé
 
 ### fr/books/radiance/sampo/index.html
 
@@ -6008,17 +6008,17 @@ Excerpt:
 - lang: pl
 - section: books
 - title: Ashraellen — Blask | Północne opowieści o prawdziwej historii świata
-- description: „Blask” to literacki i filozoficzny cykl artystyczno-badawczy o tym, jak starożytne opowieści utrwalają figuratywne instrukcje dla świata.
+- description: „Blask” to literacko-filozoficzny cykl artystyczno-badawczy o tym, jak dawne opowieści przechowują obrazowe instrukcje ku światu.
 - canonical: https://www.ashraellen.com/pl/books/radiance/
 - H1: Blask
-- H2: Co to jest „Blask” | Książki z serii | Rama do badań artystycznych | Karta instrukcji | Dla kogo jest ten projekt? | Co ważne, aby nie mylić
+- H2: Co to jest „Blask” | Książki z serii | Rama artystyczno-badawcza | Mapa instrukcji | Dla kogo jest ten projekt? | Co ważne, aby nie mylić
 - H3: Księga I - Sampo | Księga II - Pieśń | Księga III – Kuźnia | Dla czytelników | Dla partnerów
-- suggested keyword seed: blask, opowieści, świata, ashraellen, books, cykl, instrukcje, nie, aby, artystyczno-badawczy, artystycznych, badań, czy, figuratywne, filozoficzny, forma, historii, instrukcji
-- candidates: blask, nie, cykl, forma, jako, świata, czy, instrukcje, księga, może, opowieści, sampo, słowo, starożytne, bez, książkę, książki, odpowiedzialność, pieśń, projekt, się, sztuki, tego, tym
+- suggested keyword seed: blask, opowieści, ashraellen, books, cykl, instrukcje, literacko-filozoficzny, nie, aby, artystyczno-badawcza, artystyczno-badawczy, dawne, forma, historii, instrukcji, jako, kogo, książki
+- candidates: blask, cykl, nie, jako, forma, instrukcje, księga, literacko-filozoficzny, może, opowieści, sampo, słowo, tym, artystyczna, artystyczno-badawczy, bez, czy, dawne, książkę, książki, odpowiedzialność, pieśń, projekt, się
 
 Excerpt:
 
-> Cykl literacko-filozoficzny / artistic research through fiction Blask Północne opowieści o prawdziwej historii świata. Długoterminowy cykl, w którym forma sztuki staje się sposobem eksploracji. Nie powtarzamy „Kalevala”. Pokazujemy świat, z którego mogłyby powstać takie historie. Książki z serii Rama do nauki Co to jest „Blask” krótki Eposy, baśnie i starożytne historie różnych ludów można czytać jako różne przenośne języki dostępu do głębokiej wiedzy. Każdy naród otrzymał swoje narzędzia i instrukcje w formie odpowiedniej dla swojej ziemi, języka, pamięci, bólu, klimatu, pracy i sposobu słuchania świata. Promieniowanie / „Blask” to literacko-filozoficzna seria badań artystycznych na temat tego, jak starożytne opowieści zachowują wyobraźnię dla świata. Materiał fińsko-karelski i Kalevala stanowi główny północny kręgosłup cyklu. Próbujemy zrozumieć, jakie ludzkie doświadczenie sprawiło, ż
+> Cykl literacko-filozoficzny / artistic research through fiction Blask Północne opowieści o prawdziwej historii świata. Długoterminowy cykl, w którym forma artystyczna staje się sposobem badania. Nie powtarzamy „Kalevala”. Pokazujemy świat, z którego mogłyby powstać takie historie. Książki z serii Rama badawcza Co to jest „Blask” krótko Eposy, baśnie i starożytne historie różnych ludów można czytać jako różne przenośne języki dostępu do głębokiej wiedzy. Każdy naród otrzymał swoje narzędzia i instrukcje w formie odpowiedniej dla swojej ziemi, języka, pamięci, bólu, klimatu, pracy i sposobu słuchania świata. Radiance / „Blask” to literacko-filozoficzny cykl artystyczno-badawczy o tym, jak dawne opowieści przechowują obrazowe instrukcje ku światu. Materiał fińsko-karelski i kalevalski stanowi główny północny kręgosłup cyklu. Próbujemy zrozumieć, jakie ludzkie doświadczenie uczyniło te obraz
 
 ### pl/books/radiance/sampo/index.html
 
@@ -7065,14 +7065,14 @@ Excerpt:
 - description: “Esplendor” é um ciclo literário e filosófico artístico e de pesquisa sobre como as histórias antigas preservam instruções figurativas para o mundo.
 - canonical: https://www.ashraellen.com/pt/books/radiance/
 - H1: Esplendor
-- H2: O que é “Esplendor” | Livros da série | Quadro de pesquisa artística | Cartão de instruções | Para quem é este projeto? | O que é importante não confundir
+- H2: O que é “Esplendor” | Livros da série | Quadro de pesquisa artística | Mapa de instruções | Para quem é este projeto? | O que é importante não confundir
 - H3: Livro I - Sampo | Livro II - Canto | Livro III - Forja | Para leitores | Para parceiros
-- suggested keyword seed: esplendor, instruções, mundo, para, que, sobre, ashraellen, books, ciclo, como, não, pesquisa, antigas, artística, artístico, cartão, confundir, contos
-- candidates: uma, que, livro, sobre, como, esplendor, instruções, mundo, para, ciclo, forma, não, antigas, com, histórias, norte, palavra, pesquisa, pode, projeto, responsabilidade, sampo, série, aberto
+- suggested keyword seed: esplendor, instruções, mundo, para, que, sobre, ashraellen, books, ciclo, como, não, pesquisa, antigas, artística, artístico, confundir, contos, este
+- candidates: uma, que, ciclo, livro, sobre, como, esplendor, instruções, mundo, para, forma, não, pesquisa, antigas, com, histórias, norte, palavra, pode, projeto, responsabilidade, sampo, aberto, abundância
 
 Excerpt:
 
-> Ciclo literário e filosófico / artistic research through fiction Esplendor Contos do norte sobre a história real do mundo. Um ciclo de longo prazo em que uma forma de arte se torna um modo de exploração. Não recontamos "Kalevala". Mostramos ao mundo de onde essas histórias podem surgir. Livros da série Quadro de estudo O que é “Esplendor” curto Épicos, contos de fadas e histórias antigas de diferentes povos podem ser lidos como diferentes linguagens figurativas de acesso ao conhecimento profundo. Cada povo recebeu seus instrumentos e instruções de forma adequada à sua terra, língua, memória, dor, clima, trabalho e modo de ouvir o mundo. Radiância / "Esplendor" é uma série de pesquisa artística literária e filosófica sobre como histórias antigas preservam instruções imaginativas para o mundo. O material finlandês-carélico e Kalevala é a principal coluna norte do ciclo. Estamos tentando en
+> Ciclo literário e filosófico / artistic research through fiction Esplendor Contos do norte sobre a história real do mundo. Um ciclo de longo prazo em que uma forma de arte se torna um modo de exploração. Não recontamos "Kalevala". Mostramos o mundo de onde essas histórias poderiam surgir. Livros da série Quadro de pesquisa O que é “Esplendor” curto Épicos, contos de fadas e histórias antigas de diferentes povos podem ser lidos como diferentes linguagens figurativas de acesso ao conhecimento profundo. Cada povo recebeu seus instrumentos e instruções de forma adequada à sua terra, língua, memória, dor, clima, trabalho e modo de ouvir o mundo. Radiance / "Esplendor" é um ciclo de pesquisa artística literária e filosófica sobre como histórias antigas preservam instruções imagéticas para o mundo. O material finlandês-carélico e Kalevala é a principal coluna norte do ciclo. Estamos tentando en
 
 ### pt/books/radiance/sampo/index.html
 
