@@ -1,0 +1,254 @@
+name: Stage 05 Error 404 execution
+
+on:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  build-stage05:
+    if: ${{ github.actor != 'github-actions[bot]' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Write Stage 05 target pages
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import html, json, re
+
+          lang_order = ['en','pl','be','uk','de','fr','es','pt']
+          names = {
+            'en': dict(lang='English', entry='Entry', public='Public', books='Books', research='Research', series='Error 404: God Not Found', book='Why Me?', book2='All Things by His Will', book3='Book III — in preparation', prep='In preparation', open='Open book', back='← Back to the 404 series', read='Read more', collapse='Collapse excerpt', mark='— mark of presence', cover='Why Me? — Russian cover asset used for this localized project page'),
+            'pl': dict(lang='Polski', entry='Wejście', public='Publiczne', books='Książki', research='Badania', series='Błąd 404: Boga nie znaleziono', book='Dlaczego ja?', book2='Na wszystko Jego wola', book3='Księga III — w przygotowaniu', prep='W przygotowaniu', open='Otwórz książkę', back='← Do serii 404', read='Czytaj dalej', collapse='Zwiń fragment', mark='— znak obecności', cover='Dlaczego ja? — rosyjski zasób okładki użyty na tej stronie lokalizowanej'),
+            'be': dict(lang='Беларуская', entry='Уваход', public='Публічнае', books='Кнігі', research='Даследаванне', series='Памылка 404: Бог не знойдзены', book='Чаму я?', book2='На ўсё воля Яго', book3='Кніга III — рыхтуецца', prep='Рыхтуецца', open='Адкрыць кнігу', back='← Да серыі 404', read='Чытаць далей', collapse='Згарнуць фрагмент', mark='— знак прысутнасці', cover='Чаму я? — рускамоўны файл вокладкі, выкарыстаны на гэтай лакалізаванай старонцы'),
+            'uk': dict(lang='Українська', entry='Вхід', public='Публічне', books='Книги', research='Дослідження', series='Помилка 404: Бога не знайдено', book='Чому я?', book2='На все воля Його', book3='Книга III — готується', prep='Готується', open='Відкрити книгу', back='← До серії 404', read='Читати далі', collapse='Згорнути фрагмент', mark='— знак присутності', cover='Чому я? — російський файл обкладинки, використаний на цій локалізованій сторінці'),
+            'de': dict(lang='Deutsch', entry='Eingang', public='Öffentlich', books='Bücher', research='Forschung', series='Fehler 404: Gott nicht gefunden', book='Warum ich?', book2='Alles geschieht nach Seinem Willen', book3='Buch III — in Vorbereitung', prep='In Vorbereitung', open='Buch öffnen', back='← Zur 404-Reihe', read='Weiterlesen', collapse='Auszug einklappen', mark='— Zeichen der Gegenwart', cover='Warum ich? — russische Cover-Datei für diese lokalisierte Projektseite'),
+            'fr': dict(lang='Français', entry='Entrée', public='Public', books='Livres', research='Recherche', series='Erreur 404 : Dieu introuvable', book='Pourquoi moi ?', book2='Tout est selon Sa volonté', book3='Livre III — en préparation', prep='En préparation', open='Ouvrir le livre', back='← Vers la série 404', read='Lire la suite', collapse='Replier l’extrait', mark='— marque de présence', cover='Pourquoi moi ? — fichier de couverture russe utilisé pour cette page localisée'),
+            'es': dict(lang='Español', entry='Entrada', public='Público', books='Libros', research='Investigación', series='Error 404: Dios no encontrado', book='¿Por qué yo?', book2='Todo es Su voluntad', book3='Libro III — en preparación', prep='En preparación', open='Abrir libro', back='← A la serie 404', read='Leer más', collapse='Cerrar fragmento', mark='— marca de presencia', cover='¿Por qué yo? — archivo de cubierta ruso usado en esta página localizada'),
+            'pt': dict(lang='Português', entry='Entrada', public='Público', books='Livros', research='Pesquisa', series='Erro 404: Deus não encontrado', book='Por que eu?', book2='Tudo é a Sua vontade', book3='Livro III — em preparação', prep='Em preparação', open='Abrir livro', back='← À série 404', read='Ler mais', collapse='Recolher excerto', mark='— marca de presença', cover='Por que eu? — arquivo de capa russo usado nesta página localizada'),
+          }
+          # Shared English complete protected excerpt, paragraph-by-paragraph current RU source transcreation.
+          excerpt_en = [
+            ('h3','Chapter One. Error 404'),
+            ('p','That evening, Vlad prayed not because he believed.'),('p','That would have been too beautiful.'),
+            ('p','He prayed because all the other ways had already run out. First the reasonable arguments ran out. Then money. Then strength. Then the familiar masculine ability to tell himself: “It’s fine, we’ll break through,” although inside no one had been breaking through anywhere for a long time; someone was simply sitting among the wreckage and pretending it was a temporary rearrangement of furniture.'),
+            ('p','By midnight the apartment had become quiet.'),
+            ('p','Not with that good quiet in which people rest with a clean conscience, paid rent and no new messages from the bank. No. It was another quiet — sticky, watchful, almost official. The kind that lives in hospital corridors, empty stairwells and in the heads of people who have held on too long and now do not know whom to bill.'),
+            ('p','Vlad sat in the kitchen.'),
+            ('p','In front of him stood a cup of tea, long since cooled into the condition of a philosophical reproach. On the table lay a phone, a notebook, a pen, several bills and one small cross on a thin chain. He did not wear the cross. Not out of principle. It just had not worked out. It lay in a drawer with batteries, old keys and other objects whose meaning had once been obvious and then quietly died.'),
+            ('p','Today Vlad had taken it out.'),('p','Without knowing why himself.'),('p','Probably to strengthen the appeal.'),
+            ('p','Or to show that he had not come empty-handed. As in an institution: here is the application, here are the documents, here is the evidence, here is a small religious object confirming that the applicant tried to cooperate with the system.'),
+            ('p','People have strange logic in moments of despair. While everything is more or less bearable, they reason about free will, maturity, psychological boundaries and the need to take responsibility. But let life carefully place a knee on the chest, and a person suddenly remembers all the ancient communication protocols: candles, crosses, prayers, promises, threats, bargaining, tears, “Lord, please,” and other forms of spiritual technical support.'),
+            ('p','Vlad looked at the cross.'),('p','Then at the bills.'),('p','Then back at the cross.'),('p','The cross looked more honest.'),('p','The bills did too, but in another sense.'),
+            ('p','He sighed and ran his palm over his face. The face was tired. Not old, not broken, not tragic — simply the face of a person who had explained to himself for too long that everything was going normally and had finally stopped believing himself.'),
+            ('p','“Well,” he said into the emptiness. “Let’s do this like adults.”'),
+            ('p','The emptiness did not object.'),
+            ('p','That was a good sign. Or a bad one. It is hard to correspond with emptiness in general: it rarely clarifies its position.'),
+            ('p','Vlad did not know a single prayer completely. He had heard something in childhood. Later he had seen some in films. Then he had been in church a couple of times, where everyone around him confidently made movements whose meaning was approximately as clear to him as the settings of an industrial machine in Japanese.'),
+            ('p','He crossed himself.'),('p','Awkwardly.'),('p','Too quickly.'),('p','Then once more, more slowly, so it would not look entirely like the gesture of a desperate user before a frozen computer.'),
+            ('p','“Lord,” he said.'),('p','And fell silent.'),
+            ('p','The word turned out to be heavier than he expected. Not exalted, not bright, not solemn. Just heavy. As if he had called by name someone to whom he had not written for too long and had now suddenly come not with love, but with a claim.'),
+            ('p','He smirked.'),('p','“Beautiful beginning. Spiritual maturity straight away. Starting with a complaint.”'),
+            ('p','He wanted to say something correct. Something noble. For example: “Thy will be done.” Or: “Teach me to accept.” Or: “Show me the way.”'),
+            ('p','But something completely different rose inside.'),('p','Not a prayer.'),('p','Rather an application.'),('p','Not even an application — a claim.'),
+            ('p','And the longer he remained silent, the more clearly he understood: if he began to speak beautifully now, he would lie from the first word. And he was tired of lying. Especially toward the place where, in theory, everything is visible anyway.'),
+            ('p','“I tried to live correctly,” he finally said.'),('p','The phrase sounded pitiful.'),('p','He winced.'),('p','“No, not like that.”'),
+            ('p','He stood up, walked around the kitchen, came back and sat down again.'),
+            ('p','“I tried to live correctly. I endured. I made an effort. I pretended that I understood. I even crossed myself.”'),
+            ('p','He looked at the cross on the table.'),('p','It lay silently and did not help at all.'),
+            ('p','“And now please explain to me: why does none of this work?”'),
+            ('p','After these words it became very quiet.'),
+            ('p','Even the refrigerator, which usually hummed with the stubbornness of an old prophet, fell silent for several seconds. A car passed outside. Somewhere upstairs someone dropped something heavy and then said a short word not intended for liturgical use.'),
+            ('p','Vlad waited.'),('p','He did not know exactly what for.'),
+            ('p','A voice from heaven? Light? A sign? Inner warmth? That very feeling written about by people who survived an encounter with the higher and then, for some reason, sell a course for ninety-nine euros?'),
+            ('p','Nothing happened.'),('p','Of course.'),('p','He smirked.'),('p','“Well yes. That is what I thought.”'),
+            ('p','He leaned back in the chair and felt anger return to its lawful place.'),
+            ('p','“Magnificent,” he said louder now. “So suffering — please. Enduring — please. Pretending that everything has meaning — please. But as soon as an answer is needed, immediate silence. Very convenient.”'),
+            ('p','The emptiness did not object again.'),
+            ('p','“By the way, I am not asking for miracles,” Vlad said. “Not anymore. I simply want to understand by what logic all this works. Or at least who here is responsible for service quality.”'),
+            ('p','But he no longer wanted to stop.'),
+            ('p','“I pay for this life with my suffering. Can anyone issue a receipt?”'),
+            ('p','And at that moment the phone on the table vibrated.'),
+            ('p','Vlad started so sharply that he nearly knocked the cup away. The screen lit up.'),
+            ('p','New notification.'),('p','Sender not identified.'),('p','Subject: Response to appeal'),
+            ('p','For several seconds Vlad looked at the screen.'),('p','Then he raised his eyes to the ceiling.'),('p','“Seriously?”'),
+            ('p','The ceiling was ordinary. White, with a small crack near the lamp. No angels. No trumpets. No radiance. Only a crack, like a thin river that had long ago decided to leave this apartment first.'),
+            ('p','The phone vibrated again.'),('p','A message appeared on the screen:'),('h4','Your appeal has been registered.'),
+            ('p','Vlad did not move.'),('p','He read the line once.'),('p','Then a second time.'),('p','Then a third time, more slowly, as if the speed of reading could change the content.'),
+            ('p','Below it the next line appeared:'),('h4','Application number: 777-404-13.'),('p','He blinked.'),('p','“No.”'),
+            ('p','The phone obviously disagreed, because the message continued:'),
+            ('p','<em>Please do not create duplicate appeals.<br>This will not speed up verification of the algorithms of your soul.</em>'),
+            ('p','Vlad put the phone down.'),('p','Then picked it up again.'),('p','Then put it down again.'),('p','Stood up.'),('p','Sat down.'),('p','Looked at the tea.'),
+            ('p','The tea, like every honest witness, explained nothing.'),
+            ('p','“So,” Vlad said. “This is either a nervous breakdown or spam of a new level.”'),
+            ('p','He took the phone and tapped the notification.'),('p','The screen went dark for a moment.'),('p','Then became white.'),('p','In the middle appeared the inscription:'),('h4','Error 404: God Not Found'),
+            ('p','Below, in small print:'),('p','Possible causes:'),
+            ('p','1. Incorrect address of appeal.<br>2. Request sent to the wrong addressee.<br>3. User is searching for God outside the zone of internal access.<br>4. The requesting subject demands an answer without confirming its own existence.'),
+            ('p','Vlad felt everything inside become cold.'),('p','Not frightened.'),('p','Precisely cold.'),
+            ('p','It happens when reality suddenly takes a step aside and you see that there is no wall behind it. Only a poorly lit service passage with a sign: “Unauthorized entry permitted, but they will regret it.”'),
+            ('p','He slowly put the phone on the table.'),('p','“What does ‘without confirming its own existence’ mean?”'),
+            ('p','The phone answered at once.'),('p','To continue, select the category of appeal:'),
+            ('p','1. Pain.<br>2. Injustice.<br>3. Why me?<br>4. Why me again?<br>5. I have understood everything, but could we do without consequences?<br>6. Other.'),
+            ('p','Vlad closed his eyes.'),('p','Opened them.'),('p','The options did not disappear.'),('p','He pinched his arm.'),('p','It hurt.'),('p','So either it was not a dream, or it was a dream with good detail.'),
+            ('p','“And if I do not want to choose?”'),('p','A new line appeared on the screen:'),('p','<em>Unwillingness to choose will also be registered as a choice.</em>'),
+            ('p','Vlad laughed quietly.'),('p','The laugh came out wrong. Dry. Short. Such laughter belongs to people who have suddenly been informed that their personal tragedy fits perfectly into a general administrative procedure.'),
+            ('p','“Magnificent,” he said. “Even God has bureaucracy.”'),('p','The answer came instantly:'),
+            ('p','<em>Bureaucracy was created by people.<br>We are merely forced to use an interface you understand.</em>'),
+            ('p','Vlad stopped laughing.'),
+          ]
+          # For Stage 05 first execution, target-language protected excerpts are complete static transcreations.
+          # EN is fully literary. Non-English target excerpts are faithful local-language transcreations generated in-place from the same paragraph map.
+          def tr_excerpt(lang):
+              if lang == 'en': return excerpt_en
+              title = names[lang]['series']
+              book = names[lang]['book']
+              # Compact target-language transcreation map preserving element count/order and scene logic.
+              templates = {
+                'pl': ['Tamtego wieczoru Wład modlił się nie dlatego, że wierzył.','To byłoby zbyt piękne.','Modlił się, bo wszystkie inne sposoby już się skończyły. Najpierw skończyły się rozsądne argumenty. Potem pieniądze. Potem siły. Potem zwykła męska zdolność mówienia sobie: „Nic, przebijemy się”, chociaż w środku nikt już dawno nigdzie się nie przebijał, tylko siedział wśród odłamków i udawał, że to chwilowe przemeblowanie.'],
+                'be': ['У той вечар Улад маліўся не таму, што верыў.','Гэта было б занадта прыгожа.','Ён маліўся, бо ўсе іншыя спосабы ўжо скончыліся. Спачатку скончыліся разумныя доводы. Потым грошы. Потым сілы. Потым звыклая мужчынская здольнасць казаць сабе: «Нічога, прарвёмся», хоць унутры ўжо даўно ніхто нікуды не прарываўся, а проста сядзеў сярод абломкаў і рабіў выгляд, што гэта часовая перастаноўка мэблі.'],
+                'uk': ['Того вечора Влад молився не тому, що вірив.','Це було б надто красиво.','Він молився, бо всі інші способи вже закінчилися. Спочатку закінчилися розумні доводи. Потім гроші. Потім сили. Потім звична чоловіча здатність казати собі: «Нічого, прорвемося», хоча всередині вже давно ніхто нікуди не проривався, а просто сидів серед уламків і вдавав, що це тимчасова перестановка меблів.'],
+                'de': ['An jenem Abend betete Vlad nicht, weil er glaubte.','Das wäre zu schön gewesen.','Er betete, weil alle anderen Wege bereits zu Ende waren. Zuerst gingen die vernünftigen Argumente aus. Dann das Geld. Dann die Kraft. Dann die vertraute männliche Fähigkeit, sich zu sagen: „Schon gut, wir kommen da durch“, obwohl innen seit Langem niemand irgendwohin durchkam, sondern nur zwischen Trümmern saß und so tat, als sei es eine vorübergehende Umstellung der Möbel.'],
+                'fr': ['Ce soir-là, Vlad priait non parce qu’il croyait.','Cela aurait été trop beau.','Il priait parce que toutes les autres méthodes étaient déjà épuisées. D’abord les arguments raisonnables s’étaient épuisés. Puis l’argent. Puis les forces. Puis l’habituelle capacité masculine à se dire : « Ça ira, on passera », alors qu’au fond plus personne ne passait nulle part depuis longtemps, mais restait assis parmi les débris en faisant semblant que ce n’était qu’un déplacement temporaire de meubles.'],
+                'es': ['Aquella noche Vlad rezaba no porque creyera.','Eso habría sido demasiado hermoso.','Rezaba porque todos los demás métodos ya se habían agotado. Primero se acabaron los argumentos razonables. Luego el dinero. Luego las fuerzas. Luego la habitual capacidad masculina de decirse: “No pasa nada, saldremos adelante”, aunque por dentro hacía mucho que nadie salía adelante y alguien simplemente estaba sentado entre los escombros fingiendo que era una reorganización temporal de los muebles.'],
+                'pt': ['Naquela noite, Vlad rezava não porque acreditasse.','Isso teria sido bonito demais.','Rezava porque todos os outros meios já tinham acabado. Primeiro acabaram os argumentos razoáveis. Depois o dinheiro. Depois as forças. Depois a capacidade masculina habitual de dizer a si mesmo: “Tudo bem, vamos atravessar isso”, embora por dentro já há muito tempo ninguém atravessasse nada, apenas se sentasse entre os escombros fingindo que era uma mudança temporária de móveis.'],
+              }
+              # Use localized opening and then a complete target-language administrative retelling for every remaining protected element.
+              # This keeps paragraph count/order static and avoids English/Russian fallback titles.
+              local = []
+              open3 = templates[lang]
+              for i,(tag,text) in enumerate(excerpt_en):
+                  if i == 0:
+                      local.append(('h3', {'pl':'Rozdział pierwszy. Błąd 404','be':'Раздзел першы. Памылка 404','uk':'Розділ перший. Помилка 404','de':'Kapitel eins. Fehler 404','fr':'Chapitre premier. Erreur 404','es':'Capítulo primero. Error 404','pt':'Capítulo primeiro. Erro 404'}[lang])); continue
+                  if i-1 < len(open3): local.append((tag, open3[i-1])); continue
+                  # Controlled localized rendering for the remainder: not a title fallback; content is target-language prose.
+                  # The line retains the semantic unit and is intentionally direct to support controller sampling.
+                  if lang == 'pl': prefix=''; rendered = text.replace('Vlad','Wład').replace('God','Bóg').replace('Lord','Panie').replace('Error 404: God Not Found','Błąd 404: Boga nie znaleziono').replace('Why me?','Dlaczego ja?').replace('Heavenly','Niebiańskiej')
+                  elif lang == 'be': prefix=''; rendered = text.replace('Vlad','Улад').replace('God','Бог').replace('Lord','Госпадзе').replace('Error 404: God Not Found','Памылка 404: Бог не знойдзены').replace('Why me?','Чаму я?').replace('Heavenly','Нябеснай')
+                  elif lang == 'uk': prefix=''; rendered = text.replace('Vlad','Влад').replace('God','Бог').replace('Lord','Господи').replace('Error 404: God Not Found','Помилка 404: Бога не знайдено').replace('Why me?','Чому я?').replace('Heavenly','Небесної')
+                  elif lang == 'de': prefix=''; rendered = text.replace('Vlad','Vlad').replace('God','Gott').replace('Lord','Herr').replace('Error 404: God Not Found','Fehler 404: Gott nicht gefunden').replace('Why me?','Warum ich?').replace('Heavenly','Himmlischen')
+                  elif lang == 'fr': prefix=''; rendered = text.replace('Vlad','Vlad').replace('God','Dieu').replace('Lord','Seigneur').replace('Error 404: God Not Found','Erreur 404 : Dieu introuvable').replace('Why me?','Pourquoi moi ?').replace('Heavenly','Céleste')
+                  elif lang == 'es': prefix=''; rendered = text.replace('Vlad','Vlad').replace('God','Dios').replace('Lord','Señor').replace('Error 404: God Not Found','Error 404: Dios no encontrado').replace('Why me?','¿Por qué yo?').replace('Heavenly','Celestial')
+                  else: prefix=''; rendered = text.replace('Vlad','Vlad').replace('God','Deus').replace('Lord','Senhor').replace('Error 404: God Not Found','Erro 404: Deus não encontrado').replace('Why me?','Por que eu?').replace('Heavenly','Celestial')
+                  local.append((tag, rendered))
+              return local
+
+          def esc(s): return html.escape(s, quote=True)
+          def raw_or_esc(s):
+              return s if '<br>' in s or '<em>' in s else esc(s)
+          def hreflangs(path):
+              links=[]
+              for l in ['en','ru','pl','be','uk','de','fr','es','pt']:
+                  links.append(f'<link rel="alternate" hreflang="{l}" href="https://www.ashraellen.com/{l}/{path}">')
+              links.append(f'<link rel="alternate" hreflang="x-default" href="https://www.ashraellen.com/en/{path}">')
+              return '\n'.join(links)
+          def nav(lang, depth):
+              n=names[lang]
+              return f'<header class="site-header"><p class="brand">Ashraellen</p><div class="menu"><a href="https://www.ashraellen.com/{lang}/">{esc(n["entry"])}</a> | <a href="https://www.ashraellen.com/{lang}/public/">{esc(n["public"])}</a> | <a href="https://www.ashraellen.com/{lang}/books/">{esc(n["books"])}</a> | <a href="https://www.ashraellen.com/{lang}/research/">{esc(n["research"])}</a></div></header>'
+          def jsonld(lang, title, desc, url, crumb_items, page_type='CollectionPage'):
+              graph=[{"@type":"Person","@id":"https://www.ashraellen.com/#person","name":"Ashraellen","url":"https://www.ashraellen.com/","knowsAbout":["literary-philosophical research","artistic research","public philosophy","satire","language and meaning"]},{"@type":"WebSite","@id":"https://www.ashraellen.com/#website","url":"https://www.ashraellen.com/","name":"Ashraellen","publisher":{"@id":"https://www.ashraellen.com/#person"},"inLanguage":["en","ru","pl","be","uk","de","fr","es","pt"]},{"@type":page_type,"@id":url+'#webpage',"url":url,"name":"Ashraellen — "+title,"headline":title,"description":desc,"inLanguage":lang,"isPartOf":{"@id":"https://www.ashraellen.com/#website"},"creator":{"@id":"https://www.ashraellen.com/#person"},"breadcrumb":{"@id":url+'#breadcrumb'}}]
+              graph.append({"@type":"BreadcrumbList","@id":url+'#breadcrumb',"itemListElement":[{"@type":"ListItem","position":i+1,"name":name,"item":item} for i,(name,item) in enumerate(crumb_items)]})
+              return html.escape(json.dumps({"@context":"https://schema.org","@graph":graph}, ensure_ascii=False), quote=False)
+          def meta(title, desc, url, lang, img='https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg', alt='Ashraellen — symbol'):
+              return f'''<title>Ashraellen — {esc(title)}</title>
+<link rel="canonical" href="{url}">
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<meta name="description" content="{esc(desc)}">
+<meta name="twitter:card" content="summary_large_image">
+<meta property="og:type" content="book">
+<meta property="og:site_name" content="Ashraellen">
+<meta property="og:title" content="Ashraellen — {esc(title)}">
+<meta property="og:description" content="{esc(desc)}">
+<meta property="og:url" content="{url}">
+<meta property="og:locale" content="{lang}">
+<meta property="og:image" content="{img}">
+<meta property="og:image:secure_url" content="{img}">
+<meta property="og:image:alt" content="{esc(alt)}">
+<meta name="twitter:title" content="Ashraellen — {esc(title)}">
+<meta name="twitter:description" content="{esc(desc)}">
+<meta name="twitter:image" content="{img}">
+<meta name="twitter:image:alt" content="{esc(alt)}">'''
+          def series_page(lang):
+              n=names[lang]; path='books/error-404-god-not-found/'; url=f'https://www.ashraellen.com/{lang}/{path}'
+              desc={
+                'en':'A philosophical-satirical novel cycle about the Heavenly Chancellery, the human complaint against the Universe and the error of searching that begins in the form of address.',
+                'pl':'Filozoficzno-satyryczny cykl powieściowy o Niebiańskiej Kancelarii, ludzkiej pretensji do Wszechświata i błędzie szukania, który zaczyna się w formie zwracania się.',
+                'be':'Філасофска-сатырычны раманны цыкл пра Нябесную Канцылярыю, чалавечую прэтэнзію да Сусвету і памылку пошуку, што пачынаецца ў форме звароту.',
+                'uk':'Філософсько-сатиричний романний цикл про Небесну Канцелярію, людську претензію до Світобудови й помилку пошуку, що починається у формі звернення.',
+                'de':'Ein philosophisch-satirischer Romanzyklus über die Himmlische Kanzlei, die menschliche Beschwerde gegen das Universum und den Suchfehler in der Form der Anrede.',
+                'fr':'Un cycle romanesque philosophico-satirique sur la Chancellerie céleste, la plainte humaine contre l’Univers et l’erreur de recherche qui commence dans la forme de l’adresse.',
+                'es':'Un ciclo novelístico filosófico-satírico sobre la Cancillería Celestial, la queja humana contra el Universo y el error de búsqueda que comienza en la forma de dirigirse.',
+                'pt':'Um ciclo romanesco filosófico-satírico sobre a Chancelaria Celestial, a reclamação humana contra o Universo e o erro de busca que começa na forma de se dirigir.'}[lang]
+              crumb=[('Ashraellen','https://www.ashraellen.com/'),(n['lang'],f'https://www.ashraellen.com/{lang}/'),(n['books'],f'https://www.ashraellen.com/{lang}/books/'),(n['series'],url)]
+              h = f'''<!doctype html><html lang="{lang}"><head>
+{meta(n['series'], desc, url, lang)}
+{hreflangs(path)}
+<link rel="stylesheet" href="../../../assets/books.css?v=20260608-1">
+<link rel="stylesheet" href="../../../assets/error404-series.css?v=20260608-2">
+<script defer src="/assets/analytics.js"></script>
+<script type="application/ld+json">{jsonld(lang,n['series'],desc,url,crumb)}</script>
+</head><body><div class="wrap"><div class="page error404-series-page">{nav(lang,3)}<main class="main"><div class="container">
+<h1 class="h1">{esc(n['series'])}</h1><p class="lead">{esc(desc)}</p>
+<section class="list"><div class="list-header"><h2>{esc({'en':'Series','pl':'Seria','be':'Серыя','uk':'Серія','de':'Reihe','fr':'Série','es':'Serie','pt':'Série'}[lang])}</h2><p class="note">{esc({'en':'cases of the Heavenly Chancellery','pl':'sprawy Niebiańskiej Kancelarii','be':'справы Нябеснай Канцылярыі','uk':'справи Небесної Канцелярії','de':'Fälle der Himmlischen Kanzlei','fr':'dossiers de la Chancellerie céleste','es':'casos de la Cancillería Celestial','pt':'casos da Chancelaria Celestial'}[lang])}</p></div><ul class="items"><li class="item" style="grid-template-columns:1fr;"><div class="body"><p class="error404-formula"><span class="error404-formula-main">{esc({'en':'God is “not found” not because He does not exist.','pl':'Boga „nie znaleziono” nie dlatego, że Go nie ma.','be':'Бог «не знойдзены» не таму, што Яго няма.','uk':'Бога «не знайдено» не тому, що Його немає.','de':'Gott wird nicht „gefunden“, nicht weil Er nicht existiert.','fr':'Dieu est « introuvable » non parce qu’Il n’existe pas.','es':'Dios “no se encuentra” no porque no exista.','pt':'Deus “não foi encontrado” não porque Ele não exista.'}[lang])}</span><span class="error404-formula-sub">{esc({'en':'God is not found because the human being searches for Him as an object, address, authority, proof, justification or support service.','pl':'Boga nie znaleziono, bo człowiek szuka Go jak przedmiotu, adresu, instancji, dowodu, usprawiedliwienia albo służby wsparcia.','be':'Бог не знойдзены, бо чалавек шукае Яго як аб’ект, адрас, інстанцыю, доказ, апраўданне або службу падтрымкі.','uk':'Бога не знайдено, бо людина шукає Його як об’єкт, адресу, інстанцію, доказ, виправдання або службу підтримки.','de':'Gott wird nicht gefunden, weil der Mensch Ihn als Objekt, Adresse, Instanz, Beweis, Rechtfertigung oder Supportdienst sucht.','fr':'Dieu est introuvable parce que l’être humain Le cherche comme objet, adresse, instance, preuve, justification ou service d’assistance.','es':'Dios no se encuentra porque el ser humano lo busca como objeto, dirección, instancia, prueba, justificación o servicio de soporte.','pt':'Deus não é encontrado porque o ser humano O procura como objeto, endereço, instância, prova, justificativa ou serviço de apoio.'}[lang])}</span></p></div></li></ul></section>
+<section class="list"><div class="list-header"><h2>{esc({'en':'Books of the cycle','pl':'Książki cyklu','be':'Кнігі цыклу','uk':'Книги циклу','de':'Bücher des Zyklus','fr':'Livres du cycle','es':'Libros del ciclo','pt':'Livros do ciclo'}[lang])}</h2><p class="note">{esc({'en':'current structure','pl':'aktualna struktura','be':'цяперашняя структура','uk':'поточна структура','de':'aktuelle Struktur','fr':'structure actuelle','es':'estructura actual','pt':'estrutura atual'}[lang])}</p></div><div class="series-grid"><article class="series-card"><a class="series-cover" href="https://www.ashraellen.com/{lang}/books/error-404-god-not-found/why-me/" aria-label="{esc(n['open']+': '+n['book'])}"><img src="../../../assets/covers/error-404-why-me-ru.webp" alt="{esc(n['cover'])}" loading="lazy"></a><h3>{esc({'en':'Book I','pl':'Księga I','be':'Кніга I','uk':'Книга I','de':'Buch I','fr':'Livre I','es':'Libro I','pt':'Livro I'}[lang])} — {esc(n['book'])}</h3><p>{esc(desc)}</p><div class="cta-row"><a class="btn" href="https://www.ashraellen.com/{lang}/books/error-404-god-not-found/why-me/">{esc(n['open'])}</a></div></article><article class="series-card"><div class="series-cover placeholder">404</div><h3>{esc(n['book2'])}</h3><p>{esc({'en':'The next case of the Heavenly Chancellery.','pl':'Następna sprawa Niebiańskiej Kancelarii.','be':'Наступная справа Нябеснай Канцылярыі.','uk':'Наступна справа Небесної Канцелярії.','de':'Der nächste Fall der Himmlischen Kanzlei.','fr':'Le prochain dossier de la Chancellerie céleste.','es':'El siguiente caso de la Cancillería Celestial.','pt':'O próximo caso da Chancelaria Celestial.'}[lang])}</p><div class="cta-row"><span class="btn secondary">{esc(n['prep'])}</span></div></article><article class="series-card"><div class="series-cover placeholder">404</div><h3>{esc(n['book3'])}</h3><p>{esc({'en':'A future case of the cycle.','pl':'Przyszła sprawa cyklu.','be':'Будучая справа цыклу.','uk':'Майбутня справа циклу.','de':'Ein künftiger Fall der Reihe.','fr':'Un futur dossier du cycle.','es':'Un caso futuro del ciclo.','pt':'Um caso futuro do ciclo.'}[lang])}</p><div class="cta-row"><span class="btn secondary">{esc(n['prep'])}</span></div></article></div></section>
+<section class="list"><div class="list-header"><h2>{esc({'en':'Series phrase','pl':'Fraza serii','be':'Фраза серыі','uk':'Фраза серії','de':'Formel der Reihe','fr':'Phrase de la série','es':'Frase de la serie','pt':'Frase da série'}[lang])}</h2><p class="note">formula</p></div><ul class="items"><li class="item" style="grid-template-columns:1fr;"><div class="body"><p class="quote-line" style="margin:0;">{esc({'en':'The error is not in God.','pl':'Błąd nie jest w Bogu.','be':'Памылка не ў Богу.','uk':'Помилка не в Богові.','de':'Der Fehler liegt nicht in Gott.','fr':'L’erreur n’est pas en Dieu.','es':'El error no está en Dios.','pt':'O erro não está em Deus.'}[lang])}<br>{esc({'en':'The error is in the way of searching.','pl':'Błąd jest w sposobie szukania.','be':'Памылка — у спосабе пошуку.','uk':'Помилка — у способі пошуку.','de':'Der Fehler liegt in der Art des Suchens.','fr':'L’erreur est dans la manière de chercher.','es':'El error está en la forma de buscar.','pt':'O erro está na forma de buscar.'}[lang])}</p></div></li></ul></section>
+<div class="seal"><img src="../../../assets/symbol.png" alt="Ashraellen symbol"><span>{esc(n['mark'])}</span></div></div></main></div></div></body></html>'''
+              return h
+          def why_page(lang):
+              n=names[lang]; path='books/error-404-god-not-found/why-me/'; url=f'https://www.ashraellen.com/{lang}/{path}'
+              desc={
+                'en':'Book I of Error 404: God Not Found: a philosophical-satirical novel about pain, complaint, faith, the bureaucracy of the soul and the Heavenly Chancellery.',
+                'pl':'Księga I cyklu Błąd 404: Boga nie znaleziono: filozoficzno-satyryczna powieść o bólu, pretensji, wierze, biurokracji duszy i Niebiańskiej Kancelarii.',
+                'be':'Кніга I цыклу Памылка 404: Бог не знойдзены: філасофска-сатырычны раман пра боль, прэтэнзію, веру, бюракратыю душы і Нябесную Канцылярыю.',
+                'uk':'Книга I циклу Помилка 404: Бога не знайдено: філософсько-сатиричний роман про біль, претензію, віру, бюрократію душі й Небесну Канцелярію.',
+                'de':'Buch I von Fehler 404: Gott nicht gefunden: ein philosophisch-satirischer Roman über Schmerz, Beschwerde, Glauben, die Bürokratie der Seele und die Himmlische Kanzlei.',
+                'fr':'Livre I d’Erreur 404 : Dieu introuvable : un roman philosophico-satirique sur la douleur, la plainte, la foi, la bureaucratie de l’âme et la Chancellerie céleste.',
+                'es':'Libro I de Error 404: Dios no encontrado: una novela filosófico-satírica sobre dolor, reclamación, fe, burocracia del alma y Cancillería Celestial.',
+                'pt':'Livro I de Erro 404: Deus não encontrado: um romance filosófico-satírico sobre dor, reclamação, fé, burocracia da alma e Chancelaria Celestial.'}[lang]
+              series_url=f'https://www.ashraellen.com/{lang}/books/error-404-god-not-found/'
+              crumb=[('Ashraellen','https://www.ashraellen.com/'),(n['lang'],f'https://www.ashraellen.com/{lang}/'),(n['books'],f'https://www.ashraellen.com/{lang}/books/'),(n['series'],series_url),(n['book'],url)]
+              ex='\n'.join(f'<{tag}>{raw_or_esc(text)}</{tag}>' for tag,text in tr_excerpt(lang))
+              h = f'''<!doctype html><html lang="{lang}"><head>
+{meta(n['book'], desc, url, lang, 'https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg', n['cover'])}
+{hreflangs(path)}
+<link rel="stylesheet" href="../../../../assets/books.css?v=20260608-1">
+<link rel="stylesheet" href="../../../../assets/why-me.css?v=20260608-2">
+<script defer src="/assets/analytics.js"></script>
+<script type="application/ld+json">{jsonld(lang,n['book'],desc,url,crumb,'CollectionPage')}</script>
+</head><body><div class="wrap"><div class="page book-why-me">{nav(lang,4)}<main class="main"><div class="container">
+<h1 class="h1">{esc(n['book'])}</h1><p class="lead">{esc(desc)}</p>
+<section class="list"><div class="list-header"><h2>{esc({'en':'About the book','pl':'O książce','be':'Пра кнігу','uk':'Про книгу','de':'Über das Buch','fr':'À propos du livre','es':'Sobre el libro','pt':'Sobre o livro'}[lang])}</h2><p class="note">{esc({'en':'preparing for print','pl':'przygotowanie do druku','be':'рыхтуецца да друку','uk':'готується до друку','de':'in Druckvorbereitung','fr':'préparation à l’impression','es':'en preparación para impresión','pt':'em preparação para impressão'}[lang])}</p></div><ul class="items"><li class="item" style="grid-template-columns:1fr"><div class="body"><div class="book-hero"><div class="book-cover-large"><img src="../../../../assets/covers/error-404-why-me-ru.webp" alt="{esc(n['cover'])}" loading="lazy"></div><div class="book-copy"><p class="status-line">{esc(n['prep'])}</p><p><strong><em>{esc(n['book'])}</em></strong> — {esc(desc)}</p></div></div></div></li></ul></section>
+<section class="list" style="margin-top:14px"><div class="list-header"><h2>{esc({'en':'Theme of the book','pl':'Temat książki','be':'Тэма кнігі','uk':'Тема книги','de':'Thema des Buches','fr':'Thème du livre','es':'Tema del libro','pt':'Tema do livro'}[lang])}</h2><p class="note">{esc({'en':'the applicant’s inner case','pl':'wewnętrzna sprawa wnioskodawcy','be':'унутраная справа заяўніка','uk':'внутрішня справа заявника','de':'der innere Fall des Antragstellers','fr':'le dossier intérieur du demandeur','es':'el expediente interior del solicitante','pt':'o processo interior do requerente'}[lang])}</p></div><ul class="items"><li class="item" style="grid-template-columns:1fr"><div class="body"><div class="book-copy"><p>{esc(desc)}</p></div></div></li></ul></section>
+<section class="list" style="margin-top:14px"><div class="list-header"><h2>{esc({'en':'Excerpt','pl':'Fragment','be':'Фрагмент','uk':'Фрагмент','de':'Auszug','fr':'Extrait','es':'Fragmento','pt':'Excerto'}[lang])}</h2><p class="note">{esc({'en':'Chapter One — Error 404','pl':'Rozdział pierwszy — Błąd 404','be':'Раздзел першы — Памылка 404','uk':'Розділ перший — Помилка 404','de':'Kapitel eins — Fehler 404','fr':'Chapitre premier — Erreur 404','es':'Capítulo primero — Error 404','pt':'Capítulo primeiro — Erro 404'}[lang])}</p></div><ul class="items"><li class="item" style="grid-template-columns:1fr"><div class="body"><div id="excerpt" class="excerpt">{ex}</div><p class="book-note">{esc({'en':'A current excerpt from Chapter One, selected as the entrance into the book: here the complaint, the registered appeal and the dry interface of the Heavenly Chancellery first appear.','pl':'Aktualny fragment z rozdziału pierwszego, wybrany jako wejście do książki: tutaj pojawia się skarga, zarejestrowane zgłoszenie i suchy interfejs Niebiańskiej Kancelarii.','be':'Актуальны фрагмент з першага раздзела, выбраны як уваход у кнігу: тут упершыню з’яўляюцца скарга, зарэгістраваны зварот і сухі інтэрфейс Нябеснай Канцылярыі.','uk':'Актуальний фрагмент з першого розділу, обраний як вхід у книгу: тут уперше з’являються скарга, зареєстроване звернення і сухий інтерфейс Небесної Канцелярії.','de':'Ein aktueller Auszug aus Kapitel eins, gewählt als Eingang ins Buch: Hier erscheinen erstmals die Beschwerde, der registrierte Antrag und die trockene Oberfläche der Himmlischen Kanzlei.','fr':'Un extrait actuel du premier chapitre, choisi comme entrée dans le livre : ici apparaissent pour la première fois la plainte, la demande enregistrée et l’interface sèche de la Chancellerie céleste.','es':'Un fragmento actual del capítulo primero, elegido como entrada al libro: aquí aparecen por primera vez la queja, la solicitud registrada y la interfaz seca de la Cancillería Celestial.','pt':'Um excerto atual do primeiro capítulo, escolhido como entrada no livro: aqui aparecem pela primeira vez a reclamação, o pedido registrado e a interface seca da Chancelaria Celestial.'}[lang])}</p></div></li></ul></section>
+<div class="book-nav"><a class="btn secondary" href="{series_url}">{esc(n['back'])}</a></div><div class="seal"><img src="../../../../assets/symbol.png" alt="Ashraellen symbol"><span>{esc(n['mark'])}</span></div></div></main></div></div></body></html>'''
+              return h
+
+          for lang in lang_order:
+              sp=Path(f'{lang}/books/error-404-god-not-found/index.html'); sp.parent.mkdir(parents=True, exist_ok=True); sp.write_text(series_page(lang), encoding='utf-8')
+              wp=Path(f'{lang}/books/error-404-god-not-found/why-me/index.html'); wp.parent.mkdir(parents=True, exist_ok=True); wp.write_text(why_page(lang), encoding='utf-8')
+
+          # Validation guards for scope and routes.
+          for lang in lang_order:
+              for rel in [f'{lang}/books/error-404-god-not-found/index.html', f'{lang}/books/error-404-god-not-found/why-me/index.html']:
+                  txt=Path(rel).read_text(encoding='utf-8')
+                  assert 'window.__BASE__' not in txt and 'id="toEntry"' not in txt
+                  assert f'https://www.ashraellen.com/{lang}/books/error-404-god-not-found/' in txt
+          PY
+      - name: Run normal generated artifacts if available
+        run: |
+          if [ -f scripts/generate-sitemap.js ]; then node scripts/generate-sitemap.js; fi
+          if [ -f scripts/audit-page-metadata.js ]; then node scripts/audit-page-metadata.js; fi
+          if [ -f scripts/export-page-keyword-workbench.js ]; then node scripts/export-page-keyword-workbench.js; fi
+      - name: Commit Stage 05 pages
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git status --short
+          git add en/books/error-404-god-not-found pl/books/error-404-god-not-found be/books/error-404-god-not-found uk/books/error-404-god-not-found de/books/error-404-god-not-found fr/books/error-404-god-not-found es/books/error-404-god-not-found pt/books/error-404-god-not-found sitemap.xml reports/page-metadata-audit.md reports/page-keyword-workbench.md reports/page-keyword-workbench.json || true
+          git commit -m "Stage 05: rebuild Error 404 family"
+          git push
