@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-09T11:29:18.392Z",
+  "generated": "2026-07-09T11:29:42.547Z",
   "pages": [
     {
       "page": "be/books/error-404-god-not-found/index.html",
@@ -28494,6 +28494,82 @@
         "filosófico-satírico",
         "forma",
         "found"
+      ]
+    },
+    {
+      "page": "pt/books/error-404-god-not-found/why-me/index.html",
+      "lang": "pt",
+      "section": "books",
+      "title": "Ashraellen — Por que eu?",
+      "description": "Por que eu? — Livro I do ciclo Erro 404: Deus não encontrado. Um romance filosófico-satírico sobre dor, reclamação, fé, burocracia da alma e Chancelaria Celestial.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/pt/books/error-404-god-not-found/why-me/",
+      "h1": [
+        "Por que eu?"
+      ],
+      "h2": [
+        "Sobre o livro",
+        "Excerto"
+      ],
+      "h3": [
+        "Capítulo primeiro. Erro 404"
+      ],
+      "slugTerms": [
+        "pt",
+        "books",
+        "error",
+        "god",
+        "not",
+        "found",
+        "why",
+        "me"
+      ],
+      "excerpt": "Por que eu? Livro I do ciclo Erro 404: Deus não encontrado . Um romance filosófico-satírico sobre dor, reclamação, fé, burocracia da alma e Chancelaria Celestial. Sobre o livro em preparação para impressão Em preparação Por que eu? é o primeiro livro do ciclo Erro 404: Deus não encontrado . É a história de Vlad, advogado e requerente irritado contra o Universo, que tenta transformar a própria dor numa reclamação corretamente formulada. Vlad não procura iluminação. Quer explicações, de preferência por escrito, com assinatura, carimbo, número de processo e possibilidade de recurso. Mas a Chancelaria Celestial não funciona como departamento de compensações. Ela registra o pedido, esclarece a categoria e mostra aos poucos que o erro pode não estar na ausência de resposta, mas na própria forma de buscar. Excerto Capítulo primeiro — Erro 404 Capítulo primeiro. Erro 404 Naquela noite, Vlad reza",
+      "candidates": [
+        "não",
+        "por",
+        "que",
+        "404",
+        "erro",
+        "deus",
+        "primeiro",
+        "sobre",
+        "uma",
+        "celestial",
+        "chancelaria",
+        "encontrado",
+        "livro",
+        "pedido",
+        "reclamação",
+        "alma",
+        "burocracia",
+        "capítulo",
+        "ciclo",
+        "depois",
+        "dor",
+        "isso",
+        "própria",
+        "resposta"
+      ],
+      "suggestedKeywordSeed": [
+        "por",
+        "que",
+        "sobre",
+        "404",
+        "ashraellen",
+        "books",
+        "celestial",
+        "chancelaria",
+        "deus",
+        "encontrado",
+        "erro",
+        "livro",
+        "não",
+        "alma",
+        "burocracia",
+        "ciclo",
+        "dor",
+        "error"
       ]
     },
     {
