@@ -1,12 +1,12 @@
 # Page Metadata Audit
 
-Generated: 2026-07-08T08:33:16.865Z
+Generated: 2026-07-09T08:54:40.397Z
 
 Pages checked: 569
 Pages with issues: 57
 Total issues: 116
-Pages with review notes: 562
-Total review notes: 2068
+Pages with review notes: 564
+Total review notes: 2072
 
 ## Issue summary
 
@@ -30,8 +30,8 @@ Total review notes: 2068
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 562 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 562 |
+| DUPLICATE_OG_IMAGE_REVIEW | 564 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 564 |
 | FALLBACK_OG_IMAGE_USED | 472 |
 | FALLBACK_TWITTER_IMAGE_USED | 472 |
 
@@ -163,10 +163,10 @@ Total review notes: 2068
 ### de/books/radiance/index.html
 
 - title: Ashraellen — Glanz | Nordische Geschichten über die wahre Geschichte der Welt
-- description length: 155
+- description length: 150
 - canonical: https://www.ashraellen.com/de/books/radiance/
-- og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-ru.webp
-- twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-ru.webp
+- og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
 
 - DUPLICATE_KEYWORDS: shared by 3 pages
 
@@ -317,8 +317,8 @@ Total review notes: 2068
 - title: Ashraellen — Resplandor | Cuentos del norte sobre la historia real del mundo.
 - description length: 161
 - canonical: https://www.ashraellen.com/es/books/radiance/
-- og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-ru.webp
-- twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-ru.webp
+- og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
 
 - DUPLICATE_KEYWORDS: shared by 3 pages
 
@@ -410,8 +410,8 @@ Total review notes: 2068
 - title: Ashraellen — Éclat | Contes nordiques sur la véritable histoire du monde
 - description length: 171
 - canonical: https://www.ashraellen.com/fr/books/radiance/
-- og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-ru.webp
-- twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-ru.webp
+- og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
 
 - DUPLICATE_KEYWORDS: shared by 3 pages
 
@@ -488,10 +488,10 @@ Total review notes: 2068
 ### pl/books/radiance/index.html
 
 - title: Ashraellen — Blask | Północne opowieści o prawdziwej historii świata
-- description length: 138
+- description length: 129
 - canonical: https://www.ashraellen.com/pl/books/radiance/
-- og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-pl.webp
-- twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-pl.webp
+- og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
 
 - DUPLICATE_KEYWORDS: shared by 3 pages
 
@@ -566,8 +566,8 @@ Total review notes: 2068
 - title: Ashraellen — Esplendor | Contos do norte sobre a história real do mundo
 - description length: 148
 - canonical: https://www.ashraellen.com/pt/books/radiance/
-- og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-ru.webp
-- twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-ru.webp
+- og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
 
 - DUPLICATE_KEYWORDS: shared by 3 pages
 
@@ -712,8 +712,8 @@ Total review notes: 2068
 - og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-ru.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-ru.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 6 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 6 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
 
 ### be/books/radiance/sampo/index.html
 
@@ -1358,8 +1358,8 @@ Total review notes: 2068
 ### de/books/radiance/index.html
 
 - title: Ashraellen — Glanz | Nordische Geschichten über die wahre Geschichte der Welt
-- og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-ru.webp
-- twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-ru.webp
+- og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 6 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 6 pages
@@ -2026,6 +2026,15 @@ Total review notes: 2068
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
+### en/books/radiance/index.html
+
+- title: Ashraellen — Radiance | Northern tales about the real history of the world
+- og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 6 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 6 pages
+
 ### en/books/seccus/index.html
 
 - title: Ashraellen — THE SACRED BOOK OF SECCUS
@@ -2651,8 +2660,8 @@ Total review notes: 2068
 ### es/books/radiance/index.html
 
 - title: Ashraellen — Resplandor | Cuentos del norte sobre la historia real del mundo.
-- og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-ru.webp
-- twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-ru.webp
+- og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 6 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 6 pages
@@ -3322,8 +3331,8 @@ Total review notes: 2068
 ### fr/books/radiance/index.html
 
 - title: Ashraellen — Éclat | Contes nordiques sur la véritable histoire du monde
-- og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-ru.webp
-- twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-ru.webp
+- og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 6 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 6 pages
@@ -4012,6 +4021,15 @@ Total review notes: 2068
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
+### pl/books/radiance/index.html
+
+- title: Ashraellen — Blask | Północne opowieści o prawdziwej historii świata
+- og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 6 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 6 pages
+
 ### pl/books/seccus/index.html
 
 - title: Ashraellen — ŚWIĘTA KSIĘGA SECCUS
@@ -4648,8 +4666,8 @@ Total review notes: 2068
 ### pt/books/radiance/index.html
 
 - title: Ashraellen — Esplendor | Contos do norte sobre a história real do mundo
-- og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-ru.webp
-- twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-ru.webp
+- og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 6 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 6 pages
@@ -6065,8 +6083,8 @@ Total review notes: 2068
 - og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-ru.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-ru.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 6 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 6 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
 
 ### uk/books/radiance/sampo/index.html
 
