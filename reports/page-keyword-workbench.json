@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-09T11:27:15.635Z",
+  "generated": "2026-07-09T11:27:39.164Z",
   "pages": [
     {
       "page": "be/books/error-404-god-not-found/index.html",
@@ -4741,6 +4741,82 @@
         "buch",
         "bücher",
         "den"
+      ]
+    },
+    {
+      "page": "de/books/error-404-god-not-found/why-me/index.html",
+      "lang": "de",
+      "section": "books",
+      "title": "Ashraellen — Warum ich?",
+      "description": "Warum ich? — Buch I der Reihe Fehler 404: Gott nicht gefunden. Ein philosophisch-satirischer Roman über Schmerz, Beschwerde, Glauben, die Bürokratie der Seele und die Himmlische Kanzlei.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/de/books/error-404-god-not-found/why-me/",
+      "h1": [
+        "Warum ich?"
+      ],
+      "h2": [
+        "Über das Buch",
+        "Auszug"
+      ],
+      "h3": [
+        "Kapitel eins. Fehler 404"
+      ],
+      "slugTerms": [
+        "de",
+        "books",
+        "error",
+        "god",
+        "not",
+        "found",
+        "why",
+        "me"
+      ],
+      "excerpt": "Warum ich? Buch I der Reihe Fehler 404: Gott nicht gefunden . Ein philosophisch-satirischer Roman über Schmerz, Beschwerde, Glauben, die Bürokratie der Seele und die Himmlische Kanzlei, die nicht auf die Worte des Antrags antwortet, sondern auf den, der ihn stellt. Über das Buch in Druckvorbereitung In Vorbereitung Warum ich? ist das erste Buch der Reihe Fehler 404: Gott nicht gefunden . Es erzählt von Vlad, einem Juristen und gereizten Antragsteller gegen das Universum, der versucht, den eigenen Schmerz in eine korrekt formulierte Beschwerde zu verwandeln. Vlad sucht keine Erleuchtung. Er will Erklärungen — möglichst schriftlich, mit Unterschrift, Stempel, Aktenzeichen und Einspruchsmöglichkeit. Doch die Himmlische Kanzlei arbeitet nicht wie eine Entschädigungsabteilung. Sie registriert den Antrag, klärt die Kategorie und zeigt allmählich: Der Fehler kann nicht im Fehlen einer Antwort l",
+      "candidates": [
+        "die",
+        "der",
+        "nicht",
+        "ich",
+        "das",
+        "und",
+        "fehler",
+        "404",
+        "eine",
+        "gott",
+        "habe",
+        "warum",
+        "auf",
+        "beschwerde",
+        "buch",
+        "dann",
+        "den",
+        "ein",
+        "gefunden",
+        "kanzlei",
+        "antwort",
+        "bürokratie",
+        "des",
+        "eins"
+      ],
+      "suggestedKeywordSeed": [
+        "ich",
+        "warum",
+        "der",
+        "die",
+        "404",
+        "ashraellen",
+        "books",
+        "buch",
+        "das",
+        "fehler",
+        "gott",
+        "nicht",
+        "über",
+        "und",
+        "auszug",
+        "beschwerde",
+        "bürokratie",
+        "ein"
       ]
     },
     {
