@@ -1,6 +1,6 @@
 # Page Metadata Audit
 
-Generated: 2026-07-09T08:58:58.939Z
+Generated: 2026-07-09T10:05:35.294Z
 
 Pages checked: 569
 Pages with issues: 57
@@ -239,7 +239,7 @@ Total review notes: 2072
 ### en/books/radiance/index.html
 
 - title: Ashraellen — Radiance | Northern tales about the real history of the world
-- description length: 144
+- description length: 140
 - canonical: https://www.ashraellen.com/en/books/radiance/
 - og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp

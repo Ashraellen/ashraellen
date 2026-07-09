@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-09T08:58:59.486Z
+Generated: 2026-07-09T10:05:35.851Z
 Pages: 570
 
 ## Index
@@ -135,7 +135,7 @@ Pages: 570
 | en/books/monolith/beton/index.html | en | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, monolith, about, ashraellen, book, books, crack, first, memory, stability, system, anton, artistic-research, case, dystopia, edited, excerpt, file |
 | en/books/monolith/index.html | en | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ashraellen, beton, books, collapse, control, gas, memory, sludge, what, about, artistic-research, confused, crack, dystopian, fear, first, form |
 | en/books/monolith/sludge/index.html | en | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, monolith, about, ashraellen, books, adam, already, artistic-research, book, case, complicity, dystopia, environment, excerpt, exhausted, file, form, frame |
-| en/books/radiance/index.html | en | books | Ashraellen — Radiance \| Northern tales about the real history of the world | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | radiance, about, books, research, what, world, ancient, artistic, ashraellen, cycle, northern, philosophical, art, book, card, confuse, figurative, form |
+| en/books/radiance/index.html | en | books | Ashraellen — Radiance \| Northern tales about the real history of the world | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | radiance, about, artistic-research, books, what, world, ancient, ashraellen, cycle, northern, philosophical, book, confuse, figurative, form, frame, history, how |
 | en/books/radiance/sampo/index.html | en | books | Ashraellen — Sampo \| Radiance, Book I | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | sampo, book, radiance, ashraellen, books, about, abundance, art, been, chapter, cultural, featured, first, foundations, frame, has, her, his |
 | en/books/radiance/song/index.html | en | books | Ashraellen — Song \| Radiance, Book II | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | song, about, book, radiance, ashraellen, books, language, sound, art, ayla, become, chapter, cultural, does, extended, featured, foundations, frame |
 | en/books/seccus/index.html | en | books | Ashraellen — THE SACRED BOOK OF SECCUS | Ashraellen, SECCUS, The Sacred Book of SECCUS, The Path of Honesty, philosophical satire, money, success, self-deception, knowledge as an alibi, responsibility, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Book | book, seccus, about, sacred, ashraellen, books, money, own, success, alibi, choice, corpus, does, frame, honesty, how, knowledge, literary-philosophical |
@@ -2761,17 +2761,17 @@ Excerpt:
 - lang: en
 - section: books
 - title: Ashraellen — Radiance | Northern tales about the real history of the world
-- description: “Radiance” is a literary and philosophical artistic and research cycle about how ancient stories preserve figurative instructions for the world.
+- description: “Radiance” is a literary and philosophical artistic-research cycle about how ancient stories preserve figurative instructions for the world.
 - canonical: https://www.ashraellen.com/en/books/radiance/
 - H1: Radiance
-- H2: What is “Radiance” | Books of the series | Art Research Frame | Instruction card | Who is this project for? | What is important not to confuse
+- H2: What is “Radiance” | Books of the series | Artistic-research frame | Instruction map | Who is this project for? | What is important not to confuse
 - H3: Book I - Sampo | Book II - Song | Book III - Forge | For Readers | For partners
-- suggested keyword seed: radiance, about, books, research, what, world, ancient, artistic, ashraellen, cycle, northern, philosophical, art, book, card, confuse, figurative, form
-- candidates: about, book, radiance, ancient, world, cycle, form, research, what, artistic, northern, philosophical, through, art, can, hearing, instructions, language, literary, project, responsibility, return, sampo, series
+- suggested keyword seed: radiance, about, artistic-research, books, what, world, ancient, ashraellen, cycle, northern, philosophical, book, confuse, figurative, form, frame, history, how
+- candidates: about, book, radiance, ancient, world, cycle, form, what, artistic-research, northern, philosophical, through, attunement, can, hearing, instructions, language, literary, project, responsibility, return, sampo, series, word
 
 Excerpt:
 
-> Literary and philosophical cycle / artistic research through fiction Radiance Northern tales about the real history of the world. A long-term cycle in which an art form becomes a mode of exploration. We do not retell "Kalevala". We show the world from which such stories could emerge. Books of the series Study frame What is “Radiance” short Epics, fairy tales and ancient histories of different peoples can be read as different figurative languages of access to deep knowledge. Each people received its tools and instructions in a form appropriate to its land, language, memory, pain, climate, work and way of hearing the world. Radiance / "Radiance" is a literary and philosophical artistic research series about how ancient stories preserve imaginative instructions for the world. Finnish-Karelian and Kalevala material is the main northern spine of the cycle. We are trying to understand what hum
+> Literary and philosophical cycle / artistic research through fiction Radiance Northern tales about the real history of the world. A long-term cycle in which an art form becomes a mode of exploration. We do not retell "Kalevala". We show the world from which such stories could emerge. Books of the series Artistic-research frame What is “Radiance” short Epics, fairy tales and ancient histories of different peoples can be read as different figurative languages of access to deep knowledge. Each people received its tools and instructions in a form appropriate to its land, language, memory, pain, climate, work and way of hearing the world. Radiance / “Radiance” is a literary and philosophical artistic-research series about how ancient stories preserve figurative instructions for the world. Finnish-Karelian and Kalevala material is the main northern spine of the cycle. We are trying to understa
 
 ### en/books/radiance/sampo/index.html
 
