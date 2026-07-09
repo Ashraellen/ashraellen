@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-09T12:23:51.032Z
+Generated: 2026-07-09T12:25:09.390Z
 Pages: 582
 
 ## Index
@@ -71,7 +71,7 @@ Pages: 582
 | be/research/projects/index.html | be | research | Ashraellen — Праекты даследавання | ashraellen, research, projects, праекты, даследавання, карта, рабочых, палёў, monolith, асноўны, канал, публічнае, поле, сатырычныя, бакавыя, лабараторыі, ўспрымання, instagram | ashraellen, праекты, monolith, research, telegram, бакавыя, канал, лабараторыі, поле, church, inner, instagram, melodies, occultus, projects, saint, scriptorium, sounds |
 | be/research/sources/index.html | be | research | Ashraellen — Крыніцы і традыцыя | ashraellen, research, sources, крыніцы, традыцыя, фенаменалогія, свядомасці, цела, наратыў, кагнітыўная, навука, мастацкая, практыка, эдмунд, гусерль, досвед, гатовых, тлумачэнняў | ashraellen, крыніцы, традыцыя, цела, research, аповед, досвед, свядомасці, свядомасць, фенаменалогія, sources, бачным, варэла, гатовых, гусерль, даследавання, досведу, жывая |
 | de/books/error-404-god-not-found/index.html | de | books | Ashraellen — Fehler 404: Gott nicht gefunden | _missing_ | fehler, gefunden, gott, nicht, 404, der, die, ashraellen, books, das, den, ein, kanzlei, reihe, beschwerde, buch, bücher, des |
-| de/books/error-404-god-not-found/why-me/index.html | de | books | Ashraellen — Warum ich? | _missing_ | ich, warum, der, die, 404, ashraellen, books, buch, das, fehler, gott, nicht, über, und, auszug, beschwerde, bürokratie, ein |
+| de/books/error-404-god-not-found/why-me/index.html | de | books | Ashraellen — Warum ich? | _missing_ | ich, der, die, warum, ashraellen, books, buch, das, ein, nicht, über, und, 404, auf, auszug, bedeutungsschichten, beschwerde, buches |
 | de/books/index.html | de | books | Ashraellen — Bücher | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | bücher, ashraellen, und, books, buch, satire, 404, audioroman, bereits, bist, book, buchzyklen, das, der, die, eigenständige, ein, eine |
 | de/books/monolith/beton/index.html | de | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ist, ashraellen, books, buch, das, den, der, für, monolith, über, und, akte, als, ausgewählter, auszug, band, bedeutungsknoten |
 | de/books/monolith/index.html | de | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ist, der, und, ashraellen, books, den, eine, erinnerung, gas, kontrolle, nicht, was, bände, beton, darf, des, die |
@@ -1688,14 +1688,14 @@ Excerpt:
 - description: Warum ich? — Buch I der Reihe Fehler 404: Gott nicht gefunden. Ein philosophisch-satirischer Roman über Schmerz, Beschwerde, Glauben, die Bürokratie der Seele und die Himmlische Kanzlei.
 - canonical: https://www.ashraellen.com/de/books/error-404-god-not-found/why-me/
 - H1: Warum ich?
-- H2: Über das Buch | Auszug
+- H2: Über das Buch | Thema des Buches | Bedeutungsschichten | Auszug
 - H3: Kapitel eins. Fehler 404
-- suggested keyword seed: ich, warum, der, die, 404, ashraellen, books, buch, das, fehler, gott, nicht, über, und, auszug, beschwerde, bürokratie, ein
-- candidates: die, der, nicht, ich, das, und, fehler, 404, eine, gott, habe, warum, auf, beschwerde, buch, dann, den, ein, gefunden, kanzlei, antwort, bürokratie, des, eins
+- suggested keyword seed: ich, der, die, warum, ashraellen, books, buch, das, ein, nicht, über, und, 404, auf, auszug, bedeutungsschichten, beschwerde, buches
+- candidates: die, der, nicht, das, und, ich, ein, auf, vlad, dann, eine, den, mit, war, sich, als, ist, dem, warum, sie, wie, dass, einer, gott
 
 Excerpt:
 
-> Warum ich? Buch I der Reihe Fehler 404: Gott nicht gefunden . Ein philosophisch-satirischer Roman über Schmerz, Beschwerde, Glauben, die Bürokratie der Seele und die Himmlische Kanzlei, die nicht auf die Worte des Antrags antwortet, sondern auf den, der ihn stellt. Über das Buch in Druckvorbereitung In Vorbereitung Warum ich? ist das erste Buch der Reihe Fehler 404: Gott nicht gefunden . Es erzählt von Vlad, einem Juristen und gereizten Antragsteller gegen das Universum, der versucht, den eigenen Schmerz in eine korrekt formulierte Beschwerde zu verwandeln. Vlad sucht keine Erleuchtung. Er will Erklärungen — möglichst schriftlich, mit Unterschrift, Stempel, Aktenzeichen und Einspruchsmöglichkeit. Doch die Himmlische Kanzlei arbeitet nicht wie eine Entschädigungsabteilung. Sie registriert den Antrag, klärt die Kategorie und zeigt allmählich: Der Fehler kann nicht im Fehlen einer Antwort l
+> Warum ich? Buch I der Reihe Fehler 404: Gott nicht gefunden . Ein philosophisch-satirischer Roman über Schmerz, Beschwerde, Glauben, die Bürokratie der Seele und die Himmlische Kanzlei, die nicht auf die Worte des Antrags antwortet, sondern auf den, der ihn stellt. Über das Buch in Druckvorbereitung In Vorbereitung Warum ich? ist das erste Buch der Reihe Fehler 404: Gott nicht gefunden . Es erzählt von Vlad, einem Juristen und gereizten Antragsteller gegen das Universum, der versucht, den eigenen Schmerz in eine korrekt formulierte Beschwerde zu verwandeln. Vlad sucht keine Erleuchtung. Er will Erklärungen — möglichst schriftlich, mit Unterschrift, Stempel, Aktenzeichen und Einspruchsmöglichkeit. Er ist überzeugt, dass Leiden ihm das Recht gibt, eine Antwort zu verlangen, und dass das Leben wenigstens einen Verfahrensfehler anerkennen sollte. Doch die Himmlische Kanzlei arbeitet nicht wi
 
 ### de/books/index.html
 
