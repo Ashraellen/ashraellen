@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           persist-credentials: true
-      - name: Refine protected Stage 04 text
+      - name: Final protected cleanup
         run: |
           python3 - <<'PY'
           from pathlib import Path
@@ -38,61 +38,29 @@ jobs:
                   print('  -', h[:120])
 
           replace_checked('en/books/radiance/sampo/index.html', [
-              ('Then in the morning, when I woke up before Eve and stood for a long time at the small sink under the sloping ceiling.', 'Then in the morning, when she woke up before Eve and stood for a long time at the small sink under the sloping ceiling.'),
-              ('The earth has almost disappeared.', 'The soil had almost disappeared.'),
-              ("Didn't warm up. I was just watching.", 'She was not warming herself. She was just watching.'),
-              ('This bothered me for some reason.', 'This bothered her for some reason.'),
-              ('I entered as people enter, ready in advance to prove that the day has not broken them.', 'He entered the way people enter when they are ready in advance to prove that the day has not broken them.'),
-              ('He sets a boundary.', 'He was setting a boundary.'),
-              ('He lay down on the plate with a sound like he was taking a position.', 'It settled on the plate with a sound like it was taking a position.'),
-              ('- She often knows before her head.', '— The hand often knows before the head.'),
-              ('And then I was angry with myself for noticing.', 'And then she was angry with herself for noticing.'),
-              ('The laughter passed easily. He did not destroy the tension, but allowed it not to become a pose.', 'The laughter passed easily. It did not destroy the tension, but allowed it not to become a pose.'),
-              ('He wanted stability. I wanted warmth. I wanted to not depend on the neighbor\'s door.', 'He wanted stability. He wanted warmth. He wanted not to depend on the neighbor\'s door.'),
-              ('And yours - on bread.', 'And her own - on bread.'),
-              ('The house behind me made a muffled noise.', 'The house behind her made a muffled noise.'),
-              ('The grass wet my boots almost immediately.', 'The grass wet her boots almost immediately.'),
-              ('If in the morning a person begins to negotiate with a torch, it means that the night really was not in vain.', 'If in the morning a person begins to negotiate with a piece of kindling, it means that the night really was not in vain.'),
-              ('I did it slowly and a little unevenly. Sometimes I reached for the berry, then changed my mind.', 'She did it slowly and a little unevenly. Sometimes she reached for a berry, then changed her mind.'),
-              ('Then I start to think about where to put the excess.', 'Then she starts to think about where to put the excess.'),
-              ('- That after it you start hearing all sorts of nonsense.', '— That afterwards you start hearing all sorts of nonsense.'),
-              ('Sophia', 'Sofia'),
-              ('Not because I was afraid.', 'Not because she was afraid.'),
-              ('a burnt branch, which Marek did not finish finishing.', 'a burnt branch that Marek had not finished burning.'),
-              ('He was a surface.', 'It was a surface.'),
-              ('But more precisely than I wanted.', 'But more precise than she wanted.'),
-              ('A branch crunched behind me.', 'A branch crunched behind her.'),
-              ('- I said that I want it myself.', '— I said I wanted to be by myself.'),
-              ('- He didn’t leave him because he didn’t want to.', '— He didn’t leave it because he didn’t want to.'),
-              ('And I got angry at myself for it.', 'And she got angry at herself for it.'),
-              ('He was lying in the same place as before.', 'It lay in the same place as before.'),
-              ('Thomas sat next to him and pretended to read something on his phone without connection.', 'Thomas sat next to it and pretended to read something on his phone without connection.'),
-              ('Nick automatically held it with his fingers so as not to fall.', 'Nick automatically held it with his fingers so it would not fall.'),
-              ('The fire did not immediately accept him.', 'The fire did not immediately accept it.'),
-              ('First he licked the edge.', 'First it licked the edge.'),
-              ('Then he stopped.', 'Then it stopped.'),
+              ('There was no sign that the ground beneath him had been a body yesterday.', 'There was no sign that the ground beneath it had been a body yesterday.'),
+              ('Sofia saw him immediately.', 'Sofia saw it immediately.'),
           ])
 
           replace_checked('en/books/radiance/song/index.html', [
-              ('a bag on my lap', 'a bag on her lap'),
-              ('No roots, no bones, no old cold, no breath to breath.', 'No roots, no bones, no old cold, no breath against breath.'),
-              ('Not about himself. Not about the face, not about the house, not about his voice at the stove.', 'Not about him. Not about his face, not about the house, not about his voice at the stove.'),
-              ('the face of a man who could now lie right in the hallway and consider this a cultural practice.', 'the face of a person who could now lie right in the hallway and consider this a cultural practice.'),
-              ('But Ayla suddenly heard something too familiar in him.', 'But Ayla suddenly heard something too familiar in it.'),
-              ('I listened to the room.', 'She listened to the room.'),
-              ('Professional recording filled my head. And suddenly she seemed too confident.', 'The professional recording filled her head. And suddenly it seemed too confident.'),
-              ('To yourself.', 'At herself.'),
-              ('The phrase hung over the instrument.\n<p data-p="187">She was not beautiful.', 'The phrase hung over the instrument.\n<p data-p="187">It was not beautiful.'),
-              ('— Physically, yes. Artistically, there is an investigation underway.', '— Physically, yes. Artistically, an investigation is underway.'),
-              ('- Isla?', '- Ayla?'),
+              ('So correct that I wanted to ask:', 'So correct that she wanted to ask:'),
+              ('a professional voice rose in my head:', 'a professional voice rose in her head:'),
+              ('<p data-p="187">She was not beautiful.', '<p data-p="187">It was not beautiful.'),
+              ('She did not steal. I didn\'t devalue it.', 'She did not steal. She did not devalue it.'),
+              ('<p data-p="240">I thought.</p>', '<p data-p="240">She thought.</p>'),
+              ('This time she did not turn on the click right away. I sat. She listened to the room.', 'This time she did not turn on the click right away. She sat. She listened to the room.'),
+              ('a person needs to notice: he is not the only one making the sound.', 'a person needs to notice: she is not the only one making the sound.'),
               ('Ayla thought almost irritably: ideal, of course, public transport now also wants to be included in the arrangement.', 'Ayla thought almost irritably: perfect, of course, public transport now also wants to be included in the arrangement.'),
-              ('She wrote it down. I listened.', 'She wrote it down. She listened.'),
-              ('This was worse as a ready-made intro.', 'This worked worse as a ready-made intro.'),
-              ('It’s very convenient to say this when you’re not the one to send a sketch tomorrow', 'It is very convenient to say this when you are not the one who has to send a sketch tomorrow'),
-              ('“Let it make noise” is also my answer.', '“Let it make noise” is also an answer.'),
-              ("She's tired. She was hungry.", 'She was tired. She was hungry.'),
-              ('Inside the cymbals, the wood slowly cooled after her hands.', 'Inside the cymbals, the wood slowly cooled after her touch.'),
-              ('The former right to consider sound her material.', 'The former right to consider sound as her material.'),
+              ('“Let him make noise” is also my answer.', '“Let it make noise” is also an answer.'),
+              ('Shouldn\'t have become one.', 'He should not have become one.'),
+              ('<p data-p="305">Walked up to the shelf with the kantele.</p>', '<p data-p="305">She walked up to the shelf with the kantele.</p>'),
+              ('<p data-p="306">Didn\'t open the case.</p>', '<p data-p="306">She did not open the case.</p>'),
+              ('<p data-p="307">Just stood there.</p>', '<p data-p="307">She just stood there.</p>'),
+              ('and at home he is greeted by yogurt that needs to be thrown away.', 'and at home she is greeted by yogurt that needs to be thrown away.'),
+              ('<div class="song-status"><strong>EN</strong><span>English literary transcreation is planned as the next stage.</span></div>', '<div class="song-status"><strong>EN</strong><span>English literary transcreation completed.</span></div>'),
+              ('Partnership for English, Polish and Finnish versions.', 'Partnership for Polish and Finnish versions.'),
+              ('Art Research Frame', 'Artistic-research frame'),
+              ('can language become a form of attunement to the order of reality.', 'can language become a form of attunement to the order of reality.'),
           ])
 
           expected = {'en/books/radiance/sampo/index.html': 569, 'en/books/radiance/song/index.html': 351}
@@ -103,15 +71,15 @@ jobs:
                   raise SystemExit(f'{path}: bad data-p sequence/count: {len(nums)} expected {exp}')
               print(path, 'data-p OK', exp)
           PY
-      - name: Commit protected refinement
+      - name: Commit final protected cleanup
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git status --short
           if ! git diff --quiet; then
             git add en/books/radiance/sampo/index.html en/books/radiance/song/index.html
-            git commit -m "Stage 04: refine English protected chapters"
+            git commit -m "Stage 04: final English protected cleanup"
             git push
           else
-            echo "No protected refinement changes"
+            echo "No final protected cleanup changes"
           fi
