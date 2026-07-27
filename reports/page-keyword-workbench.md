@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-09T12:45:56.482Z
-Pages: 582
+Generated: 2026-07-27T18:19:12.707Z
+Pages: 585
 
 ## Index
 
@@ -17,7 +17,7 @@ Pages: 582
 | be/books/radiance/sampo/index.html | be | books | Ashraellen — САМПО \| Ззянне, кніга I | Ashraellen, Ззянне, САМПО, Песня, Кнігі, literary-philosophical, artistic research | сампо, ashraellen, books, ззянне, кніга, radiance, sampo, аддзяліўся, але, амаль, багацці, без, было, валоданні, выбраная, выдавецкі, выдаўцоў, глава |
 | be/books/radiance/song/index.html | be | books | Ashraellen — Песня \| Ззянне, кніга II | Ashraellen, Ззянне, САМПО, Песня, Кнігі, literary-philosophical, artistic research | песня, ashraellen, books, ззянне, кніга, пра, radiance, song, айла, але, амаль, без, была, было, быў, варшаву, выбраная, выдавецкі |
 | be/books/seccus/index.html | be | books | Ashraellen — САКРАЛЬНАЯ КНІГА АХЕПСУ | Ashraellen, АХЕПСУ, Сакральная кніга АХЕПСУ, Шлях Сумленнасці, філасофская сатыра, грошы, поспех, самаашуканства, веды як алібі, адказнасць, Sacrunomicon, Ordo Sacrunomiconis, Тэтра-Кніга | ахепсу, кніга, пра, сакральная, ashraellen, books, грошы, поспех, sacrunomicon, seccus, ssmv, або, абраная, адказнасць, але, алібі, без, веды |
-| be/books/the-book-of-whinesis/index.html | be | books | Ashraellen — Кніга Ныцця | ashraellen, books, book, whinesis, кніга, ныцця, святая, сатыра, тых, хто, стаміўся, пазітыўных, вайбаў, бясконцай, прадуктыўнасці, культу, поспеху, пра | кніга, ныцця, ashraellen, books, пра, хто, book, whinesis, будзе, будзеш, бясконцай, вайбаў, глава, главы, госпад, каб, кнігу, культу |
+| be/books/the-book-of-whinesis/index.html | be | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, кніга, ныцця, святая, сатыра, тых, хто, стаміўся, пазітыўных, вайбаў, бясконцай, прадуктыўнасці, культу, поспеху, пра | book, whinesis, ashraellen, books, пра, хто, будзе, будзеш, бясконцай, вайбаў, глава, главы, госпад, каб, кнігу, культу, моаніі, моанія |
 | be/books/you-are-already-online/index.html | be | books | Ashraellen — Ты ўжо ў сетцы | ashraellen, books, you, already, online, ўжо, сетцы, імерсіўны, аўдыяраман, жанры, псіхалагічнага, трылера, кіберпанк-драмы, пра, лічбавую, рэальнасць, алгарытмы, гіперрэальнасць | сетцы, ўжо, пра, ashraellen, books, глава, рэальнасць, already, online, you, алгарытмы, аўдыяраман, было, гіперрэальнасць, дзе, жанры, занадта, імерсіўны |
 | be/contact.html | be | contact.html | Кантакт — Ashraellen | ashraellen, contact, кантакт, кантактная, старонка, супрацоўніцтва, публікацыі, гранты, медыя, запыты, праекце, doctype, html, title, function, const, isgithub, location.hostname.endswith | ashraellen, кантакт, гранты, запыты, медыя, праекце, публікацыі, супрацоўніцтва, contact, contact.html, telegram, telegram-канал, кантактная, публічныя, сувязі |
 | be/index.html | be | index.html | Ashraellen — кнігі, даследаванні і публічныя тэксты | ashraellen, кнігі, даследаванні, публічныя, тэксты, шматмоўны, аўтарскі, праект, які, аб’ядноўвае, відэа, формы, ўнутранага, назірання, doctype, html, title, function | ashraellen, даследаванні, кнігі, публічныя, тэксты, відэа, формы, deutsch, english, español, index.html, аб’ядноўвае, аўтарскі, даследаванне, назірання, праект, публічнае, ўнутранага |
@@ -80,7 +80,7 @@ Pages: 582
 | de/books/radiance/sampo/index.html | de | books | Ashraellen — Sampo \| Glanz, Buch I | Ashraellen, Glanz, Sampo, Lied, Bücher, literary-philosophical, artistic research | und, sampo, buch, das, der, ist, ashraellen, books, eine, für, glanz, nicht, über, arbeit, auf, besitz, den, die |
 | de/books/radiance/song/index.html | de | books | Ashraellen — Lied \| Glanz, Buch II | Ashraellen, Glanz, Sampo, Lied, Bücher, literary-philosophical, artistic research | das, lied, und, buch, ashraellen, books, der, eine, für, glanz, nicht, sprache, über, auf, den, die, ein, eines |
 | de/books/seccus/index.html | de | books | Ashraellen — DAS HEILIGE BUCH SECCUS | Ashraellen, SECCUS, Das Heilige Buch SECCUS, Der Weg der Ehrlichkeit, philosophische Satire, Geld, Erfolg, Selbsttäuschung, Wissen als Alibi, Verantwortung, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Buch | das, buch, der, die, seccus, heilige, und, ashraellen, books, des, für, ist, seite, über, alibi, als, ausgewählte, buches |
-| de/books/the-book-of-whinesis/index.html | de | books | Ashraellen — The Book of Whinesis — German | ashraellen, books, book, whinesis, sakrale, satire, für, alle, die, von, positiven, vibes, endloser, produktivität, und, dem, kult, des | book, whinesis, ashraellen, books, des, die, und, alle, auf, auszug, buch, das, dem, den, der, endloser, erfolgs, erste |
+| de/books/the-book-of-whinesis/index.html | de | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sakrale, satire, für, alle, die, von, positiven, vibes, endloser, produktivität, und, dem, kult, des | book, whinesis, ashraellen, books, des, die, und, alle, auf, auszug, buch, das, dem, den, der, endloser, erfolgs, erste |
 | de/books/you-are-already-online/index.html | de | books | Ashraellen — Du bist bereits online | ashraellen, books, you, already, online, bist, bereits, ein, immersiver, audio-roman, genre, des, psychologischen, thrillers, und, cyberpunk-dramas, über, digitale | bereits, online, bist, des, und, ashraellen, books, das, ein, über, algorithmen, already, audio-roman, auszug, buch, cyberpunk-dramas, den, der |
 | de/contact.html | de | contact.html | Kontakt — Ashraellen — German | ashraellen, contact, kontakt, kontaktseite, von, zusammenarbeit, publikationen, förderungen, medien, und, projektanfragen, doctype, html, title, function, const, isgithub, location.hostname.endswith | ashraellen, kontakt, förderungen, medien, projektanfragen, und, von, zusammenarbeit, contact, contact.html, der, dient, german, kontaktseite, kostyshev, öffentliche, publikationen |
 | de/index.html | de | index.html | Ashraellen — Bücher, Forschung und öffentliche Texte | ashraellen, bücher, forschung, und, öffentliche, texte, ist, ein, mehrsprachiges, autorenprojekt, über, videos, formen, innerer, beobachtung, doctype, html, title | ashraellen, bücher, forschung, öffentliche, texte, und, autorenprojekt, formen, ist, bedeutung, beobachtung, ein, eine, index.html, innerer, mehrsprachiges, öffentlich, über |
@@ -133,6 +133,7 @@ Pages: 582
 | de/research/position/index.html | de | research | Ashraellen — Position — German | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, de, research, position | position, ashraellen, als, und, arbeite, beobachtung, beschreibungsmodelle, betrachte, der, erfahrung, erfahrungen, feld, research, forscher, german, ich, innere, künstlerischer |
 | de/research/projects/index.html | de | research | Ashraellen — Forschungsprojekte | ashraellen, research, projects, forschungsprojekte, eine, karte, der, arbeitsfelder, von, monolith, hauptkanal, öffentliches, feld, satirische, projekte, und, seitenlabore, wahrnehmung | ashraellen, der, eine, monolith, projekte, research, und, von, als, arbeitsfelder, book, church, das, die, ein, feld, forschungsprojekte, hauptkanal |
 | de/research/sources/index.html | de | research | Ashraellen — Quellen und Tradition | ashraellen, research, sources, quellen, und, tradition, von, phänomenologie, des, bewusstseins, körper, narration, kognitionswissenschaft, künstlerische, praxis, als, methodische, linien | und, als, der, ashraellen, des, körper, quellen, tradition, erfahrung, forschung, research, bewusstsein, bewusstseins, das, die, edmund, eine, eleanor |
+| demotopia/samizdat/index.html | root | demotopia | Demotopia — samizdat 2.0 — language selection | Ashraellen, Demotopia, samizdat 2.0, book passport, language selection | demotopia, samizdat, 2.0, ashraellen, book, entrance, language, language-neutral, passport, address, code, one, printed, selection |
 | en/books/error-404-god-not-found/index.html | en | books | Ashraellen — Error 404: God Not Found | ashraellen, books, error, 404, god, found, multilingual, philosophical-satirical, novel, cycle, about, heavenly, chancellery, human, complaint, against, universe, searching | error, god, found, 404, books, cycle, about, against, ashraellen, chancellery, heavenly, human, searching, series, begins, book, complaint, multilingual |
 | en/books/error-404-god-not-found/why-me/index.html | en | books | Ashraellen — Why Me? | _missing_ | why, book, error, god, about, ashraellen, books, found, 404, appeal, bureaucracy, chancellery, complaint, did, excerpt, faith, had, heavenly |
 | en/books/index.html | en | books | Ashraellen — Books | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | books, book, ashraellen, 404, god, research, satire, about, already, audio, cycle, cycles, error, found, monolith, novel, online, open |
@@ -143,7 +144,7 @@ Pages: 582
 | en/books/radiance/sampo/index.html | en | books | Ashraellen — Sampo \| Radiance, Book I | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | sampo, book, radiance, ashraellen, books, about, abundance, artistic-research, been, chapter, cultural, featured, first, foundations, frame, has, her, his |
 | en/books/radiance/song/index.html | en | books | Ashraellen — Song \| Radiance, Book II | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | song, about, book, radiance, ashraellen, books, language, sound, artistic-research, ayla, become, chapter, cultural, does, extended, featured, foundations, frame |
 | en/books/seccus/index.html | en | books | Ashraellen — THE SACRED BOOK OF SECCUS | Ashraellen, SECCUS, The Sacred Book of SECCUS, The Path of Honesty, philosophical satire, money, success, self-deception, knowledge as an alibi, responsibility, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Book | book, seccus, about, sacred, ashraellen, books, money, own, success, alibi, choice, corpus, does, frame, honesty, how, knowledge, literary-philosophical |
-| en/books/the-book-of-whinesis/index.html | en | books | Ashraellen — The Book of Whinesis — English | ashraellen, books, book, whinesis, sacred, satire, those, tired, positive, vibes, endless, productivity, cult, success, about, first, chapters, excerpt | book, whinesis, ashraellen, books, about, becomes, chapters, cult, discount, endless, english, excerpt, first, gnorna, lord, moania, positive, productivity |
+| en/books/the-book-of-whinesis/index.html | en | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sacred, satire, those, tired, positive, vibes, endless, productivity, cult, success, about, first, chapters, excerpt | book, whinesis, ashraellen, books, about, becomes, chapters, cult, discount, endless, excerpt, first, gnorna, lord, moania, positive, productivity, sacred |
 | en/books/you-are-already-online/index.html | en | books | Ashraellen — You Are Already Online | ashraellen, books, you, already, online, immersive, audio, novel, genre, psychological, thriller, cyberpunk, drama, about, digital, reality, algorithms, attention | already, online, you, about, ashraellen, books, chapter, first, novel, reality, algorithms, attention, audio, book, cyberpunk, did, digital, drama |
 | en/contact.html | en | contact.html | Contact — Ashraellen — English | ashraellen, contact, cooperation, publishing, grants, media, project, inquiries, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, contact, cooperation, grants, inquiries, media, project, publishing, channel, contact.html, english, kostyshev, materials, telegram |
 | en/index.html | en | index.html | Ashraellen — Books, Research and Public Texts | ashraellen, books, research, public, texts, multilingual, author, project, combining, videos, forms, inner, observation, doctype, html, title, script, professional-link | ashraellen, books, public, research, texts, forms, inner, multilingual, videos, artistic, author, combining, index.html, observation, one, presence, project |
@@ -206,7 +207,7 @@ Pages: 582
 | es/books/radiance/sampo/index.html | es | books | Ashraellen — Sampo \| Resplandor, libro I | Ashraellen, Resplandor, Sampo, Canto, Libros, literary-philosophical, artistic research | del, sampo, libro, ashraellen, books, para, resplandor, una, abundancia, acerca, artística, aún, capítulo, como, con, culturales, destacado, donde |
 | es/books/radiance/song/index.html | es | books | Ashraellen — Canto \| Resplandor, libro II | Ashraellen, Resplandor, Sampo, Canto, Libros, literary-philosophical, artistic research | canto, libro, para, una, ashraellen, books, del, que, resplandor, acerca, ampliada, artística, ayla, capítulo, como, con, convierte, culturales |
 | es/books/seccus/index.html | es | books | Ashraellen — EL LIBRO SAGRADO DE SECCUS | Ashraellen, SECCUS, El Libro Sagrado de SECCUS, El Camino de la Honestidad, sátira filosófica, dinero, éxito, autoengaño, conocimiento como coartada, responsabilidad, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Libro | libro, seccus, sagrado, ashraellen, books, del, dinero, éxito, página, para, sobre, una, autoengaño, camino, coartada, como, con, conocimiento |
-| es/books/the-book-of-whinesis/index.html | es | books | Ashraellen — The Book of Whinesis — Spanish | ashraellen, books, book, whinesis, sátira, sagrada, para, quienes, han, cansado, las, vibras, positivas, productividad, infinita, culto, éxito, sobre | book, whinesis, ashraellen, books, para, sobre, cansado, capítulos, con, culto, del, dijo, estado, éxito, fragmento, han, infinita, las |
+| es/books/the-book-of-whinesis/index.html | es | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sátira, sagrada, para, quienes, han, cansado, las, vibras, positivas, productividad, infinita, culto, éxito, sobre | book, whinesis, ashraellen, books, para, sobre, cansado, capítulos, con, culto, del, dijo, estado, éxito, fragmento, han, infinita, las |
 | es/books/you-are-already-online/index.html | es | books | Ashraellen — Ya estás en la red | ashraellen, books, you, already, online, estás, red, una, novela, sonora, inmersiva, género, del, thriller, psicológico, drama, cyberpunk, sobre | estás, red, ashraellen, books, capítulo, del, los, novela, realidad, sobre, una, algoritmos, already, antes, como, cyberpunk, digital, drama |
 | es/contact.html | es | contact.html | Contacto — Ashraellen — Spanish | ashraellen, contact, contacto, página, cooperación, publicaciones, subvenciones, medios, consultas, del, proyecto, doctype, html, title, function, const, isgithub, location.hostname.endswith | ashraellen, contacto, consultas, cooperación, del, medios, proyecto, subvenciones, canal, contact, contact.html, investigación, página, para, publicaciones, spanish, telegram |
 | es/index.html | es | index.html | Ashraellen — libros, investigación y textos públicos | ashraellen, libros, investigación, textos, públicos, proyecto, autoral, multilingüe, que, reúne, videos, formas, observación, interior, doctype, html, title, function | ashraellen, investigación, libros, públicos, textos, formas, multilingüe, que, artística, autoral, index.html, interior, los, observación, proyecto, público, reúne, una |
@@ -272,7 +273,7 @@ Pages: 582
 | fr/books/radiance/sampo/index.html | fr | books | Ashraellen — Sampo \| Éclat, livre I | Ashraellen, Éclat, Sampo, Chant, Livres, literary-philosophical, artistic research | sampo, ashraellen, books, les, livre, pas, pour, artistique, avec, cadre, chapitre, comme, culturels, dans, éclat, éditeurs, elle, fondations |
 | fr/books/radiance/song/index.html | fr | books | Ashraellen — Chant \| Éclat, livre II | Ashraellen, Éclat, Sampo, Chant, Livres, literary-philosophical, artistic research | ashraellen, books, chant, les, livre, pas, pour, qui, artistique, avec, ayla, cadre, chapitre, culturels, dans, des, éclat, éditeurs |
 | fr/books/seccus/index.html | fr | books | Ashraellen — LE LIVRE SACRÉ DE SECCUS | Ashraellen, SECCUS, Le Livre Sacré de SECCUS, Le Chemin de l’Honnêteté, satire philosophique, argent, réussite, auto-illusion, savoir comme alibi, responsabilité, Sacrunomicon, Ordo Sacrunomiconis, Tétra-Livre | livre, seccus, sacré, ashraellen, books, est, philosophique, pour, qui, réussite, sur, une, alibi, cadre, chemin, choisie, choix, comme |
-| fr/books/the-book-of-whinesis/index.html | fr | books | Ashraellen — The Book of Whinesis — French | ashraellen, books, book, whinesis, satire, sacrée, pour, celles, ceux, qui, sont, fatigués, des, ondes, positives, productivité, sans, fin | book, whinesis, ashraellen, books, des, qui, celles, ceux, chapitres, culte, dans, dit, extrait, fatigués, fin, french, les, livre |
+| fr/books/the-book-of-whinesis/index.html | fr | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, satire, sacrée, pour, celles, ceux, qui, sont, fatigués, des, ondes, positives, productivité, sans, fin | book, whinesis, ashraellen, books, des, qui, celles, ceux, chapitres, culte, dans, dit, extrait, fatigués, fin, les, livre, moania |
 | fr/books/you-are-already-online/index.html | fr | books | Ashraellen — Tu es déjà en ligne | ashraellen, books, you, already, online, déjà, ligne, roman, audio, immersif, entre, thriller, psychologique, drame, cyberpunk, sur, réalité, numérique | déjà, ligne, ashraellen, audio, books, les, réalité, roman, algorithmes, already, avait, avant, chapitre, comme, cyberpunk, dans, des, drame |
 | fr/contact.html | fr | contact.html | Contact — Ashraellen — French | ashraellen, contact, coopération, édition, subventions, médias, demandes, liées, projet, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | ashraellen, contact, coopération, demandes, médias, projet, subventions, aux, canal, contact.html, des, édition, french, kostyshev, liées, telegram |
 | fr/index.html | fr | index.html | Ashraellen — livres, recherche et textes publics | ashraellen, livres, recherche, textes, publics, est, projet, d’auteur, multilingue, réunissant, vidéos, formes, d’observation, intérieure, doctype, html, title, function | ashraellen, livres, publics, recherche, textes, est, formes, multilingue, artistique, avec, d’auteur, d’observation, index.html, intérieure, les, projet, public, réunissant |
@@ -328,6 +329,7 @@ Pages: 582
 | google2b44b1dd60a5fdd9.html | root | google2b44b1dd60a5fdd9.html |  | _missing_ | google2b44b1dd60a5fdd9.html, ashraellen, google-site-verification, google2b44b1dd60a5fdd9 |
 | index.html | root | index.html | Ashraellen — Entry | Ashraellen, Nikolai Kostyshev, books, research, public texts, multilingual archive, literary-philosophical research, inner observation | ashraellen, audiobooks, books, choose, inner, language, observation, public, research, texts, videos, your, entry, index, index.html |
 | monolith/index.html | root | monolith | MONOLITH — Ashraellen | ashraellen, monolith, language, gateway, beton, sludge, gas, doctype, html, title, function, var, routes, languages, navigator.languages, navigator.language, target, routes.en | monolith, language, ashraellen, detecting, deutsch, english, español, français, polski, português, беларуская, определение, русский, beton, gas, gateway, sludge, українська |
+| pl/books/demotopia/samizdat/index.html | pl | books | Demotopia — Paszport książki — samizdat 2.0 | Ashraellen, Demotopia, Demokratyczna Utopia, paszport książki, samizdat 2.0, wydanie autorskie | paszport, samizdat, 2.0, ashraellen, demotopia, książki, wydania, 2026, books, autora, autorskiego, dane, demotopii, egzemplarza, egzemplarzu, niezarejestrowanego, numer, warszawa |
 | pl/books/error-404-god-not-found/index.html | pl | books | Ashraellen — Błąd 404: Boga nie znaleziono | ashraellen, books, error, 404, god, found, błąd, boga, nie, znaleziono, wielojęzyczny, filozoficzno-satyryczny, cykl, powieściowy, niebiańskiej, kancelarii, ludzkiej, pretensji | nie, 404, błąd, boga, znaleziono, ashraellen, bogu, books, kancelarii, który, niebiańskiej, szukania, albo, błędzie, cykl, cyklu, error, filozoficzno-satyryczny |
 | pl/books/error-404-god-not-found/why-me/index.html | pl | books | Ashraellen — Dlaczego ja? | _missing_ | dlaczego, ashraellen, błąd, boga, books, nie, 404, albo, ale, biurokracji, bólu, cyklu, duszy, error, filozoficzno-satyryczna, found, fragment, god |
 | pl/books/index.html | pl | books | Ashraellen — Książki | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | książki, 404, ashraellen, ashraellena, błąd, boga, books, nie, satyra, albo, audio, badania, blask, book, cykl, cykle, jesteś, już |
@@ -338,7 +340,7 @@ Pages: 582
 | pl/books/radiance/sampo/index.html | pl | books | Ashraellen — Sampo \| Blask, Księga I | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | sampo, ashraellen, blask, books, nie, ale, artystycznych, badań, bez, było, chleb, czy, filozoficznej, fundacji, jeszcze, język, już, kogo |
 | pl/books/radiance/song/index.html | pl | books | Ashraellen — Pieśń \| Blask, Księga II | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | pieśń, ashraellen, bez, blask, books, nie, się, ale, artystycznych, ayla, badań, być, był, była, było, druga, dźwięku, fundacji |
 | pl/books/seccus/index.html | pl | books | Ashraellen — ŚWIĘTA KSIĘGA SECCUS | Ashraellen, SECCUS, Święta Księga SECCUS, Droga Uczciwości, satyra filozoficzna, pieniądze, sukces, samooszustwo, wiedza jako alibi, odpowiedzialność, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Księga | seccus, księga, święta, ashraellen, bez, books, jako, alibi, ani, człowiek, droga, filozoficzna, głos, kogo, korpus, książce, książka, książki |
-| pl/books/the-book-of-whinesis/index.html | pl | books | Ashraellen — The Book of Whinesis — Polish | ashraellen, books, book, whinesis, sakralna, satyra, dla, tych, którzy, zmęczyli, się, pozytywnymi, wibracjami, niekończącą, produktywnością, kultem, sukcesu, książce | book, whinesis, się, ashraellen, books, albowiem, będzie, będziesz, fragment, jego, książce, którzy, kultem, moania, moanii, narzekania, nie, niekończącą |
+| pl/books/the-book-of-whinesis/index.html | pl | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sakralna, satyra, dla, tych, którzy, zmęczyli, się, pozytywnymi, wibracjami, niekończącą, produktywnością, kultem, sukcesu, książce | book, whinesis, się, ashraellen, books, albowiem, będzie, będziesz, fragment, jego, książce, którzy, kultem, moania, moanii, narzekania, nie, niekończącą |
 | pl/books/you-are-already-online/index.html | pl | books | Ashraellen — Już jesteś w sieci | ashraellen, books, you, already, online, już, jesteś, sieci, immersyjna, powieść, audio, gatunku, thrillera, psychologicznego, dramatu, cyberpunkowego, cyfrowej, rzeczywistości | jesteś, już, sieci, ashraellen, books, rozdział, algorytmach, already, audio, było, cyberpunkowego, cyfrowej, dramatu, fragment, gatunku, gdzie, hiperrealności, immersyjna |
 | pl/contact.html | pl | contact.html | Kontakt — Ashraellen — Polish | ashraellen, contact, kontakt, współpraca, publikacje, granty, media, zapytania, projektowe, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | ashraellen, kontakt, granty, media, współpraca, contact, contact.html, kanał, kontaktu, polish, projektów, projektowe, publiczne, publikacje, publikacji, służy, telegram, zapytania |
 | pl/index.html | pl | index.html | Ashraellen — książki, badania i teksty publiczne | ashraellen, książki, badania, teksty, publiczne, wielojęzyczny, projekt, autorski, łączący, wideo, formy, wewnętrznej, obserwacji, doctype, html, title, function, const | ashraellen, badania, książki, publiczne, teksty, autorski, formy, wideo, artystyczno-badawcza, badające, człowieka, deutsch, index.html, łączący, obserwacji, projekt, wewnętrznej, wielojęzyczny |
@@ -402,7 +404,7 @@ Pages: 582
 | pt/books/radiance/sampo/index.html | pt | books | Ashraellen — Sampo \| Esplendor, livro I | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | sampo, livro, para, ashraellen, books, esplendor, não, sobre, abundância, ainda, artística, capítulo, com, como, conto, culturais, destaque, editoras |
 | pt/books/radiance/song/index.html | pt | books | Ashraellen — Canto \| Esplendor, livro II | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | canto, livro, para, ashraellen, books, esplendor, não, que, sem, sobre, uma, apresentação, artística, audição, ayla, capítulo, com, como |
 | pt/books/seccus/index.html | pt | books | Ashraellen — O LIVRO SAGRADO DE SECCUS | Ashraellen, SECCUS, O Livro Sagrado de SECCUS, O Caminho da Honestidade, sátira filosófica, dinheiro, sucesso, autoengano, conhecimento como álibi, responsabilidade, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Livro | livro, seccus, sagrado, ashraellen, books, como, página, para, sobre, sucesso, uma, álibi, autoengano, caminho, conhecimento, corpus, dinheiro, escolha |
-| pt/books/the-book-of-whinesis/index.html | pt | books | Ashraellen — The Book of Whinesis — PT | ashraellen, books, book, whinesis, sátira, sagrada, para, quem, cansou, das, vibrações, positivas, produtividade, infinita, culto, sucesso, sobre, livro | book, whinesis, ashraellen, books, para, sobre, cansou, capítulos, culto, das, desconto, disse, gnorna, infinita, livro, moania, não, pois |
+| pt/books/the-book-of-whinesis/index.html | pt | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sátira, sagrada, para, quem, cansou, das, vibrações, positivas, produtividade, infinita, culto, sucesso, sobre, livro | book, whinesis, ashraellen, books, para, sobre, cansou, capítulos, culto, das, desconto, disse, gnorna, infinita, livro, moania, não, pois |
 | pt/books/you-are-already-online/index.html | pt | books | Ashraellen — Você já está online | ashraellen, books, you, already, online, você, está, romance, áudio, imersivo, entre, thriller, psicológico, drama, cyberpunk, sobre, realidade, digital | está, online, você, ashraellen, books, capítulo, realidade, romance, sobre, algoritmos, already, antes, áudio, como, cyberpunk, demais, digital, drama |
 | pt/contact.html | pt | contact.html | Contacto — Ashraellen — PT | ashraellen, contact, contacto, página, cooperação, publicações, bolsas, media, pedidos, relacionados, com, projeto, doctype, html, title, function, const, isgithub | ashraellen, contacto, bolsas, com, cooperação, media, pedidos, projeto, canal, contact, contact.html, investigação, página, para, publicações, relacionados, telegram |
 | pt/index.html | pt | index.html | Ashraellen — livros, pesquisa e textos públicos | ashraellen, livros, pesquisa, textos, públicos, projeto, autoral, multilíngue, que, reúne, vídeos, formas, observação, interior, doctype, html, title, function | ashraellen, livros, pesquisa, públicos, textos, autoral, formas, multilíngue, artística, com, index.html, interior, observação, projeto, público, que, reúne, uma |
@@ -455,6 +457,7 @@ Pages: 582
 | pt/research/position/index.html | pt | research | Ashraellen — Position — PT | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, pt, research, position | position, ashraellen, como, artístico, campo, descrição, experiência, experiências, filosofia, independente, interna, modelos, research, não, observação, pesquisador, religião, são |
 | pt/research/projects/index.html | pt | research | Ashraellen — Projetos de pesquisa | ashraellen, research, projects, projetos, pesquisa, mapa, dos, campos, trabalho, monolith, canal, principal, campo, público, satíricos, laboratórios, laterais, percepção | ashraellen, projetos, campo, monolith, percepção, pesquisa, research, abrir, aqui, book, campos, canal, church, como, dos, inner, instagram, laboratórios |
 | pt/research/sources/index.html | pt | research | Ashraellen — Fontes e tradição | ashraellen, research, sources, fontes, tradição, fenomenologia, consciência, corpo, narrativa, ciência, cognitiva, prática, artística, edmund, husserl, experiência, antes, das | como, ashraellen, consciência, corpo, fontes, narrativa, tradição, experiência, fenomenologia, forma, research, antes, artística, ciência, cognitiva, com, compreensão, das |
+| ru/books/demotopia/samizdat/index.html | ru | books | Demotopia — Паспорт книги — самиздат 2.0 | Ashraellen, Demotopia, Демократичная Утопия, паспорт книги, самиздат 2.0, авторское издание | demotopia, паспорт, 2.0, ashraellen, издания, книги, самиздат, 2026, books, samizdat, автором, авторского, варшава, данные, издание, незарегистрированного, номер, экземпляра |
 | ru/books/error-404-god-not-found/index.html | ru | books | Ashraellen — Ошибка 404: Бог не найден | ashraellen, books, error, 404, god, found, ошибка, бог, найден, многоязычный, философско-сатирический, роман-цикл, небесной, канцелярии, неверно, направленном, поиске, бога | 404, бог, найден, ошибка, ashraellen, books, бога, канцелярии, небесной, error, found, god, дело, его, или, истины, книга, книги |
 | ru/books/error-404-god-not-found/why-me/index.html | ru | books | Ashraellen — Почему я? | ashraellen, books, error, 404, god, found, why, почему, первая, книга, цикла, ошибка, бог, найден, философско-сатирический, роман, человеке, который | почему, 404, ashraellen, books, бога, книга, ошибка, error, found, god, why, бог, влад, всё, жалобу, или, канцелярии, книге |
 | ru/books/index.html | ru | books | Ashraellen — Книги — Russian | ashraellen, books, книги, монолит, сияние, ошибка, 404, бог, найден, ахепсу, уже, сети, книга, нытия, список, doctype, html, title | книги, ashraellen, 404, books, ахепсу, бог, книга, сатира, russian, аудиороман, здесь, или, исследования, книжные, монолит, найден, нытия, отдельные |
@@ -536,7 +539,7 @@ Pages: 582
 | uk/books/radiance/sampo/index.html | uk | books | Ashraellen — САМПО \| Сяйво, книга I | Ashraellen, Сяйво, САМПО, Пісня, Книги, literary-philosophical, artistic research | сампо, ashraellen, books, книга, про, сяйво, radiance, sampo, але, без, біля, було, вибраний, видавничий, видавців, від, відокремився, він |
 | uk/books/radiance/song/index.html | uk | books | Ashraellen — Пісня \| Сяйво, книга II | Ashraellen, Сяйво, САМПО, Пісня, Книги, literary-philosophical, artistic research | пісня, про, ashraellen, books, звук, книга, сяйво, radiance, song, айла, але, без, була, було, варшаву, вибраний, видавничий, видавців |
 | uk/books/seccus/index.html | uk | books | Ashraellen — САКРАЛЬНА КНИГА АХЕПСУ | Ashraellen, АХЕПСУ, Сакральна книга АХЕПСУ, Шлях Чесності, філософська сатира, гроші, успіх, самообман, знання як алібі, відповідальність, Sacrunomicon, Ordo Sacrunomiconis, Тетра-Книга | ахепсу, книга, про, сакральна, ashraellen, books, гроші, сторінка, успіх, sacrunomicon, seccus, ssmv, але, алібі, без, вибір, вибрана, від |
-| uk/books/the-book-of-whinesis/index.html | uk | books | Ashraellen — Книга Нытия — Ukrainian | ashraellen, books, book, whinesis, книга, нытия, сакральна, сатира, тих, хто, втомився, від, позитивних, вайбів, нескінченної, продуктивності, культу, успіху | книга, нытия, ashraellen, books, про, хто, book, ukrainian, whinesis, буде, вайбів, від, він, втомився, глава, глави, господь, його |
+| uk/books/the-book-of-whinesis/index.html | uk | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, книга, нытия, сакральна, сатира, тих, хто, втомився, від, позитивних, вайбів, нескінченної, продуктивності, культу, успіху | book, whinesis, ashraellen, books, про, хто, буде, вайбів, від, він, втомився, глава, глави, господь, його, книгу, культу, моанії |
 | uk/books/you-are-already-online/index.html | uk | books | Ashraellen — Ти вже в мережі | ashraellen, books, you, already, online, вже, мережі, психологічний, технотрилер, про, цифрове, сприйняття, підтвердження, реальність, яка, починає, відповідати, запитання | вже, мережі, ashraellen, books, про, реальність, яка, already, online, you, буде, від, відбувається, відповідати, вона, гачок, дослідницький, запитання |
 | uk/contact.html | uk | contact.html | Контакт — Ashraellen — Ukrainian | ashraellen, contact, контакт, контактна, сторінка, співпраця, публікації, гранти, медіа, запити, щодо, проєкту, doctype, html, title, function, const, isgithub | ashraellen, контакт, гранти, запити, медіа, проєкту, публікації, співпраця, contact, contact.html, telegram, telegram-канал, ukrainian, зв’язку, контактна, публічні, сторінка, щодо |
 | uk/index.html | uk | index.html | Ashraellen — книжки, дослідження і публічні тексти | ashraellen, книжки, дослідження, публічні, тексти, багатомовний, авторський, проєкт, поєднує, відео, форми, внутрішнього, спостереження, doctype, html, title, function, const | ashraellen, дослідження, книжки, публічні, тексти, відео, форми, deutsch, english, español, français, index.html, авторський, багатомовний, внутрішнього, поєднує, проєкт, публічне |
@@ -766,18 +769,18 @@ Excerpt:
 
 - lang: be
 - section: books
-- title: Ashraellen — Кніга Ныцця
-- description: Кніга Ныцця — святая сатыра для тых, хто стаміўся ад пазітыўных вайбаў, бясконцай прадуктыўнасці і культу поспеху.
+- title: Ashraellen — The Book of Whinesis
+- description: The Book of Whinesis — святая сатыра для тых, хто стаміўся ад пазітыўных вайбаў, бясконцай прадуктыўнасці і культу поспеху.
 - canonical: https://www.ashraellen.com/be/books/the-book-of-whinesis/
-- H1: Кніга Ныцця
+- H1: The Book of Whinesis
 - H2: Пра кнігу | Першыя главы | Урывак | Статус
 - H3: _missing_
-- suggested keyword seed: кніга, ныцця, ashraellen, books, пра, хто, book, whinesis, будзе, будзеш, бясконцай, вайбаў, глава, главы, госпад, каб, кнігу, культу
-- candidates: ныцця, сказаў, госпад, пра, будзе, яго, будзеш, каб, хто, глава, кніга, моаніі, моанія, табе, які, гнорна, змей, пакаштаваў, ўсе, яшчэ, аўдыякніга, быў, вось, голас
+- suggested keyword seed: book, whinesis, ashraellen, books, пра, хто, будзе, будзеш, бясконцай, вайбаў, глава, главы, госпад, каб, кнігу, культу, моаніі, моанія
+- candidates: сказаў, ныцця, госпад, пра, будзе, яго, будзеш, каб, хто, глава, моаніі, моанія, табе, які, book, whinesis, гнорна, змей, пакаштаваў, ўсе, яшчэ, аўдыякніга, быў, вось
 
 Excerpt:
 
-> Кніга Ныцця Святая сатыра для тых, хто стаміўся ад "пазітыўных вайбаў", бясконцай прадуктыўнасці і культу поспеху. Пра кнігу уваход у канон "Кніга Ныцця" — псеўдабіблейская сатыра пра чалавека лічбавай эпохі: стомленага, падключанага, раздражнёнага і вечна чакаючага зніжкі, дастаўкі, сігналу, адказу і сэнсу. Тут іронія становіцца лекамі, а выгаранне — адкрыццём. Тут ныцьцё — не слабасць. Гэта малітва. Гэта не пародыя на веру. Гэта пародыя на наша сучаснае пакланенне зручнасці, экрану, апавяшчэнням і ўласнай незадаволенасці. Тут Wi-Fi становіцца лёсам, канапа — алтаром, буферызацыя — вечнасцю, а скарга — першай мовай чалавека, які яшчэ не зразумеў, што шукае спакою. Смешна — пакуль не пазнаеш сябе. А калі пазнаеш, становіцца яшчэ смешней. Першыя главы аўдыякніга / відэаверсія Глава I — Пра Пачатак Ныцця На пачатку было Ныццё — і з яго нарадзілася ісціна. Адкрыццё філасофскай, містычнай і 
+> The Book of Whinesis Святая сатыра для тых, хто стаміўся ад "пазітыўных вайбаў", бясконцай прадуктыўнасці і культу поспеху. Пра кнігу уваход у канон "The Book of Whinesis" — псеўдабіблейская сатыра пра чалавека лічбавай эпохі: стомленага, падключанага, раздражнёнага і вечна чакаючага зніжкі, дастаўкі, сігналу, адказу і сэнсу. Тут іронія становіцца лекамі, а выгаранне — адкрыццём. Тут ныцьцё — не слабасць. Гэта малітва. Гэта не пародыя на веру. Гэта пародыя на наша сучаснае пакланенне зручнасці, экрану, апавяшчэнням і ўласнай незадаволенасці. Тут Wi-Fi становіцца лёсам, канапа — алтаром, буферызацыя — вечнасцю, а скарга — першай мовай чалавека, які яшчэ не зразумеў, што шукае спакою. Смешна — пакуль не пазнаеш сябе. А калі пазнаеш, становіцца яшчэ смешней. Першыя главы аўдыякніга / відэаверсія Глава I — Пра Пачатак Ныцця На пачатку было Ныццё — і з яго нарадзілася ісціна. Адкрыццё філасоф
 
 ### be/books/you-are-already-online/index.html
 
@@ -1837,7 +1840,7 @@ Excerpt:
 
 - lang: de
 - section: books
-- title: Ashraellen — The Book of Whinesis — German
+- title: Ashraellen — The Book of Whinesis
 - description: The Book of Whinesis — sakrale Satire für alle, die von positiven Vibes, endloser Produktivität und dem Kult des Erfolgs müde geworden sind.
 - canonical: https://www.ashraellen.com/de/books/the-book-of-whinesis/
 - H1: The Book of Whinesis
@@ -2734,6 +2737,23 @@ Excerpt:
 
 > Quellen und Tradition Diese Forschung steht am Schnittpunkt von Phänomenologie des Bewusstseins, narrativer Erkenntnis, Kognitionswissenschaft und künstlerischer Praxis. Husserl baute eine Methode der genauen Beschreibung von Erfahrung. Merleau-Ponty brachte das Bewusstsein zum Körper zurück. Ricoeur zeigte, dass Erzählung kein Schmuck der Gedanken ist, sondern eine Form des Selbstverstehens. Varela, Thompson und Rosch verbanden Phänomenologie mit Kognitionswissenschaft und gelebter Erfahrung. Ashraellen arbeitet dort, wo sich diese Linien kreuzen: in einem Bereich, in dem der akademische Text allein nicht mehr ausreicht und die lebendige Erfahrung noch keine genaue Form erhalten hat. Phänomenologie des Bewusstseins Edmund Husserl — Erfahrung vor fertigen Erklärungen Wichtig ist hier nicht der Glaube an den ersten Gedanken, sondern die genaue Beobachtung, wie Erfahrung im Bewusstsein ers
 
+### demotopia/samizdat/index.html
+
+- lang: root
+- section: demotopia
+- title: Demotopia — samizdat 2.0 — language selection
+- description: Language-neutral entrance to the samizdat 2.0 book passport for Demotopia by Ashraellen.
+- canonical: https://www.ashraellen.com/demotopia/samizdat/
+- H1: Demotopia
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: demotopia, samizdat, 2.0, ashraellen, book, entrance, language, language-neutral, passport, address, code, one, printed, selection
+- candidates: language, 2.0, code, demotopia, samizdat, address, book, entrance, language-neutral, one, passport, printed, added, ashraellen, can, choose, edition, every, here, książki, new, only, paszport, permanent
+
+Excerpt:
+
+> One printed code / one permanent entrance Demotopia samizdat 2.0 Choose the language of the book passport. This address remains the same for every language edition. Русский Паспорт книги → Polski Paszport książki → The QR code points only to this language-neutral address. New language versions can be added here without replacing the printed code.
+
 ### en/books/error-404-god-not-found/index.html
 
 - lang: en
@@ -2908,13 +2928,13 @@ Excerpt:
 
 - lang: en
 - section: books
-- title: Ashraellen — The Book of Whinesis — English
+- title: Ashraellen — The Book of Whinesis
 - description: The Book of Whinesis — sacred satire for those tired of positive vibes, endless productivity, and the cult of success.
 - canonical: https://www.ashraellen.com/en/books/the-book-of-whinesis/
 - H1: The Book of Whinesis
 - H2: About the book | First chapters | Excerpt | Status
 - H3: _missing_
-- suggested keyword seed: book, whinesis, ashraellen, books, about, becomes, chapters, cult, discount, endless, english, excerpt, first, gnorna, lord, moania, positive, productivity
+- suggested keyword seed: book, whinesis, ashraellen, books, about, becomes, chapters, cult, discount, endless, excerpt, first, gnorna, lord, moania, positive, productivity, sacred
 - candidates: you, shall, whine, said, your, lord, moania, unto, was, discount, gnorna, becomes, couch, eat, his, sausage, serpent, all, ate, book, every, supermarket, they, upon
 
 Excerpt:
@@ -3979,7 +3999,7 @@ Excerpt:
 
 - lang: es
 - section: books
-- title: Ashraellen — The Book of Whinesis — Spanish
+- title: Ashraellen — The Book of Whinesis
 - description: The Book of Whinesis — sátira sagrada para quienes se han cansado de las vibras positivas, la productividad infinita y el culto al éxito.
 - canonical: https://www.ashraellen.com/es/books/the-book-of-whinesis/
 - H1: The Book of Whinesis
@@ -5101,13 +5121,13 @@ Excerpt:
 
 - lang: fr
 - section: books
-- title: Ashraellen — The Book of Whinesis — French
+- title: Ashraellen — The Book of Whinesis
 - description: The Book of Whinesis — satire sacrée pour celles et ceux qui sont fatigués des ondes positives, de la productivité sans fin et du culte du succès.
 - canonical: https://www.ashraellen.com/fr/books/the-book-of-whinesis/
 - H1: The Book of Whinesis
 - H2: À propos du livre | Premiers chapitres | Extrait | Statut
 - H3: _missing_
-- suggested keyword seed: book, whinesis, ashraellen, books, des, qui, celles, ceux, chapitres, culte, dans, dit, extrait, fatigués, fin, french, les, livre
+- suggested keyword seed: book, whinesis, ashraellen, books, des, qui, celles, ceux, chapitres, culte, dans, dit, extrait, fatigués, fin, les, livre, moania
 - candidates: des, les, que, dit, plainte, une, dans, pas, qui, seigneur, sur, moania, pour, car, gnorna, canapé, devient, réduction, serpent, tous, est, saucisson, supermarché, ton
 
 Excerpt:
@@ -6049,6 +6069,23 @@ Excerpt:
 
 > MONOLITH Detecting language… Определение языка… English Русский Беларуская Polski Deutsch Español Français Português Українська
 
+### pl/books/demotopia/samizdat/index.html
+
+- lang: pl
+- section: books
+- title: Demotopia — Paszport książki — samizdat 2.0
+- description: Paszport autorskiego wydania niezarejestrowanego Demotopii — samizdat 2.0, Ashraellen, Warszawa, 2026.
+- canonical: https://www.ashraellen.com/pl/books/demotopia/samizdat/
+- H1: Paszport książki
+- H2: Dane wydania | O egzemplarzu
+- H3: _missing_
+- suggested keyword seed: paszport, samizdat, 2.0, ashraellen, demotopia, książki, wydania, 2026, books, autora, autorskiego, dane, demotopii, egzemplarza, egzemplarzu, niezarejestrowanego, numer, warszawa
+- candidates: 2.0, demotopia, egzemplarza, książki, samizdat, wydania, autora, numer, paszport, wydanie, 2026, ashraellen, autorskie, indywidualny, niezarejestrowane, przez, warszawa, wewnątrz, aktualny, autor, autorskiego, dane, decyzji, demokratyczna
+
+Excerpt:
+
+> Demotopia / Autorskie wydanie niezarejestrowane Paszport książki samizdat 2.0 Ta strona dotyczy szczególnego fizycznego wydania powieści Demotopia , przygotowanego i wydanego przez autora. Dane wydania Utwór Demotopia — Demokratyczna Utopia Autor Ashraellen Wydanie Autorskie wydanie niezarejestrowane Format samizdat 2.0 Miejsce i rok Warszawa, 2026 Język egzemplarza Polski O egzemplarzu Każdy fizyczny egzemplarz otrzymuje numer i może zostać ręcznie podpisany przez autora. Numer znajduje się na stronie egzemplarza wewnątrz książki. Kod QR jest wspólny dla wszystkich wersji językowych i egzemplarzy. Łączy fizyczną książkę z paszportem wydania; indywidualny numer pozostaje wewnątrz egzemplarza. Aktualny status. Struktura paszportu została utworzona. Zasady przekazywania książki, zamawiania podpisanego egzemplarza oraz ewentualny indywidualny rejestr zostaną dodane wyłącznie po osobnej decy
+
 ### pl/books/error-404-god-not-found/index.html
 
 - lang: pl
@@ -6223,7 +6260,7 @@ Excerpt:
 
 - lang: pl
 - section: books
-- title: Ashraellen — The Book of Whinesis — Polish
+- title: Ashraellen — The Book of Whinesis
 - description: The Book of Whinesis — sakralna satyra dla tych, którzy zmęczyli się pozytywnymi wibracjami, niekończącą się produktywnością i kultem sukcesu.
 - canonical: https://www.ashraellen.com/pl/books/the-book-of-whinesis/
 - H1: The Book of Whinesis
@@ -7311,7 +7348,7 @@ Excerpt:
 
 - lang: pt
 - section: books
-- title: Ashraellen — The Book of Whinesis — PT
+- title: Ashraellen — The Book of Whinesis
 - description: The Book of Whinesis — sátira sagrada para quem se cansou das vibrações positivas, da produtividade infinita e do culto ao sucesso.
 - canonical: https://www.ashraellen.com/pt/books/the-book-of-whinesis/
 - H1: The Book of Whinesis
@@ -8207,6 +8244,23 @@ Excerpt:
 Excerpt:
 
 > Fontes e tradição Esta pesquisa situa-se no cruzamento entre a fenomenologia da consciência, a epistemologia narrativa, a ciência cognitiva e a prática artística. Husserl constrói um método de descrição precisa da experiência. Merleau-Ponty devolve a consciência ao corpo. Ricoeur mostra que a narrativa não é um ornamento do pensamento, mas uma forma de compreensão de si. Varela, Thompson e Rosch aproximam a fenomenologia da ciência cognitiva e da experiência vivida. Ashraellen trabalha onde essas linhas se cruzam: numa zona em que o texto acadêmico sozinho já não basta, e onde a experiência viva ainda não recebeu uma forma exata. Fenomenologia da consciência Edmund Husserl — a experiência antes das explicações prontas O importante aqui não é acreditar no primeiro pensamento, mas observar com precisão como a experiência aparece na consciência. As explicações habituais são temporariamente 
+
+### ru/books/demotopia/samizdat/index.html
+
+- lang: ru
+- section: books
+- title: Demotopia — Паспорт книги — самиздат 2.0
+- description: Паспорт авторского незарегистрированного издания Demotopia — самиздат 2.0, Ashraellen, Варшава, 2026.
+- canonical: https://www.ashraellen.com/ru/books/demotopia/samizdat/
+- H1: Паспорт книги
+- H2: Данные издания | Об экземпляре
+- H3: _missing_
+- suggested keyword seed: demotopia, паспорт, 2.0, ashraellen, издания, книги, самиздат, 2026, books, samizdat, автором, авторского, варшава, данные, издание, незарегистрированного, номер, экземпляра
+- candidates: demotopia, 2.0, книги, самиздат, экземпляра, издание, издания, номер, паспорт, 2026, ashraellen, автором, авторского, авторское, варшава, внутри, индивидуальный, незарегистрированное, автор, будут, быть, версий, возможный, вручную
+
+Excerpt:
+
+> Demotopia / Авторское незарегистрированное издание Паспорт книги самиздат 2.0 Эта страница относится к особому физическому изданию романа Demotopia , подготовленному и выпущенному автором. Данные издания Произведение Demotopia — Демократичная Утопия Автор Ashraellen Издание Авторское незарегистрированное издание Формат самиздат 2.0 Место и год Варшава, 2026 Язык экземпляра Русский Об экземпляре Каждый физический экземпляр получает номер и может быть подписан автором вручную. Номер находится на странице экземпляра внутри книги. QR общий для всех языковых версий и экземпляров. Он связывает физическую книгу с паспортом издания; индивидуальный номер остаётся внутри экземпляра. Текущий статус. Структура паспорта создана. Порядок передачи книги, заказ подписанного экземпляра и возможный индивидуальный реестр будут добавлены только после отдельного авторского решения.
 
 ### ru/books/error-404-god-not-found/index.html
 
@@ -9589,18 +9643,18 @@ Excerpt:
 
 - lang: uk
 - section: books
-- title: Ashraellen — Книга Нытия — Ukrainian
-- description: Книга Нытия — сакральна сатира для тих, хто втомився від позитивних вайбів, нескінченної продуктивності та культу успіху.
+- title: Ashraellen — The Book of Whinesis
+- description: The Book of Whinesis — сакральна сатира для тих, хто втомився від позитивних вайбів, нескінченної продуктивності та культу успіху.
 - canonical: https://www.ashraellen.com/uk/books/the-book-of-whinesis/
-- H1: Книга Нытия
+- H1: The Book of Whinesis
 - H2: Про книгу | Перші глави | Уривок | Статус
 - H3: _missing_
-- suggested keyword seed: книга, нытия, ashraellen, books, про, хто, book, ukrainian, whinesis, буде, вайбів, від, він, втомився, глава, глави, господь, його
-- candidates: сказав, нарікання, господь, він, про, буде, його, хто, глава, книга, моанії, моанія, тобі, щоб, від, гнорна, диван, змій, знижку, можна, нытия, аудіокнига, був, вони
+- suggested keyword seed: book, whinesis, ashraellen, books, про, хто, буде, вайбів, від, він, втомився, глава, глави, господь, його, книгу, культу, моанії
+- candidates: сказав, нарікання, господь, він, про, буде, його, хто, глава, моанії, моанія, тобі, щоб, book, whinesis, від, гнорна, диван, змій, знижку, можна, аудіокнига, був, вони
 
 Excerpt:
 
-> Книга Нытия Сакральна сатира для тих, хто втомився від «позитивних вайбів», нескінченної продуктивності та культу успіху. Про книгу вхід до канону Книга Нытия — це псевдобіблійна сатира про людину цифрової епохи: втомлену, підключену, роздратовану й таку, що вічно чекає на знижку, доставку, сигнал, відповідь і сенс. Тут іронія стає ліками, а вигорання — одкровенням. Тут нарікання — не слабкість. Це молитва. Це не пародія на віру. Це пародія на наше сучасне поклоніння зручності, екрану, сповіщенням і власному невдоволенню. Тут Wi-Fi стає долею, диван — вівтарем, буферизація — вічністю, а скарга — першою мовою людини, яка ще не зрозуміла, що шукає спокою. Смішно — доки не впізнаєш себе. А коли впізнаєш, стає ще смішніше. Перші глави аудіокнига / відеоверсія Глава I — Про початок нарікання На початку було нарікання — і з нього народилася істина. Відкриття філософської, містичної та символіч
+> The Book of Whinesis Сакральна сатира для тих, хто втомився від «позитивних вайбів», нескінченної продуктивності та культу успіху. Про книгу вхід до канону The Book of Whinesis — це псевдобіблійна сатира про людину цифрової епохи: втомлену, підключену, роздратовану й таку, що вічно чекає на знижку, доставку, сигнал, відповідь і сенс. Тут іронія стає ліками, а вигорання — одкровенням. Тут нарікання — не слабкість. Це молитва. Це не пародія на віру. Це пародія на наше сучасне поклоніння зручності, екрану, сповіщенням і власному невдоволенню. Тут Wi-Fi стає долею, диван — вівтарем, буферизація — вічністю, а скарга — першою мовою людини, яка ще не зрозуміла, що шукає спокою. Смішно — доки не впізнаєш себе. А коли впізнаєш, стає ще смішніше. Перші глави аудіокнига / відеоверсія Глава I — Про початок нарікання На початку було нарікання — і з нього народилася істина. Відкриття філософської, міс
 
 ### uk/books/you-are-already-online/index.html
 

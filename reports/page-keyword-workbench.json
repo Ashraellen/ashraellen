@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-09T12:45:56.471Z",
+  "generated": "2026-07-27T18:19:12.696Z",
   "pages": [
     {
       "page": "be/books/error-404-god-not-found/index.html",
@@ -811,12 +811,12 @@
       "page": "be/books/the-book-of-whinesis/index.html",
       "lang": "be",
       "section": "books",
-      "title": "Ashraellen — Кніга Ныцця",
-      "description": "Кніга Ныцця — святая сатыра для тых, хто стаміўся ад пазітыўных вайбаў, бясконцай прадуктыўнасці і культу поспеху.",
+      "title": "Ashraellen — The Book of Whinesis",
+      "description": "The Book of Whinesis — святая сатыра для тых, хто стаміўся ад пазітыўных вайбаў, бясконцай прадуктыўнасці і культу поспеху.",
       "existingKeywords": "ashraellen, books, book, whinesis, кніга, ныцця, святая, сатыра, тых, хто, стаміўся, пазітыўных, вайбаў, бясконцай, прадуктыўнасці, культу, поспеху, пра",
       "canonical": "https://www.ashraellen.com/be/books/the-book-of-whinesis/",
       "h1": [
-        "Кніга Ныцця"
+        "The Book of Whinesis"
       ],
       "h2": [
         "Пра кнігу",
@@ -833,10 +833,10 @@
         "of",
         "whinesis"
       ],
-      "excerpt": "Кніга Ныцця Святая сатыра для тых, хто стаміўся ад \"пазітыўных вайбаў\", бясконцай прадуктыўнасці і культу поспеху. Пра кнігу уваход у канон \"Кніга Ныцця\" — псеўдабіблейская сатыра пра чалавека лічбавай эпохі: стомленага, падключанага, раздражнёнага і вечна чакаючага зніжкі, дастаўкі, сігналу, адказу і сэнсу. Тут іронія становіцца лекамі, а выгаранне — адкрыццём. Тут ныцьцё — не слабасць. Гэта малітва. Гэта не пародыя на веру. Гэта пародыя на наша сучаснае пакланенне зручнасці, экрану, апавяшчэнням і ўласнай незадаволенасці. Тут Wi-Fi становіцца лёсам, канапа — алтаром, буферызацыя — вечнасцю, а скарга — першай мовай чалавека, які яшчэ не зразумеў, што шукае спакою. Смешна — пакуль не пазнаеш сябе. А калі пазнаеш, становіцца яшчэ смешней. Першыя главы аўдыякніга / відэаверсія Глава I — Пра Пачатак Ныцця На пачатку было Ныццё — і з яго нарадзілася ісціна. Адкрыццё філасофскай, містычнай і ",
+      "excerpt": "The Book of Whinesis Святая сатыра для тых, хто стаміўся ад \"пазітыўных вайбаў\", бясконцай прадуктыўнасці і культу поспеху. Пра кнігу уваход у канон \"The Book of Whinesis\" — псеўдабіблейская сатыра пра чалавека лічбавай эпохі: стомленага, падключанага, раздражнёнага і вечна чакаючага зніжкі, дастаўкі, сігналу, адказу і сэнсу. Тут іронія становіцца лекамі, а выгаранне — адкрыццём. Тут ныцьцё — не слабасць. Гэта малітва. Гэта не пародыя на веру. Гэта пародыя на наша сучаснае пакланенне зручнасці, экрану, апавяшчэнням і ўласнай незадаволенасці. Тут Wi-Fi становіцца лёсам, канапа — алтаром, буферызацыя — вечнасцю, а скарга — першай мовай чалавека, які яшчэ не зразумеў, што шукае спакою. Смешна — пакуль не пазнаеш сябе. А калі пазнаеш, становіцца яшчэ смешней. Першыя главы аўдыякніга / відэаверсія Глава I — Пра Пачатак Ныцця На пачатку было Ныццё — і з яго нарадзілася ісціна. Адкрыццё філасоф",
       "candidates": [
-        "ныцця",
         "сказаў",
+        "ныцця",
         "госпад",
         "пра",
         "будзе",
@@ -845,11 +845,12 @@
         "каб",
         "хто",
         "глава",
-        "кніга",
         "моаніі",
         "моанія",
         "табе",
         "які",
+        "book",
+        "whinesis",
         "гнорна",
         "змей",
         "пакаштаваў",
@@ -857,18 +858,15 @@
         "яшчэ",
         "аўдыякніга",
         "быў",
-        "вось",
-        "голас"
+        "вось"
       ],
       "suggestedKeywordSeed": [
-        "кніга",
-        "ныцця",
+        "book",
+        "whinesis",
         "ashraellen",
         "books",
         "пра",
         "хто",
-        "book",
-        "whinesis",
         "будзе",
         "будзеш",
         "бясконцай",
@@ -878,7 +876,9 @@
         "госпад",
         "каб",
         "кнігу",
-        "культу"
+        "культу",
+        "моаніі",
+        "моанія"
       ]
     },
     {
@@ -5479,7 +5479,7 @@
       "page": "de/books/the-book-of-whinesis/index.html",
       "lang": "de",
       "section": "books",
-      "title": "Ashraellen — The Book of Whinesis — German",
+      "title": "Ashraellen — The Book of Whinesis",
       "description": "The Book of Whinesis — sakrale Satire für alle, die von positiven Vibes, endloser Produktivität und dem Kult des Erfolgs müde geworden sind.",
       "existingKeywords": "ashraellen, books, book, whinesis, sakrale, satire, für, alle, die, von, positiven, vibes, endloser, produktivität, und, dem, kult, des",
       "canonical": "https://www.ashraellen.com/de/books/the-book-of-whinesis/",
@@ -9357,6 +9357,67 @@
       ]
     },
     {
+      "page": "demotopia/samizdat/index.html",
+      "lang": "root",
+      "section": "demotopia",
+      "title": "Demotopia — samizdat 2.0 — language selection",
+      "description": "Language-neutral entrance to the samizdat 2.0 book passport for Demotopia by Ashraellen.",
+      "existingKeywords": "Ashraellen, Demotopia, samizdat 2.0, book passport, language selection",
+      "canonical": "https://www.ashraellen.com/demotopia/samizdat/",
+      "h1": [
+        "Demotopia"
+      ],
+      "h2": [],
+      "h3": [],
+      "slugTerms": [
+        "demotopia",
+        "samizdat"
+      ],
+      "excerpt": "One printed code / one permanent entrance Demotopia samizdat 2.0 Choose the language of the book passport. This address remains the same for every language edition. Русский Паспорт книги → Polski Paszport książki → The QR code points only to this language-neutral address. New language versions can be added here without replacing the printed code.",
+      "candidates": [
+        "language",
+        "2.0",
+        "code",
+        "demotopia",
+        "samizdat",
+        "address",
+        "book",
+        "entrance",
+        "language-neutral",
+        "one",
+        "passport",
+        "printed",
+        "added",
+        "ashraellen",
+        "can",
+        "choose",
+        "edition",
+        "every",
+        "here",
+        "książki",
+        "new",
+        "only",
+        "paszport",
+        "permanent"
+      ],
+      "suggestedKeywordSeed": [
+        "demotopia",
+        "samizdat",
+        "2.0",
+        "ashraellen",
+        "book",
+        "entrance",
+        "language",
+        "language-neutral",
+        "passport",
+        "address",
+        "code",
+        "one",
+        "printed",
+        "selection"
+      ]
+    },
+    {
       "page": "en/books/error-404-god-not-found/index.html",
       "lang": "en",
       "section": "books",
@@ -10166,7 +10227,7 @@
       "page": "en/books/the-book-of-whinesis/index.html",
       "lang": "en",
       "section": "books",
-      "title": "Ashraellen — The Book of Whinesis — English",
+      "title": "Ashraellen — The Book of Whinesis",
       "description": "The Book of Whinesis — sacred satire for those tired of positive vibes, endless productivity, and the cult of success.",
       "existingKeywords": "ashraellen, books, book, whinesis, sacred, satire, those, tired, positive, vibes, endless, productivity, cult, success, about, first, chapters, excerpt",
       "canonical": "https://www.ashraellen.com/en/books/the-book-of-whinesis/",
@@ -10226,14 +10287,14 @@
         "cult",
         "discount",
         "endless",
-        "english",
         "excerpt",
         "first",
         "gnorna",
         "lord",
         "moania",
         "positive",
-        "productivity"
+        "productivity",
+        "sacred"
       ]
     },
     {
@@ -14824,7 +14885,7 @@
       "page": "es/books/the-book-of-whinesis/index.html",
       "lang": "es",
       "section": "books",
-      "title": "Ashraellen — The Book of Whinesis — Spanish",
+      "title": "Ashraellen — The Book of Whinesis",
       "description": "The Book of Whinesis — sátira sagrada para quienes se han cansado de las vibras positivas, la productividad infinita y el culto al éxito.",
       "existingKeywords": "ashraellen, books, book, whinesis, sátira, sagrada, para, quienes, han, cansado, las, vibras, positivas, productividad, infinita, culto, éxito, sobre",
       "canonical": "https://www.ashraellen.com/es/books/the-book-of-whinesis/",
@@ -19682,7 +19743,7 @@
       "page": "fr/books/the-book-of-whinesis/index.html",
       "lang": "fr",
       "section": "books",
-      "title": "Ashraellen — The Book of Whinesis — French",
+      "title": "Ashraellen — The Book of Whinesis",
       "description": "The Book of Whinesis — satire sacrée pour celles et ceux qui sont fatigués des ondes positives, de la productivité sans fin et du culte du succès.",
       "existingKeywords": "ashraellen, books, book, whinesis, satire, sacrée, pour, celles, ceux, qui, sont, fatigués, des, ondes, positives, productivité, sans, fin",
       "canonical": "https://www.ashraellen.com/fr/books/the-book-of-whinesis/",
@@ -19747,9 +19808,9 @@
         "extrait",
         "fatigués",
         "fin",
-        "french",
         "les",
-        "livre"
+        "livre",
+        "moania"
       ]
     },
     {
@@ -23700,6 +23761,76 @@
       ]
     },
     {
+      "page": "pl/books/demotopia/samizdat/index.html",
+      "lang": "pl",
+      "section": "books",
+      "title": "Demotopia — Paszport książki — samizdat 2.0",
+      "description": "Paszport autorskiego wydania niezarejestrowanego Demotopii — samizdat 2.0, Ashraellen, Warszawa, 2026.",
+      "existingKeywords": "Ashraellen, Demotopia, Demokratyczna Utopia, paszport książki, samizdat 2.0, wydanie autorskie",
+      "canonical": "https://www.ashraellen.com/pl/books/demotopia/samizdat/",
+      "h1": [
+        "Paszport książki"
+      ],
+      "h2": [
+        "Dane wydania",
+        "O egzemplarzu"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "pl",
+        "books",
+        "demotopia",
+        "samizdat"
+      ],
+      "excerpt": "Demotopia / Autorskie wydanie niezarejestrowane Paszport książki samizdat 2.0 Ta strona dotyczy szczególnego fizycznego wydania powieści Demotopia , przygotowanego i wydanego przez autora. Dane wydania Utwór Demotopia — Demokratyczna Utopia Autor Ashraellen Wydanie Autorskie wydanie niezarejestrowane Format samizdat 2.0 Miejsce i rok Warszawa, 2026 Język egzemplarza Polski O egzemplarzu Każdy fizyczny egzemplarz otrzymuje numer i może zostać ręcznie podpisany przez autora. Numer znajduje się na stronie egzemplarza wewnątrz książki. Kod QR jest wspólny dla wszystkich wersji językowych i egzemplarzy. Łączy fizyczną książkę z paszportem wydania; indywidualny numer pozostaje wewnątrz egzemplarza. Aktualny status. Struktura paszportu została utworzona. Zasady przekazywania książki, zamawiania podpisanego egzemplarza oraz ewentualny indywidualny rejestr zostaną dodane wyłącznie po osobnej decy",
+      "candidates": [
+        "2.0",
+        "demotopia",
+        "egzemplarza",
+        "książki",
+        "samizdat",
+        "wydania",
+        "autora",
+        "numer",
+        "paszport",
+        "wydanie",
+        "2026",
+        "ashraellen",
+        "autorskie",
+        "indywidualny",
+        "niezarejestrowane",
+        "przez",
+        "warszawa",
+        "wewnątrz",
+        "aktualny",
+        "autor",
+        "autorskiego",
+        "dane",
+        "decyzji",
+        "demokratyczna"
+      ],
+      "suggestedKeywordSeed": [
+        "paszport",
+        "samizdat",
+        "2.0",
+        "ashraellen",
+        "demotopia",
+        "książki",
+        "wydania",
+        "2026",
+        "books",
+        "autora",
+        "autorskiego",
+        "dane",
+        "demotopii",
+        "egzemplarza",
+        "egzemplarzu",
+        "niezarejestrowanego",
+        "numer",
+        "warszawa"
+      ]
+    },
+    {
       "page": "pl/books/error-404-god-not-found/index.html",
       "lang": "pl",
       "section": "books",
@@ -24509,7 +24640,7 @@
       "page": "pl/books/the-book-of-whinesis/index.html",
       "lang": "pl",
       "section": "books",
-      "title": "Ashraellen — The Book of Whinesis — Polish",
+      "title": "Ashraellen — The Book of Whinesis",
       "description": "The Book of Whinesis — sakralna satyra dla tych, którzy zmęczyli się pozytywnymi wibracjami, niekończącą się produktywnością i kultem sukcesu.",
       "existingKeywords": "ashraellen, books, book, whinesis, sakralna, satyra, dla, tych, którzy, zmęczyli, się, pozytywnymi, wibracjami, niekończącą, produktywnością, kultem, sukcesu, książce",
       "canonical": "https://www.ashraellen.com/pl/books/the-book-of-whinesis/",
@@ -29244,7 +29375,7 @@
       "page": "pt/books/the-book-of-whinesis/index.html",
       "lang": "pt",
       "section": "books",
-      "title": "Ashraellen — The Book of Whinesis — PT",
+      "title": "Ashraellen — The Book of Whinesis",
       "description": "The Book of Whinesis — sátira sagrada para quem se cansou das vibrações positivas, da produtividade infinita e do culto ao sucesso.",
       "existingKeywords": "ashraellen, books, book, whinesis, sátira, sagrada, para, quem, cansou, das, vibrações, positivas, produtividade, infinita, culto, sucesso, sobre, livro",
       "canonical": "https://www.ashraellen.com/pt/books/the-book-of-whinesis/",
@@ -33106,6 +33237,76 @@
         "com",
         "compreensão",
         "das"
+      ]
+    },
+    {
+      "page": "ru/books/demotopia/samizdat/index.html",
+      "lang": "ru",
+      "section": "books",
+      "title": "Demotopia — Паспорт книги — самиздат 2.0",
+      "description": "Паспорт авторского незарегистрированного издания Demotopia — самиздат 2.0, Ashraellen, Варшава, 2026.",
+      "existingKeywords": "Ashraellen, Demotopia, Демократичная Утопия, паспорт книги, самиздат 2.0, авторское издание",
+      "canonical": "https://www.ashraellen.com/ru/books/demotopia/samizdat/",
+      "h1": [
+        "Паспорт книги"
+      ],
+      "h2": [
+        "Данные издания",
+        "Об экземпляре"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "ru",
+        "books",
+        "demotopia",
+        "samizdat"
+      ],
+      "excerpt": "Demotopia / Авторское незарегистрированное издание Паспорт книги самиздат 2.0 Эта страница относится к особому физическому изданию романа Demotopia , подготовленному и выпущенному автором. Данные издания Произведение Demotopia — Демократичная Утопия Автор Ashraellen Издание Авторское незарегистрированное издание Формат самиздат 2.0 Место и год Варшава, 2026 Язык экземпляра Русский Об экземпляре Каждый физический экземпляр получает номер и может быть подписан автором вручную. Номер находится на странице экземпляра внутри книги. QR общий для всех языковых версий и экземпляров. Он связывает физическую книгу с паспортом издания; индивидуальный номер остаётся внутри экземпляра. Текущий статус. Структура паспорта создана. Порядок передачи книги, заказ подписанного экземпляра и возможный индивидуальный реестр будут добавлены только после отдельного авторского решения.",
+      "candidates": [
+        "demotopia",
+        "2.0",
+        "книги",
+        "самиздат",
+        "экземпляра",
+        "издание",
+        "издания",
+        "номер",
+        "паспорт",
+        "2026",
+        "ashraellen",
+        "автором",
+        "авторского",
+        "авторское",
+        "варшава",
+        "внутри",
+        "индивидуальный",
+        "незарегистрированное",
+        "автор",
+        "будут",
+        "быть",
+        "версий",
+        "возможный",
+        "вручную"
+      ],
+      "suggestedKeywordSeed": [
+        "demotopia",
+        "паспорт",
+        "2.0",
+        "ashraellen",
+        "издания",
+        "книги",
+        "самиздат",
+        "2026",
+        "books",
+        "samizdat",
+        "автором",
+        "авторского",
+        "варшава",
+        "данные",
+        "издание",
+        "незарегистрированного",
+        "номер",
+        "экземпляра"
       ]
     },
     {
@@ -39181,12 +39382,12 @@
       "page": "uk/books/the-book-of-whinesis/index.html",
       "lang": "uk",
       "section": "books",
-      "title": "Ashraellen — Книга Нытия — Ukrainian",
-      "description": "Книга Нытия — сакральна сатира для тих, хто втомився від позитивних вайбів, нескінченної продуктивності та культу успіху.",
+      "title": "Ashraellen — The Book of Whinesis",
+      "description": "The Book of Whinesis — сакральна сатира для тих, хто втомився від позитивних вайбів, нескінченної продуктивності та культу успіху.",
       "existingKeywords": "ashraellen, books, book, whinesis, книга, нытия, сакральна, сатира, тих, хто, втомився, від, позитивних, вайбів, нескінченної, продуктивності, культу, успіху",
       "canonical": "https://www.ashraellen.com/uk/books/the-book-of-whinesis/",
       "h1": [
-        "Книга Нытия"
+        "The Book of Whinesis"
       ],
       "h2": [
         "Про книгу",
@@ -39203,7 +39404,7 @@
         "of",
         "whinesis"
       ],
-      "excerpt": "Книга Нытия Сакральна сатира для тих, хто втомився від «позитивних вайбів», нескінченної продуктивності та культу успіху. Про книгу вхід до канону Книга Нытия — це псевдобіблійна сатира про людину цифрової епохи: втомлену, підключену, роздратовану й таку, що вічно чекає на знижку, доставку, сигнал, відповідь і сенс. Тут іронія стає ліками, а вигорання — одкровенням. Тут нарікання — не слабкість. Це молитва. Це не пародія на віру. Це пародія на наше сучасне поклоніння зручності, екрану, сповіщенням і власному невдоволенню. Тут Wi-Fi стає долею, диван — вівтарем, буферизація — вічністю, а скарга — першою мовою людини, яка ще не зрозуміла, що шукає спокою. Смішно — доки не впізнаєш себе. А коли впізнаєш, стає ще смішніше. Перші глави аудіокнига / відеоверсія Глава I — Про початок нарікання На початку було нарікання — і з нього народилася істина. Відкриття філософської, містичної та символіч",
+      "excerpt": "The Book of Whinesis Сакральна сатира для тих, хто втомився від «позитивних вайбів», нескінченної продуктивності та культу успіху. Про книгу вхід до канону The Book of Whinesis — це псевдобіблійна сатира про людину цифрової епохи: втомлену, підключену, роздратовану й таку, що вічно чекає на знижку, доставку, сигнал, відповідь і сенс. Тут іронія стає ліками, а вигорання — одкровенням. Тут нарікання — не слабкість. Це молитва. Це не пародія на віру. Це пародія на наше сучасне поклоніння зручності, екрану, сповіщенням і власному невдоволенню. Тут Wi-Fi стає долею, диван — вівтарем, буферизація — вічністю, а скарга — першою мовою людини, яка ще не зрозуміла, що шукає спокою. Смішно — доки не впізнаєш себе. А коли впізнаєш, стає ще смішніше. Перші глави аудіокнига / відеоверсія Глава I — Про початок нарікання На початку було нарікання — і з нього народилася істина. Відкриття філософської, міс",
       "candidates": [
         "сказав",
         "нарікання",
@@ -39214,32 +39415,29 @@
         "його",
         "хто",
         "глава",
-        "книга",
         "моанії",
         "моанія",
         "тобі",
         "щоб",
+        "book",
+        "whinesis",
         "від",
         "гнорна",
         "диван",
         "змій",
         "знижку",
         "можна",
-        "нытия",
         "аудіокнига",
         "був",
         "вони"
       ],
       "suggestedKeywordSeed": [
-        "книга",
-        "нытия",
+        "book",
+        "whinesis",
         "ashraellen",
         "books",
         "про",
         "хто",
-        "book",
-        "ukrainian",
-        "whinesis",
         "буде",
         "вайбів",
         "від",
@@ -39248,7 +39446,10 @@
         "глава",
         "глави",
         "господь",
-        "його"
+        "його",
+        "книгу",
+        "культу",
+        "моанії"
       ]
     },
     {
