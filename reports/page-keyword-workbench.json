@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27T18:19:12.696Z",
+  "generated": "2026-07-27T18:23:19.926Z",
   "pages": [
     {
       "page": "be/books/error-404-god-not-found/index.html",
@@ -9354,67 +9354,6 @@
         "edmund",
         "eine",
         "eleanor"
-      ]
-    },
-    {
-      "page": "demotopia/samizdat/index.html",
-      "lang": "root",
-      "section": "demotopia",
-      "title": "Demotopia — samizdat 2.0 — language selection",
-      "description": "Language-neutral entrance to the samizdat 2.0 book passport for Demotopia by Ashraellen.",
-      "existingKeywords": "Ashraellen, Demotopia, samizdat 2.0, book passport, language selection",
-      "canonical": "https://www.ashraellen.com/demotopia/samizdat/",
-      "h1": [
-        "Demotopia"
-      ],
-      "h2": [],
-      "h3": [],
-      "slugTerms": [
-        "demotopia",
-        "samizdat"
-      ],
-      "excerpt": "One printed code / one permanent entrance Demotopia samizdat 2.0 Choose the language of the book passport. This address remains the same for every language edition. Русский Паспорт книги → Polski Paszport książki → The QR code points only to this language-neutral address. New language versions can be added here without replacing the printed code.",
-      "candidates": [
-        "language",
-        "2.0",
-        "code",
-        "demotopia",
-        "samizdat",
-        "address",
-        "book",
-        "entrance",
-        "language-neutral",
-        "one",
-        "passport",
-        "printed",
-        "added",
-        "ashraellen",
-        "can",
-        "choose",
-        "edition",
-        "every",
-        "here",
-        "książki",
-        "new",
-        "only",
-        "paszport",
-        "permanent"
-      ],
-      "suggestedKeywordSeed": [
-        "demotopia",
-        "samizdat",
-        "2.0",
-        "ashraellen",
-        "book",
-        "entrance",
-        "language",
-        "language-neutral",
-        "passport",
-        "address",
-        "code",
-        "one",
-        "printed",
-        "selection"
       ]
     },
     {
@@ -23761,76 +23700,6 @@
       ]
     },
     {
-      "page": "pl/books/demotopia/samizdat/index.html",
-      "lang": "pl",
-      "section": "books",
-      "title": "Demotopia — Paszport książki — samizdat 2.0",
-      "description": "Paszport autorskiego wydania niezarejestrowanego Demotopii — samizdat 2.0, Ashraellen, Warszawa, 2026.",
-      "existingKeywords": "Ashraellen, Demotopia, Demokratyczna Utopia, paszport książki, samizdat 2.0, wydanie autorskie",
-      "canonical": "https://www.ashraellen.com/pl/books/demotopia/samizdat/",
-      "h1": [
-        "Paszport książki"
-      ],
-      "h2": [
-        "Dane wydania",
-        "O egzemplarzu"
-      ],
-      "h3": [],
-      "slugTerms": [
-        "pl",
-        "books",
-        "demotopia",
-        "samizdat"
-      ],
-      "excerpt": "Demotopia / Autorskie wydanie niezarejestrowane Paszport książki samizdat 2.0 Ta strona dotyczy szczególnego fizycznego wydania powieści Demotopia , przygotowanego i wydanego przez autora. Dane wydania Utwór Demotopia — Demokratyczna Utopia Autor Ashraellen Wydanie Autorskie wydanie niezarejestrowane Format samizdat 2.0 Miejsce i rok Warszawa, 2026 Język egzemplarza Polski O egzemplarzu Każdy fizyczny egzemplarz otrzymuje numer i może zostać ręcznie podpisany przez autora. Numer znajduje się na stronie egzemplarza wewnątrz książki. Kod QR jest wspólny dla wszystkich wersji językowych i egzemplarzy. Łączy fizyczną książkę z paszportem wydania; indywidualny numer pozostaje wewnątrz egzemplarza. Aktualny status. Struktura paszportu została utworzona. Zasady przekazywania książki, zamawiania podpisanego egzemplarza oraz ewentualny indywidualny rejestr zostaną dodane wyłącznie po osobnej decy",
-      "candidates": [
-        "2.0",
-        "demotopia",
-        "egzemplarza",
-        "książki",
-        "samizdat",
-        "wydania",
-        "autora",
-        "numer",
-        "paszport",
-        "wydanie",
-        "2026",
-        "ashraellen",
-        "autorskie",
-        "indywidualny",
-        "niezarejestrowane",
-        "przez",
-        "warszawa",
-        "wewnątrz",
-        "aktualny",
-        "autor",
-        "autorskiego",
-        "dane",
-        "decyzji",
-        "demokratyczna"
-      ],
-      "suggestedKeywordSeed": [
-        "paszport",
-        "samizdat",
-        "2.0",
-        "ashraellen",
-        "demotopia",
-        "książki",
-        "wydania",
-        "2026",
-        "books",
-        "autora",
-        "autorskiego",
-        "dane",
-        "demotopii",
-        "egzemplarza",
-        "egzemplarzu",
-        "niezarejestrowanego",
-        "numer",
-        "warszawa"
-      ]
-    },
-    {
       "page": "pl/books/error-404-god-not-found/index.html",
       "lang": "pl",
       "section": "books",
@@ -24550,6 +24419,135 @@
         "druga",
         "dźwięku",
         "fundacji"
+      ]
+    },
+    {
+      "page": "pl/books/samizdat/demotopia/index.html",
+      "lang": "pl",
+      "section": "books",
+      "title": "Demotopia — Paszport książki — samizdat 2.0",
+      "description": "Paszport autorskiego wydania niezarejestrowanego Demotopii — samizdat 2.0, Ashraellen, Warszawa, 2026.",
+      "existingKeywords": "Ashraellen, Demotopia, Demokratyczna Utopia, paszport książki, samizdat 2.0, wydanie autorskie",
+      "canonical": "https://www.ashraellen.com/pl/books/samizdat/demotopia/",
+      "h1": [
+        "Paszport książki"
+      ],
+      "h2": [
+        "Dane wydania",
+        "O egzemplarzu"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "pl",
+        "books",
+        "samizdat",
+        "demotopia"
+      ],
+      "excerpt": "Demotopia / Autorskie wydanie niezarejestrowane Paszport książki samizdat 2.0 Ta strona dotyczy szczególnego fizycznego wydania powieści Demotopia , przygotowanego i wydanego przez autora. Dane wydania Utwór Demotopia — Demokratyczna Utopia Autor Ashraellen Wydanie Autorskie wydanie niezarejestrowane Format samizdat 2.0 Miejsce i rok Warszawa, 2026 Język egzemplarza Polski O egzemplarzu Każdy fizyczny egzemplarz otrzymuje numer i może zostać ręcznie podpisany przez autora. Numer znajduje się na stronie egzemplarza wewnątrz książki. Kod QR jest wspólny dla wszystkich wersji językowych i egzemplarzy. Łączy fizyczną książkę z paszportem wydania; indywidualny numer pozostaje wewnątrz egzemplarza. Aktualny status. Struktura paszportu została utworzona. Zasady przekazywania książki, zamawiania podpisanego egzemplarza oraz ewentualny indywidualny rejestr zostaną dodane wyłącznie po osobnej decy",
+      "candidates": [
+        "2.0",
+        "demotopia",
+        "egzemplarza",
+        "książki",
+        "samizdat",
+        "wydania",
+        "autora",
+        "numer",
+        "paszport",
+        "wydanie",
+        "2026",
+        "ashraellen",
+        "autorskie",
+        "indywidualny",
+        "niezarejestrowane",
+        "przez",
+        "warszawa",
+        "wewnątrz",
+        "aktualny",
+        "autor",
+        "autorskiego",
+        "dane",
+        "decyzji",
+        "demokratyczna"
+      ],
+      "suggestedKeywordSeed": [
+        "paszport",
+        "samizdat",
+        "2.0",
+        "ashraellen",
+        "demotopia",
+        "książki",
+        "wydania",
+        "2026",
+        "books",
+        "autora",
+        "autorskiego",
+        "dane",
+        "demotopii",
+        "egzemplarza",
+        "egzemplarzu",
+        "niezarejestrowanego",
+        "numer",
+        "warszawa"
+      ]
+    },
+    {
+      "page": "pl/books/samizdat/index.html",
+      "lang": "pl",
+      "section": "books",
+      "title": "samizdat 2.0 — Wydania autorskie Ashraellen",
+      "description": "Autorskie wydania niezarejestrowane samizdat 2.0 i paszporty fizycznych książek Ashraellen.",
+      "existingKeywords": "Ashraellen, samizdat 2.0, wydania autorskie, paszport książki, Demotopia",
+      "canonical": "https://www.ashraellen.com/pl/books/samizdat/",
+      "h1": [
+        "samizdat 2.0"
+      ],
+      "h2": [],
+      "h3": [],
+      "slugTerms": [
+        "pl",
+        "books",
+        "samizdat"
+      ],
+      "excerpt": "Autorskie wydania niezarejestrowane samizdat 2.0 Osobna seria fizycznych książek Ashraellen: numerowanych, podpisywanych ręcznie i połączonych ze stałymi paszportami cyfrowymi. Demotopia Paszport książki →",
+      "candidates": [
+        "2.0",
+        "ashraellen",
+        "autorskie",
+        "samizdat",
+        "wydania",
+        "fizycznych",
+        "książek",
+        "niezarejestrowane",
+        "cyfrowymi",
+        "demotopia",
+        "książki",
+        "numerowanych",
+        "osobna",
+        "paszport",
+        "paszportami",
+        "paszporty",
+        "podpisywanych",
+        "połączonych",
+        "ręcznie",
+        "seria",
+        "stałymi"
+      ],
+      "suggestedKeywordSeed": [
+        "samizdat",
+        "2.0",
+        "ashraellen",
+        "autorskie",
+        "wydania",
+        "books",
+        "fizycznych",
+        "książek",
+        "niezarejestrowane",
+        "cyfrowymi",
+        "demotopia",
+        "książki",
+        "numerowanych",
+        "paszporty"
       ]
     },
     {
@@ -33240,76 +33238,6 @@
       ]
     },
     {
-      "page": "ru/books/demotopia/samizdat/index.html",
-      "lang": "ru",
-      "section": "books",
-      "title": "Demotopia — Паспорт книги — самиздат 2.0",
-      "description": "Паспорт авторского незарегистрированного издания Demotopia — самиздат 2.0, Ashraellen, Варшава, 2026.",
-      "existingKeywords": "Ashraellen, Demotopia, Демократичная Утопия, паспорт книги, самиздат 2.0, авторское издание",
-      "canonical": "https://www.ashraellen.com/ru/books/demotopia/samizdat/",
-      "h1": [
-        "Паспорт книги"
-      ],
-      "h2": [
-        "Данные издания",
-        "Об экземпляре"
-      ],
-      "h3": [],
-      "slugTerms": [
-        "ru",
-        "books",
-        "demotopia",
-        "samizdat"
-      ],
-      "excerpt": "Demotopia / Авторское незарегистрированное издание Паспорт книги самиздат 2.0 Эта страница относится к особому физическому изданию романа Demotopia , подготовленному и выпущенному автором. Данные издания Произведение Demotopia — Демократичная Утопия Автор Ashraellen Издание Авторское незарегистрированное издание Формат самиздат 2.0 Место и год Варшава, 2026 Язык экземпляра Русский Об экземпляре Каждый физический экземпляр получает номер и может быть подписан автором вручную. Номер находится на странице экземпляра внутри книги. QR общий для всех языковых версий и экземпляров. Он связывает физическую книгу с паспортом издания; индивидуальный номер остаётся внутри экземпляра. Текущий статус. Структура паспорта создана. Порядок передачи книги, заказ подписанного экземпляра и возможный индивидуальный реестр будут добавлены только после отдельного авторского решения.",
-      "candidates": [
-        "demotopia",
-        "2.0",
-        "книги",
-        "самиздат",
-        "экземпляра",
-        "издание",
-        "издания",
-        "номер",
-        "паспорт",
-        "2026",
-        "ashraellen",
-        "автором",
-        "авторского",
-        "авторское",
-        "варшава",
-        "внутри",
-        "индивидуальный",
-        "незарегистрированное",
-        "автор",
-        "будут",
-        "быть",
-        "версий",
-        "возможный",
-        "вручную"
-      ],
-      "suggestedKeywordSeed": [
-        "demotopia",
-        "паспорт",
-        "2.0",
-        "ashraellen",
-        "издания",
-        "книги",
-        "самиздат",
-        "2026",
-        "books",
-        "samizdat",
-        "автором",
-        "авторского",
-        "варшава",
-        "данные",
-        "издание",
-        "незарегистрированного",
-        "номер",
-        "экземпляра"
-      ]
-    },
-    {
       "page": "ru/books/error-404-god-not-found/index.html",
       "lang": "ru",
       "section": "books",
@@ -34029,6 +33957,136 @@
         "звуке",
         "избранная",
         "издателей"
+      ]
+    },
+    {
+      "page": "ru/books/samizdat/demotopia/index.html",
+      "lang": "ru",
+      "section": "books",
+      "title": "Demotopia — Паспорт книги — самиздат 2.0",
+      "description": "Паспорт авторского незарегистрированного издания Demotopia — самиздат 2.0, Ashraellen, Варшава, 2026.",
+      "existingKeywords": "Ashraellen, Demotopia, Демократичная Утопия, паспорт книги, самиздат 2.0, авторское издание",
+      "canonical": "https://www.ashraellen.com/ru/books/samizdat/demotopia/",
+      "h1": [
+        "Паспорт книги"
+      ],
+      "h2": [
+        "Данные издания",
+        "Об экземпляре"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "ru",
+        "books",
+        "samizdat",
+        "demotopia"
+      ],
+      "excerpt": "Demotopia / Авторское незарегистрированное издание Паспорт книги самиздат 2.0 Эта страница относится к особому физическому изданию романа Demotopia , подготовленному и выпущенному автором. Данные издания Произведение Demotopia — Демократичная Утопия Автор Ashraellen Издание Авторское незарегистрированное издание Формат самиздат 2.0 Место и год Варшава, 2026 Язык экземпляра Русский Об экземпляре Каждый физический экземпляр получает номер и может быть подписан автором вручную. Номер находится на странице экземпляра внутри книги. QR общий для всех языковых версий и экземпляров. Он связывает физическую книгу с паспортом издания; индивидуальный номер остаётся внутри экземпляра. Текущий статус. Структура паспорта создана. Порядок передачи книги, заказ подписанного экземпляра и возможный индивидуальный реестр будут добавлены только после отдельного авторского решения.",
+      "candidates": [
+        "demotopia",
+        "2.0",
+        "книги",
+        "самиздат",
+        "экземпляра",
+        "издание",
+        "издания",
+        "номер",
+        "паспорт",
+        "2026",
+        "ashraellen",
+        "автором",
+        "авторского",
+        "авторское",
+        "варшава",
+        "внутри",
+        "индивидуальный",
+        "незарегистрированное",
+        "автор",
+        "будут",
+        "быть",
+        "версий",
+        "возможный",
+        "вручную"
+      ],
+      "suggestedKeywordSeed": [
+        "demotopia",
+        "паспорт",
+        "2.0",
+        "ashraellen",
+        "издания",
+        "книги",
+        "самиздат",
+        "2026",
+        "books",
+        "samizdat",
+        "автором",
+        "авторского",
+        "варшава",
+        "данные",
+        "издание",
+        "незарегистрированного",
+        "номер",
+        "экземпляра"
+      ]
+    },
+    {
+      "page": "ru/books/samizdat/index.html",
+      "lang": "ru",
+      "section": "books",
+      "title": "самиздат 2.0 — Авторские издания Ashraellen",
+      "description": "Авторские незарегистрированные издания samizdat 2.0 и паспорта физических книг Ashraellen.",
+      "existingKeywords": "Ashraellen, самиздат 2.0, авторские издания, паспорт книги, Demotopia",
+      "canonical": "https://www.ashraellen.com/ru/books/samizdat/",
+      "h1": [
+        "самиздат 2.0"
+      ],
+      "h2": [],
+      "h3": [],
+      "slugTerms": [
+        "ru",
+        "books",
+        "samizdat"
+      ],
+      "excerpt": "Авторские незарегистрированные издания самиздат 2.0 Отдельная серия физических книг Ashraellen: пронумерованных, подписываемых вручную и связанных с постоянными цифровыми паспортами. Demotopia Паспорт книги →",
+      "candidates": [
+        "2.0",
+        "ashraellen",
+        "авторские",
+        "издания",
+        "книг",
+        "незарегистрированные",
+        "самиздат",
+        "физических",
+        "demotopia",
+        "samizdat",
+        "вручную",
+        "книги",
+        "отдельная",
+        "паспорт",
+        "паспорта",
+        "паспортами",
+        "подписываемых",
+        "постоянными",
+        "пронумерованных",
+        "связанных",
+        "серия",
+        "цифровыми"
+      ],
+      "suggestedKeywordSeed": [
+        "2.0",
+        "ashraellen",
+        "samizdat",
+        "авторские",
+        "издания",
+        "самиздат",
+        "books",
+        "книг",
+        "незарегистрированные",
+        "физических",
+        "demotopia",
+        "вручную",
+        "книги",
+        "паспорта"
       ]
     },
     {
@@ -38570,6 +38628,118 @@
         "где",
         "готовых",
         "гуссерль"
+      ]
+    },
+    {
+      "page": "samizdat/demotopia/index.html",
+      "lang": "root",
+      "section": "samizdat",
+      "title": "Demotopia — samizdat 2.0 — language selection",
+      "description": "Language-neutral entrance to the samizdat 2.0 book passport for Demotopia by Ashraellen.",
+      "existingKeywords": "Ashraellen, Demotopia, samizdat 2.0, book passport, language selection",
+      "canonical": "https://www.ashraellen.com/samizdat/demotopia/",
+      "h1": [
+        "Demotopia"
+      ],
+      "h2": [],
+      "h3": [],
+      "slugTerms": [
+        "samizdat",
+        "demotopia"
+      ],
+      "excerpt": "One printed code / one permanent entrance Demotopia samizdat 2.0 Choose the language of the book passport. This address remains the same for every language edition. Русский Паспорт книги → Polski Paszport książki → The QR code points only to this language-neutral address. New language versions can be added here without replacing the printed code.",
+      "candidates": [
+        "language",
+        "2.0",
+        "code",
+        "demotopia",
+        "samizdat",
+        "address",
+        "book",
+        "entrance",
+        "language-neutral",
+        "one",
+        "passport",
+        "printed",
+        "added",
+        "ashraellen",
+        "can",
+        "choose",
+        "edition",
+        "every",
+        "here",
+        "książki",
+        "new",
+        "only",
+        "paszport",
+        "permanent"
+      ],
+      "suggestedKeywordSeed": [
+        "demotopia",
+        "samizdat",
+        "2.0",
+        "ashraellen",
+        "book",
+        "entrance",
+        "language",
+        "language-neutral",
+        "passport",
+        "address",
+        "code",
+        "one",
+        "printed",
+        "selection"
+      ]
+    },
+    {
+      "page": "samizdat/index.html",
+      "lang": "root",
+      "section": "samizdat",
+      "title": "samizdat 2.0 — Ashraellen",
+      "description": "Language-neutral entrance to the samizdat 2.0 author editions by Ashraellen.",
+      "existingKeywords": "Ashraellen, samizdat 2.0, author editions, book passports",
+      "canonical": "https://www.ashraellen.com/samizdat/",
+      "h1": [
+        "samizdat 2.0"
+      ],
+      "h2": [],
+      "h3": [],
+      "slugTerms": [
+        "samizdat"
+      ],
+      "excerpt": "Ashraellen / author editions samizdat 2.0 A permanent multilingual structure for individually numbered and signed author editions. Demotopia Book passport / languages →",
+      "candidates": [
+        "2.0",
+        "ashraellen",
+        "author",
+        "editions",
+        "samizdat",
+        "book",
+        "demotopia",
+        "entrance",
+        "individually",
+        "language-neutral",
+        "languages",
+        "multilingual",
+        "numbered",
+        "passport",
+        "permanent",
+        "signed",
+        "structure"
+      ],
+      "suggestedKeywordSeed": [
+        "samizdat",
+        "2.0",
+        "ashraellen",
+        "author",
+        "editions",
+        "entrance",
+        "language-neutral",
+        "book",
+        "demotopia",
+        "individually",
+        "languages",
+        "multilingual"
       ]
     },
     {

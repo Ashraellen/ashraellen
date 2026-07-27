@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-27T18:19:12.707Z
-Pages: 585
+Generated: 2026-07-27T18:23:19.940Z
+Pages: 588
 
 ## Index
 
@@ -133,7 +133,6 @@ Pages: 585
 | de/research/position/index.html | de | research | Ashraellen — Position — German | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, de, research, position | position, ashraellen, als, und, arbeite, beobachtung, beschreibungsmodelle, betrachte, der, erfahrung, erfahrungen, feld, research, forscher, german, ich, innere, künstlerischer |
 | de/research/projects/index.html | de | research | Ashraellen — Forschungsprojekte | ashraellen, research, projects, forschungsprojekte, eine, karte, der, arbeitsfelder, von, monolith, hauptkanal, öffentliches, feld, satirische, projekte, und, seitenlabore, wahrnehmung | ashraellen, der, eine, monolith, projekte, research, und, von, als, arbeitsfelder, book, church, das, die, ein, feld, forschungsprojekte, hauptkanal |
 | de/research/sources/index.html | de | research | Ashraellen — Quellen und Tradition | ashraellen, research, sources, quellen, und, tradition, von, phänomenologie, des, bewusstseins, körper, narration, kognitionswissenschaft, künstlerische, praxis, als, methodische, linien | und, als, der, ashraellen, des, körper, quellen, tradition, erfahrung, forschung, research, bewusstsein, bewusstseins, das, die, edmund, eine, eleanor |
-| demotopia/samizdat/index.html | root | demotopia | Demotopia — samizdat 2.0 — language selection | Ashraellen, Demotopia, samizdat 2.0, book passport, language selection | demotopia, samizdat, 2.0, ashraellen, book, entrance, language, language-neutral, passport, address, code, one, printed, selection |
 | en/books/error-404-god-not-found/index.html | en | books | Ashraellen — Error 404: God Not Found | ashraellen, books, error, 404, god, found, multilingual, philosophical-satirical, novel, cycle, about, heavenly, chancellery, human, complaint, against, universe, searching | error, god, found, 404, books, cycle, about, against, ashraellen, chancellery, heavenly, human, searching, series, begins, book, complaint, multilingual |
 | en/books/error-404-god-not-found/why-me/index.html | en | books | Ashraellen — Why Me? | _missing_ | why, book, error, god, about, ashraellen, books, found, 404, appeal, bureaucracy, chancellery, complaint, did, excerpt, faith, had, heavenly |
 | en/books/index.html | en | books | Ashraellen — Books | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | books, book, ashraellen, 404, god, research, satire, about, already, audio, cycle, cycles, error, found, monolith, novel, online, open |
@@ -329,7 +328,6 @@ Pages: 585
 | google2b44b1dd60a5fdd9.html | root | google2b44b1dd60a5fdd9.html |  | _missing_ | google2b44b1dd60a5fdd9.html, ashraellen, google-site-verification, google2b44b1dd60a5fdd9 |
 | index.html | root | index.html | Ashraellen — Entry | Ashraellen, Nikolai Kostyshev, books, research, public texts, multilingual archive, literary-philosophical research, inner observation | ashraellen, audiobooks, books, choose, inner, language, observation, public, research, texts, videos, your, entry, index, index.html |
 | monolith/index.html | root | monolith | MONOLITH — Ashraellen | ashraellen, monolith, language, gateway, beton, sludge, gas, doctype, html, title, function, var, routes, languages, navigator.languages, navigator.language, target, routes.en | monolith, language, ashraellen, detecting, deutsch, english, español, français, polski, português, беларуская, определение, русский, beton, gas, gateway, sludge, українська |
-| pl/books/demotopia/samizdat/index.html | pl | books | Demotopia — Paszport książki — samizdat 2.0 | Ashraellen, Demotopia, Demokratyczna Utopia, paszport książki, samizdat 2.0, wydanie autorskie | paszport, samizdat, 2.0, ashraellen, demotopia, książki, wydania, 2026, books, autora, autorskiego, dane, demotopii, egzemplarza, egzemplarzu, niezarejestrowanego, numer, warszawa |
 | pl/books/error-404-god-not-found/index.html | pl | books | Ashraellen — Błąd 404: Boga nie znaleziono | ashraellen, books, error, 404, god, found, błąd, boga, nie, znaleziono, wielojęzyczny, filozoficzno-satyryczny, cykl, powieściowy, niebiańskiej, kancelarii, ludzkiej, pretensji | nie, 404, błąd, boga, znaleziono, ashraellen, bogu, books, kancelarii, który, niebiańskiej, szukania, albo, błędzie, cykl, cyklu, error, filozoficzno-satyryczny |
 | pl/books/error-404-god-not-found/why-me/index.html | pl | books | Ashraellen — Dlaczego ja? | _missing_ | dlaczego, ashraellen, błąd, boga, books, nie, 404, albo, ale, biurokracji, bólu, cyklu, duszy, error, filozoficzno-satyryczna, found, fragment, god |
 | pl/books/index.html | pl | books | Ashraellen — Książki | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | książki, 404, ashraellen, ashraellena, błąd, boga, books, nie, satyra, albo, audio, badania, blask, book, cykl, cykle, jesteś, już |
@@ -339,6 +337,8 @@ Pages: 585
 | pl/books/radiance/index.html | pl | books | Ashraellen — Blask \| Północne opowieści o prawdziwej historii świata | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | blask, opowieści, ashraellen, books, cykl, instrukcje, literacko-filozoficzny, nie, aby, artystyczno-badawcza, artystyczno-badawczy, dawne, forma, historii, instrukcji, jako, kogo, książki |
 | pl/books/radiance/sampo/index.html | pl | books | Ashraellen — Sampo \| Blask, Księga I | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | sampo, ashraellen, blask, books, nie, ale, artystycznych, badań, bez, było, chleb, czy, filozoficznej, fundacji, jeszcze, język, już, kogo |
 | pl/books/radiance/song/index.html | pl | books | Ashraellen — Pieśń \| Blask, Księga II | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | pieśń, ashraellen, bez, blask, books, nie, się, ale, artystycznych, ayla, badań, być, był, była, było, druga, dźwięku, fundacji |
+| pl/books/samizdat/demotopia/index.html | pl | books | Demotopia — Paszport książki — samizdat 2.0 | Ashraellen, Demotopia, Demokratyczna Utopia, paszport książki, samizdat 2.0, wydanie autorskie | paszport, samizdat, 2.0, ashraellen, demotopia, książki, wydania, 2026, books, autora, autorskiego, dane, demotopii, egzemplarza, egzemplarzu, niezarejestrowanego, numer, warszawa |
+| pl/books/samizdat/index.html | pl | books | samizdat 2.0 — Wydania autorskie Ashraellen | Ashraellen, samizdat 2.0, wydania autorskie, paszport książki, Demotopia | samizdat, 2.0, ashraellen, autorskie, wydania, books, fizycznych, książek, niezarejestrowane, cyfrowymi, demotopia, książki, numerowanych, paszporty |
 | pl/books/seccus/index.html | pl | books | Ashraellen — ŚWIĘTA KSIĘGA SECCUS | Ashraellen, SECCUS, Święta Księga SECCUS, Droga Uczciwości, satyra filozoficzna, pieniądze, sukces, samooszustwo, wiedza jako alibi, odpowiedzialność, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Księga | seccus, księga, święta, ashraellen, bez, books, jako, alibi, ani, człowiek, droga, filozoficzna, głos, kogo, korpus, książce, książka, książki |
 | pl/books/the-book-of-whinesis/index.html | pl | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sakralna, satyra, dla, tych, którzy, zmęczyli, się, pozytywnymi, wibracjami, niekończącą, produktywnością, kultem, sukcesu, książce | book, whinesis, się, ashraellen, books, albowiem, będzie, będziesz, fragment, jego, książce, którzy, kultem, moania, moanii, narzekania, nie, niekończącą |
 | pl/books/you-are-already-online/index.html | pl | books | Ashraellen — Już jesteś w sieci | ashraellen, books, you, already, online, już, jesteś, sieci, immersyjna, powieść, audio, gatunku, thrillera, psychologicznego, dramatu, cyberpunkowego, cyfrowej, rzeczywistości | jesteś, już, sieci, ashraellen, books, rozdział, algorytmach, already, audio, było, cyberpunkowego, cyfrowej, dramatu, fragment, gatunku, gdzie, hiperrealności, immersyjna |
@@ -457,7 +457,6 @@ Pages: 585
 | pt/research/position/index.html | pt | research | Ashraellen — Position — PT | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, pt, research, position | position, ashraellen, como, artístico, campo, descrição, experiência, experiências, filosofia, independente, interna, modelos, research, não, observação, pesquisador, religião, são |
 | pt/research/projects/index.html | pt | research | Ashraellen — Projetos de pesquisa | ashraellen, research, projects, projetos, pesquisa, mapa, dos, campos, trabalho, monolith, canal, principal, campo, público, satíricos, laboratórios, laterais, percepção | ashraellen, projetos, campo, monolith, percepção, pesquisa, research, abrir, aqui, book, campos, canal, church, como, dos, inner, instagram, laboratórios |
 | pt/research/sources/index.html | pt | research | Ashraellen — Fontes e tradição | ashraellen, research, sources, fontes, tradição, fenomenologia, consciência, corpo, narrativa, ciência, cognitiva, prática, artística, edmund, husserl, experiência, antes, das | como, ashraellen, consciência, corpo, fontes, narrativa, tradição, experiência, fenomenologia, forma, research, antes, artística, ciência, cognitiva, com, compreensão, das |
-| ru/books/demotopia/samizdat/index.html | ru | books | Demotopia — Паспорт книги — самиздат 2.0 | Ashraellen, Demotopia, Демократичная Утопия, паспорт книги, самиздат 2.0, авторское издание | demotopia, паспорт, 2.0, ashraellen, издания, книги, самиздат, 2026, books, samizdat, автором, авторского, варшава, данные, издание, незарегистрированного, номер, экземпляра |
 | ru/books/error-404-god-not-found/index.html | ru | books | Ashraellen — Ошибка 404: Бог не найден | ashraellen, books, error, 404, god, found, ошибка, бог, найден, многоязычный, философско-сатирический, роман-цикл, небесной, канцелярии, неверно, направленном, поиске, бога | 404, бог, найден, ошибка, ashraellen, books, бога, канцелярии, небесной, error, found, god, дело, его, или, истины, книга, книги |
 | ru/books/error-404-god-not-found/why-me/index.html | ru | books | Ashraellen — Почему я? | ashraellen, books, error, 404, god, found, why, почему, первая, книга, цикла, ошибка, бог, найден, философско-сатирический, роман, человеке, который | почему, 404, ashraellen, books, бога, книга, ошибка, error, found, god, why, бог, влад, всё, жалобу, или, канцелярии, книге |
 | ru/books/index.html | ru | books | Ashraellen — Книги — Russian | ashraellen, books, книги, монолит, сияние, ошибка, 404, бог, найден, ахепсу, уже, сети, книга, нытия, список, doctype, html, title | книги, ashraellen, 404, books, ахепсу, бог, книга, сатира, russian, аудиороман, здесь, или, исследования, книжные, монолит, найден, нытия, отдельные |
@@ -467,6 +466,8 @@ Pages: 585
 | ru/books/radiance/index.html | ru | books | Ashraellen — Сияние \| Северные сказания о настоящей истории мира | ashraellen, books, radiance, сияние, северные, сказания, настоящей, истории, мира, литературно-философский, художественно-исследовательский, цикл, том, древние, сохраняют, образные, инструкции, миру | сияние, истории, ashraellen, books, древние, инструкции, литературно-философский, цикл, цикла, radiance, важно, инструкций, карта, книга, книги, кого, мира, миру |
 | ru/books/radiance/sampo/index.html | ru | books | Ashraellen — Сампо \| Сияние, книга I | ashraellen, books, radiance, sampo, сампо, сияние, книга, первая, цикла, северное, литературно-философское, сказание, изобилии, владении, участии, мире, где, миф | сампо, ashraellen, books, книга, сияние, radiance, sampo, без, было, владении, где, глава, его, ещё, избранная, издателей, издательский, изобилии |
 | ru/books/radiance/song/index.html | ru | books | Ashraellen — Песня \| Сияние, книга II | ashraellen, books, radiance, song, песня, сияние, книга, вторая, цикла, расширенная, презентационная, страница, романа, звуке, слышании, языке, варшаве, песне | песня, ashraellen, books, без, книга, сияние, radiance, song, айла, был, была, было, варшаве, вторая, глава, звуке, избранная, издателей |
+| ru/books/samizdat/demotopia/index.html | ru | books | Demotopia — Паспорт книги — самиздат 2.0 | Ashraellen, Demotopia, Демократичная Утопия, паспорт книги, самиздат 2.0, авторское издание | demotopia, паспорт, 2.0, ashraellen, издания, книги, самиздат, 2026, books, samizdat, автором, авторского, варшава, данные, издание, незарегистрированного, номер, экземпляра |
+| ru/books/samizdat/index.html | ru | books | самиздат 2.0 — Авторские издания Ashraellen | Ashraellen, самиздат 2.0, авторские издания, паспорт книги, Demotopia | 2.0, ashraellen, samizdat, авторские, издания, самиздат, books, книг, незарегистрированные, физических, demotopia, вручную, книги, паспорта |
 | ru/books/seccus/index.html | ru | books | Ashraellen — Сакральная Книга АХЕПСУ | ashraellen, seccus, сакральная книга ахепсу, путь честности, философская сатира, деньги, успех, самообман, знание как алиби, ответственность, sacrunomicon, ordo sacrunomiconis, тетра-книга | ахепсу, книга, сакральная, ashraellen, books, без, sacrunomicon, seccus, ssmv, алиби, выбор, голос, деньгах, ещё, знании, избранная, или, книге |
 | ru/books/the-book-of-whinesis/index.html | ru | books | Ashraellen — Книга Нытия — Russian | ashraellen, books, book, whinesis, книга, нытия, священная, сатира, тех, кто, устал, позитивных, вайбов, бесконечной, продуктивности, культа, успеха, книге | книга, нытия, ashraellen, books, кто, book, russian, whinesis, бесконечной, будет, будешь, вайбов, глава, главы, господь, его, ибо, книге |
 | ru/books/you-are-already-online/index.html | ru | books | Ashraellen — Ты уже в сети | ashraellen, books, you, already, online, уже, сети, иммерсивный, аудиороман, жанре, психологического, триллера, киберпанк-драмы, цифровой, реальности, алгоритмах, гиперреальности, книге | сети, уже, ashraellen, books, глава, already, online, you, алгоритмах, аудиороман, без, было, где, гиперреальности, жанре, идеально, иммерсивный, истончение |
@@ -529,6 +530,8 @@ Pages: 585
 | ru/research/position/index.html | ru | research | Ashraellen — Position — Russian | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, ru, research, position | position, ashraellen, research, внутренний, исследователь, модели, наблюдения, независимый, описания, опыт, опыты, поле, работаю, russian, рассматривая, реальность, религии, сама |
 | ru/research/projects/index.html | ru | research | Ashraellen — Проекты исследования | ashraellen, research, projects, проекты, исследования, карта, рабочих, полей, монолит, основной, канал, публичное, поле, сатирические, боковые, лаборатории, восприятия, instagram | ashraellen, проекты, research, telegram, боковые, канал, лаборатории, монолит, поле, church, inner, instagram, melodies, occultus, projects, saint, scriptorium, sounds |
 | ru/research/sources/index.html | ru | research | Ashraellen — Источники и традиция | ashraellen, research, sources, источники, традиция, феноменология, сознания, тело, нарратив, когнитивная, наука, художественная, практика, методологические, линии, исследования, эдмунд, гуссерль | ashraellen, источники, тело, традиция, форма, research, варела, исследования, опыт, сознание, сознания, феноменология, sources, взаимодействие, восприятия, где, готовых, гуссерль |
+| samizdat/demotopia/index.html | root | samizdat | Demotopia — samizdat 2.0 — language selection | Ashraellen, Demotopia, samizdat 2.0, book passport, language selection | demotopia, samizdat, 2.0, ashraellen, book, entrance, language, language-neutral, passport, address, code, one, printed, selection |
+| samizdat/index.html | root | samizdat | samizdat 2.0 — Ashraellen | Ashraellen, samizdat 2.0, author editions, book passports | samizdat, 2.0, ashraellen, author, editions, entrance, language-neutral, book, demotopia, individually, languages, multilingual |
 | uk/books/error-404-god-not-found/index.html | uk | books | Ashraellen — Помилка 404: Бога не знайдено | _missing_ | 404, бога, знайдено, помилка, ashraellen, books, пошуку, error, found, god, або, готується, заявник, його, канцелярії, канцелярію, книга, книги |
 | uk/books/error-404-god-not-found/why-me/index.html | uk | books | Ashraellen — Чому я? | _missing_ | чому, 404, ashraellen, books, бога, про, error, found, god, why, або, але, біль, бюрократію, він, віру, влад, душі |
 | uk/books/index.html | uk | books | Ashraellen — Книги | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | книги, ashraellen, 404, book, books, error, found, книга, сатира, god, monolith, radiance, whinesis, аудіороман, ахепсу, вже, відкрити, дослідження |
@@ -2736,23 +2739,6 @@ Excerpt:
 Excerpt:
 
 > Quellen und Tradition Diese Forschung steht am Schnittpunkt von Phänomenologie des Bewusstseins, narrativer Erkenntnis, Kognitionswissenschaft und künstlerischer Praxis. Husserl baute eine Methode der genauen Beschreibung von Erfahrung. Merleau-Ponty brachte das Bewusstsein zum Körper zurück. Ricoeur zeigte, dass Erzählung kein Schmuck der Gedanken ist, sondern eine Form des Selbstverstehens. Varela, Thompson und Rosch verbanden Phänomenologie mit Kognitionswissenschaft und gelebter Erfahrung. Ashraellen arbeitet dort, wo sich diese Linien kreuzen: in einem Bereich, in dem der akademische Text allein nicht mehr ausreicht und die lebendige Erfahrung noch keine genaue Form erhalten hat. Phänomenologie des Bewusstseins Edmund Husserl — Erfahrung vor fertigen Erklärungen Wichtig ist hier nicht der Glaube an den ersten Gedanken, sondern die genaue Beobachtung, wie Erfahrung im Bewusstsein ers
-
-### demotopia/samizdat/index.html
-
-- lang: root
-- section: demotopia
-- title: Demotopia — samizdat 2.0 — language selection
-- description: Language-neutral entrance to the samizdat 2.0 book passport for Demotopia by Ashraellen.
-- canonical: https://www.ashraellen.com/demotopia/samizdat/
-- H1: Demotopia
-- H2: _missing_
-- H3: _missing_
-- suggested keyword seed: demotopia, samizdat, 2.0, ashraellen, book, entrance, language, language-neutral, passport, address, code, one, printed, selection
-- candidates: language, 2.0, code, demotopia, samizdat, address, book, entrance, language-neutral, one, passport, printed, added, ashraellen, can, choose, edition, every, here, książki, new, only, paszport, permanent
-
-Excerpt:
-
-> One printed code / one permanent entrance Demotopia samizdat 2.0 Choose the language of the book passport. This address remains the same for every language edition. Русский Паспорт книги → Polski Paszport książki → The QR code points only to this language-neutral address. New language versions can be added here without replacing the printed code.
 
 ### en/books/error-404-god-not-found/index.html
 
@@ -6069,23 +6055,6 @@ Excerpt:
 
 > MONOLITH Detecting language… Определение языка… English Русский Беларуская Polski Deutsch Español Français Português Українська
 
-### pl/books/demotopia/samizdat/index.html
-
-- lang: pl
-- section: books
-- title: Demotopia — Paszport książki — samizdat 2.0
-- description: Paszport autorskiego wydania niezarejestrowanego Demotopii — samizdat 2.0, Ashraellen, Warszawa, 2026.
-- canonical: https://www.ashraellen.com/pl/books/demotopia/samizdat/
-- H1: Paszport książki
-- H2: Dane wydania | O egzemplarzu
-- H3: _missing_
-- suggested keyword seed: paszport, samizdat, 2.0, ashraellen, demotopia, książki, wydania, 2026, books, autora, autorskiego, dane, demotopii, egzemplarza, egzemplarzu, niezarejestrowanego, numer, warszawa
-- candidates: 2.0, demotopia, egzemplarza, książki, samizdat, wydania, autora, numer, paszport, wydanie, 2026, ashraellen, autorskie, indywidualny, niezarejestrowane, przez, warszawa, wewnątrz, aktualny, autor, autorskiego, dane, decyzji, demokratyczna
-
-Excerpt:
-
-> Demotopia / Autorskie wydanie niezarejestrowane Paszport książki samizdat 2.0 Ta strona dotyczy szczególnego fizycznego wydania powieści Demotopia , przygotowanego i wydanego przez autora. Dane wydania Utwór Demotopia — Demokratyczna Utopia Autor Ashraellen Wydanie Autorskie wydanie niezarejestrowane Format samizdat 2.0 Miejsce i rok Warszawa, 2026 Język egzemplarza Polski O egzemplarzu Każdy fizyczny egzemplarz otrzymuje numer i może zostać ręcznie podpisany przez autora. Numer znajduje się na stronie egzemplarza wewnątrz książki. Kod QR jest wspólny dla wszystkich wersji językowych i egzemplarzy. Łączy fizyczną książkę z paszportem wydania; indywidualny numer pozostaje wewnątrz egzemplarza. Aktualny status. Struktura paszportu została utworzona. Zasady przekazywania książki, zamawiania podpisanego egzemplarza oraz ewentualny indywidualny rejestr zostaną dodane wyłącznie po osobnej decy
-
 ### pl/books/error-404-god-not-found/index.html
 
 - lang: pl
@@ -6238,6 +6207,40 @@ Excerpt:
 Excerpt:
 
 > Blask - Północne opowieści o prawdziwej historii świata Pieśń Księga II cyklu literacko-filozoficznego „Blask”. Powieść o dźwięku, który nie przejmuje władzy: o słuchu, języku, mieście, scenie pracy i Pieśń, które nie staje się liczbą. Po „Sampo” pytanie o obfitość zostaje zastąpione pytaniem o słowo: czy język może nie stać się opinią, nie argumentem, nie autoekspresją, ale formą dostosowania? Polska okładka. Ashraellen. Polecany rozdział Rozdział pierwszy. Normalny hałas Kompletny rozdział pierwszy: Powrót Ayli do Warszawy, zwykły miejski zgiełk i pierwsza przerwa pomiędzy dźwiękiem jako pracą a słyszeniem jako postawą. Otwórz rozdział Zamknij rozdział Warszawa spotkała Aylę nie znakiem, nie wizją, ani jakimś szeptem z podziemia godnym kontynuacji starożytnego prologu. Warszawa przywitała ją zapowiedzią w pociągu. Najpierw delikatne kliknięcie w głośniku, potem kobiecy głos, zbyt uprze
+
+### pl/books/samizdat/demotopia/index.html
+
+- lang: pl
+- section: books
+- title: Demotopia — Paszport książki — samizdat 2.0
+- description: Paszport autorskiego wydania niezarejestrowanego Demotopii — samizdat 2.0, Ashraellen, Warszawa, 2026.
+- canonical: https://www.ashraellen.com/pl/books/samizdat/demotopia/
+- H1: Paszport książki
+- H2: Dane wydania | O egzemplarzu
+- H3: _missing_
+- suggested keyword seed: paszport, samizdat, 2.0, ashraellen, demotopia, książki, wydania, 2026, books, autora, autorskiego, dane, demotopii, egzemplarza, egzemplarzu, niezarejestrowanego, numer, warszawa
+- candidates: 2.0, demotopia, egzemplarza, książki, samizdat, wydania, autora, numer, paszport, wydanie, 2026, ashraellen, autorskie, indywidualny, niezarejestrowane, przez, warszawa, wewnątrz, aktualny, autor, autorskiego, dane, decyzji, demokratyczna
+
+Excerpt:
+
+> Demotopia / Autorskie wydanie niezarejestrowane Paszport książki samizdat 2.0 Ta strona dotyczy szczególnego fizycznego wydania powieści Demotopia , przygotowanego i wydanego przez autora. Dane wydania Utwór Demotopia — Demokratyczna Utopia Autor Ashraellen Wydanie Autorskie wydanie niezarejestrowane Format samizdat 2.0 Miejsce i rok Warszawa, 2026 Język egzemplarza Polski O egzemplarzu Każdy fizyczny egzemplarz otrzymuje numer i może zostać ręcznie podpisany przez autora. Numer znajduje się na stronie egzemplarza wewnątrz książki. Kod QR jest wspólny dla wszystkich wersji językowych i egzemplarzy. Łączy fizyczną książkę z paszportem wydania; indywidualny numer pozostaje wewnątrz egzemplarza. Aktualny status. Struktura paszportu została utworzona. Zasady przekazywania książki, zamawiania podpisanego egzemplarza oraz ewentualny indywidualny rejestr zostaną dodane wyłącznie po osobnej decy
+
+### pl/books/samizdat/index.html
+
+- lang: pl
+- section: books
+- title: samizdat 2.0 — Wydania autorskie Ashraellen
+- description: Autorskie wydania niezarejestrowane samizdat 2.0 i paszporty fizycznych książek Ashraellen.
+- canonical: https://www.ashraellen.com/pl/books/samizdat/
+- H1: samizdat 2.0
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: samizdat, 2.0, ashraellen, autorskie, wydania, books, fizycznych, książek, niezarejestrowane, cyfrowymi, demotopia, książki, numerowanych, paszporty
+- candidates: 2.0, ashraellen, autorskie, samizdat, wydania, fizycznych, książek, niezarejestrowane, cyfrowymi, demotopia, książki, numerowanych, osobna, paszport, paszportami, paszporty, podpisywanych, połączonych, ręcznie, seria, stałymi
+
+Excerpt:
+
+> Autorskie wydania niezarejestrowane samizdat 2.0 Osobna seria fizycznych książek Ashraellen: numerowanych, podpisywanych ręcznie i połączonych ze stałymi paszportami cyfrowymi. Demotopia Paszport książki →
 
 ### pl/books/seccus/index.html
 
@@ -8245,23 +8248,6 @@ Excerpt:
 
 > Fontes e tradição Esta pesquisa situa-se no cruzamento entre a fenomenologia da consciência, a epistemologia narrativa, a ciência cognitiva e a prática artística. Husserl constrói um método de descrição precisa da experiência. Merleau-Ponty devolve a consciência ao corpo. Ricoeur mostra que a narrativa não é um ornamento do pensamento, mas uma forma de compreensão de si. Varela, Thompson e Rosch aproximam a fenomenologia da ciência cognitiva e da experiência vivida. Ashraellen trabalha onde essas linhas se cruzam: numa zona em que o texto acadêmico sozinho já não basta, e onde a experiência viva ainda não recebeu uma forma exata. Fenomenologia da consciência Edmund Husserl — a experiência antes das explicações prontas O importante aqui não é acreditar no primeiro pensamento, mas observar com precisão como a experiência aparece na consciência. As explicações habituais são temporariamente 
 
-### ru/books/demotopia/samizdat/index.html
-
-- lang: ru
-- section: books
-- title: Demotopia — Паспорт книги — самиздат 2.0
-- description: Паспорт авторского незарегистрированного издания Demotopia — самиздат 2.0, Ashraellen, Варшава, 2026.
-- canonical: https://www.ashraellen.com/ru/books/demotopia/samizdat/
-- H1: Паспорт книги
-- H2: Данные издания | Об экземпляре
-- H3: _missing_
-- suggested keyword seed: demotopia, паспорт, 2.0, ashraellen, издания, книги, самиздат, 2026, books, samizdat, автором, авторского, варшава, данные, издание, незарегистрированного, номер, экземпляра
-- candidates: demotopia, 2.0, книги, самиздат, экземпляра, издание, издания, номер, паспорт, 2026, ashraellen, автором, авторского, авторское, варшава, внутри, индивидуальный, незарегистрированное, автор, будут, быть, версий, возможный, вручную
-
-Excerpt:
-
-> Demotopia / Авторское незарегистрированное издание Паспорт книги самиздат 2.0 Эта страница относится к особому физическому изданию романа Demotopia , подготовленному и выпущенному автором. Данные издания Произведение Demotopia — Демократичная Утопия Автор Ashraellen Издание Авторское незарегистрированное издание Формат самиздат 2.0 Место и год Варшава, 2026 Язык экземпляра Русский Об экземпляре Каждый физический экземпляр получает номер и может быть подписан автором вручную. Номер находится на странице экземпляра внутри книги. QR общий для всех языковых версий и экземпляров. Он связывает физическую книгу с паспортом издания; индивидуальный номер остаётся внутри экземпляра. Текущий статус. Структура паспорта создана. Порядок передачи книги, заказ подписанного экземпляра и возможный индивидуальный реестр будут добавлены только после отдельного авторского решения.
-
 ### ru/books/error-404-god-not-found/index.html
 
 - lang: ru
@@ -8414,6 +8400,40 @@ Excerpt:
 Excerpt:
 
 > Сияние — Северные сказания о настоящей истории мира Песня Книга II литературно-философского цикла «Сияние». Роман о звуке, который не берёт власть: о слышании, языке, городе, рабочей сцене и песне, которая не становится номером. После «Сампо» вопрос изобилия сменяется вопросом слова: может ли язык стать не мнением, не спором и не самовыражением, а формой настройки? Русская обложка. Ashraellen. Избранная глава Глава первая. Обычный шум Полная первая глава: возвращение Айлы в Варшаву, обычный городской шум и первый разрыв между звуком как работой и слышанием как отношением. Открыть главу Закрыть главу Варшава встретила Айлу не знаком, не видением и не каким-нибудь достойным продолжения древнего пролога шёпотом из-под земли. Варшава встретила её объявлением в поезде. Сначала тонкий щелчок в динамике, потом женский голос, слишком вежливый для шести утра, сообщил что-то про следующую станцию,
+
+### ru/books/samizdat/demotopia/index.html
+
+- lang: ru
+- section: books
+- title: Demotopia — Паспорт книги — самиздат 2.0
+- description: Паспорт авторского незарегистрированного издания Demotopia — самиздат 2.0, Ashraellen, Варшава, 2026.
+- canonical: https://www.ashraellen.com/ru/books/samizdat/demotopia/
+- H1: Паспорт книги
+- H2: Данные издания | Об экземпляре
+- H3: _missing_
+- suggested keyword seed: demotopia, паспорт, 2.0, ashraellen, издания, книги, самиздат, 2026, books, samizdat, автором, авторского, варшава, данные, издание, незарегистрированного, номер, экземпляра
+- candidates: demotopia, 2.0, книги, самиздат, экземпляра, издание, издания, номер, паспорт, 2026, ashraellen, автором, авторского, авторское, варшава, внутри, индивидуальный, незарегистрированное, автор, будут, быть, версий, возможный, вручную
+
+Excerpt:
+
+> Demotopia / Авторское незарегистрированное издание Паспорт книги самиздат 2.0 Эта страница относится к особому физическому изданию романа Demotopia , подготовленному и выпущенному автором. Данные издания Произведение Demotopia — Демократичная Утопия Автор Ashraellen Издание Авторское незарегистрированное издание Формат самиздат 2.0 Место и год Варшава, 2026 Язык экземпляра Русский Об экземпляре Каждый физический экземпляр получает номер и может быть подписан автором вручную. Номер находится на странице экземпляра внутри книги. QR общий для всех языковых версий и экземпляров. Он связывает физическую книгу с паспортом издания; индивидуальный номер остаётся внутри экземпляра. Текущий статус. Структура паспорта создана. Порядок передачи книги, заказ подписанного экземпляра и возможный индивидуальный реестр будут добавлены только после отдельного авторского решения.
+
+### ru/books/samizdat/index.html
+
+- lang: ru
+- section: books
+- title: самиздат 2.0 — Авторские издания Ashraellen
+- description: Авторские незарегистрированные издания samizdat 2.0 и паспорта физических книг Ashraellen.
+- canonical: https://www.ashraellen.com/ru/books/samizdat/
+- H1: самиздат 2.0
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: 2.0, ashraellen, samizdat, авторские, издания, самиздат, books, книг, незарегистрированные, физических, demotopia, вручную, книги, паспорта
+- candidates: 2.0, ashraellen, авторские, издания, книг, незарегистрированные, самиздат, физических, demotopia, samizdat, вручную, книги, отдельная, паспорт, паспорта, паспортами, подписываемых, постоянными, пронумерованных, связанных, серия, цифровыми
+
+Excerpt:
+
+> Авторские незарегистрированные издания самиздат 2.0 Отдельная серия физических книг Ashraellen: пронумерованных, подписываемых вручную и связанных с постоянными цифровыми паспортами. Demotopia Паспорт книги →
 
 ### ru/books/seccus/index.html
 
@@ -9468,6 +9488,40 @@ Excerpt:
 Excerpt:
 
 > Источники и традиция Это исследование стоит на пересечении феноменологии сознания, нарративной эпистемологии, когнитивной науки и художественной практики. Гуссерль строил метод внимательного описания опыта. Мерло-Понти возвращал сознание в тело. Рикёр показывал, что нарратив — не украшение мысли, а форма самопонимания. Варела, Томпсон и Рош соединяли феноменологию с когнитивной наукой и живым опытом. Ashraellen работает там, где эти линии пересекаются: в области, где академический текст уже недостаточен, а живой опыт ещё не получил точной формы. Феноменология сознания Эдмунд Гуссерль — опыт до готовых объяснений Для этой линии важна не вера в первую мысль, а внимательное рассмотрение того, как опыт появляется в сознании. Привычные объяснения временно отодвигаются, чтобы стало видно само явление: мысль, ощущение, страх, ожидание, образ, внутренний импульс. Связь с Ashraellen: наблюдать мы
+
+### samizdat/demotopia/index.html
+
+- lang: root
+- section: samizdat
+- title: Demotopia — samizdat 2.0 — language selection
+- description: Language-neutral entrance to the samizdat 2.0 book passport for Demotopia by Ashraellen.
+- canonical: https://www.ashraellen.com/samizdat/demotopia/
+- H1: Demotopia
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: demotopia, samizdat, 2.0, ashraellen, book, entrance, language, language-neutral, passport, address, code, one, printed, selection
+- candidates: language, 2.0, code, demotopia, samizdat, address, book, entrance, language-neutral, one, passport, printed, added, ashraellen, can, choose, edition, every, here, książki, new, only, paszport, permanent
+
+Excerpt:
+
+> One printed code / one permanent entrance Demotopia samizdat 2.0 Choose the language of the book passport. This address remains the same for every language edition. Русский Паспорт книги → Polski Paszport książki → The QR code points only to this language-neutral address. New language versions can be added here without replacing the printed code.
+
+### samizdat/index.html
+
+- lang: root
+- section: samizdat
+- title: samizdat 2.0 — Ashraellen
+- description: Language-neutral entrance to the samizdat 2.0 author editions by Ashraellen.
+- canonical: https://www.ashraellen.com/samizdat/
+- H1: samizdat 2.0
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: samizdat, 2.0, ashraellen, author, editions, entrance, language-neutral, book, demotopia, individually, languages, multilingual
+- candidates: 2.0, ashraellen, author, editions, samizdat, book, demotopia, entrance, individually, language-neutral, languages, multilingual, numbered, passport, permanent, signed, structure
+
+Excerpt:
+
+> Ashraellen / author editions samizdat 2.0 A permanent multilingual structure for individually numbered and signed author editions. Demotopia Book passport / languages →
 
 ### uk/books/error-404-god-not-found/index.html
 
