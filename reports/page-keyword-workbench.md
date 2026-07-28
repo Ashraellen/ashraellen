@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-28T17:22:29.088Z
-Pages: 591
+Generated: 2026-07-28T17:39:52.709Z
+Pages: 592
 
 ## Index
 
@@ -142,7 +142,7 @@ Pages: 591
 | en/books/radiance/index.html | en | books | Ashraellen — Radiance \| Northern tales about the real history of the world | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | radiance, about, artistic-research, books, what, world, ancient, ashraellen, cycle, northern, philosophical, book, confuse, figurative, form, frame, history, how |
 | en/books/radiance/sampo/index.html | en | books | Ashraellen — Sampo \| Radiance, Book I | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | sampo, book, radiance, ashraellen, books, about, abundance, artistic-research, been, chapter, cultural, featured, first, foundations, frame, has, her, his |
 | en/books/radiance/song/index.html | en | books | Ashraellen — Song \| Radiance, Book II | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | song, about, book, radiance, ashraellen, books, language, sound, artistic-research, ayla, become, chapter, cultural, does, extended, featured, foundations, frame |
-| en/books/samizdat/demotopia/index.html | en | books | Demotopia — Book Passport — samizdat 2.0 | _missing_ | book, demotopia, passport, samizdat, 2.0, ashraellen, edition, author-issued, books, unregistered, about, copy, data, english, language, permanent |
+| en/books/samizdat/demotopia/index.html | en | books | Demotopia — Book Passport — samizdat 2.0 | _missing_ | demotopia, book, passport, samizdat, 2.0, author-issued, edition, about, ashraellen, books, copy, physical, author, democracy, permanent, request, system |
 | en/books/samizdat/index.html | en | books | samizdat 2.0 — Ashraellen author editions | Ashraellen, samizdat 2.0, author editions, numbered books, signed copies, book passports, direct publishing | samizdat, 2.0, books, ashraellen, book, author, editions, how, now, physical, why, without, author-issued, belong, copies, copy, direct, edition |
 | en/books/seccus/index.html | en | books | Ashraellen — THE SACRED BOOK OF SECCUS | Ashraellen, SECCUS, The Sacred Book of SECCUS, The Path of Honesty, philosophical satire, money, success, self-deception, knowledge as an alibi, responsibility, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Book | book, seccus, about, sacred, ashraellen, books, money, own, success, alibi, choice, corpus, does, frame, honesty, how, knowledge, literary-philosophical |
 | en/books/the-book-of-whinesis/index.html | en | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sacred, satire, those, tired, positive, vibes, endless, productivity, cult, success, about, first, chapters, excerpt | book, whinesis, ashraellen, books, about, becomes, chapters, cult, discount, endless, excerpt, first, gnorna, lord, moania, positive, productivity, sacred |
@@ -535,6 +535,7 @@ Pages: 591
 | ru/research/sources/index.html | ru | research | Ashraellen — Источники и традиция | ashraellen, research, sources, источники, традиция, феноменология, сознания, тело, нарратив, когнитивная, наука, художественная, практика, методологические, линии, исследования, эдмунд, гуссерль | ashraellen, источники, тело, традиция, форма, research, варела, исследования, опыт, сознание, сознания, феноменология, sources, взаимодействие, восприятия, где, готовых, гуссерль |
 | samizdat/demotopia/index.html | root | samizdat | Demotopia — samizdat 2.0 | _missing_ | demotopia, samizdat, 2.0, ashraellen, book, entrance, multilingual, passport, browser, english, language, open, permanent |
 | samizdat/index.html | root | samizdat | samizdat 2.0 — Ashraellen | _missing_ | samizdat, 2.0, ashraellen, author, book, editions, language, passports, also, author-issued, automatically, browser, entry |
+| samizdat/order/index.html | root | samizdat | Request a samizdat 2.0 copy — Ashraellen | _missing_ | request, samizdat, 2.0, copy, all, ashraellen, author-issued, books, form, shared, available, being, book, connected, delivery, include, language, languages |
 | uk/books/error-404-god-not-found/index.html | uk | books | Ashraellen — Помилка 404: Бога не знайдено | _missing_ | 404, бога, знайдено, помилка, ashraellen, books, пошуку, error, found, god, або, готується, заявник, його, канцелярії, канцелярію, книга, книги |
 | uk/books/error-404-god-not-found/why-me/index.html | uk | books | Ashraellen — Чому я? | _missing_ | чому, 404, ashraellen, books, бога, про, error, found, god, why, або, але, біль, бюрократію, він, віру, влад, душі |
 | uk/books/index.html | uk | books | Ashraellen — Книги | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | книги, ashraellen, 404, book, books, error, found, книга, сатира, god, monolith, radiance, whinesis, аудіороман, ахепсу, вже, відкрити, дослідження |
@@ -2901,17 +2902,17 @@ Excerpt:
 - lang: en
 - section: books
 - title: Demotopia — Book Passport — samizdat 2.0
-- description: Book passport for the author-issued unregistered edition of Demotopia — samizdat 2.0 by Ashraellen.
+- description: Book passport for the author-issued physical edition of Demotopia in the samizdat 2.0 system by Ashraellen.
 - canonical: https://www.ashraellen.com/en/books/samizdat/demotopia/
-- H1: Book Passport
-- H2: Edition data | About the copy
-- H3: _missing_
-- suggested keyword seed: book, demotopia, passport, samizdat, 2.0, ashraellen, edition, author-issued, books, unregistered, about, copy, data, english, language, permanent
-- candidates: demotopia, edition, passport, 2.0, samizdat, author-issued, book, english, language, permanent, unregistered, ashraellen, author, copy, entrance, fallback, physical, 2026, about, appropriate, author’s, code, content, created
+- H1: Demotopia
+- H2: About the book | This edition | The permanent passport | Request an author-issued copy
+- H3: About each copy
+- suggested keyword seed: demotopia, book, passport, samizdat, 2.0, author-issued, edition, about, ashraellen, books, copy, physical, author, democracy, permanent, request, system
+- candidates: edition, demotopia, passport, physical, 2.0, book, samizdat, author-issued, copy, about, author, democracy, democratic, its, language, request, all, ashraellen, code, each, freedom, inside, may, novel
 
 Excerpt:
 
-> Demotopia / Author-issued unregistered edition Book Passport samizdat 2.0 This page identifies the special physical edition of Demotopia prepared and issued directly by the author. It is the English fallback destination for the permanent QR entrance. Edition data Work Demotopia — Democratic Utopia Author Ashraellen Edition Author-issued unregistered edition Format samizdat 2.0 Place and year Warsaw, 2026 Passport language English About the copy Each physical copy may receive an individual number and the author’s handwritten signature. The QR code points to the permanent Demotopia entrance and redirects to the appropriate language passport. Current status. This is a minimal working English passport created to support the permanent language fallback. Its full content and final visual treatment will be developed together with the Russian and Polish passports.
+> Book passport / samizdat 2.0 Demotopia A philosophical novel about democracy, power and the quiet transformation of freedom into ritual. Author-issued physical edition About the book democracy seen from inside its own ritual Demotopia examines the moment when democratic language remains intact while democratic meaning begins to disappear. It follows not the collapse of freedom in a single dramatic act, but its gradual transformation into habit, procedure and performance. The novel belongs to no party and offers no political programme. It asks a quieter and more difficult question: what happens when people continue to perform democracy after they have stopped expecting it to change anything? This edition a completed physical form issued directly by the author Work Demotopia — Democratic Utopia Author Ashraellen Edition Author-issued physical edition System samizdat 2.0 Place and year Wars
 
 ### en/books/samizdat/index.html
 
@@ -9576,6 +9577,23 @@ Excerpt:
 Excerpt:
 
 > Ashraellen samizdat 2.0 Author-issued physical editions, public book passports and the history of each book as a transmitted object. This entrance opens automatically using your saved language or browser language. You can also choose manually.
+
+### samizdat/order/index.html
+
+- lang: root
+- section: samizdat
+- title: Request a samizdat 2.0 copy — Ashraellen
+- description: Shared request page for author-issued samizdat 2.0 books in all available project languages.
+- canonical: https://www.ashraellen.com/samizdat/order/
+- H1: Request a copy
+- H2: What the request will include | The secure request form is being connected.
+- H3: Book | Language | Quantity | Destination | Contact | Purpose
+- suggested keyword seed: request, samizdat, 2.0, copy, all, ashraellen, author-issued, books, form, shared, available, being, book, connected, delivery, include, language, languages
+- candidates: request, 2.0, all, copy, language, samizdat, book, books, shared, author-issued, delivery, form, languages, one, project, reader, sending, will, accurately, added, additional, address, after, already
+
+Excerpt:
+
+> All books / all project languages Request a copy One shared request point for all author-issued books in the samizdat 2.0 system. Availability, price, language, delivery and payment are confirmed personally. Sending a request does not create an automatic purchase obligation. What the request will include a direct conversation, not an anonymous checkout Book The title of the requested work. Language The preferred language of the physical copy. Quantity One copy for the reader or additional copies intended as gifts or for further transmission. Destination Country and city, so delivery can be calculated accurately. Contact Name and email for a personal confirmation. Purpose For oneself, as a gift, or to pass the book to another reader. Current stage The secure request form is being connected. The page is already the permanent shared order address for every samizdat 2.0 book and language. Th
 
 ### uk/books/error-404-god-not-found/index.html
 

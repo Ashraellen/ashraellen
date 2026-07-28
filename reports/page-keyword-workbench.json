@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T17:22:29.076Z",
+  "generated": "2026-07-28T17:39:52.695Z",
   "pages": [
     {
       "page": "be/books/error-404-god-not-found/index.html",
@@ -10085,67 +10085,72 @@
       "lang": "en",
       "section": "books",
       "title": "Demotopia — Book Passport — samizdat 2.0",
-      "description": "Book passport for the author-issued unregistered edition of Demotopia — samizdat 2.0 by Ashraellen.",
+      "description": "Book passport for the author-issued physical edition of Demotopia in the samizdat 2.0 system by Ashraellen.",
       "existingKeywords": "",
       "canonical": "https://www.ashraellen.com/en/books/samizdat/demotopia/",
       "h1": [
-        "Book Passport"
+        "Demotopia"
       ],
       "h2": [
-        "Edition data",
-        "About the copy"
+        "About the book",
+        "This edition",
+        "The permanent passport",
+        "Request an author-issued copy"
       ],
-      "h3": [],
+      "h3": [
+        "About each copy"
+      ],
       "slugTerms": [
         "en",
         "books",
         "samizdat",
         "demotopia"
       ],
-      "excerpt": "Demotopia / Author-issued unregistered edition Book Passport samizdat 2.0 This page identifies the special physical edition of Demotopia prepared and issued directly by the author. It is the English fallback destination for the permanent QR entrance. Edition data Work Demotopia — Democratic Utopia Author Ashraellen Edition Author-issued unregistered edition Format samizdat 2.0 Place and year Warsaw, 2026 Passport language English About the copy Each physical copy may receive an individual number and the author’s handwritten signature. The QR code points to the permanent Demotopia entrance and redirects to the appropriate language passport. Current status. This is a minimal working English passport created to support the permanent language fallback. Its full content and final visual treatment will be developed together with the Russian and Polish passports.",
+      "excerpt": "Book passport / samizdat 2.0 Demotopia A philosophical novel about democracy, power and the quiet transformation of freedom into ritual. Author-issued physical edition About the book democracy seen from inside its own ritual Demotopia examines the moment when democratic language remains intact while democratic meaning begins to disappear. It follows not the collapse of freedom in a single dramatic act, but its gradual transformation into habit, procedure and performance. The novel belongs to no party and offers no political programme. It asks a quieter and more difficult question: what happens when people continue to perform democracy after they have stopped expecting it to change anything? This edition a completed physical form issued directly by the author Work Demotopia — Democratic Utopia Author Ashraellen Edition Author-issued physical edition System samizdat 2.0 Place and year Wars",
       "candidates": [
-        "demotopia",
         "edition",
+        "demotopia",
         "passport",
+        "physical",
         "2.0",
+        "book",
         "samizdat",
         "author-issued",
-        "book",
-        "english",
-        "language",
-        "permanent",
-        "unregistered",
-        "ashraellen",
-        "author",
         "copy",
-        "entrance",
-        "fallback",
-        "physical",
-        "2026",
         "about",
-        "appropriate",
-        "author’s",
+        "author",
+        "democracy",
+        "democratic",
+        "its",
+        "language",
+        "request",
+        "all",
+        "ashraellen",
         "code",
-        "content",
-        "created"
+        "each",
+        "freedom",
+        "inside",
+        "may",
+        "novel"
       ],
       "suggestedKeywordSeed": [
-        "book",
         "demotopia",
+        "book",
         "passport",
         "samizdat",
         "2.0",
-        "ashraellen",
-        "edition",
         "author-issued",
-        "books",
-        "unregistered",
+        "edition",
         "about",
+        "ashraellen",
+        "books",
         "copy",
-        "data",
-        "english",
-        "language",
-        "permanent"
+        "physical",
+        "author",
+        "democracy",
+        "permanent",
+        "request",
+        "system"
       ]
     },
     {
@@ -38978,6 +38983,81 @@
         "automatically",
         "browser",
         "entry"
+      ]
+    },
+    {
+      "page": "samizdat/order/index.html",
+      "lang": "root",
+      "section": "samizdat",
+      "title": "Request a samizdat 2.0 copy — Ashraellen",
+      "description": "Shared request page for author-issued samizdat 2.0 books in all available project languages.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/samizdat/order/",
+      "h1": [
+        "Request a copy"
+      ],
+      "h2": [
+        "What the request will include",
+        "The secure request form is being connected."
+      ],
+      "h3": [
+        "Book",
+        "Language",
+        "Quantity",
+        "Destination",
+        "Contact",
+        "Purpose"
+      ],
+      "slugTerms": [
+        "samizdat",
+        "order"
+      ],
+      "excerpt": "All books / all project languages Request a copy One shared request point for all author-issued books in the samizdat 2.0 system. Availability, price, language, delivery and payment are confirmed personally. Sending a request does not create an automatic purchase obligation. What the request will include a direct conversation, not an anonymous checkout Book The title of the requested work. Language The preferred language of the physical copy. Quantity One copy for the reader or additional copies intended as gifts or for further transmission. Destination Country and city, so delivery can be calculated accurately. Contact Name and email for a personal confirmation. Purpose For oneself, as a gift, or to pass the book to another reader. Current stage The secure request form is being connected. The page is already the permanent shared order address for every samizdat 2.0 book and language. Th",
+      "candidates": [
+        "request",
+        "2.0",
+        "all",
+        "copy",
+        "language",
+        "samizdat",
+        "book",
+        "books",
+        "shared",
+        "author-issued",
+        "delivery",
+        "form",
+        "languages",
+        "one",
+        "project",
+        "reader",
+        "sending",
+        "will",
+        "accurately",
+        "added",
+        "additional",
+        "address",
+        "after",
+        "already"
+      ],
+      "suggestedKeywordSeed": [
+        "request",
+        "samizdat",
+        "2.0",
+        "copy",
+        "all",
+        "ashraellen",
+        "author-issued",
+        "books",
+        "form",
+        "shared",
+        "available",
+        "being",
+        "book",
+        "connected",
+        "delivery",
+        "include",
+        "language",
+        "languages"
       ]
     },
     {

@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-07-28T17:22:28.527Z
+Generated: 2026-07-28T17:39:52.125Z
 
-Pages checked: 590
-Pages with issues: 83
-Total issues: 185
+Pages checked: 591
+Pages with issues: 84
+Total issues: 192
 Pages with review notes: 581
 Total review notes: 2112
 
@@ -15,13 +15,13 @@ Total review notes: 2112
 | DUPLICATE_KEYWORDS | 56 |
 | DUPLICATE_OG_TITLE | 34 |
 | DUPLICATE_TITLE | 34 |
-| MISSING_KEYWORDS | 18 |
-| MISSING_TWITTER_IMAGE | 18 |
-| MISSING_OG_DESCRIPTION | 5 |
-| MISSING_JSON_LD | 4 |
-| MISSING_OG_IMAGE | 4 |
-| MISSING_TWITTER_CARD | 4 |
-| MISSING_OG_TITLE | 3 |
+| MISSING_KEYWORDS | 19 |
+| MISSING_TWITTER_IMAGE | 19 |
+| MISSING_OG_DESCRIPTION | 6 |
+| MISSING_JSON_LD | 5 |
+| MISSING_OG_IMAGE | 5 |
+| MISSING_TWITTER_CARD | 5 |
+| MISSING_OG_TITLE | 4 |
 | DESCRIPTION_TOO_SHORT | 2 |
 | MISSING_DESCRIPTION | 2 |
 | MISSING_CANONICAL | 1 |
@@ -347,7 +347,7 @@ Total review notes: 2112
 ### en/books/samizdat/demotopia/index.html
 
 - title: Demotopia — Book Passport — samizdat 2.0
-- description length: 99
+- description length: 107
 - canonical: https://www.ashraellen.com/en/books/samizdat/demotopia/
 - og:image: _missing_
 - twitter:image: _missing_
@@ -859,6 +859,22 @@ Total review notes: 2112
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
 - DESCRIPTION_TOO_SHORT: 77
+
+### samizdat/order/index.html
+
+- title: Request a samizdat 2.0 copy — Ashraellen
+- description length: 92
+- canonical: https://www.ashraellen.com/samizdat/order/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
 
 ### uk/books/error-404-god-not-found/index.html
 
