@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-28T20:58:24.836Z
-Pages: 612
+Generated: 2026-07-28T20:59:01.538Z
+Pages: 613
 
 ## Index
 
@@ -287,6 +287,7 @@ Pages: 612
 | fr/books/radiance/index.html | fr | books | Ashraellen — Éclat \| Contes nordiques sur la véritable histoire du monde | Ashraellen, Éclat, Sampo, Chant, Livres, literary-philosophical, artistic research | éclat, artistique, les, monde, sur, ashraellen, books, cycle, est, pas, recherche, anciennes, cadre, carte, confondre, contes, d'instructions, des |
 | fr/books/radiance/sampo/index.html | fr | books | Ashraellen — Sampo \| Éclat, livre I | Ashraellen, Éclat, Sampo, Chant, Livres, literary-philosophical, artistic research | sampo, ashraellen, books, les, livre, pas, pour, artistique, avec, cadre, chapitre, comme, culturels, dans, éclat, éditeurs, elle, fondations |
 | fr/books/radiance/song/index.html | fr | books | Ashraellen — Chant \| Éclat, livre II | Ashraellen, Éclat, Sampo, Chant, Livres, literary-philosophical, artistic research | ashraellen, books, chant, les, livre, pas, pour, qui, artistique, avec, ayla, cadre, chapitre, culturels, dans, des, éclat, éditeurs |
+| fr/books/samizdat/order/index.html | fr | books | Demander un exemplaire samizdat 2.0 — Ashraellen | _missing_ | exemplaire, 2.0, demande, samizdat, ashraellen, books, calcul, demander, langue, livraison, paiement, avant, choisir, confirmation, d’auteur, d’un, dans, délai |
 | fr/books/samizdat/order/received/index.html | fr | books | Demande reçue — samizdat 2.0 | _missing_ | demande, reçue, samizdat, 2.0, achat, aucun, automatiquement, books, été, afin, ashraellen, avant, compris, créé, e-mail, n’a, order, received |
 | fr/books/seccus/index.html | fr | books | Ashraellen — LE LIVRE SACRÉ DE SECCUS | Ashraellen, SECCUS, Le Livre Sacré de SECCUS, Le Chemin de l’Honnêteté, satire philosophique, argent, réussite, auto-illusion, savoir comme alibi, responsabilité, Sacrunomicon, Ordo Sacrunomiconis, Tétra-Livre | livre, seccus, sacré, ashraellen, books, est, philosophique, pour, qui, réussite, sur, une, alibi, cadre, chemin, choisie, choix, comme |
 | fr/books/the-book-of-whinesis/index.html | fr | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, satire, sacrée, pour, celles, ceux, qui, sont, fatigués, des, ondes, positives, productivité, sans, fin | book, whinesis, ashraellen, books, des, qui, celles, ceux, chapitres, culte, dans, dit, extrait, fatigués, fin, les, livre, moania |
@@ -5381,6 +5382,23 @@ Excerpt:
 Excerpt:
 
 > Éclat - Contes nordiques sur la véritable histoire du monde Chant Livre II du cycle littéraire et philosophique « Éclat ». Un roman sur le son qui ne prend pas le pouvoir : sur l'ouïe, le langage, la ville, le monde du travail et Chant, qui ne devient pas un numéro. Après « Sampo » la question de l'abondance est remplacée par la question du mot : le langage peut-il devenir non pas une opinion, pas un argument, pas une expression de soi, mais une forme de personnalisation ? Couverture russe. Ashraellen. Chapitre en vedette Chapitre un. Bruit normal Premier chapitre complet : le retour d'Ayla à Varsovie, le bruit ordinaire de la ville et la première rupture entre le son comme travail et l'audition comme attitude. Ouvrir le chapitre Fermer le chapitre Varsovie n'a rencontré Ayla ni avec un signe, ni avec une vision, ni avec un murmure souterrain digne d'une continuation de l'ancien prologue
+
+### fr/books/samizdat/order/index.html
+
+- lang: fr
+- section: books
+- title: Demander un exemplaire samizdat 2.0 — Ashraellen
+- description: Demande d’un exemplaire d’auteur samizdat 2.0 dans toute langue du projet.
+- canonical: https://www.ashraellen.com/fr/books/samizdat/order/
+- H1: Demander un exemplaire
+- H2: Demande ↓ Calcul ↓ Confirmation ↓ Paiement ↓ Impression ↓ Livraison
+- H3: _missing_
+- suggested keyword seed: exemplaire, 2.0, demande, samizdat, ashraellen, books, calcul, demander, langue, livraison, paiement, avant, choisir, confirmation, d’auteur, d’un, dans, délai
+- candidates: livraison, demande, pour, langue, délai, exemplaire, l’impression, paiement, 2.0, avant, calcul, choisir, demander, fabrication, lecteur, les, livre, nous, personnellement, que, samizdat, adresse, ainsi, allemand
+
+Excerpt:
+
+> Fabrication après demande confirmée Demander un exemplaire Un livre peut être préparé, mis en page, imprimé et expédié pour un lecteur précis. Avant le paiement, nous confirmons personnellement la disponibilité de la langue, le délai de préparation ainsi que les coûts d’impression et de livraison. L’envoi du formulaire ne crée aucune obligation d’achat. Comment cela fonctionne Demande ↓ Calcul ↓ Confirmation ↓ Paiement ↓ Impression ↓ Livraison Si la langue choisie n’est pas encore prête pour l’impression, nous indiquerons d’abord le délai estimé de traduction et de mise en page. Livre Choisir Demotopia — Utopie Démocratique Langue de l’exemplaire Choisir Biélorusse (BE) Allemand (DE) Anglais (EN) Espagnol (ES) Français (FR) Polonais (PL) Portugais (PT) Russe (RU) Ukrainien (UK) Quantité Destination Pour moi Comme cadeau À transmettre à un autre lecteur Nom et prénom E-mail Téléphone pour
 
 ### fr/books/samizdat/order/received/index.html
 

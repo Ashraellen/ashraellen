@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T20:58:24.824Z",
+  "generated": "2026-07-28T20:59:01.527Z",
   "pages": [
     {
       "page": "be/books/error-404-god-not-found/index.html",
@@ -20762,6 +20762,75 @@
         "des",
         "éclat",
         "éditeurs"
+      ]
+    },
+    {
+      "page": "fr/books/samizdat/order/index.html",
+      "lang": "fr",
+      "section": "books",
+      "title": "Demander un exemplaire samizdat 2.0 — Ashraellen",
+      "description": "Demande d’un exemplaire d’auteur samizdat 2.0 dans toute langue du projet.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/fr/books/samizdat/order/",
+      "h1": [
+        "Demander un exemplaire"
+      ],
+      "h2": [
+        "Demande ↓ Calcul ↓ Confirmation ↓ Paiement ↓ Impression ↓ Livraison"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "fr",
+        "books",
+        "samizdat",
+        "order"
+      ],
+      "excerpt": "Fabrication après demande confirmée Demander un exemplaire Un livre peut être préparé, mis en page, imprimé et expédié pour un lecteur précis. Avant le paiement, nous confirmons personnellement la disponibilité de la langue, le délai de préparation ainsi que les coûts d’impression et de livraison. L’envoi du formulaire ne crée aucune obligation d’achat. Comment cela fonctionne Demande ↓ Calcul ↓ Confirmation ↓ Paiement ↓ Impression ↓ Livraison Si la langue choisie n’est pas encore prête pour l’impression, nous indiquerons d’abord le délai estimé de traduction et de mise en page. Livre Choisir Demotopia — Utopie Démocratique Langue de l’exemplaire Choisir Biélorusse (BE) Allemand (DE) Anglais (EN) Espagnol (ES) Français (FR) Polonais (PL) Portugais (PT) Russe (RU) Ukrainien (UK) Quantité Destination Pour moi Comme cadeau À transmettre à un autre lecteur Nom et prénom E-mail Téléphone pour",
+      "candidates": [
+        "livraison",
+        "demande",
+        "pour",
+        "langue",
+        "délai",
+        "exemplaire",
+        "l’impression",
+        "paiement",
+        "2.0",
+        "avant",
+        "calcul",
+        "choisir",
+        "demander",
+        "fabrication",
+        "lecteur",
+        "les",
+        "livre",
+        "nous",
+        "personnellement",
+        "que",
+        "samizdat",
+        "adresse",
+        "ainsi",
+        "allemand"
+      ],
+      "suggestedKeywordSeed": [
+        "exemplaire",
+        "2.0",
+        "demande",
+        "samizdat",
+        "ashraellen",
+        "books",
+        "calcul",
+        "demander",
+        "langue",
+        "livraison",
+        "paiement",
+        "avant",
+        "choisir",
+        "confirmation",
+        "d’auteur",
+        "d’un",
+        "dans",
+        "délai"
       ]
     },
     {

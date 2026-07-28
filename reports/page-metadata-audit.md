@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-07-28T20:58:24.260Z
+Generated: 2026-07-28T20:59:00.933Z
 
-Pages checked: 611
-Pages with issues: 108
-Total issues: 373
+Pages checked: 612
+Pages with issues: 109
+Total issues: 381
 Pages with review notes: 580
 Total review notes: 2102
 
@@ -13,18 +13,18 @@ Total review notes: 2102
 | Item | Count |
 |---|---:|
 | DUPLICATE_KEYWORDS | 56 |
-| MISSING_KEYWORDS | 43 |
-| MISSING_TWITTER_IMAGE | 43 |
+| MISSING_KEYWORDS | 44 |
+| MISSING_TWITTER_IMAGE | 44 |
 | DUPLICATE_TITLE | 36 |
 | DUPLICATE_OG_TITLE | 34 |
-| MISSING_TWITTER_CARD | 29 |
-| MISSING_OG_DESCRIPTION | 27 |
-| MISSING_JSON_LD | 26 |
-| MISSING_OG_IMAGE | 26 |
-| MISSING_OG_TITLE | 25 |
+| MISSING_TWITTER_CARD | 30 |
+| MISSING_OG_DESCRIPTION | 28 |
+| MISSING_JSON_LD | 27 |
+| MISSING_OG_IMAGE | 27 |
+| MISSING_OG_TITLE | 26 |
 | MISSING_DESCRIPTION | 11 |
 | MISSING_CANONICAL | 9 |
-| DESCRIPTION_TOO_SHORT | 6 |
+| DESCRIPTION_TOO_SHORT | 7 |
 | DUPLICATE_CANONICAL | 2 |
 
 
@@ -824,6 +824,23 @@ Total review notes: 2102
 - MISSING_DESCRIPTION
 - MISSING_OG_DESCRIPTION
 - DUPLICATE_KEYWORDS: shared by 3 pages
+
+### fr/books/samizdat/order/index.html
+
+- title: Demander un exemplaire samizdat 2.0 — Ashraellen
+- description length: 74
+- canonical: https://www.ashraellen.com/fr/books/samizdat/order/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 74
 
 ### fr/books/samizdat/order/received/index.html
 
