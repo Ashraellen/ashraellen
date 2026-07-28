@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-28T20:08:36.408Z
+Generated: 2026-07-28T20:15:51.470Z
 Pages: 599
 
 ## Index
@@ -541,7 +541,7 @@ Pages: 599
 | ru/research/sources/index.html | ru | research | Ashraellen — Источники и традиция | ashraellen, research, sources, источники, традиция, феноменология, сознания, тело, нарратив, когнитивная, наука, художественная, практика, методологические, линии, исследования, эдмунд, гуссерль | ashraellen, источники, тело, традиция, форма, research, варела, исследования, опыт, сознание, сознания, феноменология, sources, взаимодействие, восприятия, где, готовых, гуссерль |
 | samizdat/demotopia/index.html | root | samizdat | Demotopia — samizdat 2.0 | _missing_ | demotopia, samizdat, 2.0, ashraellen, book, entrance, multilingual, passport, browser, english, language, open, permanent |
 | samizdat/index.html | root | samizdat | samizdat 2.0 — Ashraellen | _missing_ | samizdat, 2.0, ashraellen, author, book, editions, language, passports, also, author-issued, automatically, browser, entry |
-| samizdat/order/index.html | root | samizdat | Request a samizdat 2.0 copy — Ashraellen | _missing_ | request, samizdat, 2.0, copy, ashraellen, book, delivery, language, payment, address, any, arrange, author-issued, before, confirm, confirmation, confirmed, estimate |
+| samizdat/order/index.html | root | samizdat | Redirecting to the samizdat 2.0 order page — Ashraellen | _missing_ | samizdat, ashraellen, order, 2.0, redirecting, continue, english |
 | samizdat/order/received/index.html | root | samizdat | Request received — samizdat 2.0 | _missing_ | received, samizdat, request, 2.0, automatically, been, has, address, any, ashraellen, availability, created, email, order, purchase, you |
 | uk/books/error-404-god-not-found/index.html | uk | books | Ashraellen — Помилка 404: Бога не знайдено | _missing_ | 404, бога, знайдено, помилка, ashraellen, books, пошуку, error, found, god, або, готується, заявник, його, канцелярії, канцелярію, книга, книги |
 | uk/books/error-404-god-not-found/why-me/index.html | uk | books | Ashraellen — Чому я? | _missing_ | чому, 404, ashraellen, books, бога, про, error, found, god, why, або, але, біль, бюрократію, він, віру, влад, душі |
@@ -9691,18 +9691,18 @@ Excerpt:
 
 - lang: root
 - section: samizdat
-- title: Request a samizdat 2.0 copy — Ashraellen
-- description: Request an author-issued samizdat 2.0 book in any project language.
-- canonical: https://www.ashraellen.com/samizdat/order/
-- H1: Request a copy
-- H2: Request ↓ Estimate ↓ Confirmation ↓ Payment ↓ Print ↓ Delivery
+- title: Redirecting to the samizdat 2.0 order page — Ashraellen
+- description: _missing_
+- canonical: https://www.ashraellen.com/en/books/samizdat/order/
+- H1: _missing_
+- H2: _missing_
 - H3: _missing_
-- suggested keyword seed: request, samizdat, 2.0, copy, ashraellen, book, delivery, language, payment, address, any, arrange, author-issued, before, confirm, confirmation, confirmed, estimate
-- candidates: delivery, request, language, book, copy, payment, 2.0, address, arrange, before, confirm, confirmed, estimate, may, personally, print, printing, reader, samizdat, select, used, agree, another, answer
+- suggested keyword seed: samizdat, ashraellen, order, 2.0, redirecting, continue, english
+- candidates: order, 2.0, redirecting, samizdat, ashraellen, continue, english
 
 Excerpt:
 
-> Made on confirmed request Request a copy A book may be prepared, typeset, printed and shipped for a particular reader. Before payment we personally confirm language availability, preparation time, print cost and delivery. Sending this form does not create a purchase obligation. How it works Request ↓ Estimate ↓ Confirmation ↓ Payment ↓ Print ↓ Delivery If the selected language is not yet print-ready, we will first confirm the estimated translation and typesetting period. Book Select Demotopia — Democratic Utopia Copy language Select Belarusian (BE) German (DE) English (EN) Spanish (ES) French (FR) Polish (PL) Portuguese (PT) Russian (RU) Ukrainian (UK) Quantity Purpose For myself Gift Pass on to another reader Full name Email Phone for delivery Country City Postal code Delivery address The address is used only to estimate and arrange printing and delivery. Message I agree that the submit
+> Redirecting to the English samizdat 2.0 order page. Continue to the order page
 
 ### samizdat/order/received/index.html
 

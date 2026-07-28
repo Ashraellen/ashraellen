@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-07-28T20:08:35.823Z
+Generated: 2026-07-28T20:15:50.911Z
 
 Pages checked: 598
 Pages with issues: 95
-Total issues: 286
+Total issues: 284
 Pages with review notes: 577
 Total review notes: 2096
 
@@ -13,7 +13,7 @@ Total review notes: 2096
 | Item | Count |
 |---|---:|
 | DUPLICATE_KEYWORDS | 56 |
-| DUPLICATE_TITLE | 38 |
+| DUPLICATE_TITLE | 36 |
 | DUPLICATE_OG_TITLE | 34 |
 | MISSING_KEYWORDS | 30 |
 | MISSING_TWITTER_IMAGE | 30 |
@@ -22,10 +22,10 @@ Total review notes: 2096
 | MISSING_OG_IMAGE | 16 |
 | MISSING_TWITTER_CARD | 16 |
 | MISSING_OG_TITLE | 15 |
-| MISSING_DESCRIPTION | 6 |
-| DESCRIPTION_TOO_SHORT | 5 |
+| MISSING_DESCRIPTION | 7 |
 | MISSING_CANONICAL | 5 |
-| DUPLICATE_DESCRIPTION | 2 |
+| DESCRIPTION_TOO_SHORT | 4 |
+| DUPLICATE_CANONICAL | 2 |
 
 
 ## Review note summary
@@ -377,8 +377,7 @@ Total review notes: 2096
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
 - DESCRIPTION_TOO_SHORT: 67
-- DUPLICATE_TITLE: shared by 2 pages
-- DUPLICATE_DESCRIPTION: shared by 2 pages
+- DUPLICATE_CANONICAL: shared by 2 pages
 
 ### en/books/samizdat/order/received/index.html
 
@@ -1034,12 +1033,13 @@ Total review notes: 2096
 
 ### samizdat/order/index.html
 
-- title: Request a samizdat 2.0 copy — Ashraellen
-- description length: 67
-- canonical: https://www.ashraellen.com/samizdat/order/
+- title: Redirecting to the samizdat 2.0 order page — Ashraellen
+- description length: 0
+- canonical: https://www.ashraellen.com/en/books/samizdat/order/
 - og:image: _missing_
 - twitter:image: _missing_
 
+- MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 - MISSING_OG_TITLE
@@ -1047,9 +1047,7 @@ Total review notes: 2096
 - MISSING_OG_IMAGE
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
-- DESCRIPTION_TOO_SHORT: 67
-- DUPLICATE_TITLE: shared by 2 pages
-- DUPLICATE_DESCRIPTION: shared by 2 pages
+- DUPLICATE_CANONICAL: shared by 2 pages
 
 ### samizdat/order/received/index.html
 
