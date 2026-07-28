@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-28T21:09:55.720Z
+Generated: 2026-07-28T21:11:41.342Z
 Pages: 623
 
 ## Index
@@ -559,8 +559,8 @@ Pages: 623
 | ru/research/position/index.html | ru | research | Ashraellen — Position — Russian | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, ru, research, position | position, ashraellen, research, внутренний, исследователь, модели, наблюдения, независимый, описания, опыт, опыты, поле, работаю, russian, рассматривая, реальность, религии, сама |
 | ru/research/projects/index.html | ru | research | Ashraellen — Проекты исследования | ashraellen, research, projects, проекты, исследования, карта, рабочих, полей, монолит, основной, канал, публичное, поле, сатирические, боковые, лаборатории, восприятия, instagram | ashraellen, проекты, research, telegram, боковые, канал, лаборатории, монолит, поле, church, inner, instagram, melodies, occultus, projects, saint, scriptorium, sounds |
 | ru/research/sources/index.html | ru | research | Ashraellen — Источники и традиция | ashraellen, research, sources, источники, традиция, феноменология, сознания, тело, нарратив, когнитивная, наука, художественная, практика, методологические, линии, исследования, эдмунд, гуссерль | ashraellen, источники, тело, традиция, форма, research, варела, исследования, опыт, сознание, сознания, феноменология, sources, взаимодействие, восприятия, где, готовых, гуссерль |
-| samizdat/demotopia/index.html | root | samizdat | Demotopia — samizdat 2.0 | _missing_ | demotopia, samizdat, 2.0, ashraellen, book, entrance, multilingual, passport, browser, english, language, open, permanent |
-| samizdat/index.html | root | samizdat | samizdat 2.0 — Ashraellen | _missing_ | samizdat, 2.0, ashraellen, author, book, editions, language, passports, also, author-issued, automatically, browser, entry |
+| samizdat/demotopia/index.html | root | samizdat | Demotopia — samizdat 2.0 | _missing_ | demotopia, samizdat, 2.0, ashraellen, book, entrance, multilingual, passport, permanent, choose, language |
+| samizdat/index.html | root | samizdat | samizdat 2.0 — Ashraellen | _missing_ | samizdat, 2.0, ashraellen, author, book, editions, entrance, language, passports, author-issued, choose, each, permanent |
 | samizdat/order/index.html | root | samizdat | Redirecting to the samizdat 2.0 order page — Ashraellen | _missing_ | samizdat, ashraellen, order, 2.0, redirecting, continue, english |
 | samizdat/order/received/index.html | root | samizdat | Request received — samizdat 2.0 | _missing_ | received, samizdat, request, 2.0, automatically, been, has, address, any, ashraellen, availability, created, email, order, purchase, you |
 | uk/books/error-404-god-not-found/index.html | uk | books | Ashraellen — Помилка 404: Бога не знайдено | _missing_ | 404, бога, знайдено, помилка, ashraellen, books, пошуку, error, found, god, або, готується, заявник, його, канцелярії, канцелярію, книга, книги |
@@ -10027,29 +10027,29 @@ Excerpt:
 - H1: Demotopia
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: demotopia, samizdat, 2.0, ashraellen, book, entrance, multilingual, passport, browser, english, language, open, permanent
-- candidates: 2.0, demotopia, passport, samizdat, book, ashraellen, browser, english, entrance, language, multilingual, open, opening, permanent, saved, your
+- suggested keyword seed: demotopia, samizdat, 2.0, ashraellen, book, entrance, multilingual, passport, permanent, choose, language
+- candidates: 2.0, demotopia, samizdat, book, passport, ashraellen, choose, entrance, language, multilingual, permanent
 
 Excerpt:
 
-> Ashraellen · samizdat 2.0 Demotopia Opening the book passport in your saved or browser language. Open English passport
+> Ashraellen · samizdat 2.0 Demotopia Choose the language of the book passport.
 
 ### samizdat/index.html
 
 - lang: root
 - section: samizdat
 - title: samizdat 2.0 — Ashraellen
-- description: Language entry to Ashraellen samizdat 2.0 author editions and book passports.
+- description: Permanent language entrance to Ashraellen samizdat 2.0 author editions and book passports.
 - canonical: https://www.ashraellen.com/samizdat/
 - H1: samizdat 2.0
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: samizdat, 2.0, ashraellen, author, book, editions, language, passports, also, author-issued, automatically, browser, entry
-- candidates: 2.0, ashraellen, book, language, samizdat, editions, passports, also, author, author-issued, automatically, browser, can, choose, each, entrance, entry, history, manually, object, opens, physical, public, saved
+- suggested keyword seed: samizdat, 2.0, ashraellen, author, book, editions, entrance, language, passports, author-issued, choose, each, permanent
+- candidates: 2.0, ashraellen, book, samizdat, editions, language, passports, author, author-issued, choose, each, entrance, history, object, permanent, physical, public, transmitted
 
 Excerpt:
 
-> Ashraellen samizdat 2.0 Author-issued physical editions, public book passports and the history of each book as a transmitted object. This entrance opens automatically using your saved language or browser language. You can also choose manually.
+> Ashraellen samizdat 2.0 Author-issued physical editions, public book passports and the history of each book as a transmitted object. Choose a language.
 
 ### samizdat/order/index.html
 

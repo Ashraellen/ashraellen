@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T21:09:55.709Z",
+  "generated": "2026-07-28T21:11:41.331Z",
   "pages": [
     {
       "page": "be/books/error-404-god-not-found/index.html",
@@ -40813,24 +40813,19 @@
         "samizdat",
         "demotopia"
       ],
-      "excerpt": "Ashraellen · samizdat 2.0 Demotopia Opening the book passport in your saved or browser language. Open English passport",
+      "excerpt": "Ashraellen · samizdat 2.0 Demotopia Choose the language of the book passport.",
       "candidates": [
         "2.0",
         "demotopia",
-        "passport",
         "samizdat",
         "book",
+        "passport",
         "ashraellen",
-        "browser",
-        "english",
+        "choose",
         "entrance",
         "language",
         "multilingual",
-        "open",
-        "opening",
-        "permanent",
-        "saved",
-        "your"
+        "permanent"
       ],
       "suggestedKeywordSeed": [
         "demotopia",
@@ -40841,11 +40836,9 @@
         "entrance",
         "multilingual",
         "passport",
-        "browser",
-        "english",
-        "language",
-        "open",
-        "permanent"
+        "permanent",
+        "choose",
+        "language"
       ]
     },
     {
@@ -40853,7 +40846,7 @@
       "lang": "root",
       "section": "samizdat",
       "title": "samizdat 2.0 — Ashraellen",
-      "description": "Language entry to Ashraellen samizdat 2.0 author editions and book passports.",
+      "description": "Permanent language entrance to Ashraellen samizdat 2.0 author editions and book passports.",
       "existingKeywords": "",
       "canonical": "https://www.ashraellen.com/samizdat/",
       "h1": [
@@ -40864,32 +40857,26 @@
       "slugTerms": [
         "samizdat"
       ],
-      "excerpt": "Ashraellen samizdat 2.0 Author-issued physical editions, public book passports and the history of each book as a transmitted object. This entrance opens automatically using your saved language or browser language. You can also choose manually.",
+      "excerpt": "Ashraellen samizdat 2.0 Author-issued physical editions, public book passports and the history of each book as a transmitted object. Choose a language.",
       "candidates": [
         "2.0",
         "ashraellen",
         "book",
-        "language",
         "samizdat",
         "editions",
+        "language",
         "passports",
-        "also",
         "author",
         "author-issued",
-        "automatically",
-        "browser",
-        "can",
         "choose",
         "each",
         "entrance",
-        "entry",
         "history",
-        "manually",
         "object",
-        "opens",
+        "permanent",
         "physical",
         "public",
-        "saved"
+        "transmitted"
       ],
       "suggestedKeywordSeed": [
         "samizdat",
@@ -40898,13 +40885,13 @@
         "author",
         "book",
         "editions",
+        "entrance",
         "language",
         "passports",
-        "also",
         "author-issued",
-        "automatically",
-        "browser",
-        "entry"
+        "choose",
+        "each",
+        "permanent"
       ]
     },
     {

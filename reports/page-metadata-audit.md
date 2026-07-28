@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-07-28T21:09:55.124Z
+Generated: 2026-07-28T21:11:40.757Z
 
 Pages checked: 622
 Pages with issues: 119
-Total issues: 447
+Total issues: 446
 Pages with review notes: 583
 Total review notes: 2108
 
@@ -23,8 +23,8 @@ Total review notes: 2108
 | MISSING_OG_IMAGE | 34 |
 | MISSING_OG_TITLE | 33 |
 | MISSING_DESCRIPTION | 13 |
-| DESCRIPTION_TOO_SHORT | 11 |
 | MISSING_CANONICAL | 11 |
+| DESCRIPTION_TOO_SHORT | 10 |
 | DUPLICATE_CANONICAL | 2 |
 
 
@@ -1332,7 +1332,7 @@ Total review notes: 2108
 ### samizdat/index.html
 
 - title: samizdat 2.0 — Ashraellen
-- description length: 77
+- description length: 90
 - canonical: https://www.ashraellen.com/samizdat/
 - og:image: _missing_
 - twitter:image: _missing_
@@ -1344,7 +1344,6 @@ Total review notes: 2108
 - MISSING_OG_IMAGE
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
-- DESCRIPTION_TOO_SHORT: 77
 
 ### samizdat/order/index.html
 
