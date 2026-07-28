@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-07-28T19:24:31.273Z
+Generated: 2026-07-28T19:25:49.085Z
 
-Pages checked: 593
-Pages with issues: 90
-Total issues: 236
+Pages checked: 596
+Pages with issues: 93
+Total issues: 263
 Pages with review notes: 577
 Total review notes: 2096
 
@@ -15,16 +15,16 @@ Total review notes: 2096
 | DUPLICATE_KEYWORDS | 56 |
 | DUPLICATE_OG_TITLE | 34 |
 | DUPLICATE_TITLE | 34 |
-| MISSING_KEYWORDS | 25 |
-| MISSING_TWITTER_IMAGE | 25 |
-| MISSING_OG_DESCRIPTION | 12 |
-| MISSING_JSON_LD | 11 |
-| MISSING_OG_IMAGE | 11 |
-| MISSING_TWITTER_CARD | 11 |
-| MISSING_OG_TITLE | 10 |
+| MISSING_KEYWORDS | 28 |
+| MISSING_TWITTER_IMAGE | 28 |
+| MISSING_OG_DESCRIPTION | 15 |
+| MISSING_JSON_LD | 14 |
+| MISSING_OG_IMAGE | 14 |
+| MISSING_TWITTER_CARD | 14 |
+| MISSING_OG_TITLE | 13 |
+| MISSING_DESCRIPTION | 5 |
 | DESCRIPTION_TOO_SHORT | 4 |
-| MISSING_DESCRIPTION | 2 |
-| MISSING_CANONICAL | 1 |
+| MISSING_CANONICAL | 4 |
 
 
 ## Review note summary
@@ -732,12 +732,30 @@ Total review notes: 2096
 ### pl/books/samizdat/order/index.html
 
 - title: Poproś o egzemplarz samizdatu 2.0 — Ashraellen
-- description length: 121
+- description length: 84
 - canonical: https://www.ashraellen.com/pl/books/samizdat/order/
 - og:image: _missing_
 - twitter:image: _missing_
 
 - MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### pl/books/samizdat/order/received/index.html
+
+- title: Zgłoszenie otrzymane — samizdat 2.0
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
 - MISSING_JSON_LD
 - MISSING_OG_TITLE
 - MISSING_OG_DESCRIPTION
@@ -925,6 +943,24 @@ Total review notes: 2096
 - MISSING_TWITTER_IMAGE
 - DESCRIPTION_TOO_SHORT: 72
 
+### ru/books/samizdat/order/received/index.html
+
+- title: Запрос получен — самиздат 2.0
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
 ### samizdat/demotopia/index.html
 
 - title: Demotopia — samizdat 2.0
@@ -973,6 +1009,24 @@ Total review notes: 2096
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
 - DESCRIPTION_TOO_SHORT: 67
+
+### samizdat/order/received/index.html
+
+- title: Request received — samizdat 2.0
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
 
 ### uk/books/error-404-god-not-found/index.html
 

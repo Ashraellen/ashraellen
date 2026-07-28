@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-28T19:24:31.839Z
-Pages: 594
+Generated: 2026-07-28T19:25:49.637Z
+Pages: 597
 
 ## Index
 
@@ -341,7 +341,8 @@ Pages: 594
 | pl/books/radiance/song/index.html | pl | books | Ashraellen — Pieśń \| Blask, Księga II | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | pieśń, ashraellen, bez, blask, books, nie, się, ale, artystycznych, ayla, badań, być, był, była, było, druga, dźwięku, fundacji |
 | pl/books/samizdat/demotopia/index.html | pl | books | Demotopia — Paszport książki — samizdat 2.0 | _missing_ | demotopia, paszport, samizdat, 2.0, 2026, ashraellen, books, egzemplarz, książki, wydanie, autora, autorski, autorskiego, demotopii, fizyczne, fizycznego, książce, może |
 | pl/books/samizdat/index.html | pl | books | samizdat 2.0 — autorskie wydania Ashraellen | _missing_ | 2.0, samizdat, ashraellen, autorskie, wydania, bez, books, książka, autora, bezpośrednie, czym, dlaczego, działa, egzemplarz, egzemplarze, fizyczne, jeden, książek |
-| pl/books/samizdat/order/index.html | pl | books | Poproś o egzemplarz samizdatu 2.0 — Ashraellen | _missing_ | 2.0, egzemplarz, samizdatu, zgłoszenia, ashraellen, autorskich, books, egzemplarzy, książek, poproś, wszystkich, albo, bezpieczny, dostępnych, formularz, język, językach, książki |
+| pl/books/samizdat/order/index.html | pl | books | Poproś o egzemplarz samizdatu 2.0 — Ashraellen | _missing_ | 2.0, egzemplarz, zgłoszenie, ashraellen, books, dostawa, egzemplarza, poproś, samizdatu, adres, autorskiego, czas, dostawy, dowolnym, druk, druku, język, języku |
+| pl/books/samizdat/order/received/index.html | pl | books | Zgłoszenie otrzymane — samizdat 2.0 | _missing_ | otrzymane, samizdat, zgłoszenie, 2.0, automatycznie, books, aby, adres, ashraellen, czas, dostawę, dostępność, druku, email, nie, order, received, utworzony |
 | pl/books/seccus/index.html | pl | books | Ashraellen — ŚWIĘTA KSIĘGA SECCUS | Ashraellen, SECCUS, Święta Księga SECCUS, Droga Uczciwości, satyra filozoficzna, pieniądze, sukces, samooszustwo, wiedza jako alibi, odpowiedzialność, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Księga | seccus, księga, święta, ashraellen, bez, books, jako, alibi, ani, człowiek, droga, filozoficzna, głos, kogo, korpus, książce, książka, książki |
 | pl/books/the-book-of-whinesis/index.html | pl | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sakralna, satyra, dla, tych, którzy, zmęczyli, się, pozytywnymi, wibracjami, niekończącą, produktywnością, kultem, sukcesu, książce | book, whinesis, się, ashraellen, books, albowiem, będzie, będziesz, fragment, jego, książce, którzy, kultem, moania, moanii, narzekania, nie, niekończącą |
 | pl/books/you-are-already-online/index.html | pl | books | Ashraellen — Już jesteś w sieci | ashraellen, books, you, already, online, już, jesteś, sieci, immersyjna, powieść, audio, gatunku, thrillera, psychologicznego, dramatu, cyberpunkowego, cyfrowej, rzeczywistości | jesteś, już, sieci, ashraellen, books, rozdział, algorytmach, already, audio, było, cyberpunkowego, cyfrowej, dramatu, fragment, gatunku, gdzie, hiperrealności, immersyjna |
@@ -473,6 +474,7 @@ Pages: 594
 | ru/books/samizdat/demotopia/index.html | ru | books | Demotopia — Паспорт книги — самиздат 2.0 | _missing_ | demotopia, паспорт, 2.0, ashraellen, самиздат, 2026, books, издание, книги, экземпляр, samizdat, автора, автором, авторский, авторского, варшава, запросить, издания |
 | ru/books/samizdat/index.html | ru | books | самиздат 2.0 — авторские издания Ashraellen | _missing_ | 2.0, самиздат, ashraellen, авторские, издания, books, без, книга, книги, qr-паспорт, samizdat, автором, книг, которой, может, номер, нумерация, нумерованные |
 | ru/books/samizdat/order/index.html | ru | books | Запросить экземпляр самиздата 2.0 — Ashraellen | _missing_ | 2.0, запрос, запросить, ashraellen, books, доставка, оплата, самиздата, экземпляр, order, samizdat, авторского, адрес, выберите, доставки, книга, книги, лично |
+| ru/books/samizdat/order/received/index.html | ru | books | Запрос получен — самиздат 2.0 | _missing_ | запрос, получен, 2.0, books, автоматически, была, самиздат, ashraellen, email, order, received, samizdat, адрес, вами, ваш, включая, доставку, оформлена |
 | ru/books/seccus/index.html | ru | books | Ashraellen — Сакральная Книга АХЕПСУ | ashraellen, seccus, сакральная книга ахепсу, путь честности, философская сатира, деньги, успех, самообман, знание как алиби, ответственность, sacrunomicon, ordo sacrunomiconis, тетра-книга | ахепсу, книга, сакральная, ashraellen, books, без, sacrunomicon, seccus, ssmv, алиби, выбор, голос, деньгах, ещё, знании, избранная, или, книге |
 | ru/books/the-book-of-whinesis/index.html | ru | books | Ashraellen — Книга Нытия — Russian | ashraellen, books, book, whinesis, книга, нытия, священная, сатира, тех, кто, устал, позитивных, вайбов, бесконечной, продуктивности, культа, успеха, книге | книга, нытия, ashraellen, books, кто, book, russian, whinesis, бесконечной, будет, будешь, вайбов, глава, главы, господь, его, ибо, книге |
 | ru/books/you-are-already-online/index.html | ru | books | Ashraellen — Ты уже в сети | ashraellen, books, you, already, online, уже, сети, иммерсивный, аудиороман, жанре, психологического, триллера, киберпанк-драмы, цифровой, реальности, алгоритмах, гиперреальности, книге | сети, уже, ashraellen, books, глава, already, online, you, алгоритмах, аудиороман, без, было, где, гиперреальности, жанре, идеально, иммерсивный, истончение |
@@ -538,6 +540,7 @@ Pages: 594
 | samizdat/demotopia/index.html | root | samizdat | Demotopia — samizdat 2.0 | _missing_ | demotopia, samizdat, 2.0, ashraellen, book, entrance, multilingual, passport, browser, english, language, open, permanent |
 | samizdat/index.html | root | samizdat | samizdat 2.0 — Ashraellen | _missing_ | samizdat, 2.0, ashraellen, author, book, editions, language, passports, also, author-issued, automatically, browser, entry |
 | samizdat/order/index.html | root | samizdat | Request a samizdat 2.0 copy — Ashraellen | _missing_ | request, samizdat, 2.0, copy, ashraellen, book, delivery, language, payment, address, any, arrange, author-issued, before, confirm, confirmation, confirmed, estimate |
+| samizdat/order/received/index.html | root | samizdat | Request received — samizdat 2.0 | _missing_ | received, samizdat, request, 2.0, automatically, been, has, address, any, ashraellen, availability, created, email, order, purchase, you |
 | uk/books/error-404-god-not-found/index.html | uk | books | Ashraellen — Помилка 404: Бога не знайдено | _missing_ | 404, бога, знайдено, помилка, ashraellen, books, пошуку, error, found, god, або, готується, заявник, його, канцелярії, канцелярію, книга, книги |
 | uk/books/error-404-god-not-found/why-me/index.html | uk | books | Ashraellen — Чому я? | _missing_ | чому, 404, ashraellen, books, бога, про, error, found, god, why, або, але, біль, бюрократію, він, віру, влад, душі |
 | uk/books/index.html | uk | books | Ashraellen — Книги | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | книги, ashraellen, 404, book, books, error, found, книга, сатира, god, monolith, radiance, whinesis, аудіороман, ахепсу, вже, відкрити, дослідження |
@@ -6287,17 +6290,34 @@ Excerpt:
 - lang: pl
 - section: books
 - title: Poproś o egzemplarz samizdatu 2.0 — Ashraellen
-- description: Wspólna polska strona zgłoszenia autorskich egzemplarzy książek samizdatu 2.0 we wszystkich dostępnych językach projektu.
+- description: Zgłoszenie autorskiego egzemplarza książki samizdatu 2.0 w dowolnym języku projektu.
 - canonical: https://www.ashraellen.com/pl/books/samizdat/order/
 - H1: Poproś o egzemplarz
-- H2: Co obejmie zgłoszenie | Bezpieczny formularz zgłoszenia jest podłączany.
-- H3: Książka | Język | Liczba egzemplarzy | Miejsce docelowe | Kontakt | Przeznaczenie
-- suggested keyword seed: 2.0, egzemplarz, samizdatu, zgłoszenia, ashraellen, autorskich, books, egzemplarzy, książek, poproś, wszystkich, albo, bezpieczny, dostępnych, formularz, język, językach, książki
-- candidates: 2.0, egzemplarz, wszystkich, zgłoszenia, język, książek, samizdatu, albo, autorskich, egzemplarzy, książki, miejsce, nie, poproś, prezent, projektu, przekazania, siebie, wszystkie, aby, adres, adresem, anonimowa, ashraellen
+- H2: Zgłoszenie → wycena → potwierdzenie → płatność → druk → dostawa
+- H3: _missing_
+- suggested keyword seed: 2.0, egzemplarz, zgłoszenie, ashraellen, books, dostawa, egzemplarza, poproś, samizdatu, adres, autorskiego, czas, dostawy, dowolnym, druk, druku, język, języku
+- candidates: dostawy, druku, zgłoszenie, 2.0, adres, czas, dostawa, egzemplarz, egzemplarza, język, książka, nie, oraz, organizacji, osobiście, płatność, poproś, przed, samizdatu, wybierz, wyceny, angielski, ashraellen, autorskiego
 
 Excerpt:
 
-> Wszystkie książki / wszystkie języki projektu Poproś o egzemplarz Jedno wspólne miejsce zgłoszenia dla wszystkich autorskich książek w systemie samizdat 2.0. Dostępność, cena, język, dostawa i płatność są potwierdzane osobiście. Wysłanie zgłoszenia nie tworzy automatycznego obowiązku zakupu. Co obejmie zgłoszenie bezpośrednia rozmowa, nie anonimowa kasa Książka Tytuł dzieła, którego egzemplarz chcesz otrzymać. Język Preferowany język fizycznego egzemplarza. Liczba egzemplarzy Jeden egzemplarz dla siebie albo dodatkowe egzemplarze na prezent lub do dalszego przekazania. Miejsce docelowe Kraj i miasto, aby koszt dostawy można było obliczyć dokładnie. Kontakt Imię i adres email do osobistego potwierdzenia. Przeznaczenie Dla siebie, na prezent albo do przekazania książki kolejnemu czytelnikowi. Obecny etap Bezpieczny formularz zgłoszenia jest podłączany. Ta strona jest już stałym wspólnym ad
+> Wykonanie po potwierdzonym zgłoszeniu Poproś o egzemplarz Książka może zostać przygotowana, złożona, wydrukowana i wysłana dla konkretnego czytelnika. Przed płatnością osobiście potwierdzamy dostępność języka, czas przygotowania, koszt druku i dostawy. Wysłanie formularza nie tworzy obowiązku zakupu. Jak to działa Zgłoszenie → wycena → potwierdzenie → płatność → druk → dostawa Jeśli wybrany język nie jest jeszcze gotowy do druku, najpierw podamy przewidywany czas tłumaczenia i składu. Książka Wybierz Demotopia — Demokratyczna Utopia Język egzemplarza Wybierz Białoruski (BE) Niemiecki (DE) Angielski (EN) Hiszpański (ES) Francuski (FR) Polski (PL) Portugalski (PT) Rosyjski (RU) Ukraiński (UK) Liczba egzemplarzy Przeznaczenie Dla siebie Na prezent Do przekazania innemu czytelnikowi Imię i nazwisko Email Telefon do dostawy Kraj Miasto Kod pocztowy Adres dostawy Adres jest używany wyłącznie d
+
+### pl/books/samizdat/order/received/index.html
+
+- lang: pl
+- section: books
+- title: Zgłoszenie otrzymane — samizdat 2.0
+- description: _missing_
+- canonical: _missing_
+- H1: Zgłoszenie otrzymane
+- H2: Zakup nie został utworzony automatycznie.
+- H3: _missing_
+- suggested keyword seed: otrzymane, samizdat, zgłoszenie, 2.0, automatycznie, books, aby, adres, ashraellen, czas, dostawę, dostępność, druku, email, nie, order, received, utworzony
+- candidates: zgłoszenie, 2.0, email, otrzymane, samizdat, aby, adres, automatycznie, czas, dostawę, dostępność, druku, dziękujemy, folder, formularzu, języka, koszt, nie, płatność, podany, potwierdzić, produkcji, przed, przez
+
+Excerpt:
+
+> samizdat 2.0 Zgłoszenie otrzymane Dziękujemy. Twoje zgłoszenie zostało wysłane. Skontaktujemy się z Tobą przez email, aby potwierdzić dostępność języka, czas przygotowania, koszt druku, dostawę i płatność przed rozpoczęciem produkcji. Zakup nie został utworzony automatycznie. Sprawdzaj adres email podany w formularzu, również folder ze spamem.
 
 ### pl/books/seccus/index.html
 
@@ -8526,6 +8546,23 @@ Excerpt:
 
 > Изготовление по подтверждённому запросу Запросить экземпляр Книга может быть подготовлена, свёрстана, напечатана и отправлена конкретному читателю. До оплаты мы лично подтверждаем доступность языка, срок подготовки, стоимость печати и доставки. Отправка формы не создаёт обязательства совершить покупку. Как это работает Запрос → расчёт → подтверждение → оплата → печать → доставка Если выбранный язык ещё не подготовлен к печати, мы предварительно сообщим предполагаемый срок перевода и вёрстки. Книга Выберите Demotopia — Демократичная Утопия Язык экземпляра Выберите Белорусский (BE) Немецкий (DE) Английский (EN) Испанский (ES) Французский (FR) Польский (PL) Португальский (PT) Русский (RU) Украинский (UK) Количество Назначение Для себя В подарок Для передачи другому читателю Имя и фамилия Email Телефон для доставки Страна Город Почтовый индекс Адрес доставки Адрес используется только для рас
 
+### ru/books/samizdat/order/received/index.html
+
+- lang: ru
+- section: books
+- title: Запрос получен — самиздат 2.0
+- description: _missing_
+- canonical: _missing_
+- H1: Запрос получен
+- H2: Покупка не была оформлена автоматически.
+- H3: _missing_
+- suggested keyword seed: запрос, получен, 2.0, books, автоматически, была, самиздат, ashraellen, email, order, received, samizdat, адрес, вами, ваш, включая, доставку, оформлена
+- candidates: запрос, 2.0, получен, самиздат, email, автоматически, адрес, была, вами, ваш, включая, доставку, доступность, изготовления, начала, оплату, отправлен, оформлена, папку, печати, подготовки, подтвердить, покупка, почты
+
+Excerpt:
+
+> самиздат 2.0 Запрос получен Спасибо. Ваш запрос отправлен. Мы свяжемся с вами по email, чтобы подтвердить доступность языка, срок подготовки, стоимость печати, доставку и оплату до начала изготовления. Покупка не была оформлена автоматически. Проверяйте адрес электронной почты, указанный в форме, включая папку со спамом.
+
 ### ru/books/seccus/index.html
 
 - lang: ru
@@ -9630,6 +9667,23 @@ Excerpt:
 Excerpt:
 
 > Made on confirmed request Request a copy A book may be prepared, typeset, printed and shipped for a particular reader. Before payment we personally confirm language availability, preparation time, print cost and delivery. Sending this form does not create a purchase obligation. How it works Request → estimate → confirmation → payment → print → delivery If the selected language is not yet print-ready, we will first confirm the estimated translation and typesetting period. Book Select Demotopia — Democratic Utopia Copy language Select Belarusian (BE) German (DE) English (EN) Spanish (ES) French (FR) Polish (PL) Portuguese (PT) Russian (RU) Ukrainian (UK) Quantity Purpose For myself Gift Pass on to another reader Full name Email Phone for delivery Country City Postal code Delivery address The address is used only to estimate and arrange printing and delivery. Message I agree that the submit
+
+### samizdat/order/received/index.html
+
+- lang: root
+- section: samizdat
+- title: Request received — samizdat 2.0
+- description: _missing_
+- canonical: _missing_
+- H1: Request received
+- H2: No purchase has been created automatically.
+- H3: _missing_
+- suggested keyword seed: received, samizdat, request, 2.0, automatically, been, has, address, any, ashraellen, availability, created, email, order, purchase, you
+- candidates: request, 2.0, been, email, has, received, samizdat, you, address, any, automatically, availability, before, begins, confirm, contact, cost, created, delivery, entered, eye, folder, form, including
+
+Excerpt:
+
+> samizdat 2.0 Request received Thank you. Your request has been sent. We will contact you by email to confirm language availability, preparation time, print cost, delivery and payment before any production begins. No purchase has been created automatically. Please keep an eye on the email address entered in the form, including its spam folder.
 
 ### uk/books/error-404-god-not-found/index.html
 
