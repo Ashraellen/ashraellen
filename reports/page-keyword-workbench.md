@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-28T13:41:02.993Z
-Pages: 588
+Generated: 2026-07-28T14:27:53.949Z
+Pages: 589
 
 ## Index
 
@@ -213,7 +213,7 @@ Pages: 588
 | es/monolith/index.html | es | monolith | MONOLITH — Ashraellen — Spanish | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, es, monolith | monolith, beton, gas, sludge, ashraellen, colapso, control, controlada, memoria, amazon, desintegración, distópica, estados, inglés, preparación, sistemas, sobre, spanish |
 | es/privacy.html | es | privacy.html | Política de privacidad — Ashraellen | ashraellen, privacy, política, privacidad, ashraellen.com, datos, personales, analítica, cookies, derechos, del, usuario, contacto, quién, responsable, sitio, qué, pueden | datos, del, política, privacidad, analítica, ashraellen, cookies, los, para, plataformas, qué, sitio, actualizaciones, ashraellen.com, base, compras, con, contacto |
 | es/professional/index.html | es | professional | Ashraellen — Dosier profesional | ashraellen, professional, dosier, profesional, autor, método, observación, libros, formas, públicas, del, proyecto, plan, desarrollo, cooperación, contacto, sobre, posición | ashraellen, observación, proyecto, del, autor, desarrollo, dosier, formas, método, plan, profesional, professional, públicas, actual, apoyo, archivo, busca, campos |
-| es/public/index.html | es | public | Ashraellen — Público — Spanish | ashraellen, public, público, campo, intervenciones, publicaciones, pensamientos, apoyo, reacciones, observaciones, donde, investigación, encuentra, con, persona, viva, nuevos, bombardees | público, apoyo, ashraellen, pensamientos, campo, con, intervenciones, persona, public, publicaciones, abrir, del, donde, dónde, encuentra, investigación, nuevos, observaciones |
+| es/public/index.html | es | public | Ashraellen — Público — Spanish | ashraellen, public, público, campo, intervenciones, publicaciones, pensamientos, apoyo, reacciones, observaciones, donde, investigación, encuentra, con, persona, viva, nuevos, bombardees | ashraellen, público, apoyo, pensamientos, campo, con, intervenciones, persona, public, publicaciones, abrir, del, donde, encuentra, investigación, nuevos, observaciones, pensamiento |
 | es/public/posts/essay/cycles/cycle-0001.html | es | public | Ashraellen — Primer ciclo de mini-ensayos | ashraellen, public, posts, essay, cycles, cycle, 0001, primer, ciclo, mini-ensayos, poder, sobre, pensamiento, sino, atención, cuerpo, primera, puerta | ciclo, primer, sobre, cuerpo, pasado, pensamiento, pero, ashraellen, atención, interpretación, objetivo, poder, primera, public, puerta, sino, como, completado |
 | es/public/posts/essay/cycles/index.html | es | public | Ashraellen — Ciclos de mini-ensayos | ashraellen, public, posts, essay, cycles, ciclos, mini-ensayos, completados, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ciclos, mini-ensayos, completados, ciclo, actual, aquí, ashraellen, encuentra, los, página, principal, public, reúnen, cycles, essay, posts, primer, sección |
 | es/public/posts/essay/index.html | es | public | Ashraellen — Mini-Ensayos | ashraellen, public, posts, essay, mini-ensayos, primer, ciclo, poder, sobre, pensamiento, sino, atención, cuerpo, primera, puerta, pero, objetivo, pasado | mini-ensayos, sobre, cuerpo, pasado, pensamiento, pero, sino, ashraellen, atención, ciclo, interpretación, objetivo, poder, primer, primera, public, puerta, una |
@@ -457,6 +457,7 @@ Pages: 588
 | pt/research/position/index.html | pt | research | Ashraellen — Position — PT | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, pt, research, position | position, ashraellen, como, artístico, campo, descrição, experiência, experiências, filosofia, independente, interna, modelos, research, não, observação, pesquisador, religião, são |
 | pt/research/projects/index.html | pt | research | Ashraellen — Projetos de pesquisa | ashraellen, research, projects, projetos, pesquisa, mapa, dos, campos, trabalho, monolith, canal, principal, campo, público, satíricos, laboratórios, laterais, percepção | ashraellen, projetos, campo, monolith, percepção, pesquisa, research, abrir, aqui, book, campos, canal, church, como, dos, inner, instagram, laboratórios |
 | pt/research/sources/index.html | pt | research | Ashraellen — Fontes e tradição | ashraellen, research, sources, fontes, tradição, fenomenologia, consciência, corpo, narrativa, ciência, cognitiva, prática, artística, edmund, husserl, experiência, antes, das | como, ashraellen, consciência, corpo, fontes, narrativa, tradição, experiência, fenomenologia, forma, research, antes, artística, ciência, cognitiva, com, compreensão, das |
+| ru/books/demotopia/index.html | ru | books | Demotopia — Демократичная Утопия — роман Ashraellen | Ashraellen, Demotopia, Демократичная Утопия, философский роман, антиутопия, Варшава, цифровая система, данные, свобода, самиздат 2.0 | demotopia, ashraellen, роман, books, ближайшего, будущего, два, знает, которая, утопия, человек, человека, 2.0, безопасной, варшава, видит, встречи, данных |
 | ru/books/error-404-god-not-found/index.html | ru | books | Ashraellen — Ошибка 404: Бог не найден | ashraellen, books, error, 404, god, found, ошибка, бог, найден, многоязычный, философско-сатирический, роман-цикл, небесной, канцелярии, неверно, направленном, поиске, бога | 404, бог, найден, ошибка, ashraellen, books, бога, канцелярии, небесной, error, found, god, дело, его, или, истины, книга, книги |
 | ru/books/error-404-god-not-found/why-me/index.html | ru | books | Ashraellen — Почему я? | ashraellen, books, error, 404, god, found, why, почему, первая, книга, цикла, ошибка, бог, найден, философско-сатирический, роман, человеке, который | почему, 404, ashraellen, books, бога, книга, ошибка, error, found, god, why, бог, влад, всё, жалобу, или, канцелярии, книге |
 | ru/books/index.html | ru | books | Ashraellen — Книги — Russian | ashraellen, books, книги, монолит, сияние, ошибка, 404, бог, найден, ахепсу, уже, сети, книга, нытия, список, doctype, html, title | книги, ashraellen, 404, books, ахепсу, бог, книга, сатира, russian, аудиороман, здесь, или, исследования, книжные, монолит, найден, нытия, отдельные |
@@ -1966,14 +1967,14 @@ Excerpt:
 - description: Öffentliches Feld Ashraellen: Auftritte, Veröffentlichungen, Stützgedanken, Reaktionen und Beobachtungen, in denen Forschung dem lebendigen Menschen begegnet.
 - canonical: https://www.ashraellen.com/de/public/
 - H1: Öffentlich
-- H2: Auftritte | Veröffentlichungen | Neue Stützgedanken
+- H2: Auftritte | Veröffentlichungen | Projekte | Neue Stützgedanken
 - H3: Bombardiere nicht | Volk und Masse | Paarungsspiele | Spiritualität wird nicht erzwungen | Der Preis des Übergangs | Der wahre Feind
 - suggested keyword seed: ashraellen, auftritte, menschen, öffentlich, public, stützgedanken, und, veröffentlichungen, begegnet, beobachtungen, dem, denen, der, des, die, eine, feld, forschung
-- candidates: und, der, die, nicht, ist, öffnen, eine, gedanken, mit, stützgedanke, des, menschen, wird, das, ein, masse, spiritualität, stützgedanken, volk, ashraellen, beobachtungen, bereits, dem, feld
+- candidates: und, die, der, nicht, öffnen, ist, eine, gedanken, mit, stützgedanke, des, menschen, wird, ashraellen, das, ein, masse, spiritualität, stützgedanken, volk, beobachtungen, bereits, dem, feld
 
 Excerpt:
 
-> Öffentlich Hier verlässt die Forschung Bücher, Entwürfe und innere Formeln und tritt in das lebendige Feld ein: Videos, Veröffentlichungen, Kommentare, Antworten, Reaktionen und offene Beobachtungen. Das öffentliche Feld ist keine Vitrine der Aktivität. Es ist der Ort, an dem der Gedanke im lebendigen Kontakt mit einem Menschen geprüft wird. Wenn Bücher den Mechanismus in der Tiefe zeigen, hält die öffentliche Form seine Aufblitze fest: wo ein Gedanke angenommen wurde, wo er Widerstand auslöste, wo er verzerrt wurde und wo er plötzlich erkennbar wurde. Auftritte Videos, Shorts, öffentliche Analysen und Formen lebendiger Rede — das, was der Welt bereits gezeigt werden kann. Öffnen → Veröffentlichungen Texte, die das Labor verlassen haben und zur Botschaft wurden: Stützgedanken, Fragmente, Reaktionen und Beobachtungen. Öffnen → Neue Stützgedanken Sechs neue Stützgedanken des öffentlichen F
+> Öffentlich Hier verlässt die Forschung Bücher, Entwürfe und innere Formeln und tritt in das lebendige Feld ein: Videos, Veröffentlichungen, Kommentare, Antworten, Reaktionen und offene Beobachtungen. Das öffentliche Feld ist keine Vitrine der Aktivität. Es ist der Ort, an dem der Gedanke im lebendigen Kontakt mit einem Menschen geprüft wird. Wenn Bücher den Mechanismus in der Tiefe zeigen, hält die öffentliche Form seine Aufblitze fest: wo ein Gedanke angenommen wurde, wo er Widerstand auslöste, wo er verzerrt wurde und wo er plötzlich erkennbar wurde. Auftritte Videos, Shorts, öffentliche Analysen und Formen lebendiger Rede — das, was der Welt bereits gezeigt werden kann. Öffnen → Veröffentlichungen Texte, die das Labor verlassen haben und zur Botschaft wurden: Stützgedanken, Fragmente, Reaktionen und Beobachtungen. Öffnen → Projekte Forschungs-, Literatur- und Medienprojekte von Ashrae
 
 ### de/public/posts/essay/cycles/cycle-0001.html
 
@@ -4108,14 +4109,14 @@ Excerpt:
 - description: Campo público Ashraellen: intervenciones, publicaciones, pensamientos de apoyo, reacciones y observaciones donde la investigación se encuentra con la persona viva.
 - canonical: https://www.ashraellen.com/es/public/
 - H1: Público
-- H2: Intervenciones | Publicaciones | Nuevos pensamientos de apoyo
+- H2: Intervenciones | Publicaciones | Proyectos | Nuevos pensamientos de apoyo
 - H3: No Bombardees | Pueblo y Masa | Juegos de Apareamiento | La espiritualidad no se impone | El precio de la transición | El verdadero enemigo
-- suggested keyword seed: público, apoyo, ashraellen, pensamientos, campo, con, intervenciones, persona, public, publicaciones, abrir, del, donde, dónde, encuentra, investigación, nuevos, observaciones
-- candidates: pensamiento, apoyo, que, con, abrir, una, persona, público, campo, pensamientos, del, dónde, espiritualidad, masa, pueblo, viva, ashraellen, certeza, crisis, los, observaciones, otra, papel, precio
+- suggested keyword seed: ashraellen, público, apoyo, pensamientos, campo, con, intervenciones, persona, public, publicaciones, abrir, del, donde, encuentra, investigación, nuevos, observaciones, pensamiento
+- candidates: pensamiento, apoyo, que, abrir, con, una, persona, público, campo, pensamientos, ashraellen, del, dónde, espiritualidad, masa, pueblo, viva, certeza, crisis, investigación, los, observaciones, otra, papel
 
 Excerpt:
 
-> Público Aquí la investigación sale de los libros, borradores y fórmulas interiores hacia el campo vivo: vídeos, publicaciones, comentarios, respuestas, reacciones y observaciones abiertas. El campo público no es una vitrina de actividad. Es el lugar donde el pensamiento se pone a prueba en contacto vivo con una persona. Si los libros muestran el mecanismo en profundidad, la forma pública registra sus destellos: dónde el pensamiento fue aceptado, dónde encontró resistencia, dónde fue distorsionado y dónde de pronto se volvió reconocible. Intervenciones Vídeos, Shorts, análisis públicos y formas de habla viva: aquello que ya puede mostrarse al mundo. Abrir → Publicaciones Textos que salieron del laboratorio y se volvieron mensaje: pensamientos de apoyo, fragmentos, reacciones y observaciones. Abrir → Nuevos pensamientos de apoyo Seis nuevos pensamientos de apoyo del campo público Ashraelle
+> Público Aquí la investigación sale de los libros, borradores y fórmulas interiores hacia el campo vivo: vídeos, publicaciones, comentarios, respuestas, reacciones y observaciones abiertas. El campo público no es una vitrina de actividad. Es el lugar donde el pensamiento se pone a prueba en contacto vivo con una persona. Si los libros muestran el mecanismo en profundidad, la forma pública registra sus destellos: dónde el pensamiento fue aceptado, dónde encontró resistencia, dónde fue distorsionado y dónde de pronto se volvió reconocible. Intervenciones Vídeos, Shorts, análisis públicos y formas de habla viva: aquello que ya puede mostrarse al mundo. Abrir → Publicaciones Textos que salieron del laboratorio y se volvieron mensaje: pensamientos de apoyo, fragmentos, reacciones y observaciones. Abrir → Proyectos Proyectos de investigación, literarios y mediáticos de Ashraellen — campos de tr
 
 ### es/public/posts/essay/cycles/cycle-0001.html
 
@@ -5230,14 +5231,14 @@ Excerpt:
 - description: Champ public Ashraellen : interventions, publications, pensées d’appui, réactions et observations où la recherche rencontre la personne vivante.
 - canonical: https://www.ashraellen.com/fr/public/
 - H1: Public
-- H2: Interventions | Publications | Nouvelles pensées d’appui
+- H2: Interventions | Publications | Projets | Nouvelles pensées d’appui
 - H3: Ne bombardez pas | Peuple et Masse | Jeux d’accouplement | La spiritualité ne s’impose pas | Le prix du passage | Le véritable ennemi
 - suggested keyword seed: public, ashraellen, d’appui, champ, interventions, pensées, personne, publications, dans, elle, est, french, les, nouvelles, observations, ouvrir, pas, pensée
-- candidates: pensée, d’appui, ouvrir, pas, une, est, personne, public, champ, dans, elle, les, pensées, avec, masse, peuple, qui, spiritualité, vivante, ashraellen, certitude, crise, déjà, des
+- candidates: pensée, d’appui, ouvrir, pas, une, dans, est, les, personne, public, champ, elle, pensées, avec, des, masse, peuple, qui, spiritualité, vivante, ashraellen, certitude, crise, déjà
 
 Excerpt:
 
-> Public Ici la recherche sort des livres, des brouillons et des formules intérieures pour entrer dans le champ vivant : vidéos, publications, commentaires, réponses, réactions et observations ouvertes. Le champ public n’est pas une vitrine d’activité. C’est le lieu où la pensée est éprouvée dans le contact vivant avec une personne. Si les livres montrent le mécanisme en profondeur, la forme publique enregistre ses éclats : où la pensée a été acceptée, où elle a rencontré une résistance, où elle a été déformée et où elle est soudain devenue reconnaissable. Interventions Vidéos, Shorts, analyses publiques et formes de parole vivante — ce qui peut déjà être montré au monde. Ouvrir → Publications Textes sortis du laboratoire et devenus message : pensées d’appui, fragments, réactions et observations. Ouvrir → Nouvelles pensées d’appui Six nouvelles pensées d’appui du champ public Ashraellen : 
+> Public Ici la recherche sort des livres, des brouillons et des formules intérieures pour entrer dans le champ vivant : vidéos, publications, commentaires, réponses, réactions et observations ouvertes. Le champ public n’est pas une vitrine d’activité. C’est le lieu où la pensée est éprouvée dans le contact vivant avec une personne. Si les livres montrent le mécanisme en profondeur, la forme publique enregistre ses éclats : où la pensée a été acceptée, où elle a rencontré une résistance, où elle a été déformée et où elle est soudain devenue reconnaissable. Interventions Vidéos, Shorts, analyses publiques et formes de parole vivante — ce qui peut déjà être montré au monde. Ouvrir → Publications Textes sortis du laboratoire et devenus message : pensées d’appui, fragments, réactions et observations. Ouvrir → Projets Les projets de recherche, littéraires et médiatiques d’Ashraellen — des champ
 
 ### fr/public/posts/essay/cycles/cycle-0001.html
 
@@ -7474,14 +7475,14 @@ Excerpt:
 - description: Campo público Ashraellen: falas, publicações, pensamentos de apoio, reações e observações onde a pesquisa encontra a pessoa viva.
 - canonical: https://www.ashraellen.com/pt/public/
 - H1: Público
-- H2: Falas | Publicações | Novos pensamentos de apoio
+- H2: Falas | Publicações | Projetos | Novos pensamentos de apoio
 - H3: Não Bombardeie | Povo e Massa | Jogos de Acasalamento | A Espiritualidade Não Se Impõe | O Preço da Transição | O Verdadeiro Inimigo
 - suggested keyword seed: público, apoio, ashraellen, pensamentos, campo, falas, onde, pessoa, public, publicações, abrir, com, encontra, não, novos, observações, pensamento, pesquisa
-- candidates: pensamento, apoio, não, que, abrir, uma, com, onde, pessoa, público, campo, pensamentos, espiritualidade, massa, povo, viva, ashraellen, certeza, crise, ela, observações, papel, preço, publicações
+- candidates: pensamento, apoio, não, abrir, que, uma, com, onde, pessoa, público, campo, pensamentos, ashraellen, espiritualidade, massa, povo, viva, certeza, crise, ela, observações, papel, pesquisa, preço
 
 Excerpt:
 
-> Público Aqui a pesquisa sai dos livros, rascunhos e fórmulas interiores para o campo vivo: vídeos, publicações, comentários, respostas, reações e observações abertas. O campo público não é uma vitrine de atividade. É o lugar onde o pensamento é testado no contato vivo com uma pessoa. Se os livros mostram o mecanismo em profundidade, a forma pública registra seus lampejos: onde o pensamento foi aceito, onde encontrou resistência, onde foi distorcido e onde de repente se tornou reconhecível. Falas Vídeos, Shorts, análises públicas e formas de fala viva — aquilo que já pode ser mostrado ao mundo. Abrir → Publicações Textos que saíram do laboratório e se tornaram mensagem: pensamentos de apoio, fragmentos, reações e observações. Abrir → Novos pensamentos de apoio Seis novos pensamentos de apoio do campo público Ashraellen: agressão que retorna, povo e massa, roteiros de relação, espiritualid
+> Público Aqui a pesquisa sai dos livros, rascunhos e fórmulas interiores para o campo vivo: vídeos, publicações, comentários, respostas, reações e observações abertas. O campo público não é uma vitrine de atividade. É o lugar onde o pensamento é testado no contato vivo com uma pessoa. Se os livros mostram o mecanismo em profundidade, a forma pública registra seus lampejos: onde o pensamento foi aceito, onde encontrou resistência, onde foi distorcido e onde de repente se tornou reconhecível. Falas Vídeos, Shorts, análises públicas e formas de fala viva — aquilo que já pode ser mostrado ao mundo. Abrir → Publicações Textos que saíram do laboratório e se tornaram mensagem: pensamentos de apoio, fragmentos, reações e observações. Abrir → Projetos Projetos de pesquisa, literários e midiáticos de Ashraellen — campos de trabalho distintos reunidos em um mesmo espaço. Abrir → Novos pensamentos de
 
 ### pt/public/posts/essay/cycles/cycle-0001.html
 
@@ -8247,6 +8248,23 @@ Excerpt:
 Excerpt:
 
 > Fontes e tradição Esta pesquisa situa-se no cruzamento entre a fenomenologia da consciência, a epistemologia narrativa, a ciência cognitiva e a prática artística. Husserl constrói um método de descrição precisa da experiência. Merleau-Ponty devolve a consciência ao corpo. Ricoeur mostra que a narrativa não é um ornamento do pensamento, mas uma forma de compreensão de si. Varela, Thompson e Rosch aproximam a fenomenologia da ciência cognitiva e da experiência vivida. Ashraellen trabalha onde essas linhas se cruzam: numa zona em que o texto acadêmico sozinho já não basta, e onde a experiência viva ainda não recebeu uma forma exata. Fenomenologia da consciência Edmund Husserl — a experiência antes das explicações prontas O importante aqui não é acreditar no primeiro pensamento, mas observar com precisão como a experiência aparece na consciência. As explicações habituais são temporariamente 
+
+### ru/books/demotopia/index.html
+
+- lang: ru
+- section: books
+- title: Demotopia — Демократичная Утопия — роман Ashraellen
+- description: Demotopia — философский роман Ashraellen о безопасной демократической системе ближайшего будущего, которая собирает человека из данных точнее, чем он знает себя сам.
+- canonical: https://www.ashraellen.com/ru/books/demotopia/
+- H1: Demotopia
+- H2: Утопия, которая работает | Человек, собранный из фрагментов | Два издания — два способа встречи
+- H3: Статус проекта
+- suggested keyword seed: demotopia, ashraellen, роман, books, ближайшего, будущего, два, знает, которая, утопия, человек, человека, 2.0, безопасной, варшава, видит, встречи, данных
+- candidates: роман, ashraellen, demotopia, ближайшего, будущего, знает, система, человек, человека, 2.0, варшава, видит, возникает, данные, два, если, издания, коммерческая, конструкции, которая, может, образ, ответственность, решения
+
+Excerpt:
+
+> Коммерческая визуальная концепция v01 Утопия, которая работает Demotopia начинается не с разрушенного мира, диктатуры или открытого насилия. Перед нами чистая, безопасная и желанная Варшава ближайшего будущего — город, в котором общественная система научилась предотвращать ошибки, распределять риски и принимать решения на основании полной картины. Проблема возникает там, где эта картина оказывается точнее человеческого представления о себе. Система не обязательно обманывает. Она может быть права — и именно поэтому вопрос свободы становится значительно сложнее. Что остаётся от личности, если общество способно доказать, что знает человека лучше, чем он знает себя? Человек, собранный из фрагментов Маршруты, связи, юридические конструкции, финансовые следы, привычки, роли и распределённые данные образуют фигуру, которой никто не создавал намеренно. Реальный человек видит лишь отдельные посту
 
 ### ru/books/error-404-god-not-found/index.html
 
@@ -9820,14 +9838,14 @@ Excerpt:
 - description: Публічне поле Ashraellen: виступи, публікації, опорні думки, реакції та спостереження, де дослідження зустрічає живу людину.
 - canonical: https://www.ashraellen.com/uk/public/
 - H1: Публічне
-- H2: Виступи | Публікації | Нові опорні думки
+- H2: Виступи | Публікації | Проєкти | Нові опорні думки
 - H3: Не бомбіть | Народ і маса | Шлюбні ігри | Духовність не нав’язується | Ціна переходу | Справжній ворог
 - suggested keyword seed: ashraellen, публічне, думки, public, виступи, опорні, публікації, вже, відкрити, вона, дослідження, думка, думку, духовність, живу, зустрічає, людину, маса
-- candidates: відкрити, думка, думку, опорна, духовність, маса, народ, публічне, ashraellen, вже, вона, думки, опорні, поле, публікації, реакції, спостереження, бомбіть, виступи, відео, відповіді, ворог, впевненість, дослідження
+- candidates: відкрити, думка, думку, опорна, ashraellen, духовність, маса, народ, публічне, вже, вона, думки, опорні, поле, поля, публікації, реакції, спостереження, бомбіть, виступи, відео, відповіді, ворог, впевненість
 
 Excerpt:
 
-> Публічне Тут дослідження виходить із книжок, чернеток і внутрішніх формул у живе поле: відео, публікації, коментарі, відповіді, реакції та відкриті спостереження. Публічне поле — не вітрина активності. Це місце, де думка перевіряється живим контактом із людиною. Якщо книжки показують механізм у глибині, публічна форма фіксує його спалахи: де думку прийняли, де вона викликала опір, де була спотворена, а де раптом стала впізнаваною. Виступи Відео, Shorts, публічні аналізи й форми живої мови — те, що вже можна показувати світові. Відкрити → Публікації Тексти, що вийшли з лабораторії й стали повідомленням: опорні думки, фрагменти, реакції та спостереження. Відкрити → Нові опорні думки Шість нових опорних думок публічного поля Ashraellen: повернення агресії, народ і маса, сценарії стосунків, духовність без примусу, криза як ціна переходу і небезпека закритої впевненості. Опорна думка 0019 Не 
+> Публічне Тут дослідження виходить із книжок, чернеток і внутрішніх формул у живе поле: відео, публікації, коментарі, відповіді, реакції та відкриті спостереження. Публічне поле — не вітрина активності. Це місце, де думка перевіряється живим контактом із людиною. Якщо книжки показують механізм у глибині, публічна форма фіксує його спалахи: де думку прийняли, де вона викликала опір, де була спотворена, а де раптом стала впізнаваною. Виступи Відео, Shorts, публічні аналізи й форми живої мови — те, що вже можна показувати світові. Відкрити → Публікації Тексти, що вийшли з лабораторії й стали повідомленням: опорні думки, фрагменти, реакції та спостереження. Відкрити → Проєкти Дослідницькі, літературні та медійні проєкти Ashraellen — окремі поля роботи, зібрані в одному просторі. Відкрити → Нові опорні думки Шість нових опорних думок публічного поля Ashraellen: повернення агресії, народ і маса
 
 ### uk/public/posts/essay/cycles/cycle-0001.html
 

@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-07-28T13:41:02.384Z
+Generated: 2026-07-28T14:27:53.382Z
 
-Pages checked: 587
-Pages with issues: 80
-Total issues: 161
+Pages checked: 588
+Pages with issues: 81
+Total issues: 163
 Pages with review notes: 582
 Total review notes: 2116
 
@@ -25,6 +25,8 @@ Total review notes: 2116
 | MISSING_OG_IMAGE | 1 |
 | MISSING_OG_TITLE | 1 |
 | MISSING_TWITTER_CARD | 1 |
+| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 1 |
+| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 1 |
 
 
 ## Review note summary
@@ -800,6 +802,17 @@ Total review notes: 2116
 
 - DUPLICATE_TITLE: shared by 8 pages
 - DUPLICATE_OG_TITLE: shared by 8 pages
+
+### ru/books/demotopia/index.html
+
+- title: Demotopia — Демократичная Утопия — роман Ashraellen
+- description length: 165
+- canonical: https://www.ashraellen.com/ru/books/demotopia/
+- og:image: https://raw.githubusercontent.com/Ashraellen/apm/main/Projects/Demotopia/Publishing/Cover/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.png
+- twitter:image: https://raw.githubusercontent.com/Ashraellen/apm/main/Projects/Demotopia/Publishing/Cover/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.png
+
+- OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://raw.githubusercontent.com/Ashraellen/apm/main/Projects/Demotopia/Publishing/Cover/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.png
+- TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://raw.githubusercontent.com/Ashraellen/apm/main/Projects/Demotopia/Publishing/Cover/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.png
 
 ### samizdat/index.html
 
