@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T13:05:51.484Z",
+  "generated": "2026-07-28T13:11:02.094Z",
   "pages": [
     {
       "page": "be/books/error-404-god-not-found/index.html",
@@ -10675,6 +10675,7 @@
       "h2": [
         "Talks",
         "Publications",
+        "Projects",
         "New support thoughts"
       ],
       "h3": [
@@ -10689,11 +10690,11 @@
         "en",
         "public"
       ],
-      "excerpt": "Public Here the research leaves books, drafts and inner formulas and enters the living field: videos, publications, comments, replies, reactions and open observations. The public field is not a display case of activity. It is the place where thought is tested through living contact with a person. Here it is no longer protected by the form of a book: it becomes a short phrase, an image, a video, a reply, irritation, gratitude or sudden recognition. If books show the mechanism in depth, public form records its flashes: where a thought was accepted, where it caused resistance, where it was distorted, and where it suddenly became recognizable. Talks Videos, Shorts, public analyses and forms of living speech — what can already be shown to the world. Open → Publications Texts that have left the laboratory and become a message: support thoughts, fragments, reactions and observations. Open → New",
+      "excerpt": "Public Here the research leaves books, drafts and inner formulas and enters the living field: videos, publications, comments, replies, reactions and open observations. The public field is not a display case of activity. It is the place where thought is tested through living contact with a person. Here it is no longer protected by the form of a book: it becomes a short phrase, an image, a video, a reply, irritation, gratitude or sudden recognition. If books show the mechanism in depth, public form records its flashes: where a thought was accepted, where it caused resistance, where it was distorted, and where it suddenly became recognizable. Talks Videos, Shorts, public analyses and forms of living speech — what can already be shown to the world. Open → Publications Texts that have left the laboratory and become a message: support thoughts, fragments, reactions and observations. Open → Pro",
       "candidates": [
         "thought",
-        "support",
         "open",
+        "support",
         "public",
         "person",
         "where",
@@ -10714,7 +10715,7 @@
         "price",
         "publications",
         "reactions",
-        "role"
+        "research"
       ],
       "suggestedKeywordSeed": [
         "public",
@@ -10734,7 +10735,7 @@
         "observations",
         "open",
         "people",
-        "reactions"
+        "projects"
       ]
     },
     {

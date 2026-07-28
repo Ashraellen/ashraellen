@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-28T13:05:51.495Z
+Generated: 2026-07-28T13:11:02.107Z
 Pages: 588
 
 ## Index
@@ -150,7 +150,7 @@ Pages: 588
 | en/monolith/index.html | en | monolith | MONOLITH Trilogy — Ashraellen | ashraellen, monolith, trilogy, three, states, controlled, disintegration, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io | monolith, beton, gas, sludge, controlled, disintegration, states, three, trilogy, ashraellen, dystopia, about, fiction, science, social, volume |
 | en/privacy.html | en | privacy.html | Privacy Policy — Ashraellen — English | ashraellen, privacy, policy, ashraellen.com, personal, data, analytics, cookies, user, rights, contact, information, who, responsible, website, what, may, collected | data, policy, privacy, analytics, ashraellen, ashraellen.com, cookies, legal, may, platforms, website, basis, collected, consent, contact, english, external, google |
 | en/professional/index.html | en | professional | Ashraellen — Professional Dossier | ashraellen, professional, dossier, lifelong, artistic-philosophical, inquiry, meaning, books, public, forms, development, plan, support, contact, pdf, project, proposal, budget | ashraellen, professional, dossier, forms, project, public, development, meaning, observation, plan, research, about, archive, artistic-philosophical, author, books, budget, channel |
-| en/public/index.html | en | public | Ashraellen — Public — English | ashraellen, public, field, talks, publications, support, thoughts, reactions, observations, where, research, meets, living, person, new, bomb, people, mass | public, ashraellen, support, thoughts, field, living, person, publications, talks, where, english, mass, meets, new, observations, open, people, reactions |
+| en/public/index.html | en | public | Ashraellen — Public — English | ashraellen, public, field, talks, publications, support, thoughts, reactions, observations, where, research, meets, living, person, new, bomb, people, mass | public, ashraellen, support, thoughts, field, living, person, publications, talks, where, english, mass, meets, new, observations, open, people, projects |
 | en/public/posts/essay/cycles/cycle-0001.html | en | public | Ashraellen — First Mini-Essay Cycle | ashraellen, public, posts, essay, cycles, cycle, 0001, first, mini-essay, power, over, thought, attention, body, door, goal, past, its | first, cycle, attention, body, over, past, thought, ashraellen, door, goal, interpretation, its, power, public, become, becomes, begins, completed |
 | en/public/posts/essay/cycles/index.html | en | public | Ashraellen — Mini-Essay Cycles | ashraellen, public, posts, essay, cycles, mini-essay, completed, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | cycles, completed, mini-essay, cycle, ashraellen, current, first, gathered, here, main, mini-essays, public, section, essay, posts |
 | en/public/posts/essay/index.html | en | public | Ashraellen — Mini-Essays — English | ashraellen, public, posts, essay, mini-essays, first, cycle, power, over, thought, attention, body, door, goal, past, its, interpretation, doctype | first, mini-essays, one, over, attention, body, past, thought, ashraellen, cycle, door, goal, interpretation, its, power, public, angle, become |
@@ -3037,14 +3037,14 @@ Excerpt:
 - description: Ashraellen public field: talks, publications, support thoughts, reactions and observations where research meets the living person.
 - canonical: https://www.ashraellen.com/en/public/
 - H1: Public
-- H2: Talks | Publications | New support thoughts
+- H2: Talks | Publications | Projects | New support thoughts
 - H3: Do Not Bomb | People and Mass | Mating Games | Spirituality Is Not Forced | The Price of Transition | The True Enemy
-- suggested keyword seed: public, ashraellen, support, thoughts, field, living, person, publications, talks, where, english, mass, meets, new, observations, open, people, reactions
-- candidates: thought, support, open, public, person, where, field, living, mass, people, spirituality, thoughts, already, ashraellen, becomes, certainty, crisis, have, new, observations, price, publications, reactions, role
+- suggested keyword seed: public, ashraellen, support, thoughts, field, living, person, publications, talks, where, english, mass, meets, new, observations, open, people, projects
+- candidates: thought, open, support, public, person, where, field, living, mass, people, spirituality, thoughts, already, ashraellen, becomes, certainty, crisis, have, new, observations, price, publications, reactions, research
 
 Excerpt:
 
-> Public Here the research leaves books, drafts and inner formulas and enters the living field: videos, publications, comments, replies, reactions and open observations. The public field is not a display case of activity. It is the place where thought is tested through living contact with a person. Here it is no longer protected by the form of a book: it becomes a short phrase, an image, a video, a reply, irritation, gratitude or sudden recognition. If books show the mechanism in depth, public form records its flashes: where a thought was accepted, where it caused resistance, where it was distorted, and where it suddenly became recognizable. Talks Videos, Shorts, public analyses and forms of living speech — what can already be shown to the world. Open → Publications Texts that have left the laboratory and become a message: support thoughts, fragments, reactions and observations. Open → New
+> Public Here the research leaves books, drafts and inner formulas and enters the living field: videos, publications, comments, replies, reactions and open observations. The public field is not a display case of activity. It is the place where thought is tested through living contact with a person. Here it is no longer protected by the form of a book: it becomes a short phrase, an image, a video, a reply, irritation, gratitude or sudden recognition. If books show the mechanism in depth, public form records its flashes: where a thought was accepted, where it caused resistance, where it was distorted, and where it suddenly became recognizable. Talks Videos, Shorts, public analyses and forms of living speech — what can already be shown to the world. Open → Publications Texts that have left the laboratory and become a message: support thoughts, fragments, reactions and observations. Open → Pro
 
 ### en/public/posts/essay/cycles/cycle-0001.html
 
