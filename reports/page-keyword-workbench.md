@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-28T20:54:55.630Z
-Pages: 605
+Generated: 2026-07-28T20:55:29.187Z
+Pages: 606
 
 ## Index
 
@@ -83,6 +83,7 @@ Pages: 605
 | de/books/radiance/index.html | de | books | Ashraellen — Glanz \| Nordische Geschichten über die wahre Geschichte der Welt | Ashraellen, Glanz, Sampo, Lied, Bücher, literary-philosophical, artistic research | glanz, ist, der, die, für, geschichten, welt, ashraellen, books, ein, was, als, alte, anleitungskarte, anweisungen, bewahren, bildhafte, buch |
 | de/books/radiance/sampo/index.html | de | books | Ashraellen — Sampo \| Glanz, Buch I | Ashraellen, Glanz, Sampo, Lied, Bücher, literary-philosophical, artistic research | und, sampo, buch, das, der, ist, ashraellen, books, eine, für, glanz, nicht, über, arbeit, auf, besitz, den, die |
 | de/books/radiance/song/index.html | de | books | Ashraellen — Lied \| Glanz, Buch II | Ashraellen, Glanz, Sampo, Lied, Bücher, literary-philosophical, artistic research | das, lied, und, buch, ashraellen, books, der, eine, für, glanz, nicht, sprache, über, auf, den, die, ein, eines |
+| de/books/samizdat/demotopia/index.html | de | books | Demotopia — Buchpass — samizdat 2.0 | _missing_ | demotopia, buchpass, samizdat, 2.0, ausgabe, autor, der, vom, books, anfragen, ashraellen, buch, das, die, diese, ein, eine, exemplar |
 | de/books/samizdat/order/index.html | de | books | Ein samizdat-2.0-Exemplar anfragen — Ashraellen | _missing_ | anfrage, anfragen, ein, ashraellen, books, druck, kalkulation, lieferung, zahlung, autor, bestätigung, die, eines, exemplar, für, herausgegebenen, jeder, order |
 | de/books/samizdat/order/received/index.html | de | books | Anfrage erhalten — samizdat 2.0 | _missing_ | anfrage, erhalten, samizdat, 2.0, abgeschlossen, automatisch, books, wurde, angegebenen, ashraellen, beginnt, bestätigen, bevor, bitte, ein, kauf, nicht, order |
 | de/books/seccus/index.html | de | books | Ashraellen — DAS HEILIGE BUCH SECCUS | Ashraellen, SECCUS, Das Heilige Buch SECCUS, Der Weg der Ehrlichkeit, philosophische Satire, Geld, Erfolg, Selbsttäuschung, Wissen als Alibi, Verantwortung, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Buch | das, buch, der, die, seccus, heilige, und, ashraellen, books, des, für, ist, seite, über, alibi, als, ausgewählte, buches |
@@ -1906,6 +1907,23 @@ Excerpt:
 Excerpt:
 
 > Glanz – Nordische Geschichten über die wahre Geschichte der Welt Lied Buch II des literarischen und philosophischen Zyklus „Glanz“. Ein Roman über Klang, der keine Macht übernimmt: über das Hören, die Sprache, die Stadt, die Arbeitsszene und Lied, der nicht zur Nummer wird. Nach „Sampo“ wird die Frage nach der Fülle durch die Frage nach dem Wort ersetzt: Kann Sprache keine Meinung, kein Argument, kein Selbstausdruck, sondern eine Form der Individualisierung werden? Russisches Cover. Ashraellen. Empfohlenes Kapitel Kapitel Eins. Normales Geräusch Komplettes erstes Kapitel: Aylas Rückkehr nach Warschau, gewöhnlicher Stadtlärm und der erste Bruch zwischen Klang als Arbeit und Hören als Haltung. Kapitel öffnen Kapitel schließen Warschau begegnete Ayla nicht mit einem Zeichen, nicht mit einer Vision und nicht mit einem Flüstern aus dem Untergrund, das einer Fortsetzung des antiken Prologs wür
+
+### de/books/samizdat/demotopia/index.html
+
+- lang: de
+- section: books
+- title: Demotopia — Buchpass — samizdat 2.0
+- description: Buchpass der vom Autor herausgegebenen physischen Ausgabe von Demotopia im System samizdat 2.0.
+- canonical: https://www.ashraellen.com/de/books/samizdat/demotopia/
+- H1: Demotopia
+- H2: Über das Buch | Diese Ausgabe | Der permanente Buchpass | Ein vom Autor herausgegebenes Exemplar anfragen
+- H3: Über jedes Exemplar
+- suggested keyword seed: demotopia, buchpass, samizdat, 2.0, ausgabe, autor, der, vom, books, anfragen, ashraellen, buch, das, die, diese, ein, eine, exemplar
+- candidates: der, und, autor, ausgabe, die, vom, 2.0, demotopia, eine, physische, samizdat, buchpass, demokratische, ein, exemplar, von, anfragen, demokratie, den, roman, über, bleibt, buch, dem
+
+Excerpt:
+
+> Buchpass / samizdat 2.0 Demotopia Demokratische Utopie Ein philosophischer Roman über Demokratie, Macht und die stille Verwandlung der Freiheit in ein Ritual. Vom Autor herausgegebene physische Ausgabe Über das Buch Demokratie aus dem Inneren ihres eigenen Rituals Demotopia untersucht den Augenblick, in dem die demokratische Sprache bestehen bleibt, während der demokratische Sinn zu verschwinden beginnt. Der Roman verfolgt nicht den Zusammenbruch der Freiheit in einem einzigen dramatischen Akt, sondern ihre allmähliche Verwandlung in Gewohnheit, Verfahren und Aufführung. Der Roman gehört keiner Partei und bietet kein politisches Programm. Er stellt eine leisere und schwierigere Frage: Was geschieht, wenn Menschen Demokratie weiter aufführen, nachdem sie aufgehört haben, von ihr eine Veränderung zu erwarten? Diese Ausgabe eine abgeschlossene physische Form, unmittelbar vom Autor herausgeg
 
 ### de/books/samizdat/order/index.html
 

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T20:54:55.618Z",
+  "generated": "2026-07-28T20:55:29.175Z",
   "pages": [
     {
       "page": "be/books/error-404-god-not-found/index.html",
@@ -5682,6 +5682,80 @@
         "die",
         "ein",
         "eines"
+      ]
+    },
+    {
+      "page": "de/books/samizdat/demotopia/index.html",
+      "lang": "de",
+      "section": "books",
+      "title": "Demotopia — Buchpass — samizdat 2.0",
+      "description": "Buchpass der vom Autor herausgegebenen physischen Ausgabe von Demotopia im System samizdat 2.0.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/de/books/samizdat/demotopia/",
+      "h1": [
+        "Demotopia"
+      ],
+      "h2": [
+        "Über das Buch",
+        "Diese Ausgabe",
+        "Der permanente Buchpass",
+        "Ein vom Autor herausgegebenes Exemplar anfragen"
+      ],
+      "h3": [
+        "Über jedes Exemplar"
+      ],
+      "slugTerms": [
+        "de",
+        "books",
+        "samizdat",
+        "demotopia"
+      ],
+      "excerpt": "Buchpass / samizdat 2.0 Demotopia Demokratische Utopie Ein philosophischer Roman über Demokratie, Macht und die stille Verwandlung der Freiheit in ein Ritual. Vom Autor herausgegebene physische Ausgabe Über das Buch Demokratie aus dem Inneren ihres eigenen Rituals Demotopia untersucht den Augenblick, in dem die demokratische Sprache bestehen bleibt, während der demokratische Sinn zu verschwinden beginnt. Der Roman verfolgt nicht den Zusammenbruch der Freiheit in einem einzigen dramatischen Akt, sondern ihre allmähliche Verwandlung in Gewohnheit, Verfahren und Aufführung. Der Roman gehört keiner Partei und bietet kein politisches Programm. Er stellt eine leisere und schwierigere Frage: Was geschieht, wenn Menschen Demokratie weiter aufführen, nachdem sie aufgehört haben, von ihr eine Veränderung zu erwarten? Diese Ausgabe eine abgeschlossene physische Form, unmittelbar vom Autor herausgeg",
+      "candidates": [
+        "der",
+        "und",
+        "autor",
+        "ausgabe",
+        "die",
+        "vom",
+        "2.0",
+        "demotopia",
+        "eine",
+        "physische",
+        "samizdat",
+        "buchpass",
+        "demokratische",
+        "ein",
+        "exemplar",
+        "von",
+        "anfragen",
+        "demokratie",
+        "den",
+        "roman",
+        "über",
+        "bleibt",
+        "buch",
+        "dem"
+      ],
+      "suggestedKeywordSeed": [
+        "demotopia",
+        "buchpass",
+        "samizdat",
+        "2.0",
+        "ausgabe",
+        "autor",
+        "der",
+        "vom",
+        "books",
+        "anfragen",
+        "ashraellen",
+        "buch",
+        "das",
+        "die",
+        "diese",
+        "ein",
+        "eine",
+        "exemplar"
       ]
     },
     {
