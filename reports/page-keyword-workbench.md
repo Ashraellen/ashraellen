@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-28T17:45:11.439Z
+Generated: 2026-07-28T17:45:43.106Z
 Pages: 592
 
 ## Index
@@ -339,7 +339,7 @@ Pages: 592
 | pl/books/radiance/index.html | pl | books | Ashraellen — Blask \| Północne opowieści o prawdziwej historii świata | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | blask, opowieści, ashraellen, books, cykl, instrukcje, literacko-filozoficzny, nie, aby, artystyczno-badawcza, artystyczno-badawczy, dawne, forma, historii, instrukcji, jako, kogo, książki |
 | pl/books/radiance/sampo/index.html | pl | books | Ashraellen — Sampo \| Blask, Księga I | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | sampo, ashraellen, blask, books, nie, ale, artystycznych, badań, bez, było, chleb, czy, filozoficznej, fundacji, jeszcze, język, już, kogo |
 | pl/books/radiance/song/index.html | pl | books | Ashraellen — Pieśń \| Blask, Księga II | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | pieśń, ashraellen, bez, blask, books, nie, się, ale, artystycznych, ayla, badań, być, był, była, było, druga, dźwięku, fundacji |
-| pl/books/samizdat/demotopia/index.html | pl | books | Demotopia — Paszport książki — samizdat 2.0 | Ashraellen, Demotopia, Demokratyczna Utopia, paszport książki, samizdat 2.0, wydanie autorskie | paszport, samizdat, 2.0, ashraellen, demotopia, książki, wydania, 2026, books, autora, autorskiego, dane, demotopii, egzemplarza, egzemplarzu, niezarejestrowanego, numer, warszawa |
+| pl/books/samizdat/demotopia/index.html | pl | books | Demotopia — Paszport książki — samizdat 2.0 | _missing_ | demotopia, paszport, samizdat, 2.0, 2026, ashraellen, books, egzemplarz, książki, wydanie, autora, autorski, autorskiego, demotopii, fizyczne, fizycznego, książce, może |
 | pl/books/samizdat/index.html | pl | books | samizdat 2.0 — Wydania autorskie Ashraellen | Ashraellen, samizdat 2.0, wydania autorskie, paszport książki, Demotopia | samizdat, 2.0, ashraellen, autorskie, wydania, books, fizycznych, książek, niezarejestrowane, cyfrowymi, demotopia, książki, numerowanych, paszporty |
 | pl/books/seccus/index.html | pl | books | Ashraellen — ŚWIĘTA KSIĘGA SECCUS | Ashraellen, SECCUS, Święta Księga SECCUS, Droga Uczciwości, satyra filozoficzna, pieniądze, sukces, samooszustwo, wiedza jako alibi, odpowiedzialność, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Księga | seccus, księga, święta, ashraellen, bez, books, jako, alibi, ani, człowiek, droga, filozoficzna, głos, kogo, korpus, książce, książka, książki |
 | pl/books/the-book-of-whinesis/index.html | pl | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sakralna, satyra, dla, tych, którzy, zmęczyli, się, pozytywnymi, wibracjami, niekończącą, produktywnością, kultem, sukcesu, książce | book, whinesis, się, ashraellen, books, albowiem, będzie, będziesz, fragment, jego, książce, którzy, kultem, moania, moanii, narzekania, nie, niekończącą |
@@ -6251,17 +6251,17 @@ Excerpt:
 - lang: pl
 - section: books
 - title: Demotopia — Paszport książki — samizdat 2.0
-- description: Paszport autorskiego wydania niezarejestrowanego Demotopii — samizdat 2.0, Ashraellen, Warszawa, 2026.
+- description: Paszport autorskiego fizycznego wydania Demotopii w systemie samizdat 2.0, Ashraellen, Warszawa, 2026.
 - canonical: https://www.ashraellen.com/pl/books/samizdat/demotopia/
-- H1: Paszport książki
-- H2: Dane wydania | O egzemplarzu
-- H3: _missing_
-- suggested keyword seed: paszport, samizdat, 2.0, ashraellen, demotopia, książki, wydania, 2026, books, autora, autorskiego, dane, demotopii, egzemplarza, egzemplarzu, niezarejestrowanego, numer, warszawa
-- candidates: 2.0, demotopia, egzemplarza, książki, samizdat, wydania, autora, numer, paszport, wydanie, 2026, ashraellen, autorskie, indywidualny, niezarejestrowane, przez, warszawa, wewnątrz, aktualny, autor, autorskiego, dane, decyzji, demokratyczna
+- H1: Demotopia
+- H2: O książce | To wydanie | Stały paszport | Poproś o autorski egzemplarz
+- H3: O egzemplarzu
+- suggested keyword seed: demotopia, paszport, samizdat, 2.0, 2026, ashraellen, books, egzemplarz, książki, wydanie, autora, autorski, autorskiego, demotopii, fizyczne, fizycznego, książce, może
+- candidates: 2.0, książki, wydanie, autora, demotopia, nie, paszport, samizdat, egzemplarz, fizyczne, może, 2026, ashraellen, bezpośrednio, demokracji, demotopii, jej, język, miejsce, numer, paszportu, poproś, powieść, pozostaje
 
 Excerpt:
 
-> Demotopia / Autorskie wydanie niezarejestrowane Paszport książki samizdat 2.0 Ta strona dotyczy szczególnego fizycznego wydania powieści Demotopia , przygotowanego i wydanego przez autora. Dane wydania Utwór Demotopia — Demokratyczna Utopia Autor Ashraellen Wydanie Autorskie wydanie niezarejestrowane Format samizdat 2.0 Miejsce i rok Warszawa, 2026 Język egzemplarza Polski O egzemplarzu Każdy fizyczny egzemplarz otrzymuje numer i może zostać ręcznie podpisany przez autora. Numer znajduje się na stronie egzemplarza wewnątrz książki. Kod QR jest wspólny dla wszystkich wersji językowych i egzemplarzy. Łączy fizyczną książkę z paszportem wydania; indywidualny numer pozostaje wewnątrz egzemplarza. Aktualny status. Struktura paszportu została utworzona. Zasady przekazywania książki, zamawiania podpisanego egzemplarza oraz ewentualny indywidualny rejestr zostaną dodane wyłącznie po osobnej decy
+> Paszport książki / samizdat 2.0 Demotopia Powieść filozoficzna o demokracji, władzy i cichej przemianie wolności w rytuał. Fizyczne wydanie opublikowane przez autora O książce demokracja widziana od środka własnego rytuału Demotopia bada moment, w którym język demokracji pozostaje nienaruszony, a jej znaczenie zaczyna zanikać. Powieść nie opowiada o nagłym upadku wolności, lecz o jej stopniowej przemianie w nawyk, procedurę i przedstawienie. Książka nie należy do żadnej partii i nie proponuje programu politycznego. Zadaje spokojniejsze i trudniejsze pytanie: co dzieje się, gdy ludzie nadal odgrywają demokrację, przestając oczekiwać, że może ona cokolwiek zmienić? To wydanie ukończona forma fizyczna wydana bezpośrednio przez autora Utwór Demotopia — Demokratyczna Utopia Autor Ashraellen Wydanie Autorskie wydanie fizyczne System samizdat 2.0 Miejsce i rok Warszawa, 2026 Język paszportu Pol
 
 ### pl/books/samizdat/index.html
 
