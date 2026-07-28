@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-07-28T14:27:53.382Z
+Generated: 2026-07-28T14:29:20.531Z
 
 Pages checked: 588
-Pages with issues: 81
-Total issues: 163
+Pages with issues: 82
+Total issues: 167
 Pages with review notes: 582
 Total review notes: 2116
 
@@ -13,8 +13,8 @@ Total review notes: 2116
 | Item | Count |
 |---|---:|
 | DUPLICATE_KEYWORDS | 56 |
-| DUPLICATE_OG_TITLE | 32 |
-| DUPLICATE_TITLE | 32 |
+| DUPLICATE_OG_TITLE | 34 |
+| DUPLICATE_TITLE | 34 |
 | MISSING_KEYWORDS | 15 |
 | MISSING_TWITTER_IMAGE | 15 |
 | MISSING_OG_DESCRIPTION | 3 |
@@ -814,6 +814,17 @@ Total review notes: 2116
 - OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://raw.githubusercontent.com/Ashraellen/apm/main/Projects/Demotopia/Publishing/Cover/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.png
 - TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://raw.githubusercontent.com/Ashraellen/apm/main/Projects/Demotopia/Publishing/Cover/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.png
 
+### ru/books/index.html
+
+- title: Ashraellen — Книги
+- description length: 109
+- canonical: https://www.ashraellen.com/ru/books/
+- og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
+
 ### samizdat/index.html
 
 - title: samizdat 2.0 — Ashraellen
@@ -854,7 +865,9 @@ Total review notes: 2116
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
+- DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_KEYWORDS: shared by 8 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
 
 ### uk/books/monolith/beton/index.html
 
@@ -5674,7 +5687,7 @@ Total review notes: 2116
 
 ### ru/books/index.html
 
-- title: Ashraellen — Книги — Russian
+- title: Ashraellen — Книги
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
