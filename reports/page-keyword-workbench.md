@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-28T17:02:38.723Z
+Generated: 2026-07-28T17:22:29.088Z
 Pages: 591
 
 ## Index
@@ -143,7 +143,7 @@ Pages: 591
 | en/books/radiance/sampo/index.html | en | books | Ashraellen — Sampo \| Radiance, Book I | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | sampo, book, radiance, ashraellen, books, about, abundance, artistic-research, been, chapter, cultural, featured, first, foundations, frame, has, her, his |
 | en/books/radiance/song/index.html | en | books | Ashraellen — Song \| Radiance, Book II | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | song, about, book, radiance, ashraellen, books, language, sound, artistic-research, ayla, become, chapter, cultural, does, extended, featured, foundations, frame |
 | en/books/samizdat/demotopia/index.html | en | books | Demotopia — Book Passport — samizdat 2.0 | _missing_ | book, demotopia, passport, samizdat, 2.0, ashraellen, edition, author-issued, books, unregistered, about, copy, data, english, language, permanent |
-| en/books/samizdat/index.html | en | books | samizdat 2.0 — Ashraellen author editions | Ashraellen, samizdat 2.0, author editions, numbered books, signed copies, book passports, direct publishing | samizdat, 2.0, books, ashraellen, author, book, editions, how, now, permanent, physical, why, without, author-issued, belong, completed, copies, copy |
+| en/books/samizdat/index.html | en | books | samizdat 2.0 — Ashraellen author editions | Ashraellen, samizdat 2.0, author editions, numbered books, signed copies, book passports, direct publishing | samizdat, 2.0, books, ashraellen, book, author, editions, how, now, physical, why, without, author-issued, belong, copies, copy, direct, edition |
 | en/books/seccus/index.html | en | books | Ashraellen — THE SACRED BOOK OF SECCUS | Ashraellen, SECCUS, The Sacred Book of SECCUS, The Path of Honesty, philosophical satire, money, success, self-deception, knowledge as an alibi, responsibility, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Book | book, seccus, about, sacred, ashraellen, books, money, own, success, alibi, choice, corpus, does, frame, honesty, how, knowledge, literary-philosophical |
 | en/books/the-book-of-whinesis/index.html | en | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sacred, satire, those, tired, positive, vibes, endless, productivity, cult, success, about, first, chapters, excerpt | book, whinesis, ashraellen, books, about, becomes, chapters, cult, discount, endless, excerpt, first, gnorna, lord, moania, positive, productivity, sacred |
 | en/books/you-are-already-online/index.html | en | books | Ashraellen — You Are Already Online | ashraellen, books, you, already, online, immersive, audio, novel, genre, psychological, thriller, cyberpunk, drama, about, digital, reality, algorithms, attention | already, online, you, about, ashraellen, books, chapter, first, novel, reality, algorithms, attention, audio, book, cyberpunk, did, digital, drama |
@@ -2921,10 +2921,10 @@ Excerpt:
 - description: samizdat 2.0 by Ashraellen: why direct author-issued physical editions matter now, how numbered copies and permanent book passports work, and which books belong to the project.
 - canonical: https://www.ashraellen.com/en/books/samizdat/
 - H1: samizdat 2.0
-- H2: Why now | What it is | How it works | Numbering without surveillance | The QR passport | Books in samizdat 2.0
+- H2: Why now | What it is | How it works | Numbering without surveillance | The QR passport | A book meant to travel | Books in samizdat 2.0
 - H3: A completed author edition | Outside the industrial chain | One copy as one object | A permanent public passport
-- suggested keyword seed: samizdat, 2.0, books, ashraellen, author, book, editions, how, now, permanent, physical, why, without, author-issued, belong, completed, copies, copy
-- candidates: book, physical, author, edition, samizdat, copy, its, public, 2.0, permanent, without, completed, object, passport, can, language, work, books, code, does, form, may, number, printed
+- suggested keyword seed: samizdat, 2.0, books, ashraellen, book, author, editions, how, now, physical, why, without, author-issued, belong, copies, copy, direct, edition
+- candidates: book, copy, samizdat, its, physical, author, edition, public, without, 2.0, object, reader, completed, may, permanent, can, language, one, passport, work, books, code, does, form
 
 Excerpt:
 
