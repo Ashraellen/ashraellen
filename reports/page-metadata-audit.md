@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-07-28T21:03:07.278Z
+Generated: 2026-07-28T21:03:59.244Z
 
-Pages checked: 620
-Pages with issues: 117
-Total issues: 436
+Pages checked: 621
+Pages with issues: 118
+Total issues: 444
 Pages with review notes: 582
 Total review notes: 2106
 
@@ -13,18 +13,18 @@ Total review notes: 2106
 | Item | Count |
 |---|---:|
 | DUPLICATE_KEYWORDS | 56 |
-| MISSING_KEYWORDS | 52 |
-| MISSING_TWITTER_IMAGE | 52 |
-| MISSING_TWITTER_CARD | 38 |
+| MISSING_KEYWORDS | 53 |
+| MISSING_TWITTER_IMAGE | 53 |
+| MISSING_TWITTER_CARD | 39 |
 | DUPLICATE_TITLE | 36 |
+| MISSING_OG_DESCRIPTION | 35 |
 | DUPLICATE_OG_TITLE | 34 |
-| MISSING_OG_DESCRIPTION | 34 |
-| MISSING_JSON_LD | 33 |
-| MISSING_OG_IMAGE | 33 |
-| MISSING_OG_TITLE | 32 |
+| MISSING_JSON_LD | 34 |
+| MISSING_OG_IMAGE | 34 |
+| MISSING_OG_TITLE | 33 |
 | MISSING_DESCRIPTION | 13 |
+| DESCRIPTION_TOO_SHORT | 11 |
 | MISSING_CANONICAL | 11 |
-| DESCRIPTION_TOO_SHORT | 10 |
 | DUPLICATE_CANONICAL | 2 |
 
 
@@ -1482,6 +1482,23 @@ Total review notes: 2106
 - twitter:image: https://www.ashraellen.com/assets/covers/song-cover-ru.webp
 
 - DUPLICATE_KEYWORDS: shared by 3 pages
+
+### uk/books/samizdat/demotopia/index.html
+
+- title: Demotopia — Паспорт книги — samizdat 2.0
+- description length: 71
+- canonical: https://www.ashraellen.com/uk/books/samizdat/demotopia/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 71
 
 ### uk/books/samizdat/order/index.html
 
