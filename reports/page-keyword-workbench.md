@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-28T20:59:27.694Z
-Pages: 614
+Generated: 2026-07-28T21:00:28.496Z
+Pages: 616
 
 ## Index
 
@@ -288,6 +288,7 @@ Pages: 614
 | fr/books/radiance/sampo/index.html | fr | books | Ashraellen — Sampo \| Éclat, livre I | Ashraellen, Éclat, Sampo, Chant, Livres, literary-philosophical, artistic research | sampo, ashraellen, books, les, livre, pas, pour, artistique, avec, cadre, chapitre, comme, culturels, dans, éclat, éditeurs, elle, fondations |
 | fr/books/radiance/song/index.html | fr | books | Ashraellen — Chant \| Éclat, livre II | Ashraellen, Éclat, Sampo, Chant, Livres, literary-philosophical, artistic research | ashraellen, books, chant, les, livre, pas, pour, qui, artistique, avec, ayla, cadre, chapitre, culturels, dans, des, éclat, éditeurs |
 | fr/books/samizdat/demotopia/index.html | fr | books | Demotopia — Passeport du livre — samizdat 2.0 | _missing_ | demotopia, passeport, samizdat, 2.0, livre, books, d’auteur, édition, exemplaire, physique, ashraellen, cette, dans, demander, démocratique, l’auteur, l’édition, permanent |
+| fr/books/samizdat/index.html | fr | books | samizdat 2.0 — éditions d’auteur d’Ashraellen | _missing_ | samizdat, 2.0, books, d’ashraellen, éditions, l’auteur, livre, livres, sans, ashraellen, c’est, cela, comment, d’auteur, des, destiné, directes, est |
 | fr/books/samizdat/order/index.html | fr | books | Demander un exemplaire samizdat 2.0 — Ashraellen | _missing_ | exemplaire, 2.0, demande, samizdat, ashraellen, books, calcul, demander, langue, livraison, paiement, avant, choisir, confirmation, d’auteur, d’un, dans, délai |
 | fr/books/samizdat/order/received/index.html | fr | books | Demande reçue — samizdat 2.0 | _missing_ | demande, reçue, samizdat, 2.0, achat, aucun, automatiquement, books, été, afin, ashraellen, avant, compris, créé, e-mail, n’a, order, received |
 | fr/books/seccus/index.html | fr | books | Ashraellen — LE LIVRE SACRÉ DE SECCUS | Ashraellen, SECCUS, Le Livre Sacré de SECCUS, Le Chemin de l’Honnêteté, satire philosophique, argent, réussite, auto-illusion, savoir comme alibi, responsabilité, Sacrunomicon, Ordo Sacrunomiconis, Tétra-Livre | livre, seccus, sacré, ashraellen, books, est, philosophique, pour, qui, réussite, sur, une, alibi, cadre, chemin, choisie, choix, comme |
@@ -424,6 +425,7 @@ Pages: 614
 | pt/books/radiance/index.html | pt | books | Ashraellen — Esplendor \| Contos do norte sobre a história real do mundo | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | esplendor, instruções, mundo, para, que, sobre, ashraellen, books, ciclo, como, não, pesquisa, antigas, artística, artístico, confundir, contos, este |
 | pt/books/radiance/sampo/index.html | pt | books | Ashraellen — Sampo \| Esplendor, livro I | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | sampo, livro, para, ashraellen, books, esplendor, não, sobre, abundância, ainda, artística, capítulo, com, como, conto, culturais, destaque, editoras |
 | pt/books/radiance/song/index.html | pt | books | Ashraellen — Canto \| Esplendor, livro II | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | canto, livro, para, ashraellen, books, esplendor, não, que, sem, sobre, uma, apresentação, artística, audição, ayla, capítulo, com, como |
+| pt/books/samizdat/order/received/index.html | pt | books | Pedido recebido — samizdat 2.0 | _missing_ | pedido, recebido, samizdat, 2.0, automaticamente, books, compra, criada, foi, antes, ashraellen, confirmar, contacto, email, nenhuma, order, received |
 | pt/books/seccus/index.html | pt | books | Ashraellen — O LIVRO SAGRADO DE SECCUS | Ashraellen, SECCUS, O Livro Sagrado de SECCUS, O Caminho da Honestidade, sátira filosófica, dinheiro, sucesso, autoengano, conhecimento como álibi, responsabilidade, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Livro | livro, seccus, sagrado, ashraellen, books, como, página, para, sobre, sucesso, uma, álibi, autoengano, caminho, conhecimento, corpus, dinheiro, escolha |
 | pt/books/the-book-of-whinesis/index.html | pt | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sátira, sagrada, para, quem, cansou, das, vibrações, positivas, produtividade, infinita, culto, sucesso, sobre, livro | book, whinesis, ashraellen, books, para, sobre, cansou, capítulos, culto, das, desconto, disse, gnorna, infinita, livro, moania, não, pois |
 | pt/books/you-are-already-online/index.html | pt | books | Ashraellen — Você já está online | ashraellen, books, you, already, online, você, está, romance, áudio, imersivo, entre, thriller, psicológico, drama, cyberpunk, sobre, realidade, digital | está, online, você, ashraellen, books, capítulo, realidade, romance, sobre, algoritmos, already, antes, áudio, como, cyberpunk, demais, digital, drama |
@@ -5401,6 +5403,23 @@ Excerpt:
 
 > Passeport du livre / samizdat 2.0 Demotopia Utopie Démocratique Un roman philosophique sur la démocratie, le pouvoir et la transformation silencieuse de la liberté en rituel. Édition physique publiée directement par l’auteur À propos du livre la démocratie vue de l’intérieur de son propre rituel Demotopia examine le moment où le langage démocratique demeure intact tandis que le sens démocratique commence à disparaître. Le roman ne suit pas l’effondrement de la liberté en un seul acte spectaculaire, mais sa transformation progressive en habitude, procédure et représentation. Le roman n’appartient à aucun parti et ne propose aucun programme politique. Il pose une question plus discrète et plus difficile : que se passe-t-il lorsque les gens continuent à jouer la démocratie après avoir cessé d’attendre qu’elle change quoi que ce soit ? Cette édition une forme physique achevée, publiée direct
 
+### fr/books/samizdat/index.html
+
+- lang: fr
+- section: books
+- title: samizdat 2.0 — éditions d’auteur d’Ashraellen
+- description: samizdat 2.0 d’Ashraellen : éditions physiques directes de l’auteur, exemplaires numérotés et passeports publics permanents des livres.
+- canonical: https://www.ashraellen.com/fr/books/samizdat/
+- H1: samizdat 2.0
+- H2: Pourquoi maintenant | Ce que c’est | Comment cela fonctionne | Numérotation sans surveillance | Le passeport QR | Un livre destiné à voyager | Livres de samizdat 2.0
+- H3: Une édition d’auteur achevée | Hors de la chaîne industrielle | Un exemplaire comme un objet | Un passeport public permanent
+- suggested keyword seed: samizdat, 2.0, books, d’ashraellen, éditions, l’auteur, livre, livres, sans, ashraellen, c’est, cela, comment, d’auteur, des, destiné, directes, est
+- candidates: une, livre, l’auteur, pas, samizdat, est, peut, physique, sans, 2.0, lecteur, public, cette, être, l’exemplaire, livres, passeport, code, d’auteur, dans, des, exemplaire, forme, l’édition
+
+Excerpt:
+
+> Livres physiques de l’auteur / passeports publics des livres samizdat 2.0 Un livre n’a pas besoin de devenir un produit anonyme pour devenir public. samizdat 2.0 est une structure contemporaine pour des livres achevés par l’auteur, dotés d’une forme physique hors de la chaîne éditoriale industrielle et transmis directement aux lecteurs. Chaque édition reste reliée à son origine grâce à un passeport public permanent. Pourquoi maintenant publier est facile ; être présent ne l’est pas Le samizdat classique est apparu là où un texte ne pouvait pas traverser les canaux officiels. Aujourd’hui, l’acte technique de publication est presque universellement accessible. Un fichier peut être publié immédiatement, un livre imprimé à la demande et un texte circuler sans demander la permission. Pourtant, cette liberté crée une autre perte. Le livre physique peut être absorbé dans la même circulation ano
+
 ### fr/books/samizdat/order/index.html
 
 - lang: fr
@@ -7712,6 +7731,23 @@ Excerpt:
 Excerpt:
 
 > Esplendor - Contos do norte sobre a história real do mundo Canto Livro II do ciclo literário e filosófico “Esplendor”. Um romance sobre o som que não toma poder: sobre a audição, a linguagem, a cidade, o cenário do trabalho e Canto, que não vira número. Depois de “Sampo” a questão da abundância é substituída pela questão da palavra: pode a linguagem tornar-se não uma opinião, não um argumento, não uma auto-expressão, mas uma forma de personalização? Capa russa. Ashraellen. Capítulo em destaque Capítulo Um. Ruído normal Primeiro capítulo completo: o retorno de Ayla a Varsóvia, o barulho comum da cidade e a primeira ruptura entre o som como trabalho e a audição como atitude. Abrir capítulo Fechar capítulo Varsóvia encontrou Ayla não com um sinal, não com uma visão, e não com algum sussurro do subsolo digno de uma continuação do antigo prólogo. Varsóvia a cumprimentou com um anúncio no trem
+
+### pt/books/samizdat/order/received/index.html
+
+- lang: pt
+- section: books
+- title: Pedido recebido — samizdat 2.0
+- description: _missing_
+- canonical: _missing_
+- H1: Pedido recebido
+- H2: Nenhuma compra foi criada automaticamente.
+- H3: _missing_
+- suggested keyword seed: pedido, recebido, samizdat, 2.0, automaticamente, books, compra, criada, foi, antes, ashraellen, confirmar, contacto, email, nenhuma, order, received
+- candidates: pedido, 2.0, email, foi, recebido, samizdat, antes, automaticamente, compra, confirmar, contacto, criada, custo, disponibilidade, endereço, entraremos, entrega, enviado, formulário, idioma, impressão, incluindo, indicado, nenhuma
+
+Excerpt:
+
+> samizdat 2.0 Pedido recebido Obrigado. O seu pedido foi enviado. Entraremos em contacto por email para confirmar a disponibilidade do idioma, o prazo de preparação, o custo de impressão, a entrega e o pagamento antes de qualquer produção. Nenhuma compra foi criada automaticamente. Verifique o endereço de email indicado no formulário, incluindo a pasta de spam.
 
 ### pt/books/seccus/index.html
 

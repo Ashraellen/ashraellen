@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T20:59:27.682Z",
+  "generated": "2026-07-28T21:00:28.484Z",
   "pages": [
     {
       "page": "be/books/error-404-god-not-found/index.html",
@@ -20839,6 +20839,85 @@
       ]
     },
     {
+      "page": "fr/books/samizdat/index.html",
+      "lang": "fr",
+      "section": "books",
+      "title": "samizdat 2.0 — éditions d’auteur d’Ashraellen",
+      "description": "samizdat 2.0 d’Ashraellen : éditions physiques directes de l’auteur, exemplaires numérotés et passeports publics permanents des livres.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/fr/books/samizdat/",
+      "h1": [
+        "samizdat 2.0"
+      ],
+      "h2": [
+        "Pourquoi maintenant",
+        "Ce que c’est",
+        "Comment cela fonctionne",
+        "Numérotation sans surveillance",
+        "Le passeport QR",
+        "Un livre destiné à voyager",
+        "Livres de samizdat 2.0"
+      ],
+      "h3": [
+        "Une édition d’auteur achevée",
+        "Hors de la chaîne industrielle",
+        "Un exemplaire comme un objet",
+        "Un passeport public permanent"
+      ],
+      "slugTerms": [
+        "fr",
+        "books",
+        "samizdat"
+      ],
+      "excerpt": "Livres physiques de l’auteur / passeports publics des livres samizdat 2.0 Un livre n’a pas besoin de devenir un produit anonyme pour devenir public. samizdat 2.0 est une structure contemporaine pour des livres achevés par l’auteur, dotés d’une forme physique hors de la chaîne éditoriale industrielle et transmis directement aux lecteurs. Chaque édition reste reliée à son origine grâce à un passeport public permanent. Pourquoi maintenant publier est facile ; être présent ne l’est pas Le samizdat classique est apparu là où un texte ne pouvait pas traverser les canaux officiels. Aujourd’hui, l’acte technique de publication est presque universellement accessible. Un fichier peut être publié immédiatement, un livre imprimé à la demande et un texte circuler sans demander la permission. Pourtant, cette liberté crée une autre perte. Le livre physique peut être absorbé dans la même circulation ano",
+      "candidates": [
+        "une",
+        "livre",
+        "l’auteur",
+        "pas",
+        "samizdat",
+        "est",
+        "peut",
+        "physique",
+        "sans",
+        "2.0",
+        "lecteur",
+        "public",
+        "cette",
+        "être",
+        "l’exemplaire",
+        "livres",
+        "passeport",
+        "code",
+        "d’auteur",
+        "dans",
+        "des",
+        "exemplaire",
+        "forme",
+        "l’édition"
+      ],
+      "suggestedKeywordSeed": [
+        "samizdat",
+        "2.0",
+        "books",
+        "d’ashraellen",
+        "éditions",
+        "l’auteur",
+        "livre",
+        "livres",
+        "sans",
+        "ashraellen",
+        "c’est",
+        "cela",
+        "comment",
+        "d’auteur",
+        "des",
+        "destiné",
+        "directes",
+        "est"
+      ]
+    },
+    {
       "page": "fr/books/samizdat/order/index.html",
       "lang": "fr",
       "section": "books",
@@ -30831,6 +30910,75 @@
         "capítulo",
         "com",
         "como"
+      ]
+    },
+    {
+      "page": "pt/books/samizdat/order/received/index.html",
+      "lang": "pt",
+      "section": "books",
+      "title": "Pedido recebido — samizdat 2.0",
+      "description": "",
+      "existingKeywords": "",
+      "canonical": "",
+      "h1": [
+        "Pedido recebido"
+      ],
+      "h2": [
+        "Nenhuma compra foi criada automaticamente."
+      ],
+      "h3": [],
+      "slugTerms": [
+        "pt",
+        "books",
+        "samizdat",
+        "order",
+        "received"
+      ],
+      "excerpt": "samizdat 2.0 Pedido recebido Obrigado. O seu pedido foi enviado. Entraremos em contacto por email para confirmar a disponibilidade do idioma, o prazo de preparação, o custo de impressão, a entrega e o pagamento antes de qualquer produção. Nenhuma compra foi criada automaticamente. Verifique o endereço de email indicado no formulário, incluindo a pasta de spam.",
+      "candidates": [
+        "pedido",
+        "2.0",
+        "email",
+        "foi",
+        "recebido",
+        "samizdat",
+        "antes",
+        "automaticamente",
+        "compra",
+        "confirmar",
+        "contacto",
+        "criada",
+        "custo",
+        "disponibilidade",
+        "endereço",
+        "entraremos",
+        "entrega",
+        "enviado",
+        "formulário",
+        "idioma",
+        "impressão",
+        "incluindo",
+        "indicado",
+        "nenhuma"
+      ],
+      "suggestedKeywordSeed": [
+        "pedido",
+        "recebido",
+        "samizdat",
+        "2.0",
+        "automaticamente",
+        "books",
+        "compra",
+        "criada",
+        "foi",
+        "antes",
+        "ashraellen",
+        "confirmar",
+        "contacto",
+        "email",
+        "nenhuma",
+        "order",
+        "received"
       ]
     },
     {
