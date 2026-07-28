@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T20:56:32.971Z",
+  "generated": "2026-07-28T20:57:01.450Z",
   "pages": [
     {
       "page": "be/books/error-404-god-not-found/index.html",
@@ -15611,6 +15611,75 @@
         "con",
         "convierte",
         "culturales"
+      ]
+    },
+    {
+      "page": "es/books/samizdat/order/index.html",
+      "lang": "es",
+      "section": "books",
+      "title": "Solicitar un ejemplar samizdat 2.0 — Ashraellen",
+      "description": "Solicitud de un ejemplar de autor samizdat 2.0 en cualquier idioma del proyecto.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/es/books/samizdat/order/",
+      "h1": [
+        "Solicitar un ejemplar"
+      ],
+      "h2": [
+        "Solicitud ↓ Cálculo ↓ Confirmación ↓ Pago ↓ Impresión ↓ Entrega"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "es",
+        "books",
+        "samizdat",
+        "order"
+      ],
+      "excerpt": "Producción tras una solicitud confirmada Solicitar un ejemplar Un libro puede prepararse, maquetarse, imprimirse y enviarse para un lector concreto. Antes del pago confirmamos personalmente la disponibilidad del idioma, el plazo de preparación y los costes de impresión y entrega. Enviar el formulario no crea una obligación de compra. Cómo funciona Solicitud ↓ Cálculo ↓ Confirmación ↓ Pago ↓ Impresión ↓ Entrega Si el idioma elegido aún no está listo para imprimir, primero indicaremos el plazo estimado de traducción y maquetación. Libro Seleccione Demotopia — Utopía Democrática Idioma del ejemplar Seleccione Bielorruso (BE) Alemán (DE) Inglés (EN) Español (ES) Francés (FR) Polaco (PL) Portugués (PT) Ruso (RU) Ucraniano (UK) Cantidad Finalidad Para mí Como regalo Para entregarlo a otro lector Nombre y apellidos Correo electrónico Teléfono para la entrega País Ciudad Código postal Dirección ",
+      "candidates": [
+        "entrega",
+        "para",
+        "solicitud",
+        "del",
+        "ejemplar",
+        "idioma",
+        "impresión",
+        "pago",
+        "plazo",
+        "2.0",
+        "antes",
+        "calcular",
+        "dirección",
+        "enviar",
+        "lector",
+        "libro",
+        "los",
+        "organizar",
+        "personalmente",
+        "producción",
+        "samizdat",
+        "seleccione",
+        "solicitar",
+        "una"
+      ],
+      "suggestedKeywordSeed": [
+        "ejemplar",
+        "2.0",
+        "samizdat",
+        "solicitud",
+        "ashraellen",
+        "books",
+        "del",
+        "entrega",
+        "idioma",
+        "impresión",
+        "pago",
+        "solicitar",
+        "antes",
+        "autor",
+        "calcular",
+        "cálculo",
+        "confirmación",
+        "cualquier"
       ]
     },
     {
