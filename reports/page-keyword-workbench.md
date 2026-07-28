@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-28T18:03:22.697Z
+Generated: 2026-07-28T18:07:58.914Z
 Pages: 594
 
 ## Index
@@ -142,7 +142,7 @@ Pages: 594
 | en/books/radiance/index.html | en | books | Ashraellen — Radiance \| Northern tales about the real history of the world | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | radiance, about, artistic-research, books, what, world, ancient, ashraellen, cycle, northern, philosophical, book, confuse, figurative, form, frame, history, how |
 | en/books/radiance/sampo/index.html | en | books | Ashraellen — Sampo \| Radiance, Book I | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | sampo, book, radiance, ashraellen, books, about, abundance, artistic-research, been, chapter, cultural, featured, first, foundations, frame, has, her, his |
 | en/books/radiance/song/index.html | en | books | Ashraellen — Song \| Radiance, Book II | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | song, about, book, radiance, ashraellen, books, language, sound, artistic-research, ayla, become, chapter, cultural, does, extended, featured, foundations, frame |
-| en/books/samizdat/demotopia/index.html | en | books | Demotopia — Book Passport — samizdat 2.0 | _missing_ | demotopia, book, passport, samizdat, 2.0, author-issued, edition, about, ashraellen, books, copy, physical, author, democracy, permanent, request, system |
+| en/books/samizdat/demotopia/index.html | en | books | Demotopia — Book Passport — samizdat 2.0 | _missing_ | demotopia, book, passport, samizdat, 2.0, author-issued, edition, about, ashraellen, books, copy, physical, author, democratic, permanent, request, system |
 | en/books/samizdat/index.html | en | books | samizdat 2.0 — Ashraellen author editions | Ashraellen, samizdat 2.0, author editions, numbered books, signed copies, book passports, direct publishing | samizdat, 2.0, books, ashraellen, book, author, editions, how, now, physical, why, without, author-issued, belong, copies, copy, direct, edition |
 | en/books/seccus/index.html | en | books | Ashraellen — THE SACRED BOOK OF SECCUS | Ashraellen, SECCUS, The Sacred Book of SECCUS, The Path of Honesty, philosophical satire, money, success, self-deception, knowledge as an alibi, responsibility, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Book | book, seccus, about, sacred, ashraellen, books, money, own, success, alibi, choice, corpus, does, frame, honesty, how, knowledge, literary-philosophical |
 | en/books/the-book-of-whinesis/index.html | en | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sacred, satire, those, tired, positive, vibes, endless, productivity, cult, success, about, first, chapters, excerpt | book, whinesis, ashraellen, books, about, becomes, chapters, cult, discount, endless, excerpt, first, gnorna, lord, moania, positive, productivity, sacred |
@@ -2909,12 +2909,12 @@ Excerpt:
 - H1: Demotopia
 - H2: About the book | This edition | The permanent passport | Request an author-issued copy
 - H3: About each copy
-- suggested keyword seed: demotopia, book, passport, samizdat, 2.0, author-issued, edition, about, ashraellen, books, copy, physical, author, democracy, permanent, request, system
-- candidates: edition, demotopia, passport, physical, 2.0, book, samizdat, author-issued, copy, about, author, democracy, democratic, its, language, request, all, ashraellen, code, each, freedom, inside, may, novel
+- suggested keyword seed: demotopia, book, passport, samizdat, 2.0, author-issued, edition, about, ashraellen, books, copy, physical, author, democratic, permanent, request, system
+- candidates: edition, demotopia, passport, physical, 2.0, book, samizdat, author-issued, copy, democratic, about, author, democracy, its, language, request, all, ashraellen, code, each, freedom, inside, may, novel
 
 Excerpt:
 
-> Book passport / samizdat 2.0 Demotopia A philosophical novel about democracy, power and the quiet transformation of freedom into ritual. Author-issued physical edition About the book democracy seen from inside its own ritual Demotopia examines the moment when democratic language remains intact while democratic meaning begins to disappear. It follows not the collapse of freedom in a single dramatic act, but its gradual transformation into habit, procedure and performance. The novel belongs to no party and offers no political programme. It asks a quieter and more difficult question: what happens when people continue to perform democracy after they have stopped expecting it to change anything? This edition a completed physical form issued directly by the author Work Demotopia — Democratic Utopia Author Ashraellen Edition Author-issued physical edition System samizdat 2.0 Place and year Wars
+> Book passport / samizdat 2.0 Demotopia Democratic Utopia A philosophical novel about democracy, power and the quiet transformation of freedom into ritual. Author-issued physical edition About the book democracy seen from inside its own ritual Demotopia examines the moment when democratic language remains intact while democratic meaning begins to disappear. It follows not the collapse of freedom in a single dramatic act, but its gradual transformation into habit, procedure and performance. The novel belongs to no party and offers no political programme. It asks a quieter and more difficult question: what happens when people continue to perform democracy after they have stopped expecting it to change anything? This edition a completed physical form issued directly by the author Work Demotopia — Democratic Utopia Author Ashraellen Edition Author-issued physical edition System samizdat 2.0 P
 
 ### en/books/samizdat/index.html
 
