@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-07-28T21:02:31.730Z
+Generated: 2026-07-28T21:03:07.278Z
 
-Pages checked: 619
-Pages with issues: 116
-Total issues: 428
+Pages checked: 620
+Pages with issues: 117
+Total issues: 436
 Pages with review notes: 582
 Total review notes: 2106
 
@@ -13,18 +13,18 @@ Total review notes: 2106
 | Item | Count |
 |---|---:|
 | DUPLICATE_KEYWORDS | 56 |
-| MISSING_KEYWORDS | 51 |
-| MISSING_TWITTER_IMAGE | 51 |
-| MISSING_TWITTER_CARD | 37 |
+| MISSING_KEYWORDS | 52 |
+| MISSING_TWITTER_IMAGE | 52 |
+| MISSING_TWITTER_CARD | 38 |
 | DUPLICATE_TITLE | 36 |
 | DUPLICATE_OG_TITLE | 34 |
-| MISSING_OG_DESCRIPTION | 33 |
-| MISSING_JSON_LD | 32 |
-| MISSING_OG_IMAGE | 32 |
-| MISSING_OG_TITLE | 31 |
+| MISSING_OG_DESCRIPTION | 34 |
+| MISSING_JSON_LD | 33 |
+| MISSING_OG_IMAGE | 33 |
+| MISSING_OG_TITLE | 32 |
 | MISSING_DESCRIPTION | 13 |
 | MISSING_CANONICAL | 11 |
-| DESCRIPTION_TOO_SHORT | 9 |
+| DESCRIPTION_TOO_SHORT | 10 |
 | DUPLICATE_CANONICAL | 2 |
 
 
@@ -1482,6 +1482,23 @@ Total review notes: 2106
 - twitter:image: https://www.ashraellen.com/assets/covers/song-cover-ru.webp
 
 - DUPLICATE_KEYWORDS: shared by 3 pages
+
+### uk/books/samizdat/order/index.html
+
+- title: Запросити примірник samizdat 2.0 — Ashraellen
+- description length: 72
+- canonical: https://www.ashraellen.com/uk/books/samizdat/order/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 72
 
 ### uk/books/samizdat/order/received/index.html
 
