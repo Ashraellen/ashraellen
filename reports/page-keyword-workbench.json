@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T17:55:37.745Z",
+  "generated": "2026-07-28T17:56:22.605Z",
   "pages": [
     {
       "page": "be/books/error-404-god-not-found/index.html",
@@ -24729,6 +24729,83 @@
         "fizyczne",
         "jeden",
         "książek"
+      ]
+    },
+    {
+      "page": "pl/books/samizdat/order/index.html",
+      "lang": "pl",
+      "section": "books",
+      "title": "Poproś o egzemplarz samizdatu 2.0 — Ashraellen",
+      "description": "Wspólna polska strona zgłoszenia autorskich egzemplarzy książek samizdatu 2.0 we wszystkich dostępnych językach projektu.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/pl/books/samizdat/order/",
+      "h1": [
+        "Poproś o egzemplarz"
+      ],
+      "h2": [
+        "Co obejmie zgłoszenie",
+        "Bezpieczny formularz zgłoszenia jest podłączany."
+      ],
+      "h3": [
+        "Książka",
+        "Język",
+        "Liczba egzemplarzy",
+        "Miejsce docelowe",
+        "Kontakt",
+        "Przeznaczenie"
+      ],
+      "slugTerms": [
+        "pl",
+        "books",
+        "samizdat",
+        "order"
+      ],
+      "excerpt": "Wszystkie książki / wszystkie języki projektu Poproś o egzemplarz Jedno wspólne miejsce zgłoszenia dla wszystkich autorskich książek w systemie samizdat 2.0. Dostępność, cena, język, dostawa i płatność są potwierdzane osobiście. Wysłanie zgłoszenia nie tworzy automatycznego obowiązku zakupu. Co obejmie zgłoszenie bezpośrednia rozmowa, nie anonimowa kasa Książka Tytuł dzieła, którego egzemplarz chcesz otrzymać. Język Preferowany język fizycznego egzemplarza. Liczba egzemplarzy Jeden egzemplarz dla siebie albo dodatkowe egzemplarze na prezent lub do dalszego przekazania. Miejsce docelowe Kraj i miasto, aby koszt dostawy można było obliczyć dokładnie. Kontakt Imię i adres email do osobistego potwierdzenia. Przeznaczenie Dla siebie, na prezent albo do przekazania książki kolejnemu czytelnikowi. Obecny etap Bezpieczny formularz zgłoszenia jest podłączany. Ta strona jest już stałym wspólnym ad",
+      "candidates": [
+        "2.0",
+        "egzemplarz",
+        "wszystkich",
+        "zgłoszenia",
+        "język",
+        "książek",
+        "samizdatu",
+        "albo",
+        "autorskich",
+        "egzemplarzy",
+        "książki",
+        "miejsce",
+        "nie",
+        "poproś",
+        "prezent",
+        "projektu",
+        "przekazania",
+        "siebie",
+        "wszystkie",
+        "aby",
+        "adres",
+        "adresem",
+        "anonimowa",
+        "ashraellen"
+      ],
+      "suggestedKeywordSeed": [
+        "2.0",
+        "egzemplarz",
+        "samizdatu",
+        "zgłoszenia",
+        "ashraellen",
+        "autorskich",
+        "books",
+        "egzemplarzy",
+        "książek",
+        "poproś",
+        "wszystkich",
+        "albo",
+        "bezpieczny",
+        "dostępnych",
+        "formularz",
+        "język",
+        "językach",
+        "książki"
       ]
     },
     {

@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-28T17:55:37.755Z
-Pages: 593
+Generated: 2026-07-28T17:56:22.624Z
+Pages: 594
 
 ## Index
 
@@ -341,6 +341,7 @@ Pages: 593
 | pl/books/radiance/song/index.html | pl | books | Ashraellen — Pieśń \| Blask, Księga II | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | pieśń, ashraellen, bez, blask, books, nie, się, ale, artystycznych, ayla, badań, być, był, była, było, druga, dźwięku, fundacji |
 | pl/books/samizdat/demotopia/index.html | pl | books | Demotopia — Paszport książki — samizdat 2.0 | _missing_ | demotopia, paszport, samizdat, 2.0, 2026, ashraellen, books, egzemplarz, książki, wydanie, autora, autorski, autorskiego, demotopii, fizyczne, fizycznego, książce, może |
 | pl/books/samizdat/index.html | pl | books | samizdat 2.0 — autorskie wydania Ashraellen | _missing_ | 2.0, samizdat, ashraellen, autorskie, wydania, bez, books, książka, autora, bezpośrednie, czym, dlaczego, działa, egzemplarz, egzemplarze, fizyczne, jeden, książek |
+| pl/books/samizdat/order/index.html | pl | books | Poproś o egzemplarz samizdatu 2.0 — Ashraellen | _missing_ | 2.0, egzemplarz, samizdatu, zgłoszenia, ashraellen, autorskich, books, egzemplarzy, książek, poproś, wszystkich, albo, bezpieczny, dostępnych, formularz, język, językach, książki |
 | pl/books/seccus/index.html | pl | books | Ashraellen — ŚWIĘTA KSIĘGA SECCUS | Ashraellen, SECCUS, Święta Księga SECCUS, Droga Uczciwości, satyra filozoficzna, pieniądze, sukces, samooszustwo, wiedza jako alibi, odpowiedzialność, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Księga | seccus, księga, święta, ashraellen, bez, books, jako, alibi, ani, człowiek, droga, filozoficzna, głos, kogo, korpus, książce, książka, książki |
 | pl/books/the-book-of-whinesis/index.html | pl | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sakralna, satyra, dla, tych, którzy, zmęczyli, się, pozytywnymi, wibracjami, niekończącą, produktywnością, kultem, sukcesu, książce | book, whinesis, się, ashraellen, books, albowiem, będzie, będziesz, fragment, jego, książce, którzy, kultem, moania, moanii, narzekania, nie, niekończącą |
 | pl/books/you-are-already-online/index.html | pl | books | Ashraellen — Już jesteś w sieci | ashraellen, books, you, already, online, już, jesteś, sieci, immersyjna, powieść, audio, gatunku, thrillera, psychologicznego, dramatu, cyberpunkowego, cyfrowej, rzeczywistości | jesteś, już, sieci, ashraellen, books, rozdział, algorytmach, already, audio, było, cyberpunkowego, cyfrowej, dramatu, fragment, gatunku, gdzie, hiperrealności, immersyjna |
@@ -6280,6 +6281,23 @@ Excerpt:
 Excerpt:
 
 > Autorskie książki fizyczne / publiczne paszporty książek samizdat 2.0 Aby stać się publiczną, książka nie musi zamieniać się w anonimowy produkt. samizdat 2.0 to współczesna struktura dla książek ukończonych przez autora, którym nadano fizyczną formę poza przemysłowym łańcuchem wydawniczym i które trafiają bezpośrednio do czytelników. Każde wydanie pozostaje połączone ze swoim źródłem poprzez stały publiczny paszport. Dlaczego teraz publikować jest łatwo; zachować obecność — nie Klasyczny samizdat pojawił się tam, gdzie tekst nie mógł przejść przez oficjalne kanały. Dziś techniczna publikacja stała się niemal powszechnie dostępna: plik można wydać natychmiast, książkę wydrukować na żądanie, a tekst rozpowszechniać bez pytania o zgodę. Ta wolność przynosi jednak inną stratę. Fizyczna książka łatwo znika w anonimowym obiegu produktów: zostaje wytworzona, zamówiona, dostarczona i zapomniana
+
+### pl/books/samizdat/order/index.html
+
+- lang: pl
+- section: books
+- title: Poproś o egzemplarz samizdatu 2.0 — Ashraellen
+- description: Wspólna polska strona zgłoszenia autorskich egzemplarzy książek samizdatu 2.0 we wszystkich dostępnych językach projektu.
+- canonical: https://www.ashraellen.com/pl/books/samizdat/order/
+- H1: Poproś o egzemplarz
+- H2: Co obejmie zgłoszenie | Bezpieczny formularz zgłoszenia jest podłączany.
+- H3: Książka | Język | Liczba egzemplarzy | Miejsce docelowe | Kontakt | Przeznaczenie
+- suggested keyword seed: 2.0, egzemplarz, samizdatu, zgłoszenia, ashraellen, autorskich, books, egzemplarzy, książek, poproś, wszystkich, albo, bezpieczny, dostępnych, formularz, język, językach, książki
+- candidates: 2.0, egzemplarz, wszystkich, zgłoszenia, język, książek, samizdatu, albo, autorskich, egzemplarzy, książki, miejsce, nie, poproś, prezent, projektu, przekazania, siebie, wszystkie, aby, adres, adresem, anonimowa, ashraellen
+
+Excerpt:
+
+> Wszystkie książki / wszystkie języki projektu Poproś o egzemplarz Jedno wspólne miejsce zgłoszenia dla wszystkich autorskich książek w systemie samizdat 2.0. Dostępność, cena, język, dostawa i płatność są potwierdzane osobiście. Wysłanie zgłoszenia nie tworzy automatycznego obowiązku zakupu. Co obejmie zgłoszenie bezpośrednia rozmowa, nie anonimowa kasa Książka Tytuł dzieła, którego egzemplarz chcesz otrzymać. Język Preferowany język fizycznego egzemplarza. Liczba egzemplarzy Jeden egzemplarz dla siebie albo dodatkowe egzemplarze na prezent lub do dalszego przekazania. Miejsce docelowe Kraj i miasto, aby koszt dostawy można było obliczyć dokładnie. Kontakt Imię i adres email do osobistego potwierdzenia. Przeznaczenie Dla siebie, na prezent albo do przekazania książki kolejnemu czytelnikowi. Obecny etap Bezpieczny formularz zgłoszenia jest podłączany. Ta strona jest już stałym wspólnym ad
 
 ### pl/books/seccus/index.html
 

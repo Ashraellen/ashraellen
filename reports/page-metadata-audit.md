@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-07-28T17:55:37.361Z
+Generated: 2026-07-28T17:56:22.023Z
 
-Pages checked: 592
-Pages with issues: 89
-Total issues: 227
+Pages checked: 593
+Pages with issues: 90
+Total issues: 234
 Pages with review notes: 577
 Total review notes: 2096
 
@@ -15,13 +15,13 @@ Total review notes: 2096
 | DUPLICATE_KEYWORDS | 56 |
 | DUPLICATE_OG_TITLE | 34 |
 | DUPLICATE_TITLE | 34 |
-| MISSING_KEYWORDS | 24 |
-| MISSING_TWITTER_IMAGE | 24 |
-| MISSING_OG_DESCRIPTION | 11 |
-| MISSING_JSON_LD | 10 |
-| MISSING_OG_IMAGE | 10 |
-| MISSING_TWITTER_CARD | 10 |
-| MISSING_OG_TITLE | 9 |
+| MISSING_KEYWORDS | 25 |
+| MISSING_TWITTER_IMAGE | 25 |
+| MISSING_OG_DESCRIPTION | 12 |
+| MISSING_JSON_LD | 11 |
+| MISSING_OG_IMAGE | 11 |
+| MISSING_TWITTER_CARD | 11 |
+| MISSING_OG_TITLE | 10 |
 | DESCRIPTION_TOO_SHORT | 2 |
 | MISSING_DESCRIPTION | 2 |
 | MISSING_CANONICAL | 1 |
@@ -718,6 +718,22 @@ Total review notes: 2096
 - title: samizdat 2.0 — autorskie wydania Ashraellen
 - description length: 125
 - canonical: https://www.ashraellen.com/pl/books/samizdat/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### pl/books/samizdat/order/index.html
+
+- title: Poproś o egzemplarz samizdatu 2.0 — Ashraellen
+- description length: 121
+- canonical: https://www.ashraellen.com/pl/books/samizdat/order/
 - og:image: _missing_
 - twitter:image: _missing_
 
