@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-07-28T20:59:00.933Z
+Generated: 2026-07-28T20:59:27.103Z
 
-Pages checked: 612
-Pages with issues: 109
-Total issues: 381
+Pages checked: 613
+Pages with issues: 110
+Total issues: 388
 Pages with review notes: 580
 Total review notes: 2102
 
@@ -13,15 +13,15 @@ Total review notes: 2102
 | Item | Count |
 |---|---:|
 | DUPLICATE_KEYWORDS | 56 |
-| MISSING_KEYWORDS | 44 |
-| MISSING_TWITTER_IMAGE | 44 |
+| MISSING_KEYWORDS | 45 |
+| MISSING_TWITTER_IMAGE | 45 |
 | DUPLICATE_TITLE | 36 |
 | DUPLICATE_OG_TITLE | 34 |
-| MISSING_TWITTER_CARD | 30 |
-| MISSING_OG_DESCRIPTION | 28 |
-| MISSING_JSON_LD | 27 |
-| MISSING_OG_IMAGE | 27 |
-| MISSING_OG_TITLE | 26 |
+| MISSING_TWITTER_CARD | 31 |
+| MISSING_OG_DESCRIPTION | 29 |
+| MISSING_JSON_LD | 28 |
+| MISSING_OG_IMAGE | 28 |
+| MISSING_OG_TITLE | 27 |
 | MISSING_DESCRIPTION | 11 |
 | MISSING_CANONICAL | 9 |
 | DESCRIPTION_TOO_SHORT | 7 |
@@ -824,6 +824,22 @@ Total review notes: 2102
 - MISSING_DESCRIPTION
 - MISSING_OG_DESCRIPTION
 - DUPLICATE_KEYWORDS: shared by 3 pages
+
+### fr/books/samizdat/demotopia/index.html
+
+- title: Demotopia — Passeport du livre — samizdat 2.0
+- description length: 83
+- canonical: https://www.ashraellen.com/fr/books/samizdat/demotopia/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
 
 ### fr/books/samizdat/order/index.html
 
