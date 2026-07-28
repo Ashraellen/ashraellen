@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-28T20:57:01.462Z
-Pages: 609
+Generated: 2026-07-28T20:57:27.671Z
+Pages: 610
 
 ## Index
 
@@ -217,6 +217,7 @@ Pages: 609
 | es/books/radiance/index.html | es | books | Ashraellen — Resplandor \| Cuentos del norte sobre la historia real del mundo. | Ashraellen, Resplandor, Sampo, Canto, Libros, literary-philosophical, artistic research | resplandor, del, mundo, para, sobre, ashraellen, books, ciclo, instrucciones, investigación, que, antiguas, artística, artístico, como, cómo, con, confundir |
 | es/books/radiance/sampo/index.html | es | books | Ashraellen — Sampo \| Resplandor, libro I | Ashraellen, Resplandor, Sampo, Canto, Libros, literary-philosophical, artistic research | del, sampo, libro, ashraellen, books, para, resplandor, una, abundancia, acerca, artística, aún, capítulo, como, con, culturales, destacado, donde |
 | es/books/radiance/song/index.html | es | books | Ashraellen — Canto \| Resplandor, libro II | Ashraellen, Resplandor, Sampo, Canto, Libros, literary-philosophical, artistic research | canto, libro, para, una, ashraellen, books, del, que, resplandor, acerca, ampliada, artística, ayla, capítulo, como, con, convierte, culturales |
+| es/books/samizdat/demotopia/index.html | es | books | Demotopia — Pasaporte del libro — samizdat 2.0 | _missing_ | demotopia, pasaporte, samizdat, 2.0, autor, edición, libro, books, del, ejemplar, física, ashraellen, cada, esta, permanente, sistema, sobre, solicitar |
 | es/books/samizdat/order/index.html | es | books | Solicitar un ejemplar samizdat 2.0 — Ashraellen | _missing_ | ejemplar, 2.0, samizdat, solicitud, ashraellen, books, del, entrega, idioma, impresión, pago, solicitar, antes, autor, calcular, cálculo, confirmación, cualquier |
 | es/books/samizdat/order/received/index.html | es | books | Solicitud recibida — samizdat 2.0 | _missing_ | recibida, samizdat, solicitud, 2.0, automáticamente, books, compra, antes, ashraellen, carpeta, confirmar, contacto, correo, coste, creado, ninguna, order, received |
 | es/books/seccus/index.html | es | books | Ashraellen — EL LIBRO SAGRADO DE SECCUS | Ashraellen, SECCUS, El Libro Sagrado de SECCUS, El Camino de la Honestidad, sátira filosófica, dinero, éxito, autoengaño, conocimiento como coartada, responsabilidad, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Libro | libro, seccus, sagrado, ashraellen, books, del, dinero, éxito, página, para, sobre, una, autoengaño, camino, coartada, como, con, conocimiento |
@@ -4188,6 +4189,23 @@ Excerpt:
 Excerpt:
 
 > Resplandor - Cuentos del norte sobre la historia real del mundo Canto Libro II del ciclo literario y filosófico “Resplandor”. Una novela sobre el sonido que no toma poder: sobre el oído, el lenguaje, la ciudad, el mundo laboral y Canto, que no se convierte en un número. Después de “Sampo” la pregunta sobre la abundancia es reemplazada por la pregunta sobre la palabra: ¿puede el lenguaje convertirse no en una opinión, ni en un argumento, ni en una autoexpresión, sino en una forma de personalización? Cubierta rusa. Ashraellen. Capítulo destacado Capítulo Uno. Ruido normal Primer capítulo completo: el regreso de Ayla a Varsovia, el ruido ordinario de la ciudad y la primera ruptura entre el sonido como trabajo y el oído como actitud. Abrir capítulo Cerrar capítulo Varsovia recibió a Ayla no con una señal, ni con una visión, ni con algún susurro subterráneo digno de una continuación del antig
+
+### es/books/samizdat/demotopia/index.html
+
+- lang: es
+- section: books
+- title: Demotopia — Pasaporte del libro — samizdat 2.0
+- description: Pasaporte de la edición física de autor de Demotopia en el sistema samizdat 2.0.
+- canonical: https://www.ashraellen.com/es/books/samizdat/demotopia/
+- H1: Demotopia
+- H2: Sobre el libro | Esta edición | El pasaporte permanente | Solicitar un ejemplar de autor
+- H3: Sobre cada ejemplar
+- suggested keyword seed: demotopia, pasaporte, samizdat, 2.0, autor, edición, libro, books, del, ejemplar, física, ashraellen, cada, esta, permanente, sistema, sobre, solicitar
+- candidates: autor, del, edición, demotopia, pasaporte, 2.0, física, samizdat, una, ejemplar, libro, cada, democracia, directamente, por, publicada, sobre, código, democrática, democrático, desde, idioma, libertad, mientras
+
+Excerpt:
+
+> Pasaporte del libro / samizdat 2.0 Demotopia Utopía Democrática Una novela filosófica sobre la democracia, el poder y la silenciosa transformación de la libertad en ritual. Edición física publicada directamente por el autor Sobre el libro la democracia vista desde el interior de su propio ritual Demotopia examina el momento en que el lenguaje democrático permanece intacto mientras el significado democrático empieza a desaparecer. No sigue el derrumbe de la libertad en un único acto dramático, sino su transformación gradual en hábito, procedimiento y representación. La novela no pertenece a ningún partido ni ofrece un programa político. Formula una pregunta más silenciosa y difícil: ¿qué sucede cuando las personas continúan representando la democracia después de haber dejado de esperar que cambie algo? Esta edición una forma física terminada, publicada directamente por el autor Obra Demot
 
 ### es/books/samizdat/order/index.html
 
