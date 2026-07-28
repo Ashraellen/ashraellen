@@ -1,0 +1,40 @@
+name: Add Portuguese project card
+
+on:
+  push:
+    paths:
+      - '.github/workflows/add-pt-project-card.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Insert static HTML card
+        shell: python
+        run: |
+          from pathlib import Path
+
+          path = Path('pt/public/index.html')
+          text = path.read_text(encoding='utf-8')
+          old = "<section class='card'><h2>Publicações</h2><p>Textos que saíram do laboratório e se tornaram mensagem: pensamentos de apoio, fragmentos, reações e observações.</p><a id='goPosts' href='posts/'>Abrir →</a></section></div>"
+          new = "<section class='card'><h2>Publicações</h2><p>Textos que saíram do laboratório e se tornaram mensagem: pensamentos de apoio, fragmentos, reações e observações.</p><a id='goPosts' href='posts/'>Abrir →</a></section><section class='card'><h2>Projetos</h2><p>Projetos de pesquisa, literários e midiáticos de Ashraellen — campos de trabalho distintos reunidos em um mesmo espaço.</p><a href='https://www.ashraellen.com/pt/research/projects/'>Abrir →</a></section></div>"
+          if old not in text:
+              raise SystemExit('Target HTML fragment not found')
+          updated = text.replace(old, new, 1)
+          if updated.count('<h2>Projetos</h2>') != 1:
+              raise SystemExit('Unexpected project card count')
+          path.write_text(updated, encoding='utf-8')
+          Path('.github/workflows/add-pt-project-card.yml').unlink()
+      - name: Commit result
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add pt/public/index.html .github/workflows/add-pt-project-card.yml
+          git commit -m "Add Portuguese projects card"
+          git push
