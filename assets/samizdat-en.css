@@ -20,8 +20,12 @@ a:hover{text-decoration:none}
 .site-header{padding:22px 44px 0;text-align:right}
 .brand{margin:0 0 6px;font-size:14px;font-weight:700;letter-spacing:.22em;text-transform:uppercase}
 .menu{font-size:13px;color:var(--muted)}
-.menu a{margin-left:18px;color:var(--muted)}
+.menu a{color:var(--muted)}
 .menu a:hover{color:var(--ink)}
+.language-row{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:7px 13px;margin-top:9px;font-size:11px;font-weight:700;letter-spacing:.12em;color:rgba(116,107,94,.62)}
+.language-row a{color:var(--muted)}
+.language-row a:hover{color:var(--ink)}
+.language-row .current{color:var(--ink)}
 .main{display:flex;justify-content:center}
 .container{width:min(100%,1040px);max-width:1040px;margin:0 auto;padding:34px 44px 58px}
 .hero{max-width:820px;padding:32px 0 18px}
@@ -58,6 +62,7 @@ h1{margin:0;font-family:Georgia,"Times New Roman",serif;font-size:clamp(42px,8vw
 .presence img{width:34px;height:34px;object-fit:contain;filter:none;opacity:1}
 @media(max-width:760px){
   .site-header{padding:16px 22px 0;text-align:right}
+  .language-row{gap:7px 11px}
   .container{padding:24px 22px 44px}
   .principles{grid-template-columns:1fr}
   .section-head{align-items:flex-start;flex-direction:column;gap:5px}
