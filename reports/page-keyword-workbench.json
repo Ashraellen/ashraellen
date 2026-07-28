@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T21:01:33.270Z",
+  "generated": "2026-07-28T21:02:32.270Z",
   "pages": [
     {
       "page": "be/books/error-404-god-not-found/index.html",
@@ -30987,6 +30987,85 @@
       ]
     },
     {
+      "page": "pt/books/samizdat/index.html",
+      "lang": "pt",
+      "section": "books",
+      "title": "samizdat 2.0 — edições de autor de Ashraellen",
+      "description": "samizdat 2.0 de Ashraellen: edições físicas diretas do autor, exemplares numerados e passaportes públicos permanentes dos livros.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/pt/books/samizdat/",
+      "h1": [
+        "samizdat 2.0"
+      ],
+      "h2": [
+        "Porquê agora",
+        "O que é",
+        "Como funciona",
+        "Numeração sem vigilância",
+        "O passaporte QR",
+        "Um livro feito para viajar",
+        "Livros em samizdat 2.0"
+      ],
+      "h3": [
+        "Uma edição de autor concluída",
+        "Fora da cadeia industrial",
+        "Um exemplar como um objeto",
+        "Um passaporte público permanente"
+      ],
+      "slugTerms": [
+        "pt",
+        "books",
+        "samizdat"
+      ],
+      "excerpt": "Livros físicos do autor / passaportes públicos dos livros samizdat 2.0 Um livro não precisa tornar-se um produto anónimo para se tornar público. samizdat 2.0 é uma estrutura contemporânea para livros concluídos pelo autor, dotados de forma física fora da cadeia editorial industrial e transmitidos diretamente aos leitores. Cada edição permanece ligada à sua origem através de um passaporte público permanente. Porquê agora publicar é fácil; estar presente não é O samizdat clássico surgiu onde um texto não conseguia atravessar os canais oficiais. Hoje, o ato técnico de publicação tornou-se quase universalmente acessível. Um ficheiro pode ser publicado de imediato, um livro impresso sob demanda e um texto circular sem pedir autorização. Contudo, esta liberdade cria outra perda. O livro físico pode ser absorvido pela mesma circulação anónima de qualquer outro produto: gerado, encomendado, entr",
+      "candidates": [
+        "autor",
+        "não",
+        "livro",
+        "uma",
+        "samizdat",
+        "exemplar",
+        "pode",
+        "sem",
+        "2.0",
+        "edição",
+        "leitor",
+        "objeto",
+        "público",
+        "que",
+        "para",
+        "sua",
+        "físico",
+        "livros",
+        "passaporte",
+        "permanente",
+        "ser",
+        "código",
+        "forma",
+        "idioma"
+      ],
+      "suggestedKeywordSeed": [
+        "samizdat",
+        "2.0",
+        "ashraellen",
+        "autor",
+        "books",
+        "edições",
+        "livro",
+        "livros",
+        "sem",
+        "agora",
+        "como",
+        "diretas",
+        "dos",
+        "edição",
+        "exemplar",
+        "exemplares",
+        "feito",
+        "físicas"
+      ]
+    },
+    {
       "page": "pt/books/samizdat/order/index.html",
       "lang": "pt",
       "section": "books",
@@ -41649,6 +41728,76 @@
         "вибраний",
         "видавничий",
         "видавців"
+      ]
+    },
+    {
+      "page": "uk/books/samizdat/order/received/index.html",
+      "lang": "uk",
+      "section": "books",
+      "title": "Запит отримано — samizdat 2.0",
+      "description": "",
+      "existingKeywords": "",
+      "canonical": "",
+      "h1": [
+        "Запит отримано"
+      ],
+      "h2": [
+        "Купівлю не було створено автоматично."
+      ],
+      "h3": [],
+      "slugTerms": [
+        "uk",
+        "books",
+        "samizdat",
+        "order",
+        "received"
+      ],
+      "excerpt": "samizdat 2.0 Запит отримано Дякуємо. Ваш запит надіслано. Ми зв’яжемося з вами електронною поштою, щоб до початку виготовлення підтвердити доступність мови, строк підготовки, вартість друку, доставку й оплату. Купівлю не було створено автоматично. Перевіряйте адресу електронної пошти, зазначену у формі, зокрема папку зі спамом.",
+      "candidates": [
+        "запит",
+        "2.0",
+        "samizdat",
+        "отримано",
+        "автоматично",
+        "адресу",
+        "було",
+        "вами",
+        "вартість",
+        "ваш",
+        "виготовлення",
+        "доставку",
+        "доступність",
+        "друку",
+        "дякуємо",
+        "електронної",
+        "електронною",
+        "зазначену",
+        "зв’яжемося",
+        "зокрема",
+        "купівлю",
+        "мови",
+        "надіслано",
+        "оплату"
+      ],
+      "suggestedKeywordSeed": [
+        "samizdat",
+        "запит",
+        "отримано",
+        "2.0",
+        "books",
+        "автоматично",
+        "було",
+        "ashraellen",
+        "order",
+        "received",
+        "адресу",
+        "вами",
+        "вартість",
+        "ваш",
+        "виготовлення",
+        "доставку",
+        "купівлю",
+        "створено"
       ]
     },
     {
