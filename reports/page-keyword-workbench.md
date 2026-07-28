@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-28T15:50:34.941Z
-Pages: 589
+Generated: 2026-07-28T16:19:05.420Z
+Pages: 591
 
 ## Index
 
@@ -142,6 +142,8 @@ Pages: 589
 | en/books/radiance/index.html | en | books | Ashraellen — Radiance \| Northern tales about the real history of the world | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | radiance, about, artistic-research, books, what, world, ancient, ashraellen, cycle, northern, philosophical, book, confuse, figurative, form, frame, history, how |
 | en/books/radiance/sampo/index.html | en | books | Ashraellen — Sampo \| Radiance, Book I | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | sampo, book, radiance, ashraellen, books, about, abundance, artistic-research, been, chapter, cultural, featured, first, foundations, frame, has, her, his |
 | en/books/radiance/song/index.html | en | books | Ashraellen — Song \| Radiance, Book II | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | song, about, book, radiance, ashraellen, books, language, sound, artistic-research, ayla, become, chapter, cultural, does, extended, featured, foundations, frame |
+| en/books/samizdat/demotopia/index.html | en | books | Demotopia — Book Passport — samizdat 2.0 | _missing_ | book, demotopia, passport, samizdat, 2.0, ashraellen, edition, author-issued, books, unregistered, about, copy, data, english, language, permanent |
+| en/books/samizdat/index.html | en | books | samizdat 2.0 — Ashraellen | _missing_ | samizdat, 2.0, ashraellen, author-issued, book, books, editions, english, entrance, passports, author, demotopia, each |
 | en/books/seccus/index.html | en | books | Ashraellen — THE SACRED BOOK OF SECCUS | Ashraellen, SECCUS, The Sacred Book of SECCUS, The Path of Honesty, philosophical satire, money, success, self-deception, knowledge as an alibi, responsibility, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Book | book, seccus, about, sacred, ashraellen, books, money, own, success, alibi, choice, corpus, does, frame, honesty, how, knowledge, literary-philosophical |
 | en/books/the-book-of-whinesis/index.html | en | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sacred, satire, those, tired, positive, vibes, endless, productivity, cult, success, about, first, chapters, excerpt | book, whinesis, ashraellen, books, about, becomes, chapters, cult, discount, endless, excerpt, first, gnorna, lord, moania, positive, productivity, sacred |
 | en/books/you-are-already-online/index.html | en | books | Ashraellen — You Are Already Online | ashraellen, books, you, already, online, immersive, audio, novel, genre, psychological, thriller, cyberpunk, drama, about, digital, reality, algorithms, attention | already, online, you, about, ashraellen, books, chapter, first, novel, reality, algorithms, attention, audio, book, cyberpunk, did, digital, drama |
@@ -531,8 +533,8 @@ Pages: 589
 | ru/research/position/index.html | ru | research | Ashraellen — Position — Russian | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, ru, research, position | position, ashraellen, research, внутренний, исследователь, модели, наблюдения, независимый, описания, опыт, опыты, поле, работаю, russian, рассматривая, реальность, религии, сама |
 | ru/research/projects/index.html | ru | research | Ashraellen — Проекты исследования | ashraellen, research, projects, проекты, исследования, карта, рабочих, полей, монолит, основной, канал, публичное, поле, сатирические, боковые, лаборатории, восприятия, instagram | ashraellen, проекты, research, telegram, боковые, канал, лаборатории, монолит, поле, church, inner, instagram, melodies, occultus, projects, saint, scriptorium, sounds |
 | ru/research/sources/index.html | ru | research | Ashraellen — Источники и традиция | ashraellen, research, sources, источники, традиция, феноменология, сознания, тело, нарратив, когнитивная, наука, художественная, практика, методологические, линии, исследования, эдмунд, гуссерль | ashraellen, источники, тело, традиция, форма, research, варела, исследования, опыт, сознание, сознания, феноменология, sources, взаимодействие, восприятия, где, готовых, гуссерль |
-| samizdat/demotopia/index.html | root | samizdat | Demotopia — samizdat 2.0 — language selection | Ashraellen, Demotopia, samizdat 2.0, book passport, language selection | demotopia, samizdat, 2.0, ashraellen, book, entrance, language, language-neutral, passport, address, code, one, printed, selection |
-| samizdat/index.html | root | samizdat | samizdat 2.0 — Ashraellen | Ashraellen, samizdat 2.0, author editions, book passports | samizdat, 2.0, ashraellen, author, editions, entrance, language-neutral, book, demotopia, individually, languages, multilingual |
+| samizdat/demotopia/index.html | root | samizdat | Demotopia — samizdat 2.0 | _missing_ | demotopia, samizdat, 2.0, ashraellen, book, entrance, multilingual, passport, browser, english, language, open, permanent |
+| samizdat/index.html | root | samizdat | samizdat 2.0 — Ashraellen | _missing_ | samizdat, 2.0, ashraellen, author, book, editions, language, passports, also, author-issued, automatically, browser, entry |
 | uk/books/error-404-god-not-found/index.html | uk | books | Ashraellen — Помилка 404: Бога не знайдено | _missing_ | 404, бога, знайдено, помилка, ashraellen, books, пошуку, error, found, god, або, готується, заявник, його, канцелярії, канцелярію, книга, книги |
 | uk/books/error-404-god-not-found/why-me/index.html | uk | books | Ashraellen — Чому я? | _missing_ | чому, 404, ashraellen, books, бога, про, error, found, god, why, або, але, біль, бюрократію, він, віру, влад, душі |
 | uk/books/index.html | uk | books | Ashraellen — Книги | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | книги, ashraellen, 404, book, books, error, found, книга, сатира, god, monolith, radiance, whinesis, аудіороман, ахепсу, вже, відкрити, дослідження |
@@ -2893,6 +2895,40 @@ Excerpt:
 Excerpt:
 
 > Radiance - Northern tales about the real history of the world Song Book II of the literary and philosophical cycle “Radiance”. A novel about sound that does not take power: about hearing, language, the city, the working scene and Song, which does not become a number. After “Sampo” the question of abundance is replaced by the question of the word: can language become not an opinion, not an argument, not a self-expression, but a form of attunement? English cover. Ashraellen. Featured Chapter Chapter One. Normal noise Complete first chapter: Ayla's return to Warsaw, ordinary city noise and the first break between sound as work and hearing as attitude. Open chapter Close chapter Warsaw met Ayla not with a sign, not with a vision, and not with some whisper from underground worthy of a continuation of the ancient prologue. Warsaw greeted her with an announcement on the train. First a thin clic
+
+### en/books/samizdat/demotopia/index.html
+
+- lang: en
+- section: books
+- title: Demotopia — Book Passport — samizdat 2.0
+- description: Book passport for the author-issued unregistered edition of Demotopia — samizdat 2.0 by Ashraellen.
+- canonical: https://www.ashraellen.com/en/books/samizdat/demotopia/
+- H1: Book Passport
+- H2: Edition data | About the copy
+- H3: _missing_
+- suggested keyword seed: book, demotopia, passport, samizdat, 2.0, ashraellen, edition, author-issued, books, unregistered, about, copy, data, english, language, permanent
+- candidates: demotopia, edition, passport, 2.0, samizdat, author-issued, book, english, language, permanent, unregistered, ashraellen, author, copy, entrance, fallback, physical, 2026, about, appropriate, author’s, code, content, created
+
+Excerpt:
+
+> Demotopia / Author-issued unregistered edition Book Passport samizdat 2.0 This page identifies the special physical edition of Demotopia prepared and issued directly by the author. It is the English fallback destination for the permanent QR entrance. Edition data Work Demotopia — Democratic Utopia Author Ashraellen Edition Author-issued unregistered edition Format samizdat 2.0 Place and year Warsaw, 2026 Passport language English About the copy Each physical copy may receive an individual number and the author’s handwritten signature. The QR code points to the permanent Demotopia entrance and redirects to the appropriate language passport. Current status. This is a minimal working English passport created to support the permanent language fallback. Its full content and final visual treatment will be developed together with the Russian and Polish passports.
+
+### en/books/samizdat/index.html
+
+- lang: en
+- section: books
+- title: samizdat 2.0 — Ashraellen
+- description: English entrance to Ashraellen author-issued samizdat 2.0 editions and book passports.
+- canonical: https://www.ashraellen.com/en/books/samizdat/
+- H1: samizdat 2.0
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: samizdat, 2.0, ashraellen, author-issued, book, books, editions, english, entrance, passports, author, demotopia, each
+- candidates: 2.0, ashraellen, book, editions, samizdat, author-issued, english, passports, author, demotopia, each, entrance, history, object, open, passport, permanent, physical, public, structure, their, transmitted
+
+Excerpt:
+
+> Ashraellen / author editions samizdat 2.0 A permanent structure for author-issued physical editions, their public passports and the history of each book as a transmitted object. Demotopia Open the English book passport →
 
 ### en/books/seccus/index.html
 
@@ -9511,35 +9547,35 @@ Excerpt:
 
 - lang: root
 - section: samizdat
-- title: Demotopia — samizdat 2.0 — language selection
-- description: Language-neutral entrance to the samizdat 2.0 book passport for Demotopia by Ashraellen.
+- title: Demotopia — samizdat 2.0
+- description: Permanent multilingual QR entrance to the Demotopia samizdat 2.0 book passport.
 - canonical: https://www.ashraellen.com/samizdat/demotopia/
 - H1: Demotopia
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: demotopia, samizdat, 2.0, ashraellen, book, entrance, language, language-neutral, passport, address, code, one, printed, selection
-- candidates: language, 2.0, code, demotopia, samizdat, address, book, entrance, language-neutral, one, passport, printed, added, ashraellen, can, choose, edition, every, here, książki, new, only, paszport, permanent
+- suggested keyword seed: demotopia, samizdat, 2.0, ashraellen, book, entrance, multilingual, passport, browser, english, language, open, permanent
+- candidates: 2.0, demotopia, passport, samizdat, book, ashraellen, browser, english, entrance, language, multilingual, open, opening, permanent, saved, your
 
 Excerpt:
 
-> One printed code / one permanent entrance Demotopia samizdat 2.0 Choose the language of the book passport. This address remains the same for every language edition. Русский Паспорт книги → Polski Paszport książki → The QR code points only to this language-neutral address. New language versions can be added here without replacing the printed code.
+> Ashraellen · samizdat 2.0 Demotopia Opening the book passport in your saved or browser language. Open English passport
 
 ### samizdat/index.html
 
 - lang: root
 - section: samizdat
 - title: samizdat 2.0 — Ashraellen
-- description: Language-neutral entrance to the samizdat 2.0 author editions by Ashraellen.
+- description: Language entry to Ashraellen samizdat 2.0 author editions and book passports.
 - canonical: https://www.ashraellen.com/samizdat/
 - H1: samizdat 2.0
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: samizdat, 2.0, ashraellen, author, editions, entrance, language-neutral, book, demotopia, individually, languages, multilingual
-- candidates: 2.0, ashraellen, author, editions, samizdat, book, demotopia, entrance, individually, language-neutral, languages, multilingual, numbered, passport, permanent, signed, structure
+- suggested keyword seed: samizdat, 2.0, ashraellen, author, book, editions, language, passports, also, author-issued, automatically, browser, entry
+- candidates: 2.0, ashraellen, book, language, samizdat, editions, passports, also, author, author-issued, automatically, browser, can, choose, each, entrance, entry, history, manually, object, opens, physical, public, saved
 
 Excerpt:
 
-> Ashraellen / author editions samizdat 2.0 A permanent multilingual structure for individually numbered and signed author editions. Demotopia Book passport / languages →
+> Ashraellen samizdat 2.0 Author-issued physical editions, public book passports and the history of each book as a transmitted object. This entrance opens automatically using your saved language or browser language. You can also choose manually.
 
 ### uk/books/error-404-god-not-found/index.html
 

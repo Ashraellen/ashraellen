@@ -1,40 +1,40 @@
 # Page Metadata Audit
 
-Generated: 2026-07-28T15:50:34.372Z
+Generated: 2026-07-28T16:19:04.969Z
 
-Pages checked: 588
-Pages with issues: 81
-Total issues: 165
-Pages with review notes: 582
-Total review notes: 2116
+Pages checked: 590
+Pages with issues: 84
+Total issues: 194
+Pages with review notes: 580
+Total review notes: 2108
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
 | DUPLICATE_KEYWORDS | 56 |
+| DUPLICATE_TITLE | 36 |
 | DUPLICATE_OG_TITLE | 34 |
-| DUPLICATE_TITLE | 34 |
-| MISSING_KEYWORDS | 15 |
-| MISSING_TWITTER_IMAGE | 15 |
-| MISSING_OG_DESCRIPTION | 3 |
+| MISSING_KEYWORDS | 19 |
+| MISSING_TWITTER_IMAGE | 19 |
+| MISSING_OG_DESCRIPTION | 6 |
+| MISSING_JSON_LD | 5 |
+| MISSING_OG_IMAGE | 5 |
+| MISSING_TWITTER_CARD | 5 |
+| MISSING_OG_TITLE | 4 |
+| DESCRIPTION_TOO_SHORT | 2 |
 | MISSING_DESCRIPTION | 2 |
-| DESCRIPTION_TOO_SHORT | 1 |
 | MISSING_CANONICAL | 1 |
-| MISSING_JSON_LD | 1 |
-| MISSING_OG_IMAGE | 1 |
-| MISSING_OG_TITLE | 1 |
-| MISSING_TWITTER_CARD | 1 |
 
 
 ## Review note summary
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 582 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 568 |
-| FALLBACK_OG_IMAGE_USED | 490 |
-| FALLBACK_TWITTER_IMAGE_USED | 476 |
+| DUPLICATE_OG_IMAGE_REVIEW | 580 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 566 |
+| FALLBACK_OG_IMAGE_USED | 488 |
+| FALLBACK_TWITTER_IMAGE_USED | 474 |
 
 
 ## Pages with issues
@@ -343,6 +343,39 @@ Total review notes: 2116
 - twitter:image: https://www.ashraellen.com/assets/covers/song-cover-en.webp
 
 - DUPLICATE_KEYWORDS: shared by 3 pages
+
+### en/books/samizdat/demotopia/index.html
+
+- title: Demotopia — Book Passport — samizdat 2.0
+- description length: 99
+- canonical: https://www.ashraellen.com/en/books/samizdat/demotopia/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### en/books/samizdat/index.html
+
+- title: samizdat 2.0 — Ashraellen
+- description length: 86
+- canonical: https://www.ashraellen.com/en/books/samizdat/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_TITLE: shared by 2 pages
 
 ### en/books/the-book-of-whinesis/index.html
 
@@ -812,15 +845,38 @@ Total review notes: 2116
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
 
+### samizdat/demotopia/index.html
+
+- title: Demotopia — samizdat 2.0
+- description length: 79
+- canonical: https://www.ashraellen.com/samizdat/demotopia/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 79
+
 ### samizdat/index.html
 
 - title: samizdat 2.0 — Ashraellen
-- description length: 76
+- description length: 77
 - canonical: https://www.ashraellen.com/samizdat/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- og:image: _missing_
+- twitter:image: _missing_
 
-- DESCRIPTION_TOO_SHORT: 76
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 77
+- DUPLICATE_TITLE: shared by 2 pages
 
 ### uk/books/error-404-god-not-found/index.html
 
@@ -943,7 +999,7 @@ Total review notes: 2116
 - twitter:image: _missing_
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
 
 ### be/books/error-404-god-not-found/why-me/index.html
 
@@ -952,7 +1008,7 @@ Total review notes: 2116
 - twitter:image: _missing_
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
 
 ### be/books/index.html
 
@@ -1025,8 +1081,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/books/the-book-of-whinesis/index.html
 
@@ -1054,8 +1110,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/index.html
 
@@ -1083,8 +1139,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/professional/index.html
 
@@ -1094,8 +1150,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/index.html
 
@@ -1105,8 +1161,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/posts/essay/cycles/cycle-0001.html
 
@@ -1116,8 +1172,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/posts/essay/cycles/index.html
 
@@ -1127,8 +1183,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/posts/essay/index.html
 
@@ -1138,8 +1194,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/posts/formula/index.html
 
@@ -1149,8 +1205,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/posts/formula/lines/index.html
 
@@ -1160,8 +1216,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/posts/formula/lines/line-0001.html
 
@@ -1171,8 +1227,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/posts/formula/lines/line-0002.html
 
@@ -1182,8 +1238,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/posts/fragment/index.html
 
@@ -1193,8 +1249,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/posts/index.html
 
@@ -1204,8 +1260,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/posts/sources/index.html
 
@@ -1215,8 +1271,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/talks/index.html
 
@@ -1226,8 +1282,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/arcs/0001-cheerfulness.html
 
@@ -1237,8 +1293,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/arcs/0002-still-the-same.html
 
@@ -1248,8 +1304,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/arcs/0003-let-go.html
 
@@ -1259,8 +1315,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/arcs/0004-mortality-awakens.html
 
@@ -1270,8 +1326,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/arcs/0005-on-your-own.html
 
@@ -1281,8 +1337,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/arcs/0006-insight.html
 
@@ -1292,8 +1348,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/arcs/0007-empty-chair.html
 
@@ -1303,8 +1359,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/arcs/0008-generalization.html
 
@@ -1314,8 +1370,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/arcs/0009-where-life-stopped.html
 
@@ -1325,8 +1381,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/arcs/0010-dirty-cup.html
 
@@ -1336,8 +1392,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/arcs/0011-do-not-regret.html
 
@@ -1347,8 +1403,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/arcs/0012-close-the-book.html
 
@@ -1358,8 +1414,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/arcs/0013-problem-loses-crown.html
 
@@ -1369,8 +1425,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/arcs/0014-end-of-extra-war.html
 
@@ -1380,8 +1436,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
 
@@ -1391,8 +1447,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/arcs/0016-one-fact.html
 
@@ -1402,8 +1458,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/arcs/0017-witness-does-not-interfere.html
 
@@ -1413,8 +1469,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/arcs/0018-image-cannot-be-happy.html
 
@@ -1424,8 +1480,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/arcs/0019-do-not-bomb.html
 
@@ -1435,8 +1491,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/arcs/0020-people-and-mass.html
 
@@ -1446,8 +1502,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/arcs/0021-mating-games.html
 
@@ -1457,8 +1513,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/arcs/0022-spirituality-is-not-forced.html
 
@@ -1468,8 +1524,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/arcs/0023-price-of-transition.html
 
@@ -1479,8 +1535,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
 
@@ -1490,8 +1546,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/index-0001.html
 
@@ -1501,8 +1557,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/index-0002.html
 
@@ -1512,8 +1568,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/public/thoughts/index.html
 
@@ -1523,8 +1579,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/research/archive/index.html
 
@@ -1534,8 +1590,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/research/index.html
 
@@ -1545,8 +1601,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/research/method/index.html
 
@@ -1556,8 +1612,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/research/notes/index.html
 
@@ -1567,8 +1623,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/research/position/index.html
 
@@ -1578,8 +1634,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/research/projects/index.html
 
@@ -1589,8 +1645,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### be/research/sources/index.html
 
@@ -1600,8 +1656,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/books/error-404-god-not-found/index.html
 
@@ -1610,7 +1666,7 @@ Total review notes: 2116
 - twitter:image: _missing_
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
 
 ### de/books/error-404-god-not-found/why-me/index.html
 
@@ -1619,7 +1675,7 @@ Total review notes: 2116
 - twitter:image: _missing_
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
 
 ### de/books/index.html
 
@@ -1692,8 +1748,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/books/the-book-of-whinesis/index.html
 
@@ -1721,8 +1777,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/index.html
 
@@ -1750,8 +1806,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/professional/index.html
 
@@ -1761,8 +1817,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/index.html
 
@@ -1772,8 +1828,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/posts/essay/cycles/cycle-0001.html
 
@@ -1783,8 +1839,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/posts/essay/cycles/index.html
 
@@ -1794,8 +1850,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/posts/essay/index.html
 
@@ -1805,8 +1861,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/posts/formula/index.html
 
@@ -1816,8 +1872,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/posts/formula/lines/index.html
 
@@ -1827,8 +1883,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/posts/formula/lines/line-0001.html
 
@@ -1838,8 +1894,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/posts/formula/lines/line-0002.html
 
@@ -1849,8 +1905,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/posts/fragment/index.html
 
@@ -1860,8 +1916,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/posts/index.html
 
@@ -1871,8 +1927,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/posts/sources/index.html
 
@@ -1882,8 +1938,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/talks/index.html
 
@@ -1893,8 +1949,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/arcs/0001-cheerfulness.html
 
@@ -1904,8 +1960,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/arcs/0002-still-the-same.html
 
@@ -1915,8 +1971,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/arcs/0003-let-go.html
 
@@ -1926,8 +1982,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/arcs/0004-mortality-awakens.html
 
@@ -1937,8 +1993,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/arcs/0005-on-your-own.html
 
@@ -1948,8 +2004,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/arcs/0006-insight.html
 
@@ -1959,8 +2015,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/arcs/0007-empty-chair.html
 
@@ -1970,8 +2026,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/arcs/0008-generalization.html
 
@@ -1981,8 +2037,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/arcs/0009-where-life-stopped.html
 
@@ -1992,8 +2048,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/arcs/0010-dirty-cup.html
 
@@ -2003,8 +2059,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/arcs/0011-do-not-regret.html
 
@@ -2014,8 +2070,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/arcs/0012-close-the-book.html
 
@@ -2025,8 +2081,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/arcs/0013-problem-loses-crown.html
 
@@ -2036,8 +2092,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/arcs/0014-end-of-extra-war.html
 
@@ -2047,8 +2103,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
 
@@ -2058,8 +2114,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/arcs/0016-one-fact.html
 
@@ -2069,8 +2125,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/arcs/0017-witness-does-not-interfere.html
 
@@ -2080,8 +2136,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/arcs/0018-image-cannot-be-happy.html
 
@@ -2091,8 +2147,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/arcs/0019-do-not-bomb.html
 
@@ -2102,8 +2158,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/arcs/0020-people-and-mass.html
 
@@ -2113,8 +2169,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/arcs/0021-mating-games.html
 
@@ -2124,8 +2180,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/arcs/0022-spirituality-is-not-forced.html
 
@@ -2135,8 +2191,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/arcs/0023-price-of-transition.html
 
@@ -2146,8 +2202,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
 
@@ -2157,8 +2213,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/index-0001.html
 
@@ -2168,8 +2224,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/index-0002.html
 
@@ -2179,8 +2235,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/public/thoughts/index.html
 
@@ -2190,8 +2246,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/research/archive/index.html
 
@@ -2201,8 +2257,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/research/index.html
 
@@ -2212,8 +2268,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/research/method/index.html
 
@@ -2223,8 +2279,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/research/notes/index.html
 
@@ -2234,8 +2290,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/research/position/index.html
 
@@ -2245,8 +2301,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/research/projects/index.html
 
@@ -2256,8 +2312,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### de/research/sources/index.html
 
@@ -2267,8 +2323,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/books/error-404-god-not-found/index.html
 
@@ -2278,8 +2334,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/books/error-404-god-not-found/why-me/index.html
 
@@ -2288,7 +2344,7 @@ Total review notes: 2116
 - twitter:image: _missing_
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
 
 ### en/books/index.html
 
@@ -2343,8 +2399,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/books/the-book-of-whinesis/index.html
 
@@ -2372,8 +2428,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/index.html
 
@@ -2401,8 +2457,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/professional/index.html
 
@@ -2412,8 +2468,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/index.html
 
@@ -2423,8 +2479,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/posts/essay/cycles/cycle-0001.html
 
@@ -2434,8 +2490,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/posts/essay/cycles/index.html
 
@@ -2445,8 +2501,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/posts/essay/index.html
 
@@ -2456,8 +2512,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/posts/formula/index.html
 
@@ -2467,8 +2523,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/posts/formula/lines/index.html
 
@@ -2478,8 +2534,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/posts/formula/lines/line-0001.html
 
@@ -2489,8 +2545,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/posts/formula/lines/line-0002.html
 
@@ -2500,8 +2556,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/posts/fragment/index.html
 
@@ -2511,8 +2567,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/posts/index.html
 
@@ -2522,8 +2578,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/posts/sources/index.html
 
@@ -2533,8 +2589,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/talks/index.html
 
@@ -2544,8 +2600,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/arcs/0001-cheerfulness.html
 
@@ -2555,8 +2611,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/arcs/0002-still-the-same.html
 
@@ -2566,8 +2622,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/arcs/0003-let-go.html
 
@@ -2577,8 +2633,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/arcs/0004-mortality-awakens.html
 
@@ -2588,8 +2644,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/arcs/0005-on-your-own.html
 
@@ -2599,8 +2655,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/arcs/0006-insight.html
 
@@ -2610,8 +2666,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/arcs/0007-empty-chair.html
 
@@ -2621,8 +2677,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/arcs/0008-generalization.html
 
@@ -2632,8 +2688,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/arcs/0009-where-life-stopped.html
 
@@ -2643,8 +2699,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/arcs/0010-dirty-cup.html
 
@@ -2654,8 +2710,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/arcs/0011-do-not-regret.html
 
@@ -2665,8 +2721,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/arcs/0012-close-the-book.html
 
@@ -2676,8 +2732,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/arcs/0013-problem-loses-crown.html
 
@@ -2687,8 +2743,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/arcs/0014-end-of-extra-war.html
 
@@ -2698,8 +2754,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
 
@@ -2709,8 +2765,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/arcs/0016-one-fact.html
 
@@ -2720,8 +2776,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/arcs/0017-witness-does-not-interfere.html
 
@@ -2731,8 +2787,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/arcs/0018-image-cannot-be-happy.html
 
@@ -2742,8 +2798,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/arcs/0019-do-not-bomb.html
 
@@ -2753,8 +2809,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/arcs/0020-people-and-mass.html
 
@@ -2764,8 +2820,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/arcs/0021-mating-games.html
 
@@ -2775,8 +2831,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/arcs/0022-spirituality-is-not-forced.html
 
@@ -2786,8 +2842,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/arcs/0023-price-of-transition.html
 
@@ -2797,8 +2853,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
 
@@ -2808,8 +2864,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/index-0001.html
 
@@ -2819,8 +2875,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/index-0002.html
 
@@ -2830,8 +2886,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/public/thoughts/index.html
 
@@ -2841,8 +2897,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/research/archive/index.html
 
@@ -2852,8 +2908,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/research/index.html
 
@@ -2863,8 +2919,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/research/method/index.html
 
@@ -2874,8 +2930,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/research/notes/index.html
 
@@ -2885,8 +2941,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/research/position/index.html
 
@@ -2896,8 +2952,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/research/projects/index.html
 
@@ -2907,8 +2963,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### en/research/sources/index.html
 
@@ -2918,8 +2974,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/books/error-404-god-not-found/index.html
 
@@ -2928,7 +2984,7 @@ Total review notes: 2116
 - twitter:image: _missing_
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
 
 ### es/books/error-404-god-not-found/why-me/index.html
 
@@ -2937,7 +2993,7 @@ Total review notes: 2116
 - twitter:image: _missing_
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
 
 ### es/books/index.html
 
@@ -3010,8 +3066,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/books/the-book-of-whinesis/index.html
 
@@ -3039,8 +3095,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/index.html
 
@@ -3068,8 +3124,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/professional/index.html
 
@@ -3079,8 +3135,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/index.html
 
@@ -3090,8 +3146,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/posts/essay/cycles/cycle-0001.html
 
@@ -3101,8 +3157,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/posts/essay/cycles/index.html
 
@@ -3112,8 +3168,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/posts/essay/index.html
 
@@ -3123,8 +3179,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/posts/formula/index.html
 
@@ -3134,8 +3190,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/posts/formula/lines/index.html
 
@@ -3145,8 +3201,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/posts/formula/lines/line-0001.html
 
@@ -3156,8 +3212,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/posts/formula/lines/line-0002.html
 
@@ -3167,8 +3223,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/posts/fragment/index.html
 
@@ -3178,8 +3234,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/posts/index.html
 
@@ -3189,8 +3245,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/posts/sources/index.html
 
@@ -3200,8 +3256,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/talks/index.html
 
@@ -3211,8 +3267,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/arcs/0001-cheerfulness.html
 
@@ -3222,8 +3278,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/arcs/0002-still-the-same.html
 
@@ -3233,8 +3289,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/arcs/0003-let-go.html
 
@@ -3244,8 +3300,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/arcs/0004-mortality-awakens.html
 
@@ -3255,8 +3311,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/arcs/0005-on-your-own.html
 
@@ -3266,8 +3322,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/arcs/0006-insight.html
 
@@ -3277,8 +3333,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/arcs/0007-empty-chair.html
 
@@ -3288,8 +3344,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/arcs/0008-generalization.html
 
@@ -3299,8 +3355,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/arcs/0009-where-life-stopped.html
 
@@ -3310,8 +3366,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/arcs/0010-dirty-cup.html
 
@@ -3321,8 +3377,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/arcs/0011-do-not-regret.html
 
@@ -3332,8 +3388,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/arcs/0012-close-the-book.html
 
@@ -3343,8 +3399,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/arcs/0013-problem-loses-crown.html
 
@@ -3354,8 +3410,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/arcs/0014-end-of-extra-war.html
 
@@ -3365,8 +3421,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
 
@@ -3376,8 +3432,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/arcs/0016-one-fact.html
 
@@ -3387,8 +3443,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/arcs/0017-witness-does-not-interfere.html
 
@@ -3398,8 +3454,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/arcs/0018-image-cannot-be-happy.html
 
@@ -3409,8 +3465,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/arcs/0019-do-not-bomb.html
 
@@ -3420,8 +3476,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/arcs/0020-people-and-mass.html
 
@@ -3431,8 +3487,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/arcs/0021-mating-games.html
 
@@ -3442,8 +3498,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/arcs/0022-spirituality-is-not-forced.html
 
@@ -3453,8 +3509,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/arcs/0023-price-of-transition.html
 
@@ -3464,8 +3520,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
 
@@ -3475,8 +3531,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/index-0001.html
 
@@ -3486,8 +3542,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/index-0002.html
 
@@ -3497,8 +3553,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/public/thoughts/index.html
 
@@ -3508,8 +3564,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/research/archive/index.html
 
@@ -3519,8 +3575,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/research/index.html
 
@@ -3530,8 +3586,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/research/method/index.html
 
@@ -3541,8 +3597,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/research/notes/index.html
 
@@ -3552,8 +3608,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/research/position/index.html
 
@@ -3563,8 +3619,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/research/projects/index.html
 
@@ -3574,8 +3630,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### es/research/sources/index.html
 
@@ -3585,8 +3641,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fi/kone/index.html
 
@@ -3596,8 +3652,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### flow/index.html
 
@@ -3607,8 +3663,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/books/error-404-god-not-found/index.html
 
@@ -3617,7 +3673,7 @@ Total review notes: 2116
 - twitter:image: _missing_
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
 
 ### fr/books/error-404-god-not-found/why-me/index.html
 
@@ -3626,7 +3682,7 @@ Total review notes: 2116
 - twitter:image: _missing_
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
 
 ### fr/books/index.html
 
@@ -3699,8 +3755,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/books/the-book-of-whinesis/index.html
 
@@ -3728,8 +3784,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/index.html
 
@@ -3757,8 +3813,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/professional/index.html
 
@@ -3768,8 +3824,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/index.html
 
@@ -3779,8 +3835,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/posts/essay/cycles/cycle-0001.html
 
@@ -3790,8 +3846,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/posts/essay/cycles/index.html
 
@@ -3801,8 +3857,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/posts/essay/index.html
 
@@ -3812,8 +3868,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/posts/formula/index.html
 
@@ -3823,8 +3879,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/posts/formula/lines/index.html
 
@@ -3834,8 +3890,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/posts/formula/lines/line-0001.html
 
@@ -3845,8 +3901,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/posts/formula/lines/line-0002.html
 
@@ -3856,8 +3912,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/posts/fragment/index.html
 
@@ -3867,8 +3923,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/posts/index.html
 
@@ -3878,8 +3934,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/posts/sources/index.html
 
@@ -3889,8 +3945,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/talks/index.html
 
@@ -3900,8 +3956,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/arcs/0001-cheerfulness.html
 
@@ -3911,8 +3967,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/arcs/0002-still-the-same.html
 
@@ -3922,8 +3978,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/arcs/0003-let-go.html
 
@@ -3933,8 +3989,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/arcs/0004-mortality-awakens.html
 
@@ -3944,8 +4000,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/arcs/0005-on-your-own.html
 
@@ -3955,8 +4011,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/arcs/0006-insight.html
 
@@ -3966,8 +4022,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/arcs/0007-empty-chair.html
 
@@ -3977,8 +4033,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/arcs/0008-generalization.html
 
@@ -3988,8 +4044,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/arcs/0009-where-life-stopped.html
 
@@ -3999,8 +4055,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/arcs/0010-dirty-cup.html
 
@@ -4010,8 +4066,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/arcs/0011-do-not-regret.html
 
@@ -4021,8 +4077,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/arcs/0012-close-the-book.html
 
@@ -4032,8 +4088,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/arcs/0013-problem-loses-crown.html
 
@@ -4043,8 +4099,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/arcs/0014-end-of-extra-war.html
 
@@ -4054,8 +4110,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
 
@@ -4065,8 +4121,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/arcs/0016-one-fact.html
 
@@ -4076,8 +4132,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/arcs/0017-witness-does-not-interfere.html
 
@@ -4087,8 +4143,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/arcs/0018-image-cannot-be-happy.html
 
@@ -4098,8 +4154,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/arcs/0019-do-not-bomb.html
 
@@ -4109,8 +4165,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/arcs/0020-people-and-mass.html
 
@@ -4120,8 +4176,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/arcs/0021-mating-games.html
 
@@ -4131,8 +4187,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/arcs/0022-spirituality-is-not-forced.html
 
@@ -4142,8 +4198,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/arcs/0023-price-of-transition.html
 
@@ -4153,8 +4209,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
 
@@ -4164,8 +4220,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/index-0001.html
 
@@ -4175,8 +4231,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/index-0002.html
 
@@ -4186,8 +4242,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/public/thoughts/index.html
 
@@ -4197,8 +4253,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/research/archive/index.html
 
@@ -4208,8 +4264,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/research/index.html
 
@@ -4219,8 +4275,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/research/method/index.html
 
@@ -4230,8 +4286,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/research/notes/index.html
 
@@ -4241,8 +4297,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/research/position/index.html
 
@@ -4252,8 +4308,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/research/projects/index.html
 
@@ -4263,8 +4319,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### fr/research/sources/index.html
 
@@ -4274,8 +4330,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### index.html
 
@@ -4285,8 +4341,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### monolith/index.html
 
@@ -4296,8 +4352,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/books/error-404-god-not-found/index.html
 
@@ -4307,8 +4363,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/books/error-404-god-not-found/why-me/index.html
 
@@ -4317,7 +4373,7 @@ Total review notes: 2116
 - twitter:image: _missing_
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
 
 ### pl/books/index.html
 
@@ -4372,8 +4428,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/books/samizdat/index.html
 
@@ -4383,8 +4439,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/books/seccus/index.html
 
@@ -4394,8 +4450,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/books/the-book-of-whinesis/index.html
 
@@ -4423,8 +4479,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/index.html
 
@@ -4452,8 +4508,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/professional/index.html
 
@@ -4463,8 +4519,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/index.html
 
@@ -4474,8 +4530,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/posts/essay/cycles/cycle-0001.html
 
@@ -4485,8 +4541,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/posts/essay/cycles/index.html
 
@@ -4496,8 +4552,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/posts/essay/index.html
 
@@ -4507,8 +4563,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/posts/formula/index.html
 
@@ -4518,8 +4574,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/posts/formula/lines/index.html
 
@@ -4529,8 +4585,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/posts/formula/lines/line-0001.html
 
@@ -4540,8 +4596,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/posts/formula/lines/line-0002.html
 
@@ -4551,8 +4607,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/posts/fragment/index.html
 
@@ -4562,8 +4618,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/posts/index.html
 
@@ -4573,8 +4629,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/posts/sources/index.html
 
@@ -4584,8 +4640,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/talks/index.html
 
@@ -4595,8 +4651,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/arcs/0001-cheerfulness.html
 
@@ -4606,8 +4662,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/arcs/0002-still-the-same.html
 
@@ -4617,8 +4673,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/arcs/0003-let-go.html
 
@@ -4628,8 +4684,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/arcs/0004-mortality-awakens.html
 
@@ -4639,8 +4695,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/arcs/0005-on-your-own.html
 
@@ -4650,8 +4706,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/arcs/0006-insight.html
 
@@ -4661,8 +4717,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/arcs/0007-empty-chair.html
 
@@ -4672,8 +4728,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/arcs/0008-generalization.html
 
@@ -4683,8 +4739,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/arcs/0009-where-life-stopped.html
 
@@ -4694,8 +4750,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/arcs/0010-dirty-cup.html
 
@@ -4705,8 +4761,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/arcs/0011-do-not-regret.html
 
@@ -4716,8 +4772,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/arcs/0012-close-the-book.html
 
@@ -4727,8 +4783,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/arcs/0013-problem-loses-crown.html
 
@@ -4738,8 +4794,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/arcs/0014-end-of-extra-war.html
 
@@ -4749,8 +4805,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
 
@@ -4760,8 +4816,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/arcs/0016-one-fact.html
 
@@ -4771,8 +4827,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/arcs/0017-witness-does-not-interfere.html
 
@@ -4782,8 +4838,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/arcs/0018-image-cannot-be-happy.html
 
@@ -4793,8 +4849,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/arcs/0019-do-not-bomb.html
 
@@ -4804,8 +4860,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/arcs/0020-people-and-mass.html
 
@@ -4815,8 +4871,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/arcs/0021-mating-games.html
 
@@ -4826,8 +4882,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/arcs/0022-spirituality-is-not-forced.html
 
@@ -4837,8 +4893,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/arcs/0023-price-of-transition.html
 
@@ -4848,8 +4904,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
 
@@ -4859,8 +4915,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/index-0001.html
 
@@ -4870,8 +4926,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/index-0002.html
 
@@ -4881,8 +4937,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/public/thoughts/index.html
 
@@ -4892,8 +4948,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/research/archive/index.html
 
@@ -4903,8 +4959,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/research/index.html
 
@@ -4914,8 +4970,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/research/method/index.html
 
@@ -4925,8 +4981,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/research/notes/index.html
 
@@ -4936,8 +4992,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/research/position/index.html
 
@@ -4947,8 +5003,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/research/projects/index.html
 
@@ -4958,8 +5014,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pl/research/sources/index.html
 
@@ -4969,8 +5025,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### privacy.html
 
@@ -4980,8 +5036,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/books/error-404-god-not-found/index.html
 
@@ -4990,7 +5046,7 @@ Total review notes: 2116
 - twitter:image: _missing_
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
 
 ### pt/books/error-404-god-not-found/why-me/index.html
 
@@ -4999,7 +5055,7 @@ Total review notes: 2116
 - twitter:image: _missing_
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
 
 ### pt/books/index.html
 
@@ -5072,8 +5128,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/books/the-book-of-whinesis/index.html
 
@@ -5101,8 +5157,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/index.html
 
@@ -5130,8 +5186,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/professional/index.html
 
@@ -5141,8 +5197,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/index.html
 
@@ -5152,8 +5208,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/posts/essay/cycles/cycle-0001.html
 
@@ -5163,8 +5219,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/posts/essay/cycles/index.html
 
@@ -5174,8 +5230,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/posts/essay/index.html
 
@@ -5185,8 +5241,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/posts/formula/index.html
 
@@ -5196,8 +5252,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/posts/formula/lines/index.html
 
@@ -5207,8 +5263,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/posts/formula/lines/line-0001.html
 
@@ -5218,8 +5274,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/posts/formula/lines/line-0002.html
 
@@ -5229,8 +5285,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/posts/fragment/index.html
 
@@ -5240,8 +5296,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/posts/index.html
 
@@ -5251,8 +5307,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/posts/sources/index.html
 
@@ -5262,8 +5318,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/talks/index.html
 
@@ -5273,8 +5329,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/arcs/0001-cheerfulness.html
 
@@ -5284,8 +5340,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/arcs/0002-still-the-same.html
 
@@ -5295,8 +5351,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/arcs/0003-let-go.html
 
@@ -5306,8 +5362,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/arcs/0004-mortality-awakens.html
 
@@ -5317,8 +5373,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/arcs/0005-on-your-own.html
 
@@ -5328,8 +5384,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/arcs/0006-insight.html
 
@@ -5339,8 +5395,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/arcs/0007-empty-chair.html
 
@@ -5350,8 +5406,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/arcs/0008-generalization.html
 
@@ -5361,8 +5417,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/arcs/0009-where-life-stopped.html
 
@@ -5372,8 +5428,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/arcs/0010-dirty-cup.html
 
@@ -5383,8 +5439,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/arcs/0011-do-not-regret.html
 
@@ -5394,8 +5450,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/arcs/0012-close-the-book.html
 
@@ -5405,8 +5461,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/arcs/0013-problem-loses-crown.html
 
@@ -5416,8 +5472,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/arcs/0014-end-of-extra-war.html
 
@@ -5427,8 +5483,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
 
@@ -5438,8 +5494,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/arcs/0016-one-fact.html
 
@@ -5449,8 +5505,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/arcs/0017-witness-does-not-interfere.html
 
@@ -5460,8 +5516,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/arcs/0018-image-cannot-be-happy.html
 
@@ -5471,8 +5527,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/arcs/0019-do-not-bomb.html
 
@@ -5482,8 +5538,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/arcs/0020-people-and-mass.html
 
@@ -5493,8 +5549,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/arcs/0021-mating-games.html
 
@@ -5504,8 +5560,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/arcs/0022-spirituality-is-not-forced.html
 
@@ -5515,8 +5571,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/arcs/0023-price-of-transition.html
 
@@ -5526,8 +5582,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
 
@@ -5537,8 +5593,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/index-0001.html
 
@@ -5548,8 +5604,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/index-0002.html
 
@@ -5559,8 +5615,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/public/thoughts/index.html
 
@@ -5570,8 +5626,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/research/archive/index.html
 
@@ -5581,8 +5637,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/research/index.html
 
@@ -5592,8 +5648,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/research/method/index.html
 
@@ -5603,8 +5659,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/research/notes/index.html
 
@@ -5614,8 +5670,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/research/position/index.html
 
@@ -5625,8 +5681,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/research/projects/index.html
 
@@ -5636,8 +5692,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### pt/research/sources/index.html
 
@@ -5647,8 +5703,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/books/error-404-god-not-found/index.html
 
@@ -5658,8 +5714,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/books/error-404-god-not-found/why-me/index.html
 
@@ -5669,8 +5725,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/books/index.html
 
@@ -5716,8 +5772,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/books/radiance/sampo/index.html
 
@@ -5727,8 +5783,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/books/radiance/song/index.html
 
@@ -5738,8 +5794,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/books/samizdat/demotopia/index.html
 
@@ -5749,8 +5805,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/books/samizdat/index.html
 
@@ -5760,8 +5816,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/books/seccus/index.html
 
@@ -5771,8 +5827,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/books/the-book-of-whinesis/index.html
 
@@ -5800,8 +5856,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/index.html
 
@@ -5829,8 +5885,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/professional/index.html
 
@@ -5840,8 +5896,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/index.html
 
@@ -5851,8 +5907,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/posts/essay/cycles/cycle-0001.html
 
@@ -5862,8 +5918,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/posts/essay/cycles/index.html
 
@@ -5873,8 +5929,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/posts/essay/index.html
 
@@ -5884,8 +5940,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/posts/formula/index.html
 
@@ -5895,8 +5951,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/posts/formula/lines/index.html
 
@@ -5906,8 +5962,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/posts/formula/lines/line-0001.html
 
@@ -5917,8 +5973,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/posts/formula/lines/line-0002.html
 
@@ -5928,8 +5984,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/posts/fragment/index.html
 
@@ -5939,8 +5995,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/posts/index.html
 
@@ -5950,8 +6006,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/posts/sources/index.html
 
@@ -5961,8 +6017,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/talks/index.html
 
@@ -5972,8 +6028,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/01-cheerfulness/index.html
 
@@ -5983,8 +6039,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/02-still-the-same/index.html
 
@@ -5994,8 +6050,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/03-let-go/index.html
 
@@ -6005,8 +6061,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/04-mortality-awakens/index.html
 
@@ -6016,8 +6072,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/05-on-your-own/index.html
 
@@ -6027,8 +6083,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/06-insight/index.html
 
@@ -6038,8 +6094,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/arcs/0001-cheerfulness.html
 
@@ -6049,8 +6105,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/arcs/0002-still-the-same.html
 
@@ -6060,8 +6116,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/arcs/0003-let-go.html
 
@@ -6071,8 +6127,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/arcs/0004-mortality-awakens.html
 
@@ -6082,8 +6138,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/arcs/0005-on-your-own.html
 
@@ -6093,8 +6149,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/arcs/0006-insight.html
 
@@ -6104,8 +6160,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/arcs/0007-empty-chair.html
 
@@ -6115,8 +6171,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/arcs/0008-generalization.html
 
@@ -6126,8 +6182,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/arcs/0009-where-life-stopped.html
 
@@ -6137,8 +6193,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/arcs/0010-dirty-cup.html
 
@@ -6148,8 +6204,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/arcs/0011-do-not-regret.html
 
@@ -6159,8 +6215,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/arcs/0012-close-the-book.html
 
@@ -6170,8 +6226,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/arcs/0013-problem-loses-crown.html
 
@@ -6181,8 +6237,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/arcs/0014-end-of-extra-war.html
 
@@ -6192,8 +6248,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
 
@@ -6203,8 +6259,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/arcs/0016-one-fact.html
 
@@ -6214,8 +6270,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/arcs/0017-witness-does-not-interfere.html
 
@@ -6225,8 +6281,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/arcs/0018-image-cannot-be-happy.html
 
@@ -6236,8 +6292,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/arcs/0019-do-not-bomb.html
 
@@ -6247,8 +6303,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/arcs/0020-people-and-mass.html
 
@@ -6258,8 +6314,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/arcs/0021-mating-games.html
 
@@ -6269,8 +6325,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/arcs/0022-spirituality-is-not-forced.html
 
@@ -6280,8 +6336,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/arcs/0023-price-of-transition.html
 
@@ -6291,8 +6347,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
 
@@ -6302,8 +6358,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/arcs/arc-0001.html
 
@@ -6313,8 +6369,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/arcs/index.html
 
@@ -6324,8 +6380,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/index-0001.html
 
@@ -6335,8 +6391,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/index-0002.html
 
@@ -6346,8 +6402,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/public/thoughts/index.html
 
@@ -6357,8 +6413,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/research/archive/index.html
 
@@ -6368,8 +6424,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/research/index.html
 
@@ -6379,8 +6435,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/research/method/index.html
 
@@ -6390,8 +6446,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/research/notes/index.html
 
@@ -6401,8 +6457,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/research/position/index.html
 
@@ -6412,8 +6468,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/research/projects/index.html
 
@@ -6423,8 +6479,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### ru/research/sources/index.html
 
@@ -6434,30 +6490,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
-
-### samizdat/demotopia/index.html
-
-- title: Demotopia — samizdat 2.0 — language selection
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
-- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
-
-### samizdat/index.html
-
-- title: samizdat 2.0 — Ashraellen
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
-- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/books/error-404-god-not-found/index.html
 
@@ -6466,7 +6500,7 @@ Total review notes: 2116
 - twitter:image: _missing_
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
 
 ### uk/books/error-404-god-not-found/why-me/index.html
 
@@ -6475,7 +6509,7 @@ Total review notes: 2116
 - twitter:image: _missing_
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
 
 ### uk/books/index.html
 
@@ -6548,8 +6582,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/books/the-book-of-whinesis/index.html
 
@@ -6577,8 +6611,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/index.html
 
@@ -6606,8 +6640,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/professional/index.html
 
@@ -6617,8 +6651,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/index.html
 
@@ -6628,8 +6662,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/posts/essay/cycles/cycle-0001.html
 
@@ -6639,8 +6673,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/posts/essay/cycles/index.html
 
@@ -6650,8 +6684,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/posts/essay/index.html
 
@@ -6661,8 +6695,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/posts/formula/index.html
 
@@ -6672,8 +6706,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/posts/formula/lines/index.html
 
@@ -6683,8 +6717,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/posts/formula/lines/line-0001.html
 
@@ -6694,8 +6728,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/posts/formula/lines/line-0002.html
 
@@ -6705,8 +6739,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/posts/fragment/index.html
 
@@ -6716,8 +6750,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/posts/index.html
 
@@ -6727,8 +6761,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/posts/sources/index.html
 
@@ -6738,8 +6772,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/talks/index.html
 
@@ -6749,8 +6783,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/arcs/0001-cheerfulness.html
 
@@ -6760,8 +6794,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/arcs/0002-still-the-same.html
 
@@ -6771,8 +6805,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/arcs/0003-let-go.html
 
@@ -6782,8 +6816,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/arcs/0004-mortality-awakens.html
 
@@ -6793,8 +6827,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/arcs/0005-on-your-own.html
 
@@ -6804,8 +6838,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/arcs/0006-insight.html
 
@@ -6815,8 +6849,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/arcs/0007-empty-chair.html
 
@@ -6826,8 +6860,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/arcs/0008-generalization.html
 
@@ -6837,8 +6871,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/arcs/0009-where-life-stopped.html
 
@@ -6848,8 +6882,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/arcs/0010-dirty-cup.html
 
@@ -6859,8 +6893,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/arcs/0011-do-not-regret.html
 
@@ -6870,8 +6904,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/arcs/0012-close-the-book.html
 
@@ -6881,8 +6915,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/arcs/0013-problem-loses-crown.html
 
@@ -6892,8 +6926,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/arcs/0014-end-of-extra-war.html
 
@@ -6903,8 +6937,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
 
@@ -6914,8 +6948,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/arcs/0016-one-fact.html
 
@@ -6925,8 +6959,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/arcs/0017-witness-does-not-interfere.html
 
@@ -6936,8 +6970,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/arcs/0018-image-cannot-be-happy.html
 
@@ -6947,8 +6981,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/arcs/0019-do-not-bomb.html
 
@@ -6958,8 +6992,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/arcs/0020-people-and-mass.html
 
@@ -6969,8 +7003,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/arcs/0021-mating-games.html
 
@@ -6980,8 +7014,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/arcs/0022-spirituality-is-not-forced.html
 
@@ -6991,8 +7025,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/arcs/0023-price-of-transition.html
 
@@ -7002,8 +7036,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
 
@@ -7013,8 +7047,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/index-0001.html
 
@@ -7024,8 +7058,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/index-0002.html
 
@@ -7035,8 +7069,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/public/thoughts/index.html
 
@@ -7046,8 +7080,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/research/archive/index.html
 
@@ -7057,8 +7091,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/research/index.html
 
@@ -7068,8 +7102,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/research/method/index.html
 
@@ -7079,8 +7113,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/research/notes/index.html
 
@@ -7090,8 +7124,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/research/position/index.html
 
@@ -7101,8 +7135,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/research/projects/index.html
 
@@ -7112,8 +7146,8 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
 
 ### uk/research/sources/index.html
 
@@ -7123,5 +7157,5 @@ Total review notes: 2116
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 490 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 476 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 488 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 474 pages
