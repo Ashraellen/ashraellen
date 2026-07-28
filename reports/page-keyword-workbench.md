@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-28T18:08:29.609Z
+Generated: 2026-07-28T18:09:01.614Z
 Pages: 594
 
 ## Index
@@ -6259,11 +6259,11 @@ Excerpt:
 - H2: O książce | To wydanie | Stały paszport | Poproś o autorski egzemplarz
 - H3: O egzemplarzu
 - suggested keyword seed: demotopia, paszport, samizdat, 2.0, 2026, ashraellen, books, egzemplarz, książki, wydanie, autora, autorski, autorskiego, demotopii, fizyczne, fizycznego, książce, może
-- candidates: 2.0, książki, wydanie, autora, demotopia, nie, paszport, samizdat, egzemplarz, fizyczne, może, 2026, ashraellen, bezpośrednio, demokracji, demotopii, jej, język, miejsce, numer, paszportu, poproś, powieść, pozostaje
+- candidates: 2.0, książki, wydanie, autora, demotopia, nie, paszport, samizdat, egzemplarz, fizyczne, może, 2026, ashraellen, bezpośrednio, demokracji, demokratyczna, demotopii, jej, język, miejsce, numer, paszportu, poproś, powieść
 
 Excerpt:
 
-> Paszport książki / samizdat 2.0 Demotopia Powieść filozoficzna o demokracji, władzy i cichej przemianie wolności w rytuał. Fizyczne wydanie opublikowane przez autora O książce demokracja widziana od środka własnego rytuału Demotopia bada moment, w którym język demokracji pozostaje nienaruszony, a jej znaczenie zaczyna zanikać. Powieść nie opowiada o nagłym upadku wolności, lecz o jej stopniowej przemianie w nawyk, procedurę i przedstawienie. Książka nie należy do żadnej partii i nie proponuje programu politycznego. Zadaje spokojniejsze i trudniejsze pytanie: co dzieje się, gdy ludzie nadal odgrywają demokrację, przestając oczekiwać, że może ona cokolwiek zmienić? To wydanie ukończona forma fizyczna wydana bezpośrednio przez autora Utwór Demotopia — Demokratyczna Utopia Autor Ashraellen Wydanie Autorskie wydanie fizyczne System samizdat 2.0 Miejsce i rok Warszawa, 2026 Język paszportu Pol
+> Paszport książki / samizdat 2.0 Demotopia Demokratyczna Utopia Powieść filozoficzna o demokracji, władzy i cichej przemianie wolności w rytuał. Fizyczne wydanie opublikowane przez autora O książce demokracja widziana od środka własnego rytuału Demotopia bada moment, w którym język demokracji pozostaje nienaruszony, a jej znaczenie zaczyna zanikać. Powieść nie opowiada o nagłym upadku wolności, lecz o jej stopniowej przemianie w nawyk, procedurę i przedstawienie. Książka nie należy do żadnej partii i nie proponuje programu politycznego. Zadaje spokojniejsze i trudniejsze pytanie: co dzieje się, gdy ludzie nadal odgrywają demokrację, przestając oczekiwać, że może ona cokolwiek zmienić? To wydanie ukończona forma fizyczna wydana bezpośrednio przez autora Utwór Demotopia — Demokratyczna Utopia Autor Ashraellen Wydanie Autorskie wydanie fizyczne System samizdat 2.0 Miejsce i rok Warszawa, 202
 
 ### pl/books/samizdat/index.html
 
