@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-07-28T19:25:49.085Z
+Generated: 2026-07-28T19:31:05.284Z
 
-Pages checked: 596
-Pages with issues: 93
-Total issues: 263
+Pages checked: 598
+Pages with issues: 95
+Total issues: 286
 Pages with review notes: 577
 Total review notes: 2096
 
@@ -13,18 +13,19 @@ Total review notes: 2096
 | Item | Count |
 |---|---:|
 | DUPLICATE_KEYWORDS | 56 |
+| DUPLICATE_TITLE | 38 |
 | DUPLICATE_OG_TITLE | 34 |
-| DUPLICATE_TITLE | 34 |
-| MISSING_KEYWORDS | 28 |
-| MISSING_TWITTER_IMAGE | 28 |
-| MISSING_OG_DESCRIPTION | 15 |
-| MISSING_JSON_LD | 14 |
-| MISSING_OG_IMAGE | 14 |
-| MISSING_TWITTER_CARD | 14 |
-| MISSING_OG_TITLE | 13 |
-| MISSING_DESCRIPTION | 5 |
-| DESCRIPTION_TOO_SHORT | 4 |
-| MISSING_CANONICAL | 4 |
+| MISSING_KEYWORDS | 30 |
+| MISSING_TWITTER_IMAGE | 30 |
+| MISSING_OG_DESCRIPTION | 17 |
+| MISSING_JSON_LD | 16 |
+| MISSING_OG_IMAGE | 16 |
+| MISSING_TWITTER_CARD | 16 |
+| MISSING_OG_TITLE | 15 |
+| MISSING_DESCRIPTION | 6 |
+| DESCRIPTION_TOO_SHORT | 5 |
+| MISSING_CANONICAL | 5 |
+| DUPLICATE_DESCRIPTION | 2 |
 
 
 ## Review note summary
@@ -359,6 +360,44 @@ Total review notes: 2096
 - MISSING_OG_IMAGE
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
+
+### en/books/samizdat/order/index.html
+
+- title: Request a samizdat 2.0 copy — Ashraellen
+- description length: 67
+- canonical: https://www.ashraellen.com/en/books/samizdat/order/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 67
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_DESCRIPTION: shared by 2 pages
+
+### en/books/samizdat/order/received/index.html
+
+- title: Request received — samizdat 2.0
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_TITLE: shared by 2 pages
 
 ### en/books/the-book-of-whinesis/index.html
 
@@ -1009,6 +1048,8 @@ Total review notes: 2096
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
 - DESCRIPTION_TOO_SHORT: 67
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_DESCRIPTION: shared by 2 pages
 
 ### samizdat/order/received/index.html
 
@@ -1027,6 +1068,7 @@ Total review notes: 2096
 - MISSING_OG_IMAGE
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
+- DUPLICATE_TITLE: shared by 2 pages
 
 ### uk/books/error-404-god-not-found/index.html
 

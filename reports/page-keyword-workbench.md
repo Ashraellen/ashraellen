@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-28T19:25:49.637Z
-Pages: 597
+Generated: 2026-07-28T19:31:05.867Z
+Pages: 599
 
 ## Index
 
@@ -144,6 +144,8 @@ Pages: 597
 | en/books/radiance/song/index.html | en | books | Ashraellen — Song \| Radiance, Book II | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | song, about, book, radiance, ashraellen, books, language, sound, artistic-research, ayla, become, chapter, cultural, does, extended, featured, foundations, frame |
 | en/books/samizdat/demotopia/index.html | en | books | Demotopia — Book Passport — samizdat 2.0 | _missing_ | demotopia, book, passport, samizdat, 2.0, author-issued, edition, about, ashraellen, books, copy, physical, author, democratic, permanent, request, system |
 | en/books/samizdat/index.html | en | books | samizdat 2.0 — Ashraellen author editions | Ashraellen, samizdat 2.0, author editions, numbered books, signed copies, book passports, direct publishing | samizdat, 2.0, books, ashraellen, book, author, editions, how, now, physical, why, without, author-issued, belong, copies, copy, direct, edition |
+| en/books/samizdat/order/index.html | en | books | Request a samizdat 2.0 copy — Ashraellen | _missing_ | request, 2.0, copy, samizdat, ashraellen, book, books, delivery, language, payment, address, any, arrange, author-issued, before, confirm, confirmation, confirmed |
+| en/books/samizdat/order/received/index.html | en | books | Request received — samizdat 2.0 | _missing_ | received, request, samizdat, 2.0, automatically, been, books, has, address, any, ashraellen, availability, created, email, order, purchase, you |
 | en/books/seccus/index.html | en | books | Ashraellen — THE SACRED BOOK OF SECCUS | Ashraellen, SECCUS, The Sacred Book of SECCUS, The Path of Honesty, philosophical satire, money, success, self-deception, knowledge as an alibi, responsibility, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Book | book, seccus, about, sacred, ashraellen, books, money, own, success, alibi, choice, corpus, does, frame, honesty, how, knowledge, literary-philosophical |
 | en/books/the-book-of-whinesis/index.html | en | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sacred, satire, those, tired, positive, vibes, endless, productivity, cult, success, about, first, chapters, excerpt | book, whinesis, ashraellen, books, about, becomes, chapters, cult, discount, endless, excerpt, first, gnorna, lord, moania, positive, productivity, sacred |
 | en/books/you-are-already-online/index.html | en | books | Ashraellen — You Are Already Online | ashraellen, books, you, already, online, immersive, audio, novel, genre, psychological, thriller, cyberpunk, drama, about, digital, reality, algorithms, attention | already, online, you, about, ashraellen, books, chapter, first, novel, reality, algorithms, attention, audio, book, cyberpunk, did, digital, drama |
@@ -2935,6 +2937,40 @@ Excerpt:
 Excerpt:
 
 > Author-issued physical books / public book passports samizdat 2.0 A book does not have to become an anonymous product in order to become public. samizdat 2.0 is a contemporary structure for books completed by the author, given a physical form outside the industrial publishing chain, and transmitted directly to readers. Each edition remains connected to its origin through a permanent public passport. Why now publication is easy; presence is not Classical samizdat appeared where a text could not pass through official channels. Today the technical act of publication has become almost universally available. A file can be released instantly, a book can be printed on demand, and a text can circulate without asking permission. Yet this freedom creates another loss. The physical book is easily absorbed into the same anonymous circulation as every other product: generated, ordered, delivered and 
+
+### en/books/samizdat/order/index.html
+
+- lang: en
+- section: books
+- title: Request a samizdat 2.0 copy — Ashraellen
+- description: Request an author-issued samizdat 2.0 book in any project language.
+- canonical: https://www.ashraellen.com/en/books/samizdat/order/
+- H1: Request a copy
+- H2: Request → estimate → confirmation → payment → print → delivery
+- H3: _missing_
+- suggested keyword seed: request, 2.0, copy, samizdat, ashraellen, book, books, delivery, language, payment, address, any, arrange, author-issued, before, confirm, confirmation, confirmed
+- candidates: delivery, request, language, book, copy, payment, 2.0, address, arrange, before, confirm, confirmed, estimate, may, personally, print, printing, reader, samizdat, select, used, agree, another, answer
+
+Excerpt:
+
+> Made on confirmed request Request a copy A book may be prepared, typeset, printed and shipped for a particular reader. Before payment we personally confirm language availability, preparation time, print cost and delivery. Sending this form does not create a purchase obligation. How it works Request → estimate → confirmation → payment → print → delivery If the selected language is not yet print-ready, we will first confirm the estimated translation and typesetting period. Book Select Demotopia — Democratic Utopia Copy language Select Belarusian (BE) German (DE) English (EN) Spanish (ES) French (FR) Polish (PL) Portuguese (PT) Russian (RU) Ukrainian (UK) Quantity Purpose For myself Gift Pass on to another reader Full name Email Phone for delivery Country City Postal code Delivery address The address is used only to estimate and arrange printing and delivery. Message I agree that the submit
+
+### en/books/samizdat/order/received/index.html
+
+- lang: en
+- section: books
+- title: Request received — samizdat 2.0
+- description: _missing_
+- canonical: _missing_
+- H1: Request received
+- H2: No purchase has been created automatically.
+- H3: _missing_
+- suggested keyword seed: received, request, samizdat, 2.0, automatically, been, books, has, address, any, ashraellen, availability, created, email, order, purchase, you
+- candidates: request, 2.0, been, email, has, received, samizdat, you, address, any, automatically, availability, before, begins, confirm, contact, cost, created, delivery, entered, eye, folder, form, including
+
+Excerpt:
+
+> samizdat 2.0 Request received Thank you. Your request has been sent. We will contact you by email to confirm language availability, preparation time, print cost, delivery and payment before any production begins. No purchase has been created automatically. Please keep an eye on the email address entered in the form, including its spam folder.
 
 ### en/books/seccus/index.html
 
