@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T21:01:04.006Z",
+  "generated": "2026-07-28T21:01:33.270Z",
   "pages": [
     {
       "page": "be/books/error-404-god-not-found/index.html",
@@ -30910,6 +30910,80 @@
         "capítulo",
         "com",
         "como"
+      ]
+    },
+    {
+      "page": "pt/books/samizdat/demotopia/index.html",
+      "lang": "pt",
+      "section": "books",
+      "title": "Demotopia — Passaporte do livro — samizdat 2.0",
+      "description": "Passaporte da edição física de autor de Demotopia no sistema samizdat 2.0.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/pt/books/samizdat/demotopia/",
+      "h1": [
+        "Demotopia"
+      ],
+      "h2": [
+        "Sobre o livro",
+        "Esta edição",
+        "O passaporte permanente",
+        "Solicitar um exemplar de autor"
+      ],
+      "h3": [
+        "Sobre cada exemplar"
+      ],
+      "slugTerms": [
+        "pt",
+        "books",
+        "samizdat",
+        "demotopia"
+      ],
+      "excerpt": "Passaporte do livro / samizdat 2.0 Demotopia Utopia Democrática Um romance filosófico sobre democracia, poder e a transformação silenciosa da liberdade em ritual. Edição física publicada diretamente pelo autor Sobre o livro a democracia vista de dentro do seu próprio ritual Demotopia examina o momento em que a linguagem democrática permanece intacta enquanto o significado democrático começa a desaparecer. O romance não acompanha o colapso da liberdade num único ato dramático, mas a sua transformação gradual em hábito, procedimento e representação. O romance não pertence a nenhum partido e não oferece qualquer programa político. Coloca uma pergunta mais silenciosa e difícil: o que acontece quando as pessoas continuam a representar a democracia depois de deixarem de esperar que ela mude alguma coisa? Esta edição uma forma física concluída, publicada diretamente pelo autor Obra Demotopia — ",
+      "candidates": [
+        "autor",
+        "edição",
+        "demotopia",
+        "passaporte",
+        "2.0",
+        "física",
+        "samizdat",
+        "exemplar",
+        "livro",
+        "não",
+        "cada",
+        "democracia",
+        "democrática",
+        "dentro",
+        "diretamente",
+        "pelo",
+        "publicada",
+        "que",
+        "romance",
+        "sobre",
+        "código",
+        "enquanto",
+        "idioma",
+        "impresso"
+      ],
+      "suggestedKeywordSeed": [
+        "demotopia",
+        "passaporte",
+        "samizdat",
+        "2.0",
+        "autor",
+        "edição",
+        "livro",
+        "books",
+        "exemplar",
+        "física",
+        "ashraellen",
+        "cada",
+        "democracia",
+        "esta",
+        "não",
+        "permanente",
+        "sistema",
+        "sobre"
       ]
     },
     {
