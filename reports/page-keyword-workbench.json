@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T20:54:22.332Z",
+  "generated": "2026-07-28T20:54:55.618Z",
   "pages": [
     {
       "page": "be/books/error-404-god-not-found/index.html",
@@ -5682,6 +5682,75 @@
         "die",
         "ein",
         "eines"
+      ]
+    },
+    {
+      "page": "de/books/samizdat/order/index.html",
+      "lang": "de",
+      "section": "books",
+      "title": "Ein samizdat-2.0-Exemplar anfragen — Ashraellen",
+      "description": "Anfrage eines vom Autor herausgegebenen samizdat-2.0-Buches in jeder Projektsprache.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/de/books/samizdat/order/",
+      "h1": [
+        "Ein Exemplar anfragen"
+      ],
+      "h2": [
+        "Anfrage ↓ Kalkulation ↓ Bestätigung ↓ Zahlung ↓ Druck ↓ Lieferung"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "de",
+        "books",
+        "samizdat",
+        "order"
+      ],
+      "excerpt": "Herstellung nach bestätigter Anfrage Ein Exemplar anfragen Ein Buch kann für einen bestimmten Leser vorbereitet, gesetzt, gedruckt und versandt werden. Vor der Zahlung bestätigen wir persönlich Sprachverfügbarkeit, Vorbereitungszeit, Druck- und Lieferkosten. Das Absenden des Formulars begründet keine Kaufpflicht. So funktioniert es Anfrage ↓ Kalkulation ↓ Bestätigung ↓ Zahlung ↓ Druck ↓ Lieferung Ist die gewählte Sprache noch nicht druckfertig, teilen wir zunächst die voraussichtliche Übersetzungs- und Satzzeit mit. Buch Auswählen Demotopia — Demokratische Utopie Sprache des Exemplars Auswählen Belarussisch (BE) Deutsch (DE) Englisch (EN) Spanisch (ES) Französisch (FR) Polnisch (PL) Portugiesisch (PT) Russisch (RU) Ukrainisch (UK) Anzahl Zweck Für mich Als Geschenk Zur Weitergabe an einen anderen Leser Vor- und Nachname E-Mail Telefon für die Lieferung Land Stadt Postleitzahl Lieferadres",
+      "candidates": [
+        "und",
+        "die",
+        "anfrage",
+        "lieferung",
+        "druck",
+        "ein",
+        "für",
+        "kalkulation",
+        "werden",
+        "zahlung",
+        "zur",
+        "anfragen",
+        "auswählen",
+        "buch",
+        "der",
+        "des",
+        "einen",
+        "herstellung",
+        "leser",
+        "organisation",
+        "persönlich",
+        "sprache",
+        "verwendet",
+        "von"
+      ],
+      "suggestedKeywordSeed": [
+        "anfrage",
+        "anfragen",
+        "ein",
+        "ashraellen",
+        "books",
+        "druck",
+        "kalkulation",
+        "lieferung",
+        "zahlung",
+        "autor",
+        "bestätigung",
+        "die",
+        "eines",
+        "exemplar",
+        "für",
+        "herausgegebenen",
+        "jeder",
+        "order"
       ]
     },
     {

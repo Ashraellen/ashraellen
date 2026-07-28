@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-28T20:54:22.443Z
-Pages: 604
+Generated: 2026-07-28T20:54:55.630Z
+Pages: 605
 
 ## Index
 
@@ -83,6 +83,7 @@ Pages: 604
 | de/books/radiance/index.html | de | books | Ashraellen — Glanz \| Nordische Geschichten über die wahre Geschichte der Welt | Ashraellen, Glanz, Sampo, Lied, Bücher, literary-philosophical, artistic research | glanz, ist, der, die, für, geschichten, welt, ashraellen, books, ein, was, als, alte, anleitungskarte, anweisungen, bewahren, bildhafte, buch |
 | de/books/radiance/sampo/index.html | de | books | Ashraellen — Sampo \| Glanz, Buch I | Ashraellen, Glanz, Sampo, Lied, Bücher, literary-philosophical, artistic research | und, sampo, buch, das, der, ist, ashraellen, books, eine, für, glanz, nicht, über, arbeit, auf, besitz, den, die |
 | de/books/radiance/song/index.html | de | books | Ashraellen — Lied \| Glanz, Buch II | Ashraellen, Glanz, Sampo, Lied, Bücher, literary-philosophical, artistic research | das, lied, und, buch, ashraellen, books, der, eine, für, glanz, nicht, sprache, über, auf, den, die, ein, eines |
+| de/books/samizdat/order/index.html | de | books | Ein samizdat-2.0-Exemplar anfragen — Ashraellen | _missing_ | anfrage, anfragen, ein, ashraellen, books, druck, kalkulation, lieferung, zahlung, autor, bestätigung, die, eines, exemplar, für, herausgegebenen, jeder, order |
 | de/books/samizdat/order/received/index.html | de | books | Anfrage erhalten — samizdat 2.0 | _missing_ | anfrage, erhalten, samizdat, 2.0, abgeschlossen, automatisch, books, wurde, angegebenen, ashraellen, beginnt, bestätigen, bevor, bitte, ein, kauf, nicht, order |
 | de/books/seccus/index.html | de | books | Ashraellen — DAS HEILIGE BUCH SECCUS | Ashraellen, SECCUS, Das Heilige Buch SECCUS, Der Weg der Ehrlichkeit, philosophische Satire, Geld, Erfolg, Selbsttäuschung, Wissen als Alibi, Verantwortung, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Buch | das, buch, der, die, seccus, heilige, und, ashraellen, books, des, für, ist, seite, über, alibi, als, ausgewählte, buches |
 | de/books/the-book-of-whinesis/index.html | de | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sakrale, satire, für, alle, die, von, positiven, vibes, endloser, produktivität, und, dem, kult, des | book, whinesis, ashraellen, books, des, die, und, alle, auf, auszug, buch, das, dem, den, der, endloser, erfolgs, erste |
@@ -1905,6 +1906,23 @@ Excerpt:
 Excerpt:
 
 > Glanz – Nordische Geschichten über die wahre Geschichte der Welt Lied Buch II des literarischen und philosophischen Zyklus „Glanz“. Ein Roman über Klang, der keine Macht übernimmt: über das Hören, die Sprache, die Stadt, die Arbeitsszene und Lied, der nicht zur Nummer wird. Nach „Sampo“ wird die Frage nach der Fülle durch die Frage nach dem Wort ersetzt: Kann Sprache keine Meinung, kein Argument, kein Selbstausdruck, sondern eine Form der Individualisierung werden? Russisches Cover. Ashraellen. Empfohlenes Kapitel Kapitel Eins. Normales Geräusch Komplettes erstes Kapitel: Aylas Rückkehr nach Warschau, gewöhnlicher Stadtlärm und der erste Bruch zwischen Klang als Arbeit und Hören als Haltung. Kapitel öffnen Kapitel schließen Warschau begegnete Ayla nicht mit einem Zeichen, nicht mit einer Vision und nicht mit einem Flüstern aus dem Untergrund, das einer Fortsetzung des antiken Prologs wür
+
+### de/books/samizdat/order/index.html
+
+- lang: de
+- section: books
+- title: Ein samizdat-2.0-Exemplar anfragen — Ashraellen
+- description: Anfrage eines vom Autor herausgegebenen samizdat-2.0-Buches in jeder Projektsprache.
+- canonical: https://www.ashraellen.com/de/books/samizdat/order/
+- H1: Ein Exemplar anfragen
+- H2: Anfrage ↓ Kalkulation ↓ Bestätigung ↓ Zahlung ↓ Druck ↓ Lieferung
+- H3: _missing_
+- suggested keyword seed: anfrage, anfragen, ein, ashraellen, books, druck, kalkulation, lieferung, zahlung, autor, bestätigung, die, eines, exemplar, für, herausgegebenen, jeder, order
+- candidates: und, die, anfrage, lieferung, druck, ein, für, kalkulation, werden, zahlung, zur, anfragen, auswählen, buch, der, des, einen, herstellung, leser, organisation, persönlich, sprache, verwendet, von
+
+Excerpt:
+
+> Herstellung nach bestätigter Anfrage Ein Exemplar anfragen Ein Buch kann für einen bestimmten Leser vorbereitet, gesetzt, gedruckt und versandt werden. Vor der Zahlung bestätigen wir persönlich Sprachverfügbarkeit, Vorbereitungszeit, Druck- und Lieferkosten. Das Absenden des Formulars begründet keine Kaufpflicht. So funktioniert es Anfrage ↓ Kalkulation ↓ Bestätigung ↓ Zahlung ↓ Druck ↓ Lieferung Ist die gewählte Sprache noch nicht druckfertig, teilen wir zunächst die voraussichtliche Übersetzungs- und Satzzeit mit. Buch Auswählen Demotopia — Demokratische Utopie Sprache des Exemplars Auswählen Belarussisch (BE) Deutsch (DE) Englisch (EN) Spanisch (ES) Französisch (FR) Polnisch (PL) Portugiesisch (PT) Russisch (RU) Ukrainisch (UK) Anzahl Zweck Für mich Als Geschenk Zur Weitergabe an einen anderen Leser Vor- und Nachname E-Mail Telefon für die Lieferung Land Stadt Postleitzahl Lieferadres
 
 ### de/books/samizdat/order/received/index.html
 
