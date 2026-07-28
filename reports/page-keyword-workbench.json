@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T13:11:02.094Z",
+  "generated": "2026-07-28T13:32:50.361Z",
   "pages": [
     {
       "page": "be/books/error-404-god-not-found/index.html",
@@ -25155,6 +25155,7 @@
       "h2": [
         "Wystąpienia",
         "Publikacje",
+        "Projekty",
         "Nowe myśli przewodnie"
       ],
       "h3": [
@@ -25169,7 +25170,7 @@
         "pl",
         "public"
       ],
-      "excerpt": "Publiczne Tutaj badanie wychodzi z książek, szkiców i wewnętrznych formuł w żywe pole: wideo, publikacje, komentarze, odpowiedzi, reakcje i otwarte obserwacje. Publiczne pole nie jest witryną aktywności. To miejsce, w którym myśl sprawdza się przez żywy kontakt z człowiekiem. Nie jest już chroniona formą książki: staje się krótką frazą, obrazem, wideo, odpowiedzią, irytacją, wdzięcznością albo nagłym rozpoznaniem. Jeśli książki pokazują mechanizm w głębi, forma publiczna zapisuje jego błyski: gdzie myśl została przyjęta, gdzie wywołała opór, gdzie została zniekształcona, a gdzie nagle stała się rozpoznawalna. Wystąpienia Wideo, Shorts, publiczne analizy i formy żywej mowy — to, co można już pokazywać światu. Otwórz → Publikacje Teksty, które wyszły z laboratorium i stały się komunikatem: myśli przewodnie, fragmenty, reakcje i obserwacje. Otwórz → Nowe myśli przewodnie Sześć nowych myśli ",
+      "excerpt": "Publiczne Tutaj badanie wychodzi z książek, szkiców i wewnętrznych formuł w żywe pole: wideo, publikacje, komentarze, odpowiedzi, reakcje i otwarte obserwacje. Publiczne pole nie jest witryną aktywności. To miejsce, w którym myśl sprawdza się przez żywy kontakt z człowiekiem. Nie jest już chroniona formą książki: staje się krótką frazą, obrazem, wideo, odpowiedzią, irytacją, wdzięcznością albo nagłym rozpoznaniem. Jeśli książki pokazują mechanizm w głębi, forma publiczna zapisuje jego błyski: gdzie myśl została przyjęta, gdzie wywołała opór, gdzie została zniekształcona, a gdzie nagle stała się rozpoznawalna. Wystąpienia Wideo, Shorts, publiczne analizy i formy żywej mowy — to, co można już pokazywać światu. Otwórz → Publikacje Teksty, które wyszły z laboratorium i stały się komunikatem: myśli przewodnie, fragmenty, reakcje i obserwacje. Otwórz → Projekty Projekty badawcze, literackie i ",
       "candidates": [
         "myśl",
         "się",
@@ -25180,11 +25181,12 @@
         "już",
         "myśli",
         "publiczne",
+        "ashraellen",
         "człowieka",
         "masa",
         "naród",
-        "ashraellen",
         "obserwacje",
+        "pola",
         "pole",
         "przewodnie",
         "publikacje",
@@ -25193,12 +25195,11 @@
         "badanie",
         "bombardujcie",
         "cena",
-        "drugiego",
-        "duchowość"
+        "drugiego"
       ],
       "suggestedKeywordSeed": [
-        "publiczne",
         "ashraellen",
+        "publiczne",
         "myśli",
         "człowieka",
         "gdzie",
@@ -25210,11 +25211,11 @@
         "już",
         "masa",
         "myśl",
-        "naród",
         "nie",
         "nowe",
         "obserwacje",
-        "otwórz"
+        "otwórz",
+        "pole"
       ]
     },
     {

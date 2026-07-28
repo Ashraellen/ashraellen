@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-28T13:11:02.107Z
+Generated: 2026-07-28T13:32:50.372Z
 Pages: 588
 
 ## Index
@@ -347,7 +347,7 @@ Pages: 588
 | pl/monolith/index.html | pl | monolith | MONOLITH — Ashraellen — Polish | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, pl, monolith | monolith, beton, gas, sludge, ashraellen, dystopijna, edycja, kontroli, amazon, angielsku, czytaj, kontrolowanego, pamięci, polish, polska, przygotowaniu, rozpadu, rozpadzie |
 | pl/privacy.html | pl | privacy.html | Polityka prywatności — Ashraellen | ashraellen, privacy, polityka, prywatności, ashraellen.com, dane, osobowe, analityka, cookies, prawa, użytkownika, kontakt, administrator, strony, jakie, mogą, być, zbierane | polityka, prywatności, cookies, dane, analityka, ashraellen, ashraellen.com, być, mogą, strony, zewnętrzne, administrator, aktualizacje, cel, danych, google, jakie, kontakt |
 | pl/professional/index.html | pl | professional | Ashraellen — dossier profesjonalne | ashraellen, professional, dossier, profesjonalne, autor, metoda, obserwacji, książki, publiczne, formy, projektu, plan, rozwoju, współpraca, kontakt, autorze, pozycja, ramy | ashraellen, obserwacji, profesjonalne, projektu, publiczne, dossier, formy, metoda, plan, professional, projekt, rozwoju, archiwum, autor, autorze, jako, kontakt, książki |
-| pl/public/index.html | pl | public | Ashraellen — Publiczne | ashraellen, public, publiczne, pole, wystąpienia, publikacje, myśli, przewodnie, reakcje, obserwacje, gdzie, badanie, spotyka, żywego, człowieka, nowe, nie, bombardujcie | publiczne, ashraellen, myśli, człowieka, gdzie, przewodnie, public, publikacje, wystąpienia, badanie, już, masa, myśl, naród, nie, nowe, obserwacje, otwórz |
+| pl/public/index.html | pl | public | Ashraellen — Publiczne | ashraellen, public, publiczne, pole, wystąpienia, publikacje, myśli, przewodnie, reakcje, obserwacje, gdzie, badanie, spotyka, żywego, człowieka, nowe, nie, bombardujcie | ashraellen, publiczne, myśli, człowieka, gdzie, przewodnie, public, publikacje, wystąpienia, badanie, już, masa, myśl, nie, nowe, obserwacje, otwórz, pole |
 | pl/public/posts/essay/cycles/cycle-0001.html | pl | public | Ashraellen — Pierwszy cykl mini-esejów | ashraellen, public, posts, essay, cycles, cycle, 0001, pierwszy, cykl, mini-esejów, władza, nie, nad, myślą, lecz, uwagą, ciało, pierwszymi | cykl, pierwszy, nie, ciało, nad, ale, lecz, myślą, przeszłość, ashraellen, celem, drzwiami, interpretacją, jej, mini-esejów, pierwszymi, public, uwagą |
 | pl/public/posts/essay/cycles/index.html | pl | public | Ashraellen — Cykle mini-esejów | ashraellen, public, posts, essay, cycles, cykle, mini-esejów, zakończone, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | cykle, mini-esejów, zakończone, cykl, pierwszy, aktualnego, aktualny, ashraellen, cyklu, działu, głównej, public, się, stronie, cycles, essay, posts, tutaj |
 | pl/public/posts/essay/index.html | pl | public | Ashraellen — Mini-eseje | ashraellen, public, posts, essay, mini-eseje, pierwszy, cykl, władza, nie, nad, myślą, lecz, uwagą, ciało, pierwszymi, drzwiami, ale, celem | nie, mini-eseje, nad, ale, ciało, jej, lecz, myślą, ashraellen, celem, cykl, drzwiami, interpretacją, jeden, pierwszy, pierwszymi, przeszłość, public |
@@ -6386,14 +6386,14 @@ Excerpt:
 - description: Publiczne pole Ashraellen: wystąpienia, publikacje, myśli przewodnie, reakcje i obserwacje, gdzie badanie spotyka żywego człowieka.
 - canonical: https://www.ashraellen.com/pl/public/
 - H1: Publiczne
-- H2: Wystąpienia | Publikacje | Nowe myśli przewodnie
+- H2: Wystąpienia | Publikacje | Projekty | Nowe myśli przewodnie
 - H3: Nie bombardujcie | Naród i masa | Gry godowe | Duchowości się nie narzuca | Cena przejścia | Prawdziwy wróg
-- suggested keyword seed: publiczne, ashraellen, myśli, człowieka, gdzie, przewodnie, public, publikacje, wystąpienia, badanie, już, masa, myśl, naród, nie, nowe, obserwacje, otwórz
-- candidates: myśl, się, nie, otwórz, przewodnia, gdzie, już, myśli, publiczne, człowieka, masa, naród, ashraellen, obserwacje, pole, przewodnie, publikacje, reakcje, wideo, badanie, bombardujcie, cena, drugiego, duchowość
+- suggested keyword seed: ashraellen, publiczne, myśli, człowieka, gdzie, przewodnie, public, publikacje, wystąpienia, badanie, już, masa, myśl, nie, nowe, obserwacje, otwórz, pole
+- candidates: myśl, się, nie, otwórz, przewodnia, gdzie, już, myśli, publiczne, ashraellen, człowieka, masa, naród, obserwacje, pola, pole, przewodnie, publikacje, reakcje, wideo, badanie, bombardujcie, cena, drugiego
 
 Excerpt:
 
-> Publiczne Tutaj badanie wychodzi z książek, szkiców i wewnętrznych formuł w żywe pole: wideo, publikacje, komentarze, odpowiedzi, reakcje i otwarte obserwacje. Publiczne pole nie jest witryną aktywności. To miejsce, w którym myśl sprawdza się przez żywy kontakt z człowiekiem. Nie jest już chroniona formą książki: staje się krótką frazą, obrazem, wideo, odpowiedzią, irytacją, wdzięcznością albo nagłym rozpoznaniem. Jeśli książki pokazują mechanizm w głębi, forma publiczna zapisuje jego błyski: gdzie myśl została przyjęta, gdzie wywołała opór, gdzie została zniekształcona, a gdzie nagle stała się rozpoznawalna. Wystąpienia Wideo, Shorts, publiczne analizy i formy żywej mowy — to, co można już pokazywać światu. Otwórz → Publikacje Teksty, które wyszły z laboratorium i stały się komunikatem: myśli przewodnie, fragmenty, reakcje i obserwacje. Otwórz → Nowe myśli przewodnie Sześć nowych myśli 
+> Publiczne Tutaj badanie wychodzi z książek, szkiców i wewnętrznych formuł w żywe pole: wideo, publikacje, komentarze, odpowiedzi, reakcje i otwarte obserwacje. Publiczne pole nie jest witryną aktywności. To miejsce, w którym myśl sprawdza się przez żywy kontakt z człowiekiem. Nie jest już chroniona formą książki: staje się krótką frazą, obrazem, wideo, odpowiedzią, irytacją, wdzięcznością albo nagłym rozpoznaniem. Jeśli książki pokazują mechanizm w głębi, forma publiczna zapisuje jego błyski: gdzie myśl została przyjęta, gdzie wywołała opór, gdzie została zniekształcona, a gdzie nagle stała się rozpoznawalna. Wystąpienia Wideo, Shorts, publiczne analizy i formy żywej mowy — to, co można już pokazywać światu. Otwórz → Publikacje Teksty, które wyszły z laboratorium i stały się komunikatem: myśli przewodnie, fragmenty, reakcje i obserwacje. Otwórz → Projekty Projekty badawcze, literackie i 
 
 ### pl/public/posts/essay/cycles/cycle-0001.html
 
