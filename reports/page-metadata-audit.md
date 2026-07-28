@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-07-28T17:55:00.224Z
+Generated: 2026-07-28T17:55:37.361Z
 
-Pages checked: 591
-Pages with issues: 88
-Total issues: 220
+Pages checked: 592
+Pages with issues: 89
+Total issues: 227
 Pages with review notes: 577
 Total review notes: 2096
 
@@ -15,13 +15,13 @@ Total review notes: 2096
 | DUPLICATE_KEYWORDS | 56 |
 | DUPLICATE_OG_TITLE | 34 |
 | DUPLICATE_TITLE | 34 |
-| MISSING_KEYWORDS | 23 |
-| MISSING_TWITTER_IMAGE | 23 |
-| MISSING_OG_DESCRIPTION | 10 |
-| MISSING_JSON_LD | 9 |
-| MISSING_OG_IMAGE | 9 |
-| MISSING_TWITTER_CARD | 9 |
-| MISSING_OG_TITLE | 8 |
+| MISSING_KEYWORDS | 24 |
+| MISSING_TWITTER_IMAGE | 24 |
+| MISSING_OG_DESCRIPTION | 11 |
+| MISSING_JSON_LD | 10 |
+| MISSING_OG_IMAGE | 10 |
+| MISSING_TWITTER_CARD | 10 |
+| MISSING_OG_TITLE | 9 |
 | DESCRIPTION_TOO_SHORT | 2 |
 | MISSING_DESCRIPTION | 2 |
 | MISSING_CANONICAL | 1 |
@@ -881,6 +881,22 @@ Total review notes: 2096
 - title: самиздат 2.0 — авторские издания Ashraellen
 - description length: 123
 - canonical: https://www.ashraellen.com/ru/books/samizdat/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### ru/books/samizdat/order/index.html
+
+- title: Запросить экземпляр самиздата 2.0 — Ashraellen
+- description length: 106
+- canonical: https://www.ashraellen.com/ru/books/samizdat/order/
 - og:image: _missing_
 - twitter:image: _missing_
 
