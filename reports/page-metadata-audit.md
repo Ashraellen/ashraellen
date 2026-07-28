@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-07-28T18:13:20.630Z
+Generated: 2026-07-28T19:24:00.762Z
 
 Pages checked: 593
 Pages with issues: 90
-Total issues: 234
+Total issues: 235
 Pages with review notes: 577
 Total review notes: 2096
 
@@ -22,7 +22,7 @@ Total review notes: 2096
 | MISSING_OG_IMAGE | 11 |
 | MISSING_TWITTER_CARD | 11 |
 | MISSING_OG_TITLE | 10 |
-| DESCRIPTION_TOO_SHORT | 2 |
+| DESCRIPTION_TOO_SHORT | 3 |
 | MISSING_DESCRIPTION | 2 |
 | MISSING_CANONICAL | 1 |
 
@@ -959,7 +959,7 @@ Total review notes: 2096
 ### samizdat/order/index.html
 
 - title: Request a samizdat 2.0 copy — Ashraellen
-- description length: 92
+- description length: 67
 - canonical: https://www.ashraellen.com/samizdat/order/
 - og:image: _missing_
 - twitter:image: _missing_
@@ -971,6 +971,7 @@ Total review notes: 2096
 - MISSING_OG_IMAGE
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 67
 
 ### uk/books/error-404-god-not-found/index.html
 

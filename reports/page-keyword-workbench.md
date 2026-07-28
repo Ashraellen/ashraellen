@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-28T18:13:21.191Z
+Generated: 2026-07-28T19:24:01.332Z
 Pages: 594
 
 ## Index
@@ -537,7 +537,7 @@ Pages: 594
 | ru/research/sources/index.html | ru | research | Ashraellen — Источники и традиция | ashraellen, research, sources, источники, традиция, феноменология, сознания, тело, нарратив, когнитивная, наука, художественная, практика, методологические, линии, исследования, эдмунд, гуссерль | ashraellen, источники, тело, традиция, форма, research, варела, исследования, опыт, сознание, сознания, феноменология, sources, взаимодействие, восприятия, где, готовых, гуссерль |
 | samizdat/demotopia/index.html | root | samizdat | Demotopia — samizdat 2.0 | _missing_ | demotopia, samizdat, 2.0, ashraellen, book, entrance, multilingual, passport, browser, english, language, open, permanent |
 | samizdat/index.html | root | samizdat | samizdat 2.0 — Ashraellen | _missing_ | samizdat, 2.0, ashraellen, author, book, editions, language, passports, also, author-issued, automatically, browser, entry |
-| samizdat/order/index.html | root | samizdat | Request a samizdat 2.0 copy — Ashraellen | _missing_ | request, samizdat, 2.0, copy, all, ashraellen, author-issued, books, form, shared, available, being, book, connected, delivery, include, language, languages |
+| samizdat/order/index.html | root | samizdat | Request a samizdat 2.0 copy — Ashraellen | _missing_ | request, samizdat, 2.0, copy, ashraellen, book, delivery, language, payment, address, any, arrange, author-issued, before, confirm, confirmation, confirmed, estimate |
 | uk/books/error-404-god-not-found/index.html | uk | books | Ashraellen — Помилка 404: Бога не знайдено | _missing_ | 404, бога, знайдено, помилка, ashraellen, books, пошуку, error, found, god, або, готується, заявник, його, канцелярії, канцелярію, книга, книги |
 | uk/books/error-404-god-not-found/why-me/index.html | uk | books | Ashraellen — Чому я? | _missing_ | чому, 404, ashraellen, books, бога, про, error, found, god, why, або, але, біль, бюрократію, він, віру, влад, душі |
 | uk/books/index.html | uk | books | Ashraellen — Книги | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | книги, ashraellen, 404, book, books, error, found, книга, сатира, god, monolith, radiance, whinesis, аудіороман, ахепсу, вже, відкрити, дослідження |
@@ -9619,17 +9619,17 @@ Excerpt:
 - lang: root
 - section: samizdat
 - title: Request a samizdat 2.0 copy — Ashraellen
-- description: Shared request page for author-issued samizdat 2.0 books in all available project languages.
+- description: Request an author-issued samizdat 2.0 book in any project language.
 - canonical: https://www.ashraellen.com/samizdat/order/
 - H1: Request a copy
-- H2: What the request will include | The secure request form is being connected.
-- H3: Book | Language | Quantity | Destination | Contact | Purpose
-- suggested keyword seed: request, samizdat, 2.0, copy, all, ashraellen, author-issued, books, form, shared, available, being, book, connected, delivery, include, language, languages
-- candidates: request, 2.0, all, copy, language, samizdat, book, books, shared, author-issued, delivery, form, languages, one, project, reader, sending, will, accurately, added, additional, address, after, already
+- H2: Request → estimate → confirmation → payment → print → delivery
+- H3: _missing_
+- suggested keyword seed: request, samizdat, 2.0, copy, ashraellen, book, delivery, language, payment, address, any, arrange, author-issued, before, confirm, confirmation, confirmed, estimate
+- candidates: delivery, request, language, book, copy, payment, 2.0, address, arrange, before, confirm, confirmed, estimate, may, personally, print, printing, reader, samizdat, select, used, agree, another, answer
 
 Excerpt:
 
-> All books / all project languages Request a copy One shared request point for all author-issued books in the samizdat 2.0 system. Availability, price, language, delivery and payment are confirmed personally. Sending a request does not create an automatic purchase obligation. What the request will include a direct conversation, not an anonymous checkout Book The title of the requested work. Language The preferred language of the physical copy. Quantity One copy for the reader or additional copies intended as gifts or for further transmission. Destination Country and city, so delivery can be calculated accurately. Contact Name and email for a personal confirmation. Purpose For oneself, as a gift, or to pass the book to another reader. Current stage The secure request form is being connected. The page is already the permanent shared order address for every samizdat 2.0 book and language. Th
+> Made on confirmed request Request a copy A book may be prepared, typeset, printed and shipped for a particular reader. Before payment we personally confirm language availability, preparation time, print cost and delivery. Sending this form does not create a purchase obligation. How it works Request → estimate → confirmation → payment → print → delivery If the selected language is not yet print-ready, we will first confirm the estimated translation and typesetting period. Book Select Demotopia — Democratic Utopia Copy language Select Belarusian (BE) German (DE) English (EN) Spanish (ES) French (FR) Polish (PL) Portuguese (PT) Russian (RU) Ukrainian (UK) Quantity Purpose For myself Gift Pass on to another reader Full name Email Phone for delivery Country City Postal code Delivery address The address is used only to estimate and arrange printing and delivery. Message I agree that the submit
 
 ### uk/books/error-404-god-not-found/index.html
 
