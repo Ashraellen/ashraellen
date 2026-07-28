@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-07-28T19:24:00.762Z
+Generated: 2026-07-28T19:24:31.273Z
 
 Pages checked: 593
 Pages with issues: 90
-Total issues: 235
+Total issues: 236
 Pages with review notes: 577
 Total review notes: 2096
 
@@ -22,7 +22,7 @@ Total review notes: 2096
 | MISSING_OG_IMAGE | 11 |
 | MISSING_TWITTER_CARD | 11 |
 | MISSING_OG_TITLE | 10 |
-| DESCRIPTION_TOO_SHORT | 3 |
+| DESCRIPTION_TOO_SHORT | 4 |
 | MISSING_DESCRIPTION | 2 |
 | MISSING_CANONICAL | 1 |
 
@@ -911,7 +911,7 @@ Total review notes: 2096
 ### ru/books/samizdat/order/index.html
 
 - title: Запросить экземпляр самиздата 2.0 — Ashraellen
-- description length: 106
+- description length: 72
 - canonical: https://www.ashraellen.com/ru/books/samizdat/order/
 - og:image: _missing_
 - twitter:image: _missing_
@@ -923,6 +923,7 @@ Total review notes: 2096
 - MISSING_OG_IMAGE
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 72
 
 ### samizdat/demotopia/index.html
 
