@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T20:55:29.175Z",
+  "generated": "2026-07-28T20:56:32.971Z",
   "pages": [
     {
       "page": "be/books/error-404-god-not-found/index.html",
@@ -5756,6 +5756,85 @@
         "ein",
         "eine",
         "exemplar"
+      ]
+    },
+    {
+      "page": "de/books/samizdat/index.html",
+      "lang": "de",
+      "section": "books",
+      "title": "samizdat 2.0 — Autorenausgaben von Ashraellen",
+      "description": "samizdat 2.0 von Ashraellen: direkte physische Autorenausgaben, nummerierte Exemplare und permanente öffentliche Buchpässe.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/de/books/samizdat/",
+      "h1": [
+        "samizdat 2.0"
+      ],
+      "h2": [
+        "Warum jetzt",
+        "Was es ist",
+        "Wie es funktioniert",
+        "Nummerierung ohne Überwachung",
+        "Der QR-Pass",
+        "Ein Buch, das reisen soll",
+        "Bücher in samizdat 2.0"
+      ],
+      "h3": [
+        "Eine abgeschlossene Autorenausgabe",
+        "Außerhalb der industriellen Kette",
+        "Ein Exemplar als ein Gegenstand",
+        "Ein permanenter öffentlicher Pass"
+      ],
+      "slugTerms": [
+        "de",
+        "books",
+        "samizdat"
+      ],
+      "excerpt": "Physische Bücher vom Autor / öffentliche Buchpässe samizdat 2.0 Ein Buch muss nicht zu einer anonymen Ware werden, um öffentlich zu werden. samizdat 2.0 ist eine zeitgenössische Struktur für Bücher, die vom Autor abgeschlossen, außerhalb der industriellen Verlagskette in eine physische Form gebracht und direkt an Leser weitergegeben werden. Jede Ausgabe bleibt durch einen permanenten öffentlichen Pass mit ihrem Ursprung verbunden. Warum jetzt Publikation ist leicht; Präsenz ist es nicht Der klassische Samisdat entstand dort, wo ein Text nicht durch offizielle Kanäle gelangen konnte. Heute ist der technische Akt der Veröffentlichung nahezu allgemein zugänglich. Eine Datei kann sofort veröffentlicht, ein Buch auf Anfrage gedruckt und ein Text ohne Erlaubnis verbreitet werden. Doch diese Freiheit erzeugt einen anderen Verlust. Das physische Buch wird leicht in denselben anonymen Umlauf aufg",
+      "candidates": [
+        "der",
+        "und",
+        "ein",
+        "die",
+        "buch",
+        "das",
+        "ist",
+        "eine",
+        "physische",
+        "exemplar",
+        "kann",
+        "ohne",
+        "2.0",
+        "autor",
+        "leser",
+        "samizdat",
+        "werden",
+        "den",
+        "des",
+        "einer",
+        "nicht",
+        "wird",
+        "ausgabe",
+        "dem"
+      ],
+      "suggestedKeywordSeed": [
+        "samizdat",
+        "2.0",
+        "ashraellen",
+        "autorenausgaben",
+        "books",
+        "buch",
+        "das",
+        "der",
+        "ein",
+        "ist",
+        "ohne",
+        "physische",
+        "und",
+        "von",
+        "bücher",
+        "buchpässe",
+        "die",
+        "direkte"
       ]
     },
     {
@@ -15532,6 +15611,76 @@
         "con",
         "convierte",
         "culturales"
+      ]
+    },
+    {
+      "page": "es/books/samizdat/order/received/index.html",
+      "lang": "es",
+      "section": "books",
+      "title": "Solicitud recibida — samizdat 2.0",
+      "description": "",
+      "existingKeywords": "",
+      "canonical": "",
+      "h1": [
+        "Solicitud recibida"
+      ],
+      "h2": [
+        "No se ha creado ninguna compra automáticamente."
+      ],
+      "h3": [],
+      "slugTerms": [
+        "es",
+        "books",
+        "samizdat",
+        "order",
+        "received"
+      ],
+      "excerpt": "samizdat 2.0 Solicitud recibida Gracias. Su solicitud ha sido enviada. Nos pondremos en contacto por correo electrónico para confirmar la disponibilidad del idioma, el tiempo de preparación, el coste de impresión, la entrega y el pago antes de iniciar cualquier producción. No se ha creado ninguna compra automáticamente. Revise la dirección de correo indicada en el formulario, incluida la carpeta de spam.",
+      "candidates": [
+        "solicitud",
+        "2.0",
+        "correo",
+        "recibida",
+        "samizdat",
+        "antes",
+        "automáticamente",
+        "carpeta",
+        "compra",
+        "confirmar",
+        "contacto",
+        "coste",
+        "creado",
+        "cualquier",
+        "del",
+        "dirección",
+        "disponibilidad",
+        "electrónico",
+        "entrega",
+        "enviada",
+        "formulario",
+        "gracias",
+        "idioma",
+        "impresión"
+      ],
+      "suggestedKeywordSeed": [
+        "recibida",
+        "samizdat",
+        "solicitud",
+        "2.0",
+        "automáticamente",
+        "books",
+        "compra",
+        "antes",
+        "ashraellen",
+        "carpeta",
+        "confirmar",
+        "contacto",
+        "correo",
+        "coste",
+        "creado",
+        "ninguna",
+        "order",
+        "received"
       ]
     },
     {
