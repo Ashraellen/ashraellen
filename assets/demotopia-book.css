@@ -1,0 +1,61 @@
+:root{
+  --demo-bg:#071018;
+  --demo-panel:rgba(12,25,36,.86);
+  --demo-panel-soft:rgba(17,34,48,.72);
+  --demo-line:rgba(153,184,204,.24);
+  --demo-text:#eef5f8;
+  --demo-muted:#aabcc7;
+  --demo-amber:#d79a43;
+  --demo-amber-soft:#f1c77d;
+  --demo-blue:#73a8c4;
+  --demo-shadow:0 24px 70px rgba(0,0,0,.42);
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:radial-gradient(circle at 78% 8%,rgba(72,119,145,.18),transparent 32%),linear-gradient(180deg,#050b10 0%,#09151e 46%,#050b10 100%);color:var(--demo-text);font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.65}
+a{color:inherit}
+.demo-shell{min-height:100vh;overflow:hidden}
+.demo-header{position:absolute;z-index:4;top:0;left:0;right:0;display:flex;justify-content:space-between;align-items:center;gap:24px;padding:24px clamp(20px,5vw,72px);font-size:14px;letter-spacing:.04em}
+.demo-brand{margin:0;text-transform:uppercase;letter-spacing:.24em;font-weight:700}
+.demo-nav{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:18px}
+.demo-nav a{text-decoration:none;color:rgba(238,245,248,.78)}
+.demo-nav a:hover,.demo-nav a:focus{color:#fff}
+.demo-hero{position:relative;min-height:760px;display:grid;align-items:end;padding:150px clamp(20px,6vw,90px) 80px;background-image:linear-gradient(90deg,rgba(3,9,14,.96) 0%,rgba(3,9,14,.78) 38%,rgba(3,9,14,.18) 72%,rgba(3,9,14,.62) 100%),url("https://raw.githubusercontent.com/Ashraellen/apm/main/Projects/Demotopia/Publishing/Cover/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.png");background-size:cover;background-position:center}
+.demo-hero:after{content:"";position:absolute;inset:auto 0 0;height:220px;background:linear-gradient(transparent,var(--demo-bg));pointer-events:none}
+.demo-hero-copy{position:relative;z-index:2;max-width:820px}
+.demo-kicker{margin:0 0 18px;color:var(--demo-amber-soft);font-size:13px;font-weight:700;text-transform:uppercase;letter-spacing:.22em}
+.demo-title{margin:0;font-family:Georgia,"Times New Roman",serif;font-size:clamp(56px,10vw,132px);line-height:.86;letter-spacing:-.055em;font-weight:500;text-transform:uppercase}
+.demo-subtitle{margin:22px 0 0;max-width:660px;font-family:Georgia,"Times New Roman",serif;font-size:clamp(22px,3vw,38px);line-height:1.2;font-weight:400;color:#dbe8ee}
+.demo-lead{margin:30px 0 0;max-width:720px;font-size:clamp(17px,2vw,22px);color:rgba(238,245,248,.84)}
+.demo-actions{display:flex;flex-wrap:wrap;gap:14px;margin-top:34px}
+.demo-btn{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:12px 20px;border:1px solid rgba(238,245,248,.24);border-radius:999px;text-decoration:none;font-weight:700;letter-spacing:.02em;background:rgba(8,19,27,.5);backdrop-filter:blur(8px)}
+.demo-btn.primary{background:var(--demo-amber);border-color:var(--demo-amber);color:#111820}
+.demo-btn:hover,.demo-btn:focus{transform:translateY(-1px);border-color:rgba(238,245,248,.6)}
+.demo-main{position:relative;z-index:2;max-width:1240px;margin:0 auto;padding:40px clamp(20px,5vw,64px) 100px}
+.demo-grid{display:grid;grid-template-columns:minmax(230px,360px) minmax(0,1fr);gap:clamp(34px,6vw,86px);align-items:start}
+.demo-cover-wrap{position:sticky;top:28px}
+.demo-cover{display:block;width:100%;border-radius:8px;box-shadow:var(--demo-shadow);border:1px solid rgba(255,255,255,.12)}
+.demo-cover-note{margin:16px 0 0;color:var(--demo-muted);font-size:13px;text-align:center}
+.demo-section{padding:34px 0;border-top:1px solid var(--demo-line)}
+.demo-section:first-child{border-top:0;padding-top:0}
+.demo-section h2{margin:0 0 18px;font-family:Georgia,"Times New Roman",serif;font-size:clamp(30px,4vw,52px);font-weight:500;line-height:1.08}
+.demo-section p{margin:0 0 16px;color:#d6e2e8;font-size:17px}
+.demo-pullquote{margin:28px 0;padding:26px 28px;border-left:3px solid var(--demo-amber);background:linear-gradient(90deg,rgba(215,154,67,.11),transparent);font-family:Georgia,"Times New Roman",serif;font-size:clamp(23px,3vw,34px);line-height:1.35;color:#f1f5f7}
+.demo-facts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin-top:24px}
+.demo-fact{padding:18px 20px;border:1px solid var(--demo-line);border-radius:14px;background:var(--demo-panel-soft)}
+.demo-fact strong{display:block;margin-bottom:5px;color:var(--demo-amber-soft);font-size:12px;text-transform:uppercase;letter-spacing:.14em}
+.demo-links{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin-top:22px}
+.demo-link-card{display:block;padding:22px;border:1px solid var(--demo-line);border-radius:16px;background:var(--demo-panel);text-decoration:none;box-shadow:0 12px 34px rgba(0,0,0,.16)}
+.demo-link-card:hover,.demo-link-card:focus{border-color:rgba(215,154,67,.75);transform:translateY(-2px)}
+.demo-link-card span{display:block;color:var(--demo-amber-soft);font-size:12px;text-transform:uppercase;letter-spacing:.14em;margin-bottom:8px}
+.demo-link-card strong{font-family:Georgia,"Times New Roman",serif;font-size:22px;font-weight:500}
+.demo-status{padding:28px;border:1px solid rgba(115,168,196,.32);border-radius:18px;background:linear-gradient(135deg,rgba(26,58,75,.56),rgba(10,23,33,.76))}
+.demo-status h3{margin:0 0 10px;font-size:18px}
+.demo-status p{margin:0;color:#c7d6dd}
+.demo-footer{display:flex;justify-content:space-between;align-items:center;gap:24px;max-width:1240px;margin:0 auto;padding:30px clamp(20px,5vw,64px) 54px;border-top:1px solid var(--demo-line);color:var(--demo-muted);font-size:14px}
+.demo-footer-links{display:flex;flex-wrap:wrap;gap:18px}
+.demo-footer a{text-decoration:none}
+.demo-presence{display:flex;align-items:center;gap:10px;white-space:nowrap}
+.demo-presence img{width:34px;height:34px;object-fit:contain;opacity:.86}
+@media(max-width:820px){.demo-header{position:relative;background:#050b10;align-items:flex-start}.demo-nav{gap:10px 16px}.demo-hero{min-height:680px;padding-top:90px;background-position:64% center}.demo-grid{grid-template-columns:1fr}.demo-cover-wrap{position:relative;top:auto;max-width:380px;margin:0 auto}.demo-facts,.demo-links{grid-template-columns:1fr}.demo-footer{align-items:flex-start;flex-direction:column}.demo-title{font-size:clamp(54px,18vw,96px)}}
+@media(prefers-reduced-motion:no-preference){.demo-btn,.demo-link-card{transition:transform .2s ease,border-color .2s ease}}
