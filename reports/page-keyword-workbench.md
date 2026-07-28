@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-28T19:31:44.610Z
+Generated: 2026-07-28T20:07:44.560Z
 Pages: 599
 
 ## Index
@@ -2946,14 +2946,14 @@ Excerpt:
 - description: Request an author-issued samizdat 2.0 book in any project language.
 - canonical: https://www.ashraellen.com/en/books/samizdat/order/
 - H1: Request a copy
-- H2: Request → estimate → confirmation → payment → print → delivery
+- H2: Request ↓ Estimate ↓ Confirmation ↓ Payment ↓ Print ↓ Delivery
 - H3: _missing_
 - suggested keyword seed: request, 2.0, copy, samizdat, ashraellen, book, books, delivery, language, payment, address, any, arrange, author-issued, before, confirm, confirmation, confirmed
 - candidates: delivery, request, language, book, copy, payment, 2.0, address, arrange, before, confirm, confirmed, estimate, may, personally, print, printing, reader, samizdat, select, used, agree, another, answer
 
 Excerpt:
 
-> Made on confirmed request Request a copy A book may be prepared, typeset, printed and shipped for a particular reader. Before payment we personally confirm language availability, preparation time, print cost and delivery. Sending this form does not create a purchase obligation. How it works Request → estimate → confirmation → payment → print → delivery If the selected language is not yet print-ready, we will first confirm the estimated translation and typesetting period. Book Select Demotopia — Democratic Utopia Copy language Select Belarusian (BE) German (DE) English (EN) Spanish (ES) French (FR) Polish (PL) Portuguese (PT) Russian (RU) Ukrainian (UK) Quantity Purpose For myself Gift Pass on to another reader Full name Email Phone for delivery Country City Postal code Delivery address The address is used only to estimate and arrange printing and delivery. Message I agree that the submit
+> Made on confirmed request Request a copy A book may be prepared, typeset, printed and shipped for a particular reader. Before payment we personally confirm language availability, preparation time, print cost and delivery. Sending this form does not create a purchase obligation. How it works Request ↓ Estimate ↓ Confirmation ↓ Payment ↓ Print ↓ Delivery If the selected language is not yet print-ready, we will first confirm the estimated translation and typesetting period. Book Select Demotopia — Democratic Utopia Copy language Select Belarusian (BE) German (DE) English (EN) Spanish (ES) French (FR) Polish (PL) Portuguese (PT) Russian (RU) Ukrainian (UK) Quantity Purpose For myself Gift Pass on to another reader Full name Email Phone for delivery Country City Postal code Delivery address The address is used only to estimate and arrange printing and delivery. Message I agree that the submit
 
 ### en/books/samizdat/order/received/index.html
 
@@ -8573,14 +8573,14 @@ Excerpt:
 - description: Запрос авторского экземпляра книги самиздата 2.0 на любом языке проекта.
 - canonical: https://www.ashraellen.com/ru/books/samizdat/order/
 - H1: Запросить экземпляр
-- H2: Запрос → расчёт → подтверждение → оплата → печать → доставка
+- H2: Запрос ↓ Расчёт ↓ Подтверждение ↓ Оплата ↓ Печать ↓ Доставка
 - H3: _missing_
 - suggested keyword seed: 2.0, запрос, запросить, ashraellen, books, доставка, оплата, самиздата, экземпляр, order, samizdat, авторского, адрес, выберите, доставки, книга, книги, лично
 - candidates: доставки, запрос, печати, срок, 2.0, адрес, выберите, доставка, запросить, книга, лично, оплата, организации, расчёта, самиздата, читателю, экземпляр, экземпляра, язык, ashraellen, demotopia, email, авторского, английский
 
 Excerpt:
 
-> Изготовление по подтверждённому запросу Запросить экземпляр Книга может быть подготовлена, свёрстана, напечатана и отправлена конкретному читателю. До оплаты мы лично подтверждаем доступность языка, срок подготовки, стоимость печати и доставки. Отправка формы не создаёт обязательства совершить покупку. Как это работает Запрос → расчёт → подтверждение → оплата → печать → доставка Если выбранный язык ещё не подготовлен к печати, мы предварительно сообщим предполагаемый срок перевода и вёрстки. Книга Выберите Demotopia — Демократичная Утопия Язык экземпляра Выберите Белорусский (BE) Немецкий (DE) Английский (EN) Испанский (ES) Французский (FR) Польский (PL) Португальский (PT) Русский (RU) Украинский (UK) Количество Назначение Для себя В подарок Для передачи другому читателю Имя и фамилия Email Телефон для доставки Страна Город Почтовый индекс Адрес доставки Адрес используется только для рас
+> Изготовление по подтверждённому запросу Запросить экземпляр Книга может быть подготовлена, свёрстана, напечатана и отправлена конкретному читателю. До оплаты мы лично подтверждаем доступность языка, срок подготовки, стоимость печати и доставки. Отправка формы не создаёт обязательства совершить покупку. Как это работает Запрос ↓ Расчёт ↓ Подтверждение ↓ Оплата ↓ Печать ↓ Доставка Если выбранный язык ещё не подготовлен к печати, мы предварительно сообщим предполагаемый срок перевода и вёрстки. Книга Выберите Demotopia — Демократичная Утопия Язык экземпляра Выберите Белорусский (BE) Немецкий (DE) Английский (EN) Испанский (ES) Французский (FR) Польский (PL) Португальский (PT) Русский (RU) Украинский (UK) Количество Назначение Для себя В подарок Для передачи другому читателю Имя и фамилия Email Телефон для доставки Страна Город Почтовый индекс Адрес доставки Адрес используется только для рас
 
 ### ru/books/samizdat/order/received/index.html
 

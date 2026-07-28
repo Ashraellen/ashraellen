@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T19:31:44.598Z",
+  "generated": "2026-07-28T20:07:44.546Z",
   "pages": [
     {
       "page": "be/books/error-404-god-not-found/index.html",
@@ -10244,7 +10244,7 @@
         "Request a copy"
       ],
       "h2": [
-        "Request → estimate → confirmation → payment → print → delivery"
+        "Request ↓ Estimate ↓ Confirmation ↓ Payment ↓ Print ↓ Delivery"
       ],
       "h3": [],
       "slugTerms": [
@@ -10253,7 +10253,7 @@
         "samizdat",
         "order"
       ],
-      "excerpt": "Made on confirmed request Request a copy A book may be prepared, typeset, printed and shipped for a particular reader. Before payment we personally confirm language availability, preparation time, print cost and delivery. Sending this form does not create a purchase obligation. How it works Request → estimate → confirmation → payment → print → delivery If the selected language is not yet print-ready, we will first confirm the estimated translation and typesetting period. Book Select Demotopia — Democratic Utopia Copy language Select Belarusian (BE) German (DE) English (EN) Spanish (ES) French (FR) Polish (PL) Portuguese (PT) Russian (RU) Ukrainian (UK) Quantity Purpose For myself Gift Pass on to another reader Full name Email Phone for delivery Country City Postal code Delivery address The address is used only to estimate and arrange printing and delivery. Message I agree that the submit",
+      "excerpt": "Made on confirmed request Request a copy A book may be prepared, typeset, printed and shipped for a particular reader. Before payment we personally confirm language availability, preparation time, print cost and delivery. Sending this form does not create a purchase obligation. How it works Request ↓ Estimate ↓ Confirmation ↓ Payment ↓ Print ↓ Delivery If the selected language is not yet print-ready, we will first confirm the estimated translation and typesetting period. Book Select Demotopia — Democratic Utopia Copy language Select Belarusian (BE) German (DE) English (EN) Spanish (ES) French (FR) Polish (PL) Portuguese (PT) Russian (RU) Ukrainian (UK) Quantity Purpose For myself Gift Pass on to another reader Full name Email Phone for delivery Country City Postal code Delivery address The address is used only to estimate and arrange printing and delivery. Message I agree that the submit",
       "candidates": [
         "delivery",
         "request",
@@ -34668,7 +34668,7 @@
         "Запросить экземпляр"
       ],
       "h2": [
-        "Запрос → расчёт → подтверждение → оплата → печать → доставка"
+        "Запрос ↓ Расчёт ↓ Подтверждение ↓ Оплата ↓ Печать ↓ Доставка"
       ],
       "h3": [],
       "slugTerms": [
@@ -34677,7 +34677,7 @@
         "samizdat",
         "order"
       ],
-      "excerpt": "Изготовление по подтверждённому запросу Запросить экземпляр Книга может быть подготовлена, свёрстана, напечатана и отправлена конкретному читателю. До оплаты мы лично подтверждаем доступность языка, срок подготовки, стоимость печати и доставки. Отправка формы не создаёт обязательства совершить покупку. Как это работает Запрос → расчёт → подтверждение → оплата → печать → доставка Если выбранный язык ещё не подготовлен к печати, мы предварительно сообщим предполагаемый срок перевода и вёрстки. Книга Выберите Demotopia — Демократичная Утопия Язык экземпляра Выберите Белорусский (BE) Немецкий (DE) Английский (EN) Испанский (ES) Французский (FR) Польский (PL) Португальский (PT) Русский (RU) Украинский (UK) Количество Назначение Для себя В подарок Для передачи другому читателю Имя и фамилия Email Телефон для доставки Страна Город Почтовый индекс Адрес доставки Адрес используется только для рас",
+      "excerpt": "Изготовление по подтверждённому запросу Запросить экземпляр Книга может быть подготовлена, свёрстана, напечатана и отправлена конкретному читателю. До оплаты мы лично подтверждаем доступность языка, срок подготовки, стоимость печати и доставки. Отправка формы не создаёт обязательства совершить покупку. Как это работает Запрос ↓ Расчёт ↓ Подтверждение ↓ Оплата ↓ Печать ↓ Доставка Если выбранный язык ещё не подготовлен к печати, мы предварительно сообщим предполагаемый срок перевода и вёрстки. Книга Выберите Demotopia — Демократичная Утопия Язык экземпляра Выберите Белорусский (BE) Немецкий (DE) Английский (EN) Испанский (ES) Французский (FR) Польский (PL) Португальский (PT) Русский (RU) Украинский (UK) Количество Назначение Для себя В подарок Для передачи другому читателю Имя и фамилия Email Телефон для доставки Страна Город Почтовый индекс Адрес доставки Адрес используется только для рас",
       "candidates": [
         "доставки",
         "запрос",
