@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T20:52:39.610Z",
+  "generated": "2026-07-28T20:54:22.332Z",
   "pages": [
     {
       "page": "be/books/error-404-god-not-found/index.html",
@@ -795,6 +795,85 @@
         "дэмакратычная",
         "запытаць",
         "кнігу"
+      ]
+    },
+    {
+      "page": "be/books/samizdat/index.html",
+      "lang": "be",
+      "section": "books",
+      "title": "samizdat 2.0 — аўтарскія выданні Ashraellen",
+      "description": "samizdat 2.0 ад Ashraellen: навошта патрэбныя прамыя аўтарскія фізічныя выданні, як працуюць нумараваныя асобнікі і пастаянныя пашпарты кніг.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/be/books/samizdat/",
+      "h1": [
+        "samizdat 2.0"
+      ],
+      "h2": [
+        "Чаму цяпер",
+        "Што гэта такое",
+        "Як гэта працуе",
+        "Нумарацыя без нагляду",
+        "QR-пашпарт",
+        "Кніга, прызначаная падарожнічаць",
+        "Кнігі ў samizdat 2.0"
+      ],
+      "h3": [
+        "Завершанае аўтарскае выданне",
+        "Па-за індустрыяльным ланцугом",
+        "Адзін асобнік як адзін прадмет",
+        "Пастаянны публічны пашпарт"
+      ],
+      "slugTerms": [
+        "be",
+        "books",
+        "samizdat"
+      ],
+      "excerpt": "Фізічныя кнігі ад аўтара / публічныя пашпарты кніг samizdat 2.0 Каб стаць публічнай, кніга не абавязана ператварацца ў ананімны тавар. samizdat 2.0 — сучасная структура для кніг, завершаных аўтарам, увасобленых у фізічнай форме па-за індустрыяльным выдавецкім ланцугом і перададзеных непасрэдна чытачам. Кожнае выданне захоўвае сувязь са сваім паходжаннем праз пастаянны публічны пашпарт. Чаму цяпер апублікаваць лёгка; захаваць прысутнасць — не Класічны самвыдат узнік там, дзе тэкст не мог прайсці праз афіцыйныя каналы. Сёння тэхнічны акт публікацыі стаў амаль агульнадаступным. Файл можна выпусціць імгненна, кнігу — надрукаваць па патрабаванні, а тэкст — распаўсюдзіць без дазволу. Але гэтая свабода стварае іншую страту. Фізічная кніга лёгка трапляе ў той самы ананімны абарот, што і любы іншы тавар: створаны, замоўлены, дастаўлены і забыты без бачнай сувязі паміж аўтарам, прадметам і чытачом",
+      "candidates": [
+        "samizdat",
+        "2.0",
+        "асобнік",
+        "можа",
+        "адзін",
+        "без",
+        "кніга",
+        "аўтарам",
+        "выданне",
+        "выдання",
+        "публічны",
+        "або",
+        "кнігі",
+        "нумар",
+        "qr-код",
+        "аўтарскай",
+        "аўтарскія",
+        "выданні",
+        "вядзе",
+        "запіс",
+        "кніг",
+        "кнігу",
+        "мову",
+        "пастаянны"
+      ],
+      "suggestedKeywordSeed": [
+        "samizdat",
+        "2.0",
+        "ashraellen",
+        "books",
+        "аўтарскія",
+        "без",
+        "выданні",
+        "кніга",
+        "qr-пашпарт",
+        "або",
+        "адзін",
+        "асобнік",
+        "асобнікі",
+        "аўтарам",
+        "выданне",
+        "выдання",
+        "кніг",
+        "кнігі"
       ]
     },
     {
@@ -5603,6 +5682,76 @@
         "die",
         "ein",
         "eines"
+      ]
+    },
+    {
+      "page": "de/books/samizdat/order/received/index.html",
+      "lang": "de",
+      "section": "books",
+      "title": "Anfrage erhalten — samizdat 2.0",
+      "description": "",
+      "existingKeywords": "",
+      "canonical": "",
+      "h1": [
+        "Anfrage erhalten"
+      ],
+      "h2": [
+        "Es wurde nicht automatisch ein Kauf abgeschlossen."
+      ],
+      "h3": [],
+      "slugTerms": [
+        "de",
+        "books",
+        "samizdat",
+        "order",
+        "received"
+      ],
+      "excerpt": "samizdat 2.0 Anfrage erhalten Vielen Dank. Ihre Anfrage wurde gesendet. Wir melden uns per E-Mail, um Sprachverfügbarkeit, Vorbereitungszeit, Druckkosten, Lieferung und Zahlung zu bestätigen, bevor eine Produktion beginnt. Es wurde nicht automatisch ein Kauf abgeschlossen. Bitte prüfen Sie die in der Form angegebenen E-Mail-Adresse, einschließlich des Spam-Ordners.",
+      "candidates": [
+        "anfrage",
+        "2.0",
+        "erhalten",
+        "samizdat",
+        "wurde",
+        "abgeschlossen",
+        "angegebenen",
+        "automatisch",
+        "beginnt",
+        "bestätigen",
+        "bevor",
+        "bitte",
+        "dank",
+        "der",
+        "des",
+        "die",
+        "druckkosten",
+        "e-mail",
+        "e-mail-adresse",
+        "ein",
+        "eine",
+        "einschließlich",
+        "form",
+        "gesendet"
+      ],
+      "suggestedKeywordSeed": [
+        "anfrage",
+        "erhalten",
+        "samizdat",
+        "2.0",
+        "abgeschlossen",
+        "automatisch",
+        "books",
+        "wurde",
+        "angegebenen",
+        "ashraellen",
+        "beginnt",
+        "bestätigen",
+        "bevor",
+        "bitte",
+        "ein",
+        "kauf",
+        "nicht",
+        "order"
       ]
     },
     {

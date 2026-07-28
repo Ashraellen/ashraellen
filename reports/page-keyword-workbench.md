@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-28T20:52:39.621Z
-Pages: 602
+Generated: 2026-07-28T20:54:22.443Z
+Pages: 604
 
 ## Index
 
@@ -17,6 +17,7 @@ Pages: 602
 | be/books/radiance/sampo/index.html | be | books | Ashraellen — САМПО \| Ззянне, кніга I | Ashraellen, Ззянне, САМПО, Песня, Кнігі, literary-philosophical, artistic research | сампо, ashraellen, books, ззянне, кніга, radiance, sampo, аддзяліўся, але, амаль, багацці, без, было, валоданні, выбраная, выдавецкі, выдаўцоў, глава |
 | be/books/radiance/song/index.html | be | books | Ashraellen — Песня \| Ззянне, кніга II | Ashraellen, Ззянне, САМПО, Песня, Кнігі, literary-philosophical, artistic research | песня, ashraellen, books, ззянне, кніга, пра, radiance, song, айла, але, амаль, без, была, было, быў, варшаву, выбраная, выдавецкі |
 | be/books/samizdat/demotopia/index.html | be | books | Demotopia — Пашпарт кнігі — samizdat 2.0 | _missing_ | demotopia, samizdat, пашпарт, 2.0, books, асобнік, выданне, кнігі, пра, ashraellen, аўтара, аўтарскага, аўтарскі, выдання, гэтае, дэмакратычная, запытаць, кнігу |
+| be/books/samizdat/index.html | be | books | samizdat 2.0 — аўтарскія выданні Ashraellen | _missing_ | samizdat, 2.0, ashraellen, books, аўтарскія, без, выданні, кніга, qr-пашпарт, або, адзін, асобнік, асобнікі, аўтарам, выданне, выдання, кніг, кнігі |
 | be/books/samizdat/order/index.html | be | books | Запытаць асобнік samizdat 2.0 — Ashraellen | _missing_ | samizdat, 2.0, асобнік, запыт, ashraellen, books, аплата, асобніка, запытаць, order, адрас, арганізацыі, асабіста, аўтарскага, дастаўка, дастаўкі, друк, друку |
 | be/books/samizdat/order/received/index.html | be | books | Запыт атрыманы — samizdat 2.0 | _missing_ | samizdat, атрыманы, запыт, 2.0, books, аўтаматычна, была, ashraellen, email, order, received, адпраўлены, аплату, вамі, ваш, вырабу, пакупка, створана |
 | be/books/seccus/index.html | be | books | Ashraellen — САКРАЛЬНАЯ КНІГА АХЕПСУ | Ashraellen, АХЕПСУ, Сакральная кніга АХЕПСУ, Шлях Сумленнасці, філасофская сатыра, грошы, поспех, самаашуканства, веды як алібі, адказнасць, Sacrunomicon, Ordo Sacrunomiconis, Тэтра-Кніга | ахепсу, кніга, пра, сакральная, ashraellen, books, грошы, поспех, sacrunomicon, seccus, ssmv, або, абраная, адказнасць, але, алібі, без, веды |
@@ -82,6 +83,7 @@ Pages: 602
 | de/books/radiance/index.html | de | books | Ashraellen — Glanz \| Nordische Geschichten über die wahre Geschichte der Welt | Ashraellen, Glanz, Sampo, Lied, Bücher, literary-philosophical, artistic research | glanz, ist, der, die, für, geschichten, welt, ashraellen, books, ein, was, als, alte, anleitungskarte, anweisungen, bewahren, bildhafte, buch |
 | de/books/radiance/sampo/index.html | de | books | Ashraellen — Sampo \| Glanz, Buch I | Ashraellen, Glanz, Sampo, Lied, Bücher, literary-philosophical, artistic research | und, sampo, buch, das, der, ist, ashraellen, books, eine, für, glanz, nicht, über, arbeit, auf, besitz, den, die |
 | de/books/radiance/song/index.html | de | books | Ashraellen — Lied \| Glanz, Buch II | Ashraellen, Glanz, Sampo, Lied, Bücher, literary-philosophical, artistic research | das, lied, und, buch, ashraellen, books, der, eine, für, glanz, nicht, sprache, über, auf, den, die, ein, eines |
+| de/books/samizdat/order/received/index.html | de | books | Anfrage erhalten — samizdat 2.0 | _missing_ | anfrage, erhalten, samizdat, 2.0, abgeschlossen, automatisch, books, wurde, angegebenen, ashraellen, beginnt, bestätigen, bevor, bitte, ein, kauf, nicht, order |
 | de/books/seccus/index.html | de | books | Ashraellen — DAS HEILIGE BUCH SECCUS | Ashraellen, SECCUS, Das Heilige Buch SECCUS, Der Weg der Ehrlichkeit, philosophische Satire, Geld, Erfolg, Selbsttäuschung, Wissen als Alibi, Verantwortung, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Buch | das, buch, der, die, seccus, heilige, und, ashraellen, books, des, für, ist, seite, über, alibi, als, ausgewählte, buches |
 | de/books/the-book-of-whinesis/index.html | de | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sakrale, satire, für, alle, die, von, positiven, vibes, endloser, produktivität, und, dem, kult, des | book, whinesis, ashraellen, books, des, die, und, alle, auf, auszug, buch, das, dem, den, der, endloser, erfolgs, erste |
 | de/books/you-are-already-online/index.html | de | books | Ashraellen — Du bist bereits online | ashraellen, books, you, already, online, bist, bereits, ein, immersiver, audio-roman, genre, des, psychologischen, thrillers, und, cyberpunk-dramas, über, digitale | bereits, online, bist, des, und, ashraellen, books, das, ein, über, algorithmen, already, audio-roman, auszug, buch, cyberpunk-dramas, den, der |
@@ -781,6 +783,23 @@ Excerpt:
 Excerpt:
 
 > Пашпарт кнігі / samizdat 2.0 Demotopia Дэмакратычная Утопія Філасофскі раман пра дэмакратыю, уладу і ціхае ператварэнне свабоды ў рытуал. Фізічнае выданне непасрэдна ад аўтара Пра кнігу дэмакратыя знутры ўласнага рытуалу Demotopia даследуе момант, калі дэмакратычная мова застаецца нязменнай, а дэмакратычны сэнс пачынае знікаць. Раман паказвае не імгненны крах свабоды, а яе паступовае ператварэнне ў звычку, працэдуру і прадстаўленне. Раман не належыць ніводнай партыі і не прапануе палітычнай праграмы. Ён задае цішэйшае і цяжэйшае пытанне: што адбываецца, калі людзі працягваюць выконваць дэмакратыю, ужо не чакаючы, што яна нешта зменіць? Гэтае выданне завершаная фізічная форма, выдадзеная непасрэдна аўтарам Твор Demotopia — Дэмакратычная Утопія Аўтар Ashraellen Выданне Фізічнае аўтарскае выданне Сістэма samizdat 2.0 Месца і год Варшава, 2026 Мова пашпарта Беларуская Пра кожны асобнік Кожны
+
+### be/books/samizdat/index.html
+
+- lang: be
+- section: books
+- title: samizdat 2.0 — аўтарскія выданні Ashraellen
+- description: samizdat 2.0 ад Ashraellen: навошта патрэбныя прамыя аўтарскія фізічныя выданні, як працуюць нумараваныя асобнікі і пастаянныя пашпарты кніг.
+- canonical: https://www.ashraellen.com/be/books/samizdat/
+- H1: samizdat 2.0
+- H2: Чаму цяпер | Што гэта такое | Як гэта працуе | Нумарацыя без нагляду | QR-пашпарт | Кніга, прызначаная падарожнічаць | Кнігі ў samizdat 2.0
+- H3: Завершанае аўтарскае выданне | Па-за індустрыяльным ланцугом | Адзін асобнік як адзін прадмет | Пастаянны публічны пашпарт
+- suggested keyword seed: samizdat, 2.0, ashraellen, books, аўтарскія, без, выданні, кніга, qr-пашпарт, або, адзін, асобнік, асобнікі, аўтарам, выданне, выдання, кніг, кнігі
+- candidates: samizdat, 2.0, асобнік, можа, адзін, без, кніга, аўтарам, выданне, выдання, публічны, або, кнігі, нумар, qr-код, аўтарскай, аўтарскія, выданні, вядзе, запіс, кніг, кнігу, мову, пастаянны
+
+Excerpt:
+
+> Фізічныя кнігі ад аўтара / публічныя пашпарты кніг samizdat 2.0 Каб стаць публічнай, кніга не абавязана ператварацца ў ананімны тавар. samizdat 2.0 — сучасная структура для кніг, завершаных аўтарам, увасобленых у фізічнай форме па-за індустрыяльным выдавецкім ланцугом і перададзеных непасрэдна чытачам. Кожнае выданне захоўвае сувязь са сваім паходжаннем праз пастаянны публічны пашпарт. Чаму цяпер апублікаваць лёгка; захаваць прысутнасць — не Класічны самвыдат узнік там, дзе тэкст не мог прайсці праз афіцыйныя каналы. Сёння тэхнічны акт публікацыі стаў амаль агульнадаступным. Файл можна выпусціць імгненна, кнігу — надрукаваць па патрабаванні, а тэкст — распаўсюдзіць без дазволу. Але гэтая свабода стварае іншую страту. Фізічная кніга лёгка трапляе ў той самы ананімны абарот, што і любы іншы тавар: створаны, замоўлены, дастаўлены і забыты без бачнай сувязі паміж аўтарам, прадметам і чытачом
 
 ### be/books/samizdat/order/index.html
 
@@ -1886,6 +1905,23 @@ Excerpt:
 Excerpt:
 
 > Glanz – Nordische Geschichten über die wahre Geschichte der Welt Lied Buch II des literarischen und philosophischen Zyklus „Glanz“. Ein Roman über Klang, der keine Macht übernimmt: über das Hören, die Sprache, die Stadt, die Arbeitsszene und Lied, der nicht zur Nummer wird. Nach „Sampo“ wird die Frage nach der Fülle durch die Frage nach dem Wort ersetzt: Kann Sprache keine Meinung, kein Argument, kein Selbstausdruck, sondern eine Form der Individualisierung werden? Russisches Cover. Ashraellen. Empfohlenes Kapitel Kapitel Eins. Normales Geräusch Komplettes erstes Kapitel: Aylas Rückkehr nach Warschau, gewöhnlicher Stadtlärm und der erste Bruch zwischen Klang als Arbeit und Hören als Haltung. Kapitel öffnen Kapitel schließen Warschau begegnete Ayla nicht mit einem Zeichen, nicht mit einer Vision und nicht mit einem Flüstern aus dem Untergrund, das einer Fortsetzung des antiken Prologs wür
+
+### de/books/samizdat/order/received/index.html
+
+- lang: de
+- section: books
+- title: Anfrage erhalten — samizdat 2.0
+- description: _missing_
+- canonical: _missing_
+- H1: Anfrage erhalten
+- H2: Es wurde nicht automatisch ein Kauf abgeschlossen.
+- H3: _missing_
+- suggested keyword seed: anfrage, erhalten, samizdat, 2.0, abgeschlossen, automatisch, books, wurde, angegebenen, ashraellen, beginnt, bestätigen, bevor, bitte, ein, kauf, nicht, order
+- candidates: anfrage, 2.0, erhalten, samizdat, wurde, abgeschlossen, angegebenen, automatisch, beginnt, bestätigen, bevor, bitte, dank, der, des, die, druckkosten, e-mail, e-mail-adresse, ein, eine, einschließlich, form, gesendet
+
+Excerpt:
+
+> samizdat 2.0 Anfrage erhalten Vielen Dank. Ihre Anfrage wurde gesendet. Wir melden uns per E-Mail, um Sprachverfügbarkeit, Vorbereitungszeit, Druckkosten, Lieferung und Zahlung zu bestätigen, bevor eine Produktion beginnt. Es wurde nicht automatisch ein Kauf abgeschlossen. Bitte prüfen Sie die in der Form angegebenen E-Mail-Adresse, einschließlich des Spam-Ordners.
 
 ### de/books/seccus/index.html
 
