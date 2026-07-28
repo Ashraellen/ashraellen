@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-28T21:00:28.496Z
-Pages: 616
+Generated: 2026-07-28T21:01:04.018Z
+Pages: 617
 
 ## Index
 
@@ -425,6 +425,7 @@ Pages: 616
 | pt/books/radiance/index.html | pt | books | Ashraellen — Esplendor \| Contos do norte sobre a história real do mundo | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | esplendor, instruções, mundo, para, que, sobre, ashraellen, books, ciclo, como, não, pesquisa, antigas, artística, artístico, confundir, contos, este |
 | pt/books/radiance/sampo/index.html | pt | books | Ashraellen — Sampo \| Esplendor, livro I | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | sampo, livro, para, ashraellen, books, esplendor, não, sobre, abundância, ainda, artística, capítulo, com, como, conto, culturais, destaque, editoras |
 | pt/books/radiance/song/index.html | pt | books | Ashraellen — Canto \| Esplendor, livro II | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | canto, livro, para, ashraellen, books, esplendor, não, que, sem, sobre, uma, apresentação, artística, audição, ayla, capítulo, com, como |
+| pt/books/samizdat/order/index.html | pt | books | Solicitar um exemplar samizdat 2.0 — Ashraellen | _missing_ | exemplar, 2.0, pedido, samizdat, ashraellen, books, entrega, idioma, impressão, pagamento, solicitar, antes, autor, calcular, cálculo, como, confirmação, order |
 | pt/books/samizdat/order/received/index.html | pt | books | Pedido recebido — samizdat 2.0 | _missing_ | pedido, recebido, samizdat, 2.0, automaticamente, books, compra, criada, foi, antes, ashraellen, confirmar, contacto, email, nenhuma, order, received |
 | pt/books/seccus/index.html | pt | books | Ashraellen — O LIVRO SAGRADO DE SECCUS | Ashraellen, SECCUS, O Livro Sagrado de SECCUS, O Caminho da Honestidade, sátira filosófica, dinheiro, sucesso, autoengano, conhecimento como álibi, responsabilidade, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Livro | livro, seccus, sagrado, ashraellen, books, como, página, para, sobre, sucesso, uma, álibi, autoengano, caminho, conhecimento, corpus, dinheiro, escolha |
 | pt/books/the-book-of-whinesis/index.html | pt | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sátira, sagrada, para, quem, cansou, das, vibrações, positivas, produtividade, infinita, culto, sucesso, sobre, livro | book, whinesis, ashraellen, books, para, sobre, cansou, capítulos, culto, das, desconto, disse, gnorna, infinita, livro, moania, não, pois |
@@ -7731,6 +7732,23 @@ Excerpt:
 Excerpt:
 
 > Esplendor - Contos do norte sobre a história real do mundo Canto Livro II do ciclo literário e filosófico “Esplendor”. Um romance sobre o som que não toma poder: sobre a audição, a linguagem, a cidade, o cenário do trabalho e Canto, que não vira número. Depois de “Sampo” a questão da abundância é substituída pela questão da palavra: pode a linguagem tornar-se não uma opinião, não um argumento, não uma auto-expressão, mas uma forma de personalização? Capa russa. Ashraellen. Capítulo em destaque Capítulo Um. Ruído normal Primeiro capítulo completo: o retorno de Ayla a Varsóvia, o barulho comum da cidade e a primeira ruptura entre o som como trabalho e a audição como atitude. Abrir capítulo Fechar capítulo Varsóvia encontrou Ayla não com um sinal, não com uma visão, e não com algum sussurro do subsolo digno de uma continuação do antigo prólogo. Varsóvia a cumprimentou com um anúncio no trem
+
+### pt/books/samizdat/order/index.html
+
+- lang: pt
+- section: books
+- title: Solicitar um exemplar samizdat 2.0 — Ashraellen
+- description: Pedido de um exemplar de autor samizdat 2.0 em qualquer idioma do projeto.
+- canonical: https://www.ashraellen.com/pt/books/samizdat/order/
+- H1: Solicitar um exemplar
+- H2: Pedido ↓ Cálculo ↓ Confirmação ↓ Pagamento ↓ Impressão ↓ Entrega
+- H3: _missing_
+- suggested keyword seed: exemplar, 2.0, pedido, samizdat, ashraellen, books, entrega, idioma, impressão, pagamento, solicitar, antes, autor, calcular, cálculo, como, confirmação, order
+- candidates: entrega, para, impressão, pedido, exemplar, idioma, pagamento, prazo, 2.0, antes, calcular, como, leitor, livro, morada, não, organizar, pessoalmente, produção, samizdat, selecionar, solicitar, ainda, alemão
+
+Excerpt:
+
+> Produção após pedido confirmado Solicitar um exemplar Um livro pode ser preparado, paginado, impresso e enviado para um leitor específico. Antes do pagamento, confirmamos pessoalmente a disponibilidade do idioma, o prazo de preparação e os custos de impressão e entrega. O envio do formulário não cria obrigação de compra. Como funciona Pedido ↓ Cálculo ↓ Confirmação ↓ Pagamento ↓ Impressão ↓ Entrega Se o idioma escolhido ainda não estiver pronto para impressão, indicaremos primeiro o prazo estimado de tradução e paginação. Livro Selecionar Demotopia — Utopia Democrática Idioma do exemplar Selecionar Bielorrusso (BE) Alemão (DE) Inglês (EN) Espanhol (ES) Francês (FR) Polaco (PL) Português (PT) Russo (RU) Ucraniano (UK) Quantidade Finalidade Para mim Como presente Para entregar a outro leitor Nome completo Email Telefone para entrega País Cidade Código postal Morada de entrega A morada é ut
 
 ### pt/books/samizdat/order/received/index.html
 
