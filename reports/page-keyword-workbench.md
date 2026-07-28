@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-28T17:54:18.436Z
+Generated: 2026-07-28T17:55:00.809Z
 Pages: 592
 
 ## Index
@@ -340,7 +340,7 @@ Pages: 592
 | pl/books/radiance/sampo/index.html | pl | books | Ashraellen — Sampo \| Blask, Księga I | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | sampo, ashraellen, blask, books, nie, ale, artystycznych, badań, bez, było, chleb, czy, filozoficznej, fundacji, jeszcze, język, już, kogo |
 | pl/books/radiance/song/index.html | pl | books | Ashraellen — Pieśń \| Blask, Księga II | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | pieśń, ashraellen, bez, blask, books, nie, się, ale, artystycznych, ayla, badań, być, był, była, było, druga, dźwięku, fundacji |
 | pl/books/samizdat/demotopia/index.html | pl | books | Demotopia — Paszport książki — samizdat 2.0 | _missing_ | demotopia, paszport, samizdat, 2.0, 2026, ashraellen, books, egzemplarz, książki, wydanie, autora, autorski, autorskiego, demotopii, fizyczne, fizycznego, książce, może |
-| pl/books/samizdat/index.html | pl | books | samizdat 2.0 — Wydania autorskie Ashraellen | Ashraellen, samizdat 2.0, wydania autorskie, paszport książki, Demotopia | samizdat, 2.0, ashraellen, autorskie, wydania, books, fizycznych, książek, niezarejestrowane, cyfrowymi, demotopia, książki, numerowanych, paszporty |
+| pl/books/samizdat/index.html | pl | books | samizdat 2.0 — autorskie wydania Ashraellen | _missing_ | 2.0, samizdat, ashraellen, autorskie, wydania, bez, books, książka, autora, bezpośrednie, czym, dlaczego, działa, egzemplarz, egzemplarze, fizyczne, jeden, książek |
 | pl/books/seccus/index.html | pl | books | Ashraellen — ŚWIĘTA KSIĘGA SECCUS | Ashraellen, SECCUS, Święta Księga SECCUS, Droga Uczciwości, satyra filozoficzna, pieniądze, sukces, samooszustwo, wiedza jako alibi, odpowiedzialność, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Księga | seccus, księga, święta, ashraellen, bez, books, jako, alibi, ani, człowiek, droga, filozoficzna, głos, kogo, korpus, książce, książka, książki |
 | pl/books/the-book-of-whinesis/index.html | pl | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sakralna, satyra, dla, tych, którzy, zmęczyli, się, pozytywnymi, wibracjami, niekończącą, produktywnością, kultem, sukcesu, książce | book, whinesis, się, ashraellen, books, albowiem, będzie, będziesz, fragment, jego, książce, którzy, kultem, moania, moanii, narzekania, nie, niekończącą |
 | pl/books/you-are-already-online/index.html | pl | books | Ashraellen — Już jesteś w sieci | ashraellen, books, you, already, online, już, jesteś, sieci, immersyjna, powieść, audio, gatunku, thrillera, psychologicznego, dramatu, cyberpunkowego, cyfrowej, rzeczywistości | jesteś, już, sieci, ashraellen, books, rozdział, algorytmach, already, audio, było, cyberpunkowego, cyfrowej, dramatu, fragment, gatunku, gdzie, hiperrealności, immersyjna |
@@ -6267,18 +6267,18 @@ Excerpt:
 
 - lang: pl
 - section: books
-- title: samizdat 2.0 — Wydania autorskie Ashraellen
-- description: Autorskie wydania niezarejestrowane samizdat 2.0 i paszporty fizycznych książek Ashraellen.
+- title: samizdat 2.0 — autorskie wydania Ashraellen
+- description: samizdat 2.0 Ashraellen: bezpośrednie autorskie wydania fizyczne, numerowane egzemplarze i stałe publiczne paszporty książek.
 - canonical: https://www.ashraellen.com/pl/books/samizdat/
 - H1: samizdat 2.0
-- H2: _missing_
-- H3: _missing_
-- suggested keyword seed: samizdat, 2.0, ashraellen, autorskie, wydania, books, fizycznych, książek, niezarejestrowane, cyfrowymi, demotopia, książki, numerowanych, paszporty
-- candidates: 2.0, ashraellen, autorskie, samizdat, wydania, fizycznych, książek, niezarejestrowane, cyfrowymi, demotopia, książki, numerowanych, osobna, paszport, paszportami, paszporty, podpisywanych, połączonych, ręcznie, seria, stałymi
+- H2: Dlaczego teraz | Czym to jest | Jak to działa | Numeracja bez nadzoru | Paszport QR | Książka, która ma wędrować | Książki w samizdacie 2.0
+- H3: Ukończone wydanie autorskie | Poza przemysłowym łańcuchem | Jeden egzemplarz — jeden przedmiot | Stały publiczny paszport
+- suggested keyword seed: 2.0, samizdat, ashraellen, autorskie, wydania, bez, books, książka, autora, bezpośrednie, czym, dlaczego, działa, egzemplarz, egzemplarze, fizyczne, jeden, książek
+- candidates: nie, samizdat, wydania, 2.0, książka, może, bez, egzemplarz, się, autora, autorskie, jeden, publiczny, język, książki, numer, przez, czytelnik, fizyczna, fizyczną, formę, jego, kod, książek
 
 Excerpt:
 
-> Autorskie wydania niezarejestrowane samizdat 2.0 Osobna seria fizycznych książek Ashraellen: numerowanych, podpisywanych ręcznie i połączonych ze stałymi paszportami cyfrowymi. Demotopia Paszport książki →
+> Autorskie książki fizyczne / publiczne paszporty książek samizdat 2.0 Aby stać się publiczną, książka nie musi zamieniać się w anonimowy produkt. samizdat 2.0 to współczesna struktura dla książek ukończonych przez autora, którym nadano fizyczną formę poza przemysłowym łańcuchem wydawniczym i które trafiają bezpośrednio do czytelników. Każde wydanie pozostaje połączone ze swoim źródłem poprzez stały publiczny paszport. Dlaczego teraz publikować jest łatwo; zachować obecność — nie Klasyczny samizdat pojawił się tam, gdzie tekst nie mógł przejść przez oficjalne kanały. Dziś techniczna publikacja stała się niemal powszechnie dostępna: plik można wydać natychmiast, książkę wydrukować na żądanie, a tekst rozpowszechniać bez pytania o zgodę. Ta wolność przynosi jednak inną stratę. Fizyczna książka łatwo znika w anonimowym obiegu produktów: zostaje wytworzona, zamówiona, dostarczona i zapomniana
 
 ### pl/books/seccus/index.html
 
