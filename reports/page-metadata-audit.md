@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-07-28T20:15:50.911Z
+Generated: 2026-07-28T20:51:18.968Z
 
-Pages checked: 598
-Pages with issues: 95
-Total issues: 284
+Pages checked: 599
+Pages with issues: 96
+Total issues: 293
 Pages with review notes: 577
 Total review notes: 2096
 
@@ -15,15 +15,15 @@ Total review notes: 2096
 | DUPLICATE_KEYWORDS | 56 |
 | DUPLICATE_TITLE | 36 |
 | DUPLICATE_OG_TITLE | 34 |
-| MISSING_KEYWORDS | 30 |
-| MISSING_TWITTER_IMAGE | 30 |
-| MISSING_OG_DESCRIPTION | 17 |
-| MISSING_JSON_LD | 16 |
-| MISSING_OG_IMAGE | 16 |
-| MISSING_TWITTER_CARD | 16 |
-| MISSING_OG_TITLE | 15 |
-| MISSING_DESCRIPTION | 7 |
-| MISSING_CANONICAL | 5 |
+| MISSING_KEYWORDS | 31 |
+| MISSING_TWITTER_IMAGE | 31 |
+| MISSING_OG_DESCRIPTION | 18 |
+| MISSING_JSON_LD | 17 |
+| MISSING_OG_IMAGE | 17 |
+| MISSING_TWITTER_CARD | 17 |
+| MISSING_OG_TITLE | 16 |
+| MISSING_DESCRIPTION | 8 |
+| MISSING_CANONICAL | 6 |
 | DESCRIPTION_TOO_SHORT | 4 |
 | DUPLICATE_CANONICAL | 2 |
 
@@ -137,6 +137,24 @@ Total review notes: 2096
 - twitter:image: https://www.ashraellen.com/assets/covers/song-cover-ru.webp
 
 - DUPLICATE_KEYWORDS: shared by 3 pages
+
+### be/books/samizdat/order/received/index.html
+
+- title: Запыт атрыманы — samizdat 2.0
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
 
 ### be/books/the-book-of-whinesis/index.html
 
