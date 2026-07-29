@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-29T10:09:16.461Z
-Pages: 630
+Generated: 2026-07-29T10:14:05.860Z
+Pages: 631
 
 ## Index
 
@@ -422,6 +422,7 @@ Pages: 630
 | pl/research/projects/index.html | pl | research | Ashraellen — Projekty badawcze | ashraellen, research, projects, projekty, badawcze, mapa, pól, pracy, monolit, główny, kanał, pole, publiczne, satyryczne, boczne, laboratoria, percepcji, instagram | ashraellen, projekty, boczne, monolit, pole, research, bada, badawcze, book, church, człowiek, główny, inner, instagram, jako, kanał, laboratoria, lecz |
 | pl/research/sources/index.html | pl | research | Ashraellen — Źródła i tradycja | ashraellen, research, sources, źródła, tradycja, fenomenologia, świadomości, ciało, narracja, nauki, kognitywne, praktyka, artystyczna, jako, linie, metodologiczne, badania, edmund | jako, ashraellen, ciało, tradycja, źródła, badania, doświadczenie, fenomenologia, research, świadomości, artystyczna, edmund, eleanor, esej, evan, forma, formy, francisco |
 | privacy.html | root | privacy.html | Privacy Policy — Ashraellen | Ashraellen, privacy policy, website privacy, analytics, language redirection, contact data | privacy, ashraellen, analytics, ashraellen.com, basic, contact, data, handles, how, including, information, policy, language, privacy.html, redirection, user |
+| pt/books/demotopia/index.html | pt | books | Demotopia — Utopia Democrática — romance de Ashraellen | Ashraellen, Demotopia, Utopia Democrática, romance filosófico, ficção científica social, Varsóvia, democracia, ditadura, dados, liberdade, responsabilidade | demotopia, ashraellen, romance, sobre, books, artístico, atmosfera, circuitos, como, dados, democracia, democrática, distribuído, dois, editoriais, filosófico, forma, futuro |
 | pt/books/error-404-god-not-found/index.html | pt | books | Ashraellen — Erro 404: Deus não encontrado | _missing_ | erro, 404, deus, encontrado, não, ciclo, ashraellen, books, celestial, chancelaria, série, sobre, busca, contra, error, filosófico-satírico, forma, found |
 | pt/books/error-404-god-not-found/why-me/index.html | pt | books | Ashraellen — Por que eu? | _missing_ | por, que, livro, ashraellen, books, deus, não, sobre, 404, alma, burocracia, camadas, celestial, chancelaria, ciclo, com, como, depois |
 | pt/books/index.html | pt | books | Ashraellen — Livros | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | livros, ashraellen, 404, books, livro, sátira, abrir, áudio, book, ciclo, ciclos, error, está, found, god, independentes, monolith, online |
@@ -7694,6 +7695,23 @@ Excerpt:
 Excerpt:
 
 > Redirecting to Privacy Policy .
+
+### pt/books/demotopia/index.html
+
+- lang: pt
+- section: books
+- title: Demotopia — Utopia Democrática — romance de Ashraellen
+- description: Demotopia é um romance filosófico de Ashraellen sobre a Varsóvia de um futuro próximo, democracia, poder distribuído, dados, liberdade e responsabilidade.
+- canonical: https://www.ashraellen.com/pt/books/demotopia/
+- H1: Demotopia
+- H2: Trecho selecionado | Sobre o livro | Sem spoilers | Quadro artístico e de pesquisa | Temas principais | Forma e atmosfera | Para quem | Dois circuitos editoriais
+- H3: Uma Varsóvia que funciona | A pessoa como soma | Poder sem rosto maligno | Responsabilidade sem intenção | Liberdade | Dados | Democracia | Responsabilidade
+- suggested keyword seed: demotopia, ashraellen, romance, sobre, books, artístico, atmosfera, circuitos, como, dados, democracia, democrática, distribuído, dois, editoriais, filosófico, forma, futuro
+- candidates: não, uma, que, pessoa, mas, romance, como, sistema, sobre, pode, quando, demotopia, pela, democracia, foi, mais, para, sem, com, direito, forma, investigador, livro, poder
+
+Excerpt:
+
+> Romance filosófico / Varsóvia num futuro próximo Demotopia Utopia Democrática A cidade tornou-se mais segura, transparente e justa. O sistema já não vê um ato isolado: vê a pessoa inteira — os seus percursos, relações, escolhas, obrigações e silêncios. Mas o que resta da liberdade quando a sociedade consegue provar que conhece uma pessoa com mais precisão do que ela conhece a si própria? Conceito de capa em inglês. Ashraellen. Trecho selecionado Capítulo 1. A máquina nunca chegou O sistema já vê uma estrutura concluída. O investigador tenta estabelecer onde termina a participação comprovada de uma pessoa e onde começa o conhecimento que lhe é atribuído. Abrir trecho Fechar trecho O investigador abriu o processo da detenção correspondente ao nono endereço. A equipa entrou às 05:40:08. Não houve resistência física. O nó pessoal foi retirado sem danos. O circuito de proteção foi restabeleci
 
 ### pt/books/error-404-god-not-found/index.html
 
