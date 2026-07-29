@@ -1,12 +1,13 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-29T09:19:52.172Z
-Pages: 626
+Generated: 2026-07-29T09:39:40.005Z
+Pages: 627
 
 ## Index
 
 | Page | Lang | Section | Title | Existing keywords | Suggested seed |
 |---|---|---|---|---|---|
+| be/books/demotopia/index.html | be | books | Demotopia — Дэмакратычная Утопія — раман Ashraellen | Ashraellen, Demotopia, Дэмакратычная Утопія, філасофскі раман, сацыяльная фантастыка, Варшава, дэмакратыя, дыктатура, даныя, свабода, адказнасць | demotopia, ashraellen, пра, раман, books, без, абраны, адказнасць, але, асноўныя, атмасфера, будучыні, варшаву, выдання, даныя, два, дзе, дэмакратычная |
 | be/books/error-404-god-not-found/index.html | be | books | Ashraellen — Памылка 404: Бог не знойдзены | _missing_ | 404, бог, знойдзены, памылка, ashraellen, books, пошуку, error, found, god, або, адказ, бога, звароту, канцылярыю, кніга, кнігі, нябеснай |
 | be/books/error-404-god-not-found/why-me/index.html | be | books | Ashraellen — Чаму я? | _missing_ | чаму, 404, ashraellen, books, пра, error, found, god, why, або, але, бог, бога, боль, бюракратыю, веру, душы, знойдзены |
 | be/books/index.html | be | books | Ashraellen — Кнігі | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | кнігі, ashraellen, 404, book, books, error, found, кніга, сатыра, god, monolith, radiance, whinesis, адкрыць, асобныя, аўдыяраман, ахепсу, даследаванні |
@@ -18,7 +19,7 @@ Pages: 626
 | be/books/radiance/song/index.html | be | books | Ashraellen — Песня \| Ззянне, кніга II | Ashraellen, Ззянне, САМПО, Песня, Кнігі, literary-philosophical, artistic research | песня, ashraellen, books, ззянне, кніга, пра, radiance, song, айла, але, амаль, без, была, было, быў, варшаву, выбраная, выдавецкі |
 | be/books/samizdat/demotopia/index.html | be | books | Demotopia — Пашпарт кнігі — samizdat 2.0 | _missing_ | demotopia, samizdat, пашпарт, 2.0, books, асобнік, выданне, кнігі, пра, ashraellen, аўтара, аўтарскага, аўтарскі, выдання, гэтае, дэмакратычная, запытаць, кнігу |
 | be/books/samizdat/index.html | be | books | samizdat 2.0 — аўтарскія выданні Ashraellen | _missing_ | samizdat, 2.0, ashraellen, books, аўтарскія, без, выданні, кніга, qr-пашпарт, або, адзін, асобнік, асобнікі, аўтарам, выданне, выдання, кніг, кнігі |
-| be/books/samizdat/order/index.html | be | books | Запытаць асобнік samizdat 2.0 — Ashraellen | _missing_ | samizdat, 2.0, асобнік, запыт, ashraellen, books, аплата, асобніка, запытаць, order, адрас, арганізацыі, асабіста, аўтарскага, дастаўка, дастаўкі, друк, друку |
+| be/books/samizdat/order/index.html | be | books | Запытаць асобнік samizdat 2.0 — Ashraellen | _missing_ | samizdat, асобнік, 2.0, запыт, ashraellen, books, асобніка, запытаць, order, абранай, адрас, аплата, аўтарскага, дастаўка, дастаўкі, кніга, кнігі, любой |
 | be/books/samizdat/order/received/index.html | be | books | Запыт атрыманы — samizdat 2.0 | _missing_ | samizdat, атрыманы, запыт, 2.0, books, аўтаматычна, была, ashraellen, email, order, received, адпраўлены, аплату, вамі, ваш, вырабу, пакупка, створана |
 | be/books/seccus/index.html | be | books | Ashraellen — САКРАЛЬНАЯ КНІГА АХЕПСУ | Ashraellen, АХЕПСУ, Сакральная кніга АХЕПСУ, Шлях Сумленнасці, філасофская сатыра, грошы, поспех, самаашуканства, веды як алібі, адказнасць, Sacrunomicon, Ordo Sacrunomiconis, Тэтра-Кніга | ахепсу, кніга, пра, сакральная, ashraellen, books, грошы, поспех, sacrunomicon, seccus, ssmv, або, абраная, адказнасць, але, алібі, без, веды |
 | be/books/the-book-of-whinesis/index.html | be | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, кніга, ныцця, святая, сатыра, тых, хто, стаміўся, пазітыўных, вайбаў, бясконцай, прадуктыўнасці, культу, поспеху, пра | book, whinesis, ashraellen, books, пра, хто, будзе, будзеш, бясконцай, вайбаў, глава, главы, госпад, каб, кнігу, культу, моаніі, моанія |
@@ -85,7 +86,7 @@ Pages: 626
 | de/books/radiance/song/index.html | de | books | Ashraellen — Lied \| Glanz, Buch II | Ashraellen, Glanz, Sampo, Lied, Bücher, literary-philosophical, artistic research | das, lied, und, buch, ashraellen, books, der, eine, für, glanz, nicht, sprache, über, auf, den, die, ein, eines |
 | de/books/samizdat/demotopia/index.html | de | books | Demotopia — Buchpass — samizdat 2.0 | _missing_ | demotopia, buchpass, samizdat, 2.0, ausgabe, autor, der, vom, books, anfragen, ashraellen, buch, das, die, diese, ein, eine, exemplar |
 | de/books/samizdat/index.html | de | books | samizdat 2.0 — Autorenausgaben von Ashraellen | _missing_ | samizdat, 2.0, ashraellen, autorenausgaben, books, buch, das, der, ein, ist, ohne, physische, und, von, bücher, buchpässe, die, direkte |
-| de/books/samizdat/order/index.html | de | books | Ein samizdat-2.0-Exemplar anfragen — Ashraellen | _missing_ | anfrage, anfragen, ein, ashraellen, books, druck, kalkulation, lieferung, zahlung, autor, bestätigung, die, eines, exemplar, für, herausgegebenen, jeder, order |
+| de/books/samizdat/order/index.html | de | books | Ein samizdat-2.0-Exemplar anfragen — Ashraellen | _missing_ | anfrage, exemplar, anfragen, ashraellen, books, ein, lieferung, autor, bestätigung, buch, das, den, der, des, die, eines, herausgegebenen, jeder |
 | de/books/samizdat/order/received/index.html | de | books | Anfrage erhalten — samizdat 2.0 | _missing_ | anfrage, erhalten, samizdat, 2.0, abgeschlossen, automatisch, books, wurde, angegebenen, ashraellen, beginnt, bestätigen, bevor, bitte, ein, kauf, nicht, order |
 | de/books/seccus/index.html | de | books | Ashraellen — DAS HEILIGE BUCH SECCUS | Ashraellen, SECCUS, Das Heilige Buch SECCUS, Der Weg der Ehrlichkeit, philosophische Satire, Geld, Erfolg, Selbsttäuschung, Wissen als Alibi, Verantwortung, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Buch | das, buch, der, die, seccus, heilige, und, ashraellen, books, des, für, ist, seite, über, alibi, als, ausgewählte, buches |
 | de/books/the-book-of-whinesis/index.html | de | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sakrale, satire, für, alle, die, von, positiven, vibes, endloser, produktivität, und, dem, kult, des | book, whinesis, ashraellen, books, des, die, und, alle, auf, auszug, buch, das, dem, den, der, endloser, erfolgs, erste |
@@ -153,7 +154,7 @@ Pages: 626
 | en/books/radiance/song/index.html | en | books | Ashraellen — Song \| Radiance, Book II | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | song, about, book, radiance, ashraellen, books, language, sound, artistic-research, ayla, become, chapter, cultural, does, extended, featured, foundations, frame |
 | en/books/samizdat/demotopia/index.html | en | books | Demotopia — Book Passport — samizdat 2.0 | _missing_ | demotopia, book, passport, samizdat, 2.0, author-issued, edition, about, ashraellen, books, copy, physical, author, democratic, permanent, request, system |
 | en/books/samizdat/index.html | en | books | samizdat 2.0 — Ashraellen author editions | Ashraellen, samizdat 2.0, author editions, numbered books, signed copies, book passports, direct publishing | samizdat, 2.0, books, ashraellen, book, author, editions, how, now, physical, why, without, author-issued, belong, copies, copy, direct, edition |
-| en/books/samizdat/order/index.html | en | books | Request a samizdat 2.0 copy — Ashraellen | _missing_ | request, 2.0, copy, samizdat, ashraellen, book, books, delivery, language, payment, address, any, arrange, author-issued, before, confirm, confirmation, confirmed |
+| en/books/samizdat/order/index.html | en | books | Request a samizdat 2.0 copy — Ashraellen | _missing_ | request, copy, 2.0, samizdat, ashraellen, author-issued, book, books, delivery, language, preparation, address, any, confirmation, estimate, order, payment, project |
 | en/books/samizdat/order/received/index.html | en | books | Request received — samizdat 2.0 | _missing_ | received, request, samizdat, 2.0, automatically, been, books, has, address, any, ashraellen, availability, created, email, order, purchase, you |
 | en/books/seccus/index.html | en | books | Ashraellen — THE SACRED BOOK OF SECCUS | Ashraellen, SECCUS, The Sacred Book of SECCUS, The Path of Honesty, philosophical satire, money, success, self-deception, knowledge as an alibi, responsibility, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Book | book, seccus, about, sacred, ashraellen, books, money, own, success, alibi, choice, corpus, does, frame, honesty, how, knowledge, literary-philosophical |
 | en/books/the-book-of-whinesis/index.html | en | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sacred, satire, those, tired, positive, vibes, endless, productivity, cult, success, about, first, chapters, excerpt | book, whinesis, ashraellen, books, about, becomes, chapters, cult, discount, endless, excerpt, first, gnorna, lord, moania, positive, productivity, sacred |
@@ -220,7 +221,7 @@ Pages: 626
 | es/books/radiance/song/index.html | es | books | Ashraellen — Canto \| Resplandor, libro II | Ashraellen, Resplandor, Sampo, Canto, Libros, literary-philosophical, artistic research | canto, libro, para, una, ashraellen, books, del, que, resplandor, acerca, ampliada, artística, ayla, capítulo, como, con, convierte, culturales |
 | es/books/samizdat/demotopia/index.html | es | books | Demotopia — Pasaporte del libro — samizdat 2.0 | _missing_ | demotopia, pasaporte, samizdat, 2.0, autor, edición, libro, books, del, ejemplar, física, ashraellen, cada, esta, permanente, sistema, sobre, solicitar |
 | es/books/samizdat/index.html | es | books | samizdat 2.0 — ediciones de autor de Ashraellen | _missing_ | samizdat, 2.0, ashraellen, autor, books, del, ediciones, libro, libros, qué, sin, ahora, cómo, destinado, directas, edición, ejemplar, ejemplares |
-| es/books/samizdat/order/index.html | es | books | Solicitar un ejemplar samizdat 2.0 — Ashraellen | _missing_ | ejemplar, 2.0, samizdat, solicitud, ashraellen, books, del, entrega, idioma, impresión, pago, solicitar, antes, autor, calcular, cálculo, confirmación, cualquier |
+| es/books/samizdat/order/index.html | es | books | Solicitar un ejemplar samizdat 2.0 — Ashraellen | _missing_ | ejemplar, samizdat, solicitud, 2.0, ashraellen, autor, books, del, entrega, idioma, preparación, solicitar, cálculo, confirmación, cualquier, firmado, las, lector |
 | es/books/samizdat/order/received/index.html | es | books | Solicitud recibida — samizdat 2.0 | _missing_ | recibida, samizdat, solicitud, 2.0, automáticamente, books, compra, antes, ashraellen, carpeta, confirmar, contacto, correo, coste, creado, ninguna, order, received |
 | es/books/seccus/index.html | es | books | Ashraellen — EL LIBRO SAGRADO DE SECCUS | Ashraellen, SECCUS, El Libro Sagrado de SECCUS, El Camino de la Honestidad, sátira filosófica, dinero, éxito, autoengaño, conocimiento como coartada, responsabilidad, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Libro | libro, seccus, sagrado, ashraellen, books, del, dinero, éxito, página, para, sobre, una, autoengaño, camino, coartada, como, con, conocimiento |
 | es/books/the-book-of-whinesis/index.html | es | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sátira, sagrada, para, quienes, han, cansado, las, vibras, positivas, productividad, infinita, culto, éxito, sobre | book, whinesis, ashraellen, books, para, sobre, cansado, capítulos, con, culto, del, dijo, estado, éxito, fragmento, han, infinita, las |
@@ -290,7 +291,7 @@ Pages: 626
 | fr/books/radiance/song/index.html | fr | books | Ashraellen — Chant \| Éclat, livre II | Ashraellen, Éclat, Sampo, Chant, Livres, literary-philosophical, artistic research | ashraellen, books, chant, les, livre, pas, pour, qui, artistique, avec, ayla, cadre, chapitre, culturels, dans, des, éclat, éditeurs |
 | fr/books/samizdat/demotopia/index.html | fr | books | Demotopia — Passeport du livre — samizdat 2.0 | _missing_ | demotopia, passeport, samizdat, 2.0, livre, books, d’auteur, édition, exemplaire, physique, ashraellen, cette, dans, demander, démocratique, l’auteur, l’édition, permanent |
 | fr/books/samizdat/index.html | fr | books | samizdat 2.0 — éditions d’auteur d’Ashraellen | _missing_ | samizdat, 2.0, books, d’ashraellen, éditions, l’auteur, livre, livres, sans, ashraellen, c’est, cela, comment, d’auteur, des, destiné, directes, est |
-| fr/books/samizdat/order/index.html | fr | books | Demander un exemplaire samizdat 2.0 — Ashraellen | _missing_ | exemplaire, 2.0, demande, samizdat, ashraellen, books, calcul, demander, langue, livraison, paiement, avant, choisir, confirmation, d’auteur, d’un, dans, délai |
+| fr/books/samizdat/order/index.html | fr | books | Demander un exemplaire samizdat 2.0 — Ashraellen | _missing_ | exemplaire, demande, samizdat, 2.0, ashraellen, books, dans, demander, langue, livraison, préparation, choisie, confirmation, d’auteur, d’un, délai, estimation, être |
 | fr/books/samizdat/order/received/index.html | fr | books | Demande reçue — samizdat 2.0 | _missing_ | demande, reçue, samizdat, 2.0, achat, aucun, automatiquement, books, été, afin, ashraellen, avant, compris, créé, e-mail, n’a, order, received |
 | fr/books/seccus/index.html | fr | books | Ashraellen — LE LIVRE SACRÉ DE SECCUS | Ashraellen, SECCUS, Le Livre Sacré de SECCUS, Le Chemin de l’Honnêteté, satire philosophique, argent, réussite, auto-illusion, savoir comme alibi, responsabilité, Sacrunomicon, Ordo Sacrunomiconis, Tétra-Livre | livre, seccus, sacré, ashraellen, books, est, philosophique, pour, qui, réussite, sur, une, alibi, cadre, chemin, choisie, choix, comme |
 | fr/books/the-book-of-whinesis/index.html | fr | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, satire, sacrée, pour, celles, ceux, qui, sont, fatigués, des, ondes, positives, productivité, sans, fin | book, whinesis, ashraellen, books, des, qui, celles, ceux, chapitres, culte, dans, dit, extrait, fatigués, fin, les, livre, moania |
@@ -361,7 +362,7 @@ Pages: 626
 | pl/books/radiance/song/index.html | pl | books | Ashraellen — Pieśń \| Blask, Księga II | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | pieśń, ashraellen, bez, blask, books, nie, się, ale, artystycznych, ayla, badań, być, był, była, było, druga, dźwięku, fundacji |
 | pl/books/samizdat/demotopia/index.html | pl | books | Demotopia — Paszport książki — samizdat 2.0 | _missing_ | demotopia, paszport, samizdat, 2.0, 2026, ashraellen, books, egzemplarz, książki, wydanie, autora, autorski, autorskiego, demotopii, fizyczne, fizycznego, książce, może |
 | pl/books/samizdat/index.html | pl | books | samizdat 2.0 — autorskie wydania Ashraellen | _missing_ | 2.0, samizdat, ashraellen, autorskie, wydania, bez, books, książka, autora, bezpośrednie, czym, dlaczego, działa, egzemplarz, egzemplarze, fizyczne, jeden, książek |
-| pl/books/samizdat/order/index.html | pl | books | Poproś o egzemplarz samizdatu 2.0 — Ashraellen | _missing_ | 2.0, egzemplarz, zgłoszenie, ashraellen, books, dostawa, egzemplarza, poproś, samizdatu, adres, autorskiego, czas, dostawy, dowolnym, druk, druku, język, języku |
+| pl/books/samizdat/order/index.html | pl | books | Poproś o egzemplarz samizdatu 2.0 — Ashraellen | _missing_ | egzemplarz, 2.0, ashraellen, books, egzemplarza, języku, poproś, samizdatu, adres, autorskiego, czas, czytelnikowi, dostawa, dostawy, dowolnym, koszt, książka, książki |
 | pl/books/samizdat/order/received/index.html | pl | books | Zgłoszenie otrzymane — samizdat 2.0 | _missing_ | otrzymane, samizdat, zgłoszenie, 2.0, automatycznie, books, aby, adres, ashraellen, czas, dostawę, dostępność, druku, email, nie, order, received, utworzony |
 | pl/books/seccus/index.html | pl | books | Ashraellen — ŚWIĘTA KSIĘGA SECCUS | Ashraellen, SECCUS, Święta Księga SECCUS, Droga Uczciwości, satyra filozoficzna, pieniądze, sukces, samooszustwo, wiedza jako alibi, odpowiedzialność, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Księga | seccus, księga, święta, ashraellen, bez, books, jako, alibi, ani, człowiek, droga, filozoficzna, głos, kogo, korpus, książce, książka, książki |
 | pl/books/the-book-of-whinesis/index.html | pl | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sakralna, satyra, dla, tych, którzy, zmęczyli, się, pozytywnymi, wibracjami, niekończącą, produktywnością, kultem, sukcesu, książce | book, whinesis, się, ashraellen, books, albowiem, będzie, będziesz, fragment, jego, książce, którzy, kultem, moania, moanii, narzekania, nie, niekończącą |
@@ -429,7 +430,7 @@ Pages: 626
 | pt/books/radiance/song/index.html | pt | books | Ashraellen — Canto \| Esplendor, livro II | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | canto, livro, para, ashraellen, books, esplendor, não, que, sem, sobre, uma, apresentação, artística, audição, ayla, capítulo, com, como |
 | pt/books/samizdat/demotopia/index.html | pt | books | Demotopia — Passaporte do livro — samizdat 2.0 | _missing_ | demotopia, passaporte, samizdat, 2.0, autor, edição, livro, books, exemplar, física, ashraellen, cada, democracia, esta, não, permanente, sistema, sobre |
 | pt/books/samizdat/index.html | pt | books | samizdat 2.0 — edições de autor de Ashraellen | _missing_ | samizdat, 2.0, ashraellen, autor, books, edições, livro, livros, sem, agora, como, diretas, dos, edição, exemplar, exemplares, feito, físicas |
-| pt/books/samizdat/order/index.html | pt | books | Solicitar um exemplar samizdat 2.0 — Ashraellen | _missing_ | exemplar, 2.0, pedido, samizdat, ashraellen, books, entrega, idioma, impressão, pagamento, solicitar, antes, autor, calcular, cálculo, como, confirmação, order |
+| pt/books/samizdat/order/index.html | pt | books | Solicitar um exemplar samizdat 2.0 — Ashraellen | _missing_ | exemplar, pedido, samizdat, 2.0, ashraellen, autor, books, entrega, idioma, preparação, solicitar, assinado, confirmação, leitor, livro, não, orçamento, order |
 | pt/books/samizdat/order/received/index.html | pt | books | Pedido recebido — samizdat 2.0 | _missing_ | pedido, recebido, samizdat, 2.0, automaticamente, books, compra, criada, foi, antes, ashraellen, confirmar, contacto, email, nenhuma, order, received |
 | pt/books/seccus/index.html | pt | books | Ashraellen — O LIVRO SAGRADO DE SECCUS | Ashraellen, SECCUS, O Livro Sagrado de SECCUS, O Caminho da Honestidade, sátira filosófica, dinheiro, sucesso, autoengano, conhecimento como álibi, responsabilidade, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Livro | livro, seccus, sagrado, ashraellen, books, como, página, para, sobre, sucesso, uma, álibi, autoengano, caminho, conhecimento, corpus, dinheiro, escolha |
 | pt/books/the-book-of-whinesis/index.html | pt | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sátira, sagrada, para, quem, cansou, das, vibrações, positivas, produtividade, infinita, culto, sucesso, sobre, livro | book, whinesis, ashraellen, books, para, sobre, cansou, capítulos, culto, das, desconto, disse, gnorna, infinita, livro, moania, não, pois |
@@ -577,7 +578,7 @@ Pages: 626
 | uk/books/radiance/song/index.html | uk | books | Ashraellen — Пісня \| Сяйво, книга II | Ashraellen, Сяйво, САМПО, Пісня, Книги, literary-philosophical, artistic research | пісня, про, ashraellen, books, звук, книга, сяйво, radiance, song, айла, але, без, була, було, варшаву, вибраний, видавничий, видавців |
 | uk/books/samizdat/demotopia/index.html | uk | books | Demotopia — Паспорт книги — samizdat 2.0 | _missing_ | demotopia, samizdat, паспорт, 2.0, видання, books, книги, примірник, про, ashraellen, автора, авторський, авторського, безпосередньо, демократична, запросити, книгу, постійний |
 | uk/books/samizdat/index.html | uk | books | samizdat 2.0 — авторські видання Ashraellen | _missing_ | samizdat, 2.0, ashraellen, видання, books, авторські, без, від, книга, qr-паспорт, або, автором, він, книг, книги, може, нагляду, нумерація |
-| uk/books/samizdat/order/index.html | uk | books | Запросити примірник samizdat 2.0 — Ashraellen | _missing_ | samizdat, 2.0, запит, запросити, ashraellen, books, доставка, примірник, order, авторського, адреса, будь-якою, виготовлення, доставки, друк, друку, книги, мова |
+| uk/books/samizdat/order/index.html | uk | books | Запросити примірник samizdat 2.0 — Ashraellen | _missing_ | samizdat, примірник, 2.0, запит, ashraellen, books, запросити, примірника, order, авторського, адреса, будь-якою, вартість, доставка, доставки, книга, книги, мовою |
 | uk/books/samizdat/order/received/index.html | uk | books | Запит отримано — samizdat 2.0 | _missing_ | samizdat, запит, отримано, 2.0, books, автоматично, було, ashraellen, order, received, адресу, вами, вартість, ваш, виготовлення, доставку, купівлю, створено |
 | uk/books/seccus/index.html | uk | books | Ashraellen — САКРАЛЬНА КНИГА АХЕПСУ | Ashraellen, АХЕПСУ, Сакральна книга АХЕПСУ, Шлях Чесності, філософська сатира, гроші, успіх, самообман, знання як алібі, відповідальність, Sacrunomicon, Ordo Sacrunomiconis, Тетра-Книга | ахепсу, книга, про, сакральна, ashraellen, books, гроші, сторінка, успіх, sacrunomicon, seccus, ssmv, але, алібі, без, вибір, вибрана, від |
 | uk/books/the-book-of-whinesis/index.html | uk | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, книга, нытия, сакральна, сатира, тих, хто, втомився, від, позитивних, вайбів, нескінченної, продуктивності, культу, успіху | book, whinesis, ashraellen, books, про, хто, буде, вайбів, від, він, втомився, глава, глави, господь, його, книгу, культу, моанії |
@@ -635,6 +636,23 @@ Pages: 626
 | uk/research/sources/index.html | uk | research | Ashraellen — Джерела і традиція | ashraellen, research, sources, джерела, традиція, феноменологія, свідомості, тіло, наратив, когнітивна, наука, художня, практика, едмунд, гуссерль, досвід, готових, пояснень | ashraellen, джерела, тіло, традиція, research, досвід, дослідження, свідомість, свідомості, феноменологія, sources, варела, взаємодія, видимим, готових, гуссерль, досвіду, еван |
 
 ## Page details
+
+### be/books/demotopia/index.html
+
+- lang: be
+- section: books
+- title: Demotopia — Дэмакратычная Утопія — раман Ashraellen
+- description: Demotopia — філасофскі раман Ashraellen пра Варшаву найбліжэйшай будучыні, дэмакратыю, размеркаваную ўладу, даныя, свабоду і адказнасць.
+- canonical: https://www.ashraellen.com/be/books/demotopia/
+- H1: Demotopia
+- H2: Абраны ўрывак | Пра кнігу | Без спойлераў | Мастацка-даследчая рамка | Асноўныя тэмы | Форма і атмасфера | Для каго | Два контуры выдання
+- H3: Варшава, якая працуе | Чалавек як сукупнасць | Улада без злога твару | Адказнасць без намеру | Свабода | Даныя | Дэмакратыя | Адказнасць
+- suggested keyword seed: demotopia, ashraellen, пра, раман, books, без, абраны, адказнасць, але, асноўныя, атмасфера, будучыні, варшаву, выдання, даныя, два, дзе, дэмакратычная
+- candidates: яго, раман, але, следчы, чалавека, demotopia, без, дзе, можа, паміж, пра, права, сістэма, чалавек, грамадства, яна, ashraellen, адсутнасць, будучыні, быць, варшава, дыктатуры, знойдзена, калі
+
+Excerpt:
+
+> Філасофскі раман / Варшава найбліжэйшай будучыні Demotopia Дэмакратычная Утопія Горад стаў бяспечнейшым, празрыстым і справядлівым. Сістэма навучылася бачыць не асобны ўчынак, а чалавека цалкам — яго маршруты, сувязі, выбары, абавязацельствы і маўчанне. Але што застаецца ад свабоды, калі грамадства здольнае даказаць, што ведае чалавека дакладней, чым ён ведае самога сябе? Вокладка кірылічнага выдання. Ashraellen. Абраны ўрывак Раздзел 1. Станок не даехаў Сістэма ўжо бачыць завершаную схему. Следчы спрабуе вызначыць, дзе заканчваецца даказаны ўдзел чалавека і пачынаюцца прыпісаныя яму веды. Адкрыць урывак Закрыць урывак Следчы адкрыў матэрыялы затрымання па дзявятым адрасе. Група ўвайшла ў 05:40:08. Фізічнага супраціву не было. Персанальны вузел канфіскаваны без пашкоджанняў. Ахоўны контур адноўлены праз адну хвіліну сорак дзве секунды. Канфіскаваныя даверанасць, рэгістрацыйныя даныя камп
 
 ### be/books/error-404-god-not-found/index.html
 
@@ -831,14 +849,14 @@ Excerpt:
 - description: Запыт аўтарскага асобніка кнігі samizdat 2.0 на любой мове праекта.
 - canonical: https://www.ashraellen.com/be/books/samizdat/order/
 - H1: Запытаць асобнік
-- H2: Запыт ↓ Разлік ↓ Пацвярджэнне ↓ Аплата ↓ Друк ↓ Дастаўка
+- H2: Запыт ↓ Разлік ↓ Пацвярджэнне ↓ Аплата ↓ Падрыхтоўка ↓ Дастаўка | Падпісаны асобнік
 - H3: _missing_
-- suggested keyword seed: samizdat, 2.0, асобнік, запыт, ashraellen, books, аплата, асобніка, запытаць, order, адрас, арганізацыі, асабіста, аўтарскага, дастаўка, дастаўкі, друк, друку
-- candidates: дастаўкі, друку, запыт, тэрмін, 2.0, samizdat, адрас, аплата, арганізацыі, асабіста, асобнік, асобніка, выберыце, дастаўка, запытаць, кніга, мова, падрыхтавана, разліку, чытачу, ashraellen, demotopia, email, абавязку
+- suggested keyword seed: samizdat, асобнік, 2.0, запыт, ashraellen, books, асобніка, запытаць, order, абранай, адрас, аплата, аўтарскага, дастаўка, дастаўкі, кніга, кнігі, любой
+- candidates: асобніка, дастаўкі, асобнік, запыт, падрыхтоўкі, кніга, тэрмін, чытачу, 2.0, samizdat, абранай, адрас, асабіста, асабістым, выберыце, выніковы, запытаць, імя, кошт, мове, можа, падрыхтавана, разліку, ўмовы
 
 Excerpt:
 
-> Выраб паводле пацверджанага запыту Запытаць асобнік Кніга можа быць падрыхтавана, звёрстана, надрукавана і адпраўлена канкрэтнаму чытачу. Да аплаты мы асабіста пацвярджаем даступнасць мовы, тэрмін падрыхтоўкі, кошт друку і дастаўкі. Адпраўка формы не стварае абавязку купляць. Як гэта працуе Запыт ↓ Разлік ↓ Пацвярджэнне ↓ Аплата ↓ Друк ↓ Дастаўка Калі выбраная мова яшчэ не падрыхтавана да друку, мы спачатку паведамім меркаваны тэрмін перакладу і вёрсткі. Кніга Выберыце Demotopia — Дэмакратычная Утопія Мова асобніка Выберыце Беларуская (BE) Нямецкая (DE) Англійская (EN) Іспанская (ES) Французская (FR) Польская (PL) Партугальская (PT) Руская (RU) Украінская (UK) Колькасць Прызначэнне Для сябе У падарунак Для перадачы іншаму чытачу Імя і прозвішча Email Тэлефон для дастаўкі Краіна Горад Паштовы індэкс Адрас дастаўкі Адрас выкарыстоўваецца толькі для разліку і арганізацыі друку і дастаўкі. П
+> Аўтарскі асобнік па пацверджаным запыце Запытаць асобнік Кніга можа быць падрыхтавана на абранай мове і перададзена канкрэтнаму чытачу. Мы асабіста пацвярджаем даступнасць абранай мовы, тэрмін падрыхтоўкі, выніковы кошт і ўмовы дастаўкі. Адпраўка формы не стварае абавязку здзейсніць пакупку. Як гэта працуе Запыт ↓ Разлік ↓ Пацвярджэнне ↓ Аплата ↓ Падрыхтоўка ↓ Дастаўка Калі абраная моўная версія яшчэ не падрыхтавана, мы загадзя паведамім меркаваны тэрмін гатоўнасці асобніка. Асаблівы варыянт Падпісаны асобнік Асобнік з асабістым подпісам аўтар падпісвае перад адпраўкай чытачу. Гэта не проста імя на старонцы: подпіс можа суправаджацца асабістым пажаданнем, а гатовая кніга праходзіць праз рукі аўтара і захоўвае цеплыню гэтага дотыку. Тэкст пажадання можна пазначыць у паведамленні да запыту. Кніга Выберыце Demotopia — Дэмакратычная Утопія Мова асобніка Выберыце Беларуская (BE) Нямецкая (DE)
 
 ### be/books/samizdat/order/received/index.html
 
@@ -1969,15 +1987,15 @@ Excerpt:
 - title: Ein samizdat-2.0-Exemplar anfragen — Ashraellen
 - description: Anfrage eines vom Autor herausgegebenen samizdat-2.0-Buches in jeder Projektsprache.
 - canonical: https://www.ashraellen.com/de/books/samizdat/order/
-- H1: Ein Exemplar anfragen
-- H2: Anfrage ↓ Kalkulation ↓ Bestätigung ↓ Zahlung ↓ Druck ↓ Lieferung
+- H1: Exemplar anfragen
+- H2: Anfrage ↓ Kalkulation ↓ Bestätigung ↓ Zahlung ↓ Vorbereitung ↓ Lieferung | Signiertes Exemplar
 - H3: _missing_
-- suggested keyword seed: anfrage, anfragen, ein, ashraellen, books, druck, kalkulation, lieferung, zahlung, autor, bestätigung, die, eines, exemplar, für, herausgegebenen, jeder, order
-- candidates: und, die, anfrage, lieferung, druck, ein, für, kalkulation, werden, zahlung, zur, anfragen, auswählen, buch, der, des, einen, herstellung, leser, organisation, persönlich, sprache, verwendet, von
+- suggested keyword seed: anfrage, exemplar, anfragen, ashraellen, books, ein, lieferung, autor, bestätigung, buch, das, den, der, des, die, eines, herausgegebenen, jeder
+- candidates: die, der, und, anfrage, des, zur, den, lieferung, buch, das, ein, exemplar, exemplars, leser, nicht, sprache, vor, vorbereitung, werden, anfragen, auf, auswählen, autor, berechnung
 
 Excerpt:
 
-> Herstellung nach bestätigter Anfrage Ein Exemplar anfragen Ein Buch kann für einen bestimmten Leser vorbereitet, gesetzt, gedruckt und versandt werden. Vor der Zahlung bestätigen wir persönlich Sprachverfügbarkeit, Vorbereitungszeit, Druck- und Lieferkosten. Das Absenden des Formulars begründet keine Kaufpflicht. So funktioniert es Anfrage ↓ Kalkulation ↓ Bestätigung ↓ Zahlung ↓ Druck ↓ Lieferung Ist die gewählte Sprache noch nicht druckfertig, teilen wir zunächst die voraussichtliche Übersetzungs- und Satzzeit mit. Buch Auswählen Demotopia — Demokratische Utopie Sprache des Exemplars Auswählen Belarussisch (BE) Deutsch (DE) Englisch (EN) Spanisch (ES) Französisch (FR) Polnisch (PL) Portugiesisch (PT) Russisch (RU) Ukrainisch (UK) Anzahl Zweck Für mich Als Geschenk Zur Weitergabe an einen anderen Leser Vor- und Nachname E-Mail Telefon für die Lieferung Land Stadt Postleitzahl Lieferadres
+> Autorenausgabe auf bestätigte Anfrage Exemplar anfragen Das Buch kann in der gewählten Sprache vorbereitet und einem bestimmten Leser übergeben werden. Wir bestätigen persönlich die Verfügbarkeit der gewählten Sprache, die Vorbereitungszeit, den Endpreis und die Lieferbedingungen. Das Absenden des Formulars verpflichtet nicht zum Kauf. So funktioniert es Anfrage ↓ Kalkulation ↓ Bestätigung ↓ Zahlung ↓ Vorbereitung ↓ Lieferung Falls die gewählte Sprachfassung noch nicht vorbereitet ist, teilen wir vorab den voraussichtlichen Termin der Fertigstellung mit. Besondere Variante Signiertes Exemplar Ein Exemplar mit persönlicher Signatur wird vom Autor vor dem Versand an den Leser unterzeichnet. Es ist nicht nur ein Name auf einer Seite: Die Signatur kann von einer persönlichen Widmung begleitet werden, und das fertige Buch geht durch die Hände des Autors und bewahrt die Wärme dieser Berührung.
 
 ### de/books/samizdat/order/received/index.html
 
@@ -3126,14 +3144,14 @@ Excerpt:
 - description: Request an author-issued samizdat 2.0 book in any project language.
 - canonical: https://www.ashraellen.com/en/books/samizdat/order/
 - H1: Request a copy
-- H2: Request ↓ Estimate ↓ Confirmation ↓ Payment ↓ Print ↓ Delivery
+- H2: Request ↓ Estimate ↓ Confirmation ↓ Payment ↓ Preparation ↓ Delivery | Signed copy
 - H3: _missing_
-- suggested keyword seed: request, 2.0, copy, samizdat, ashraellen, book, books, delivery, language, payment, address, any, arrange, author-issued, before, confirm, confirmation, confirmed
-- candidates: delivery, request, language, book, copy, payment, 2.0, address, arrange, before, confirm, confirmed, estimate, may, personally, print, printing, reader, samizdat, select, used, agree, another, answer
+- suggested keyword seed: request, copy, 2.0, samizdat, ashraellen, author-issued, book, books, delivery, language, preparation, address, any, confirmation, estimate, order, payment, project
+- candidates: copy, request, delivery, language, book, preparation, reader, selected, time, 2.0, address, author-issued, before, calculate, can, conditions, confirmed, cost, dedication, final, include, message, name, payment
 
 Excerpt:
 
-> Made on confirmed request Request a copy A book may be prepared, typeset, printed and shipped for a particular reader. Before payment we personally confirm language availability, preparation time, print cost and delivery. Sending this form does not create a purchase obligation. How it works Request ↓ Estimate ↓ Confirmation ↓ Payment ↓ Print ↓ Delivery If the selected language is not yet print-ready, we will first confirm the estimated translation and typesetting period. Book Select Demotopia — Democratic Utopia Copy language Select Belarusian (BE) German (DE) English (EN) Spanish (ES) French (FR) Polish (PL) Portuguese (PT) Russian (RU) Ukrainian (UK) Quantity Purpose For myself Gift Pass on to another reader Full name Email Phone for delivery Country City Postal code Delivery address The address is used only to estimate and arrange printing and delivery. Message I agree that the submit
+> Author-issued copy by confirmed request Request a copy A book can be prepared in the selected language and transmitted to a particular reader. We personally confirm the availability of the selected language, preparation time, final cost and delivery conditions. Submitting the form does not create an obligation to purchase. How it works Request ↓ Estimate ↓ Confirmation ↓ Payment ↓ Preparation ↓ Delivery If the selected language edition has not yet been prepared, we will tell you the expected completion time in advance. Special option Signed copy A copy with a personal signature is signed by the author before it is sent to the reader. It is more than a name on a page: the signature may include a personal dedication, while the finished book passes through the author’s hands and retains the warmth of that touch. You can include the wording of the dedication in the message accompanying your 
 
 ### en/books/samizdat/order/received/index.html
 
@@ -4265,14 +4283,14 @@ Excerpt:
 - description: Solicitud de un ejemplar de autor samizdat 2.0 en cualquier idioma del proyecto.
 - canonical: https://www.ashraellen.com/es/books/samizdat/order/
 - H1: Solicitar un ejemplar
-- H2: Solicitud ↓ Cálculo ↓ Confirmación ↓ Pago ↓ Impresión ↓ Entrega
+- H2: Solicitud ↓ Cálculo ↓ Confirmación ↓ Pago ↓ Preparación ↓ Entrega | Ejemplar firmado
 - H3: _missing_
-- suggested keyword seed: ejemplar, 2.0, samizdat, solicitud, ashraellen, books, del, entrega, idioma, impresión, pago, solicitar, antes, autor, calcular, cálculo, confirmación, cualquier
-- candidates: entrega, para, solicitud, del, ejemplar, idioma, impresión, pago, plazo, 2.0, antes, calcular, dirección, enviar, lector, libro, los, organizar, personalmente, producción, samizdat, seleccione, solicitar, una
+- suggested keyword seed: ejemplar, samizdat, solicitud, 2.0, ashraellen, autor, books, del, entrega, idioma, preparación, solicitar, cálculo, confirmación, cualquier, firmado, las, lector
+- candidates: ejemplar, del, entrega, para, solicitud, autor, idioma, preparación, las, lector, libro, personalmente, plazo, puede, 2.0, antes, calcular, condiciones, coste, dedicatoria, dirección, elegido, enviar, final
 
 Excerpt:
 
-> Producción tras una solicitud confirmada Solicitar un ejemplar Un libro puede prepararse, maquetarse, imprimirse y enviarse para un lector concreto. Antes del pago confirmamos personalmente la disponibilidad del idioma, el plazo de preparación y los costes de impresión y entrega. Enviar el formulario no crea una obligación de compra. Cómo funciona Solicitud ↓ Cálculo ↓ Confirmación ↓ Pago ↓ Impresión ↓ Entrega Si el idioma elegido aún no está listo para imprimir, primero indicaremos el plazo estimado de traducción y maquetación. Libro Seleccione Demotopia — Utopía Democrática Idioma del ejemplar Seleccione Bielorruso (BE) Alemán (DE) Inglés (EN) Español (ES) Francés (FR) Polaco (PL) Portugués (PT) Ruso (RU) Ucraniano (UK) Cantidad Finalidad Para mí Como regalo Para entregarlo a otro lector Nombre y apellidos Correo electrónico Teléfono para la entrega País Ciudad Código postal Dirección 
+> Ejemplar de autor mediante solicitud confirmada Solicitar un ejemplar El libro puede prepararse en el idioma elegido y entregarse a un lector concreto. Confirmamos personalmente la disponibilidad del idioma elegido, el plazo de preparación, el coste final y las condiciones de entrega. Enviar el formulario no crea ninguna obligación de compra. Cómo funciona Solicitud ↓ Cálculo ↓ Confirmación ↓ Pago ↓ Preparación ↓ Entrega Si la versión lingüística elegida aún no está preparada, comunicaremos de antemano el plazo estimado de finalización del ejemplar. Opción especial Ejemplar firmado El autor firma personalmente el ejemplar antes de enviarlo al lector. No es solo un nombre en una página: la firma puede ir acompañada de una dedicatoria personal, y el libro ya terminado pasa por las manos del autor y conserva la calidez de ese contacto. El texto de la dedicatoria puede indicarse en el mensaj
 
 ### es/books/samizdat/order/received/index.html
 
@@ -5455,14 +5473,14 @@ Excerpt:
 - description: Demande d’un exemplaire d’auteur samizdat 2.0 dans toute langue du projet.
 - canonical: https://www.ashraellen.com/fr/books/samizdat/order/
 - H1: Demander un exemplaire
-- H2: Demande ↓ Calcul ↓ Confirmation ↓ Paiement ↓ Impression ↓ Livraison
+- H2: Demande ↓ Estimation ↓ Confirmation ↓ Paiement ↓ Préparation ↓ Livraison | Exemplaire signé
 - H3: _missing_
-- suggested keyword seed: exemplaire, 2.0, demande, samizdat, ashraellen, books, calcul, demander, langue, livraison, paiement, avant, choisir, confirmation, d’auteur, d’un, dans, délai
-- candidates: livraison, demande, pour, langue, délai, exemplaire, l’impression, paiement, 2.0, avant, calcul, choisir, demander, fabrication, lecteur, les, livre, nous, personnellement, que, samizdat, adresse, ainsi, allemand
+- suggested keyword seed: exemplaire, demande, samizdat, 2.0, ashraellen, books, dans, demander, langue, livraison, préparation, choisie, confirmation, d’auteur, d’un, délai, estimation, être
+- candidates: demande, exemplaire, livraison, l’exemplaire, langue, pour, préparation, choisie, dans, délai, être, lecteur, les, livre, peut, 2.0, avant, calculer, choisir, conditions, coût, d’auteur, d’un, dédicace
 
 Excerpt:
 
-> Fabrication après demande confirmée Demander un exemplaire Un livre peut être préparé, mis en page, imprimé et expédié pour un lecteur précis. Avant le paiement, nous confirmons personnellement la disponibilité de la langue, le délai de préparation ainsi que les coûts d’impression et de livraison. L’envoi du formulaire ne crée aucune obligation d’achat. Comment cela fonctionne Demande ↓ Calcul ↓ Confirmation ↓ Paiement ↓ Impression ↓ Livraison Si la langue choisie n’est pas encore prête pour l’impression, nous indiquerons d’abord le délai estimé de traduction et de mise en page. Livre Choisir Demotopia — Utopie Démocratique Langue de l’exemplaire Choisir Biélorusse (BE) Allemand (DE) Anglais (EN) Espagnol (ES) Français (FR) Polonais (PL) Portugais (PT) Russe (RU) Ukrainien (UK) Quantité Destination Pour moi Comme cadeau À transmettre à un autre lecteur Nom et prénom E-mail Téléphone pour
+> Exemplaire d’auteur sur demande confirmée Demander un exemplaire Le livre peut être préparé dans la langue choisie et transmis à un lecteur précis. Nous confirmons personnellement la disponibilité de la langue choisie, le délai de préparation, le coût final et les conditions de livraison. L’envoi du formulaire ne crée aucune obligation d’achat. Comment cela fonctionne Demande ↓ Estimation ↓ Confirmation ↓ Paiement ↓ Préparation ↓ Livraison Si la version linguistique choisie n’est pas encore préparée, nous communiquerons à l’avance le délai estimé d’achèvement de l’exemplaire. Option particulière Exemplaire signé Un exemplaire portant une signature personnelle est signé par l’auteur avant son envoi au lecteur. Il ne s’agit pas seulement d’un nom sur une page : la signature peut être accompagnée d’une dédicace personnelle, tandis que le livre achevé passe entre les mains de l’auteur et con
 
 ### fr/books/samizdat/order/received/index.html
 
@@ -6662,14 +6680,14 @@ Excerpt:
 - description: Zgłoszenie autorskiego egzemplarza książki samizdatu 2.0 w dowolnym języku projektu.
 - canonical: https://www.ashraellen.com/pl/books/samizdat/order/
 - H1: Poproś o egzemplarz
-- H2: Zgłoszenie ↓ Wycena ↓ Potwierdzenie ↓ Płatność ↓ Druk ↓ Dostawa
+- H2: Zapytanie ↓ Wycena ↓ Potwierdzenie ↓ Płatność ↓ Przygotowanie ↓ Dostawa | Egzemplarz z podpisem
 - H3: _missing_
-- suggested keyword seed: 2.0, egzemplarz, zgłoszenie, ashraellen, books, dostawa, egzemplarza, poproś, samizdatu, adres, autorskiego, czas, dostawy, dowolnym, druk, druku, język, języku
-- candidates: dostawy, druku, zgłoszenie, 2.0, adres, czas, dostawa, egzemplarz, egzemplarza, język, książka, nie, oraz, organizacji, osobiście, płatność, poproś, przed, samizdatu, wybierz, wyceny, angielski, ashraellen, autorskiego
+- suggested keyword seed: egzemplarz, 2.0, ashraellen, books, egzemplarza, języku, poproś, samizdatu, adres, autorskiego, czas, czytelnikowi, dostawa, dostawy, dowolnym, koszt, książka, książki
+- candidates: dostawy, egzemplarza, egzemplarz, przygotowania, czytelnikowi, książka, nie, 2.0, adres, czas, języku, koszt, może, nazwisko, osobiście, ostateczny, podpisem, poproś, przed, przygotowana, samizdatu, warunki, wybierz, wyceny
 
 Excerpt:
 
-> Wykonanie po potwierdzonym zgłoszeniu Poproś o egzemplarz Książka może zostać przygotowana, złożona, wydrukowana i wysłana dla konkretnego czytelnika. Przed płatnością osobiście potwierdzamy dostępność języka, czas przygotowania, koszt druku i dostawy. Wysłanie formularza nie tworzy obowiązku zakupu. Jak to działa Zgłoszenie ↓ Wycena ↓ Potwierdzenie ↓ Płatność ↓ Druk ↓ Dostawa Jeśli wybrany język nie jest jeszcze gotowy do druku, najpierw podamy przewidywany czas tłumaczenia i składu. Książka Wybierz Demotopia — Demokratyczna Utopia Język egzemplarza Wybierz Białoruski (BE) Niemiecki (DE) Angielski (EN) Hiszpański (ES) Francuski (FR) Polski (PL) Portugalski (PT) Rosyjski (RU) Ukraiński (UK) Liczba egzemplarzy Przeznaczenie Dla siebie Na prezent Do przekazania innemu czytelnikowi Imię i nazwisko Email Telefon do dostawy Kraj Miasto Kod pocztowy Adres dostawy Adres jest używany wyłącznie d
+> Egzemplarz autorski na potwierdzone zamówienie Poproś o egzemplarz Książka może zostać przygotowana w wybranym języku i przekazana konkretnemu czytelnikowi. Osobiście potwierdzamy dostępność wybranego języka, czas przygotowania, ostateczny koszt i warunki dostawy. Wysłanie formularza nie zobowiązuje do zakupu. Jak to działa Zapytanie ↓ Wycena ↓ Potwierdzenie ↓ Płatność ↓ Przygotowanie ↓ Dostawa Jeśli wybrana wersja językowa nie jest jeszcze przygotowana, z wyprzedzeniem podamy przewidywany termin gotowości egzemplarza. Szczególny wariant Egzemplarz z podpisem Egzemplarz z osobistym podpisem autor podpisuje przed wysłaniem go czytelnikowi. To nie tylko nazwisko na stronie: podpisowi może towarzyszyć osobista dedykacja, a gotowa książka przechodzi przez ręce autora i zachowuje ciepło tego dotknięcia. Treść dedykacji można podać w wiadomości dołączonej do zapytania. Książka Wybierz Demotopi
 
 ### pl/books/samizdat/order/received/index.html
 
@@ -7818,14 +7836,14 @@ Excerpt:
 - description: Pedido de um exemplar de autor samizdat 2.0 em qualquer idioma do projeto.
 - canonical: https://www.ashraellen.com/pt/books/samizdat/order/
 - H1: Solicitar um exemplar
-- H2: Pedido ↓ Cálculo ↓ Confirmação ↓ Pagamento ↓ Impressão ↓ Entrega
+- H2: Pedido ↓ Orçamento ↓ Confirmação ↓ Pagamento ↓ Preparação ↓ Entrega | Exemplar assinado
 - H3: _missing_
-- suggested keyword seed: exemplar, 2.0, pedido, samizdat, ashraellen, books, entrega, idioma, impressão, pagamento, solicitar, antes, autor, calcular, cálculo, como, confirmação, order
-- candidates: entrega, para, impressão, pedido, exemplar, idioma, pagamento, prazo, 2.0, antes, calcular, como, leitor, livro, morada, não, organizar, pessoalmente, produção, samizdat, selecionar, solicitar, ainda, alemão
+- suggested keyword seed: exemplar, pedido, samizdat, 2.0, ashraellen, autor, books, entrega, idioma, preparação, solicitar, assinado, confirmação, leitor, livro, não, orçamento, order
+- candidates: exemplar, para, entrega, pedido, autor, idioma, preparação, leitor, livro, não, pode, prazo, ser, 2.0, antes, apenas, assinado, assinatura, calcular, com, como, condições, custo, dedicatória
 
 Excerpt:
 
-> Produção após pedido confirmado Solicitar um exemplar Um livro pode ser preparado, paginado, impresso e enviado para um leitor específico. Antes do pagamento, confirmamos pessoalmente a disponibilidade do idioma, o prazo de preparação e os custos de impressão e entrega. O envio do formulário não cria obrigação de compra. Como funciona Pedido ↓ Cálculo ↓ Confirmação ↓ Pagamento ↓ Impressão ↓ Entrega Se o idioma escolhido ainda não estiver pronto para impressão, indicaremos primeiro o prazo estimado de tradução e paginação. Livro Selecionar Demotopia — Utopia Democrática Idioma do exemplar Selecionar Bielorrusso (BE) Alemão (DE) Inglês (EN) Espanhol (ES) Francês (FR) Polaco (PL) Português (PT) Russo (RU) Ucraniano (UK) Quantidade Finalidade Para mim Como presente Para entregar a outro leitor Nome completo Email Telefone para entrega País Cidade Código postal Morada de entrega A morada é ut
+> Exemplar de autor mediante pedido confirmado Solicitar um exemplar O livro pode ser preparado no idioma escolhido e transmitido a um leitor específico. Confirmamos pessoalmente a disponibilidade do idioma escolhido, o prazo de preparação, o custo final e as condições de entrega. O envio do formulário não cria qualquer obrigação de compra. Como funciona Pedido ↓ Orçamento ↓ Confirmação ↓ Pagamento ↓ Preparação ↓ Entrega Se a versão linguística escolhida ainda não estiver preparada, comunicaremos antecipadamente o prazo estimado para a conclusão do exemplar. Opção especial Exemplar assinado Um exemplar com assinatura pessoal é assinado pelo autor antes de ser enviado ao leitor. Não é apenas um nome numa página: a assinatura pode incluir uma dedicatória pessoal, enquanto o livro já concluído passa pelas mãos do autor e conserva o calor desse contacto. O texto da dedicatória pode ser indicad
 
 ### pt/books/samizdat/order/received/index.html
 
@@ -10334,14 +10352,14 @@ Excerpt:
 - description: Запит авторського примірника книги samizdat 2.0 будь-якою мовою проєкту.
 - canonical: https://www.ashraellen.com/uk/books/samizdat/order/
 - H1: Запросити примірник
-- H2: Запит ↓ Розрахунок ↓ Підтвердження ↓ Оплата ↓ Друк ↓ Доставка
+- H2: Запит ↓ Розрахунок ↓ Підтвердження ↓ Оплата ↓ Підготовка ↓ Доставка | Підписаний примірник
 - H3: _missing_
-- suggested keyword seed: samizdat, 2.0, запит, запросити, ashraellen, books, доставка, примірник, order, авторського, адреса, будь-якою, виготовлення, доставки, друк, друку, книги, мова
-- candidates: доставки, друку, запит, строк, 2.0, samizdat, адреса, виготовлення, доставка, запросити, мова, надіслати, оберіть, оплата, організації, особисто, примірник, примірника, розрахунку, читачеві, ashraellen, demotopia, email, авторського
+- suggested keyword seed: samizdat, примірник, 2.0, запит, ashraellen, books, запросити, примірника, order, авторського, адреса, будь-якою, вартість, доставка, доставки, книга, книги, мовою
+- candidates: доставки, примірника, примірник, запит, підготовки, книга, строк, читачеві, 2.0, samizdat, адреса, вартість, запросити, ім’я, мовою, може, оберіть, особистим, особисто, підготовлена, розрахунку, умови, ashraellen, demotopia
 
 Excerpt:
 
-> Виготовлення після підтвердженого запиту Запросити примірник Книгу можна підготувати, зверстати, надрукувати й надіслати конкретному читачеві. До оплати ми особисто підтверджуємо доступність мови, строк підготовки, вартість друку й доставки. Надсилання форми не створює обов’язку здійснити покупку. Як це працює Запит ↓ Розрахунок ↓ Підтвердження ↓ Оплата ↓ Друк ↓ Доставка Якщо вибрана мова ще не готова до друку, ми спочатку повідомимо орієнтовний строк перекладу та верстки. Книга Оберіть Demotopia — Демократична Утопія Мова примірника Оберіть Білоруська (BE) Німецька (DE) Англійська (EN) Іспанська (ES) Французька (FR) Польська (PL) Португальська (PT) Російська (RU) Українська (UK) Кількість Призначення Для себе У подарунок Для передачі іншому читачеві Ім’я та прізвище Email Телефон для доставки Країна Місто Поштовий індекс Адреса доставки Адреса використовується лише для розрахунку й орга
+> Авторський примірник за підтвердженим запитом Запросити примірник Книга може бути підготовлена обраною мовою та передана конкретному читачеві. Ми особисто підтверджуємо доступність обраної мови, строк підготовки, підсумкову вартість і умови доставки. Надсилання форми не створює зобов’язання здійснити покупку. Як це працює Запит ↓ Розрахунок ↓ Підтвердження ↓ Оплата ↓ Підготовка ↓ Доставка Якщо обрана мовна версія ще не підготовлена, ми заздалегідь повідомимо орієнтовний строк готовності примірника. Особливий варіант Підписаний примірник Примірник з особистим підписом автор підписує перед відправленням читачеві. Це не просто ім’я на сторінці: підпис може супроводжуватися особистим побажанням, а готова книга проходить через руки автора й зберігає тепло цього дотику. Текст побажання можна зазначити в повідомленні до запиту. Книга Оберіть Demotopia — Демократична Утопія Мова примірника Обері
 
 ### uk/books/samizdat/order/received/index.html
 
