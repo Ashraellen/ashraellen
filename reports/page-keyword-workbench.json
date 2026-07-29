@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29T09:50:10.068Z",
+  "generated": "2026-07-29T10:08:04.830Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -20384,6 +20384,90 @@
         "вычитки",
         "где",
         "главы"
+      ]
+    },
+    {
+      "page": "fr/books/demotopia/index.html",
+      "lang": "fr",
+      "section": "books",
+      "title": "Demotopia — Utopie démocratique — roman d’Ashraellen",
+      "description": "Demotopia est un roman philosophique d’Ashraellen sur la Varsovie d’un avenir proche, la démocratie, le pouvoir distribué, les données, la liberté et la responsabilité.",
+      "existingKeywords": "Ashraellen, Demotopia, Utopie démocratique, roman philosophique, science-fiction sociale, Varsovie, démocratie, dictature, données, liberté, responsabilité",
+      "canonical": "https://www.ashraellen.com/fr/books/demotopia/",
+      "h1": [
+        "Demotopia"
+      ],
+      "h2": [
+        "Extrait choisi",
+        "À propos du livre",
+        "Sans spoilers",
+        "Cadre artistique et de recherche",
+        "Thèmes principaux",
+        "Forme et atmosphère",
+        "Pour qui ?",
+        "Deux circuits éditoriaux"
+      ],
+      "h3": [
+        "Une Varsovie qui fonctionne",
+        "La personne comme somme",
+        "Un pouvoir sans visage mauvais",
+        "Une responsabilité sans intention",
+        "Liberté",
+        "Données",
+        "Démocratie",
+        "Responsabilité"
+      ],
+      "slugTerms": [
+        "fr",
+        "books",
+        "demotopia"
+      ],
+      "excerpt": "Roman philosophique / Varsovie dans un avenir proche Demotopia Utopie démocratique La ville est devenue plus sûre, plus transparente et plus juste. Le système ne voit plus un acte isolé, mais la personne tout entière — ses trajets, ses relations, ses choix, ses obligations et ses silences. Mais que reste-t-il de la liberté lorsque la société peut prouver qu’elle connaît une personne avec plus de précision qu’elle ne se connaît elle-même ? Concept de couverture en anglais. Ashraellen. Extrait choisi Chapitre 1. La machine n’est jamais arrivée Le système voit déjà une structure achevée. L’enquêteur tente d’établir où s’arrête la participation prouvée d’une personne et où commence le savoir qu’on lui attribue. Ouvrir l’extrait Fermer l’extrait L’enquêteur ouvrit le dossier de l’arrestation à la neuvième adresse. L’équipe était entrée à 05:40:08. Il n’y avait eu aucune résistance physique. L",
+      "candidates": [
+        "une",
+        "personne",
+        "des",
+        "pas",
+        "les",
+        "mais",
+        "plus",
+        "qui",
+        "roman",
+        "est",
+        "ses",
+        "système",
+        "peut",
+        "été",
+        "non",
+        "que",
+        "comme",
+        "d’un",
+        "d’une",
+        "demotopia",
+        "société",
+        "sur",
+        "dans",
+        "démocratie"
+      ],
+      "suggestedKeywordSeed": [
+        "demotopia",
+        "roman",
+        "books",
+        "d’ashraellen",
+        "est",
+        "les",
+        "qui",
+        "artistique",
+        "ashraellen",
+        "atmosphère",
+        "avenir",
+        "cadre",
+        "choisi",
+        "circuits",
+        "d’un",
+        "démocratie",
+        "démocratique",
+        "des"
       ]
     },
     {

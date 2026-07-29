@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-29T09:50:10.109Z
-Pages: 629
+Generated: 2026-07-29T10:08:04.842Z
+Pages: 630
 
 ## Index
 
@@ -282,6 +282,7 @@ Pages: 629
 | fi/kone/index.html | fi | kone | Ashraellen — tiivistelmä Koneen Säätiölle | ashraellen, kone, tiivistelmä, koneen, säätiölle, suomenkielinen, ashraellen-hankkeesta, elämänmittainen, taiteellis-filosofinen, tutkimus, merkityksestä, kirjallisuudesta, videoista, monikielisestä, arkistosta, tutkimuksen, ydin, tekijä | ashraellen, koneen, kone, säätiölle, tiivistelmä, tutkimuksen, tutkimus, arkistosta, ashraellen-hankkeesta, asiakirjat, elämänmittainen, hankkeen, infrastruktuuri, julkinen, kirjallisuudesta, kuukauden, merkityksestä, miten |
 | flow/index.html | root | flow | FLOW — Ashraellen | ashraellen, flow, playlist, youtube, music, doctype, html, title, window.location.replace, https, music.youtube.com, list, plliwih1l4vxtrzs4, wvti69pbdhddk4ny, iuwpb0ptwi1d1elk, script, root, 050505 | flow, ashraellen, playlist, music, youtube, open, opening |
 | focus-group/books/Error404/index.html | root | focus-group | Ошибка 404: Бог не найден — читательская панель | _missing_ | 404, бог, найден, ошибка, панель, читательская, ashraellen, books, ch.title, error404, escapehtml, focus, focus-group, group, важно, вычитки, где, главы |
+| fr/books/demotopia/index.html | fr | books | Demotopia — Utopie démocratique — roman d’Ashraellen | Ashraellen, Demotopia, Utopie démocratique, roman philosophique, science-fiction sociale, Varsovie, démocratie, dictature, données, liberté, responsabilité | demotopia, roman, books, d’ashraellen, est, les, qui, artistique, ashraellen, atmosphère, avenir, cadre, choisi, circuits, d’un, démocratie, démocratique, des |
 | fr/books/error-404-god-not-found/index.html | fr | books | Ashraellen — Erreur 404 : Dieu introuvable | _missing_ | 404, dieu, erreur, introuvable, cycle, ashraellen, books, céleste, chancellerie, l’erreur, série, sur, contre, error, est, found, god, humaine |
 | fr/books/error-404-god-not-found/why-me/index.html | fr | books | Ashraellen — Pourquoi moi ? | _missing_ | livre, moi, pourquoi, ashraellen, books, 404, avec, bureaucratie, céleste, chancellerie, comme, couches, cycle, dans, demande, dieu, douleur, erreur |
 | fr/books/index.html | fr | books | Ashraellen — Livres | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | livres, ashraellen, books, livre, satire, 404, audio, book, cycle, cycles, d’ashraellen, déjà, des, error, found, god, indépendants, les |
@@ -5313,6 +5314,23 @@ Excerpt:
 Excerpt:
 
 > Прогресс чтения 0 / 22 Сбросить Начните с первой главы. Галочки и заметки сохраняются только в этом браузере. Что особенно важно отметить Не нужно играть в корректора с красной ручкой. Нужна честная реакция живого читателя. Короткая памятка Где стало скучно, непонятно или захотелось закрыть текст. Что зацепило, рассмешило или осталось в памяти. Где герой кажется живым, а где — автором на кафедре. Ошибки и опечатки — тоже отмечайте, но не охотьтесь за ними вместо чтения. Все главы Не проверены Проверены Есть заметки Печать списка
+
+### fr/books/demotopia/index.html
+
+- lang: fr
+- section: books
+- title: Demotopia — Utopie démocratique — roman d’Ashraellen
+- description: Demotopia est un roman philosophique d’Ashraellen sur la Varsovie d’un avenir proche, la démocratie, le pouvoir distribué, les données, la liberté et la responsabilité.
+- canonical: https://www.ashraellen.com/fr/books/demotopia/
+- H1: Demotopia
+- H2: Extrait choisi | À propos du livre | Sans spoilers | Cadre artistique et de recherche | Thèmes principaux | Forme et atmosphère | Pour qui ? | Deux circuits éditoriaux
+- H3: Une Varsovie qui fonctionne | La personne comme somme | Un pouvoir sans visage mauvais | Une responsabilité sans intention | Liberté | Données | Démocratie | Responsabilité
+- suggested keyword seed: demotopia, roman, books, d’ashraellen, est, les, qui, artistique, ashraellen, atmosphère, avenir, cadre, choisi, circuits, d’un, démocratie, démocratique, des
+- candidates: une, personne, des, pas, les, mais, plus, qui, roman, est, ses, système, peut, été, non, que, comme, d’un, d’une, demotopia, société, sur, dans, démocratie
+
+Excerpt:
+
+> Roman philosophique / Varsovie dans un avenir proche Demotopia Utopie démocratique La ville est devenue plus sûre, plus transparente et plus juste. Le système ne voit plus un acte isolé, mais la personne tout entière — ses trajets, ses relations, ses choix, ses obligations et ses silences. Mais que reste-t-il de la liberté lorsque la société peut prouver qu’elle connaît une personne avec plus de précision qu’elle ne se connaît elle-même ? Concept de couverture en anglais. Ashraellen. Extrait choisi Chapitre 1. La machine n’est jamais arrivée Le système voit déjà une structure achevée. L’enquêteur tente d’établir où s’arrête la participation prouvée d’une personne et où commence le savoir qu’on lui attribue. Ouvrir l’extrait Fermer l’extrait L’enquêteur ouvrit le dossier de l’arrestation à la neuvième adresse. L’équipe était entrée à 05:40:08. Il n’y avait eu aucune résistance physique. L
 
 ### fr/books/error-404-god-not-found/index.html
 
