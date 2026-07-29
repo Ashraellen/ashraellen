@@ -1,6 +1,6 @@
 # Page Metadata Audit
 
-Generated: 2026-07-28T21:11:40.757Z
+Generated: 2026-07-29T06:35:12.650Z
 
 Pages checked: 622
 Pages with issues: 119
@@ -1239,7 +1239,7 @@ Total review notes: 2108
 ### ru/books/index.html
 
 - title: Ashraellen — Книги
-- description length: 109
+- description length: 152
 - canonical: https://www.ashraellen.com/ru/books/
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
