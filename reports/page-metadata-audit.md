@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-07-29T10:08:04.240Z
+Generated: 2026-07-29T10:09:15.842Z
 
 Pages checked: 629
-Pages with issues: 114
-Total issues: 440
+Pages with issues: 112
+Total issues: 438
 Pages with review notes: 591
 Total review notes: 2124
 
@@ -14,7 +14,7 @@ Total review notes: 2124
 |---|---:|
 | MISSING_KEYWORDS | 54 |
 | MISSING_TWITTER_IMAGE | 54 |
-| DUPLICATE_KEYWORDS | 50 |
+| DUPLICATE_KEYWORDS | 48 |
 | MISSING_TWITTER_CARD | 40 |
 | DUPLICATE_TITLE | 36 |
 | MISSING_OG_DESCRIPTION | 35 |
@@ -705,16 +705,6 @@ Total review notes: 2124
 - MISSING_KEYWORDS
 - MISSING_TWITTER_IMAGE
 
-### fr/books/index.html
-
-- title: Ashraellen — Livres
-- description length: 138
-- canonical: https://www.ashraellen.com/fr/books/
-- og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
-- twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
-
-- DUPLICATE_KEYWORDS: shared by 2 pages
-
 ### fr/books/monolith/beton/index.html
 
 - title: Ashraellen — BETON
@@ -1034,16 +1024,6 @@ Total review notes: 2124
 
 - MISSING_KEYWORDS
 - MISSING_TWITTER_IMAGE
-
-### pt/books/index.html
-
-- title: Ashraellen — Livros
-- description length: 138
-- canonical: https://www.ashraellen.com/pt/books/
-- og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
-- twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
-
-- DUPLICATE_KEYWORDS: shared by 2 pages
 
 ### pt/books/monolith/beton/index.html
 

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29T10:08:04.830Z",
+  "generated": "2026-07-29T10:09:16.448Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -20630,8 +20630,8 @@
       "lang": "fr",
       "section": "books",
       "title": "Ashraellen — Livres",
-      "description": "Livres d’Ashraellen : MONOLITH, RADIANCE, ERROR 404: GOD NOT FOUND, Le Livre sacré de SECCUS, Tu es déjà en ligne et The Book of Whinesis.",
-      "existingKeywords": "Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis",
+      "description": "Livres d’Ashraellen : Demotopia, MONOLITH, RADIANCE, ERROR 404: GOD NOT FOUND, Le Livre sacré de SECCUS, Tu es déjà en ligne, The Book of Whinesis et éditions directes d’auteur par samizdat 2.0.",
+      "existingKeywords": "Ashraellen, livres, Demotopia, Utopie démocratique, MONOLITH, RADIANCE, ERROR 404, SECCUS, Tu es déjà en ligne, The Book of Whinesis, samizdat 2.0, éditions d’auteur",
       "canonical": "https://www.ashraellen.com/fr/books/",
       "h1": [
         "Livres"
@@ -20639,59 +20639,60 @@
       "h2": [
         "Cycles de livres",
         "Livres indépendants et recherches",
-        "Satire"
+        "Satire",
+        "Éditions directes d’auteur"
       ],
       "h3": [],
       "slugTerms": [
         "fr",
         "books"
       ],
-      "excerpt": "Livres Cette section rassemble les cycles de livres, les romans indépendants, les livres-recherches et la satire d’Ashraellen. Choisissez un vaste projet ou commencez par un livre précis. Cycles de livres séries et projets au long cours MONOLITH Une trilogie dystopique littéraire et philosophique sur le contrôle, la mémoire et la désagrégation des systèmes. BETON, SLUDGE et GAS suivent le passage de la matière sociale, de la stabilité durcie à la déformation visqueuse puis à la perte d’étanchéité de la forme. Ouvrir la trilogie trilogie RADIANCE Un cycle littéraire et philosophique de recherche artistique sur les récits du Nord et les images anciennes comme instructions vivantes pour le monde. Non pas une réécriture du « Kalevala », mais un retour à l’expérience humaine dont de telles histoires ont pu naître. Ouvrir le cycle cycle ERROR 404: GOD NOT FOUND Un cycle romanesque philosophiqu",
+      "excerpt": "Livres Cette section rassemble les cycles de livres, les romans indépendants, les livres-recherches, la satire et les éditions physiques directes d’auteur d’Ashraellen. Choisissez un vaste projet ou commencez par un livre précis. Cycles de livres séries et projets au long cours MONOLITH Une trilogie dystopique littéraire et philosophique sur le contrôle, la mémoire et la désagrégation des systèmes. BETON, SLUDGE et GAS suivent le passage de la matière sociale, de la stabilité durcie à la déformation visqueuse puis à la perte d’étanchéité de la forme. Ouvrir la trilogie trilogie RADIANCE Un cycle littéraire et philosophique de recherche artistique sur les récits du Nord et les images anciennes comme instructions vivantes pour le monde. Non pas une réécriture du « Kalevala », mais un retour à l’expérience humaine dont de telles histoires ont pu naître. Ouvrir le cycle cycle ERROR 404: GOD ",
       "candidates": [
-        "sur",
-        "une",
-        "cycle",
-        "les",
         "livre",
+        "une",
+        "les",
         "livres",
         "ouvrir",
+        "sur",
+        "cycle",
+        "roman",
         "philosophique",
-        "satire",
-        "audio",
+        "d’auteur",
         "des",
+        "directes",
+        "satire",
+        "ses",
+        "système",
+        "2.0",
+        "audio",
+        "éditions",
         "leur",
         "ligne",
-        "roman",
+        "samizdat",
         "trilogie",
         "404",
-        "book",
-        "cycles",
-        "d’ashraellen",
-        "déjà",
-        "error",
-        "found",
-        "god",
-        "humaine"
+        "book"
       ],
       "suggestedKeywordSeed": [
         "livres",
+        "d’auteur",
+        "directes",
         "ashraellen",
         "books",
+        "éditions",
         "livre",
-        "satire",
+        "2.0",
         "404",
-        "audio",
         "book",
         "cycle",
         "cycles",
         "d’ashraellen",
         "déjà",
+        "demotopia",
         "des",
         "error",
-        "found",
-        "god",
-        "indépendants",
-        "les"
+        "found"
       ]
     },
     {
