@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-29T08:36:29.234Z
-Pages: 625
+Generated: 2026-07-29T08:42:22.169Z
+Pages: 626
 
 ## Index
 
@@ -565,6 +565,7 @@ Pages: 625
 | samizdat/index.html | root | samizdat | samizdat 2.0 — Ashraellen | _missing_ | samizdat, 2.0, ashraellen, author, book, editions, entrance, language, passports, author-issued, choose, each, permanent |
 | samizdat/order/index.html | root | samizdat | Redirecting to the samizdat 2.0 order page — Ashraellen | _missing_ | samizdat, ashraellen, order, 2.0, redirecting, continue, english |
 | samizdat/order/received/index.html | root | samizdat | Request received — samizdat 2.0 | _missing_ | received, samizdat, request, 2.0, automatically, been, has, address, any, ashraellen, availability, created, email, order, purchase, you |
+| uk/books/demotopia/index.html | uk | books | Demotopia — Демократична Утопія — роман Ashraellen | Ashraellen, Demotopia, Демократична Утопія, філософський роман, соціальна фантастика, Варшава, демократія, диктатура, дані, свобода, відповідальність | demotopia, ashraellen, про, роман, books, без, але, атмосфера, варшаву, вибраний, видання, відповідальність, він, владу, вона, дані, два, демократична |
 | uk/books/error-404-god-not-found/index.html | uk | books | Ashraellen — Помилка 404: Бога не знайдено | _missing_ | 404, бога, знайдено, помилка, ashraellen, books, пошуку, error, found, god, або, готується, заявник, його, канцелярії, канцелярію, книга, книги |
 | uk/books/error-404-god-not-found/why-me/index.html | uk | books | Ashraellen — Чому я? | _missing_ | чому, 404, ashraellen, books, бога, про, error, found, god, why, або, але, біль, бюрократію, він, віру, влад, душі |
 | uk/books/index.html | uk | books | Ashraellen — Книги | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | книги, ashraellen, 404, book, books, error, found, книга, сатира, god, monolith, radiance, whinesis, аудіороман, ахепсу, вже, відкрити, дослідження |
@@ -10120,6 +10121,23 @@ Excerpt:
 Excerpt:
 
 > samizdat 2.0 Request received Thank you. Your request has been sent. We will contact you by email to confirm language availability, preparation time, print cost, delivery and payment before any production begins. No purchase has been created automatically. Please keep an eye on the email address entered in the form, including its spam folder.
+
+### uk/books/demotopia/index.html
+
+- lang: uk
+- section: books
+- title: Demotopia — Демократична Утопія — роман Ashraellen
+- description: Demotopia — філософський роман Ashraellen про Варшаву найближчого майбутнього, демократію, розподілену владу, дані, свободу та відповідальність.
+- canonical: https://www.ashraellen.com/uk/books/demotopia/
+- H1: Demotopia
+- H2: Вибраний уривок | Про книгу | Без спойлерів | Художньо-дослідницька рамка | Основні теми | Форма й атмосфера | Для кого | Два контури видання
+- H3: Варшава, яка працює | Людина як сукупність | Влада без злого обличчя | Відповідальність без наміру | Свобода | Дані | Демократія | Відповідальність
+- suggested keyword seed: demotopia, ashraellen, про, роман, books, без, але, атмосфера, варшаву, вибраний, видання, відповідальність, він, владу, вона, дані, два, демократична
+- candidates: система, він, вона, роман, слідчий, demotopia, але, людину, про, без, керівник, людина, рішення, має, між, може, яка, було, версія, від, все, знав, його, право
+
+Excerpt:
+
+> Філософський роман / Варшава найближчого майбутнього Demotopia Демократична Утопія Місто стало безпечнішим, прозорішим і справедливішим. Система навчилася бачити не окремий учинок, а людину цілком — її маршрути, зв’язки, вибори, зобов’язання й мовчання. Але що залишається від свободи, коли суспільство здатне довести, що знає людину точніше, ніж вона знає саму себе? Обкладинка кириличного видання. Ashraellen. Вибраний уривок Розділ 1. Верстат не доїхав Система вже бачить завершену схему. Слідчий намагається встановити, де закінчується доведена участь людини й починається приписане їй знання. Відкрити уривок Закрити уривок Слідчий відкрив матеріали затримання за дев’ятою адресою. Група увійшла о 05:40:08. Фізичного опору не було. Персональний вузол вилучено без пошкоджень. Захисний контур відновлено через одну хвилину сорок дві секунди. Вилучено довіреність, реєстраційні дані компанії та к
 
 ### uk/books/error-404-god-not-found/index.html
 
