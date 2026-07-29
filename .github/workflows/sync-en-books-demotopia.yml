@@ -1,0 +1,95 @@
+name: Sync English books and Demotopia
+
+on:
+  push:
+    paths:
+      - '.github/workflows/sync-en-books-demotopia.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Update English books catalogue and shared styles
+        shell: python
+        run: |
+          from pathlib import Path
+
+          index = Path('en/books/index.html')
+          text = index.read_text(encoding='utf-8')
+
+          text = text.replace(
+            'Books by Ashraellen: MONOLITH, RADIANCE, ERROR 404: GOD NOT FOUND, The Sacred Book of SECCUS, You Are Already Online, and The Book of Whinesis.',
+            'Books by Ashraellen: Demotopia, MONOLITH, RADIANCE, ERROR 404: GOD NOT FOUND, The Sacred Book of SECCUS, You Are Already Online, The Book of Whinesis, and direct author editions through samizdat 2.0.'
+          )
+          text = text.replace(
+            'Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis',
+            'Ashraellen, books, Demotopia, Democratic Utopia, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis, samizdat 2.0, author editions'
+          )
+          text = text.replace('<meta property="og:type" content="book">', '<meta property="og:type" content="website">')
+
+          old_style = '<link rel="stylesheet" href="../../assets/books.css?v=20260608-1"><style>.item .books-card-cta .btn{font-size:12px;line-height:1.2;padding:8px 12px;border-radius:12px;font-weight:700}</style>'
+          new_style = '<link rel="stylesheet" href="../../assets/books.css?v=20260729-1"><style>.item .books-card-cta .btn{font-size:12px;line-height:1.2;padding:8px 12px;border-radius:12px;font-weight:700}.demotopia-thumb{object-fit:cover;object-position:center top}</style>'
+          if old_style not in text:
+              raise SystemExit('Expected English books stylesheet block not found')
+          text = text.replace(old_style, new_style, 1)
+
+          marker = '<section class="list"><div class="list-header"><h2>Standalone books and research</h2><p class="note">an independent entry point</p></div><ul class="items">'
+          demotopia = '''<section class="list"><div class="list-header"><h2>Standalone books and research</h2><p class="note">an independent entry point</p></div><ul class="items"><li class="item"><div class="thumb"><a href="https://www.ashraellen.com/en/books/demotopia/" aria-label="Open: Demotopia — Democratic Utopia"><img class="demotopia-thumb" src="../../assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp" alt="Demotopia — Democratic Utopia" loading="lazy"></a></div><div class="body"><a href="https://www.ashraellen.com/en/books/demotopia/" title="Open the novel page">Demotopia — Democratic Utopia</a><div class="meta">A philosophical novel set in a clean, safe near-future Warsaw, where a democratic system assembles a person from routes, relationships, contracts and data — and may know them more precisely than they know themselves.</div><div class="cta-row books-card-cta"><a class="btn secondary" href="https://www.ashraellen.com/en/books/demotopia/">Open novel</a><a class="btn secondary" href="https://www.ashraellen.com/en/books/samizdat/demotopia/">Book passport</a></div></div><span class="badge">novel</span></li>'''
+          if marker not in text:
+              raise SystemExit('Standalone-books section marker not found')
+          text = text.replace(marker, demotopia, 1)
+
+          seal = '<div class="seal"><img src="../../assets/symbol.png" alt="Ashraellen symbol"><span>— mark of presence</span></div>'
+          samizdat = '''<section class="list samizdat-list" aria-labelledby="samizdat-section-title"><div class="list-header"><h2 id="samizdat-section-title">Direct author editions</h2><p class="note">the book as a transferable object</p></div><ul class="items"><li class="item"><div class="thumb"><a href="https://www.ashraellen.com/en/books/samizdat/" aria-label="Open: samizdat 2.0"><img class="samizdat-thumb" src="../../assets/backgrounds/samizdat-2-0-author-edition-on-writing-desk.webp" alt="A samizdat 2.0 author edition on a writing desk" loading="lazy"></a></div><div class="body"><a href="https://www.ashraellen.com/en/books/samizdat/">samizdat 2.0</a><div class="meta">A system of direct physical author editions: individual copies, permanent public book passports and the transfer of a work to its reader without reducing the book to an anonymous mass-market object.</div><div class="cta-row books-card-cta"><a class="btn secondary" href="https://www.ashraellen.com/en/books/samizdat/">Enter samizdat 2.0</a></div></div><span class="badge">edition system</span></li></ul></section>'''
+          if seal not in text:
+              raise SystemExit('English books seal marker not found')
+          text = text.replace(seal, samizdat + seal, 1)
+
+          if text.count('Demotopia — Democratic Utopia') < 2:
+              raise SystemExit('Demotopia catalogue card was not inserted')
+          if text.count('samizdat-list') != 1:
+              raise SystemExit('Unexpected samizdat catalogue section count')
+          index.write_text(text, encoding='utf-8')
+
+          css = Path('assets/books.css')
+          css_text = css.read_text(encoding='utf-8')
+          block = '''
+
+/* Direct author editions / samizdat catalogue card */
+.samizdat-list{
+  border-color:rgba(72,54,36,.30);
+  background:#e9dfc9;
+  box-shadow:0 18px 40px rgba(0,0,0,.28);
+  backdrop-filter:none;
+  text-shadow:none;
+}
+.samizdat-list .list-header{border-bottom-color:rgba(72,54,36,.16)}
+.samizdat-list .list-header h2,
+.samizdat-list .item a{color:#241d16}
+.samizdat-list .list-header .note,
+.samizdat-list .item .meta{color:#675b4d}
+.samizdat-list .item{border-top-color:rgba(72,54,36,.14)}
+.samizdat-list .thumb{border-color:rgba(72,54,36,.18);background:#d8ccb5}
+.samizdat-list .samizdat-thumb{object-fit:cover;object-position:center}
+.samizdat-list .badge{color:#5e5144;border-color:rgba(72,54,36,.24);background:rgba(72,54,36,.06)}
+.samizdat-list .btn.secondary{color:#241d16!important;border-color:rgba(72,54,36,.30);background:rgba(255,255,255,.30);backdrop-filter:none}
+.samizdat-list .btn.secondary:hover{color:#241d16!important;border-color:rgba(72,54,36,.48);background:rgba(255,255,255,.55)}
+'''
+          if '/* Direct author editions / samizdat catalogue card */' not in css_text:
+              css_text += block
+          css.write_text(css_text, encoding='utf-8')
+
+          Path('.github/workflows/sync-en-books-demotopia.yml').unlink()
+      - name: Commit result
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add en/books/index.html assets/books.css .github/workflows/sync-en-books-demotopia.yml
+          git commit -m "Sync English books catalogue with Demotopia and samizdat"
+          git push
