@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-29T08:42:22.169Z
+Generated: 2026-07-29T08:43:35.767Z
 Pages: 626
 
 ## Index
@@ -568,7 +568,7 @@ Pages: 626
 | uk/books/demotopia/index.html | uk | books | Demotopia — Демократична Утопія — роман Ashraellen | Ashraellen, Demotopia, Демократична Утопія, філософський роман, соціальна фантастика, Варшава, демократія, диктатура, дані, свобода, відповідальність | demotopia, ashraellen, про, роман, books, без, але, атмосфера, варшаву, вибраний, видання, відповідальність, він, владу, вона, дані, два, демократична |
 | uk/books/error-404-god-not-found/index.html | uk | books | Ashraellen — Помилка 404: Бога не знайдено | _missing_ | 404, бога, знайдено, помилка, ashraellen, books, пошуку, error, found, god, або, готується, заявник, його, канцелярії, канцелярію, книга, книги |
 | uk/books/error-404-god-not-found/why-me/index.html | uk | books | Ashraellen — Чому я? | _missing_ | чому, 404, ashraellen, books, бога, про, error, found, god, why, або, але, біль, бюрократію, він, віру, влад, душі |
-| uk/books/index.html | uk | books | Ashraellen — Книги | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | книги, ashraellen, 404, book, books, error, found, книга, сатира, god, monolith, radiance, whinesis, аудіороман, ахепсу, вже, відкрити, дослідження |
+| uk/books/index.html | uk | books | Ashraellen — Книги | Ashraellen, книги, Demotopia, Демократична Утопія, MONOLITH, RADIANCE, ERROR 404, АХЕПСУ, Ти вже в мережі, The Book of Whinesis, samizdat 2.0, авторські видання | книги, ashraellen, авторські, видання, 2.0, books, samizdat, книга, прямі, 404, book, demotopia, error, found, god, monolith, radiance, whinesis |
 | uk/books/monolith/beton/index.html | uk | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, monolith, про, ashraellen, books, пам’ять, стабільність, том, антиутопія, антон, без, вибраний, видання, відредаговану, він, вони, всередині, вузли |
 | uk/books/monolith/index.html | uk | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ashraellen, beton, books, gas, sludge, контроль, пам’ять, про, антиутопічна, важливо, вже, він, карта, кого, літературно-філософська, людина, плутати |
 | uk/books/monolith/sludge/index.html | uk | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, ashraellen, books, monolith, про, адам, але, антиутопія, без, в’язкий, вже, вибраний, виснажений, від, він, всередині, втрату, другий |
@@ -10178,17 +10178,17 @@ Excerpt:
 - lang: uk
 - section: books
 - title: Ashraellen — Книги
-- description: Книги Ashraellen: MONOLITH, RADIANCE, ERROR 404: GOD NOT FOUND, Сакральна книга АХЕПСУ, Ти вже в мережі та The Book of Whinesis.
+- description: Книги Ashraellen: Demotopia, MONOLITH, RADIANCE, ERROR 404: GOD NOT FOUND, Сакральна книга АХЕПСУ, Ти вже в мережі, The Book of Whinesis і прямі авторські видання samizdat 2.0.
 - canonical: https://www.ashraellen.com/uk/books/
 - H1: Книги
-- H2: Книжкові цикли | Окремі книги й дослідження | Сатира
+- H2: Книжкові цикли | Окремі книги й дослідження | Сатира | Прямі авторські видання
 - H3: _missing_
-- suggested keyword seed: книги, ashraellen, 404, book, books, error, found, книга, сатира, god, monolith, radiance, whinesis, аудіороман, ахепсу, вже, відкрити, дослідження
-- candidates: відкрити, про, книги, цикл, ashraellen, аудіороман, книга, сатира, 404, book, error, found, god, monolith, radiance, whinesis, або, ахепсу, вже, книга-дослідження, книгу, книжкові, мережі, окрема
+- suggested keyword seed: книги, ashraellen, авторські, видання, 2.0, books, samizdat, книга, прямі, 404, book, demotopia, error, found, god, monolith, radiance, whinesis
+- candidates: відкрити, книги, про, книга, система, цикл, 2.0, ashraellen, samizdat, авторські, аудіороман, видання, прямі, роман, сатира, 404, book, demotopia, error, found, god, monolith, radiance, whinesis
 
 Excerpt:
 
-> Книги Тут зібрано книжкові цикли, окремі романи, книги-дослідження та сатиру Ashraellen. Оберіть великий проєкт або почніть із конкретної книги. Книжкові цикли серії та довгострокові проєкти MONOLITH Літературно-філософська антиутопічна трилогія про контроль, пам’ять і розпад систем. BETON, SLUDGE і GAS фіксують перехід соціальної матерії від затверділої стабільності через в’язку деформацію до втрати герметичності форми. Відкрити трилогію трилогія RADIANCE Літературно-філософський художньо-дослідницький цикл про північні перекази та давні образи як живі інструкції до світу. Не переказ «Калевали», а повернення до людського досвіду, з якого такі історії могли постати. Відкрити цикл цикл ERROR 404: GOD NOT FOUND Філософсько-сатиричний роман-цикл про Небесну Канцелярію та людей, які шукають Бога, Істину або справедливість через власний страх, біль і самообман. Кожна книга — окрема справа. Ві
+> Книги Тут зібрано книжкові цикли, окремі романи, книги-дослідження, сатиру та прямі фізичні авторські видання Ashraellen. Оберіть великий проєкт або почніть із конкретної книги. Книжкові цикли серії та довгострокові проєкти MONOLITH Літературно-філософська антиутопічна трилогія про контроль, пам’ять і розпад систем. BETON, SLUDGE і GAS фіксують перехід соціальної матерії від затверділої стабільності через в’язку деформацію до втрати герметичності форми. Відкрити трилогію трилогія RADIANCE Літературно-філософський художньо-дослідницький цикл про північні перекази та давні образи як живі інструкції до світу. Не переказ «Калевали», а повернення до людського досвіду, з якого такі історії могли постати. Відкрити цикл цикл ERROR 404: GOD NOT FOUND Філософсько-сатиричний роман-цикл про Небесну Канцелярію та людей, які шукають Бога, Істину або справедливість через власний страх, біль і самообман
 
 ### uk/books/monolith/beton/index.html
 
