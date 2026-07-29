@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-29T07:51:14.280Z
-Pages: 623
+Generated: 2026-07-29T08:27:12.382Z
+Pages: 624
 
 ## Index
 
@@ -141,6 +141,7 @@ Pages: 623
 | de/research/position/index.html | de | research | Ashraellen — Position — German | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, de, research, position | position, ashraellen, als, und, arbeite, beobachtung, beschreibungsmodelle, betrachte, der, erfahrung, erfahrungen, feld, research, forscher, german, ich, innere, künstlerischer |
 | de/research/projects/index.html | de | research | Ashraellen — Forschungsprojekte | ashraellen, research, projects, forschungsprojekte, eine, karte, der, arbeitsfelder, von, monolith, hauptkanal, öffentliches, feld, satirische, projekte, und, seitenlabore, wahrnehmung | ashraellen, der, eine, monolith, projekte, research, und, von, als, arbeitsfelder, book, church, das, die, ein, feld, forschungsprojekte, hauptkanal |
 | de/research/sources/index.html | de | research | Ashraellen — Quellen und Tradition | ashraellen, research, sources, quellen, und, tradition, von, phänomenologie, des, bewusstseins, körper, narration, kognitionswissenschaft, künstlerische, praxis, als, methodische, linien | und, als, der, ashraellen, des, körper, quellen, tradition, erfahrung, forschung, research, bewusstsein, bewusstseins, das, die, edmund, eine, eleanor |
+| en/books/demotopia/index.html | en | books | Demotopia — Democratic Utopia — a novel by Ashraellen | Ashraellen, Demotopia, Democratic Utopia, philosophical novel, social science fiction, Warsaw, democracy, dictatorship, data, freedom, responsibility | demotopia, ashraellen, novel, about, books, power, artistic-research, atmosphere, book, can, circuits, core, data, democracy, democratic, did, distributed, excerpt |
 | en/books/error-404-god-not-found/index.html | en | books | Ashraellen — Error 404: God Not Found | ashraellen, books, error, 404, god, found, multilingual, philosophical-satirical, novel, cycle, about, heavenly, chancellery, human, complaint, against, universe, searching | error, god, found, 404, books, cycle, about, against, ashraellen, chancellery, heavenly, human, searching, series, begins, book, complaint, multilingual |
 | en/books/error-404-god-not-found/why-me/index.html | en | books | Ashraellen — Why Me? | _missing_ | why, book, error, god, about, ashraellen, books, found, 404, appeal, bureaucracy, chancellery, complaint, did, excerpt, faith, had, heavenly |
 | en/books/index.html | en | books | Ashraellen — Books | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | books, book, ashraellen, 404, god, research, satire, about, already, audio, cycle, cycles, error, found, monolith, novel, online, open |
@@ -2910,6 +2911,23 @@ Excerpt:
 Excerpt:
 
 > Quellen und Tradition Diese Forschung steht am Schnittpunkt von Phänomenologie des Bewusstseins, narrativer Erkenntnis, Kognitionswissenschaft und künstlerischer Praxis. Husserl baute eine Methode der genauen Beschreibung von Erfahrung. Merleau-Ponty brachte das Bewusstsein zum Körper zurück. Ricoeur zeigte, dass Erzählung kein Schmuck der Gedanken ist, sondern eine Form des Selbstverstehens. Varela, Thompson und Rosch verbanden Phänomenologie mit Kognitionswissenschaft und gelebter Erfahrung. Ashraellen arbeitet dort, wo sich diese Linien kreuzen: in einem Bereich, in dem der akademische Text allein nicht mehr ausreicht und die lebendige Erfahrung noch keine genaue Form erhalten hat. Phänomenologie des Bewusstseins Edmund Husserl — Erfahrung vor fertigen Erklärungen Wichtig ist hier nicht der Glaube an den ersten Gedanken, sondern die genaue Beobachtung, wie Erfahrung im Bewusstsein ers
+
+### en/books/demotopia/index.html
+
+- lang: en
+- section: books
+- title: Demotopia — Democratic Utopia — a novel by Ashraellen
+- description: Demotopia is a philosophical novel by Ashraellen about near-future Warsaw, democracy, distributed power, data, freedom and responsibility.
+- canonical: https://www.ashraellen.com/en/books/demotopia/
+- H1: Demotopia
+- H2: Selected excerpt | About the book | Without spoilers | Artistic-research framework | Core themes | Form and atmosphere | Who it is for | Two publishing circuits
+- H3: A Warsaw that works | The person as an aggregate | Power without an evil face | Responsibility without intention | Freedom | Data | Democracy | Responsibility
+- suggested keyword seed: demotopia, ashraellen, novel, about, books, power, artistic-research, atmosphere, book, can, circuits, core, data, democracy, democratic, did, distributed, excerpt
+- candidates: person, was, has, system, what, did, can, him, investigator, novel, power, demotopia, team, their, which, his, leader, more, public, right, society, than, without, been
+
+Excerpt:
+
+> Philosophical novel / near-future Warsaw Demotopia Democratic Utopia The city has become safer, clearer and fairer. The system no longer sees a single act in isolation; it sees the whole person — routes, relationships, choices, obligations and silences. But what remains of freedom when society can prove that it knows a person more accurately than that person knows themselves? English cover concept. Ashraellen. Selected excerpt Chapter 1. The machine never arrived The system already sees a completed structure. The investigator is trying to establish where a person’s proven involvement ends and knowledge attributed to them begins. Open excerpt Close excerpt The investigator opened the detention file for the ninth address. The team entered at 05:40:08. There was no physical resistance. The personal node was removed without damage. The protective circuit was restored one minute and forty-two
 
 ### en/books/error-404-god-not-found/index.html
 

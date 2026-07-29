@@ -1,12 +1,12 @@
 # Page Metadata Audit
 
-Generated: 2026-07-29T07:51:13.695Z
+Generated: 2026-07-29T08:27:11.808Z
 
-Pages checked: 622
+Pages checked: 623
 Pages with issues: 119
 Total issues: 446
-Pages with review notes: 583
-Total review notes: 2108
+Pages with review notes: 585
+Total review notes: 2112
 
 ## Issue summary
 
@@ -32,8 +32,8 @@ Total review notes: 2108
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 583 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 563 |
+| DUPLICATE_OG_IMAGE_REVIEW | 585 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 565 |
 | FALLBACK_OG_IMAGE_USED | 491 |
 | FALLBACK_TWITTER_IMAGE_USED | 471 |
 
@@ -2911,6 +2911,15 @@ Total review notes: 2108
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 491 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 471 pages
+
+### en/books/demotopia/index.html
+
+- title: Demotopia — Democratic Utopia — a novel by Ashraellen
+- og:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
 
 ### en/books/error-404-god-not-found/index.html
 
@@ -6307,6 +6316,15 @@ Total review notes: 2108
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 491 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 471 pages
+
+### ru/books/demotopia/index.html
+
+- title: Demotopia — Демократичная Утопия — роман Ashraellen
+- og:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
 
 ### ru/books/error-404-god-not-found/index.html
 
