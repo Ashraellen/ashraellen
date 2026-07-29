@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-29T09:41:08.913Z
-Pages: 627
+Generated: 2026-07-29T09:45:15.764Z
+Pages: 628
 
 ## Index
 
@@ -75,6 +75,7 @@ Pages: 627
 | be/research/position/index.html | be | research | Ashraellen — Пазіцыя | ashraellen, research, position, пазіцыя, незалежнае, мастацкае, даследаванне, ўнутранага, досведу, поля, назірання, doctype, html, title, script, context, https, schema.org | ashraellen, пазіцыя, research, даследаванне, досведу, мастацкае, назірання, position, апісання, даследчык, досвед, досведы, мадэлі, мастацкі, незалежнае, поля, ўнутранага |
 | be/research/projects/index.html | be | research | Ashraellen — Праекты даследавання | ashraellen, research, projects, праекты, даследавання, карта, рабочых, палёў, monolith, асноўны, канал, публічнае, поле, сатырычныя, бакавыя, лабараторыі, ўспрымання, instagram | ashraellen, праекты, monolith, research, telegram, бакавыя, канал, лабараторыі, поле, church, inner, instagram, melodies, occultus, projects, saint, scriptorium, sounds |
 | be/research/sources/index.html | be | research | Ashraellen — Крыніцы і традыцыя | ashraellen, research, sources, крыніцы, традыцыя, фенаменалогія, свядомасці, цела, наратыў, кагнітыўная, навука, мастацкая, практыка, эдмунд, гусерль, досвед, гатовых, тлумачэнняў | ashraellen, крыніцы, традыцыя, цела, research, аповед, досвед, свядомасці, свядомасць, фенаменалогія, sources, бачным, варэла, гатовых, гусерль, даследавання, досведу, жывая |
+| de/books/demotopia/index.html | de | books | Demotopia — Demokratische Utopie — ein Roman von Ashraellen | Ashraellen, Demotopia, Demokratische Utopie, philosophischer Roman, Gesellschaftsroman, Warschau, Demokratie, Diktatur, Daten, Freiheit, Verantwortung | demotopia, ashraellen, ein, und, von, books, das, ist, roman, über, als, atmosphäre, auf, ausgewählter, auszug, buch, daten, demokratie |
 | de/books/error-404-god-not-found/index.html | de | books | Ashraellen — Fehler 404: Gott nicht gefunden | _missing_ | fehler, gefunden, gott, nicht, 404, der, die, ashraellen, books, das, den, ein, kanzlei, reihe, beschwerde, buch, bücher, des |
 | de/books/error-404-god-not-found/why-me/index.html | de | books | Ashraellen — Warum ich? | _missing_ | ich, der, die, warum, ashraellen, books, buch, das, ein, nicht, über, und, 404, auf, auszug, bedeutungsschichten, beschwerde, buches |
 | de/books/index.html | de | books | Ashraellen — Bücher | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | bücher, ashraellen, und, books, buch, satire, 404, audioroman, bereits, bist, book, buchzyklen, das, der, die, eigenständige, ein, eine |
@@ -1792,6 +1793,23 @@ Excerpt:
 Excerpt:
 
 > Крыніцы і традыцыя Гэта даследаванне стаіць на скрыжаванні фенаменалогіі свядомасці, наратыўнага пазнання, кагнітыўнай навукі і мастацкай практыкі. Гусерль выбудоўвае метад дакладнага апісання досведу. Мерло-Понці вяртае свядомасць да цела. Рыкёр паказвае, што наратыў — не ўпрыгожанне думкі, а форма самаразумення. Варэла, Томпсан і Рош злучаюць фенаменалогію з кагнітыўнай навукай і жывым досведам. Ashraellen працуе там, дзе гэтыя лініі перасякаюцца: у зоне, дзе акадэмічнага тэксту ўжо недастаткова, а жывы досвед яшчэ не атрымаў дакладнай формы. Фенаменалогія свядомасці Эдмунд Гусерль — досвед да гатовых тлумачэнняў Тут важна не верыць першай думцы, а дакладна назіраць, як досвед з’яўляецца ў свядомасці. Звыклыя тлумачэнні часова адсоўваюцца, каб само з’яўленне стала бачным: думка, адчуванне, страх, чаканне, вобраз, унутраны імпульс. Сувязь з Ashraellen: назіраць думку да атаясамлення з ё
+
+### de/books/demotopia/index.html
+
+- lang: de
+- section: books
+- title: Demotopia — Demokratische Utopie — ein Roman von Ashraellen
+- description: Demotopia ist ein philosophischer Roman von Ashraellen über Warschau in naher Zukunft, Demokratie, verteilte Macht, Daten, Freiheit und Verantwortung.
+- canonical: https://www.ashraellen.com/de/books/demotopia/
+- H1: Demotopia
+- H2: Ausgewählter Auszug | Über das Buch | Ohne Spoiler | Künstlerisch-forschende Perspektive | Zentrale Themen | Form und Atmosphäre | Für wen | Zwei Publikationskreise
+- H3: Ein Warschau, das funktioniert | Der Mensch als Summe | Macht ohne böses Gesicht | Verantwortung ohne Absicht | Freiheit | Daten | Demokratie | Verantwortung
+- suggested keyword seed: demotopia, ashraellen, ein, und, von, books, das, ist, roman, über, als, atmosphäre, auf, ausgewählter, auszug, buch, daten, demokratie
+- candidates: die, und, der, das, nicht, ein, eine, als, ist, auf, von, kann, menschen, roman, sie, den, sondern, demotopia, für, sich, demokratie, des, diktatur, macht
+
+Excerpt:
+
+> Philosophischer Roman / Warschau in naher Zukunft Demotopia Demokratische Utopie Die Stadt ist sicherer, transparenter und gerechter geworden. Das System sieht nicht mehr nur eine einzelne Handlung, sondern den ganzen Menschen — seine Wege, Beziehungen, Entscheidungen, Verpflichtungen und sein Schweigen. Doch was bleibt von Freiheit, wenn die Gesellschaft beweisen kann, dass sie einen Menschen genauer kennt als er sich selbst? Englisches Coverkonzept. Ashraellen. Ausgewählter Auszug Kapitel 1. Die Maschine kam nie an Das System sieht bereits eine abgeschlossene Struktur. Der Ermittler versucht festzustellen, wo die nachgewiesene Beteiligung eines Menschen endet und das ihm zugeschriebene Wissen beginnt. Auszug öffnen Auszug schließen Der Ermittler öffnete die Unterlagen zur Festnahme an der neunten Adresse. Das Team betrat die Wohnung um 05:40:08. Es gab keinen körperlichen Widerstand. D
 
 ### de/books/error-404-god-not-found/index.html
 

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29T09:41:08.901Z",
+  "generated": "2026-07-29T09:45:15.752Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -5046,6 +5046,90 @@
         "даследавання",
         "досведу",
         "жывая"
+      ]
+    },
+    {
+      "page": "de/books/demotopia/index.html",
+      "lang": "de",
+      "section": "books",
+      "title": "Demotopia — Demokratische Utopie — ein Roman von Ashraellen",
+      "description": "Demotopia ist ein philosophischer Roman von Ashraellen über Warschau in naher Zukunft, Demokratie, verteilte Macht, Daten, Freiheit und Verantwortung.",
+      "existingKeywords": "Ashraellen, Demotopia, Demokratische Utopie, philosophischer Roman, Gesellschaftsroman, Warschau, Demokratie, Diktatur, Daten, Freiheit, Verantwortung",
+      "canonical": "https://www.ashraellen.com/de/books/demotopia/",
+      "h1": [
+        "Demotopia"
+      ],
+      "h2": [
+        "Ausgewählter Auszug",
+        "Über das Buch",
+        "Ohne Spoiler",
+        "Künstlerisch-forschende Perspektive",
+        "Zentrale Themen",
+        "Form und Atmosphäre",
+        "Für wen",
+        "Zwei Publikationskreise"
+      ],
+      "h3": [
+        "Ein Warschau, das funktioniert",
+        "Der Mensch als Summe",
+        "Macht ohne böses Gesicht",
+        "Verantwortung ohne Absicht",
+        "Freiheit",
+        "Daten",
+        "Demokratie",
+        "Verantwortung"
+      ],
+      "slugTerms": [
+        "de",
+        "books",
+        "demotopia"
+      ],
+      "excerpt": "Philosophischer Roman / Warschau in naher Zukunft Demotopia Demokratische Utopie Die Stadt ist sicherer, transparenter und gerechter geworden. Das System sieht nicht mehr nur eine einzelne Handlung, sondern den ganzen Menschen — seine Wege, Beziehungen, Entscheidungen, Verpflichtungen und sein Schweigen. Doch was bleibt von Freiheit, wenn die Gesellschaft beweisen kann, dass sie einen Menschen genauer kennt als er sich selbst? Englisches Coverkonzept. Ashraellen. Ausgewählter Auszug Kapitel 1. Die Maschine kam nie an Das System sieht bereits eine abgeschlossene Struktur. Der Ermittler versucht festzustellen, wo die nachgewiesene Beteiligung eines Menschen endet und das ihm zugeschriebene Wissen beginnt. Auszug öffnen Auszug schließen Der Ermittler öffnete die Unterlagen zur Festnahme an der neunten Adresse. Das Team betrat die Wohnung um 05:40:08. Es gab keinen körperlichen Widerstand. D",
+      "candidates": [
+        "die",
+        "und",
+        "der",
+        "das",
+        "nicht",
+        "ein",
+        "eine",
+        "als",
+        "ist",
+        "auf",
+        "von",
+        "kann",
+        "menschen",
+        "roman",
+        "sie",
+        "den",
+        "sondern",
+        "demotopia",
+        "für",
+        "sich",
+        "demokratie",
+        "des",
+        "diktatur",
+        "macht"
+      ],
+      "suggestedKeywordSeed": [
+        "demotopia",
+        "ashraellen",
+        "ein",
+        "und",
+        "von",
+        "books",
+        "das",
+        "ist",
+        "roman",
+        "über",
+        "als",
+        "atmosphäre",
+        "auf",
+        "ausgewählter",
+        "auszug",
+        "buch",
+        "daten",
+        "demokratie"
       ]
     },
     {
