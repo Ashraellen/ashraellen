@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29T08:35:18.062Z",
+  "generated": "2026-07-29T08:36:29.224Z",
   "pages": [
     {
       "page": "be/books/error-404-god-not-found/index.html",
@@ -25491,8 +25491,8 @@
       "lang": "pl",
       "section": "books",
       "title": "Ashraellen — Książki",
-      "description": "Książki Ashraellena: MONOLITH, Blask, Błąd 404: Boga nie znaleziono, Święta Księga SECCUS, Już jesteś w sieci i The Book of Whinesis.",
-      "existingKeywords": "Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis",
+      "description": "Książki Ashraellena: Demotopia, MONOLITH, Blask, Błąd 404: Boga nie znaleziono, Święta Księga SECCUS, Już jesteś w sieci, The Book of Whinesis oraz bezpośrednie wydania autorskie samizdat 2.0.",
+      "existingKeywords": "Ashraellen, książki, Demotopia, Demokratyczna Utopia, MONOLITH, Blask, Błąd 404, SECCUS, Już jesteś w sieci, The Book of Whinesis, samizdat 2.0, wydania autorskie",
       "canonical": "https://www.ashraellen.com/pl/books/",
       "h1": [
         "Książki"
@@ -25500,24 +25500,32 @@
       "h2": [
         "Cykle książkowe",
         "Samodzielne książki i badania",
-        "Satyra"
+        "Satyra",
+        "Bezpośrednie wydania autorskie"
       ],
       "h3": [],
       "slugTerms": [
         "pl",
         "books"
       ],
-      "excerpt": "Książki Zebrano tu cykle książkowe, samodzielne powieści, książki-badania i satyrę Ashraellena. Wybierz większy projekt albo zacznij od konkretnej książki. Cykle książkowe serie i projekty długoterminowe MONOLITH Literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów. BETON, SLUDGE i GAS zapisują przejście materii społecznej od zastygłej stabilności przez lepką deformację aż po utratę szczelności formy. Otwórz trylogię trylogia Blask Literacko-filozoficzny cykl artystyczno-badawczy o północnych podaniach i dawnych obrazach jako żywych instrukcjach do świata. Nie jest to streszczenie „Kalevali”, lecz powrót do ludzkiego doświadczenia, z którego takie opowieści mogły powstać. Otwórz cykl cykl Błąd 404: Boga nie znaleziono Filozoficzno-satyryczny cykl powieściowy o Niebiańskiej Kancelarii i ludziach, którzy szukają Boga, Prawdy albo sprawiedliwości poprzez wła",
+      "excerpt": "Książki Zebrano tu cykle książkowe, samodzielne powieści, książki-badania, satyrę oraz bezpośrednie fizyczne wydania autorskie Ashraellena. Wybierz większy projekt albo zacznij od konkretnej książki. Cykle książkowe serie i projekty długoterminowe MONOLITH Literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów. BETON, SLUDGE i GAS zapisują przejście materii społecznej od zastygłej stabilności przez lepką deformację aż po utratę szczelności formy. Otwórz trylogię trylogia Blask Literacko-filozoficzny cykl artystyczno-badawczy o północnych podaniach i dawnych obrazach jako żywych instrukcjach do świata. Nie jest to streszczenie „Kalevali”, lecz powrót do ludzkiego doświadczenia, z którego takie opowieści mogły powstać. Otwórz cykl cykl Błąd 404: Boga nie znaleziono Filozoficzno-satyryczny cykl powieściowy o Niebiańskiej Kancelarii i ludziach, którzy szukają B",
       "candidates": [
-        "cykl",
-        "otwórz",
         "książki",
+        "otwórz",
+        "cykl",
+        "powieść",
+        "system",
+        "2.0",
         "audio",
+        "autorskie",
+        "bezpośrednie",
         "błąd",
         "boga",
         "nie",
-        "powieść",
+        "oraz",
+        "samizdat",
         "satyra",
+        "wydania",
         "404",
         "albo",
         "ashraellena",
@@ -25525,34 +25533,27 @@
         "book",
         "cyfrowej",
         "cykle",
-        "jesteś",
-        "już",
-        "książka-badanie",
-        "książkę",
-        "książkowe",
-        "księga",
-        "monolith",
-        "powieściowy"
+        "demotopia"
       ],
       "suggestedKeywordSeed": [
         "książki",
-        "404",
+        "autorskie",
+        "bezpośrednie",
+        "2.0",
         "ashraellen",
-        "ashraellena",
         "błąd",
         "boga",
         "books",
         "nie",
-        "satyra",
-        "albo",
+        "wydania",
+        "404",
+        "ashraellena",
         "audio",
         "badania",
         "blask",
         "book",
         "cykl",
-        "cykle",
-        "jesteś",
-        "już"
+        "cykle"
       ]
     },
     {

@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-07-29T08:35:17.497Z
+Generated: 2026-07-29T08:36:28.744Z
 
 Pages checked: 624
-Pages with issues: 118
-Total issues: 445
+Pages with issues: 117
+Total issues: 444
 Pages with review notes: 586
 Total review notes: 2114
 
@@ -12,7 +12,7 @@ Total review notes: 2114
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_KEYWORDS | 55 |
+| DUPLICATE_KEYWORDS | 54 |
 | MISSING_KEYWORDS | 54 |
 | MISSING_TWITTER_IMAGE | 54 |
 | MISSING_TWITTER_CARD | 40 |
@@ -70,7 +70,7 @@ Total review notes: 2114
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
-- DUPLICATE_KEYWORDS: shared by 7 pages
+- DUPLICATE_KEYWORDS: shared by 6 pages
 
 ### be/books/monolith/beton/index.html
 
@@ -243,7 +243,7 @@ Total review notes: 2114
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
-- DUPLICATE_KEYWORDS: shared by 7 pages
+- DUPLICATE_KEYWORDS: shared by 6 pages
 
 ### de/books/monolith/beton/index.html
 
@@ -555,7 +555,7 @@ Total review notes: 2114
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
-- DUPLICATE_KEYWORDS: shared by 7 pages
+- DUPLICATE_KEYWORDS: shared by 6 pages
 
 ### es/books/monolith/beton/index.html
 
@@ -743,7 +743,7 @@ Total review notes: 2114
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
-- DUPLICATE_KEYWORDS: shared by 7 pages
+- DUPLICATE_KEYWORDS: shared by 6 pages
 
 ### fr/books/monolith/beton/index.html
 
@@ -899,16 +899,6 @@ Total review notes: 2114
 
 - MISSING_KEYWORDS
 - MISSING_TWITTER_IMAGE
-
-### pl/books/index.html
-
-- title: Ashraellen — Książki
-- description length: 133
-- canonical: https://www.ashraellen.com/pl/books/
-- og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
-- twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
-
-- DUPLICATE_KEYWORDS: shared by 7 pages
 
 ### pl/books/monolith/beton/index.html
 
@@ -1083,7 +1073,7 @@ Total review notes: 2114
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
-- DUPLICATE_KEYWORDS: shared by 7 pages
+- DUPLICATE_KEYWORDS: shared by 6 pages
 
 ### pt/books/monolith/beton/index.html
 
@@ -1403,7 +1393,7 @@ Total review notes: 2114
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
 - DUPLICATE_TITLE: shared by 2 pages
-- DUPLICATE_KEYWORDS: shared by 7 pages
+- DUPLICATE_KEYWORDS: shared by 6 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
 
 ### uk/books/monolith/beton/index.html

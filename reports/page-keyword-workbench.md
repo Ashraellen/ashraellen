@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-29T08:35:18.074Z
+Generated: 2026-07-29T08:36:29.234Z
 Pages: 625
 
 ## Index
@@ -352,7 +352,7 @@ Pages: 625
 | pl/books/demotopia/index.html | pl | books | Demotopia — Demokratyczna Utopia — powieść Ashraellena | Ashraellen, Demotopia, Demokratyczna Utopia, powieść filozoficzna, fantastyka społeczna, Warszawa, demokracja, dyktatura, dane, wolność, odpowiedzialność | demotopia, powieść, ashraellena, books, artystyczno-badawcza, ashraellen, atmosfera, bez, człowiek, człowieka, danych, demokracji, demokratyczna, dwa, filozoficzna, forma, fragment, główne |
 | pl/books/error-404-god-not-found/index.html | pl | books | Ashraellen — Błąd 404: Boga nie znaleziono | ashraellen, books, error, 404, god, found, błąd, boga, nie, znaleziono, wielojęzyczny, filozoficzno-satyryczny, cykl, powieściowy, niebiańskiej, kancelarii, ludzkiej, pretensji | nie, 404, błąd, boga, znaleziono, ashraellen, bogu, books, kancelarii, który, niebiańskiej, szukania, albo, błędzie, cykl, cyklu, error, filozoficzno-satyryczny |
 | pl/books/error-404-god-not-found/why-me/index.html | pl | books | Ashraellen — Dlaczego ja? | _missing_ | dlaczego, ashraellen, błąd, boga, books, nie, 404, albo, ale, biurokracji, bólu, cyklu, duszy, error, filozoficzno-satyryczna, found, fragment, god |
-| pl/books/index.html | pl | books | Ashraellen — Książki | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | książki, 404, ashraellen, ashraellena, błąd, boga, books, nie, satyra, albo, audio, badania, blask, book, cykl, cykle, jesteś, już |
+| pl/books/index.html | pl | books | Ashraellen — Książki | Ashraellen, książki, Demotopia, Demokratyczna Utopia, MONOLITH, Blask, Błąd 404, SECCUS, Już jesteś w sieci, The Book of Whinesis, samizdat 2.0, wydania autorskie | książki, autorskie, bezpośrednie, 2.0, ashraellen, błąd, boga, books, nie, wydania, 404, ashraellena, audio, badania, blask, book, cykl, cykle |
 | pl/books/monolith/beton/index.html | pl | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ashraellen, books, stabilności, systemu, akta, anton, antyutopia, artystyczno-badawcza, bez, filozoficzna, fragment, gdy, jako, jego, kogo, książce, książka |
 | pl/books/monolith/index.html | pl | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ashraellen, beton, books, gas, nie, sludge, antyutopijna, artystyczno-badawcza, czego, czym, forma, fraza, jako, już, kogo, kontroli, lecz |
 | pl/books/monolith/sludge/index.html | pl | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, ashraellen, books, adam, akta, ale, antyutopia, artystyczno-badawcza, bez, drugi, filozoficzna, formy, fragment, jego, już, kogo, książce, który |
@@ -6505,17 +6505,17 @@ Excerpt:
 - lang: pl
 - section: books
 - title: Ashraellen — Książki
-- description: Książki Ashraellena: MONOLITH, Blask, Błąd 404: Boga nie znaleziono, Święta Księga SECCUS, Już jesteś w sieci i The Book of Whinesis.
+- description: Książki Ashraellena: Demotopia, MONOLITH, Blask, Błąd 404: Boga nie znaleziono, Święta Księga SECCUS, Już jesteś w sieci, The Book of Whinesis oraz bezpośrednie wydania autorskie samizdat 2.0.
 - canonical: https://www.ashraellen.com/pl/books/
 - H1: Książki
-- H2: Cykle książkowe | Samodzielne książki i badania | Satyra
+- H2: Cykle książkowe | Samodzielne książki i badania | Satyra | Bezpośrednie wydania autorskie
 - H3: _missing_
-- suggested keyword seed: książki, 404, ashraellen, ashraellena, błąd, boga, books, nie, satyra, albo, audio, badania, blask, book, cykl, cykle, jesteś, już
-- candidates: cykl, otwórz, książki, audio, błąd, boga, nie, powieść, satyra, 404, albo, ashraellena, blask, book, cyfrowej, cykle, jesteś, już, książka-badanie, książkę, książkowe, księga, monolith, powieściowy
+- suggested keyword seed: książki, autorskie, bezpośrednie, 2.0, ashraellen, błąd, boga, books, nie, wydania, 404, ashraellena, audio, badania, blask, book, cykl, cykle
+- candidates: książki, otwórz, cykl, powieść, system, 2.0, audio, autorskie, bezpośrednie, błąd, boga, nie, oraz, samizdat, satyra, wydania, 404, albo, ashraellena, blask, book, cyfrowej, cykle, demotopia
 
 Excerpt:
 
-> Książki Zebrano tu cykle książkowe, samodzielne powieści, książki-badania i satyrę Ashraellena. Wybierz większy projekt albo zacznij od konkretnej książki. Cykle książkowe serie i projekty długoterminowe MONOLITH Literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów. BETON, SLUDGE i GAS zapisują przejście materii społecznej od zastygłej stabilności przez lepką deformację aż po utratę szczelności formy. Otwórz trylogię trylogia Blask Literacko-filozoficzny cykl artystyczno-badawczy o północnych podaniach i dawnych obrazach jako żywych instrukcjach do świata. Nie jest to streszczenie „Kalevali”, lecz powrót do ludzkiego doświadczenia, z którego takie opowieści mogły powstać. Otwórz cykl cykl Błąd 404: Boga nie znaleziono Filozoficzno-satyryczny cykl powieściowy o Niebiańskiej Kancelarii i ludziach, którzy szukają Boga, Prawdy albo sprawiedliwości poprzez wła
+> Książki Zebrano tu cykle książkowe, samodzielne powieści, książki-badania, satyrę oraz bezpośrednie fizyczne wydania autorskie Ashraellena. Wybierz większy projekt albo zacznij od konkretnej książki. Cykle książkowe serie i projekty długoterminowe MONOLITH Literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów. BETON, SLUDGE i GAS zapisują przejście materii społecznej od zastygłej stabilności przez lepką deformację aż po utratę szczelności formy. Otwórz trylogię trylogia Blask Literacko-filozoficzny cykl artystyczno-badawczy o północnych podaniach i dawnych obrazach jako żywych instrukcjach do świata. Nie jest to streszczenie „Kalevali”, lecz powrót do ludzkiego doświadczenia, z którego takie opowieści mogły powstać. Otwórz cykl cykl Błąd 404: Boga nie znaleziono Filozoficzno-satyryczny cykl powieściowy o Niebiańskiej Kancelarii i ludziach, którzy szukają B
 
 ### pl/books/monolith/beton/index.html
 
