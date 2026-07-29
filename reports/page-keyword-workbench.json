@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29T09:48:54.954Z",
+  "generated": "2026-07-29T09:50:10.068Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -15393,8 +15393,8 @@
       "lang": "es",
       "section": "books",
       "title": "Ashraellen — Libros",
-      "description": "Libros de Ashraellen: MONOLITH, RADIANCE, ERROR 404: GOD NOT FOUND, El Libro Sagrado de SECCUS, Ya estás en la red y The Book of Whinesis.",
-      "existingKeywords": "Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis",
+      "description": "Libros de Ashraellen: Demotopia, MONOLITH, RADIANCE, ERROR 404: GOD NOT FOUND, El Libro Sagrado de SECCUS, Ya estás en la red, The Book of Whinesis y ediciones directas de autor mediante samizdat 2.0.",
+      "existingKeywords": "Ashraellen, libros, Demotopia, Utopía Democrática, MONOLITH, RADIANCE, ERROR 404, SECCUS, Ya estás en la red, The Book of Whinesis, samizdat 2.0, ediciones de autor",
       "canonical": "https://www.ashraellen.com/es/books/",
       "h1": [
         "Libros"
@@ -15402,59 +15402,60 @@
       "h2": [
         "Ciclos de libros",
         "Libros independientes e investigaciones",
-        "Sátira"
+        "Sátira",
+        "Ediciones directas de autor"
       ],
       "h3": [],
       "slugTerms": [
         "es",
         "books"
       ],
-      "excerpt": "Libros Aquí se reúnen los ciclos de libros, las novelas independientes, los libros-investigación y la sátira de Ashraellen. Elige un proyecto amplio o empieza por un libro concreto. Ciclos de libros series y proyectos a largo plazo MONOLITH Una trilogía distópica literaria y filosófica sobre el control, la memoria y la desintegración de los sistemas. BETON, SLUDGE y GAS registran el paso de la materia social desde la estabilidad endurecida, a través de la deformación viscosa, hasta la pérdida de estanqueidad de la forma. Abrir la trilogía trilogía RADIANCE Un ciclo literario y filosófico de investigación artística sobre las leyendas del norte y las imágenes antiguas como instrucciones vivas para el mundo. No es un recuento del «Kalevala», sino un regreso a la experiencia humana de la que pudieron surgir historias así. Abrir el ciclo ciclo ERROR 404: GOD NOT FOUND Un ciclo novelístico fil",
+      "excerpt": "Libros Aquí se reúnen los ciclos de libros, las novelas independientes, los libros-investigación, la sátira y las ediciones físicas directas de autor de Ashraellen. Elige un proyecto amplio o empieza por un libro concreto. Ciclos de libros series y proyectos a largo plazo MONOLITH Una trilogía distópica literaria y filosófica sobre el control, la memoria y la desintegración de los sistemas. BETON, SLUDGE y GAS registran el paso de la materia social desde la estabilidad endurecida, a través de la deformación viscosa, hasta la pérdida de estanqueidad de la forma. Abrir la trilogía trilogía RADIANCE Un ciclo literario y filosófico de investigación artística sobre las leyendas del norte y las imágenes antiguas como instrucciones vivas para el mundo. No es un recuento del «Kalevala», sino un regreso a la experiencia humana de la que pudieron surgir historias así. Abrir el ciclo ciclo ERROR 40",
       "candidates": [
-        "abrir",
-        "ciclo",
         "libro",
-        "libros",
-        "sobre",
         "una",
+        "abrir",
+        "libros",
+        "ciclo",
         "los",
+        "sobre",
+        "que",
+        "autor",
+        "del",
+        "directas",
+        "ediciones",
+        "las",
         "sátira",
+        "sistema",
+        "2.0",
         "ashraellen",
         "audionovela",
-        "las",
-        "que",
+        "filosófica",
+        "novela",
+        "samizdat",
         "trilogía",
         "404",
-        "aquí",
-        "autoengaño",
-        "book",
-        "ciclos",
-        "del",
-        "digital",
-        "error",
-        "estás",
-        "filosófica",
-        "filosófico"
+        "aquí"
       ],
       "suggestedKeywordSeed": [
         "libros",
         "ashraellen",
+        "autor",
+        "directas",
+        "ediciones",
         "books",
         "libro",
-        "sátira",
+        "2.0",
         "404",
         "abrir",
-        "audionovela",
         "book",
         "ciclo",
         "ciclos",
+        "del",
+        "demotopia",
         "error",
         "estás",
-        "found",
-        "god",
-        "independientes",
-        "investigaciones",
-        "las"
+        "found"
       ]
     },
     {

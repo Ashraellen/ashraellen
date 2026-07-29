@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-29T09:48:54.966Z
+Generated: 2026-07-29T09:50:10.109Z
 Pages: 629
 
 ## Index
@@ -214,7 +214,7 @@ Pages: 629
 | es/books/demotopia/index.html | es | books | Demotopia — Utopía Democrática — novela de Ashraellen | Ashraellen, Demotopia, Utopía Democrática, novela filosófica, ciencia ficción social, Varsovia, democracia, dictadura, datos, libertad, responsabilidad | demotopia, ashraellen, novela, books, del, los, poder, sobre, una, artístico, atmósfera, circuitos, como, con, datos, democracia, democrática, destripes |
 | es/books/error-404-god-not-found/index.html | es | books | Ashraellen — Error 404: Dios no encontrado | _missing_ | error, 404, dios, ciclo, encontrado, ashraellen, books, búsqueda, cancillería, celestial, del, serie, sobre, contra, filosófico-satírico, forma, found, frase |
 | es/books/error-404-god-not-found/why-me/index.html | es | books | Ashraellen — ¿Por qué yo? | _missing_ | del, por, qué, libro, ashraellen, books, dios, error, sobre, una, 404, alma, burocracia, cancillería, capas, celestial, ciclo, como |
-| es/books/index.html | es | books | Ashraellen — Libros | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | libros, ashraellen, books, libro, sátira, 404, abrir, audionovela, book, ciclo, ciclos, error, estás, found, god, independientes, investigaciones, las |
+| es/books/index.html | es | books | Ashraellen — Libros | Ashraellen, libros, Demotopia, Utopía Democrática, MONOLITH, RADIANCE, ERROR 404, SECCUS, Ya estás en la red, The Book of Whinesis, samizdat 2.0, ediciones de autor | libros, ashraellen, autor, directas, ediciones, books, libro, 2.0, 404, abrir, book, ciclo, ciclos, del, demotopia, error, estás, found |
 | es/books/monolith/beton/index.html | es | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ashraellen, books, del, estabilidad, libro, memoria, monolith, para, sobre, una, anton, artístico, como, con, dentro, destripes, distopía |
 | es/books/monolith/index.html | es | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, desintegración, ashraellen, beton, books, control, gas, memoria, que, sludge, una, artístico, confundirse, debe, del, distópica, este, filosófica |
 | es/books/monolith/sludge/index.html | es | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, ashraellen, books, monolith, para, sobre, una, adam, agotada, artístico, como, complicidad, con, del, destripes, distopía, era, expediente |
@@ -4163,17 +4163,17 @@ Excerpt:
 - lang: es
 - section: books
 - title: Ashraellen — Libros
-- description: Libros de Ashraellen: MONOLITH, RADIANCE, ERROR 404: GOD NOT FOUND, El Libro Sagrado de SECCUS, Ya estás en la red y The Book of Whinesis.
+- description: Libros de Ashraellen: Demotopia, MONOLITH, RADIANCE, ERROR 404: GOD NOT FOUND, El Libro Sagrado de SECCUS, Ya estás en la red, The Book of Whinesis y ediciones directas de autor mediante samizdat 2.0.
 - canonical: https://www.ashraellen.com/es/books/
 - H1: Libros
-- H2: Ciclos de libros | Libros independientes e investigaciones | Sátira
+- H2: Ciclos de libros | Libros independientes e investigaciones | Sátira | Ediciones directas de autor
 - H3: _missing_
-- suggested keyword seed: libros, ashraellen, books, libro, sátira, 404, abrir, audionovela, book, ciclo, ciclos, error, estás, found, god, independientes, investigaciones, las
-- candidates: abrir, ciclo, libro, libros, sobre, una, los, sátira, ashraellen, audionovela, las, que, trilogía, 404, aquí, autoengaño, book, ciclos, del, digital, error, estás, filosófica, filosófico
+- suggested keyword seed: libros, ashraellen, autor, directas, ediciones, books, libro, 2.0, 404, abrir, book, ciclo, ciclos, del, demotopia, error, estás, found
+- candidates: libro, una, abrir, libros, ciclo, los, sobre, que, autor, del, directas, ediciones, las, sátira, sistema, 2.0, ashraellen, audionovela, filosófica, novela, samizdat, trilogía, 404, aquí
 
 Excerpt:
 
-> Libros Aquí se reúnen los ciclos de libros, las novelas independientes, los libros-investigación y la sátira de Ashraellen. Elige un proyecto amplio o empieza por un libro concreto. Ciclos de libros series y proyectos a largo plazo MONOLITH Una trilogía distópica literaria y filosófica sobre el control, la memoria y la desintegración de los sistemas. BETON, SLUDGE y GAS registran el paso de la materia social desde la estabilidad endurecida, a través de la deformación viscosa, hasta la pérdida de estanqueidad de la forma. Abrir la trilogía trilogía RADIANCE Un ciclo literario y filosófico de investigación artística sobre las leyendas del norte y las imágenes antiguas como instrucciones vivas para el mundo. No es un recuento del «Kalevala», sino un regreso a la experiencia humana de la que pudieron surgir historias así. Abrir el ciclo ciclo ERROR 404: GOD NOT FOUND Un ciclo novelístico fil
+> Libros Aquí se reúnen los ciclos de libros, las novelas independientes, los libros-investigación, la sátira y las ediciones físicas directas de autor de Ashraellen. Elige un proyecto amplio o empieza por un libro concreto. Ciclos de libros series y proyectos a largo plazo MONOLITH Una trilogía distópica literaria y filosófica sobre el control, la memoria y la desintegración de los sistemas. BETON, SLUDGE y GAS registran el paso de la materia social desde la estabilidad endurecida, a través de la deformación viscosa, hasta la pérdida de estanqueidad de la forma. Abrir la trilogía trilogía RADIANCE Un ciclo literario y filosófico de investigación artística sobre las leyendas del norte y las imágenes antiguas como instrucciones vivas para el mundo. No es un recuento del «Kalevala», sino un regreso a la experiencia humana de la que pudieron surgir historias así. Abrir el ciclo ciclo ERROR 40
 
 ### es/books/monolith/beton/index.html
 
