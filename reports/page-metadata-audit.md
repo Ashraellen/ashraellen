@@ -1,18 +1,18 @@
 # Page Metadata Audit
 
-Generated: 2026-07-29T08:27:11.808Z
+Generated: 2026-07-29T08:35:17.497Z
 
-Pages checked: 623
-Pages with issues: 119
-Total issues: 446
-Pages with review notes: 585
-Total review notes: 2112
+Pages checked: 624
+Pages with issues: 118
+Total issues: 445
+Pages with review notes: 586
+Total review notes: 2114
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_KEYWORDS | 56 |
+| DUPLICATE_KEYWORDS | 55 |
 | MISSING_KEYWORDS | 54 |
 | MISSING_TWITTER_IMAGE | 54 |
 | MISSING_TWITTER_CARD | 40 |
@@ -32,8 +32,8 @@ Total review notes: 2112
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 585 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 565 |
+| DUPLICATE_OG_IMAGE_REVIEW | 586 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 566 |
 | FALLBACK_OG_IMAGE_USED | 491 |
 | FALLBACK_TWITTER_IMAGE_USED | 471 |
 
@@ -70,7 +70,7 @@ Total review notes: 2112
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
-- DUPLICATE_KEYWORDS: shared by 8 pages
+- DUPLICATE_KEYWORDS: shared by 7 pages
 
 ### be/books/monolith/beton/index.html
 
@@ -243,7 +243,7 @@ Total review notes: 2112
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
-- DUPLICATE_KEYWORDS: shared by 8 pages
+- DUPLICATE_KEYWORDS: shared by 7 pages
 
 ### de/books/monolith/beton/index.html
 
@@ -394,16 +394,6 @@ Total review notes: 2112
 
 - MISSING_KEYWORDS
 - MISSING_TWITTER_IMAGE
-
-### en/books/index.html
-
-- title: Ashraellen — Books
-- description length: 143
-- canonical: https://www.ashraellen.com/en/books/
-- og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
-- twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
-
-- DUPLICATE_KEYWORDS: shared by 8 pages
 
 ### en/books/monolith/beton/index.html
 
@@ -565,7 +555,7 @@ Total review notes: 2112
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
-- DUPLICATE_KEYWORDS: shared by 8 pages
+- DUPLICATE_KEYWORDS: shared by 7 pages
 
 ### es/books/monolith/beton/index.html
 
@@ -753,7 +743,7 @@ Total review notes: 2112
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
-- DUPLICATE_KEYWORDS: shared by 8 pages
+- DUPLICATE_KEYWORDS: shared by 7 pages
 
 ### fr/books/monolith/beton/index.html
 
@@ -918,7 +908,7 @@ Total review notes: 2112
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
-- DUPLICATE_KEYWORDS: shared by 8 pages
+- DUPLICATE_KEYWORDS: shared by 7 pages
 
 ### pl/books/monolith/beton/index.html
 
@@ -1093,7 +1083,7 @@ Total review notes: 2112
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
-- DUPLICATE_KEYWORDS: shared by 8 pages
+- DUPLICATE_KEYWORDS: shared by 7 pages
 
 ### pt/books/monolith/beton/index.html
 
@@ -1413,7 +1403,7 @@ Total review notes: 2112
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
 - DUPLICATE_TITLE: shared by 2 pages
-- DUPLICATE_KEYWORDS: shared by 8 pages
+- DUPLICATE_KEYWORDS: shared by 7 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
 
 ### uk/books/monolith/beton/index.html
@@ -2918,8 +2908,8 @@ Total review notes: 2112
 - og:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 3 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 3 pages
 
 ### en/books/error-404-god-not-found/index.html
 
@@ -4979,6 +4969,15 @@ Total review notes: 2112
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 491 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 471 pages
 
+### pl/books/demotopia/index.html
+
+- title: Demotopia — Demokratyczna Utopia — powieść Ashraellena
+- og:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 3 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 3 pages
+
 ### pl/books/error-404-god-not-found/index.html
 
 - title: Ashraellen — Błąd 404: Boga nie znaleziono
@@ -6323,8 +6322,8 @@ Total review notes: 2112
 - og:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 3 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 3 pages
 
 ### ru/books/error-404-god-not-found/index.html
 

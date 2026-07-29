@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29T08:27:12.371Z",
+  "generated": "2026-07-29T08:35:18.062Z",
   "pages": [
     {
       "page": "be/books/error-404-god-not-found/index.html",
@@ -10186,8 +10186,8 @@
       "lang": "en",
       "section": "books",
       "title": "Ashraellen — Books",
-      "description": "Books by Ashraellen: MONOLITH, RADIANCE, ERROR 404: GOD NOT FOUND, The Sacred Book of SECCUS, You Are Already Online, and The Book of Whinesis.",
-      "existingKeywords": "Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis",
+      "description": "Books by Ashraellen: Demotopia, MONOLITH, RADIANCE, ERROR 404: GOD NOT FOUND, The Sacred Book of SECCUS, You Are Already Online, The Book of Whinesis, and direct author editions through samizdat 2.0.",
+      "existingKeywords": "Ashraellen, books, Demotopia, Democratic Utopia, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis, samizdat 2.0, author editions",
       "canonical": "https://www.ashraellen.com/en/books/",
       "h1": [
         "Books"
@@ -10195,59 +10195,60 @@
       "h2": [
         "Book cycles",
         "Standalone books and research",
-        "Satire"
+        "Satire",
+        "Direct author editions"
       ],
       "h3": [],
       "slugTerms": [
         "en",
         "books"
       ],
-      "excerpt": "Books This section brings together Ashraellen’s book cycles, standalone novels, research books and satire. Choose a larger project or begin with a specific book. Book cycles series and long-term projects MONOLITH A literary-philosophical dystopian trilogy about control, memory and the breakdown of systems. BETON, SLUDGE and GAS trace the movement of social matter from hardened stability through viscous deformation to the loss of a sealed form. Open trilogy trilogy RADIANCE A literary-philosophical cycle of artistic research into northern legends and ancient images as living instructions for the world. Not a retelling of the Kalevala, but a return to the human experience from which such stories could arise. Open cycle cycle ERROR 404: GOD NOT FOUND A philosophical-satirical novel cycle about the Heavenly Chancellery and people who seek God, Truth or justice through their own fear, pain an",
+      "excerpt": "Books This section brings together Ashraellen’s book cycles, standalone novels, research books, satire and direct physical author editions. Choose a larger project or begin with a specific book. Book cycles series and long-term projects MONOLITH A literary-philosophical dystopian trilogy about control, memory and the breakdown of systems. BETON, SLUDGE and GAS trace the movement of social matter from hardened stability through viscous deformation to the loss of a sealed form. Open trilogy trilogy RADIANCE A literary-philosophical cycle of artistic research into northern legends and ancient images as living instructions for the world. Not a retelling of the Kalevala, but a return to the human experience from which such stories could arise. Open cycle cycle ERROR 404: GOD NOT FOUND A philosophical-satirical novel cycle about the Heavenly Chancellery and people who seek God, Truth or justic",
       "candidates": [
         "book",
-        "cycle",
+        "novel",
         "open",
+        "cycle",
         "about",
         "books",
-        "novel",
         "research",
+        "author",
+        "direct",
+        "editions",
         "satire",
+        "system",
+        "2.0",
         "audio",
         "god",
+        "person",
+        "samizdat",
+        "through",
         "trilogy",
         "404",
         "already",
         "ashraellen",
         "cycles",
-        "digital",
-        "error",
-        "first",
-        "found",
-        "human",
-        "inner",
-        "literary-philosophical",
-        "monolith",
-        "online"
+        "democratic"
       ],
       "suggestedKeywordSeed": [
         "books",
         "book",
         "ashraellen",
-        "404",
-        "god",
+        "author",
+        "direct",
+        "editions",
         "research",
         "satire",
+        "2.0",
+        "404",
         "about",
         "already",
-        "audio",
         "cycle",
         "cycles",
+        "demotopia",
         "error",
         "found",
-        "monolith",
-        "novel",
-        "online",
-        "open"
+        "god"
       ]
     },
     {
@@ -25244,6 +25245,90 @@
         "gateway",
         "sludge",
         "українська"
+      ]
+    },
+    {
+      "page": "pl/books/demotopia/index.html",
+      "lang": "pl",
+      "section": "books",
+      "title": "Demotopia — Demokratyczna Utopia — powieść Ashraellena",
+      "description": "Demotopia to filozoficzna powieść Ashraellena o Warszawie niedalekiej przyszłości, demokracji, rozproszonej władzy, danych, wolności i odpowiedzialności.",
+      "existingKeywords": "Ashraellen, Demotopia, Demokratyczna Utopia, powieść filozoficzna, fantastyka społeczna, Warszawa, demokracja, dyktatura, dane, wolność, odpowiedzialność",
+      "canonical": "https://www.ashraellen.com/pl/books/demotopia/",
+      "h1": [
+        "Demotopia"
+      ],
+      "h2": [
+        "Wybrany fragment",
+        "O książce",
+        "Bez spoilerów",
+        "Rama artystyczno-badawcza",
+        "Główne tematy",
+        "Forma i atmosfera",
+        "Dla kogo",
+        "Dwa obiegi wydawnicze"
+      ],
+      "h3": [
+        "Warszawa, która działa",
+        "Człowiek jako suma",
+        "Władza bez złej twarzy",
+        "Odpowiedzialność bez zamiaru",
+        "Wolność",
+        "Dane",
+        "Demokracja",
+        "Odpowiedzialność"
+      ],
+      "slugTerms": [
+        "pl",
+        "books",
+        "demotopia"
+      ],
+      "excerpt": "Powieść filozoficzna / Warszawa niedalekiej przyszłości Demotopia Demokratyczna Utopia Miasto stało się bezpieczniejsze, bardziej przejrzyste i sprawiedliwsze. System nie widzi już pojedynczego czynu — widzi całego człowieka: jego trasy, relacje, wybory, zobowiązania i przemilczenia. Co jednak pozostaje z wolności, gdy społeczeństwo potrafi udowodnić, że zna człowieka dokładniej, niż on zna samego siebie? Polska koncepcja okładki. Ashraellen. Wybrany fragment Rozdział 1. Maszyna nie dotarła System widzi już zamknięty układ. Śledczy próbuje ustalić, gdzie kończy się udowodniony udział człowieka, a zaczyna wiedza przypisana mu przez system. Otwórz fragment Zamknij fragment Śledczy otworzył materiały zatrzymania pod dziewiątym adresem. Grupa weszła o 05:40:08. Nie było oporu fizycznego. Węzeł osobisty zabezpieczono bez uszkodzeń. Obwód ochronny przywrócono po minucie i czterdziestu dwóch se",
+      "candidates": [
+        "nie",
+        "się",
+        "jego",
+        "system",
+        "człowieka",
+        "może",
+        "człowiek",
+        "lecz",
+        "powieść",
+        "śledczy",
+        "jako",
+        "niż",
+        "prawo",
+        "demotopia",
+        "już",
+        "kierownik",
+        "wersja",
+        "bez",
+        "czy",
+        "gdy",
+        "ich",
+        "między",
+        "musi",
+        "społeczeństwo"
+      ],
+      "suggestedKeywordSeed": [
+        "demotopia",
+        "powieść",
+        "ashraellena",
+        "books",
+        "artystyczno-badawcza",
+        "ashraellen",
+        "atmosfera",
+        "bez",
+        "człowiek",
+        "człowieka",
+        "danych",
+        "demokracji",
+        "demokratyczna",
+        "dwa",
+        "filozoficzna",
+        "forma",
+        "fragment",
+        "główne"
       ]
     },
     {

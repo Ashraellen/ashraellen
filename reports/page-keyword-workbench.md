@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-07-29T08:27:12.382Z
-Pages: 624
+Generated: 2026-07-29T08:35:18.074Z
+Pages: 625
 
 ## Index
 
@@ -144,7 +144,7 @@ Pages: 624
 | en/books/demotopia/index.html | en | books | Demotopia — Democratic Utopia — a novel by Ashraellen | Ashraellen, Demotopia, Democratic Utopia, philosophical novel, social science fiction, Warsaw, democracy, dictatorship, data, freedom, responsibility | demotopia, ashraellen, novel, about, books, power, artistic-research, atmosphere, book, can, circuits, core, data, democracy, democratic, did, distributed, excerpt |
 | en/books/error-404-god-not-found/index.html | en | books | Ashraellen — Error 404: God Not Found | ashraellen, books, error, 404, god, found, multilingual, philosophical-satirical, novel, cycle, about, heavenly, chancellery, human, complaint, against, universe, searching | error, god, found, 404, books, cycle, about, against, ashraellen, chancellery, heavenly, human, searching, series, begins, book, complaint, multilingual |
 | en/books/error-404-god-not-found/why-me/index.html | en | books | Ashraellen — Why Me? | _missing_ | why, book, error, god, about, ashraellen, books, found, 404, appeal, bureaucracy, chancellery, complaint, did, excerpt, faith, had, heavenly |
-| en/books/index.html | en | books | Ashraellen — Books | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | books, book, ashraellen, 404, god, research, satire, about, already, audio, cycle, cycles, error, found, monolith, novel, online, open |
+| en/books/index.html | en | books | Ashraellen — Books | Ashraellen, books, Demotopia, Democratic Utopia, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis, samizdat 2.0, author editions | books, book, ashraellen, author, direct, editions, research, satire, 2.0, 404, about, already, cycle, cycles, demotopia, error, found, god |
 | en/books/monolith/beton/index.html | en | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, monolith, about, ashraellen, book, books, crack, first, memory, stability, system, anton, artistic-research, case, dystopia, edited, excerpt, file |
 | en/books/monolith/index.html | en | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ashraellen, beton, books, collapse, control, gas, memory, sludge, what, about, artistic-research, confused, crack, dystopian, fear, first, form |
 | en/books/monolith/sludge/index.html | en | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, monolith, about, ashraellen, books, adam, already, artistic-research, book, case, complicity, dystopia, environment, excerpt, exhausted, file, form, frame |
@@ -349,6 +349,7 @@ Pages: 624
 | google2b44b1dd60a5fdd9.html | root | google2b44b1dd60a5fdd9.html |  | _missing_ | google2b44b1dd60a5fdd9.html, ashraellen, google-site-verification, google2b44b1dd60a5fdd9 |
 | index.html | root | index.html | Ashraellen — Entry | Ashraellen, Nikolai Kostyshev, books, research, public texts, multilingual archive, literary-philosophical research, inner observation | ashraellen, audiobooks, books, choose, inner, language, observation, public, research, texts, videos, your, entry, index, index.html |
 | monolith/index.html | root | monolith | MONOLITH — Ashraellen | ashraellen, monolith, language, gateway, beton, sludge, gas, doctype, html, title, function, var, routes, languages, navigator.languages, navigator.language, target, routes.en | monolith, language, ashraellen, detecting, deutsch, english, español, français, polski, português, беларуская, определение, русский, beton, gas, gateway, sludge, українська |
+| pl/books/demotopia/index.html | pl | books | Demotopia — Demokratyczna Utopia — powieść Ashraellena | Ashraellen, Demotopia, Demokratyczna Utopia, powieść filozoficzna, fantastyka społeczna, Warszawa, demokracja, dyktatura, dane, wolność, odpowiedzialność | demotopia, powieść, ashraellena, books, artystyczno-badawcza, ashraellen, atmosfera, bez, człowiek, człowieka, danych, demokracji, demokratyczna, dwa, filozoficzna, forma, fragment, główne |
 | pl/books/error-404-god-not-found/index.html | pl | books | Ashraellen — Błąd 404: Boga nie znaleziono | ashraellen, books, error, 404, god, found, błąd, boga, nie, znaleziono, wielojęzyczny, filozoficzno-satyryczny, cykl, powieściowy, niebiańskiej, kancelarii, ludzkiej, pretensji | nie, 404, błąd, boga, znaleziono, ashraellen, bogu, books, kancelarii, który, niebiańskiej, szukania, albo, błędzie, cykl, cyklu, error, filozoficzno-satyryczny |
 | pl/books/error-404-god-not-found/why-me/index.html | pl | books | Ashraellen — Dlaczego ja? | _missing_ | dlaczego, ashraellen, błąd, boga, books, nie, 404, albo, ale, biurokracji, bólu, cyklu, duszy, error, filozoficzno-satyryczna, found, fragment, god |
 | pl/books/index.html | pl | books | Ashraellen — Książki | Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis | książki, 404, ashraellen, ashraellena, błąd, boga, books, nie, satyra, albo, audio, badania, blask, book, cykl, cykle, jesteś, już |
@@ -2968,17 +2969,17 @@ Excerpt:
 - lang: en
 - section: books
 - title: Ashraellen — Books
-- description: Books by Ashraellen: MONOLITH, RADIANCE, ERROR 404: GOD NOT FOUND, The Sacred Book of SECCUS, You Are Already Online, and The Book of Whinesis.
+- description: Books by Ashraellen: Demotopia, MONOLITH, RADIANCE, ERROR 404: GOD NOT FOUND, The Sacred Book of SECCUS, You Are Already Online, The Book of Whinesis, and direct author editions through samizdat 2.0.
 - canonical: https://www.ashraellen.com/en/books/
 - H1: Books
-- H2: Book cycles | Standalone books and research | Satire
+- H2: Book cycles | Standalone books and research | Satire | Direct author editions
 - H3: _missing_
-- suggested keyword seed: books, book, ashraellen, 404, god, research, satire, about, already, audio, cycle, cycles, error, found, monolith, novel, online, open
-- candidates: book, cycle, open, about, books, novel, research, satire, audio, god, trilogy, 404, already, ashraellen, cycles, digital, error, first, found, human, inner, literary-philosophical, monolith, online
+- suggested keyword seed: books, book, ashraellen, author, direct, editions, research, satire, 2.0, 404, about, already, cycle, cycles, demotopia, error, found, god
+- candidates: book, novel, open, cycle, about, books, research, author, direct, editions, satire, system, 2.0, audio, god, person, samizdat, through, trilogy, 404, already, ashraellen, cycles, democratic
 
 Excerpt:
 
-> Books This section brings together Ashraellen’s book cycles, standalone novels, research books and satire. Choose a larger project or begin with a specific book. Book cycles series and long-term projects MONOLITH A literary-philosophical dystopian trilogy about control, memory and the breakdown of systems. BETON, SLUDGE and GAS trace the movement of social matter from hardened stability through viscous deformation to the loss of a sealed form. Open trilogy trilogy RADIANCE A literary-philosophical cycle of artistic research into northern legends and ancient images as living instructions for the world. Not a retelling of the Kalevala, but a return to the human experience from which such stories could arise. Open cycle cycle ERROR 404: GOD NOT FOUND A philosophical-satirical novel cycle about the Heavenly Chancellery and people who seek God, Truth or justice through their own fear, pain an
+> Books This section brings together Ashraellen’s book cycles, standalone novels, research books, satire and direct physical author editions. Choose a larger project or begin with a specific book. Book cycles series and long-term projects MONOLITH A literary-philosophical dystopian trilogy about control, memory and the breakdown of systems. BETON, SLUDGE and GAS trace the movement of social matter from hardened stability through viscous deformation to the loss of a sealed form. Open trilogy trilogy RADIANCE A literary-philosophical cycle of artistic research into northern legends and ancient images as living instructions for the world. Not a retelling of the Kalevala, but a return to the human experience from which such stories could arise. Open cycle cycle ERROR 404: GOD NOT FOUND A philosophical-satirical novel cycle about the Heavenly Chancellery and people who seek God, Truth or justic
 
 ### en/books/monolith/beton/index.html
 
@@ -6447,6 +6448,23 @@ Excerpt:
 Excerpt:
 
 > MONOLITH Detecting language… Определение языка… English Русский Беларуская Polski Deutsch Español Français Português Українська
+
+### pl/books/demotopia/index.html
+
+- lang: pl
+- section: books
+- title: Demotopia — Demokratyczna Utopia — powieść Ashraellena
+- description: Demotopia to filozoficzna powieść Ashraellena o Warszawie niedalekiej przyszłości, demokracji, rozproszonej władzy, danych, wolności i odpowiedzialności.
+- canonical: https://www.ashraellen.com/pl/books/demotopia/
+- H1: Demotopia
+- H2: Wybrany fragment | O książce | Bez spoilerów | Rama artystyczno-badawcza | Główne tematy | Forma i atmosfera | Dla kogo | Dwa obiegi wydawnicze
+- H3: Warszawa, która działa | Człowiek jako suma | Władza bez złej twarzy | Odpowiedzialność bez zamiaru | Wolność | Dane | Demokracja | Odpowiedzialność
+- suggested keyword seed: demotopia, powieść, ashraellena, books, artystyczno-badawcza, ashraellen, atmosfera, bez, człowiek, człowieka, danych, demokracji, demokratyczna, dwa, filozoficzna, forma, fragment, główne
+- candidates: nie, się, jego, system, człowieka, może, człowiek, lecz, powieść, śledczy, jako, niż, prawo, demotopia, już, kierownik, wersja, bez, czy, gdy, ich, między, musi, społeczeństwo
+
+Excerpt:
+
+> Powieść filozoficzna / Warszawa niedalekiej przyszłości Demotopia Demokratyczna Utopia Miasto stało się bezpieczniejsze, bardziej przejrzyste i sprawiedliwsze. System nie widzi już pojedynczego czynu — widzi całego człowieka: jego trasy, relacje, wybory, zobowiązania i przemilczenia. Co jednak pozostaje z wolności, gdy społeczeństwo potrafi udowodnić, że zna człowieka dokładniej, niż on zna samego siebie? Polska koncepcja okładki. Ashraellen. Wybrany fragment Rozdział 1. Maszyna nie dotarła System widzi już zamknięty układ. Śledczy próbuje ustalić, gdzie kończy się udowodniony udział człowieka, a zaczyna wiedza przypisana mu przez system. Otwórz fragment Zamknij fragment Śledczy otworzył materiały zatrzymania pod dziewiątym adresem. Grupa weszła o 05:40:08. Nie było oporu fizycznego. Węzeł osobisty zabezpieczono bez uszkodzeń. Obwód ochronny przywrócono po minucie i czterdziestu dwóch se
 
 ### pl/books/error-404-god-not-found/index.html
 
