@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29T09:46:28.716Z",
+  "generated": "2026-07-29T09:48:54.954Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -15147,6 +15147,90 @@
         "does",
         "edmund",
         "eleanor"
+      ]
+    },
+    {
+      "page": "es/books/demotopia/index.html",
+      "lang": "es",
+      "section": "books",
+      "title": "Demotopia — Utopía Democrática — novela de Ashraellen",
+      "description": "Demotopia es una novela filosófica de Ashraellen sobre la Varsovia del futuro próximo, la democracia, el poder distribuido, los datos, la libertad y la responsabilidad.",
+      "existingKeywords": "Ashraellen, Demotopia, Utopía Democrática, novela filosófica, ciencia ficción social, Varsovia, democracia, dictadura, datos, libertad, responsabilidad",
+      "canonical": "https://www.ashraellen.com/es/books/demotopia/",
+      "h1": [
+        "Demotopia"
+      ],
+      "h2": [
+        "Fragmento seleccionado",
+        "Sobre el libro",
+        "Sin destripes",
+        "Marco artístico y de investigación",
+        "Temas principales",
+        "Forma y atmósfera",
+        "Para quién",
+        "Dos circuitos de edición"
+      ],
+      "h3": [
+        "Una Varsovia que funciona",
+        "La persona como suma de rastros",
+        "Poder sin rostro maligno",
+        "Responsabilidad sin intención",
+        "Libertad",
+        "Datos",
+        "Democracia",
+        "Responsabilidad"
+      ],
+      "slugTerms": [
+        "es",
+        "books",
+        "demotopia"
+      ],
+      "excerpt": "Novela filosófica / Varsovia en un futuro próximo Demotopia Utopía Democrática La ciudad se ha vuelto más segura, transparente y justa. El sistema ya no observa un acto aislado: ve a la persona entera — sus recorridos, vínculos, decisiones, obligaciones y silencios. ¿Pero qué queda de la libertad cuando la sociedad puede demostrar que conoce a una persona con mayor precisión de la que esa persona se conoce a sí misma? Concepto de cubierta en inglés. Ashraellen. Fragmento seleccionado Capítulo 1. La máquina nunca llegó El sistema ya ve una estructura completa. El investigador intenta establecer dónde termina la participación demostrada de una persona y dónde comienza el conocimiento que se le atribuye. Abrir fragmento Cerrar fragmento El investigador abrió el expediente de la detención correspondiente a la novena dirección. El equipo entró a las 05:40:08. No hubo resistencia física. El no",
+      "candidates": [
+        "una",
+        "que",
+        "persona",
+        "como",
+        "del",
+        "los",
+        "novela",
+        "puede",
+        "las",
+        "poder",
+        "sistema",
+        "con",
+        "cuando",
+        "demotopia",
+        "está",
+        "sino",
+        "sobre",
+        "democracia",
+        "derecho",
+        "sin",
+        "social",
+        "sociedad",
+        "dictadura",
+        "forma"
+      ],
+      "suggestedKeywordSeed": [
+        "demotopia",
+        "ashraellen",
+        "novela",
+        "books",
+        "del",
+        "los",
+        "poder",
+        "sobre",
+        "una",
+        "artístico",
+        "atmósfera",
+        "circuitos",
+        "como",
+        "con",
+        "datos",
+        "democracia",
+        "democrática",
+        "destripes"
       ]
     },
     {
