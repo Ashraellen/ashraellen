@@ -1,0 +1,135 @@
+name: One-time multilingual samizdat order localization
+on:
+  push:
+    paths:
+      - '.github/workflows/one-time-localize-samizdat-order.yml'
+permissions:
+  contents: write
+jobs:
+  localize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Update localized order pages
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          data = {
+            'be': {
+              'hero': '<section class="hero"><p class="kicker">Аўтарскі асобнік па пацверджаным запыце</p><h1>Запытаць асобнік</h1><p class="subtitle">Кніга можа быць падрыхтавана на абранай мове і перададзена канкрэтнаму чытачу.</p><p class="lead">Мы асабіста пацвярджаем даступнасць абранай мовы, тэрмін падрыхтоўкі, выніковы кошт і ўмовы дастаўкі. Адпраўка формы не стварае абавязку здзейсніць пакупку.</p></section>',
+              'notice': '<section class="notice"><p class="kicker">Як гэта працуе</p><h2>Запыт ↓<br>Разлік ↓<br>Пацвярджэнне ↓<br>Аплата ↓<br>Падрыхтоўка ↓<br>Дастаўка</h2><p>Калі абраная моўная версія яшчэ не падрыхтавана, мы загадзя паведамім меркаваны тэрмін гатоўнасці асобніка.</p></section>',
+              'kicker': 'Асаблівы варыянт', 'title': 'Падпісаны асобнік',
+              'body': 'Асобнік з асабістым подпісам аўтар падпісвае перад адпраўкай чытачу. Гэта не проста імя на старонцы: подпіс можа суправаджацца асабістым пажаданнем, а гатовая кніга праходзіць праз рукі аўтара і захоўвае цеплыню гэтага дотыку.',
+              'note': 'Тэкст пажадання можна пазначыць у паведамленні да запыту.',
+              'alt': 'Аўтар падпісвае асобнік samizdat 2.0 за пісьмовым сталом',
+              'address': 'Адрас выкарыстоўваецца толькі для разліку і арганізацыі дастаўкі асобніка.',
+              'consent': 'Я згодны на выкарыстанне пазначаных даных для адказу на запыт, разліку замовы, падрыхтоўкі і дастаўкі асобніка.',
+              'submit': 'Выніковы кошт, тэрмін падрыхтоўкі, спосаб аплаты і ўмовы дастаўкі пацвярджаюцца асабіста да пачатку падрыхтоўкі асобніка.'
+            },
+            'de': {
+              'hero': '<section class="hero"><p class="kicker">Autorenausgabe auf bestätigte Anfrage</p><h1>Exemplar anfragen</h1><p class="subtitle">Das Buch kann in der gewählten Sprache vorbereitet und einem bestimmten Leser übergeben werden.</p><p class="lead">Wir bestätigen persönlich die Verfügbarkeit der gewählten Sprache, die Vorbereitungszeit, den Endpreis und die Lieferbedingungen. Das Absenden des Formulars verpflichtet nicht zum Kauf.</p></section>',
+              'notice': '<section class="notice"><p class="kicker">So funktioniert es</p><h2>Anfrage ↓<br>Kalkulation ↓<br>Bestätigung ↓<br>Zahlung ↓<br>Vorbereitung ↓<br>Lieferung</h2><p>Falls die gewählte Sprachfassung noch nicht vorbereitet ist, teilen wir vorab den voraussichtlichen Termin der Fertigstellung mit.</p></section>',
+              'kicker': 'Besondere Variante', 'title': 'Signiertes Exemplar',
+              'body': 'Ein Exemplar mit persönlicher Signatur wird vom Autor vor dem Versand an den Leser unterzeichnet. Es ist nicht nur ein Name auf einer Seite: Die Signatur kann von einer persönlichen Widmung begleitet werden, und das fertige Buch geht durch die Hände des Autors und bewahrt die Wärme dieser Berührung.',
+              'note': 'Den gewünschten Widmungstext können Sie in der Nachricht zur Anfrage angeben.',
+              'alt': 'Der Autor signiert ein Exemplar von samizdat 2.0 am Schreibtisch',
+              'address': 'Die Adresse wird nur zur Berechnung und Organisation der Lieferung des Exemplars verwendet.',
+              'consent': 'Ich stimme der Verwendung der angegebenen Daten zur Beantwortung meiner Anfrage sowie zur Berechnung, Vorbereitung und Lieferung des Exemplars zu.',
+              'submit': 'Endpreis, Vorbereitungszeit, Zahlungsweise und Lieferbedingungen werden vor Beginn der Vorbereitung persönlich bestätigt.'
+            },
+            'en': {
+              'hero': '<section class="hero"><p class="kicker">Author-issued copy by confirmed request</p><h1>Request a copy</h1><p class="subtitle">A book can be prepared in the selected language and transmitted to a particular reader.</p><p class="lead">We personally confirm the availability of the selected language, preparation time, final cost and delivery conditions. Submitting the form does not create an obligation to purchase.</p></section>',
+              'notice': '<section class="notice"><p class="kicker">How it works</p><h2>Request ↓<br>Estimate ↓<br>Confirmation ↓<br>Payment ↓<br>Preparation ↓<br>Delivery</h2><p>If the selected language edition has not yet been prepared, we will tell you the expected completion time in advance.</p></section>',
+              'kicker': 'Special option', 'title': 'Signed copy',
+              'body': 'A copy with a personal signature is signed by the author before it is sent to the reader. It is more than a name on a page: the signature may include a personal dedication, while the finished book passes through the author’s hands and retains the warmth of that touch.',
+              'note': 'You can include the wording of the dedication in the message accompanying your request.',
+              'alt': 'The author signing a samizdat 2.0 copy at a writing desk',
+              'address': 'The address is used only to calculate and arrange delivery of the copy.',
+              'consent': 'I agree to the use of the information provided to answer my request and to calculate, prepare and deliver the copy.',
+              'submit': 'The final cost, preparation time, payment method and delivery conditions are confirmed personally before preparation begins.'
+            },
+            'es': {
+              'hero': '<section class="hero"><p class="kicker">Ejemplar de autor mediante solicitud confirmada</p><h1>Solicitar un ejemplar</h1><p class="subtitle">El libro puede prepararse en el idioma elegido y entregarse a un lector concreto.</p><p class="lead">Confirmamos personalmente la disponibilidad del idioma elegido, el plazo de preparación, el coste final y las condiciones de entrega. Enviar el formulario no crea ninguna obligación de compra.</p></section>',
+              'notice': '<section class="notice"><p class="kicker">Cómo funciona</p><h2>Solicitud ↓<br>Cálculo ↓<br>Confirmación ↓<br>Pago ↓<br>Preparación ↓<br>Entrega</h2><p>Si la versión lingüística elegida aún no está preparada, comunicaremos de antemano el plazo estimado de finalización del ejemplar.</p></section>',
+              'kicker': 'Opción especial', 'title': 'Ejemplar firmado',
+              'body': 'El autor firma personalmente el ejemplar antes de enviarlo al lector. No es solo un nombre en una página: la firma puede ir acompañada de una dedicatoria personal, y el libro ya terminado pasa por las manos del autor y conserva la calidez de ese contacto.',
+              'note': 'El texto de la dedicatoria puede indicarse en el mensaje de la solicitud.',
+              'alt': 'El autor firma un ejemplar de samizdat 2.0 en un escritorio',
+              'address': 'La dirección se utiliza únicamente para calcular y organizar la entrega del ejemplar.',
+              'consent': 'Acepto el uso de los datos indicados para responder a la solicitud y para calcular, preparar y entregar el ejemplar.',
+              'submit': 'El coste final, el plazo de preparación, la forma de pago y las condiciones de entrega se confirman personalmente antes de iniciar la preparación.'
+            },
+            'fr': {
+              'hero': '<section class="hero"><p class="kicker">Exemplaire d’auteur sur demande confirmée</p><h1>Demander un exemplaire</h1><p class="subtitle">Le livre peut être préparé dans la langue choisie et transmis à un lecteur précis.</p><p class="lead">Nous confirmons personnellement la disponibilité de la langue choisie, le délai de préparation, le coût final et les conditions de livraison. L’envoi du formulaire ne crée aucune obligation d’achat.</p></section>',
+              'notice': '<section class="notice"><p class="kicker">Comment cela fonctionne</p><h2>Demande ↓<br>Estimation ↓<br>Confirmation ↓<br>Paiement ↓<br>Préparation ↓<br>Livraison</h2><p>Si la version linguistique choisie n’est pas encore préparée, nous communiquerons à l’avance le délai estimé d’achèvement de l’exemplaire.</p></section>',
+              'kicker': 'Option particulière', 'title': 'Exemplaire signé',
+              'body': 'Un exemplaire portant une signature personnelle est signé par l’auteur avant son envoi au lecteur. Il ne s’agit pas seulement d’un nom sur une page : la signature peut être accompagnée d’une dédicace personnelle, tandis que le livre achevé passe entre les mains de l’auteur et conserve la chaleur de ce contact.',
+              'note': 'Le texte souhaité pour la dédicace peut être indiqué dans le message joint à la demande.',
+              'alt': 'L’auteur signe un exemplaire de samizdat 2.0 à son bureau',
+              'address': 'L’adresse est utilisée uniquement pour calculer et organiser la livraison de l’exemplaire.',
+              'consent': 'J’accepte l’utilisation des données indiquées afin de répondre à ma demande et de calculer, préparer et livrer l’exemplaire.',
+              'submit': 'Le coût final, le délai de préparation, le mode de paiement et les conditions de livraison sont confirmés personnellement avant le début de la préparation.'
+            },
+            'pl': {
+              'hero': '<section class="hero"><p class="kicker">Egzemplarz autorski na potwierdzone zamówienie</p><h1>Poproś o egzemplarz</h1><p class="subtitle">Książka może zostać przygotowana w wybranym języku i przekazana konkretnemu czytelnikowi.</p><p class="lead">Osobiście potwierdzamy dostępność wybranego języka, czas przygotowania, ostateczny koszt i warunki dostawy. Wysłanie formularza nie zobowiązuje do zakupu.</p></section>',
+              'notice': '<section class="notice"><p class="kicker">Jak to działa</p><h2>Zapytanie ↓<br>Wycena ↓<br>Potwierdzenie ↓<br>Płatność ↓<br>Przygotowanie ↓<br>Dostawa</h2><p>Jeśli wybrana wersja językowa nie jest jeszcze przygotowana, z wyprzedzeniem podamy przewidywany termin gotowości egzemplarza.</p></section>',
+              'kicker': 'Szczególny wariant', 'title': 'Egzemplarz z podpisem',
+              'body': 'Egzemplarz z osobistym podpisem autor podpisuje przed wysłaniem go czytelnikowi. To nie tylko nazwisko na stronie: podpisowi może towarzyszyć osobista dedykacja, a gotowa książka przechodzi przez ręce autora i zachowuje ciepło tego dotknięcia.',
+              'note': 'Treść dedykacji można podać w wiadomości dołączonej do zapytania.',
+              'alt': 'Autor podpisuje egzemplarz samizdat 2.0 przy biurku',
+              'address': 'Adres jest używany wyłącznie do wyceny i organizacji dostawy egzemplarza.',
+              'consent': 'Wyrażam zgodę na wykorzystanie podanych danych do odpowiedzi na zapytanie oraz wyceny, przygotowania i dostawy egzemplarza.',
+              'submit': 'Ostateczny koszt, czas przygotowania, sposób płatności i warunki dostawy są potwierdzane osobiście przed rozpoczęciem przygotowania egzemplarza.'
+            },
+            'pt': {
+              'hero': '<section class="hero"><p class="kicker">Exemplar de autor mediante pedido confirmado</p><h1>Solicitar um exemplar</h1><p class="subtitle">O livro pode ser preparado no idioma escolhido e transmitido a um leitor específico.</p><p class="lead">Confirmamos pessoalmente a disponibilidade do idioma escolhido, o prazo de preparação, o custo final e as condições de entrega. O envio do formulário não cria qualquer obrigação de compra.</p></section>',
+              'notice': '<section class="notice"><p class="kicker">Como funciona</p><h2>Pedido ↓<br>Orçamento ↓<br>Confirmação ↓<br>Pagamento ↓<br>Preparação ↓<br>Entrega</h2><p>Se a versão linguística escolhida ainda não estiver preparada, comunicaremos antecipadamente o prazo estimado para a conclusão do exemplar.</p></section>',
+              'kicker': 'Opção especial', 'title': 'Exemplar assinado',
+              'body': 'Um exemplar com assinatura pessoal é assinado pelo autor antes de ser enviado ao leitor. Não é apenas um nome numa página: a assinatura pode incluir uma dedicatória pessoal, enquanto o livro já concluído passa pelas mãos do autor e conserva o calor desse contacto.',
+              'note': 'O texto da dedicatória pode ser indicado na mensagem que acompanha o pedido.',
+              'alt': 'O autor assina um exemplar de samizdat 2.0 à secretária',
+              'address': 'O endereço é utilizado apenas para calcular e organizar a entrega do exemplar.',
+              'consent': 'Concordo com a utilização dos dados indicados para responder ao pedido e para calcular, preparar e entregar o exemplar.',
+              'submit': 'O custo final, o prazo de preparação, a forma de pagamento e as condições de entrega são confirmados pessoalmente antes do início da preparação.'
+            },
+            'uk': {
+              'hero': '<section class="hero"><p class="kicker">Авторський примірник за підтвердженим запитом</p><h1>Запросити примірник</h1><p class="subtitle">Книга може бути підготовлена обраною мовою та передана конкретному читачеві.</p><p class="lead">Ми особисто підтверджуємо доступність обраної мови, строк підготовки, підсумкову вартість і умови доставки. Надсилання форми не створює зобов’язання здійснити покупку.</p></section>',
+              'notice': '<section class="notice"><p class="kicker">Як це працює</p><h2>Запит ↓<br>Розрахунок ↓<br>Підтвердження ↓<br>Оплата ↓<br>Підготовка ↓<br>Доставка</h2><p>Якщо обрана мовна версія ще не підготовлена, ми заздалегідь повідомимо орієнтовний строк готовності примірника.</p></section>',
+              'kicker': 'Особливий варіант', 'title': 'Підписаний примірник',
+              'body': 'Примірник з особистим підписом автор підписує перед відправленням читачеві. Це не просто ім’я на сторінці: підпис може супроводжуватися особистим побажанням, а готова книга проходить через руки автора й зберігає тепло цього дотику.',
+              'note': 'Текст побажання можна зазначити в повідомленні до запиту.',
+              'alt': 'Автор підписує примірник samizdat 2.0 за письмовим столом',
+              'address': 'Адреса використовується лише для розрахунку та організації доставки примірника.',
+              'consent': 'Я погоджуюся на використання зазначених даних для відповіді на запит, розрахунку замовлення, підготовки та доставки примірника.',
+              'submit': 'Підсумкова вартість, строк підготовки, спосіб оплати й умови доставки підтверджуються особисто до початку підготовки примірника.'
+            },
+          }
+
+          signing_tpl = '<section class="signing-edition" aria-labelledby="signed-edition-title"><figure><img src="../../../../assets/backgrounds/samizdat-author-signing-edition-at-writing-desk.webp" alt="{alt}" width="1536" height="864" loading="lazy"></figure><div class="signing-copy"><p class="kicker">{kicker}</p><h2 id="signed-edition-title">{title}</h2><p>{body}</p><p class="signing-note">{note}</p></div></section>'
+
+          for lang, t in data.items():
+              p = Path(lang) / 'books' / 'samizdat' / 'order' / 'index.html'
+              s = p.read_text(encoding='utf-8')
+              s = re.sub(r'<section class="hero">.*?</section>', t['hero'], s, count=1, flags=re.S)
+              s = re.sub(r'<section class="notice">.*?</section>', t['notice'], s, count=1, flags=re.S)
+              signing = signing_tpl.format(**t)
+              if 'class="signing-edition"' in s:
+                  s = re.sub(r'<section class="signing-edition".*?</section>', signing, s, count=1, flags=re.S)
+              else:
+                  s = s.replace('<form class="order-form"', signing + '<form class="order-form"', 1)
+              s = re.sub(r'(href="../../../../assets/samizdat-order\.css\?v=)[^"]+', r'\g<1>20260729-2', s, count=1)
+              s = re.sub(r'(<label for="address">.*?</label><input[^>]*><small>).*?(</small>)', r'\1' + t['address'] + r'\2', s, count=1, flags=re.S)
+              s = re.sub(r'(<label class="consent"><input[^>]*><span>).*?(</span></label>)', r'\1' + t['consent'] + r'\2', s, count=1, flags=re.S)
+              s = re.sub(r'(<div class="submit-row"><p>).*?(</p><button)', r'\1' + t['submit'] + r'\2', s, count=1, flags=re.S)
+              p.write_text(s, encoding='utf-8')
+          PY
+          rm .github/workflows/one-time-localize-samizdat-order.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add be de en es fr pl pt uk .github/workflows/one-time-localize-samizdat-order.yml
+          git commit -m "Samizdat order: localize signed author editions across languages"
+          git push
