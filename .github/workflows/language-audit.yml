@@ -1,0 +1,148 @@
+name: Language parity audit
+
+on:
+  push:
+    paths:
+      - '.github/workflows/language-audit.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Compare language trees with Russian
+        shell: python
+        run: |
+          from pathlib import Path
+          from html.parser import HTMLParser
+          from urllib.parse import urlparse
+          import json, re, hashlib
+
+          root = Path('.')
+          langs = ['en','pl','de','es','fr','pt','uk','be']
+          ref = 'ru'
+          ignore_names = {'.DS_Store'}
+
+          def files_under(lang):
+              base = root / lang
+              return sorted(str(p.relative_to(base)).replace('\\','/') for p in base.rglob('*') if p.is_file() and p.name not in ignore_names)
+
+          def norm_url(value, lang):
+              if not value: return value
+              value = value.replace('https://www.ashraellen.com/'+lang+'/', 'https://www.ashraellen.com/{lang}/')
+              value = value.replace('/'+lang+'/', '/{lang}/')
+              value = re.sub(r"base\+'"+re.escape(lang)+r"/", "base+'{lang}/", value)
+              return value
+
+          class AuditParser(HTMLParser):
+              def __init__(self, lang):
+                  super().__init__(convert_charrefs=True)
+                  self.lang = lang
+                  self.tags=[]; self.ids=[]; self.classes=[]; self.links=[]; self.assets=[]; self.metas=[]; self.scripts=[]; self.inline_scripts=[]
+                  self.in_script=False; self.script_buf=[]
+              def handle_starttag(self, tag, attrs):
+                  d=dict(attrs)
+                  keys=tuple(sorted(k for k,_ in attrs))
+                  self.tags.append((tag,keys))
+                  if 'id' in d: self.ids.append(d['id'])
+                  if 'class' in d: self.classes.extend(d['class'].split())
+                  if tag=='a' and 'href' in d: self.links.append(norm_url(d['href'],self.lang))
+                  if tag in ('link','script','img'):
+                      v=d.get('href') or d.get('src')
+                      if v: self.assets.append(norm_url(v,self.lang))
+                  if tag=='meta': self.metas.append((d.get('name') or d.get('property'), bool(d.get('content'))))
+                  if tag=='script':
+                      self.in_script=True; self.script_buf=[]
+                      if d.get('src'): self.scripts.append(norm_url(d['src'],self.lang))
+              def handle_endtag(self, tag):
+                  if tag=='script' and self.in_script:
+                      s=''.join(self.script_buf).strip()
+                      if s: self.inline_scripts.append(norm_url(s,self.lang))
+                      self.in_script=False; self.script_buf=[]
+              def handle_data(self,data):
+                  if self.in_script: self.script_buf.append(data)
+
+          def parse_html(path, lang):
+              text=path.read_text(encoding='utf-8',errors='replace')
+              p=AuditParser(lang); p.feed(text)
+              sig={
+                  'tags':p.tags,
+                  'ids':sorted(p.ids),
+                  'classes':sorted(p.classes),
+                  'links':sorted(p.links),
+                  'assets':sorted(p.assets),
+                  'metas':sorted(p.metas),
+                  'scripts':sorted(p.scripts),
+                  'inline_script_count':len(p.inline_scripts),
+                  'inline_scripts':p.inline_scripts,
+                  'getElementById':sorted(set(re.findall(r"getElementById\(['\"]([^'\"]+)", text))),
+                  'document_write':bool(re.search(r'document\.write|innerHTML\s*=|insertAdjacentHTML',text)),
+              }
+              return sig,text
+
+          ref_files=files_under(ref)
+          ref_set=set(ref_files)
+          report={'reference':'ru','reference_file_count':len(ref_files),'languages':{},'global':{}}
+
+          for lang in langs:
+              lf=files_under(lang); ls=set(lf)
+              entry={'file_count':len(lf),'missing_files':sorted(ref_set-ls),'extra_files':sorted(ls-ref_set),'html':{},'broken_internal_links':[]}
+              common_html=sorted(p for p in ref_set & ls if p.endswith(('.html','.htm')))
+              for rel in common_html:
+                  rs,rt=parse_html(root/ref/rel,ref)
+                  lsig,lt=parse_html(root/lang/rel,lang)
+                  diffs={}
+                  for k in ('tags','ids','classes','links','assets','metas','scripts','inline_script_count','getElementById','document_write'):
+                      if rs[k]!=lsig[k]: diffs[k]={'ru':rs[k],'lang':lsig[k]}
+                  if diffs:
+                      entry['html'][rel]=diffs
+
+                  # Validate same-language internal links against repository files.
+                  for href in lsig['links']:
+                      if not href or href.startswith(('#','mailto:','tel:','javascript:')): continue
+                      raw=href.replace('{lang}',lang)
+                      if raw.startswith('http'):
+                          u=urlparse(raw)
+                          if u.netloc not in ('www.ashraellen.com','ashraellen.com'): continue
+                          path=u.path
+                      else: path=raw
+                      if path.startswith('/'):
+                          target=root/path.lstrip('/')
+                      else:
+                          target=(root/lang/rel).parent/path
+                      target=Path(str(target).split('#')[0].split('?')[0])
+                      candidates=[target]
+                      if str(target).endswith('/'): candidates.append(target/'index.html')
+                      elif target.suffix=='': candidates.extend([target/'index.html',Path(str(target)+'.html')])
+                      if not any(c.exists() for c in candidates):
+                          entry['broken_internal_links'].append({'page':rel,'href':raw})
+              # detect Russian pages with no language counterpart by directory area
+              report['languages'][lang]=entry
+
+          # concise priorities
+          priorities=[]
+          for lang,e in report['languages'].items():
+              if e['missing_files']: priorities.append({'lang':lang,'type':'missing_files','count':len(e['missing_files'])})
+              if e['broken_internal_links']: priorities.append({'lang':lang,'type':'broken_links','count':len(e['broken_internal_links'])})
+              structural=sum(1 for d in e['html'].values() if any(k in d for k in ('tags','ids','classes')))
+              metadata=sum(1 for d in e['html'].values() if 'metas' in d)
+              scripts=sum(1 for d in e['html'].values() if any(k in d for k in ('scripts','inline_script_count','getElementById','document_write')))
+              if structural: priorities.append({'lang':lang,'type':'structural_html','count':structural})
+              if metadata: priorities.append({'lang':lang,'type':'metadata','count':metadata})
+              if scripts: priorities.append({'lang':lang,'type':'javascript','count':scripts})
+          report['global']['priorities']=priorities
+
+          Path('language_audit_report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')
+          Path('.github/workflows/language-audit.yml').unlink()
+      - name: Commit audit report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add language_audit_report.json .github/workflows/language-audit.yml
+          git commit -m "Generate language parity audit"
+          git push
