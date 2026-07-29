@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29T09:45:15.752Z",
+  "generated": "2026-07-29T09:46:28.716Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -5292,8 +5292,8 @@
       "lang": "de",
       "section": "books",
       "title": "Ashraellen — Bücher",
-      "description": "Bücher von Ashraellen: MONOLITH, RADIANCE, ERROR 404: GOD NOT FOUND, Das Heilige Buch SECCUS, Du bist bereits online und The Book of Whinesis.",
-      "existingKeywords": "Ashraellen, books, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis",
+      "description": "Bücher von Ashraellen: Demotopia, MONOLITH, RADIANCE, ERROR 404: GOD NOT FOUND, Das Heilige Buch SECCUS, Du bist bereits online, The Book of Whinesis und direkte Autorenausgaben über samizdat 2.0.",
+      "existingKeywords": "Ashraellen, Bücher, Demotopia, Demokratische Utopie, MONOLITH, RADIANCE, ERROR 404, SECCUS, Du bist bereits online, The Book of Whinesis, samizdat 2.0, Autorenausgaben",
       "canonical": "https://www.ashraellen.com/de/books/",
       "h1": [
         "Bücher"
@@ -5301,59 +5301,60 @@
       "h2": [
         "Buchzyklen",
         "Eigenständige Bücher und Forschung",
-        "Satire"
+        "Satire",
+        "Direkte Autorenausgaben"
       ],
       "h3": [],
       "slugTerms": [
         "de",
         "books"
       ],
-      "excerpt": "Bücher Hier sind Ashraellens Buchzyklen, eigenständige Romane, Forschungsbücher und Satire versammelt. Wählen Sie ein größeres Projekt oder beginnen Sie mit einem einzelnen Buch. Buchzyklen Reihen und langfristige Projekte MONOLITH Eine literarisch-philosophische dystopische Trilogie über Kontrolle, Erinnerung und den Zerfall von Systemen. BETON, SLUDGE und GAS verfolgen den Übergang gesellschaftlicher Materie von erstarrter Stabilität über zähe Verformung bis zum Verlust ihrer geschlossenen Form. Trilogie öffnen Trilogie RADIANCE Ein literarisch-philosophischer Zyklus künstlerischer Forschung über nordische Überlieferungen und alte Bilder als lebendige Anleitungen zur Welt. Keine Nacherzählung der „Kalevala“, sondern eine Rückkehr zu jener menschlichen Erfahrung, aus der solche Geschichten entstehen konnten. Zyklus öffnen Zyklus ERROR 404: GOD NOT FOUND Ein philosophisch-satirischer Rom",
+      "excerpt": "Bücher Hier sind Ashraellens Buchzyklen, eigenständige Romane, Forschungsbücher, Satire und direkte physische Autorenausgaben versammelt. Wählen Sie ein größeres Projekt oder beginnen Sie mit einem einzelnen Buch. Buchzyklen Reihen und langfristige Projekte MONOLITH Eine literarisch-philosophische dystopische Trilogie über Kontrolle, Erinnerung und den Zerfall von Systemen. BETON, SLUDGE und GAS verfolgen den Übergang gesellschaftlicher Materie von erstarrter Stabilität über zähe Verformung bis zum Verlust ihrer geschlossenen Form. Trilogie öffnen Trilogie RADIANCE Ein literarisch-philosophischer Zyklus künstlerischer Forschung über nordische Überlieferungen und alte Bilder als lebendige Anleitungen zur Welt. Keine Nacherzählung der „Kalevala“, sondern eine Rückkehr zu jener menschlichen Erfahrung, aus der solche Geschichten entstehen konnten. Zyklus öffnen Zyklus ERROR 404: GOD NOT FOUN",
       "candidates": [
         "und",
         "ein",
         "über",
         "buch",
         "öffnen",
-        "eine",
-        "bücher",
+        "das",
         "der",
         "die",
+        "eine",
+        "autorenausgaben",
+        "bücher",
         "satire",
         "zyklus",
+        "2.0",
+        "als",
         "audioroman",
-        "das",
         "den",
+        "direkte",
+        "menschen",
+        "roman",
+        "samizdat",
+        "system",
         "trilogie",
-        "von",
-        "404",
-        "ashraellen",
-        "bemerkt",
-        "bereits",
-        "bist",
-        "book",
-        "buchzyklen",
-        "eigene"
+        "von"
       ],
       "suggestedKeywordSeed": [
         "bücher",
         "ashraellen",
+        "autorenausgaben",
         "und",
         "books",
         "buch",
+        "das",
+        "direkte",
         "satire",
+        "über",
+        "2.0",
         "404",
-        "audioroman",
         "bereits",
         "bist",
         "book",
         "buchzyklen",
-        "das",
-        "der",
-        "die",
-        "eigenständige",
-        "ein",
-        "eine"
+        "demotopia",
+        "der"
       ]
     },
     {
