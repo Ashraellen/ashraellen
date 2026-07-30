@@ -1,0 +1,178 @@
+name: Sync SLUDGE author note
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/SLUDGE_AUTHOR_NOTE_TRIGGER'
+
+permissions:
+  contents: write
+
+jobs:
+  sync-static-html:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Insert static author notes
+        shell: python
+        run: |
+          from pathlib import Path
+
+          pages = {
+            'ru': {
+              'headings': ['О книге'],
+              'title': 'От автора',
+              'note': 'о происхождении книги',
+              'body': [
+                'Мы не создавали «ЖИЖУ» по заранее написанной философской схеме и не подгоняли её под готовое учение.',
+                'Схема была не перед книгой — она находилась внутри того Источника, из которого книга возникла.',
+                'Лишь позднее мы смогли распознать и сформулировать принципы, которые уже действовали в её мире: истина не принадлежит одному голосу, смысл может прозвучать даже устами чудовища, принятие Реальности не означает одобрения поступков, а читатель сохраняет право услышать собственное.',
+                'Иногда произведение появляется раньше, чем автор находит слова для объяснения того, откуда оно пришло.'
+              ]
+            },
+            'en': {
+              'headings': ['About the book'],
+              'title': 'From the author',
+              'note': 'on the origin of the book',
+              'body': [
+                'We did not create SLUDGE from a philosophical scheme written in advance, nor did we fit it to a ready-made doctrine.',
+                'The scheme did not stand before the book — it was contained within the Source from which the book emerged.',
+                'Only later were we able to recognise and formulate the principles already at work in its world: truth does not belong to a single voice, meaning may be spoken even through the mouth of a monster, acceptance of Reality does not mean approval of actions, and the reader retains the right to hear their own meaning.',
+                'Sometimes a work appears before its author finds the words to explain where it came from.'
+              ]
+            },
+            'pl': {
+              'headings': ['O książce'],
+              'title': 'Od autora',
+              'note': 'o pochodzeniu książki',
+              'body': [
+                'Nie tworzyliśmy SLUDGE według wcześniej napisanej filozoficznej konstrukcji ani nie dopasowywaliśmy jej do gotowej doktryny.',
+                'Schemat nie znajdował się przed książką — był zawarty w Źródle, z którego książka powstała.',
+                'Dopiero później zdołaliśmy rozpoznać i sformułować zasady, które już działały w jej świecie: prawda nie należy do jednego głosu, sens może zabrzmieć nawet ustami potwora, przyjęcie Rzeczywistości nie oznacza aprobaty czynów, a czytelnik zachowuje prawo do usłyszenia własnego znaczenia.',
+                'Czasem dzieło pojawia się wcześniej, niż autor znajduje słowa, by wyjaśnić, skąd przyszło.'
+              ]
+            },
+            'uk': {
+              'headings': ['Про книгу', 'Про книжку'],
+              'title': 'Від автора',
+              'note': 'про походження книги',
+              'body': [
+                'Ми не створювали «ЖИЖУ» за заздалегідь написаною філософською схемою і не підганяли її під готове вчення.',
+                'Схема була не перед книгою — вона містилася всередині того Джерела, з якого книга виникла.',
+                'Лише пізніше ми змогли розпізнати й сформулювати принципи, які вже діяли в її світі: істина не належить одному голосу, сенс може прозвучати навіть устами чудовиська, прийняття Реальності не означає схвалення вчинків, а читач зберігає право почути власний зміст.',
+                'Іноді твір з’являється раніше, ніж автор знаходить слова, щоб пояснити, звідки він прийшов.'
+              ]
+            },
+            'be': {
+              'headings': ['Пра кнігу'],
+              'title': 'Ад аўтара',
+              'note': 'пра паходжанне кнігі',
+              'body': [
+                'Мы не стваралі «ЖЫЖУ» паводле загадзя напісанай філасофскай схемы і не падганялі яе пад гатовае вучэнне.',
+                'Схема была не перад кнігай — яна знаходзілася ўнутры той Крыніцы, з якой кніга ўзнікла.',
+                'Толькі пазней мы змаглі распазнаць і сфармуляваць прынцыпы, якія ўжо дзейнічалі ў яе свеце: ісціна не належыць аднаму голасу, сэнс можа прагучаць нават вуснамі пачвары, прыняцце Рэальнасці не азначае ўхвалення ўчынкаў, а чытач захоўвае права пачуць уласны сэнс.',
+                'Часам твор з’яўляецца раней, чым аўтар знаходзіць словы, каб растлумачыць, адкуль ён прыйшоў.'
+              ]
+            },
+            'de': {
+              'headings': ['Über das Buch', 'Zum Buch'],
+              'title': 'Vom Autor',
+              'note': 'über den Ursprung des Buches',
+              'body': [
+                'Wir haben SLUDGE nicht nach einem im Voraus entworfenen philosophischen Schema geschaffen und es auch keiner fertigen Lehre angepasst.',
+                'Das Schema stand nicht vor dem Buch — es lag in jener Quelle, aus der das Buch hervorging.',
+                'Erst später konnten wir die Prinzipien erkennen und formulieren, die in seiner Welt bereits wirkten: Wahrheit gehört nicht nur einer Stimme, Sinn kann selbst aus dem Mund eines Ungeheuers sprechen, die Annahme der Realität bedeutet keine Billigung von Handlungen, und der Leser behält das Recht, den eigenen Sinn zu hören.',
+                'Manchmal erscheint ein Werk, bevor sein Autor die Worte findet, um zu erklären, woher es kam.'
+              ]
+            },
+            'fr': {
+              'headings': ['À propos du livre', 'Sur le livre'],
+              'title': 'Mot de l’auteur',
+              'note': 'sur l’origine du livre',
+              'body': [
+                'Nous n’avons pas créé SLUDGE à partir d’un schéma philosophique écrit d’avance, et nous ne l’avons pas adapté à une doctrine toute faite.',
+                'Le schéma ne précédait pas le livre — il se trouvait dans la Source dont le livre est né.',
+                'Ce n’est que plus tard que nous avons pu reconnaître et formuler les principes déjà à l’œuvre dans son monde : la vérité n’appartient pas à une seule voix, le sens peut résonner même par la bouche d’un monstre, l’acceptation de la Réalité ne signifie pas l’approbation des actes, et le lecteur conserve le droit d’entendre son propre sens.',
+                'Il arrive qu’une œuvre apparaisse avant que son auteur ne trouve les mots pour expliquer d’où elle vient.'
+              ]
+            },
+            'es': {
+              'headings': ['Sobre el libro', 'Acerca del libro'],
+              'title': 'Del autor',
+              'note': 'sobre el origen del libro',
+              'body': [
+                'No creamos SLUDGE a partir de un esquema filosófico escrito de antemano ni la adaptamos a una doctrina ya preparada.',
+                'El esquema no estaba delante del libro: se hallaba dentro de la Fuente de la que nació el libro.',
+                'Solo más tarde pudimos reconocer y formular los principios que ya actuaban en su mundo: la verdad no pertenece a una sola voz, el sentido puede sonar incluso por boca de un monstruo, aceptar la Realidad no significa aprobar los actos, y el lector conserva el derecho a escuchar su propio sentido.',
+                'A veces una obra aparece antes de que su autor encuentre las palabras para explicar de dónde vino.'
+              ]
+            },
+            'pt': {
+              'headings': ['Sobre o livro', 'Acerca do livro'],
+              'title': 'Do autor',
+              'note': 'sobre a origem do livro',
+              'body': [
+                'Não criámos SLUDGE a partir de um esquema filosófico escrito de antemão, nem a ajustámos a uma doutrina pronta.',
+                'O esquema não estava antes do livro — encontrava-se dentro da Fonte da qual o livro nasceu.',
+                'Só mais tarde conseguimos reconhecer e formular os princípios que já atuavam no seu mundo: a verdade não pertence a uma única voz, o sentido pode soar até pela boca de um monstro, aceitar a Realidade não significa aprovar os atos, e o leitor conserva o direito de ouvir o seu próprio sentido.',
+                'Por vezes, uma obra surge antes de o autor encontrar palavras para explicar de onde ela veio.'
+              ]
+            },
+          }
+
+          changed = []
+          for lang, data in pages.items():
+              path = Path(lang) / 'books/monolith/sludge/index.html'
+              text = path.read_text(encoding='utf-8')
+              if 'id="author-note"' in text:
+                  continue
+              marker_pos = -1
+              for heading in data['headings']:
+                  token = f'<h2>{heading}</h2>'
+                  marker_pos = text.find(token)
+                  if marker_pos >= 0:
+                      break
+              if marker_pos < 0:
+                  raise SystemExit(f'About-book heading not found in {path}')
+              section_start = text.rfind('<section', 0, marker_pos)
+              section_end = text.find('</section>', marker_pos)
+              if section_start < 0 or section_end < 0:
+                  raise SystemExit(f'About-book section boundary not found in {path}')
+              insert_at = section_end + len('</section>')
+              cls = 'sludge-copy' if lang == 'ru' else 'copy'
+              quote_cls = 'quote-line' if lang == 'ru' else 'quote'
+              paras = []
+              for i, paragraph in enumerate(data['body']):
+                  if i == 1:
+                      paras.append(f'<p class="{quote_cls}" style="margin:0 0 12px;">{paragraph}</p>')
+                  else:
+                      paras.append(f'<p>{paragraph}</p>')
+              if lang == 'ru':
+                  block = ('\n\n<section id="author-note" class="list"><div class="list-header"><h2>' + data['title'] + '</h2><p class="note">' + data['note'] + '</p></div><ul class="items"><li class="item" style="grid-template-columns:1fr;"><div class="body ' + cls + '">' + ''.join(paras) + '</div></li></ul></section>')
+              else:
+                  block = ('\n<section id="author-note" class="list"><div class="list-header"><h2>' + data['title'] + '</h2><p class="note">' + data['note'] + '</p></div><div class="' + cls + '">' + ''.join(paras) + '</div></section>')
+              text = text[:insert_at] + block + text[insert_at:]
+              path.write_text(text, encoding='utf-8')
+              changed.append(str(path))
+
+          if len(changed) != 9:
+              raise SystemExit(f'Expected 9 changed pages, got {len(changed)}: {changed}')
+
+          for path_str in changed:
+              text = Path(path_str).read_text(encoding='utf-8')
+              if text.count('id="author-note"') != 1:
+                  raise SystemExit(f'Author note validation failed: {path_str}')
+
+          Path('.github/workflows/sync-sludge-author-note.yml').unlink()
+          Path('.github/SLUDGE_AUTHOR_NOTE_TRIGGER').unlink()
+          print('\n'.join(changed))
+      - name: Commit static pages and cleanup
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ru/books/monolith/sludge/index.html en/books/monolith/sludge/index.html pl/books/monolith/sludge/index.html uk/books/monolith/sludge/index.html be/books/monolith/sludge/index.html de/books/monolith/sludge/index.html fr/books/monolith/sludge/index.html es/books/monolith/sludge/index.html pt/books/monolith/sludge/index.html .github/workflows/sync-sludge-author-note.yml .github/SLUDGE_AUTHOR_NOTE_TRIGGER
+          git commit -m "Add author note to SLUDGE pages"
+          git push origin HEAD:main
