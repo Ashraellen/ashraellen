@@ -81,7 +81,7 @@ a{color:var(--fg); text-decoration:none}
 .actions{
   display:flex;
   gap:14px;
-  flex-wrap:nowrap;         /* ✅ no wrapping on desktop */
+  flex-wrap:nowrap;
   align-items:stretch;
 }
 
@@ -89,55 +89,81 @@ a{color:var(--fg); text-decoration:none}
   display:inline-flex;
   align-items:center;
   justify-content:center;
-
-  flex:1 1 0;               /* ✅ all buttons equal width */
-  min-width:150px;          /* ✅ prevents too narrow buttons */
+  flex:1 1 0;
+  min-width:150px;
   height:44px;
-
   border:1px solid rgba(242,242,244,0.18);
   border-radius:12px;
-  background: rgba(0,0,0,0.18);
-  backdrop-filter: blur(3px);
-
-  transition: transform 140ms ease,
-              background 140ms ease,
-              border-color 140ms ease,
-              opacity 140ms ease;
-
+  background:rgba(0,0,0,0.18);
+  backdrop-filter:blur(3px);
+  transition:transform 140ms ease,background 140ms ease,border-color 140ms ease,opacity 140ms ease;
   opacity:0.92;
 }
 
 .actions a:hover{
-  background: rgba(255,255,255,0.08);
-  border-color: rgba(242,242,244,0.34);
-  transform: translateY(-2px);
+  background:rgba(255,255,255,0.08);
+  border-color:rgba(242,242,244,0.34);
+  transform:translateY(-2px);
   text-decoration:none;
   opacity:1;
 }
 
 .actions a:active{
-  transform: translateY(0px);
+  transform:translateY(0);
 }
 
 .action-hint{
   margin:13px 0 0;
   color:var(--muted);
-  font-size:12px;
-  line-height:1.25;
+  font-size:13.5px;
+  line-height:15px;
   max-width:46ch;
   opacity:0.92;
+  text-shadow:0 1px 2px rgba(0,0,0,.98),0 0 5px rgba(0,0,0,.96),0 0 10px rgba(0,0,0,.90),0 0 18px rgba(0,0,0,.72);
 }
 
 .action-hint span{
   display:block;
 }
 
-.project-summary{
+.professional-link{
+  display:flex;
+  justify-content:flex-start;
   margin:18px 0 0;
-  max-width:58ch;
-  color:rgba(242,242,244,.46);
-  font-size:12px;
-  line-height:1.45;
+}
+
+.professional-link a{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  padding:7px 11px;
+  border:1px solid rgba(242,242,244,.16);
+  border-radius:999px;
+  background:rgba(0,0,0,.22);
+  color:rgba(242,242,244,.60);
+  font-size:13.5px;
+  font-weight:650;
+  line-height:1;
+  text-decoration:none;
+  letter-spacing:.015em;
+  box-shadow:0 8px 24px rgba(0,0,0,.22);
+  transition:color 140ms ease,border-color 140ms ease,background 140ms ease,transform 140ms ease;
+}
+
+.professional-link a:hover{
+  color:rgba(242,242,244,.86);
+  border-color:rgba(242,242,244,.30);
+  background:rgba(0,0,0,.34);
+  transform:translateY(-1px);
+}
+
+.project-summary{
+  margin:18px 0 0 !important;
+  max-width:54ch !important;
+  color:rgba(242,242,244,.56) !important;
+  font-size:13.5px !important;
+  line-height:17.4px !important;
+  text-shadow:0 1px 2px rgba(0,0,0,.98),0 0 5px rgba(0,0,0,.96),0 0 10px rgba(0,0,0,.90),0 0 18px rgba(0,0,0,.72) !important;
 }
 
 /* Languages */
@@ -151,7 +177,7 @@ a{color:var(--fg); text-decoration:none}
 .langs a{
   font-size:13px;
   color:var(--muted);
-  transition: color 140ms ease, opacity 140ms ease;
+  transition:color 140ms ease,opacity 140ms ease;
 }
 
 .langs a:hover{
@@ -176,77 +202,57 @@ a{color:var(--fg); text-decoration:none}
   opacity:0.75;
 }
 
-/* Mobile: stack buttons (FIXED) */
-@media (max-width: 700px){
-  .entry{ padding:38px 22px; }
+/* Mobile: stack buttons */
+@media (max-width:700px){
+  .entry{padding:38px 22px}
 
   .actions{
-    flex-direction:column;  /* ✅ one under another */
+    flex-direction:column;
     gap:12px;
   }
 
-  /* Главное: делаем кнопки "кнопками" */
   .actions a{
     width:100%;
     min-width:0;
-
-    height:auto;            /* вместо фиксированных 44px */
-    padding:16px 18px;      /* нормальная высота пальцем */
+    height:auto;
+    padding:16px 18px;
     font-size:16px;
     font-weight:700;
-
     border-radius:14px;
     border:1px solid rgba(242,242,244,0.28);
-    background: rgba(0,0,0,0.34);
-    backdrop-filter: blur(8px);
-
+    background:rgba(0,0,0,0.34);
+    backdrop-filter:blur(8px);
     opacity:1;
-    transform:none;         /* убираем сдвиги на мобиле */
+    transform:none;
   }
 
   .actions a:hover{
-    background: rgba(0,0,0,0.40);
-    border-color: rgba(242,242,244,0.34);
+    background:rgba(0,0,0,0.40);
+    border-color:rgba(242,242,244,0.34);
     transform:none;
   }
 
   .actions a:active{
-    background: rgba(0,0,0,0.46);
-    transform: scale(0.985);
+    background:rgba(0,0,0,0.46);
+    transform:scale(0.985);
   }
 
   .action-hint{
     margin-top:14px;
-    font-size:12px;
-    line-height:1.25;
+    font-size:13.5px;
+    line-height:15px;
     max-width:100%;
   }
 
+  .project-summary{
+    width:92% !important;
+  }
+
   .entry::after{
-    background: linear-gradient(180deg,
+    background:linear-gradient(180deg,
       rgba(11,11,13,0.92) 0%,
       rgba(11,11,13,0.60) 45%,
       rgba(11,11,13,0.20) 75%,
       rgba(11,11,13,0.05) 100%);
-  }
-}
-
-/* Russian home readability test */
-html[lang="ru"] .brand{
-  font-size:22px !important;
-}
-
-html[lang="ru"] .one{
-  font-size:15px !important;
-  line-height:1.25 !important;
-}
-
-html[lang="ru"] .project-summary{
-  color:rgba(242,242,244,.56) !important;
-}
-
-@media (max-width:700px){
-  html[lang="ru"] .actions a{
-    font-size:16px !important;
   }
 }
