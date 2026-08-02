@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29T10:15:05.566Z",
+  "generated": "2026-08-02T20:34:39.263Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -491,11 +491,11 @@
         "Справа",
         "Абраны фрагмент",
         "Пра кнігу",
+        "Ад аўтара",
         "Без спойлераў",
         "Мастацка-даследчая рамка",
         "Тэмы",
-        "Для каго",
-        "Месца ў трылогіі"
+        "Для каго"
       ],
       "h3": [
         "Вязкасць",
@@ -522,21 +522,21 @@
         "нават",
         "толькі",
         "ўжо",
+        "пра",
         "тут",
         "яшчэ",
-        "пра",
         "праз",
         "сівы",
         "чалавек",
         "амаль",
+        "была",
         "быў",
         "калі",
         "потым",
         "том",
         "тым",
         "чалавека",
-        "аргументацыі",
-        "была"
+        "аргументацыі"
       ],
       "suggestedKeywordSeed": [
         "sludge",
@@ -548,13 +548,13 @@
         "адам",
         "але",
         "антыўтопія",
+        "аўтара",
         "без",
         "вязкі",
         "другі",
         "каго",
         "кнігу",
         "мастацка-даследчая",
-        "месца",
         "нават",
         "рамка"
       ]
@@ -5538,11 +5538,11 @@
         "Akte",
         "Ausgewählter Auszug",
         "Über das Buch",
+        "Vom Autor",
         "Ohne Spoiler",
         "Künstlerisch-forschender Rahmen",
         "Themen",
-        "Für wen",
-        "Platz in der Trilogie"
+        "Für wen"
       ],
       "h3": [
         "Zähflüssigkeit",
@@ -5570,19 +5570,19 @@
         "wie",
         "für",
         "als",
+        "dem",
         "mit",
         "war",
-        "dem",
+        "des",
         "eine",
         "sie",
-        "des",
         "von",
         "adam",
         "ist",
-        "sich",
-        "sondern",
         "nur",
+        "sich",
         "sludge",
+        "sondern",
         "wird"
       ],
       "suggestedKeywordSeed": [
@@ -5590,7 +5590,6 @@
         "ashraellen",
         "books",
         "das",
-        "der",
         "für",
         "monolith",
         "über",
@@ -5599,11 +5598,12 @@
         "als",
         "ausgewählter",
         "auszug",
+        "autor",
         "band",
         "buch",
+        "dem",
         "den",
-        "die",
-        "druck"
+        "der"
       ]
     },
     {
@@ -10604,11 +10604,11 @@
         "Case file",
         "Selected excerpt",
         "About the book",
+        "From the author",
         "Without spoilers",
         "Artistic-research frame",
         "Themes",
-        "For whom",
-        "Place in the trilogy"
+        "For whom"
       ],
       "h3": [
         "Viscosity",
@@ -10631,25 +10631,25 @@
         "sludge",
         "had",
         "adam",
+        "only",
         "environment",
         "like",
-        "only",
-        "monolith",
-        "they",
         "through",
         "already",
-        "what",
+        "monolith",
+        "they",
         "even",
+        "its",
+        "what",
         "first",
         "grey-haired",
+        "their",
         "you",
         "about",
+        "did",
+        "does",
         "form",
-        "here",
-        "its",
-        "person",
-        "than",
-        "their"
+        "here"
       ],
       "suggestedKeywordSeed": [
         "sludge",
@@ -10660,6 +10660,7 @@
         "adam",
         "already",
         "artistic-research",
+        "author",
         "book",
         "case",
         "complicity",
@@ -10668,8 +10669,7 @@
         "excerpt",
         "exhausted",
         "file",
-        "form",
-        "frame"
+        "form"
       ]
     },
     {
@@ -15639,11 +15639,11 @@
         "Expediente",
         "Fragmento seleccionado",
         "Sobre el libro",
+        "Del autor",
         "Sin destripes",
         "Marco artístico y de investigación",
         "Temas",
-        "Para quién",
-        "Lugar en la trilogía"
+        "Para quién"
       ],
       "h3": [
         "Viscosidad",
@@ -15672,24 +15672,25 @@
         "adam",
         "como",
         "sino",
-        "era",
         "sludge",
-        "persona",
-        "entorno",
+        "era",
         "más",
+        "persona",
         "dentro",
+        "entorno",
         "forma",
         "sin",
         "pero",
-        "canoso",
         "sobre",
         "solo",
+        "canoso",
         "entre"
       ],
       "suggestedKeywordSeed": [
         "sludge",
         "ashraellen",
         "books",
+        "del",
         "monolith",
         "para",
         "sobre",
@@ -15697,13 +15698,12 @@
         "adam",
         "agotada",
         "artístico",
+        "autor",
         "como",
         "complicidad",
         "con",
-        "del",
         "destripes",
         "distopía",
-        "era",
         "expediente"
       ]
     },
@@ -20876,11 +20876,11 @@
         "Dossier",
         "Extrait choisi",
         "À propos du livre",
+        "Mot de l’auteur",
         "Sans divulgâcher",
         "Cadre artistique et de recherche",
         "Thèmes",
-        "Pour qui",
-        "Place dans la trilogie"
+        "Pour qui"
       ],
       "h3": [
         "Viscosité",
@@ -20898,36 +20898,35 @@
       ],
       "excerpt": "SLUDGE SLUDGE est une dystopie philosophique sur un monde où la pression ne ressemble plus à un mur : elle s’infiltre dans le quotidien, le langage et le corps, brouille les frontières et transforme l’être humain en matériau du milieu. Volume II de la trilogie MONOLITH : déformation visqueuse, épuisement de la résistance et complicité devenue habitude. Dossier Volume II Un être humain ne se brise pas d’un coup. D’abord, il se fatigue de résister. Puis il commence à consentir. DOSSIER N° 2026-001B. Indice : 6666548A. STATUT : Strictement secret. Lire l’édition russe sur Google Play Books Lire l’édition anglaise sur Amazon Retour à MONOLITH Extrait choisi Chapitre 6 / § 6.2 Chapitre 6. Premiers pas dans SLUDGE. § 6.2. Entrepôts de Conservation des Éclats L’extrait montre comment le besoin ordinaire, la procédure ritualisée, la peur, le silence et la complicité deviennent la matière quotidi",
       "candidates": [
-        "les",
         "pas",
+        "les",
         "une",
-        "qui",
         "dans",
         "des",
+        "qui",
         "mais",
         "que",
         "plus",
         "pour",
         "comme",
         "sur",
+        "son",
         "adam",
         "sludge",
-        "son",
         "même",
         "sans",
         "avec",
         "milieu",
+        "d’un",
+        "déjà",
         "était",
         "ses",
-        "déjà",
-        "forme",
-        "d’un"
+        "elle"
       ],
       "suggestedKeywordSeed": [
         "sludge",
         "ashraellen",
         "books",
-        "dans",
         "monolith",
         "pour",
         "qui",
@@ -20938,6 +20937,7 @@
         "choisi",
         "comme",
         "complicité",
+        "dans",
         "des",
         "divulgâcher",
         "dossier",
@@ -26082,11 +26082,11 @@
         "Akta",
         "Wybrany fragment",
         "O książce",
+        "Od autora",
         "Bez spoilerów",
         "Rama artystyczno-badawcza",
         "Tematy",
-        "Dla kogo",
-        "Miejsce w trylogii"
+        "Dla kogo"
       ],
       "h3": [
         "Lepkość",
@@ -26107,13 +26107,13 @@
         "nie",
         "się",
         "sludge",
-        "lecz",
         "już",
+        "lecz",
         "adam",
         "przez",
         "który",
-        "ale",
         "nawet",
+        "ale",
         "tylko",
         "jego",
         "potem",
@@ -26124,10 +26124,10 @@
         "człowiek",
         "człowieka",
         "niemal",
+        "niż",
         "środku",
         "tutaj",
-        "tym",
-        "zmęczenie"
+        "tym"
       ],
       "suggestedKeywordSeed": [
         "sludge",
@@ -26138,6 +26138,7 @@
         "ale",
         "antyutopia",
         "artystyczno-badawcza",
+        "autora",
         "bez",
         "drugi",
         "filozoficzna",
@@ -26146,8 +26147,7 @@
         "jego",
         "już",
         "kogo",
-        "książce",
-        "który"
+        "książce"
       ]
     },
     {
@@ -31196,11 +31196,11 @@
         "Dossiê",
         "Trecho selecionado",
         "Sobre o livro",
+        "Do autor",
         "Sem spoilers",
         "Estrutura artístico-investigativa",
         "Temas",
-        "Para quem",
-        "Lugar na trilogia"
+        "Para quem"
       ],
       "h3": [
         "Viscosidade",
@@ -31224,8 +31224,8 @@
         "para",
         "mas",
         "com",
-        "como",
         "por",
+        "como",
         "adam",
         "era",
         "mais",
@@ -31237,11 +31237,11 @@
         "sem",
         "dentro",
         "grisalho",
+        "nem",
         "parecia",
+        "sobre",
         "vez",
-        "volume",
-        "ainda",
-        "limites"
+        "volume"
       ],
       "suggestedKeywordSeed": [
         "sludge",
@@ -31253,6 +31253,7 @@
         "uma",
         "adam",
         "artístico-investigativa",
+        "autor",
         "com",
         "como",
         "cumplicidade",
@@ -31260,8 +31261,7 @@
         "dossiê",
         "era",
         "estrutura",
-        "exaurida",
-        "filosófica"
+        "exaurida"
       ]
     },
     {
@@ -36248,11 +36248,11 @@
         "Дело",
         "Избранный фрагмент",
         "О книге",
+        "От автора",
         "Без спойлеров",
         "Художественно-исследовательская рамка",
         "Темы / смысловые узлы",
-        "Для кого эта книга",
-        "Место в трилогии"
+        "Для кого эта книга"
       ],
       "h3": [
         "Вязкость",
@@ -36273,10 +36273,10 @@
         "уже",
         "адам",
         "его",
-        "жижа",
         "даже",
-        "только",
+        "жижа",
         "внутри",
+        "только",
         "всё",
         "ещё",
         "человека",
@@ -36299,10 +36299,10 @@
         "жижа",
         "ashraellen",
         "books",
-        "трилогии",
         "человека",
         "monolith",
         "sludge",
+        "автора",
         "адам",
         "антиутопия",
         "без",
@@ -42089,11 +42089,11 @@
         "Справа",
         "Вибраний фрагмент",
         "Про книгу",
+        "Від автора",
         "Без спойлерів",
         "Художньо-дослідницька рамка",
         "Теми",
-        "Для кого",
-        "Місце у трилогії"
+        "Для кого"
       ],
       "h3": [
         "В’язкість",
@@ -42113,19 +42113,19 @@
       "candidates": [
         "він",
         "sludge",
+        "від",
         "який",
         "адам",
-        "від",
-        "але",
         "лише",
         "навіть",
+        "але",
         "вже",
         "всередині",
         "його",
+        "про",
         "тут",
         "monolith",
         "людина",
-        "про",
         "сивий",
         "був",
         "майже",
@@ -42138,10 +42138,12 @@
       ],
       "suggestedKeywordSeed": [
         "sludge",
+        "про",
         "ashraellen",
         "books",
         "monolith",
-        "про",
+        "від",
+        "автора",
         "адам",
         "але",
         "антиутопія",
@@ -42150,11 +42152,9 @@
         "вже",
         "вибраний",
         "виснажений",
-        "від",
         "він",
         "всередині",
-        "втрату",
-        "другий"
+        "втрату"
       ]
     },
     {
