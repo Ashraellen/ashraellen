@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-04T11:26:17.104Z
+Generated: 2026-08-04T11:27:14.641Z
 Pages: 635
 
 ## Index
@@ -154,7 +154,7 @@ Pages: 635
 | en/books/radiance/sampo/index.html | en | books | Ashraellen — Sampo \| Radiance, Book I | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | sampo, book, radiance, ashraellen, books, about, abundance, artistic-research, been, chapter, cultural, featured, first, foundations, frame, has, her, his |
 | en/books/radiance/song/index.html | en | books | Ashraellen — Song \| Radiance, Book II | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | song, about, book, radiance, ashraellen, books, language, sound, artistic-research, ayla, become, chapter, cultural, does, extended, featured, foundations, frame |
 | en/books/samizdat/demotopia/index.html | en | books | Demotopia — Book Passport — samizdat 2.0 | _missing_ | demotopia, book, passport, samizdat, 2.0, author-issued, edition, about, ashraellen, books, copy, physical, author, democratic, permanent, request, system |
-| en/books/samizdat/index.html | en | books | samizdat 2.0 — Ashraellen author editions | Ashraellen, samizdat 2.0, author editions, numbered books, signed copies, book passports, direct publishing | samizdat, 2.0, books, ashraellen, editions, author, book, now, physical, why, anonymous, author-issued, become, belong, can, completed, copies, direct |
+| en/books/samizdat/index.html | en | books | samizdat 2.0 — Ashraellen author editions | Ashraellen, samizdat 2.0, author editions, numbered books, signed copies, book passports, direct publishing | samizdat, 2.0, books, ashraellen, book, author, editions, how, now, physical, why, without, author-issued, belong, completed, copies, copy, direct |
 | en/books/samizdat/monolith/beton/index.html | en | books | BETON — book passport — samizdat 2.0 | _missing_ | beton, edition, monolith, samizdat, ashraellen, book, books, english, passport, public, 2.0, accepted, canonical, identity, information, pdf, physical, preparation |
 | en/books/samizdat/monolith/index.html | en | books | MONOLITH — trilogy passport — samizdat 2.0 | _missing_ | monolith, trilogy, 2.0, passport, samizdat, ashraellen, beton, books, gas, sequence, sludge, about, book, canonical, edition, form, independent, information |
 | en/books/samizdat/order/index.html | en | books | Request a samizdat 2.0 copy — Ashraellen | _missing_ | request, copy, 2.0, samizdat, ashraellen, author-issued, book, books, delivery, language, preparation, address, any, confirmation, estimate, order, payment, project |
@@ -3152,10 +3152,10 @@ Excerpt:
 - description: samizdat 2.0 by Ashraellen: why direct author-issued physical editions matter now, how numbered copies and permanent book passports work, and which books belong to the project.
 - canonical: https://www.ashraellen.com/en/books/samizdat/
 - H1: samizdat 2.0
-- H2: Why now | Books in samizdat 2.0
-- H3: _missing_
-- suggested keyword seed: samizdat, 2.0, books, ashraellen, editions, author, book, now, physical, why, anonymous, author-issued, become, belong, can, completed, copies, direct
-- candidates: samizdat, 2.0, author, book, physical, books, become, can, completed, editions, public, anonymous, ashraellen, author-issued, beton, between, direct, edition, form, freedom, monolith, novel, now, passport
+- H2: Why now | What it is | How it works | Numbering without surveillance | The QR passport | A book meant to travel | Books in samizdat 2.0
+- H3: A completed author edition | Outside the industrial chain | One copy as one object | A permanent public passport
+- suggested keyword seed: samizdat, 2.0, books, ashraellen, book, author, editions, how, now, physical, why, without, author-issued, belong, completed, copies, copy, direct
+- candidates: book, samizdat, copy, physical, its, author, edition, public, without, 2.0, completed, object, reader, may, passport, permanent, can, language, one, work, books, code, does, form
 
 Excerpt:
 
