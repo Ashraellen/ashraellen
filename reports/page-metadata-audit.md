@@ -1,6 +1,6 @@
 # Page Metadata Audit
 
-Generated: 2026-08-04T13:43:04.557Z
+Generated: 2026-08-04T13:43:43.420Z
 
 Pages checked: 700
 Pages with issues: 183
@@ -1159,7 +1159,7 @@ Total review notes: 2126
 ### pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0002/index.html
 
 - title: AS2-DEMOTOPIA-PL-0002 — paszport egzemplarza Demotopii
-- description length: 98
+- description length: 93
 - canonical: https://www.ashraellen.com/pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0002/
 - og:image: _missing_
 - twitter:image: _missing_

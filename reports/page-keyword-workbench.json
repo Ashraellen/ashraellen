@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-04T13:43:05.159Z",
+  "generated": "2026-08-04T13:43:43.911Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -27350,18 +27350,21 @@
       "lang": "pl",
       "section": "books",
       "title": "AS2-DEMOTOPIA-PL-0002 — paszport egzemplarza Demotopii",
-      "description": "Paszport polskiego egzemplarza Demotopii AS2-DEMOTOPIA-PL-0002 w systemie Ashraellen Samizdat 2.0.",
+      "description": "Stały paszport polskiego egzemplarza Demotopii AS2-DEMOTOPIA-PL-0002 w systemie samizdat 2.0.",
       "existingKeywords": "",
       "canonical": "https://www.ashraellen.com/pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0002/",
       "h1": [
         "Demotopia"
       ],
       "h2": [
-        "Zapis egzemplarza",
-        "Prywatność",
-        "Stały adres"
+        "Ten egzemplarz",
+        "Stały zapis",
+        "Relacja z książką",
+        "Demotopia — Demokratyczna Utopia"
       ],
-      "h3": [],
+      "h3": [
+        "Odbiorca"
+      ],
       "slugTerms": [
         "pl",
         "books",
@@ -27372,52 +27375,52 @@
         "demotopia",
         "pl"
       ],
-      "excerpt": "Paszport egzemplarza / samizdat 2.0 Demotopia Demokratyczna Utopia AS2-DEMOTOPIA-PL-0002 Stały paszport indywidualnego polskiego egzemplarza autorskiego wydania Demotopii. Zapis egzemplarza potwierdzona tożsamość Identyfikator AS2-DEMOTOPIA-PL-0002 Utwór Demotopia — Demokratyczna Utopia Autor Ashraellen Język fizycznego egzemplarza Polski System Ashraellen Samizdat 2.0 Status publiczny Przeznaczony dla prywatnego odbiorcy Odbiorca Prywatny odbiorca Dane posiadacza Nie zostały opublikowane Data wykonania Nie zarejestrowano Data przekazania Nie zarejestrowano Prywatność autentyczność bez obowiązkowej rejestracji osoby Dane odbiorcy nie są publiczną częścią paszportu. Brak opublikowanego nazwiska, pseudonimu lub informacji o posiadaczu nie wpływa na autentyczność egzemplarza. Po faktycznym wykonaniu i przekazaniu książki zapis może zostać uzupełniony wyłącznie o potwierdzone informacje. Sta",
+      "excerpt": "Paszport egzemplarza / samizdat 2.0 Demotopia Demokratyczna Utopia Indywidualny polski egzemplarz autorskiego wydania fizycznego. AS2-DEMOTOPIA-PL-0002 Ten egzemplarz stała tożsamość jednej fizycznej książki Identyfikator AS2-DEMOTOPIA-PL-0002 Utwór Demotopia — Demokratyczna Utopia Autor Ashraellen Wydanie Autorskie wydanie fizyczne System samizdat 2.0 Język egzemplarza Polski Status Przeznaczony dla prywatnego odbiorcy Odbiorca Prywatny odbiorca. Dane osoby nie zostały opublikowane. Brak publicznych danych posiadacza nie wpływa na autentyczność egzemplarza. Stały zapis jeden numer / jeden kod QR / jedna historia egzemplarza Numer AS2-DEMOTOPIA-PL-0002 pozostaje przypisany do tego egzemplarza. Neutralny adres zapisany w kodzie QR nie zmienia się wraz z późniejszym uzupełnianiem potwierdzonych informacji. Data wykonania i data przekazania nie zostały jeszcze zarejestrowane. Zapis zostanie",
       "candidates": [
         "egzemplarza",
-        "nie",
         "as2-demotopia-pl-0002",
+        "książki",
         "paszport",
         "2.0",
-        "ashraellen",
-        "demotopii",
-        "samizdat",
-        "adres",
-        "autentyczność",
-        "dane",
-        "data",
-        "demokratyczna",
         "demotopia",
-        "identyfikator",
-        "odbiorca",
-        "odbiorcy",
-        "polskiego",
-        "sam",
-        "stały",
-        "ten",
+        "egzemplarz",
+        "nie",
+        "samizdat",
+        "wydania",
+        "demokratyczna",
+        "demotopii",
+        "jeden",
         "utopia",
-        "zapis",
-        "zarejestrowano"
+        "autorskiego",
+        "data",
+        "numer",
+        "odbiorca",
+        "polski",
+        "się",
+        "stały",
+        "systemie",
+        "utworu",
+        "wydanie"
       ],
       "suggestedKeywordSeed": [
-        "egzemplarza",
-        "as2-demotopia-pl-0002",
-        "ashraellen",
         "demotopia",
+        "as2-demotopia-pl-0002",
         "demotopii",
+        "egzemplarza",
         "paszport",
         "samizdat",
         "2.0",
-        "adres",
         "books",
+        "demokratyczna",
+        "egzemplarz",
+        "stały",
         "as2",
-        "autentyczność",
+        "ashraellen",
         "copies",
-        "dane",
-        "data",
+        "książką",
+        "książki",
         "nie",
-        "polskiego",
-        "prywatność"
+        "polskiego"
       ]
     },
     {
