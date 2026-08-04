@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-04T11:27:14.627Z",
+  "generated": "2026-08-04T11:33:28.579Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -26698,6 +26698,155 @@
         "fizyczne",
         "jeden",
         "książek"
+      ]
+    },
+    {
+      "page": "pl/books/samizdat/monolith/beton/index.html",
+      "lang": "pl",
+      "section": "books",
+      "title": "BETON — paszport książki — samizdat 2.0",
+      "description": "Paszport książki BETON, tomu I trylogii MONOLITH, w polskim konturze wydawniczym Ashraellen Samizdat 2.0.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/pl/books/samizdat/monolith/beton/",
+      "h1": [
+        "BETON"
+      ],
+      "h2": [
+        "O książce",
+        "Stały zapis dzieła",
+        "Polski kontur wydawniczy",
+        "Fizyczne wydanie Samizdat",
+        "Relacja z egzemplarzem"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "pl",
+        "books",
+        "samizdat",
+        "monolith",
+        "beton"
+      ],
+      "excerpt": "MONOLITH / Tom I BETON Wszyscy jesteśmy częścią jednej ściany. ASHRAELLEN Ukończona powieść i pierwsza część trylogii MONOLITH. Paszport zachowuje tożsamość dzieła, zatwierdzone artefakty wydawnicze oraz oddzielny status przyszłego fizycznego wydania samizdatowego. O książce dzieło ukończone BETON otwiera MONOLITH jako opowieść o człowieku wewnątrz struktury, która z otoczenia staje się warunkiem istnienia. Książka jest samodzielnym dziełem i zarazem pierwszym tomem ustalonej sekwencji BETON → SLUDGE → GAS. Stały zapis dzieła potwierdzone dane Seria MONOLITH Pozycja w serii Tom I Tytuł BETON Podtytuł Wszyscy jesteśmy częścią jednej ściany. Autor ASHRAELLEN Język polski Rodzaj dzieła powieść Status dzieła ukończone Identyfikator obiektu 2026-001B Indeks 6666548A Struktura 4 bloki, 26 rozdziałów, epilog i apokryf Polski kontur wydawniczy przyjęte artefakty Print PDF przyjęty przez autora L",
+      "candidates": [
+        "przygotowaniu",
+        "beton",
+        "monolith",
+        "pdf",
+        "dzieła",
+        "print",
+        "samizdat",
+        "ashraellen",
+        "paszport",
+        "polski",
+        "przyjęty",
+        "2.0",
+        "2537",
+        "283",
+        "artefakty",
+        "częścią",
+        "dzieło",
+        "egzemplarza",
+        "epub",
+        "fizycznego",
+        "fizyczny",
+        "jednej",
+        "jesteśmy",
+        "kontur"
+      ],
+      "suggestedKeywordSeed": [
+        "beton",
+        "samizdat",
+        "2.0",
+        "ashraellen",
+        "monolith",
+        "paszport",
+        "books",
+        "dzieła",
+        "książki",
+        "polski",
+        "egzemplarzem",
+        "fizyczne",
+        "kontur",
+        "konturze",
+        "książce",
+        "pdf",
+        "polskim",
+        "print"
+      ]
+    },
+    {
+      "page": "pl/books/samizdat/monolith/index.html",
+      "lang": "pl",
+      "section": "books",
+      "title": "MONOLITH — paszport trylogii — samizdat 2.0",
+      "description": "Paszport autorskiej trylogii MONOLITH: BETON, SLUDGE i GAS w systemie samizdat 2.0 Ashraellen.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/pl/books/samizdat/monolith/",
+      "h1": [
+        "MONOLITH"
+      ],
+      "h2": [
+        "O trylogii",
+        "Kanoniczna kolejność",
+        "Książka, seria i egzemplarz"
+      ],
+      "h3": [
+        "BETON",
+        "SLUDGE",
+        "GAS"
+      ],
+      "slugTerms": [
+        "pl",
+        "books",
+        "samizdat",
+        "monolith"
+      ],
+      "excerpt": "Paszport serii / samizdat 2.0 MONOLITH Trylogia o materii, która staje się środowiskiem, a następnie znika, pozostawiając człowieka wewnątrz stworzonego przez niego systemu. MONOLITH łączy trzy samodzielne książki w jedną autorską sekwencję. Każda książka otrzymuje własny paszport i własną formę fizyczną; paszport serii zachowuje ich kolejność i więź. O trylogii jedna struktura / trzy samodzielne dzieła BETON, SLUDGE i GAS tworzą sekwencję, w której zmienia się nie tylko stan środowiska, lecz także sposób ludzkiego istnienia w jego obrębie. Serię czyta się w ustalonej kolejności: od formy stałej — przez lepką — ku niewidzialnej. Ten paszport odnosi się do trylogii jako jednej konstrukcji autorskiej. Nie zastępuje paszportów poszczególnych książek i nie zawiera danych konkretnych numerowanych egzemplarzy. Kanoniczna kolejność BETON → SLUDGE → GAS I BETON Beton Pierwsza książka trylogii. D",
+      "candidates": [
+        "paszport",
+        "monolith",
+        "trylogii",
+        "beton",
+        "gas",
+        "książka",
+        "książki",
+        "sludge",
+        "przygotowaniu",
+        "sekwencję",
+        "się",
+        "2.0",
+        "nie",
+        "samizdat",
+        "samodzielne",
+        "trzy",
+        "autorską",
+        "autorskiej",
+        "dzieło",
+        "egzemplarz",
+        "kolejność",
+        "przez",
+        "serii",
+        "własny"
+      ],
+      "suggestedKeywordSeed": [
+        "monolith",
+        "trylogii",
+        "2.0",
+        "paszport",
+        "samizdat",
+        "ashraellen",
+        "beton",
+        "books",
+        "gas",
+        "książka",
+        "sludge",
+        "autorskiej",
+        "egzemplarz",
+        "kanoniczna",
+        "kolejność",
+        "książki",
+        "przygotowaniu",
+        "sekwencję"
       ]
     },
     {

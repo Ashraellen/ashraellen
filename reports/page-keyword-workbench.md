@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-04T11:27:14.641Z
-Pages: 635
+Generated: 2026-08-04T11:33:28.593Z
+Pages: 637
 
 ## Index
 
@@ -367,6 +367,8 @@ Pages: 635
 | pl/books/radiance/song/index.html | pl | books | Ashraellen — Pieśń \| Blask, Księga II | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | pieśń, ashraellen, bez, blask, books, nie, się, ale, artystycznych, ayla, badań, być, był, była, było, druga, dźwięku, fundacji |
 | pl/books/samizdat/demotopia/index.html | pl | books | Demotopia — Paszport książki — samizdat 2.0 | _missing_ | demotopia, paszport, samizdat, 2.0, 2026, ashraellen, books, egzemplarz, książki, wydanie, autora, autorski, autorskiego, demotopii, fizyczne, fizycznego, książce, może |
 | pl/books/samizdat/index.html | pl | books | samizdat 2.0 — autorskie wydania Ashraellen | _missing_ | 2.0, samizdat, ashraellen, autorskie, wydania, bez, books, książka, autora, bezpośrednie, czym, dlaczego, działa, egzemplarz, egzemplarze, fizyczne, jeden, książek |
+| pl/books/samizdat/monolith/beton/index.html | pl | books | BETON — paszport książki — samizdat 2.0 | _missing_ | beton, samizdat, 2.0, ashraellen, monolith, paszport, books, dzieła, książki, polski, egzemplarzem, fizyczne, kontur, konturze, książce, pdf, polskim, print |
+| pl/books/samizdat/monolith/index.html | pl | books | MONOLITH — paszport trylogii — samizdat 2.0 | _missing_ | monolith, trylogii, 2.0, paszport, samizdat, ashraellen, beton, books, gas, książka, sludge, autorskiej, egzemplarz, kanoniczna, kolejność, książki, przygotowaniu, sekwencję |
 | pl/books/samizdat/order/index.html | pl | books | Poproś o egzemplarz samizdatu 2.0 — Ashraellen | _missing_ | egzemplarz, 2.0, ashraellen, books, egzemplarza, języku, poproś, samizdatu, adres, autorskiego, czas, czytelnikowi, dostawa, dostawy, dowolnym, koszt, książka, książki |
 | pl/books/samizdat/order/received/index.html | pl | books | Zgłoszenie otrzymane — samizdat 2.0 | _missing_ | otrzymane, samizdat, zgłoszenie, 2.0, automatycznie, books, aby, adres, ashraellen, czas, dostawę, dostępność, druku, email, nie, order, received, utworzony |
 | pl/books/seccus/index.html | pl | books | Ashraellen — ŚWIĘTA KSIĘGA SECCUS | Ashraellen, SECCUS, Święta Księga SECCUS, Droga Uczciwości, satyra filozoficzna, pieniądze, sukces, samooszustwo, wiedza jako alibi, odpowiedzialność, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Księga | seccus, księga, święta, ashraellen, bez, books, jako, alibi, ani, człowiek, droga, filozoficzna, głos, kogo, korpus, książce, książka, książki |
@@ -6764,6 +6766,40 @@ Excerpt:
 Excerpt:
 
 > Autorskie książki fizyczne / publiczne paszporty książek samizdat 2.0 Aby stać się publiczną, książka nie musi zamieniać się w anonimowy produkt. samizdat 2.0 to współczesna struktura dla książek ukończonych przez autora, którym nadano fizyczną formę poza przemysłowym łańcuchem wydawniczym i które trafiają bezpośrednio do czytelników. Każde wydanie pozostaje połączone ze swoim źródłem poprzez stały publiczny paszport. Dlaczego teraz publikować jest łatwo; zachować obecność — nie Klasyczny samizdat pojawił się tam, gdzie tekst nie mógł przejść przez oficjalne kanały. Dziś techniczna publikacja stała się niemal powszechnie dostępna: plik można wydać natychmiast, książkę wydrukować na żądanie, a tekst rozpowszechniać bez pytania o zgodę. Ta wolność przynosi jednak inną stratę. Fizyczna książka łatwo znika w anonimowym obiegu produktów: zostaje wytworzona, zamówiona, dostarczona i zapomniana
+
+### pl/books/samizdat/monolith/beton/index.html
+
+- lang: pl
+- section: books
+- title: BETON — paszport książki — samizdat 2.0
+- description: Paszport książki BETON, tomu I trylogii MONOLITH, w polskim konturze wydawniczym Ashraellen Samizdat 2.0.
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/beton/
+- H1: BETON
+- H2: O książce | Stały zapis dzieła | Polski kontur wydawniczy | Fizyczne wydanie Samizdat | Relacja z egzemplarzem
+- H3: _missing_
+- suggested keyword seed: beton, samizdat, 2.0, ashraellen, monolith, paszport, books, dzieła, książki, polski, egzemplarzem, fizyczne, kontur, konturze, książce, pdf, polskim, print
+- candidates: przygotowaniu, beton, monolith, pdf, dzieła, print, samizdat, ashraellen, paszport, polski, przyjęty, 2.0, 2537, 283, artefakty, częścią, dzieło, egzemplarza, epub, fizycznego, fizyczny, jednej, jesteśmy, kontur
+
+Excerpt:
+
+> MONOLITH / Tom I BETON Wszyscy jesteśmy częścią jednej ściany. ASHRAELLEN Ukończona powieść i pierwsza część trylogii MONOLITH. Paszport zachowuje tożsamość dzieła, zatwierdzone artefakty wydawnicze oraz oddzielny status przyszłego fizycznego wydania samizdatowego. O książce dzieło ukończone BETON otwiera MONOLITH jako opowieść o człowieku wewnątrz struktury, która z otoczenia staje się warunkiem istnienia. Książka jest samodzielnym dziełem i zarazem pierwszym tomem ustalonej sekwencji BETON → SLUDGE → GAS. Stały zapis dzieła potwierdzone dane Seria MONOLITH Pozycja w serii Tom I Tytuł BETON Podtytuł Wszyscy jesteśmy częścią jednej ściany. Autor ASHRAELLEN Język polski Rodzaj dzieła powieść Status dzieła ukończone Identyfikator obiektu 2026-001B Indeks 6666548A Struktura 4 bloki, 26 rozdziałów, epilog i apokryf Polski kontur wydawniczy przyjęte artefakty Print PDF przyjęty przez autora L
+
+### pl/books/samizdat/monolith/index.html
+
+- lang: pl
+- section: books
+- title: MONOLITH — paszport trylogii — samizdat 2.0
+- description: Paszport autorskiej trylogii MONOLITH: BETON, SLUDGE i GAS w systemie samizdat 2.0 Ashraellen.
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/
+- H1: MONOLITH
+- H2: O trylogii | Kanoniczna kolejność | Książka, seria i egzemplarz
+- H3: BETON | SLUDGE | GAS
+- suggested keyword seed: monolith, trylogii, 2.0, paszport, samizdat, ashraellen, beton, books, gas, książka, sludge, autorskiej, egzemplarz, kanoniczna, kolejność, książki, przygotowaniu, sekwencję
+- candidates: paszport, monolith, trylogii, beton, gas, książka, książki, sludge, przygotowaniu, sekwencję, się, 2.0, nie, samizdat, samodzielne, trzy, autorską, autorskiej, dzieło, egzemplarz, kolejność, przez, serii, własny
+
+Excerpt:
+
+> Paszport serii / samizdat 2.0 MONOLITH Trylogia o materii, która staje się środowiskiem, a następnie znika, pozostawiając człowieka wewnątrz stworzonego przez niego systemu. MONOLITH łączy trzy samodzielne książki w jedną autorską sekwencję. Każda książka otrzymuje własny paszport i własną formę fizyczną; paszport serii zachowuje ich kolejność i więź. O trylogii jedna struktura / trzy samodzielne dzieła BETON, SLUDGE i GAS tworzą sekwencję, w której zmienia się nie tylko stan środowiska, lecz także sposób ludzkiego istnienia w jego obrębie. Serię czyta się w ustalonej kolejności: od formy stałej — przez lepką — ku niewidzialnej. Ten paszport odnosi się do trylogii jako jednej konstrukcji autorskiej. Nie zastępuje paszportów poszczególnych książek i nie zawiera danych konkretnych numerowanych egzemplarzy. Kanoniczna kolejność BETON → SLUDGE → GAS I BETON Beton Pierwsza książka trylogii. D
 
 ### pl/books/samizdat/order/index.html
 

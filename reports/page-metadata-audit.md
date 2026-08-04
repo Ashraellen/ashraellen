@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-04T11:27:14.026Z
+Generated: 2026-08-04T11:33:27.980Z
 
-Pages checked: 634
-Pages with issues: 117
-Total issues: 468
+Pages checked: 636
+Pages with issues: 119
+Total issues: 482
 Pages with review notes: 592
 Total review notes: 2126
 
@@ -12,14 +12,14 @@ Total review notes: 2126
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 58 |
-| MISSING_TWITTER_IMAGE | 58 |
+| MISSING_KEYWORDS | 60 |
+| MISSING_TWITTER_IMAGE | 60 |
 | DUPLICATE_KEYWORDS | 48 |
-| MISSING_TWITTER_CARD | 44 |
-| MISSING_JSON_LD | 39 |
-| MISSING_OG_DESCRIPTION | 39 |
-| MISSING_OG_IMAGE | 38 |
-| MISSING_OG_TITLE | 37 |
+| MISSING_TWITTER_CARD | 46 |
+| MISSING_JSON_LD | 41 |
+| MISSING_OG_DESCRIPTION | 41 |
+| MISSING_OG_IMAGE | 40 |
+| MISSING_OG_TITLE | 39 |
 | DUPLICATE_TITLE | 36 |
 | DUPLICATE_OG_TITLE | 34 |
 | MISSING_DESCRIPTION | 13 |
@@ -990,6 +990,38 @@ Total review notes: 2126
 - title: samizdat 2.0 — autorskie wydania Ashraellen
 - description length: 125
 - canonical: https://www.ashraellen.com/pl/books/samizdat/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### pl/books/samizdat/monolith/beton/index.html
+
+- title: BETON — paszport książki — samizdat 2.0
+- description length: 105
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/beton/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### pl/books/samizdat/monolith/index.html
+
+- title: MONOLITH — paszport trylogii — samizdat 2.0
+- description length: 94
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/
 - og:image: _missing_
 - twitter:image: _missing_
 
