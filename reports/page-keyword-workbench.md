@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-04T11:33:28.593Z
+Generated: 2026-08-04T11:34:38.073Z
 Pages: 637
 
 ## Index
@@ -6761,7 +6761,7 @@ Excerpt:
 - H2: Dlaczego teraz | Czym to jest | Jak to działa | Numeracja bez nadzoru | Paszport QR | Książka, która ma wędrować | Książki w samizdacie 2.0
 - H3: Ukończone wydanie autorskie | Poza przemysłowym łańcuchem | Jeden egzemplarz — jeden przedmiot | Stały publiczny paszport
 - suggested keyword seed: 2.0, samizdat, ashraellen, autorskie, wydania, bez, books, książka, autora, bezpośrednie, czym, dlaczego, działa, egzemplarz, egzemplarze, fizyczne, jeden, książek
-- candidates: nie, samizdat, wydania, 2.0, książka, może, bez, egzemplarz, się, autora, autorskie, jeden, publiczny, język, książki, numer, przez, czytelnik, fizyczna, fizyczną, formę, jego, kod, książek
+- candidates: nie, samizdat, wydania, 2.0, książka, może, bez, egzemplarz, się, autora, autorskie, jeden, publiczny, język, książki, numer, paszport, przez, autorskiej, czytelnik, fizyczna, fizyczną, formę, jego
 
 Excerpt:
 
