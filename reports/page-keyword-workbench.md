@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-04T15:21:15.526Z
+Generated: 2026-08-04T15:43:41.042Z
 Pages: 704
 
 ## Index
@@ -526,7 +526,7 @@ Pages: 704
 | ru/books/radiance/index.html | ru | books | Ashraellen — Сияние \| Северные сказания о настоящей истории мира | ashraellen, books, radiance, сияние, северные, сказания, настоящей, истории, мира, литературно-философский, художественно-исследовательский, цикл, том, древние, сохраняют, образные, инструкции, миру | сияние, истории, ashraellen, books, древние, инструкции, литературно-философский, цикл, цикла, radiance, важно, инструкций, карта, книга, книги, кого, мира, миру |
 | ru/books/radiance/sampo/index.html | ru | books | Ashraellen — Сампо \| Сияние, книга I | ashraellen, books, radiance, sampo, сампо, сияние, книга, первая, цикла, северное, литературно-философское, сказание, изобилии, владении, участии, мире, где, миф | сампо, ashraellen, books, книга, сияние, radiance, sampo, без, было, владении, где, глава, его, ещё, избранная, издателей, издательский, изобилии |
 | ru/books/radiance/song/index.html | ru | books | Ashraellen — Песня \| Сияние, книга II | ashraellen, books, radiance, song, песня, сияние, книга, вторая, цикла, расширенная, презентационная, страница, романа, звуке, слышании, языке, варшаве, песне | песня, ashraellen, books, без, книга, сияние, radiance, song, айла, был, была, было, варшаве, вторая, глава, звуке, избранная, издателей |
-| ru/books/samizdat/demotopia/copies/as2-demotopia-ru-0001/index.html | ru | books | AS2-DEMOTOPIA-RU-0001 — паспорт экземпляра Demotopia | _missing_ | demotopia, экземпляра, as2-demotopia-ru-0001, паспорт, 2.0, books, самиздат, 0001, as2, ashraellen, copies, samizdat, адрес, записи, запись, или, история, книги |
+| ru/books/samizdat/demotopia/copies/as2-demotopia-ru-0001/index.html | ru | books | AS2-DEMOTOPIA-RU-0001 — паспорт экземпляра Demotopia | _missing_ | demotopia, экземпляра, as2-demotopia-ru-0001, паспорт, 2.0, books, самиздат, 0001, as2, ashraellen, copies, samizdat, адрес, записи, запись, зачем, или, история |
 | ru/books/samizdat/demotopia/copies/as2-demotopia-ru-0001/report/index.html | ru | books | Сообщить о получении AS2-DEMOTOPIA-RU-0001 — самиздат 2.0 | _missing_ | получении, as2-demotopia-ru-0001, demotopia, books, опубликовать, сообщить, экземпляра, 2.0, as2, ashraellen, copies, report, samizdat, город, или, имя, история, можно |
 | ru/books/samizdat/demotopia/copies/as2-demotopia-ru-0001/report/received/index.html | ru | books | Сообщение получено — AS2-DEMOTOPIA-RU-0001 | _missing_ | получено, сообщение, as2-demotopia-ru-0001, books, demotopia, дальше, 2.0, as2, ashraellen, copies, received, report, samizdat, автоматически, будет, быть, вами, выбранным |
 | ru/books/samizdat/demotopia/index.html | ru | books | Demotopia — Паспорт книги — самиздат 2.0 | _missing_ | demotopia, паспорт, 2.0, ashraellen, самиздат, 2026, books, издание, книги, экземпляр, samizdat, автора, автором, авторский, авторского, варшава, запросить, издания |
@@ -9545,9 +9545,9 @@ Excerpt:
 - description: Рабочий русский паспорт экземпляра Demotopia AS2-DEMOTOPIA-RU-0001 в системе самиздат 2.0.
 - canonical: https://www.ashraellen.com/ru/books/samizdat/demotopia/copies/as2-demotopia-ru-0001/
 - H1: Demotopia
-- H2: Экземпляр 0001 | Статус экземпляра | Получатель и приватность | История экземпляра | Сообщить о получении | Что подтверждает этот паспорт | Постоянный адрес | AS2-DEMOTOPIA-RU-0001
+- H2: Экземпляр 0001 | Статус экземпляра | Получатель и приватность | История экземпляра | Сообщить о получении | Зачем нужен этот паспорт | Постоянный адрес | AS2-DEMOTOPIA-RU-0001
 - H3: Получатель
-- suggested keyword seed: demotopia, экземпляра, as2-demotopia-ru-0001, паспорт, 2.0, books, самиздат, 0001, as2, ashraellen, copies, samizdat, адрес, записи, запись, или, история, книги
+- suggested keyword seed: demotopia, экземпляра, as2-demotopia-ru-0001, паспорт, 2.0, books, самиздат, 0001, as2, ashraellen, copies, samizdat, адрес, записи, запись, зачем, или, история
 - candidates: экземпляра, паспорт, demotopia, as2-demotopia-ru-0001, записи, книги, один, 2.0, или, самиздат, запись, паспорте, постоянный, сообщить, экземпляр, 0001, 2026, qr-код, авторского, адрес, быть, владельца, внутри, демократичная
 
 Excerpt:
