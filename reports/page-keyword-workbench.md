@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-04T12:23:05.268Z
-Pages: 639
+Generated: 2026-08-04T12:34:05.152Z
+Pages: 697
 
 ## Index
 
@@ -155,6 +155,16 @@ Pages: 639
 | en/books/radiance/song/index.html | en | books | Ashraellen — Song \| Radiance, Book II | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | song, about, book, radiance, ashraellen, books, language, sound, artistic-research, ayla, become, chapter, cultural, does, extended, featured, foundations, frame |
 | en/books/samizdat/demotopia/index.html | en | books | Demotopia — Book Passport — samizdat 2.0 | _missing_ | demotopia, book, passport, samizdat, 2.0, author-issued, edition, about, ashraellen, books, copy, physical, author, democratic, permanent, request, system |
 | en/books/samizdat/index.html | en | books | samizdat 2.0 — Ashraellen author editions | Ashraellen, samizdat 2.0, author editions, numbered books, signed copies, book passports, direct publishing | samizdat, 2.0, books, ashraellen, book, author, editions, how, now, physical, why, without, author-issued, belong, completed, copies, copy, direct |
+| en/books/samizdat/monolith/beton/copies/as2-beton-en-0001/index.html | en | books | AS2-BETON-EN-0001 — BETON copy passport | _missing_ | beton, as2-beton-en-0001, copy, passport, books, english, physical, 2.0, as2, ashraellen, copies, holder, information, monolith, permanent, print, published, registered |
+| en/books/samizdat/monolith/beton/copies/as2-beton-en-0002/index.html | en | books | AS2-BETON-EN-0002 — BETON copy passport | _missing_ | beton, as2-beton-en-0002, books, copy, passport, 2.0, 295, accepted, all, as2, ashraellen, authenticity, copies, english, holder, monolith, print, samizdat |
+| en/books/samizdat/monolith/beton/copies/as2-beton-en-0003/index.html | en | books | AS2-BETON-EN-0003 — BETON copy passport | _missing_ | beton, as2-beton-en-0003, books, copy, passport, 2.0, 295, accepted, all, as2, ashraellen, authenticity, copies, english, holder, monolith, print, samizdat |
+| en/books/samizdat/monolith/beton/copies/as2-beton-en-0004/index.html | en | books | AS2-BETON-EN-0004 — BETON copy passport | _missing_ | beton, as2-beton-en-0004, books, copy, passport, 2.0, 295, accepted, all, as2, ashraellen, authenticity, copies, english, holder, monolith, print, samizdat |
+| en/books/samizdat/monolith/beton/copies/as2-beton-en-0005/index.html | en | books | AS2-BETON-EN-0005 — BETON copy passport | _missing_ | beton, as2-beton-en-0005, books, copy, passport, 2.0, 295, accepted, all, as2, ashraellen, authenticity, copies, english, holder, monolith, print, samizdat |
+| en/books/samizdat/monolith/beton/copies/as2-beton-en-0006/index.html | en | books | AS2-BETON-EN-0006 — BETON copy passport | _missing_ | beton, as2-beton-en-0006, books, copy, passport, 2.0, 295, accepted, all, as2, ashraellen, authenticity, copies, english, holder, monolith, print, samizdat |
+| en/books/samizdat/monolith/beton/copies/as2-beton-en-0007/index.html | en | books | AS2-BETON-EN-0007 — BETON copy passport | _missing_ | beton, as2-beton-en-0007, books, copy, passport, 2.0, 295, accepted, all, as2, ashraellen, authenticity, copies, english, holder, monolith, print, samizdat |
+| en/books/samizdat/monolith/beton/copies/as2-beton-en-0008/index.html | en | books | AS2-BETON-EN-0008 — BETON copy passport | _missing_ | beton, as2-beton-en-0008, books, copy, passport, 2.0, 295, accepted, all, as2, ashraellen, authenticity, copies, english, holder, monolith, print, samizdat |
+| en/books/samizdat/monolith/beton/copies/as2-beton-en-0009/index.html | en | books | AS2-BETON-EN-0009 — BETON copy passport | _missing_ | beton, as2-beton-en-0009, books, copy, passport, 2.0, 295, accepted, all, as2, ashraellen, authenticity, copies, english, holder, monolith, print, samizdat |
+| en/books/samizdat/monolith/beton/copies/as2-beton-en-0010/index.html | en | books | AS2-BETON-EN-0010 — BETON copy passport | _missing_ | beton, as2-beton-en-0010, books, copy, passport, 2.0, 295, accepted, all, as2, ashraellen, authenticity, copies, english, holder, monolith, print, samizdat |
 | en/books/samizdat/monolith/beton/index.html | en | books | BETON — book passport — samizdat 2.0 | _missing_ | beton, edition, monolith, samizdat, ashraellen, book, books, english, passport, public, 2.0, accepted, canonical, identity, information, pdf, physical, preparation |
 | en/books/samizdat/monolith/index.html | en | books | MONOLITH — trilogy passport — samizdat 2.0 | _missing_ | monolith, trilogy, 2.0, passport, samizdat, ashraellen, beton, books, gas, sequence, sludge, about, book, canonical, edition, form, independent, information |
 | en/books/samizdat/order/index.html | en | books | Request a samizdat 2.0 copy — Ashraellen | _missing_ | request, copy, 2.0, samizdat, ashraellen, author-issued, book, books, delivery, language, preparation, address, any, confirmation, estimate, order, payment, project |
@@ -367,6 +377,16 @@ Pages: 639
 | pl/books/radiance/song/index.html | pl | books | Ashraellen — Pieśń \| Blask, Księga II | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | pieśń, ashraellen, bez, blask, books, nie, się, ale, artystycznych, ayla, badań, być, był, była, było, druga, dźwięku, fundacji |
 | pl/books/samizdat/demotopia/index.html | pl | books | Demotopia — Paszport książki — samizdat 2.0 | _missing_ | demotopia, paszport, samizdat, 2.0, 2026, ashraellen, books, egzemplarz, książki, wydanie, autora, autorski, autorskiego, demotopii, fizyczne, fizycznego, książce, może |
 | pl/books/samizdat/index.html | pl | books | samizdat 2.0 — autorskie wydania Ashraellen | _missing_ | 2.0, samizdat, ashraellen, autorskie, wydania, bez, books, książka, autora, bezpośrednie, czym, dlaczego, działa, egzemplarz, egzemplarze, fizyczne, jeden, książek |
+| pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0001/index.html | pl | books | AS2-BETON-PL-0001 — paszport egzemplarza BETON | _missing_ | beton, as2-beton-pl-0001, egzemplarza, paszport, books, fizycznego, 2.0, 283, as2, ashraellen, copies, monolith, nie, polski, polskiego, posiadacza, samizdat, stały |
+| pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0002/index.html | pl | books | AS2-BETON-PL-0002 — paszport egzemplarza BETON | _missing_ | beton, as2-beton-pl-0002, books, egzemplarza, paszport, 2.0, 283, as2, ashraellen, autentyczności, copies, częścią, dane, dobrowolna, monolith, nie, polski, samizdat |
+| pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0003/index.html | pl | books | AS2-BETON-PL-0003 — paszport egzemplarza BETON | _missing_ | beton, as2-beton-pl-0003, books, egzemplarza, paszport, 2.0, 283, as2, ashraellen, autentyczności, copies, częścią, dane, dobrowolna, monolith, nie, polski, samizdat |
+| pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0004/index.html | pl | books | AS2-BETON-PL-0004 — paszport egzemplarza BETON | _missing_ | beton, as2-beton-pl-0004, books, egzemplarza, paszport, 2.0, 283, as2, ashraellen, autentyczności, copies, częścią, dane, dobrowolna, monolith, nie, polski, samizdat |
+| pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0005/index.html | pl | books | AS2-BETON-PL-0005 — paszport egzemplarza BETON | _missing_ | beton, as2-beton-pl-0005, books, egzemplarza, paszport, 2.0, 283, as2, ashraellen, autentyczności, copies, częścią, dane, dobrowolna, monolith, nie, polski, samizdat |
+| pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0006/index.html | pl | books | AS2-BETON-PL-0006 — paszport egzemplarza BETON | _missing_ | beton, as2-beton-pl-0006, books, egzemplarza, paszport, 2.0, 283, as2, ashraellen, autentyczności, copies, częścią, dane, dobrowolna, monolith, nie, polski, samizdat |
+| pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0007/index.html | pl | books | AS2-BETON-PL-0007 — paszport egzemplarza BETON | _missing_ | beton, as2-beton-pl-0007, books, egzemplarza, paszport, 2.0, 283, as2, ashraellen, autentyczności, copies, częścią, dane, dobrowolna, monolith, nie, polski, samizdat |
+| pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0008/index.html | pl | books | AS2-BETON-PL-0008 — paszport egzemplarza BETON | _missing_ | beton, as2-beton-pl-0008, books, egzemplarza, paszport, 2.0, 283, as2, ashraellen, autentyczności, copies, częścią, dane, dobrowolna, monolith, nie, polski, samizdat |
+| pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0009/index.html | pl | books | AS2-BETON-PL-0009 — paszport egzemplarza BETON | _missing_ | beton, as2-beton-pl-0009, books, egzemplarza, paszport, 2.0, 283, as2, ashraellen, autentyczności, copies, częścią, dane, dobrowolna, monolith, nie, polski, samizdat |
+| pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0010/index.html | pl | books | AS2-BETON-PL-0010 — paszport egzemplarza BETON | _missing_ | beton, as2-beton-pl-0010, books, egzemplarza, paszport, 2.0, 283, as2, ashraellen, autentyczności, copies, częścią, dane, dobrowolna, monolith, nie, polski, samizdat |
 | pl/books/samizdat/monolith/beton/index.html | pl | books | BETON — paszport książki — samizdat 2.0 | _missing_ | beton, samizdat, 2.0, ashraellen, monolith, paszport, books, dzieła, książki, polski, egzemplarzem, fizyczne, kontur, konturze, książce, pdf, polskim, print |
 | pl/books/samizdat/monolith/index.html | pl | books | MONOLITH — paszport trylogii — samizdat 2.0 | _missing_ | monolith, trylogii, 2.0, paszport, samizdat, ashraellen, beton, books, gas, książka, sludge, autorskiej, egzemplarz, kanoniczna, kolejność, książki, przygotowaniu, sekwencję |
 | pl/books/samizdat/order/index.html | pl | books | Poproś o egzemplarz samizdatu 2.0 — Ashraellen | _missing_ | egzemplarz, 2.0, ashraellen, books, egzemplarza, języku, poproś, samizdatu, adres, autorskiego, czas, czytelnikowi, dostawa, dostawy, dowolnym, koszt, książka, książki |
@@ -506,7 +526,16 @@ Pages: 639
 | ru/books/radiance/song/index.html | ru | books | Ashraellen — Песня \| Сияние, книга II | ashraellen, books, radiance, song, песня, сияние, книга, вторая, цикла, расширенная, презентационная, страница, романа, звуке, слышании, языке, варшаве, песне | песня, ashraellen, books, без, книга, сияние, radiance, song, айла, был, была, было, варшаве, вторая, глава, звуке, избранная, издателей |
 | ru/books/samizdat/demotopia/index.html | ru | books | Demotopia — Паспорт книги — самиздат 2.0 | _missing_ | demotopia, паспорт, 2.0, ashraellen, самиздат, 2026, books, издание, книги, экземпляр, samizdat, автора, автором, авторский, авторского, варшава, запросить, издания |
 | ru/books/samizdat/index.html | ru | books | самиздат 2.0 — авторские издания Ashraellen | _missing_ | 2.0, самиздат, ashraellen, авторские, издания, books, без, книг, книга, книги, qr-паспорт, samizdat, автором, которой, может, нумерация, нумерованные, один |
-| ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0001/index.html | ru | books | AS2-BETON-RU-0001 — паспорт экземпляра БЕТОН | _missing_ | бетон, экземпляра, ashraellen, паспорт, 2.0, as2-beton-ru-0001, beton, books, samizdat, владельца, запись, as2, copies, monolith, дата, история, первого, передан |
+| ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0001/index.html | ru | books | AS2-BETON-RU-0001 — паспорт экземпляра БЕТОН | _missing_ | бетон, экземпляра, as2-beton-ru-0001, паспорт, ashraellen, beton, books, физического, 2.0, 296, as2, copies, monolith, samizdat, бумага, владелец, владельца, запись |
+| ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0002/index.html | ru | books | AS2-BETON-RU-0002 — паспорт экземпляра БЕТОН | _missing_ | бетон, экземпляра, as2-beton-ru-0002, паспорт, ashraellen, beton, books, владелец, физического, 2.0, 296, as2, copies, monolith, samizdat, бумага, запись, зарегистрирован |
+| ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0003/index.html | ru | books | AS2-BETON-RU-0003 — паспорт экземпляра БЕТОН | _missing_ | бетон, as2-beton-ru-0003, паспорт, экземпляра, ashraellen, beton, books, физического, 2.0, 296, as2, copies, monolith, samizdat, бумага, владелец, владельца, зарегистрирован |
+| ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0004/index.html | ru | books | AS2-BETON-RU-0004 — паспорт экземпляра БЕТОН | _missing_ | бетон, as2-beton-ru-0004, beton, books, паспорт, экземпляра, 296, as2, ashraellen, copies, monolith, samizdat, бумага, владелец, владельца, все, добровольна, зарегистрирован |
+| ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0005/index.html | ru | books | AS2-BETON-RU-0005 — паспорт экземпляра БЕТОН | _missing_ | бетон, as2-beton-ru-0005, beton, books, паспорт, экземпляра, 296, as2, ashraellen, copies, monolith, samizdat, бумага, владелец, владельца, все, добровольна, зарегистрирован |
+| ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0006/index.html | ru | books | AS2-BETON-RU-0006 — паспорт экземпляра БЕТОН | _missing_ | бетон, as2-beton-ru-0006, beton, books, паспорт, экземпляра, 296, as2, ashraellen, copies, monolith, samizdat, бумага, владелец, владельца, все, добровольна, зарегистрирован |
+| ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0007/index.html | ru | books | AS2-BETON-RU-0007 — паспорт экземпляра БЕТОН | _missing_ | бетон, as2-beton-ru-0007, beton, books, паспорт, экземпляра, 296, as2, ashraellen, copies, monolith, samizdat, бумага, владелец, владельца, все, добровольна, зарегистрирован |
+| ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0008/index.html | ru | books | AS2-BETON-RU-0008 — паспорт экземпляра БЕТОН | _missing_ | бетон, as2-beton-ru-0008, beton, books, паспорт, экземпляра, 296, as2, ashraellen, copies, monolith, samizdat, бумага, владелец, владельца, все, добровольна, зарегистрирован |
+| ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0009/index.html | ru | books | AS2-BETON-RU-0009 — паспорт экземпляра БЕТОН | _missing_ | бетон, as2-beton-ru-0009, beton, books, паспорт, экземпляра, 296, as2, ashraellen, copies, monolith, samizdat, бумага, владелец, владельца, все, добровольна, зарегистрирован |
+| ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0010/index.html | ru | books | AS2-BETON-RU-0010 — паспорт экземпляра БЕТОН | _missing_ | бетон, as2-beton-ru-0010, beton, books, паспорт, экземпляра, 296, as2, ashraellen, copies, monolith, samizdat, бумага, владелец, владельца, все, добровольна, зарегистрирован |
 | ru/books/samizdat/monolith/beton/index.html | ru | books | БЕТОН — паспорт книги — самиздат 2.0 | _missing_ | samizdat, бетон, 2.0, ashraellen, паспорт, books, готовится, запись, монолит, произведения, том, beton, monolith, дата, запросить, изготовления, издание, издании |
 | ru/books/samizdat/monolith/index.html | ru | books | MONOLITH — паспорт трилогии — самиздат 2.0 | _missing_ | monolith, трилогии, 2.0, паспорт, ashraellen, beton, books, gas, sludge, авторской, книга, последовательность, самиздат, samizdat, готовится, запросить, издании, каноническая |
 | ru/books/samizdat/order/index.html | ru | books | Запросить экземпляр самиздата 2.0 — Ashraellen | _missing_ | экземпляр, 2.0, запрос, запросить, ashraellen, books, самиздата, экземпляра, order, samizdat, авторского, адрес, выберите, доставка, доставки, книга, книги, любом |
@@ -573,7 +602,36 @@ Pages: 639
 | ru/research/position/index.html | ru | research | Ashraellen — Position — Russian | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, ru, research, position | position, ashraellen, research, внутренний, исследователь, модели, наблюдения, независимый, описания, опыт, опыты, поле, работаю, russian, рассматривая, реальность, религии, сама |
 | ru/research/projects/index.html | ru | research | Ashraellen — Проекты исследования | ashraellen, research, projects, проекты, исследования, карта, рабочих, полей, монолит, основной, канал, публичное, поле, сатирические, боковые, лаборатории, восприятия, instagram | ashraellen, проекты, research, telegram, боковые, канал, лаборатории, монолит, поле, church, inner, instagram, melodies, occultus, projects, saint, scriptorium, sounds |
 | ru/research/sources/index.html | ru | research | Ashraellen — Источники и традиция | ashraellen, research, sources, источники, традиция, феноменология, сознания, тело, нарратив, когнитивная, наука, художественная, практика, методологические, линии, исследования, эдмунд, гуссерль | ashraellen, источники, тело, традиция, форма, research, варела, исследования, опыт, сознание, сознания, феноменология, sources, взаимодействие, восприятия, где, готовых, гуссерль |
+| samizdat/copies/as2-beton-en-0001/index.html | root | samizdat | AS2-BETON-EN-0001 | _missing_ | as2-beton-en-0001, samizdat, as2, ashraellen, beton, copies |
+| samizdat/copies/as2-beton-en-0002/index.html | root | samizdat | AS2-BETON-EN-0002 | _missing_ | as2-beton-en-0002, samizdat, as2, ashraellen, beton, copies |
+| samizdat/copies/as2-beton-en-0003/index.html | root | samizdat | AS2-BETON-EN-0003 | _missing_ | as2-beton-en-0003, samizdat, as2, ashraellen, beton, copies |
+| samizdat/copies/as2-beton-en-0004/index.html | root | samizdat | AS2-BETON-EN-0004 | _missing_ | as2-beton-en-0004, samizdat, as2, ashraellen, beton, copies |
+| samizdat/copies/as2-beton-en-0005/index.html | root | samizdat | AS2-BETON-EN-0005 | _missing_ | as2-beton-en-0005, samizdat, as2, ashraellen, beton, copies |
+| samizdat/copies/as2-beton-en-0006/index.html | root | samizdat | AS2-BETON-EN-0006 | _missing_ | as2-beton-en-0006, samizdat, as2, ashraellen, beton, copies |
+| samizdat/copies/as2-beton-en-0007/index.html | root | samizdat | AS2-BETON-EN-0007 | _missing_ | as2-beton-en-0007, samizdat, as2, ashraellen, beton, copies |
+| samizdat/copies/as2-beton-en-0008/index.html | root | samizdat | AS2-BETON-EN-0008 | _missing_ | as2-beton-en-0008, samizdat, as2, ashraellen, beton, copies |
+| samizdat/copies/as2-beton-en-0009/index.html | root | samizdat | AS2-BETON-EN-0009 | _missing_ | as2-beton-en-0009, samizdat, as2, ashraellen, beton, copies |
+| samizdat/copies/as2-beton-en-0010/index.html | root | samizdat | AS2-BETON-EN-0010 | _missing_ | as2-beton-en-0010, samizdat, as2, ashraellen, beton, copies |
+| samizdat/copies/as2-beton-pl-0001/index.html | root | samizdat | AS2-BETON-PL-0001 | _missing_ | as2-beton-pl-0001, samizdat, as2, ashraellen, beton, copies |
+| samizdat/copies/as2-beton-pl-0002/index.html | root | samizdat | AS2-BETON-PL-0002 | _missing_ | as2-beton-pl-0002, samizdat, as2, ashraellen, beton, copies |
+| samizdat/copies/as2-beton-pl-0003/index.html | root | samizdat | AS2-BETON-PL-0003 | _missing_ | as2-beton-pl-0003, samizdat, as2, ashraellen, beton, copies |
+| samizdat/copies/as2-beton-pl-0004/index.html | root | samizdat | AS2-BETON-PL-0004 | _missing_ | as2-beton-pl-0004, samizdat, as2, ashraellen, beton, copies |
+| samizdat/copies/as2-beton-pl-0005/index.html | root | samizdat | AS2-BETON-PL-0005 | _missing_ | as2-beton-pl-0005, samizdat, as2, ashraellen, beton, copies |
+| samizdat/copies/as2-beton-pl-0006/index.html | root | samizdat | AS2-BETON-PL-0006 | _missing_ | as2-beton-pl-0006, samizdat, as2, ashraellen, beton, copies |
+| samizdat/copies/as2-beton-pl-0007/index.html | root | samizdat | AS2-BETON-PL-0007 | _missing_ | as2-beton-pl-0007, samizdat, as2, ashraellen, beton, copies |
+| samizdat/copies/as2-beton-pl-0008/index.html | root | samizdat | AS2-BETON-PL-0008 | _missing_ | as2-beton-pl-0008, samizdat, as2, ashraellen, beton, copies |
+| samizdat/copies/as2-beton-pl-0009/index.html | root | samizdat | AS2-BETON-PL-0009 | _missing_ | as2-beton-pl-0009, samizdat, as2, ashraellen, beton, copies |
+| samizdat/copies/as2-beton-pl-0010/index.html | root | samizdat | AS2-BETON-PL-0010 | _missing_ | as2-beton-pl-0010, samizdat, as2, ashraellen, beton, copies |
 | samizdat/copies/as2-beton-ru-0001/index.html | root | samizdat | AS2-BETON-RU-0001 | _missing_ | as2-beton-ru-0001, samizdat, as2, ashraellen, beton, copies, открыть, паспорт, экземпляра |
+| samizdat/copies/as2-beton-ru-0002/index.html | root | samizdat | AS2-BETON-RU-0002 | _missing_ | as2-beton-ru-0002, samizdat, as2, ashraellen, beton, copies, открыть, паспорт, экземпляра |
+| samizdat/copies/as2-beton-ru-0003/index.html | root | samizdat | AS2-BETON-RU-0003 | _missing_ | as2-beton-ru-0003, samizdat, as2, ashraellen, beton, copies, открыть, паспорт |
+| samizdat/copies/as2-beton-ru-0004/index.html | root | samizdat | AS2-BETON-RU-0004 | _missing_ | as2-beton-ru-0004, samizdat, as2, ashraellen, beton, copies |
+| samizdat/copies/as2-beton-ru-0005/index.html | root | samizdat | AS2-BETON-RU-0005 | _missing_ | as2-beton-ru-0005, samizdat, as2, ashraellen, beton, copies |
+| samizdat/copies/as2-beton-ru-0006/index.html | root | samizdat | AS2-BETON-RU-0006 | _missing_ | as2-beton-ru-0006, samizdat, as2, ashraellen, beton, copies |
+| samizdat/copies/as2-beton-ru-0007/index.html | root | samizdat | AS2-BETON-RU-0007 | _missing_ | as2-beton-ru-0007, samizdat, as2, ashraellen, beton, copies |
+| samizdat/copies/as2-beton-ru-0008/index.html | root | samizdat | AS2-BETON-RU-0008 | _missing_ | as2-beton-ru-0008, samizdat, as2, ashraellen, beton, copies |
+| samizdat/copies/as2-beton-ru-0009/index.html | root | samizdat | AS2-BETON-RU-0009 | _missing_ | as2-beton-ru-0009, samizdat, as2, ashraellen, beton, copies |
+| samizdat/copies/as2-beton-ru-0010/index.html | root | samizdat | AS2-BETON-RU-0010 | _missing_ | as2-beton-ru-0010, samizdat, as2, ashraellen, beton, copies |
 | samizdat/demotopia/index.html | root | samizdat | Demotopia — samizdat 2.0 | _missing_ | demotopia, samizdat, 2.0, ashraellen, book, entrance, multilingual, passport, permanent, choose, language |
 | samizdat/index.html | root | samizdat | samizdat 2.0 — Ashraellen | _missing_ | samizdat, 2.0, ashraellen, author, book, editions, entrance, language, passports, author-issued, choose, each, permanent |
 | samizdat/order/index.html | root | samizdat | Redirecting to the samizdat 2.0 order page — Ashraellen | _missing_ | samizdat, ashraellen, order, 2.0, redirecting, continue, english |
@@ -3164,6 +3222,176 @@ Excerpt:
 Excerpt:
 
 > Author-issued physical books / public book passports samizdat 2.0 A book does not have to become an anonymous product in order to become public. samizdat 2.0 is a contemporary structure for books completed by the author, given a physical form outside the industrial publishing chain, and transmitted directly to readers. Each edition remains connected to its origin through a permanent public passport. Why now publication is easy; presence is not Classical samizdat appeared where a text could not pass through official channels. Today the technical act of publication has become almost universally available. A file can be released instantly, a book can be printed on demand, and a text can circulate without asking permission. Yet this freedom creates another loss. The physical book is easily absorbed into the same anonymous circulation as every other product: generated, ordered, delivered and 
+
+### en/books/samizdat/monolith/beton/copies/as2-beton-en-0001/index.html
+
+- lang: en
+- section: books
+- title: AS2-BETON-EN-0001 — BETON copy passport
+- description: Permanent passport for the English physical copy of BETON AS2-BETON-EN-0001.
+- canonical: https://www.ashraellen.com/en/books/samizdat/monolith/beton/copies/as2-beton-en-0001/
+- H1: BETON
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: beton, as2-beton-en-0001, copy, passport, books, english, physical, 2.0, as2, ashraellen, copies, holder, information, monolith, permanent, print, published, registered
+- candidates: as2-beton-en-0001, copy, beton, english, holder, passport, physical, information, print, published, registered, 2.0, 295, accepted, all, ashraellen, authenticity, depend, does, edition, extent, identifier, language, master
+
+Excerpt:
+
+> Physical copy passport / samizdat 2.0 BETON We are all part of one wall. MONOLITH · Volume I · ASHRAELLEN AS2-BETON-EN-0001 Registered Identifier AS2-BETON-EN-0001 Physical language English Status Registered Holder Information not published Edition record Accepted English print master Print PDF extent 295 pages Holder registration is voluntary. The authenticity of this copy does not depend on published holder information.
+
+### en/books/samizdat/monolith/beton/copies/as2-beton-en-0002/index.html
+
+- lang: en
+- section: books
+- title: AS2-BETON-EN-0002 — BETON copy passport
+- description: _missing_
+- canonical: https://www.ashraellen.com/en/books/samizdat/monolith/beton/copies/as2-beton-en-0002/
+- H1: BETON
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: beton, as2-beton-en-0002, books, copy, passport, 2.0, 295, accepted, all, as2, ashraellen, authenticity, copies, english, holder, monolith, print, samizdat
+- candidates: as2-beton-en-0002, beton, copy, english, holder, passport, print, 2.0, 295, accepted, all, authenticity, condition, edition, extent, identifier, information, language, master, one, pages, part, pdf, physical
+
+Excerpt:
+
+> Physical copy passport / samizdat 2.0 BETON We are all part of one wall. AS2-BETON-EN-0002 Registered Identifier AS2-BETON-EN-0002 Language English Holder Information not published Edition record Accepted English print master Print PDF extent 295 pages Holder registration is voluntary and is not a condition of authenticity.
+
+### en/books/samizdat/monolith/beton/copies/as2-beton-en-0003/index.html
+
+- lang: en
+- section: books
+- title: AS2-BETON-EN-0003 — BETON copy passport
+- description: _missing_
+- canonical: https://www.ashraellen.com/en/books/samizdat/monolith/beton/copies/as2-beton-en-0003/
+- H1: BETON
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: beton, as2-beton-en-0003, books, copy, passport, 2.0, 295, accepted, all, as2, ashraellen, authenticity, copies, english, holder, monolith, print, samizdat
+- candidates: as2-beton-en-0003, beton, copy, english, holder, passport, print, 2.0, 295, accepted, all, authenticity, condition, edition, extent, identifier, information, language, master, one, pages, part, pdf, physical
+
+Excerpt:
+
+> Physical copy passport / samizdat 2.0 BETON We are all part of one wall. AS2-BETON-EN-0003 Registered Identifier AS2-BETON-EN-0003 Language English Holder Information not published Edition record Accepted English print master Print PDF extent 295 pages Holder registration is voluntary and is not a condition of authenticity.
+
+### en/books/samizdat/monolith/beton/copies/as2-beton-en-0004/index.html
+
+- lang: en
+- section: books
+- title: AS2-BETON-EN-0004 — BETON copy passport
+- description: _missing_
+- canonical: https://www.ashraellen.com/en/books/samizdat/monolith/beton/copies/as2-beton-en-0004/
+- H1: BETON
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: beton, as2-beton-en-0004, books, copy, passport, 2.0, 295, accepted, all, as2, ashraellen, authenticity, copies, english, holder, monolith, print, samizdat
+- candidates: as2-beton-en-0004, beton, copy, english, holder, passport, print, 2.0, 295, accepted, all, authenticity, condition, edition, extent, identifier, information, language, master, one, pages, part, pdf, physical
+
+Excerpt:
+
+> Physical copy passport / samizdat 2.0 BETON We are all part of one wall. AS2-BETON-EN-0004 Registered Identifier AS2-BETON-EN-0004 Language English Holder Information not published Edition record Accepted English print master Print PDF extent 295 pages Holder registration is voluntary and is not a condition of authenticity.
+
+### en/books/samizdat/monolith/beton/copies/as2-beton-en-0005/index.html
+
+- lang: en
+- section: books
+- title: AS2-BETON-EN-0005 — BETON copy passport
+- description: _missing_
+- canonical: https://www.ashraellen.com/en/books/samizdat/monolith/beton/copies/as2-beton-en-0005/
+- H1: BETON
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: beton, as2-beton-en-0005, books, copy, passport, 2.0, 295, accepted, all, as2, ashraellen, authenticity, copies, english, holder, monolith, print, samizdat
+- candidates: as2-beton-en-0005, beton, copy, english, holder, passport, print, 2.0, 295, accepted, all, authenticity, condition, edition, extent, identifier, information, language, master, one, pages, part, pdf, physical
+
+Excerpt:
+
+> Physical copy passport / samizdat 2.0 BETON We are all part of one wall. AS2-BETON-EN-0005 Registered Identifier AS2-BETON-EN-0005 Language English Holder Information not published Edition record Accepted English print master Print PDF extent 295 pages Holder registration is voluntary and is not a condition of authenticity.
+
+### en/books/samizdat/monolith/beton/copies/as2-beton-en-0006/index.html
+
+- lang: en
+- section: books
+- title: AS2-BETON-EN-0006 — BETON copy passport
+- description: _missing_
+- canonical: https://www.ashraellen.com/en/books/samizdat/monolith/beton/copies/as2-beton-en-0006/
+- H1: BETON
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: beton, as2-beton-en-0006, books, copy, passport, 2.0, 295, accepted, all, as2, ashraellen, authenticity, copies, english, holder, monolith, print, samizdat
+- candidates: as2-beton-en-0006, beton, copy, english, holder, passport, print, 2.0, 295, accepted, all, authenticity, condition, edition, extent, identifier, information, language, master, one, pages, part, pdf, physical
+
+Excerpt:
+
+> Physical copy passport / samizdat 2.0 BETON We are all part of one wall. AS2-BETON-EN-0006 Registered Identifier AS2-BETON-EN-0006 Language English Holder Information not published Edition record Accepted English print master Print PDF extent 295 pages Holder registration is voluntary and is not a condition of authenticity.
+
+### en/books/samizdat/monolith/beton/copies/as2-beton-en-0007/index.html
+
+- lang: en
+- section: books
+- title: AS2-BETON-EN-0007 — BETON copy passport
+- description: _missing_
+- canonical: https://www.ashraellen.com/en/books/samizdat/monolith/beton/copies/as2-beton-en-0007/
+- H1: BETON
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: beton, as2-beton-en-0007, books, copy, passport, 2.0, 295, accepted, all, as2, ashraellen, authenticity, copies, english, holder, monolith, print, samizdat
+- candidates: as2-beton-en-0007, beton, copy, english, holder, passport, print, 2.0, 295, accepted, all, authenticity, condition, edition, extent, identifier, information, language, master, one, pages, part, pdf, physical
+
+Excerpt:
+
+> Physical copy passport / samizdat 2.0 BETON We are all part of one wall. AS2-BETON-EN-0007 Registered Identifier AS2-BETON-EN-0007 Language English Holder Information not published Edition record Accepted English print master Print PDF extent 295 pages Holder registration is voluntary and is not a condition of authenticity.
+
+### en/books/samizdat/monolith/beton/copies/as2-beton-en-0008/index.html
+
+- lang: en
+- section: books
+- title: AS2-BETON-EN-0008 — BETON copy passport
+- description: _missing_
+- canonical: https://www.ashraellen.com/en/books/samizdat/monolith/beton/copies/as2-beton-en-0008/
+- H1: BETON
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: beton, as2-beton-en-0008, books, copy, passport, 2.0, 295, accepted, all, as2, ashraellen, authenticity, copies, english, holder, monolith, print, samizdat
+- candidates: as2-beton-en-0008, beton, copy, english, holder, passport, print, 2.0, 295, accepted, all, authenticity, condition, edition, extent, identifier, information, language, master, one, pages, part, pdf, physical
+
+Excerpt:
+
+> Physical copy passport / samizdat 2.0 BETON We are all part of one wall. AS2-BETON-EN-0008 Registered Identifier AS2-BETON-EN-0008 Language English Holder Information not published Edition record Accepted English print master Print PDF extent 295 pages Holder registration is voluntary and is not a condition of authenticity.
+
+### en/books/samizdat/monolith/beton/copies/as2-beton-en-0009/index.html
+
+- lang: en
+- section: books
+- title: AS2-BETON-EN-0009 — BETON copy passport
+- description: _missing_
+- canonical: https://www.ashraellen.com/en/books/samizdat/monolith/beton/copies/as2-beton-en-0009/
+- H1: BETON
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: beton, as2-beton-en-0009, books, copy, passport, 2.0, 295, accepted, all, as2, ashraellen, authenticity, copies, english, holder, monolith, print, samizdat
+- candidates: as2-beton-en-0009, beton, copy, english, holder, passport, print, 2.0, 295, accepted, all, authenticity, condition, edition, extent, identifier, information, language, master, one, pages, part, pdf, physical
+
+Excerpt:
+
+> Physical copy passport / samizdat 2.0 BETON We are all part of one wall. AS2-BETON-EN-0009 Registered Identifier AS2-BETON-EN-0009 Language English Holder Information not published Edition record Accepted English print master Print PDF extent 295 pages Holder registration is voluntary and is not a condition of authenticity.
+
+### en/books/samizdat/monolith/beton/copies/as2-beton-en-0010/index.html
+
+- lang: en
+- section: books
+- title: AS2-BETON-EN-0010 — BETON copy passport
+- description: _missing_
+- canonical: https://www.ashraellen.com/en/books/samizdat/monolith/beton/copies/as2-beton-en-0010/
+- H1: BETON
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: beton, as2-beton-en-0010, books, copy, passport, 2.0, 295, accepted, all, as2, ashraellen, authenticity, copies, english, holder, monolith, print, samizdat
+- candidates: as2-beton-en-0010, beton, copy, english, holder, passport, print, 2.0, 295, accepted, all, authenticity, condition, edition, extent, identifier, information, language, master, one, pages, part, pdf, physical
+
+Excerpt:
+
+> Physical copy passport / samizdat 2.0 BETON We are all part of one wall. AS2-BETON-EN-0010 Registered Identifier AS2-BETON-EN-0010 Language English Holder Information not published Edition record Accepted English print master Print PDF extent 295 pages Holder registration is voluntary and is not a condition of authenticity.
 
 ### en/books/samizdat/monolith/beton/index.html
 
@@ -6769,6 +6997,176 @@ Excerpt:
 
 > Autorskie książki fizyczne / publiczne paszporty książek samizdat 2.0 Aby stać się publiczną, książka nie musi zamieniać się w anonimowy produkt. samizdat 2.0 to współczesna struktura dla książek ukończonych przez autora, którym nadano fizyczną formę poza przemysłowym łańcuchem wydawniczym i które trafiają bezpośrednio do czytelników. Każde wydanie pozostaje połączone ze swoim źródłem poprzez stały publiczny paszport. Dlaczego teraz publikować jest łatwo; zachować obecność — nie Klasyczny samizdat pojawił się tam, gdzie tekst nie mógł przejść przez oficjalne kanały. Dziś techniczna publikacja stała się niemal powszechnie dostępna: plik można wydać natychmiast, książkę wydrukować na żądanie, a tekst rozpowszechniać bez pytania o zgodę. Ta wolność przynosi jednak inną stratę. Fizyczna książka łatwo znika w anonimowym obiegu produktów: zostaje wytworzona, zamówiona, dostarczona i zapomniana
 
+### pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0001/index.html
+
+- lang: pl
+- section: books
+- title: AS2-BETON-PL-0001 — paszport egzemplarza BETON
+- description: Stały paszport polskiego fizycznego egzemplarza BETON AS2-BETON-PL-0001.
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0001/
+- H1: BETON
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: beton, as2-beton-pl-0001, egzemplarza, paszport, books, fizycznego, 2.0, 283, as2, ashraellen, copies, monolith, nie, polski, polskiego, posiadacza, samizdat, stały
+- candidates: as2-beton-pl-0001, egzemplarza, beton, fizycznego, paszport, nie, polski, posiadacza, wydania, zarejestrowany, 2.0, 283, ashraellen, autentyczność, częścią, dane, danych, dobrowolna, drukarski, identyfikator, jednej, jesteśmy, język, master
+
+Excerpt:
+
+> Paszport fizycznego egzemplarza / samizdat 2.0 BETON Wszyscy jesteśmy częścią jednej ściany. MONOLITH · Tom I · ASHRAELLEN AS2-BETON-PL-0001 Zarejestrowany Identyfikator AS2-BETON-PL-0001 Język fizycznego wydania Polski Status Zarejestrowany Posiadacz Dane nie zostały opublikowane Podstawa wydania Przyjęty polski master drukarski Objętość print PDF 283 strony Rejestracja posiadacza jest dobrowolna. Autentyczność egzemplarza nie zależy od publikacji danych posiadacza.
+
+### pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0002/index.html
+
+- lang: pl
+- section: books
+- title: AS2-BETON-PL-0002 — paszport egzemplarza BETON
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0002/
+- H1: BETON
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: beton, as2-beton-pl-0002, books, egzemplarza, paszport, 2.0, 283, as2, ashraellen, autentyczności, copies, częścią, dane, dobrowolna, monolith, nie, polski, samizdat
+- candidates: as2-beton-pl-0002, beton, egzemplarza, nie, paszport, polski, 2.0, 283, autentyczności, częścią, dane, dobrowolna, drukarski, fizycznego, identyfikator, jednej, jesteśmy, język, master, objętość, opublikowane, pdf, podstawa, posiadacz
+
+Excerpt:
+
+> Paszport fizycznego egzemplarza / samizdat 2.0 BETON Wszyscy jesteśmy częścią jednej ściany. AS2-BETON-PL-0002 Zarejestrowany Identyfikator AS2-BETON-PL-0002 Język Polski Posiadacz Dane nie zostały opublikowane Podstawa wydania Przyjęty polski master drukarski Objętość print PDF 283 strony Rejestracja posiadacza jest dobrowolna i nie stanowi warunku autentyczności.
+
+### pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0003/index.html
+
+- lang: pl
+- section: books
+- title: AS2-BETON-PL-0003 — paszport egzemplarza BETON
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0003/
+- H1: BETON
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: beton, as2-beton-pl-0003, books, egzemplarza, paszport, 2.0, 283, as2, ashraellen, autentyczności, copies, częścią, dane, dobrowolna, monolith, nie, polski, samizdat
+- candidates: as2-beton-pl-0003, beton, egzemplarza, nie, paszport, polski, 2.0, 283, autentyczności, częścią, dane, dobrowolna, drukarski, fizycznego, identyfikator, jednej, jesteśmy, język, master, objętość, opublikowane, pdf, podstawa, posiadacz
+
+Excerpt:
+
+> Paszport fizycznego egzemplarza / samizdat 2.0 BETON Wszyscy jesteśmy częścią jednej ściany. AS2-BETON-PL-0003 Zarejestrowany Identyfikator AS2-BETON-PL-0003 Język Polski Posiadacz Dane nie zostały opublikowane Podstawa wydania Przyjęty polski master drukarski Objętość print PDF 283 strony Rejestracja posiadacza jest dobrowolna i nie stanowi warunku autentyczności.
+
+### pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0004/index.html
+
+- lang: pl
+- section: books
+- title: AS2-BETON-PL-0004 — paszport egzemplarza BETON
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0004/
+- H1: BETON
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: beton, as2-beton-pl-0004, books, egzemplarza, paszport, 2.0, 283, as2, ashraellen, autentyczności, copies, częścią, dane, dobrowolna, monolith, nie, polski, samizdat
+- candidates: as2-beton-pl-0004, beton, egzemplarza, nie, paszport, polski, 2.0, 283, autentyczności, częścią, dane, dobrowolna, drukarski, fizycznego, identyfikator, jednej, jesteśmy, język, master, objętość, opublikowane, pdf, podstawa, posiadacz
+
+Excerpt:
+
+> Paszport fizycznego egzemplarza / samizdat 2.0 BETON Wszyscy jesteśmy częścią jednej ściany. AS2-BETON-PL-0004 Zarejestrowany Identyfikator AS2-BETON-PL-0004 Język Polski Posiadacz Dane nie zostały opublikowane Podstawa wydania Przyjęty polski master drukarski Objętość print PDF 283 strony Rejestracja posiadacza jest dobrowolna i nie stanowi warunku autentyczności.
+
+### pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0005/index.html
+
+- lang: pl
+- section: books
+- title: AS2-BETON-PL-0005 — paszport egzemplarza BETON
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0005/
+- H1: BETON
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: beton, as2-beton-pl-0005, books, egzemplarza, paszport, 2.0, 283, as2, ashraellen, autentyczności, copies, częścią, dane, dobrowolna, monolith, nie, polski, samizdat
+- candidates: as2-beton-pl-0005, beton, egzemplarza, nie, paszport, polski, 2.0, 283, autentyczności, częścią, dane, dobrowolna, drukarski, fizycznego, identyfikator, jednej, jesteśmy, język, master, objętość, opublikowane, pdf, podstawa, posiadacz
+
+Excerpt:
+
+> Paszport fizycznego egzemplarza / samizdat 2.0 BETON Wszyscy jesteśmy częścią jednej ściany. AS2-BETON-PL-0005 Zarejestrowany Identyfikator AS2-BETON-PL-0005 Język Polski Posiadacz Dane nie zostały opublikowane Podstawa wydania Przyjęty polski master drukarski Objętość print PDF 283 strony Rejestracja posiadacza jest dobrowolna i nie stanowi warunku autentyczności.
+
+### pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0006/index.html
+
+- lang: pl
+- section: books
+- title: AS2-BETON-PL-0006 — paszport egzemplarza BETON
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0006/
+- H1: BETON
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: beton, as2-beton-pl-0006, books, egzemplarza, paszport, 2.0, 283, as2, ashraellen, autentyczności, copies, częścią, dane, dobrowolna, monolith, nie, polski, samizdat
+- candidates: as2-beton-pl-0006, beton, egzemplarza, nie, paszport, polski, 2.0, 283, autentyczności, częścią, dane, dobrowolna, drukarski, fizycznego, identyfikator, jednej, jesteśmy, język, master, objętość, opublikowane, pdf, podstawa, posiadacz
+
+Excerpt:
+
+> Paszport fizycznego egzemplarza / samizdat 2.0 BETON Wszyscy jesteśmy częścią jednej ściany. AS2-BETON-PL-0006 Zarejestrowany Identyfikator AS2-BETON-PL-0006 Język Polski Posiadacz Dane nie zostały opublikowane Podstawa wydania Przyjęty polski master drukarski Objętość print PDF 283 strony Rejestracja posiadacza jest dobrowolna i nie stanowi warunku autentyczności.
+
+### pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0007/index.html
+
+- lang: pl
+- section: books
+- title: AS2-BETON-PL-0007 — paszport egzemplarza BETON
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0007/
+- H1: BETON
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: beton, as2-beton-pl-0007, books, egzemplarza, paszport, 2.0, 283, as2, ashraellen, autentyczności, copies, częścią, dane, dobrowolna, monolith, nie, polski, samizdat
+- candidates: as2-beton-pl-0007, beton, egzemplarza, nie, paszport, polski, 2.0, 283, autentyczności, częścią, dane, dobrowolna, drukarski, fizycznego, identyfikator, jednej, jesteśmy, język, master, objętość, opublikowane, pdf, podstawa, posiadacz
+
+Excerpt:
+
+> Paszport fizycznego egzemplarza / samizdat 2.0 BETON Wszyscy jesteśmy częścią jednej ściany. AS2-BETON-PL-0007 Zarejestrowany Identyfikator AS2-BETON-PL-0007 Język Polski Posiadacz Dane nie zostały opublikowane Podstawa wydania Przyjęty polski master drukarski Objętość print PDF 283 strony Rejestracja posiadacza jest dobrowolna i nie stanowi warunku autentyczności.
+
+### pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0008/index.html
+
+- lang: pl
+- section: books
+- title: AS2-BETON-PL-0008 — paszport egzemplarza BETON
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0008/
+- H1: BETON
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: beton, as2-beton-pl-0008, books, egzemplarza, paszport, 2.0, 283, as2, ashraellen, autentyczności, copies, częścią, dane, dobrowolna, monolith, nie, polski, samizdat
+- candidates: as2-beton-pl-0008, beton, egzemplarza, nie, paszport, polski, 2.0, 283, autentyczności, częścią, dane, dobrowolna, drukarski, fizycznego, identyfikator, jednej, jesteśmy, język, master, objętość, opublikowane, pdf, podstawa, posiadacz
+
+Excerpt:
+
+> Paszport fizycznego egzemplarza / samizdat 2.0 BETON Wszyscy jesteśmy częścią jednej ściany. AS2-BETON-PL-0008 Zarejestrowany Identyfikator AS2-BETON-PL-0008 Język Polski Posiadacz Dane nie zostały opublikowane Podstawa wydania Przyjęty polski master drukarski Objętość print PDF 283 strony Rejestracja posiadacza jest dobrowolna i nie stanowi warunku autentyczności.
+
+### pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0009/index.html
+
+- lang: pl
+- section: books
+- title: AS2-BETON-PL-0009 — paszport egzemplarza BETON
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0009/
+- H1: BETON
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: beton, as2-beton-pl-0009, books, egzemplarza, paszport, 2.0, 283, as2, ashraellen, autentyczności, copies, częścią, dane, dobrowolna, monolith, nie, polski, samizdat
+- candidates: as2-beton-pl-0009, beton, egzemplarza, nie, paszport, polski, 2.0, 283, autentyczności, częścią, dane, dobrowolna, drukarski, fizycznego, identyfikator, jednej, jesteśmy, język, master, objętość, opublikowane, pdf, podstawa, posiadacz
+
+Excerpt:
+
+> Paszport fizycznego egzemplarza / samizdat 2.0 BETON Wszyscy jesteśmy częścią jednej ściany. AS2-BETON-PL-0009 Zarejestrowany Identyfikator AS2-BETON-PL-0009 Język Polski Posiadacz Dane nie zostały opublikowane Podstawa wydania Przyjęty polski master drukarski Objętość print PDF 283 strony Rejestracja posiadacza jest dobrowolna i nie stanowi warunku autentyczności.
+
+### pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0010/index.html
+
+- lang: pl
+- section: books
+- title: AS2-BETON-PL-0010 — paszport egzemplarza BETON
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0010/
+- H1: BETON
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: beton, as2-beton-pl-0010, books, egzemplarza, paszport, 2.0, 283, as2, ashraellen, autentyczności, copies, częścią, dane, dobrowolna, monolith, nie, polski, samizdat
+- candidates: as2-beton-pl-0010, beton, egzemplarza, nie, paszport, polski, 2.0, 283, autentyczności, częścią, dane, dobrowolna, drukarski, fizycznego, identyfikator, jednej, jesteśmy, język, master, objętość, opublikowane, pdf, podstawa, posiadacz
+
+Excerpt:
+
+> Paszport fizycznego egzemplarza / samizdat 2.0 BETON Wszyscy jesteśmy częścią jednej ściany. AS2-BETON-PL-0010 Zarejestrowany Identyfikator AS2-BETON-PL-0010 Język Polski Posiadacz Dane nie zostały opublikowane Podstawa wydania Przyjęty polski master drukarski Objętość print PDF 283 strony Rejestracja posiadacza jest dobrowolna i nie stanowi warunku autentyczności.
+
 ### pl/books/samizdat/monolith/beton/index.html
 
 - lang: pl
@@ -9137,17 +9535,170 @@ Excerpt:
 - lang: ru
 - section: books
 - title: AS2-BETON-RU-0001 — паспорт экземпляра БЕТОН
-- description: Паспорт первого русского физического экземпляра БЕТОН в системе Ashraellen Samizdat 2.0.
+- description: Постоянный паспорт русского физического экземпляра БЕТОН AS2-BETON-RU-0001.
 - canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0001/
 - H1: БЕТОН
-- H2: Запись экземпляра | История | Регистрация владельца | Постоянная запись
-- H3: Изготовление | Передача
-- suggested keyword seed: бетон, экземпляра, ashraellen, паспорт, 2.0, as2-beton-ru-0001, beton, books, samizdat, владельца, запись, as2, copies, monolith, дата, история, первого, передан
-- candidates: бетон, экземпляра, as2-beton-ru-0001, ashraellen, физический, экземпляр, 2.0, владельца, дата, паспорт, передан, получатель, русский, samizdat, запись, зафиксировано, идентификатор, имя, монолит, номер, один, первый, публичная, режим
+- H2: Запись экземпляра | Владелец и приватность
+- H3: _missing_
+- suggested keyword seed: бетон, экземпляра, as2-beton-ru-0001, паспорт, ashraellen, beton, books, физического, 2.0, 296, as2, copies, monolith, samizdat, бумага, владелец, владельца, запись
+- candidates: экземпляра, as2-beton-ru-0001, бетон, паспорт, владельца, передан, получатель, физического, 2.0, 296, ashraellen, бумага, владелец, все, добровольна, запись, идентификатор, имя, монолит, объём, одной, опубликовано, офсетная, переплёт
 
 Excerpt:
 
-> Паспорт физического экземпляра / самиздат 2.0 Активный экземпляр · передан БЕТОН Мы все — часть одной стены МОНОЛИТ · Том I · ASHRAELLEN AS2-BETON-RU-0001 Это первый русский физический экземпляр БЕТОН, зарегистрированный в системе Ashraellen Samizdat 2.0. Запись экземпляра подтверждённые сведения Идентификатор AS2-BETON-RU-0001 Статус Передан Произведение БЕТОН Серия МОНОЛИТ, Том I Автор ASHRAELLEN Физический язык Русский Формат А5 Объём 296 страниц Переплёт Пружинный Бумага Офсетная, 80 г/м² Обложка Текстовая, без изображения Получатель Частный получатель Дата изготовления Не зафиксировано Дата передачи Не зафиксировано История публичная последовательность событий Изготовление Первый русский физический экземпляр БЕТОН завершён и принят автором. Точная дата в реестре не зафиксирована. Передача Экземпляр передан частному получателю. Имя владельца не публикуется. Регистрация владельца добр
+> Паспорт физического экземпляра / самиздат 2.0 БЕТОН Мы все — часть одной стены МОНОЛИТ · Том I · ASHRAELLEN AS2-BETON-RU-0001 Передан Запись экземпляра Идентификатор AS2-BETON-RU-0001 Физический язык Русский Статус Передан Получатель Частный получатель Формат А5 Объём 296 страниц Переплёт Пружинный Бумага Офсетная, 80 г/м² Владелец и приватность Имя владельца не опубликовано. Регистрация владельца добровольна и не является условием подлинности экземпляра. Сообщить сведения об экземпляре →
+
+### ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0002/index.html
+
+- lang: ru
+- section: books
+- title: AS2-BETON-RU-0002 — паспорт экземпляра БЕТОН
+- description: Постоянный паспорт русского физического экземпляра БЕТОН AS2-BETON-RU-0002.
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0002/
+- H1: БЕТОН
+- H2: Запись экземпляра | Владелец и приватность
+- H3: _missing_
+- suggested keyword seed: бетон, экземпляра, as2-beton-ru-0002, паспорт, ashraellen, beton, books, владелец, физического, 2.0, 296, as2, copies, monolith, samizdat, бумага, запись, зарегистрирован
+- candidates: экземпляра, as2-beton-ru-0002, бетон, паспорт, владелец, зарегистрирован, сведения, физического, 2.0, 296, ashraellen, бумага, владельца, влияет, все, добровольна, запись, идентификатор, монолит, объём, одной, опубликованных, опубликованы, отсутствие
+
+Excerpt:
+
+> Паспорт физического экземпляра / самиздат 2.0 БЕТОН Мы все — часть одной стены МОНОЛИТ · Том I · ASHRAELLEN AS2-BETON-RU-0002 Зарегистрирован Запись экземпляра Идентификатор AS2-BETON-RU-0002 Физический язык Русский Статус Зарегистрирован Владелец Сведения не опубликованы Формат А5 Объём 296 страниц Переплёт Пружинный Бумага Офсетная, 80 г/м² Владелец и приватность Регистрация владельца добровольна. Отсутствие опубликованных сведений не влияет на подлинность экземпляра. Сообщить сведения об экземпляре →
+
+### ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0003/index.html
+
+- lang: ru
+- section: books
+- title: AS2-BETON-RU-0003 — паспорт экземпляра БЕТОН
+- description: Постоянный паспорт русского физического экземпляра БЕТОН AS2-BETON-RU-0003.
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0003/
+- H1: БЕТОН
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: бетон, as2-beton-ru-0003, паспорт, экземпляра, ashraellen, beton, books, физического, 2.0, 296, as2, copies, monolith, samizdat, бумага, владелец, владельца, зарегистрирован
+- candidates: as2-beton-ru-0003, экземпляра, бетон, паспорт, зарегистрирован, физического, 2.0, 296, ashraellen, бумага, владелец, владельца, влияет, все, добровольна, идентификатор, монолит, объём, одной, опубликованных, опубликованы, отсутствие, офсетная, переплёт
+
+Excerpt:
+
+> Паспорт физического экземпляра / самиздат 2.0 БЕТОН Мы все — часть одной стены МОНОЛИТ · Том I · ASHRAELLEN AS2-BETON-RU-0003 Зарегистрирован Идентификатор AS2-BETON-RU-0003 Физический язык Русский Статус Зарегистрирован Владелец Сведения не опубликованы Формат А5 Объём 296 страниц Переплёт Пружинный Бумага Офсетная, 80 г/м² Регистрация владельца добровольна. Отсутствие опубликованных сведений не влияет на подлинность экземпляра.
+
+### ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0004/index.html
+
+- lang: ru
+- section: books
+- title: AS2-BETON-RU-0004 — паспорт экземпляра БЕТОН
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0004/
+- H1: БЕТОН
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: бетон, as2-beton-ru-0004, beton, books, паспорт, экземпляра, 296, as2, ashraellen, copies, monolith, samizdat, бумага, владелец, владельца, все, добровольна, зарегистрирован
+- candidates: as2-beton-ru-0004, бетон, паспорт, экземпляра, 296, бумага, владелец, владельца, все, добровольна, зарегистрирован, объём, одной, опубликованы, офсетная, переплёт, подлинности, пружинный, регистрация, русский, сведения, стены, страниц, условием
+
+Excerpt:
+
+> Паспорт физического экземпляра БЕТОН Мы все — часть одной стены AS2-BETON-RU-0004 Зарегистрирован Язык Русский Владелец Сведения не опубликованы Формат А5 Объём 296 страниц Переплёт Пружинный Бумага Офсетная, 80 г/м² Регистрация владельца добровольна и не является условием подлинности.
+
+### ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0005/index.html
+
+- lang: ru
+- section: books
+- title: AS2-BETON-RU-0005 — паспорт экземпляра БЕТОН
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0005/
+- H1: БЕТОН
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: бетон, as2-beton-ru-0005, beton, books, паспорт, экземпляра, 296, as2, ashraellen, copies, monolith, samizdat, бумага, владелец, владельца, все, добровольна, зарегистрирован
+- candidates: as2-beton-ru-0005, бетон, паспорт, экземпляра, 296, бумага, владелец, владельца, все, добровольна, зарегистрирован, объём, одной, опубликованы, офсетная, переплёт, подлинности, пружинный, регистрация, русский, сведения, стены, страниц, условием
+
+Excerpt:
+
+> Паспорт физического экземпляра БЕТОН Мы все — часть одной стены AS2-BETON-RU-0005 Зарегистрирован Язык Русский Владелец Сведения не опубликованы Формат А5 Объём 296 страниц Переплёт Пружинный Бумага Офсетная, 80 г/м² Регистрация владельца добровольна и не является условием подлинности.
+
+### ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0006/index.html
+
+- lang: ru
+- section: books
+- title: AS2-BETON-RU-0006 — паспорт экземпляра БЕТОН
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0006/
+- H1: БЕТОН
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: бетон, as2-beton-ru-0006, beton, books, паспорт, экземпляра, 296, as2, ashraellen, copies, monolith, samizdat, бумага, владелец, владельца, все, добровольна, зарегистрирован
+- candidates: as2-beton-ru-0006, бетон, паспорт, экземпляра, 296, бумага, владелец, владельца, все, добровольна, зарегистрирован, объём, одной, опубликованы, офсетная, переплёт, подлинности, пружинный, регистрация, русский, сведения, стены, страниц, условием
+
+Excerpt:
+
+> Паспорт физического экземпляра БЕТОН Мы все — часть одной стены AS2-BETON-RU-0006 Зарегистрирован Язык Русский Владелец Сведения не опубликованы Формат А5 Объём 296 страниц Переплёт Пружинный Бумага Офсетная, 80 г/м² Регистрация владельца добровольна и не является условием подлинности.
+
+### ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0007/index.html
+
+- lang: ru
+- section: books
+- title: AS2-BETON-RU-0007 — паспорт экземпляра БЕТОН
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0007/
+- H1: БЕТОН
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: бетон, as2-beton-ru-0007, beton, books, паспорт, экземпляра, 296, as2, ashraellen, copies, monolith, samizdat, бумага, владелец, владельца, все, добровольна, зарегистрирован
+- candidates: as2-beton-ru-0007, бетон, паспорт, экземпляра, 296, бумага, владелец, владельца, все, добровольна, зарегистрирован, объём, одной, опубликованы, офсетная, переплёт, подлинности, пружинный, регистрация, русский, сведения, стены, страниц, условием
+
+Excerpt:
+
+> Паспорт физического экземпляра БЕТОН Мы все — часть одной стены AS2-BETON-RU-0007 Зарегистрирован Язык Русский Владелец Сведения не опубликованы Формат А5 Объём 296 страниц Переплёт Пружинный Бумага Офсетная, 80 г/м² Регистрация владельца добровольна и не является условием подлинности.
+
+### ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0008/index.html
+
+- lang: ru
+- section: books
+- title: AS2-BETON-RU-0008 — паспорт экземпляра БЕТОН
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0008/
+- H1: БЕТОН
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: бетон, as2-beton-ru-0008, beton, books, паспорт, экземпляра, 296, as2, ashraellen, copies, monolith, samizdat, бумага, владелец, владельца, все, добровольна, зарегистрирован
+- candidates: as2-beton-ru-0008, бетон, паспорт, экземпляра, 296, бумага, владелец, владельца, все, добровольна, зарегистрирован, объём, одной, опубликованы, офсетная, переплёт, подлинности, пружинный, регистрация, русский, сведения, стены, страниц, условием
+
+Excerpt:
+
+> Паспорт физического экземпляра БЕТОН Мы все — часть одной стены AS2-BETON-RU-0008 Зарегистрирован Язык Русский Владелец Сведения не опубликованы Формат А5 Объём 296 страниц Переплёт Пружинный Бумага Офсетная, 80 г/м² Регистрация владельца добровольна и не является условием подлинности.
+
+### ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0009/index.html
+
+- lang: ru
+- section: books
+- title: AS2-BETON-RU-0009 — паспорт экземпляра БЕТОН
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0009/
+- H1: БЕТОН
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: бетон, as2-beton-ru-0009, beton, books, паспорт, экземпляра, 296, as2, ashraellen, copies, monolith, samizdat, бумага, владелец, владельца, все, добровольна, зарегистрирован
+- candidates: as2-beton-ru-0009, бетон, паспорт, экземпляра, 296, бумага, владелец, владельца, все, добровольна, зарегистрирован, объём, одной, опубликованы, офсетная, переплёт, подлинности, пружинный, регистрация, русский, сведения, стены, страниц, условием
+
+Excerpt:
+
+> Паспорт физического экземпляра БЕТОН Мы все — часть одной стены AS2-BETON-RU-0009 Зарегистрирован Язык Русский Владелец Сведения не опубликованы Формат А5 Объём 296 страниц Переплёт Пружинный Бумага Офсетная, 80 г/м² Регистрация владельца добровольна и не является условием подлинности.
+
+### ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0010/index.html
+
+- lang: ru
+- section: books
+- title: AS2-BETON-RU-0010 — паспорт экземпляра БЕТОН
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0010/
+- H1: БЕТОН
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: бетон, as2-beton-ru-0010, beton, books, паспорт, экземпляра, 296, as2, ashraellen, copies, monolith, samizdat, бумага, владелец, владельца, все, добровольна, зарегистрирован
+- candidates: as2-beton-ru-0010, бетон, паспорт, экземпляра, 296, бумага, владелец, владельца, все, добровольна, зарегистрирован, объём, одной, опубликованы, офсетная, переплёт, подлинности, пружинный, регистрация, русский, сведения, стены, страниц, условием
+
+Excerpt:
+
+> Паспорт физического экземпляра БЕТОН Мы все — часть одной стены AS2-BETON-RU-0010 Зарегистрирован Язык Русский Владелец Сведения не опубликованы Формат А5 Объём 296 страниц Переплёт Пружинный Бумага Офсетная, 80 г/м² Регистрация владельца добровольна и не является условием подлинности.
 
 ### ru/books/samizdat/monolith/beton/index.html
 
@@ -10271,6 +10822,346 @@ Excerpt:
 
 > Источники и традиция Это исследование стоит на пересечении феноменологии сознания, нарративной эпистемологии, когнитивной науки и художественной практики. Гуссерль строил метод внимательного описания опыта. Мерло-Понти возвращал сознание в тело. Рикёр показывал, что нарратив — не украшение мысли, а форма самопонимания. Варела, Томпсон и Рош соединяли феноменологию с когнитивной наукой и живым опытом. Ashraellen работает там, где эти линии пересекаются: в области, где академический текст уже недостаточен, а живой опыт ещё не получил точной формы. Феноменология сознания Эдмунд Гуссерль — опыт до готовых объяснений Для этой линии важна не вера в первую мысль, а внимательное рассмотрение того, как опыт появляется в сознании. Привычные объяснения временно отодвигаются, чтобы стало видно само явление: мысль, ощущение, страх, ожидание, образ, внутренний импульс. Связь с Ashraellen: наблюдать мы
 
+### samizdat/copies/as2-beton-en-0001/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-EN-0001
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-en-0001, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-en-0001
+
+Excerpt:
+
+> AS2-BETON-EN-0001
+
+### samizdat/copies/as2-beton-en-0002/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-EN-0002
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-en-0002, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-en-0002
+
+Excerpt:
+
+> AS2-BETON-EN-0002
+
+### samizdat/copies/as2-beton-en-0003/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-EN-0003
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-en-0003, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-en-0003
+
+Excerpt:
+
+> AS2-BETON-EN-0003
+
+### samizdat/copies/as2-beton-en-0004/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-EN-0004
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-en-0004, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-en-0004
+
+Excerpt:
+
+> AS2-BETON-EN-0004
+
+### samizdat/copies/as2-beton-en-0005/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-EN-0005
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-en-0005, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-en-0005
+
+Excerpt:
+
+> AS2-BETON-EN-0005
+
+### samizdat/copies/as2-beton-en-0006/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-EN-0006
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-en-0006, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-en-0006
+
+Excerpt:
+
+> AS2-BETON-EN-0006
+
+### samizdat/copies/as2-beton-en-0007/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-EN-0007
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-en-0007, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-en-0007
+
+Excerpt:
+
+> AS2-BETON-EN-0007
+
+### samizdat/copies/as2-beton-en-0008/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-EN-0008
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-en-0008, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-en-0008
+
+Excerpt:
+
+> AS2-BETON-EN-0008
+
+### samizdat/copies/as2-beton-en-0009/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-EN-0009
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-en-0009, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-en-0009
+
+Excerpt:
+
+> AS2-BETON-EN-0009
+
+### samizdat/copies/as2-beton-en-0010/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-EN-0010
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-en-0010, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-en-0010
+
+Excerpt:
+
+> AS2-BETON-EN-0010
+
+### samizdat/copies/as2-beton-pl-0001/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-PL-0001
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-pl-0001, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-pl-0001
+
+Excerpt:
+
+> AS2-BETON-PL-0001
+
+### samizdat/copies/as2-beton-pl-0002/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-PL-0002
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-pl-0002, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-pl-0002
+
+Excerpt:
+
+> AS2-BETON-PL-0002
+
+### samizdat/copies/as2-beton-pl-0003/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-PL-0003
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-pl-0003, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-pl-0003
+
+Excerpt:
+
+> AS2-BETON-PL-0003
+
+### samizdat/copies/as2-beton-pl-0004/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-PL-0004
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-pl-0004, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-pl-0004
+
+Excerpt:
+
+> AS2-BETON-PL-0004
+
+### samizdat/copies/as2-beton-pl-0005/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-PL-0005
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-pl-0005, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-pl-0005
+
+Excerpt:
+
+> AS2-BETON-PL-0005
+
+### samizdat/copies/as2-beton-pl-0006/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-PL-0006
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-pl-0006, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-pl-0006
+
+Excerpt:
+
+> AS2-BETON-PL-0006
+
+### samizdat/copies/as2-beton-pl-0007/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-PL-0007
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-pl-0007, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-pl-0007
+
+Excerpt:
+
+> AS2-BETON-PL-0007
+
+### samizdat/copies/as2-beton-pl-0008/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-PL-0008
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-pl-0008, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-pl-0008
+
+Excerpt:
+
+> AS2-BETON-PL-0008
+
+### samizdat/copies/as2-beton-pl-0009/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-PL-0009
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-pl-0009, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-pl-0009
+
+Excerpt:
+
+> AS2-BETON-PL-0009
+
+### samizdat/copies/as2-beton-pl-0010/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-PL-0010
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-pl-0010, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-pl-0010
+
+Excerpt:
+
+> AS2-BETON-PL-0010
+
 ### samizdat/copies/as2-beton-ru-0001/index.html
 
 - lang: root
@@ -10286,7 +11177,160 @@ Excerpt:
 
 Excerpt:
 
-> Открыть паспорт экземпляра AS2-BETON-RU-0001
+> Открыть паспорт экземпляра
+
+### samizdat/copies/as2-beton-ru-0002/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-RU-0002
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0002/
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-ru-0002, samizdat, as2, ashraellen, beton, copies, открыть, паспорт, экземпляра
+- candidates: as2-beton-ru-0002, открыть, паспорт, экземпляра
+
+Excerpt:
+
+> Открыть паспорт экземпляра
+
+### samizdat/copies/as2-beton-ru-0003/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-RU-0003
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-ru-0003, samizdat, as2, ashraellen, beton, copies, открыть, паспорт
+- candidates: as2-beton-ru-0003, открыть, паспорт
+
+Excerpt:
+
+> Открыть паспорт
+
+### samizdat/copies/as2-beton-ru-0004/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-RU-0004
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-ru-0004, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-ru-0004
+
+Excerpt:
+
+> AS2-BETON-RU-0004
+
+### samizdat/copies/as2-beton-ru-0005/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-RU-0005
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-ru-0005, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-ru-0005
+
+Excerpt:
+
+> AS2-BETON-RU-0005
+
+### samizdat/copies/as2-beton-ru-0006/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-RU-0006
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-ru-0006, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-ru-0006
+
+Excerpt:
+
+> AS2-BETON-RU-0006
+
+### samizdat/copies/as2-beton-ru-0007/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-RU-0007
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-ru-0007, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-ru-0007
+
+Excerpt:
+
+> AS2-BETON-RU-0007
+
+### samizdat/copies/as2-beton-ru-0008/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-RU-0008
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-ru-0008, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-ru-0008
+
+Excerpt:
+
+> AS2-BETON-RU-0008
+
+### samizdat/copies/as2-beton-ru-0009/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-RU-0009
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-ru-0009, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-ru-0009
+
+Excerpt:
+
+> AS2-BETON-RU-0009
+
+### samizdat/copies/as2-beton-ru-0010/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-RU-0010
+- description: _missing_
+- canonical: _missing_
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-ru-0010, samizdat, as2, ashraellen, beton, copies
+- candidates: as2-beton-ru-0010
+
+Excerpt:
+
+> AS2-BETON-RU-0010
 
 ### samizdat/demotopia/index.html
 

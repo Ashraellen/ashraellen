@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-04T12:23:04.677Z
+Generated: 2026-08-04T12:34:04.563Z
 
-Pages checked: 638
-Pages with issues: 121
-Total issues: 499
+Pages checked: 696
+Pages with issues: 179
+Total issues: 994
 Pages with review notes: 592
 Total review notes: 2126
 
@@ -12,20 +12,20 @@ Total review notes: 2126
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 62 |
-| MISSING_TWITTER_IMAGE | 62 |
+| MISSING_KEYWORDS | 120 |
+| MISSING_TWITTER_IMAGE | 120 |
+| MISSING_TWITTER_CARD | 106 |
+| MISSING_JSON_LD | 101 |
+| MISSING_OG_DESCRIPTION | 101 |
+| MISSING_OG_IMAGE | 100 |
+| MISSING_OG_TITLE | 99 |
+| MISSING_DESCRIPTION | 68 |
 | DUPLICATE_KEYWORDS | 48 |
-| MISSING_TWITTER_CARD | 48 |
-| MISSING_JSON_LD | 43 |
-| MISSING_OG_DESCRIPTION | 43 |
-| MISSING_OG_IMAGE | 42 |
-| MISSING_OG_TITLE | 41 |
+| MISSING_CANONICAL | 39 |
 | DUPLICATE_TITLE | 36 |
 | DUPLICATE_OG_TITLE | 34 |
-| MISSING_DESCRIPTION | 14 |
-| DESCRIPTION_TOO_SHORT | 11 |
-| MISSING_CANONICAL | 11 |
-| DUPLICATE_CANONICAL | 4 |
+| DESCRIPTION_TOO_SHORT | 16 |
+| DUPLICATE_CANONICAL | 6 |
 
 
 ## Review note summary
@@ -466,6 +466,176 @@ Total review notes: 2126
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
 - MISSING_JSON_LD
+
+### en/books/samizdat/monolith/beton/copies/as2-beton-en-0001/index.html
+
+- title: AS2-BETON-EN-0001 — BETON copy passport
+- description length: 76
+- canonical: https://www.ashraellen.com/en/books/samizdat/monolith/beton/copies/as2-beton-en-0001/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 76
+
+### en/books/samizdat/monolith/beton/copies/as2-beton-en-0002/index.html
+
+- title: AS2-BETON-EN-0002 — BETON copy passport
+- description length: 0
+- canonical: https://www.ashraellen.com/en/books/samizdat/monolith/beton/copies/as2-beton-en-0002/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### en/books/samizdat/monolith/beton/copies/as2-beton-en-0003/index.html
+
+- title: AS2-BETON-EN-0003 — BETON copy passport
+- description length: 0
+- canonical: https://www.ashraellen.com/en/books/samizdat/monolith/beton/copies/as2-beton-en-0003/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### en/books/samizdat/monolith/beton/copies/as2-beton-en-0004/index.html
+
+- title: AS2-BETON-EN-0004 — BETON copy passport
+- description length: 0
+- canonical: https://www.ashraellen.com/en/books/samizdat/monolith/beton/copies/as2-beton-en-0004/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### en/books/samizdat/monolith/beton/copies/as2-beton-en-0005/index.html
+
+- title: AS2-BETON-EN-0005 — BETON copy passport
+- description length: 0
+- canonical: https://www.ashraellen.com/en/books/samizdat/monolith/beton/copies/as2-beton-en-0005/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### en/books/samizdat/monolith/beton/copies/as2-beton-en-0006/index.html
+
+- title: AS2-BETON-EN-0006 — BETON copy passport
+- description length: 0
+- canonical: https://www.ashraellen.com/en/books/samizdat/monolith/beton/copies/as2-beton-en-0006/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### en/books/samizdat/monolith/beton/copies/as2-beton-en-0007/index.html
+
+- title: AS2-BETON-EN-0007 — BETON copy passport
+- description length: 0
+- canonical: https://www.ashraellen.com/en/books/samizdat/monolith/beton/copies/as2-beton-en-0007/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### en/books/samizdat/monolith/beton/copies/as2-beton-en-0008/index.html
+
+- title: AS2-BETON-EN-0008 — BETON copy passport
+- description length: 0
+- canonical: https://www.ashraellen.com/en/books/samizdat/monolith/beton/copies/as2-beton-en-0008/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### en/books/samizdat/monolith/beton/copies/as2-beton-en-0009/index.html
+
+- title: AS2-BETON-EN-0009 — BETON copy passport
+- description length: 0
+- canonical: https://www.ashraellen.com/en/books/samizdat/monolith/beton/copies/as2-beton-en-0009/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### en/books/samizdat/monolith/beton/copies/as2-beton-en-0010/index.html
+
+- title: AS2-BETON-EN-0010 — BETON copy passport
+- description length: 0
+- canonical: https://www.ashraellen.com/en/books/samizdat/monolith/beton/copies/as2-beton-en-0010/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
 
 ### en/books/samizdat/monolith/beton/index.html
 
@@ -1001,6 +1171,176 @@ Total review notes: 2126
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
 
+### pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0001/index.html
+
+- title: AS2-BETON-PL-0001 — paszport egzemplarza BETON
+- description length: 72
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0001/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 72
+
+### pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0002/index.html
+
+- title: AS2-BETON-PL-0002 — paszport egzemplarza BETON
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0002/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0003/index.html
+
+- title: AS2-BETON-PL-0003 — paszport egzemplarza BETON
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0003/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0004/index.html
+
+- title: AS2-BETON-PL-0004 — paszport egzemplarza BETON
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0004/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0005/index.html
+
+- title: AS2-BETON-PL-0005 — paszport egzemplarza BETON
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0005/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0006/index.html
+
+- title: AS2-BETON-PL-0006 — paszport egzemplarza BETON
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0006/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0007/index.html
+
+- title: AS2-BETON-PL-0007 — paszport egzemplarza BETON
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0007/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0008/index.html
+
+- title: AS2-BETON-PL-0008 — paszport egzemplarza BETON
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0008/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0009/index.html
+
+- title: AS2-BETON-PL-0009 — paszport egzemplarza BETON
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0009/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0010/index.html
+
+- title: AS2-BETON-PL-0010 — paszport egzemplarza BETON
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0010/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
 ### pl/books/samizdat/monolith/beton/index.html
 
 - title: BETON — paszport książki — samizdat 2.0
@@ -1287,7 +1627,7 @@ Total review notes: 2126
 ### ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0001/index.html
 
 - title: AS2-BETON-RU-0001 — паспорт экземпляра БЕТОН
-- description length: 88
+- description length: 75
 - canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0001/
 - og:image: _missing_
 - twitter:image: _missing_
@@ -1299,7 +1639,162 @@ Total review notes: 2126
 - MISSING_OG_IMAGE
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 75
 - DUPLICATE_CANONICAL: shared by 2 pages
+
+### ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0002/index.html
+
+- title: AS2-BETON-RU-0002 — паспорт экземпляра БЕТОН
+- description length: 75
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0002/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 75
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0003/index.html
+
+- title: AS2-BETON-RU-0003 — паспорт экземпляра БЕТОН
+- description length: 75
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0003/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 75
+
+### ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0004/index.html
+
+- title: AS2-BETON-RU-0004 — паспорт экземпляра БЕТОН
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0004/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0005/index.html
+
+- title: AS2-BETON-RU-0005 — паспорт экземпляра БЕТОН
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0005/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0006/index.html
+
+- title: AS2-BETON-RU-0006 — паспорт экземпляра БЕТОН
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0006/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0007/index.html
+
+- title: AS2-BETON-RU-0007 — паспорт экземпляра БЕТОН
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0007/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0008/index.html
+
+- title: AS2-BETON-RU-0008 — паспорт экземпляра БЕТОН
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0008/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0009/index.html
+
+- title: AS2-BETON-RU-0009 — паспорт экземпляра БЕТОН
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0009/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0010/index.html
+
+- title: AS2-BETON-RU-0010 — паспорт экземпляра БЕТОН
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0010/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
 
 ### ru/books/samizdat/monolith/beton/index.html
 
@@ -1368,6 +1863,366 @@ Total review notes: 2126
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
 
+### samizdat/copies/as2-beton-en-0001/index.html
+
+- title: AS2-BETON-EN-0001
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-en-0002/index.html
+
+- title: AS2-BETON-EN-0002
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-en-0003/index.html
+
+- title: AS2-BETON-EN-0003
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-en-0004/index.html
+
+- title: AS2-BETON-EN-0004
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-en-0005/index.html
+
+- title: AS2-BETON-EN-0005
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-en-0006/index.html
+
+- title: AS2-BETON-EN-0006
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-en-0007/index.html
+
+- title: AS2-BETON-EN-0007
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-en-0008/index.html
+
+- title: AS2-BETON-EN-0008
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-en-0009/index.html
+
+- title: AS2-BETON-EN-0009
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-en-0010/index.html
+
+- title: AS2-BETON-EN-0010
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-pl-0001/index.html
+
+- title: AS2-BETON-PL-0001
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-pl-0002/index.html
+
+- title: AS2-BETON-PL-0002
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-pl-0003/index.html
+
+- title: AS2-BETON-PL-0003
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-pl-0004/index.html
+
+- title: AS2-BETON-PL-0004
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-pl-0005/index.html
+
+- title: AS2-BETON-PL-0005
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-pl-0006/index.html
+
+- title: AS2-BETON-PL-0006
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-pl-0007/index.html
+
+- title: AS2-BETON-PL-0007
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-pl-0008/index.html
+
+- title: AS2-BETON-PL-0008
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-pl-0009/index.html
+
+- title: AS2-BETON-PL-0009
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-pl-0010/index.html
+
+- title: AS2-BETON-PL-0010
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
 ### samizdat/copies/as2-beton-ru-0001/index.html
 
 - title: AS2-BETON-RU-0001
@@ -1385,6 +2240,168 @@ Total review notes: 2126
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
 - DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-beton-ru-0002/index.html
+
+- title: AS2-BETON-RU-0002
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0002/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-beton-ru-0003/index.html
+
+- title: AS2-BETON-RU-0003
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-ru-0004/index.html
+
+- title: AS2-BETON-RU-0004
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-ru-0005/index.html
+
+- title: AS2-BETON-RU-0005
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-ru-0006/index.html
+
+- title: AS2-BETON-RU-0006
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-ru-0007/index.html
+
+- title: AS2-BETON-RU-0007
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-ru-0008/index.html
+
+- title: AS2-BETON-RU-0008
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-ru-0009/index.html
+
+- title: AS2-BETON-RU-0009
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-ru-0010/index.html
+
+- title: AS2-BETON-RU-0010
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
 
 ### samizdat/demotopia/index.html
 
