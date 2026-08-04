@@ -80,3 +80,4 @@ h1{margin:0;font-family:Georgia,"Times New Roman",serif;font-size:clamp(42px,8vw
   .subtitle,.intro{font-size:24px}
   .section-body,.passport-copy,.status-note{font-size:15.5px}
 }
+.language-row,.language-nav{display:none!important}
