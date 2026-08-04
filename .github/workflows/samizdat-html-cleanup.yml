@@ -1,0 +1,91 @@
+name: One-time Samizdat HTML cleanup
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/samizdat-html-cleanup.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Remove internal language selectors from source HTML
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          langs = ('be','de','en','es','fr','pl','pt','ru','uk')
+          html_paths = []
+          for lang in langs:
+              html_paths.extend([
+                  Path(lang) / 'books/samizdat/demotopia/index.html',
+                  Path(lang) / 'books/samizdat/order/index.html',
+              ])
+
+          nav_re = re.compile(r'<nav class="language-row"[^>]*>.*?</nav>', re.S)
+          changed = []
+          for path in html_paths:
+              if not path.exists():
+                  continue
+              original = path.read_text(encoding='utf-8')
+              updated, count = nav_re.subn('', original)
+              if count:
+                  path.write_text(updated, encoding='utf-8')
+                  changed.append(str(path))
+
+          css = Path('assets/demotopia-passport.css')
+          text = css.read_text(encoding='utf-8')
+          text = text.replace('.menu,.language-nav{', '.menu{')
+          text = text.replace('.menu a,.language-nav a{', '.menu a{')
+          text = text.replace('.menu a:hover,.language-nav a:hover{', '.menu a:hover{')
+          text = re.sub(r'\n?\.language-row\{[^{}]*\}', '', text)
+          text = re.sub(r'\n?\.language-row a\{[^{}]*\}', '', text)
+          text = re.sub(r'\n?\.language-row a:hover\{[^{}]*\}', '', text)
+          text = re.sub(r'\n?\.language-row \.current,\.language-nav \.current\{[^{}]*\}', '', text)
+          text = re.sub(r'\n?\.language-row,\.language-nav\{display:none!important\}', '', text)
+          css.write_text(text.rstrip() + '\n', encoding='utf-8')
+
+          css = Path('assets/samizdat-order.css')
+          text = css.read_text(encoding='utf-8')
+          text = re.sub(r'\.language-row\{[^{}]*\}', '', text)
+          text = re.sub(r'\.language-row a\{[^{}]*\}', '', text)
+          text = re.sub(r'\.language-row \.current\{[^{}]*\}', '', text)
+          text = re.sub(r'\.language-row\{display:none!important\}', '', text)
+          css.write_text(text.rstrip() + '\n', encoding='utf-8')
+
+          # The localized Samizdat landing pages must retain their language chooser.
+          for lang in langs:
+              landing = Path(lang) / 'books/samizdat/index.html'
+              if landing.exists() and 'class="language-row"' not in landing.read_text(encoding='utf-8'):
+                  raise SystemExit(f'Language chooser missing from landing page: {landing}')
+
+          remaining = []
+          for path in html_paths:
+              if path.exists() and 'class="language-row"' in path.read_text(encoding='utf-8'):
+                  remaining.append(str(path))
+          if remaining:
+              raise SystemExit('Selectors remain in internal HTML: ' + ', '.join(remaining))
+
+          Path('.github/workflows/samizdat-html-cleanup.yml').unlink()
+          print(f'Cleaned {len(changed)} internal HTML files.')
+          PY
+
+      - name: Commit cleaned static sources
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add be de en es fr pl pt ru uk assets .github/workflows/samizdat-html-cleanup.yml
+          git diff --cached --check
+          git commit -m "Samizdat: remove internal language selectors from HTML"
+          git push origin HEAD:main
