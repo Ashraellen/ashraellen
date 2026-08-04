@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-04T13:29:51.521Z
-Pages: 698
+Generated: 2026-08-04T13:43:05.173Z
+Pages: 701
 
 ## Index
 
@@ -375,7 +375,8 @@ Pages: 698
 | pl/books/radiance/index.html | pl | books | Ashraellen — Blask \| Północne opowieści o prawdziwej historii świata | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | blask, opowieści, ashraellen, books, cykl, instrukcje, literacko-filozoficzny, nie, aby, artystyczno-badawcza, artystyczno-badawczy, dawne, forma, historii, instrukcji, jako, kogo, książki |
 | pl/books/radiance/sampo/index.html | pl | books | Ashraellen — Sampo \| Blask, Księga I | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | sampo, ashraellen, blask, books, nie, ale, artystycznych, badań, bez, było, chleb, czy, filozoficznej, fundacji, jeszcze, język, już, kogo |
 | pl/books/radiance/song/index.html | pl | books | Ashraellen — Pieśń \| Blask, Księga II | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | pieśń, ashraellen, bez, blask, books, nie, się, ale, artystycznych, ayla, badań, być, był, była, było, druga, dźwięku, fundacji |
-| pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0001/index.html | pl | books | AS2-DEMOTOPIA-PL-0001 — paszport egzemplarza Demotopii | _missing_ | egzemplarza, as2-demotopia-pl-0001, ashraellen, demotopia, demotopii, paszport, samizdat, 2.0, adres, books, as2, autentyczność, copies, dane, data, nie, polskiego, prywatność |
+| pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0001/index.html | pl | books | AS2-DEMOTOPIA-PL-0001 — paszport egzemplarza Demotopii | _missing_ | demotopia, as2-demotopia-pl-0001, demotopii, egzemplarza, paszport, samizdat, 2.0, books, demokratyczna, egzemplarz, stały, as2, ashraellen, copies, książką, książki, nie, polskiego |
+| pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0002/index.html | pl | books | AS2-DEMOTOPIA-PL-0002 — paszport egzemplarza Demotopii | _missing_ | egzemplarza, as2-demotopia-pl-0002, ashraellen, demotopia, demotopii, paszport, samizdat, 2.0, adres, books, as2, autentyczność, copies, dane, data, nie, polskiego, prywatność |
 | pl/books/samizdat/demotopia/index.html | pl | books | Demotopia — Paszport książki — samizdat 2.0 | _missing_ | demotopia, paszport, samizdat, 2.0, 2026, ashraellen, books, egzemplarz, książki, wydanie, autora, autorski, autorskiego, demotopii, fizyczne, fizycznego, książce, może |
 | pl/books/samizdat/index.html | pl | books | samizdat 2.0 — autorskie wydania Ashraellen | _missing_ | 2.0, samizdat, ashraellen, autorskie, wydania, bez, books, książka, autora, bezpośrednie, czym, dlaczego, działa, egzemplarz, egzemplarze, fizyczne, jeden, książek |
 | pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0001/index.html | pl | books | AS2-BETON-PL-0001 — paszport egzemplarza BETON | _missing_ | beton, as2-beton-pl-0001, egzemplarza, paszport, books, fizycznego, 2.0, 283, as2, ashraellen, copies, monolith, nie, polski, polskiego, posiadacza, samizdat, stały |
@@ -633,6 +634,8 @@ Pages: 698
 | samizdat/copies/as2-beton-ru-0008/index.html | root | samizdat | AS2-BETON-RU-0008 | _missing_ | as2-beton-ru-0008, samizdat, as2, ashraellen, beton, copies |
 | samizdat/copies/as2-beton-ru-0009/index.html | root | samizdat | AS2-BETON-RU-0009 | _missing_ | as2-beton-ru-0009, samizdat, as2, ashraellen, beton, copies |
 | samizdat/copies/as2-beton-ru-0010/index.html | root | samizdat | AS2-BETON-RU-0010 | _missing_ | as2-beton-ru-0010, samizdat, as2, ashraellen, beton, copies |
+| samizdat/copies/as2-demotopia-pl-0001/index.html | root | samizdat | AS2-DEMOTOPIA-PL-0001 | _missing_ | as2-demotopia-pl-0001, samizdat, as2, ashraellen, copies, demotopia, egzemplarza, otwórz, paszport |
+| samizdat/copies/as2-demotopia-pl-0002/index.html | root | samizdat | AS2-DEMOTOPIA-PL-0002 | _missing_ | as2-demotopia-pl-0002, samizdat, as2, ashraellen, copies, demotopia, egzemplarza, otwórz, paszport |
 | samizdat/demotopia/index.html | root | samizdat | Demotopia — samizdat 2.0 | _missing_ | demotopia, samizdat, 2.0, ashraellen, book, entrance, multilingual, passport, permanent, choose, language |
 | samizdat/index.html | root | samizdat | samizdat 2.0 — Ashraellen | _missing_ | samizdat, 2.0, ashraellen, author, book, editions, entrance, language, passports, author-issued, choose, each, permanent |
 | samizdat/order/index.html | root | samizdat | Redirecting to the samizdat 2.0 order page — Ashraellen | _missing_ | samizdat, ashraellen, order, 2.0, redirecting, continue, english |
@@ -6969,17 +6972,34 @@ Excerpt:
 - lang: pl
 - section: books
 - title: AS2-DEMOTOPIA-PL-0001 — paszport egzemplarza Demotopii
-- description: Paszport polskiego egzemplarza Demotopii AS2-DEMOTOPIA-PL-0001 w systemie Ashraellen Samizdat 2.0.
+- description: Stały paszport polskiego egzemplarza Demotopii AS2-DEMOTOPIA-PL-0001 w systemie samizdat 2.0.
 - canonical: https://www.ashraellen.com/pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0001/
 - H1: Demotopia
-- H2: Zapis egzemplarza | Prywatność | Stały adres
-- H3: _missing_
-- suggested keyword seed: egzemplarza, as2-demotopia-pl-0001, ashraellen, demotopia, demotopii, paszport, samizdat, 2.0, adres, books, as2, autentyczność, copies, dane, data, nie, polskiego, prywatność
-- candidates: egzemplarza, nie, as2-demotopia-pl-0001, paszport, 2.0, ashraellen, demotopii, samizdat, adres, autentyczność, dane, data, demokratyczna, demotopia, identyfikator, odbiorca, odbiorcy, polskiego, sam, stały, ten, utopia, zapis, zarejestrowano
+- H2: Ten egzemplarz | Stały zapis | Relacja z książką | Demotopia — Demokratyczna Utopia
+- H3: Odbiorca
+- suggested keyword seed: demotopia, as2-demotopia-pl-0001, demotopii, egzemplarza, paszport, samizdat, 2.0, books, demokratyczna, egzemplarz, stały, as2, ashraellen, copies, książką, książki, nie, polskiego
+- candidates: egzemplarza, as2-demotopia-pl-0001, książki, paszport, 2.0, demotopia, egzemplarz, nie, samizdat, wydania, demokratyczna, demotopii, jeden, utopia, autorskiego, data, numer, odbiorca, polski, się, stały, systemie, utworu, wydanie
 
 Excerpt:
 
-> Paszport egzemplarza / samizdat 2.0 Demotopia Demokratyczna Utopia AS2-DEMOTOPIA-PL-0001 Stały paszport indywidualnego polskiego egzemplarza autorskiego wydania Demotopii. Zapis egzemplarza potwierdzona tożsamość Identyfikator AS2-DEMOTOPIA-PL-0001 Utwór Demotopia — Demokratyczna Utopia Autor Ashraellen Język fizycznego egzemplarza Polski System Ashraellen Samizdat 2.0 Status publiczny Przeznaczony dla prywatnego odbiorcy Odbiorca Prywatny odbiorca Dane posiadacza Nie zostały opublikowane Data wykonania Nie zarejestrowano Data przekazania Nie zarejestrowano Prywatność autentyczność bez obowiązkowej rejestracji osoby Dane odbiorcy nie są publiczną częścią paszportu. Brak opublikowanego nazwiska, pseudonimu lub informacji o posiadaczu nie wpływa na autentyczność egzemplarza. Po faktycznym wykonaniu i przekazaniu książki zapis może zostać uzupełniony wyłącznie o potwierdzone informacje. Sta
+> Paszport egzemplarza / samizdat 2.0 Demotopia Demokratyczna Utopia Indywidualny polski egzemplarz autorskiego wydania fizycznego. AS2-DEMOTOPIA-PL-0001 Ten egzemplarz stała tożsamość jednej fizycznej książki Identyfikator AS2-DEMOTOPIA-PL-0001 Utwór Demotopia — Demokratyczna Utopia Autor Ashraellen Wydanie Autorskie wydanie fizyczne System samizdat 2.0 Język egzemplarza Polski Status Przeznaczony dla prywatnego odbiorcy Odbiorca Prywatny odbiorca. Dane osoby nie zostały opublikowane. Brak publicznych danych posiadacza nie wpływa na autentyczność egzemplarza. Stały zapis jeden numer / jeden kod QR / jedna historia egzemplarza Numer AS2-DEMOTOPIA-PL-0001 pozostaje przypisany do tego egzemplarza. Neutralny adres zapisany w kodzie QR nie zmienia się wraz z późniejszym uzupełnianiem potwierdzonych informacji. Data wykonania i data przekazania nie zostały jeszcze zarejestrowane. Zapis zostanie
+
+### pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0002/index.html
+
+- lang: pl
+- section: books
+- title: AS2-DEMOTOPIA-PL-0002 — paszport egzemplarza Demotopii
+- description: Paszport polskiego egzemplarza Demotopii AS2-DEMOTOPIA-PL-0002 w systemie Ashraellen Samizdat 2.0.
+- canonical: https://www.ashraellen.com/pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0002/
+- H1: Demotopia
+- H2: Zapis egzemplarza | Prywatność | Stały adres
+- H3: _missing_
+- suggested keyword seed: egzemplarza, as2-demotopia-pl-0002, ashraellen, demotopia, demotopii, paszport, samizdat, 2.0, adres, books, as2, autentyczność, copies, dane, data, nie, polskiego, prywatność
+- candidates: egzemplarza, nie, as2-demotopia-pl-0002, paszport, 2.0, ashraellen, demotopii, samizdat, adres, autentyczność, dane, data, demokratyczna, demotopia, identyfikator, odbiorca, odbiorcy, polskiego, sam, stały, ten, utopia, zapis, zarejestrowano
+
+Excerpt:
+
+> Paszport egzemplarza / samizdat 2.0 Demotopia Demokratyczna Utopia AS2-DEMOTOPIA-PL-0002 Stały paszport indywidualnego polskiego egzemplarza autorskiego wydania Demotopii. Zapis egzemplarza potwierdzona tożsamość Identyfikator AS2-DEMOTOPIA-PL-0002 Utwór Demotopia — Demokratyczna Utopia Autor Ashraellen Język fizycznego egzemplarza Polski System Ashraellen Samizdat 2.0 Status publiczny Przeznaczony dla prywatnego odbiorcy Odbiorca Prywatny odbiorca Dane posiadacza Nie zostały opublikowane Data wykonania Nie zarejestrowano Data przekazania Nie zarejestrowano Prywatność autentyczność bez obowiązkowej rejestracji osoby Dane odbiorcy nie są publiczną częścią paszportu. Brak opublikowanego nazwiska, pseudonimu lub informacji o posiadaczu nie wpływa na autentyczność egzemplarza. Po faktycznym wykonaniu i przekazaniu książki zapis może zostać uzupełniony wyłącznie o potwierdzone informacje. Sta
 
 ### pl/books/samizdat/demotopia/index.html
 
@@ -11349,6 +11369,40 @@ Excerpt:
 Excerpt:
 
 > AS2-BETON-RU-0010
+
+### samizdat/copies/as2-demotopia-pl-0001/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-DEMOTOPIA-PL-0001
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0001/
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-demotopia-pl-0001, samizdat, as2, ashraellen, copies, demotopia, egzemplarza, otwórz, paszport
+- candidates: as2-demotopia-pl-0001, egzemplarza, otwórz, paszport
+
+Excerpt:
+
+> Otwórz paszport egzemplarza AS2-DEMOTOPIA-PL-0001
+
+### samizdat/copies/as2-demotopia-pl-0002/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-DEMOTOPIA-PL-0002
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0002/
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-demotopia-pl-0002, samizdat, as2, ashraellen, copies, demotopia, egzemplarza, otwórz, paszport
+- candidates: as2-demotopia-pl-0002, egzemplarza, otwórz, paszport
+
+Excerpt:
+
+> Otwórz paszport egzemplarza AS2-DEMOTOPIA-PL-0002
 
 ### samizdat/demotopia/index.html
 
