@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-04T12:34:04.563Z
+Generated: 2026-08-04T13:29:50.891Z
 
-Pages checked: 696
-Pages with issues: 179
-Total issues: 994
+Pages checked: 697
+Pages with issues: 180
+Total issues: 1001
 Pages with review notes: 592
 Total review notes: 2126
 
@@ -12,13 +12,13 @@ Total review notes: 2126
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 120 |
-| MISSING_TWITTER_IMAGE | 120 |
-| MISSING_TWITTER_CARD | 106 |
-| MISSING_JSON_LD | 101 |
-| MISSING_OG_DESCRIPTION | 101 |
-| MISSING_OG_IMAGE | 100 |
-| MISSING_OG_TITLE | 99 |
+| MISSING_KEYWORDS | 121 |
+| MISSING_TWITTER_IMAGE | 121 |
+| MISSING_TWITTER_CARD | 107 |
+| MISSING_JSON_LD | 102 |
+| MISSING_OG_DESCRIPTION | 102 |
+| MISSING_OG_IMAGE | 101 |
+| MISSING_OG_TITLE | 100 |
 | MISSING_DESCRIPTION | 68 |
 | DUPLICATE_KEYWORDS | 48 |
 | MISSING_CANONICAL | 39 |
@@ -1138,6 +1138,22 @@ Total review notes: 2126
 - twitter:image: https://www.ashraellen.com/assets/covers/song-cover-pl.webp
 
 - DUPLICATE_KEYWORDS: shared by 3 pages
+
+### pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0001/index.html
+
+- title: AS2-DEMOTOPIA-PL-0001 — paszport egzemplarza Demotopii
+- description length: 98
+- canonical: https://www.ashraellen.com/pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0001/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
 
 ### pl/books/samizdat/demotopia/index.html
 

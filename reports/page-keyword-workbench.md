@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-04T12:34:05.152Z
-Pages: 697
+Generated: 2026-08-04T13:29:51.521Z
+Pages: 698
 
 ## Index
 
@@ -375,6 +375,7 @@ Pages: 697
 | pl/books/radiance/index.html | pl | books | Ashraellen — Blask \| Północne opowieści o prawdziwej historii świata | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | blask, opowieści, ashraellen, books, cykl, instrukcje, literacko-filozoficzny, nie, aby, artystyczno-badawcza, artystyczno-badawczy, dawne, forma, historii, instrukcji, jako, kogo, książki |
 | pl/books/radiance/sampo/index.html | pl | books | Ashraellen — Sampo \| Blask, Księga I | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | sampo, ashraellen, blask, books, nie, ale, artystycznych, badań, bez, było, chleb, czy, filozoficznej, fundacji, jeszcze, język, już, kogo |
 | pl/books/radiance/song/index.html | pl | books | Ashraellen — Pieśń \| Blask, Księga II | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | pieśń, ashraellen, bez, blask, books, nie, się, ale, artystycznych, ayla, badań, być, był, była, było, druga, dźwięku, fundacji |
+| pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0001/index.html | pl | books | AS2-DEMOTOPIA-PL-0001 — paszport egzemplarza Demotopii | _missing_ | egzemplarza, as2-demotopia-pl-0001, ashraellen, demotopia, demotopii, paszport, samizdat, 2.0, adres, books, as2, autentyczność, copies, dane, data, nie, polskiego, prywatność |
 | pl/books/samizdat/demotopia/index.html | pl | books | Demotopia — Paszport książki — samizdat 2.0 | _missing_ | demotopia, paszport, samizdat, 2.0, 2026, ashraellen, books, egzemplarz, książki, wydanie, autora, autorski, autorskiego, demotopii, fizyczne, fizycznego, książce, może |
 | pl/books/samizdat/index.html | pl | books | samizdat 2.0 — autorskie wydania Ashraellen | _missing_ | 2.0, samizdat, ashraellen, autorskie, wydania, bez, books, książka, autora, bezpośrednie, czym, dlaczego, działa, egzemplarz, egzemplarze, fizyczne, jeden, książek |
 | pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0001/index.html | pl | books | AS2-BETON-PL-0001 — paszport egzemplarza BETON | _missing_ | beton, as2-beton-pl-0001, egzemplarza, paszport, books, fizycznego, 2.0, 283, as2, ashraellen, copies, monolith, nie, polski, polskiego, posiadacza, samizdat, stały |
@@ -6962,6 +6963,23 @@ Excerpt:
 Excerpt:
 
 > Blask - Północne opowieści o prawdziwej historii świata Pieśń Księga II cyklu literacko-filozoficznego „Blask”. Powieść o dźwięku, który nie przejmuje władzy: o słuchu, języku, mieście, scenie pracy i Pieśń, które nie staje się liczbą. Po „Sampo” pytanie o obfitość zostaje zastąpione pytaniem o słowo: czy język może nie stać się opinią, nie argumentem, nie autoekspresją, ale formą dostosowania? Polska okładka. Ashraellen. Polecany rozdział Rozdział pierwszy. Normalny hałas Kompletny rozdział pierwszy: Powrót Ayli do Warszawy, zwykły miejski zgiełk i pierwsza przerwa pomiędzy dźwiękiem jako pracą a słyszeniem jako postawą. Otwórz rozdział Zamknij rozdział Warszawa spotkała Aylę nie znakiem, nie wizją, ani jakimś szeptem z podziemia godnym kontynuacji starożytnego prologu. Warszawa przywitała ją zapowiedzią w pociągu. Najpierw delikatne kliknięcie w głośniku, potem kobiecy głos, zbyt uprze
+
+### pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0001/index.html
+
+- lang: pl
+- section: books
+- title: AS2-DEMOTOPIA-PL-0001 — paszport egzemplarza Demotopii
+- description: Paszport polskiego egzemplarza Demotopii AS2-DEMOTOPIA-PL-0001 w systemie Ashraellen Samizdat 2.0.
+- canonical: https://www.ashraellen.com/pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0001/
+- H1: Demotopia
+- H2: Zapis egzemplarza | Prywatność | Stały adres
+- H3: _missing_
+- suggested keyword seed: egzemplarza, as2-demotopia-pl-0001, ashraellen, demotopia, demotopii, paszport, samizdat, 2.0, adres, books, as2, autentyczność, copies, dane, data, nie, polskiego, prywatność
+- candidates: egzemplarza, nie, as2-demotopia-pl-0001, paszport, 2.0, ashraellen, demotopii, samizdat, adres, autentyczność, dane, data, demokratyczna, demotopia, identyfikator, odbiorca, odbiorcy, polskiego, sam, stały, ten, utopia, zapis, zarejestrowano
+
+Excerpt:
+
+> Paszport egzemplarza / samizdat 2.0 Demotopia Demokratyczna Utopia AS2-DEMOTOPIA-PL-0001 Stały paszport indywidualnego polskiego egzemplarza autorskiego wydania Demotopii. Zapis egzemplarza potwierdzona tożsamość Identyfikator AS2-DEMOTOPIA-PL-0001 Utwór Demotopia — Demokratyczna Utopia Autor Ashraellen Język fizycznego egzemplarza Polski System Ashraellen Samizdat 2.0 Status publiczny Przeznaczony dla prywatnego odbiorcy Odbiorca Prywatny odbiorca Dane posiadacza Nie zostały opublikowane Data wykonania Nie zarejestrowano Data przekazania Nie zarejestrowano Prywatność autentyczność bez obowiązkowej rejestracji osoby Dane odbiorcy nie są publiczną częścią paszportu. Brak opublikowanego nazwiska, pseudonimu lub informacji o posiadaczu nie wpływa na autentyczność egzemplarza. Po faktycznym wykonaniu i przekazaniu książki zapis może zostać uzupełniony wyłącznie o potwierdzone informacje. Sta
 
 ### pl/books/samizdat/demotopia/index.html
 
