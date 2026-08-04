@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-04T13:48:15.864Z
+Generated: 2026-08-04T14:06:13.825Z
 
-Pages checked: 700
-Pages with issues: 183
-Total issues: 1028
+Pages checked: 701
+Pages with issues: 184
+Total issues: 1035
 Pages with review notes: 592
 Total review notes: 2126
 
@@ -12,13 +12,13 @@ Total review notes: 2126
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 124 |
-| MISSING_TWITTER_IMAGE | 124 |
-| MISSING_TWITTER_CARD | 110 |
-| MISSING_JSON_LD | 105 |
-| MISSING_OG_DESCRIPTION | 105 |
-| MISSING_OG_IMAGE | 104 |
-| MISSING_OG_TITLE | 103 |
+| MISSING_KEYWORDS | 125 |
+| MISSING_TWITTER_IMAGE | 125 |
+| MISSING_TWITTER_CARD | 111 |
+| MISSING_JSON_LD | 106 |
+| MISSING_OG_DESCRIPTION | 106 |
+| MISSING_OG_IMAGE | 105 |
+| MISSING_OG_TITLE | 104 |
 | MISSING_DESCRIPTION | 70 |
 | DUPLICATE_KEYWORDS | 48 |
 | MISSING_CANONICAL | 39 |
@@ -1625,6 +1625,22 @@ Total review notes: 2126
 
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
+
+### ru/books/samizdat/demotopia/copies/as2-demotopia-ru-0001/index.html
+
+- title: AS2-DEMOTOPIA-RU-0001 — паспорт экземпляра Demotopia
+- description length: 90
+- canonical: https://www.ashraellen.com/ru/books/samizdat/demotopia/copies/as2-demotopia-ru-0001/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
 
 ### ru/books/samizdat/demotopia/index.html
 
