@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-04T16:16:24.234Z",
+  "generated": "2026-08-04T16:17:16.131Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -27347,6 +27347,155 @@
         "historia",
         "jeden",
         "książki"
+      ]
+    },
+    {
+      "page": "pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0001/report/index.html",
+      "lang": "pl",
+      "section": "books",
+      "title": "Zgłoś otrzymanie AS2-DEMOTOPIA-PL-0001 — samizdat 2.0",
+      "description": "Formularz zgłoszenia otrzymania egzemplarza Demotopii AS2-DEMOTOPIA-PL-0001.",
+      "existingKeywords": "",
+      "canonical": "",
+      "h1": [
+        "Zgłoś otrzymanie"
+      ],
+      "h2": [
+        "Samodzielnie określasz, co może zostać opublikowane."
+      ],
+      "h3": [],
+      "slugTerms": [
+        "pl",
+        "books",
+        "samizdat",
+        "demotopia",
+        "copies",
+        "as2",
+        "demotopia",
+        "pl",
+        "report"
+      ],
+      "excerpt": "Historia egzemplarza / samizdat 2.0 Zgłoś otrzymanie AS2-DEMOTOPIA-PL-0001 Zgłoszenie nie jest publikowane automatycznie. Najpierw zostaje sprawdzone, a następnie do paszportu może zostać dodane nowe potwierdzone zdarzenie. Kontakt podany do weryfikacji pozostaje niepubliczny. Prywatność Samodzielnie określasz, co może zostać opublikowane. Imię, pseudonim, miejscowość, kraj i historia przekazania mogą zostać opublikowane w całości, częściowo albo pozostać niepubliczne. Zdarzenie Wybierz Otrzymanie egzemplarza Przekazanie następnemu czytelnikowi Zwrot egzemplarza Inne zdarzenie Data zdarzenia Miejscowość Kraj Imię lub pseudonim do publikacji Zakres informacji publicznych Wybierz Opublikuj imię, miejscowość i kraj Opublikuj tylko imię lub pseudonim Opublikuj tylko miejscowość i kraj Użyj określenia „prywatny odbiorca” Całkowicie anonimowy zapis Email do weryfikacji Nie jest publikowany. Od",
+      "candidates": [
+        "egzemplarza",
+        "imię",
+        "kraj",
+        "miejscowość",
+        "as2-demotopia-pl-0001",
+        "historia",
+        "lub",
+        "nie",
+        "opublikuj",
+        "otrzymanie",
+        "pseudonim",
+        "zdarzenie",
+        "zostać",
+        "2.0",
+        "informacji",
+        "może",
+        "opublikowane",
+        "paszportu",
+        "przekazania",
+        "publicznych",
+        "publikacji",
+        "samizdat",
+        "sprawdzone",
+        "tylko"
+      ],
+      "suggestedKeywordSeed": [
+        "as2-demotopia-pl-0001",
+        "otrzymanie",
+        "books",
+        "demotopia",
+        "egzemplarza",
+        "samizdat",
+        "zgłoś",
+        "2.0",
+        "as2",
+        "ashraellen",
+        "copies",
+        "demotopii",
+        "formularz",
+        "historia",
+        "imię",
+        "kraj",
+        "lub",
+        "miejscowość"
+      ]
+    },
+    {
+      "page": "pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0001/report/received/index.html",
+      "lang": "pl",
+      "section": "books",
+      "title": "Zgłoszenie otrzymane — AS2-DEMOTOPIA-PL-0001",
+      "description": "",
+      "existingKeywords": "",
+      "canonical": "",
+      "h1": [
+        "Zgłoszenie otrzymane"
+      ],
+      "h2": [
+        "Wpis pojawi się dopiero po weryfikacji."
+      ],
+      "h3": [],
+      "slugTerms": [
+        "pl",
+        "books",
+        "samizdat",
+        "demotopia",
+        "copies",
+        "as2",
+        "demotopia",
+        "pl",
+        "report",
+        "received"
+      ],
+      "excerpt": "Historia egzemplarza / samizdat 2.0 Zgłoszenie otrzymane AS2-DEMOTOPIA-PL-0001 Dziękujemy. Zgłoszenie zostało wysłane do sprawdzenia. Nie zostanie opublikowane automatycznie. Wpis pojawi się dopiero po weryfikacji. Kontakt podany w formularzu pozostaje niepubliczny. Zakres publikowanych informacji będzie zgodny z wybranym poziomem prywatności.",
+      "candidates": [
+        "zgłoszenie",
+        "as2-demotopia-pl-0001",
+        "otrzymane",
+        "2.0",
+        "automatycznie",
+        "będzie",
+        "dopiero",
+        "dziękujemy",
+        "egzemplarza",
+        "formularzu",
+        "historia",
+        "informacji",
+        "kontakt",
+        "nie",
+        "niepubliczny",
+        "opublikowane",
+        "podany",
+        "pojawi",
+        "poziomem",
+        "pozostaje",
+        "prywatności",
+        "publikowanych",
+        "samizdat",
+        "się"
+      ],
+      "suggestedKeywordSeed": [
+        "otrzymane",
+        "zgłoszenie",
+        "as2-demotopia-pl-0001",
+        "books",
+        "demotopia",
+        "dopiero",
+        "2.0",
+        "as2",
+        "ashraellen",
+        "automatycznie",
+        "będzie",
+        "copies",
+        "dziękujemy",
+        "egzemplarza",
+        "formularzu",
+        "historia",
+        "informacji",
+        "pojawi"
       ]
     },
     {

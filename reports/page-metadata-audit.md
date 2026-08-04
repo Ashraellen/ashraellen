@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-04T16:16:23.616Z
+Generated: 2026-08-04T16:17:15.537Z
 
-Pages checked: 703
-Pages with issues: 186
-Total issues: 1053
+Pages checked: 705
+Pages with issues: 188
+Total issues: 1071
 Pages with review notes: 592
 Total review notes: 2126
 
@@ -12,19 +12,19 @@ Total review notes: 2126
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 127 |
-| MISSING_TWITTER_IMAGE | 127 |
-| MISSING_TWITTER_CARD | 113 |
-| MISSING_JSON_LD | 108 |
-| MISSING_OG_DESCRIPTION | 108 |
-| MISSING_OG_IMAGE | 107 |
-| MISSING_OG_TITLE | 106 |
-| MISSING_DESCRIPTION | 71 |
+| MISSING_KEYWORDS | 129 |
+| MISSING_TWITTER_IMAGE | 129 |
+| MISSING_TWITTER_CARD | 115 |
+| MISSING_JSON_LD | 110 |
+| MISSING_OG_DESCRIPTION | 110 |
+| MISSING_OG_IMAGE | 109 |
+| MISSING_OG_TITLE | 108 |
+| MISSING_DESCRIPTION | 72 |
 | DUPLICATE_KEYWORDS | 48 |
-| MISSING_CANONICAL | 41 |
+| MISSING_CANONICAL | 43 |
 | DUPLICATE_TITLE | 36 |
 | DUPLICATE_OG_TITLE | 34 |
-| DESCRIPTION_TOO_SHORT | 17 |
+| DESCRIPTION_TOO_SHORT | 18 |
 | DUPLICATE_CANONICAL | 10 |
 
 
@@ -1155,6 +1155,42 @@ Total review notes: 2126
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
 - DUPLICATE_CANONICAL: shared by 2 pages
+
+### pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0001/report/index.html
+
+- title: Zgłoś otrzymanie AS2-DEMOTOPIA-PL-0001 — samizdat 2.0
+- description length: 76
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 76
+
+### pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0001/report/received/index.html
+
+- title: Zgłoszenie otrzymane — AS2-DEMOTOPIA-PL-0001
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
 
 ### pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0002/index.html
 

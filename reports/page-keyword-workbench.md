@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-04T16:16:24.249Z
-Pages: 704
+Generated: 2026-08-04T16:17:16.145Z
+Pages: 706
 
 ## Index
 
@@ -376,6 +376,8 @@ Pages: 704
 | pl/books/radiance/sampo/index.html | pl | books | Ashraellen — Sampo \| Blask, Księga I | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | sampo, ashraellen, blask, books, nie, ale, artystycznych, badań, bez, było, chleb, czy, filozoficznej, fundacji, jeszcze, język, już, kogo |
 | pl/books/radiance/song/index.html | pl | books | Ashraellen — Pieśń \| Blask, Księga II | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | pieśń, ashraellen, bez, blask, books, nie, się, ale, artystycznych, ayla, badań, być, był, była, było, druga, dźwięku, fundacji |
 | pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0001/index.html | pl | books | AS2-DEMOTOPIA-PL-0001 — paszport egzemplarza Demotopii | _missing_ | egzemplarza, as2-demotopia-pl-0001, paszport, demotopia, demotopii, samizdat, stały, 2.0, books, egzemplarz, 0001, adres, as2, ashraellen, copies, historia, jeden, książki |
+| pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0001/report/index.html | pl | books | Zgłoś otrzymanie AS2-DEMOTOPIA-PL-0001 — samizdat 2.0 | _missing_ | as2-demotopia-pl-0001, otrzymanie, books, demotopia, egzemplarza, samizdat, zgłoś, 2.0, as2, ashraellen, copies, demotopii, formularz, historia, imię, kraj, lub, miejscowość |
+| pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0001/report/received/index.html | pl | books | Zgłoszenie otrzymane — AS2-DEMOTOPIA-PL-0001 | _missing_ | otrzymane, zgłoszenie, as2-demotopia-pl-0001, books, demotopia, dopiero, 2.0, as2, ashraellen, automatycznie, będzie, copies, dziękujemy, egzemplarza, formularzu, historia, informacji, pojawi |
 | pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0002/index.html | pl | books | AS2-DEMOTOPIA-PL-0002 — paszport egzemplarza Demotopii | _missing_ | demotopia, as2-demotopia-pl-0002, demotopii, egzemplarza, paszport, samizdat, 2.0, books, demokratyczna, egzemplarz, stały, as2, ashraellen, copies, książką, książki, nie, polskiego |
 | pl/books/samizdat/demotopia/index.html | pl | books | Demotopia — Paszport książki — samizdat 2.0 | _missing_ | demotopia, paszport, samizdat, 2.0, 2026, ashraellen, books, egzemplarz, książki, wydanie, autora, autorski, autorskiego, demotopii, fizyczne, fizycznego, książce, może |
 | pl/books/samizdat/index.html | pl | books | samizdat 2.0 — autorskie wydania Ashraellen | _missing_ | 2.0, samizdat, ashraellen, autorskie, wydania, bez, books, książka, autora, bezpośrednie, czym, dlaczego, działa, egzemplarz, egzemplarze, fizyczne, jeden, książek |
@@ -6986,6 +6988,40 @@ Excerpt:
 Excerpt:
 
 > Paszport egzemplarza / samizdat 2.0 Demotopia Demokratyczna Utopia Stały publiczny zapis jednego fizycznego egzemplarza autorskiego wydania Demotopii. ID egzemplarza AS2-DEMOTOPIA-PL-0001 Egzemplarz 0001 indywidualny zapis fizycznej książki Identyfikator AS2-DEMOTOPIA-PL-0001 Utwór Demotopia — Demokratyczna Utopia Autor Ashraellen Typ zapisu Paszport fizycznego egzemplarza Wydanie Autorskie wydanie fizyczne System samizdat 2.0 Język egzemplarza Polski Miejsce Warszawa Rok 2026 Odbiorca Prywatny odbiorca. Dane odbiorcy mogą zostać opublikowane w całości, częściowo albo pozostać niepubliczne. Status egzemplarza aktualny stan publicznego zapisu Egzemplarz jest przygotowywany do druku. Wykonanie egzemplarza nie zostało zarejestrowane. Przekazanie egzemplarza nie zostało zarejestrowane. Odbiorca i prywatność autentyczność nie zależy od publikacji nazwiska Brak nazwiska posiadacza w publicznym
+
+### pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0001/report/index.html
+
+- lang: pl
+- section: books
+- title: Zgłoś otrzymanie AS2-DEMOTOPIA-PL-0001 — samizdat 2.0
+- description: Formularz zgłoszenia otrzymania egzemplarza Demotopii AS2-DEMOTOPIA-PL-0001.
+- canonical: _missing_
+- H1: Zgłoś otrzymanie
+- H2: Samodzielnie określasz, co może zostać opublikowane.
+- H3: _missing_
+- suggested keyword seed: as2-demotopia-pl-0001, otrzymanie, books, demotopia, egzemplarza, samizdat, zgłoś, 2.0, as2, ashraellen, copies, demotopii, formularz, historia, imię, kraj, lub, miejscowość
+- candidates: egzemplarza, imię, kraj, miejscowość, as2-demotopia-pl-0001, historia, lub, nie, opublikuj, otrzymanie, pseudonim, zdarzenie, zostać, 2.0, informacji, może, opublikowane, paszportu, przekazania, publicznych, publikacji, samizdat, sprawdzone, tylko
+
+Excerpt:
+
+> Historia egzemplarza / samizdat 2.0 Zgłoś otrzymanie AS2-DEMOTOPIA-PL-0001 Zgłoszenie nie jest publikowane automatycznie. Najpierw zostaje sprawdzone, a następnie do paszportu może zostać dodane nowe potwierdzone zdarzenie. Kontakt podany do weryfikacji pozostaje niepubliczny. Prywatność Samodzielnie określasz, co może zostać opublikowane. Imię, pseudonim, miejscowość, kraj i historia przekazania mogą zostać opublikowane w całości, częściowo albo pozostać niepubliczne. Zdarzenie Wybierz Otrzymanie egzemplarza Przekazanie następnemu czytelnikowi Zwrot egzemplarza Inne zdarzenie Data zdarzenia Miejscowość Kraj Imię lub pseudonim do publikacji Zakres informacji publicznych Wybierz Opublikuj imię, miejscowość i kraj Opublikuj tylko imię lub pseudonim Opublikuj tylko miejscowość i kraj Użyj określenia „prywatny odbiorca” Całkowicie anonimowy zapis Email do weryfikacji Nie jest publikowany. Od
+
+### pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0001/report/received/index.html
+
+- lang: pl
+- section: books
+- title: Zgłoszenie otrzymane — AS2-DEMOTOPIA-PL-0001
+- description: _missing_
+- canonical: _missing_
+- H1: Zgłoszenie otrzymane
+- H2: Wpis pojawi się dopiero po weryfikacji.
+- H3: _missing_
+- suggested keyword seed: otrzymane, zgłoszenie, as2-demotopia-pl-0001, books, demotopia, dopiero, 2.0, as2, ashraellen, automatycznie, będzie, copies, dziękujemy, egzemplarza, formularzu, historia, informacji, pojawi
+- candidates: zgłoszenie, as2-demotopia-pl-0001, otrzymane, 2.0, automatycznie, będzie, dopiero, dziękujemy, egzemplarza, formularzu, historia, informacji, kontakt, nie, niepubliczny, opublikowane, podany, pojawi, poziomem, pozostaje, prywatności, publikowanych, samizdat, się
+
+Excerpt:
+
+> Historia egzemplarza / samizdat 2.0 Zgłoszenie otrzymane AS2-DEMOTOPIA-PL-0001 Dziękujemy. Zgłoszenie zostało wysłane do sprawdzenia. Nie zostanie opublikowane automatycznie. Wpis pojawi się dopiero po weryfikacji. Kontakt podany w formularzu pozostaje niepubliczny. Zakres publikowanych informacji będzie zgodny z wybranym poziomem prywatności.
 
 ### pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0002/index.html
 
