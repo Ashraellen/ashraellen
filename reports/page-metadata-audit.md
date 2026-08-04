@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-04T15:20:26.856Z
+Generated: 2026-08-04T15:21:14.888Z
 
-Pages checked: 701
-Pages with issues: 184
-Total issues: 1035
+Pages checked: 703
+Pages with issues: 186
+Total issues: 1053
 Pages with review notes: 592
 Total review notes: 2126
 
@@ -12,19 +12,19 @@ Total review notes: 2126
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 125 |
-| MISSING_TWITTER_IMAGE | 125 |
-| MISSING_TWITTER_CARD | 111 |
-| MISSING_JSON_LD | 106 |
-| MISSING_OG_DESCRIPTION | 106 |
-| MISSING_OG_IMAGE | 105 |
-| MISSING_OG_TITLE | 104 |
-| MISSING_DESCRIPTION | 70 |
+| MISSING_KEYWORDS | 127 |
+| MISSING_TWITTER_IMAGE | 127 |
+| MISSING_TWITTER_CARD | 113 |
+| MISSING_JSON_LD | 108 |
+| MISSING_OG_DESCRIPTION | 108 |
+| MISSING_OG_IMAGE | 107 |
+| MISSING_OG_TITLE | 106 |
+| MISSING_DESCRIPTION | 71 |
 | DUPLICATE_KEYWORDS | 48 |
-| MISSING_CANONICAL | 39 |
+| MISSING_CANONICAL | 41 |
 | DUPLICATE_TITLE | 36 |
 | DUPLICATE_OG_TITLE | 34 |
-| DESCRIPTION_TOO_SHORT | 16 |
+| DESCRIPTION_TOO_SHORT | 17 |
 | DUPLICATE_CANONICAL | 10 |
 
 
@@ -1635,6 +1635,42 @@ Total review notes: 2126
 - twitter:image: _missing_
 
 - MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### ru/books/samizdat/demotopia/copies/as2-demotopia-ru-0001/report/index.html
+
+- title: Сообщить о получении AS2-DEMOTOPIA-RU-0001 — самиздат 2.0
+- description length: 71
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 71
+
+### ru/books/samizdat/demotopia/copies/as2-demotopia-ru-0001/report/received/index.html
+
+- title: Сообщение получено — AS2-DEMOTOPIA-RU-0001
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
 - MISSING_JSON_LD
 - MISSING_OG_TITLE
 - MISSING_OG_DESCRIPTION
