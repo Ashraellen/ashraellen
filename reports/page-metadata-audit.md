@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-04T10:20:42.276Z
+Generated: 2026-08-04T10:32:58.667Z
 
-Pages checked: 630
-Pages with issues: 112
-Total issues: 438
+Pages checked: 631
+Pages with issues: 113
+Total issues: 445
 Pages with review notes: 592
 Total review notes: 2126
 
@@ -12,16 +12,16 @@ Total review notes: 2126
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 54 |
-| MISSING_TWITTER_IMAGE | 54 |
+| MISSING_KEYWORDS | 55 |
+| MISSING_TWITTER_IMAGE | 55 |
 | DUPLICATE_KEYWORDS | 48 |
-| MISSING_TWITTER_CARD | 40 |
+| MISSING_TWITTER_CARD | 41 |
 | DUPLICATE_TITLE | 36 |
-| MISSING_OG_DESCRIPTION | 35 |
+| MISSING_OG_DESCRIPTION | 36 |
+| MISSING_JSON_LD | 35 |
+| MISSING_OG_IMAGE | 35 |
 | DUPLICATE_OG_TITLE | 34 |
-| MISSING_JSON_LD | 34 |
-| MISSING_OG_IMAGE | 34 |
-| MISSING_OG_TITLE | 33 |
+| MISSING_OG_TITLE | 34 |
 | MISSING_DESCRIPTION | 13 |
 | MISSING_CANONICAL | 11 |
 | DESCRIPTION_TOO_SHORT | 10 |
@@ -1198,6 +1198,22 @@ Total review notes: 2126
 - title: самиздат 2.0 — авторские издания Ashraellen
 - description length: 123
 - canonical: https://www.ashraellen.com/ru/books/samizdat/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### ru/books/samizdat/monolith/index.html
+
+- title: MONOLITH — паспорт трилогии — самиздат 2.0
+- description length: 91
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/
 - og:image: _missing_
 - twitter:image: _missing_
 
