@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-04T11:22:46.459Z
-Pages: 633
+Generated: 2026-08-04T11:25:16.599Z
+Pages: 634
 
 ## Index
 
@@ -155,6 +155,7 @@ Pages: 633
 | en/books/radiance/song/index.html | en | books | Ashraellen — Song \| Radiance, Book II | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | song, about, book, radiance, ashraellen, books, language, sound, artistic-research, ayla, become, chapter, cultural, does, extended, featured, foundations, frame |
 | en/books/samizdat/demotopia/index.html | en | books | Demotopia — Book Passport — samizdat 2.0 | _missing_ | demotopia, book, passport, samizdat, 2.0, author-issued, edition, about, ashraellen, books, copy, physical, author, democratic, permanent, request, system |
 | en/books/samizdat/index.html | en | books | samizdat 2.0 — Ashraellen author editions | Ashraellen, samizdat 2.0, author editions, numbered books, signed copies, book passports, direct publishing | samizdat, 2.0, books, ashraellen, book, author, editions, how, now, physical, why, without, author-issued, belong, copies, copy, direct, edition |
+| en/books/samizdat/monolith/index.html | en | books | MONOLITH — trilogy passport — samizdat 2.0 | _missing_ | monolith, trilogy, 2.0, passport, samizdat, ashraellen, beton, books, gas, sequence, sludge, about, book, canonical, edition, form, independent, information |
 | en/books/samizdat/order/index.html | en | books | Request a samizdat 2.0 copy — Ashraellen | _missing_ | request, copy, 2.0, samizdat, ashraellen, author-issued, book, books, delivery, language, preparation, address, any, confirmation, estimate, order, payment, project |
 | en/books/samizdat/order/received/index.html | en | books | Request received — samizdat 2.0 | _missing_ | received, request, samizdat, 2.0, automatically, been, books, has, address, any, ashraellen, availability, created, email, order, purchase, you |
 | en/books/seccus/index.html | en | books | Ashraellen — THE SACRED BOOK OF SECCUS | Ashraellen, SECCUS, The Sacred Book of SECCUS, The Path of Honesty, philosophical satire, money, success, self-deception, knowledge as an alibi, responsibility, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Book | book, seccus, about, sacred, ashraellen, books, money, own, success, alibi, choice, corpus, does, frame, honesty, how, knowledge, literary-philosophical |
@@ -3158,6 +3159,23 @@ Excerpt:
 Excerpt:
 
 > Author-issued physical books / public book passports samizdat 2.0 A book does not have to become an anonymous product in order to become public. samizdat 2.0 is a contemporary structure for books completed by the author, given a physical form outside the industrial publishing chain, and transmitted directly to readers. Each edition remains connected to its origin through a permanent public passport. Why now publication is easy; presence is not Classical samizdat appeared where a text could not pass through official channels. Today the technical act of publication has become almost universally available. A file can be released instantly, a book can be printed on demand, and a text can circulate without asking permission. Yet this freedom creates another loss. The physical book is easily absorbed into the same anonymous circulation as every other product: generated, ordered, delivered and 
+
+### en/books/samizdat/monolith/index.html
+
+- lang: en
+- section: books
+- title: MONOLITH — trilogy passport — samizdat 2.0
+- description: Public passport of the MONOLITH trilogy: BETON, SLUDGE and GAS in Ashraellen samizdat 2.0.
+- canonical: https://www.ashraellen.com/en/books/samizdat/monolith/
+- H1: MONOLITH
+- H2: About the trilogy | Canonical sequence | Request edition information
+- H3: BETON | SLUDGE | GAS
+- suggested keyword seed: monolith, trilogy, 2.0, passport, samizdat, ashraellen, beton, books, gas, sequence, sludge, about, book, canonical, edition, form, independent, information
+- candidates: passport, book, monolith, trilogy, gas, sequence, sludge, beton, form, preparation, 2.0, independent, one, physical, samizdat, work, authorial, books, open, request, series, three, about, accepted
+
+Excerpt:
+
+> Series passport / samizdat 2.0 MONOLITH A trilogy in which matter becomes an environment and then disappears, leaving the human being inside the system they helped create. MONOLITH joins three independent books into one authorial sequence. Each book receives its own passport and physical form; this series passport preserves their order and relation. About the trilogy one structure / three independent works BETON, SLUDGE and GAS form a fixed sequence: from the solid, through the viscous, to the invisible. This record belongs to the trilogy as one authorial construction. It does not replace the passports of the individual books or identify any numbered physical copy. Canonical sequence BETON → SLUDGE → GAS I BETON Concrete The first book of the trilogy. A completed work with an accepted English print PDF. Open book passport → passport published II SLUDGE Sludge The second independent work 
 
 ### en/books/samizdat/order/index.html
 

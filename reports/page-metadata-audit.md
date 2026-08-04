@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-04T11:22:46.059Z
+Generated: 2026-08-04T11:25:15.881Z
 
-Pages checked: 632
-Pages with issues: 114
-Total issues: 452
+Pages checked: 633
+Pages with issues: 115
+Total issues: 459
 Pages with review notes: 592
 Total review notes: 2126
 
@@ -12,15 +12,15 @@ Total review notes: 2126
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 56 |
-| MISSING_TWITTER_IMAGE | 56 |
+| MISSING_KEYWORDS | 57 |
+| MISSING_TWITTER_IMAGE | 57 |
 | DUPLICATE_KEYWORDS | 48 |
-| MISSING_TWITTER_CARD | 42 |
-| MISSING_OG_DESCRIPTION | 37 |
+| MISSING_TWITTER_CARD | 43 |
+| MISSING_OG_DESCRIPTION | 38 |
+| MISSING_JSON_LD | 37 |
+| MISSING_OG_IMAGE | 37 |
 | DUPLICATE_TITLE | 36 |
-| MISSING_JSON_LD | 36 |
-| MISSING_OG_IMAGE | 36 |
-| MISSING_OG_TITLE | 35 |
+| MISSING_OG_TITLE | 36 |
 | DUPLICATE_OG_TITLE | 34 |
 | MISSING_DESCRIPTION | 13 |
 | MISSING_CANONICAL | 11 |
@@ -446,6 +446,22 @@ Total review notes: 2126
 - title: Demotopia — Book Passport — samizdat 2.0
 - description length: 107
 - canonical: https://www.ashraellen.com/en/books/samizdat/demotopia/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### en/books/samizdat/monolith/index.html
+
+- title: MONOLITH — trilogy passport — samizdat 2.0
+- description length: 90
+- canonical: https://www.ashraellen.com/en/books/samizdat/monolith/
 - og:image: _missing_
 - twitter:image: _missing_
 

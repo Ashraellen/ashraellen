@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-04T11:22:46.450Z",
+  "generated": "2026-08-04T11:25:16.587Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -11071,6 +11071,81 @@
         "copy",
         "direct",
         "edition"
+      ]
+    },
+    {
+      "page": "en/books/samizdat/monolith/index.html",
+      "lang": "en",
+      "section": "books",
+      "title": "MONOLITH — trilogy passport — samizdat 2.0",
+      "description": "Public passport of the MONOLITH trilogy: BETON, SLUDGE and GAS in Ashraellen samizdat 2.0.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/en/books/samizdat/monolith/",
+      "h1": [
+        "MONOLITH"
+      ],
+      "h2": [
+        "About the trilogy",
+        "Canonical sequence",
+        "Request edition information"
+      ],
+      "h3": [
+        "BETON",
+        "SLUDGE",
+        "GAS"
+      ],
+      "slugTerms": [
+        "en",
+        "books",
+        "samizdat",
+        "monolith"
+      ],
+      "excerpt": "Series passport / samizdat 2.0 MONOLITH A trilogy in which matter becomes an environment and then disappears, leaving the human being inside the system they helped create. MONOLITH joins three independent books into one authorial sequence. Each book receives its own passport and physical form; this series passport preserves their order and relation. About the trilogy one structure / three independent works BETON, SLUDGE and GAS form a fixed sequence: from the solid, through the viscous, to the invisible. This record belongs to the trilogy as one authorial construction. It does not replace the passports of the individual books or identify any numbered physical copy. Canonical sequence BETON → SLUDGE → GAS I BETON Concrete The first book of the trilogy. A completed work with an accepted English print PDF. Open book passport → passport published II SLUDGE Sludge The second independent work ",
+      "candidates": [
+        "passport",
+        "book",
+        "monolith",
+        "trilogy",
+        "gas",
+        "sequence",
+        "sludge",
+        "beton",
+        "form",
+        "preparation",
+        "2.0",
+        "independent",
+        "one",
+        "physical",
+        "samizdat",
+        "work",
+        "authorial",
+        "books",
+        "open",
+        "request",
+        "series",
+        "three",
+        "about",
+        "accepted"
+      ],
+      "suggestedKeywordSeed": [
+        "monolith",
+        "trilogy",
+        "2.0",
+        "passport",
+        "samizdat",
+        "ashraellen",
+        "beton",
+        "books",
+        "gas",
+        "sequence",
+        "sludge",
+        "about",
+        "book",
+        "canonical",
+        "edition",
+        "form",
+        "independent",
+        "information"
       ]
     },
     {
