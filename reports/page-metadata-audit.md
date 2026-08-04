@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-04T11:34:37.659Z
+Generated: 2026-08-04T12:23:04.677Z
 
-Pages checked: 636
-Pages with issues: 119
-Total issues: 482
+Pages checked: 638
+Pages with issues: 121
+Total issues: 499
 Pages with review notes: 592
 Total review notes: 2126
 
@@ -12,20 +12,20 @@ Total review notes: 2126
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 60 |
-| MISSING_TWITTER_IMAGE | 60 |
+| MISSING_KEYWORDS | 62 |
+| MISSING_TWITTER_IMAGE | 62 |
 | DUPLICATE_KEYWORDS | 48 |
-| MISSING_TWITTER_CARD | 46 |
-| MISSING_JSON_LD | 41 |
-| MISSING_OG_DESCRIPTION | 41 |
-| MISSING_OG_IMAGE | 40 |
-| MISSING_OG_TITLE | 39 |
+| MISSING_TWITTER_CARD | 48 |
+| MISSING_JSON_LD | 43 |
+| MISSING_OG_DESCRIPTION | 43 |
+| MISSING_OG_IMAGE | 42 |
+| MISSING_OG_TITLE | 41 |
 | DUPLICATE_TITLE | 36 |
 | DUPLICATE_OG_TITLE | 34 |
-| MISSING_DESCRIPTION | 13 |
+| MISSING_DESCRIPTION | 14 |
 | DESCRIPTION_TOO_SHORT | 11 |
 | MISSING_CANONICAL | 11 |
-| DUPLICATE_CANONICAL | 2 |
+| DUPLICATE_CANONICAL | 4 |
 
 
 ## Review note summary
@@ -1284,6 +1284,23 @@ Total review notes: 2126
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
 
+### ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0001/index.html
+
+- title: AS2-BETON-RU-0001 — паспорт экземпляра БЕТОН
+- description length: 88
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0001/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
 ### ru/books/samizdat/monolith/beton/index.html
 
 - title: БЕТОН — паспорт книги — самиздат 2.0
@@ -1350,6 +1367,24 @@ Total review notes: 2126
 - MISSING_OG_IMAGE
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
+
+### samizdat/copies/as2-beton-ru-0001/index.html
+
+- title: AS2-BETON-RU-0001
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0001/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
 
 ### samizdat/demotopia/index.html
 

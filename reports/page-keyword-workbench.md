@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-04T11:34:38.073Z
-Pages: 637
+Generated: 2026-08-04T12:23:05.268Z
+Pages: 639
 
 ## Index
 
@@ -506,6 +506,7 @@ Pages: 637
 | ru/books/radiance/song/index.html | ru | books | Ashraellen — Песня \| Сияние, книга II | ashraellen, books, radiance, song, песня, сияние, книга, вторая, цикла, расширенная, презентационная, страница, романа, звуке, слышании, языке, варшаве, песне | песня, ashraellen, books, без, книга, сияние, radiance, song, айла, был, была, было, варшаве, вторая, глава, звуке, избранная, издателей |
 | ru/books/samizdat/demotopia/index.html | ru | books | Demotopia — Паспорт книги — самиздат 2.0 | _missing_ | demotopia, паспорт, 2.0, ashraellen, самиздат, 2026, books, издание, книги, экземпляр, samizdat, автора, автором, авторский, авторского, варшава, запросить, издания |
 | ru/books/samizdat/index.html | ru | books | самиздат 2.0 — авторские издания Ashraellen | _missing_ | 2.0, самиздат, ashraellen, авторские, издания, books, без, книг, книга, книги, qr-паспорт, samizdat, автором, которой, может, нумерация, нумерованные, один |
+| ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0001/index.html | ru | books | AS2-BETON-RU-0001 — паспорт экземпляра БЕТОН | _missing_ | бетон, экземпляра, ashraellen, паспорт, 2.0, as2-beton-ru-0001, beton, books, samizdat, владельца, запись, as2, copies, monolith, дата, история, первого, передан |
 | ru/books/samizdat/monolith/beton/index.html | ru | books | БЕТОН — паспорт книги — самиздат 2.0 | _missing_ | samizdat, бетон, 2.0, ashraellen, паспорт, books, готовится, запись, монолит, произведения, том, beton, monolith, дата, запросить, изготовления, издание, издании |
 | ru/books/samizdat/monolith/index.html | ru | books | MONOLITH — паспорт трилогии — самиздат 2.0 | _missing_ | monolith, трилогии, 2.0, паспорт, ashraellen, beton, books, gas, sludge, авторской, книга, последовательность, самиздат, samizdat, готовится, запросить, издании, каноническая |
 | ru/books/samizdat/order/index.html | ru | books | Запросить экземпляр самиздата 2.0 — Ashraellen | _missing_ | экземпляр, 2.0, запрос, запросить, ashraellen, books, самиздата, экземпляра, order, samizdat, авторского, адрес, выберите, доставка, доставки, книга, книги, любом |
@@ -572,6 +573,7 @@ Pages: 637
 | ru/research/position/index.html | ru | research | Ashraellen — Position — Russian | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, ru, research, position | position, ashraellen, research, внутренний, исследователь, модели, наблюдения, независимый, описания, опыт, опыты, поле, работаю, russian, рассматривая, реальность, религии, сама |
 | ru/research/projects/index.html | ru | research | Ashraellen — Проекты исследования | ashraellen, research, projects, проекты, исследования, карта, рабочих, полей, монолит, основной, канал, публичное, поле, сатирические, боковые, лаборатории, восприятия, instagram | ashraellen, проекты, research, telegram, боковые, канал, лаборатории, монолит, поле, church, inner, instagram, melodies, occultus, projects, saint, scriptorium, sounds |
 | ru/research/sources/index.html | ru | research | Ashraellen — Источники и традиция | ashraellen, research, sources, источники, традиция, феноменология, сознания, тело, нарратив, когнитивная, наука, художественная, практика, методологические, линии, исследования, эдмунд, гуссерль | ashraellen, источники, тело, традиция, форма, research, варела, исследования, опыт, сознание, сознания, феноменология, sources, взаимодействие, восприятия, где, готовых, гуссерль |
+| samizdat/copies/as2-beton-ru-0001/index.html | root | samizdat | AS2-BETON-RU-0001 | _missing_ | as2-beton-ru-0001, samizdat, as2, ashraellen, beton, copies, открыть, паспорт, экземпляра |
 | samizdat/demotopia/index.html | root | samizdat | Demotopia — samizdat 2.0 | _missing_ | demotopia, samizdat, 2.0, ashraellen, book, entrance, multilingual, passport, permanent, choose, language |
 | samizdat/index.html | root | samizdat | samizdat 2.0 — Ashraellen | _missing_ | samizdat, 2.0, ashraellen, author, book, editions, entrance, language, passports, author-issued, choose, each, permanent |
 | samizdat/order/index.html | root | samizdat | Redirecting to the samizdat 2.0 order page — Ashraellen | _missing_ | samizdat, ashraellen, order, 2.0, redirecting, continue, english |
@@ -9130,6 +9132,23 @@ Excerpt:
 
 > Авторские физические книги / публичные паспорта книг самиздат 2.0 Чтобы стать публичной, книга не обязана превращаться в безликий товар. самиздат 2.0 — современная система для завершённых автором книг, получающих физическую форму вне индустриальной издательской цепочки и передаваемых читателю напрямую. Каждое издание сохраняет связь со своим происхождением через постоянный публичный паспорт. Почему сейчас опубликовать легко; сохранить присутствие — нет Классический самиздат возник там, где текст не мог пройти через официальные каналы. Сегодня техническая публикация стала почти общедоступной: файл можно выпустить мгновенно, книгу — напечатать по требованию, текст — распространять без разрешения. Но вместе с этой свободой возникает другая потеря. Физическая книга легко растворяется в безличном обороте товаров: изготовлена, заказана, доставлена и забыта без видимой связи между автором, пред
 
+### ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0001/index.html
+
+- lang: ru
+- section: books
+- title: AS2-BETON-RU-0001 — паспорт экземпляра БЕТОН
+- description: Паспорт первого русского физического экземпляра БЕТОН в системе Ashraellen Samizdat 2.0.
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0001/
+- H1: БЕТОН
+- H2: Запись экземпляра | История | Регистрация владельца | Постоянная запись
+- H3: Изготовление | Передача
+- suggested keyword seed: бетон, экземпляра, ashraellen, паспорт, 2.0, as2-beton-ru-0001, beton, books, samizdat, владельца, запись, as2, copies, monolith, дата, история, первого, передан
+- candidates: бетон, экземпляра, as2-beton-ru-0001, ashraellen, физический, экземпляр, 2.0, владельца, дата, паспорт, передан, получатель, русский, samizdat, запись, зафиксировано, идентификатор, имя, монолит, номер, один, первый, публичная, режим
+
+Excerpt:
+
+> Паспорт физического экземпляра / самиздат 2.0 Активный экземпляр · передан БЕТОН Мы все — часть одной стены МОНОЛИТ · Том I · ASHRAELLEN AS2-BETON-RU-0001 Это первый русский физический экземпляр БЕТОН, зарегистрированный в системе Ashraellen Samizdat 2.0. Запись экземпляра подтверждённые сведения Идентификатор AS2-BETON-RU-0001 Статус Передан Произведение БЕТОН Серия МОНОЛИТ, Том I Автор ASHRAELLEN Физический язык Русский Формат А5 Объём 296 страниц Переплёт Пружинный Бумага Офсетная, 80 г/м² Обложка Текстовая, без изображения Получатель Частный получатель Дата изготовления Не зафиксировано Дата передачи Не зафиксировано История публичная последовательность событий Изготовление Первый русский физический экземпляр БЕТОН завершён и принят автором. Точная дата в реестре не зафиксирована. Передача Экземпляр передан частному получателю. Имя владельца не публикуется. Регистрация владельца добр
+
 ### ru/books/samizdat/monolith/beton/index.html
 
 - lang: ru
@@ -10251,6 +10270,23 @@ Excerpt:
 Excerpt:
 
 > Источники и традиция Это исследование стоит на пересечении феноменологии сознания, нарративной эпистемологии, когнитивной науки и художественной практики. Гуссерль строил метод внимательного описания опыта. Мерло-Понти возвращал сознание в тело. Рикёр показывал, что нарратив — не украшение мысли, а форма самопонимания. Варела, Томпсон и Рош соединяли феноменологию с когнитивной наукой и живым опытом. Ashraellen работает там, где эти линии пересекаются: в области, где академический текст уже недостаточен, а живой опыт ещё не получил точной формы. Феноменология сознания Эдмунд Гуссерль — опыт до готовых объяснений Для этой линии важна не вера в первую мысль, а внимательное рассмотрение того, как опыт появляется в сознании. Привычные объяснения временно отодвигаются, чтобы стало видно само явление: мысль, ощущение, страх, ожидание, образ, внутренний импульс. Связь с Ashraellen: наблюдать мы
+
+### samizdat/copies/as2-beton-ru-0001/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-BETON-RU-0001
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0001/
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-beton-ru-0001, samizdat, as2, ashraellen, beton, copies, открыть, паспорт, экземпляра
+- candidates: as2-beton-ru-0001, открыть, паспорт, экземпляра
+
+Excerpt:
+
+> Открыть паспорт экземпляра AS2-BETON-RU-0001
 
 ### samizdat/demotopia/index.html
 
