@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-04T11:25:15.881Z
+Generated: 2026-08-04T11:25:48.258Z
 
-Pages checked: 633
-Pages with issues: 115
-Total issues: 459
+Pages checked: 634
+Pages with issues: 116
+Total issues: 467
 Pages with review notes: 592
 Total review notes: 2126
 
@@ -12,19 +12,19 @@ Total review notes: 2126
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 57 |
-| MISSING_TWITTER_IMAGE | 57 |
+| MISSING_KEYWORDS | 58 |
+| MISSING_TWITTER_IMAGE | 58 |
 | DUPLICATE_KEYWORDS | 48 |
-| MISSING_TWITTER_CARD | 43 |
-| MISSING_OG_DESCRIPTION | 38 |
-| MISSING_JSON_LD | 37 |
-| MISSING_OG_IMAGE | 37 |
+| MISSING_TWITTER_CARD | 44 |
+| MISSING_OG_DESCRIPTION | 39 |
+| MISSING_JSON_LD | 38 |
+| MISSING_OG_IMAGE | 38 |
+| MISSING_OG_TITLE | 37 |
 | DUPLICATE_TITLE | 36 |
-| MISSING_OG_TITLE | 36 |
 | DUPLICATE_OG_TITLE | 34 |
 | MISSING_DESCRIPTION | 13 |
+| DESCRIPTION_TOO_SHORT | 11 |
 | MISSING_CANONICAL | 11 |
-| DESCRIPTION_TOO_SHORT | 10 |
 | DUPLICATE_CANONICAL | 2 |
 
 
@@ -456,6 +456,23 @@ Total review notes: 2126
 - MISSING_OG_IMAGE
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
+
+### en/books/samizdat/monolith/beton/index.html
+
+- title: BETON — book passport — samizdat 2.0
+- description length: 62
+- canonical: https://www.ashraellen.com/en/books/samizdat/monolith/beton/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 62
 
 ### en/books/samizdat/monolith/index.html
 

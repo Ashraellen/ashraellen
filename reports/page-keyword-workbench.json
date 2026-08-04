@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-04T11:25:16.587Z",
+  "generated": "2026-08-04T11:25:48.847Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -11071,6 +11071,79 @@
         "copy",
         "direct",
         "edition"
+      ]
+    },
+    {
+      "page": "en/books/samizdat/monolith/beton/index.html",
+      "lang": "en",
+      "section": "books",
+      "title": "BETON — book passport — samizdat 2.0",
+      "description": "Public passport of BETON, Volume I of MONOLITH, by ASHRAELLEN.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/en/books/samizdat/monolith/beton/",
+      "h1": [
+        "BETON"
+      ],
+      "h2": [
+        "Canonical identity",
+        "English edition record",
+        "Structure",
+        "Request edition information"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "en",
+        "books",
+        "samizdat",
+        "monolith",
+        "beton"
+      ],
+      "excerpt": "MONOLITH / Volume I BETON We are all part of one wall. A completed novel and the first book of the MONOLITH trilogy. The book examines how conformity, managed meaning and the promise of safety harden into an environment that people begin to reproduce from within. ASHRAELLEN Canonical identity work-level public record Series MONOLITH Position Volume I Work type Novel Work status Completed Object identifier 2026-001B Index 6666548A English edition record verified and provisional fields kept separate Language English Accepted print PDF Yes Print PDF pages 295 Samizdat physical format In preparation Binding In preparation Paper In preparation Cover Text-only concept; final English composition in preparation Public availability In preparation The accepted English print PDF and the future English Samizdat physical edition are related but not identical records. Physical specifications will be r",
+      "candidates": [
+        "english",
+        "beton",
+        "physical",
+        "preparation",
+        "edition",
+        "monolith",
+        "samizdat",
+        "accepted",
+        "book",
+        "pdf",
+        "print",
+        "public",
+        "volume",
+        "work",
+        "after",
+        "ashraellen",
+        "availability",
+        "completed",
+        "composition",
+        "final",
+        "first",
+        "form",
+        "novel",
+        "passport"
+      ],
+      "suggestedKeywordSeed": [
+        "beton",
+        "edition",
+        "monolith",
+        "samizdat",
+        "ashraellen",
+        "book",
+        "books",
+        "english",
+        "passport",
+        "public",
+        "2.0",
+        "accepted",
+        "canonical",
+        "identity",
+        "information",
+        "pdf",
+        "physical",
+        "preparation"
       ]
     },
     {

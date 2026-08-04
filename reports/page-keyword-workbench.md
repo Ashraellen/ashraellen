@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-04T11:25:16.599Z
-Pages: 634
+Generated: 2026-08-04T11:25:48.860Z
+Pages: 635
 
 ## Index
 
@@ -155,6 +155,7 @@ Pages: 634
 | en/books/radiance/song/index.html | en | books | Ashraellen — Song \| Radiance, Book II | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | song, about, book, radiance, ashraellen, books, language, sound, artistic-research, ayla, become, chapter, cultural, does, extended, featured, foundations, frame |
 | en/books/samizdat/demotopia/index.html | en | books | Demotopia — Book Passport — samizdat 2.0 | _missing_ | demotopia, book, passport, samizdat, 2.0, author-issued, edition, about, ashraellen, books, copy, physical, author, democratic, permanent, request, system |
 | en/books/samizdat/index.html | en | books | samizdat 2.0 — Ashraellen author editions | Ashraellen, samizdat 2.0, author editions, numbered books, signed copies, book passports, direct publishing | samizdat, 2.0, books, ashraellen, book, author, editions, how, now, physical, why, without, author-issued, belong, copies, copy, direct, edition |
+| en/books/samizdat/monolith/beton/index.html | en | books | BETON — book passport — samizdat 2.0 | _missing_ | beton, edition, monolith, samizdat, ashraellen, book, books, english, passport, public, 2.0, accepted, canonical, identity, information, pdf, physical, preparation |
 | en/books/samizdat/monolith/index.html | en | books | MONOLITH — trilogy passport — samizdat 2.0 | _missing_ | monolith, trilogy, 2.0, passport, samizdat, ashraellen, beton, books, gas, sequence, sludge, about, book, canonical, edition, form, independent, information |
 | en/books/samizdat/order/index.html | en | books | Request a samizdat 2.0 copy — Ashraellen | _missing_ | request, copy, 2.0, samizdat, ashraellen, author-issued, book, books, delivery, language, preparation, address, any, confirmation, estimate, order, payment, project |
 | en/books/samizdat/order/received/index.html | en | books | Request received — samizdat 2.0 | _missing_ | received, request, samizdat, 2.0, automatically, been, books, has, address, any, ashraellen, availability, created, email, order, purchase, you |
@@ -3159,6 +3160,23 @@ Excerpt:
 Excerpt:
 
 > Author-issued physical books / public book passports samizdat 2.0 A book does not have to become an anonymous product in order to become public. samizdat 2.0 is a contemporary structure for books completed by the author, given a physical form outside the industrial publishing chain, and transmitted directly to readers. Each edition remains connected to its origin through a permanent public passport. Why now publication is easy; presence is not Classical samizdat appeared where a text could not pass through official channels. Today the technical act of publication has become almost universally available. A file can be released instantly, a book can be printed on demand, and a text can circulate without asking permission. Yet this freedom creates another loss. The physical book is easily absorbed into the same anonymous circulation as every other product: generated, ordered, delivered and 
+
+### en/books/samizdat/monolith/beton/index.html
+
+- lang: en
+- section: books
+- title: BETON — book passport — samizdat 2.0
+- description: Public passport of BETON, Volume I of MONOLITH, by ASHRAELLEN.
+- canonical: https://www.ashraellen.com/en/books/samizdat/monolith/beton/
+- H1: BETON
+- H2: Canonical identity | English edition record | Structure | Request edition information
+- H3: _missing_
+- suggested keyword seed: beton, edition, monolith, samizdat, ashraellen, book, books, english, passport, public, 2.0, accepted, canonical, identity, information, pdf, physical, preparation
+- candidates: english, beton, physical, preparation, edition, monolith, samizdat, accepted, book, pdf, print, public, volume, work, after, ashraellen, availability, completed, composition, final, first, form, novel, passport
+
+Excerpt:
+
+> MONOLITH / Volume I BETON We are all part of one wall. A completed novel and the first book of the MONOLITH trilogy. The book examines how conformity, managed meaning and the promise of safety harden into an environment that people begin to reproduce from within. ASHRAELLEN Canonical identity work-level public record Series MONOLITH Position Volume I Work type Novel Work status Completed Object identifier 2026-001B Index 6666548A English edition record verified and provisional fields kept separate Language English Accepted print PDF Yes Print PDF pages 295 Samizdat physical format In preparation Binding In preparation Paper In preparation Cover Text-only concept; final English composition in preparation Public availability In preparation The accepted English print PDF and the future English Samizdat physical edition are related but not identical records. Physical specifications will be r
 
 ### en/books/samizdat/monolith/index.html
 
