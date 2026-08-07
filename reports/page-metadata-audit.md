@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-07T15:00:03.034Z
+Generated: 2026-08-07T15:03:04.083Z
 
-Pages checked: 744
-Pages with issues: 227
-Total issues: 1412
+Pages checked: 766
+Pages with issues: 249
+Total issues: 1606
 Pages with review notes: 592
 Total review notes: 2126
 
@@ -12,16 +12,16 @@ Total review notes: 2126
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 168 |
-| MISSING_TWITTER_IMAGE | 168 |
-| MISSING_TWITTER_CARD | 154 |
-| MISSING_JSON_LD | 149 |
-| MISSING_OG_DESCRIPTION | 149 |
-| MISSING_OG_IMAGE | 148 |
-| MISSING_OG_TITLE | 147 |
-| MISSING_DESCRIPTION | 100 |
+| MISSING_KEYWORDS | 190 |
+| MISSING_TWITTER_IMAGE | 190 |
+| MISSING_TWITTER_CARD | 176 |
+| MISSING_JSON_LD | 171 |
+| MISSING_OG_DESCRIPTION | 171 |
+| MISSING_OG_IMAGE | 170 |
+| MISSING_OG_TITLE | 169 |
+| MISSING_DESCRIPTION | 120 |
+| DUPLICATE_CANONICAL | 66 |
 | DUPLICATE_KEYWORDS | 48 |
-| DUPLICATE_CANONICAL | 46 |
 | MISSING_CANONICAL | 45 |
 | DUPLICATE_TITLE | 36 |
 | DUPLICATE_OG_TITLE | 34 |
@@ -1514,6 +1514,112 @@ Total review notes: 2126
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
 
+### pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0001/index.html
+
+- title: AS2-GAS-PL-0001 — paszport egzemplarza GAS
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0001/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0002/index.html
+
+- title: AS2-GAS-PL-0002 — paszport egzemplarza GAS
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0002/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0003/index.html
+
+- title: AS2-GAS-PL-0003 — paszport egzemplarza GAS
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0003/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0004/index.html
+
+- title: AS2-GAS-PL-0004 — paszport egzemplarza GAS
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0004/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0005/index.html
+
+- title: AS2-GAS-PL-0005 — paszport egzemplarza GAS
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0005/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### pl/books/samizdat/monolith/gas/index.html
+
+- title: GAS / Gaz — paszport książki — samizdat 2.0
+- description length: 82
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/gas/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
 ### pl/books/samizdat/monolith/index.html
 
 - title: MONOLITH — paszport trylogii — samizdat 2.0
@@ -2185,6 +2291,112 @@ Total review notes: 2126
 - title: БЕТОН — паспорт книги — самиздат 2.0
 - description length: 90
 - canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/beton/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0001/index.html
+
+- title: AS2-GAS-RU-0001 — паспорт экземпляра GAS
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0001/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0002/index.html
+
+- title: AS2-GAS-RU-0002 — паспорт экземпляра GAS
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0002/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0003/index.html
+
+- title: AS2-GAS-RU-0003 — паспорт экземпляра GAS
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0003/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0004/index.html
+
+- title: AS2-GAS-RU-0004 — паспорт экземпляра GAS
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0004/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0005/index.html
+
+- title: AS2-GAS-RU-0005 — паспорт экземпляра GAS
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0005/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### ru/books/samizdat/monolith/gas/index.html
+
+- title: GAS / ГАЗ — паспорт книги — самиздат 2.0
+- description length: 80
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/gas/
 - og:image: _missing_
 - twitter:image: _missing_
 
@@ -3060,6 +3272,186 @@ Total review notes: 2126
 - title: AS2-DEMOTOPIA-RU-0005
 - description length: 0
 - canonical: https://www.ashraellen.com/ru/books/samizdat/demotopia/copies/as2-demotopia-ru-0005/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-gas-pl-0001/index.html
+
+- title: AS2-GAS-PL-0001
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0001/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-gas-pl-0002/index.html
+
+- title: AS2-GAS-PL-0002
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0002/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-gas-pl-0003/index.html
+
+- title: AS2-GAS-PL-0003
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0003/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-gas-pl-0004/index.html
+
+- title: AS2-GAS-PL-0004
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0004/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-gas-pl-0005/index.html
+
+- title: AS2-GAS-PL-0005
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0005/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-gas-ru-0001/index.html
+
+- title: AS2-GAS-RU-0001
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0001/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-gas-ru-0002/index.html
+
+- title: AS2-GAS-RU-0002
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0002/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-gas-ru-0003/index.html
+
+- title: AS2-GAS-RU-0003
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0003/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-gas-ru-0004/index.html
+
+- title: AS2-GAS-RU-0004
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0004/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-gas-ru-0005/index.html
+
+- title: AS2-GAS-RU-0005
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0005/
 - og:image: _missing_
 - twitter:image: _missing_
 

@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-07T15:00:03.657Z
-Pages: 745
+Generated: 2026-08-07T15:03:04.674Z
+Pages: 767
 
 ## Index
 
@@ -397,6 +397,12 @@ Pages: 745
 | pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0009/index.html | pl | books | AS2-BETON-PL-0009 — paszport egzemplarza BETON | _missing_ | beton, as2-beton-pl-0009, books, egzemplarza, paszport, 2.0, 283, as2, ashraellen, autentyczności, copies, częścią, dane, dobrowolna, monolith, nie, polski, samizdat |
 | pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0010/index.html | pl | books | AS2-BETON-PL-0010 — paszport egzemplarza BETON | _missing_ | beton, as2-beton-pl-0010, books, egzemplarza, paszport, 2.0, 283, as2, ashraellen, autentyczności, copies, częścią, dane, dobrowolna, monolith, nie, polski, samizdat |
 | pl/books/samizdat/monolith/beton/index.html | pl | books | BETON — paszport książki — samizdat 2.0 | _missing_ | beton, samizdat, 2.0, ashraellen, monolith, paszport, books, dzieła, książki, polski, egzemplarzem, fizyczne, kontur, konturze, książce, pdf, polskim, print |
+| pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0001/index.html | pl | books | AS2-GAS-PL-0001 — paszport egzemplarza GAS | _missing_ | gas, egzemplarza, 0001, as2-gas-pl-0001, ashraellen, books, paszport, 2.0, as2, autor, autora, copies, egzemplarz, gaz, historia, monolith, nie, samizdat |
+| pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0002/index.html | pl | books | AS2-GAS-PL-0002 — paszport egzemplarza GAS | _missing_ | gas, egzemplarza, 0002, as2-gas-pl-0002, ashraellen, books, paszport, 0001, 2.0, as2, autor, autora, copies, egzemplarz, historia, monolith, nie, samizdat |
+| pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0003/index.html | pl | books | AS2-GAS-PL-0003 — paszport egzemplarza GAS | _missing_ | gas, egzemplarza, 0003, as2-gas-pl-0003, ashraellen, books, paszport, 0001, 2.0, as2, autor, autora, copies, egzemplarz, historia, monolith, nie, samizdat |
+| pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0004/index.html | pl | books | AS2-GAS-PL-0004 — paszport egzemplarza GAS | _missing_ | gas, egzemplarza, 0004, as2-gas-pl-0004, ashraellen, books, paszport, 0001, 2.0, as2, autor, autora, copies, egzemplarz, historia, monolith, nie, samizdat |
+| pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0005/index.html | pl | books | AS2-GAS-PL-0005 — paszport egzemplarza GAS | _missing_ | gas, egzemplarza, 0005, as2-gas-pl-0005, ashraellen, books, paszport, 0001, 2.0, as2, autor, autora, copies, egzemplarz, historia, monolith, nie, samizdat |
+| pl/books/samizdat/monolith/gas/index.html | pl | books | GAS / Gaz — paszport książki — samizdat 2.0 | _missing_ | gas, samizdat, 2.0, ashraellen, gaz, monolith, paszport, books, dzieła, egzemplarze, fizyczne, iii, tom, książki, systemie, trylogii, zapis |
 | pl/books/samizdat/monolith/index.html | pl | books | MONOLITH — paszport trylogii — samizdat 2.0 | _missing_ | monolith, trylogii, 2.0, paszport, samizdat, ashraellen, beton, books, gas, książka, sludge, autorskiej, egzemplarz, kanoniczna, kolejność, książki, przygotowaniu, sekwencję |
 | pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0001/index.html | pl | books | AS2-SLUDGE-PL-0001 — paszport egzemplarza SLUDGE | _missing_ | sludge, egzemplarza, 0001, as2-sludge-pl-0001, ashraellen, books, paszport, 2.0, as2, autor, autora, copies, egzemplarz, historia, monolith, nie, samizdat, status |
 | pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0002/index.html | pl | books | AS2-SLUDGE-PL-0002 — paszport egzemplarza SLUDGE | _missing_ | sludge, egzemplarza, 0002, as2-sludge-pl-0002, ashraellen, books, paszport, 0001, 2.0, as2, autor, copies, egzemplarz, historia, monolith, nie, samizdat, status |
@@ -559,6 +565,12 @@ Pages: 745
 | ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0009/index.html | ru | books | AS2-BETON-RU-0009 — паспорт экземпляра БЕТОН | _missing_ | бетон, as2-beton-ru-0009, beton, books, паспорт, экземпляра, 296, as2, ashraellen, copies, monolith, samizdat, бумага, владелец, владельца, все, добровольна, зарегистрирован |
 | ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0010/index.html | ru | books | AS2-BETON-RU-0010 — паспорт экземпляра БЕТОН | _missing_ | бетон, as2-beton-ru-0010, beton, books, паспорт, экземпляра, 296, as2, ashraellen, copies, monolith, samizdat, бумага, владелец, владельца, все, добровольна, зарегистрирован |
 | ru/books/samizdat/monolith/beton/index.html | ru | books | БЕТОН — паспорт книги — самиздат 2.0 | _missing_ | samizdat, бетон, 2.0, ashraellen, паспорт, books, готовится, запись, монолит, произведения, том, beton, monolith, дата, запросить, изготовления, издание, издании |
+| ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0001/index.html | ru | books | AS2-GAS-RU-0001 — паспорт экземпляра GAS | _missing_ | gas, экземпляра, 0001, as2-gas-ru-0001, ashraellen, books, паспорт, 2.0, as2, copies, iii, monolith, samizdat, автор, автором, газ, история, создан |
+| ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0002/index.html | ru | books | AS2-GAS-RU-0002 — паспорт экземпляра GAS | _missing_ | gas, экземпляра, 0002, as2-gas-ru-0002, ashraellen, books, паспорт, 0001, 2.0, as2, copies, iii, monolith, samizdat, автор, автором, история, создан |
+| ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0003/index.html | ru | books | AS2-GAS-RU-0003 — паспорт экземпляра GAS | _missing_ | gas, экземпляра, 0003, as2-gas-ru-0003, ashraellen, books, паспорт, 0001, 2.0, as2, copies, iii, monolith, samizdat, автор, автором, история, создан |
+| ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0004/index.html | ru | books | AS2-GAS-RU-0004 — паспорт экземпляра GAS | _missing_ | gas, экземпляра, 0004, as2-gas-ru-0004, ashraellen, books, паспорт, 0001, 2.0, as2, copies, iii, monolith, samizdat, автор, автором, история, создан |
+| ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0005/index.html | ru | books | AS2-GAS-RU-0005 — паспорт экземпляра GAS | _missing_ | gas, экземпляра, 0005, as2-gas-ru-0005, ashraellen, books, паспорт, 0001, 2.0, as2, copies, iii, monolith, samizdat, автор, автором, история, создан |
+| ru/books/samizdat/monolith/gas/index.html | ru | books | GAS / ГАЗ — паспорт книги — самиздат 2.0 | _missing_ | gas, 2.0, ashraellen, monolith, газ, паспорт, books, iii, samizdat, книги, произведения, том, запись, монолит, название, самиздат, системе, трилогии |
 | ru/books/samizdat/monolith/index.html | ru | books | MONOLITH — паспорт трилогии — самиздат 2.0 | _missing_ | monolith, трилогии, 2.0, паспорт, ashraellen, beton, books, gas, sludge, авторской, книга, последовательность, самиздат, samizdat, готовится, запросить, издании, каноническая |
 | ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0001/index.html | ru | books | AS2-SLUDGE-RU-0001 — паспорт экземпляра SLUDGE | _missing_ | sludge, экземпляра, as2-sludge-ru-0001, паспорт, 0001, ashraellen, books, жижа, 2.0, as2, copies, monolith, samizdat, автор, автором, без, история, постоянный |
 | ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0002/index.html | ru | books | AS2-SLUDGE-RU-0002 — паспорт экземпляра SLUDGE | _missing_ | sludge, экземпляра, 0002, as2-sludge-ru-0002, ashraellen, books, паспорт, 0001, 2.0, as2, copies, monolith, samizdat, автор, автором, жижа, история, создан |
@@ -670,6 +682,16 @@ Pages: 745
 | samizdat/copies/as2-demotopia-ru-0003/index.html | root | samizdat | AS2-DEMOTOPIA-RU-0003 | _missing_ | as2-demotopia-ru-0003, samizdat, as2, ashraellen, copies, demotopia, открыть, паспорт, экземпляра |
 | samizdat/copies/as2-demotopia-ru-0004/index.html | root | samizdat | AS2-DEMOTOPIA-RU-0004 | _missing_ | as2-demotopia-ru-0004, samizdat, as2, ashraellen, copies, demotopia, открыть, паспорт, экземпляра |
 | samizdat/copies/as2-demotopia-ru-0005/index.html | root | samizdat | AS2-DEMOTOPIA-RU-0005 | _missing_ | as2-demotopia-ru-0005, samizdat, as2, ashraellen, copies, demotopia, открыть, паспорт, экземпляра |
+| samizdat/copies/as2-gas-pl-0001/index.html | root | samizdat | AS2-GAS-PL-0001 | _missing_ | as2-gas-pl-0001, samizdat, as2, ashraellen, copies, gas |
+| samizdat/copies/as2-gas-pl-0002/index.html | root | samizdat | AS2-GAS-PL-0002 | _missing_ | as2-gas-pl-0002, samizdat, as2, ashraellen, copies, gas |
+| samizdat/copies/as2-gas-pl-0003/index.html | root | samizdat | AS2-GAS-PL-0003 | _missing_ | as2-gas-pl-0003, samizdat, as2, ashraellen, copies, gas |
+| samizdat/copies/as2-gas-pl-0004/index.html | root | samizdat | AS2-GAS-PL-0004 | _missing_ | as2-gas-pl-0004, samizdat, as2, ashraellen, copies, gas |
+| samizdat/copies/as2-gas-pl-0005/index.html | root | samizdat | AS2-GAS-PL-0005 | _missing_ | as2-gas-pl-0005, samizdat, as2, ashraellen, copies, gas |
+| samizdat/copies/as2-gas-ru-0001/index.html | root | samizdat | AS2-GAS-RU-0001 | _missing_ | as2-gas-ru-0001, samizdat, as2, ashraellen, copies, gas |
+| samizdat/copies/as2-gas-ru-0002/index.html | root | samizdat | AS2-GAS-RU-0002 | _missing_ | as2-gas-ru-0002, samizdat, as2, ashraellen, copies, gas |
+| samizdat/copies/as2-gas-ru-0003/index.html | root | samizdat | AS2-GAS-RU-0003 | _missing_ | as2-gas-ru-0003, samizdat, as2, ashraellen, copies, gas |
+| samizdat/copies/as2-gas-ru-0004/index.html | root | samizdat | AS2-GAS-RU-0004 | _missing_ | as2-gas-ru-0004, samizdat, as2, ashraellen, copies, gas |
+| samizdat/copies/as2-gas-ru-0005/index.html | root | samizdat | AS2-GAS-RU-0005 | _missing_ | as2-gas-ru-0005, samizdat, as2, ashraellen, copies, gas |
 | samizdat/copies/as2-sludge-pl-0001/index.html | root | samizdat | AS2-SLUDGE-PL-0001 | _missing_ | as2-sludge-pl-0001, samizdat, as2, ashraellen, copies, sludge |
 | samizdat/copies/as2-sludge-pl-0002/index.html | root | samizdat | AS2-SLUDGE-PL-0002 | _missing_ | as2-sludge-pl-0002, samizdat, as2, ashraellen, copies, sludge |
 | samizdat/copies/as2-sludge-pl-0003/index.html | root | samizdat | AS2-SLUDGE-PL-0003 | _missing_ | as2-sludge-pl-0003, samizdat, as2, ashraellen, copies, sludge |
@@ -7385,6 +7407,108 @@ Excerpt:
 
 > MONOLITH / Tom I BETON Wszyscy jesteśmy częścią jednej ściany. ASHRAELLEN Ukończona powieść i pierwsza część trylogii MONOLITH. Paszport zachowuje tożsamość dzieła, zatwierdzone artefakty wydawnicze oraz oddzielny status przyszłego fizycznego wydania samizdatowego. O książce dzieło ukończone BETON otwiera MONOLITH jako opowieść o człowieku wewnątrz struktury, która z otoczenia staje się warunkiem istnienia. Książka jest samodzielnym dziełem i zarazem pierwszym tomem ustalonej sekwencji BETON → SLUDGE → GAS. Stały zapis dzieła potwierdzone dane Seria MONOLITH Pozycja w serii Tom I Tytuł BETON Podtytuł Wszyscy jesteśmy częścią jednej ściany. Autor ASHRAELLEN Język polski Rodzaj dzieła powieść Status dzieła ukończone Identyfikator obiektu 2026-001B Indeks 6666548A Struktura 4 bloki, 26 rozdziałów, epilog i apokryf Polski kontur wydawniczy przyjęte artefakty Print PDF przyjęty przez autora L
 
+### pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0001/index.html
+
+- lang: pl
+- section: books
+- title: AS2-GAS-PL-0001 — paszport egzemplarza GAS
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0001/
+- H1: GAS
+- H2: Egzemplarz 0001 | Status egzemplarza | Historia egzemplarza
+- H3: _missing_
+- suggested keyword seed: gas, egzemplarza, 0001, as2-gas-pl-0001, ashraellen, books, paszport, 2.0, as2, autor, autora, copies, egzemplarz, gaz, historia, monolith, nie, samizdat
+- candidates: egzemplarza, paszport, as2-gas-pl-0001, gas, 0001, gaz, nie, utworzony, 2.0, ashraellen, autor, autora, egzemplarz, historia, identyfikator, iii, język, monolith, odbiorca, określono, polski, przekazanie, przez, samizdat
+
+Excerpt:
+
+> Paszport egzemplarza / samizdat 2.0 GAS Gaz AS2-GAS-PL-0001 Egzemplarz 0001 Identyfikator AS2-GAS-PL-0001 Utwór GAS / Gaz Seria MONOLITH · Tom III Autor Ashraellen Język egzemplarza Polski Odbiorca Nie określono Status egzemplarza Paszport utworzony. Wykonanie i przekazanie egzemplarza nie zostały zarejestrowane. Historia egzemplarza Zdarzenie 0001 — paszport utworzony. Zarejestrowano przez autora.
+
+### pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0002/index.html
+
+- lang: pl
+- section: books
+- title: AS2-GAS-PL-0002 — paszport egzemplarza GAS
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0002/
+- H1: GAS
+- H2: Egzemplarz 0002 | Historia egzemplarza
+- H3: _missing_
+- suggested keyword seed: gas, egzemplarza, 0002, as2-gas-pl-0002, ashraellen, books, paszport, 0001, 2.0, as2, autor, autora, copies, egzemplarz, historia, monolith, nie, samizdat
+- candidates: egzemplarza, paszport, as2-gas-pl-0002, gas, nie, utworzony, 0001, 0002, 2.0, ashraellen, autor, autora, egzemplarz, gaz, historia, identyfikator, iii, język, monolith, odbiorca, określono, polski, przekazanie, przez
+
+Excerpt:
+
+> Paszport egzemplarza / samizdat 2.0 GAS Gaz AS2-GAS-PL-0002 Egzemplarz 0002 Identyfikator AS2-GAS-PL-0002 Seria MONOLITH · Tom III Autor Ashraellen Język egzemplarza Polski Odbiorca Nie określono Paszport utworzony. Wykonanie i przekazanie egzemplarza nie zostały zarejestrowane. Historia egzemplarza Zdarzenie 0001 — paszport utworzony. Zarejestrowano przez autora.
+
+### pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0003/index.html
+
+- lang: pl
+- section: books
+- title: AS2-GAS-PL-0003 — paszport egzemplarza GAS
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0003/
+- H1: GAS
+- H2: Egzemplarz 0003 | Historia egzemplarza
+- H3: _missing_
+- suggested keyword seed: gas, egzemplarza, 0003, as2-gas-pl-0003, ashraellen, books, paszport, 0001, 2.0, as2, autor, autora, copies, egzemplarz, historia, monolith, nie, samizdat
+- candidates: egzemplarza, paszport, as2-gas-pl-0003, gas, nie, utworzony, 0001, 0003, 2.0, ashraellen, autor, autora, egzemplarz, gaz, historia, identyfikator, iii, język, monolith, odbiorca, określono, polski, przekazanie, przez
+
+Excerpt:
+
+> Paszport egzemplarza / samizdat 2.0 GAS Gaz AS2-GAS-PL-0003 Egzemplarz 0003 Identyfikator AS2-GAS-PL-0003 Seria MONOLITH · Tom III Autor Ashraellen Język egzemplarza Polski Odbiorca Nie określono Paszport utworzony. Wykonanie i przekazanie egzemplarza nie zostały zarejestrowane. Historia egzemplarza Zdarzenie 0001 — paszport utworzony. Zarejestrowano przez autora.
+
+### pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0004/index.html
+
+- lang: pl
+- section: books
+- title: AS2-GAS-PL-0004 — paszport egzemplarza GAS
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0004/
+- H1: GAS
+- H2: Egzemplarz 0004 | Historia egzemplarza
+- H3: _missing_
+- suggested keyword seed: gas, egzemplarza, 0004, as2-gas-pl-0004, ashraellen, books, paszport, 0001, 2.0, as2, autor, autora, copies, egzemplarz, historia, monolith, nie, samizdat
+- candidates: egzemplarza, paszport, as2-gas-pl-0004, gas, nie, utworzony, 0001, 0004, 2.0, ashraellen, autor, autora, egzemplarz, gaz, historia, identyfikator, iii, język, monolith, odbiorca, określono, polski, przekazanie, przez
+
+Excerpt:
+
+> Paszport egzemplarza / samizdat 2.0 GAS Gaz AS2-GAS-PL-0004 Egzemplarz 0004 Identyfikator AS2-GAS-PL-0004 Seria MONOLITH · Tom III Autor Ashraellen Język egzemplarza Polski Odbiorca Nie określono Paszport utworzony. Wykonanie i przekazanie egzemplarza nie zostały zarejestrowane. Historia egzemplarza Zdarzenie 0001 — paszport utworzony. Zarejestrowano przez autora.
+
+### pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0005/index.html
+
+- lang: pl
+- section: books
+- title: AS2-GAS-PL-0005 — paszport egzemplarza GAS
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0005/
+- H1: GAS
+- H2: Egzemplarz 0005 | Historia egzemplarza
+- H3: _missing_
+- suggested keyword seed: gas, egzemplarza, 0005, as2-gas-pl-0005, ashraellen, books, paszport, 0001, 2.0, as2, autor, autora, copies, egzemplarz, historia, monolith, nie, samizdat
+- candidates: egzemplarza, paszport, as2-gas-pl-0005, gas, nie, utworzony, 0001, 0005, 2.0, ashraellen, autor, autora, egzemplarz, gaz, historia, identyfikator, iii, język, monolith, odbiorca, określono, polski, przekazanie, przez
+
+Excerpt:
+
+> Paszport egzemplarza / samizdat 2.0 GAS Gaz AS2-GAS-PL-0005 Egzemplarz 0005 Identyfikator AS2-GAS-PL-0005 Seria MONOLITH · Tom III Autor Ashraellen Język egzemplarza Polski Odbiorca Nie określono Paszport utworzony. Wykonanie i przekazanie egzemplarza nie zostały zarejestrowane. Historia egzemplarza Zdarzenie 0001 — paszport utworzony. Zarejestrowano przez autora.
+
+### pl/books/samizdat/monolith/gas/index.html
+
+- lang: pl
+- section: books
+- title: GAS / Gaz — paszport książki — samizdat 2.0
+- description: Paszport GAS / Gaz — Tom III trylogii MONOLITH w systemie Ashraellen Samizdat 2.0.
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/gas/
+- H1: GAS
+- H2: Zapis dzieła | Egzemplarze fizyczne
+- H3: _missing_
+- suggested keyword seed: gas, samizdat, 2.0, ashraellen, gaz, monolith, paszport, books, dzieła, egzemplarze, fizyczne, iii, tom, książki, systemie, trylogii, zapis
+- candidates: gas, gaz, monolith, paszport, 2.0, ashraellen, iii, samizdat, tom, dzieła, egzemplarze, fizyczne, książki, publikowane, trylogii, tytuł, autor, beton, cechy, dane, druku, formacie, kanoniczny, konkretnego
+
+Excerpt:
+
+> Paszport książki / samizdat 2.0 MONOLITH Tom III GAS Gaz ASHRAELLEN Trzecia samodzielna książka trylogii MONOLITH. Paszport utrwala tożsamość dzieła; cechy fizyczne konkretnego wydania są publikowane wyłącznie po weryfikacji. Zapis dzieła Seria MONOLITH Miejsce w serii Tom III Tytuł kanoniczny GAS Tytuł polski Gaz Autor ASHRAELLEN Sekwencja BETON → SLUDGE → GAS Egzemplarze fizyczne Numerowane egzemplarze otrzymują osobne stałe paszporty. Niezweryfikowane dane o formacie, objętości, papierze, oprawie i metodzie druku nie są tu publikowane.
+
 ### pl/books/samizdat/monolith/index.html
 
 - lang: pl
@@ -10139,6 +10263,108 @@ Excerpt:
 
 > Паспорт книги / самиздат 2.0 МОНОЛИТ Том I БЕТОН Мы все — часть одной стены ASHRAELLEN Завершённый роман и первая книга трилогии МОНОЛИТ. Публичный паспорт сохраняет идентичность произведения и постепенно дополняется подтверждёнными сведениями о русском физическом издании. О книге завершённое произведение / Том I БЕТОН исследует мир, в котором согласие становится материалом, комфорт — технологией управления, а незаметная трещина в общей конструкции превращается в единственную возможность сохранить собственное восприятие. Книга открывает последовательность МОНОЛИТ и существует как самостоятельное произведение. Следующие тома серии — SLUDGE и GAS. Запись произведения подтверждённые идентификаторы Серия МОНОЛИТ Положение в серии Том I Название БЕТОН Подзаголовок Мы все — часть одной стены Автор ASHRAELLEN Язык Русский Тип произведения Роман Статус произведения Завершено Идентификатор объект
 
+### ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0001/index.html
+
+- lang: ru
+- section: books
+- title: AS2-GAS-RU-0001 — паспорт экземпляра GAS
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0001/
+- H1: GAS
+- H2: Экземпляр 0001 | Статус экземпляра | История экземпляра
+- H3: _missing_
+- suggested keyword seed: gas, экземпляра, 0001, as2-gas-ru-0001, ashraellen, books, паспорт, 2.0, as2, copies, iii, monolith, samizdat, автор, автором, газ, история, создан
+- candidates: экземпляра, паспорт, as2-gas-ru-0001, gas, 0001, газ, создан, 2.0, ashraellen, iii, автор, автором, запись, зарегистрировано, зафиксированы, идентификатор, изготовление, история, монолит, одного, определён, передача, получатель, постоянная
+
+Excerpt:
+
+> Паспорт экземпляра / самиздат 2.0 GAS ГАЗ Постоянная публичная запись одного физического экземпляра. AS2-GAS-RU-0001 Экземпляр 0001 Идентификатор AS2-GAS-RU-0001 Произведение GAS / ГАЗ Серия МОНОЛИТ · Том III Автор Ashraellen Язык экземпляра Русский Получатель Не определён Статус экземпляра Паспорт создан. Изготовление и передача экземпляра не зафиксированы. История экземпляра Событие 0001 — паспорт создан. Зарегистрировано автором.
+
+### ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0002/index.html
+
+- lang: ru
+- section: books
+- title: AS2-GAS-RU-0002 — паспорт экземпляра GAS
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0002/
+- H1: GAS
+- H2: Экземпляр 0002 | История экземпляра
+- H3: _missing_
+- suggested keyword seed: gas, экземпляра, 0002, as2-gas-ru-0002, ashraellen, books, паспорт, 0001, 2.0, as2, copies, iii, monolith, samizdat, автор, автором, история, создан
+- candidates: экземпляра, паспорт, as2-gas-ru-0002, gas, создан, 0001, 0002, 2.0, ashraellen, iii, автор, автором, газ, зарегистрировано, зафиксированы, идентификатор, изготовление, история, монолит, определён, передача, получатель, русский, самиздат
+
+Excerpt:
+
+> Паспорт экземпляра / самиздат 2.0 GAS ГАЗ AS2-GAS-RU-0002 Экземпляр 0002 Идентификатор AS2-GAS-RU-0002 Серия МОНОЛИТ · Том III Автор Ashraellen Язык экземпляра Русский Получатель Не определён Паспорт создан. Изготовление и передача экземпляра не зафиксированы. История экземпляра Событие 0001 — паспорт создан. Зарегистрировано автором.
+
+### ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0003/index.html
+
+- lang: ru
+- section: books
+- title: AS2-GAS-RU-0003 — паспорт экземпляра GAS
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0003/
+- H1: GAS
+- H2: Экземпляр 0003 | История экземпляра
+- H3: _missing_
+- suggested keyword seed: gas, экземпляра, 0003, as2-gas-ru-0003, ashraellen, books, паспорт, 0001, 2.0, as2, copies, iii, monolith, samizdat, автор, автором, история, создан
+- candidates: экземпляра, паспорт, as2-gas-ru-0003, gas, создан, 0001, 0003, 2.0, ashraellen, iii, автор, автором, газ, зарегистрировано, зафиксированы, идентификатор, изготовление, история, монолит, определён, передача, получатель, русский, самиздат
+
+Excerpt:
+
+> Паспорт экземпляра / самиздат 2.0 GAS ГАЗ AS2-GAS-RU-0003 Экземпляр 0003 Идентификатор AS2-GAS-RU-0003 Серия МОНОЛИТ · Том III Автор Ashraellen Язык экземпляра Русский Получатель Не определён Паспорт создан. Изготовление и передача экземпляра не зафиксированы. История экземпляра Событие 0001 — паспорт создан. Зарегистрировано автором.
+
+### ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0004/index.html
+
+- lang: ru
+- section: books
+- title: AS2-GAS-RU-0004 — паспорт экземпляра GAS
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0004/
+- H1: GAS
+- H2: Экземпляр 0004 | История экземпляра
+- H3: _missing_
+- suggested keyword seed: gas, экземпляра, 0004, as2-gas-ru-0004, ashraellen, books, паспорт, 0001, 2.0, as2, copies, iii, monolith, samizdat, автор, автором, история, создан
+- candidates: экземпляра, паспорт, as2-gas-ru-0004, gas, создан, 0001, 0004, 2.0, ashraellen, iii, автор, автором, газ, зарегистрировано, зафиксированы, идентификатор, изготовление, история, монолит, определён, передача, получатель, русский, самиздат
+
+Excerpt:
+
+> Паспорт экземпляра / самиздат 2.0 GAS ГАЗ AS2-GAS-RU-0004 Экземпляр 0004 Идентификатор AS2-GAS-RU-0004 Серия МОНОЛИТ · Том III Автор Ashraellen Язык экземпляра Русский Получатель Не определён Паспорт создан. Изготовление и передача экземпляра не зафиксированы. История экземпляра Событие 0001 — паспорт создан. Зарегистрировано автором.
+
+### ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0005/index.html
+
+- lang: ru
+- section: books
+- title: AS2-GAS-RU-0005 — паспорт экземпляра GAS
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0005/
+- H1: GAS
+- H2: Экземпляр 0005 | История экземпляра
+- H3: _missing_
+- suggested keyword seed: gas, экземпляра, 0005, as2-gas-ru-0005, ashraellen, books, паспорт, 0001, 2.0, as2, copies, iii, monolith, samizdat, автор, автором, история, создан
+- candidates: экземпляра, паспорт, as2-gas-ru-0005, gas, создан, 0001, 0005, 2.0, ashraellen, iii, автор, автором, газ, зарегистрировано, зафиксированы, идентификатор, изготовление, история, монолит, определён, передача, получатель, русский, самизdat
+
+Excerpt:
+
+> Паспорт экземпляра / самизdat 2.0 GAS ГАЗ AS2-GAS-RU-0005 Экземпляр 0005 Идентификатор AS2-GAS-RU-0005 Серия МОНОЛИТ · Том III Автор Ashraellen Язык экземпляра Русский Получатель Не определён Паспорт создан. Изготовление и передача экземпляра не зафиксированы. История экземпляра Событие 0001 — паспорт создан. Зарегистрировано автором.
+
+### ru/books/samizdat/monolith/gas/index.html
+
+- lang: ru
+- section: books
+- title: GAS / ГАЗ — паспорт книги — самиздат 2.0
+- description: Паспорт GAS / ГАЗ — Том III трилогии MONOLITH в системе Ashraellen Samizdat 2.0.
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/gas/
+- H1: GAS
+- H2: Запись произведения | Физические экземпляры
+- H3: _missing_
+- suggested keyword seed: gas, 2.0, ashraellen, monolith, газ, паспорт, books, iii, samizdat, книги, произведения, том, запись, монолит, название, самиздат, системе, трилогии
+- candidates: gas, газ, паспорт, 2.0, ashraellen, iii, monolith, том, книги, монолит, название, произведения, самиздат, трилогии, физические, экземпляры, beton, samizdat, sludge, автор, бумага, добавляются, запись, здесь
+
+Excerpt:
+
+> Паспорт книги / самиздат 2.0 МОНОЛИТ Том III GAS ГАЗ ASHRAELLEN Третья самостоятельная книга трилогии MONOLITH. Паспорт фиксирует идентичность произведения; физические характеристики конкретных изданий добавляются только после проверки. Запись произведения Серия MONOLITH / МОНОЛИТ Положение в серии Том III Каноническое название GAS Русское название ГАЗ Автор ASHRAELLEN Последовательность BETON → SLUDGE → GAS Физические экземпляры Нумерованные экземпляры получают отдельные постоянные паспорта. Непроверенные формат, объём, бумага, переплёт и способ печати здесь не публикуются.
+
 ### ru/books/samizdat/monolith/index.html
 
 - lang: ru
@@ -12025,6 +12251,176 @@ Excerpt:
 Excerpt:
 
 > Открыть паспорт экземпляра AS2-DEMOTOPIA-RU-0005
+
+### samizdat/copies/as2-gas-pl-0001/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-GAS-PL-0001
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0001/
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-gas-pl-0001, samizdat, as2, ashraellen, copies, gas
+- candidates: as2-gas-pl-0001
+
+Excerpt:
+
+> AS2-GAS-PL-0001
+
+### samizdat/copies/as2-gas-pl-0002/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-GAS-PL-0002
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0002/
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-gas-pl-0002, samizdat, as2, ashraellen, copies, gas
+- candidates: as2-gas-pl-0002
+
+Excerpt:
+
+> AS2-GAS-PL-0002
+
+### samizdat/copies/as2-gas-pl-0003/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-GAS-PL-0003
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0003/
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-gas-pl-0003, samizdat, as2, ashraellen, copies, gas
+- candidates: as2-gas-pl-0003
+
+Excerpt:
+
+> AS2-GAS-PL-0003
+
+### samizdat/copies/as2-gas-pl-0004/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-GAS-PL-0004
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0004/
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-gas-pl-0004, samizdat, as2, ashraellen, copies, gas
+- candidates: as2-gas-pl-0004
+
+Excerpt:
+
+> AS2-GAS-PL-0004
+
+### samizdat/copies/as2-gas-pl-0005/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-GAS-PL-0005
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0005/
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-gas-pl-0005, samizdat, as2, ashraellen, copies, gas
+- candidates: as2-gas-pl-0005
+
+Excerpt:
+
+> AS2-GAS-PL-0005
+
+### samizdat/copies/as2-gas-ru-0001/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-GAS-RU-0001
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0001/
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-gas-ru-0001, samizdat, as2, ashraellen, copies, gas
+- candidates: as2-gas-ru-0001
+
+Excerpt:
+
+> AS2-GAS-RU-0001
+
+### samizdat/copies/as2-gas-ru-0002/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-GAS-RU-0002
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0002/
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-gas-ru-0002, samizdat, as2, ashraellen, copies, gas
+- candidates: as2-gas-ru-0002
+
+Excerpt:
+
+> AS2-GAS-RU-0002
+
+### samizdat/copies/as2-gas-ru-0003/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-GAS-RU-0003
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0003/
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-gas-ru-0003, samizdat, as2, ashraellen, copies, gas
+- candidates: as2-gas-ru-0003
+
+Excerpt:
+
+> AS2-GAS-RU-0003
+
+### samizdat/copies/as2-gas-ru-0004/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-GAS-RU-0004
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0004/
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-gas-ru-0004, samizdat, as2, ashraellen, copies, gas
+- candidates: as2-gas-ru-0004
+
+Excerpt:
+
+> AS2-GAS-RU-0004
+
+### samizdat/copies/as2-gas-ru-0005/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-GAS-RU-0005
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0005/
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-gas-ru-0005, samizdat, as2, ashraellen, copies, gas
+- candidates: as2-gas-ru-0005
+
+Excerpt:
+
+> AS2-GAS-RU-0005
 
 ### samizdat/copies/as2-sludge-pl-0001/index.html
 

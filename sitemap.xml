@@ -1565,6 +1565,30 @@
     <lastmod>2026-08-04T14:33:26+02:00</lastmod>
   </url>
   <url>
+    <loc>https://www.ashraellen.com/pl/books/samizdat/monolith/gas/</loc>
+    <lastmod>2026-08-07T17:02:36+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0001/</loc>
+    <lastmod>2026-08-07T17:02:36+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0002/</loc>
+    <lastmod>2026-08-07T17:02:36+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0003/</loc>
+    <lastmod>2026-08-07T17:02:36+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0004/</loc>
+    <lastmod>2026-08-07T17:02:36+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0005/</loc>
+    <lastmod>2026-08-07T17:02:36+02:00</lastmod>
+  </url>
+  <url>
     <loc>https://www.ashraellen.com/pl/books/samizdat/monolith/sludge/</loc>
     <lastmod>2026-08-07T16:59:33+02:00</lastmod>
   </url>
@@ -2209,6 +2233,30 @@
     <lastmod>2026-08-04T14:33:26+02:00</lastmod>
   </url>
   <url>
+    <loc>https://www.ashraellen.com/ru/books/samizdat/monolith/gas/</loc>
+    <lastmod>2026-08-07T17:02:36+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0001/</loc>
+    <lastmod>2026-08-07T17:02:36+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0002/</loc>
+    <lastmod>2026-08-07T17:02:36+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0003/</loc>
+    <lastmod>2026-08-07T17:02:36+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0004/</loc>
+    <lastmod>2026-08-07T17:02:36+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0005/</loc>
+    <lastmod>2026-08-07T17:02:36+02:00</lastmod>
+  </url>
+  <url>
     <loc>https://www.ashraellen.com/ru/books/samizdat/monolith/sludge/</loc>
     <lastmod>2026-08-07T16:59:33+02:00</lastmod>
   </url>
@@ -2647,6 +2695,46 @@
   <url>
     <loc>https://www.ashraellen.com/samizdat/copies/as2-demotopia-ru-0005/</loc>
     <lastmod>2026-08-07T16:55:21+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/samizdat/copies/as2-gas-pl-0001/</loc>
+    <lastmod>2026-08-07T17:02:36+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/samizdat/copies/as2-gas-pl-0002/</loc>
+    <lastmod>2026-08-07T17:02:36+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/samizdat/copies/as2-gas-pl-0003/</loc>
+    <lastmod>2026-08-07T17:02:36+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/samizdat/copies/as2-gas-pl-0004/</loc>
+    <lastmod>2026-08-07T17:02:36+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/samizdat/copies/as2-gas-pl-0005/</loc>
+    <lastmod>2026-08-07T17:02:36+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/samizdat/copies/as2-gas-ru-0001/</loc>
+    <lastmod>2026-08-07T17:02:36+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/samizdat/copies/as2-gas-ru-0002/</loc>
+    <lastmod>2026-08-07T17:02:36+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/samizdat/copies/as2-gas-ru-0003/</loc>
+    <lastmod>2026-08-07T17:02:36+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/samizdat/copies/as2-gas-ru-0004/</loc>
+    <lastmod>2026-08-07T17:02:36+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/samizdat/copies/as2-gas-ru-0005/</loc>
+    <lastmod>2026-08-07T17:02:36+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/samizdat/copies/as2-sludge-pl-0001/</loc>
