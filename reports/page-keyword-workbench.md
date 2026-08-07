@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-07T14:56:13.207Z
-Pages: 723
+Generated: 2026-08-07T15:00:03.657Z
+Pages: 745
 
 ## Index
 
@@ -398,6 +398,12 @@ Pages: 723
 | pl/books/samizdat/monolith/beton/copies/as2-beton-pl-0010/index.html | pl | books | AS2-BETON-PL-0010 — paszport egzemplarza BETON | _missing_ | beton, as2-beton-pl-0010, books, egzemplarza, paszport, 2.0, 283, as2, ashraellen, autentyczności, copies, częścią, dane, dobrowolna, monolith, nie, polski, samizdat |
 | pl/books/samizdat/monolith/beton/index.html | pl | books | BETON — paszport książki — samizdat 2.0 | _missing_ | beton, samizdat, 2.0, ashraellen, monolith, paszport, books, dzieła, książki, polski, egzemplarzem, fizyczne, kontur, konturze, książce, pdf, polskim, print |
 | pl/books/samizdat/monolith/index.html | pl | books | MONOLITH — paszport trylogii — samizdat 2.0 | _missing_ | monolith, trylogii, 2.0, paszport, samizdat, ashraellen, beton, books, gas, książka, sludge, autorskiej, egzemplarz, kanoniczna, kolejność, książki, przygotowaniu, sekwencję |
+| pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0001/index.html | pl | books | AS2-SLUDGE-PL-0001 — paszport egzemplarza SLUDGE | _missing_ | sludge, egzemplarza, 0001, as2-sludge-pl-0001, ashraellen, books, paszport, 2.0, as2, autor, autora, copies, egzemplarz, historia, monolith, nie, samizdat, status |
+| pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0002/index.html | pl | books | AS2-SLUDGE-PL-0002 — paszport egzemplarza SLUDGE | _missing_ | sludge, egzemplarza, 0002, as2-sludge-pl-0002, ashraellen, books, paszport, 0001, 2.0, as2, autor, copies, egzemplarz, historia, monolith, nie, samizdat, status |
+| pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0003/index.html | pl | books | AS2-SLUDGE-PL-0003 — paszport egzemplarza SLUDGE | _missing_ | sludge, egzemplarza, 0003, as2-sludge-pl-0003, ashraellen, books, paszport, 0001, 2.0, as2, autor, copies, egzemplarz, historia, monolith, nie, samizdat, status |
+| pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0004/index.html | pl | books | AS2-SLUDGE-PL-0004 — paszport egzemplarza SLUDGE | _missing_ | sludge, egzemplarza, 0004, as2-sludge-pl-0004, ashraellen, books, paszport, 0001, 2.0, as2, autor, copies, egzemplarz, historia, monolith, nie, samizdat, status |
+| pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0005/index.html | pl | books | AS2-SLUDGE-PL-0005 — paszport egzemplarza SLUDGE | _missing_ | sludge, egzemplarza, 0005, as2-sludge-pl-0005, ashraellen, books, paszport, 0001, 2.0, as2, autor, copies, egzemplarz, historia, monolith, nie, samizdat, status |
+| pl/books/samizdat/monolith/sludge/index.html | pl | books | SLUDGE / Szlam — paszport książki — samizdat 2.0 | _missing_ | sludge, samizdat, 2.0, ashraellen, monolith, paszport, szlam, books, dzieła, egzemplarze, fizyczne, książki, tom, systemie, trylogii, zapis |
 | pl/books/samizdat/order/index.html | pl | books | Poproś o egzemplarz samizdatu 2.0 — Ashraellen | _missing_ | egzemplarz, 2.0, ashraellen, books, egzemplarza, języku, poproś, samizdatu, adres, autorskiego, czas, czytelnikowi, dostawa, dostawy, dowolnym, koszt, książka, książki |
 | pl/books/samizdat/order/received/index.html | pl | books | Zgłoszenie otrzymane — samizdat 2.0 | _missing_ | otrzymane, samizdat, zgłoszenie, 2.0, automatycznie, books, aby, adres, ashraellen, czas, dostawę, dostępność, druku, email, nie, order, received, utworzony |
 | pl/books/seccus/index.html | pl | books | Ashraellen — ŚWIĘTA KSIĘGA SECCUS | Ashraellen, SECCUS, Święta Księga SECCUS, Droga Uczciwości, satyra filozoficzna, pieniądze, sukces, samooszustwo, wiedza jako alibi, odpowiedzialność, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Księga | seccus, księga, święta, ashraellen, bez, books, jako, alibi, ani, człowiek, droga, filozoficzna, głos, kogo, korpus, książce, książka, książki |
@@ -554,6 +560,12 @@ Pages: 723
 | ru/books/samizdat/monolith/beton/copies/as2-beton-ru-0010/index.html | ru | books | AS2-BETON-RU-0010 — паспорт экземпляра БЕТОН | _missing_ | бетон, as2-beton-ru-0010, beton, books, паспорт, экземпляра, 296, as2, ashraellen, copies, monolith, samizdat, бумага, владелец, владельца, все, добровольна, зарегистрирован |
 | ru/books/samizdat/monolith/beton/index.html | ru | books | БЕТОН — паспорт книги — самиздат 2.0 | _missing_ | samizdat, бетон, 2.0, ashraellen, паспорт, books, готовится, запись, монолит, произведения, том, beton, monolith, дата, запросить, изготовления, издание, издании |
 | ru/books/samizdat/monolith/index.html | ru | books | MONOLITH — паспорт трилогии — самиздат 2.0 | _missing_ | monolith, трилогии, 2.0, паспорт, ashraellen, beton, books, gas, sludge, авторской, книга, последовательность, самиздат, samizdat, готовится, запросить, издании, каноническая |
+| ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0001/index.html | ru | books | AS2-SLUDGE-RU-0001 — паспорт экземпляра SLUDGE | _missing_ | sludge, экземпляра, as2-sludge-ru-0001, паспорт, 0001, ashraellen, books, жижа, 2.0, as2, copies, monolith, samizdat, автор, автором, без, история, постоянный |
+| ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0002/index.html | ru | books | AS2-SLUDGE-RU-0002 — паспорт экземпляра SLUDGE | _missing_ | sludge, экземпляра, 0002, as2-sludge-ru-0002, ashraellen, books, паспорт, 0001, 2.0, as2, copies, monolith, samizdat, автор, автором, жижа, история, создан |
+| ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0003/index.html | ru | books | AS2-SLUDGE-RU-0003 — паспорт экземпляра SLUDGE | _missing_ | sludge, экземпляра, 0003, as2-sludge-ru-0003, ashraellen, books, паспорт, 0001, 2.0, as2, copies, monolith, samizdat, автор, автором, жижа, история, создан |
+| ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0004/index.html | ru | books | AS2-SLUDGE-RU-0004 — паспорт экземпляра SLUDGE | _missing_ | sludge, экземпляра, 0004, as2-sludge-ru-0004, ashraellen, books, паспорт, 0001, 2.0, as2, copies, monolith, samizdat, автор, автором, жижа, история, создан |
+| ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0005/index.html | ru | books | AS2-SLUDGE-RU-0005 — паспорт экземпляра SLUDGE | _missing_ | sludge, экземпляра, 0005, as2-sludge-ru-0005, ashraellen, books, паспорт, 0001, 2.0, as2, copies, monolith, samizdat, автор, автором, жижа, история, создан |
+| ru/books/samizdat/monolith/sludge/index.html | ru | books | SLUDGE / ЖИЖА — паспорт книги — самиздат 2.0 | _missing_ | sludge, 2.0, ashraellen, monolith, жижа, паспорт, books, samizdat, книги, произведения, самиздат, том, запись, монолит, название, системе, трилогии, физические |
 | ru/books/samizdat/order/index.html | ru | books | Запросить экземпляр самиздата 2.0 — Ashraellen | _missing_ | экземпляр, 2.0, запрос, запросить, ashraellen, books, самиздата, экземпляра, order, samizdat, авторского, адрес, выберите, доставка, доставки, книга, книги, любом |
 | ru/books/samizdat/order/received/index.html | ru | books | Запрос получен — самиздат 2.0 | _missing_ | запрос, получен, 2.0, books, автоматически, была, самиздат, ashraellen, email, order, received, samizdat, адрес, вами, ваш, включая, доставку, оформлена |
 | ru/books/seccus/index.html | ru | books | Ashraellen — Сакральная Книга АХЕПСУ | ashraellen, seccus, сакральная книга ахепсу, путь честности, философская сатира, деньги, успех, самообман, знание как алиби, ответственность, sacrunomicon, ordo sacrunomiconis, тетра-книга | ахепсу, книга, сакральная, ashraellen, books, без, sacrunomicon, seccus, ssmv, алиби, выбор, голос, деньгах, ещё, знании, избранная, или, книге |
@@ -658,6 +670,16 @@ Pages: 723
 | samizdat/copies/as2-demotopia-ru-0003/index.html | root | samizdat | AS2-DEMOTOPIA-RU-0003 | _missing_ | as2-demotopia-ru-0003, samizdat, as2, ashraellen, copies, demotopia, открыть, паспорт, экземпляра |
 | samizdat/copies/as2-demotopia-ru-0004/index.html | root | samizdat | AS2-DEMOTOPIA-RU-0004 | _missing_ | as2-demotopia-ru-0004, samizdat, as2, ashraellen, copies, demotopia, открыть, паспорт, экземпляра |
 | samizdat/copies/as2-demotopia-ru-0005/index.html | root | samizdat | AS2-DEMOTOPIA-RU-0005 | _missing_ | as2-demotopia-ru-0005, samizdat, as2, ashraellen, copies, demotopia, открыть, паспорт, экземпляра |
+| samizdat/copies/as2-sludge-pl-0001/index.html | root | samizdat | AS2-SLUDGE-PL-0001 | _missing_ | as2-sludge-pl-0001, samizdat, as2, ashraellen, copies, sludge |
+| samizdat/copies/as2-sludge-pl-0002/index.html | root | samizdat | AS2-SLUDGE-PL-0002 | _missing_ | as2-sludge-pl-0002, samizdat, as2, ashraellen, copies, sludge |
+| samizdat/copies/as2-sludge-pl-0003/index.html | root | samizdat | AS2-SLUDGE-PL-0003 | _missing_ | as2-sludge-pl-0003, samizdat, as2, ashraellen, copies, sludge |
+| samizdat/copies/as2-sludge-pl-0004/index.html | root | samizdat | AS2-SLUDGE-PL-0004 | _missing_ | as2-sludge-pl-0004, samizdat, as2, ashraellen, copies, sludge |
+| samizdat/copies/as2-sludge-pl-0005/index.html | root | samizdat | AS2-SLUDGE-PL-0005 | _missing_ | as2-sludge-pl-0005, samizdat, as2, ashraellen, copies, sludge |
+| samizdat/copies/as2-sludge-ru-0001/index.html | root | samizdat | AS2-SLUDGE-RU-0001 | _missing_ | as2-sludge-ru-0001, samizdat, as2, ashraellen, copies, sludge |
+| samizdat/copies/as2-sludge-ru-0002/index.html | root | samizdat | AS2-SLUDGE-RU-0002 | _missing_ | as2-sludge-ru-0002, samizdat, as2, ashraellen, copies, sludge |
+| samizdat/copies/as2-sludge-ru-0003/index.html | root | samizdat | AS2-SLUDGE-RU-0003 | _missing_ | as2-sludge-ru-0003, samizdat, as2, ashraellen, copies, sludge |
+| samizdat/copies/as2-sludge-ru-0004/index.html | root | samizdat | AS2-SLUDGE-RU-0004 | _missing_ | as2-sludge-ru-0004, samizdat, as2, ashraellen, copies, sludge |
+| samizdat/copies/as2-sludge-ru-0005/index.html | root | samizdat | AS2-SLUDGE-RU-0005 | _missing_ | as2-sludge-ru-0005, samizdat, as2, ashraellen, copies, sludge |
 | samizdat/demotopia/index.html | root | samizdat | Demotopia — samizdat 2.0 | _missing_ | demotopia, samizdat, 2.0, ashraellen, book, entrance, multilingual, passport, permanent, choose, language |
 | samizdat/index.html | root | samizdat | samizdat 2.0 — Ashraellen | _missing_ | samizdat, 2.0, ashraellen, author, book, editions, entrance, language, passports, author-issued, choose, each, permanent |
 | samizdat/order/index.html | root | samizdat | Redirecting to the samizdat 2.0 order page — Ashraellen | _missing_ | samizdat, ashraellen, order, 2.0, redirecting, continue, english |
@@ -7380,6 +7402,108 @@ Excerpt:
 
 > Paszport serii / samizdat 2.0 MONOLITH Trylogia o materii, która staje się środowiskiem, a następnie znika, pozostawiając człowieka wewnątrz stworzonego przez niego systemu. MONOLITH łączy trzy samodzielne książki w jedną autorską sekwencję. Każda książka otrzymuje własny paszport i własną formę fizyczną; paszport serii zachowuje ich kolejność i więź. O trylogii jedna struktura / trzy samodzielne dzieła BETON, SLUDGE i GAS tworzą sekwencję, w której zmienia się nie tylko stan środowiska, lecz także sposób ludzkiego istnienia w jego obrębie. Serię czyta się w ustalonej kolejności: od formy stałej — przez lepką — ku niewidzialnej. Ten paszport odnosi się do trylogii jako jednej konstrukcji autorskiej. Nie zastępuje paszportów poszczególnych książek i nie zawiera danych konkretnych numerowanych egzemplarzy. Kanoniczna kolejność BETON → SLUDGE → GAS I BETON Beton Pierwsza książka trylogii. D
 
+### pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0001/index.html
+
+- lang: pl
+- section: books
+- title: AS2-SLUDGE-PL-0001 — paszport egzemplarza SLUDGE
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0001/
+- H1: SLUDGE
+- H2: Egzemplarz 0001 | Status egzemplarza | Historia egzemplarza
+- H3: _missing_
+- suggested keyword seed: sludge, egzemplarza, 0001, as2-sludge-pl-0001, ashraellen, books, paszport, 2.0, as2, autor, autora, copies, egzemplarz, historia, monolith, nie, samizdat, status
+- candidates: egzemplarza, paszport, as2-sludge-pl-0001, sludge, 0001, nie, szlam, utworzony, 2.0, ashraellen, autor, autora, egzemplarz, fizycznego, historia, identyfikator, jednego, język, monolith, odbiorca, określono, polski, przekazanie, przez
+
+Excerpt:
+
+> Paszport egzemplarza / samizdat 2.0 SLUDGE Szlam Stały publiczny zapis jednego fizycznego egzemplarza. AS2-SLUDGE-PL-0001 Egzemplarz 0001 Identyfikator AS2-SLUDGE-PL-0001 Utwór SLUDGE / Szlam Seria MONOLITH · Tom II Autor Ashraellen Język egzemplarza Polski Odbiorca Nie określono Status egzemplarza Paszport utworzony. Wykonanie i przekazanie egzemplarza nie zostały zarejestrowane. Historia egzemplarza Zdarzenie 0001 — paszport utworzony. Zarejestrowano przez autora.
+
+### pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0002/index.html
+
+- lang: pl
+- section: books
+- title: AS2-SLUDGE-PL-0002 — paszport egzemplarza SLUDGE
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0002/
+- H1: SLUDGE
+- H2: Egzemplarz 0002 | Status egzemplarza | Historia egzemplarza
+- H3: _missing_
+- suggested keyword seed: sludge, egzemplarza, 0002, as2-sludge-pl-0002, ashraellen, books, paszport, 0001, 2.0, as2, autor, copies, egzemplarz, historia, monolith, nie, samizdat, status
+- candidates: egzemplarza, paszport, as2-sludge-pl-0002, sludge, nie, szlam, utworzony, 0001, 0002, 2.0, ashraellen, autor, autora, egzemplarz, fizycznego, historia, identyfikator, jednego, język, monolith, odbiorca, określono, polski, przekazanie
+
+Excerpt:
+
+> Paszport egzemplarza / samizdat 2.0 SLUDGE Szlam Stały publiczny zapis jednego fizycznego egzemplarza. AS2-SLUDGE-PL-0002 Egzemplarz 0002 Identyfikator AS2-SLUDGE-PL-0002 Utwór SLUDGE / Szlam Seria MONOLITH · Tom II Autor Ashraellen Język egzemplarza Polski Odbiorca Nie określono Status egzemplarza Paszport utworzony. Wykonanie i przekazanie egzemplarza nie zostały zarejestrowane. Historia egzemplarza Zdarzenie 0001 — paszport utworzony. Zarejestrowano przez autora.
+
+### pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0003/index.html
+
+- lang: pl
+- section: books
+- title: AS2-SLUDGE-PL-0003 — paszport egzemplarza SLUDGE
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0003/
+- H1: SLUDGE
+- H2: Egzemplarz 0003 | Status egzemplarza | Historia egzemplarza
+- H3: _missing_
+- suggested keyword seed: sludge, egzemplarza, 0003, as2-sludge-pl-0003, ashraellen, books, paszport, 0001, 2.0, as2, autor, copies, egzemplarz, historia, monolith, nie, samizdat, status
+- candidates: egzemplarza, paszport, as2-sludge-pl-0003, sludge, nie, szlam, utworzony, 0001, 0003, 2.0, ashraellen, autor, autora, egzemplarz, fizycznego, historia, identyfikator, jednego, język, monolith, odbiorca, określono, polski, przekazanie
+
+Excerpt:
+
+> Paszport egzemplarza / samizdat 2.0 SLUDGE Szlam Stały publiczny zapis jednego fizycznego egzemplarza. AS2-SLUDGE-PL-0003 Egzemplarz 0003 Identyfikator AS2-SLUDGE-PL-0003 Utwór SLUDGE / Szlam Seria MONOLITH · Tom II Autor Ashraellen Język egzemplarza Polski Odbiorca Nie określono Status egzemplarza Paszport utworzony. Wykonanie i przekazanie egzemplarza nie zostały zarejestrowane. Historia egzemplarza Zdarzenie 0001 — paszport utworzony. Zarejestrowano przez autora.
+
+### pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0004/index.html
+
+- lang: pl
+- section: books
+- title: AS2-SLUDGE-PL-0004 — paszport egzemplarza SLUDGE
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0004/
+- H1: SLUDGE
+- H2: Egzemplarz 0004 | Status egzemplarza | Historia egzemplarza
+- H3: _missing_
+- suggested keyword seed: sludge, egzemplarza, 0004, as2-sludge-pl-0004, ashraellen, books, paszport, 0001, 2.0, as2, autor, copies, egzemplarz, historia, monolith, nie, samizdat, status
+- candidates: egzemplarza, paszport, as2-sludge-pl-0004, sludge, nie, szlam, utworzony, 0001, 0004, 2.0, ashraellen, autor, autora, egzemplarz, fizycznego, historia, identyfikator, jednego, język, monolith, odbiorca, określono, polski, przekazanie
+
+Excerpt:
+
+> Paszport egzemplarza / samizdat 2.0 SLUDGE Szlam Stały publiczny zapis jednego fizycznego egzemplarza. AS2-SLUDGE-PL-0004 Egzemplarz 0004 Identyfikator AS2-SLUDGE-PL-0004 Utwór SLUDGE / Szlam Seria MONOLITH · Tom II Autor Ashraellen Język egzemplarza Polski Odbiorca Nie określono Status egzemplarza Paszport utworzony. Wykonanie i przekazanie egzemplarza nie zostały zarejestrowane. Historia egzemplarza Zdarzenie 0001 — paszport utworzony. Zarejestrowano przez autora.
+
+### pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0005/index.html
+
+- lang: pl
+- section: books
+- title: AS2-SLUDGE-PL-0005 — paszport egzemplarza SLUDGE
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0005/
+- H1: SLUDGE
+- H2: Egzemplarz 0005 | Status egzemplarza | Historia egzemplarza
+- H3: _missing_
+- suggested keyword seed: sludge, egzemplarza, 0005, as2-sludge-pl-0005, ashraellen, books, paszport, 0001, 2.0, as2, autor, copies, egzemplarz, historia, monolith, nie, samizdat, status
+- candidates: egzemplarza, paszport, as2-sludge-pl-0005, sludge, nie, szlam, utworzony, 0001, 0005, 2.0, ashraellen, autor, autora, egzemplarz, fizycznego, historia, identyfikator, jednego, język, monolith, odbiorca, określono, polski, przekazanie
+
+Excerpt:
+
+> Paszport egzemplarza / samizdat 2.0 SLUDGE Szlam Stały publiczny zapis jednego fizycznego egzemplarza. AS2-SLUDGE-PL-0005 Egzemplarz 0005 Identyfikator AS2-SLUDGE-PL-0005 Utwór SLUDGE / Szlam Seria MONOLITH · Tom II Autor Ashraellen Język egzemplarza Polski Odbiorca Nie określono Status egzemplarza Paszport utworzony. Wykonanie i przekazanie egzemplarza nie zostały zarejestrowane. Historia egzemplarza Zdarzenie 0001 — paszport utworzony. Zarejestrowano przez autora.
+
+### pl/books/samizdat/monolith/sludge/index.html
+
+- lang: pl
+- section: books
+- title: SLUDGE / Szlam — paszport książki — samizdat 2.0
+- description: Paszport SLUDGE / Szlam — Tom II trylogii MONOLITH w systemie Ashraellen Samizdat 2.0.
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/sludge/
+- H1: SLUDGE
+- H2: Zapis dzieła | Egzemplarze fizyczne
+- H3: _missing_
+- suggested keyword seed: sludge, samizdat, 2.0, ashraellen, monolith, paszport, szlam, books, dzieła, egzemplarze, fizyczne, książki, tom, systemie, trylogii, zapis
+- candidates: sludge, monolith, paszport, szlam, 2.0, ashraellen, samizdat, tom, dzieła, egzemplarze, fizyczne, książki, publikowane, trylogii, tytuł, autor, beton, cechy, dane, druga, druku, formacie, gas, kanoniczny
+
+Excerpt:
+
+> Paszport książki / samizdat 2.0 MONOLITH Tom II SLUDGE Szlam ASHRAELLEN Druga samodzielna książka trylogii MONOLITH. Paszport utrwala tożsamość dzieła; cechy fizyczne konkretnego wydania są publikowane wyłącznie po weryfikacji. Zapis dzieła Seria MONOLITH Miejsce w serii Tom II Tytuł kanoniczny SLUDGE Tytuł polski Szlam Autor ASHRAELLEN Sekwencja BETON → SLUDGE → GAS Egzemplarze fizyczne Numerowane egzemplarze otrzymują osobne stałe paszporty. Niezweryfikowane dane o formacie, objętości, papierze, oprawie i metodzie druku nie są tu publikowane.
+
 ### pl/books/samizdat/order/index.html
 
 - lang: pl
@@ -10032,6 +10156,108 @@ Excerpt:
 
 > Паспорт серии / самиздат 2.0 MONOLITH Трилогия о материи, которая становится средой, а затем исчезает, оставляя человека внутри созданной им системы. MONOLITH объединяет три самостоятельные книги в одну авторскую последовательность. Каждая книга получает собственный паспорт и собственную физическую форму; паспорт серии сохраняет их порядок и связь. О трилогии одна структура / три самостоятельных произведения BETON, SLUDGE и GAS образуют последовательность, в которой меняется не только состояние среды, но и способ человеческого существования внутри неё. Серия читается в установленном порядке: от твёрдой формы — к вязкой, затем к невидимой. Этот паспорт относится к трилогии как к единой авторской конструкции. Он не заменяет паспорта отдельных книг и не содержит сведений о конкретных нумерованных экземплярах. Каноническая последовательность BETON → SLUDGE → GAS I BETON Бетон Первая книга тр
 
+### ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0001/index.html
+
+- lang: ru
+- section: books
+- title: AS2-SLUDGE-RU-0001 — паспорт экземпляра SLUDGE
+- description: Постоянный паспорт русского экземпляра SLUDGE / ЖИЖА AS2-SLUDGE-RU-0001.
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0001/
+- H1: SLUDGE
+- H2: Экземпляр 0001 | Статус экземпляра | История экземпляра
+- H3: _missing_
+- suggested keyword seed: sludge, экземпляра, as2-sludge-ru-0001, паспорт, 0001, ashraellen, books, жижа, 2.0, as2, copies, monolith, samizdat, автор, автором, без, история, постоянный
+- candidates: экземпляра, паспорт, as2-sludge-ru-0001, sludge, жижа, 0001, создан, 2.0, ashraellen, автор, автором, без, добавляются, записей, запись, зарегистрировано, зафиксированы, идентификатор, изготовление, история, монолит, одного, определён, передача
+
+Excerpt:
+
+> Паспорт экземпляра / самиздат 2.0 SLUDGE ЖИЖА Постоянная публичная запись одного физического экземпляра. AS2-SLUDGE-RU-0001 Экземпляр 0001 Идентификатор AS2-SLUDGE-RU-0001 Произведение SLUDGE / ЖИЖА Серия МОНОЛИТ · Том II Автор Ashraellen Язык экземпляра Русский Получатель Не определён Статус экземпляра Паспорт создан. Изготовление и передача экземпляра не зафиксированы. История экземпляра Событие 0001 — паспорт создан. Зарегистрировано автором. Подтверждённые события добавляются последовательно без удаления предыдущих записей.
+
+### ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0002/index.html
+
+- lang: ru
+- section: books
+- title: AS2-SLUDGE-RU-0002 — паспорт экземпляра SLUDGE
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0002/
+- H1: SLUDGE
+- H2: Экземпляр 0002 | Статус экземпляра | История экземпляра
+- H3: _missing_
+- suggested keyword seed: sludge, экземпляра, 0002, as2-sludge-ru-0002, ashraellen, books, паспорт, 0001, 2.0, as2, copies, monolith, samizdat, автор, автором, жижа, история, создан
+- candidates: экземпляра, паспорт, as2-sludge-ru-0002, sludge, жижа, создан, 0001, 0002, 2.0, ashraellen, автор, автором, запись, зарегистрировано, зафиксированы, идентификатор, изготовление, история, монолит, одного, определён, передача, получатель, постоянная
+
+Excerpt:
+
+> Паспорт экземпляра / самиздат 2.0 SLUDGE ЖИЖА Постоянная публичная запись одного физического экземпляра. AS2-SLUDGE-RU-0002 Экземпляр 0002 Идентификатор AS2-SLUDGE-RU-0002 Произведение SLUDGE / ЖИЖА Серия МОНОЛИТ · Том II Автор Ashraellen Язык экземпляра Русский Получатель Не определён Статус экземпляра Паспорт создан. Изготовление и передача экземпляра не зафиксированы. История экземпляра Событие 0001 — паспорт создан. Зарегистрировано автором.
+
+### ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0003/index.html
+
+- lang: ru
+- section: books
+- title: AS2-SLUDGE-RU-0003 — паспорт экземпляра SLUDGE
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0003/
+- H1: SLUDGE
+- H2: Экземпляр 0003 | Статус экземпляра | История экземпляра
+- H3: _missing_
+- suggested keyword seed: sludge, экземпляра, 0003, as2-sludge-ru-0003, ashraellen, books, паспорт, 0001, 2.0, as2, copies, monolith, samizdat, автор, автором, жижа, история, создан
+- candidates: экземпляра, паспорт, as2-sludge-ru-0003, sludge, жижа, создан, 0001, 0003, 2.0, ashraellen, автор, автором, запись, зарегистрировано, зафиксированы, идентификатор, изготовление, история, монолит, одного, определён, передача, получатель, постоянная
+
+Excerpt:
+
+> Паспорт экземпляра / самиздат 2.0 SLUDGE ЖИЖА Постоянная публичная запись одного физического экземпляра. AS2-SLUDGE-RU-0003 Экземпляр 0003 Идентификатор AS2-SLUDGE-RU-0003 Произведение SLUDGE / ЖИЖА Серия МОНОЛИТ · Том II Автор Ashraellen Язык экземпляра Русский Получатель Не определён Статус экземпляра Паспорт создан. Изготовление и передача экземпляра не зафиксированы. История экземпляра Событие 0001 — паспорт создан. Зарегистрировано автором.
+
+### ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0004/index.html
+
+- lang: ru
+- section: books
+- title: AS2-SLUDGE-RU-0004 — паспорт экземпляра SLUDGE
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0004/
+- H1: SLUDGE
+- H2: Экземпляр 0004 | Статус экземпляра | История экземпляра
+- H3: _missing_
+- suggested keyword seed: sludge, экземпляра, 0004, as2-sludge-ru-0004, ashraellen, books, паспорт, 0001, 2.0, as2, copies, monolith, samizdat, автор, автором, жижа, история, создан
+- candidates: экземпляра, паспорт, as2-sludge-ru-0004, sludge, жижа, создан, 0001, 0004, 2.0, ashraellen, автор, автором, запись, зарегистрировано, зафиксированы, идентификатор, изготовление, история, монолит, одного, определён, передача, получатель, постоянная
+
+Excerpt:
+
+> Паспорт экземпляра / самиздат 2.0 SLUDGE ЖИЖА Постоянная публичная запись одного физического экземпляра. AS2-SLUDGE-RU-0004 Экземпляр 0004 Идентификатор AS2-SLUDGE-RU-0004 Произведение SLUDGE / ЖИЖА Серия МОНОЛИТ · Том II Автор Ashraellen Язык экземпляра Русский Получатель Не определён Статус экземпляра Паспорт создан. Изготовление и передача экземпляра не зафиксированы. История экземпляра Событие 0001 — паспорт создан. Зарегистрировано автором.
+
+### ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0005/index.html
+
+- lang: ru
+- section: books
+- title: AS2-SLUDGE-RU-0005 — паспорт экземпляра SLUDGE
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0005/
+- H1: SLUDGE
+- H2: Экземпляр 0005 | Статус экземпляра | История экземпляра
+- H3: _missing_
+- suggested keyword seed: sludge, экземпляра, 0005, as2-sludge-ru-0005, ashraellen, books, паспорт, 0001, 2.0, as2, copies, monolith, samizdat, автор, автором, жижа, история, создан
+- candidates: экземпляра, паспорт, as2-sludge-ru-0005, sludge, жижа, создан, 0001, 0005, 2.0, ashraellen, автор, автором, запись, зарегистрировано, зафиксированы, идентификатор, изготовление, история, монолит, одного, определён, передача, получатель, постоянная
+
+Excerpt:
+
+> Паспорт экземпляра / самизdat 2.0 SLUDGE ЖИЖА Постоянная публичная запись одного физического экземпляра. AS2-SLUDGE-RU-0005 Экземпляр 0005 Идентификатор AS2-SLUDGE-RU-0005 Произведение SLUDGE / ЖИЖА Серия МОНОЛИТ · Том II Автор Ashraellen Язык экземпляра Русский Получатель Не определён Статус экземпляра Паспорт создан. Изготовление и передача экземпляра не зафиксированы. История экземпляра Событие 0001 — паспорт создан. Зарегистрировано автором.
+
+### ru/books/samizdat/monolith/sludge/index.html
+
+- lang: ru
+- section: books
+- title: SLUDGE / ЖИЖА — паспорт книги — самиздат 2.0
+- description: Паспорт SLUDGE / ЖИЖА — Том II трилогии MONOLITH в системе Ashraellen Samizdat 2.0.
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/sludge/
+- H1: SLUDGE
+- H2: Запись произведения | Физические экземпляры
+- H3: _missing_
+- suggested keyword seed: sludge, 2.0, ashraellen, monolith, жижа, паспорт, books, samizdat, книги, произведения, самиздат, том, запись, монолит, название, системе, трилогии, физические
+- candidates: sludge, жижа, паспорт, 2.0, ashraellen, monolith, том, книги, монолит, название, произведения, самиздат, трилогии, физические, экземпляры, beton, gas, samizdat, автор, бумага, вторая, добавляются, запись, здесь
+
+Excerpt:
+
+> Паспорт книги / самиздат 2.0 МОНОЛИТ Том II SLUDGE ЖИЖА ASHRAELLEN Вторая самостоятельная книга трилогии MONOLITH. Паспорт фиксирует идентичность произведения; физические характеристики конкретных изданий добавляются только после проверки. Запись произведения Серия MONOLITH / МОНОЛИТ Положение в серии Том II Каноническое название SLUDGE Русское название ЖИЖА Автор ASHRAELLEN Последовательность BETON → SLUDGE → GAS Физические экземпляры Нумерованные экземпляры получают отдельные постоянные паспорта. Непроверенные формат, объём, бумага, переплёт и способ печати здесь не публикуются.
+
 ### ru/books/samizdat/order/index.html
 
 - lang: ru
@@ -11799,6 +12025,176 @@ Excerpt:
 Excerpt:
 
 > Открыть паспорт экземпляра AS2-DEMOTOPIA-RU-0005
+
+### samizdat/copies/as2-sludge-pl-0001/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-SLUDGE-PL-0001
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0001/
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-sludge-pl-0001, samizdat, as2, ashraellen, copies, sludge
+- candidates: as2-sludge-pl-0001
+
+Excerpt:
+
+> AS2-SLUDGE-PL-0001
+
+### samizdat/copies/as2-sludge-pl-0002/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-SLUDGE-PL-0002
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0002/
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-sludge-pl-0002, samizdat, as2, ashraellen, copies, sludge
+- candidates: as2-sludge-pl-0002
+
+Excerpt:
+
+> AS2-SLUDGE-PL-0002
+
+### samizdat/copies/as2-sludge-pl-0003/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-SLUDGE-PL-0003
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0003/
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-sludge-pl-0003, samizdat, as2, ashraellen, copies, sludge
+- candidates: as2-sludge-pl-0003
+
+Excerpt:
+
+> AS2-SLUDGE-PL-0003
+
+### samizdat/copies/as2-sludge-pl-0004/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-SLUDGE-PL-0004
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0004/
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-sludge-pl-0004, samizdat, as2, ashraellen, copies, sludge
+- candidates: as2-sludge-pl-0004
+
+Excerpt:
+
+> AS2-SLUDGE-PL-0004
+
+### samizdat/copies/as2-sludge-pl-0005/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-SLUDGE-PL-0005
+- description: _missing_
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0005/
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-sludge-pl-0005, samizdat, as2, ashraellen, copies, sludge
+- candidates: as2-sludge-pl-0005
+
+Excerpt:
+
+> AS2-SLUDGE-PL-0005
+
+### samizdat/copies/as2-sludge-ru-0001/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-SLUDGE-RU-0001
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0001/
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-sludge-ru-0001, samizdat, as2, ashraellen, copies, sludge
+- candidates: as2-sludge-ru-0001
+
+Excerpt:
+
+> AS2-SLUDGE-RU-0001
+
+### samizdat/copies/as2-sludge-ru-0002/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-SLUDGE-RU-0002
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0002/
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-sludge-ru-0002, samizdat, as2, ashraellen, copies, sludge
+- candidates: as2-sludge-ru-0002
+
+Excerpt:
+
+> AS2-SLUDGE-RU-0002
+
+### samizdat/copies/as2-sludge-ru-0003/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-SLUDGE-RU-0003
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0003/
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-sludge-ru-0003, samizdat, as2, ashraellen, copies, sludge
+- candidates: as2-sludge-ru-0003
+
+Excerpt:
+
+> AS2-SLUDGE-RU-0003
+
+### samizdat/copies/as2-sludge-ru-0004/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-SLUDGE-RU-0004
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0004/
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-sludge-ru-0004, samizdat, as2, ashraellen, copies, sludge
+- candidates: as2-sludge-ru-0004
+
+Excerpt:
+
+> AS2-SLUDGE-RU-0004
+
+### samizdat/copies/as2-sludge-ru-0005/index.html
+
+- lang: root
+- section: samizdat
+- title: AS2-SLUDGE-RU-0005
+- description: _missing_
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0005/
+- H1: _missing_
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: as2-sludge-ru-0005, samizdat, as2, ashraellen, copies, sludge
+- candidates: as2-sludge-ru-0005
+
+Excerpt:
+
+> AS2-SLUDGE-RU-0005
 
 ### samizdat/demotopia/index.html
 

@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-07T14:56:12.577Z
+Generated: 2026-08-07T15:00:03.034Z
 
-Pages checked: 722
-Pages with issues: 205
-Total issues: 1218
+Pages checked: 744
+Pages with issues: 227
+Total issues: 1412
 Pages with review notes: 592
 Total review notes: 2126
 
@@ -12,20 +12,20 @@ Total review notes: 2126
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 146 |
-| MISSING_TWITTER_IMAGE | 146 |
-| MISSING_TWITTER_CARD | 132 |
-| MISSING_JSON_LD | 127 |
-| MISSING_OG_DESCRIPTION | 127 |
-| MISSING_OG_IMAGE | 126 |
-| MISSING_OG_TITLE | 125 |
-| MISSING_DESCRIPTION | 81 |
+| MISSING_KEYWORDS | 168 |
+| MISSING_TWITTER_IMAGE | 168 |
+| MISSING_TWITTER_CARD | 154 |
+| MISSING_JSON_LD | 149 |
+| MISSING_OG_DESCRIPTION | 149 |
+| MISSING_OG_IMAGE | 148 |
+| MISSING_OG_TITLE | 147 |
+| MISSING_DESCRIPTION | 100 |
 | DUPLICATE_KEYWORDS | 48 |
+| DUPLICATE_CANONICAL | 46 |
 | MISSING_CANONICAL | 45 |
 | DUPLICATE_TITLE | 36 |
 | DUPLICATE_OG_TITLE | 34 |
-| DUPLICATE_CANONICAL | 26 |
-| DESCRIPTION_TOO_SHORT | 19 |
+| DESCRIPTION_TOO_SHORT | 20 |
 
 
 ## Review note summary
@@ -1530,6 +1530,112 @@ Total review notes: 2126
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
 
+### pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0001/index.html
+
+- title: AS2-SLUDGE-PL-0001 — paszport egzemplarza SLUDGE
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0001/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0002/index.html
+
+- title: AS2-SLUDGE-PL-0002 — paszport egzemplarza SLUDGE
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0002/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0003/index.html
+
+- title: AS2-SLUDGE-PL-0003 — paszport egzemplarza SLUDGE
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0003/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0004/index.html
+
+- title: AS2-SLUDGE-PL-0004 — paszport egzemplarza SLUDGE
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0004/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0005/index.html
+
+- title: AS2-SLUDGE-PL-0005 — paszport egzemplarza SLUDGE
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0005/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### pl/books/samizdat/monolith/sludge/index.html
+
+- title: SLUDGE / Szlam — paszport książki — samizdat 2.0
+- description length: 86
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/sludge/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
 ### pl/books/samizdat/order/index.html
 
 - title: Poproś o egzemplarz samizdatu 2.0 — Ashraellen
@@ -2095,6 +2201,112 @@ Total review notes: 2126
 - title: MONOLITH — паспорт трилогии — самиздат 2.0
 - description length: 91
 - canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0001/index.html
+
+- title: AS2-SLUDGE-RU-0001 — паспорт экземпляра SLUDGE
+- description length: 72
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0001/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 72
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0002/index.html
+
+- title: AS2-SLUDGE-RU-0002 — паспорт экземпляра SLUDGE
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0002/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0003/index.html
+
+- title: AS2-SLUDGE-RU-0003 — паспорт экземпляра SLUDGE
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0003/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0004/index.html
+
+- title: AS2-SLUDGE-RU-0004 — паспорт экземпляра SLUDGE
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0004/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0005/index.html
+
+- title: AS2-SLUDGE-RU-0005 — паспорт экземпляра SLUDGE
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0005/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### ru/books/samizdat/monolith/sludge/index.html
+
+- title: SLUDGE / ЖИЖА — паспорт книги — самиздат 2.0
+- description length: 83
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/sludge/
 - og:image: _missing_
 - twitter:image: _missing_
 
@@ -2848,6 +3060,186 @@ Total review notes: 2126
 - title: AS2-DEMOTOPIA-RU-0005
 - description length: 0
 - canonical: https://www.ashraellen.com/ru/books/samizdat/demotopia/copies/as2-demotopia-ru-0005/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-sludge-pl-0001/index.html
+
+- title: AS2-SLUDGE-PL-0001
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0001/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-sludge-pl-0002/index.html
+
+- title: AS2-SLUDGE-PL-0002
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0002/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-sludge-pl-0003/index.html
+
+- title: AS2-SLUDGE-PL-0003
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0003/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-sludge-pl-0004/index.html
+
+- title: AS2-SLUDGE-PL-0004
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0004/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-sludge-pl-0005/index.html
+
+- title: AS2-SLUDGE-PL-0005
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0005/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-sludge-ru-0001/index.html
+
+- title: AS2-SLUDGE-RU-0001
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0001/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-sludge-ru-0002/index.html
+
+- title: AS2-SLUDGE-RU-0002
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0002/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-sludge-ru-0003/index.html
+
+- title: AS2-SLUDGE-RU-0003
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0003/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-sludge-ru-0004/index.html
+
+- title: AS2-SLUDGE-RU-0004
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0004/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-sludge-ru-0005/index.html
+
+- title: AS2-SLUDGE-RU-0005
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0005/
 - og:image: _missing_
 - twitter:image: _missing_
 
