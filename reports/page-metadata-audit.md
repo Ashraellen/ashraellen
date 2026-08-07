@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-04T16:34:25.722Z
+Generated: 2026-08-07T14:56:12.577Z
 
-Pages checked: 707
-Pages with issues: 190
-Total issues: 1089
+Pages checked: 722
+Pages with issues: 205
+Total issues: 1218
 Pages with review notes: 592
 Total review notes: 2126
 
@@ -12,20 +12,20 @@ Total review notes: 2126
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 131 |
-| MISSING_TWITTER_IMAGE | 131 |
-| MISSING_TWITTER_CARD | 117 |
-| MISSING_JSON_LD | 112 |
-| MISSING_OG_DESCRIPTION | 112 |
-| MISSING_OG_IMAGE | 111 |
-| MISSING_OG_TITLE | 110 |
-| MISSING_DESCRIPTION | 73 |
+| MISSING_KEYWORDS | 146 |
+| MISSING_TWITTER_IMAGE | 146 |
+| MISSING_TWITTER_CARD | 132 |
+| MISSING_JSON_LD | 127 |
+| MISSING_OG_DESCRIPTION | 127 |
+| MISSING_OG_IMAGE | 126 |
+| MISSING_OG_TITLE | 125 |
+| MISSING_DESCRIPTION | 81 |
 | DUPLICATE_KEYWORDS | 48 |
 | MISSING_CANONICAL | 45 |
 | DUPLICATE_TITLE | 36 |
 | DUPLICATE_OG_TITLE | 34 |
+| DUPLICATE_CANONICAL | 26 |
 | DESCRIPTION_TOO_SHORT | 19 |
-| DUPLICATE_CANONICAL | 10 |
 
 
 ## Review note summary
@@ -1245,6 +1245,57 @@ Total review notes: 2126
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
 
+### pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0003/index.html
+
+- title: AS2-DEMOTOPIA-PL-0003 — paszport egzemplarza Demotopii
+- description length: 93
+- canonical: https://www.ashraellen.com/pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0003/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0004/index.html
+
+- title: AS2-DEMOTOPIA-PL-0004 — paszport egzemplarza Demotopii
+- description length: 93
+- canonical: https://www.ashraellen.com/pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0004/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0005/index.html
+
+- title: AS2-DEMOTOPIA-PL-0005 — paszport egzemplarza Demotopii
+- description length: 93
+- canonical: https://www.ashraellen.com/pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0005/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
 ### pl/books/samizdat/demotopia/index.html
 
 - title: Demotopia — Paszport książki — samizdat 2.0
@@ -1713,6 +1764,7 @@ Total review notes: 2126
 - MISSING_OG_IMAGE
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
 
 ### ru/books/samizdat/demotopia/copies/as2-demotopia-ru-0001/report/index.html
 
@@ -1749,6 +1801,74 @@ Total review notes: 2126
 - MISSING_OG_IMAGE
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
+
+### ru/books/samizdat/demotopia/copies/as2-demotopia-ru-0002/index.html
+
+- title: AS2-DEMOTOPIA-RU-0002 — паспорт экземпляра Demotopia
+- description length: 94
+- canonical: https://www.ashraellen.com/ru/books/samizdat/demotopia/copies/as2-demotopia-ru-0002/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### ru/books/samizdat/demotopia/copies/as2-demotopia-ru-0003/index.html
+
+- title: AS2-DEMOTOPIA-RU-0003 — паспорт экземпляра Demotopia
+- description length: 94
+- canonical: https://www.ashraellen.com/ru/books/samizdat/demotopia/copies/as2-demotopia-ru-0003/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### ru/books/samizdat/demotopia/copies/as2-demotopia-ru-0004/index.html
+
+- title: AS2-DEMOTOPIA-RU-0004 — паспорт экземпляра Demotopia
+- description length: 94
+- canonical: https://www.ashraellen.com/ru/books/samizdat/demotopia/copies/as2-demotopia-ru-0004/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### ru/books/samizdat/demotopia/copies/as2-demotopia-ru-0005/index.html
+
+- title: AS2-DEMOTOPIA-RU-0005 — паспорт экземпляра Demotopia
+- description length: 94
+- canonical: https://www.ashraellen.com/ru/books/samizdat/demotopia/copies/as2-demotopia-ru-0005/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
 
 ### ru/books/samizdat/demotopia/index.html
 
@@ -2584,6 +2704,150 @@ Total review notes: 2126
 - title: AS2-DEMOTOPIA-PL-0002
 - description length: 0
 - canonical: https://www.ashraellen.com/pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0002/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-demotopia-pl-0003/index.html
+
+- title: AS2-DEMOTOPIA-PL-0003
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0003/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-demotopia-pl-0004/index.html
+
+- title: AS2-DEMOTOPIA-PL-0004
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0004/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-demotopia-pl-0005/index.html
+
+- title: AS2-DEMOTOPIA-PL-0005
+- description length: 0
+- canonical: https://www.ashraellen.com/pl/books/samizdat/demotopia/copies/as2-demotopia-pl-0005/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-demotopia-ru-0001/index.html
+
+- title: AS2-DEMOTOPIA-RU-0001
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/demotopia/copies/as2-demotopia-ru-0001/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-demotopia-ru-0002/index.html
+
+- title: AS2-DEMOTOPIA-RU-0002
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/demotopia/copies/as2-demotopia-ru-0002/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-demotopia-ru-0003/index.html
+
+- title: AS2-DEMOTOPIA-RU-0003
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/demotopia/copies/as2-demotopia-ru-0003/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-demotopia-ru-0004/index.html
+
+- title: AS2-DEMOTOPIA-RU-0004
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/demotopia/copies/as2-demotopia-ru-0004/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
+
+### samizdat/copies/as2-demotopia-ru-0005/index.html
+
+- title: AS2-DEMOTOPIA-RU-0005
+- description length: 0
+- canonical: https://www.ashraellen.com/ru/books/samizdat/demotopia/copies/as2-demotopia-ru-0005/
 - og:image: _missing_
 - twitter:image: _missing_
 
