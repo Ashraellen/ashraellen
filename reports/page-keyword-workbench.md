@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-07T15:03:04.674Z
+Generated: 2026-08-07T15:04:28.768Z
 Pages: 767
 
 ## Index
@@ -571,7 +571,7 @@ Pages: 767
 | ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0004/index.html | ru | books | AS2-GAS-RU-0004 — паспорт экземпляра GAS | _missing_ | gas, экземпляра, 0004, as2-gas-ru-0004, ashraellen, books, паспорт, 0001, 2.0, as2, copies, iii, monolith, samizdat, автор, автором, история, создан |
 | ru/books/samizdat/monolith/gas/copies/as2-gas-ru-0005/index.html | ru | books | AS2-GAS-RU-0005 — паспорт экземпляра GAS | _missing_ | gas, экземпляра, 0005, as2-gas-ru-0005, ashraellen, books, паспорт, 0001, 2.0, as2, copies, iii, monolith, samizdat, автор, автором, история, создан |
 | ru/books/samizdat/monolith/gas/index.html | ru | books | GAS / ГАЗ — паспорт книги — самиздат 2.0 | _missing_ | gas, 2.0, ashraellen, monolith, газ, паспорт, books, iii, samizdat, книги, произведения, том, запись, монолит, название, самиздат, системе, трилогии |
-| ru/books/samizdat/monolith/index.html | ru | books | MONOLITH — паспорт трилогии — самиздат 2.0 | _missing_ | monolith, трилогии, 2.0, паспорт, ashraellen, beton, books, gas, sludge, авторской, книга, последовательность, самиздат, samizdat, готовится, запросить, издании, каноническая |
+| ru/books/samizdat/monolith/index.html | ru | books | MONOLITH — паспорт трилогии — самиздат 2.0 | _missing_ | monolith, трилогии, 2.0, паспорт, ashraellen, beton, books, gas, sludge, авторской, книга, последовательность, самиздат, samizdat, запросить, издании, каноническая, книги |
 | ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0001/index.html | ru | books | AS2-SLUDGE-RU-0001 — паспорт экземпляра SLUDGE | _missing_ | sludge, экземпляра, as2-sludge-ru-0001, паспорт, 0001, ashraellen, books, жижа, 2.0, as2, copies, monolith, samizdat, автор, автором, без, история, постоянный |
 | ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0002/index.html | ru | books | AS2-SLUDGE-RU-0002 — паспорт экземпляра SLUDGE | _missing_ | sludge, экземпляра, 0002, as2-sludge-ru-0002, ashraellen, books, паспорт, 0001, 2.0, as2, copies, monolith, samizdat, автор, автором, жижа, история, создан |
 | ru/books/samizdat/monolith/sludge/copies/as2-sludge-ru-0003/index.html | ru | books | AS2-SLUDGE-RU-0003 — паспорт экземпляра SLUDGE | _missing_ | sludge, экземпляра, 0003, as2-sludge-ru-0003, ashraellen, books, паспорт, 0001, 2.0, as2, copies, monolith, samizdat, автор, автором, жижа, история, создан |
@@ -10375,8 +10375,8 @@ Excerpt:
 - H1: MONOLITH
 - H2: О трилогии | Каноническая последовательность | Книга, серия и экземпляр | Запросить сведения об издании
 - H3: BETON | SLUDGE | GAS
-- suggested keyword seed: monolith, трилогии, 2.0, паспорт, ashraellen, beton, books, gas, sludge, авторской, книга, последовательность, самиздат, samizdat, готовится, запросить, издании, каноническая
-- candidates: паспорт, monolith, трилогии, книги, beton, gas, sludge, книга, последовательность, 2.0, авторской, готовится, самиздат, серия, три, внутри, затем, издания, опубликован, подготовке, произведение, произведения, серии, собственную
+- suggested keyword seed: monolith, трилогии, 2.0, паспорт, ashraellen, beton, books, gas, sludge, авторской, книга, последовательность, самиздат, samizdat, запросить, издании, каноническая, книги
+- candidates: паспорт, monolith, трилогии, книги, beton, gas, sludge, книга, опубликован, последовательность, 2.0, авторской, открыть, самиздат, серия, три, внутри, затем, издания, произведение, произведения, серии, собственную, формы
 
 Excerpt:
 
