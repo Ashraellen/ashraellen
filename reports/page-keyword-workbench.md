@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-07T15:04:28.768Z
+Generated: 2026-08-07T15:04:57.516Z
 Pages: 767
 
 ## Index
@@ -403,7 +403,7 @@ Pages: 767
 | pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0004/index.html | pl | books | AS2-GAS-PL-0004 — paszport egzemplarza GAS | _missing_ | gas, egzemplarza, 0004, as2-gas-pl-0004, ashraellen, books, paszport, 0001, 2.0, as2, autor, autora, copies, egzemplarz, historia, monolith, nie, samizdat |
 | pl/books/samizdat/monolith/gas/copies/as2-gas-pl-0005/index.html | pl | books | AS2-GAS-PL-0005 — paszport egzemplarza GAS | _missing_ | gas, egzemplarza, 0005, as2-gas-pl-0005, ashraellen, books, paszport, 0001, 2.0, as2, autor, autora, copies, egzemplarz, historia, monolith, nie, samizdat |
 | pl/books/samizdat/monolith/gas/index.html | pl | books | GAS / Gaz — paszport książki — samizdat 2.0 | _missing_ | gas, samizdat, 2.0, ashraellen, gaz, monolith, paszport, books, dzieła, egzemplarze, fizyczne, iii, tom, książki, systemie, trylogii, zapis |
-| pl/books/samizdat/monolith/index.html | pl | books | MONOLITH — paszport trylogii — samizdat 2.0 | _missing_ | monolith, trylogii, 2.0, paszport, samizdat, ashraellen, beton, books, gas, książka, sludge, autorskiej, egzemplarz, kanoniczna, kolejność, książki, przygotowaniu, sekwencję |
+| pl/books/samizdat/monolith/index.html | pl | books | MONOLITH — paszport trylogii — samizdat 2.0 | _missing_ | monolith, trylogii, 2.0, paszport, samizdat, ashraellen, beton, books, gas, książka, sludge, autorskiej, egzemplarz, kanoniczna, kolejność, książki, nie, sekwencję |
 | pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0001/index.html | pl | books | AS2-SLUDGE-PL-0001 — paszport egzemplarza SLUDGE | _missing_ | sludge, egzemplarza, 0001, as2-sludge-pl-0001, ashraellen, books, paszport, 2.0, as2, autor, autora, copies, egzemplarz, historia, monolith, nie, samizdat, status |
 | pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0002/index.html | pl | books | AS2-SLUDGE-PL-0002 — paszport egzemplarza SLUDGE | _missing_ | sludge, egzemplarza, 0002, as2-sludge-pl-0002, ashraellen, books, paszport, 0001, 2.0, as2, autor, copies, egzemplarz, historia, monolith, nie, samizdat, status |
 | pl/books/samizdat/monolith/sludge/copies/as2-sludge-pl-0003/index.html | pl | books | AS2-SLUDGE-PL-0003 — paszport egzemplarza SLUDGE | _missing_ | sludge, egzemplarza, 0003, as2-sludge-pl-0003, ashraellen, books, paszport, 0001, 2.0, as2, autor, copies, egzemplarz, historia, monolith, nie, samizdat, status |
@@ -7519,8 +7519,8 @@ Excerpt:
 - H1: MONOLITH
 - H2: O trylogii | Kanoniczna kolejność | Książka, seria i egzemplarz
 - H3: BETON | SLUDGE | GAS
-- suggested keyword seed: monolith, trylogii, 2.0, paszport, samizdat, ashraellen, beton, books, gas, książka, sludge, autorskiej, egzemplarz, kanoniczna, kolejność, książki, przygotowaniu, sekwencję
-- candidates: paszport, monolith, trylogii, beton, gas, książka, książki, sludge, przygotowaniu, sekwencję, się, 2.0, nie, samizdat, samodzielne, trzy, autorską, autorskiej, dzieło, egzemplarz, kolejność, przez, serii, własny
+- suggested keyword seed: monolith, trylogii, 2.0, paszport, samizdat, ashraellen, beton, books, gas, książka, sludge, autorskiej, egzemplarz, kanoniczna, kolejność, książki, nie, sekwencję
+- candidates: paszport, monolith, trylogii, beton, gas, książka, książki, sludge, sekwencję, się, 2.0, nie, opublikowany, samizdat, samodzielne, trzy, autorską, autorskiej, dzieło, egzemplarz, kolejność, przez, serii, własny
 
 Excerpt:
 
