@@ -1,0 +1,111 @@
+name: One-shot BETAO pt-PT literary cleanup
+
+on:
+  push:
+    paths:
+      - '.github/workflows/one-shot-pt-betao-literary-ptpt.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Refine Portuguese BETAO and series prose
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+
+          p=Path('pt/books/monolith/beton/index.html')
+          s=p.read_text(encoding='utf-8')
+          reps=[
+            ('O concreto não começa com uma parede.','O betão não começa com uma parede.'),
+            ('Isso significava que todas as tarefas em andamento eram canceladas e os elevadores ficavam bloqueados para entrada até segunda ordem.','Isto significava que todas as tarefas em curso eram canceladas e os elevadores ficavam bloqueados à entrada até nova ordem.'),
+            ('Um cheiro pesado de ozônio pairava no ar','Um cheiro pesado a ozono pairava no ar'),
+            ('Sua silhueta contra a cidade matinal parecia recortada em papelão preto.','A sua silhueta contra a cidade matinal parecia recortada em cartão preto.'),
+            ('nossa população','a nossa população'),
+            ('Entende?','Percebes?'),
+            ('Eles estragam a imagem da estabilidade.','Estragam a imagem da estabilidade.'),
+            ('Anton sentou-se à mesa, percebendo como a dose dupla de “equilíbrio” do dia anterior havia transformado seu cérebro num espelho perfeitamente limpo.','Anton sentou-se à mesa, sentindo como a dose dupla de “equilíbrio” do dia anterior lhe transformara o cérebro num espelho perfeitamente limpo.'),
+            ('Eles são mutilados, Mark.','Estão mutilados, Mark.'),
+            ('Um lembrete de que o concreto pode se desfazer.','Um lembrete de que o betão pode desfazer-se.'),
+            ('Mark se virou bruscamente.','Mark virou-se bruscamente.'),
+            ('nossa tarefa','a nossa tarefa'),
+            ('Na mesa holográfica central acenderam-se as variantes de slogans que as redes neurais do departamento já haviam esboçado.','Na mesa holográfica central acenderam-se as variantes de slogans que as redes neurais do departamento já tinham esboçado.'),
+            ('Anton passou por elas, e dentro dele se moveu uma sensação esquecida','Anton percorreu-as, e dentro dele mexeu-se uma sensação esquecida'),
+            ('Sua ferida é uma condecoração que não pode ser retirada.','A tua ferida é uma condecoração que nunca pode ser retirada.'),
+            ('para que você permanecesse inteiro.','para que tu permanecesses inteiro.'),
+            ('Veja a proposta do setor B.','Vê a proposta do setor B.'),
+            ('mais confiável que o osso.','mais fiável do que o osso.'),
+            ('todo mundo sabe que eles foram para lá por causa dos pagamentos.','toda a gente sabe que foram para lá por causa dos pagamentos.'),
+            ('Como vamos prender ‘santidade’ nisso?','Como vamos colar «santidade» a isso?'),
+            ('Mark olhou para ele como para uma criança.','Mark olhou para ele como se olhasse para uma criança.'),
+            ('Não confunda facto com sentido.','Não confundas facto com sentido.'),
+            ('A tua esposa’s agency','A agência da tua mulher'),
+            ('seu setor','o teu setor'),
+            ('sua cabeça','a cabeça dele'),
+            ('brainstorming','sessão de ideias'),
+            ('funcionários','trabalhadores'),
+            ('visualização','visualização'),
+            ('Eu proponho','Proponho'),
+            ('Dar-lhes','Dêem-lhes'),
+            ('Precisamos mudar o ângulo de visão.','Temos de mudar o ângulo de visão.'),
+            ('uma pessoa comum','uma pessoa vulgar'),
+            ('culpada por ser inteira.','culpada por estar inteira.'),
+          ]
+          for old,new in reps:
+              s=s.replace(old,new)
+          # Generic European Portuguese cleanups within BETÃO only.
+          generic=[
+            ('você ','tu '),('Você ','Tu '),
+            ('se virou','virou-se'),('se sentou','sentou-se'),('se levantou','levantou-se'),('se aproximou','aproximou-se'),
+            ('se tornou','tornou-se'),('se transformou','transformou-se'),('se moveu','moveu-se'),
+            ('concreto','betão'),('Concreto','Betão'),
+            ('ozônio','ozono'),('papelão','cartão'),('confiável','fiável'),
+            ('todo mundo','toda a gente'),('Todo mundo','Toda a gente'),
+            ('havia ','tinha '),
+          ]
+          for old,new in generic: s=s.replace(old,new)
+          p.write_text(s,encoding='utf-8')
+
+          # Refine the main series page, where the legacy copy was also BR-heavy.
+          p=Path('pt/books/monolith/index.html')
+          s=p.read_text(encoding='utf-8')
+          reps=[
+            ('Os seus três volumes registram a passagem da matéria social por três estados:','Os seus três volumes registam a passagem da matéria social por três estados:'),
+            ('Diante de si está uma crónica do colapso controlado: o registo sucessivo da transição de fase da matéria social, fixada em três estados','Diante de si está uma crónica do colapso controlado: o registo sucessivo da transição de fase da matéria social, fixado em três estados'),
+            ('uma memória que é mais conveniente corrigir do que ouvir','uma memória que é mais cómodo corrigir do que escutar'),
+            ('uma pessoa que começa a perceber a fissura','uma pessoa que começa a notar a fissura'),
+            ('a pessoa vai perdendo gradualmente a forma e começa a ceder ao ambiente','a pessoa vai perdendo gradualmente a forma e começa a ceder ao meio'),
+            ('na norma quotidiana','nas normas do quotidiano'),
+            ('o hábito de concordar com aquilo que já foi chamado de correto','o hábito de concordar com aquilo que já foi declarado correto'),
+            ('uma pessoa ainda acredita pensar por si própria','uma pessoa ainda acredita que pensa por si própria'),
+            ('o meio há muito a treinou a escolher uma versão conveniente da realidade','o meio a treinou há muito a escolher uma versão conveniente da realidade'),
+            ('por cena, protocolo, cheiro, memória, procedimento, cansaço, falha e ruído interno','através de cenas, protocolos, cheiros, memória, procedimentos, cansaço, falhas e ruído interno'),
+            ('A investigação não acontece acima do texto','A investigação não decorre acima do texto'),
+            ('onde uma pessoa percebe pela primeira vez','onde uma pessoa percebe, pela primeira vez,'),
+            ('A forma começa a desintegrar-se. A pessoa torna-se gradualmente parte da matéria do meio.','A forma começa a desintegrar-se. A pessoa torna-se gradualmente parte da matéria do meio.'),
+          ]
+          for old,new in reps: s=s.replace(old,new)
+          p.write_text(s,encoding='utf-8')
+
+          # Invariants: do not disturb names, routes, editions or mark.
+          for f in [Path('pt/books/monolith/index.html'),Path('pt/books/monolith/beton/index.html')]:
+              t=f.read_text(encoding='utf-8')
+              if '— mark of presence' not in t: raise SystemExit('mark missing: '+str(f))
+              if '<html lang="pt-PT">' not in t: raise SystemExit('lang missing: '+str(f))
+          b=Path('pt/books/monolith/beton/index.html').read_text(encoding='utf-8')
+          if b.count('GGKEY:6W7BCZQ9YQZ') != 2: raise SystemExit('BETÃO English Google link count changed')
+          PY
+          rm -f .github/workflows/one-shot-pt-betao-literary-ptpt.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'Refine Portuguese BETAO and series prose'
+          git push
