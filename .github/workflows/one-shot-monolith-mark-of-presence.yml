@@ -1,0 +1,70 @@
+name: One-shot MONOLITH mark of presence audit
+
+on:
+  push:
+    paths:
+      - '.github/workflows/one-shot-monolith-mark-of-presence.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Audit and normalize seal caption
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          roots = [Path(x) for x in [
+              'be/books/monolith',
+              'pl/books/monolith',
+              'ru/books/monolith',
+              'uk/books/monolith',
+          ]]
+          changed=[]
+          found=[]
+          pat=re.compile(r'(<div class="seal"[^>]*>.*?<span>)(.*?)(</span>.*?</div>)', re.S)
+          for root in roots:
+              for p in sorted(root.rglob('index.html')):
+                  s=p.read_text(encoding='utf-8')
+                  matches=list(pat.finditer(s))
+                  if not matches:
+                      print('NO_SEAL', p)
+                      continue
+                  captions=[m.group(2).strip() for m in matches]
+                  print('SEAL', p, captions)
+                  found.append(str(p))
+                  ns=pat.sub(lambda m: m.group(1)+'— mark of presence'+m.group(3), s)
+                  if ns != s:
+                      p.write_text(ns,encoding='utf-8')
+                      changed.append(str(p))
+          print('CHANGED', len(changed), *changed, sep='\n')
+          # final validation: every seal in scope must have exact invariant caption
+          bad=[]
+          for root in roots:
+              for p in sorted(root.rglob('index.html')):
+                  s=p.read_text(encoding='utf-8')
+                  for m in pat.finditer(s):
+                      if m.group(2).strip() != '— mark of presence':
+                          bad.append((str(p),m.group(2).strip()))
+          if bad:
+              raise SystemExit('Bad seal captions: '+repr(bad))
+          PY
+          rm -f .github/workflows/one-shot-monolith-mark-of-presence.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'No changes needed after audit.'
+            exit 0
+          fi
+          git commit -m 'Keep MONOLITH mark of presence invariant'
+          git push
