@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-11T13:30:39.342Z
+Generated: 2026-08-11T13:31:40.611Z
 Pages: 769
 
 ## Index
@@ -371,7 +371,7 @@ Pages: 769
 | pl/books/index.html | pl | books | Ashraellen — Książki | Ashraellen, książki, Demotopia, Demokratyczna Utopia, MONOLITH, Blask, Błąd 404, SECCUS, Już jesteś w sieci, The Book of Whinesis, samizdat 2.0, wydania autorskie | książki, autorskie, bezpośrednie, 2.0, ashraellen, błąd, boga, books, nie, wydania, 404, ashraellena, audio, badania, blask, book, cykl, cykle |
 | pl/books/monolith/beton/index.html | pl | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ashraellen, books, stabilności, systemu, akta, anton, antyutopia, artystyczno-badawcza, bez, filozoficzna, fragment, gdy, jako, jego, kogo, książce, książka |
 | pl/books/monolith/gas/index.html | pl | books | Ashraellen — GAZ | ashraellen, monolith, gaz, tom trzeci, wiktoria, pleśń, władza, kontrola, pamięć, lokalizacja, środowisko, sygnał, dystopia | gaz, ashraellen, bez, books, między, monolith, akta, artystyczno-badawcza, autora, było, finałowy, fragment, gas, granicy, jego, już, kontroli, książce |
-| pl/books/monolith/index.html | pl | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ashraellen, beton, books, gas, nie, sludge, antyutopijna, artystyczno-badawcza, czego, czym, forma, fraza, jako, już, kogo, kontroli, lecz |
+| pl/books/monolith/index.html | pl | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, BETON, SLUDGE, GAZ, dystopia, literature, artistic research | monolith, ashraellen, beton, books, gaz, nie, sludge, antyutopijna, artystyczno-badawcza, czego, czym, forma, fraza, jako, już, kogo, kontroli, lecz |
 | pl/books/monolith/sludge/index.html | pl | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, ashraellen, books, adam, akta, ale, antyutopia, artystyczno-badawcza, autora, bez, drugi, filozoficzna, formy, fragment, jego, już, kogo, książce |
 | pl/books/radiance/index.html | pl | books | Ashraellen — Blask \| Północne opowieści o prawdziwej historii świata | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | blask, opowieści, ashraellen, books, cykl, instrukcje, literacko-filozoficzny, nie, aby, artystyczno-badawcza, artystyczno-badawczy, dawne, forma, historii, instrukcji, jako, kogo, książki |
 | pl/books/radiance/sampo/index.html | pl | books | Ashraellen — Sampo \| Blask, Księga I | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | sampo, ashraellen, blask, books, nie, ale, artystycznych, badań, bez, było, chleb, czy, filozoficznej, fundacji, jeszcze, język, już, kogo |
@@ -6972,17 +6972,17 @@ Excerpt:
 - lang: pl
 - section: books
 - title: Ashraellen — MONOLITH
-- description: MONOLITH to literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów: BETON, SLUDGE i GAS.
+- description: MONOLITH to literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów: BETON, SLUDGE i GAZ.
 - canonical: https://www.ashraellen.com/pl/books/monolith/
 - H1: MONOLITH
 - H2: Czym jest MONOLITH | Tomy | Rama artystyczno-badawcza | Mapa rozpadu | Dla kogo jest ten projekt | Czego nie należy mylić | Fraza serii
-- H3: Tom I — BETON | Tom II — SLUDGE | Tom III — GAS | BETON | SLUDGE | GAS | Czytelnicy | Wydawcy / partnerzy / tłumacze
-- suggested keyword seed: monolith, ashraellen, beton, books, gas, nie, sludge, antyutopijna, artystyczno-badawcza, czego, czym, forma, fraza, jako, już, kogo, kontroli, lecz
-- candidates: się, nie, monolith, gas, sludge, beton, forma, pamięć, zaczyna, jako, lecz, już, kontrola, staje, człowiek, pamięci, rozpadu, system, tom, człowieka, kontroli, materii, nawyk, przez
+- H3: Tom I — BETON | Tom II — SLUDGE | Tom III — GAZ | BETON | SLUDGE | GAZ | Czytelnicy | Wydawcy / partnerzy / tłumacze
+- suggested keyword seed: monolith, ashraellen, beton, books, gaz, nie, sludge, antyutopijna, artystyczno-badawcza, czego, czym, forma, fraza, jako, już, kogo, kontroli, lecz
+- candidates: się, nie, monolith, sludge, beton, forma, gaz, pamięć, zaczyna, jako, lecz, już, kontrola, staje, tom, człowiek, pamięci, rozpadu, system, człowieka, kontroli, materii, nawyk, otwórz
 
 Excerpt:
 
-> PROTOKÓŁ ROZPADU MATERII SPOŁECZNEJ / BETON — SLUDGE — GAS MONOLITH MONOLITH to literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów. Trzy tomy rejestrują przejście materii społecznej przez trzy stany: BETON, SLUDGE i GAS — od skamieniałej stabilności, przez lepką deformację, po całkowite rozszczelnienie formy. System nie boi się buntu. Boi się pierwszej szczeliny. Tomy trylogii Mapa rozpadu Czego nie należy mylić Czym jest MONOLITH BETON / SLUDGE / GAS Przed tobą kronika kontrolowanego rozpadu: konsekwentny zapis przemiany fazowej materii społecznej, utrwalonej w trzech stanach — BETON, SLUDGE i GAS. Nie chodzi tu o prognozę przyszłości, lecz o materiał teraźniejszości: porządek, który zbyt długo nazywano bezpieczeństwem; pamięć, którą wygodniej poprawić niż usłyszeć; człowieka, który zaczyna dostrzegać szczelinę, zanim system przyzna, że ona istnieje. B
+> PROTOKÓŁ ROZPADU MATERII SPOŁECZNEJ / BETON — SLUDGE — GAZ MONOLITH MONOLITH to literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów. Trzy tomy rejestrują przejście materii społecznej przez trzy stany: BETON, SLUDGE i GAZ — od skamieniałej stabilności, przez lepką deformację, po całkowite rozszczelnienie formy. System nie boi się buntu. Boi się pierwszej szczeliny. Tomy trylogii Mapa rozpadu Czego nie należy mylić Czym jest MONOLITH BETON / SLUDGE / GAZ Przed tobą kronika kontrolowanego rozpadu: konsekwentny zapis przemiany fazowej materii społecznej, utrwalonej w trzech stanach — BETON, SLUDGE i GAZ. Nie chodzi tu o prognozę przyszłości, lecz o materiał teraźniejszości: porządek, który zbyt długo nazywano bezpieczeństwem; pamięć, którą wygodniej poprawić niż usłyszeć; człowieka, który zaczyna dostrzegać szczelinę, zanim system przyzna, że ona istnieje. B
 
 ### pl/books/monolith/sludge/index.html
 

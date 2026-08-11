@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-11T13:30:39.328Z",
+  "generated": "2026-08-11T13:31:40.591Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -26942,8 +26942,8 @@
       "lang": "pl",
       "section": "books",
       "title": "Ashraellen — MONOLITH",
-      "description": "MONOLITH to literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów: BETON, SLUDGE i GAS.",
-      "existingKeywords": "Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research",
+      "description": "MONOLITH to literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów: BETON, SLUDGE i GAZ.",
+      "existingKeywords": "Ashraellen, MONOLITH, BETON, SLUDGE, GAZ, dystopia, literature, artistic research",
       "canonical": "https://www.ashraellen.com/pl/books/monolith/",
       "h1": [
         "MONOLITH"
@@ -26960,10 +26960,10 @@
       "h3": [
         "Tom I — BETON",
         "Tom II — SLUDGE",
-        "Tom III — GAS",
+        "Tom III — GAZ",
         "BETON",
         "SLUDGE",
-        "GAS",
+        "GAZ",
         "Czytelnicy",
         "Wydawcy / partnerzy / tłumacze"
       ],
@@ -26972,15 +26972,15 @@
         "books",
         "monolith"
       ],
-      "excerpt": "PROTOKÓŁ ROZPADU MATERII SPOŁECZNEJ / BETON — SLUDGE — GAS MONOLITH MONOLITH to literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów. Trzy tomy rejestrują przejście materii społecznej przez trzy stany: BETON, SLUDGE i GAS — od skamieniałej stabilności, przez lepką deformację, po całkowite rozszczelnienie formy. System nie boi się buntu. Boi się pierwszej szczeliny. Tomy trylogii Mapa rozpadu Czego nie należy mylić Czym jest MONOLITH BETON / SLUDGE / GAS Przed tobą kronika kontrolowanego rozpadu: konsekwentny zapis przemiany fazowej materii społecznej, utrwalonej w trzech stanach — BETON, SLUDGE i GAS. Nie chodzi tu o prognozę przyszłości, lecz o materiał teraźniejszości: porządek, który zbyt długo nazywano bezpieczeństwem; pamięć, którą wygodniej poprawić niż usłyszeć; człowieka, który zaczyna dostrzegać szczelinę, zanim system przyzna, że ona istnieje. B",
+      "excerpt": "PROTOKÓŁ ROZPADU MATERII SPOŁECZNEJ / BETON — SLUDGE — GAZ MONOLITH MONOLITH to literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów. Trzy tomy rejestrują przejście materii społecznej przez trzy stany: BETON, SLUDGE i GAZ — od skamieniałej stabilności, przez lepką deformację, po całkowite rozszczelnienie formy. System nie boi się buntu. Boi się pierwszej szczeliny. Tomy trylogii Mapa rozpadu Czego nie należy mylić Czym jest MONOLITH BETON / SLUDGE / GAZ Przed tobą kronika kontrolowanego rozpadu: konsekwentny zapis przemiany fazowej materii społecznej, utrwalonej w trzech stanach — BETON, SLUDGE i GAZ. Nie chodzi tu o prognozę przyszłości, lecz o materiał teraźniejszości: porządek, który zbyt długo nazywano bezpieczeństwem; pamięć, którą wygodniej poprawić niż usłyszeć; człowieka, który zaczyna dostrzegać szczelinę, zanim system przyzna, że ona istnieje. B",
       "candidates": [
         "się",
         "nie",
         "monolith",
-        "gas",
         "sludge",
         "beton",
         "forma",
+        "gaz",
         "pamięć",
         "zaczyna",
         "jako",
@@ -26988,23 +26988,23 @@
         "już",
         "kontrola",
         "staje",
+        "tom",
         "człowiek",
         "pamięci",
         "rozpadu",
         "system",
-        "tom",
         "człowieka",
         "kontroli",
         "materii",
         "nawyk",
-        "przez"
+        "otwórz"
       ],
       "suggestedKeywordSeed": [
         "monolith",
         "ashraellen",
         "beton",
         "books",
-        "gas",
+        "gaz",
         "nie",
         "sludge",
         "antyutopijna",
