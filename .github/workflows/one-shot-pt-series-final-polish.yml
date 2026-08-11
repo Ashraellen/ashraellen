@@ -1,0 +1,49 @@
+name: One-shot final Portuguese series polish
+
+on:
+  push:
+    paths:
+      - '.github/workflows/one-shot-pt-series-final-polish.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Final pt-PT polish
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('pt/books/monolith/index.html')
+          s=p.read_text(encoding='utf-8')
+          reps=[
+            ('Os os seus três volumes','Os seus três volumes'),
+            ('A estabilidade torna-se prisão.','A estabilidade torna-se uma prisão.'),
+            ('A pessoa torna-se gradualmente substância do ambiente.','A pessoa torna-se gradualmente parte da matéria do meio.'),
+            ('Ele o regista através de cenas, protocolos, cheiros, memória, procedimentos, cansaço, falhas e ruído interno.','Regista-o através de cenas, protocolos, cheiros, memória, procedimentos, cansaço, falhas e ruído interno.'),
+            ('que a sua realidade já havia sido editada antes que começasse a defendê-la.','que a sua realidade já tinha sido editada antes de começar a defendê-la.'),
+            ('em que a ordem torna-se uma prisão','em que a ordem se torna uma prisão'),
+            ('Em LAMA, essa forma amolece:','Em LAMA, essa forma amolece:'),
+            ('torna-se ambiente.','torna-se meio.'),
+          ]
+          for old,new in reps: s=s.replace(old,new)
+          p.write_text(s,encoding='utf-8')
+          bad=['Os os seus','Ele o regista','já havia sido','substância do ambiente']
+          remains=[x for x in bad if x in s]
+          if remains: raise SystemExit('Remaining series artifacts: '+repr(remains))
+          for x in ['MONÓLITO','BETÃO','LAMA','GÁS','beton-en.webp','sludge-en.webp','GAS_EN_COVER_final_v01.webp','— mark of presence','<html lang="pt-PT">']:
+              assert x in s, x
+          PY
+          rm -f .github/workflows/one-shot-pt-series-final-polish.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'Final-polish Portuguese MONOLITO series page'
+          git push
