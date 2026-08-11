@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-11T15:49:38.878Z
+Generated: 2026-08-11T16:24:42.767Z
 
 Pages checked: 769
-Pages with issues: 249
-Total issues: 1605
+Pages with issues: 248
+Total issues: 1602
 Pages with review notes: 592
 Total review notes: 2126
 
@@ -21,10 +21,10 @@ Total review notes: 2126
 | MISSING_OG_TITLE | 169 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
-| DUPLICATE_KEYWORDS | 47 |
+| DUPLICATE_KEYWORDS | 46 |
 | MISSING_CANONICAL | 45 |
-| DUPLICATE_TITLE | 36 |
-| DUPLICATE_OG_TITLE | 34 |
+| DUPLICATE_TITLE | 35 |
+| DUPLICATE_OG_TITLE | 33 |
 | DESCRIPTION_TOO_SHORT | 20 |
 
 
@@ -82,9 +82,9 @@ Total review notes: 2126
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_TITLE: shared by 8 pages
-- DUPLICATE_KEYWORDS: shared by 7 pages
-- DUPLICATE_OG_TITLE: shared by 8 pages
+- DUPLICATE_TITLE: shared by 7 pages
+- DUPLICATE_KEYWORDS: shared by 6 pages
+- DUPLICATE_OG_TITLE: shared by 7 pages
 
 ### be/books/monolith/sludge/index.html
 
@@ -245,9 +245,9 @@ Total review notes: 2126
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_TITLE: shared by 8 pages
-- DUPLICATE_KEYWORDS: shared by 7 pages
-- DUPLICATE_OG_TITLE: shared by 8 pages
+- DUPLICATE_TITLE: shared by 7 pages
+- DUPLICATE_KEYWORDS: shared by 6 pages
+- DUPLICATE_OG_TITLE: shared by 7 pages
 
 ### de/books/monolith/sludge/index.html
 
@@ -395,9 +395,9 @@ Total review notes: 2126
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_TITLE: shared by 8 pages
-- DUPLICATE_KEYWORDS: shared by 7 pages
-- DUPLICATE_OG_TITLE: shared by 8 pages
+- DUPLICATE_TITLE: shared by 7 pages
+- DUPLICATE_KEYWORDS: shared by 6 pages
+- DUPLICATE_OG_TITLE: shared by 7 pages
 
 ### en/books/monolith/sludge/index.html
 
@@ -760,9 +760,9 @@ Total review notes: 2126
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_TITLE: shared by 8 pages
-- DUPLICATE_KEYWORDS: shared by 7 pages
-- DUPLICATE_OG_TITLE: shared by 8 pages
+- DUPLICATE_TITLE: shared by 7 pages
+- DUPLICATE_KEYWORDS: shared by 6 pages
+- DUPLICATE_OG_TITLE: shared by 7 pages
 
 ### es/books/monolith/sludge/index.html
 
@@ -938,9 +938,9 @@ Total review notes: 2126
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_TITLE: shared by 8 pages
-- DUPLICATE_KEYWORDS: shared by 7 pages
-- DUPLICATE_OG_TITLE: shared by 8 pages
+- DUPLICATE_TITLE: shared by 7 pages
+- DUPLICATE_KEYWORDS: shared by 6 pages
+- DUPLICATE_OG_TITLE: shared by 7 pages
 
 ### fr/books/monolith/sludge/index.html
 
@@ -1093,8 +1093,8 @@ Total review notes: 2126
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_TITLE: shared by 8 pages
-- DUPLICATE_OG_TITLE: shared by 8 pages
+- DUPLICATE_TITLE: shared by 7 pages
+- DUPLICATE_OG_TITLE: shared by 7 pages
 
 ### pl/books/monolith/sludge/index.html
 
@@ -1828,9 +1828,9 @@ Total review notes: 2126
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_TITLE: shared by 8 pages
-- DUPLICATE_KEYWORDS: shared by 7 pages
-- DUPLICATE_OG_TITLE: shared by 8 pages
+- DUPLICATE_TITLE: shared by 7 pages
+- DUPLICATE_KEYWORDS: shared by 6 pages
+- DUPLICATE_OG_TITLE: shared by 7 pages
 
 ### pt/books/monolith/sludge/index.html
 
@@ -3755,18 +3755,6 @@ Total review notes: 2126
 
 - DUPLICATE_TITLE: shared by 8 pages
 - DUPLICATE_KEYWORDS: shared by 8 pages
-- DUPLICATE_OG_TITLE: shared by 8 pages
-
-### uk/books/monolith/index.html
-
-- title: Ashraellen — MONOLITH
-- description length: 116
-- canonical: https://www.ashraellen.com/uk/books/monolith/
-- og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
-- twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
-
-- DUPLICATE_TITLE: shared by 8 pages
-- DUPLICATE_KEYWORDS: shared by 7 pages
 - DUPLICATE_OG_TITLE: shared by 8 pages
 
 ### uk/books/monolith/sludge/index.html
@@ -9521,7 +9509,7 @@ Total review notes: 2126
 
 ### uk/books/monolith/index.html
 
-- title: Ashraellen — MONOLITH
+- title: Ashraellen — МОНОЛІТ
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
