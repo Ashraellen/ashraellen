@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-11T16:24:43.383Z
-Pages: 770
+Generated: 2026-08-11T17:18:30.069Z
+Pages: 772
 
 ## Index
 
@@ -11,9 +11,10 @@ Pages: 770
 | be/books/error-404-god-not-found/index.html | be | books | Ashraellen — Памылка 404: Бог не знойдзены | _missing_ | 404, бог, знойдзены, памылка, ashraellen, books, пошуку, error, found, god, або, адказ, бога, звароту, канцылярыю, кніга, кнігі, нябеснай |
 | be/books/error-404-god-not-found/why-me/index.html | be | books | Ashraellen — Чаму я? | _missing_ | чаму, 404, ashraellen, books, пра, error, found, god, why, або, але, бог, бога, боль, бюракратыю, веру, душы, знойдзены |
 | be/books/index.html | be | books | Ashraellen — Кнігі | Ashraellen, кнігі, Demotopia, Дэмакратычная Утопія, MONOLITH, RADIANCE, ERROR 404, АХЕПСУ, Ты ўжо ў сетцы, The Book of Whinesis, samizdat 2.0, аўтарскія выданні | кнігі, ashraellen, аўтарскія, 2.0, books, samizdat, выданні, кніга, прамыя, сатыра, 404, book, demotopia, error, found, god, monolith, radiance |
-| be/books/monolith/beton/index.html | be | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, monolith, пра, ashraellen, books, памяць, сістэмы, стабільнасць, том, абраны, адрэдагаваную, антон, антыўтопія, без, вузлы, выданне, гэтая, зацвярдзелую |
-| be/books/monolith/index.html | be | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ashraellen, beton, books, gas, sludge, кантроль, памяць, пра, антыўтапічная, важна, гэты, дзе, каго, карта, літаратурна-філасофская, мастацка-даследчая, пачынае |
-| be/books/monolith/sludge/index.html | be | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, monolith, пра, ashraellen, books, абраны, адам, але, антыўтопія, аўтара, без, вязкі, другі, каго, кнігу, мастацка-даследчая, нават, рамка |
+| be/books/monolith/beton/index.html | be | books | Ashraellen — БЕТОН | Ashraellen, МАНАЛІТ, БЕТОН, dystopia, literature, artistic research | бетон, пра, ashraellen, books, маналіт, памяць, сістэмы, стабільнасць, том, beton, monolith, абраны, адрэдагаваную, антон, антыўтопія, без, вузлы, выданне |
+| be/books/monolith/gas/index.html | be | books | Ashraellen — ГАЗ | Ashraellen, МАНАЛІТ, ГАЗ, трэці том, Вікторыя, улада, кантроль, памяць, лакалізацыя, асяроддзе, сігнал, антыўтопія | газ, ashraellen, books, аб’екта, без, паміж, пра, gas, monolith, абраны, але, асяроддзем, асяроддзя, аўтара, вузлы, завяршальны, кантроль, кнігу |
+| be/books/monolith/index.html | be | books | Ashraellen — МАНАЛІТ | Ashraellen, МАНАЛІТ, МАНАЛІТ, dystopia, literature, artistic research | маналіт, ashraellen, books, бетон, газ, жыжа, кантроль, памяць, monolith, антыўтапічная, важна, гэты, дзе, каго, карта, літаратурна-філасофская, мастацка-даследчая, пачынае |
+| be/books/monolith/sludge/index.html | be | books | Ashraellen — ЖЫЖА | Ashraellen, МАНАЛІТ, ЖЫЖА, dystopia, literature, artistic research | жыжа, пра, ashraellen, books, маналіт, monolith, sludge, абраны, адам, але, антыўтопія, аўтара, без, вязкі, другі, каго, кнігу, мастацка-даследчая |
 | be/books/radiance/index.html | be | books | Ashraellen — Ззянне \| Паўночныя паданні аб сапраўднай гісторыі свету | Ashraellen, Ззянне, САМПО, Песня, Кнігі, literary-philosophical, artistic research | ззянне, гісторыі, ashraellen, books, інструкцыі, літаратурна-філасофскі, старажытныя, цыкл, radiance, важна, вобразныя, гэты, захоўваюць, інструкцый, каго, карта, кніга, кнігі |
 | be/books/radiance/sampo/index.html | be | books | Ashraellen — САМПО \| Ззянне, кніга I | Ashraellen, Ззянне, САМПО, Песня, Кнігі, literary-philosophical, artistic research | сампо, ashraellen, books, ззянне, кніга, radiance, sampo, аддзяліўся, але, амаль, багацці, без, было, валоданні, выбраная, выдавецкі, выдаўцоў, глава |
 | be/books/radiance/song/index.html | be | books | Ashraellen — Песня \| Ззянне, кніга II | Ashraellen, Ззянне, САМПО, Песня, Кнігі, literary-philosophical, artistic research | песня, ashraellen, books, ззянне, кніга, пра, radiance, song, айла, але, амаль, без, была, было, быў, варшаву, выбраная, выдавецкі |
@@ -373,7 +374,7 @@ Pages: 770
 | pl/books/monolith/beton/index.html | pl | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ashraellen, books, stabilności, systemu, akta, anton, antyutopia, artystyczno-badawcza, bez, filozoficzna, fragment, gdy, jako, jego, kogo, książce, książka |
 | pl/books/monolith/gas/index.html | pl | books | Ashraellen — GAZ | ashraellen, monolith, gaz, tom trzeci, wiktoria, pleśń, władza, kontrola, pamięć, lokalizacja, środowisko, sygnał, dystopia | gaz, ashraellen, bez, books, między, monolith, akta, artystyczno-badawcza, autora, było, finałowy, fragment, gas, granicy, jego, już, kontroli, książce |
 | pl/books/monolith/index.html | pl | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, BETON, SZLAM, GAZ, dystopia, literature, artistic research | monolith, ashraellen, beton, books, gaz, nie, szlam, antyutopijna, artystyczno-badawcza, czego, czym, forma, fraza, jako, już, kogo, kontroli, lecz |
-| pl/books/monolith/sludge/index.html | pl | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, ashraellen, books, adam, akta, ale, antyutopia, artystyczno-badawcza, autora, bez, drugi, filozoficzna, formy, fragment, jego, już, kogo, książce |
+| pl/books/monolith/sludge/index.html | pl | books | Ashraellen — SZLAM | Ashraellen, MONOLITH, SZLAM, dystopia, literature, artistic research | szlam, ashraellen, books, adam, akta, ale, antyutopia, artystyczno-badawcza, autora, bez, drugi, filozoficzna, formy, fragment, jego, już, kogo, książce |
 | pl/books/radiance/index.html | pl | books | Ashraellen — Blask \| Północne opowieści o prawdziwej historii świata | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | blask, opowieści, ashraellen, books, cykl, instrukcje, literacko-filozoficzny, nie, aby, artystyczno-badawcza, artystyczno-badawczy, dawne, forma, historii, instrukcji, jako, kogo, książki |
 | pl/books/radiance/sampo/index.html | pl | books | Ashraellen — Sampo \| Blask, Księga I | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | sampo, ashraellen, blask, books, nie, ale, artystycznych, badań, bez, było, chleb, czy, filozoficznej, fundacji, jeszcze, język, już, kogo |
 | pl/books/radiance/song/index.html | pl | books | Ashraellen — Pieśń \| Blask, Księga II | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | pieśń, ashraellen, bez, blask, books, nie, się, ale, artystycznych, ayla, badań, być, był, była, było, druga, dźwięku, fundacji |
@@ -713,9 +714,10 @@ Pages: 770
 | uk/books/error-404-god-not-found/index.html | uk | books | Ashraellen — Помилка 404: Бога не знайдено | _missing_ | 404, бога, знайдено, помилка, ashraellen, books, пошуку, error, found, god, або, готується, заявник, його, канцелярії, канцелярію, книга, книги |
 | uk/books/error-404-god-not-found/why-me/index.html | uk | books | Ashraellen — Чому я? | _missing_ | чому, 404, ashraellen, books, бога, про, error, found, god, why, або, але, біль, бюрократію, він, віру, влад, душі |
 | uk/books/index.html | uk | books | Ashraellen — Книги | Ashraellen, книги, Demotopia, Демократична Утопія, MONOLITH, RADIANCE, ERROR 404, АХЕПСУ, Ти вже в мережі, The Book of Whinesis, samizdat 2.0, авторські видання | книги, ashraellen, авторські, видання, 2.0, books, samizdat, книга, прямі, 404, book, demotopia, error, found, god, monolith, radiance, whinesis |
-| uk/books/monolith/beton/index.html | uk | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, monolith, про, ashraellen, books, пам’ять, стабільність, том, антиутопія, антон, без, вибраний, видання, відредаговану, він, вони, всередині, вузли |
+| uk/books/monolith/beton/index.html | uk | books | Ashraellen — БЕТОН | Ashraellen, МОНОЛІТ, БЕТОН, dystopia, literature, artistic research | бетон, про, ashraellen, books, моноліт, пам’ять, стабільність, том, beton, monolith, антиутопія, антон, без, вибраний, видання, відредаговану, він, вони |
+| uk/books/monolith/gas/index.html | uk | books | Ashraellen — ГАЗ | ashraellen, моноліт, газ, третій том, вікторія, пліснява, влада, контроль, пам’ять, локалізація, середовище, сигнал, антиутопія | газ, ashraellen, books, без, між, про, gas, monolith, автора, але, був, було, вибраний, від, він, владу, втрату, вузли |
 | uk/books/monolith/index.html | uk | books | Ashraellen — МОНОЛІТ | Ashraellen, МОНОЛІТ, БЕТОН, ЖИЖА, ГАЗ, антиутопія, література, художнє дослідження, контроль, пам’ять | моноліт, ashraellen, books, бетон, газ, жижа, контроль, пам’ять, monolith, антиутопічна, важливо, карта, літературно-філософська, матерії, плутати, про, рамка, розпад |
-| uk/books/monolith/sludge/index.html | uk | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, про, ashraellen, books, monolith, від, автора, адам, але, антиутопія, без, в’язкий, вже, вибраний, виснажений, він, всередині, втрату |
+| uk/books/monolith/sludge/index.html | uk | books | Ashraellen — ЖИЖА | Ashraellen, МОНОЛІТ, ЖИЖА, dystopia, literature, artistic research | жижа, ashraellen, books, від, моноліт, про, monolith, sludge, автора, адам, але, антиутопія, без, в’язкий, вже, вибраний, виснажений, він |
 | uk/books/radiance/index.html | uk | books | Ashraellen — Сяйво \| Північні оповіді про справжню історію світу | Ashraellen, Сяйво, САМПО, Пісня, Книги, literary-philosophical, artistic research | сяйво, про, ashraellen, books, інструкції, історії, літературно-філософський, світу, цикл, циклу, radiance, важливо, відповідальність, давні, зберігають, інструкцій, історію, карта |
 | uk/books/radiance/sampo/index.html | uk | books | Ashraellen — САМПО \| Сяйво, книга I | Ashraellen, Сяйво, САМПО, Пісня, Книги, literary-philosophical, artistic research | сампо, ashraellen, books, книга, про, сяйво, radiance, sampo, але, без, біля, було, вибраний, видавничий, видавців, від, відокремився, він |
 | uk/books/radiance/song/index.html | uk | books | Ashraellen — Пісня \| Сяйво, книга II | Ashraellen, Сяйво, САМПО, Пісня, Книги, literary-philosophical, artistic research | пісня, про, ashraellen, books, звук, книга, сяйво, radiance, song, айла, але, без, була, було, варшаву, вибраний, видавничий, видавців |
@@ -852,52 +854,69 @@ Excerpt:
 
 - lang: be
 - section: books
-- title: Ashraellen — BETON
-- description: BETON — першы том MONOLITH: філасофская антыўтопія пра зацвярдзелую стабільнасць, адрэдагаваную памяць і першую расколіну ўнутры Сістэмы.
+- title: Ashraellen — БЕТОН
+- description: БЕТОН — першы том МАНАЛІТ: філасофская антыўтопія пра зацвярдзелую стабільнасць, адрэдагаваную памяць і першую расколіну ўнутры Сістэмы.
 - canonical: https://www.ashraellen.com/be/books/monolith/beton/
-- H1: BETON
+- H1: БЕТОН
 - H2: Справа | Абраны фрагмент | Пра кнігу | Без спойлераў | Мастацка-даследчая рамка | Тэмы / сэнсавыя вузлы | Для каго гэтая кніга | Месца ў трылогіі
 - H3: Стабільнасць | Памяць | Шум | Выпраўленне | Дэпартамент Сэнсаў | Расколіна
-- suggested keyword seed: beton, monolith, пра, ashraellen, books, памяць, сістэмы, стабільнасць, том, абраны, адрэдагаваную, антон, антыўтопія, без, вузлы, выданне, гэтая, зацвярдзелую
-- candidates: яго, beton, антон, памяць, monolith, марк, стабільнасць, том, выданне, пра, сістэмы, сябе, яны, але, дзе, занадта, каб, калі, клей, лічыць, пах, першая, стабільнасці, сэнсаў
+- suggested keyword seed: бетон, пра, ashraellen, books, маналіт, памяць, сістэмы, стабільнасць, том, beton, monolith, абраны, адрэдагаваную, антон, антыўтопія, без, вузлы, выданне
+- candidates: бетон, яго, антон, памяць, маналіт, марк, стабільнасць, том, выданне, пра, сістэмы, сябе, яны, але, дзе, занадта, каб, калі, клей, лічыць, пах, першая, стабільнасці, сэнсаў
 
 Excerpt:
 
-> BETON BETON — філасофская антыўтопія пра свет, у якім стабільнасць стала турмой, памяць прызналі пагрозай, а першая расколіна ўзнікае ўнутры сістэмы, што ўсё яшчэ лічыць сябе вечнай. Том I трылогіі MONOLITH. Справа Том I Бетон пачынаецца не са сцяны. Ён пачынаецца са звычкі называць турму стабільнасцю. СПРАВА № 2026-001B. Індэкс: 6666548A. СТАТУС: Цалкам сакрэтна. Чытаць рускае выданне ў Google Play Books Чытаць англійскае выданне на Amazon Назад да MONOLITH Абраны фрагмент Раздзел 9 / § 9.1 Раздзел 9. Пратакол «Гонар» § 9.1. Найлепшы клей для грамадства Фрагмент паказвае адзін з механізмаў BETON: як боль ператвараюць у лозунг, віну — у сацыяльны клей, а чалавечую страту — у кіраваны вобраз стабільнасці. Адкрыць поўны фрагмент Раздзел 9. Пратакол «Гонар» § 9.1. Найлепшы клей для грамадства Раніца ў Дэпартаменце Сэнсаў пачалася з «белага кода». Гэта азначала, што ўсе бягучыя задачы адмяня
+> БЕТОН БЕТОН — філасофская антыўтопія пра свет, у якім стабільнасць стала турмой, памяць прызналі пагрозай, а першая расколіна ўзнікае ўнутры сістэмы, што ўсё яшчэ лічыць сябе вечнай. Том I трылогіі МАНАЛІТ. Справа Том I Бетон пачынаецца не са сцяны. Ён пачынаецца са звычкі называць турму стабільнасцю. СПРАВА № 2026-001B. Індэкс: 6666548A. СТАТУС: Цалкам сакрэтна. Чытаць рускае выданне ў Google Play Books Чытаць англійскае выданне на Amazon Назад да МАНАЛІТ Абраны фрагмент Раздзел 9 / § 9.1 Раздзел 9. Пратакол «Гонар» § 9.1. Найлепшы клей для грамадства Фрагмент паказвае адзін з механізмаў БЕТОН: як боль ператвараюць у лозунг, віну — у сацыяльны клей, а чалавечую страту — у кіраваны вобраз стабільнасці. Адкрыць поўны фрагмент Раздзел 9. Пратакол «Гонар» § 9.1. Найлепшы клей для грамадства Раніца ў Дэпартаменце Сэнсаў пачалася з «белага кода». Гэта азначала, што ўсе бягучыя задачы адмяняюц
+
+### be/books/monolith/gas/index.html
+
+- lang: be
+- section: books
+- title: Ashraellen — ГАЗ
+- description: ГАЗ — трэці, завяршальны том трылогіі МАНАЛІТ: раман пра ўладу, поўны кантроль і страту мяжы паміж крыніцай, носьбітам і асяроддзем.
+- canonical: https://www.ashraellen.com/be/books/monolith/gas/
+- H1: ГАЗ
+- H2: Справа | Абраны фрагмент | Пра кнігу | Статус аб’екта | Ад аўтара | Без спойлераў | Мастацка-даследчая рамка | Тэмы / сэнсавыя вузлы
+- H3: Страта лакалізацыі | Крыніца | Носьбіт | Назіральнік | Памяць | Распаўсюджванне | Раздзел 1. Інвентарызацыя ценяў | Раздзел 2. Швы твару
+- suggested keyword seed: газ, ashraellen, books, аб’екта, без, паміж, пра, gas, monolith, абраны, але, асяроддзем, асяроддзя, аўтара, вузлы, завяршальны, кантроль, кнігу
+- candidates: без, яго, раздзел, газ, паміж, праз, толькі, асяроддзя, носьбіт, пасля, аб’екта, але, было, калі, назіральніка, пра, сэнсар, том, яшчэ, аб’ект, быў, асяроддзе, дзе, сігналу
+
+Excerpt:
+
+> ГАЗ Трэці том МАНАЛІТУ пачынаецца там, дзе сістэма яшчэ захоўвае форму, але ўжо губляе права лічыць сябе адзінай крыніцай таго, што адбываецца. ГАЗ ператварае расследаванне Вікторыі ў праверку самой мяжы паміж уладай, памяццю, назіраннем і асяроддзем. Справа Том III Газ рэдка выяўляецца ў момант пранікнення. Звычайна яго прысутнасць становіцца заўважнай толькі пасля таго, як ён ужо размеркаваўся ўнутры асяроддзя. ПРАТАКОЛ ІДЭНТЫФІКАЦЫІ АБ’ЕКТА № 2026-001B АБ’ЕКТ: СТЭНАГРАМА «ГАЗ» (ПОЎНАЯ ВЕРСІЯ) АРХІТЭКТАР: ASHRAELLEN ІДЭНТЫФІКАТАР: 2026-001B-GAS ЦЭЛАСНАСЦЬ: 100% (БЕЗ ЗНЕШНЯГА РЭДАГАВАННЯ) Чытаць рускае выданне ў Google Play Books Чытаць англійскае выданне на Amazon Назад да МАНАЛІТУ Адкрыць поўны пратакол ДЭПАРТАМЕНТ СЭНСАЎ ВЕРХНІ СЕКТАР УПРАЎЛЕННЕ КАНТРОЛЮ РАСПАЎСЮДЖВАННЯ ПРАТАКОЛ ІДЭНТЫФІКАЦЫІ АБ’ЕКТА № 2026-001B АБ’ЕКТ: СТЭНАГРАМА «ГАЗ» (ПОЎНАЯ ВЕРСІЯ) АРХІТЭКТАР: ASHRAELLEN СТАТУС: 
 
 ### be/books/monolith/index.html
 
 - lang: be
 - section: books
-- title: Ashraellen — MONOLITH
-- description: MONOLITH — літаратурна-філасофская антыўтапічная трылогія пра кантроль, памяць і распад сістэм: BETON, SLUDGE і GAS.
+- title: Ashraellen — МАНАЛІТ
+- description: МАНАЛІТ — літаратурна-філасофская антыўтапічная трылогія пра кантроль, памяць і распад сістэм: БЕТОН, ЖЫЖА і ГАЗ.
 - canonical: https://www.ashraellen.com/be/books/monolith/
-- H1: MONOLITH
-- H2: Што такое MONOLITH | Тамы | Мастацка-даследчая рамка | Карта распаду | Для каго гэты праект | Што важна не пераблытаць | Фраза серыі
-- H3: Том I — BETON | Том II — SLUDGE | Том III — GAS | BETON | SLUDGE | GAS | Чытачам | Выдаўцам / партнёрам / перакладчыкам
-- suggested keyword seed: monolith, ashraellen, beton, books, gas, sludge, кантроль, памяць, пра, антыўтапічная, важна, гэты, дзе, каго, карта, літаратурна-філасофская, мастацка-даследчая, пачынае
-- candidates: monolith, памяць, gas, beton, sludge, кантроль, форма, пачынае, ўжо, чалавек, дзе, пра, распаду, становіцца, страх, том, яго, больш, калі, матэрыі, расколіна, сацыяльнай, сістэма, тут
+- H1: МАНАЛІТ
+- H2: Што такое МАНАЛІТ | Тамы | Мастацка-даследчая рамка | Карта распаду | Для каго гэты праект | Што важна не пераблытаць | Фраза серыі
+- H3: Том I — БЕТОН | Том II — ЖЫЖА | Том III — ГАЗ | БЕТОН | ЖЫЖА | ГАЗ | Чытачам | Выдаўцам / партнёрам / перакладчыкам
+- suggested keyword seed: маналіт, ashraellen, books, бетон, газ, жыжа, кантроль, памяць, monolith, антыўтапічная, важна, гэты, дзе, каго, карта, літаратурна-філасофская, мастацка-даследчая, пачынае
+- candidates: маналіт, памяць, бетон, газ, жыжа, кантроль, форма, пачынае, том, ўжо, чалавек, дзе, пра, распаду, становіцца, страх, яго, адкрыць, больш, калі, матэрыі, расколіна, сацыяльнай, сістэма
 
 Excerpt:
 
-> ПРАТАКОЛ РАСПАДУ САЦЫЯЛЬНАЙ МАТЭРЫІ / BETON — SLUDGE — GAS MONOLITH MONOLITH — літаратурна-філасофская антыўтапічная трылогія пра кантроль, памяць і распад сістэм. Тры тамы фіксуюць пераход сацыяльнай матэрыі праз тры станы: BETON, SLUDGE і GAS — ад зацвярдзелай стабільнасці да вязкай дэфармацыі і поўнай разгерметызацыі формы. Сістэма баіцца не бунту. Яна баіцца першай расколіны. Тамы трылогіі Карта распаду Што важна не пераблытаць Што такое MONOLITH BETON / SLUDGE / GAS Перад вамі хроніка кіраванага распаду: паслядоўная фіксацыя фазавага пераходу сацыяльнай матэрыі, захаваная ў трох станах — BETON, SLUDGE і GAS. Тут важны не прагноз будучыні, а матэрыял сучаснасці: парадак, які занадта доўга называлі бяспекай; памяць, якую зручней выправіць, чым пачуць; чалавек, які пачынае заўважаць расколіну раней, чым сістэма прызнае яе існаванне. BETON — стадыя зацвярдзелай стабільнасці, дзе парадак
+> ПРАТАКОЛ РАСПАДУ САЦЫЯЛЬНАЙ МАТЭРЫІ / БЕТОН — ЖЫЖА — ГАЗ МАНАЛІТ МАНАЛІТ — літаратурна-філасофская антыўтапічная трылогія пра кантроль, памяць і распад сістэм. Тры тамы фіксуюць пераход сацыяльнай матэрыі праз тры станы: БЕТОН, ЖЫЖА і ГАЗ — ад зацвярдзелай стабільнасці да вязкай дэфармацыі і поўнай разгерметызацыі формы. Сістэма баіцца не бунту. Яна баіцца першай расколіны. Тамы трылогіі Карта распаду Што важна не пераблытаць Што такое МАНАЛІТ БЕТОН / ЖЫЖА / ГАЗ Перад вамі хроніка кіраванага распаду: паслядоўная фіксацыя фазавага пераходу сацыяльнай матэрыі, захаваная ў трох станах — БЕТОН, ЖЫЖА і ГАЗ. Тут важны не прагноз будучыні, а матэрыял сучаснасці: парадак, які занадта доўга называлі бяспекай; памяць, якую зручней выправіць, чым пачуць; чалавек, які пачынае заўважаць расколіну раней, чым сістэма прызнае яе існаванне. БЕТОН — стадыя зацвярдзелай стабільнасці, дзе парадак становіцца
 
 ### be/books/monolith/sludge/index.html
 
 - lang: be
 - section: books
-- title: Ashraellen — SLUDGE
-- description: SLUDGE — другі том MONOLITH: філасофская антыўтопія пра вязкі ціск, стомлены супраціў, саўдзел і страту формы.
+- title: Ashraellen — ЖЫЖА
+- description: ЖЫЖА — другі том МАНАЛІТ: філасофская антыўтопія пра вязкі ціск, стомлены супраціў, саўдзел і страту формы.
 - canonical: https://www.ashraellen.com/be/books/monolith/sludge/
-- H1: SLUDGE
+- H1: ЖЫЖА
 - H2: Справа | Абраны фрагмент | Пра кнігу | Ад аўтара | Без спойлераў | Мастацка-даследчая рамка | Тэмы | Для каго
 - H3: Вязкасць | Стомленасць | Голад | Рытуал | Саўдзел | Страта формы
-- suggested keyword seed: sludge, monolith, пра, ashraellen, books, абраны, адам, але, антыўтопія, аўтара, без, вязкі, другі, каго, кнігу, мастацка-даследчая, нават, рамка
-- candidates: яго, sludge, які, адам, monolith, але, нават, толькі, ўжо, пра, тут, яшчэ, праз, сівы, чалавек, амаль, была, быў, калі, потым, том, тым, чалавека, аргументацыі
+- suggested keyword seed: жыжа, пра, ashraellen, books, маналіт, monolith, sludge, абраны, адам, але, антыўтопія, аўтара, без, вязкі, другі, каго, кнігу, мастацка-даследчая
+- candidates: яго, жыжа, які, адам, але, маналіт, нават, толькі, ўжо, пра, тут, яшчэ, праз, сівы, чалавек, амаль, была, быў, калі, потым, том, тым, чалавека, аргументацыі
 
 Excerpt:
 
-> SLUDGE SLUDGE — філасофская антыўтопія пра свет, дзе ціск больш не падобны да сцяны: ён прасочваецца ў побыт, мову і цела, размывае межы і ператварае чалавека ў матэрыял асяроддзя. Том II трылогіі MONOLITH: вязкая дэфармацыя, стома супраціву і саўдзел як звычка. Справа Том II Чалавек не ламаецца адразу. Спачатку ён стамляецца супраціўляцца. Потым пачынае згаджацца. СПРАВА № 2026-001B. Індэкс: 6666548A. СТАТУС: Цалкам сакрэтна. Чытаць рускае выданне ў Google Play Books Чытаць англійскае выданне на Amazon Назад да MONOLITH Абраны фрагмент Раздзел 6 / § 6.2 Раздзел 6. Першыя крокі праз SLUDGE. § 6.2. Склады Захавання Аскепкаў Фрагмент паказвае, як звычайная патрэба, рытуалізаваная працэдура, страх, маўчанне і саўдзел становяцца паўсядзённай матэрыяй SLUDGE. Адкрыць поўны фрагмент Раздзел 6. Першыя крокі па Жыжы. § 6.2. Склады Захаванасці Аскепкаў На сняданак ім далі кашу. Не ежу ў чалавечым
+> ЖЫЖА ЖЫЖА — філасофская антыўтопія пра свет, дзе ціск больш не падобны да сцяны: ён прасочваецца ў побыт, мову і цела, размывае межы і ператварае чалавека ў матэрыял асяроддзя. Том II трылогіі МАНАЛІТ: вязкая дэфармацыя, стома супраціву і саўдзел як звычка. Справа Том II Чалавек не ламаецца адразу. Спачатку ён стамляецца супраціўляцца. Потым пачынае згаджацца. СПРАВА № 2026-001B. Індэкс: 6666548A. СТАТУС: Цалкам сакрэтна. Чытаць рускае выданне ў Google Play Books Чытаць англійскае выданне на Amazon Назад да МАНАЛІТ Абраны фрагмент Раздзел 6 / § 6.2 Раздзел 6. Першыя крокі праз ЖЫЖА. § 6.2. Склады Захавання Аскепкаў Фрагмент паказвае, як звычайная патрэба, рытуалізаваная працэдура, страх, маўчанне і саўдзел становяцца паўсядзённай матэрыяй ЖЫЖА. Адкрыць поўны фрагмент Раздзел 6. Першыя крокі па Жыжы. § 6.2. Склады Захаванасці Аскепкаў На сняданак ім далі кашу. Не ежу ў чалавечым сэнсе, а 
 
 ### be/books/radiance/index.html
 
@@ -6966,7 +6985,7 @@ Excerpt:
 
 Excerpt:
 
-> BETON BETON to filozoficzna antyutopia o świecie, w którym stabilność stała się więzieniem, pamięć uznano za zagrożenie, a pierwsza szczelina pojawia się wewnątrz systemu wciąż przekonanego o własnej wieczności. Tom I trylogii MONOLITH. Akta Tom I Beton nie zaczyna się od ściany. Zaczyna się od nawyku nazywania więzienia stabilnością. SPRAWA NR 2026-001B. Indeks: 6666548A. STATUS: Ściśle tajne. Czytaj rosyjskie wydanie w Google Play Books Czytaj angielskie wydanie na Amazon Wróć do MONOLITHU Wybrany fragment Rozdział 9 / § 9.1 Rozdział 9. Protokół „Duma” § 9.1. Najlepszy klej dla społeczeństwa Fragment pokazuje jeden z mechanizmów BETONU: jak ból zmienia się w hasło, winę — w społeczny klej, a ludzką stratę — w sterowalny obraz stabilności. Otwórz pełny fragment Rozdział 9. Protokół „Duma” § 9.1. Najlepszy klej dla społeczeństwa Poranek w Departamencie Sensów rozpoczął się od „białego ko
+> BETON BETON to filozoficzna antyutopia o świecie, w którym stabilność stała się więzieniem, pamięć uznano za zagrożenie, a pierwsza szczelina pojawia się wewnątrz systemu wciąż przekonanego o własnej wieczności. Tom I trylogii MONOLITH. Akta Tom I Beton nie zaczyna się od ściany. Zaczyna się od nawyku nazywania więzienia stabilnością. SPRAWA NR 2026-001B. Indeks: 6666548A. STATUS: Ściśle tajne. Czytaj polskie wydanie w Google Play Books Czytaj angielskie wydanie na Amazon Wróć do MONOLITHU Wybrany fragment Rozdział 9 / § 9.1 Rozdział 9. Protokół „Duma” § 9.1. Najlepszy klej dla społeczeństwa Fragment pokazuje jeden z mechanizmów BETONU: jak ból zmienia się w hasło, winę — w społeczny klej, a ludzką stratę — w sterowalny obraz stabilności. Otwórz pełny fragment Rozdział 9. Protokół „Duma” § 9.1. Najlepszy klej dla społeczeństwa Poranek w Departamencie Sensów rozpoczął się od „białego kodu
 
 ### pl/books/monolith/gas/index.html
 
@@ -7006,18 +7025,18 @@ Excerpt:
 
 - lang: pl
 - section: books
-- title: Ashraellen — SLUDGE
-- description: SLUDGE to drugi tom MONOLITHU: filozoficzna antyutopia o lepkiej presji, wyczerpanym oporze, współudziale i utracie formy.
+- title: Ashraellen — SZLAM
+- description: SZLAM to drugi tom MONOLITHU: filozoficzna antyutopia o lepkiej presji, wyczerpanym oporze, współudziale i utracie formy.
 - canonical: https://www.ashraellen.com/pl/books/monolith/sludge/
-- H1: SLUDGE
+- H1: SZLAM
 - H2: Akta | Wybrany fragment | O książce | Od autora | Bez spoilerów | Rama artystyczno-badawcza | Tematy | Dla kogo
 - H3: Lepkość | Zmęczenie | Głód | Rytuał | Współudział | Utrata formy
-- suggested keyword seed: sludge, ashraellen, books, adam, akta, ale, antyutopia, artystyczno-badawcza, autora, bez, drugi, filozoficzna, formy, fragment, jego, już, kogo, książce
-- candidates: nie, się, sludge, już, lecz, adam, przez, który, nawet, ale, tylko, jego, potem, siwy, wszystko, była, było, człowiek, człowieka, niemal, niż, środku, tutaj, tym
+- suggested keyword seed: szlam, ashraellen, books, adam, akta, ale, antyutopia, artystyczno-badawcza, autora, bez, drugi, filozoficzna, formy, fragment, jego, już, kogo, książce
+- candidates: nie, się, szlam, już, lecz, adam, przez, który, nawet, ale, tylko, jego, potem, siwy, wszystko, była, było, człowiek, człowieka, niemal, niż, środku, tutaj, tym
 
 Excerpt:
 
-> SLUDGE SLUDGE to filozoficzna antyutopia o świecie, w którym presja przestaje przypominać ścianę: przenika do codzienności, języka i ciała, zaciera granice i zamienia człowieka w materiał środowiska. Tom II trylogii MONOLITH: lepka deformacja, zmęczenie oporu i współudział jako nawyk. Akta Tom II Człowiek nie łamie się od razu. Najpierw męczy się stawianiem oporu. Potem zaczyna się zgadzać. SPRAWA NR 2026-001B. Indeks: 6666548A. STATUS: Ściśle tajne. Czytaj rosyjskie wydanie w Google Play Books Czytaj angielskie wydanie na Amazon Wróć do MONOLITHU Wybrany fragment Rozdział 6 / § 6.2 Rozdział 6. Pierwsze kroki przez SLUDGE. § 6.2. Magazyny Zachowania Odłamków Fragment pokazuje, jak zwykła potrzeba, zrytualizowana procedura, strach, milczenie i współudział stają się codziennym tworzywem SLUDGE. Otwórz pełny fragment Rozdział 6. Pierwsze kroki przez SLUDGE. § 6.2. Magazyny Zachowania Odłamk
+> SZLAM SZLAM to filozoficzna antyutopia o świecie, w którym presja przestaje przypominać ścianę: przenika do codzienności, języka i ciała, zaciera granice i zamienia człowieka w materiał środowiska. Tom II trylogii MONOLITH: lepka deformacja, zmęczenie oporu i współudział jako nawyk. Akta Tom II Człowiek nie łamie się od razu. Najpierw męczy się stawianiem oporu. Potem zaczyna się zgadzać. SPRAWA NR 2026-001B. Indeks: 6666548A. STATUS: Ściśle tajne. Czytaj polskie wydanie w Google Play Books Czytaj angielskie wydanie na Amazon Wróć do MONOLITHU Wybrany fragment Rozdział 6 / § 6.2 Rozdział 6. Pierwsze kroki przez SZLAM. § 6.2. Magazyny Zachowania Odłamków Fragment pokazuje, jak zwykła potrzeba, zrytualizowana procedura, strach, milczenie i współudział stają się codziennym tworzywem SZLAM. Otwórz pełny fragment Rozdział 6. Pierwsze kroki przez SZLAM. § 6.2. Magazyny Zachowania Odłamków Na ś
 
 ### pl/books/radiance/index.html
 
@@ -12786,18 +12805,35 @@ Excerpt:
 
 - lang: uk
 - section: books
-- title: Ashraellen — BETON
-- description: BETON — перший том MONOLITH: філософська антиутопія про затверділу стабільність, відредаговану пам’ять і першу тріщину всередині Системи.
+- title: Ashraellen — БЕТОН
+- description: БЕТОН — перший том МОНОЛІТ: філософська антиутопія про затверділу стабільність, відредаговану пам’ять і першу тріщину всередині Системи.
 - canonical: https://www.ashraellen.com/uk/books/monolith/beton/
-- H1: BETON
+- H1: БЕТОН
 - H2: Справа | Вибраний фрагмент | Про книгу | Без спойлерів | Художньо-дослідницька рамка | Теми / смислові вузли | Для кого ця книга | Місце в трилогії
 - H3: Стабільність | Пам’ять | Шум | Виправлення | Департамент Сенсів | Тріщина
-- suggested keyword seed: beton, monolith, про, ashraellen, books, пам’ять, стабільність, том, антиутопія, антон, без, вибраний, видання, відредаговану, він, вони, всередині, вузли
-- candidates: він, beton, пам’ять, monolith, антон, його, стабільність, видання, марк, том, вони, про, системи, вже, виправлення, вона, всередині, запах, клей, надто, перша, себе, сенсів, стабільності
+- suggested keyword seed: бетон, про, ashraellen, books, моноліт, пам’ять, стабільність, том, beton, monolith, антиутопія, антон, без, вибраний, видання, відредаговану, він, вони
+- candidates: бетон, він, пам’ять, антон, його, моноліт, стабільність, видання, марк, том, вони, про, системи, вже, виправлення, вона, всередині, запах, клей, надто, перша, себе, сенсів, стабільності
 
 Excerpt:
 
-> BETON BETON — філософська антиутопія про світ, у якому стабільність стала в’язницею, пам’ять визнано загрозою, а перша тріщина з’являється всередині системи, що досі вважає себе вічною. Том I трилогії MONOLITH. Справа Том I Бетон починається не зі стіни. Він починається зі звички називати в’язницю стабільністю. СПРАВА № 2026-001B. Індекс: 6666548A. СТАТУС: Цілком таємно. Читати російське видання в Google Play Books Читати англійське видання на Amazon Назад до MONOLITH Вибраний фрагмент Розділ 9 / § 9.1 Розділ 9. Протокол «Гордість» § 9.1. Найкращий клей для суспільства Фрагмент показує один із механізмів BETON: як біль перетворюють на гасло, провину — на суспільний клей, а людську втрату — на керований образ стабільності. Відкрити повний фрагмент Розділ 9. Протокол «Гордість» § 9.1. Найкращий клей для суспільства Ранок у Департаменті Сенсів почався з «білого коду». Це означало, що всі по
+> БЕТОН БЕТОН — філософська антиутопія про світ, у якому стабільність стала в’язницею, пам’ять визнано загрозою, а перша тріщина з’являється всередині системи, що досі вважає себе вічною. Том I трилогії МОНОЛІТ. Справа Том I Бетон починається не зі стіни. Він починається зі звички називати в’язницю стабільністю. СПРАВА № 2026-001B. Індекс: 6666548A. СТАТУС: Цілком таємно. Читати російське видання в Google Play Books Читати англійське видання на Amazon Назад до МОНОЛІТ Вибраний фрагмент Розділ 9 / § 9.1 Розділ 9. Протокол «Гордість» § 9.1. Найкращий клей для суспільства Фрагмент показує один із механізмів БЕТОН: як біль перетворюють на гасло, провину — на суспільний клей, а людську втрату — на керований образ стабільності. Відкрити повний фрагмент Розділ 9. Протокол «Гордість» § 9.1. Найкращий клей для суспільства Ранок у Департаменті Сенсів почався з «білого коду». Це означало, що всі пото
+
+### uk/books/monolith/gas/index.html
+
+- lang: uk
+- section: books
+- title: Ashraellen — ГАЗ
+- description: ГАЗ — третій, завершальний том трилогії МОНОЛІТ: роман про владу, повний контроль і втрату межі між джерелом, носієм та середовищем.
+- canonical: https://www.ashraellen.com/uk/books/monolith/gas/
+- H1: ГАЗ
+- H2: Справа | Вибраний фрагмент | Про книгу | Статус об’єкта | Від автора | Без спойлерів | Художньо-дослідницька рамка | Теми / смислові вузли
+- H3: Втрата локалізації | Джерело | Носій | Спостерігач | Пам’ять | Поширення | Розділ 1. Інвентаризація тіней | Розділ 2. Шви обличчя
+- suggested keyword seed: газ, ashraellen, books, без, між, про, gas, monolith, автора, але, був, було, вибраний, від, він, владу, втрату, вузли
+- candidates: він, без, розділ, було, його, газ, лише, між, джерело, середовища, але, був, вже, можна, носій, об’єкта, після, про, сенсор, спостерігача, так, том, через, від
+
+Excerpt:
+
+> ГАЗ Третій том МОНОЛІТУ починається там, де система ще зберігає форму, але вже втрачає право вважати себе єдиним джерелом того, що відбувається. ГАЗ перетворює розслідування Вікторії на перевірку самої межі між владою, пам’яттю, спостереженням і середовищем. Справа Том III Газ рідко виявляється в момент проникнення. Зазвичай його присутність стає помітною лише після того, як він уже розподілився всередині середовища. ПРОТОКОЛ ІДЕНТИФІКАЦІЇ ОБ’ЄКТА № 2026-001B ОБ’ЄКТ: СТЕНОГРАМА «ГАЗ» (ПОВНА ВЕРСІЯ) АРХІТЕКТОР: ASHRAELLEN ІДЕНТИФІКАТОР: 2026-001B-GAS ЦІЛІСНІСТЬ: 100% (БЕЗ ЗОВНІШНЬОГО РЕДАГУВАННЯ) Читати російське видання в Google Play Books Читати англійське видання на Amazon Назад до МОНОЛІТУ Відкрити повний протокол Закрити повний протокол ДЕПАРТАМЕНТ СМИСЛІВ ВЕРХНІЙ СЕКТОР УПРАВЛІННЯ КОНТРОЛЮ ПОШИРЕННЯ ПРОТОКОЛ ІДЕНТИФІКАЦІЇ ОБ’ЄКТА № 2026-001B ОБ’ЄКТ: СТЕНОГРАМА «ГАЗ» (ПОВНА ВЕРСІЯ) А
 
 ### uk/books/monolith/index.html
 
@@ -12820,18 +12856,18 @@ Excerpt:
 
 - lang: uk
 - section: books
-- title: Ashraellen — SLUDGE
-- description: SLUDGE — другий том MONOLITH: філософська антиутопія про в’язкий тиск, виснажений опір, співучасть і втрату форми.
+- title: Ashraellen — ЖИЖА
+- description: ЖИЖА — другий том МОНОЛІТ: філософська антиутопія про в’язкий тиск, виснажений опір, співучасть і втрату форми.
 - canonical: https://www.ashraellen.com/uk/books/monolith/sludge/
-- H1: SLUDGE
+- H1: ЖИЖА
 - H2: Справа | Вибраний фрагмент | Про книгу | Від автора | Без спойлерів | Художньо-дослідницька рамка | Теми | Для кого
 - H3: В’язкість | Утома | Голод | Ритуал | Співучасть | Втрата форми
-- suggested keyword seed: sludge, про, ashraellen, books, monolith, від, автора, адам, але, антиутопія, без, в’язкий, вже, вибраний, виснажений, він, всередині, втрату
-- candidates: він, sludge, від, який, адам, лише, навіть, але, вже, всередині, його, про, тут, monolith, людина, сивий, був, майже, межі, опір, потім, том, аргументації, біля
+- suggested keyword seed: жижа, ashraellen, books, від, моноліт, про, monolith, sludge, автора, адам, але, антиутопія, без, в’язкий, вже, вибраний, виснажений, він
+- candidates: він, жижа, від, який, адам, лише, навіть, але, вже, всередині, моноліт, його, про, тут, людина, сивий, був, майже, межі, опір, потім, том, аргументації, біля
 
 Excerpt:
 
-> SLUDGE SLUDGE — філософська антиутопія про світ, де тиск більше не схожий на стіну: він просочується в побут, мову й тіло, розмиває межі та перетворює людину на матеріал середовища. Том II трилогії MONOLITH: в’язка деформація, втома опору та співучасть як звичка. Справа Том II Людина не ламається одразу. Спочатку вона втомлюється чинити опір. Потім починає погоджуватися. СПРАВА № 2026-001B. Індекс: 6666548A. СТАТУС: Цілком таємно. Читати російське видання в Google Play Books Читати англійське видання на Amazon Назад до MONOLITH Вибраний фрагмент Розділ 6 / § 6.2 Розділ 6. Перші кроки крізь SLUDGE. § 6.2. Склади Збереження Уламків Фрагмент показує, як звичайна потреба, ритуалізована процедура, страх, мовчання та співучасть стають повсякденною матерією SLUDGE. Відкрити повний фрагмент Розділ 6. Перші кроки по Жижі. § 6.2. Склади Збереження Уламків На сніданок їм дали кашу. Не їжу в людсько
+> ЖИЖА ЖИЖА — філософська антиутопія про світ, де тиск більше не схожий на стіну: він просочується в побут, мову й тіло, розмиває межі та перетворює людину на матеріал середовища. Том II трилогії МОНОЛІТ: в’язка деформація, втома опору та співучасть як звичка. Справа Том II Людина не ламається одразу. Спочатку вона втомлюється чинити опір. Потім починає погоджуватися. СПРАВА № 2026-001B. Індекс: 6666548A. СТАТУС: Цілком таємно. Читати російське видання в Google Play Books Читати англійське видання на Amazon Назад до МОНОЛІТ Вибраний фрагмент Розділ 6 / § 6.2 Розділ 6. Перші кроки крізь ЖИЖА. § 6.2. Склади Збереження Уламків Фрагмент показує, як звичайна потреба, ритуалізована процедура, страх, мовчання та співучасть стають повсякденною матерією ЖИЖА. Відкрити повний фрагмент Розділ 6. Перші кроки по Жижі. § 6.2. Склади Збереження Уламків На сніданок їм дали кашу. Не їжу в людському розумін
 
 ### uk/books/radiance/index.html
 
