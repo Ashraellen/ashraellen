@@ -1,0 +1,47 @@
+name: One-shot English MONOLITH GAS rollout
+
+on:
+  push:
+    paths:
+      - '.github/workflows/one-shot-en-monolith-gas-rollout.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Update English MONOLITH series page
+        run: |
+          test -f assets/covers/beton-en.webp
+          test -f assets/covers/sludge-en.webp
+          test -f assets/covers/GAS_EN_COVER_final_v01.webp
+          python - <<'PY'
+          from pathlib import Path
+          p = Path('en/books/monolith/index.html')
+          s = p.read_text(encoding='utf-8')
+          replacements = {
+              '../../../assets/covers/beton-ru.webp': '../../../assets/covers/beton-en.webp',
+              'alt="Russian cover of BETON"': 'alt="English cover of BETON"',
+              '../../../assets/covers/sludge-ru.webp': '../../../assets/covers/sludge-en.webp',
+              'alt="Russian cover of SLUDGE"': 'alt="English cover of SLUDGE"',
+              '<article class="card"><div class="cover placeholder">GAS</div><h3>Volume III — GAS</h3><p>Final decompression. Meaning begins to spread where the former form can no longer contain pressure.</p><span class="btn secondary">In preparation</span></article>': '<article class="card"><div class="cover"><img src="../../../assets/covers/GAS_EN_COVER_final_v01.webp" alt="English cover of GAS" loading="lazy"></div><h3>Volume III — GAS</h3><p>Final decompression. Meaning begins to spread where the former form can no longer contain pressure.</p><a class="btn" href="https://www.ashraellen.com/en/books/monolith/gas/">Open volume</a></article>',
+              '"hasPart":[{"@id":"https://www.ashraellen.com/en/books/monolith/beton/#book"},{"@id":"https://www.ashraellen.com/en/books/monolith/sludge/#book"}]': '"hasPart":[{"@id":"https://www.ashraellen.com/en/books/monolith/beton/#book"},{"@id":"https://www.ashraellen.com/en/books/monolith/sludge/#book"},{"@id":"https://www.ashraellen.com/en/books/monolith/gas/#book"}]'
+          }
+          for old, new in replacements.items():
+              c = s.count(old)
+              if c != 1:
+                  raise SystemExit(f'Expected exactly one occurrence of {old!r}, found {c}')
+              s = s.replace(old, new)
+          p.write_text(s, encoding='utf-8')
+          PY
+          git rm .github/workflows/one-shot-en-monolith-gas-rollout.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add en/books/monolith/index.html
+          git commit -m "Open English GAS volume on MONOLITH page"
+          git push
