@@ -23,21 +23,19 @@ jobs:
           from pathlib import Path
           p = Path('pl/books/monolith/sludge/index.html')
           s = p.read_text(encoding='utf-8')
-          asset = 'SLUDGE_PL_COVER_FRONT_v01.webp'
-          placeholder = '__KEEP_POLISH_SLUDGE_ASSET_FILENAME__'
-          s = s.replace(asset, placeholder)
           before = s.count('SLUDGE')
           s = s.replace('SLUDGE', 'SZLAM')
-          s = s.replace(placeholder, asset)
           p.write_text(s, encoding='utf-8')
-          after = s.replace(asset, '').count('SLUDGE')
+          after = s.count('SLUDGE')
           print('public SLUDGE before:', before, 'after:', after)
           if after != 0:
               raise SystemExit('Public SLUDGE remains on Polish SZLAM page')
-          if asset not in s:
-              raise SystemExit('Polish cover asset filename was changed unexpectedly')
           if '<h1 class="h1">SZLAM</h1>' not in s:
               raise SystemExit('SZLAM H1 missing')
+          if '/pl/books/monolith/sludge/' not in s:
+              raise SystemExit('Technical /sludge/ route changed unexpectedly')
+          if 'sludge-ru.webp' not in s:
+              raise SystemExit('Existing technical cover filename changed unexpectedly')
           PY
           rm -f .github/workflows/one-shot-pl-szlam-title-canon.yml
           git config user.name 'github-actions[bot]'
