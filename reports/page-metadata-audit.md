@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-11T12:15:35.775Z
+Generated: 2026-08-11T12:31:34.434Z
 
 Pages checked: 767
-Pages with issues: 250
-Total issues: 1607
+Pages with issues: 249
+Total issues: 1606
 Pages with review notes: 592
 Total review notes: 2126
 
@@ -25,7 +25,7 @@ Total review notes: 2126
 | MISSING_CANONICAL | 45 |
 | DUPLICATE_TITLE | 36 |
 | DUPLICATE_OG_TITLE | 34 |
-| DESCRIPTION_TOO_SHORT | 21 |
+| DESCRIPTION_TOO_SHORT | 20 |
 
 
 ## Review note summary
@@ -1960,16 +1960,6 @@ Total review notes: 2126
 
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
-
-### ru/books/monolith/gas/index.html
-
-- title: Ashraellen — ГАЗ
-- description length: 34
-- canonical: https://www.ashraellen.com/ru/books/monolith/gas/
-- og:image: https://www.ashraellen.com/assets/covers/GAS_RU_COVER_final_v01.webp
-- twitter:image: https://www.ashraellen.com/assets/covers/GAS_RU_COVER_final_v01.webp
-
-- DESCRIPTION_TOO_SHORT: 34
 
 ### ru/books/samizdat/demotopia/copies/as2-demotopia-ru-0001/index.html
 
