@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-11T12:51:43.240Z
-Pages: 768
+Generated: 2026-08-11T13:30:39.342Z
+Pages: 769
 
 ## Index
 
@@ -370,6 +370,7 @@ Pages: 768
 | pl/books/error-404-god-not-found/why-me/index.html | pl | books | Ashraellen — Dlaczego ja? | _missing_ | dlaczego, ashraellen, błąd, boga, books, nie, 404, albo, ale, biurokracji, bólu, cyklu, duszy, error, filozoficzno-satyryczna, found, fragment, god |
 | pl/books/index.html | pl | books | Ashraellen — Książki | Ashraellen, książki, Demotopia, Demokratyczna Utopia, MONOLITH, Blask, Błąd 404, SECCUS, Już jesteś w sieci, The Book of Whinesis, samizdat 2.0, wydania autorskie | książki, autorskie, bezpośrednie, 2.0, ashraellen, błąd, boga, books, nie, wydania, 404, ashraellena, audio, badania, blask, book, cykl, cykle |
 | pl/books/monolith/beton/index.html | pl | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ashraellen, books, stabilności, systemu, akta, anton, antyutopia, artystyczno-badawcza, bez, filozoficzna, fragment, gdy, jako, jego, kogo, książce, książka |
+| pl/books/monolith/gas/index.html | pl | books | Ashraellen — GAZ | ashraellen, monolith, gaz, tom trzeci, wiktoria, pleśń, władza, kontrola, pamięć, lokalizacja, środowisko, sygnał, dystopia | gaz, ashraellen, bez, books, między, monolith, akta, artystyczno-badawcza, autora, było, finałowy, fragment, gas, granicy, jego, już, kontroli, książce |
 | pl/books/monolith/index.html | pl | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ashraellen, beton, books, gas, nie, sludge, antyutopijna, artystyczno-badawcza, czego, czym, forma, fraza, jako, już, kogo, kontroli, lecz |
 | pl/books/monolith/sludge/index.html | pl | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, ashraellen, books, adam, akta, ale, antyutopia, artystyczno-badawcza, autora, bez, drugi, filozoficzna, formy, fragment, jego, już, kogo, książce |
 | pl/books/radiance/index.html | pl | books | Ashraellen — Blask \| Północne opowieści o prawdziwej historii świata | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | blask, opowieści, ashraellen, books, cykl, instrukcje, literacko-filozoficzny, nie, aby, artystyczno-badawcza, artystyczno-badawczy, dawne, forma, historii, instrukcji, jako, kogo, książki |
@@ -6948,6 +6949,23 @@ Excerpt:
 Excerpt:
 
 > BETON BETON to filozoficzna antyutopia o świecie, w którym stabilność stała się więzieniem, pamięć uznano za zagrożenie, a pierwsza szczelina pojawia się wewnątrz systemu wciąż przekonanego o własnej wieczności. Tom I trylogii MONOLITH. Akta Tom I Beton nie zaczyna się od ściany. Zaczyna się od nawyku nazywania więzienia stabilnością. SPRAWA NR 2026-001B. Indeks: 6666548A. STATUS: Ściśle tajne. Czytaj rosyjskie wydanie w Google Play Books Czytaj angielskie wydanie na Amazon Wróć do MONOLITHU Wybrany fragment Rozdział 9 / § 9.1 Rozdział 9. Protokół „Duma” § 9.1. Najlepszy klej dla społeczeństwa Fragment pokazuje jeden z mechanizmów BETONU: jak ból zmienia się w hasło, winę — w społeczny klej, a ludzką stratę — w sterowalny obraz stabilności. Otwórz pełny fragment Rozdział 9. Protokół „Duma” § 9.1. Najlepszy klej dla społeczeństwa Poranek w Departamencie Sensów rozpoczął się od „białego ko
+
+### pl/books/monolith/gas/index.html
+
+- lang: pl
+- section: books
+- title: Ashraellen — GAZ
+- description: GAZ — trzeci i finałowy tom trylogii MONOLITH: powieść o władzy, pełnej kontroli i zaniku granicy między źródłem, nośnikiem a środowiskiem.
+- canonical: https://www.ashraellen.com/pl/books/monolith/gas/
+- H1: GAZ
+- H2: Akta | Wybrany fragment | O książce | Status obiektu | Od autora | Bez spoilerów | Rama artystyczno-badawcza | Tematy / węzły znaczeń
+- H3: Utrata lokalizacji | Źródło | Nośnik | Obserwator | Pamięć | Rozprzestrzenianie | Rozdział 1. Inwentaryzacja cieni | Rozdział 2. Szwy twarzy
+- suggested keyword seed: gaz, ashraellen, bez, books, między, monolith, akta, artystyczno-badawcza, autora, było, finałowy, fragment, gas, granicy, jego, już, kontroli, książce
+- candidates: się, nie, bez, już, rozdział, lecz, gaz, było, między, środowiska, jego, tylko, obiektu, sensor, tym, jako, przez, ani, był, drzwi, fragment, gdzie, jakby, obserwatora
+
+Excerpt:
+
+> GAZ Trzeci tom MONOLITHU zaczyna się tam, gdzie system wciąż zachowuje formę, lecz traci już prawo do uznawania siebie za jedyne źródło tego, co się wydarza. GAZ zamienia śledztwo Wiktorii w próbę samej granicy między władzą, pamięcią, obserwacją i środowiskiem. Akta Tom III Gaz rzadko daje się wykryć w chwili przeniknięcia. Zwykle jego obecność staje się widoczna dopiero wtedy, gdy zdążył już rozproszyć się wewnątrz środowiska. PROTOKÓŁ IDENTYFIKACJI OBIEKTU NR 2026-001B OBIEKT: STENOGRAM „GAZ” (WERSJA PEŁNA) ARCHITEKT: ASHRAELLEN IDENTYFIKATOR: 2026-001B-GAS INTEGRALNOŚĆ: 100% (BEZ ZEWNĘTRZNEJ REDAKCJI) Wydanie angielskie na Amazon Wróć do serii Otwórz pełny protokół Zamknij pełny protokół DEPARTAMENT ZNACZEŃ SEKTOR GÓRNY ZARZĄD KONTROLI ROZPRZESTRZENIANIA PROTOKÓŁ IDENTYFIKACJI OBIEKTU NR 2026-001B OBIEKT: STENOGRAM „GAZ” (WERSJA PEŁNA) ARCHITEKT: ASHRAELLEN STATUS: RĘKOPIS POŚWIADCZO
 
 ### pl/books/monolith/index.html
 
