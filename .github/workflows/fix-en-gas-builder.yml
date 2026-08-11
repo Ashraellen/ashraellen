@@ -1,0 +1,48 @@
+name: Fix English GAS page builder
+
+on:
+  push:
+    paths:
+      - '.github/workflows/fix-en-gas-builder.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Repair heredoc indentation and retrigger builder
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p = Path('.github/workflows/one-shot-create-en-gas-page.yml')
+          lines = p.read_text(encoding='utf-8').splitlines()
+          out = []
+          inside = False
+          for line in lines:
+              if "cat > /tmp/en-gas.html.b64 <<'B64'" in line:
+                  inside = True
+                  out.append(line)
+                  continue
+              if inside:
+                  if line.strip() == 'B64':
+                      out.append('          B64')
+                      inside = False
+                  else:
+                      out.append('          ' + line.lstrip())
+              else:
+                  out.append(line)
+          if inside:
+              raise SystemExit('unterminated B64 heredoc')
+          p.write_text('\n'.join(out) + '\n', encoding='utf-8')
+          PY
+          git rm .github/workflows/fix-en-gas-builder.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/workflows/one-shot-create-en-gas-page.yml
+          git commit -m "Repair English GAS page builder"
+          git push
