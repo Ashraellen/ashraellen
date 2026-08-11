@@ -1,0 +1,84 @@
+name: One-shot Polish BETON and SZLAM editions
+
+on:
+  push:
+    paths:
+      - '.github/workflows/one-shot-pl-beton-szlam-editions.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Fix Polish BETON and SZLAM covers, links and labels
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+
+          beton = Path('pl/books/monolith/beton/index.html')
+          s = beton.read_text(encoding='utf-8')
+          replacements = [
+              ('../../../../assets/covers/beton-ru.webp', '../../../../assets/covers/BETON_PL_COVER_FRONT_v02.webp'),
+              ('https://www.ashraellen.com/assets/covers/beton-ru.webp', 'https://www.ashraellen.com/assets/covers/BETON_PL_COVER_FRONT_v02.webp'),
+              ('Rosyjska okładka BETON', 'Polska okładka BETON'),
+              ('https://play.google.com/store/books/details?id=S__VEQAAQBAJ', 'https://play.google.com/store/books/details?id=tNn9EQAAQBAJ'),
+              ('Czytaj rosyjskie wydanie w Google Play Books', 'Czytaj polskie wydanie w Google Play Books'),
+              ('Rosyjskie wydanie w Google Play Books', 'Polskie wydanie w Google Play Books'),
+              ('SLUDGE', 'SZLAM'),
+              ('GAS', 'GAZ'),
+          ]
+          for old, new in replacements:
+              s = s.replace(old, new)
+          beton.write_text(s, encoding='utf-8')
+
+          szlam = Path('pl/books/monolith/sludge/index.html')
+          z = szlam.read_text(encoding='utf-8')
+          replacements = [
+              ('https://play.google.com/store/books/details/Ashraellen_%D0%96%D0%98%D0%96%D0%90?id=-bzWEQAAQBAJ', 'https://play.google.com/store/books/details?id=7V8AEgAAQBAJ'),
+              ('Czytaj rosyjskie wydanie w Google Play Books', 'Czytaj polskie wydanie w Google Play Books'),
+              ('Rosyjskie wydanie w Google Play Books', 'Polskie wydanie w Google Play Books'),
+              ('GAS', 'GAZ'),
+          ]
+          for old, new in replacements:
+              z = z.replace(old, new)
+          szlam.write_text(z, encoding='utf-8')
+
+          checks = {
+              'BETON Google Play occurrences': s.count('https://play.google.com/store/books/details?id=tNn9EQAAQBAJ') == 2,
+              'BETON top Polish label': 'Czytaj polskie wydanie w Google Play Books' in s,
+              'BETON lower Polish label': 'Polskie wydanie w Google Play Books' in s,
+              'BETON Polish cover rel': '../../../../assets/covers/BETON_PL_COVER_FRONT_v02.webp' in s,
+              'BETON Polish cover abs': 'https://www.ashraellen.com/assets/covers/BETON_PL_COVER_FRONT_v02.webp' in s,
+              'BETON Russian Google gone': 'S__VEQAAQBAJ' not in s,
+              'BETON Russian labels gone': 'rosyjskie wydanie w Google Play Books' not in s.lower(),
+              'BETON Russian cover gone': 'beton-ru.webp' not in s,
+              'BETON canon SZLAM': 'SZLAM' in s,
+              'BETON canon GAZ': 'GAZ' in s,
+              'SZLAM Google Play occurrences': z.count('https://play.google.com/store/books/details?id=7V8AEgAAQBAJ') == 2,
+              'SZLAM top Polish label': 'Czytaj polskie wydanie w Google Play Books' in z,
+              'SZLAM lower Polish label': 'Polskie wydanie w Google Play Books' in z,
+              'SZLAM Polish cover rel': '../../../../assets/covers/SLUDGE_PL_COVER_FRONT_v01.webp' in z,
+              'SZLAM Polish cover abs': 'https://www.ashraellen.com/assets/covers/SLUDGE_PL_COVER_FRONT_v01.webp' in z,
+              'SZLAM Russian labels gone': 'rosyjskie wydanie w Google Play Books' not in z.lower(),
+              'SZLAM Russian cover gone': 'sludge-ru.webp' not in z,
+              'SZLAM canon GAZ': 'GAZ' in z,
+          }
+          bad = [name for name, ok in checks.items() if not ok]
+          for name, ok in checks.items():
+              print(('PASS' if ok else 'FAIL'), name)
+          if bad:
+              raise SystemExit('Validation failed: ' + '; '.join(bad))
+          PY
+          rm -f .github/workflows/one-shot-pl-beton-szlam-editions.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'Use Polish editions on BETON and SZLAM pages'
+          git push
