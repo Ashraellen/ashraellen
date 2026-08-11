@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-11T13:31:40.611Z
-Pages: 769
+Generated: 2026-08-11T15:47:41.624Z
+Pages: 770
 
 ## Index
 
@@ -148,6 +148,7 @@ Pages: 769
 | en/books/error-404-god-not-found/why-me/index.html | en | books | Ashraellen — Why Me? | _missing_ | why, book, error, god, about, ashraellen, books, found, 404, appeal, bureaucracy, chancellery, complaint, did, excerpt, faith, had, heavenly |
 | en/books/index.html | en | books | Ashraellen — Books | Ashraellen, books, Demotopia, Democratic Utopia, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis, samizdat 2.0, author editions | books, book, ashraellen, author, direct, editions, research, satire, 2.0, 404, about, already, cycle, cycles, demotopia, error, found, god |
 | en/books/monolith/beton/index.html | en | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, monolith, about, ashraellen, book, books, crack, first, memory, stability, system, anton, artistic-research, case, dystopia, edited, excerpt, file |
+| en/books/monolith/gas/GAS_EN_index.html | en | books | Ashraellen — GAS | ashraellen, monolith, gas, volume three, victoria, mold, power, control, memory, localisation, medium, signal, dystopia | gas, about, ashraellen, books, carrier, medium, monolith, object, source, artistic-research, author, between, book, boundary, case, chapter, control, disappearance |
 | en/books/monolith/index.html | en | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ashraellen, beton, books, collapse, control, gas, memory, sludge, what, about, artistic-research, confused, crack, dystopian, fear, first, form |
 | en/books/monolith/sludge/index.html | en | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, monolith, about, ashraellen, books, adam, already, artistic-research, author, book, case, complicity, dystopia, environment, excerpt, exhausted, file, form |
 | en/books/radiance/index.html | en | books | Ashraellen — Radiance \| Northern tales about the real history of the world | Ashraellen, Radiance, Sampo, Song, Books, literary-philosophical, artistic research | radiance, about, artistic-research, books, what, world, ancient, ashraellen, cycle, northern, philosophical, book, confuse, figurative, form, frame, history, how |
@@ -371,7 +372,7 @@ Pages: 769
 | pl/books/index.html | pl | books | Ashraellen — Książki | Ashraellen, książki, Demotopia, Demokratyczna Utopia, MONOLITH, Blask, Błąd 404, SECCUS, Już jesteś w sieci, The Book of Whinesis, samizdat 2.0, wydania autorskie | książki, autorskie, bezpośrednie, 2.0, ashraellen, błąd, boga, books, nie, wydania, 404, ashraellena, audio, badania, blask, book, cykl, cykle |
 | pl/books/monolith/beton/index.html | pl | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ashraellen, books, stabilności, systemu, akta, anton, antyutopia, artystyczno-badawcza, bez, filozoficzna, fragment, gdy, jako, jego, kogo, książce, książka |
 | pl/books/monolith/gas/index.html | pl | books | Ashraellen — GAZ | ashraellen, monolith, gaz, tom trzeci, wiktoria, pleśń, władza, kontrola, pamięć, lokalizacja, środowisko, sygnał, dystopia | gaz, ashraellen, bez, books, między, monolith, akta, artystyczno-badawcza, autora, było, finałowy, fragment, gas, granicy, jego, już, kontroli, książce |
-| pl/books/monolith/index.html | pl | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, BETON, SLUDGE, GAZ, dystopia, literature, artistic research | monolith, ashraellen, beton, books, gaz, nie, sludge, antyutopijna, artystyczno-badawcza, czego, czym, forma, fraza, jako, już, kogo, kontroli, lecz |
+| pl/books/monolith/index.html | pl | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, BETON, SZLAM, GAZ, dystopia, literature, artistic research | monolith, ashraellen, beton, books, gaz, nie, szlam, antyutopijna, artystyczno-badawcza, czego, czym, forma, fraza, jako, już, kogo, kontroli, lecz |
 | pl/books/monolith/sludge/index.html | pl | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, ashraellen, books, adam, akta, ale, antyutopia, artystyczno-badawcza, autora, bez, drugi, filozoficzna, formy, fragment, jego, już, kogo, książce |
 | pl/books/radiance/index.html | pl | books | Ashraellen — Blask \| Północne opowieści o prawdziwej historii świata | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | blask, opowieści, ashraellen, books, cykl, instrukcje, literacko-filozoficzny, nie, aby, artystyczno-badawcza, artystyczno-badawczy, dawne, forma, historii, instrukcji, jako, kogo, książki |
 | pl/books/radiance/sampo/index.html | pl | books | Ashraellen — Sampo \| Blask, Księga I | Ashraellen, Blask, Sampo, Pieśń, Książki, literary-philosophical, artistic research | sampo, ashraellen, blask, books, nie, ale, artystycznych, badań, bez, było, chleb, czy, filozoficznej, fundacji, jeszcze, język, już, kogo |
@@ -3176,6 +3177,23 @@ Excerpt:
 
 > BETON BETON is a philosophical dystopia about a world in which stability has become a prison, memory is treated as a threat and the first crack appears inside a system that still believes itself eternal. Volume I of the MONOLITH trilogy. Case file Volume I Concrete does not begin with a wall. It begins with the habit of calling a prison stability. CASE No. 2026-001B. Index: 6666548A. STATUS: Top Secret. Read the Russian edition on Google Play Books Read the English edition on Amazon Back to MONOLITH Selected excerpt Chapter 9 / § 9.1 Chapter 9. The “Pride” Protocol § 9.1. The Best Glue for Society The excerpt reveals one of BETON’s mechanisms: how pain is turned into a slogan, guilt into social glue and human loss into a managed image of stability. Open the complete excerpt Chapter 9. The “Pride” Protocol § 9.1. The Best Glue for Society Morning at the Department of Meanings began with a
 
+### en/books/monolith/gas/GAS_EN_index.html
+
+- lang: en
+- section: books
+- title: Ashraellen — GAS
+- description: GAS — the third and final volume of the MONOLITH trilogy: a novel about power, total control, and the disappearance of the boundary between source, carrier, and medium.
+- canonical: https://www.ashraellen.com/en/books/monolith/gas/
+- H1: GAS
+- H2: Case File | Selected fragment | About the book | Object status | From the author | Spoiler-free | Artistic-research frame | Themes / nodes of meaning
+- H3: Lost localisation | Source | Carrier | Observer | Memory | Propagation | Chapter 1. Inventory of Shadows | Chapter 2. Seams of the Face
+- suggested keyword seed: gas, about, ashraellen, books, carrier, medium, monolith, object, source, artistic-research, author, between, book, boundary, case, chapter, control, disappearance
+- candidates: was, had, its, his, what, without, chapter, source, gas, medium, object, carrier, then, sensor, system, volume, you, already, between, form, one, only, been, own
+
+Excerpt:
+
+> GAS The third volume of MONOLITH begins where the system still retains its form but is already losing the right to regard itself as the sole source of what is happening. GAS turns Victoria’s investigation into a test of the boundary between power, memory, observation, and the medium itself. Case File Volume III Gas is rarely detected at the moment of penetration. As a rule, its presence becomes distinguishable only after it has already been distributed throughout the medium. OBJECT IDENTIFICATION PROTOCOL No. 2026-001B OBJECT: TRANSCRIPT “GAS” (COMPLETE VERSION) ARCHITECT: ASHRAELLEN IDENTIFIER: 2026-001B-GAS INTEGRITY: 100% (NO EXTERNAL EDITING) Read in English on Google Play Books English edition on Amazon Back to the series Open full protocol Close full protocol DEPARTMENT OF MEANINGS UPPER SECTOR DIFFUSION CONTROL DIRECTORATE OBJECT IDENTIFICATION PROTOCOL No. 2026-001B OBJECT: TRANS
+
 ### en/books/monolith/index.html
 
 - lang: en
@@ -3187,7 +3205,7 @@ Excerpt:
 - H2: What MONOLITH is | Volumes | Artistic-research frame | Map of collapse | Who this project is for | What must not be confused | The phrase of the series
 - H3: Volume I — BETON | Volume II — SLUDGE | Volume III — GAS | BETON | SLUDGE | GAS | Readers | Publishers / partners / translators
 - suggested keyword seed: monolith, ashraellen, beton, books, collapse, control, gas, memory, sludge, what, about, artistic-research, confused, crack, dystopian, fear, first, form
-- candidates: monolith, memory, form, control, gas, beton, person, sludge, crack, fear, first, system, they, becomes, begins, does, about, collapse, its, stability, volume, what, where, artistic
+- candidates: monolith, memory, form, control, beton, gas, person, sludge, crack, fear, first, system, they, becomes, begins, does, volume, about, collapse, its, open, stability, what, where
 
 Excerpt:
 
@@ -6965,24 +6983,24 @@ Excerpt:
 
 Excerpt:
 
-> GAZ Trzeci tom MONOLITHU zaczyna się tam, gdzie system wciąż zachowuje formę, lecz traci już prawo do uznawania siebie za jedyne źródło tego, co się wydarza. GAZ zamienia śledztwo Wiktorii w próbę samej granicy między władzą, pamięcią, obserwacją i środowiskiem. Akta Tom III Gaz rzadko daje się wykryć w chwili przeniknięcia. Zwykle jego obecność staje się widoczna dopiero wtedy, gdy zdążył już rozproszyć się wewnątrz środowiska. PROTOKÓŁ IDENTYFIKACJI OBIEKTU NR 2026-001B OBIEKT: STENOGRAM „GAZ” (WERSJA PEŁNA) ARCHITEKT: ASHRAELLEN IDENTYFIKATOR: 2026-001B-GAS INTEGRALNOŚĆ: 100% (BEZ ZEWNĘTRZNEJ REDAKCJI) Wydanie angielskie na Amazon Wróć do serii Otwórz pełny protokół Zamknij pełny protokół DEPARTAMENT ZNACZEŃ SEKTOR GÓRNY ZARZĄD KONTROLI ROZPRZESTRZENIANIA PROTOKÓŁ IDENTYFIKACJI OBIEKTU NR 2026-001B OBIEKT: STENOGRAM „GAZ” (WERSJA PEŁNA) ARCHITEKT: ASHRAELLEN STATUS: RĘKOPIS POŚWIADCZO
+> GAZ Trzeci tom MONOLITHU zaczyna się tam, gdzie system wciąż zachowuje formę, lecz traci już prawo do uznawania siebie za jedyne źródło tego, co się wydarza. GAZ zamienia śledztwo Wiktorii w próbę samej granicy między władzą, pamięcią, obserwacją i środowiskiem. Akta Tom III Gaz rzadko daje się wykryć w chwili przeniknięcia. Zwykle jego obecność staje się widoczna dopiero wtedy, gdy zdążył już rozproszyć się wewnątrz środowiska. PROTOKÓŁ IDENTYFIKACJI OBIEKTU NR 2026-001B OBIEKT: STENOGRAM „GAZ” (WERSJA PEŁNA) ARCHITEKT: ASHRAELLEN IDENTYFIKATOR: 2026-001B-GAS INTEGRALNOŚĆ: 100% (BEZ ZEWNĘTRZNEJ REDAKCJI) Czytaj po polsku w Google Play Books Wydanie angielskie na Amazon Wróć do serii Otwórz pełny protokół Zamknij pełny protokół DEPARTAMENT ZNACZEŃ SEKTOR GÓRNY ZARZĄD KONTROLI ROZPRZESTRZENIANIA PROTOKÓŁ IDENTYFIKACJI OBIEKTU NR 2026-001B OBIEKT: STENOGRAM „GAZ” (WERSJA PEŁNA) ARCHITEKT: 
 
 ### pl/books/monolith/index.html
 
 - lang: pl
 - section: books
 - title: Ashraellen — MONOLITH
-- description: MONOLITH to literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów: BETON, SLUDGE i GAZ.
+- description: MONOLITH to literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów: BETON, SZLAM i GAZ.
 - canonical: https://www.ashraellen.com/pl/books/monolith/
 - H1: MONOLITH
 - H2: Czym jest MONOLITH | Tomy | Rama artystyczno-badawcza | Mapa rozpadu | Dla kogo jest ten projekt | Czego nie należy mylić | Fraza serii
-- H3: Tom I — BETON | Tom II — SLUDGE | Tom III — GAZ | BETON | SLUDGE | GAZ | Czytelnicy | Wydawcy / partnerzy / tłumacze
-- suggested keyword seed: monolith, ashraellen, beton, books, gaz, nie, sludge, antyutopijna, artystyczno-badawcza, czego, czym, forma, fraza, jako, już, kogo, kontroli, lecz
-- candidates: się, nie, monolith, sludge, beton, forma, gaz, pamięć, zaczyna, jako, lecz, już, kontrola, staje, tom, człowiek, pamięci, rozpadu, system, człowieka, kontroli, materii, nawyk, otwórz
+- H3: Tom I — BETON | Tom II — SZLAM | Tom III — GAZ | BETON | SZLAM | GAZ | Czytelnicy | Wydawcy / partnerzy / tłumacze
+- suggested keyword seed: monolith, ashraellen, beton, books, gaz, nie, szlam, antyutopijna, artystyczno-badawcza, czego, czym, forma, fraza, jako, już, kogo, kontroli, lecz
+- candidates: się, nie, monolith, szlam, beton, forma, gaz, pamięć, zaczyna, jako, lecz, już, kontrola, staje, tom, człowiek, pamięci, rozpadu, system, człowieka, kontroli, materii, nawyk, otwórz
 
 Excerpt:
 
-> PROTOKÓŁ ROZPADU MATERII SPOŁECZNEJ / BETON — SLUDGE — GAZ MONOLITH MONOLITH to literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów. Trzy tomy rejestrują przejście materii społecznej przez trzy stany: BETON, SLUDGE i GAZ — od skamieniałej stabilności, przez lepką deformację, po całkowite rozszczelnienie formy. System nie boi się buntu. Boi się pierwszej szczeliny. Tomy trylogii Mapa rozpadu Czego nie należy mylić Czym jest MONOLITH BETON / SLUDGE / GAZ Przed tobą kronika kontrolowanego rozpadu: konsekwentny zapis przemiany fazowej materii społecznej, utrwalonej w trzech stanach — BETON, SLUDGE i GAZ. Nie chodzi tu o prognozę przyszłości, lecz o materiał teraźniejszości: porządek, który zbyt długo nazywano bezpieczeństwem; pamięć, którą wygodniej poprawić niż usłyszeć; człowieka, który zaczyna dostrzegać szczelinę, zanim system przyzna, że ona istnieje. B
+> PROTOKÓŁ ROZPADU MATERII SPOŁECZNEJ / BETON — SZLAM — GAZ MONOLITH MONOLITH to literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów. Trzy tomy rejestrują przejście materii społecznej przez trzy stany: BETON, SZLAM i GAZ — od skamieniałej stabilności, przez lepką deformację, po całkowite rozszczelnienie formy. System nie boi się buntu. Boi się pierwszej szczeliny. Tomy trylogii Mapa rozpadu Czego nie należy mylić Czym jest MONOLITH BETON / SZLAM / GAZ Przed tobą kronika kontrolowanego rozpadu: konsekwentny zapis przemiany fazowej materii społecznej, utrwalonej w trzech stanach — BETON, SZLAM i GAZ. Nie chodzi tu o prognozę przyszłości, lecz o materiał teraźniejszości: porządek, który zbyt długo nazywano bezpieczeństwem; pamięć, którą wygodniej poprawić niż usłyszeć; człowieka, który zaczyna dostrzegać szczelinę, zanim system przyzna, że ona istnieje. BETON
 
 ### pl/books/monolith/sludge/index.html
 

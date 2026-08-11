@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-11T13:31:40.591Z",
+  "generated": "2026-08-11T15:47:41.612Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -10507,6 +10507,94 @@
       ]
     },
     {
+      "page": "en/books/monolith/gas/GAS_EN_index.html",
+      "lang": "en",
+      "section": "books",
+      "title": "Ashraellen — GAS",
+      "description": "GAS — the third and final volume of the MONOLITH trilogy: a novel about power, total control, and the disappearance of the boundary between source, carrier, and medium.",
+      "existingKeywords": "ashraellen, monolith, gas, volume three, victoria, mold, power, control, memory, localisation, medium, signal, dystopia",
+      "canonical": "https://www.ashraellen.com/en/books/monolith/gas/",
+      "h1": [
+        "GAS"
+      ],
+      "h2": [
+        "Case File",
+        "Selected fragment",
+        "About the book",
+        "Object status",
+        "From the author",
+        "Spoiler-free",
+        "Artistic-research frame",
+        "Themes / nodes of meaning"
+      ],
+      "h3": [
+        "Lost localisation",
+        "Source",
+        "Carrier",
+        "Observer",
+        "Memory",
+        "Propagation",
+        "Chapter 1. Inventory of Shadows",
+        "Chapter 2. Seams of the Face"
+      ],
+      "slugTerms": [
+        "en",
+        "books",
+        "monolith",
+        "gas",
+        "GAS",
+        "EN",
+        "index"
+      ],
+      "excerpt": "GAS The third volume of MONOLITH begins where the system still retains its form but is already losing the right to regard itself as the sole source of what is happening. GAS turns Victoria’s investigation into a test of the boundary between power, memory, observation, and the medium itself. Case File Volume III Gas is rarely detected at the moment of penetration. As a rule, its presence becomes distinguishable only after it has already been distributed throughout the medium. OBJECT IDENTIFICATION PROTOCOL No. 2026-001B OBJECT: TRANSCRIPT “GAS” (COMPLETE VERSION) ARCHITECT: ASHRAELLEN IDENTIFIER: 2026-001B-GAS INTEGRITY: 100% (NO EXTERNAL EDITING) Read in English on Google Play Books English edition on Amazon Back to the series Open full protocol Close full protocol DEPARTMENT OF MEANINGS UPPER SECTOR DIFFUSION CONTROL DIRECTORATE OBJECT IDENTIFICATION PROTOCOL No. 2026-001B OBJECT: TRANS",
+      "candidates": [
+        "was",
+        "had",
+        "its",
+        "his",
+        "what",
+        "without",
+        "chapter",
+        "source",
+        "gas",
+        "medium",
+        "object",
+        "carrier",
+        "then",
+        "sensor",
+        "system",
+        "volume",
+        "you",
+        "already",
+        "between",
+        "form",
+        "one",
+        "only",
+        "been",
+        "own"
+      ],
+      "suggestedKeywordSeed": [
+        "gas",
+        "about",
+        "ashraellen",
+        "books",
+        "carrier",
+        "medium",
+        "monolith",
+        "object",
+        "source",
+        "artistic-research",
+        "author",
+        "between",
+        "book",
+        "boundary",
+        "case",
+        "chapter",
+        "control",
+        "disappearance"
+      ]
+    },
+    {
       "page": "en/books/monolith/index.html",
       "lang": "en",
       "section": "books",
@@ -10547,8 +10635,8 @@
         "memory",
         "form",
         "control",
-        "gas",
         "beton",
+        "gas",
         "person",
         "sludge",
         "crack",
@@ -10559,14 +10647,14 @@
         "becomes",
         "begins",
         "does",
+        "volume",
         "about",
         "collapse",
         "its",
+        "open",
         "stability",
-        "volume",
         "what",
-        "where",
-        "artistic"
+        "where"
       ],
       "suggestedKeywordSeed": [
         "monolith",
@@ -26889,7 +26977,7 @@
         "monolith",
         "gas"
       ],
-      "excerpt": "GAZ Trzeci tom MONOLITHU zaczyna się tam, gdzie system wciąż zachowuje formę, lecz traci już prawo do uznawania siebie za jedyne źródło tego, co się wydarza. GAZ zamienia śledztwo Wiktorii w próbę samej granicy między władzą, pamięcią, obserwacją i środowiskiem. Akta Tom III Gaz rzadko daje się wykryć w chwili przeniknięcia. Zwykle jego obecność staje się widoczna dopiero wtedy, gdy zdążył już rozproszyć się wewnątrz środowiska. PROTOKÓŁ IDENTYFIKACJI OBIEKTU NR 2026-001B OBIEKT: STENOGRAM „GAZ” (WERSJA PEŁNA) ARCHITEKT: ASHRAELLEN IDENTYFIKATOR: 2026-001B-GAS INTEGRALNOŚĆ: 100% (BEZ ZEWNĘTRZNEJ REDAKCJI) Wydanie angielskie na Amazon Wróć do serii Otwórz pełny protokół Zamknij pełny protokół DEPARTAMENT ZNACZEŃ SEKTOR GÓRNY ZARZĄD KONTROLI ROZPRZESTRZENIANIA PROTOKÓŁ IDENTYFIKACJI OBIEKTU NR 2026-001B OBIEKT: STENOGRAM „GAZ” (WERSJA PEŁNA) ARCHITEKT: ASHRAELLEN STATUS: RĘKOPIS POŚWIADCZO",
+      "excerpt": "GAZ Trzeci tom MONOLITHU zaczyna się tam, gdzie system wciąż zachowuje formę, lecz traci już prawo do uznawania siebie za jedyne źródło tego, co się wydarza. GAZ zamienia śledztwo Wiktorii w próbę samej granicy między władzą, pamięcią, obserwacją i środowiskiem. Akta Tom III Gaz rzadko daje się wykryć w chwili przeniknięcia. Zwykle jego obecność staje się widoczna dopiero wtedy, gdy zdążył już rozproszyć się wewnątrz środowiska. PROTOKÓŁ IDENTYFIKACJI OBIEKTU NR 2026-001B OBIEKT: STENOGRAM „GAZ” (WERSJA PEŁNA) ARCHITEKT: ASHRAELLEN IDENTYFIKATOR: 2026-001B-GAS INTEGRALNOŚĆ: 100% (BEZ ZEWNĘTRZNEJ REDAKCJI) Czytaj po polsku w Google Play Books Wydanie angielskie na Amazon Wróć do serii Otwórz pełny protokół Zamknij pełny protokół DEPARTAMENT ZNACZEŃ SEKTOR GÓRNY ZARZĄD KONTROLI ROZPRZESTRZENIANIA PROTOKÓŁ IDENTYFIKACJI OBIEKTU NR 2026-001B OBIEKT: STENOGRAM „GAZ” (WERSJA PEŁNA) ARCHITEKT: ",
       "candidates": [
         "się",
         "nie",
@@ -26942,8 +27030,8 @@
       "lang": "pl",
       "section": "books",
       "title": "Ashraellen — MONOLITH",
-      "description": "MONOLITH to literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów: BETON, SLUDGE i GAZ.",
-      "existingKeywords": "Ashraellen, MONOLITH, BETON, SLUDGE, GAZ, dystopia, literature, artistic research",
+      "description": "MONOLITH to literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów: BETON, SZLAM i GAZ.",
+      "existingKeywords": "Ashraellen, MONOLITH, BETON, SZLAM, GAZ, dystopia, literature, artistic research",
       "canonical": "https://www.ashraellen.com/pl/books/monolith/",
       "h1": [
         "MONOLITH"
@@ -26959,10 +27047,10 @@
       ],
       "h3": [
         "Tom I — BETON",
-        "Tom II — SLUDGE",
+        "Tom II — SZLAM",
         "Tom III — GAZ",
         "BETON",
-        "SLUDGE",
+        "SZLAM",
         "GAZ",
         "Czytelnicy",
         "Wydawcy / partnerzy / tłumacze"
@@ -26972,12 +27060,12 @@
         "books",
         "monolith"
       ],
-      "excerpt": "PROTOKÓŁ ROZPADU MATERII SPOŁECZNEJ / BETON — SLUDGE — GAZ MONOLITH MONOLITH to literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów. Trzy tomy rejestrują przejście materii społecznej przez trzy stany: BETON, SLUDGE i GAZ — od skamieniałej stabilności, przez lepką deformację, po całkowite rozszczelnienie formy. System nie boi się buntu. Boi się pierwszej szczeliny. Tomy trylogii Mapa rozpadu Czego nie należy mylić Czym jest MONOLITH BETON / SLUDGE / GAZ Przed tobą kronika kontrolowanego rozpadu: konsekwentny zapis przemiany fazowej materii społecznej, utrwalonej w trzech stanach — BETON, SLUDGE i GAZ. Nie chodzi tu o prognozę przyszłości, lecz o materiał teraźniejszości: porządek, który zbyt długo nazywano bezpieczeństwem; pamięć, którą wygodniej poprawić niż usłyszeć; człowieka, który zaczyna dostrzegać szczelinę, zanim system przyzna, że ona istnieje. B",
+      "excerpt": "PROTOKÓŁ ROZPADU MATERII SPOŁECZNEJ / BETON — SZLAM — GAZ MONOLITH MONOLITH to literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów. Trzy tomy rejestrują przejście materii społecznej przez trzy stany: BETON, SZLAM i GAZ — od skamieniałej stabilności, przez lepką deformację, po całkowite rozszczelnienie formy. System nie boi się buntu. Boi się pierwszej szczeliny. Tomy trylogii Mapa rozpadu Czego nie należy mylić Czym jest MONOLITH BETON / SZLAM / GAZ Przed tobą kronika kontrolowanego rozpadu: konsekwentny zapis przemiany fazowej materii społecznej, utrwalonej w trzech stanach — BETON, SZLAM i GAZ. Nie chodzi tu o prognozę przyszłości, lecz o materiał teraźniejszości: porządek, który zbyt długo nazywano bezpieczeństwem; pamięć, którą wygodniej poprawić niż usłyszeć; człowieka, który zaczyna dostrzegać szczelinę, zanim system przyzna, że ona istnieje. BETON",
       "candidates": [
         "się",
         "nie",
         "monolith",
-        "sludge",
+        "szlam",
         "beton",
         "forma",
         "gaz",
@@ -27006,7 +27094,7 @@
         "books",
         "gaz",
         "nie",
-        "sludge",
+        "szlam",
         "antyutopijna",
         "artystyczno-badawcza",
         "czego",

@@ -1,8 +1,8 @@
 # Page Metadata Audit
 
-Generated: 2026-08-11T13:31:39.916Z
+Generated: 2026-08-11T15:47:40.995Z
 
-Pages checked: 768
+Pages checked: 769
 Pages with issues: 249
 Total issues: 1605
 Pages with review notes: 592
@@ -1088,7 +1088,7 @@ Total review notes: 2126
 ### pl/books/monolith/index.html
 
 - title: Ashraellen — MONOLITH
-- description length: 119
+- description length: 118
 - canonical: https://www.ashraellen.com/pl/books/monolith/
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
