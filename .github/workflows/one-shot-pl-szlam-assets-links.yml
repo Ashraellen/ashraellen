@@ -1,0 +1,59 @@
+name: One-shot Polish SZLAM assets and links
+
+on:
+  push:
+    paths:
+      - '.github/workflows/one-shot-pl-szlam-assets-links.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Fix Polish SZLAM cover and Google Play link
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+          p = Path('pl/books/monolith/sludge/index.html')
+          s = p.read_text(encoding='utf-8')
+          old_cover_rel = '../../../../assets/covers/sludge-ru.webp'
+          new_cover_rel = '../../../../assets/covers/SLUDGE_PL_COVER_FRONT_v01.webp'
+          old_cover_abs = 'https://www.ashraellen.com/assets/covers/sludge-ru.webp'
+          new_cover_abs = 'https://www.ashraellen.com/assets/covers/SLUDGE_PL_COVER_FRONT_v01.webp'
+          old_link = 'https://play.google.com/store/books/details/Ashraellen_%D0%96%D0%98%D0%96%D0%90?id=-bzWEQAAQBAJ'
+          new_link = 'https://play.google.com/store/books/details?id=7V8AEgAAQBAJ'
+          old_label = 'Czytaj rosyjskie wydanie w Google Play Books'
+          new_label = 'Czytaj polskie wydanie w Google Play Books'
+          old_alt = 'Rosyjska okładka SZLAM'
+          new_alt = 'Polska okładka SZLAM'
+          for old, new in [
+              (old_cover_rel, new_cover_rel),
+              (old_cover_abs, new_cover_abs),
+              (old_link, new_link),
+              (old_label, new_label),
+              (old_alt, new_alt),
+          ]:
+              s = s.replace(old, new)
+          p.write_text(s, encoding='utf-8')
+          checks = [new_cover_rel, new_cover_abs, new_link, new_label, new_alt, '<h1 class="h1">SZLAM</h1>']
+          missing = [x for x in checks if x not in s]
+          if missing:
+              raise SystemExit(f'Missing expected values: {missing}')
+          forbidden = [old_cover_rel, old_cover_abs, old_link, old_label, old_alt]
+          left = [x for x in forbidden if x in s]
+          if left:
+              raise SystemExit(f'Old Polish SZLAM values remain: {left}')
+          PY
+          rm -f .github/workflows/one-shot-pl-szlam-assets-links.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'Use Polish SZLAM cover and Google Play edition'
+          git push
