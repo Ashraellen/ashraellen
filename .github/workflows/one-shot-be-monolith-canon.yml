@@ -1,0 +1,60 @@
+name: One-shot Belarusian MANALIT canon
+
+on:
+  push:
+    paths:
+      - '.github/workflows/one-shot-be-monolith-canon.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Update Belarusian MONOLITH canon and activate GAS card
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+
+          for path in [
+              Path('be/books/monolith/beton/index.html'),
+              Path('be/books/monolith/sludge/index.html'),
+          ]:
+              s = path.read_text(encoding='utf-8')
+              for old,new in [('MONOLITH','МАНАЛІТ'),('BETON','БЕТОН'),('SLUDGE','ЖЫЖА'),('GAS','ГАЗ')]:
+                  s = s.replace(old,new)
+              path.write_text(s, encoding='utf-8')
+
+          p = Path('be/books/monolith/index.html')
+          s = p.read_text(encoding='utf-8')
+          for old,new in [('MONOLITH','МАНАЛІТ'),('BETON','БЕТОН'),('SLUDGE','ЖЫЖА'),('GAS','ГАЗ')]:
+              s = s.replace(old,new)
+          s = s.replace('<div class="cover placeholder">ГАЗ</div><h3>Том III — ГАЗ</h3><p>Фінальная разгерметызацыя. Сэнс пачынае распаўсюджвацца там, дзе ранейшая форма ўжо не ўтрымлівае ціск.</p><span class="btn secondary">У падрыхтоўцы</span>', '<div class="cover"><img src="../../../assets/covers/GAS_RU_COVER_final_v01.webp" alt="Руская вокладка ГАЗ" loading="lazy"></div><h3>Том III — ГАЗ</h3><p>Фінальная разгерметызацыя. Сэнс пачынае распаўсюджвацца там, дзе ранейшая форма ўжо не ўтрымлівае ціск.</p><a class="btn" href="https://www.ashraellen.com/be/books/monolith/gas/">Адкрыць том</a>')
+          marker='{"@id":"https://www.ashraellen.com/be/books/monolith/sludge/#book"}]'
+          if marker in s:
+              s=s.replace(marker,'{"@id":"https://www.ashraellen.com/be/books/monolith/sludge/#book"},{"@id":"https://www.ashraellen.com/be/books/monolith/gas/#book"}]')
+          p.write_text(s,encoding='utf-8')
+
+          checks={
+            'series MANALIT':'МАНАЛІТ' in s,
+            'series gas cover':'GAS_RU_COVER_final_v01.webp' in s,
+            'series gas link':'/be/books/monolith/gas/' in s,
+          }
+          for path in [Path('be/books/monolith/beton/index.html'),Path('be/books/monolith/sludge/index.html')]:
+              t=path.read_text(encoding='utf-8')
+              checks[str(path)+' no old MONOLITH']='MONOLITH' not in t
+          bad=[k for k,v in checks.items() if not v]
+          if bad: raise SystemExit('Failed: '+', '.join(bad))
+          PY
+          rm -f .github/workflows/one-shot-be-monolith-canon.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'Use Belarusian MANALIT volume canon'
+          git push
