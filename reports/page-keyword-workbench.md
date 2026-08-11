@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-11T17:18:30.069Z
-Pages: 772
+Generated: 2026-08-11T17:43:03.733Z
+Pages: 773
 
 ## Index
 
@@ -474,9 +474,10 @@ Pages: 772
 | pt/books/error-404-god-not-found/index.html | pt | books | Ashraellen — Erro 404: Deus não encontrado | _missing_ | erro, 404, deus, encontrado, não, ciclo, ashraellen, books, celestial, chancelaria, série, sobre, busca, contra, error, filosófico-satírico, forma, found |
 | pt/books/error-404-god-not-found/why-me/index.html | pt | books | Ashraellen — Por que eu? | _missing_ | por, que, livro, ashraellen, books, deus, não, sobre, 404, alma, burocracia, camadas, celestial, chancelaria, ciclo, com, como, depois |
 | pt/books/index.html | pt | books | Ashraellen — Livros | Ashraellen, livros, Demotopia, Utopia Democrática, MONOLITH, RADIANCE, ERROR 404, SECCUS, Você já está online, The Book of Whinesis, samizdat 2.0, edições de autor | livros, ashraellen, autor, diretas, edições, books, livro, sátira, 2.0, 404, abrir, book, ciclo, ciclos, demotopia, error, está, found |
-| pt/books/monolith/beton/index.html | pt | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ashraellen, books, estabilidade, livro, memória, monolith, para, sobre, uma, anton, artístico-investigativa, com, como, dentro, distopia, dossiê, editada |
-| pt/books/monolith/index.html | pt | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, que, ashraellen, beton, books, colapso, controle, gas, memória, não, sludge, uma, artístico-investigativa, como, confundido, deve, distópica, dos |
-| pt/books/monolith/sludge/index.html | pt | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, ashraellen, books, monolith, para, sobre, uma, adam, artístico-investigativa, autor, com, como, cumplicidade, distopia, dossiê, era, estrutura, exaurida |
+| pt/books/monolith/beton/index.html | pt | books | Ashraellen — BETÃO | Ashraellen, MONÓLITO, BETÃO, dystopia, literature, artistic research | betão, ashraellen, books, estabilidade, livro, memória, para, sobre, uma, anton, artístico-investigativa, beton, com, como, dentro, distopia, dossiê, editada |
+| pt/books/monolith/gas/index.html | pt | books | Ashraellen — GÁS | Ashraellen, MONÓLITO, GÁS, terceiro volume, Vitória, poder, controlo, memória, localização, meio, sinal, distopia | gás, ashraellen, books, fonte, meio, objeto, portador, sobre, trilogia, artístico-investigativa, capítulo, controlo, depois, dossiê, entre, estado, fragmento, fronteira |
+| pt/books/monolith/index.html | pt | books | Ashraellen — MONÓLITO | Ashraellen, MONÓLITO, MONÓLITO, dystopia, literature, artistic research | monólito, que, ashraellen, betão, books, colapso, controlo, gás, lama, memória, não, uma, artístico-investigativa, como, confundido, deve, distópica, dos |
+| pt/books/monolith/sludge/index.html | pt | books | Ashraellen — LAMA | Ashraellen, MONÓLITO, LAMA, dystopia, literature, artistic research | lama, ashraellen, books, para, sobre, uma, adam, artístico-investigativa, autor, com, como, cumplicidade, distopia, dossiê, era, estrutura, exaurida, filosófica |
 | pt/books/radiance/index.html | pt | books | Ashraellen — Esplendor \| Contos do norte sobre a história real do mundo | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | esplendor, instruções, mundo, para, que, sobre, ashraellen, books, ciclo, como, não, pesquisa, antigas, artística, artístico, confundir, contos, este |
 | pt/books/radiance/sampo/index.html | pt | books | Ashraellen — Sampo \| Esplendor, livro I | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | sampo, livro, para, ashraellen, books, esplendor, não, sobre, abundância, ainda, artística, capítulo, com, como, conto, culturais, destaque, editoras |
 | pt/books/radiance/song/index.html | pt | books | Ashraellen — Canto \| Esplendor, livro II | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | canto, livro, para, ashraellen, books, esplendor, não, que, sem, sobre, uma, apresentação, artística, audição, ayla, capítulo, com, como |
@@ -8725,52 +8726,69 @@ Excerpt:
 
 - lang: pt
 - section: books
-- title: Ashraellen — BETON
-- description: BETON é o Volume I de MONOLITH: uma distopia filosófica sobre estabilidade endurecida, memória editada e a primeira fissura dentro do Sistema.
+- title: Ashraellen — BETÃO
+- description: BETÃO é o Volume I de MONÓLITO: uma distopia filosófica sobre estabilidade endurecida, memória editada e a primeira fissura dentro do Sistema.
 - canonical: https://www.ashraellen.com/pt/books/monolith/beton/
-- H1: BETON
+- H1: BETÃO
 - H2: Dossiê | Trecho selecionado | Sobre o livro | Sem spoilers | Estrutura artístico-investigativa | Temas / nós de sentido | Para quem é este livro | Lugar na trilogia
 - H3: Estabilidade | Memória | Ruído | Correção | Departamento dos Sentidos | A fissura
-- suggested keyword seed: beton, ashraellen, books, estabilidade, livro, memória, monolith, para, sobre, uma, anton, artístico-investigativa, com, como, dentro, distopia, dossiê, editada
-- candidates: que, uma, não, para, como, com, beton, estabilidade, anton, memória, mark, por, fissura, monolith, sistema, sua, primeira, ruído, ser, volume, apenas, departamento, edição, eles
+- suggested keyword seed: betão, ashraellen, books, estabilidade, livro, memória, para, sobre, uma, anton, artístico-investigativa, beton, com, como, dentro, distopia, dossiê, editada
+- candidates: que, uma, não, para, como, com, betão, estabilidade, anton, memória, mark, por, fissura, monólito, sistema, sua, primeira, ruído, ser, volume, apenas, departamento, edição, eles
 
 Excerpt:
 
-> BETON BETON é uma distopia filosófica sobre um mundo em que a estabilidade se tornou prisão, a memória é tratada como ameaça e a primeira fissura surge dentro de um sistema que ainda se acredita eterno. Volume I da trilogia MONOLITH. Dossiê Volume I O concreto não começa com uma parede. Começa com o hábito de chamar uma prisão de estabilidade. DOSSIÊ N.º 2026-001B. Índice: 6666548A. STATUS: Ultrassecreto. Ler a edição russa no Google Play Books Ler a edição inglesa na Amazon Voltar a MONOLITH Trecho selecionado Capítulo 9 / § 9.1 Capítulo 9. Protocolo “Orgulho” § 9.1. A melhor cola para a sociedade O trecho mostra um dos mecanismos de BETON: como a dor se transforma em slogan, a culpa em cola social e a perda humana em uma imagem administrável de estabilidade. Abrir o trecho completo Capítulo 9. Protocolo “Orgulho” § 9.1. A melhor cola para a sociedade A manhã no Departamento de Sentidos
+> BETÃO BETÃO é uma distopia filosófica sobre um mundo em que a estabilidade se tornou prisão, a memória é tratada como ameaça e a primeira fissura surge dentro de um sistema que ainda se acredita eterno. Volume I da trilogia MONÓLITO. Dossiê Volume I O concreto não começa com uma parede. Começa com o hábito de chamar uma prisão de estabilidade. DOSSIÊ N.º 2026-001B. Índice: 6666548A. STATUS: Ultrassecreto. Ler a edição inglesa no Google Play Books Ler a edição inglesa na Amazon Voltar ao MONÓLITO Trecho selecionado Capítulo 9 / § 9.1 Capítulo 9. Protocolo “Orgulho” § 9.1. A melhor cola para a sociedade O trecho mostra um dos mecanismos de BETÃO: como a dor se transforma em slogan, a culpa em cola social e a perda humana em uma imagem administrável de estabilidade. Abrir o trecho completo Capítulo 9. Protocolo “Orgulho” § 9.1. A melhor cola para a sociedade A manhã no Departamento de Senti
+
+### pt/books/monolith/gas/index.html
+
+- lang: pt
+- section: books
+- title: Ashraellen — GÁS
+- description: GÁS — terceiro e último volume da trilogia MONÓLITO: um romance sobre poder, controlo total e a perda da fronteira entre fonte, portador e meio.
+- canonical: https://www.ashraellen.com/pt/books/monolith/gas/
+- H1: GÁS
+- H2: Dossiê | Fragmento selecionado | Sobre o livro | Estado do objeto | Moldura artístico-investigativa | Temas / nós de sentido | Registo de sentidos | Lugar na trilogia
+- H3: Perda de localização | Fonte | Portador | Observador | Memória | Difusão | Capítulo 1. Inventário das Sombras | Capítulo 2. Costuras do Rosto
+- suggested keyword seed: gás, ashraellen, books, fonte, meio, objeto, portador, sobre, trilogia, artístico-investigativa, capítulo, controlo, depois, dossiê, entre, estado, fragmento, fronteira
+- candidates: não, que, uma, meio, capítulo, objeto, gás, depois, sem, para, portador, fonte, com, monólito, própria, sensor, volume, exterior, observador, sobre, ser, sinal, circuito, começa
+
+Excerpt:
+
+> GÁS O terceiro volume de MONÓLITO começa onde o sistema ainda conserva a forma, mas já perde o direito de se considerar a única fonte do que acontece. GÁS transforma a investigação de Vitória numa prova da própria fronteira entre poder, memória, observação e meio. Dossiê Volume III O gás raramente é detetado no momento da penetração. Regra geral, a sua presença só se torna percetível depois de já se ter distribuído pelo meio. PROTOCOLO DE IDENTIFICAÇÃO DO OBJETO N.º 2026-001B OBJETO: TRANSCRIÇÃO «GÁS» (VERSÃO INTEGRAL) ARQUITETO: ASHRAELLEN IDENTIFICADOR: 2026-001B-GAS INTEGRIDADE: 100% (SEM EDIÇÃO EXTERNA) Ler a edição inglesa no Google Play Books Ler a edição inglesa na Amazon Voltar ao MONÓLITO Abrir o protocolo completo DEPARTAMENTO DOS SENTIDOS SETOR SUPERIOR DIREÇÃO DE CONTROLO DA DIFUSÃO PROTOCOLO DE IDENTIFICAÇÃO DO OBJETO N.º 2026-001B OBJETO: TRANSCRIÇÃO «GÁS» (VERSÃO INTEGRAL)
 
 ### pt/books/monolith/index.html
 
 - lang: pt
 - section: books
-- title: Ashraellen — MONOLITH
-- description: MONOLITH é uma trilogia distópica literária e filosófica sobre controle, memória e colapso dos sistemas: BETON, SLUDGE e GAS.
+- title: Ashraellen — MONÓLITO
+- description: MONÓLITO é uma trilogia distópica literária e filosófica sobre controlo, memória e colapso dos sistemas: BETÃO, LAMA e GÁS.
 - canonical: https://www.ashraellen.com/pt/books/monolith/
-- H1: MONOLITH
-- H2: O que é MONOLITH | Volumes | Estrutura artístico-investigativa | Mapa do colapso | Para quem é este projeto | O que não deve ser confundido | A frase da série
-- H3: Volume I — BETON | Volume II — SLUDGE | Volume III — GAS | BETON | SLUDGE | GAS | Leitores | Editores / parceiros / tradutores
-- suggested keyword seed: monolith, que, ashraellen, beton, books, colapso, controle, gas, memória, não, sludge, uma, artístico-investigativa, como, confundido, deve, distópica, dos
-- candidates: não, que, uma, monolith, memória, forma, controle, gas, pessoa, beton, como, sludge, começa, mas, colapso, fissura, por, primeira, sistema, com, dentro, sobre, ambiente, dos
+- H1: MONÓLITO
+- H2: O que é MONÓLITO | Volumes | Estrutura artístico-investigativa | Mapa do colapso | Para quem é este projeto | O que não deve ser confundido | A frase da série
+- H3: Volume I — BETÃO | Volume II — LAMA | Volume III — GÁS | BETÃO | LAMA | GÁS | Leitores | Editores / parceiros / tradutores
+- suggested keyword seed: monólito, que, ashraellen, betão, books, colapso, controlo, gás, lama, memória, não, uma, artístico-investigativa, como, confundido, deve, distópica, dos
+- candidates: não, que, uma, monólito, memória, forma, controlo, pessoa, betão, como, gás, lama, começa, mas, colapso, fissura, por, primeira, sistema, com, dentro, sobre, volume, ambiente
 
 Excerpt:
 
-> PROTOCOLO DE DESINTEGRAÇÃO DA MATÉRIA SOCIAL / BETON — SLUDGE — GAS MONOLITH MONOLITH é uma trilogia distópica literária e filosófica sobre controle, memória e colapso dos sistemas. Seus três volumes registram a passagem da matéria social por três estados: BETON, SLUDGE e GAS — da estabilidade endurecida à deformação viscosa e à descompressão completa da forma. O sistema não teme a rebelião. Teme a primeira fissura. Volumes da trilogia Mapa do colapso O que não deve ser confundido O que é MONOLITH BETON / SLUDGE / GAS Diante de você está uma crônica do colapso controlado: o registro sucessivo da transição de fase da matéria social, fixada em três estados — BETON, SLUDGE e GAS. O que importa aqui não é uma previsão do futuro, mas a matéria do presente: uma ordem que por tempo demais foi chamada de segurança; uma memória que é mais conveniente corrigir do que ouvir; uma pessoa que começa a
+> PROTOCOLO DE DESINTEGRAÇÃO DA MATÉRIA SOCIAL / BETÃO — LAMA — GÁS MONÓLITO MONÓLITO é uma trilogia distópica literária e filosófica sobre controlo, memória e colapso dos sistemas. Seus três volumes registram a passagem da matéria social por três estados: BETÃO, LAMA e GÁS — da estabilidade endurecida à deformação viscosa e à descompressão completa da forma. O sistema não teme a rebelião. Teme a primeira fissura. Volumes da trilogia Mapa do colapso O que não deve ser confundido O que é MONÓLITO BETÃO / LAMA / GÁS Diante de você está uma crônica do colapso controlado: o registro sucessivo da transição de fase da matéria social, fixada em três estados — BETÃO, LAMA e GÁS. O que importa aqui não é uma previsão do futuro, mas a matéria do presente: uma ordem que por tempo demais foi chamada de segurança; uma memória que é mais conveniente corrigir do que ouvir; uma pessoa que começa a percebe
 
 ### pt/books/monolith/sludge/index.html
 
 - lang: pt
 - section: books
-- title: Ashraellen — SLUDGE
-- description: SLUDGE é o Volume II de MONOLITH: uma distopia filosófica sobre pressão viscosa, resistência exaurida, cumplicidade e perda de forma.
+- title: Ashraellen — LAMA
+- description: LAMA é o Volume II de MONÓLITO: uma distopia filosófica sobre pressão viscosa, resistência exaurida, cumplicidade e perda de forma.
 - canonical: https://www.ashraellen.com/pt/books/monolith/sludge/
-- H1: SLUDGE
+- H1: LAMA
 - H2: Dossiê | Trecho selecionado | Sobre o livro | Do autor | Sem spoilers | Estrutura artístico-investigativa | Temas | Para quem
 - H3: Viscosidade | Cansaço | Fome | Ritual | Cumplicidade | Perda de forma
-- suggested keyword seed: sludge, ashraellen, books, monolith, para, sobre, uma, adam, artístico-investigativa, autor, com, como, cumplicidade, distopia, dossiê, era, estrutura, exaurida
-- candidates: que, não, uma, para, mas, com, por, como, adam, era, mais, sludge, pessoa, ambiente, forma, depois, sem, dentro, grisalho, nem, parecia, sobre, vez, volume
+- suggested keyword seed: lama, ashraellen, books, para, sobre, uma, adam, artístico-investigativa, autor, com, como, cumplicidade, distopia, dossiê, era, estrutura, exaurida, filosófica
+- candidates: que, não, uma, para, mas, com, por, como, lama, adam, era, mais, pessoa, ambiente, forma, depois, monólito, sem, dentro, grisalho, nem, parecia, sobre, vez
 
 Excerpt:
 
-> SLUDGE SLUDGE é uma distopia filosófica sobre um mundo em que a pressão já não se parece com uma parede: infiltra-se na vida cotidiana, na linguagem e no corpo, desfaz limites e transforma a pessoa em material do ambiente. Volume II da trilogia MONOLITH: deformação viscosa, desgaste da resistência e cumplicidade como hábito. Dossiê Volume II Uma pessoa não se quebra de uma vez. Primeiro se cansa de resistir. Depois começa a concordar. DOSSIÊ N.º 2026-001B. Índice: 6666548A. STATUS: Ultrassecreto. Ler a edição russa no Google Play Books Ler a edição inglesa na Amazon Voltar a MONOLITH Trecho selecionado Capítulo 6 / § 6.2 Capítulo 6. Primeiros passos através de SLUDGE. § 6.2. Armazéns de Preservação de Fragmentos O trecho mostra como a necessidade comum, o procedimento ritualizado, o medo, o silêncio e a cumplicidade se tornam a matéria cotidiana de SLUDGE. Abrir o trecho completo Capítul
+> LAMA LAMA é uma distopia filosófica sobre um mundo em que a pressão já não se parece com uma parede: infiltra-se na vida cotidiana, na linguagem e no corpo, desfaz limites e transforma a pessoa em material do ambiente. Volume II da trilogia MONÓLITO: deformação viscosa, desgaste da resistência e cumplicidade como hábito. Dossiê Volume II Uma pessoa não se quebra de uma vez. Primeiro se cansa de resistir. Depois começa a concordar. DOSSIÊ N.º 2026-001B. Índice: 6666548A. STATUS: Ultrassecreto. Ler a edição inglesa no Google Play Books Ler a edição inglesa na Amazon Voltar ao MONÓLITO Trecho selecionado Capítulo 6 / § 6.2 Capítulo 6. Primeiros passos através de LAMA. § 6.2. Armazéns de Preservação de Fragmentos O trecho mostra como a necessidade comum, o procedimento ritualizado, o medo, o silêncio e a cumplicidade torna-sem a matéria cotidiana de LAMA. Abrir o trecho completo Capítulo 6. 
 
 ### pt/books/radiance/index.html
 
