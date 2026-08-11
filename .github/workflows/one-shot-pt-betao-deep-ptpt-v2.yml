@@ -1,0 +1,66 @@
+name: One-shot deep pt-PT cleanup for BETAO v2
+
+on:
+  push:
+    paths:
+      - '.github/workflows/one-shot-pt-betao-deep-ptpt-v2.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Deep-clean BETAO prose to European Portuguese
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('pt/books/monolith/beton/index.html')
+          s=p.read_text(encoding='utf-8')
+          reps=[
+            ('a estabilidade tornou-se prisão','a estabilidade se tornou uma prisão'),
+            ('em uma imagem administrável','numa imagem administrável'),
+            ('Mark se animou.','Mark animou-se.'),
+            ('a maioria daquelas “pessoas melhoradas” tinha se alistado nas Zonas de Contacto apenas porque sua classificação de crédito tinha caído abaixo do chão.','a maioria daquelas «pessoas melhoradas» tinha-se alistado nas Zonas de Contacto apenas porque a sua classificação de crédito tinha caído a pique.'),
+            ('“Anton, não confunda facto com sentido. O facto é dinheiro. O sentido é sacrifício. Nós apenas invertemos a polaridade. Ele não ‘vendeu a perna por um milhão’; ‘investiu sua carne na estabilidade do seu amanhã’. E não se preocupe com a perceção. O órgão da sua esposa já lançou os roteiros de ‘Aceitação Silenciosa’ em todos os lares. Lika confirmou esta manhã: o nível de resistência no o teu setor é mínimo. Trabalhamos em dupla.”','«Anton, não confundas facto com sentido. O facto é dinheiro. O sentido é sacrifício. Limitamo-nos a inverter a polaridade. Ele não “vendeu a perna por um milhão”; “investiu a própria carne na estabilidade do teu amanhã”. E não te preocupes com a perceção. A agência da tua mulher já lançou os guiões de “Aceitação Silenciosa” em todas as casas. Lika confirmou esta manhã: o nível de resistência no teu setor é mínimo. Trabalhamos em conjunto.»'),
+            ('Anton congelou. Então Lika sabia. Enquanto acariciava a cabeça dele à noite, já costurava em seu subconsciente a disposição para aceitar aquele absurdo.','Anton ficou imóvel. Portanto, Lika sabia. Enquanto lhe acariciava a cabeça na noite anterior, já lhe cosia no subconsciente a disposição para aceitar aquele absurdo.'),
+            ('Os trabalhadores, parecidos com fantasmas brancos em suas camisas engomadas, gritavam propostas e competiam no grau de cinismo que chamavam de “distanciamento profissional”.','Os trabalhadores, parecidos com fantasmas brancos nas suas camisas engomadas, lançavam propostas e competiam no grau de cinismo a que chamavam «distanciamento profissional».'),
+            ('“Proponho a série visual ‘Anjos sem asas’!”, gritou Maya, do setor de visualização. “Vamos dar a eles muletas douradas nos cartazes. Para brilharem. A muleta como cetro!”','«Proponho a série visual “Anjos sem Asas”!», gritou Maya, do setor de visualização. «Ponham-lhes muletas douradas nos cartazes. Que brilhem. A muleta como cetro!»'),
+            ('“Estúpido”, rebateu alguém. “Uma muleta é um incômodo. Precisamos promover a ideia de que eles nem sequer precisam de pernas. ‘O herói acima da gravidade.’”','«Estúpido», contrapôs alguém. «Uma muleta é um incómodo. Temos de promover a ideia de que eles nem sequer precisam de pernas. “O Herói Acima da Gravidade”.»'),
+            ('Anton observava aquele desfile do absurdo. Entendia que sob o “aço” e o “ouro” tinha pessoas que tinham visto e feito coisas incompatíveis com aquele escritório reluzente.','Anton observava aquele desfile de absurdo. Sabia que, por baixo do «aço» e do «ouro», havia pessoas que tinham visto e feito coisas incompatíveis com aquele escritório reluzente.'),
+            ('“Precisamos mudar o ângulo de visão”, disse por fim. “Fazer uma pessoa vulgar se sentir culpada por estar inteira.”','«Temos de mudar o ângulo de visão», disse por fim. «Fazer uma pessoa vulgar sentir-se culpada por estar inteira.»'),
+            ('Mark ficou imóvel. Uma centelha fanática se acendeu em seus olhos.','Mark ficou imóvel. Uma centelha fanática acendeu-se-lhe nos olhos.'),
+            ('“Culpa... Genial, Anton! A culpa é a melhor cola para a sociedade. ‘Sua integridade foi paga com a dor dele.’ Anote!”','«Culpa... Genial, Anton! A culpa é a melhor cola para a sociedade. “A tua integridade foi paga com a dor dele.” Anota!»'),
+            ('Conhece os protocolos, fala a língua do sistema e durante demasiado tempo tomou sua frieza como norma.','Conhece os protocolos, fala a língua do sistema e, durante demasiado tempo, tomou a própria frieza por norma.'),
+            ('Sua tarefa é detectar ruído: memória, cheiro, sentimento, pergunta, reação interior.','A sua tarefa é detetar ruído: memória, cheiro, sentimento, pergunta, reação interior.'),
+            ('O Departamento de Sentidos não grita. Corrige, calibra, retira o excesso e chama isso de segurança.','O Departamento dos Sentidos não grita. Corrige, calibra, retira o excesso e chama-lhe segurança.'),
+            ('o que acontece com uma pessoa quando a ordem torna-se tão densa que já não há espaço para movimento interior?','o que acontece a uma pessoa quando a ordem se torna tão densa que já não deixa espaço para movimento interior?'),
+            ('A realidade oficial exige uma superfície lisa; a memória pessoal deixa rastro, cheiro, pergunta, fissura.','A realidade oficial exige uma superfície lisa; a memória pessoal deixa rasto, cheiro, pergunta, fissura.'),
+            ('já fala com a voz dela.','já fala com a sua voz.'),
+            ('sem néon decorativo, heroísmo conveniente nem uma divisão simples do mundo entre vilões e vítimas.','sem néon decorativo, heroísmo conveniente ou uma divisão simples do mundo entre vilões e vítimas.'),
+            ('pela pergunta mais assustadora:','pela pergunta mais inquietante:'),
+            ('uma pessoa se corrigir antecipadamente.','uma pessoa se corrigir a si própria antecipadamente.'),
+          ]
+          for old,new in reps: s=s.replace(old,new)
+          for old,new in [('em seu subconsciente','no seu subconsciente'),('em seus olhos','nos seus olhos'),('sua frieza','a sua frieza'),('sua classificação','a sua classificação'),('tinha se ','tinha-se '),('havia se ','tinha-se '),('se animou','animou-se'),('detectar','detetar'),('incômodo','incómodo'),('roteiros','guiões'),('rastro','rasto')]: s=s.replace(old,new)
+          p.write_text(s,encoding='utf-8')
+          bad_tokens=['tinha se ','Mark se animou','não confunda facto','abaixo do chão','em suas camisas','incômodo','roteiros de','no o teu setor','investiu sua carne','se sentir culpada','se acendeu em seus olhos','detectar','rastro']
+          bad=[x for x in bad_tokens if x in s]
+          if bad: raise SystemExit('Remaining BETAO artifacts: '+repr(bad))
+          assert '<html lang="pt-PT">' in s
+          assert '— mark of presence' in s
+          assert s.count('GGKEY:6W7BCZQ9YQZ') == 2
+          assert '../../../../assets/covers/beton-en.webp' in s
+          PY
+          rm -f .github/workflows/one-shot-pt-betao-deep-ptpt.yml .github/workflows/one-shot-pt-betao-deep-ptpt-v2.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'Deep-clean Portuguese BETAO prose'
+          git push
