@@ -23,31 +23,8 @@
   <meta name="twitter:title" content="Ashraellen — МОНОЛІТ">
   <meta name="twitter:description" content="МОНОЛІТ — літературно-філософська антиутопічна трилогія: БЕТОН, ЖИЖА і ГАЗ.">
   <meta name="twitter:image" content="https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp">
-  <link rel="stylesheet" href="../../../assets/books.css?v=20260217">
-  <style>
-    .page::before{background-image:url('../../../assets/backgrounds/monolith-bg.webp');filter:brightness(.48) contrast(1.08) saturate(.72) blur(1.5px)}
-    .series-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin-top:14px}
-    .series-card{border:1px solid rgba(242,242,244,.14);border-radius:16px;padding:14px;background:rgba(0,0,0,.20);backdrop-filter:blur(4px);display:flex;flex-direction:column}
-    .series-cover{aspect-ratio:2/3;border-radius:12px;overflow:hidden;border:1px solid rgba(242,242,244,.14);background:rgba(255,255,255,.04);margin-bottom:14px}
-    .series-cover img{width:100%;height:100%;object-fit:cover;display:block}
-    .series-card h3{margin:0 0 8px;font-size:17px}
-    .series-card p{margin:0 0 12px;color:var(--muted);font-size:13px;line-height:1.6}
-    .series-card .cta-row{margin-top:auto}.series-card .btn{font-size:12px;padding:10px 14px;font-weight:700}
-    .quote-line{font-family:Georgia,'Times New Roman',serif;font-size:22px;line-height:1.35;color:var(--fg)}
-    .monolith-kicker{margin:0 0 8px;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
-    .monolith-signal{margin:0 0 14px;max-width:76ch;font-family:Georgia,'Times New Roman',serif;font-size:18px;line-height:1.45;color:rgba(242,242,244,.94)}
-    .monolith-copy{font-size:13px;line-height:1.78;color:var(--muted);max-width:82ch}.monolith-copy p{margin:0 0 12px}.monolith-copy p:last-child{margin-bottom:0}
-    .monolith-state-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
-    .monolith-state-card,.monolith-box{border:1px solid rgba(242,242,244,.12);border-radius:14px;padding:14px;background:rgba(0,0,0,.20)}
-    .monolith-state-card h3,.monolith-box h3{margin:0 0 7px;color:var(--fg);font-size:15px;line-height:1.25}
-    .monolith-state-card .state-note{margin:0 0 10px;color:var(--muted);font-size:12px;line-height:1.35;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
-    .monolith-state-card .state-desc{margin:0 0 10px;color:var(--muted);font-size:13px;line-height:1.45}
-    .monolith-state-card ul{margin:0;padding:0;list-style:none;display:grid;gap:7px}
-    .monolith-state-card li{color:var(--muted);font-size:13px;line-height:1.45}.monolith-state-card li::before{content:'— ';opacity:.75}
-    .monolith-box p{margin:0;color:var(--muted);font-size:13px;line-height:1.55}
-    .monolith-two-col{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
-    @media(max-width:900px){.series-grid,.monolith-state-grid,.monolith-two-col{grid-template-columns:1fr}.series-cover{max-width:320px}}
-  </style>
+  <link rel="stylesheet" href="../../../assets/books-monolith.css?v=20260813-2">
+  
   <script defer src="/assets/analytics.js"></script>
   <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://www.ashraellen.com/#person","name":"Ashraellen","url":"https://www.ashraellen.com/","knowsAbout":["literary-philosophical research","artistic research","МОНОЛІТ"]},{"@type":"WebSite","@id":"https://www.ashraellen.com/#website","name":"Ashraellen","url":"https://www.ashraellen.com/","publisher":{"@id":"https://www.ashraellen.com/#person"},"inLanguage":["en","ru","pl","de","es","fr","pt","uk","be"]},{"@type":"CollectionPage","@id":"https://www.ashraellen.com/uk/books/monolith/#webpage","url":"https://www.ashraellen.com/uk/books/monolith/","name":"Ashraellen — МОНОЛІТ","description":"МОНОЛІТ — літературно-філософська антиутопічна трилогія про контроль, пам’ять і розпад систем: БЕТОН, ЖИЖА і ГАЗ.","inLanguage":"uk","mainEntity":{"@id":"https://www.ashraellen.com/uk/books/monolith/#series"}},{"@type":"BookSeries","@id":"https://www.ashraellen.com/uk/books/monolith/#series","name":"МОНОЛІТ","description":"МОНОЛІТ — трилогія про три стани соціальної матерії: БЕТОН, ЖИЖА і ГАЗ.","url":"https://www.ashraellen.com/uk/books/monolith/","inLanguage":"uk","creator":{"@id":"https://www.ashraellen.com/#person"},"hasPart":[{"@id":"https://www.ashraellen.com/uk/books/monolith/beton/#book"},{"@id":"https://www.ashraellen.com/uk/books/monolith/sludge/#book"},{"@id":"https://www.ashraellen.com/uk/books/monolith/gas/#book"}]}]}</script>
 </head>
@@ -60,8 +37,8 @@
 <p class="monolith-signal">Система боїться не бунту.<br>Вона боїться першої тріщини.</p>
 <div class="cta-row"><a class="btn" href="#volumes">Томи трилогії</a><a class="btn secondary" href="#collapse-map">Карта розпаду</a><a class="btn secondary" href="#boundaries">Що важливо не плутати</a></div>
 
-<section id="about-monolith" class="list"><div class="list-header"><h2>Що таке МОНОЛІТ</h2><p class="note">БЕТОН / ЖИЖА / ГАЗ</p></div><ul class="items"><li class="item" style="grid-template-columns:1fr;"><div class="body">
-<p class="quote-line" style="margin:0 0 12px;">Перед вами хроніка контрольованого розпаду: послідовна фіксація фазового переходу соціальної матерії, закарбована у трьох агрегатних станах: БЕТОН, ЖИЖА, ГАЗ.</p>
+<section id="about-monolith" class="list"><div class="list-header"><h2>Що таке МОНОЛІТ</h2><p class="note">БЕТОН / ЖИЖА / ГАЗ</p></div><ul class="items"><li class="item"><div class="body">
+<p class="quote-line">Перед вами хроніка контрольованого розпаду: послідовна фіксація фазового переходу соціальної матерії, закарбована у трьох агрегатних станах: БЕТОН, ЖИЖА, ГАЗ.</p>
 <div class="monolith-copy"><p>Тут важливий не прогноз майбутнього, а матеріал теперішнього: порядок, який надто довго називали безпекою; пам’ять, яку зручніше виправити, ніж почути; людина, яка починає помічати тріщину раніше, ніж система визнає її існування.</p>
 <p>БЕТОН — стадія затверділої стабільності, де порядок стає в’язницею. ЖИЖА — стадія в’язкої деформації, де людина поступово втрачає форму й починає погоджуватися із середовищем. ГАЗ — стадія розгерметизації, де колишні структури більше не втримують смисл.</p>
 <p>Це не фантастика про далеке майбутнє. Це жорстка художня фіксація того, як система входить у пам’ять, мову, тіло, страх, звичку й нормальність.</p></div></div></li></ul></section>
@@ -78,7 +55,7 @@
 <article class="monolith-state-card"><h3>ГАЗ</h3><p class="state-note">розгерметизація / дифузія / середовище</p><p class="state-desc">Система втрачає здатність надійно визначати джерело, носій і межу поширення сигналу.</p><ul><li>втрата локалізації</li><li>зникнення зовнішньої позиції</li><li>спостерігач як частина середовища</li></ul></article>
 </div></section>
 
-<section id="research-frame" class="list"><div class="list-header"><h2>Художньо-дослідницька рамка</h2><p class="note">контроль, пам’ять, форма</p></div><ul class="items"><li class="item" style="grid-template-columns:1fr;"><div class="body monolith-copy">
+<section id="research-frame" class="list"><div class="list-header"><h2>Художньо-дослідницька рамка</h2><p class="note">контроль, пам’ять, форма</p></div><ul class="items"><li class="item"><div class="body monolith-copy">
 <p>МОНОЛІТ досліджує систему не як зовнішнього лиходія, а як спосіб організації сприйняття. Контроль тут діє не лише через наказ, заборону чи покарання. Він входить у мову, побутову норму, пам’ять, страх помилки та звичку погоджуватися з тим, що вже названо правильним.</p>
 <p>Кожен том змінює агрегатний стан цієї системи. У БЕТОНІ вона тверда й видима. У ЖИЖІ — в’язка й проникна. У ГАЗІ — розподілена настільки, що сама межа між системою та спостерігачем стає предметом перевірки.</p>
 </div></li></ul></section>
