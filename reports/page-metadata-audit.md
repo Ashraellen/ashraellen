@@ -1,22 +1,22 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T16:13:42.301Z
+Generated: 2026-08-12T16:14:37.005Z
 
 Pages checked: 841
 Pages with issues: 292
-Total issues: 1708
+Total issues: 1703
 Pages with review notes: 638
-Total review notes: 2249
+Total review notes: 2250
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 199 |
-| MISSING_TWITTER_IMAGE | 199 |
-| MISSING_TWITTER_CARD | 182 |
-| MISSING_OG_DESCRIPTION | 178 |
-| MISSING_JSON_LD | 177 |
+| MISSING_KEYWORDS | 198 |
+| MISSING_TWITTER_IMAGE | 198 |
+| MISSING_TWITTER_CARD | 181 |
+| MISSING_OG_DESCRIPTION | 177 |
+| MISSING_JSON_LD | 176 |
 | MISSING_OG_IMAGE | 173 |
 | MISSING_OG_TITLE | 172 |
 | MISSING_DESCRIPTION | 120 |
@@ -35,7 +35,7 @@ Total review notes: 2249
 | Item | Count |
 |---|---:|
 | DUPLICATE_OG_IMAGE_REVIEW | 638 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 614 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 615 |
 | FALLBACK_OG_IMAGE_USED | 509 |
 | FALLBACK_TWITTER_IMAGE_USED | 488 |
 
@@ -971,13 +971,8 @@ Total review notes: 2249
 - description length: 138
 - canonical: https://www.ashraellen.com/fi/books/the-book-of-whinesis/
 - og:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
-- twitter:image: _missing_
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_DESCRIPTION
-- MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
 - DUPLICATE_TITLE: shared by 9 pages
 - DUPLICATE_OG_TITLE: shared by 9 pages
 
@@ -4507,7 +4502,7 @@ Total review notes: 2249
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### be/books/you-are-already-online/index.html
 
@@ -5201,7 +5196,7 @@ Total review notes: 2249
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### de/books/you-are-already-online/index.html
 
@@ -5899,7 +5894,7 @@ Total review notes: 2249
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### en/books/you-are-already-online/index.html
 
@@ -6584,7 +6579,7 @@ Total review notes: 2249
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### es/books/you-are-already-online/index.html
 
@@ -7220,9 +7215,10 @@ Total review notes: 2249
 
 - title: Ashraellen — The Book of Whinesis
 - og:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
-- twitter:image: _missing_
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### fi/books/you-are-already-online/index.html
 
@@ -7664,7 +7660,7 @@ Total review notes: 2249
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### fr/books/you-are-already-online/index.html
 
@@ -8346,7 +8342,7 @@ Total review notes: 2249
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### pl/books/you-are-already-online/index.html
 
@@ -9051,7 +9047,7 @@ Total review notes: 2249
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### pt/books/you-are-already-online/index.html
 
@@ -9746,7 +9742,7 @@ Total review notes: 2249
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### ru/books/you-are-already-online/index.html
 
@@ -10528,7 +10524,7 @@ Total review notes: 2249
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### uk/books/you-are-already-online/index.html
 
