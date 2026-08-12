@@ -42,7 +42,7 @@ a:hover{text-decoration:underline}
 .list-header h2{margin:0;font-size:16px;font-weight:700;line-height:1.3}
 .list-header .note{margin:0}
 .items{list-style:none;margin:0;padding:0}
-.item{list-style:none;margin:0;padding:0}
+.item{list-style:none;margin:0;padding:18px}
 .grid,.series-grid,.monolith-state-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
 .two,.monolith-two-col{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
 .card,.series-card,.box,.monolith-box,.monolith-state-card{border:1px solid rgba(242,242,244,.13);border-radius:16px;padding:16px;background:rgba(0,0,0,.22)}
