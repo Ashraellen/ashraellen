@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T16:35:59.535Z",
+  "generated": "2026-08-12T18:34:13.584Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -1499,7 +1499,7 @@
       "slugTerms": [
         "be"
       ],
-      "excerpt": "Ashraellen Тры напрамкі прысутнасці: адно назірае, другое гаворыць, трэцяе становіцца кнігай. Даследаванне Публічнае Кнігі Даследаванне — зразумець механізмы. Публічнае — убачыць жывыя рэакцыі. Кнігі — пражыць мадэль знутры. Ashraellen — незалежная шматмоўная літаратурна-філасофская і мастацка-даследчая практыка: кнігі, даследаванні, публічныя тэксты, відэа, гук і візуальныя формы даследуюць свядомасць, мову, сістэмы і кантакт чалавека са сэнсам. English Русский Polski Deutsch Français Español Português Українська — mark of presence",
+      "excerpt": "Ashraellen Тры напрамкі прысутнасці: адно назірае, другое гаворыць, трэцяе становіцца кнігай. Даследаванне Публічнае Кнігі Даследаванне — зразумець механізмы. Публічнае — убачыць жывыя рэакцыі. Кнігі — пражыць мадэль знутры. Ashraellen — незалежная шматмоўная літаратурна-філасофская і мастацка-даследчая практыка: кнігі, даследаванні, публічныя тэксты, відэа, гук і візуальныя формы даследуюць свядомасць, мову, сістэмы і кантакт чалавека са сэнсам. English Русский Polski Deutsch Français Español Português Українська Suomi — mark of presence",
       "candidates": [
         "кнігі",
         "ashraellen",
@@ -1518,13 +1518,13 @@
         "polski",
         "português",
         "presence",
+        "suomi",
         "аб’ядноўвае",
         "адно",
         "аўтарскі",
         "візуальныя",
         "гаворыць",
-        "гук",
-        "даследуюць"
+        "гук"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",
@@ -6633,7 +6633,7 @@
       "slugTerms": [
         "de"
       ],
-      "excerpt": "Ashraellen Drei Richtungen der Präsenz: eine beobachtet, eine spricht, eine wird zum Buch. Forschung Öffentlich Bücher Forschung — die Mechanismen verstehen. Öffentlich — lebendige Reaktionen sehen. Bücher — das Modell von innen durchleben. Ashraellen ist eine unabhängige mehrsprachige literarisch-philosophische und künstlerische Forschungspraxis: Bücher, Forschung, öffentliche Texte, Video, Klang und visuelle Formen untersuchen Bewusstsein, Sprache, Systeme und den Kontakt des Menschen mit Bedeutung. Русский English Беларуская Polski Français Español Português Українська — mark of presence",
+      "excerpt": "Ashraellen Drei Richtungen der Präsenz: eine beobachtet, eine spricht, eine wird zum Buch. Forschung Öffentlich Bücher Forschung — die Mechanismen verstehen. Öffentlich — lebendige Reaktionen sehen. Bücher — das Modell von innen durchleben. Ashraellen ist eine unabhängige mehrsprachige literarisch-philosophische und künstlerische Forschungspraxis: Bücher, Forschung, öffentliche Texte, Video, Klang und visuelle Formen untersuchen Bewusstsein, Sprache, Systeme und den Kontakt des Menschen mit Bedeutung. Русский English Беларуская Polski Français Español Português Українська Suomi — mark of presence",
       "candidates": [
         "bücher",
         "forschung",
@@ -12647,7 +12647,7 @@
       "slugTerms": [
         "en"
       ],
-      "excerpt": "Ashraellen Three directions of presence: one observes, one speaks, one becomes a book. Research Public Books Research — understand the mechanisms. Public — see living reactions. Books — live the model from within. Professional dossier Ashraellen is an independent multilingual literary-philosophical and artistic research practice exploring consciousness, language, systems, satire, digital pressure, inner autonomy and the loss of direct perception through books, public texts, videos, sound and visual forms. Русский Беларуская Polski Deutsch Français Español Português Українська — mark of presence",
+      "excerpt": "Ashraellen Three directions of presence: one observes, one speaks, one becomes a book. Research Public Books Research — understand the mechanisms. Public — see living reactions. Books — live the model from within. Professional dossier Ashraellen is an independent multilingual literary-philosophical and artistic research practice exploring consciousness, language, systems, satire, digital pressure, inner autonomy and the loss of direct perception through books, public texts, videos, sound and visual forms. Русский Беларуская Polski Deutsch Français Español Português Українська Suomi — mark of presence",
       "candidates": [
         "books",
         "public",
@@ -16668,15 +16668,15 @@
       "page": "es/books/monolith/index.html",
       "lang": "es",
       "section": "books",
-      "title": "Ashraellen — MONOLITH",
-      "description": "MONOLITH es una trilogía distópica literaria y filosófica sobre el control, la memoria y la desintegración de los sistemas: BETON, SLUDGE y GAS.",
-      "existingKeywords": "Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research",
+      "title": "Ashraellen — MONOLITO",
+      "description": "MONOLITO es una trilogía distópica literaria y filosófica sobre el control, la memoria y la desintegración de los sistemas: HORMIGÓN, LODO y GAS.",
+      "existingKeywords": "Ashraellen, MONOLITO, HORMIGÓN, LODO, GAS, distopía, literatura, investigación artística",
       "canonical": "https://www.ashraellen.com/es/books/monolith/",
       "h1": [
-        "MONOLITH"
+        "MONOLITO"
       ],
       "h2": [
-        "Qué es MONOLITH",
+        "Qué es MONOLITO",
         "Volúmenes",
         "Marco artístico y de investigación",
         "Mapa de la desintegración",
@@ -16685,11 +16685,11 @@
         "La frase de la serie"
       ],
       "h3": [
-        "Volumen I — BETON",
-        "Volumen II — SLUDGE",
+        "Volumen I — HORMIGÓN",
+        "Volumen II — LODO",
         "Volumen III — GAS",
-        "BETON",
-        "SLUDGE",
+        "HORMIGÓN",
+        "LODO",
         "GAS",
         "Lectores",
         "Editores / socios / traductores"
@@ -16699,44 +16699,44 @@
         "books",
         "monolith"
       ],
-      "excerpt": "PROTOCOLO DE DESINTEGRACIÓN DE LA MATERIA SOCIAL / BETON — SLUDGE — GAS MONOLITH MONOLITH es una trilogía distópica literaria y filosófica sobre el control, la memoria y la desintegración de los sistemas. Sus tres volúmenes registran el tránsito de la materia social por tres estados: BETON, SLUDGE y GAS, desde la estabilidad endurecida hasta la deformación viscosa y la descompresión total de la forma. El sistema no teme la rebelión. Teme la primera grieta. Volúmenes de la trilogía Mapa de la desintegración Lo que no debe confundirse Qué es MONOLITH BETON / SLUDGE / GAS Ante ti hay una crónica de la desintegración controlada: el registro consecutivo de la transición de fase de la materia social, fijada en tres estados — BETON, SLUDGE y GAS. Aquí importa no una predicción del futuro, sino el material del presente: un orden al que durante demasiado tiempo se llamó seguridad; una memoria que",
+      "excerpt": "PROTOCOLO DE DESINTEGRACIÓN DE LA MATERIA SOCIAL / HORMIGÓN — LODO — GAS MONOLITO MONOLITO es una trilogía distópica literaria y filosófica sobre el control, la memoria y la desintegración de los sistemas. Sus tres volúmenes registran el tránsito de la materia social por tres estados: HORMIGÓN, LODO y GAS, desde la estabilidad endurecida hasta la deformación viscosa y la descompresión total de la forma. El sistema no teme la rebelión. Teme la primera grieta. Volúmenes Mapa de la desintegración Lo que no debe confundirse Qué es MONOLITO HORMIGÓN / LODO / GAS Ante ti hay una crónica de la desintegración controlada: el registro consecutivo de la transición de fase de la materia social, fijada en tres estados — HORMIGÓN, LODO y GAS. Aquí importa no una predicción del futuro, sino el material del presente: un orden al que durante demasiado tiempo se llamó seguridad; una memoria que resulta má",
       "candidates": [
         "una",
         "que",
-        "monolith",
+        "monolito",
         "forma",
         "memoria",
         "control",
-        "gas",
         "persona",
-        "beton",
+        "gas",
+        "hormigón",
+        "lodo",
         "del",
-        "sludge",
         "desintegración",
         "como",
         "empieza",
         "grieta",
-        "los",
         "primera",
         "sistema",
-        "dentro",
-        "sino",
         "sobre",
+        "dentro",
+        "los",
+        "sino",
+        "volumen",
         "donde",
-        "entorno",
-        "estabilidad"
+        "entorno"
       ],
       "suggestedKeywordSeed": [
-        "monolith",
+        "monolito",
         "desintegración",
         "ashraellen",
-        "beton",
         "books",
         "control",
         "gas",
+        "hormigón",
+        "lodo",
         "memoria",
         "que",
-        "sludge",
         "una",
         "artístico",
         "confundirse",
@@ -17687,7 +17687,7 @@
       "slugTerms": [
         "es"
       ],
-      "excerpt": "Ashraellen Tres direcciones de presencia: una observa, otra habla, la tercera se convierte en libro. Investigación Público Libros Investigación — comprender los mecanismos. Público — ver reacciones vivas. Libros — vivir el modelo desde dentro. Ashraellen es una práctica independiente y multilingüe de investigación literario-filosófica y artística: libros, investigación, textos públicos, video, sonido y formas visuales que exploran la conciencia, el lenguaje, los sistemas y el contacto humano con el sentido. Русский English Беларуская Polski Deutsch Français Português Українська — mark of presence",
+      "excerpt": "Ashraellen Tres direcciones de presencia: una observa, otra habla, la tercera se convierte en libro. Investigación Público Libros Investigación — comprender los mecanismos. Público — ver reacciones vivas. Libros — vivir el modelo desde dentro. Ashraellen es una práctica independiente y multilingüe de investigación literario-filosófica y artística: libros, investigación, textos públicos, video, sonido y formas visuales que exploran la conciencia, el lenguaje, los sistemas y el contacto humano con el sentido. Русский English Беларуская Polski Deutsch Français Português Українська Suomi — mark of presence",
       "candidates": [
         "investigación",
         "libros",
@@ -27950,7 +27950,7 @@
       "slugTerms": [
         "fr"
       ],
-      "excerpt": "Ashraellen Trois directions de présence : l’une observe, l’autre parle, la troisième devient un livre. Recherche Public Livres Recherche — comprendre les mécanismes. Public — voir les réactions vivantes. Livres — vivre le modèle de l’intérieur. Ashraellen est une pratique indépendante et multilingue de recherche littéraire-philosophique et artistique : livres, recherche, textes publics, vidéo, son et formes visuelles explorent la conscience, le langage, les systèmes et le contact humain avec le sens. Русский English Беларуская Polski Deutsch Español Português Українська — mark of presence",
+      "excerpt": "Ashraellen Trois directions de présence : l’une observe, l’autre parle, la troisième devient un livre. Recherche Public Livres Recherche — comprendre les mécanismes. Public — voir les réactions vivantes. Livres — vivre le modèle de l’intérieur. Ashraellen est une pratique indépendante et multilingue de recherche littéraire-philosophique et artistique : livres, recherche, textes publics, vidéo, son et formes visuelles explorent la conscience, le langage, les systèmes et le contact humain avec le sens. Русский English Беларуская Polski Deutsch Español Português Українська Suomi — mark of presence",
       "candidates": [
         "recherche",
         "livres",
@@ -35697,7 +35697,7 @@
       "slugTerms": [
         "pl"
       ],
-      "excerpt": "Ashraellen Trzy kierunki obecności: jeden obserwuje, drugi mówi, trzeci staje się książką. Badania Publiczne Książki Badania — zrozumieć mechanizmy. Publiczne — zobaczyć żywe reakcje. Książki — przeżyć model od środka. Ashraellen to niezależna, wielojęzyczna praktyka literacko-filozoficzna i artystyczno-badawcza: książki, badania, teksty publiczne, wideo, dźwięk i formy wizualne badające świadomość, język, systemy oraz kontakt człowieka ze znaczeniem. Русский English Беларуская Deutsch Français Español Português Українська — mark of presence",
+      "excerpt": "Ashraellen Trzy kierunki obecności: jeden obserwuje, drugi mówi, trzeci staje się książką. Badania Publiczne Książki Badania — zrozumieć mechanizmy. Publiczne — zobaczyć żywe reakcje. Książki — przeżyć model od środka. Ashraellen to niezależna, wielojęzyczna praktyka literacko-filozoficzna i artystyczno-badawcza: książki, badania, teksty publiczne, wideo, dźwięk i formy wizualne badające świadomość, język, systemy oraz kontakt człowieka ze znaczeniem. Русский English Беларуская Deutsch Français Español Português Українська Suomi — mark of presence",
       "candidates": [
         "badania",
         "książki",
@@ -40894,7 +40894,7 @@
       "slugTerms": [
         "pt"
       ],
-      "excerpt": "Ashraellen Três direções de presença: uma observa, outra fala, a terceira vira um livro. Pesquisa Público Livros Pesquisa — compreender os mecanismos. Público — ver reações vivas. Livros — viver o modelo por dentro. Ashraellen é uma prática independente e multilíngue de pesquisa literário-filosófica e artística: livros, pesquisa, textos públicos, vídeo, som e formas visuais exploram consciência, linguagem, sistemas e o contato humano com o sentido. Русский English Беларуская Polski Deutsch Français Español Українська — mark of presence",
+      "excerpt": "Ashraellen Três direções de presença: uma observa, outra fala, a terceira vira um livro. Pesquisa Público Livros Pesquisa — compreender os mecanismos. Público — ver reações vivas. Livros — viver o modelo por dentro. Ashraellen é uma prática independente e multilíngue de pesquisa literário-filosófica e artística: livros, pesquisa, textos públicos, vídeo, som e formas visuais exploram consciência, linguagem, sistemas e o contato humano com o sentido. Русский English Беларуская Polski Deutsch Français Español Українська Suomi — mark of presence",
       "candidates": [
         "pesquisa",
         "livros",
@@ -48343,7 +48343,7 @@
       "slugTerms": [
         "ru"
       ],
-      "excerpt": "Ashraellen Три направления присутствия: одно наблюдает, другое говорит, третье становится книгой. Исследование Публичное Книги Исследование — понять механизмы. Публичное — увидеть живые реакции. Книги — прожить модель изнутри. Профессиональное досье Ashraellen — независимая многоязычная литературно-философская и художественно-исследовательская практика: книги, исследования, публичные тексты, видео, звук, визуальные формы и наблюдение за тем, как человек теряет и возвращает контакт со смыслом. English Беларуская Polski Deutsch Français Español Português Українська — mark of presence Политика конфиденциальности",
+      "excerpt": "Ashraellen Три направления присутствия: одно наблюдает, другое говорит, третье становится книгой. Исследование Публичное Книги Исследование — понять механизмы. Публичное — увидеть живые реакции. Книги — прожить модель изнутри. Профессиональное досье Ashraellen — независимая многоязычная литературно-философская и художественно-исследовательская практика: книги, исследования, публичные тексты, видео, звук, визуальные формы и наблюдение за тем, как человек теряет и возвращает контакт со смыслом. English Беларуская Polski Deutsch Français Español Português Українська Suomi — mark of presence Политика конфиденциальности",
       "candidates": [
         "книги",
         "ashraellen",
@@ -48362,13 +48362,13 @@
         "polski",
         "português",
         "presence",
+        "suomi",
         "авторский",
         "беларуская",
         "визуальные",
         "внутреннего",
         "возвращает",
-        "говорит",
-        "досье"
+        "говорит"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",
@@ -56203,7 +56203,7 @@
       "slugTerms": [
         "uk"
       ],
-      "excerpt": "Ashraellen Три напрями присутності: один спостерігає, другий говорить, третій стає книгою. Дослідження Публічне Книжки Дослідження — зрозуміти механізми. Публічне — побачити живі реакції. Книжки — прожити модель зсередини. Ashraellen — незалежна багатомовна літературно-філософська та мистецько-дослідницька практика: книжки, дослідження, публічні тексти, відео, звук і візуальні форми досліджують свідомість, мову, системи та контакт людини зі смислом. Русский English Беларуская Polski Deutsch Français Español Português — mark of presence",
+      "excerpt": "Ashraellen Три напрями присутності: один спостерігає, другий говорить, третій стає книгою. Дослідження Публічне Книжки Дослідження — зрозуміти механізми. Публічне — побачити живі реакції. Книжки — прожити модель зсередини. Ashraellen — незалежна багатомовна літературно-філософська та мистецько-дослідницька практика: книжки, дослідження, публічні тексти, відео, звук і візуальні форми досліджують свідомість, мову, системи та контакт людини зі смислом. Русский English Беларуская Polski Deutsch Français Español Português Suomi — mark of presence",
       "candidates": [
         "дослідження",
         "книжки",
@@ -56221,14 +56221,14 @@
         "polski",
         "português",
         "presence",
+        "suomi",
         "авторський",
         "багатомовна",
         "багатомовний",
         "беларуская",
         "візуальні",
         "внутрішнього",
-        "говорить",
-        "досліджують"
+        "говорить"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",

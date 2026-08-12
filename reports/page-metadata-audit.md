@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T16:35:58.882Z
+Generated: 2026-08-12T18:34:12.936Z
 
 Pages checked: 841
-Pages with issues: 281
-Total issues: 1658
+Pages with issues: 280
+Total issues: 1655
 Pages with review notes: 642
 Total review notes: 2262
 
@@ -22,9 +22,9 @@ Total review notes: 2262
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
-| DUPLICATE_KEYWORDS | 36 |
-| DUPLICATE_TITLE | 36 |
-| DUPLICATE_OG_TITLE | 34 |
+| DUPLICATE_KEYWORDS | 35 |
+| DUPLICATE_TITLE | 35 |
+| DUPLICATE_OG_TITLE | 33 |
 | OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
 | TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
 | DESCRIPTION_TOO_SHORT | 20 |
@@ -244,9 +244,9 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_TITLE: shared by 5 pages
-- DUPLICATE_KEYWORDS: shared by 4 pages
-- DUPLICATE_OG_TITLE: shared by 5 pages
+- DUPLICATE_TITLE: shared by 4 pages
+- DUPLICATE_KEYWORDS: shared by 3 pages
+- DUPLICATE_OG_TITLE: shared by 4 pages
 
 ### de/books/radiance/index.html
 
@@ -393,9 +393,9 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_TITLE: shared by 5 pages
-- DUPLICATE_KEYWORDS: shared by 4 pages
-- DUPLICATE_OG_TITLE: shared by 5 pages
+- DUPLICATE_TITLE: shared by 4 pages
+- DUPLICATE_KEYWORDS: shared by 3 pages
+- DUPLICATE_OG_TITLE: shared by 4 pages
 
 ### en/books/monolith/sludge/index.html
 
@@ -748,18 +748,6 @@ Total review notes: 2262
 
 - DUPLICATE_TITLE: shared by 5 pages
 - DUPLICATE_KEYWORDS: shared by 5 pages
-- DUPLICATE_OG_TITLE: shared by 5 pages
-
-### es/books/monolith/index.html
-
-- title: Ashraellen — MONOLITH
-- description length: 144
-- canonical: https://www.ashraellen.com/es/books/monolith/
-- og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
-- twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
-
-- DUPLICATE_TITLE: shared by 5 pages
-- DUPLICATE_KEYWORDS: shared by 4 pages
 - DUPLICATE_OG_TITLE: shared by 5 pages
 
 ### es/books/monolith/sludge/index.html
@@ -1299,9 +1287,9 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_TITLE: shared by 5 pages
-- DUPLICATE_KEYWORDS: shared by 4 pages
-- DUPLICATE_OG_TITLE: shared by 5 pages
+- DUPLICATE_TITLE: shared by 4 pages
+- DUPLICATE_KEYWORDS: shared by 3 pages
+- DUPLICATE_OG_TITLE: shared by 4 pages
 
 ### fr/books/monolith/sludge/index.html
 
@@ -1454,8 +1442,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_TITLE: shared by 5 pages
-- DUPLICATE_OG_TITLE: shared by 5 pages
+- DUPLICATE_TITLE: shared by 4 pages
+- DUPLICATE_OG_TITLE: shared by 4 pages
 
 ### pl/books/radiance/index.html
 
@@ -6365,7 +6353,7 @@ Total review notes: 2262
 
 ### es/books/monolith/index.html
 
-- title: Ashraellen — MONOLITH
+- title: Ashraellen — MONOLITO
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
