@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T19:24:16.216Z
-Pages: 843
+Generated: 2026-08-12T19:27:42.834Z
+Pages: 844
 
 ## Index
 
@@ -371,6 +371,7 @@ Pages: 843
 | fr/books/error-404-god-not-found/why-me/index.html | fr | books | Ashraellen — Pourquoi moi ? | _missing_ | livre, moi, pourquoi, ashraellen, books, 404, avec, bureaucratie, céleste, chancellerie, comme, couches, cycle, dans, demande, dieu, douleur, erreur |
 | fr/books/index.html | fr | books | Ashraellen — Livres | Ashraellen, livres, Demotopia, Utopie démocratique, MONOLITHE, ÉCLAT, ERREUR 404, DIEU INTROUVABLE, SECCUS, Tu es déjà en ligne, The Book of Whinesis, samizdat 2.0, éditions d’auteur | livres, d’auteur, directes, ashraellen, books, éditions, livre, 2.0, 404, book, cycle, cycles, d’ashraellen, déjà, demotopia, des, dieu, éclat |
 | fr/books/monolith/beton/index.html | fr | books | Ashraellen — BÉTON | Ashraellen, MONOLITHE, BÉTON, dystopie, littérature, recherche artistique | béton, ashraellen, books, dans, est, livre, stabilité, une, anton, artistique, beton, cadre, choisi, cœur, comme, des, divulgâcher, dossier |
+| fr/books/monolith/gas/index.html | fr | books | Ashraellen — GAZ | Ashraellen, MONOLITHE, GAZ, volume trois, Victoria, pouvoir, contrôle, mémoire, localisation, milieu, signal, dystopie | gaz, ashraellen, books, sans, sur, artistique, cadre, choisi, comme, contrôle, dans, dernier, des, disparition, divulgâcher, dossier, entre, extrait |
 | fr/books/monolith/index.html | fr | books | Ashraellen — MONOLITHE | Ashraellen, MONOLITHE, BÉTON, BOUE, GAZ, dystopie, littérature, recherche artistique | monolithe, ashraellen, béton, books, boue, contrôle, des, désagrégation, est, mémoire, pas, une, artistique, cadre, carte, confondre, dans, dystopique |
 | fr/books/monolith/sludge/index.html | fr | books | Ashraellen — BOUE | Ashraellen, MONOLITHE, BOUE, dystopie, littérature, recherche artistique | boue, ashraellen, books, pour, qui, une, artistique, cadre, choisi, comme, complicité, dans, des, divulgâcher, dossier, dystopie, épuisée, est |
 | fr/books/radiance/index.html | fr | books | Ashraellen — Éclat \| Contes nordiques sur la véritable histoire du monde | Ashraellen, Éclat, Sampo, Chant, Livres, literary-philosophical, artistic research | éclat, artistique, les, monde, sur, ashraellen, books, cycle, est, pas, recherche, anciennes, cadre, carte, confondre, contes, d'instructions, des |
@@ -7040,6 +7041,23 @@ Excerpt:
 Excerpt:
 
 > BÉTON BÉTON est une dystopie philosophique sur un monde où la stabilité est devenue une prison, où la mémoire est considérée comme une menace et où la première fissure apparaît à l’intérieur d’un système qui se croit encore éternel. Volume I de la trilogie MONOLITHE. Dossier Volume I Le béton ne commence pas par un mur. Il commence par l’habitude d’appeler une prison stabilité. DOSSIER N° 2026-001B. Indice : 6666548A. STATUT : Secret absolu. Lire l’édition anglaise sur Google Play Books Lire l’édition anglaise sur Amazon Retour à MONOLITHE Extrait choisi Chapitre 9 / § 9.1 Chapitre 9. Protocole « Fierté » § 9.1. La meilleure colle pour la société L’extrait révèle l’un des mécanismes de BÉTON : comment la douleur devient slogan, la culpabilité colle sociale, et la perte humaine une image administrable de la stabilité. Ouvrir l’extrait complet Chapitre 9. Protocole « Fierté » § 9.1. La mei
+
+### fr/books/monolith/gas/index.html
+
+- lang: fr
+- section: books
+- title: Ashraellen — GAZ
+- description: GAZ — troisième et dernier volume de la trilogie MONOLITHE : un roman sur le pouvoir, le contrôle total et la disparition de la frontière entre source, porteur et milieu.
+- canonical: https://www.ashraellen.com/fr/books/monolith/gas/
+- H1: GAZ
+- H2: Dossier | Extrait choisi | À propos du livre | Statut de l’objet | De l’auteur | Sans divulgâcher | Cadre artistique et de recherche | Thèmes / nœuds de sens
+- H3: Perte de localisation | Source | Porteur | Observateur | Mémoire | Propagation | Chapitre 1. Inventaire des ombres | Chapitre 2. Coutures du visage
+- suggested keyword seed: gaz, ashraellen, books, sans, sur, artistique, cadre, choisi, comme, contrôle, dans, dernier, des, disparition, divulgâcher, dossier, entre, extrait
+- candidates: une, les, pas, dans, sur, des, que, comme, qui, plus, sans, son, était, non, milieu, mais, pour, chapitre, source, gaz, tout, porteur, avait, d’un
+
+Excerpt:
+
+> GAZ Le troisième volume de MONOLITHE commence là où le système conserve encore sa forme, mais perd déjà le droit de se considérer comme l’unique source de ce qui arrive. GAZ transforme l’enquête de Victoria en épreuve de la frontière entre pouvoir, mémoire, observation et milieu lui-même. Dossier Volume III Le gaz est rarement détecté au moment de la pénétration. En règle générale, sa présence ne devient perceptible qu’après s’être déjà distribuée dans tout le milieu. PROTOCOLE D’IDENTIFICATION DE L’OBJET N° 2026-001B OBJET : TRANSCRIPTION « GAZ » (VERSION COMPLÈTE) ARCHITECTE : ASHRAELLEN IDENTIFIANT : 2026-001B-GAS INTÉGRITÉ : 100 % (AUCUNE ÉDITION EXTERNE) Lire l’édition anglaise sur Google Play Books Édition anglaise sur Amazon Retour à MONOLITHE Ouvrir le protocole complet Fermer le protocole complet DÉPARTEMENT DES SENS SECTEUR SUPÉRIEUR DIRECTION DU CONTRÔLE DE LA DIFFUSION PROTOC
 
 ### fr/books/monolith/index.html
 

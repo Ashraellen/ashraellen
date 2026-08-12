@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T19:24:16.201Z",
+  "generated": "2026-08-12T19:27:42.820Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -27011,6 +27011,91 @@
         "des",
         "divulgâcher",
         "dossier"
+      ]
+    },
+    {
+      "page": "fr/books/monolith/gas/index.html",
+      "lang": "fr",
+      "section": "books",
+      "title": "Ashraellen — GAZ",
+      "description": "GAZ — troisième et dernier volume de la trilogie MONOLITHE : un roman sur le pouvoir, le contrôle total et la disparition de la frontière entre source, porteur et milieu.",
+      "existingKeywords": "Ashraellen, MONOLITHE, GAZ, volume trois, Victoria, pouvoir, contrôle, mémoire, localisation, milieu, signal, dystopie",
+      "canonical": "https://www.ashraellen.com/fr/books/monolith/gas/",
+      "h1": [
+        "GAZ"
+      ],
+      "h2": [
+        "Dossier",
+        "Extrait choisi",
+        "À propos du livre",
+        "Statut de l’objet",
+        "De l’auteur",
+        "Sans divulgâcher",
+        "Cadre artistique et de recherche",
+        "Thèmes / nœuds de sens"
+      ],
+      "h3": [
+        "Perte de localisation",
+        "Source",
+        "Porteur",
+        "Observateur",
+        "Mémoire",
+        "Propagation",
+        "Chapitre 1. Inventaire des ombres",
+        "Chapitre 2. Coutures du visage"
+      ],
+      "slugTerms": [
+        "fr",
+        "books",
+        "monolith",
+        "gas"
+      ],
+      "excerpt": "GAZ Le troisième volume de MONOLITHE commence là où le système conserve encore sa forme, mais perd déjà le droit de se considérer comme l’unique source de ce qui arrive. GAZ transforme l’enquête de Victoria en épreuve de la frontière entre pouvoir, mémoire, observation et milieu lui-même. Dossier Volume III Le gaz est rarement détecté au moment de la pénétration. En règle générale, sa présence ne devient perceptible qu’après s’être déjà distribuée dans tout le milieu. PROTOCOLE D’IDENTIFICATION DE L’OBJET N° 2026-001B OBJET : TRANSCRIPTION « GAZ » (VERSION COMPLÈTE) ARCHITECTE : ASHRAELLEN IDENTIFIANT : 2026-001B-GAS INTÉGRITÉ : 100 % (AUCUNE ÉDITION EXTERNE) Lire l’édition anglaise sur Google Play Books Édition anglaise sur Amazon Retour à MONOLITHE Ouvrir le protocole complet Fermer le protocole complet DÉPARTEMENT DES SENS SECTEUR SUPÉRIEUR DIRECTION DU CONTRÔLE DE LA DIFFUSION PROTOC",
+      "candidates": [
+        "une",
+        "les",
+        "pas",
+        "dans",
+        "sur",
+        "des",
+        "que",
+        "comme",
+        "qui",
+        "plus",
+        "sans",
+        "son",
+        "était",
+        "non",
+        "milieu",
+        "mais",
+        "pour",
+        "chapitre",
+        "source",
+        "gaz",
+        "tout",
+        "porteur",
+        "avait",
+        "d’un"
+      ],
+      "suggestedKeywordSeed": [
+        "gaz",
+        "ashraellen",
+        "books",
+        "sans",
+        "sur",
+        "artistique",
+        "cadre",
+        "choisi",
+        "comme",
+        "contrôle",
+        "dans",
+        "dernier",
+        "des",
+        "disparition",
+        "divulgâcher",
+        "dossier",
+        "entre",
+        "extrait"
       ]
     },
     {
