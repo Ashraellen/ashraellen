@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T11:22:31.084Z
-Pages: 785
+Generated: 2026-08-12T11:30:15.063Z
+Pages: 790
 
 ## Index
 
@@ -294,6 +294,11 @@ Pages: 785
 | es/research/position/index.html | es | research | Ashraellen — Position — Spanish | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, es, research, position | position, ashraellen, como, artístico, campo, descripción, experiencia, experiencias, filosofía, independiente, interna, investigador, research, modelos, observación, religión, son, spanish |
 | es/research/projects/index.html | es | research | Ashraellen — Proyectos de investigación | ashraellen, research, projects, proyectos, investigación, mapa, campos, trabajo, monolith, canal, principal, campo, público, satíricos, laboratorios, laterales, percepción, instagram | ashraellen, proyectos, monolith, percepción, research, abrir, aquí, book, campo, campos, canal, church, como, cómo, con, del, inner, instagram |
 | es/research/sources/index.html | es | research | Ashraellen — Fuentes y tradición | ashraellen, research, sources, fuentes, tradición, fenomenología, conciencia, cuerpo, relato, ciencia, cognitiva, práctica, artística, edmund, husserl, experiencia, antes, las | como, ashraellen, conciencia, cuerpo, fuentes, relato, tradición, artística, experiencia, fenomenología, forma, research, antes, ciencia, cognitiva, comprensión, con, direcciones |
+| fi/books/index.html | fi | books | Ashraellen — Kirjat | _missing_ | kirjat, 2.0, 404, ashraellen, books, samizdat, satiiri, tekijäjulkaisut, already, ashraellenin, audioromaani, avaa, book, demotopia, error, filosofinen, found, god |
+| fi/books/monolith/beton/index.html | fi | books | Ashraellen — BETONI | _missing_ | betoni, ashraellen, books, järjestelmän, katkelma, osa, anton, beton, dystopia, englanninkielinen, ensimmäinen, ensimmäisestä, että, filosofinen, halkeama, halkeamasta, hänen, kehys |
+| fi/books/monolith/gas/index.html | fi | books | Ashraellen — KAASU | _missing_ | kaasu, ashraellen, books, objektin, osa, alkaa, ennen, gas, ilman, jälkeen, joka, kantajan, katkelma, katoamisesta, kehys, kirjallinen, kirjasta, kokonaiskontrollista |
+| fi/books/monolith/index.html | fi | books | Ashraellen — MONOLIITTI | _missing_ | monoliitti, ashraellen, betoni, books, kaasu, liete, aineen, avaa, dystopiatrilogia, enää, filosofinen, hän, järjestelmien, kartta, kirjallinen, kontrollista, mihin, mikä |
+| fi/books/monolith/sludge/index.html | fi | books | Ashraellen — LIETE | _missing_ | liete, ashraellen, books, katkelma, osa, alkaa, dystopia, enää, englanninkielinen, filosofinen, hän, ihminen, joka, jossa, kehys, kirjallinen, kirjasta, menetyksestä |
 | fi/contact.html | fi | contact.html | Yhteys — Ashraellen — Suomi | _missing_ | ashraellen, yhteys, apurahoja, ashraellenin, julkaisemista, mediaa, projektia, varten, yhteistyötä, aineistot, contact, contact.html, julkiset, koskevia, suomi, telegram-yhteys, yhteydenottoja, yhteystiedot |
 | fi/index.html | fi | index.html | Ashraellen — Kirjat, tutkimus ja julkiset tekstit | _missing_ | ashraellen, julkiset, kirjat, tekstit, itsenäinen, kirjallis-filosofinen, monikielinen, taiteellinen, tutkimus, tutkimuskäytäntö, havainnoinnin, index.html, joka, julkinen, sisäisen, tutkimuksen, videot, yhdistää |
 | fi/kone/index.html | fi | kone | Ashraellen — tiivistelmä Koneen Säätiölle | ashraellen, kone, tiivistelmä, koneen, säätiölle, suomenkielinen, ashraellen-hankkeesta, elämänmittainen, taiteellis-filosofinen, tutkimus, merkityksestä, kirjallisuudesta, videoista, monikielisestä, arkistosta, tutkimuksen, ydin, tekijä | ashraellen, koneen, kone, säätiölle, tiivistelmä, tutkimuksen, tutkimus, arkistosta, ashraellen-hankkeesta, asiakirjat, elämänmittainen, hankkeen, infrastruktuuri, julkinen, kirjallisuudesta, kuukauden, merkityksestä, miten |
@@ -5673,6 +5678,91 @@ Excerpt:
 Excerpt:
 
 > Fuentes y tradición Esta investigación se sitúa en el cruce entre la fenomenología de la conciencia, la epistemología narrativa, la ciencia cognitiva y la práctica artística. Husserl construye un método de descripción precisa de la experiencia. Merleau-Ponty devuelve la conciencia al cuerpo. Ricœur muestra que el relato no es un adorno del pensamiento, sino una forma de comprensión de sí. Varela, Thompson y Rosch acercan la fenomenología a la ciencia cognitiva y a la experiencia vivida. Ashraellen trabaja allí donde estas líneas se cruzan: en una zona donde el texto académico por sí solo ya no basta, y donde la experiencia viva todavía no ha recibido una forma exacta. Fenomenología de la conciencia Edmund Husserl — la experiencia antes de las explicaciones hechas Lo importante aquí no es creer el primer pensamiento, sino observar con precisión cómo la experiencia aparece en la conciencia
+
+### fi/books/index.html
+
+- lang: fi
+- section: books
+- title: Ashraellen — Kirjat
+- description: Ashraellenin kirjat: Demotopia, MONOLIITTI, RADIANCE, ERROR 404: GOD NOT FOUND, SECCUS, You Are Already Online, The Book of Whinesis ja samizdat 2.0 -tekijäjulkaisut.
+- canonical: https://www.ashraellen.com/fi/books/
+- H1: Kirjat
+- H2: Kirjasarjat | Itsenäiset teokset ja tutkimukset | Satiiri | Suorat tekijäjulkaisut
+- H3: _missing_
+- suggested keyword seed: kirjat, 2.0, 404, ashraellen, books, samizdat, satiiri, tekijäjulkaisut, already, ashraellenin, audioromaani, avaa, book, demotopia, error, filosofinen, found, god
+- candidates: avaa, kirja, filosofinen, satiiri, 2.0, audioromaani, kirjat, oma, romaani, samizdat, sykli, 404, already, ashraellenin, book, demotopia, error, found, god, hänet, ihmisen, itsenäiset, järjestelmä, kirjasarjat
+
+Excerpt:
+
+> Kirjat Tänne on koottu Ashraellenin kirjasarjat, itsenäiset romaanit, tutkimuskirjat, satiiri ja tekijän suorat fyysiset julkaisut. Voit aloittaa laajasta kokonaisuudesta tai yhdestä teoksesta. Kirjasarjat sarjat ja pitkäkestoiset projektit MONOLIITTI Kirjallinen ja filosofinen dystopiatrilogia kontrollista, muistista ja järjestelmien hajoamisesta. BETONI, LIETE ja KAASU seuraavat sosiaalisen aineen siirtymää kovettuneesta vakaudesta viskoosin muodonmuutoksen kautta muodon täydelliseen paineenpurkautumiseen. Avaa trilogia trilogia RADIANCE Kirjallis-filosofinen taiteellisen tutkimuksen sykli pohjoisista legendoista ja muinaisista kuvista elävinä maailman lukemisen ohjeina. Ei Kalevalan uudelleenkerronta vaan paluu siihen inhimilliseen kokemukseen, josta tällaiset kertomukset saattoivat syntyä. Avaa sykli sykli ERROR 404: GOD NOT FOUND Filosofinen ja satiirinen romaanisarja Taivaallisesta
+
+### fi/books/monolith/beton/index.html
+
+- lang: fi
+- section: books
+- title: Ashraellen — BETONI
+- description: BETONI on MONOLIITTI-trilogian osa I: filosofinen dystopia kovettuneesta vakaudesta, muokatusta muistista ja järjestelmän ensimmäisestä halkeamasta.
+- canonical: https://www.ashraellen.com/fi/books/monolith/beton/
+- H1: BETONI
+- H2: Objektiprotokolla | Valittu kirjallinen katkelma | Kirjasta | Objektin tila | Taiteellis-tutkimuksellinen kehys | Teemalliset solmut | Paikka trilogiassa | Tulkinnan rajat
+- H3: Vakaus | Muisti | Merkitys | Halkeama | Mukautuminen | Kieli | Järjestys | Syyllisyys
+- suggested keyword seed: betoni, ashraellen, books, järjestelmän, katkelma, osa, anton, beton, dystopia, englanninkielinen, ensimmäinen, ensimmäisestä, että, filosofinen, halkeama, halkeamasta, hänen, kehys
+- candidates: betoni, että, osa, halkeama, kieli, mark, anton, englanninkielinen, ensimmäinen, hänen, järjestelmän, katkelma, kun, laitos, muisti, ole, sen, siitä, hän, ihminen, järjestelmä, järjestys, jossa, juuri
+
+Excerpt:
+
+> BETONI BETONI on filosofinen dystopia maailmasta, jossa vakaudesta on tullut vankila, muistia käsitellään uhkana ja ensimmäinen halkeama ilmestyy järjestelmään, joka yhä uskoo olevansa ikuinen. MONOLIITTI-trilogian osa I. Objektiprotokolla Osa I Betoni ei ala seinästä. Se alkaa tavasta kutsua vankilaa vakaudeksi. TAPAUS Nro 2026-001B. Indeksi: 6666548A. TILA: Erittäin salainen. Lue englanninkielinen laitos Google Play Booksissa Lue englanninkielinen laitos Amazonissa Takaisin MONOLIITTIIN Valittu kirjallinen katkelma Luku 9 / § 9.1 Luku 9. ”Ylpeys”-protokolla § 9.1. Paras liima yhteiskunnalle Katkelma paljastaa yhden BETONIN mekanismeista: miten kipu muutetaan iskulauseeksi, syyllisyys yhteiskunnalliseksi liimaksi ja inhimillinen menetys hallittavaksi vakauden kuvaksi. Avaa katkelma Aamu Merkitysten osastolla alkoi ”valkoisella koodilla”. Se tarkoitti, että kaikki käynnissä olevat tehtäv
+
+### fi/books/monolith/gas/index.html
+
+- lang: fi
+- section: books
+- title: Ashraellen — KAASU
+- description: KAASU — MONOLIITTI-trilogian kolmas ja viimeinen osa: romaani vallasta, kokonaiskontrollista ja lähteen, kantajan sekä ympäristön välisen rajan katoamisesta.
+- canonical: https://www.ashraellen.com/fi/books/monolith/gas/
+- H1: KAASU
+- H2: Objektiprotokolla | Valittu kirjallinen katkelma | Kirjasta | Objektin tila | Taiteellis-tutkimuksellinen kehys | Teemat / merkityssolmut | Merkitysrekisteri | Paikka trilogiassa
+- H3: Paikannuksen menetys | Lähde | Kantaja | Havaitsija | Muisti | Diffuusio | Luku 1. Varjojen inventaario | Luku 2. Kasvojen saumat
+- suggested keyword seed: kaasu, ashraellen, books, objektin, osa, alkaa, ennen, gas, ilman, jälkeen, joka, kantajan, katkelma, katoamisesta, kehys, kirjallinen, kirjasta, kokonaiskontrollista
+- candidates: luku, kaasu, sen, oli, ilman, joka, osa, ennen, objektin, alkaa, jälkeen, kuin, kun, nro, objekti, oman, sitten, että, kantaja, kantajan, katkelma, määritetty, sensori, signaalin
+
+Excerpt:
+
+> KAASU MONOLIITIN kolmas osa alkaa kohdasta, jossa järjestelmä säilyttää vielä muotonsa mutta menettää jo oikeuden pitää itseään kaiken tapahtuvan ainoana lähteenä. KAASU muuttaa Victorian tutkimuksen kokeeksi vallan, muistin, havainnon ja itse ympäristön välisestä rajasta. Objektiprotokolla Osa III Kaasu havaitaan harvoin tunkeutumisen hetkellä. Yleensä sen läsnäolo erottuu vasta sen jälkeen, kun se on jo jakautunut ympäristöön. OBJEKTIN TUNNISTUSPROTOKOLLA Nro 2026-001B OBJEKTI: TRANSKRIPTIO ”KAASU” (TÄYSI VERSIO) ARKKITEHTI: ASHRAELLEN TUNNISTE: 2026-001B-GAS EHEYS: 100 % (EI ULKOISTA EDITOINTIA) Lue englanninkielinen laitos Google Play Booksissa Lue englanninkielinen laitos Amazonissa Takaisin MONOLIITTIIN Avaa koko protokolla MERKITYSTEN OSASTO YLEMPI SEKTORI DIFFUUSION VALVONTAJOHTO OBJEKTIN TUNNISTUSPROTOKOLLA Nro 2026-001B OBJEKTI: TRANSKRIPTIO ”KAASU” (TÄYSI VERSIO) ARKKITEHTI: A
+
+### fi/books/monolith/index.html
+
+- lang: fi
+- section: books
+- title: Ashraellen — MONOLIITTI
+- description: MONOLIITTI on kirjallinen ja filosofinen dystopiatrilogia kontrollista, muistista ja järjestelmien romahtamisesta: BETONI, LIETE ja KAASU.
+- canonical: https://www.ashraellen.com/fi/books/monolith/
+- H1: MONOLIITTI
+- H2: Mikä MONOLIITTI on | Osat | Taiteellis-tutkimuksellinen rakenne | Romahtamisen kartta | Mihin tätä ei pidä sekoittaa
+- H3: Osa I — BETONI | Osa II — LIETE | Osa III — KAASU | BETONI | LIETE | KAASU | Ei ennustus | Ei poliittinen käyttöohje
+- suggested keyword seed: monoliitti, ashraellen, betoni, books, kaasu, liete, aineen, avaa, dystopiatrilogia, enää, filosofinen, hän, järjestelmien, kartta, kirjallinen, kontrollista, mihin, mikä
+- candidates: monoliitti, muoto, betoni, kaasu, liete, osa, enää, ole, aineen, avaa, hän, sosiaalisen, tulee, vaan, ympäristön, alkaa, halkeama, hänet, ihminen, järjestelmä, jossa, jota, kartta, kontrolli
+
+Excerpt:
+
+> SOSIAALISEN AINEEN HAJOAMISPROTOKOLLA / BETONI — LIETE — KAASU MONOLIITTI MONOLIITTI on kirjallinen ja filosofinen dystopiatrilogia kontrollista, muistista ja järjestelmien romahtamisesta. Kolme osaa kirjaavat sosiaalisen aineen siirtymän kolmen tilan läpi: BETONI, LIETE ja KAASU — kovettuneesta vakaudesta viskoosiin muodonmuutokseen ja lopulta muodon täydelliseen paineenpurkautumiseen. Järjestelmä ei pelkää kapinaa. Se pelkää ensimmäistä halkeamaa. Trilogian osat Romahtamisen kartta Mihin tätä ei pidä sekoittaa Mikä MONOLIITTI on BETONI / LIETE / KAASU Edessäsi on hallitun romahtamisen kronikka: sosiaalisen aineen vaiheensiirtymä kolmessa tilassa — BETONISSA, LIETTEESSÄ ja KAASUSSA. Tärkeää ei ole tulevaisuuden ennustaminen vaan nykyhetken aine: järjestys, jota on kutsuttu turvallisuudeksi liian pitkään; muisti, jota on helpompi korjata kuin kuunnella; ihminen, joka huomaa halkeaman enn
+
+### fi/books/monolith/sludge/index.html
+
+- lang: fi
+- section: books
+- title: Ashraellen — LIETE
+- description: LIETE on MONOLIITTI-trilogian osa II: filosofinen dystopia viskoosista paineesta, uupuneesta vastarinnasta, osallisuudesta ja muodon menetyksestä.
+- canonical: https://www.ashraellen.com/fi/books/monolith/sludge/
+- H1: LIETE
+- H2: Objektiprotokolla | Valittu kirjallinen katkelma | Kirjasta | Objektin tila | Taiteellis-tutkimuksellinen kehys | Teemalliset solmut | Paikka trilogiassa | Tulkinnan rajat
+- H3: Viskoosi paine | Uupumus | Osallisuus | Muoto | Keho | Hiljaisuus | Tarve | Menettely
+- suggested keyword seed: liete, ashraellen, books, katkelma, osa, alkaa, dystopia, enää, englanninkielinen, filosofinen, hän, ihminen, joka, jossa, kehys, kirjallinen, kirjasta, menetyksestä
+- candidates: vaan, liete, alkaa, ihminen, osa, enää, hän, jossa, oli, englanninkielinen, joka, katkelma, kun, laitos, mikä, mitä, osallisuus, paine, sitä, sitten, vain, adam, edes, että
+
+Excerpt:
+
+> LIETE LIETE on filosofinen dystopia maailmasta, jossa paine ei enää näytä seinältä: se tihkuu arkeen, kieleen ja kehoon, pehmentää rajoja ja muuttaa ihmisen ympäristön materiaaliksi. MONOLIITTI-trilogian osa II: viskoosi muodonmuutos, uupunut vastarinta ja osallisuus tapana. Objektiprotokolla Osa II Ihminen ei murru kerralla. Ensin hän väsyy vastustamaan. Sitten hän alkaa suostua. TAPAUS Nro 2026-001B. Indeksi: 6666548A. TILA: Erittäin salainen. Lue englanninkielinen laitos Google Play Booksissa Lue englanninkielinen laitos Amazonissa Takaisin MONOLIITTIIN Valittu kirjallinen katkelma Luku 6 / § 6.2 Luku 6. Ensimmäiset askeleet lietteen läpi § 6.2. Sirpaleiden säilytysvarastot Katkelma näyttää, miten tavallinen tarve, ritualisoitu menettely, pelko, hiljaisuus ja osallisuus muuttuvat LIETTEEN jokapäiväiseksi koostumukseksi. Avaa katkelma Aamiaiseksi he saivat puuroa. Ei ruokaa inhimillise
 
 ### fi/contact.html
 
