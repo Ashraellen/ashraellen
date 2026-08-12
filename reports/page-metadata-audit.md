@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T13:04:11.320Z
+Generated: 2026-08-12T13:04:58.581Z
 
 Pages checked: 841
 Pages with issues: 320
-Total issues: 1961
+Total issues: 1955
 Pages with review notes: 616
 Total review notes: 2164
 
@@ -12,22 +12,22 @@ Total review notes: 2164
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 251 |
-| MISSING_TWITTER_IMAGE | 249 |
-| MISSING_TWITTER_CARD | 219 |
-| MISSING_OG_DESCRIPTION | 218 |
-| MISSING_JSON_LD | 215 |
-| MISSING_OG_IMAGE | 209 |
-| MISSING_OG_TITLE | 202 |
+| MISSING_KEYWORDS | 250 |
+| MISSING_TWITTER_IMAGE | 248 |
+| MISSING_TWITTER_CARD | 218 |
+| MISSING_OG_DESCRIPTION | 217 |
+| MISSING_JSON_LD | 214 |
+| MISSING_OG_IMAGE | 208 |
+| MISSING_OG_TITLE | 201 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
 | DUPLICATE_TITLE | 44 |
 | DUPLICATE_OG_TITLE | 42 |
 | DUPLICATE_KEYWORDS | 36 |
-| DESCRIPTION_TOO_SHORT | 31 |
-| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 7 |
-| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 7 |
+| DESCRIPTION_TOO_SHORT | 30 |
+| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 8 |
+| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 8 |
 
 
 ## Review note summary
@@ -1665,19 +1665,13 @@ Total review notes: 2164
 ### fi/public/thoughts/arcs/0019-do-not-bomb.html
 
 - title: Ashraellen — Älä pommita
-- description length: 58
+- description length: 109
 - canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0019-do-not-bomb.html
-- og:image: _missing_
-- twitter:image: _missing_
+- og:image: https://www.ashraellen.com/assets/thoughts/0019-do-not-bomb.jpg
+- twitter:image: https://www.ashraellen.com/assets/thoughts/0019-do-not-bomb.jpg
 
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_TITLE
-- MISSING_OG_DESCRIPTION
-- MISSING_OG_IMAGE
-- MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
-- DESCRIPTION_TOO_SHORT: 58
+- OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0019-do-not-bomb.jpg
+- TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0019-do-not-bomb.jpg
 
 ### fi/public/thoughts/arcs/0020-people-and-mass.html
 

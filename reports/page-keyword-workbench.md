@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T13:04:12.009Z
+Generated: 2026-08-12T13:04:59.248Z
 Pages: 842
 
 ## Index
@@ -347,7 +347,7 @@ Pages: 842
 | fi/public/thoughts/arcs/0016-one-fact.html | fi | public | Ashraellen — Oli yksi fakta | Ashraellen, tukiajatus, fakta, tulkinta, ahdistus | fakta, yksi, oli, 0016, ajatus, ashraellen, mitä, public, tiedän, varmasti, arcs, fact, itse, joku, kärsimyssarjaksi, koko, kokonaiseksi, kuin |
 | fi/public/thoughts/arcs/0017-witness-does-not-interfere.html | fi | public | Ashraellen — Todistaja ei puutu väliin | Ashraellen, tukiajatus, todistaja, rauhallisuus, läsnäolo | todistaja, aikojaan, ajatus, ashraellen, ennen, näkyväksi, ole, public, puutu, vaan, väliin, 0017, arcs, does, estämättä, ihminen, interfere, joka |
 | fi/public/thoughts/arcs/0018-image-cannot-be-happy.html | fi | public | Ashraellen — Kuva ei voi olla onnellinen | Ashraellen, tukiajatus, minäkuva, aitous, itsensä toteuttaminen | voi, kuva, olla, onnellinen, ajatus, ashraellen, elää, ihminen, mutta, public, 0018, arcs, cannot, elävä, hänen, happy, ihmisen, image |
-| fi/public/thoughts/arcs/0019-do-not-bomb.html | fi | public | Ashraellen — Älä pommita | _missing_ | älä, pommita, ajatus, ashraellen, niin, pommiteta, public, tämä, 0019, arcs, bomb, ensin, että, hän, ihminen, koko, maailmaan, miksi |
+| fi/public/thoughts/arcs/0019-do-not-bomb.html | fi | public | Ashraellen — Älä pommita | Ashraellen, tukiajatus, aggressio, vastuu, aselepo | älä, pommita, ajatus, alkaa, ashraellen, hän, ihminen, maailmaan, mitä, public, tämä, 0019, arcs, bomb, elää, ensin, että, ilmapiiriä |
 | fi/public/thoughts/arcs/0020-people-and-mass.html | fi | public | Ashraellen — Kansa ja massa | _missing_ | kansa, massa, ajatus, ashraellen, public, 0020, arcs, hänen, ihminen, kansan, koko, mass, massan, miksi, minä, minussa, mitä, muistaa |
 | fi/public/thoughts/arcs/0021-mating-games.html | fi | public | Ashraellen — Parittelupelit | _missing_ | ajatus, alkavat, ashraellen, jonka, koko, parittelupelit, public, 0021, arcs, games, hän, joka, joku, jotkut, kauan, kun, mating, miksi |
 | fi/public/thoughts/arcs/0022-spirituality-is-not-forced.html | fi | public | Ashraellen — Hengellisyyttä ei pakoteta | _missing_ | hengellisyyttä, pakoteta, ajatus, ashraellen, ihastutaan, public, 0022, arcs, että, forced, hengellisyys, koko, määrätä, miksi, pelko, sielu, siihen, siksi |
@@ -6637,13 +6637,13 @@ Excerpt:
 - lang: fi
 - section: public
 - title: Ashraellen — Älä pommita
-- description: Tukiajatus 0019: älä pommita, niin sinuakaan ei pommiteta.
+- description: Tukiajatus 0019: mitä ihminen lähettää maailmaan, alkaa vähitellen muodostaa ilmapiiriä, jossa hän itse elää.
 - canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0019-do-not-bomb.html
 - H1: Älä pommita
 - H2: Ajatus | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
 - H3: _missing_
-- suggested keyword seed: älä, pommita, ajatus, ashraellen, niin, pommiteta, public, tämä, 0019, arcs, bomb, ensin, että, hän, ihminen, koko, maailmaan, miksi
-- candidates: hän, älä, pommita, ensin, ihminen, sitten, tämä, ajatus, että, maailmaan, niin, pommiteta, sinuakaan, hänen, jos, mitä, 0019, aggression, aina, alkaa, hiljaisuuskin, jaloksi, koko, lähettää
+- suggested keyword seed: älä, pommita, ajatus, alkaa, ashraellen, hän, ihminen, maailmaan, mitä, public, tämä, 0019, arcs, bomb, elää, ensin, että, ilmapiiriä
+- candidates: hän, ihminen, älä, ensin, maailmaan, pommita, sitten, tämä, ajatus, että, mitä, alkaa, hänen, jos, lähettää, niin, pommiteta, sinuakaan, 0019, aggression, aina, elää, hiljaisuuskin, itse
 
 Excerpt:
 
