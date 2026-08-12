@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T14:56:57.171Z",
+  "generated": "2026-08-12T14:58:00.149Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -22117,12 +22117,12 @@
       "page": "fi/books/radiance/song/index.html",
       "lang": "fi",
       "section": "books",
-      "title": "Ashraellen — Song | RADIANCE, Kirja II",
-      "description": "Song on RADIANCE-sarjan toinen kirja: romaani äänestä, kuulemisesta, kielestä, kaupungista ja laulusta, joka ei suostu muuttumaan numeroksi.",
+      "title": "Ashraellen — Laulu | HOHDE, Kirja II",
+      "description": "Laulu on HOHDE-sarjan toinen kirja: romaani äänestä, kuulemisesta, kielestä, kaupungista ja laulusta, joka ei suostu muuttumaan numeroksi.",
       "existingKeywords": "",
       "canonical": "https://www.ashraellen.com/fi/books/radiance/song/",
       "h1": [
-        "Song"
+        "Laulu"
       ],
       "h2": [
         "Kirjasta",
@@ -22137,11 +22137,11 @@
         "radiance",
         "song"
       ],
-      "excerpt": "RADIANCE — pohjoisia kertomuksia maailman todellisesta historiasta Song RADIANCE-sarjan toinen kirja. Romaani äänestä, joka ei ota valtaa: kuulemisesta, kielestä, kaupungista, työstä ja laulusta, joka ei suostu muuttumaan mittariksi. Sammon jälkeen runsauden kysymys vaihtuu sanan kysymykseen: voiko kieli olla jotain muuta kuin mielipide, argumentti tai itsensä esittely — voiko se virittää? Englanninkielinen kansi. Ashraellen. Kirjasta kuuleminen ennen hallintaa Song alkaa tavallisesta melusta. Junan kuulutuksesta, liikennevalon piippauksesta, ratikasta, jääkaapista, ihmisten puheesta — kaikesta siitä, minkä kaupunkilainen oppii suodattamaan taustaksi. Kun tausta lakkaa olemasta tausta, maailma ei muutu mystiseksi. Se muuttuu liian kuuluvaksi. Ääni ei enää vain kanna tietoa; se alkaa paljastaa, missä järjestyksessä ihminen asettuu suhteeseen ympäristönsä kanssa. Kirjan keskeinen kysymys e",
+      "excerpt": "HOHDE — pohjoisia kertomuksia maailman todellisesta historiasta Laulu HOHDE-sarjan toinen kirja. Romaani äänestä, joka ei ota valtaa: kuulemisesta, kielestä, kaupungista, työstä ja laulusta, joka ei suostu muuttumaan mittariksi. Sammon jälkeen runsauden kysymys vaihtuu sanan kysymykseen: voiko kieli olla jotain muuta kuin mielipide, argumentti tai itsensä esittely — voiko se virittää? Englanninkielinen kansi. Ashraellen. Kirjasta kuuleminen ennen hallintaa Laulu alkaa tavallisesta melusta. Junan kuulutuksesta, liikennevalon piippauksesta, ratikasta, jääkaapista, ihmisten puheesta — kaikesta siitä, minkä kaupunkilainen oppii suodattamaan taustaksi. Kun tausta lakkaa olemasta tausta, maailma ei muutu mystiseksi. Se muuttuu liian kuuluvaksi. Ääni ei enää vain kanna tietoa; se alkaa paljastaa, missä järjestyksessä ihminen asettuu suhteeseen ympäristönsä kanssa. Kirjan keskeinen kysymys ei ol",
       "candidates": [
+        "laulu",
         "vain",
         "joka",
-        "song",
         "kirja",
         "oli",
         "alkaa",
@@ -22156,33 +22156,33 @@
         "englanninkielinen",
         "hänet",
         "hengitystä",
+        "hohde",
+        "hohde-sarjan",
         "ihminen",
         "kansi",
         "kaupungista",
         "kielestä",
-        "kieltä",
-        "kun",
-        "kuulemisesta"
+        "kieltä"
       ],
       "suggestedKeywordSeed": [
-        "song",
+        "laulu",
         "ashraellen",
         "kirja",
         "äänestä",
         "books",
         "joka",
-        "radiance",
         "ääni",
         "alkaa",
         "ennen",
+        "hohde",
+        "hohde-sarjan",
         "julkaisutilanne",
         "katkelma",
         "kaupungista",
         "kielestä",
         "kieli",
         "kirjasta",
-        "kuulemisesta",
-        "laulusta"
+        "kuulemisesta"
       ]
     },
     {

@@ -1,6 +1,6 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T14:56:56.495Z
+Generated: 2026-08-12T14:57:59.492Z
 
 Pages checked: 841
 Pages with issues: 310
@@ -1013,8 +1013,8 @@ Total review notes: 2216
 
 ### fi/books/radiance/song/index.html
 
-- title: Ashraellen — Song | RADIANCE, Kirja II
-- description length: 140
+- title: Ashraellen — Laulu | HOHDE, Kirja II
+- description length: 138
 - canonical: https://www.ashraellen.com/fi/books/radiance/song/
 - og:image: https://www.ashraellen.com/assets/covers/song-cover-en.webp
 - twitter:image: _missing_
@@ -7424,7 +7424,7 @@ Total review notes: 2216
 
 ### fi/books/radiance/song/index.html
 
-- title: Ashraellen — Song | RADIANCE, Kirja II
+- title: Ashraellen — Laulu | HOHDE, Kirja II
 - og:image: https://www.ashraellen.com/assets/covers/song-cover-en.webp
 - twitter:image: _missing_
 
