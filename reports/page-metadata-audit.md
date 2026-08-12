@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T13:22:24.766Z
+Generated: 2026-08-12T13:23:25.750Z
 
 Pages checked: 841
 Pages with issues: 320
-Total issues: 1912
+Total issues: 1907
 Pages with review notes: 616
 Total review notes: 2164
 
@@ -12,13 +12,13 @@ Total review notes: 2164
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 242 |
-| MISSING_TWITTER_IMAGE | 240 |
-| MISSING_TWITTER_CARD | 210 |
-| MISSING_OG_DESCRIPTION | 209 |
-| MISSING_JSON_LD | 206 |
-| MISSING_OG_IMAGE | 200 |
-| MISSING_OG_TITLE | 193 |
+| MISSING_KEYWORDS | 241 |
+| MISSING_TWITTER_IMAGE | 239 |
+| MISSING_TWITTER_CARD | 209 |
+| MISSING_OG_DESCRIPTION | 208 |
+| MISSING_JSON_LD | 205 |
+| MISSING_OG_IMAGE | 199 |
+| MISSING_OG_TITLE | 192 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
@@ -26,8 +26,8 @@ Total review notes: 2164
 | DUPLICATE_OG_TITLE | 42 |
 | DUPLICATE_KEYWORDS | 36 |
 | DESCRIPTION_TOO_SHORT | 27 |
-| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 16 |
-| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 16 |
+| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 17 |
+| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 17 |
 
 
 ## Review note summary
@@ -1447,16 +1447,11 @@ Total review notes: 2164
 - title: Ashraellen — Rajallisuus herättää kysymyksen
 - description length: 120
 - canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0004-mortality-awakens.html
-- og:image: _missing_
-- twitter:image: _missing_
+- og:image: https://www.ashraellen.com/assets/thoughts/0004-mortality-awakens.jpg
+- twitter:image: https://www.ashraellen.com/assets/thoughts/0004-mortality-awakens.jpg
 
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_TITLE
-- MISSING_OG_DESCRIPTION
-- MISSING_OG_IMAGE
-- MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
+- OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0004-mortality-awakens.jpg
+- TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0004-mortality-awakens.jpg
 
 ### fi/public/thoughts/arcs/0005-on-your-own.html
 
