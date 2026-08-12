@@ -1,12 +1,12 @@
 # Page Metadata Audit
 
-Generated: 2026-08-11T17:43:03.073Z
+Generated: 2026-08-12T10:44:25.374Z
 
-Pages checked: 772
-Pages with issues: 247
-Total issues: 1591
-Pages with review notes: 597
-Total review notes: 2136
+Pages checked: 773
+Pages with issues: 248
+Total issues: 1592
+Pages with review notes: 598
+Total review notes: 2138
 
 ## Issue summary
 
@@ -22,9 +22,9 @@ Total review notes: 2136
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
-| DUPLICATE_KEYWORDS | 37 |
-| DUPLICATE_TITLE | 34 |
-| DUPLICATE_OG_TITLE | 32 |
+| DUPLICATE_KEYWORDS | 36 |
+| DUPLICATE_TITLE | 35 |
+| DUPLICATE_OG_TITLE | 33 |
 | DESCRIPTION_TOO_SHORT | 20 |
 
 
@@ -32,8 +32,8 @@ Total review notes: 2136
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 597 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 577 |
+| DUPLICATE_OG_IMAGE_REVIEW | 598 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 578 |
 | FALLBACK_OG_IMAGE_USED | 491 |
 | FALLBACK_TWITTER_IMAGE_USED | 471 |
 
@@ -223,10 +223,21 @@ Total review notes: 2136
 - DUPLICATE_KEYWORDS: shared by 5 pages
 - DUPLICATE_OG_TITLE: shared by 5 pages
 
+### de/books/monolith/gas/index.html
+
+- title: Ashraellen — GAS
+- description length: 155
+- canonical: https://www.ashraellen.com/de/books/monolith/gas/
+- og:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
+
 ### de/books/monolith/index.html
 
 - title: Ashraellen — MONOLITH
-- description length: 145
+- description length: 146
 - canonical: https://www.ashraellen.com/de/books/monolith/
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
@@ -234,18 +245,6 @@ Total review notes: 2136
 - DUPLICATE_TITLE: shared by 5 pages
 - DUPLICATE_KEYWORDS: shared by 4 pages
 - DUPLICATE_OG_TITLE: shared by 5 pages
-
-### de/books/monolith/sludge/index.html
-
-- title: Ashraellen — SLUDGE
-- description length: 142
-- canonical: https://www.ashraellen.com/de/books/monolith/sludge/
-- og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
-- twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
-
-- DUPLICATE_TITLE: shared by 4 pages
-- DUPLICATE_KEYWORDS: shared by 4 pages
-- DUPLICATE_OG_TITLE: shared by 4 pages
 
 ### de/books/radiance/index.html
 
@@ -373,6 +372,17 @@ Total review notes: 2136
 - DUPLICATE_KEYWORDS: shared by 5 pages
 - DUPLICATE_OG_TITLE: shared by 5 pages
 
+### en/books/monolith/gas/index.html
+
+- title: Ashraellen — GAS
+- description length: 168
+- canonical: https://www.ashraellen.com/en/books/monolith/gas/
+- og:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
+
 ### en/books/monolith/index.html
 
 - title: Ashraellen — MONOLITH
@@ -393,9 +403,9 @@ Total review notes: 2136
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_TITLE: shared by 4 pages
-- DUPLICATE_KEYWORDS: shared by 4 pages
-- DUPLICATE_OG_TITLE: shared by 4 pages
+- DUPLICATE_TITLE: shared by 3 pages
+- DUPLICATE_KEYWORDS: shared by 3 pages
+- DUPLICATE_OG_TITLE: shared by 3 pages
 
 ### en/books/radiance/index.html
 
@@ -758,9 +768,9 @@ Total review notes: 2136
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_TITLE: shared by 4 pages
-- DUPLICATE_KEYWORDS: shared by 4 pages
-- DUPLICATE_OG_TITLE: shared by 4 pages
+- DUPLICATE_TITLE: shared by 3 pages
+- DUPLICATE_KEYWORDS: shared by 3 pages
+- DUPLICATE_OG_TITLE: shared by 3 pages
 
 ### es/books/radiance/index.html
 
@@ -936,9 +946,9 @@ Total review notes: 2136
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_TITLE: shared by 4 pages
-- DUPLICATE_KEYWORDS: shared by 4 pages
-- DUPLICATE_OG_TITLE: shared by 4 pages
+- DUPLICATE_TITLE: shared by 3 pages
+- DUPLICATE_KEYWORDS: shared by 3 pages
+- DUPLICATE_OG_TITLE: shared by 3 pages
 
 ### fr/books/radiance/index.html
 
@@ -4596,6 +4606,15 @@ Total review notes: 2136
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
+### de/books/monolith/gas/index.html
+
+- title: Ashraellen — GAS
+- og:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 3 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 3 pages
+
 ### de/books/monolith/index.html
 
 - title: Ashraellen — MONOLITH
@@ -4607,7 +4626,7 @@ Total review notes: 2136
 
 ### de/books/monolith/sludge/index.html
 
-- title: Ashraellen — SLUDGE
+- title: Ashraellen — SCHLAMM
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
@@ -5289,8 +5308,8 @@ Total review notes: 2136
 - og:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 3 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 3 pages
 
 ### en/books/monolith/index.html
 
@@ -8052,8 +8071,8 @@ Total review notes: 2136
 - og:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 3 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 3 pages
 
 ### pt/books/monolith/index.html
 

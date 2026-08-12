@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-11T17:43:03.733Z
-Pages: 773
+Generated: 2026-08-12T10:44:26.014Z
+Pages: 774
 
 ## Index
 
@@ -81,8 +81,9 @@ Pages: 773
 | de/books/error-404-god-not-found/why-me/index.html | de | books | Ashraellen — Warum ich? | _missing_ | ich, der, die, warum, ashraellen, books, buch, das, ein, nicht, über, und, 404, auf, auszug, bedeutungsschichten, beschwerde, buches |
 | de/books/index.html | de | books | Ashraellen — Bücher | Ashraellen, Bücher, Demotopia, Demokratische Utopie, MONOLITH, RADIANCE, ERROR 404, SECCUS, Du bist bereits online, The Book of Whinesis, samizdat 2.0, Autorenausgaben | bücher, ashraellen, autorenausgaben, und, books, buch, das, direkte, satire, über, 2.0, 404, bereits, bist, book, buchzyklen, demotopia, der |
 | de/books/monolith/beton/index.html | de | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ist, ashraellen, books, buch, das, den, der, für, monolith, über, und, akte, als, ausgewählter, auszug, band, bedeutungsknoten |
-| de/books/monolith/index.html | de | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ist, der, und, ashraellen, books, den, eine, erinnerung, gas, kontrolle, nicht, was, bände, beton, darf, des, die |
-| de/books/monolith/sludge/index.html | de | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, ashraellen, books, das, für, monolith, über, und, akte, als, ausgewählter, auszug, autor, band, buch, dem, den, der |
+| de/books/monolith/gas/index.html | de | books | Ashraellen — GAS | Ashraellen, MONOLITH, GAS, dritter Band, Viktoria, Macht, Kontrolle, Erinnerung, Lokalisierung, Medium, Signal, Dystopie | der, gas, und, ashraellen, books, das, den, des, über, akte, ausgewählter, auszug, band, bedeutungen, bedeutungsknoten, buch, dem, die |
+| de/books/monolith/index.html | de | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research | monolith, ist, der, und, ashraellen, books, den, eine, erinnerung, kontrolle, nicht, was, als, bände, beton, darf, des, die |
+| de/books/monolith/sludge/index.html | de | books | Ashraellen — SCHLAMM | Ashraellen, MONOLITH, SCHLAMM, dystopia, literature, artistic research | schlamm, ashraellen, books, das, für, monolith, über, und, akte, als, ausgewählter, auszug, autor, band, buch, dem, den, der |
 | de/books/radiance/index.html | de | books | Ashraellen — Glanz \| Nordische Geschichten über die wahre Geschichte der Welt | Ashraellen, Glanz, Sampo, Lied, Bücher, literary-philosophical, artistic research | glanz, ist, der, die, für, geschichten, welt, ashraellen, books, ein, was, als, alte, anleitungskarte, anweisungen, bewahren, bildhafte, buch |
 | de/books/radiance/sampo/index.html | de | books | Ashraellen — Sampo \| Glanz, Buch I | Ashraellen, Glanz, Sampo, Lied, Bücher, literary-philosophical, artistic research | und, sampo, buch, das, der, ist, ashraellen, books, eine, für, glanz, nicht, über, arbeit, auf, besitz, den, die |
 | de/books/radiance/song/index.html | de | books | Ashraellen — Lied \| Glanz, Buch II | Ashraellen, Glanz, Sampo, Lied, Bücher, literary-philosophical, artistic research | das, lied, und, buch, ashraellen, books, der, eine, für, glanz, nicht, sprache, über, auf, den, die, ein, eines |
@@ -2039,41 +2040,58 @@ Excerpt:
 
 Excerpt:
 
-> BETON BETON ist eine philosophische Dystopie über eine Welt, in der Stabilität zum Gefängnis geworden ist, Erinnerung als Gefahr gilt und der erste Riss in einem System entsteht, das sich noch immer für ewig hält. Band I der MONOLITH-Trilogie. Akte Band I Beton beginnt nicht mit einer Wand. Er beginnt mit der Gewohnheit, ein Gefängnis Stabilität zu nennen. AKTE NR. 2026-001B. Index: 6666548A. STATUS: Streng geheim. Russische Ausgabe bei Google Play Books lesen Englische Ausgabe bei Amazon lesen Zurück zu MONOLITH Ausgewählter Auszug Kapitel 9 / § 9.1 Kapitel 9. Das Protokoll „Stolz“ § 9.1. Der beste Klebstoff für die Gesellschaft Der Auszug zeigt einen Mechanismus von BETON: wie Schmerz in einen Slogan, Schuld in sozialen Klebstoff und menschlicher Verlust in ein steuerbares Bild von Stabilität verwandelt werden. Vollständigen Auszug öffnen Kapitel 9. Das Protokoll „Stolz“ § 9.1. Der bes
+> BETON BETON ist eine philosophische Dystopie über eine Welt, in der Stabilität zum Gefängnis geworden ist, Erinnerung als Gefahr gilt und der erste Riss in einem System entsteht, das sich noch immer für ewig hält. Band I der MONOLITH-Trilogie. Akte Band I Beton beginnt nicht mit einer Wand. Er beginnt mit der Gewohnheit, ein Gefängnis Stabilität zu nennen. AKTE NR. 2026-001B. Index: 6666548A. STATUS: Streng geheim. Englische Ausgabe bei Google Play Books lesen Englische Ausgabe bei Amazon lesen Zurück zu MONOLITH Ausgewählter Auszug Kapitel 9 / § 9.1 Kapitel 9. Das Protokoll „Stolz“ § 9.1. Der beste Klebstoff für die Gesellschaft Der Auszug zeigt einen Mechanismus von BETON: wie Schmerz in einen Slogan, Schuld in sozialen Klebstoff und menschlicher Verlust in ein steuerbares Bild von Stabilität verwandelt werden. Vollständigen Auszug öffnen Kapitel 9. Das Protokoll „Stolz“ § 9.1. Der bes
+
+### de/books/monolith/gas/index.html
+
+- lang: de
+- section: books
+- title: Ashraellen — GAS
+- description: GAS — dritter und letzter Band der MONOLITH-Trilogie: ein Roman über Macht, totale Kontrolle und den Verlust der Grenze zwischen Quelle, Träger und Medium.
+- canonical: https://www.ashraellen.com/de/books/monolith/gas/
+- H1: GAS
+- H2: Akte | Ausgewählter Auszug | Über das Buch | Status des Objekts | Künstlerisch-forschender Rahmen | Themen / Bedeutungsknoten | Register der Bedeutungen | Stellung in der Trilogie
+- H3: Lokalisierungsverlust | Quelle | Träger | Beobachter | Erinnerung | Diffusion | Kapitel 1. Inventar der Schatten | Kapitel 2. Nähte des Gesichts
+- suggested keyword seed: der, gas, und, ashraellen, books, das, den, des, über, akte, ausgewählter, auszug, band, bedeutungen, bedeutungsknoten, buch, dem, die
+- candidates: die, der, und, des, das, nicht, den, kapitel, dem, sich, von, eine, gas, sie, auf, ohne, träger, einer, medium, ein, ist, war, wurde, band
+
+Excerpt:
+
+> GAS Der dritte Band von MONOLITH beginnt dort, wo das System seine Form noch bewahrt, aber bereits das Recht verliert, sich für die einzige Quelle des Geschehens zu halten. GAS macht Viktorias Untersuchung zu einer Prüfung der Grenze selbst — zwischen Macht, Erinnerung, Beobachtung und Medium. Akte Band III Gas wird nur selten im Augenblick seines Eindringens erkannt. Meist wird seine Anwesenheit erst wahrnehmbar, wenn es sich bereits im Medium verteilt hat. PROTOKOLL ZUR IDENTIFIZIERUNG DES OBJEKTS NR. 2026-001B OBJEKT: TRANSKRIPTION „GAS“ (VOLLSTÄNDIGE FASSUNG) ARCHITEKT: ASHRAELLEN IDENTIFIKATOR: 2026-001B-GAS INTEGRITÄT: 100 % (OHNE EXTERNE REDAKTION) Englische Ausgabe bei Google Play Books lesen Englische Ausgabe bei Amazon lesen Zurück zu MONOLITH Vollständiges Protokoll öffnen DEPARTMENT FÜR BEDEUTUNGEN OBERER SEKTOR DIREKTION ZUR KONTROLLE DER AUSBREITUNG PROTOKOLL ZUR IDENTIFIZI
 
 ### de/books/monolith/index.html
 
 - lang: de
 - section: books
 - title: Ashraellen — MONOLITH
-- description: MONOLITH ist eine literarisch-philosophische dystopische Trilogie über Kontrolle, Erinnerung und den Zerfall von Systemen: BETON, SLUDGE und GAS.
+- description: MONOLITH ist eine literarisch-philosophische dystopische Trilogie über Kontrolle, Erinnerung und den Zerfall von Systemen: BETON, SCHLAMM und GAS.
 - canonical: https://www.ashraellen.com/de/books/monolith/
 - H1: MONOLITH
 - H2: Was MONOLITH ist | Bände | Künstlerisch-forschender Rahmen | Karte des Zerfalls | Für wen dieses Projekt ist | Was nicht verwechselt werden darf | Der Satz der Reihe
-- H3: Band I — BETON | Band II — SLUDGE | Band III — GAS | BETON | SLUDGE | GAS | Leser | Verlage / Partner / Übersetzer
-- suggested keyword seed: monolith, ist, der, und, ashraellen, books, den, eine, erinnerung, gas, kontrolle, nicht, was, bände, beton, darf, des, die
-- candidates: die, der, und, ist, nicht, eine, monolith, erinnerung, form, den, gas, kontrolle, als, beton, das, sludge, des, ein, wird, riss, seine, sondern, über, was
+- H3: Band I — BETON | Band II — SCHLAMM | Band III — GAS | BETON | SCHLAMM | GAS | Leser | Verlage / Partner / Übersetzer
+- suggested keyword seed: monolith, ist, der, und, ashraellen, books, den, eine, erinnerung, kontrolle, nicht, was, als, bände, beton, darf, des, die
+- candidates: die, der, und, ist, nicht, eine, monolith, erinnerung, form, den, kontrolle, als, beton, das, gas, schlamm, des, ein, wird, zum, riss, seine, sondern, über
 
 Excerpt:
 
-> PROTOKOLL DES ZERFALLS SOZIALER MATERIE / BETON — SLUDGE — GAS MONOLITH MONOLITH ist eine literarisch-philosophische dystopische Trilogie über Kontrolle, Erinnerung und den Zerfall von Systemen. Drei Bände halten den Übergang sozialer Materie durch drei Zustände fest: BETON, SLUDGE und GAS — von verhärteter Stabilität über zähflüssige Verformung bis zur vollständigen Dekompression der Form. Das System fürchtet nicht den Aufstand. Es fürchtet den ersten Riss. Bände der Trilogie Karte des Zerfalls Was nicht verwechselt werden darf Was MONOLITH ist BETON / SLUDGE / GAS Vor Ihnen liegt eine Chronik des kontrollierten Zerfalls: die fortlaufende Aufzeichnung des Phasenübergangs sozialer Materie, festgehalten in drei Aggregatzuständen — BETON, SLUDGE und GAS. Entscheidend ist hier nicht eine Prognose der Zukunft, sondern das Material der Gegenwart: eine Ordnung, die zu lange Sicherheit genannt 
+> PROTOKOLL DES ZERFALLS SOZIALER MATERIE / BETON — SCHLAMM — GAS MONOLITH MONOLITH ist eine literarisch-philosophische dystopische Trilogie über Kontrolle, Erinnerung und den Zerfall von Systemen. Drei Bände halten den Übergang sozialer Materie durch drei Zustände fest: BETON, SCHLAMM und GAS — von verhärteter Stabilität über zähflüssige Verformung bis zur vollständigen Dekompression der Form. Das System fürchtet nicht den Aufstand. Es fürchtet den ersten Riss. Bände der Trilogie Karte des Zerfalls Was nicht verwechselt werden darf Was MONOLITH ist BETON / SCHLAMM / GAS Vor Ihnen liegt eine Chronik des kontrollierten Zerfalls: die fortlaufende Aufzeichnung des Phasenübergangs sozialer Materie, festgehalten in drei Aggregatzuständen — BETON, SCHLAMM und GAS. Entscheidend ist hier nicht eine Prognose der Zukunft, sondern das Material der Gegenwart: eine Ordnung, die zu lange Sicherheit gena
 
 ### de/books/monolith/sludge/index.html
 
 - lang: de
 - section: books
-- title: Ashraellen — SLUDGE
-- description: SLUDGE ist Band II von MONOLITH: eine philosophische Dystopie über zähflüssigen Druck, erschöpften Widerstand, Mittäterschaft und Formverlust.
+- title: Ashraellen — SCHLAMM
+- description: SCHLAMM ist Band II von MONOLITH: eine philosophische Dystopie über zähflüssigen Druck, erschöpften Widerstand, Mittäterschaft und Formverlust.
 - canonical: https://www.ashraellen.com/de/books/monolith/sludge/
-- H1: SLUDGE
+- H1: SCHLAMM
 - H2: Akte | Ausgewählter Auszug | Über das Buch | Vom Autor | Ohne Spoiler | Künstlerisch-forschender Rahmen | Themen | Für wen
 - H3: Zähflüssigkeit | Erschöpfung | Hunger | Ritual | Mittäterschaft | Formverlust
-- suggested keyword seed: sludge, ashraellen, books, das, für, monolith, über, und, akte, als, ausgewählter, auszug, autor, band, buch, dem, den, der
-- candidates: der, und, die, das, nicht, den, ein, wie, für, als, dem, mit, war, des, eine, sie, von, adam, ist, nur, sich, sludge, sondern, wird
+- suggested keyword seed: schlamm, ashraellen, books, das, für, monolith, über, und, akte, als, ausgewählter, auszug, autor, band, buch, dem, den, der
+- candidates: der, und, die, das, nicht, den, ein, wie, für, als, dem, mit, war, des, eine, schlamm, sie, von, adam, ist, nur, sich, sondern, wird
 
 Excerpt:
 
-> SLUDGE SLUDGE ist eine philosophische Dystopie über eine Welt, in der Druck nicht mehr einer Wand gleicht: Er sickert in Alltag, Sprache und Körper ein, verwischt Grenzen und macht den Menschen zum Material seiner Umgebung. Band II der MONOLITH-Trilogie: zähflüssige Verformung, erschöpfter Widerstand und Mittäterschaft als Gewohnheit. Akte Band II Ein Mensch zerbricht nicht sofort. Zuerst wird er des Widerstands müde. Dann beginnt er zuzustimmen. AKTE NR. 2026-001B. Index: 6666548A. STATUS: Streng geheim. Russische Ausgabe bei Google Play Books lesen Englische Ausgabe bei Amazon lesen Zurück zu MONOLITH Ausgewählter Auszug Kapitel 6 / § 6.2 Kapitel 6. Erste Schritte durch SLUDGE. § 6.2. Lager zur Bewahrung von Splittern Der Auszug zeigt, wie gewöhnliche Not, ritualisierte Abläufe, Angst, Schweigen und Mittäterschaft zum alltäglichen Stoff von SLUDGE werden. Vollständigen Auszug öffnen Ka
+> SCHLAMM SCHLAMM ist eine philosophische Dystopie über eine Welt, in der Druck nicht mehr einer Wand gleicht: Er sickert in Alltag, Sprache und Körper ein, verwischt Grenzen und macht den Menschen zum Material seiner Umgebung. Band II der MONOLITH-Trilogie: zähflüssige Verformung, erschöpfter Widerstand und Mittäterschaft als Gewohnheit. Akte Band II Ein Mensch zerbricht nicht sofort. Zuerst wird er des Widerstands müde. Dann beginnt er zuzustimmen. AKTE NR. 2026-001B. Index: 6666548A. STATUS: Streng geheim. Englische Ausgabe bei Google Play Books lesen Englische Ausgabe bei Amazon lesen Zurück zu MONOLITH Ausgewählter Auszug Kapitel 6 / § 6.2 Kapitel 6. Erste Schritte durch SCHLAMM. § 6.2. Lager zur Bewahrung von Splittern Der Auszug zeigt, wie gewöhnliche Not, ritualisierte Abläufe, Angst, Schweigen und Mittäterschaft zum alltäglichen Stoff von SCHLAMM werden. Vollständigen Auszug öffne
 
 ### de/books/radiance/index.html
 
@@ -8733,11 +8751,11 @@ Excerpt:
 - H2: Dossiê | Trecho selecionado | Sobre o livro | Sem spoilers | Estrutura artístico-investigativa | Temas / nós de sentido | Para quem é este livro | Lugar na trilogia
 - H3: Estabilidade | Memória | Ruído | Correção | Departamento dos Sentidos | A fissura
 - suggested keyword seed: betão, ashraellen, books, estabilidade, livro, memória, para, sobre, uma, anton, artístico-investigativa, beton, com, como, dentro, distopia, dossiê, editada
-- candidates: que, uma, não, para, como, com, betão, estabilidade, anton, memória, mark, por, fissura, monólito, sistema, sua, primeira, ruído, ser, volume, apenas, departamento, edição, eles
+- candidates: que, uma, não, betão, como, para, com, estabilidade, anton, memória, mark, por, fissura, monólito, sistema, primeira, ruído, ser, volume, departamento, edição, interior, pessoa, sentidos
 
 Excerpt:
 
-> BETÃO BETÃO é uma distopia filosófica sobre um mundo em que a estabilidade se tornou prisão, a memória é tratada como ameaça e a primeira fissura surge dentro de um sistema que ainda se acredita eterno. Volume I da trilogia MONÓLITO. Dossiê Volume I O concreto não começa com uma parede. Começa com o hábito de chamar uma prisão de estabilidade. DOSSIÊ N.º 2026-001B. Índice: 6666548A. STATUS: Ultrassecreto. Ler a edição inglesa no Google Play Books Ler a edição inglesa na Amazon Voltar ao MONÓLITO Trecho selecionado Capítulo 9 / § 9.1 Capítulo 9. Protocolo “Orgulho” § 9.1. A melhor cola para a sociedade O trecho mostra um dos mecanismos de BETÃO: como a dor se transforma em slogan, a culpa em cola social e a perda humana em uma imagem administrável de estabilidade. Abrir o trecho completo Capítulo 9. Protocolo “Orgulho” § 9.1. A melhor cola para a sociedade A manhã no Departamento de Senti
+> BETÃO BETÃO é uma distopia filosófica sobre um mundo em que a estabilidade se tornou uma prisão, a memória é tratada como ameaça e a primeira fissura surge dentro de um sistema que ainda se acredita eterno. Volume I da trilogia MONÓLITO. Dossiê Volume I O betão não começa com uma parede. Começa com o hábito de chamar uma prisão de estabilidade. DOSSIÊ N.º 2026-001B. Índice: 6666548A. STATUS: Ultrassecreto. Ler a edição inglesa no Google Play Books Ler a edição inglesa na Amazon Voltar ao MONÓLITO Trecho selecionado Capítulo 9 / § 9.1 Capítulo 9. Protocolo “Orgulho” § 9.1. A melhor cola para a sociedade O trecho mostra um dos mecanismos de BETÃO: como a dor se transforma em slogan, a culpa em cola social e a perda humana numa imagem administrável de estabilidade. Abrir o trecho completo Capítulo 9. Protocolo “Orgulho” § 9.1. A melhor cola para a sociedade A manhã no Departamento de Sentid
 
 ### pt/books/monolith/gas/index.html
 
@@ -8767,11 +8785,11 @@ Excerpt:
 - H2: O que é MONÓLITO | Volumes | Estrutura artístico-investigativa | Mapa do colapso | Para quem é este projeto | O que não deve ser confundido | A frase da série
 - H3: Volume I — BETÃO | Volume II — LAMA | Volume III — GÁS | BETÃO | LAMA | GÁS | Leitores | Editores / parceiros / tradutores
 - suggested keyword seed: monólito, que, ashraellen, betão, books, colapso, controlo, gás, lama, memória, não, uma, artístico-investigativa, como, confundido, deve, distópica, dos
-- candidates: não, que, uma, monólito, memória, forma, controlo, pessoa, betão, como, gás, lama, começa, mas, colapso, fissura, por, primeira, sistema, com, dentro, sobre, volume, ambiente
+- candidates: não, que, uma, monólito, memória, forma, controlo, pessoa, betão, como, gás, lama, começa, mas, colapso, fissura, primeira, sistema, dentro, matéria, sobre, volume, com, dos
 
 Excerpt:
 
-> PROTOCOLO DE DESINTEGRAÇÃO DA MATÉRIA SOCIAL / BETÃO — LAMA — GÁS MONÓLITO MONÓLITO é uma trilogia distópica literária e filosófica sobre controlo, memória e colapso dos sistemas. Seus três volumes registram a passagem da matéria social por três estados: BETÃO, LAMA e GÁS — da estabilidade endurecida à deformação viscosa e à descompressão completa da forma. O sistema não teme a rebelião. Teme a primeira fissura. Volumes da trilogia Mapa do colapso O que não deve ser confundido O que é MONÓLITO BETÃO / LAMA / GÁS Diante de você está uma crônica do colapso controlado: o registro sucessivo da transição de fase da matéria social, fixada em três estados — BETÃO, LAMA e GÁS. O que importa aqui não é uma previsão do futuro, mas a matéria do presente: uma ordem que por tempo demais foi chamada de segurança; uma memória que é mais conveniente corrigir do que ouvir; uma pessoa que começa a percebe
+> PROTOCOLO DE DESINTEGRAÇÃO DA MATÉRIA SOCIAL / BETÃO — LAMA — GÁS MONÓLITO MONÓLITO é uma trilogia distópica literária e filosófica sobre controlo, memória e colapso dos sistemas. Os seus três volumes registam a passagem da matéria social por três estados: BETÃO, LAMA e GÁS — da estabilidade endurecida à deformação viscosa e à descompressão completa da forma. O sistema não teme a rebelião. Teme a primeira fissura. Volumes da trilogia Mapa do colapso O que não deve ser confundido O que é MONÓLITO BETÃO / LAMA / GÁS Diante de si está uma crónica do colapso controlado: o registo sucessivo da transição de fase da matéria social, fixado em três estados — BETÃO, LAMA e GÁS. O que importa aqui não é uma previsão do futuro, mas a matéria do presente: uma ordem que durante demasiado tempo foi chamada de segurança; uma memória que é mais cómodo corrigir do que escutar; uma pessoa que começa a nota
 
 ### pt/books/monolith/sludge/index.html
 
@@ -8788,7 +8806,7 @@ Excerpt:
 
 Excerpt:
 
-> LAMA LAMA é uma distopia filosófica sobre um mundo em que a pressão já não se parece com uma parede: infiltra-se na vida cotidiana, na linguagem e no corpo, desfaz limites e transforma a pessoa em material do ambiente. Volume II da trilogia MONÓLITO: deformação viscosa, desgaste da resistência e cumplicidade como hábito. Dossiê Volume II Uma pessoa não se quebra de uma vez. Primeiro se cansa de resistir. Depois começa a concordar. DOSSIÊ N.º 2026-001B. Índice: 6666548A. STATUS: Ultrassecreto. Ler a edição inglesa no Google Play Books Ler a edição inglesa na Amazon Voltar ao MONÓLITO Trecho selecionado Capítulo 6 / § 6.2 Capítulo 6. Primeiros passos através de LAMA. § 6.2. Armazéns de Preservação de Fragmentos O trecho mostra como a necessidade comum, o procedimento ritualizado, o medo, o silêncio e a cumplicidade torna-sem a matéria cotidiana de LAMA. Abrir o trecho completo Capítulo 6. 
+> LAMA LAMA é uma distopia filosófica sobre um mundo em que a pressão já não se parece com uma parede: infiltra-se na vida quotidiana, na linguagem e no corpo, desfaz limites e transforma a pessoa em material do ambiente. Volume II da trilogia MONÓLITO: deformação viscosa, desgaste da resistência e cumplicidade como hábito. Dossiê Volume II Uma pessoa não se quebra de uma vez. Primeiro se cansa de resistir. Depois começa a concordar. DOSSIÊ N.º 2026-001B. Índice: 6666548A. STATUS: Ultrassecreto. Ler a edição inglesa no Google Play Books Ler a edição inglesa na Amazon Voltar ao MONÓLITO Trecho selecionado Capítulo 6 / § 6.2 Capítulo 6. Primeiros passos através de LAMA. § 6.2. Armazéns de Preservação de Fragmentos O trecho mostra como a necessidade comum, o procedimento ritualizado, o medo, o silêncio e a cumplicidade torna-sem a matéria quotidiana de LAMA. Abrir o trecho completo Capítulo 6
 
 ### pt/books/radiance/index.html
 
