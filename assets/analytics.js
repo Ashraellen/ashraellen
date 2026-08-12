@@ -216,18 +216,3 @@
   p.appendChild(a);
   hint.insertAdjacentElement('afterend', p);
 })();
-
-/* Ashraellen — tiny localized project fixes */
-(function () {
-  'use strict';
-  var path = window.location.pathname;
-  var replacement = null;
-  if (path.indexOf('/ru/research/projects/') !== -1) replacement = 'Церковь Святого Нытья';
-  else if (path.indexOf('/uk/research/projects/') !== -1) replacement = 'Церква Святого Ниття';
-  else if (path.indexOf('/be/research/projects/') !== -1) replacement = 'Царква Святога Ныцця';
-  if (replacement) {
-    document.querySelectorAll('.project-card h2').forEach(function (heading) {
-      if (heading.textContent.trim() === 'Church of Saint Whine') heading.textContent = replacement;
-    });
-  }
-})();
