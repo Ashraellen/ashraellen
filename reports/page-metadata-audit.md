@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T16:34:14.393Z
+Generated: 2026-08-12T16:35:04.244Z
 
 Pages checked: 841
-Pages with issues: 282
-Total issues: 1660
+Pages with issues: 281
+Total issues: 1659
 Pages with review notes: 642
 Total review notes: 2262
 
@@ -27,7 +27,7 @@ Total review notes: 2262
 | DUPLICATE_OG_TITLE | 34 |
 | OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
 | TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
-| DESCRIPTION_TOO_SHORT | 22 |
+| DESCRIPTION_TOO_SHORT | 21 |
 
 
 ## Review note summary
@@ -921,16 +921,6 @@ Total review notes: 2262
 
 - OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/symbol.png
 - TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/symbol.png
-
-### fi/public/posts/formula/lines/line-0002.html
-
-- title: Ashraellen — Sana, hiljaisuus, merkitys
-- description length: 72
-- canonical: https://www.ashraellen.com/fi/public/posts/formula/lines/line-0002.html
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DESCRIPTION_TOO_SHORT: 72
 
 ### fi/public/posts/fragment/index.html
 
