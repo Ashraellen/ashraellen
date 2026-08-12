@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T12:59:29.764Z
+Generated: 2026-08-12T13:00:17.102Z
 
 Pages checked: 841
 Pages with issues: 320
-Total issues: 1994
+Total issues: 1988
 Pages with review notes: 616
 Total review notes: 2164
 
@@ -12,22 +12,22 @@ Total review notes: 2164
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 257 |
-| MISSING_TWITTER_IMAGE | 255 |
-| MISSING_TWITTER_CARD | 225 |
-| MISSING_OG_DESCRIPTION | 224 |
-| MISSING_JSON_LD | 221 |
-| MISSING_OG_IMAGE | 215 |
-| MISSING_OG_TITLE | 208 |
+| MISSING_KEYWORDS | 256 |
+| MISSING_TWITTER_IMAGE | 254 |
+| MISSING_TWITTER_CARD | 224 |
+| MISSING_OG_DESCRIPTION | 223 |
+| MISSING_JSON_LD | 220 |
+| MISSING_OG_IMAGE | 214 |
+| MISSING_OG_TITLE | 207 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
 | DUPLICATE_TITLE | 44 |
 | DUPLICATE_OG_TITLE | 42 |
 | DUPLICATE_KEYWORDS | 36 |
-| DESCRIPTION_TOO_SHORT | 34 |
-| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 1 |
-| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 1 |
+| DESCRIPTION_TOO_SHORT | 33 |
+| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 2 |
+| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 2 |
 
 
 ## Review note summary
@@ -1599,19 +1599,13 @@ Total review notes: 2164
 ### fi/public/thoughts/arcs/0013-problem-loses-crown.html
 
 - title: Ashraellen — Ongelma menettää kruununsa
-- description length: 62
+- description length: 118
 - canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0013-problem-loses-crown.html
-- og:image: _missing_
-- twitter:image: _missing_
+- og:image: https://www.ashraellen.com/assets/thoughts/0013-problem-loses-crown.jpg
+- twitter:image: https://www.ashraellen.com/assets/thoughts/0013-problem-loses-crown.jpg
 
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_TITLE
-- MISSING_OG_DESCRIPTION
-- MISSING_OG_IMAGE
-- MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
-- DESCRIPTION_TOO_SHORT: 62
+- OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0013-problem-loses-crown.jpg
+- TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0013-problem-loses-crown.jpg
 
 ### fi/public/thoughts/arcs/0014-end-of-extra-war.html
 

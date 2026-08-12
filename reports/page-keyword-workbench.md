@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T12:59:30.431Z
+Generated: 2026-08-12T13:00:17.772Z
 Pages: 842
 
 ## Index
@@ -341,7 +341,7 @@ Pages: 842
 | fi/public/thoughts/arcs/0010-dirty-cup.html | fi | public | Ashraellen — Likainen kuppi | _missing_ | kuppi, likainen, ashraellen, kuppia, public, vaihtaa, vain, ympyrää, ajatus, alice, arcs, ashraellenin, cup, dirty, hatuntekijä, juokseminen, juoksijan, koko |
 | fi/public/thoughts/arcs/0011-do-not-regret.html | fi | public | Ashraellen — Älä kadu | _missing_ | älä, kadu, armo, ashraellen, joskus, public, ajatus, arcs, ashraellenin, elämä, ihminen, jota, koko, kun, menetykseltä, merkitys, mikä, miksi |
 | fi/public/thoughts/arcs/0012-close-the-book.html | fi | public | Ashraellen — Milloin kirja on aika sulkea | Ashraellen, tukiajatus, henkinen kirjallisuus, hiljaisuus, hyväksyminen | kirja, aika, ajatus, ashraellen, enää, henkinen, hiljaisuudessa, kirjallisuus, milloin, mutta, public, sulkea, voi, 0012, arcs, book, close, että |
-| fi/public/thoughts/arcs/0013-problem-loses-crown.html | fi | public | Ashraellen — Ongelma menettää kruununsa | _missing_ | ongelma, ajatus, ashraellen, kadonnut, kruununsa, menettää, mutta, ole, public, sen, 0013, arcs, crown, draama, eikä, että, koko, loses |
+| fi/public/thoughts/arcs/0013-problem-loses-crown.html | fi | public | Ashraellen — Ongelma menettää kruununsa | Ashraellen, tukiajatus, hyväksyminen, draama, ongelma | ongelma, ajatus, aseman, ashraellen, kruununsa, menettää, mutta, public, voi, 0013, arcs, crown, draaman, ehkä, eikä, että, hyväksyminen, katoa |
 | fi/public/thoughts/arcs/0014-end-of-extra-war.html | fi | public | Ashraellen — Ylimääräisen sodan loppu | _missing_ | loppu, sodan, ajatus, ashraellen, mikä, public, sisäinen, ylimääräisen, 0014, arcs, end, että, extra, joka, juuri, kaikki, koko, kyllä |
 | fi/public/thoughts/arcs/0015-subtle-thought-needs-silence.html | fi | public | Ashraellen — Hieno ajatus tarvitsee hiljaisuutta | _missing_ | ajatus, hieno, hiljaisuutta, tarvitsee, ajatuksen, ashraellen, huomatuksi, karkeaksi, muuttua, public, tarvitse, tullakseen, 0015, arcs, hienovaraisen, joskus, koko, miksi |
 | fi/public/thoughts/arcs/0016-one-fact.html | fi | public | Ashraellen — Oli yksi fakta | _missing_ | fakta, oli, yksi, ajatus, ashraellen, jatko-osineen, kärsimystä, kolme, public, 0016, arcs, fact, itse, joku, koko, kuin, miksi, mitä |
@@ -6535,13 +6535,13 @@ Excerpt:
 - lang: fi
 - section: public
 - title: Ashraellen — Ongelma menettää kruununsa
-- description: Tukiajatus 0013: ongelma ei ole kadonnut, mutta sen draama on.
+- description: Tukiajatus 0013: ongelma ei ehkä katoa, mutta hyväksyminen voi riisua siltä draaman ja sisäisen kuninkaallisen aseman.
 - canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0013-problem-loses-crown.html
 - H1: Ongelma menettää kruununsa
 - H2: Ajatus | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
 - H3: _missing_
-- suggested keyword seed: ongelma, ajatus, ashraellen, kadonnut, kruununsa, menettää, mutta, ole, public, sen, 0013, arcs, crown, draama, eikä, että, koko, loses
-- candidates: ongelma, mutta, eikä, ole, sen, ajatus, että, kadonnut, mitä, siksi, vain, voi, draama, olisi, sitten, 0013, aseman, faktan, hyväksyminen, jäädä, kruununsa, kysy, maailma, menetelmä
+- suggested keyword seed: ongelma, ajatus, aseman, ashraellen, kruununsa, menettää, mutta, public, voi, 0013, arcs, crown, draaman, ehkä, eikä, että, hyväksyminen, katoa
+- candidates: ongelma, mutta, eikä, voi, ajatus, että, mitä, ole, sen, siksi, vain, aseman, hyväksyminen, kadonnut, olisi, sitten, 0013, draama, faktan, jäädä, kruununsa, kuninkaallisen, kysy, maailma
 
 Excerpt:
 
