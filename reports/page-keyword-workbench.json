@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T13:04:59.233Z",
+  "generated": "2026-08-12T13:05:40.817Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -25339,8 +25339,8 @@
       "lang": "fi",
       "section": "public",
       "title": "Ashraellen — Kansa ja massa",
-      "description": "Tukiajatus 0020: kansa muistaa, massa reagoi.",
-      "existingKeywords": "",
+      "description": "Tukiajatus 0020: kansa rakentuu muistista, kielestä ja kasvoista; massa syntyy, kun ihminen lakkaa katsomasta omin silmin ja alkaa vain reagoida.",
+      "existingKeywords": "Ashraellen, tukiajatus, kansa, massa, sisäinen havainto",
       "canonical": "https://www.ashraellen.com/fi/public/thoughts/arcs/0020-people-and-mass.html",
       "h1": [
         "Kansa ja massa"
@@ -25363,50 +25363,50 @@
       ],
       "excerpt": "Tukiajatus 0020 Kansa ja massa Kansa muistaa. Massa reagoi. Ajatus Kansa rakentuu kasvoista, muistista, kielestä ja sisäisestä yhteydestä. Massa syntyy, kun ihminen lakkaa kysymästä mitä hän itse näkee ja alkaa reagoida virtauksen osana. Koko teksti Surullisista johtopäätöksistä. Kansa ei ole vain suuri määrä ihmisiä. Kansa on muisti. Kieli. Käsityö. Laulu. Juhla. Yhteinen ele. Tapa tervehtiä, olla hiljaa, haudata kuolleet, iloita, leipoa leipää, kertoa lapsille tarinoita ja tunnistaa omansa vieraassakin kaupungissa. Kansa koostuu ihmisistä. Erillisistä kasvoista. Kohtaloista. Perheistä. Äänistä. Elävistä sisäisistä maailmoista. Massa on jotain muuta. Massa on hermostunut ihmisvirta, joka kiihtyy helposti ja pelästyy yhtä helposti. Tänään se on valmis seuraamaan ensimmäistä äänekästä kutsua ja hajottamaan kaiken historiallisen välttämättömyyden ilme kasvoillaan. Huomenna sama virta hajaa",
       "candidates": [
-        "kansa",
         "ihminen",
+        "kansa",
         "massa",
         "ajatus",
         "hänen",
         "kansan",
         "puolestaan",
         "voi",
+        "alkaa",
+        "kasvoista",
+        "lakkaa",
         "massan",
         "minä",
         "minussa",
         "mitä",
-        "muistaa",
-        "reagoi",
+        "vain",
         "virta",
         "0020",
         "ajattelee",
-        "alkaa",
         "enää",
         "että",
         "hän",
         "helposti",
-        "herättää",
-        "itse"
+        "herättää"
       ],
       "suggestedKeywordSeed": [
         "kansa",
         "massa",
         "ajatus",
+        "alkaa",
         "ashraellen",
+        "ihminen",
+        "kasvoista",
+        "lakkaa",
         "public",
         "0020",
         "arcs",
         "hänen",
-        "ihminen",
         "kansan",
+        "katsomasta",
+        "kielestä",
         "koko",
-        "mass",
-        "massan",
-        "miksi",
-        "minä",
-        "minussa",
-        "mitä",
-        "muistaa"
+        "kun",
+        "mass"
       ]
     },
     {

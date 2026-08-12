@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T13:04:59.248Z
+Generated: 2026-08-12T13:05:40.832Z
 Pages: 842
 
 ## Index
@@ -348,7 +348,7 @@ Pages: 842
 | fi/public/thoughts/arcs/0017-witness-does-not-interfere.html | fi | public | Ashraellen — Todistaja ei puutu väliin | Ashraellen, tukiajatus, todistaja, rauhallisuus, läsnäolo | todistaja, aikojaan, ajatus, ashraellen, ennen, näkyväksi, ole, public, puutu, vaan, väliin, 0017, arcs, does, estämättä, ihminen, interfere, joka |
 | fi/public/thoughts/arcs/0018-image-cannot-be-happy.html | fi | public | Ashraellen — Kuva ei voi olla onnellinen | Ashraellen, tukiajatus, minäkuva, aitous, itsensä toteuttaminen | voi, kuva, olla, onnellinen, ajatus, ashraellen, elää, ihminen, mutta, public, 0018, arcs, cannot, elävä, hänen, happy, ihmisen, image |
 | fi/public/thoughts/arcs/0019-do-not-bomb.html | fi | public | Ashraellen — Älä pommita | Ashraellen, tukiajatus, aggressio, vastuu, aselepo | älä, pommita, ajatus, alkaa, ashraellen, hän, ihminen, maailmaan, mitä, public, tämä, 0019, arcs, bomb, elää, ensin, että, ilmapiiriä |
-| fi/public/thoughts/arcs/0020-people-and-mass.html | fi | public | Ashraellen — Kansa ja massa | _missing_ | kansa, massa, ajatus, ashraellen, public, 0020, arcs, hänen, ihminen, kansan, koko, mass, massan, miksi, minä, minussa, mitä, muistaa |
+| fi/public/thoughts/arcs/0020-people-and-mass.html | fi | public | Ashraellen — Kansa ja massa | Ashraellen, tukiajatus, kansa, massa, sisäinen havainto | kansa, massa, ajatus, alkaa, ashraellen, ihminen, kasvoista, lakkaa, public, 0020, arcs, hänen, kansan, katsomasta, kielestä, koko, kun, mass |
 | fi/public/thoughts/arcs/0021-mating-games.html | fi | public | Ashraellen — Parittelupelit | _missing_ | ajatus, alkavat, ashraellen, jonka, koko, parittelupelit, public, 0021, arcs, games, hän, joka, joku, jotkut, kauan, kun, mating, miksi |
 | fi/public/thoughts/arcs/0022-spirituality-is-not-forced.html | fi | public | Ashraellen — Hengellisyyttä ei pakoteta | _missing_ | hengellisyyttä, pakoteta, ajatus, ashraellen, ihastutaan, public, 0022, arcs, että, forced, hengellisyys, koko, määrätä, miksi, pelko, sielu, siihen, siksi |
 | fi/public/thoughts/arcs/0023-price-of-transition.html | fi | public | Ashraellen — Siirtymän hinta | _missing_ | hinta, ajatus, ashraellen, jokainen, kriisillä, maksetaan, public, siirtymän, vaiheeseen, 0023, arcs, hän, jotka, kaikki, koko, kriisi, kuin, miksi |
@@ -6654,13 +6654,13 @@ Excerpt:
 - lang: fi
 - section: public
 - title: Ashraellen — Kansa ja massa
-- description: Tukiajatus 0020: kansa muistaa, massa reagoi.
+- description: Tukiajatus 0020: kansa rakentuu muistista, kielestä ja kasvoista; massa syntyy, kun ihminen lakkaa katsomasta omin silmin ja alkaa vain reagoida.
 - canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0020-people-and-mass.html
 - H1: Kansa ja massa
 - H2: Ajatus | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
 - H3: _missing_
-- suggested keyword seed: kansa, massa, ajatus, ashraellen, public, 0020, arcs, hänen, ihminen, kansan, koko, mass, massan, miksi, minä, minussa, mitä, muistaa
-- candidates: kansa, ihminen, massa, ajatus, hänen, kansan, puolestaan, voi, massan, minä, minussa, mitä, muistaa, reagoi, virta, 0020, ajattelee, alkaa, enää, että, hän, helposti, herättää, itse
+- suggested keyword seed: kansa, massa, ajatus, alkaa, ashraellen, ihminen, kasvoista, lakkaa, public, 0020, arcs, hänen, kansan, katsomasta, kielestä, koko, kun, mass
+- candidates: ihminen, kansa, massa, ajatus, hänen, kansan, puolestaan, voi, alkaa, kasvoista, lakkaa, massan, minä, minussa, mitä, vain, virta, 0020, ajattelee, enää, että, hän, helposti, herättää
 
 Excerpt:
 
