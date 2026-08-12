@@ -1,32 +1,32 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T14:28:41.595Z
+Generated: 2026-08-12T14:29:34.357Z
 
 Pages checked: 841
 Pages with issues: 316
-Total issues: 1791
-Pages with review notes: 632
-Total review notes: 2210
+Total issues: 1786
+Pages with review notes: 633
+Total review notes: 2212
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 220 |
-| MISSING_TWITTER_IMAGE | 218 |
-| MISSING_TWITTER_CARD | 188 |
-| MISSING_OG_DESCRIPTION | 187 |
-| MISSING_JSON_LD | 184 |
-| MISSING_OG_IMAGE | 179 |
-| MISSING_OG_TITLE | 173 |
+| MISSING_KEYWORDS | 219 |
+| MISSING_TWITTER_IMAGE | 217 |
+| MISSING_TWITTER_CARD | 187 |
+| MISSING_OG_DESCRIPTION | 186 |
+| MISSING_JSON_LD | 183 |
+| MISSING_OG_IMAGE | 178 |
+| MISSING_OG_TITLE | 172 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
 | DUPLICATE_TITLE | 44 |
 | DUPLICATE_OG_TITLE | 42 |
 | DUPLICATE_KEYWORDS | 36 |
-| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 31 |
-| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 31 |
+| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
+| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
 | DESCRIPTION_TOO_SHORT | 27 |
 
 
@@ -34,8 +34,8 @@ Total review notes: 2210
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 632 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 596 |
+| DUPLICATE_OG_IMAGE_REVIEW | 633 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 597 |
 | FALLBACK_OG_IMAGE_USED | 504 |
 | FALLBACK_TWITTER_IMAGE_USED | 478 |
 
@@ -1296,16 +1296,11 @@ Total review notes: 2210
 - title: Ashraellen — Lähteet ovat siirtyneet
 - description length: 109
 - canonical: https://www.ashraellen.com/fi/public/posts/sources/
-- og:image: _missing_
-- twitter:image: _missing_
+- og:image: https://www.ashraellen.com/assets/symbol.png
+- twitter:image: https://www.ashraellen.com/assets/symbol.png
 
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_TITLE
-- MISSING_OG_DESCRIPTION
-- MISSING_OG_IMAGE
-- MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
+- OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/symbol.png
+- TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/symbol.png
 
 ### fi/public/thoughts/arcs/0001-cheerfulness.html
 
@@ -7586,8 +7581,8 @@ Total review notes: 2210
 - og:image: https://www.ashraellen.com/assets/symbol.png
 - twitter:image: https://www.ashraellen.com/assets/symbol.png
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 5 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 5 pages
 
 ### fi/public/posts/essay/cycles/index.html
 
@@ -7595,8 +7590,8 @@ Total review notes: 2210
 - og:image: https://www.ashraellen.com/assets/symbol.png
 - twitter:image: https://www.ashraellen.com/assets/symbol.png
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 5 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 5 pages
 
 ### fi/public/posts/essay/index.html
 
@@ -7604,8 +7599,8 @@ Total review notes: 2210
 - og:image: https://www.ashraellen.com/assets/symbol.png
 - twitter:image: https://www.ashraellen.com/assets/symbol.png
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 5 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 5 pages
 
 ### fi/public/posts/formula/index.html
 
@@ -7657,8 +7652,8 @@ Total review notes: 2210
 - og:image: https://www.ashraellen.com/assets/symbol.png
 - twitter:image: https://www.ashraellen.com/assets/symbol.png
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 5 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 5 pages
 
 ### fi/public/posts/index.html
 
@@ -7670,6 +7665,15 @@ Total review notes: 2210
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 504 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 478 pages
+
+### fi/public/posts/sources/index.html
+
+- title: Ashraellen — Lähteet ovat siirtyneet
+- og:image: https://www.ashraellen.com/assets/symbol.png
+- twitter:image: https://www.ashraellen.com/assets/symbol.png
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 5 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 5 pages
 
 ### fi/public/talks/index.html
 
