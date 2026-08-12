@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T11:30:15.063Z
-Pages: 790
+Generated: 2026-08-12T12:01:03.936Z
+Pages: 796
 
 ## Index
 
@@ -294,11 +294,17 @@ Pages: 790
 | es/research/position/index.html | es | research | Ashraellen — Position — Spanish | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, es, research, position | position, ashraellen, como, artístico, campo, descripción, experiencia, experiencias, filosofía, independiente, interna, investigador, research, modelos, observación, religión, son, spanish |
 | es/research/projects/index.html | es | research | Ashraellen — Proyectos de investigación | ashraellen, research, projects, proyectos, investigación, mapa, campos, trabajo, monolith, canal, principal, campo, público, satíricos, laboratorios, laterales, percepción, instagram | ashraellen, proyectos, monolith, percepción, research, abrir, aquí, book, campo, campos, canal, church, como, cómo, con, del, inner, instagram |
 | es/research/sources/index.html | es | research | Ashraellen — Fuentes y tradición | ashraellen, research, sources, fuentes, tradición, fenomenología, conciencia, cuerpo, relato, ciencia, cognitiva, práctica, artística, edmund, husserl, experiencia, antes, las | como, ashraellen, conciencia, cuerpo, fuentes, relato, tradición, artística, experiencia, fenomenología, forma, research, antes, ciencia, cognitiva, comprensión, con, direcciones |
+| fi/books/demotopia/index.html | fi | books | Demotopia — Democratic Utopia — Ashraellen | _missing_ | demotopia, ashraellen, books, ashraellenin, datasta, democratic, demokratiasta, filosofinen, hajautetusta, hän, ihmisen, ihmisestä, järjestelmä, julkaisutilanne, kehys, kirjassa, kuin, kun |
+| fi/books/error-404-god-not-found/index.html | fi | books | Ashraellen — Error 404: God Not Found | _missing_ | error, found, god, 404, ashraellen, books, filosofis-satiirinen, ihmisen, sarjan, all, avaa, etsitään, hakutavasta, häntä, kansliasta, kirja, kirjat, lause |
+| fi/books/error-404-god-not-found/why-me/index.html | fi | books | Ashraellen — Why Me? | _missing_ | why, error, found, god, 404, ashraellen, books, kirja, byrokratiasta, eikä, ensimmäinen, filosofis-satiirinen, hän, katkelma, kirjasta, kivusta, kuin, oli |
 | fi/books/index.html | fi | books | Ashraellen — Kirjat | _missing_ | kirjat, 2.0, 404, ashraellen, books, samizdat, satiiri, tekijäjulkaisut, already, ashraellenin, audioromaani, avaa, book, demotopia, error, filosofinen, found, god |
 | fi/books/monolith/beton/index.html | fi | books | Ashraellen — BETONI | _missing_ | betoni, ashraellen, books, järjestelmän, katkelma, osa, anton, beton, dystopia, englanninkielinen, ensimmäinen, ensimmäisestä, että, filosofinen, halkeama, halkeamasta, hänen, kehys |
 | fi/books/monolith/gas/index.html | fi | books | Ashraellen — KAASU | _missing_ | kaasu, ashraellen, books, objektin, osa, alkaa, ennen, gas, ilman, jälkeen, joka, kantajan, katkelma, katoamisesta, kehys, kirjallinen, kirjasta, kokonaiskontrollista |
 | fi/books/monolith/index.html | fi | books | Ashraellen — MONOLIITTI | _missing_ | monoliitti, ashraellen, betoni, books, kaasu, liete, aineen, avaa, dystopiatrilogia, enää, filosofinen, hän, järjestelmien, kartta, kirjallinen, kontrollista, mihin, mikä |
 | fi/books/monolith/sludge/index.html | fi | books | Ashraellen — LIETE | _missing_ | liete, ashraellen, books, katkelma, osa, alkaa, dystopia, enää, englanninkielinen, filosofinen, hän, ihminen, joka, jossa, kehys, kirjallinen, kirjasta, menetyksestä |
+| fi/books/radiance/index.html | fi | books | Ashraellen — RADIANCE \| Pohjoisia kertomuksia maailman todellisesta historiasta | _missing_ | radiance, ashraellen, books, kertomukset, kirjallis-filosofinen, maailman, mitä, siitä, sykli, että, historiasta, ihminen, kertomuksia, kirja, kirjat, kuvallisia, maailmassa, mikä |
+| fi/books/radiance/sampo/index.html | fi | books | Ashraellen — Sampo \| RADIANCE, Kirja I | _missing_ | sampo, kirja, ashraellen, books, jossa, ole, radiance, ensimmäinen, erotettu, hän, ihminen, julkaisutilanne, katkelma, kehys, kertomus, kirjallis-filosofinen, kirjasta, kuin |
+| fi/books/radiance/song/index.html | fi | books | Ashraellen — Song \| RADIANCE, Kirja II | _missing_ | song, ashraellen, kirja, äänestä, books, joka, radiance, ääni, alkaa, ennen, julkaisutilanne, katkelma, kaupungista, kielestä, kieli, kirjasta, kuulemisesta, laulusta |
 | fi/contact.html | fi | contact.html | Yhteys — Ashraellen — Suomi | _missing_ | ashraellen, yhteys, apurahoja, ashraellenin, julkaisemista, mediaa, projektia, varten, yhteistyötä, aineistot, contact, contact.html, julkiset, koskevia, suomi, telegram-yhteys, yhteydenottoja, yhteystiedot |
 | fi/index.html | fi | index.html | Ashraellen — Kirjat, tutkimus ja julkiset tekstit | _missing_ | ashraellen, julkiset, kirjat, tekstit, itsenäinen, kirjallis-filosofinen, monikielinen, taiteellinen, tutkimus, tutkimuskäytäntö, havainnoinnin, index.html, joka, julkinen, sisäisen, tutkimuksen, videot, yhdistää |
 | fi/kone/index.html | fi | kone | Ashraellen — tiivistelmä Koneen Säätiölle | ashraellen, kone, tiivistelmä, koneen, säätiölle, suomenkielinen, ashraellen-hankkeesta, elämänmittainen, taiteellis-filosofinen, tutkimus, merkityksestä, kirjallisuudesta, videoista, monikielisestä, arkistosta, tutkimuksen, ydin, tekijä | ashraellen, koneen, kone, säätiölle, tiivistelmä, tutkimuksen, tutkimus, arkistosta, ashraellen-hankkeesta, asiakirjat, elämänmittainen, hankkeen, infrastruktuuri, julkinen, kirjallisuudesta, kuukauden, merkityksestä, miten |
@@ -5679,6 +5685,57 @@ Excerpt:
 
 > Fuentes y tradición Esta investigación se sitúa en el cruce entre la fenomenología de la conciencia, la epistemología narrativa, la ciencia cognitiva y la práctica artística. Husserl construye un método de descripción precisa de la experiencia. Merleau-Ponty devuelve la conciencia al cuerpo. Ricœur muestra que el relato no es un adorno del pensamiento, sino una forma de comprensión de sí. Varela, Thompson y Rosch acercan la fenomenología a la ciencia cognitiva y a la experiencia vivida. Ashraellen trabaja allí donde estas líneas se cruzan: en una zona donde el texto académico por sí solo ya no basta, y donde la experiencia viva todavía no ha recibido una forma exacta. Fenomenología de la conciencia Edmund Husserl — la experiencia antes de las explicaciones hechas Lo importante aquí no es creer el primer pensamiento, sino observar con precisión cómo la experiencia aparece en la conciencia
 
+### fi/books/demotopia/index.html
+
+- lang: fi
+- section: books
+- title: Demotopia — Democratic Utopia — Ashraellen
+- description: Demotopia on Ashraellenin filosofinen romaani lähitulevaisuuden Varsovasta, demokratiasta, hajautetusta vallasta, datasta, vapaudesta ja vastuusta.
+- canonical: https://www.ashraellen.com/fi/books/demotopia/
+- H1: Demotopia
+- H2: Mistä kirjassa on kyse | Romaanin kysymykset | Taiteellisen tutkimuksen kehys | Julkaisutilanne
+- H3: Vapaus | Data | Demokratia | Vastuu
+- suggested keyword seed: demotopia, ashraellen, books, ashraellenin, datasta, democratic, demokratiasta, filosofinen, hajautetusta, hän, ihmisen, ihmisestä, järjestelmä, julkaisutilanne, kehys, kirjassa, kuin, kun
+- candidates: mitä, demotopia, ihmisen, järjestelmä, kun, hän, ihmisestä, kuin, kuvan, vain, voi, yhteiskunta, ala, ashraellen, democratic, eikä, enää, englanninkielinen, filosofinen, ilman, jää, kokonaisuus, lähes, lähitulevaisuuden
+
+Excerpt:
+
+> Filosofinen romaani / Varsova lähitulevaisuudessa Demotopia Democratic Utopia Kaupunki on turvallisempi, läpinäkyvämpi ja oikeudenmukaisempi. Järjestelmä ei enää näe vain yksittäistä tekoa: se näkee ihmisen kokonaisuuden — reitit, suhteet, valinnat, velvoitteet ja myös hiljaisuudet. Mutta mitä vapaudesta jää jäljelle, jos yhteiskunta pystyy osoittamaan tuntevansa ihmisen tarkemmin kuin hän itse? Englanninkielinen kansikonsepti. Ashraellen. Mistä kirjassa on kyse ilman juonipaljastuksia Demotopia ei ala katastrofista eikä julistetusta diktatuurista. Se näyttää lähitulevaisuuden Varsovan, jossa järjestelmä toimii aidosti hyvin: se ehkäisee vahinkoja, jakaa riskejä ja tekee päätöksiä lähes täydellisen kuvan perusteella. Ongelma syntyy vasta, kun tästä kuvasta tulee vakuuttavampi kuin ihmisen oma käsitys itsestään. Järjestelmän ei tarvitse valehdella tai vainota ketään. Se voi toimia laillis
+
+### fi/books/error-404-god-not-found/index.html
+
+- lang: fi
+- section: books
+- title: Ashraellen — Error 404: God Not Found
+- description: Error 404: God Not Found — filosofis-satiirinen romaanisarja Taivaallisesta kansliasta, ihmisen valituksesta maailmankaikkeudelle ja väärästä hakutavasta.
+- canonical: https://www.ashraellen.com/fi/books/error-404-god-not-found/
+- H1: Error 404: God Not Found
+- H2: Sarja | Sarjan kirjat | Sarjan lause
+- H3: Kirja I — Why Me? | Kirja II — Thy Will in All Things
+- suggested keyword seed: error, found, god, 404, ashraellen, books, filosofis-satiirinen, ihmisen, sarjan, all, avaa, etsitään, hakutavasta, häntä, kansliasta, kirja, kirjat, lause
+- candidates: 404, error, found, god, ihmisen, kirja, häntä, uusi, all, avaa, etsitään, filosofis-satiirinen, jumalaa, kanslian, kansliasta, maailmankaikkeudelle, ole, oma, oman, oven, romaanisarja, sarja, sarjan, tai
+
+Excerpt:
+
+> Error 404: God Not Found Filosofis-satiirinen romaanisarja Taivaallisesta kansliasta, ihmisen valituksesta maailmankaikkeudelle ja hakuvireestä, joka ei ehkä ala Jumalasta vaan tavasta, jolla häntä etsitään. Sarja Taivaallisen kanslian tapauksia Jumalaa ei “löydy” — ei siksi, ettei häntä olisi. Häntä etsitään esineenä, osoitteena, todistuksena, palvelupisteenä tai viimeisenä viranomaisena, jonka pitäisi hyväksyä ihmisen oma versio kärsimyksestä. Error 404: God Not Found on sarja ihmisistä, jotka etsivät Jumalaa, Totuutta, oikeudenmukaisuutta tai vastausta oman pelkonsa, kipunsa, ammattinsa, uskonsa ja itsepetoksensa läpi. Taivaallinen kanslia ei tässä ole paikka eikä fantasiaorganisaatio. Se on tila, jossa ihminen joutuu kohtaamaan oman pyyntönsä sellaisena kuin se todella on. Jokainen kirja on oma tapaus. Ensimmäinen avaa oven Vladin kautta. Oven takana on jo jono. Sarjan kirjat nykyine
+
+### fi/books/error-404-god-not-found/why-me/index.html
+
+- lang: fi
+- section: books
+- title: Ashraellen — Why Me?
+- description: Why Me? — Error 404: God Not Found -sarjan ensimmäinen kirja. Filosofis-satiirinen romaani kivusta, valituksesta, uskosta ja sielun byrokratiasta.
+- canonical: https://www.ashraellen.com/fi/books/error-404-god-not-found/why-me/
+- H1: Why Me?
+- H2: Kirjasta | Teema | Katkelma | Versio
+- H3: Luku 1. Error 404
+- suggested keyword seed: why, error, found, god, 404, ashraellen, books, kirja, byrokratiasta, eikä, ensimmäinen, filosofis-satiirinen, hän, katkelma, kirjasta, kivusta, kuin, oli
+- candidates: hän, oli, why, 404, error, kuin, vlad, eikä, sanoi, found, god, kirja, kivusta, ole, olisi, ollut, sitten, antaa, elämän, että, filosofis-satiirinen, ihminen, istui, joka
+
+Excerpt:
+
+> Why Me? Kirja I sarjasta Error 404: God Not Found . Filosofis-satiirinen romaani kivusta, valituksesta, uskosta ja Taivaallisesta kansliasta — paikasta, jota ei ehkä ole missään muualla kuin siinä hetkessä, kun ihminen vaatii elämältä kirjallista selitystä. Kirjasta valmisteilla painoon Valmisteilla Why Me? kertoo Vladista, lakimiehestä ja maailmankaikkeuden ärtyneestä kantelijasta, joka yrittää tehdä omasta kärsimyksestään muodollisesti pätevän valituksen. Hän ei kaipaa valaistumista. Hän haluaa selityksen — mieluiten kirjallisena, allekirjoitettuna, leimattuna ja muutoksenhakuohjeineen. Hänestä kärsimys antaa oikeuden vastaukseen, ja elämän pitäisi ainakin tunnustaa menettelyvirhe. Taivaallinen kanslia ei kuitenkaan ole korvausosasto. Se ei väittele, lohduta eikä todista Jumalan olemassaoloa. Se rekisteröi pyynnön ja alkaa vähitellen näyttää, että virhe saattaa olla muualla kuin vastau
+
 ### fi/books/index.html
 
 - lang: fi
@@ -5763,6 +5820,57 @@ Excerpt:
 Excerpt:
 
 > LIETE LIETE on filosofinen dystopia maailmasta, jossa paine ei enää näytä seinältä: se tihkuu arkeen, kieleen ja kehoon, pehmentää rajoja ja muuttaa ihmisen ympäristön materiaaliksi. MONOLIITTI-trilogian osa II: viskoosi muodonmuutos, uupunut vastarinta ja osallisuus tapana. Objektiprotokolla Osa II Ihminen ei murru kerralla. Ensin hän väsyy vastustamaan. Sitten hän alkaa suostua. TAPAUS Nro 2026-001B. Indeksi: 6666548A. TILA: Erittäin salainen. Lue englanninkielinen laitos Google Play Booksissa Lue englanninkielinen laitos Amazonissa Takaisin MONOLIITTIIN Valittu kirjallinen katkelma Luku 6 / § 6.2 Luku 6. Ensimmäiset askeleet lietteen läpi § 6.2. Sirpaleiden säilytysvarastot Katkelma näyttää, miten tavallinen tarve, ritualisoitu menettely, pelko, hiljaisuus ja osallisuus muuttuvat LIETTEEN jokapäiväiseksi koostumukseksi. Avaa katkelma Aamiaiseksi he saivat puuroa. Ei ruokaa inhimillise
+
+### fi/books/radiance/index.html
+
+- lang: fi
+- section: books
+- title: Ashraellen — RADIANCE | Pohjoisia kertomuksia maailman todellisesta historiasta
+- description: RADIANCE on kirjallis-filosofinen taiteellisen tutkimuksen sykli siitä, miten vanhat pohjoiset kertomukset säilyttävät kuvallisia ohjeita maailmassa olemiseen.
+- canonical: https://www.ashraellen.com/fi/books/radiance/
+- H1: RADIANCE
+- H2: Mikä RADIANCE on | Sarjan kirjat | Tutkimuskehys | Mitä ei pidä sekoittaa tähän
+- H3: Kirja I — Sampo | Kirja II — Song | Kirja III — Forge
+- suggested keyword seed: radiance, ashraellen, books, kertomukset, kirjallis-filosofinen, maailman, mitä, siitä, sykli, että, historiasta, ihminen, kertomuksia, kirja, kirjat, kuvallisia, maailmassa, mikä
+- candidates: radiance, kirja, että, ihminen, ole, siitä, sykli, vaan, kertomukset, kirjallis-filosofinen, maailman, mitä, muoto, sampo, tutkii, tutkimuksen, vanhat, voiko, avaa, eikä, ennen, historiasta, iii, jossa
+
+Excerpt:
+
+> Kirjallis-filosofinen sykli / taiteellinen tutkimus fiktion kautta RADIANCE Pohjoisia kertomuksia maailman todellisesta historiasta. Pitkä sykli, jossa taidemuoto ei selitä tutkimusta vaan tekee tutkimuksen mahdolliseksi. Emme kerro Kalevalaa uudelleen. Yritämme kuulla maailman, josta sellaiset kertomukset saattoivat syntyä. Mikä RADIANCE on ei mytologian koristelua Eepokset, sadut ja vanhat kertomukset voidaan lukea kuvallisina käyttöliittyminä kokemukseen, joka syntyi ennen nykyisiä käsitteitämme. Jokainen kansa sai oman maansa, ilmastonsa, työnsä, kielensä ja muistinsa mukaisen tavan puhua siitä, mitä ihminen tarvitsee pysyäkseen suhteessa maailmaan. RADIANCE tutkii tätä mahdollisuutta kirjallisuuden kautta. Suomen ja Karjalan aineisto sekä Kalevala muodostavat syklin pohjoisen selkärangan, mutta tarkoitus ei ole rekonstruoida oppia eikä tehdä fantasiaa. Kysymys on käytännöllisempi: v
+
+### fi/books/radiance/sampo/index.html
+
+- lang: fi
+- section: books
+- title: Ashraellen — Sampo | RADIANCE, Kirja I
+- description: Sampo on RADIANCE-sarjan ensimmäinen kirja: pohjoinen kirjallis-filosofinen kertomus runsaudesta, omistamisesta, osallisuudesta ja maailmasta, jossa myyttiä ei ole erotettu työstä.
+- canonical: https://www.ashraellen.com/fi/books/radiance/sampo/
+- H1: Sampo
+- H2: Kirjasta | Valittu katkelma | Taiteellisen tutkimuksen kehys | Julkaisutilanne
+- H3: _missing_
+- suggested keyword seed: sampo, kirja, ashraellen, books, jossa, ole, radiance, ensimmäinen, erotettu, hän, ihminen, julkaisutilanne, katkelma, kehys, kertomus, kirjallis-filosofinen, kirjasta, kuin
+- candidates: oli, sampo, hän, ole, ihminen, jossa, kirja, kuin, kun, leipä, olisi, sofia, vielä, ashraellen, englanninkielinen, ennen, ensimmäinen, erotettu, esineeksi, haluaa, joka, jotka, kansi, keittiön
+
+Excerpt:
+
+> RADIANCE — pohjoisia kertomuksia maailman todellisesta historiasta Sampo RADIANCE-sarjan ensimmäinen kirja. Pohjoinen kertomus esineestä, joka osoittautuu enemmän kuin esineeksi: runsaudesta, omistamisesta, osallisuudesta ja rauhasta maailmassa, jossa myyttiä ei ole vielä erotettu työstä, kylmästä, kodista ja tulesta. Emme kerro Kalevalaa uudelleen. Näytämme maailman, josta sellaiset kertomukset saattoivat syntyä. Englanninkielinen kansi. Ashraellen. Kirjasta runsaus ilman omistajan harhaa Sampo alkaa kysymyksestä, joka näyttää taloudelliselta ja päätyy ontologiseksi: mitä ihminen oikeastaan haluaa omistaa, kun hän haluaa runsauden lähteen? Kirjassa leipä, maa, puu, vesi, metsä ja talo eivät ole symboleja, jotka liimataan tarinan päälle. Ne ovat tapa, jolla maailma puhuu ihmiselle ennen käsitettä. Runsaus ei ole varasto, jonka voi sulkea oven taakse, vaan suhde siihen, mikä tuottaa elämä
+
+### fi/books/radiance/song/index.html
+
+- lang: fi
+- section: books
+- title: Ashraellen — Song | RADIANCE, Kirja II
+- description: Song on RADIANCE-sarjan toinen kirja: romaani äänestä, kuulemisesta, kielestä, kaupungista ja laulusta, joka ei suostu muuttumaan numeroksi.
+- canonical: https://www.ashraellen.com/fi/books/radiance/song/
+- H1: Song
+- H2: Kirjasta | Valittu katkelma | Tutkimuskehys | Julkaisutilanne
+- H3: _missing_
+- suggested keyword seed: song, ashraellen, kirja, äänestä, books, joka, radiance, ääni, alkaa, ennen, julkaisutilanne, katkelma, kaupungista, kielestä, kieli, kirjasta, kuulemisesta, laulusta
+- candidates: vain, joka, song, kirja, oli, alkaa, ennen, kieli, voiko, äänestä, ääni, ashraellen, ayla, eikä, englanninkielinen, hänet, hengitystä, ihminen, kansi, kaupungista, kielestä, kieltä, kun, kuulemisesta
+
+Excerpt:
+
+> RADIANCE — pohjoisia kertomuksia maailman todellisesta historiasta Song RADIANCE-sarjan toinen kirja. Romaani äänestä, joka ei ota valtaa: kuulemisesta, kielestä, kaupungista, työstä ja laulusta, joka ei suostu muuttumaan mittariksi. Sammon jälkeen runsauden kysymys vaihtuu sanan kysymykseen: voiko kieli olla jotain muuta kuin mielipide, argumentti tai itsensä esittely — voiko se virittää? Englanninkielinen kansi. Ashraellen. Kirjasta kuuleminen ennen hallintaa Song alkaa tavallisesta melusta. Junan kuulutuksesta, liikennevalon piippauksesta, ratikasta, jääkaapista, ihmisten puheesta — kaikesta siitä, minkä kaupunkilainen oppii suodattamaan taustaksi. Kun tausta lakkaa olemasta tausta, maailma ei muutu mystiseksi. Se muuttuu liian kuuluvaksi. Ääni ei enää vain kanna tietoa; se alkaa paljastaa, missä järjestyksessä ihminen asettuu suhteeseen ympäristönsä kanssa. Kirjan keskeinen kysymys e
 
 ### fi/contact.html
 
