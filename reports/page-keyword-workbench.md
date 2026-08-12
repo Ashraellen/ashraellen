@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T21:40:48.584Z
-Pages: 845
+Generated: 2026-08-12T21:41:30.079Z
+Pages: 846
 
 ## Index
 
@@ -367,6 +367,7 @@ Pages: 845
 | flow/index.html | root | flow | FLOW — Ashraellen | ashraellen, flow, playlist, youtube, music, doctype, html, title, window.location.replace, https, music.youtube.com, list, plliwih1l4vxtrzs4, wvti69pbdhddk4ny, iuwpb0ptwi1d1elk, script, root, 050505 | flow, ashraellen, playlist, music, youtube, open, opening |
 | focus-group/books/Error404/index.html | root | focus-group | Ошибка 404: Бог не найден — читательская панель | _missing_ | 404, бог, найден, ошибка, панель, читательская, ashraellen, books, ch.title, error404, escapehtml, focus, focus-group, group, важно, вычитки, где, главы |
 | focus-group/style-lab/dark/index.html | root | focus-group | Ashraellen — Dark Style Lab | _missing_ | dark, lab, style, ashraellen, текст, текстовые, 14px, 16px, badge, contact, current, focus, focus-group, group, pills, public, radius, serif-текст |
+| focus-group/style-lab/samizdat/index.html | root | focus-group | Ashraellen — Samizdat Style Lab | _missing_ | samizdat, lab, style, ashraellen, georgia, текст, 16px, 2.0, current, focus, focus-group, group, radius, system-ui, test, абзац, бумажном, вводный |
 | fr/books/demotopia/index.html | fr | books | Demotopia — Utopie démocratique — roman d’Ashraellen | Ashraellen, Demotopia, Utopie démocratique, roman philosophique, science-fiction sociale, Varsovie, démocratie, dictature, données, liberté, responsabilité | demotopia, roman, books, d’ashraellen, est, les, qui, artistique, ashraellen, atmosphère, avenir, cadre, choisi, circuits, d’un, démocratie, démocratique, des |
 | fr/books/error-404-god-not-found/index.html | fr | books | Ashraellen — Erreur 404 : Dieu introuvable | _missing_ | 404, dieu, erreur, introuvable, cycle, ashraellen, books, céleste, chancellerie, l’erreur, série, sur, contre, error, est, found, god, humaine |
 | fr/books/error-404-god-not-found/why-me/index.html | fr | books | Ashraellen — Pourquoi moi ? | _missing_ | livre, moi, pourquoi, ashraellen, books, 404, avec, bureaucratie, céleste, chancellerie, comme, couches, cycle, dans, demande, dieu, douleur, erreur |
@@ -6974,6 +6975,23 @@ Excerpt:
 Excerpt:
 
 > internal visual laboratory / dark system Dark Style Lab Изолированная страница для выбора типографики и компонентов основного тёмного сайта. Зелёная метка CURRENT означает существующее значение на сайте. Тёплая метка TEST — вариант для визуального сравнения. Отвечать можно коротко по ID: «D-T05 лучше, D-T02 мелкий, D-B03 оставить». 1. Основной текст: размер + межстрочный интервал Один и тот же текст. Меняется только размер и line-height. Сравнивай прежде всего комфорт длительного чтения на телефоне. D-T01 CURRENT 14px / 1.35 system-ui thought cards Текст не обязан объяснять себя быстрее, чем читатель успевает его услышать. Хороший ритм оставляет место смыслу, но не превращает страницу в лестницу из пустот. D-T02 CURRENT 14px / 1.78 system-ui public intro Текст не обязан объяснять себя быстрее, чем читатель успевает его услышать. Хороший ритм оставляет место смыслу, но не превращает стран
+
+### focus-group/style-lab/samizdat/index.html
+
+- lang: root
+- section: focus-group
+- title: Ashraellen — Samizdat Style Lab
+- description: _missing_
+- canonical: _missing_
+- H1: Samizdat Style Lab
+- H2: 1. Вводный абзац — system-ui | 2. Основной литературный текст — Georgia | 3. Заголовки и роли samizdat | 4. Реальные светлые компоненты | 5. Цитата | 6. Кнопки и метки на бумажном фоне | 7. Рамки, радиусы, тени | 8. Палитра samizdat
+- H3: Почему сейчас | Постоянный публичный паспорт
+- suggested keyword seed: samizdat, lab, style, ashraellen, georgia, текст, 16px, 2.0, current, focus, focus-group, group, radius, system-ui, test, абзац, бумажном, вводный
+- candidates: samizdat, 16px, current, текст, radius, test, через, паспорт, georgia, 2.0, где, постоянный, публичный, физическую, форму, system-ui, автором, возник, издание, каналы, классический, книгу, мог, можно
+
+Excerpt:
+
+> internal visual laboratory / samizdat paper system Samizdat Style Lab Изолированная страница для выбора светлой бумажной системы samizdat 2.0. Здесь собраны реальные текущие значения и тестовые варианты. Главная задача — глазами выбрать удобную типографику, ритм и форму компонентов. Можно отвечать по ID: «S-T04 беру, S-T01 слишком рыхлый, S-C02 нравится больше S-C01». 1. Вводный абзац — system-ui Исходная точка — реальный lead samizdat: 16px / 1.58. Рядом твой предложенный вариант 16px / 1.35 и промежуточные. S-T01 CURRENT 16px / 1.58 system-ui samizdat lead samizdat 2.0 — современная система для завершённых автором книг, получающих физическую форму вне индустриальной издательской цепочки и передаваемых читателю напрямую. Каждое издание сохраняет связь со своим происхождением через постоянный публичный паспорт. S-T02 TEST 16px / 1.35 system-ui твоя версия samizdat 2.0 — современная систе
 
 ### fr/books/demotopia/index.html
 

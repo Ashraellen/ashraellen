@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T21:40:48.570Z",
+  "generated": "2026-08-12T21:41:30.063Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -26690,6 +26690,86 @@
         "public",
         "radius",
         "serif-текст"
+      ]
+    },
+    {
+      "page": "focus-group/style-lab/samizdat/index.html",
+      "lang": "root",
+      "section": "focus-group",
+      "title": "Ashraellen — Samizdat Style Lab",
+      "description": "",
+      "existingKeywords": "",
+      "canonical": "",
+      "h1": [
+        "Samizdat Style Lab"
+      ],
+      "h2": [
+        "1. Вводный абзац — system-ui",
+        "2. Основной литературный текст — Georgia",
+        "3. Заголовки и роли samizdat",
+        "4. Реальные светлые компоненты",
+        "5. Цитата",
+        "6. Кнопки и метки на бумажном фоне",
+        "7. Рамки, радиусы, тени",
+        "8. Палитра samizdat"
+      ],
+      "h3": [
+        "Почему сейчас",
+        "Постоянный публичный паспорт"
+      ],
+      "slugTerms": [
+        "focus",
+        "group",
+        "style",
+        "lab",
+        "samizdat"
+      ],
+      "excerpt": "internal visual laboratory / samizdat paper system Samizdat Style Lab Изолированная страница для выбора светлой бумажной системы samizdat 2.0. Здесь собраны реальные текущие значения и тестовые варианты. Главная задача — глазами выбрать удобную типографику, ритм и форму компонентов. Можно отвечать по ID: «S-T04 беру, S-T01 слишком рыхлый, S-C02 нравится больше S-C01». 1. Вводный абзац — system-ui Исходная точка — реальный lead samizdat: 16px / 1.58. Рядом твой предложенный вариант 16px / 1.35 и промежуточные. S-T01 CURRENT 16px / 1.58 system-ui samizdat lead samizdat 2.0 — современная система для завершённых автором книг, получающих физическую форму вне индустриальной издательской цепочки и передаваемых читателю напрямую. Каждое издание сохраняет связь со своим происхождением через постоянный публичный паспорт. S-T02 TEST 16px / 1.35 system-ui твоя версия samizdat 2.0 — современная систе",
+      "candidates": [
+        "samizdat",
+        "16px",
+        "current",
+        "текст",
+        "radius",
+        "test",
+        "через",
+        "паспорт",
+        "georgia",
+        "2.0",
+        "где",
+        "постоянный",
+        "публичный",
+        "физическую",
+        "форму",
+        "system-ui",
+        "автором",
+        "возник",
+        "издание",
+        "каналы",
+        "классический",
+        "книгу",
+        "мог",
+        "можно"
+      ],
+      "suggestedKeywordSeed": [
+        "samizdat",
+        "lab",
+        "style",
+        "ashraellen",
+        "georgia",
+        "текст",
+        "16px",
+        "2.0",
+        "current",
+        "focus",
+        "focus-group",
+        "group",
+        "radius",
+        "system-ui",
+        "test",
+        "абзац",
+        "бумажном",
+        "вводный"
       ]
     },
     {
