@@ -1,32 +1,32 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T14:26:41.952Z
+Generated: 2026-08-12T14:27:44.308Z
 
 Pages checked: 841
 Pages with issues: 316
-Total issues: 1801
-Pages with review notes: 630
-Total review notes: 2206
+Total issues: 1796
+Pages with review notes: 631
+Total review notes: 2208
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 222 |
-| MISSING_TWITTER_IMAGE | 220 |
-| MISSING_TWITTER_CARD | 190 |
-| MISSING_OG_DESCRIPTION | 189 |
-| MISSING_JSON_LD | 186 |
-| MISSING_OG_IMAGE | 181 |
-| MISSING_OG_TITLE | 175 |
+| MISSING_KEYWORDS | 221 |
+| MISSING_TWITTER_IMAGE | 219 |
+| MISSING_TWITTER_CARD | 189 |
+| MISSING_OG_DESCRIPTION | 188 |
+| MISSING_JSON_LD | 185 |
+| MISSING_OG_IMAGE | 180 |
+| MISSING_OG_TITLE | 174 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
 | DUPLICATE_TITLE | 44 |
 | DUPLICATE_OG_TITLE | 42 |
 | DUPLICATE_KEYWORDS | 36 |
-| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 29 |
-| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 29 |
+| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 30 |
+| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 30 |
 | DESCRIPTION_TOO_SHORT | 27 |
 
 
@@ -34,8 +34,8 @@ Total review notes: 2206
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 630 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 594 |
+| DUPLICATE_OG_IMAGE_REVIEW | 631 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 595 |
 | FALLBACK_OG_IMAGE_USED | 504 |
 | FALLBACK_TWITTER_IMAGE_USED | 478 |
 
@@ -1244,16 +1244,11 @@ Total review notes: 2206
 - title: Ashraellen — Miniesseet
 - description length: 141
 - canonical: https://www.ashraellen.com/fi/public/posts/essay/
-- og:image: _missing_
-- twitter:image: _missing_
+- og:image: https://www.ashraellen.com/assets/symbol.png
+- twitter:image: https://www.ashraellen.com/assets/symbol.png
 
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_TITLE
-- MISSING_OG_DESCRIPTION
-- MISSING_OG_IMAGE
-- MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
+- OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/symbol.png
+- TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/symbol.png
 
 ### fi/public/posts/formula/lines/index.html
 
@@ -7596,8 +7591,8 @@ Total review notes: 2206
 - og:image: https://www.ashraellen.com/assets/symbol.png
 - twitter:image: https://www.ashraellen.com/assets/symbol.png
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 3 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 3 pages
 
 ### fi/public/posts/essay/cycles/index.html
 
@@ -7605,8 +7600,17 @@ Total review notes: 2206
 - og:image: https://www.ashraellen.com/assets/symbol.png
 - twitter:image: https://www.ashraellen.com/assets/symbol.png
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 3 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 3 pages
+
+### fi/public/posts/essay/index.html
+
+- title: Ashraellen — Miniesseet
+- og:image: https://www.ashraellen.com/assets/symbol.png
+- twitter:image: https://www.ashraellen.com/assets/symbol.png
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 3 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 3 pages
 
 ### fi/public/posts/formula/index.html
 
