@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T16:17:35.722Z",
+  "generated": "2026-08-12T16:18:59.071Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -22838,7 +22838,7 @@
       "section": "kone",
       "title": "Ashraellen — tiivistelmä Koneen Säätiölle",
       "description": "Suomenkielinen tiivistelmä Ashraellen-hankkeesta Koneen Säätiölle: elämänmittainen taiteellis-filosofinen tutkimus merkityksestä, kirjallisuudesta, videoista ja monikielisestä arkistosta.",
-      "existingKeywords": "ashraellen, kone, tiivistelmä, koneen, säätiölle, suomenkielinen, ashraellen-hankkeesta, elämänmittainen, taiteellis-filosofinen, tutkimus, merkityksestä, kirjallisuudesta, videoista, monikielisestä, arkistosta, tutkimuksen, ydin, tekijä",
+      "existingKeywords": "Ashraellen, Koneen Säätiö, taiteellinen tutkimus, kirjallisuus, MONOLIITTI, monikielinen arkisto",
       "canonical": "https://www.ashraellen.com/fi/kone/",
       "h1": [
         "Ashraellen"
@@ -22861,12 +22861,15 @@
         "ashraellen",
         "ovat",
         "tutkimus",
+        "englanninkielinen",
         "koneen",
         "miten",
         "tai",
         "tutkimuksen",
+        "budjetti",
         "infrastruktuuri",
         "julkinen",
+        "kuukauden",
         "nähdä",
         "ole",
         "pdf",
@@ -22876,17 +22879,15 @@
         "tapa",
         "tiivistelmä",
         "varten",
+        "ammatillinen",
         "arkisto",
-        "ashraellenin",
-        "asiakirjat",
-        "budget",
-        "dossier",
-        "elämänmittainen"
+        "ashraellenin"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",
         "koneen",
         "kone",
+        "kuukauden",
         "säätiölle",
         "tiivistelmä",
         "tutkimuksen",
@@ -22894,14 +22895,13 @@
         "arkistosta",
         "ashraellen-hankkeesta",
         "asiakirjat",
+        "budjetti",
         "elämänmittainen",
+        "englanninkielinen",
         "hankkeen",
         "infrastruktuuri",
         "julkinen",
-        "kirjallisuudesta",
-        "kuukauden",
-        "merkityksestä",
-        "miten"
+        "kirjallisuudesta"
       ]
     },
     {

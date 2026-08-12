@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T16:17:35.737Z
+Generated: 2026-08-12T16:18:59.088Z
 Pages: 842
 
 ## Index
@@ -314,7 +314,7 @@ Pages: 842
 | fi/books/you-are-already-online/index.html | fi | books | Ashraellen — Olet jo verkossa | _missing_ | olet, verkossa, ashraellen, books, hypertodellisuuden, luku, algoritmien, already, audioromaani, digitaalisen, enää, ennen, ensimmäinen, hän, ilman, immersiivinen, järjestelmä, katkelma |
 | fi/contact.html | fi | contact.html | Yhteys — Ashraellen — Suomi | Ashraellen, yhteys, yhteistyö, julkaiseminen, apurahat, media | ashraellen, yhteys, apurahoja, ashraellenin, julkaisemista, mediaa, projektia, varten, yhteistyötä, aineistot, contact, contact.html, julkiset, koskevia, suomi, telegram-yhteys, yhteydenottoja, yhteystiedot |
 | fi/index.html | fi | index.html | Ashraellen — Kirjat, tutkimus ja julkiset tekstit | Ashraellen, kirjat, taiteellinen tutkimus, kirjallis-filosofinen tutkimus, julkiset tekstit, sisäinen havainnointi | ashraellen, julkiset, kirjat, tekstit, itsenäinen, kirjallis-filosofinen, monikielinen, taiteellinen, tutkimus, tutkimuskäytäntö, havainnoinnin, index.html, joka, julkinen, sisäisen, tutkimuksen, videot, yhdistää |
-| fi/kone/index.html | fi | kone | Ashraellen — tiivistelmä Koneen Säätiölle | ashraellen, kone, tiivistelmä, koneen, säätiölle, suomenkielinen, ashraellen-hankkeesta, elämänmittainen, taiteellis-filosofinen, tutkimus, merkityksestä, kirjallisuudesta, videoista, monikielisestä, arkistosta, tutkimuksen, ydin, tekijä | ashraellen, koneen, kone, säätiölle, tiivistelmä, tutkimuksen, tutkimus, arkistosta, ashraellen-hankkeesta, asiakirjat, elämänmittainen, hankkeen, infrastruktuuri, julkinen, kirjallisuudesta, kuukauden, merkityksestä, miten |
+| fi/kone/index.html | fi | kone | Ashraellen — tiivistelmä Koneen Säätiölle | Ashraellen, Koneen Säätiö, taiteellinen tutkimus, kirjallisuus, MONOLIITTI, monikielinen arkisto | ashraellen, koneen, kone, kuukauden, säätiölle, tiivistelmä, tutkimuksen, tutkimus, arkistosta, ashraellen-hankkeesta, asiakirjat, budjetti, elämänmittainen, englanninkielinen, hankkeen, infrastruktuuri, julkinen, kirjallisuudesta |
 | fi/privacy.html | fi | privacy.html | Tietosuojakäytäntö — Ashraellen — Suomi | Ashraellen, tietosuoja, henkilötiedot, analytiikka, evästeet, GDPR | analytiikka, tietoja, tietosuojakäytäntö, ashraellen, evästeet, kerätä, palvelut, voidaan, ashraellen.com, ashraellen.comin, google, henkilötiedot, käsittelyn, kauan, käytetään, käyttää, käyttäjän, kolmannen |
 | fi/professional/index.html | fi | professional | Ashraellen — Ammatillinen esittely | _missing_ | ashraellen, havainnoinnin, ammatillinen, esittely, julkiset, menetelmä, muodot, professional, ammatilliset, arkisto, ashraellenin, avaa, havainnon, infrastruktuuri, julkinen, kanava, kautta, kehityssuunnitelma |
 | fi/public/index.html | fi | public | Ashraellen — Julkinen | Ashraellen, julkinen kenttä, tukiajatukset, havainnot, taiteellinen tutkimus | julkinen, ashraellen, ihmisen, missä, public, tutkimus, ajatus, älä, ashraellenin, avaa, elävän, enää, havaintoja, julkaisuja, julkaisut, kansa, kenttä, kohtaa |
@@ -6081,8 +6081,8 @@ Excerpt:
 - H1: Ashraellen
 - H2: Tutkimuksen ydin | Tekijä | Hankkeen rakenne | 12 kuukauden tavoite | Asiakirjat | Yhteys
 - H3: _missing_
-- suggested keyword seed: ashraellen, koneen, kone, säätiölle, tiivistelmä, tutkimuksen, tutkimus, arkistosta, ashraellen-hankkeesta, asiakirjat, elämänmittainen, hankkeen, infrastruktuuri, julkinen, kirjallisuudesta, kuukauden, merkityksestä, miten
-- candidates: ashraellen, ovat, tutkimus, koneen, miten, tai, tutkimuksen, infrastruktuuri, julkinen, nähdä, ole, pdf, säätiölle, suomenkielinen, taiteellis-filosofinen, tapa, tiivistelmä, varten, arkisto, ashraellenin, asiakirjat, budget, dossier, elämänmittainen
+- suggested keyword seed: ashraellen, koneen, kone, kuukauden, säätiölle, tiivistelmä, tutkimuksen, tutkimus, arkistosta, ashraellen-hankkeesta, asiakirjat, budjetti, elämänmittainen, englanninkielinen, hankkeen, infrastruktuuri, julkinen, kirjallisuudesta
+- candidates: ashraellen, ovat, tutkimus, englanninkielinen, koneen, miten, tai, tutkimuksen, budjetti, infrastruktuuri, julkinen, kuukauden, nähdä, ole, pdf, säätiölle, suomenkielinen, taiteellis-filosofinen, tapa, tiivistelmä, varten, ammatillinen, arkisto, ashraellenin
 
 Excerpt:
 
