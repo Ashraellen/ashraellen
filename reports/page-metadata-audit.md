@@ -1,19 +1,19 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T15:53:43.378Z
+Generated: 2026-08-12T15:55:26.025Z
 
 Pages checked: 841
-Pages with issues: 302
-Total issues: 1744
+Pages with issues: 301
+Total issues: 1742
 Pages with review notes: 638
-Total review notes: 2240
+Total review notes: 2241
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 209 |
-| MISSING_TWITTER_IMAGE | 208 |
+| MISSING_KEYWORDS | 208 |
+| MISSING_TWITTER_IMAGE | 207 |
 | MISSING_TWITTER_CARD | 187 |
 | MISSING_OG_DESCRIPTION | 184 |
 | MISSING_JSON_LD | 183 |
@@ -35,7 +35,7 @@ Total review notes: 2240
 | Item | Count |
 |---|---:|
 | DUPLICATE_OG_IMAGE_REVIEW | 638 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 606 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 607 |
 | FALLBACK_OG_IMAGE_USED | 509 |
 | FALLBACK_TWITTER_IMAGE_USED | 487 |
 
@@ -914,17 +914,6 @@ Total review notes: 2240
 - MISSING_JSON_LD
 - MISSING_OG_DESCRIPTION
 - MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
-
-### fi/books/index.html
-
-- title: Ashraellen — Kirjat
-- description length: 163
-- canonical: https://www.ashraellen.com/fi/books/
-- og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
-- twitter:image: _missing_
-
-- MISSING_KEYWORDS
 - MISSING_TWITTER_IMAGE
 
 ### fi/books/monolith/beton/index.html
@@ -4541,7 +4530,7 @@ Total review notes: 2240
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### be/books/monolith/beton/index.html
 
@@ -5235,7 +5224,7 @@ Total review notes: 2240
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### de/books/monolith/beton/index.html
 
@@ -5931,7 +5920,7 @@ Total review notes: 2240
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### en/books/monolith/beton/index.html
 
@@ -6625,7 +6614,7 @@ Total review notes: 2240
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### es/books/monolith/beton/index.html
 
@@ -7289,9 +7278,10 @@ Total review notes: 2240
 
 - title: Ashraellen — Kirjat
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
-- twitter:image: _missing_
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### fi/books/monolith/gas/index.html
 
@@ -7698,7 +7688,7 @@ Total review notes: 2240
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### fr/books/monolith/beton/index.html
 
@@ -8407,7 +8397,7 @@ Total review notes: 2240
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### pl/books/monolith/beton/index.html
 
@@ -9076,7 +9066,7 @@ Total review notes: 2240
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### pt/books/monolith/beton/index.html
 
@@ -9774,7 +9764,7 @@ Total review notes: 2240
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### ru/books/monolith/beton/index.html
 
@@ -10553,7 +10543,7 @@ Total review notes: 2240
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### uk/books/monolith/beton/index.html
 
