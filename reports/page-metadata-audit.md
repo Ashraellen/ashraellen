@@ -1,6 +1,6 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T14:54:06.216Z
+Generated: 2026-08-12T14:54:47.900Z
 
 Pages checked: 841
 Pages with issues: 311
@@ -996,8 +996,8 @@ Total review notes: 2216
 
 ### fi/books/radiance/index.html
 
-- title: Ashraellen — RADIANCE | Pohjoisia kertomuksia maailman todellisesta historiasta
-- description length: 159
+- title: Ashraellen — HOHDE | Pohjoisia kertomuksia maailman todellisesta historiasta
+- description length: 156
 - canonical: https://www.ashraellen.com/fi/books/radiance/
 - og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
 - twitter:image: _missing_
@@ -7421,7 +7421,7 @@ Total review notes: 2216
 
 ### fi/books/radiance/index.html
 
-- title: Ashraellen — RADIANCE | Pohjoisia kertomuksia maailman todellisesta historiasta
+- title: Ashraellen — HOHDE | Pohjoisia kertomuksia maailman todellisesta historiasta
 - og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
 - twitter:image: _missing_
 

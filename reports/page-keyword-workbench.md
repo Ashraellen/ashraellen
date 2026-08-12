@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T14:54:06.920Z
+Generated: 2026-08-12T14:54:48.580Z
 Pages: 842
 
 ## Index
@@ -302,7 +302,7 @@ Pages: 842
 | fi/books/monolith/gas/index.html | fi | books | Ashraellen — KAASU | _missing_ | kaasu, ashraellen, books, objektin, osa, alkaa, ennen, gas, ilman, jälkeen, joka, kantajan, katkelma, katoamisesta, kehys, kirjallinen, kirjasta, kokonaiskontrollista |
 | fi/books/monolith/index.html | fi | books | Ashraellen — MONOLIITTI | _missing_ | monoliitti, ashraellen, betoni, books, kaasu, liete, aineen, avaa, dystopiatrilogia, enää, filosofinen, hän, järjestelmien, kartta, kirjallinen, kontrollista, mihin, mikä |
 | fi/books/monolith/sludge/index.html | fi | books | Ashraellen — LIETE | _missing_ | liete, ashraellen, books, katkelma, osa, alkaa, dystopia, enää, englanninkielinen, filosofinen, hän, ihminen, joka, jossa, kehys, kirjallinen, kirjasta, menetyksestä |
-| fi/books/radiance/index.html | fi | books | Ashraellen — RADIANCE \| Pohjoisia kertomuksia maailman todellisesta historiasta | _missing_ | radiance, ashraellen, books, kertomukset, kirjallis-filosofinen, maailman, mitä, siitä, sykli, että, historiasta, ihminen, kertomuksia, kirja, kirjat, kuvallisia, maailmassa, mikä |
+| fi/books/radiance/index.html | fi | books | Ashraellen — HOHDE \| Pohjoisia kertomuksia maailman todellisesta historiasta | _missing_ | hohde, ashraellen, books, kertomukset, kirjallis-filosofinen, maailman, mitä, siitä, sykli, että, historiasta, ihminen, kertomuksia, kirja, kirjat, kuvallisia, maailmassa, mikä |
 | fi/books/radiance/sampo/index.html | fi | books | Ashraellen — Sampo \| RADIANCE, Kirja I | _missing_ | sampo, kirja, ashraellen, books, jossa, ole, radiance, ensimmäinen, erotettu, hän, ihminen, julkaisutilanne, katkelma, kehys, kertomus, kirjallis-filosofinen, kirjasta, kuin |
 | fi/books/radiance/song/index.html | fi | books | Ashraellen — Song \| RADIANCE, Kirja II | _missing_ | song, ashraellen, kirja, äänestä, books, joka, radiance, ääni, alkaa, ennen, julkaisutilanne, katkelma, kaupungista, kielestä, kieli, kirjasta, kuulemisesta, laulusta |
 | fi/books/samizdat/demotopia/index.html | fi | books | Demotopia — Kirjapassi — samizdat 2.0 | _missing_ | demotopia, samizdat, 2.0, kirjapassi, books, demotopian, julkaisu, ashraellen, democratic, demokratian, fyysinen, fyysisen, järjestelmässä, kirjasta, passi, pysyvä, pyydä, sen |
@@ -5871,18 +5871,18 @@ Excerpt:
 
 - lang: fi
 - section: books
-- title: Ashraellen — RADIANCE | Pohjoisia kertomuksia maailman todellisesta historiasta
-- description: RADIANCE on kirjallis-filosofinen taiteellisen tutkimuksen sykli siitä, miten vanhat pohjoiset kertomukset säilyttävät kuvallisia ohjeita maailmassa olemiseen.
+- title: Ashraellen — HOHDE | Pohjoisia kertomuksia maailman todellisesta historiasta
+- description: HOHDE on kirjallis-filosofinen taiteellisen tutkimuksen sykli siitä, miten vanhat pohjoiset kertomukset säilyttävät kuvallisia ohjeita maailmassa olemiseen.
 - canonical: https://www.ashraellen.com/fi/books/radiance/
-- H1: RADIANCE
-- H2: Mikä RADIANCE on | Sarjan kirjat | Tutkimuskehys | Mitä ei pidä sekoittaa tähän
-- H3: Kirja I — Sampo | Kirja II — Song | Kirja III — Forge
-- suggested keyword seed: radiance, ashraellen, books, kertomukset, kirjallis-filosofinen, maailman, mitä, siitä, sykli, että, historiasta, ihminen, kertomuksia, kirja, kirjat, kuvallisia, maailmassa, mikä
-- candidates: radiance, kirja, että, ihminen, ole, siitä, sykli, vaan, kertomukset, kirjallis-filosofinen, maailman, mitä, muoto, sampo, tutkii, tutkimuksen, vanhat, voiko, avaa, eikä, ennen, historiasta, iii, jossa
+- H1: HOHDE
+- H2: Mikä HOHDE on | Sarjan kirjat | Tutkimuskehys | Mitä ei pidä sekoittaa tähän
+- H3: Kirja I — Sampo | Kirja II — Laulu | Kirja III — Ahjo
+- suggested keyword seed: hohde, ashraellen, books, kertomukset, kirjallis-filosofinen, maailman, mitä, siitä, sykli, että, historiasta, ihminen, kertomuksia, kirja, kirjat, kuvallisia, maailmassa, mikä
+- candidates: hohde, kirja, että, ihminen, ole, siitä, sykli, vaan, kertomukset, kirjallis-filosofinen, maailman, mitä, muoto, sampo, tutkii, tutkimuksen, vanhat, voiko, avaa, eikä, ennen, historiasta, iii, jossa
 
 Excerpt:
 
-> Kirjallis-filosofinen sykli / taiteellinen tutkimus fiktion kautta RADIANCE Pohjoisia kertomuksia maailman todellisesta historiasta. Pitkä sykli, jossa taidemuoto ei selitä tutkimusta vaan tekee tutkimuksen mahdolliseksi. Emme kerro Kalevalaa uudelleen. Yritämme kuulla maailman, josta sellaiset kertomukset saattoivat syntyä. Mikä RADIANCE on ei mytologian koristelua Eepokset, sadut ja vanhat kertomukset voidaan lukea kuvallisina käyttöliittyminä kokemukseen, joka syntyi ennen nykyisiä käsitteitämme. Jokainen kansa sai oman maansa, ilmastonsa, työnsä, kielensä ja muistinsa mukaisen tavan puhua siitä, mitä ihminen tarvitsee pysyäkseen suhteessa maailmaan. RADIANCE tutkii tätä mahdollisuutta kirjallisuuden kautta. Suomen ja Karjalan aineisto sekä Kalevala muodostavat syklin pohjoisen selkärangan, mutta tarkoitus ei ole rekonstruoida oppia eikä tehdä fantasiaa. Kysymys on käytännöllisempi: v
+> Kirjallis-filosofinen sykli / taiteellinen tutkimus fiktion kautta HOHDE Pohjoisia kertomuksia maailman todellisesta historiasta. Pitkä sykli, jossa taidemuoto ei selitä tutkimusta vaan tekee tutkimuksen mahdolliseksi. Emme kerro Kalevalaa uudelleen. Yritämme kuulla maailman, josta sellaiset kertomukset saattoivat syntyä. Mikä HOHDE on ei mytologian koristelua Eepokset, sadut ja vanhat kertomukset voidaan lukea kuvallisina käyttöliittyminä kokemukseen, joka syntyi ennen nykyisiä käsitteitämme. Jokainen kansa sai oman maansa, ilmastonsa, työnsä, kielensä ja muistinsa mukaisen tavan puhua siitä, mitä ihminen tarvitsee pysyäkseen suhteessa maailmaan. HOHDE tutkii tätä mahdollisuutta kirjallisuuden kautta. Suomen ja Karjalan aineisto sekä Kalevala muodostavat syklin pohjoisen selkärangan, mutta tarkoitus ei ole rekonstruoida oppia eikä tehdä fantasiaa. Kysymys on käytännöllisempi: voiko tait
 
 ### fi/books/radiance/sampo/index.html
 

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T14:54:06.904Z",
+  "generated": "2026-08-12T14:54:48.565Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -21970,32 +21970,32 @@
       "page": "fi/books/radiance/index.html",
       "lang": "fi",
       "section": "books",
-      "title": "Ashraellen — RADIANCE | Pohjoisia kertomuksia maailman todellisesta historiasta",
-      "description": "RADIANCE on kirjallis-filosofinen taiteellisen tutkimuksen sykli siitä, miten vanhat pohjoiset kertomukset säilyttävät kuvallisia ohjeita maailmassa olemiseen.",
+      "title": "Ashraellen — HOHDE | Pohjoisia kertomuksia maailman todellisesta historiasta",
+      "description": "HOHDE on kirjallis-filosofinen taiteellisen tutkimuksen sykli siitä, miten vanhat pohjoiset kertomukset säilyttävät kuvallisia ohjeita maailmassa olemiseen.",
       "existingKeywords": "",
       "canonical": "https://www.ashraellen.com/fi/books/radiance/",
       "h1": [
-        "RADIANCE"
+        "HOHDE"
       ],
       "h2": [
-        "Mikä RADIANCE on",
+        "Mikä HOHDE on",
         "Sarjan kirjat",
         "Tutkimuskehys",
         "Mitä ei pidä sekoittaa tähän"
       ],
       "h3": [
         "Kirja I — Sampo",
-        "Kirja II — Song",
-        "Kirja III — Forge"
+        "Kirja II — Laulu",
+        "Kirja III — Ahjo"
       ],
       "slugTerms": [
         "fi",
         "books",
         "radiance"
       ],
-      "excerpt": "Kirjallis-filosofinen sykli / taiteellinen tutkimus fiktion kautta RADIANCE Pohjoisia kertomuksia maailman todellisesta historiasta. Pitkä sykli, jossa taidemuoto ei selitä tutkimusta vaan tekee tutkimuksen mahdolliseksi. Emme kerro Kalevalaa uudelleen. Yritämme kuulla maailman, josta sellaiset kertomukset saattoivat syntyä. Mikä RADIANCE on ei mytologian koristelua Eepokset, sadut ja vanhat kertomukset voidaan lukea kuvallisina käyttöliittyminä kokemukseen, joka syntyi ennen nykyisiä käsitteitämme. Jokainen kansa sai oman maansa, ilmastonsa, työnsä, kielensä ja muistinsa mukaisen tavan puhua siitä, mitä ihminen tarvitsee pysyäkseen suhteessa maailmaan. RADIANCE tutkii tätä mahdollisuutta kirjallisuuden kautta. Suomen ja Karjalan aineisto sekä Kalevala muodostavat syklin pohjoisen selkärangan, mutta tarkoitus ei ole rekonstruoida oppia eikä tehdä fantasiaa. Kysymys on käytännöllisempi: v",
+      "excerpt": "Kirjallis-filosofinen sykli / taiteellinen tutkimus fiktion kautta HOHDE Pohjoisia kertomuksia maailman todellisesta historiasta. Pitkä sykli, jossa taidemuoto ei selitä tutkimusta vaan tekee tutkimuksen mahdolliseksi. Emme kerro Kalevalaa uudelleen. Yritämme kuulla maailman, josta sellaiset kertomukset saattoivat syntyä. Mikä HOHDE on ei mytologian koristelua Eepokset, sadut ja vanhat kertomukset voidaan lukea kuvallisina käyttöliittyminä kokemukseen, joka syntyi ennen nykyisiä käsitteitämme. Jokainen kansa sai oman maansa, ilmastonsa, työnsä, kielensä ja muistinsa mukaisen tavan puhua siitä, mitä ihminen tarvitsee pysyäkseen suhteessa maailmaan. HOHDE tutkii tätä mahdollisuutta kirjallisuuden kautta. Suomen ja Karjalan aineisto sekä Kalevala muodostavat syklin pohjoisen selkärangan, mutta tarkoitus ei ole rekonstruoida oppia eikä tehdä fantasiaa. Kysymys on käytännöllisempi: voiko tait",
       "candidates": [
-        "radiance",
+        "hohde",
         "kirja",
         "että",
         "ihminen",
@@ -22021,7 +22021,7 @@
         "jossa"
       ],
       "suggestedKeywordSeed": [
-        "radiance",
+        "hohde",
         "ashraellen",
         "books",
         "kertomukset",
