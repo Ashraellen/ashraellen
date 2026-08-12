@@ -1,6 +1,6 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T14:35:39.177Z
+Generated: 2026-08-12T14:51:08.910Z
 
 Pages checked: 841
 Pages with issues: 313
@@ -967,7 +967,7 @@ Total review notes: 2216
 ### fi/books/index.html
 
 - title: Ashraellen — Kirjat
-- description length: 166
+- description length: 163
 - canonical: https://www.ashraellen.com/fi/books/
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: _missing_
