@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T12:28:40.857Z
+Generated: 2026-08-12T12:32:34.318Z
 
-Pages checked: 822
-Pages with issues: 301
-Total issues: 1856
+Pages checked: 828
+Pages with issues: 307
+Total issues: 1901
 Pages with review notes: 616
 Total review notes: 2164
 
@@ -12,20 +12,20 @@ Total review notes: 2164
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 239 |
-| MISSING_TWITTER_IMAGE | 237 |
-| MISSING_TWITTER_CARD | 207 |
-| MISSING_OG_DESCRIPTION | 206 |
-| MISSING_JSON_LD | 203 |
-| MISSING_OG_IMAGE | 197 |
-| MISSING_OG_TITLE | 190 |
+| MISSING_KEYWORDS | 245 |
+| MISSING_TWITTER_IMAGE | 243 |
+| MISSING_TWITTER_CARD | 213 |
+| MISSING_OG_DESCRIPTION | 212 |
+| MISSING_JSON_LD | 209 |
+| MISSING_OG_IMAGE | 203 |
+| MISSING_OG_TITLE | 196 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
 | DUPLICATE_TITLE | 44 |
 | DUPLICATE_OG_TITLE | 42 |
 | DUPLICATE_KEYWORDS | 36 |
-| DESCRIPTION_TOO_SHORT | 24 |
+| DESCRIPTION_TOO_SHORT | 27 |
 
 
 ## Review note summary
@@ -1483,6 +1483,105 @@ Total review notes: 2164
 - MISSING_OG_IMAGE
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
+
+### fi/public/thoughts/arcs/0013-problem-loses-crown.html
+
+- title: Ashraellen — Ongelma menettää kruununsa
+- description length: 62
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0013-problem-loses-crown.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 62
+
+### fi/public/thoughts/arcs/0014-end-of-extra-war.html
+
+- title: Ashraellen — Ylimääräisen sodan loppu
+- description length: 98
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0014-end-of-extra-war.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### fi/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
+
+- title: Ashraellen — Hieno ajatus tarvitsee hiljaisuutta
+- description length: 93
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### fi/public/thoughts/arcs/0016-one-fact.html
+
+- title: Ashraellen — Oli yksi fakta
+- description length: 81
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0016-one-fact.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### fi/public/thoughts/arcs/0017-witness-does-not-interfere.html
+
+- title: Ashraellen — Todistaja ei puutu väliin
+- description length: 79
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0017-witness-does-not-interfere.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 79
+
+### fi/public/thoughts/arcs/0018-image-cannot-be-happy.html
+
+- title: Ashraellen — Kuva ei voi olla onnellinen
+- description length: 77
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0018-image-cannot-be-happy.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 77
 
 ### fi/public/thoughts/index-0001.html
 
