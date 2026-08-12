@@ -75,6 +75,13 @@ html:has(link[rel="canonical"][href$="/books/monolith/"]) .quote-line{
   color:var(--fg);
 }
 
+/* The final phrase of the series is the one deliberate large semantic strike. */
+html:has(link[rel="canonical"][href$="/books/monolith/"]) .container > .list:last-of-type .quote,
+html:has(link[rel="canonical"][href$="/books/monolith/"]) .container > .list:last-of-type .quote-line{
+  font-size:20px;
+  line-height:1.4;
+}
+
 /* Cards and state descriptions: readable prose starts at 14px. */
 html:has(link[rel="canonical"][href$="/books/monolith/"]) .card p:not(.note),
 html:has(link[rel="canonical"][href$="/books/monolith/"]) .series-card p,
