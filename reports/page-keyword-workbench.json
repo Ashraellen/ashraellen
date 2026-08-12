@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T16:25:53.322Z",
+  "generated": "2026-08-12T16:33:31.301Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -22984,7 +22984,7 @@
       "section": "professional",
       "title": "Ashraellen — Ammatillinen esittely",
       "description": "Ashraellenin ammatillinen esittely: tekijä, havainnoinnin menetelmä, teokset, julkiset muodot, kehityssuunnitelma, infrastruktuuri, yhteistyö ja yhteystiedot.",
-      "existingKeywords": "",
+      "existingKeywords": "Ashraellen, taiteellinen tutkimus, kirjallisuus, MONOLIITTI, ammatillinen esittely, julkinen filosofia",
       "canonical": "https://www.ashraellen.com/fi/professional/",
       "h1": [
         "Ashraellen"
@@ -23707,7 +23707,7 @@
       "lang": "fi",
       "section": "public",
       "title": "Ashraellen — Julkaisut",
-      "description": "Ashraellenin lyhyet havaintomuodot: kaavat, fragmentit ja miniesseet.",
+      "description": "Ashraellenin julkiset lyhyet havaintomuodot: kaavat, fragmentit ja miniesseet, joissa ajatus kirjataan ennen kuin se kovettuu luennoksi.",
       "existingKeywords": "Ashraellen, julkaisut, kaavat, fragmentit, miniesseet",
       "canonical": "https://www.ashraellen.com/fi/public/posts/",
       "h1": [
@@ -23728,17 +23728,19 @@
       ],
       "excerpt": "Julkaisut Lyhyitä havaintomuotoja: kaavoja, fragmentteja ja miniesseitä. Eri tapoja saada ajatus kiinni ennen kuin se ehtii pukeutua luennoksi. Osastot valitse muoto kaava Kaavat Tiiviitä muotoiluja: yksi ajatus — yksi tarkka isku. Lue fragmentti Fragmentit Katkelmia suuremmista teksteistä ja työaineistosta: sävyn ja suunnan tunnistamiseen. Lue essee Miniesseet Pieni tutkimus: kysymys, katselukulma ja johtopäätös — ilman teatteria, mutta riittävällä tarkkuudella. Lue — mark of presence",
       "candidates": [
-        "lue",
         "ajatus",
+        "lue",
+        "ennen",
         "fragmentit",
         "julkaisut",
         "kaavat",
+        "kuin",
+        "luennoksi",
         "miniesseet",
         "yksi",
         "ashraellen",
         "ashraellenin",
         "ehtii",
-        "ennen",
         "eri",
         "essee",
         "fragmentteja",
@@ -23748,29 +23750,28 @@
         "ilman",
         "isku",
         "johtopäätös",
-        "kaava",
-        "kaavoja",
-        "katkelmia",
-        "katselukulma"
+        "joissa",
+        "julkiset"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",
         "julkaisut",
+        "ajatus",
         "ashraellenin",
+        "ennen",
         "fragmentit",
         "kaavat",
+        "kuin",
+        "luennoksi",
         "miniesseet",
         "public",
-        "ajatus",
-        "ehtii",
-        "ennen",
-        "eri",
         "havaintomuodot",
+        "joissa",
+        "julkiset",
+        "kirjataan",
+        "kovettuu",
         "lue",
-        "lyhyet",
-        "osastot",
-        "posts",
-        "yksi"
+        "lyhyet"
       ]
     },
     {
