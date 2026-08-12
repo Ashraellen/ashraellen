@@ -1,24 +1,24 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T13:31:02.906Z
+Generated: 2026-08-12T13:33:04.632Z
 
 Pages checked: 841
 Pages with issues: 320
-Total issues: 1872
-Pages with review notes: 616
-Total review notes: 2164
+Total issues: 1867
+Pages with review notes: 618
+Total review notes: 2168
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 234 |
-| MISSING_TWITTER_IMAGE | 232 |
-| MISSING_TWITTER_CARD | 202 |
-| MISSING_OG_DESCRIPTION | 201 |
-| MISSING_JSON_LD | 198 |
-| MISSING_OG_IMAGE | 192 |
-| MISSING_OG_TITLE | 185 |
+| MISSING_KEYWORDS | 233 |
+| MISSING_TWITTER_IMAGE | 231 |
+| MISSING_TWITTER_CARD | 201 |
+| MISSING_OG_DESCRIPTION | 200 |
+| MISSING_JSON_LD | 197 |
+| MISSING_OG_IMAGE | 191 |
+| MISSING_OG_TITLE | 184 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
@@ -26,16 +26,16 @@ Total review notes: 2164
 | DUPLICATE_OG_TITLE | 42 |
 | DUPLICATE_KEYWORDS | 36 |
 | DESCRIPTION_TOO_SHORT | 27 |
-| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 24 |
-| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 24 |
+| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 25 |
+| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 25 |
 
 
 ## Review note summary
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 616 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 579 |
+| DUPLICATE_OG_IMAGE_REVIEW | 618 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 581 |
 | FALLBACK_OG_IMAGE_USED | 498 |
 | FALLBACK_TWITTER_IMAGE_USED | 471 |
 
@@ -1678,16 +1678,11 @@ Total review notes: 2164
 - title: Ashraellen — Tukiajatusten ensimmäinen kaari
 - description length: 130
 - canonical: https://www.ashraellen.com/fi/public/thoughts/index-0001.html
-- og:image: _missing_
-- twitter:image: _missing_
+- og:image: https://www.ashraellen.com/assets/thoughts/0001-cheerfulness.jpg
+- twitter:image: https://www.ashraellen.com/assets/thoughts/0001-cheerfulness.jpg
 
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_TITLE
-- MISSING_OG_DESCRIPTION
-- MISSING_OG_IMAGE
-- MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
+- OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0001-cheerfulness.jpg
+- TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0001-cheerfulness.jpg
 
 ### fi/public/thoughts/index-0002.html
 
@@ -7694,6 +7689,24 @@ Total review notes: 2164
 
 - FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 498 pages
+
+### fi/public/thoughts/arcs/0001-cheerfulness.html
+
+- title: Ashraellen — Iloisuus ihmisen diagnoosina
+- og:image: https://www.ashraellen.com/assets/thoughts/0001-cheerfulness.jpg
+- twitter:image: https://www.ashraellen.com/assets/thoughts/0001-cheerfulness.jpg
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
+
+### fi/public/thoughts/index-0001.html
+
+- title: Ashraellen — Tukiajatusten ensimmäinen kaari
+- og:image: https://www.ashraellen.com/assets/thoughts/0001-cheerfulness.jpg
+- twitter:image: https://www.ashraellen.com/assets/thoughts/0001-cheerfulness.jpg
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
 
 ### fi/research/index.html
 
