@@ -22,7 +22,7 @@ jobs:
         shell: bash
         run: |
           cat .audit/patch.b64.* > /tmp/audit.patch.gz.b64
-          base64 -d /tmp/audit.patch.gz.b64 | gzip -d > /tmp/audit.patch
+          base64 --decode --ignore-garbage /tmp/audit.patch.gz.b64 | gzip -d > /tmp/audit.patch
           git apply --check /tmp/audit.patch
       - name: Apply patch and commit
         shell: bash
@@ -35,5 +35,3 @@ jobs:
           git add -A
           git commit -m 'Audit fixes: strip language-suffix titles, missing CSS links, remove JS text/link patches, dead code, translate research/notes+position'
           git push origin HEAD:audit-fixes-2026-08
-
-# Trigger after workflow exists on branch.
