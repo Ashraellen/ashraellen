@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.ashraellen.com/</loc>
-    <lastmod>2026-07-01T06:46:01+02:00</lastmod>
+    <lastmod>2026-08-12T13:13:48+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/be/</loc>
@@ -310,7 +310,7 @@
   </url>
   <url>
     <loc>https://www.ashraellen.com/de/books/monolith/gas/</loc>
-    <lastmod>2026-08-12T12:44:07+02:00</lastmod>
+    <lastmod>2026-08-12T10:44:56Z</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/de/books/monolith/sludge/</loc>
@@ -1153,8 +1153,20 @@
     <lastmod>2026-06-30T13:22:35Z</lastmod>
   </url>
   <url>
+    <loc>https://www.ashraellen.com/fi/</loc>
+    <lastmod>2026-08-12T13:13:48+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/fi/contact.html</loc>
+    <lastmod>2026-08-12T13:13:48+02:00</lastmod>
+  </url>
+  <url>
     <loc>https://www.ashraellen.com/fi/kone/</loc>
     <lastmod>2026-06-30T13:22:35Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/fi/privacy.html</loc>
+    <lastmod>2026-08-12T13:13:48+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/flow/</loc>

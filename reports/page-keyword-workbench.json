@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T10:44:25.999Z",
+  "generated": "2026-08-12T11:14:22.005Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -21331,6 +21331,137 @@
       ]
     },
     {
+      "page": "fi/contact.html",
+      "lang": "fi",
+      "section": "contact.html",
+      "title": "Yhteys — Ashraellen — Suomi",
+      "description": "Ashraellenin yhteystiedot yhteistyötä, julkaisemista, apurahoja, mediaa ja projektia koskevia yhteydenottoja varten.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/fi/contact.html",
+      "h1": [
+        "Yhteys"
+      ],
+      "h2": [
+        "Ashraellen"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "fi",
+        "contact"
+      ],
+      "excerpt": "Yhteyspiste Yhteys Yhteistyötä, julkaisemista, apurahoja, mediaa tai projektia koskevissa asioissa voit kirjoittaa suoraan. Ashraellen Nikolai Kostyshevin itsenäinen luova ja tutkimuksellinen projekti. Sähköposti: ashraellen.live@gmail.com Telegram-yhteys: @AshraellenLive Sijainti: Puola / Euroopan unioni Sopivia syitä ottaa yhteyttä: yhteistyö- ja kumppanuusehdotukset; julkaisemista ja kirjallisuutta koskevat tiedustelut; apurahat, residenssit ja tutkimusohjelmat; media, haastattelut ja julkiset aineistot; Ashraellenin projekteihin liittyvät kysymykset. Julkiset kanavat: YouTube — @ashraellen Instagram — @kostyshev Telegram-kanava — @ashraellenchannel Telegram-yhteys on suoria viestejä varten. Telegram-kanavalla julkaistaan tekstejä, muistiinpanoja, päivityksiä ja projektiaineistoa. — mark of presence",
+      "candidates": [
+        "ashraellen",
+        "julkaisemista",
+        "apurahoja",
+        "ashraellenin",
+        "julkiset",
+        "mediaa",
+        "projektia",
+        "telegram-yhteys",
+        "varten",
+        "yhteistyötä",
+        "yhteys",
+        "aineistot",
+        "apurahat",
+        "ashraellen.live",
+        "ashraellenchannel",
+        "ashraellenlive",
+        "asioissa",
+        "euroopan",
+        "gmail.com",
+        "haastattelut",
+        "instagram",
+        "itsenäinen",
+        "julkaistaan",
+        "kanavat"
+      ],
+      "suggestedKeywordSeed": [
+        "ashraellen",
+        "yhteys",
+        "apurahoja",
+        "ashraellenin",
+        "julkaisemista",
+        "mediaa",
+        "projektia",
+        "varten",
+        "yhteistyötä",
+        "aineistot",
+        "contact",
+        "contact.html",
+        "julkiset",
+        "koskevia",
+        "suomi",
+        "telegram-yhteys",
+        "yhteydenottoja",
+        "yhteystiedot"
+      ]
+    },
+    {
+      "page": "fi/index.html",
+      "lang": "fi",
+      "section": "index.html",
+      "title": "Ashraellen — Kirjat, tutkimus ja julkiset tekstit",
+      "description": "Ashraellen on itsenäinen monikielinen kirjallis-filosofinen ja taiteellinen tutkimuskäytäntö, joka yhdistää kirjat, tutkimuksen, julkiset tekstit, videot ja sisäisen havainnoinnin.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/fi/",
+      "h1": [
+        "Ashraellen"
+      ],
+      "h2": [],
+      "h3": [],
+      "slugTerms": [
+        "fi"
+      ],
+      "excerpt": "Ashraellen Kolme läsnäolon suuntaa: yksi havainnoi, yksi puhuu, yksi muuttuu kirjaksi. Tutkimus Julkinen Kirjat Tutkimus — ymmärrä mekanismeja. Julkinen — näe elävät reaktiot. Kirjat — elä malli sisältäpäin. Ammatillinen esittely Ashraellen on itsenäinen monikielinen kirjallis-filosofinen ja taiteellinen tutkimuskäytäntö. Se tarkastelee tietoisuutta, kieltä, järjestelmiä, satiiria, digitaalista painetta, sisäistä autonomiaa ja suoran havainnon katoamista kirjojen, julkisten tekstien, videon, äänen ja visuaalisten muotojen kautta. English Русский Беларуская Polski Deutsch Français Español Português Українська — mark of presence",
+      "candidates": [
+        "ashraellen",
+        "kirjat",
+        "tutkimus",
+        "yksi",
+        "itsenäinen",
+        "julkinen",
+        "julkiset",
+        "kirjallis-filosofinen",
+        "monikielinen",
+        "taiteellinen",
+        "tekstit",
+        "tutkimuskäytäntö",
+        "äänen",
+        "ammatillinen",
+        "autonomiaa",
+        "deutsch",
+        "digitaalista",
+        "elä",
+        "elävät",
+        "english",
+        "esittely",
+        "español",
+        "français",
+        "havainnoi"
+      ],
+      "suggestedKeywordSeed": [
+        "ashraellen",
+        "julkiset",
+        "kirjat",
+        "tekstit",
+        "itsenäinen",
+        "kirjallis-filosofinen",
+        "monikielinen",
+        "taiteellinen",
+        "tutkimus",
+        "tutkimuskäytäntö",
+        "havainnoinnin",
+        "index.html",
+        "joka",
+        "julkinen",
+        "sisäisen",
+        "tutkimuksen",
+        "videot",
+        "yhdistää"
+      ]
+    },
+    {
       "page": "fi/kone/index.html",
       "lang": "fi",
       "section": "kone",
@@ -21400,6 +21531,80 @@
         "kuukauden",
         "merkityksestä",
         "miten"
+      ]
+    },
+    {
+      "page": "fi/privacy.html",
+      "lang": "fi",
+      "section": "privacy.html",
+      "title": "Tietosuojakäytäntö — Ashraellen — Suomi",
+      "description": "Ashraellen.comin tietosuojakäytäntö: henkilötiedot, analytiikka, evästeet, käyttäjän oikeudet ja yhteystiedot.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/fi/privacy.html",
+      "h1": [
+        "Tietosuojakäytäntö"
+      ],
+      "h2": [
+        "1. Kuka vastaa tästä verkkosivustosta",
+        "2. Mitä tietoja voidaan kerätä",
+        "3. Mihin tietoja käytetään",
+        "4. Käsittelyn oikeusperuste",
+        "5. Analytiikka ja kolmannen osapuolen palvelut",
+        "6. Evästeet ja paikalliset teknologiat",
+        "7. Uutiskirje ja päivitykset",
+        "8. Ostot ja ulkoiset palvelut"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "fi",
+        "privacy"
+      ],
+      "excerpt": "Oikeudellinen läpinäkyvyys Tietosuojakäytäntö Tällä sivulla kerrotaan, miten Ashraellen.com voi kerätä, käyttää ja suojata henkilötietoja, kun kävijä käyttää verkkosivustoa. Päivitetty viimeksi: 25. toukokuuta 2026 1. Kuka vastaa tästä verkkosivustosta Ashraellen.com -sivustoa ylläpidetään osana Nikolai Kostysheviin liittyvää itsenäistä luovaa ja tutkimuksellista Ashraellen -projektia. Tietosuojaa, pyyntöjä tai yhteistyötä koskevissa asioissa voit ottaa yhteyttä osoitteeseen ashraellen.live@gmail.com . 2. Mitä tietoja voidaan kerätä Sivusto voi käsitellä rajallisesti teknisiä tietoja ja yhteystietoja: selaimen ja laitteen tietoja, likimääräistä verkkosijaintia, vierailtuja sivuja ja käyntiaikaa, IP-osoitteen anonymisointia käyttävän Google Analyticsin tietoja, vapaaehtoisesti lähettämiäsi sähköpostitietoja sekä selaimen tai service workerin tekniseen toimintaan tarvitsemia tietoja. Sivus",
+      "candidates": [
+        "tai",
+        "tietoja",
+        "voi",
+        "käyttää",
+        "voidaan",
+        "google",
+        "sivusto",
+        "analytiikka",
+        "ashraellen.com",
+        "kauan",
+        "kerätä",
+        "kun",
+        "palvelut",
+        "sitä",
+        "sivuston",
+        "tietojen",
+        "tietosuojakäytäntö",
+        "toimintaan",
+        "voit",
+        "amazonin",
+        "ashraellen",
+        "booksin",
+        "evästeet",
+        "henkilötietoja"
+      ],
+      "suggestedKeywordSeed": [
+        "analytiikka",
+        "tietoja",
+        "tietosuojakäytäntö",
+        "ashraellen",
+        "evästeet",
+        "kerätä",
+        "palvelut",
+        "voidaan",
+        "ashraellen.com",
+        "ashraellen.comin",
+        "google",
+        "henkilötiedot",
+        "käsittelyn",
+        "kauan",
+        "käytetään",
+        "käyttää",
+        "käyttäjän",
+        "kolmannen"
       ]
     },
     {

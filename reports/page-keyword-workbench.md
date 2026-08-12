@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T10:44:26.014Z
-Pages: 774
+Generated: 2026-08-12T11:14:22.021Z
+Pages: 777
 
 ## Index
 
@@ -294,7 +294,10 @@ Pages: 774
 | es/research/position/index.html | es | research | Ashraellen — Position — Spanish | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, es, research, position | position, ashraellen, como, artístico, campo, descripción, experiencia, experiencias, filosofía, independiente, interna, investigador, research, modelos, observación, religión, son, spanish |
 | es/research/projects/index.html | es | research | Ashraellen — Proyectos de investigación | ashraellen, research, projects, proyectos, investigación, mapa, campos, trabajo, monolith, canal, principal, campo, público, satíricos, laboratorios, laterales, percepción, instagram | ashraellen, proyectos, monolith, percepción, research, abrir, aquí, book, campo, campos, canal, church, como, cómo, con, del, inner, instagram |
 | es/research/sources/index.html | es | research | Ashraellen — Fuentes y tradición | ashraellen, research, sources, fuentes, tradición, fenomenología, conciencia, cuerpo, relato, ciencia, cognitiva, práctica, artística, edmund, husserl, experiencia, antes, las | como, ashraellen, conciencia, cuerpo, fuentes, relato, tradición, artística, experiencia, fenomenología, forma, research, antes, ciencia, cognitiva, comprensión, con, direcciones |
+| fi/contact.html | fi | contact.html | Yhteys — Ashraellen — Suomi | _missing_ | ashraellen, yhteys, apurahoja, ashraellenin, julkaisemista, mediaa, projektia, varten, yhteistyötä, aineistot, contact, contact.html, julkiset, koskevia, suomi, telegram-yhteys, yhteydenottoja, yhteystiedot |
+| fi/index.html | fi | index.html | Ashraellen — Kirjat, tutkimus ja julkiset tekstit | _missing_ | ashraellen, julkiset, kirjat, tekstit, itsenäinen, kirjallis-filosofinen, monikielinen, taiteellinen, tutkimus, tutkimuskäytäntö, havainnoinnin, index.html, joka, julkinen, sisäisen, tutkimuksen, videot, yhdistää |
 | fi/kone/index.html | fi | kone | Ashraellen — tiivistelmä Koneen Säätiölle | ashraellen, kone, tiivistelmä, koneen, säätiölle, suomenkielinen, ashraellen-hankkeesta, elämänmittainen, taiteellis-filosofinen, tutkimus, merkityksestä, kirjallisuudesta, videoista, monikielisestä, arkistosta, tutkimuksen, ydin, tekijä | ashraellen, koneen, kone, säätiölle, tiivistelmä, tutkimuksen, tutkimus, arkistosta, ashraellen-hankkeesta, asiakirjat, elämänmittainen, hankkeen, infrastruktuuri, julkinen, kirjallisuudesta, kuukauden, merkityksestä, miten |
+| fi/privacy.html | fi | privacy.html | Tietosuojakäytäntö — Ashraellen — Suomi | _missing_ | analytiikka, tietoja, tietosuojakäytäntö, ashraellen, evästeet, kerätä, palvelut, voidaan, ashraellen.com, ashraellen.comin, google, henkilötiedot, käsittelyn, kauan, käytetään, käyttää, käyttäjän, kolmannen |
 | flow/index.html | root | flow | FLOW — Ashraellen | ashraellen, flow, playlist, youtube, music, doctype, html, title, window.location.replace, https, music.youtube.com, list, plliwih1l4vxtrzs4, wvti69pbdhddk4ny, iuwpb0ptwi1d1elk, script, root, 050505 | flow, ashraellen, playlist, music, youtube, open, opening |
 | focus-group/books/Error404/index.html | root | focus-group | Ошибка 404: Бог не найден — читательская панель | _missing_ | 404, бог, найден, ошибка, панель, читательская, ashraellen, books, ch.title, error404, escapehtml, focus, focus-group, group, важно, вычитки, где, главы |
 | fr/books/demotopia/index.html | fr | books | Demotopia — Utopie démocratique — roman d’Ashraellen | Ashraellen, Demotopia, Utopie démocratique, roman philosophique, science-fiction sociale, Varsovie, démocratie, dictature, données, liberté, responsabilité | demotopia, roman, books, d’ashraellen, est, les, qui, artistique, ashraellen, atmosphère, avenir, cadre, choisi, circuits, d’un, démocratie, démocratique, des |
@@ -5663,6 +5666,40 @@ Excerpt:
 
 > Fuentes y tradición Esta investigación se sitúa en el cruce entre la fenomenología de la conciencia, la epistemología narrativa, la ciencia cognitiva y la práctica artística. Husserl construye un método de descripción precisa de la experiencia. Merleau-Ponty devuelve la conciencia al cuerpo. Ricœur muestra que el relato no es un adorno del pensamiento, sino una forma de comprensión de sí. Varela, Thompson y Rosch acercan la fenomenología a la ciencia cognitiva y a la experiencia vivida. Ashraellen trabaja allí donde estas líneas se cruzan: en una zona donde el texto académico por sí solo ya no basta, y donde la experiencia viva todavía no ha recibido una forma exacta. Fenomenología de la conciencia Edmund Husserl — la experiencia antes de las explicaciones hechas Lo importante aquí no es creer el primer pensamiento, sino observar con precisión cómo la experiencia aparece en la conciencia
 
+### fi/contact.html
+
+- lang: fi
+- section: contact.html
+- title: Yhteys — Ashraellen — Suomi
+- description: Ashraellenin yhteystiedot yhteistyötä, julkaisemista, apurahoja, mediaa ja projektia koskevia yhteydenottoja varten.
+- canonical: https://www.ashraellen.com/fi/contact.html
+- H1: Yhteys
+- H2: Ashraellen
+- H3: _missing_
+- suggested keyword seed: ashraellen, yhteys, apurahoja, ashraellenin, julkaisemista, mediaa, projektia, varten, yhteistyötä, aineistot, contact, contact.html, julkiset, koskevia, suomi, telegram-yhteys, yhteydenottoja, yhteystiedot
+- candidates: ashraellen, julkaisemista, apurahoja, ashraellenin, julkiset, mediaa, projektia, telegram-yhteys, varten, yhteistyötä, yhteys, aineistot, apurahat, ashraellen.live, ashraellenchannel, ashraellenlive, asioissa, euroopan, gmail.com, haastattelut, instagram, itsenäinen, julkaistaan, kanavat
+
+Excerpt:
+
+> Yhteyspiste Yhteys Yhteistyötä, julkaisemista, apurahoja, mediaa tai projektia koskevissa asioissa voit kirjoittaa suoraan. Ashraellen Nikolai Kostyshevin itsenäinen luova ja tutkimuksellinen projekti. Sähköposti: ashraellen.live@gmail.com Telegram-yhteys: @AshraellenLive Sijainti: Puola / Euroopan unioni Sopivia syitä ottaa yhteyttä: yhteistyö- ja kumppanuusehdotukset; julkaisemista ja kirjallisuutta koskevat tiedustelut; apurahat, residenssit ja tutkimusohjelmat; media, haastattelut ja julkiset aineistot; Ashraellenin projekteihin liittyvät kysymykset. Julkiset kanavat: YouTube — @ashraellen Instagram — @kostyshev Telegram-kanava — @ashraellenchannel Telegram-yhteys on suoria viestejä varten. Telegram-kanavalla julkaistaan tekstejä, muistiinpanoja, päivityksiä ja projektiaineistoa. — mark of presence
+
+### fi/index.html
+
+- lang: fi
+- section: index.html
+- title: Ashraellen — Kirjat, tutkimus ja julkiset tekstit
+- description: Ashraellen on itsenäinen monikielinen kirjallis-filosofinen ja taiteellinen tutkimuskäytäntö, joka yhdistää kirjat, tutkimuksen, julkiset tekstit, videot ja sisäisen havainnoinnin.
+- canonical: https://www.ashraellen.com/fi/
+- H1: Ashraellen
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: ashraellen, julkiset, kirjat, tekstit, itsenäinen, kirjallis-filosofinen, monikielinen, taiteellinen, tutkimus, tutkimuskäytäntö, havainnoinnin, index.html, joka, julkinen, sisäisen, tutkimuksen, videot, yhdistää
+- candidates: ashraellen, kirjat, tutkimus, yksi, itsenäinen, julkinen, julkiset, kirjallis-filosofinen, monikielinen, taiteellinen, tekstit, tutkimuskäytäntö, äänen, ammatillinen, autonomiaa, deutsch, digitaalista, elä, elävät, english, esittely, español, français, havainnoi
+
+Excerpt:
+
+> Ashraellen Kolme läsnäolon suuntaa: yksi havainnoi, yksi puhuu, yksi muuttuu kirjaksi. Tutkimus Julkinen Kirjat Tutkimus — ymmärrä mekanismeja. Julkinen — näe elävät reaktiot. Kirjat — elä malli sisältäpäin. Ammatillinen esittely Ashraellen on itsenäinen monikielinen kirjallis-filosofinen ja taiteellinen tutkimuskäytäntö. Se tarkastelee tietoisuutta, kieltä, järjestelmiä, satiiria, digitaalista painetta, sisäistä autonomiaa ja suoran havainnon katoamista kirjojen, julkisten tekstien, videon, äänen ja visuaalisten muotojen kautta. English Русский Беларуская Polski Deutsch Français Español Português Українська — mark of presence
+
 ### fi/kone/index.html
 
 - lang: fi
@@ -5679,6 +5716,23 @@ Excerpt:
 Excerpt:
 
 > Suomenkielinen tiivistelmä Koneen Säätiölle Ashraellen Tapa nähdä · Taiteellis-filosofinen tutkimus · Monikielinen kirjallinen ja julkinen arkisto Tämä sivu on lyhyt suomenkielinen johdanto Ashraellen-hankkeeseen Koneen Säätiön kontekstia varten. Laajemmat asiakirjat ovat englanniksi: ammatillinen dossier, 12 kuukauden projektisuunnitelma ja budjetti. Tutkimuksen ydin Ashraellen ei ole vain nimi, vaan tapa nähdä. Se on elämänmittainen taiteellis-filosofinen tutkimus merkityksestä, havainnosta, itsepetoksesta, sisäisestä vapaudesta ja ihmisen yhteyden katoamisesta todellisuuteen. Projekti ei synny tarpeesta tuottaa sisältöä, vaan erityisestä tavasta havaita merkityksiä merkitysten sisällä, rakenteita rakenteiden sisällä ja yhteyksiä siellä, missä pinnalla näyttää olevan vain yksittäinen ajatus, arkinen kohtaus, henkilökohtainen reaktio tai satunnainen lause. Ashraellenin kirjat, romaanisa
+
+### fi/privacy.html
+
+- lang: fi
+- section: privacy.html
+- title: Tietosuojakäytäntö — Ashraellen — Suomi
+- description: Ashraellen.comin tietosuojakäytäntö: henkilötiedot, analytiikka, evästeet, käyttäjän oikeudet ja yhteystiedot.
+- canonical: https://www.ashraellen.com/fi/privacy.html
+- H1: Tietosuojakäytäntö
+- H2: 1. Kuka vastaa tästä verkkosivustosta | 2. Mitä tietoja voidaan kerätä | 3. Mihin tietoja käytetään | 4. Käsittelyn oikeusperuste | 5. Analytiikka ja kolmannen osapuolen palvelut | 6. Evästeet ja paikalliset teknologiat | 7. Uutiskirje ja päivitykset | 8. Ostot ja ulkoiset palvelut
+- H3: _missing_
+- suggested keyword seed: analytiikka, tietoja, tietosuojakäytäntö, ashraellen, evästeet, kerätä, palvelut, voidaan, ashraellen.com, ashraellen.comin, google, henkilötiedot, käsittelyn, kauan, käytetään, käyttää, käyttäjän, kolmannen
+- candidates: tai, tietoja, voi, käyttää, voidaan, google, sivusto, analytiikka, ashraellen.com, kauan, kerätä, kun, palvelut, sitä, sivuston, tietojen, tietosuojakäytäntö, toimintaan, voit, amazonin, ashraellen, booksin, evästeet, henkilötietoja
+
+Excerpt:
+
+> Oikeudellinen läpinäkyvyys Tietosuojakäytäntö Tällä sivulla kerrotaan, miten Ashraellen.com voi kerätä, käyttää ja suojata henkilötietoja, kun kävijä käyttää verkkosivustoa. Päivitetty viimeksi: 25. toukokuuta 2026 1. Kuka vastaa tästä verkkosivustosta Ashraellen.com -sivustoa ylläpidetään osana Nikolai Kostysheviin liittyvää itsenäistä luovaa ja tutkimuksellista Ashraellen -projektia. Tietosuojaa, pyyntöjä tai yhteistyötä koskevissa asioissa voit ottaa yhteyttä osoitteeseen ashraellen.live@gmail.com . 2. Mitä tietoja voidaan kerätä Sivusto voi käsitellä rajallisesti teknisiä tietoja ja yhteystietoja: selaimen ja laitteen tietoja, likimääräistä verkkosijaintia, vierailtuja sivuja ja käyntiaikaa, IP-osoitteen anonymisointia käyttävän Google Analyticsin tietoja, vapaaehtoisesti lähettämiäsi sähköpostitietoja sekä selaimen tai service workerin tekniseen toimintaan tarvitsemia tietoja. Sivus
 
 ### flow/index.html
 
