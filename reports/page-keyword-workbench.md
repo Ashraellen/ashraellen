@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T13:03:24.777Z
+Generated: 2026-08-12T13:04:12.009Z
 Pages: 842
 
 ## Index
@@ -346,7 +346,7 @@ Pages: 842
 | fi/public/thoughts/arcs/0015-subtle-thought-needs-silence.html | fi | public | Ashraellen — Hieno ajatus tarvitsee hiljaisuutta | Ashraellen, tukiajatus, hiljaisuus, ymmärtäminen, hienovaraisuus | ajatus, hiljaisuutta, hieno, tarvitsee, 0015, ashraellen, public, tarvitse, tullakseen, vaan, aikaa, aina, arcs, herkkyyttä, hienovarainen, joskus, karkeaksi, karkeutta |
 | fi/public/thoughts/arcs/0016-one-fact.html | fi | public | Ashraellen — Oli yksi fakta | Ashraellen, tukiajatus, fakta, tulkinta, ahdistus | fakta, yksi, oli, 0016, ajatus, ashraellen, mitä, public, tiedän, varmasti, arcs, fact, itse, joku, kärsimyssarjaksi, koko, kokonaiseksi, kuin |
 | fi/public/thoughts/arcs/0017-witness-does-not-interfere.html | fi | public | Ashraellen — Todistaja ei puutu väliin | Ashraellen, tukiajatus, todistaja, rauhallisuus, läsnäolo | todistaja, aikojaan, ajatus, ashraellen, ennen, näkyväksi, ole, public, puutu, vaan, väliin, 0017, arcs, does, estämättä, ihminen, interfere, joka |
-| fi/public/thoughts/arcs/0018-image-cannot-be-happy.html | fi | public | Ashraellen — Kuva ei voi olla onnellinen | _missing_ | voi, kuva, olla, onnellinen, ajatus, ashraellen, mutta, public, 0018, arcs, cannot, hänen, happy, ihminen, image, itsensä, koko, kuvan |
+| fi/public/thoughts/arcs/0018-image-cannot-be-happy.html | fi | public | Ashraellen — Kuva ei voi olla onnellinen | Ashraellen, tukiajatus, minäkuva, aitous, itsensä toteuttaminen | voi, kuva, olla, onnellinen, ajatus, ashraellen, elää, ihminen, mutta, public, 0018, arcs, cannot, elävä, hänen, happy, ihmisen, image |
 | fi/public/thoughts/arcs/0019-do-not-bomb.html | fi | public | Ashraellen — Älä pommita | _missing_ | älä, pommita, ajatus, ashraellen, niin, pommiteta, public, tämä, 0019, arcs, bomb, ensin, että, hän, ihminen, koko, maailmaan, miksi |
 | fi/public/thoughts/arcs/0020-people-and-mass.html | fi | public | Ashraellen — Kansa ja massa | _missing_ | kansa, massa, ajatus, ashraellen, public, 0020, arcs, hänen, ihminen, kansan, koko, mass, massan, miksi, minä, minussa, mitä, muistaa |
 | fi/public/thoughts/arcs/0021-mating-games.html | fi | public | Ashraellen — Parittelupelit | _missing_ | ajatus, alkavat, ashraellen, jonka, koko, parittelupelit, public, 0021, arcs, games, hän, joka, joku, jotkut, kauan, kun, mating, miksi |
@@ -6620,13 +6620,13 @@ Excerpt:
 - lang: fi
 - section: public
 - title: Ashraellen — Kuva ei voi olla onnellinen
-- description: Tukiajatus 0018: kuva voi saada tunnustusta, mutta se ei voi olla onnellinen.
+- description: Tukiajatus 0018: ihmisen rakentama kuva voi saada tunnustusta, mutta vain elävä ihminen voi todella elää ja olla onnellinen.
 - canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0018-image-cannot-be-happy.html
 - H1: Kuva ei voi olla onnellinen
 - H2: Ajatus | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
 - H3: _missing_
-- suggested keyword seed: voi, kuva, olla, onnellinen, ajatus, ashraellen, mutta, public, 0018, arcs, cannot, hänen, happy, ihminen, image, itsensä, koko, kuvan
-- candidates: voi, kuva, olla, oikeaa, ihminen, mutta, onnellinen, sitä, ajatus, hänen, itsensä, kuvan, mikä, elää, kun, näyttää, pitäisi, saada, sen, toteuttaminen, toteuttamisen, tunnustusta, 0018, aikaan
+- suggested keyword seed: voi, kuva, olla, onnellinen, ajatus, ashraellen, elää, ihminen, mutta, public, 0018, arcs, cannot, elävä, hänen, happy, ihmisen, image
+- candidates: voi, kuva, olla, ihminen, oikeaa, mutta, onnellinen, sitä, ajatus, elää, hänen, itsensä, kuvan, mikä, kun, näyttää, pitäisi, saada, sen, todella, toteuttaminen, toteuttamisen, tunnustusta, 0018
 
 Excerpt:
 
