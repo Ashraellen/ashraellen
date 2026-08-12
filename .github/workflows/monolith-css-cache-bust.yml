@@ -1,0 +1,36 @@
+name: MONOLITH CSS cache bust
+
+on:
+  push:
+    paths:
+      - '.github/workflows/monolith-css-cache-bust.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  bump:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Bump shared MONOLITH CSS version
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          langs = ('en','ru','pl','be','uk','de','fr','es','pt','fi')
+          old = '../../../assets/books-monolith.css?v=20260813-2'
+          new = '../../../assets/books-monolith.css?v=20260813-3'
+          for lang in langs:
+              path = Path(lang)/'books'/'monolith'/'index.html'
+              text = path.read_text(encoding='utf-8')
+              if old not in text:
+                  raise SystemExit(f'Expected old CSS version missing in {path}')
+              text = text.replace(old,new,1)
+              path.write_text(text,encoding='utf-8')
+          PY
+          git config user.name 'Ashraellen'
+          git config user.email 'ashraellen@gmail.com'
+          git add en/books/monolith/index.html ru/books/monolith/index.html pl/books/monolith/index.html be/books/monolith/index.html uk/books/monolith/index.html de/books/monolith/index.html fr/books/monolith/index.html es/books/monolith/index.html pt/books/monolith/index.html fi/books/monolith/index.html
+          git commit -m 'Bust MONOLITH landing CSS cache'
+          git push origin HEAD:main
