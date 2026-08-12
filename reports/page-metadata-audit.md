@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T13:30:00.391Z
+Generated: 2026-08-12T13:31:02.906Z
 
 Pages checked: 841
 Pages with issues: 320
-Total issues: 1877
+Total issues: 1872
 Pages with review notes: 616
 Total review notes: 2164
 
@@ -12,13 +12,13 @@ Total review notes: 2164
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 235 |
-| MISSING_TWITTER_IMAGE | 233 |
-| MISSING_TWITTER_CARD | 203 |
-| MISSING_OG_DESCRIPTION | 202 |
-| MISSING_JSON_LD | 199 |
-| MISSING_OG_IMAGE | 193 |
-| MISSING_OG_TITLE | 186 |
+| MISSING_KEYWORDS | 234 |
+| MISSING_TWITTER_IMAGE | 232 |
+| MISSING_TWITTER_CARD | 202 |
+| MISSING_OG_DESCRIPTION | 201 |
+| MISSING_JSON_LD | 198 |
+| MISSING_OG_IMAGE | 192 |
+| MISSING_OG_TITLE | 185 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
@@ -26,8 +26,8 @@ Total review notes: 2164
 | DUPLICATE_OG_TITLE | 42 |
 | DUPLICATE_KEYWORDS | 36 |
 | DESCRIPTION_TOO_SHORT | 27 |
-| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 23 |
-| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 23 |
+| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 24 |
+| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 24 |
 
 
 ## Review note summary
@@ -1524,16 +1524,11 @@ Total review notes: 2164
 - title: Ashraellen — Älä kadu
 - description length: 98
 - canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0011-do-not-regret.html
-- og:image: _missing_
-- twitter:image: _missing_
+- og:image: https://www.ashraellen.com/assets/thoughts/0011-do-not-regret.jpg
+- twitter:image: https://www.ashraellen.com/assets/thoughts/0011-do-not-regret.jpg
 
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_TITLE
-- MISSING_OG_DESCRIPTION
-- MISSING_OG_IMAGE
-- MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
+- OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0011-do-not-regret.jpg
+- TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0011-do-not-regret.jpg
 
 ### fi/public/thoughts/arcs/0012-close-the-book.html
 
