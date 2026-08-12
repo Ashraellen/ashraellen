@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T19:27:42.820Z",
+  "generated": "2026-08-12T20:59:34.004Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -2350,7 +2350,7 @@
       "page": "be/public/posts/fragment/index.html",
       "lang": "be",
       "section": "public",
-      "title": "Ashraellen — Фрагменты — Belarusian",
+      "title": "Ashraellen — Фрагменты",
       "description": "Фрагменты Ashraellen па-беларуску: раздзел, які рыхтуецца на аснове вялікага архіва рукапісаў, нататак і публікацый.",
       "existingKeywords": "ashraellen, public, posts, fragment, фрагменты, па-беларуску, раздзел, які, рыхтуецца, аснове, вялікага, архіва, рукапісаў, нататак, публікацый, doctype, html, title",
       "canonical": "https://www.ashraellen.com/be/public/posts/fragment/",
@@ -2383,7 +2383,6 @@
         "тэкстаў",
         "які",
         "archive",
-        "belarusian",
         "mark",
         "presence",
         "work",
@@ -2392,7 +2391,8 @@
         "аснове",
         "будучы",
         "выбар",
-        "выбраныя"
+        "выбраныя",
+        "вытрымкі"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",
@@ -2404,7 +2404,6 @@
         "нататак",
         "публікацый",
         "рукапісаў",
-        "belarusian",
         "fragment",
         "posts",
         "архіў",
@@ -2412,7 +2411,8 @@
         "вялікага",
         "па-беларуску",
         "рабочых",
-        "тут"
+        "тут",
+        "тэкстаў"
       ]
     },
     {
@@ -4045,7 +4045,7 @@
       "page": "be/public/thoughts/arcs/0020-people-and-mass.html",
       "lang": "be",
       "section": "public",
-      "title": "Ashraellen — Народ і маса — Belarusian",
+      "title": "Ashraellen — Народ і маса",
       "description": "Апорная думка 0020: народ памятае. Маса рэагуе. Народ і маса Сэнс Поўны тэкст Чаму выбрана Даследчая нататка Апорная думка 0020 Народ і маса Народ памятае. Маса рэагуе. Сэнс Народ складаецца з твараў, памяці, мовы і…",
       "existingKeywords": "ashraellen, public, thoughts, arcs, 0020, people, mass, народ, маса, апорная, думка, памятае, рэагуе, сэнс, поўны, тэкст, чаму, выбрана",
       "canonical": "https://www.ashraellen.com/be/public/thoughts/arcs/0020-people-and-mass.html",
@@ -4113,7 +4113,7 @@
         "тэкст",
         "чаму",
         "arcs",
-        "belarusian"
+        "mass"
       ]
     },
     {
@@ -5001,7 +5001,7 @@
         "Ashraellen",
         "Instagram",
         "Telegram",
-        "Church of Saint Whine",
+        "Царква Святога Ныцця",
         "Кніга Ныцця",
         "Occultus Scriptorium",
         "Melodies & Sounds of Inner Spirit"
@@ -5031,12 +5031,12 @@
         "даследуе",
         "дзе",
         "думка",
+        "ныцця",
         "праект",
         "працуюць",
         "розныя",
         "рэакцыі",
         "формы",
-        "church",
         "instagram"
       ],
       "suggestedKeywordSeed": [
@@ -5048,16 +5048,16 @@
         "бакавыя",
         "канал",
         "лабараторыі",
+        "ныцця",
         "поле",
-        "church",
         "inner",
         "instagram",
         "melodies",
         "occultus",
         "projects",
-        "saint",
         "scriptorium",
-        "sounds"
+        "sounds",
+        "spirit"
       ]
     },
     {
@@ -6555,7 +6555,7 @@
       "page": "de/contact.html",
       "lang": "de",
       "section": "contact.html",
-      "title": "Kontakt — Ashraellen — German",
+      "title": "Kontakt — Ashraellen",
       "description": "Kontaktseite von Ashraellen: Zusammenarbeit, Publikationen, Förderungen, Medien und Projektanfragen.",
       "existingKeywords": "ashraellen, contact, kontakt, kontaktseite, von, zusammenarbeit, publikationen, förderungen, medien, und, projektanfragen, doctype, html, title, function, const, isgithub, location.hostname.endswith",
       "canonical": "https://www.ashraellen.com/de/contact.html",
@@ -6610,7 +6610,6 @@
         "contact.html",
         "der",
         "dient",
-        "german",
         "kontaktseite",
         "kostyshev",
         "öffentliche",
@@ -6685,7 +6684,7 @@
       "page": "de/monolith/index.html",
       "lang": "de",
       "section": "monolith",
-      "title": "MONOLITH — Ashraellen — German",
+      "title": "MONOLITH — Ashraellen",
       "description": "MONOLITH: BETON. SLUDGE. GAS. MONOLITH BETON SLUDGE GAS MONOLITH Drei Zustände kontrollierten Zerfalls: BETON. SLUDGE. GAS. MONOLITH ist eine dystopische Trilogie über Kontrolle, Erinnerung und den Zerfall von Systemen…",
       "existingKeywords": "ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, de, monolith",
       "canonical": "https://www.ashraellen.com/de/monolith/",
@@ -6746,8 +6745,8 @@
         "drei",
         "dystopische",
         "eine",
-        "german",
-        "kontrolle"
+        "kontrolle",
+        "kontrollierten"
       ]
     },
     {
@@ -7132,7 +7131,7 @@
       "page": "de/public/posts/essay/index.html",
       "lang": "de",
       "section": "public",
-      "title": "Ashraellen — Mini-Essays — German",
+      "title": "Ashraellen — Mini-Essays",
       "description": "Mini-Essays Erster Zyklus Macht nicht über den Gedanken, sondern über die Aufmerksamkeit Der Körper ist die erste Tür, aber nicht das Ziel Die Vergangenheit ist ihre Deutung Mini-Essays Kurze Betrachtungen: eine Frage,…",
       "existingKeywords": "ashraellen, public, posts, essay, mini-essays, erster, zyklus, macht, nicht, über, den, gedanken, sondern, die, aufmerksamkeit, der, körper, ist",
       "canonical": "https://www.ashraellen.com/de/public/posts/essay/",
@@ -10010,7 +10009,7 @@
       "page": "de/research/notes/index.html",
       "lang": "de",
       "section": "research",
-      "title": "Ashraellen — Notes — German",
+      "title": "Ashraellen — Notes",
       "description": "Notes / Margins Ashraellen Notes / Margins Ränder, Zweifel, Fragmente. Material, das sich weigert, zur Doktrin zu werden. Wenn es unfertig wirkt — genau darum geht es. ← Research Public",
       "existingKeywords": "ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, de, research, notes",
       "canonical": "https://www.ashraellen.com/de/research/notes/",
@@ -10046,8 +10045,7 @@
         "werden",
         "wirkt",
         "zur",
-        "zweifel",
-        "german"
+        "zweifel"
       ],
       "suggestedKeywordSeed": [
         "notes",
@@ -10063,18 +10061,18 @@
         "material",
         "public",
         "ränder",
-        "german",
         "sich",
         "unfertig",
         "weigert",
-        "wenn"
+        "wenn",
+        "werden"
       ]
     },
     {
       "page": "de/research/position/index.html",
       "lang": "de",
       "section": "research",
-      "title": "Ashraellen — Position — German",
+      "title": "Ashraellen — Position",
       "description": "Position Ashraellen Position Ich arbeite als unabhängiger künstlerischer Forscher und betrachte innere Erfahrung als Feld der Beobachtung. Religion, Philosophie und transzendente Erfahrungen sind Beschreibungsmodelle —…",
       "existingKeywords": "ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, de, research, position",
       "canonical": "https://www.ashraellen.com/de/research/position/",
@@ -10112,8 +10110,8 @@
         "transzendente",
         "unabhängiger",
         "die",
-        "german",
-        "nicht"
+        "nicht",
+        "public"
       ],
       "suggestedKeywordSeed": [
         "position",
@@ -10130,10 +10128,10 @@
         "feld",
         "research",
         "forscher",
-        "german",
         "ich",
         "innere",
-        "künstlerischer"
+        "künstlerischer",
+        "philosophie"
       ]
     },
     {
@@ -12572,7 +12570,7 @@
       "page": "en/contact.html",
       "lang": "en",
       "section": "contact.html",
-      "title": "Contact — Ashraellen — English",
+      "title": "Contact — Ashraellen",
       "description": "Contact page for Ashraellen: cooperation, publishing, grants, media and project inquiries.",
       "existingKeywords": "ashraellen, contact, cooperation, publishing, grants, media, project, inquiries, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split",
       "canonical": "https://www.ashraellen.com/en/contact.html",
@@ -12625,7 +12623,6 @@
         "publishing",
         "channel",
         "contact.html",
-        "english",
         "kostyshev",
         "materials",
         "telegram"
@@ -12765,7 +12762,7 @@
       "page": "en/privacy.html",
       "lang": "en",
       "section": "privacy.html",
-      "title": "Privacy Policy — Ashraellen — English",
+      "title": "Privacy Policy — Ashraellen",
       "description": "Privacy Policy for Ashraellen.com: personal data, analytics, cookies, user rights and contact information.",
       "existingKeywords": "ashraellen, privacy, policy, ashraellen.com, personal, data, analytics, cookies, user, rights, contact, information, who, responsible, website, what, may, collected",
       "canonical": "https://www.ashraellen.com/en/privacy.html",
@@ -12830,9 +12827,9 @@
         "collected",
         "consent",
         "contact",
-        "english",
         "external",
-        "google"
+        "google",
+        "information"
       ]
     },
     {
@@ -12922,7 +12919,7 @@
       "page": "en/public/index.html",
       "lang": "en",
       "section": "public",
-      "title": "Ashraellen — Public — English",
+      "title": "Ashraellen — Public",
       "description": "Ashraellen public field: talks, publications, support thoughts, reactions and observations where research meets the living person.",
       "existingKeywords": "ashraellen, public, field, talks, publications, support, thoughts, reactions, observations, where, research, meets, living, person, new, bomb, people, mass",
       "canonical": "https://www.ashraellen.com/en/public/",
@@ -12985,14 +12982,14 @@
         "publications",
         "talks",
         "where",
-        "english",
         "mass",
         "meets",
         "new",
         "observations",
         "open",
         "people",
-        "projects"
+        "projects",
+        "reactions"
       ]
     },
     {
@@ -13133,7 +13130,7 @@
       "page": "en/public/posts/essay/index.html",
       "lang": "en",
       "section": "public",
-      "title": "Ashraellen — Mini-Essays — English",
+      "title": "Ashraellen — Mini-Essays",
       "description": "Mini-Essays First Cycle Power Not Over Thought, but Over Attention The Body Is the First Door, but Not the Goal The Past Is Its Interpretation Mini-Essays Small examinations: one question, one angle of view, one…",
       "existingKeywords": "ashraellen, public, posts, essay, mini-essays, first, cycle, power, over, thought, attention, body, door, goal, past, its, interpretation, doctype",
       "canonical": "https://www.ashraellen.com/en/public/posts/essay/",
@@ -13486,7 +13483,7 @@
       "page": "en/public/posts/fragment/index.html",
       "lang": "en",
       "section": "public",
-      "title": "Ashraellen — Fragments — English",
+      "title": "Ashraellen — Fragments",
       "description": "Ashraellen fragments: a section being prepared from a large archive of handwritten texts, notes, and publications accumulated over many years of work.",
       "existingKeywords": "ashraellen, public, posts, fragment, fragments, section, being, prepared, large, archive, handwritten, texts, notes, publications, accumulated, over, many, years",
       "canonical": "https://www.ashraellen.com/en/public/posts/fragment/",
@@ -13544,11 +13541,11 @@
         "section",
         "texts",
         "work",
-        "english",
         "excerpts",
         "fragment",
         "here",
-        "many"
+        "many",
+        "over"
       ]
     },
     {
@@ -16009,7 +16006,7 @@
       "page": "en/research/notes/index.html",
       "lang": "en",
       "section": "research",
-      "title": "Ashraellen — Notes — English",
+      "title": "Ashraellen — Notes",
       "description": "Notes / Margins Ashraellen Notes / Margins Margins, doubts, fragments. Material that refuses to become doctrine. If it feels unfinished — that is the point. ← Research Public",
       "existingKeywords": "ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai",
       "canonical": "https://www.ashraellen.com/en/research/notes/",
@@ -16038,8 +16035,7 @@
         "public",
         "refuses",
         "research",
-        "unfinished",
-        "english"
+        "unfinished"
       ],
       "suggestedKeywordSeed": [
         "notes",
@@ -16055,7 +16051,6 @@
         "point",
         "public",
         "refuses",
-        "english",
         "unfinished"
       ]
     },
@@ -16063,7 +16058,7 @@
       "page": "en/research/position/index.html",
       "lang": "en",
       "section": "research",
-      "title": "Ashraellen — Position — English",
+      "title": "Ashraellen — Position",
       "description": "Position Ashraellen Position I work as an independent artistic researcher, treating inner human experience as a field of observation. Religion, philosophy and transcendental experiences are models of description — not…",
       "existingKeywords": "ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev",
       "canonical": "https://www.ashraellen.com/en/research/position/",
@@ -16097,7 +16092,6 @@
         "transcendental",
         "treating",
         "work",
-        "english",
         "itself",
         "public",
         "reality",
@@ -16117,11 +16111,11 @@
         "models",
         "observation",
         "research",
-        "english",
         "philosophy",
         "religion",
         "researcher",
-        "transcendental"
+        "transcendental",
+        "treating"
       ]
     },
     {
@@ -17694,7 +17688,7 @@
       "page": "es/contact.html",
       "lang": "es",
       "section": "contact.html",
-      "title": "Contacto — Ashraellen — Spanish",
+      "title": "Contacto — Ashraellen",
       "description": "Página de contacto de Ashraellen: cooperación, publicaciones, subvenciones, medios y consultas del proyecto.",
       "existingKeywords": "ashraellen, contact, contacto, página, cooperación, publicaciones, subvenciones, medios, consultas, del, proyecto, doctype, html, title, function, const, isgithub, location.hostname.endswith",
       "canonical": "https://www.ashraellen.com/es/contact.html",
@@ -17752,7 +17746,6 @@
         "página",
         "para",
         "publicaciones",
-        "spanish",
         "telegram"
       ]
     },
@@ -17824,7 +17817,7 @@
       "page": "es/monolith/index.html",
       "lang": "es",
       "section": "monolith",
-      "title": "MONOLITH — Ashraellen — Spanish",
+      "title": "MONOLITH — Ashraellen",
       "description": "MONOLITH: BETON. SLUDGE. GAS. MONOLITH BETON SLUDGE GAS MONOLITH Tres estados de desintegración controlada: BETON. SLUDGE. GAS. MONOLITH es una trilogía distópica sobre control, memoria y colapso de sistemas. La…",
       "existingKeywords": "ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, es, monolith",
       "canonical": "https://www.ashraellen.com/es/monolith/",
@@ -17886,7 +17879,7 @@
         "preparación",
         "sistemas",
         "sobre",
-        "spanish"
+        "tres"
       ]
     },
     {
@@ -18050,7 +18043,7 @@
       "page": "es/public/index.html",
       "lang": "es",
       "section": "public",
-      "title": "Ashraellen — Público — Spanish",
+      "title": "Ashraellen — Público",
       "description": "Campo público Ashraellen: intervenciones, publicaciones, pensamientos de apoyo, reacciones y observaciones donde la investigación se encuentra con la persona viva.",
       "existingKeywords": "ashraellen, public, público, campo, intervenciones, publicaciones, pensamientos, apoyo, reacciones, observaciones, donde, investigación, encuentra, con, persona, viva, nuevos, bombardees",
       "canonical": "https://www.ashraellen.com/es/public/",
@@ -18620,7 +18613,7 @@
       "page": "es/public/posts/fragment/index.html",
       "lang": "es",
       "section": "public",
-      "title": "Ashraellen — Fragmentos — Spanish",
+      "title": "Ashraellen — Fragmentos",
       "description": "Fragmentos Ashraellen: sección preparada a partir de un gran archivo de manuscritos, notas y publicaciones acumulados durante muchos años de trabajo.",
       "existingKeywords": "ashraellen, public, posts, fragment, fragmentos, sección, preparada, partir, gran, archivo, manuscritos, notas, publicaciones, acumulados, durante, muchos, años, trabajo",
       "canonical": "https://www.ashraellen.com/es/public/posts/fragment/",
@@ -20773,7 +20766,7 @@
       "page": "es/public/thoughts/index-0002.html",
       "lang": "es",
       "section": "public",
-      "title": "Ashraellen — Arco 0002 — Spanish",
+      "title": "Ashraellen — Arco 0002",
       "description": "Segundo arco de pensamientos de apoyo Ashraellen. Segundo arco de pensamientos de apoyo La silla vacía Generalización en vez de observación Donde la vida se detuvo La taza sucia No te arrepientas Cuándo cerrar el libro…",
       "existingKeywords": "ashraellen, public, thoughts, index, 0002, arco, segundo, pensamientos, apoyo, silla, vacía, generalización, vez, observación, donde, vida, detuvo, taza",
       "canonical": "https://www.ashraellen.com/es/public/thoughts/index-0002.html",
@@ -21145,7 +21138,7 @@
       "page": "es/research/notes/index.html",
       "lang": "es",
       "section": "research",
-      "title": "Ashraellen — Notes — Spanish",
+      "title": "Ashraellen — Notes",
       "description": "Notes / Margins Ashraellen Notes / Margins Márgenes, dudas, fragmentos. Material que se niega a convertirse en doctrina. Si se siente inacabado — ese es el punto. ← Research Public",
       "existingKeywords": "ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, es, research, notes",
       "canonical": "https://www.ashraellen.com/es/research/notes/",
@@ -21177,8 +21170,7 @@
         "punto",
         "que",
         "research",
-        "siente",
-        "spanish"
+        "siente"
       ],
       "suggestedKeywordSeed": [
         "notes",
@@ -21197,15 +21189,14 @@
         "public",
         "punto",
         "que",
-        "siente",
-        "spanish"
+        "siente"
       ]
     },
     {
       "page": "es/research/position/index.html",
       "lang": "es",
       "section": "research",
-      "title": "Ashraellen — Position — Spanish",
+      "title": "Ashraellen — Position",
       "description": "Position Ashraellen Position Trabajo como investigador artístico independiente, tratando la experiencia interna como campo de observación. Religión, filosofía y experiencias trascendentales son modelos de descripción,…",
       "existingKeywords": "ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, es, research, position",
       "canonical": "https://www.ashraellen.com/es/research/position/",
@@ -21243,8 +21234,7 @@
         "misma",
         "public",
         "realidad",
-        "research",
-        "spanish"
+        "research"
       ],
       "suggestedKeywordSeed": [
         "position",
@@ -21264,7 +21254,7 @@
         "observación",
         "religión",
         "son",
-        "spanish"
+        "trabajo"
       ]
     },
     {
@@ -28043,7 +28033,7 @@
       "page": "fr/contact.html",
       "lang": "fr",
       "section": "contact.html",
-      "title": "Contact — Ashraellen — French",
+      "title": "Contact — Ashraellen",
       "description": "Page de contact Ashraellen : coopération, édition, subventions, médias et demandes liées au projet.",
       "existingKeywords": "ashraellen, contact, coopération, édition, subventions, médias, demandes, liées, projet, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo",
       "canonical": "https://www.ashraellen.com/fr/contact.html",
@@ -28098,7 +28088,6 @@
         "contact.html",
         "des",
         "édition",
-        "french",
         "kostyshev",
         "liées",
         "telegram"
@@ -28172,7 +28161,7 @@
       "page": "fr/monolith/index.html",
       "lang": "fr",
       "section": "monolith",
-      "title": "MONOLITH — Ashraellen — French",
+      "title": "MONOLITH — Ashraellen",
       "description": "MONOLITH: BETON. SLUDGE. GAS. MONOLITH BETON SLUDGE GAS MONOLITH Trois états de désintégration contrôlée : BETON. SLUDGE. GAS. MONOLITH est une trilogie dystopique sur le contrôle, la mémoire et l’effondrement des…",
       "existingKeywords": "ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, fr, monolith",
       "canonical": "https://www.ashraellen.com/fr/monolith/",
@@ -28234,7 +28223,7 @@
         "désintégration",
         "dystopique",
         "états",
-        "french"
+        "l’effondrement"
       ]
     },
     {
@@ -28398,7 +28387,7 @@
       "page": "fr/public/index.html",
       "lang": "fr",
       "section": "public",
-      "title": "Ashraellen — Public — French",
+      "title": "Ashraellen — Public",
       "description": "Champ public Ashraellen : interventions, publications, pensées d’appui, réactions et observations où la recherche rencontre la personne vivante.",
       "existingKeywords": "ashraellen, public, champ, interventions, publications, pensées, d’appui, réactions, observations, recherche, rencontre, personne, vivante, nouvelles, bombardez, pas, peuple, masse",
       "canonical": "https://www.ashraellen.com/fr/public/",
@@ -28462,13 +28451,13 @@
         "dans",
         "elle",
         "est",
-        "french",
         "les",
         "nouvelles",
         "observations",
         "ouvrir",
         "pas",
-        "pensée"
+        "pensée",
+        "projets"
       ]
     },
     {
@@ -28969,7 +28958,7 @@
       "page": "fr/public/posts/fragment/index.html",
       "lang": "fr",
       "section": "public",
-      "title": "Ashraellen — Fragments — French",
+      "title": "Ashraellen — Fragments",
       "description": "Fragments Ashraellen : section préparée à partir d’un vaste ensemble de manuscrits, notes et publications accumulés pendant de nombreuses années de travail.",
       "existingKeywords": "ashraellen, public, posts, fragment, fragments, section, préparée, partir, d’un, vaste, ensemble, manuscrits, notes, publications, accumulés, pendant, nombreuses, années",
       "canonical": "https://www.ashraellen.com/fr/public/posts/fragment/",
@@ -29028,10 +29017,10 @@
         "d’un",
         "extraits",
         "fragment",
-        "french",
         "ici",
         "nombreuses",
-        "partir"
+        "partir",
+        "pendant"
       ]
     },
     {
@@ -31494,7 +31483,7 @@
       "page": "fr/research/notes/index.html",
       "lang": "fr",
       "section": "research",
-      "title": "Ashraellen — Notes — French",
+      "title": "Ashraellen — Notes",
       "description": "Notes / Margins Ashraellen Notes / Margins Marges, doutes, fragments. Une matière qui refuse de devenir doctrine. Si cela semble inachevé — c’est le principe. ← Research Public",
       "existingKeywords": "ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, fr, research, notes",
       "canonical": "https://www.ashraellen.com/fr/research/notes/",
@@ -31528,8 +31517,7 @@
         "refuse",
         "research",
         "semble",
-        "une",
-        "french"
+        "une"
       ],
       "suggestedKeywordSeed": [
         "notes",
@@ -31545,18 +31533,18 @@
         "inachevé",
         "marges",
         "matière",
-        "french",
         "principe",
         "public",
         "qui",
-        "refuse"
+        "refuse",
+        "semble"
       ]
     },
     {
       "page": "fr/research/position/index.html",
       "lang": "fr",
       "section": "research",
-      "title": "Ashraellen — Position — French",
+      "title": "Ashraellen — Position",
       "description": "Position Ashraellen Position Je travaille comme chercheur artistique indépendant, en considérant l’expérience intérieure comme un champ d’observation. Religions, philosophies et expériences transcendantes sont des…",
       "existingKeywords": "ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, fr, research, position",
       "canonical": "https://www.ashraellen.com/fr/research/position/",
@@ -31592,10 +31580,10 @@
         "travaille",
         "description",
         "elle",
-        "french",
         "même",
         "modèles",
-        "pas"
+        "pas",
+        "public"
       ],
       "suggestedKeywordSeed": [
         "position",
@@ -31611,11 +31599,11 @@
         "indépendant",
         "intérieure",
         "research",
-        "french",
         "l’expérience",
         "philosophies",
         "religions",
-        "sont"
+        "sont",
+        "transcendantes"
       ]
     },
     {
@@ -35788,7 +35776,7 @@
       "page": "pl/contact.html",
       "lang": "pl",
       "section": "contact.html",
-      "title": "Kontakt — Ashraellen — Polish",
+      "title": "Kontakt — Ashraellen",
       "description": "Kontakt z Ashraellen: współpraca, publikacje, granty, media i zapytania projektowe.",
       "existingKeywords": "ashraellen, contact, kontakt, współpraca, publikacje, granty, media, zapytania, projektowe, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo",
       "canonical": "https://www.ashraellen.com/pl/contact.html",
@@ -35840,7 +35828,6 @@
         "contact.html",
         "kanał",
         "kontaktu",
-        "polish",
         "projektów",
         "projektowe",
         "publiczne",
@@ -35919,7 +35906,7 @@
       "page": "pl/monolith/index.html",
       "lang": "pl",
       "section": "monolith",
-      "title": "MONOLITH — Ashraellen — Polish",
+      "title": "MONOLITH — Ashraellen",
       "description": "MONOLITH: BETON. SLUDGE. GAS. MONOLITH BETON SLUDGE GAS MONOLITH Trzy stany kontrolowanego rozpadu: BETON. SLUDGE. GAS. MONOLITH to trylogia dystopijna o kontroli, pamięci i rozpadzie systemów. Polska edycja jest w…",
       "existingKeywords": "ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, pl, monolith",
       "canonical": "https://www.ashraellen.com/pl/monolith/",
@@ -35977,11 +35964,11 @@
         "czytaj",
         "kontrolowanego",
         "pamięci",
-        "polish",
         "polska",
         "przygotowaniu",
         "rozpadu",
-        "rozpadzie"
+        "rozpadzie",
+        "stany"
       ]
     },
     {
@@ -39242,7 +39229,7 @@
       "page": "pl/research/notes/index.html",
       "lang": "pl",
       "section": "research",
-      "title": "Ashraellen — Notes — Polish",
+      "title": "Ashraellen — Notes",
       "description": "Notes / Margins Ashraellen Notes / Margins Marginesy, wątpliwości, fragmenty. Materiał, który nie chce stać się doktryną. Jeśli jest niedokończone — o to chodzi. ← Research Public",
       "existingKeywords": "ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, pl, research, notes",
       "canonical": "https://www.ashraellen.com/pl/research/notes/",
@@ -39275,8 +39262,7 @@
         "research",
         "się",
         "stać",
-        "wątpliwości",
-        "polish"
+        "wątpliwości"
       ],
       "suggestedKeywordSeed": [
         "notes",
@@ -39293,17 +39279,17 @@
         "materiał",
         "nie",
         "niedokończone",
-        "polish",
         "public",
         "się",
-        "stać"
+        "stać",
+        "wątpliwości"
       ]
     },
     {
       "page": "pl/research/position/index.html",
       "lang": "pl",
       "section": "research",
-      "title": "Ashraellen — Position — Polish",
+      "title": "Ashraellen — Position",
       "description": "Position Ashraellen Position Pracuję jako niezależny badacz artystyczny, traktując doświadczenie wewnętrzne jako pole obserwacji. Religia, filozofia i doświadczenia transgresyjne to modele opisu — nie sama…",
       "existingKeywords": "ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, pl, research, position",
       "canonical": "https://www.ashraellen.com/pl/research/position/",
@@ -39339,7 +39325,6 @@
         "traktując",
         "transgresyjne",
         "wewnętrzne",
-        "polish",
         "public",
         "research",
         "rzeczywistość"
@@ -39360,9 +39345,9 @@
         "research",
         "opisu",
         "pole",
-        "polish",
         "pracuję",
-        "religia"
+        "religia",
+        "sama"
       ]
     },
     {
@@ -48285,7 +48270,7 @@
       "page": "ru/books/the-book-of-whinesis/index.html",
       "lang": "ru",
       "section": "books",
-      "title": "Ashraellen — Книга Нытия — Russian",
+      "title": "Ashraellen — Книга Нытия",
       "description": "Книга Нытия — священная сатира для тех, кто устал от позитивных вайбов, бесконечной продуктивности и культа успеха.",
       "existingKeywords": "ashraellen, books, book, whinesis, книга, нытия, священная, сатира, тех, кто, устал, позитивных, вайбов, бесконечной, продуктивности, культа, успеха, книге",
       "canonical": "https://www.ashraellen.com/ru/books/the-book-of-whinesis/",
@@ -48341,7 +48326,6 @@
         "books",
         "кто",
         "book",
-        "russian",
         "whinesis",
         "бесконечной",
         "будет",
@@ -48352,7 +48336,8 @@
         "господь",
         "его",
         "ибо",
-        "книге"
+        "книге",
+        "культа"
       ]
     },
     {
@@ -48434,7 +48419,7 @@
       "page": "ru/contact.html",
       "lang": "ru",
       "section": "contact.html",
-      "title": "Контакт — Ashraellen — Russian",
+      "title": "Контакт — Ashraellen",
       "description": "Контактная страница Ashraellen: сотрудничество, издательские, грантовые, медийные и проектные запросы.",
       "existingKeywords": "ashraellen, contact, контакт, контактная, страница, сотрудничество, издательские, грантовые, медийные, проектные, запросы, doctype, html, title, function, const, isgithub, location.hostname.endswith",
       "canonical": "https://www.ashraellen.com/ru/contact.html",
@@ -48470,11 +48455,11 @@
         "kostyshev",
         "mark",
         "presence",
-        "russian",
         "youtube",
         "вопросы",
         "грантовые",
-        "грантовых"
+        "грантовых",
+        "гранты"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",
@@ -48486,7 +48471,6 @@
         "ashraellenchannel",
         "contact",
         "contact.html",
-        "russian",
         "telegram",
         "telegram-канал",
         "грантовые",
@@ -48494,7 +48478,8 @@
         "медийные",
         "обращения",
         "проектные",
-        "публичные"
+        "публичные",
+        "связи"
       ]
     },
     {
@@ -49364,7 +49349,7 @@
       "page": "ru/public/posts/fragment/index.html",
       "lang": "ru",
       "section": "public",
-      "title": "Ashraellen — Фрагменты — Russian",
+      "title": "Ashraellen — Фрагменты",
       "description": "Фрагменты Раздел готовится Фрагменты Отрывки из больших текстов, заметок и рабочих материалов: чтобы почувствовать тон, увидеть направление и понять, какой кусок пазла здесь лежит. Раздел готовится к оглавлению Архив…",
       "existingKeywords": "ashraellen, public, posts, fragment, фрагменты, раздел, готовится, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter",
       "canonical": "https://www.ashraellen.com/ru/public/posts/fragment/",
@@ -49424,9 +49409,9 @@
         "текстов",
         "fragment",
         "posts",
-        "russian",
         "кусок",
-        "лежит"
+        "лежит",
+        "материалов"
       ]
     },
     {
@@ -49649,7 +49634,7 @@
       "page": "ru/public/thoughts/01-cheerfulness/index.html",
       "lang": "ru",
       "section": "public",
-      "title": "Ashraellen — Весёлость как диагностика человека — Russian — thoughts / cheerfulness",
+      "title": "Ashraellen — Весёлость как диагностика человека — thoughts / cheerfulness",
       "description": "Опорная мысль Ashraellen: весёлость как диагностика человека. Смех открывает душу точнее, чем правильные речи. Page context: public / thoughts / 01 / cheerfulness.",
       "existingKeywords": "ashraellen, public, thoughts, cheerfulness, весёлость, диагностика, человека, опорная, мысль, смех, открывает, душу, точнее, чем, правильные, речи, смысл, полный",
       "canonical": "https://www.ashraellen.com/ru/public/thoughts/01-cheerfulness/",
@@ -49707,21 +49692,21 @@
         "смех",
         "чем",
         "context",
-        "russian",
         "без",
         "выбрано",
         "говорит",
         "душу",
         "его",
         "если",
-        "заметка"
+        "заметка",
+        "или"
       ]
     },
     {
       "page": "ru/public/thoughts/02-still-the-same/index.html",
       "lang": "ru",
       "section": "public",
-      "title": "Ashraellen — Те же силы, новые имена — Russian — the / same — 02 / still / the / same",
+      "title": "Ashraellen — Те же силы, новые имена — the / same — 02 / still / the / same",
       "description": "Опорная мысль Ashraellen: современные тревоги и зависимости как новые имена старых богов и демонов. Page context: 02 / still / the / same.",
       "existingKeywords": "ashraellen, public, thoughts, still, same, силы, новые, имена, опорная, мысль, современные, тревоги, зависимости, старых, богов, демонов, смысл, полный",
       "canonical": "https://www.ashraellen.com/ru/public/thoughts/02-still-the-same/",
@@ -49781,21 +49766,21 @@
         "опорная",
         "силы",
         "context",
-        "russian",
         "thoughts",
         "без",
         "богов",
         "выбрано",
         "демонов",
         "его",
-        "жизнью"
+        "жизнью",
+        "зависимости"
       ]
     },
     {
       "page": "ru/public/thoughts/03-let-go/index.html",
       "lang": "ru",
       "section": "public",
-      "title": "Ashraellen — Пробуждение начинается с невозможности продолжать — Russian — let / go — thoughts / 03 / let / go",
+      "title": "Ashraellen — Пробуждение начинается с невозможности продолжать — let / go — thoughts / 03 / let / go",
       "description": "Опорная мысль Ashraellen: пробуждение как момент, когда дальше жить прежним способом больше нельзя. Page context: thoughts / 03 / let / go.",
       "existingKeywords": "ashraellen, public, thoughts, let, пробуждение, начинается, невозможности, продолжать, опорная, мысль, момент, когда, дальше, жить, прежним, способом, больше, нельзя",
       "canonical": "https://www.ashraellen.com/ru/public/thoughts/03-let-go/",
@@ -49858,17 +49843,17 @@
         "нельзя",
         "опорная",
         "context",
-        "russian",
         "больше",
         "вот",
-        "выбрано"
+        "выбрано",
+        "жить"
       ]
     },
     {
       "page": "ru/public/thoughts/04-mortality-awakens/index.html",
       "lang": "ru",
       "section": "public",
-      "title": "Ashraellen — Конечность пробуждает вопрос — Russian — mortality / awakens — thoughts / 04 / mortality / awakens",
+      "title": "Ashraellen — Конечность пробуждает вопрос — mortality / awakens — thoughts / 04 / mortality / awakens",
       "description": "Опорная мысль Ashraellen: философия начинается там, где заканчиваются иллюзии и в сознание входит конечность. Page context: thoughts / 04 / mortality / awakens.",
       "existingKeywords": "ashraellen, public, thoughts, mortality, awakens, конечность, пробуждает, вопрос, опорная, мысль, философия, начинается, там, где, заканчиваются, иллюзии, сознание, входит",
       "canonical": "https://www.ashraellen.com/ru/public/thoughts/04-mortality-awakens/",
@@ -49930,18 +49915,18 @@
         "опорная",
         "пробуждает",
         "context",
-        "russian",
         "входит",
         "выбрано",
         "где",
-        "думать"
+        "думать",
+        "заметка"
       ]
     },
     {
       "page": "ru/public/thoughts/05-on-your-own/index.html",
       "lang": "ru",
       "section": "public",
-      "title": "Ashraellen — Страх как механизм контроля — Russian — your / own — 05 / on / your / own",
+      "title": "Ashraellen — Страх как механизм контроля — your / own — 05 / on / your / own",
       "description": "Опорная мысль Ashraellen: там, где человек перестаёт бояться и начинает мыслить самостоятельно, ослабевает власть старых систем. Page context: 05 / on / your / own.",
       "existingKeywords": "ashraellen, public, thoughts, your, own, страх, механизм, контроля, опорная, мысль, там, где, человек, перестаёт, бояться, начинает, мыслить, самостоятельно",
       "canonical": "https://www.ashraellen.com/ru/public/thoughts/05-on-your-own/",
@@ -50006,16 +49991,16 @@
         "самостоятельно",
         "человек",
         "context",
-        "russian",
         "thoughts",
-        "выбрано"
+        "выбрано",
+        "заметка"
       ]
     },
     {
       "page": "ru/public/thoughts/06-insight/index.html",
       "lang": "ru",
       "section": "public",
-      "title": "Ashraellen — Глубокий взгляд собирает жизнь — Russian — thoughts / insight",
+      "title": "Ashraellen — Глубокий взгляд собирает жизнь — thoughts / insight",
       "description": "Опорная мысль Ashraellen: глубокий взгляд собирает жизнь, превращая ошибки и опыт в цепь понимания.",
       "existingKeywords": "ashraellen, public, thoughts, insight, глубокий, взгляд, собирает, жизнь, опорная, мысль, превращая, ошибки, опыт, цепь, понимания, смысл, полный, текст",
       "canonical": "https://www.ashraellen.com/ru/public/thoughts/06-insight/",
@@ -50073,21 +50058,21 @@
         "thoughts",
         "мысль",
         "опорная",
-        "russian",
         "видеть",
         "выбрано",
         "глубже",
         "заметка",
         "исследовательская",
         "когда",
-        "начинает"
+        "начинает",
+        "опыт"
       ]
     },
     {
       "page": "ru/public/thoughts/arcs/0001-cheerfulness.html",
       "lang": "ru",
       "section": "public",
-      "title": "Ashraellen — Весёлость как диагностика человека — Russian — arcs / cheerfulness",
+      "title": "Ashraellen — Весёлость как диагностика человека — arcs / cheerfulness",
       "description": "Опорная мысль Ashraellen: весёлость как диагностика человека. Смех открывает душу точнее, чем правильные речи. Page context: thoughts / arcs / 0001 / cheerfulness.",
       "existingKeywords": "ashraellen, public, thoughts, arcs, 0001, cheerfulness, весёлость, диагностика, человека, опорная, мысль, смех, открывает, душу, точнее, чем, правильные, речи",
       "canonical": "https://www.ashraellen.com/ru/public/thoughts/arcs/0001-cheerfulness.html",
@@ -50149,18 +50134,18 @@
         "чем",
         "0001",
         "context",
-        "russian",
         "без",
         "выбрано",
         "говорит",
-        "душу"
+        "душу",
+        "его"
       ]
     },
     {
       "page": "ru/public/thoughts/arcs/0002-still-the-same.html",
       "lang": "ru",
       "section": "public",
-      "title": "Ashraellen — Те же силы, новые имена — Russian — the / same — 0002 / still / the / same",
+      "title": "Ashraellen — Те же силы, новые имена — the / same — 0002 / still / the / same",
       "description": "Опорная мысль Ashraellen: современные тревоги и зависимости как новые имена старых богов и демонов. Page context: 0002 / still / the / same.",
       "existingKeywords": "ashraellen, public, thoughts, arcs, 0002, still, same, силы, новые, имена, опорная, мысль, современные, тревоги, зависимости, старых, богов, демонов",
       "canonical": "https://www.ashraellen.com/ru/public/thoughts/arcs/0002-still-the-same.html",
@@ -50222,20 +50207,20 @@
         "силы",
         "arcs",
         "context",
-        "russian",
         "thoughts",
         "без",
         "богов",
         "выбрано",
         "демонов",
-        "его"
+        "его",
+        "жизнью"
       ]
     },
     {
       "page": "ru/public/thoughts/arcs/0003-let-go.html",
       "lang": "ru",
       "section": "public",
-      "title": "Ashraellen — Пробуждение начинается с невозможности продолжать — Russian — let / go — arcs / 0003 / let / go",
+      "title": "Ashraellen — Пробуждение начинается с невозможности продолжать — let / go — arcs / 0003 / let / go",
       "description": "Опорная мысль Ashraellen: пробуждение как момент, когда дальше жить прежним способом больше нельзя. Page context: arcs / 0003 / let / go.",
       "existingKeywords": "ashraellen, public, thoughts, arcs, 0003, let, пробуждение, начинается, невозможности, продолжать, опорная, мысль, момент, когда, дальше, жить, прежним, способом",
       "canonical": "https://www.ashraellen.com/ru/public/thoughts/arcs/0003-let-go.html",
@@ -50299,17 +50284,17 @@
         "нельзя",
         "продолжать",
         "context",
-        "russian",
         "thoughts",
         "больше",
-        "вот"
+        "вот",
+        "выбрано"
       ]
     },
     {
       "page": "ru/public/thoughts/arcs/0004-mortality-awakens.html",
       "lang": "ru",
       "section": "public",
-      "title": "Ashraellen — Конечность пробуждает вопрос — Russian — mortality / awakens — arcs / 0004 / mortality / awakens",
+      "title": "Ashraellen — Конечность пробуждает вопрос — mortality / awakens — arcs / 0004 / mortality / awakens",
       "description": "Опорная мысль Ashraellen: философия начинается там, где заканчиваются иллюзии и в сознание входит конечность. Page context: arcs / 0004 / mortality / awakens.",
       "existingKeywords": "ashraellen, public, thoughts, arcs, 0004, mortality, awakens, конечность, пробуждает, вопрос, опорная, мысль, философия, начинается, там, где, заканчиваются, иллюзии",
       "canonical": "https://www.ashraellen.com/ru/public/thoughts/arcs/0004-mortality-awakens.html",
@@ -50372,18 +50357,18 @@
         "мысль",
         "пробуждает",
         "context",
-        "russian",
         "thoughts",
         "входит",
         "выбрано",
-        "где"
+        "где",
+        "думать"
       ]
     },
     {
       "page": "ru/public/thoughts/arcs/0005-on-your-own.html",
       "lang": "ru",
       "section": "public",
-      "title": "Ashraellen — Страх как механизм контроля — Russian — your / own — 0005 / on / your / own",
+      "title": "Ashraellen — Страх как механизм контроля — your / own — 0005 / on / your / own",
       "description": "Опорная мысль Ashraellen: там, где человек перестаёт бояться и начинает мыслить самостоятельно, ослабевает власть старых систем. Page context: 0005 / on / your / own.",
       "existingKeywords": "ashraellen, public, thoughts, arcs, 0005, your, own, страх, механизм, контроля, опорная, мысль, там, где, человек, перестаёт, бояться, начинает",
       "canonical": "https://www.ashraellen.com/ru/public/thoughts/arcs/0005-on-your-own.html",
@@ -50451,14 +50436,14 @@
         "человек",
         "arcs",
         "context",
-        "russian"
+        "thoughts"
       ]
     },
     {
       "page": "ru/public/thoughts/arcs/0006-insight.html",
       "lang": "ru",
       "section": "public",
-      "title": "Ashraellen — Глубокий взгляд собирает жизнь — Russian — arcs / insight",
+      "title": "Ashraellen — Глубокий взгляд собирает жизнь — arcs / insight",
       "description": "Опорная мысль Ashraellen: глубокий взгляд собирает жизнь, превращая ошибки и страдания в цепь понимания.",
       "existingKeywords": "ashraellen, public, thoughts, arcs, 0006, insight, глубокий, взгляд, собирает, жизнь, опорная, мысль, превращая, ошибки, страдания, цепь, понимания, смысл",
       "canonical": "https://www.ashraellen.com/ru/public/thoughts/arcs/0006-insight.html",
@@ -50517,14 +50502,14 @@
         "public",
         "мысль",
         "страдания",
-        "russian",
         "thoughts",
         "без",
         "видеть",
         "выбрано",
         "глубже",
         "заметка",
-        "исследовательская"
+        "исследовательская",
+        "начинает"
       ]
     },
     {
@@ -52470,12 +52455,12 @@
       "page": "ru/research/notes/index.html",
       "lang": "ru",
       "section": "research",
-      "title": "Ashraellen — Notes — Russian",
-      "description": "Notes / Margins Ashraellen Notes / Margins Поля, сомнения, фрагменты. Материал, который не хочет становиться доктриной. Если кажется незавершённым — так и задумано. ← Research Public",
-      "existingKeywords": "ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, ru, research, notes",
+      "title": "Ashraellen — Заметки",
+      "description": "Заметки и поля наблюдения Ashraellen: сомнения, черновики и фрагменты, которые сознательно не становятся доктриной.",
+      "existingKeywords": "ashraellen, заметки, поля, исследование, черновики, сомнения, фрагменты",
       "canonical": "https://www.ashraellen.com/ru/research/notes/",
       "h1": [
-        "Notes / Margins"
+        "Заметки / Поля"
       ],
       "h2": [],
       "h3": [],
@@ -52484,59 +52469,62 @@
         "research",
         "notes"
       ],
-      "excerpt": "Ashraellen Notes / Margins Поля, сомнения, фрагменты. Материал, который не хочет становиться доктриной. Если кажется незавершённым — так и задумано. ← Research Public",
+      "excerpt": "Ashraellen Заметки / Поля Поля, сомнения, фрагменты. Материал, который не хочет становиться доктриной. Если кажется незавершённым — так и задумано. ← Исследование Публичное",
       "candidates": [
-        "notes",
         "ashraellen",
-        "margins",
-        "public",
-        "research",
+        "заметки",
+        "поля",
         "доктриной",
+        "сомнения",
+        "фрагменты",
         "если",
         "задумано",
+        "исследование",
         "кажется",
+        "которые",
         "который",
         "материал",
+        "наблюдения",
         "незавершённым",
-        "поля",
-        "сомнения",
+        "публичное",
+        "сознательно",
         "становиться",
+        "становятся",
         "так",
-        "фрагменты",
         "хочет",
-        "russian"
+        "черновики"
       ],
       "suggestedKeywordSeed": [
-        "notes",
         "ashraellen",
-        "margins",
+        "заметки",
+        "поля",
         "research",
-        "public",
         "доктриной",
+        "которые",
+        "сомнения",
+        "фрагменты",
+        "notes",
         "если",
         "задумано",
+        "исследование",
         "кажется",
         "который",
-        "материал",
-        "незавершённым",
-        "russian",
-        "поля",
-        "сомнения",
-        "становиться",
-        "так",
-        "фрагменты"
+        "наблюдения",
+        "сознательно",
+        "становятся",
+        "черновики"
       ]
     },
     {
       "page": "ru/research/position/index.html",
       "lang": "ru",
       "section": "research",
-      "title": "Ashraellen — Position — Russian",
-      "description": "Position Ashraellen Position Я работаю как независимый художественный исследователь, рассматривая внутренний опыт как поле наблюдения. Религии, философии и трансцендентные опыты — модели описания, а не сама реальность.…",
-      "existingKeywords": "ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, ru, research, position",
+      "title": "Ashraellen — Позиция",
+      "description": "Позиция Ashraellen: независимое художественное исследование внутреннего опыта. Религии, философии и трансцендентные состояния — модели описания, а не сама реальность.",
+      "existingKeywords": "ashraellen, позиция, исследование, художественное исследование, внутренний опыт, философия",
       "canonical": "https://www.ashraellen.com/ru/research/position/",
       "h1": [
-        "Position"
+        "Позиция"
       ],
       "h2": [],
       "h3": [],
@@ -52545,50 +52533,52 @@
         "research",
         "position"
       ],
-      "excerpt": "Ashraellen Position Я работаю как независимый художественный исследователь, рассматривая внутренний опыт как поле наблюдения. Религии, философии и трансцендентные опыты — модели описания, а не сама реальность. ← Research Public",
+      "excerpt": "Ashraellen Позиция Я работаю как независимый художественный исследователь, рассматривая внутренний опыт как поле наблюдения. Религии, философии и трансцендентные опыты — модели описания, а не сама реальность. ← Исследование Публичное",
       "candidates": [
-        "position",
         "ashraellen",
-        "внутренний",
-        "исследователь",
+        "позиция",
+        "исследование",
         "модели",
-        "наблюдения",
-        "независимый",
         "описания",
-        "опыт",
-        "опыты",
-        "поле",
-        "работаю",
-        "рассматривая",
         "реальность",
         "религии",
         "сама",
         "трансцендентные",
         "философии",
-        "художественный",
-        "public",
-        "research",
-        "russian"
-      ],
-      "suggestedKeywordSeed": [
-        "position",
-        "ashraellen",
-        "research",
+        "внутреннего",
         "внутренний",
         "исследователь",
-        "модели",
         "наблюдения",
+        "независимое",
         "независимый",
-        "описания",
         "опыт",
+        "опыта",
         "опыты",
         "поле",
+        "публичное",
         "работаю",
-        "russian",
         "рассматривая",
+        "состояния"
+      ],
+      "suggestedKeywordSeed": [
+        "ashraellen",
+        "позиция",
+        "research",
+        "внутреннего",
+        "исследование",
+        "модели",
+        "описания",
         "реальность",
         "религии",
-        "сама"
+        "сама",
+        "трансцендентные",
+        "философии",
+        "position",
+        "внутренний",
+        "независимое",
+        "опыта",
+        "состояния",
+        "художественное"
       ]
     },
     {
@@ -52607,7 +52597,7 @@
         "Ashraellen",
         "Instagram",
         "Telegram",
-        "Church of Saint Whine",
+        "Церковь Святого Нытья",
         "Книга Нытия",
         "Occultus Scriptorium",
         "Melodies & Sounds of Inner Spirit"
@@ -52643,7 +52633,7 @@
         "работают",
         "реакции",
         "формы",
-        "church"
+        "instagram"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",
@@ -52655,15 +52645,15 @@
         "лаборатории",
         "монолит",
         "поле",
-        "church",
         "inner",
         "instagram",
         "melodies",
         "occultus",
         "projects",
-        "saint",
         "scriptorium",
-        "sounds"
+        "sounds",
+        "spirit",
+        "восприятия"
       ]
     },
     {
@@ -56294,7 +56284,7 @@
       "page": "uk/contact.html",
       "lang": "uk",
       "section": "contact.html",
-      "title": "Контакт — Ashraellen — Ukrainian",
+      "title": "Контакт — Ashraellen",
       "description": "Контактна сторінка Ashraellen: співпраця, публікації, гранти, медіа та запити щодо проєкту.",
       "existingKeywords": "ashraellen, contact, контакт, контактна, сторінка, співпраця, публікації, гранти, медіа, запити, щодо, проєкту, doctype, html, title, function, const, isgithub",
       "canonical": "https://www.ashraellen.com/uk/contact.html",
@@ -56333,8 +56323,8 @@
         "kostyshev",
         "mark",
         "presence",
-        "ukrainian",
-        "youtube"
+        "youtube",
+        "видавничі"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",
@@ -56349,7 +56339,6 @@
         "contact.html",
         "telegram",
         "telegram-канал",
-        "ukrainian",
         "зв’язку",
         "контактна",
         "публічні",
@@ -56425,7 +56414,7 @@
       "page": "uk/monolith/index.html",
       "lang": "uk",
       "section": "monolith",
-      "title": "MONOLITH — Ashraellen — Ukrainian",
+      "title": "MONOLITH — Ashraellen",
       "description": "MONOLITH: BETON. SLUDGE. GAS. MONOLITH BETON SLUDGE GAS MONOLITH Три стани контрольованого розпаду: BETON. SLUDGE. GAS. MONOLITH — антиутопічна трилогія про контроль, пам’ять і розпад систем. Українське видання…",
       "existingKeywords": "ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, uk, monolith",
       "canonical": "https://www.ashraellen.com/uk/monolith/",
@@ -56480,14 +56469,14 @@
         "amazon",
         "google",
         "play",
-        "ukrainian",
         "англійською",
         "антиутопічна",
         "контроль",
         "контрольованого",
         "про",
         "розпад",
-        "розпаду"
+        "розпаду",
+        "систем"
       ]
     },
     {
@@ -58918,7 +58907,7 @@
       "page": "uk/public/thoughts/arcs/0020-people-and-mass.html",
       "lang": "uk",
       "section": "public",
-      "title": "Ashraellen — Народ і маса — Ukrainian",
+      "title": "Ashraellen — Народ і маса",
       "description": "Опорна думка 0020: народ пам’ятає. Маса реагує. Народ і маса Сенс Повний текст Чому вибрано Дослідницька нотатка Опорна думка 0020 Народ і маса Народ пам’ятає. Маса реагує. Сенс Народ складається з облич, пам’яті, мови…",
       "existingKeywords": "ashraellen, public, thoughts, arcs, 0020, people, mass, народ, маса, опорна, думка, пам’ятає, реагує, сенс, повний, текст, чому, вибрано",
       "canonical": "https://www.ashraellen.com/uk/public/thoughts/arcs/0020-people-and-mass.html",
@@ -59740,7 +59729,7 @@
       "page": "uk/research/notes/index.html",
       "lang": "uk",
       "section": "research",
-      "title": "Ashraellen — Notes — Ukrainian",
+      "title": "Ashraellen — Notes",
       "description": "Notes / Margins Ashraellen Notes / Margins Поля, сумніви, фрагменти. Матеріал, що не хоче ставати доктриною. Якщо здається незавершеним — так і треба. ← Research Public",
       "existingKeywords": "ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, uk, research, notes",
       "canonical": "https://www.ashraellen.com/uk/research/notes/",
@@ -59772,8 +59761,7 @@
         "треба",
         "фрагменти",
         "хоче",
-        "якщо",
-        "ukrainian"
+        "якщо"
       ],
       "suggestedKeywordSeed": [
         "notes",
@@ -59788,7 +59776,6 @@
         "поля",
         "ставати",
         "сумніви",
-        "ukrainian",
         "так",
         "треба",
         "фрагменти",
@@ -59800,7 +59787,7 @@
       "page": "uk/research/position/index.html",
       "lang": "uk",
       "section": "research",
-      "title": "Ashraellen — Position — Ukrainian",
+      "title": "Ashraellen — Position",
       "description": "Position Ashraellen Position Я працюю як незалежний художній дослідник, розглядаючи внутрішній досвід як поле спостереження. Релігії, філософії й трансцендентні стани — це моделі опису, а не сама реальність. ← Research…",
       "existingKeywords": "ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, uk, research, position",
       "canonical": "https://www.ashraellen.com/uk/research/position/",
@@ -59836,8 +59823,7 @@
         "трансцендентні",
         "філософії",
         "художній",
-        "public",
-        "ukrainian"
+        "public"
       ],
       "suggestedKeywordSeed": [
         "position",
@@ -59852,12 +59838,12 @@
         "поле",
         "працюю",
         "реальність",
-        "ukrainian",
         "релігії",
         "розглядаючи",
         "сама",
         "спостереження",
-        "стани"
+        "стани",
+        "трансцендентні"
       ]
     },
     {
@@ -59876,7 +59862,7 @@
         "Ashraellen",
         "Instagram",
         "Telegram",
-        "Church of Saint Whine",
+        "Церква Святого Ниття",
         "The Book of Whinesis",
         "Occultus Scriptorium",
         "Melodies & Sounds of Inner Spirit"
@@ -59911,8 +59897,8 @@
         "проєкт",
         "різні",
         "форми",
-        "church",
-        "instagram"
+        "instagram",
+        "безсилля"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",
@@ -59925,14 +59911,14 @@
         "поле",
         "сприйняття",
         "book",
-        "church",
         "inner",
         "instagram",
         "melodies",
         "occultus",
         "projects",
-        "saint",
-        "scriptorium"
+        "scriptorium",
+        "sounds",
+        "spirit"
       ]
     },
     {

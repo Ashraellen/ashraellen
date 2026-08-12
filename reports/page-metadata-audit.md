@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T19:27:42.134Z
+Generated: 2026-08-12T20:59:33.622Z
 
 Pages checked: 843
-Pages with issues: 277
-Total issues: 1643
+Pages with issues: 313
+Total issues: 1715
 Pages with review notes: 646
 Total review notes: 2270
 
@@ -20,12 +20,12 @@ Total review notes: 2270
 | MISSING_OG_IMAGE | 170 |
 | MISSING_OG_TITLE | 169 |
 | MISSING_DESCRIPTION | 120 |
+| DUPLICATE_TITLE | 68 |
 | DUPLICATE_CANONICAL | 66 |
+| DUPLICATE_OG_TITLE | 66 |
 | MISSING_CANONICAL | 45 |
-| DUPLICATE_TITLE | 32 |
 | OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
 | TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
-| DUPLICATE_OG_TITLE | 30 |
 | DUPLICATE_KEYWORDS | 29 |
 | DESCRIPTION_TOO_SHORT | 20 |
 
@@ -191,6 +191,28 @@ Total review notes: 2270
 - DUPLICATE_TITLE: shared by 9 pages
 - DUPLICATE_OG_TITLE: shared by 9 pages
 
+### be/public/posts/fragment/index.html
+
+- title: Ashraellen — Фрагменты
+- description length: 116
+- canonical: https://www.ashraellen.com/be/public/posts/fragment/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
+
+### be/public/thoughts/arcs/0020-people-and-mass.html
+
+- title: Ashraellen — Народ і маса
+- description length: 216
+- canonical: https://www.ashraellen.com/be/public/thoughts/arcs/0020-people-and-mass.html
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
+
 ### de/books/error-404-god-not-found/index.html
 
 - title: Ashraellen — Fehler 404: Gott nicht gefunden
@@ -350,6 +372,61 @@ Total review notes: 2270
 
 - DUPLICATE_TITLE: shared by 9 pages
 - DUPLICATE_OG_TITLE: shared by 9 pages
+
+### de/contact.html
+
+- title: Kontakt — Ashraellen
+- description length: 100
+- canonical: https://www.ashraellen.com/de/contact.html
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
+
+### de/monolith/index.html
+
+- title: MONOLITH — Ashraellen
+- description length: 219
+- canonical: https://www.ashraellen.com/de/monolith/
+- og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
+
+- DUPLICATE_TITLE: shared by 6 pages
+- DUPLICATE_OG_TITLE: shared by 6 pages
+
+### de/public/posts/essay/index.html
+
+- title: Ashraellen — Mini-Essays
+- description length: 219
+- canonical: https://www.ashraellen.com/de/public/posts/essay/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
+
+### de/research/notes/index.html
+
+- title: Ashraellen — Notes
+- description length: 185
+- canonical: https://www.ashraellen.com/de/research/notes/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 6 pages
+- DUPLICATE_OG_TITLE: shared by 6 pages
+
+### de/research/position/index.html
+
+- title: Ashraellen — Position
+- description length: 219
+- canonical: https://www.ashraellen.com/de/research/position/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 6 pages
+- DUPLICATE_OG_TITLE: shared by 6 pages
 
 ### en/books/error-404-god-not-found/why-me/index.html
 
@@ -704,6 +781,83 @@ Total review notes: 2270
 - DUPLICATE_TITLE: shared by 9 pages
 - DUPLICATE_OG_TITLE: shared by 9 pages
 
+### en/contact.html
+
+- title: Contact — Ashraellen
+- description length: 90
+- canonical: https://www.ashraellen.com/en/contact.html
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
+
+### en/privacy.html
+
+- title: Privacy Policy — Ashraellen
+- description length: 106
+- canonical: https://www.ashraellen.com/en/privacy.html
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
+
+### en/public/index.html
+
+- title: Ashraellen — Public
+- description length: 130
+- canonical: https://www.ashraellen.com/en/public/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
+
+### en/public/posts/essay/index.html
+
+- title: Ashraellen — Mini-Essays
+- description length: 212
+- canonical: https://www.ashraellen.com/en/public/posts/essay/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
+
+### en/public/posts/fragment/index.html
+
+- title: Ashraellen — Fragments
+- description length: 150
+- canonical: https://www.ashraellen.com/en/public/posts/fragment/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
+
+### en/research/notes/index.html
+
+- title: Ashraellen — Notes
+- description length: 174
+- canonical: https://www.ashraellen.com/en/research/notes/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 6 pages
+- DUPLICATE_OG_TITLE: shared by 6 pages
+
+### en/research/position/index.html
+
+- title: Ashraellen — Position
+- description length: 218
+- canonical: https://www.ashraellen.com/en/research/position/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 6 pages
+- DUPLICATE_OG_TITLE: shared by 6 pages
+
 ### es/books/error-404-god-not-found/index.html
 
 - title: Ashraellen — Error 404: Dios no encontrado
@@ -839,6 +993,39 @@ Total review notes: 2270
 
 - DUPLICATE_TITLE: shared by 9 pages
 - DUPLICATE_OG_TITLE: shared by 9 pages
+
+### es/monolith/index.html
+
+- title: MONOLITH — Ashraellen
+- description length: 212
+- canonical: https://www.ashraellen.com/es/monolith/
+- og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
+
+- DUPLICATE_TITLE: shared by 6 pages
+- DUPLICATE_OG_TITLE: shared by 6 pages
+
+### es/research/notes/index.html
+
+- title: Ashraellen — Notes
+- description length: 180
+- canonical: https://www.ashraellen.com/es/research/notes/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 6 pages
+- DUPLICATE_OG_TITLE: shared by 6 pages
+
+### es/research/position/index.html
+
+- title: Ashraellen — Position
+- description length: 218
+- canonical: https://www.ashraellen.com/es/research/position/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 6 pages
+- DUPLICATE_OG_TITLE: shared by 6 pages
 
 ### fi/books/the-book-of-whinesis/index.html
 
@@ -1360,6 +1547,83 @@ Total review notes: 2270
 
 - DUPLICATE_TITLE: shared by 9 pages
 - DUPLICATE_OG_TITLE: shared by 9 pages
+
+### fr/contact.html
+
+- title: Contact — Ashraellen
+- description length: 99
+- canonical: https://www.ashraellen.com/fr/contact.html
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
+
+### fr/monolith/index.html
+
+- title: MONOLITH — Ashraellen
+- description length: 214
+- canonical: https://www.ashraellen.com/fr/monolith/
+- og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
+
+- DUPLICATE_TITLE: shared by 6 pages
+- DUPLICATE_OG_TITLE: shared by 6 pages
+
+### fr/public/index.html
+
+- title: Ashraellen — Public
+- description length: 144
+- canonical: https://www.ashraellen.com/fr/public/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
+
+### fr/public/posts/fragment/index.html
+
+- title: Ashraellen — Fragments
+- description length: 156
+- canonical: https://www.ashraellen.com/fr/public/posts/fragment/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
+
+### fr/research/notes/index.html
+
+- title: Ashraellen — Notes
+- description length: 176
+- canonical: https://www.ashraellen.com/fr/research/notes/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 6 pages
+- DUPLICATE_OG_TITLE: shared by 6 pages
+
+### fr/research/position/index.html
+
+- title: Ashraellen — Position
+- description length: 214
+- canonical: https://www.ashraellen.com/fr/research/position/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 6 pages
+- DUPLICATE_OG_TITLE: shared by 6 pages
+
+### monolith/index.html
+
+- title: MONOLITH — Ashraellen
+- description length: 183
+- canonical: https://www.ashraellen.com/monolith/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 6 pages
+- DUPLICATE_OG_TITLE: shared by 6 pages
 
 ### pl/books/error-404-god-not-found/why-me/index.html
 
@@ -2083,6 +2347,61 @@ Total review notes: 2270
 
 - DUPLICATE_TITLE: shared by 9 pages
 - DUPLICATE_OG_TITLE: shared by 9 pages
+
+### pl/contact.html
+
+- title: Kontakt — Ashraellen
+- description length: 83
+- canonical: https://www.ashraellen.com/pl/contact.html
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
+
+### pl/monolith/index.html
+
+- title: MONOLITH — Ashraellen
+- description length: 215
+- canonical: https://www.ashraellen.com/pl/monolith/
+- og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
+
+- DUPLICATE_TITLE: shared by 6 pages
+- DUPLICATE_OG_TITLE: shared by 6 pages
+
+### pl/research/notes/index.html
+
+- title: Ashraellen — Notes
+- description length: 179
+- canonical: https://www.ashraellen.com/pl/research/notes/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 6 pages
+- DUPLICATE_OG_TITLE: shared by 6 pages
+
+### pl/research/position/index.html
+
+- title: Ashraellen — Position
+- description length: 206
+- canonical: https://www.ashraellen.com/pl/research/position/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 6 pages
+- DUPLICATE_OG_TITLE: shared by 6 pages
+
+### privacy.html
+
+- title: Privacy Policy — Ashraellen
+- description length: 131
+- canonical: https://www.ashraellen.com/privacy.html
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
 
 ### pt/books/error-404-god-not-found/index.html
 
@@ -2858,6 +3177,28 @@ Total review notes: 2270
 - MISSING_OG_IMAGE
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
+
+### ru/contact.html
+
+- title: Контакт — Ashraellen
+- description length: 102
+- canonical: https://www.ashraellen.com/ru/contact.html
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
+
+### ru/public/posts/fragment/index.html
+
+- title: Ashraellen — Фрагменты
+- description length: 217
+- canonical: https://www.ashraellen.com/ru/public/posts/fragment/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
 
 ### samizdat/copies/as2-beton-en-0001/index.html
 
@@ -4178,6 +4519,61 @@ Total review notes: 2270
 - DUPLICATE_TITLE: shared by 9 pages
 - DUPLICATE_OG_TITLE: shared by 9 pages
 
+### uk/contact.html
+
+- title: Контакт — Ashraellen
+- description length: 91
+- canonical: https://www.ashraellen.com/uk/contact.html
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
+
+### uk/monolith/index.html
+
+- title: MONOLITH — Ashraellen
+- description length: 211
+- canonical: https://www.ashraellen.com/uk/monolith/
+- og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
+
+- DUPLICATE_TITLE: shared by 6 pages
+- DUPLICATE_OG_TITLE: shared by 6 pages
+
+### uk/public/thoughts/arcs/0020-people-and-mass.html
+
+- title: Ashraellen — Народ і маса
+- description length: 219
+- canonical: https://www.ashraellen.com/uk/public/thoughts/arcs/0020-people-and-mass.html
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
+
+### uk/research/notes/index.html
+
+- title: Ashraellen — Notes
+- description length: 168
+- canonical: https://www.ashraellen.com/uk/research/notes/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 6 pages
+- DUPLICATE_OG_TITLE: shared by 6 pages
+
+### uk/research/position/index.html
+
+- title: Ashraellen — Position
+- description length: 219
+- canonical: https://www.ashraellen.com/uk/research/position/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 6 pages
+- DUPLICATE_OG_TITLE: shared by 6 pages
+
 
 ## Pages with review notes
 
@@ -4459,7 +4855,7 @@ Total review notes: 2270
 
 ### be/public/posts/fragment/index.html
 
-- title: Ashraellen — Фрагменты — Belarusian
+- title: Ashraellen — Фрагменты
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -4712,7 +5108,7 @@ Total review notes: 2270
 
 ### be/public/thoughts/arcs/0020-people-and-mass.html
 
-- title: Ashraellen — Народ і маса — Belarusian
+- title: Ashraellen — Народ і маса
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -5014,7 +5410,7 @@ Total review notes: 2270
 
 ### de/contact.html
 
-- title: Kontakt — Ashraellen — German
+- title: Kontakt — Ashraellen
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -5034,7 +5430,7 @@ Total review notes: 2270
 
 ### de/monolith/index.html
 
-- title: MONOLITH — Ashraellen — German
+- title: MONOLITH — Ashraellen
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
@@ -5098,7 +5494,7 @@ Total review notes: 2270
 
 ### de/public/posts/essay/index.html
 
-- title: Ashraellen — Mini-Essays — German
+- title: Ashraellen — Mini-Essays
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -5527,7 +5923,7 @@ Total review notes: 2270
 
 ### de/research/notes/index.html
 
-- title: Ashraellen — Notes — German
+- title: Ashraellen — Notes
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -5538,7 +5934,7 @@ Total review notes: 2270
 
 ### de/research/position/index.html
 
-- title: Ashraellen — Position — German
+- title: Ashraellen — Position
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -5712,7 +6108,7 @@ Total review notes: 2270
 
 ### en/contact.html
 
-- title: Contact — Ashraellen — English
+- title: Contact — Ashraellen
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -5741,7 +6137,7 @@ Total review notes: 2270
 
 ### en/privacy.html
 
-- title: Privacy Policy — Ashraellen — English
+- title: Privacy Policy — Ashraellen
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -5763,7 +6159,7 @@ Total review notes: 2270
 
 ### en/public/index.html
 
-- title: Ashraellen — Public — English
+- title: Ashraellen — Public
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -5796,7 +6192,7 @@ Total review notes: 2270
 
 ### en/public/posts/essay/index.html
 
-- title: Ashraellen — Mini-Essays — English
+- title: Ashraellen — Mini-Essays
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -5851,7 +6247,7 @@ Total review notes: 2270
 
 ### en/public/posts/fragment/index.html
 
-- title: Ashraellen — Fragments — English
+- title: Ashraellen — Fragments
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -6225,7 +6621,7 @@ Total review notes: 2270
 
 ### en/research/notes/index.html
 
-- title: Ashraellen — Notes — English
+- title: Ashraellen — Notes
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -6236,7 +6632,7 @@ Total review notes: 2270
 
 ### en/research/position/index.html
 
-- title: Ashraellen — Position — English
+- title: Ashraellen — Position
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -6406,7 +6802,7 @@ Total review notes: 2270
 
 ### es/contact.html
 
-- title: Contacto — Ashraellen — Spanish
+- title: Contacto — Ashraellen
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -6426,7 +6822,7 @@ Total review notes: 2270
 
 ### es/monolith/index.html
 
-- title: MONOLITH — Ashraellen — Spanish
+- title: MONOLITH — Ashraellen
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
@@ -6457,7 +6853,7 @@ Total review notes: 2270
 
 ### es/public/index.html
 
-- title: Ashraellen — Público — Spanish
+- title: Ashraellen — Público
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -6545,7 +6941,7 @@ Total review notes: 2270
 
 ### es/public/posts/fragment/index.html
 
-- title: Ashraellen — Fragmentos — Spanish
+- title: Ashraellen — Fragmentos
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -6864,7 +7260,7 @@ Total review notes: 2270
 
 ### es/public/thoughts/index-0002.html
 
-- title: Ashraellen — Arco 0002 — Spanish
+- title: Ashraellen — Arco 0002
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -6919,7 +7315,7 @@ Total review notes: 2270
 
 ### es/research/notes/index.html
 
-- title: Ashraellen — Notes — Spanish
+- title: Ashraellen — Notes
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -6930,7 +7326,7 @@ Total review notes: 2270
 
 ### es/research/position/index.html
 
-- title: Ashraellen — Position — Spanish
+- title: Ashraellen — Position
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -7554,7 +7950,7 @@ Total review notes: 2270
 
 ### fr/contact.html
 
-- title: Contact — Ashraellen — French
+- title: Contact — Ashraellen
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -7574,7 +7970,7 @@ Total review notes: 2270
 
 ### fr/monolith/index.html
 
-- title: MONOLITH — Ashraellen — French
+- title: MONOLITH — Ashraellen
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
@@ -7605,7 +8001,7 @@ Total review notes: 2270
 
 ### fr/public/index.html
 
-- title: Ashraellen — Public — French
+- title: Ashraellen — Public
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -7693,7 +8089,7 @@ Total review notes: 2270
 
 ### fr/public/posts/fragment/index.html
 
-- title: Ashraellen — Fragments — French
+- title: Ashraellen — Fragments
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -8067,7 +8463,7 @@ Total review notes: 2270
 
 ### fr/research/notes/index.html
 
-- title: Ashraellen — Notes — French
+- title: Ashraellen — Notes
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -8078,7 +8474,7 @@ Total review notes: 2270
 
 ### fr/research/position/index.html
 
-- title: Ashraellen — Position — French
+- title: Ashraellen — Position
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -8236,7 +8632,7 @@ Total review notes: 2270
 
 ### pl/contact.html
 
-- title: Kontakt — Ashraellen — Polish
+- title: Kontakt — Ashraellen
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -8256,7 +8652,7 @@ Total review notes: 2270
 
 ### pl/monolith/index.html
 
-- title: MONOLITH — Ashraellen — Polish
+- title: MONOLITH — Ashraellen
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
@@ -8749,7 +9145,7 @@ Total review notes: 2270
 
 ### pl/research/notes/index.html
 
-- title: Ashraellen — Notes — Polish
+- title: Ashraellen — Notes
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -8760,7 +9156,7 @@ Total review notes: 2270
 
 ### pl/research/position/index.html
 
-- title: Ashraellen — Position — Polish
+- title: Ashraellen — Position
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -9618,7 +10014,7 @@ Total review notes: 2270
 
 ### ru/books/the-book-of-whinesis/index.html
 
-- title: Ashraellen — Книга Нытия — Russian
+- title: Ashraellen — Книга Нытия
 - og:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
@@ -9636,7 +10032,7 @@ Total review notes: 2270
 
 ### ru/contact.html
 
-- title: Контакт — Ashraellen — Russian
+- title: Контакт — Ashraellen
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -9775,7 +10171,7 @@ Total review notes: 2270
 
 ### ru/public/posts/fragment/index.html
 
-- title: Ashraellen — Фрагменты — Russian
+- title: Ashraellen — Фрагменты
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -9819,7 +10215,7 @@ Total review notes: 2270
 
 ### ru/public/thoughts/01-cheerfulness/index.html
 
-- title: Ashraellen — Весёлость как диагностика человека — Russian — thoughts / cheerfulness
+- title: Ashraellen — Весёлость как диагностика человека — thoughts / cheerfulness
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -9830,7 +10226,7 @@ Total review notes: 2270
 
 ### ru/public/thoughts/02-still-the-same/index.html
 
-- title: Ashraellen — Те же силы, новые имена — Russian — the / same — 02 / still / the / same
+- title: Ashraellen — Те же силы, новые имена — the / same — 02 / still / the / same
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -9841,7 +10237,7 @@ Total review notes: 2270
 
 ### ru/public/thoughts/03-let-go/index.html
 
-- title: Ashraellen — Пробуждение начинается с невозможности продолжать — Russian — let / go — thoughts / 03 / let / go
+- title: Ashraellen — Пробуждение начинается с невозможности продолжать — let / go — thoughts / 03 / let / go
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -9852,7 +10248,7 @@ Total review notes: 2270
 
 ### ru/public/thoughts/04-mortality-awakens/index.html
 
-- title: Ashraellen — Конечность пробуждает вопрос — Russian — mortality / awakens — thoughts / 04 / mortality / awakens
+- title: Ashraellen — Конечность пробуждает вопрос — mortality / awakens — thoughts / 04 / mortality / awakens
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -9863,7 +10259,7 @@ Total review notes: 2270
 
 ### ru/public/thoughts/05-on-your-own/index.html
 
-- title: Ashraellen — Страх как механизм контроля — Russian — your / own — 05 / on / your / own
+- title: Ashraellen — Страх как механизм контроля — your / own — 05 / on / your / own
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -9874,7 +10270,7 @@ Total review notes: 2270
 
 ### ru/public/thoughts/06-insight/index.html
 
-- title: Ashraellen — Глубокий взгляд собирает жизнь — Russian — thoughts / insight
+- title: Ashraellen — Глубокий взгляд собирает жизнь — thoughts / insight
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -9885,7 +10281,7 @@ Total review notes: 2270
 
 ### ru/public/thoughts/arcs/0001-cheerfulness.html
 
-- title: Ashraellen — Весёлость как диагностика человека — Russian — arcs / cheerfulness
+- title: Ashraellen — Весёлость как диагностика человека — arcs / cheerfulness
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -9896,7 +10292,7 @@ Total review notes: 2270
 
 ### ru/public/thoughts/arcs/0002-still-the-same.html
 
-- title: Ashraellen — Те же силы, новые имена — Russian — the / same — 0002 / still / the / same
+- title: Ashraellen — Те же силы, новые имена — the / same — 0002 / still / the / same
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -9907,7 +10303,7 @@ Total review notes: 2270
 
 ### ru/public/thoughts/arcs/0003-let-go.html
 
-- title: Ashraellen — Пробуждение начинается с невозможности продолжать — Russian — let / go — arcs / 0003 / let / go
+- title: Ashraellen — Пробуждение начинается с невозможности продолжать — let / go — arcs / 0003 / let / go
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -9918,7 +10314,7 @@ Total review notes: 2270
 
 ### ru/public/thoughts/arcs/0004-mortality-awakens.html
 
-- title: Ashraellen — Конечность пробуждает вопрос — Russian — mortality / awakens — arcs / 0004 / mortality / awakens
+- title: Ashraellen — Конечность пробуждает вопрос — mortality / awakens — arcs / 0004 / mortality / awakens
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -9929,7 +10325,7 @@ Total review notes: 2270
 
 ### ru/public/thoughts/arcs/0005-on-your-own.html
 
-- title: Ashraellen — Страх как механизм контроля — Russian — your / own — 0005 / on / your / own
+- title: Ashraellen — Страх как механизм контроля — your / own — 0005 / on / your / own
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -9940,7 +10336,7 @@ Total review notes: 2270
 
 ### ru/public/thoughts/arcs/0006-insight.html
 
-- title: Ashraellen — Глубокий взгляд собирает жизнь — Russian — arcs / insight
+- title: Ashraellen — Глубокий взгляд собирает жизнь — arcs / insight
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -10237,7 +10633,7 @@ Total review notes: 2270
 
 ### ru/research/notes/index.html
 
-- title: Ashraellen — Notes — Russian
+- title: Ashraellen — Заметки
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -10248,7 +10644,7 @@ Total review notes: 2270
 
 ### ru/research/position/index.html
 
-- title: Ashraellen — Position — Russian
+- title: Ashraellen — Позиция
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -10418,7 +10814,7 @@ Total review notes: 2270
 
 ### uk/contact.html
 
-- title: Контакт — Ashraellen — Ukrainian
+- title: Контакт — Ashraellen
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -10438,7 +10834,7 @@ Total review notes: 2270
 
 ### uk/monolith/index.html
 
-- title: MONOLITH — Ashraellen — Ukrainian
+- title: MONOLITH — Ashraellen
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
@@ -10810,7 +11206,7 @@ Total review notes: 2270
 
 ### uk/public/thoughts/arcs/0020-people-and-mass.html
 
-- title: Ashraellen — Народ і маса — Ukrainian
+- title: Ashraellen — Народ і маса
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -10931,7 +11327,7 @@ Total review notes: 2270
 
 ### uk/research/notes/index.html
 
-- title: Ashraellen — Notes — Ukrainian
+- title: Ashraellen — Notes
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -10942,7 +11338,7 @@ Total review notes: 2270
 
 ### uk/research/position/index.html
 
-- title: Ashraellen — Position — Ukrainian
+- title: Ashraellen — Position
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
