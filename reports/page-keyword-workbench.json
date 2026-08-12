@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T14:51:51.694Z",
+  "generated": "2026-08-12T14:53:03.895Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -21410,12 +21410,12 @@
       "page": "fi/books/error-404-god-not-found/index.html",
       "lang": "fi",
       "section": "books",
-      "title": "Ashraellen — Error 404: God Not Found",
-      "description": "Error 404: God Not Found — filosofis-satiirinen romaanisarja Taivaallisesta kansliasta, ihmisen valituksesta maailmankaikkeudelle ja väärästä hakutavasta.",
+      "title": "Ashraellen — VIRHE 404: JUMALAA EI LÖYTYNYT",
+      "description": "VIRHE 404: JUMALAA EI LÖYTYNYT — filosofis-satiirinen romaanisarja Taivaallisesta kansliasta, ihmisen valituksesta maailmankaikkeudelle ja väärästä hakutavasta.",
       "existingKeywords": "",
       "canonical": "https://www.ashraellen.com/fi/books/error-404-god-not-found/",
       "h1": [
-        "Error 404: God Not Found"
+        "VIRHE 404: JUMALAA EI LÖYTYNYT"
       ],
       "h2": [
         "Sarja",
@@ -21423,8 +21423,8 @@
         "Sarjan lause"
       ],
       "h3": [
-        "Kirja I — Why Me?",
-        "Kirja II — Thy Will in All Things"
+        "Kirja I — Miksi minä?",
+        "Kirja II — Sinun tahtosi kaikessa"
       ],
       "slugTerms": [
         "fi",
@@ -21434,21 +21434,20 @@
         "not",
         "found"
       ],
-      "excerpt": "Error 404: God Not Found Filosofis-satiirinen romaanisarja Taivaallisesta kansliasta, ihmisen valituksesta maailmankaikkeudelle ja hakuvireestä, joka ei ehkä ala Jumalasta vaan tavasta, jolla häntä etsitään. Sarja Taivaallisen kanslian tapauksia Jumalaa ei “löydy” — ei siksi, ettei häntä olisi. Häntä etsitään esineenä, osoitteena, todistuksena, palvelupisteenä tai viimeisenä viranomaisena, jonka pitäisi hyväksyä ihmisen oma versio kärsimyksestä. Error 404: God Not Found on sarja ihmisistä, jotka etsivät Jumalaa, Totuutta, oikeudenmukaisuutta tai vastausta oman pelkonsa, kipunsa, ammattinsa, uskonsa ja itsepetoksensa läpi. Taivaallinen kanslia ei tässä ole paikka eikä fantasiaorganisaatio. Se on tila, jossa ihminen joutuu kohtaamaan oman pyyntönsä sellaisena kuin se todella on. Jokainen kirja on oma tapaus. Ensimmäinen avaa oven Vladin kautta. Oven takana on jo jono. Sarjan kirjat nykyine",
+      "excerpt": "VIRHE 404: JUMALAA EI LÖYTYNYT Filosofis-satiirinen romaanisarja Taivaallisesta kansliasta, ihmisen valituksesta maailmankaikkeudelle ja hakuvireestä, joka ei ehkä ala Jumalasta vaan tavasta, jolla häntä etsitään. Sarja Taivaallisen kanslian tapauksia Jumalaa ei “löydy” — ei siksi, ettei häntä olisi. Häntä etsitään esineenä, osoitteena, todistuksena, palvelupisteenä tai viimeisenä viranomaisena, jonka pitäisi hyväksyä ihmisen oma versio kärsimyksestä. VIRHE 404: JUMALAA EI LÖYTYNYT on sarja ihmisistä, jotka etsivät Jumalaa, Totuutta, oikeudenmukaisuutta tai vastausta oman pelkonsa, kipunsa, ammattinsa, uskonsa ja itsepetoksensa läpi. Taivaallinen kanslia ei tässä ole paikka eikä fantasiaorganisaatio. Se on tila, jossa ihminen joutuu kohtaamaan oman pyyntönsä sellaisena kuin se todella on. Jokainen kirja on oma tapaus. Ensimmäinen avaa oven Vladin kautta. Oven takana on jo jono. Sarjan ki",
       "candidates": [
+        "jumalaa",
+        "virhe",
         "404",
-        "error",
-        "found",
-        "god",
         "ihmisen",
         "kirja",
+        "löytynyt",
         "häntä",
         "uusi",
-        "all",
         "avaa",
         "etsitään",
         "filosofis-satiirinen",
-        "jumalaa",
+        "kaikessa",
         "kanslian",
         "kansliasta",
         "maailmankaikkeudelle",
@@ -21459,27 +21458,28 @@
         "romaanisarja",
         "sarja",
         "sarjan",
-        "tai"
+        "sinun",
+        "tahtosi"
       ],
       "suggestedKeywordSeed": [
-        "error",
-        "found",
-        "god",
         "404",
+        "jumalaa",
+        "löytynyt",
+        "virhe",
         "ashraellen",
         "books",
         "filosofis-satiirinen",
         "ihmisen",
         "sarjan",
-        "all",
         "avaa",
+        "error",
         "etsitään",
+        "found",
+        "god",
         "hakutavasta",
         "häntä",
-        "kansliasta",
-        "kirja",
-        "kirjat",
-        "lause"
+        "kaikessa",
+        "kansliasta"
       ]
     },
     {

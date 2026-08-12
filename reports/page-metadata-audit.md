@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T14:51:51.041Z
+Generated: 2026-08-12T14:53:03.216Z
 
 Pages checked: 841
-Pages with issues: 312
-Total issues: 1779
+Pages with issues: 311
+Total issues: 1777
 Pages with review notes: 633
 Total review notes: 2216
 
@@ -22,7 +22,7 @@ Total review notes: 2216
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
-| DUPLICATE_TITLE | 44 |
+| DUPLICATE_TITLE | 42 |
 | DUPLICATE_OG_TITLE | 40 |
 | DUPLICATE_KEYWORDS | 36 |
 | OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
@@ -350,16 +350,6 @@ Total review notes: 2216
 
 - DUPLICATE_TITLE: shared by 9 pages
 - DUPLICATE_OG_TITLE: shared by 9 pages
-
-### en/books/error-404-god-not-found/index.html
-
-- title: Ashraellen — Error 404: God Not Found
-- description length: 219
-- canonical: https://www.ashraellen.com/en/books/error-404-god-not-found/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_TITLE: shared by 2 pages
 
 ### en/books/error-404-god-not-found/why-me/index.html
 
@@ -924,8 +914,8 @@ Total review notes: 2216
 
 ### fi/books/error-404-god-not-found/index.html
 
-- title: Ashraellen — Error 404: God Not Found
-- description length: 154
+- title: Ashraellen — VIRHE 404: JUMALAA EI LÖYTYNYT
+- description length: 160
 - canonical: https://www.ashraellen.com/fi/books/error-404-god-not-found/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: _missing_
@@ -935,7 +925,6 @@ Total review notes: 2216
 - MISSING_OG_DESCRIPTION
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
-- DUPLICATE_TITLE: shared by 2 pages
 
 ### fi/books/error-404-god-not-found/why-me/index.html
 
@@ -7403,7 +7392,7 @@ Total review notes: 2216
 
 ### fi/books/error-404-god-not-found/index.html
 
-- title: Ashraellen — Error 404: God Not Found
+- title: Ashraellen — VIRHE 404: JUMALAA EI LÖYTYNYT
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: _missing_
 
