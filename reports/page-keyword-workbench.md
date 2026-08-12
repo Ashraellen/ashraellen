@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T13:01:06.851Z
+Generated: 2026-08-12T13:01:58.179Z
 Pages: 842
 
 ## Index
@@ -343,7 +343,7 @@ Pages: 842
 | fi/public/thoughts/arcs/0012-close-the-book.html | fi | public | Ashraellen — Milloin kirja on aika sulkea | Ashraellen, tukiajatus, henkinen kirjallisuus, hiljaisuus, hyväksyminen | kirja, aika, ajatus, ashraellen, enää, henkinen, hiljaisuudessa, kirjallisuus, milloin, mutta, public, sulkea, voi, 0012, arcs, book, close, että |
 | fi/public/thoughts/arcs/0013-problem-loses-crown.html | fi | public | Ashraellen — Ongelma menettää kruununsa | Ashraellen, tukiajatus, hyväksyminen, draama, ongelma | ongelma, ajatus, aseman, ashraellen, kruununsa, menettää, mutta, public, voi, 0013, arcs, crown, draaman, ehkä, eikä, että, hyväksyminen, katoa |
 | fi/public/thoughts/arcs/0014-end-of-extra-war.html | fi | public | Ashraellen — Ylimääräisen sodan loppu | Ashraellen, tukiajatus, hyväksyminen, sisäinen sota, todellisuus | loppu, sodan, ajatus, ashraellen, ole, public, ylimääräisen, 0014, arcs, end, että, extra, hyväksyminen, joka, juuri, kaikki, koko, kyllä |
-| fi/public/thoughts/arcs/0015-subtle-thought-needs-silence.html | fi | public | Ashraellen — Hieno ajatus tarvitsee hiljaisuutta | _missing_ | ajatus, hieno, hiljaisuutta, tarvitsee, ajatuksen, ashraellen, huomatuksi, karkeaksi, muuttua, public, tarvitse, tullakseen, 0015, arcs, hienovaraisen, joskus, koko, miksi |
+| fi/public/thoughts/arcs/0015-subtle-thought-needs-silence.html | fi | public | Ashraellen — Hieno ajatus tarvitsee hiljaisuutta | Ashraellen, tukiajatus, hiljaisuus, ymmärtäminen, hienovaraisuus | ajatus, hiljaisuutta, hieno, tarvitsee, 0015, ashraellen, public, tarvitse, tullakseen, vaan, aikaa, aina, arcs, herkkyyttä, hienovarainen, joskus, karkeaksi, karkeutta |
 | fi/public/thoughts/arcs/0016-one-fact.html | fi | public | Ashraellen — Oli yksi fakta | _missing_ | fakta, oli, yksi, ajatus, ashraellen, jatko-osineen, kärsimystä, kolme, public, 0016, arcs, fact, itse, joku, koko, kuin, miksi, mitä |
 | fi/public/thoughts/arcs/0017-witness-does-not-interfere.html | fi | public | Ashraellen — Todistaja ei puutu väliin | _missing_ | todistaja, aikojaan, ajatus, ashraellen, ennen, estä, näkyväksi, public, puutu, väliin, 0017, arcs, does, ihminen, interfere, joka, joskus, koko |
 | fi/public/thoughts/arcs/0018-image-cannot-be-happy.html | fi | public | Ashraellen — Kuva ei voi olla onnellinen | _missing_ | voi, kuva, olla, onnellinen, ajatus, ashraellen, mutta, public, 0018, arcs, cannot, hänen, happy, ihminen, image, itsensä, koko, kuvan |
@@ -6569,13 +6569,13 @@ Excerpt:
 - lang: fi
 - section: public
 - title: Ashraellen — Hieno ajatus tarvitsee hiljaisuutta
-- description: Tukiajatus 0015: hienovaraisen ajatuksen ei tarvitse muuttua karkeaksi tullakseen huomatuksi.
+- description: Tukiajatus 0015: hienovarainen ajatus ei tarvitse karkeutta tullakseen ymmärretyksi, vaan hiljaisuutta, herkkyyttä ja aikaa.
 - canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
 - H1: Hieno ajatus tarvitsee hiljaisuutta
 - H2: Ajatus | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
 - H3: _missing_
-- suggested keyword seed: ajatus, hieno, hiljaisuutta, tarvitsee, ajatuksen, ashraellen, huomatuksi, karkeaksi, muuttua, public, tarvitse, tullakseen, 0015, arcs, hienovaraisen, joskus, koko, miksi
-- candidates: ajatus, hieno, joskus, karkeaksi, sen, tarvitse, ajatuksen, hiljaisuutta, huomatuksi, muuttua, tarvitsee, tullakseen, 0015, aina, avaudu, eivät, että, heti, hienovaraisen, kaikki, kykyä, liian, merkitystä, odottaa
+- suggested keyword seed: ajatus, hiljaisuutta, hieno, tarvitsee, 0015, ashraellen, public, tarvitse, tullakseen, vaan, aikaa, aina, arcs, herkkyyttä, hienovarainen, joskus, karkeaksi, karkeutta
+- candidates: ajatus, hieno, hiljaisuutta, joskus, sen, tarvitse, karkeaksi, tarvitsee, tullakseen, vaan, 0015, aina, ajatuksen, avaudu, eivät, että, herkkyyttä, heti, huomatuksi, kaikki, kykyä, liian, merkitystä, muuttua
 
 Excerpt:
 
