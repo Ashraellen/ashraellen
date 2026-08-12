@@ -1,22 +1,22 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T15:58:31.544Z
+Generated: 2026-08-12T16:00:00.794Z
 
 Pages checked: 841
-Pages with issues: 298
-Total issues: 1730
+Pages with issues: 297
+Total issues: 1725
 Pages with review notes: 638
-Total review notes: 2243
+Total review notes: 2244
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 205 |
-| MISSING_TWITTER_IMAGE | 204 |
-| MISSING_TWITTER_CARD | 185 |
-| MISSING_OG_DESCRIPTION | 182 |
-| MISSING_JSON_LD | 181 |
+| MISSING_KEYWORDS | 204 |
+| MISSING_TWITTER_IMAGE | 203 |
+| MISSING_TWITTER_CARD | 184 |
+| MISSING_OG_DESCRIPTION | 181 |
+| MISSING_JSON_LD | 180 |
 | MISSING_OG_IMAGE | 173 |
 | MISSING_OG_TITLE | 172 |
 | MISSING_DESCRIPTION | 120 |
@@ -35,7 +35,7 @@ Total review notes: 2243
 | Item | Count |
 |---|---:|
 | DUPLICATE_OG_IMAGE_REVIEW | 638 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 608 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 609 |
 | FALLBACK_OG_IMAGE_USED | 509 |
 | FALLBACK_TWITTER_IMAGE_USED | 488 |
 
@@ -920,20 +920,6 @@ Total review notes: 2243
 
 - MISSING_KEYWORDS
 - MISSING_OG_DESCRIPTION
-- MISSING_TWITTER_IMAGE
-
-### fi/books/radiance/index.html
-
-- title: Ashraellen — HOHDE | Pohjoisia kertomuksia maailman todellisesta historiasta
-- description length: 156
-- canonical: https://www.ashraellen.com/fi/books/radiance/
-- og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
-- twitter:image: _missing_
-
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_DESCRIPTION
-- MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
 
 ### fi/books/radiance/sampo/index.html
@@ -5230,7 +5216,7 @@ Total review notes: 2243
 - twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 7 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 6 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 7 pages
 
 ### de/books/radiance/sampo/index.html
 
@@ -5926,7 +5912,7 @@ Total review notes: 2243
 - twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 7 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 6 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 7 pages
 
 ### en/books/radiance/sampo/index.html
 
@@ -6611,7 +6597,7 @@ Total review notes: 2243
 - twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 7 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 6 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 7 pages
 
 ### es/books/radiance/sampo/index.html
 
@@ -7266,9 +7252,10 @@ Total review notes: 2243
 
 - title: Ashraellen — HOHDE | Pohjoisia kertomuksia maailman todellisesta historiasta
 - og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
-- twitter:image: _missing_
+- twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 7 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 7 pages
 
 ### fi/books/radiance/sampo/index.html
 
@@ -7687,7 +7674,7 @@ Total review notes: 2243
 - twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 7 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 6 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 7 pages
 
 ### fr/books/radiance/sampo/index.html
 
@@ -8396,7 +8383,7 @@ Total review notes: 2243
 - twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 7 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 6 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 7 pages
 
 ### pl/books/seccus/index.html
 
@@ -9074,7 +9061,7 @@ Total review notes: 2243
 - twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 7 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 6 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 7 pages
 
 ### pt/books/radiance/sampo/index.html
 
