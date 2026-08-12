@@ -1,38 +1,38 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T12:01:03.268Z
+Generated: 2026-08-12T12:05:45.919Z
 
-Pages checked: 795
-Pages with issues: 272
-Total issues: 1666
-Pages with review notes: 613
-Total review notes: 2160
+Pages checked: 802
+Pages with issues: 281
+Total issues: 1718
+Pages with review notes: 615
+Total review notes: 2162
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 212 |
-| MISSING_TWITTER_IMAGE | 211 |
-| MISSING_TWITTER_CARD | 181 |
-| MISSING_OG_DESCRIPTION | 179 |
-| MISSING_JSON_LD | 176 |
-| MISSING_OG_IMAGE | 175 |
-| MISSING_OG_TITLE | 169 |
+| MISSING_KEYWORDS | 219 |
+| MISSING_TWITTER_IMAGE | 217 |
+| MISSING_TWITTER_CARD | 187 |
+| MISSING_OG_DESCRIPTION | 186 |
+| MISSING_JSON_LD | 183 |
+| MISSING_OG_IMAGE | 178 |
+| MISSING_OG_TITLE | 172 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
-| DUPLICATE_TITLE | 39 |
-| DUPLICATE_OG_TITLE | 37 |
+| DUPLICATE_TITLE | 44 |
+| DUPLICATE_OG_TITLE | 42 |
 | DUPLICATE_KEYWORDS | 36 |
-| DESCRIPTION_TOO_SHORT | 20 |
+| DESCRIPTION_TOO_SHORT | 23 |
 
 
 ## Review note summary
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 613 |
+| DUPLICATE_OG_IMAGE_REVIEW | 615 |
 | DUPLICATE_TWITTER_IMAGE_REVIEW | 579 |
 | FALLBACK_OG_IMAGE_USED | 497 |
 | FALLBACK_TWITTER_IMAGE_USED | 471 |
@@ -186,8 +186,8 @@ Total review notes: 2160
 - og:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
-- DUPLICATE_TITLE: shared by 8 pages
-- DUPLICATE_OG_TITLE: shared by 8 pages
+- DUPLICATE_TITLE: shared by 9 pages
+- DUPLICATE_OG_TITLE: shared by 9 pages
 
 ### de/books/error-404-god-not-found/index.html
 
@@ -346,8 +346,8 @@ Total review notes: 2160
 - og:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
-- DUPLICATE_TITLE: shared by 8 pages
-- DUPLICATE_OG_TITLE: shared by 8 pages
+- DUPLICATE_TITLE: shared by 9 pages
+- DUPLICATE_OG_TITLE: shared by 9 pages
 
 ### en/books/demotopia/index.html
 
@@ -725,6 +725,17 @@ Total review notes: 2160
 - MISSING_TWITTER_IMAGE
 - DUPLICATE_TITLE: shared by 2 pages
 
+### en/books/seccus/index.html
+
+- title: Ashraellen — THE SACRED BOOK OF SECCUS
+- description length: 177
+- canonical: https://www.ashraellen.com/en/books/seccus/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
+
 ### en/books/the-book-of-whinesis/index.html
 
 - title: Ashraellen — The Book of Whinesis
@@ -733,8 +744,19 @@ Total review notes: 2160
 - og:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
-- DUPLICATE_TITLE: shared by 8 pages
-- DUPLICATE_OG_TITLE: shared by 8 pages
+- DUPLICATE_TITLE: shared by 9 pages
+- DUPLICATE_OG_TITLE: shared by 9 pages
+
+### en/books/you-are-already-online/index.html
+
+- title: Ashraellen — You Are Already Online
+- description length: 172
+- canonical: https://www.ashraellen.com/en/books/you-are-already-online/
+- og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
 
 ### es/books/error-404-god-not-found/index.html
 
@@ -894,8 +916,8 @@ Total review notes: 2160
 - og:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
-- DUPLICATE_TITLE: shared by 8 pages
-- DUPLICATE_OG_TITLE: shared by 8 pages
+- DUPLICATE_TITLE: shared by 9 pages
+- DUPLICATE_OG_TITLE: shared by 9 pages
 
 ### fi/books/demotopia/index.html
 
@@ -1037,6 +1059,117 @@ Total review notes: 2160
 - MISSING_OG_DESCRIPTION
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
+
+### fi/books/samizdat/demotopia/index.html
+
+- title: Demotopia — Kirjapassi — samizdat 2.0
+- description length: 76
+- canonical: https://www.ashraellen.com/fi/books/samizdat/demotopia/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 76
+
+### fi/books/samizdat/index.html
+
+- title: samizdat 2.0 — Ashraellenin tekijäjulkaisut
+- description length: 113
+- canonical: https://www.ashraellen.com/fi/books/samizdat/
+- og:image: https://www.ashraellen.com/assets/backgrounds/samizdat-2-0-author-edition-on-writing-desk.webp
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_DESCRIPTION
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### fi/books/samizdat/order/index.html
+
+- title: Pyydä samizdat 2.0 -tekijäkappale — Ashraellen
+- description length: 71
+- canonical: https://www.ashraellen.com/fi/books/samizdat/order/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 71
+
+### fi/books/samizdat/order/received/index.html
+
+- title: Pyyntö vastaanotettu — samizdat 2.0 — Ashraellen
+- description length: 43
+- canonical: https://www.ashraellen.com/fi/books/samizdat/order/received/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 43
+
+### fi/books/seccus/index.html
+
+- title: Ashraellen — THE SACRED BOOK OF SECCUS
+- description length: 159
+- canonical: https://www.ashraellen.com/fi/books/seccus/
+- og:image: https://www.ashraellen.com/assets/covers/seccus-cover-en.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/seccus-cover-en.webp
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_DESCRIPTION
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
+
+### fi/books/the-book-of-whinesis/index.html
+
+- title: Ashraellen — The Book of Whinesis
+- description length: 138
+- canonical: https://www.ashraellen.com/fi/books/the-book-of-whinesis/
+- og:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_DESCRIPTION
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_TITLE: shared by 9 pages
+- DUPLICATE_OG_TITLE: shared by 9 pages
+
+### fi/books/you-are-already-online/index.html
+
+- title: Ashraellen — You Are Already Online
+- description length: 122
+- canonical: https://www.ashraellen.com/fi/books/you-are-already-online/
+- og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_DESCRIPTION
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
 
 ### fi/contact.html
 
@@ -1345,8 +1478,8 @@ Total review notes: 2160
 - og:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
-- DUPLICATE_TITLE: shared by 8 pages
-- DUPLICATE_OG_TITLE: shared by 8 pages
+- DUPLICATE_TITLE: shared by 9 pages
+- DUPLICATE_OG_TITLE: shared by 9 pages
 
 ### pl/books/error-404-god-not-found/why-me/index.html
 
@@ -2057,8 +2190,8 @@ Total review notes: 2160
 - og:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
-- DUPLICATE_TITLE: shared by 8 pages
-- DUPLICATE_OG_TITLE: shared by 8 pages
+- DUPLICATE_TITLE: shared by 9 pages
+- DUPLICATE_OG_TITLE: shared by 9 pages
 
 ### pt/books/error-404-god-not-found/index.html
 
@@ -2184,8 +2317,8 @@ Total review notes: 2160
 - og:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
-- DUPLICATE_TITLE: shared by 8 pages
-- DUPLICATE_OG_TITLE: shared by 8 pages
+- DUPLICATE_TITLE: shared by 9 pages
+- DUPLICATE_OG_TITLE: shared by 9 pages
 
 ### ru/books/index.html
 
@@ -4151,8 +4284,8 @@ Total review notes: 2160
 - og:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
-- DUPLICATE_TITLE: shared by 8 pages
-- DUPLICATE_OG_TITLE: shared by 8 pages
+- DUPLICATE_TITLE: shared by 9 pages
+- DUPLICATE_OG_TITLE: shared by 9 pages
 
 
 ## Pages with review notes
@@ -4282,7 +4415,7 @@ Total review notes: 2160
 - og:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### be/books/you-are-already-online/index.html
@@ -4291,7 +4424,7 @@ Total review notes: 2160
 - og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### be/contact.html
@@ -4976,7 +5109,7 @@ Total review notes: 2160
 - og:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### de/books/you-are-already-online/index.html
@@ -4985,7 +5118,7 @@ Total review notes: 2160
 - og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### de/contact.html
@@ -5672,7 +5805,7 @@ Total review notes: 2160
 - og:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### en/books/you-are-already-online/index.html
@@ -5681,7 +5814,7 @@ Total review notes: 2160
 - og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### en/contact.html
@@ -6357,7 +6490,7 @@ Total review notes: 2160
 - og:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### es/books/you-are-already-online/index.html
@@ -6366,7 +6499,7 @@ Total review notes: 2160
 - og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### es/contact.html
@@ -6983,6 +7116,22 @@ Total review notes: 2160
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
 
+### fi/books/the-book-of-whinesis/index.html
+
+- title: Ashraellen — The Book of Whinesis
+- og:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
+- twitter:image: _missing_
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
+
+### fi/books/you-are-already-online/index.html
+
+- title: Ashraellen — You Are Already Online
+- og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
+- twitter:image: _missing_
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
+
 ### fi/contact.html
 
 - title: Yhteys — Ashraellen — Suomi
@@ -7175,7 +7324,7 @@ Total review notes: 2160
 - og:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### fr/books/you-are-already-online/index.html
@@ -7184,7 +7333,7 @@ Total review notes: 2160
 - og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### fr/contact.html
@@ -7857,7 +8006,7 @@ Total review notes: 2160
 - og:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### pl/books/you-are-already-online/index.html
@@ -7866,7 +8015,7 @@ Total review notes: 2160
 - og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### pl/contact.html
@@ -8562,7 +8711,7 @@ Total review notes: 2160
 - og:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### pt/books/you-are-already-online/index.html
@@ -8571,7 +8720,7 @@ Total review notes: 2160
 - og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### pt/contact.html
@@ -9257,7 +9406,7 @@ Total review notes: 2160
 - og:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### ru/books/you-are-already-online/index.html
@@ -9266,7 +9415,7 @@ Total review notes: 2160
 - og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### ru/contact.html
@@ -10039,7 +10188,7 @@ Total review notes: 2160
 - og:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/whinesis-bg.jpg
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### uk/books/you-are-already-online/index.html
@@ -10048,7 +10197,7 @@ Total review notes: 2160
 - og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### uk/contact.html

@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T12:01:03.936Z
-Pages: 796
+Generated: 2026-08-12T12:05:46.576Z
+Pages: 803
 
 ## Index
 
@@ -305,6 +305,13 @@ Pages: 796
 | fi/books/radiance/index.html | fi | books | Ashraellen — RADIANCE \| Pohjoisia kertomuksia maailman todellisesta historiasta | _missing_ | radiance, ashraellen, books, kertomukset, kirjallis-filosofinen, maailman, mitä, siitä, sykli, että, historiasta, ihminen, kertomuksia, kirja, kirjat, kuvallisia, maailmassa, mikä |
 | fi/books/radiance/sampo/index.html | fi | books | Ashraellen — Sampo \| RADIANCE, Kirja I | _missing_ | sampo, kirja, ashraellen, books, jossa, ole, radiance, ensimmäinen, erotettu, hän, ihminen, julkaisutilanne, katkelma, kehys, kertomus, kirjallis-filosofinen, kirjasta, kuin |
 | fi/books/radiance/song/index.html | fi | books | Ashraellen — Song \| RADIANCE, Kirja II | _missing_ | song, ashraellen, kirja, äänestä, books, joka, radiance, ääni, alkaa, ennen, julkaisutilanne, katkelma, kaupungista, kielestä, kieli, kirjasta, kuulemisesta, laulusta |
+| fi/books/samizdat/demotopia/index.html | fi | books | Demotopia — Kirjapassi — samizdat 2.0 | _missing_ | demotopia, samizdat, 2.0, kirjapassi, books, demotopian, julkaisu, ashraellen, democratic, demokratian, fyysinen, fyysisen, järjestelmässä, kirjasta, passi, pysyvä, pyydä, sen |
+| fi/books/samizdat/index.html | fi | books | samizdat 2.0 — Ashraellenin tekijäjulkaisut | _missing_ | samizdat, 2.0, ashraellenin, books, ilman, tekijäjulkaisut, ashraellen, eikä, fyysinen, fyysiset, julkiset, kappale, kappaleen, kappaleet, kirja, kirjan, kirjapassit, kirjat |
+| fi/books/samizdat/order/index.html | fi | books | Pyydä samizdat 2.0 -tekijäkappale — Ashraellen | _missing_ | 2.0, kappale, pyyntö, samizdat, allekirjoitettu, ashraellen, books, kielellä, pyydä, ashraellenin, ennen, henkilökohtaisesti, hinnan, järjestämiseen, kappaleen, kirja, maksu, order |
+| fi/books/samizdat/order/received/index.html | fi | books | Pyyntö vastaanotettu — samizdat 2.0 — Ashraellen | _missing_ | samizdat, 2.0, ashraellen, vastaanotettu, books, pyyntö, aan, antamaasi, eikä, ennen, erillistä, hinnan, käynnistä, kiitos, kirjapyyntö, order, received |
+| fi/books/seccus/index.html | fi | books | Ashraellen — THE SACRED BOOK OF SECCUS | _missing_ | seccus, book, sacred, ashraellen, books, honesty, menestyksestä, path, sivu, ääni, alibina, avaa, filosofinen, ihminen, itsepetoksesta, joka, kirja, kirjan |
+| fi/books/the-book-of-whinesis/index.html | fi | books | Ashraellen — The Book of Whinesis | _missing_ | book, whinesis, ashraellen, books, jotka, satiiri, ääniraitoja, ensimmäiset, että, herra, katkelma, kirjasta, kulttiin, kun, loputtomaan, luvut, menestyksen, niille |
+| fi/books/you-are-already-online/index.html | fi | books | Ashraellen — You Are Already Online | _missing_ | already, online, you, ashraellen, books, hypertodellisuuden, luku, algoritmien, audioromaani, digitaalisen, enää, ennen, ensimmäinen, hän, ilman, immersiivinen, järjestelmä, katkelma |
 | fi/contact.html | fi | contact.html | Yhteys — Ashraellen — Suomi | _missing_ | ashraellen, yhteys, apurahoja, ashraellenin, julkaisemista, mediaa, projektia, varten, yhteistyötä, aineistot, contact, contact.html, julkiset, koskevia, suomi, telegram-yhteys, yhteydenottoja, yhteystiedot |
 | fi/index.html | fi | index.html | Ashraellen — Kirjat, tutkimus ja julkiset tekstit | _missing_ | ashraellen, julkiset, kirjat, tekstit, itsenäinen, kirjallis-filosofinen, monikielinen, taiteellinen, tutkimus, tutkimuskäytäntö, havainnoinnin, index.html, joka, julkinen, sisäisen, tutkimuksen, videot, yhdistää |
 | fi/kone/index.html | fi | kone | Ashraellen — tiivistelmä Koneen Säätiölle | ashraellen, kone, tiivistelmä, koneen, säätiölle, suomenkielinen, ashraellen-hankkeesta, elämänmittainen, taiteellis-filosofinen, tutkimus, merkityksestä, kirjallisuudesta, videoista, monikielisestä, arkistosta, tutkimuksen, ydin, tekijä | ashraellen, koneen, kone, säätiölle, tiivistelmä, tutkimuksen, tutkimus, arkistosta, ashraellen-hankkeesta, asiakirjat, elämänmittainen, hankkeen, infrastruktuuri, julkinen, kirjallisuudesta, kuukauden, merkityksestä, miten |
@@ -5871,6 +5878,125 @@ Excerpt:
 Excerpt:
 
 > RADIANCE — pohjoisia kertomuksia maailman todellisesta historiasta Song RADIANCE-sarjan toinen kirja. Romaani äänestä, joka ei ota valtaa: kuulemisesta, kielestä, kaupungista, työstä ja laulusta, joka ei suostu muuttumaan mittariksi. Sammon jälkeen runsauden kysymys vaihtuu sanan kysymykseen: voiko kieli olla jotain muuta kuin mielipide, argumentti tai itsensä esittely — voiko se virittää? Englanninkielinen kansi. Ashraellen. Kirjasta kuuleminen ennen hallintaa Song alkaa tavallisesta melusta. Junan kuulutuksesta, liikennevalon piippauksesta, ratikasta, jääkaapista, ihmisten puheesta — kaikesta siitä, minkä kaupunkilainen oppii suodattamaan taustaksi. Kun tausta lakkaa olemasta tausta, maailma ei muutu mystiseksi. Se muuttuu liian kuuluvaksi. Ääni ei enää vain kanna tietoa; se alkaa paljastaa, missä järjestyksessä ihminen asettuu suhteeseen ympäristönsä kanssa. Kirjan keskeinen kysymys e
+
+### fi/books/samizdat/demotopia/index.html
+
+- lang: fi
+- section: books
+- title: Demotopia — Kirjapassi — samizdat 2.0
+- description: Demotopian fyysisen tekijäjulkaisun kirjapassi samizdat 2.0 -järjestelmässä.
+- canonical: https://www.ashraellen.com/fi/books/samizdat/demotopia/
+- H1: Demotopia
+- H2: Kirjasta | Tämä julkaisu | Pysyvä passi | Pyydä tekijäkappale
+- H3: Jokaisesta kappaleesta
+- suggested keyword seed: demotopia, samizdat, 2.0, kirjapassi, books, demotopian, julkaisu, ashraellen, democratic, demokratian, fyysinen, fyysisen, järjestelmässä, kirjasta, passi, pysyvä, pyydä, sen
+- candidates: fyysinen, 2.0, demotopia, samizdat, julkaisu, kirjapassi, sen, suoraan, tekijän, democratic, demokratian, demotopian, julkinen, kappale, kieli, kun, oleva, pyydä, romaani, tekijältä, teos, utopia, 2026, alkaa
+
+Excerpt:
+
+> Kirjapassi / samizdat 2.0 Demotopia Democratic Utopia Filosofinen romaani demokratiasta, vallasta ja vapauden hiljaisesta muuttumisesta rituaaliksi. Tekijän suoraan julkaisema fyysinen laitos Kirjasta demokratia oman rituaalinsa sisältä nähtynä Demotopia tarkastelee hetkeä, jolloin demokratian kieli säilyy ehjänä mutta sen merkitys alkaa liukua. Romaani ei seuraa vapautta romahtamassa yhdessä dramaattisessa hetkessä, vaan muuttumassa tavaksi, menettelyksi ja esitykseksi. Teos ei kuulu millekään puolueelle eikä tarjoa poliittista ohjelmaa. Se esittää hiljaisemman kysymyksen: mitä tapahtuu, kun ihmiset jatkavat demokratian rituaalia vielä senkin jälkeen, kun he eivät enää odota sen muuttavan mitään? Tämä julkaisu valmis fyysinen muoto suoraan tekijältä Teos Demotopia — Democratic Utopia Tekijä Ashraellen Julkaisu Tekijän fyysinen julkaisu Järjestelmä samizdat 2.0 Paikka ja vuosi Varsova, 2
+
+### fi/books/samizdat/index.html
+
+- lang: fi
+- section: books
+- title: samizdat 2.0 — Ashraellenin tekijäjulkaisut
+- description: Ashraellenin samizdat 2.0: suorat fyysiset tekijäjulkaisut, numeroidut kappaleet ja pysyvät julkiset kirjapassit.
+- canonical: https://www.ashraellen.com/fi/books/samizdat/
+- H1: samizdat 2.0
+- H2: Miksi nyt | Mitä se on | Miten se toimii | Numerointi ilman valvontaa | Kirjat samizdat 2.0:ssa
+- H3: Valmis tekijäjulkaisu | Teollisen ketjun ulkopuolella | Yksi kappale esineenä | Pysyvä julkinen passi
+- suggested keyword seed: samizdat, 2.0, ashraellenin, books, ilman, tekijäjulkaisut, ashraellen, eikä, fyysinen, fyysiset, julkiset, kappale, kappaleen, kappaleet, kirja, kirjan, kirjapassit, kirjat
+- candidates: samizdat, 2.0, tekijän, voi, ilman, kappale, kirjan, ole, eikä, fyysinen, kappaleen, kirja, lukijan, säilyttää, tai, teoksen, alkuperäänsä, ashraellenin, esineen, fyysisen, jokainen, jossa, julkaiseminen, julkiseksi
+
+Excerpt:
+
+> Fyysisiä tekijäkirjoja / julkisia kirjapasseja samizdat 2.0 Kirjan ei tarvitse muuttua nimettömäksi tuotteeksi tullakseen julkiseksi. samizdat 2.0 on nykyajan rakenne valmiille kirjoille, jotka tekijä saattaa fyysiseen muotoon teollisen julkaisuketjun ulkopuolella ja välittää suoraan lukijoille. Jokainen kappale voi säilyttää näkyvän yhteyden alkuperäänsä pysyvän julkisen passin kautta. Miksi nyt julkaiseminen on helppoa; läsnäolo ei Klassinen samizdat syntyi tilanteessa, jossa teksti ei päässyt virallisten kanavien läpi. Nyt tekninen julkaiseminen on lähes kaikille mahdollista. Tiedoston voi julkaista heti, kirjan painaa tilauksesta ja tekstin levittää ilman lupaa. Vapauden mukana syntyy toinen menetys: fyysinen kirja voi imeytyä samaan anonyymiin kiertoon kuin mikä tahansa tuote — tuotettu, tilattu, toimitettu ja unohdettu ilman näkyvää suhdetta tekijän, esineen ja lukijan välillä. sam
+
+### fi/books/samizdat/order/index.html
+
+- lang: fi
+- section: books
+- title: Pyydä samizdat 2.0 -tekijäkappale — Ashraellen
+- description: Pyyntö Ashraellenin samizdat 2.0 -tekijäkappaleesta valitulla kielellä.
+- canonical: https://www.ashraellen.com/fi/books/samizdat/order/
+- H1: Pyydä kappale
+- H2: Pyyntö ↓ Tarjous ↓ Vahvistus ↓ Maksu ↓ Valmistus ↓ Toimitus | Allekirjoitettu kappale
+- H3: _missing_
+- suggested keyword seed: 2.0, kappale, pyyntö, samizdat, allekirjoitettu, ashraellen, books, kielellä, pyydä, ashraellenin, ennen, henkilökohtaisesti, hinnan, järjestämiseen, kappaleen, kirja, maksu, order
+- candidates: ennen, henkilökohtaisesti, hinnan, kappale, pyyntö, toimituksen, 2.0, allekirjoitettu, järjestämiseen, kappaleen, kielellä, kirja, lukijalle, pyydä, samizdat, tekijäkappale, toimitusehdot, toimitusta, valitse, valitulla, valmistuksen, voidaan, ajan, allekirjoitukseen
+
+Excerpt:
+
+> Tekijäkappale vahvistetusta pyynnöstä Pyydä kappale Kirja voidaan valmistaa valitulla kielellä ja välittää tietylle lukijalle. Vahvistamme henkilökohtaisesti valitun kielen saatavuuden, valmistusajan, lopullisen hinnan ja toimitusehdot. Lomakkeen lähettäminen ei luo ostopakkoa. Miten se toimii Pyyntö ↓ Tarjous ↓ Vahvistus ↓ Maksu ↓ Valmistus ↓ Toimitus Jos valittu kieliversio ei vielä ole valmis, ilmoitamme sen valmistumiseen tarvittavan ajan ennen vahvistusta. Erityisvaihtoehto Allekirjoitettu kappale Henkilökohtaisesti allekirjoitettu kappale kulkee tekijän käsien kautta ennen toimitusta. Allekirjoitukseen voidaan liittää omistuskirjoitus. Voit kirjoittaa toivotun omistustekstin viestikenttään. Kirja Valitse Demotopia — Democratic Utopia Kappaleen kieli Valitse English (EN) Suomi (FI) Polski (PL) Português (PT) Русский (RU) Українська (UK) Deutsch (DE) Español (ES) Français (FR) Белару
+
+### fi/books/samizdat/order/received/index.html
+
+- lang: fi
+- section: books
+- title: Pyyntö vastaanotettu — samizdat 2.0 — Ashraellen
+- description: Samizdat 2.0 -kirjapyyntö on vastaanotettu.
+- canonical: https://www.ashraellen.com/fi/books/samizdat/order/received/
+- H1: Kiitos.
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: samizdat, 2.0, ashraellen, vastaanotettu, books, pyyntö, aan, antamaasi, eikä, ennen, erillistä, hinnan, käynnistä, kiitos, kirjapyyntö, order, received
+- candidates: 2.0, pyyntö, samizdat, vastaanotettu, aan, antamaasi, ashraellen, eikä, ennen, erillistä, hinnan, käynnistä, kielen, kiitos, kirjapyyntö, kirjapyyntösi, ostoon, perille, saatavuuden, sähköpostiosoitteeseen, sido, takaisin, tarkistamme, toimitusvaihtoehdot
+
+Excerpt:
+
+> Pyyntö vastaanotettu Kiitos. Kirjapyyntösi on tullut perille. Tarkistamme valitun kielen saatavuuden, valmistusajan, hinnan ja toimitusvaihtoehdot ja vastaamme antamaasi sähköpostiosoitteeseen. Pyyntö ei vielä sido ostoon eikä käynnistä valmistusta ennen erillistä vahvistusta. Takaisin samizdat 2.0:aan →
+
+### fi/books/seccus/index.html
+
+- lang: fi
+- section: books
+- title: Ashraellen — THE SACRED BOOK OF SECCUS
+- description: THE SACRED BOOK OF SECCUS — The Path of Honesty on filosofinen satiiri rahasta, menestyksestä, itsepetoksesta, tiedosta alibina ja vastuusta omasta valinnasta.
+- canonical: https://www.ashraellen.com/fi/books/seccus/
+- H1: THE SACRED BOOK OF SECCUS
+- H2: Valittu sivu | Mistä kirjassa on kyse | Neljä sisäänkäyntiä | Kirjan ääni | Versio
+- H3: Sivu 71 — Varjon energialähde | Menestys nurinpäin | Raha peilinä | Tieto alibina | Suora puhuttelu
+- suggested keyword seed: seccus, book, sacred, ashraellen, books, honesty, menestyksestä, path, sivu, ääni, alibina, avaa, filosofinen, ihminen, itsepetoksesta, joka, kirja, kirjan
+- candidates: sivu, honesty, mitä, path, seccus, avaa, book, ihminen, joka, kirja, menestyksestä, raha, sacred, sen, vaan, vapauden, voit, alibina, alkaa, ashraellen, englanninkielinen, hinta, jota, kansi
+
+Excerpt:
+
+> SACRUNOMICON — MENESTYKSEN NURINPÄIN KÄÄNNETTY TETRAKIRJA THE SACRED BOOK OF SECCUS The Path of Honesty Kirja rahasta ja menestyksestä, joka kääntää tutun kysymyksen ympäri. Ei “miten saan mitä haluan?”, vaan mitä ihminen oikeastaan yrittää ostaa samalla, kun hän tavoittelee vapautta, tunnustusta ja oikeutta kutsua itseään onnistuneeksi. Raha on vain tekosyy. Varsinainen tutkimuskohde on ihminen, joka sitä haluaa. Englanninkielinen kansi. Ashraellen. Valittu sivu Käärö IV — Muurien kaatuminen Sivu motiivista, joka piiloutuu oikeiden sanojen — vapauden, auttamisen, hyödyn ja tarkoituksen — taakse. Avaa sivu Sulje sivu Sivu 71 — Varjon energialähde Lähestymme motivaation syvintä kerrosta — sitä, jota olet kiertänyt siisteillä sanoilla ja kunniallisilla tavoitteilla. Olet sanonut haluavasi rahaa vapauden vuoksi, läheistesi auttamiseksi, maailman palvelemiseksi. Mutta sileän pinnan alla voi 
+
+### fi/books/the-book-of-whinesis/index.html
+
+- lang: fi
+- section: books
+- title: Ashraellen — The Book of Whinesis
+- description: The Book of Whinesis — pyhä satiiri niille, jotka ovat väsyneet positiivisiin viboihin, loputtomaan tuottavuuteen ja menestyksen kulttiin.
+- canonical: https://www.ashraellen.com/fi/books/the-book-of-whinesis/
+- H1: The Book of Whinesis
+- H2: Kirjasta | Ensimmäiset luvut | Katkelma | Versio
+- H3: _missing_
+- suggested keyword seed: book, whinesis, ashraellen, books, jotka, satiiri, ääniraitoja, ensimmäiset, että, herra, katkelma, kirjasta, kulttiin, kun, loputtomaan, luvut, menestyksen, niille
+- candidates: että, oli, book, herra, jotka, siitä, whinesis, kun, sanoi, satiiri, vielä, ääniraitoja, alennuskäärme, asetuksista, avaa, chapter, ettette, joka, kieli, makkara, moania, monikielisiä, niille, ole
+
+Excerpt:
+
+> The Book of Whinesis Pyhä satiiri niille, jotka ovat jo hieman allergisia “positiiviselle energialle”, loputtomalle tuottavuudelle ja ajatukselle, että universumi lähettää laskun vain siksi, että manifestoit väärin. Kirjasta sisäänkäynti valituksen kaanoniin The Book of Whinesis on pseudoraamatullinen satiiri digiajan ihmisestä: väsyneestä, verkottuneesta, ärtyneestä ja ikuisesti odottamassa alennusta, toimitusta, merkkiä, vastausta ja merkitystä. Täällä ironia toimii lääkkeenä ja uupumus ilmestyksenä. Valittaminen ei ole heikkoutta. Se on rukous — tosin usein sellainen, jonka vastaanottajaksi on merkitty asiakaspalvelu. Tämä ei ole uskon parodia. Se on parodia meidän mukavuuden, ruudun, ilmoitusten ja oman tyytymättömyytemme kultistamme. Wi-Fi muuttuu kohtaloksi, sohva alttariksi, lataus ikuisuudeksi ja valitus ensimmäiseksi kieleksi ihmiselle, joka ei vielä huomannut etsivänsä lepoa. S
+
+### fi/books/you-are-already-online/index.html
+
+- lang: fi
+- section: books
+- title: Ashraellen — You Are Already Online
+- description: You Are Already Online — immersiivinen audioromaani digitaalisen todellisuuden, algoritmien ja hypertodellisuuden rajalta.
+- canonical: https://www.ashraellen.com/fi/books/you-are-already-online/
+- H1: You Are Already Online
+- H2: Kirjasta | Romaanin kerrokset | Ensimmäinen luku | Katkelma | Versio
+- H3: _missing_
+- suggested keyword seed: already, online, you, ashraellen, books, hypertodellisuuden, luku, algoritmien, audioromaani, digitaalisen, enää, ennen, ensimmäinen, hän, ilman, immersiivinen, järjestelmä, katkelma
+- candidates: hän, liian, already, ilman, online, you, enää, ennen, hypertodellisuuden, järjestelmä, luku, maailma, ole, oli, ollut, sen, siitä, vaan, vain, ääneen, ääni, äänikirja, ääniraitoja, ääntä
+
+Excerpt:
+
+> You Are Already Online Se ei ole ääni. Se on toteamus. Se ei pyydä reaktiota — se on jo merkinnyt sen vastaanotetuksi. Kirjasta sisäänkirjautuminen ilman painiketta Kello 03:17 hän herää ei ääneen vaan valmiiseen tunteeseen. Siitä lähtien tuttu todellisuus alkaa käyttäytyä käyttöliittymän tavoin. Tapahtumien järjestys rakoilee: pelko ilmestyy ennen iskua, kaiku ennen ääntä ja sattumat asettuvat liian täsmällisesti ollakseen enää sattumia. Maailma ei näytä muuttuneen. Se vain toimii liian hyvin. Liian puhtaasti. Liian editoidusti. Romaani liikkuu psykologisen trillerin, kyberpunkin ja hypertodellisuuden rajalla. Tässä ei ole neonista kapinaa, vaan hitaasti kasvava epäilys siitä, että maailma on jo optimoitu ja ladattu tietoisuuteen tiedostona. Muisti muuttuu kuvakaappaukseksi. Sattuma käsikirjoitukseksi. Keho reagoi tulevaan kuin se olisi jo tallennettu. Se on tarina ihmisestä, joka huoma
 
 ### fi/contact.html
 
