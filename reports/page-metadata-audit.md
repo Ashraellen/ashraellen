@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T13:24:19.952Z
+Generated: 2026-08-12T13:25:39.541Z
 
 Pages checked: 841
 Pages with issues: 320
-Total issues: 1902
+Total issues: 1897
 Pages with review notes: 616
 Total review notes: 2164
 
@@ -12,13 +12,13 @@ Total review notes: 2164
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 240 |
-| MISSING_TWITTER_IMAGE | 238 |
-| MISSING_TWITTER_CARD | 208 |
-| MISSING_OG_DESCRIPTION | 207 |
-| MISSING_JSON_LD | 204 |
-| MISSING_OG_IMAGE | 198 |
-| MISSING_OG_TITLE | 191 |
+| MISSING_KEYWORDS | 239 |
+| MISSING_TWITTER_IMAGE | 237 |
+| MISSING_TWITTER_CARD | 207 |
+| MISSING_OG_DESCRIPTION | 206 |
+| MISSING_JSON_LD | 203 |
+| MISSING_OG_IMAGE | 197 |
+| MISSING_OG_TITLE | 190 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
@@ -26,8 +26,8 @@ Total review notes: 2164
 | DUPLICATE_OG_TITLE | 42 |
 | DUPLICATE_KEYWORDS | 36 |
 | DESCRIPTION_TOO_SHORT | 27 |
-| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 18 |
-| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 18 |
+| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 19 |
+| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 19 |
 
 
 ## Review note summary
@@ -1469,16 +1469,11 @@ Total review notes: 2164
 - title: Ashraellen — Syvempi katse kokoaa elämän
 - description length: 96
 - canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0006-insight.html
-- og:image: _missing_
-- twitter:image: _missing_
+- og:image: https://www.ashraellen.com/assets/thoughts/0006-insight.jpg
+- twitter:image: https://www.ashraellen.com/assets/thoughts/0006-insight.jpg
 
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_TITLE
-- MISSING_OG_DESCRIPTION
-- MISSING_OG_IMAGE
-- MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
+- OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0006-insight.jpg
+- TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0006-insight.jpg
 
 ### fi/public/thoughts/arcs/0007-empty-chair.html
 
