@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T12:18:04.360Z
+Generated: 2026-08-12T12:28:40.857Z
 
-Pages checked: 816
-Pages with issues: 295
-Total issues: 1814
+Pages checked: 822
+Pages with issues: 301
+Total issues: 1856
 Pages with review notes: 616
 Total review notes: 2164
 
@@ -12,13 +12,13 @@ Total review notes: 2164
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 233 |
-| MISSING_TWITTER_IMAGE | 231 |
-| MISSING_TWITTER_CARD | 201 |
-| MISSING_OG_DESCRIPTION | 200 |
-| MISSING_JSON_LD | 197 |
-| MISSING_OG_IMAGE | 191 |
-| MISSING_OG_TITLE | 184 |
+| MISSING_KEYWORDS | 239 |
+| MISSING_TWITTER_IMAGE | 237 |
+| MISSING_TWITTER_CARD | 207 |
+| MISSING_OG_DESCRIPTION | 206 |
+| MISSING_JSON_LD | 203 |
+| MISSING_OG_IMAGE | 197 |
+| MISSING_OG_TITLE | 190 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
@@ -1377,6 +1377,102 @@ Total review notes: 2164
 - title: Ashraellen — Syvempi katse kokoaa elämän
 - description length: 96
 - canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0006-insight.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### fi/public/thoughts/arcs/0007-empty-chair.html
+
+- title: Ashraellen — Tyhjä tuoli
+- description length: 102
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0007-empty-chair.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### fi/public/thoughts/arcs/0008-generalization.html
+
+- title: Ashraellen — Yleistys havainnon sijasta
+- description length: 98
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0008-generalization.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### fi/public/thoughts/arcs/0009-where-life-stopped.html
+
+- title: Ashraellen — Missä lakkasit olemasta elossa
+- description length: 119
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0009-where-life-stopped.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### fi/public/thoughts/arcs/0010-dirty-cup.html
+
+- title: Ashraellen — Likainen kuppi
+- description length: 87
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0010-dirty-cup.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### fi/public/thoughts/arcs/0011-do-not-regret.html
+
+- title: Ashraellen — Älä kadu
+- description length: 98
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0011-do-not-regret.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### fi/public/thoughts/arcs/0012-close-the-book.html
+
+- title: Ashraellen — Milloin kirja on aika sulkea
+- description length: 83
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0012-close-the-book.html
 - og:image: _missing_
 - twitter:image: _missing_
 

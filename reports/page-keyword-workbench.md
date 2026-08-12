@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T12:18:05.018Z
-Pages: 817
+Generated: 2026-08-12T12:28:41.546Z
+Pages: 823
 
 ## Index
 
@@ -328,6 +328,12 @@ Pages: 817
 | fi/public/thoughts/arcs/0004-mortality-awakens.html | fi | public | Ashraellen — Rajallisuus herättää kysymyksen | _missing_ | rajallisuus, herättää, kysymyksen, alkaa, ashraellen, kun, miksi, moni, public, ajatella, ajatus, arcs, ashraellenin, awakens, että, harhakuvitelmista, koko, kysyä |
 | fi/public/thoughts/arcs/0005-on-your-own.html | fi | public | Ashraellen — Pelko hallinnan mekanismina | _missing_ | hallinnan, pelko, ajatella, alkaa, ashraellen, ihminen, itse, mekanismina, public, ajatus, arcs, ashraellenin, elämistä, enää, ennen, että, heikkenevät, joka |
 | fi/public/thoughts/arcs/0006-insight.html | fi | public | Ashraellen — Syvempi katse kokoaa elämän | _missing_ | katse, kokoaa, elämän, syvempi, ashraellen, public, alkaa, arcs, ashraellenin, enää, hän, ihminen, insight, ketjuksi, kivun, kohti, kokemuksen, koko |
+| fi/public/thoughts/arcs/0007-empty-chair.html | fi | public | Ashraellen — Tyhjä tuoli | _missing_ | tuoli, tyhjä, ashraellen, eivät, ihmiset, jotkut, kokonaan, lähde, public, vain, ajatus, arcs, ashraellenin, chair, empty, että, istumasta, jotta |
+| fi/public/thoughts/arcs/0008-generalization.html | fi | public | Ashraellen — Yleistys havainnon sijasta | _missing_ | havainnon, yleistys, ashraellen, jossa, kohdassa, korvaa, muuttuu, public, sijasta, tämä, ajatus, alkaa, arcs, ashraellenin, että, generalization, juuri, koko |
+| fi/public/thoughts/arcs/0009-where-life-stopped.html | fi | public | Ashraellen — Missä lakkasit olemasta elossa | _missing_ | missä, elossa, lakkasit, ashraellen, elämä, herääminen, joskus, olemasta, public, ajatus, arcs, ashraellenin, että, herätä, juuri, kohdassa, koko, life |
+| fi/public/thoughts/arcs/0010-dirty-cup.html | fi | public | Ashraellen — Likainen kuppi | _missing_ | kuppi, likainen, ashraellen, kuppia, public, vaihtaa, vain, ympyrää, ajatus, alice, arcs, ashraellenin, cup, dirty, hatuntekijä, juokseminen, juoksijan, koko |
+| fi/public/thoughts/arcs/0011-do-not-regret.html | fi | public | Ashraellen — Älä kadu | _missing_ | älä, kadu, armo, ashraellen, joskus, public, ajatus, arcs, ashraellenin, elämä, ihminen, jota, koko, kun, menetykseltä, merkitys, mikä, miksi |
+| fi/public/thoughts/arcs/0012-close-the-book.html | fi | public | Ashraellen — Milloin kirja on aika sulkea | _missing_ | kirja, aika, ajatus, ashraellen, enää, hiljaisuudessa, jatku, milloin, public, sulkea, 0012, arcs, book, close, että, henkinen, jossain, koko |
 | fi/public/thoughts/index-0001.html | fi | public | Ashraellen — Tukiajatusten ensimmäinen kaari | _missing_ | ensimmäinen, kaari, herääminen, iloisuus, pelko, tukiajatusten, voimat, alkaa, ashraellen, enää, kun, public, rajallisuus, ajatus, ashraellenin, avaa, diagnoosina, elämän |
 | fi/public/thoughts/index-0002.html | fi | public | Ashraellen — Tukiajatusten toinen kaari | _missing_ | kaari, toinen, tukiajatusten, kuppi, likainen, armo, ashraellen, havainnon, herääminen, public, ajatus, älä, ashraellenin, avaa, elossa, havainnointi, hengellisen, index |
 | fi/public/thoughts/index.html | fi | public | Ashraellen — Tukiajatusten kolmas kaari | _missing_ | kaari, kolmas, ajatus, fakta, hienovarainen, kruununsa, kuva, menettää, todistaja, tukiajatusten, yksi, ashraellen, hiljaisuutta, ongelma, public, tarvitsee, ashraellenin, avaa |
@@ -6283,6 +6289,108 @@ Excerpt:
 Excerpt:
 
 > Tukiajatus 0006 Syvempi katse kokoaa elämän Kun ihminen alkaa nähdä näkyvää syvemmälle, hän lakkaa vaeltamasta seurausten joukossa ja alkaa huomata syitä. Merkitys Syvä ymmärrys ei tee elämästä yksinkertaista. Se tekee siitä yhteydessä olevan. Virheet, epäonnistumiset ja kipu eivät enää näytä irralliselta romulta vaan osilta ketjua, joka johti nykyiseen näkemiseen. Koko teksti Kun ihminen näkee pintaa syvemmälle, jalat löytävät yllättävän paljon paremmin maan. Silloin hän ei enää vaella seurausten joukossa suurena marttyyrina, kerää sirpaleita ja kysy universumilta miksi juuri hän, tämä poikkeuksellisen hieno yksilö, sai taas huonekalun kulman jalkaansa. Katse alkaa etsiä syitä. Elämä ei muutu helpoksi, mutta siitä tulee usein loogisempi kuin keskellä hysteriaa näytti. Ilman tällaista katsetta ihminen kulkee sokkona labyrintissa: törmää seinään, loukkaantuu kulmalle ja epäilee lopulta hu
+
+### fi/public/thoughts/arcs/0007-empty-chair.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Tyhjä tuoli
+- description: Ashraellenin tukiajatus: jotkut ihmiset eivät lähde kokonaan; he vain lakkaavat istumasta vieressämme.
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0007-empty-chair.html
+- H1: Tyhjä tuoli
+- H2: Merkitys | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
+- H3: _missing_
+- suggested keyword seed: tuoli, tyhjä, ashraellen, eivät, ihmiset, jotkut, kokonaan, lähde, public, vain, ajatus, arcs, ashraellenin, chair, empty, että, istumasta, jotta
+- candidates: tuoli, tyhjä, eivät, vain, voit, ajatus, että, ihmiset, jotkut, jotta, kokonaan, lähde, vaikka, antaa, anteeksi, enää, hänen, irti, istumasta, joskus, kerran, lakkaavat, muistista, ole
+
+Excerpt:
+
+> Tukiajatus 0007 Tyhjä tuoli Jotkut ihmiset eivät lähde kokonaan. He vain lakkaavat istumasta vieressämme. Merkitys Tämä ei ole kehotus takertua menneeseen. Se on havainto muistista: ihmisen voi päästää irti, antaa anteeksi ja lakata odottamasta, mutta hänen kerran täyttämänsä paikka ei katoa käskystä. Koko teksti Kun olet kerran päästänyt jonkun todella lähelle, häntä ei voi vain häätää sielusta kuin vuokralaista, jonka sopimus päättyi. Vaikka kaikki olisi ohi. Vaikka keskustelut olisivat hiljenneet. Vaikka toinen olisi jo kauan kulkenut omaa tietään. Sisälle jää paikka, jossa hän joskus istui. Tyhjä tuoli. Kukaan ei enää täytä sitä samalla tavalla. Voit jatkaa elämää. Nauraa. Tehdä työtä. Rakentaa uusia suunnitelmia. Kohdata uusia ihmisiä. Ja silti joskus katse osuu sisäänpäin — ja näet tuolin. Ei välttämättä kipuna. Ei edes ikävänä. Enemmänkin hiljaisena todisteena siitä, että joku tod
+
+### fi/public/thoughts/arcs/0008-generalization.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Yleistys havainnon sijasta
+- description: Ashraellenin tukiajatus: yleistys muuttuu vaaralliseksi siinä kohdassa, jossa se korvaa havainnon.
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0008-generalization.html
+- H1: Yleistys havainnon sijasta
+- H2: Merkitys | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
+- H3: _missing_
+- suggested keyword seed: havainnon, yleistys, ashraellen, jossa, kohdassa, korvaa, muuttuu, public, sijasta, tämä, ajatus, alkaa, arcs, ashraellenin, että, generalization, juuri, koko
+- candidates: yleistys, havainnon, ajatus, korvaa, kun, muuttuu, tämä, alkaa, että, jossa, juuri, kohdassa, kokemus, mieli, nähnyt, säästää, siinä, sijasta, sisäisen, sitä, tapausta, tarvitse, toimiston, tukiajatus
+
+Excerpt:
+
+> Tukiajatus 0008 Yleistys havainnon sijasta Yleistys muuttuu vaaralliseksi siinä kohdassa, jossa se korvaa havainnon. Merkitys Yleistys säästää mielen vaivaa. Se voi myös muuttua kieltäytymiseksi nähdä, mitä juuri nyt tapahtuu. Kun valmis etiketti tulee huomion tilalle, ihminen ei enää kohtaa tapausta — hän palvelee vanhaa lomaketta. Koko teksti Yleistys on kätevä keksintö. Sen ansiosta kaikkea ei tarvitse tutkia joka kerta alusta. Ei tarvitse katsoa läheltä, kysyä tarkennusta eikä kohdata elävää tapausta elävänä. Riittää, että sisäisen toimiston pölyisestä kaapista vedetään oikean värinen lomake: “Olen nähnyt tämän ennenkin.” Usein et ole. Olet nähnyt jotain samankaltaista ja päättänyt, että samankaltainen on sama. Siitä virhe alkaa. “Ne ovat kaikki tuollaisia.” “Aina käy näin.” “Näistä tiedetään jo.” “Minä tiedän mihin tämä päättyy.” Mieli nyökkää tyytyväisenä: työ tehty. Todellisuudess
+
+### fi/public/thoughts/arcs/0009-where-life-stopped.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Missä lakkasit olemasta elossa
+- description: Ashraellenin tukiajatus: joskus herääminen tarkoittaa sen näkemistä, missä kohdassa elämä muuttui pelkäksi toiminnaksi.
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0009-where-life-stopped.html
+- H1: Missä lakkasit olemasta elossa
+- H2: Merkitys | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
+- H3: _missing_
+- suggested keyword seed: missä, elossa, lakkasit, ashraellen, elämä, herääminen, joskus, olemasta, public, ajatus, arcs, ashraellenin, että, herätä, juuri, kohdassa, koko, life
+- candidates: missä, että, herääminen, joskus, juuri, mitä, siinä, ajatus, elämä, elossa, herätä, lakkasit, niin, olemasta, pitäisi, siitä, sitä, tarkoittaa, vaan, elämäksi, elämältä, eläväksi, ensimmäistä, hyvin
+
+Excerpt:
+
+> Tukiajatus 0009 Missä lakkasit olemasta elossa Joskus herääminen tarkoittaa sitä, että näet ensimmäistä kertaa, missä kohdassa lakkasit olemasta elossa. Merkitys Herääminen ei näyttäydy miellyttävänä parannuksena vaan korvaamisen tunnistamisena: hereilläolo oli kiirettä, terveys kätevää turtumista ja elämä rooli, jonka osasi niin hyvin että luuli sitä itsekseen. Koko teksti Pitää herätä. Toipua. Tulla eläväksi. Kuulostaa yksinkertaiselta. Vaikeus on siinä, että herätä pitäisi juuri siitä, mitä pitkään piti valveillaolona. Omasta kiireestä. Jatkuvasta tekemisestä. Liikkeestä, joka näyttää elämältä niin kauan kuin ei pysähdy katsomaan. Toipua pitäisi siitä, mitä piti terveytenä: automaattisista reaktioista, kätevästä kuuroudesta, kyvystä kestää sitä mikä on jo pitkään rikkonut sisältä. Ja eläväksi pitäisi tulla siitä, mikä näytti täydeltä elämältä: aikataulusta, tavoitteista joissa ei enää
+
+### fi/public/thoughts/arcs/0010-dirty-cup.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Likainen kuppi
+- description: Ashraellenin tukiajatus: ympyrää juokseminen ei pese kuppia; se vaihtaa vain juoksijan.
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0010-dirty-cup.html
+- H1: Likainen kuppi
+- H2: Merkitys | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
+- H3: _missing_
+- suggested keyword seed: kuppi, likainen, ashraellen, kuppia, public, vaihtaa, vain, ympyrää, ajatus, alice, arcs, ashraellenin, cup, dirty, hatuntekijä, juokseminen, juoksijan, koko
+- candidates: alice, hatuntekijä, mutta, likainen, vain, kuppi, kuppia, paikkaa, sitä, vaihtaa, ympyrää, ajatus, avasi, elämäksi, jos, juokseminen, juoksijan, katsoi, kupin, kysyi, miksi, niin, oli, omaa
+
+Excerpt:
+
+> Tukiajatus 0010 Likainen kuppi Ympyrää juokseminen ei pese kuppia. Se vaihtaa vain juoksijan. Merkitys Satuasetelma näyttää tavallisen inhimillisen tempun: liike sekoitetaan ratkaisuun. Paikka, rooli ja selitys vaihtuvat, mutta omaa kuppia ei vieläkään pestä. Koko teksti Alice istui pöydän reunalla ja katsoi, kuinka Hullu Hatuntekijä täytti jälleen kupin, vaikka kukaan ei ollut juonut edellistäkään loppuun. “Miksi te vaihdatte jatkuvasti paikkaa?” Alice kysyi. “Teehän on samaa.” “Likainen kuppi”, Hatuntekijä selitti arvokkaasti. “Mutta te vain juoksette omaa kuppianne karkuun ympyrää.” “Juuri niin”, Hatuntekijä sanoi. “Sitä kutsutaan elämäksi.” Maaliskuun jänis nauroi niin että kaatoi maitokannun. Hiiri ei herännyt. Alice mietti. “Jos vaihdatte paikkaa tarpeeksi kauan, palaatte lopulta omaan kuppiinne. Ja se on yhä likainen.” “Tietenkin”, Hatuntekijä sanoi. “Mutta siihen mennessä me olem
+
+### fi/public/thoughts/arcs/0011-do-not-regret.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Älä kadu
+- description: Ashraellenin tukiajatus: joskus armo näyttää menetykseltä ja pelastus toteutumattomalta unelmalta.
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0011-do-not-regret.html
+- H1: Älä kadu
+- H2: Merkitys | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
+- H3: _missing_
+- suggested keyword seed: älä, kadu, armo, ashraellen, joskus, public, ajatus, arcs, ashraellenin, elämä, ihminen, jota, koko, kun, menetykseltä, merkitys, mikä, miksi
+- candidates: joskus, olisi, älä, kadu, kun, mikä, mutta, ajatus, ihminen, jota, armo, elämä, että, hajoaa, hän, itse, juuri, kuin, menetykseltä, merkitys, myös, näyttää, olla, pelastus
+
+Excerpt:
+
+> Tukiajatus 0011 Älä kadu Joskus armo näyttää menetykseltä. Joskus pelastus tulee toteutumattoman unelman vaatteissa. Merkitys Katumus nojaa usein varmuuteen siitä, että tiedämme miten kaiken olisi pitänyt mennä. Entä jos menetys ei ollutkaan vain rangaistus vaan ulospääsy tieltä, jota emme itse olisi osanneet jättää? Koko teksti Älä kadu mitään. Ei siksi, että kaikki olisi ollut miellyttävää, oikein ja kaunista. Joskus elämä taluttaa ihmistä kuin sillä olisi suunnitelman sijasta rautakanki. Mutta onnettomuus voi osoittautua hyväksi paljon myöhemmin kuin isku tuntuu. Ei tietenkään siinä hetkessä, kun jokin hajoaa ja ihminen huudahtaa: “Ah, mikä hieno siunaus juuri laskeutui takaraivooni.” Merkitys näkyy usein vasta kivun jälkeen. Kun tarpeeton on poistunut. Kun se mikä olisi pitänyt hajota jo kauan sitten, lopulta hajoaa. Kun ymmärrät, ettei sinua ehkä rangaistu — sinut vedettiin ulos ove
+
+### fi/public/thoughts/arcs/0012-close-the-book.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Milloin kirja on aika sulkea
+- description: Tukiajatus 0012: jossain vaiheessa polku ei enää jatku sivulla vaan hiljaisuudessa.
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0012-close-the-book.html
+- H1: Milloin kirja on aika sulkea
+- H2: Ajatus | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
+- H3: _missing_
+- suggested keyword seed: kirja, aika, ajatus, ashraellen, enää, hiljaisuudessa, jatku, milloin, public, sulkea, 0012, arcs, book, close, että, henkinen, jossain, koko
+- candidates: että, sen, voi, kirja, mutta, sijaan, ajatus, lukee, enää, henkinen, hiljaisuudessa, jatku, jossain, kartta, kirjallisuus, polku, sivulla, sulkea, vaan, vaiheessa, 0012, aika, alussa, antaa
+
+Excerpt:
+
+> Tukiajatus 0012 Milloin kirja on aika sulkea Jossain vaiheessa polku ei enää jatku sivulla. Se jatkuu hiljaisuudessa. Ajatus Henkinen kirjallisuus voi olla kartta, lyhty ja ensimmäinen sysäys. Mutta kartta ei kävele puolestasi. Jos lukeminen korvaa kokemuksen, viisaimmastakin tienviitasta tulee uusi häkki. Koko teksti Kuinka arvokasta henkinen kirjallisuus on? Erittäin arvokasta. Se hälventää tietämättömyyttä, antaa ensimmäiset sanat, ensimmäiset suunnat ja ensimmäisen sisäisen tuen. Matkan alussa kirja voi olla kartta, lyhty ja joskus myös sopivan epähieno potku kohti itseä. Mutta jokaisessa kartassa on yksi vaara. Ihminen voi alkaa tutkia karttaa sen sijaan, että lähtisi liikkeelle. Hän lukee hiljaisuudesta sen sijaan, että astuisi siihen. Lukee hyväksymisestä sen sijaan, että hyväksyisi. Lukee vapaudesta sen sijaan, että poistuu omasta häkistään. Lukee Jumalasta sen sijaan, että olisi
 
 ### fi/public/thoughts/index-0001.html
 
