@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T13:02:32.752Z
+Generated: 2026-08-12T13:03:24.777Z
 Pages: 842
 
 ## Index
@@ -345,7 +345,7 @@ Pages: 842
 | fi/public/thoughts/arcs/0014-end-of-extra-war.html | fi | public | Ashraellen — Ylimääräisen sodan loppu | Ashraellen, tukiajatus, hyväksyminen, sisäinen sota, todellisuus | loppu, sodan, ajatus, ashraellen, ole, public, ylimääräisen, 0014, arcs, end, että, extra, hyväksyminen, joka, juuri, kaikki, koko, kyllä |
 | fi/public/thoughts/arcs/0015-subtle-thought-needs-silence.html | fi | public | Ashraellen — Hieno ajatus tarvitsee hiljaisuutta | Ashraellen, tukiajatus, hiljaisuus, ymmärtäminen, hienovaraisuus | ajatus, hiljaisuutta, hieno, tarvitsee, 0015, ashraellen, public, tarvitse, tullakseen, vaan, aikaa, aina, arcs, herkkyyttä, hienovarainen, joskus, karkeaksi, karkeutta |
 | fi/public/thoughts/arcs/0016-one-fact.html | fi | public | Ashraellen — Oli yksi fakta | Ashraellen, tukiajatus, fakta, tulkinta, ahdistus | fakta, yksi, oli, 0016, ajatus, ashraellen, mitä, public, tiedän, varmasti, arcs, fact, itse, joku, kärsimyssarjaksi, koko, kokonaiseksi, kuin |
-| fi/public/thoughts/arcs/0017-witness-does-not-interfere.html | fi | public | Ashraellen — Todistaja ei puutu väliin | _missing_ | todistaja, aikojaan, ajatus, ashraellen, ennen, estä, näkyväksi, public, puutu, väliin, 0017, arcs, does, ihminen, interfere, joka, joskus, koko |
+| fi/public/thoughts/arcs/0017-witness-does-not-interfere.html | fi | public | Ashraellen — Todistaja ei puutu väliin | Ashraellen, tukiajatus, todistaja, rauhallisuus, läsnäolo | todistaja, aikojaan, ajatus, ashraellen, ennen, näkyväksi, ole, public, puutu, vaan, väliin, 0017, arcs, does, estämättä, ihminen, interfere, joka |
 | fi/public/thoughts/arcs/0018-image-cannot-be-happy.html | fi | public | Ashraellen — Kuva ei voi olla onnellinen | _missing_ | voi, kuva, olla, onnellinen, ajatus, ashraellen, mutta, public, 0018, arcs, cannot, hänen, happy, ihminen, image, itsensä, koko, kuvan |
 | fi/public/thoughts/arcs/0019-do-not-bomb.html | fi | public | Ashraellen — Älä pommita | _missing_ | älä, pommita, ajatus, ashraellen, niin, pommiteta, public, tämä, 0019, arcs, bomb, ensin, että, hän, ihminen, koko, maailmaan, miksi |
 | fi/public/thoughts/arcs/0020-people-and-mass.html | fi | public | Ashraellen — Kansa ja massa | _missing_ | kansa, massa, ajatus, ashraellen, public, 0020, arcs, hänen, ihminen, kansan, koko, mass, massan, miksi, minä, minussa, mitä, muistaa |
@@ -6603,13 +6603,13 @@ Excerpt:
 - lang: fi
 - section: public
 - title: Ashraellen — Todistaja ei puutu väliin
-- description: Tukiajatus 0017: todistaja ei estä totuutta tulemasta näkyväksi ennen aikojaan.
+- description: Tukiajatus 0017: todistaminen ei ole passiivisuutta, vaan kykyä olla estämättä totuutta tulemasta näkyväksi ennen aikojaan.
 - canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0017-witness-does-not-interfere.html
 - H1: Todistaja ei puutu väliin
 - H2: Ajatus | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
 - H3: _missing_
-- suggested keyword seed: todistaja, aikojaan, ajatus, ashraellen, ennen, estä, näkyväksi, public, puutu, väliin, 0017, arcs, does, ihminen, interfere, joka, joskus, koko
-- candidates: todistaja, ole, ajatus, ennen, aikojaan, estä, ihminen, joka, joskus, näkyväksi, odottaa, olemaan, rauhallisuus, totuutta, tulemasta, vaan, 0017, ettei, heti, merkitys, mitään, näyttää, olla, osaa
+- suggested keyword seed: todistaja, aikojaan, ajatus, ashraellen, ennen, näkyväksi, ole, public, puutu, vaan, väliin, 0017, arcs, does, estämättä, ihminen, interfere, joka
+- candidates: todistaja, ole, ajatus, ennen, vaan, aikojaan, ihminen, joka, joskus, näkyväksi, odottaa, olemaan, olla, rauhallisuus, totuutta, tulemasta, 0017, estä, ettei, heti, kykyä, merkitys, mitään, näyttää
 
 Excerpt:
 

@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T13:02:32.067Z
+Generated: 2026-08-12T13:03:24.233Z
 
 Pages checked: 841
 Pages with issues: 320
-Total issues: 1973
+Total issues: 1967
 Pages with review notes: 616
 Total review notes: 2164
 
@@ -12,22 +12,22 @@ Total review notes: 2164
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 253 |
-| MISSING_TWITTER_IMAGE | 251 |
-| MISSING_TWITTER_CARD | 221 |
-| MISSING_OG_DESCRIPTION | 220 |
-| MISSING_JSON_LD | 217 |
-| MISSING_OG_IMAGE | 211 |
-| MISSING_OG_TITLE | 204 |
+| MISSING_KEYWORDS | 252 |
+| MISSING_TWITTER_IMAGE | 250 |
+| MISSING_TWITTER_CARD | 220 |
+| MISSING_OG_DESCRIPTION | 219 |
+| MISSING_JSON_LD | 216 |
+| MISSING_OG_IMAGE | 210 |
+| MISSING_OG_TITLE | 203 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
 | DUPLICATE_TITLE | 44 |
 | DUPLICATE_OG_TITLE | 42 |
 | DUPLICATE_KEYWORDS | 36 |
-| DESCRIPTION_TOO_SHORT | 33 |
-| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 5 |
-| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 5 |
+| DESCRIPTION_TOO_SHORT | 32 |
+| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 6 |
+| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 6 |
 
 
 ## Review note summary
@@ -1643,19 +1643,13 @@ Total review notes: 2164
 ### fi/public/thoughts/arcs/0017-witness-does-not-interfere.html
 
 - title: Ashraellen — Todistaja ei puutu väliin
-- description length: 79
+- description length: 123
 - canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0017-witness-does-not-interfere.html
-- og:image: _missing_
-- twitter:image: _missing_
+- og:image: https://www.ashraellen.com/assets/thoughts/0017-witness-does-not-interfere.jpg
+- twitter:image: https://www.ashraellen.com/assets/thoughts/0017-witness-does-not-interfere.jpg
 
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_TITLE
-- MISSING_OG_DESCRIPTION
-- MISSING_OG_IMAGE
-- MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
-- DESCRIPTION_TOO_SHORT: 79
+- OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0017-witness-does-not-interfere.jpg
+- TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0017-witness-does-not-interfere.jpg
 
 ### fi/public/thoughts/arcs/0018-image-cannot-be-happy.html
 

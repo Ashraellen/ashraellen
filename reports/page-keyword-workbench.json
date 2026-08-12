@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T13:02:32.735Z",
+  "generated": "2026-08-12T13:03:24.764Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -25112,8 +25112,8 @@
       "lang": "fi",
       "section": "public",
       "title": "Ashraellen — Todistaja ei puutu väliin",
-      "description": "Tukiajatus 0017: todistaja ei estä totuutta tulemasta näkyväksi ennen aikojaan.",
-      "existingKeywords": "",
+      "description": "Tukiajatus 0017: todistaminen ei ole passiivisuutta, vaan kykyä olla estämättä totuutta tulemasta näkyväksi ennen aikojaan.",
+      "existingKeywords": "Ashraellen, tukiajatus, todistaja, rauhallisuus, läsnäolo",
       "canonical": "https://www.ashraellen.com/fi/public/thoughts/arcs/0017-witness-does-not-interfere.html",
       "h1": [
         "Todistaja ei puutu väliin"
@@ -25141,26 +25141,26 @@
         "ole",
         "ajatus",
         "ennen",
+        "vaan",
         "aikojaan",
-        "estä",
         "ihminen",
         "joka",
         "joskus",
         "näkyväksi",
         "odottaa",
         "olemaan",
+        "olla",
         "rauhallisuus",
         "totuutta",
         "tulemasta",
-        "vaan",
         "0017",
+        "estä",
         "ettei",
         "heti",
+        "kykyä",
         "merkitys",
         "mitään",
-        "näyttää",
-        "olla",
-        "osaa"
+        "näyttää"
       ],
       "suggestedKeywordSeed": [
         "todistaja",
@@ -25168,19 +25168,19 @@
         "ajatus",
         "ashraellen",
         "ennen",
-        "estä",
         "näkyväksi",
+        "ole",
         "public",
         "puutu",
+        "vaan",
         "väliin",
         "0017",
         "arcs",
         "does",
+        "estämättä",
         "ihminen",
         "interfere",
-        "joka",
-        "joskus",
-        "koko"
+        "joka"
       ]
     },
     {
