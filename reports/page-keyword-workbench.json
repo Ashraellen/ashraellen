@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T19:22:41.246Z",
+  "generated": "2026-08-12T19:24:16.201Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -27100,12 +27100,12 @@
       "page": "fr/books/monolith/sludge/index.html",
       "lang": "fr",
       "section": "books",
-      "title": "Ashraellen — SLUDGE",
-      "description": "SLUDGE est le volume II de MONOLITH : une dystopie philosophique sur la pression visqueuse, la résistance épuisée, la complicité et la perte de forme.",
-      "existingKeywords": "Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research",
+      "title": "Ashraellen — BOUE",
+      "description": "BOUE est le volume II de MONOLITHE : une dystopie philosophique sur la pression visqueuse, la résistance épuisée, la complicité et la perte de forme.",
+      "existingKeywords": "Ashraellen, MONOLITHE, BOUE, dystopie, littérature, recherche artistique",
       "canonical": "https://www.ashraellen.com/fr/books/monolith/sludge/",
       "h1": [
-        "SLUDGE"
+        "BOUE"
       ],
       "h2": [
         "Dossier",
@@ -27131,7 +27131,7 @@
         "monolith",
         "sludge"
       ],
-      "excerpt": "SLUDGE SLUDGE est une dystopie philosophique sur un monde où la pression ne ressemble plus à un mur : elle s’infiltre dans le quotidien, le langage et le corps, brouille les frontières et transforme l’être humain en matériau du milieu. Volume II de la trilogie MONOLITH : déformation visqueuse, épuisement de la résistance et complicité devenue habitude. Dossier Volume II Un être humain ne se brise pas d’un coup. D’abord, il se fatigue de résister. Puis il commence à consentir. DOSSIER N° 2026-001B. Indice : 6666548A. STATUT : Strictement secret. Lire l’édition russe sur Google Play Books Lire l’édition anglaise sur Amazon Retour à MONOLITH Extrait choisi Chapitre 6 / § 6.2 Chapitre 6. Premiers pas dans SLUDGE. § 6.2. Entrepôts de Conservation des Éclats L’extrait montre comment le besoin ordinaire, la procédure ritualisée, la peur, le silence et la complicité deviennent la matière quotidi",
+      "excerpt": "BOUE BOUE est une dystopie philosophique sur un monde où la pression ne ressemble plus à un mur : elle s’infiltre dans le quotidien, le langage et le corps, brouille les frontières et transforme l’être humain en matériau du milieu. Volume II de la trilogie MONOLITHE : déformation visqueuse, épuisement de la résistance et complicité devenue habitude. Dossier Volume II Un être humain ne se brise pas d’un coup. D’abord, il se fatigue de résister. Puis il commence à consentir. DOSSIER N° 2026-001B. Indice : 6666548A. STATUT : Strictement secret. Lire l’édition anglaise sur Google Play Books Lire l’édition anglaise sur Amazon Retour à MONOLITHE Extrait choisi Chapitre 6 / § 6.2 Chapitre 6. Premiers pas dans la BOUE. § 6.2. Entrepôts de Conservation des Éclats L’extrait montre comment le besoin ordinaire, la procédure ritualisée, la peur, le silence et la complicité deviennent la matière quoti",
       "candidates": [
         "pas",
         "les",
@@ -27142,12 +27142,12 @@
         "mais",
         "que",
         "plus",
+        "boue",
         "pour",
         "comme",
         "sur",
         "son",
         "adam",
-        "sludge",
         "même",
         "sans",
         "avec",
@@ -27155,17 +27155,15 @@
         "d’un",
         "déjà",
         "était",
-        "ses",
-        "elle"
+        "monolithe",
+        "ses"
       ],
       "suggestedKeywordSeed": [
-        "sludge",
+        "boue",
         "ashraellen",
         "books",
-        "monolith",
         "pour",
         "qui",
-        "sur",
         "une",
         "artistique",
         "cadre",
@@ -27176,7 +27174,9 @@
         "des",
         "divulgâcher",
         "dossier",
-        "dystopie"
+        "dystopie",
+        "épuisée",
+        "est"
       ]
     },
     {
