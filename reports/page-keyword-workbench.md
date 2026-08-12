@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T12:13:28.784Z
-Pages: 811
+Generated: 2026-08-12T12:18:05.018Z
+Pages: 817
 
 ## Index
 
@@ -322,6 +322,12 @@ Pages: 811
 | fi/public/posts/formula/index.html | fi | public | Ashraellen — Polku, teko, rytmi | _missing_ | polku, rytmi, teko, ashraellen, public, aina, ajatuksia, ashraellenin, formula, joissa, joskus, kaava, kaavalinja, kaavat, liike, lyhyitä, mikä, mittansa |
 | fi/public/posts/fragment/index.html | fi | public | Ashraellen — Fragmentit | _missing_ | fragmentit, aikana, ashraellen, julkaisujen, käsinkirjoitettujen, muistiinpanojen, public, tekstien, vuosien, aineistoa, alla, arkisto, arkiston, arkistoon, arkistosta, ashraellenin, fragment, kertyneestä |
 | fi/public/posts/index.html | fi | public | Ashraellen — Julkaisut | _missing_ | ashraellen, julkaisut, ashraellenin, fragmentit, kaavat, miniesseet, public, ajatus, ehtii, ennen, eri, havaintomuodot, lue, lyhyet, osastot, posts, yksi |
+| fi/public/thoughts/arcs/0001-cheerfulness.html | fi | public | Ashraellen — Iloisuus ihmisen diagnoosina | _missing_ | ihmisen, diagnoosina, iloisuus, ashraellen, ashraellenin, nauru, public, usein, ajatus, arcs, cheerfulness, haluat, hän, ilman, koko, kuin, kuinka, merkitys |
+| fi/public/thoughts/arcs/0002-still-the-same.html | fi | public | Ashraellen — Samat voimat, uudet nimet | _missing_ | nimet, voimat, uudet, aina, ashraellen, eivät, public, samat, ajatus, antaa, arcs, ashraellenin, että, hän, ihminen, katoa, koko, merkitys |
+| fi/public/thoughts/arcs/0003-let-go.html | fi | public | Ashraellen — Herääminen alkaa, kun jatkaminen ei enää onnistu | _missing_ | alkaa, enää, herääminen, kun, ashraellen, jatkaminen, onnistu, public, tämä, ajatus, arcs, ashraellenin, ehkä, elää, että, jatkamaan, koko, let |
+| fi/public/thoughts/arcs/0004-mortality-awakens.html | fi | public | Ashraellen — Rajallisuus herättää kysymyksen | _missing_ | rajallisuus, herättää, kysymyksen, alkaa, ashraellen, kun, miksi, moni, public, ajatella, ajatus, arcs, ashraellenin, awakens, että, harhakuvitelmista, koko, kysyä |
+| fi/public/thoughts/arcs/0005-on-your-own.html | fi | public | Ashraellen — Pelko hallinnan mekanismina | _missing_ | hallinnan, pelko, ajatella, alkaa, ashraellen, ihminen, itse, mekanismina, public, ajatus, arcs, ashraellenin, elämistä, enää, ennen, että, heikkenevät, joka |
+| fi/public/thoughts/arcs/0006-insight.html | fi | public | Ashraellen — Syvempi katse kokoaa elämän | _missing_ | katse, kokoaa, elämän, syvempi, ashraellen, public, alkaa, arcs, ashraellenin, enää, hän, ihminen, insight, ketjuksi, kivun, kohti, kokemuksen, koko |
 | fi/public/thoughts/index-0001.html | fi | public | Ashraellen — Tukiajatusten ensimmäinen kaari | _missing_ | ensimmäinen, kaari, herääminen, iloisuus, pelko, tukiajatusten, voimat, alkaa, ashraellen, enää, kun, public, rajallisuus, ajatus, ashraellenin, avaa, diagnoosina, elämän |
 | fi/public/thoughts/index-0002.html | fi | public | Ashraellen — Tukiajatusten toinen kaari | _missing_ | kaari, toinen, tukiajatusten, kuppi, likainen, armo, ashraellen, havainnon, herääminen, public, ajatus, älä, ashraellenin, avaa, elossa, havainnointi, hengellisen, index |
 | fi/public/thoughts/index.html | fi | public | Ashraellen — Tukiajatusten kolmas kaari | _missing_ | kaari, kolmas, ajatus, fakta, hienovarainen, kruununsa, kuva, menettää, todistaja, tukiajatusten, yksi, ashraellen, hiljaisuutta, ongelma, public, tarvitsee, ashraellenin, avaa |
@@ -6175,6 +6181,108 @@ Excerpt:
 Excerpt:
 
 > Julkaisut Lyhyitä havaintomuotoja: kaavoja, fragmentteja ja miniesseitä. Eri tapoja saada ajatus kiinni ennen kuin se ehtii pukeutua luennoksi. Osastot valitse muoto kaava Kaavat Tiiviitä muotoiluja: yksi ajatus — yksi tarkka isku. Lue fragmentti Fragmentit Katkelmia suuremmista teksteistä ja työaineistosta: sävyn ja suunnan tunnistamiseen. Lue essee Miniesseet Pieni tutkimus: kysymys, katselukulma ja johtopäätös — ilman teatteria, mutta riittävällä tarkkuudella. Lue — mark of presence
+
+### fi/public/thoughts/arcs/0001-cheerfulness.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Iloisuus ihmisen diagnoosina
+- description: Ashraellenin tukiajatus: nauru paljastaa ihmisen usein tarkemmin kuin oikeat puheet.
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0001-cheerfulness.html
+- H1: Iloisuus ihmisen diagnoosina
+- H2: Merkitys | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
+- H3: _missing_
+- suggested keyword seed: ihmisen, diagnoosina, iloisuus, ashraellen, ashraellenin, nauru, public, usein, ajatus, arcs, cheerfulness, haluat, hän, ilman, koko, kuin, kuinka, merkitys
+- candidates: hän, ihmisen, nauru, iloisuus, ilman, kuinka, miten, usein, ajatus, ashraellenin, diagnoosina, haluat, ihmistä, katso, koko, kuin, kun, kyse, mitä, myös, myrkkyä, nauraa, näyttää, osaa
+
+Excerpt:
+
+> Tukiajatus 0001 Iloisuus ihmisen diagnoosina Jos haluat ymmärtää, kuka edessäsi seisoo, katso miten hän nauraa. Merkitys Nauru ehtii usein ihmisen selitysten edelle. Se näyttää paitsi mielialan myös sisäisen rakenteen: onko ilossa lämpöä, myrkkyä, tarvetta nöyryyttää, keveyttä vai kykyä iloita ilman että jonkun toisen täytyy samalla pienentyä. Koko teksti Ihmisen iloisuus on yksi niistä piirteistä, jotka paljastavat hänet hämmästyttävän nopeasti. Joitakin luonteita voi tutkia pitkään, mutta vilpitön nauru sytyttää valot huoneeseen, jossa selitykset ovat pitäneet verhot kiinni. Kaikki eivät osaa olla iloisia siinä yksinkertaisessa merkityksessä: hyväntahtoisesti, tarttuvasti, ilman myrkkyä ja ilman tarvetta tehdä toisesta vitsin raaka-ainetta. Eikä kyse ole älykkyydestä. Kyse on koko ihmisestä — siitä, miten hän on sisältä järjestynyt. Kun haluat ymmärtää ihmistä, älä kuuntele vain kuinka
+
+### fi/public/thoughts/arcs/0002-still-the-same.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Samat voimat, uudet nimet
+- description: Ashraellenin tukiajatus: vanhat sisäiset voimat eivät aina katoa, vaikka niiden nimet muuttuvat moderneiksi.
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0002-still-the-same.html
+- H1: Samat voimat, uudet nimet
+- H2: Merkitys | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
+- H3: _missing_
+- suggested keyword seed: nimet, voimat, uudet, aina, ashraellen, eivät, public, samat, ajatus, antaa, arcs, ashraellenin, että, hän, ihminen, katoa, koko, merkitys
+- candidates: nimet, hän, tai, uudet, voimat, aina, ajatus, antaa, eivät, että, ihminen, nimi, rationaalinen, samat, seuraava, tukiajatus, vain, voi, 0002, ahdistus, alkoholi, alttari, annoimme, asetetaan
+
+Excerpt:
+
+> Tukiajatus 0002 Samat voimat, uudet nimet Nykyihmisen demonit ja jumalat eivät kadonneet. Ne saivat vain uudet nimet. Merkitys Rationaalinen sanasto ei automaattisesti vapauta ihmistä niistä voimista, joita ennen kutsuttiin intohimoiksi, demoneiksi, jumaliksi tai riivaukseksi. Joskus sama palvelussuhde jatkuu diagnoosin, riippuvuuden, levottomuuden tai “ihan tavallisen elämän” nimellä. Koko teksti Moderni ihminen maksaa uskostaan kummallisen hinnan: hän kuvittelee usein olevansa täysin rationaalinen juuri siinä kohdassa, jossa omaa toimintaa tarkkaillaan vähiten. Hän voi pitää itseään tehokkaana, itsenäisenä ja elämänsä hallitsijana samalla kun jokin hänessä vetää naruista: ahdistus, epämääräinen levottomuus, alkoholi, nikotiini, ruoka, lääkkeet, loputon ruutu tai tarve saada seuraava pieni helpotus. Muinaiset ihmiset saattoivat antaa tällaisille voimille kasvot ja nimet. Me annoimme nii
+
+### fi/public/thoughts/arcs/0003-let-go.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Herääminen alkaa, kun jatkaminen ei enää onnistu
+- description: Ashraellenin tukiajatus: herääminen alkaa usein silloin, kun vanhaa tapaa elää ei enää pysty rehellisesti jatkamaan.
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0003-let-go.html
+- H1: Herääminen alkaa, kun jatkaminen ei enää onnistu
+- H2: Merkitys | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
+- H3: _missing_
+- suggested keyword seed: alkaa, enää, herääminen, kun, ashraellen, jatkaminen, onnistu, public, tämä, ajatus, arcs, ashraellenin, ehkä, elää, että, jatkamaan, koko, let
+- candidates: alkaa, herääminen, enää, että, kun, olisi, voi, ajatus, ole, tämä, vaan, ehkä, elämästä, ettei, henkinen, itsestään, jatkaminen, joka, jokin, joskus, käänne, koska, kuin, mikä
+
+Excerpt:
+
+> Tukiajatus 0003 Herääminen alkaa, kun jatkaminen ei enää onnistu Herääminen ei ala uudesta tiedosta vaan yhdestä rehellisestä sisäisestä hetkestä: näin ei voi enää jatkua. Merkitys Sisäinen käänne muistuttaa joskus lähtemistä vanhasta elämästä. Uutta karttaa ei vielä ole, mutta vanha tie on lakannut olemasta mahdollinen. Koko teksti Oletko joskus joutunut lähtemään? Kodista, suhteesta, yrityksestä, entisestä elämästä — ei siksi että seuraava vaihe olisi ollut valmiiksi suunniteltu, vaan koska jokin sisällä sanoi viimein: tämä riittää. Et ehkä tiennyt mikä olisi oikein. Tiesit vain, ettei tämä reitti enää vie mihinkään. Herääminen alkaa hyvin samalla tavalla. Jossain vaiheessa voi väsyä kirjoihin, webinaareihin, retriitteihin, kursseihin ja aina seuraavaan ihmiseen, joka näyttää hieman “pidemmälle päässeeltä”. Ei siksi että tieto olisi väärää, vaan koska tiedon kerääminen on alkanut korva
+
+### fi/public/thoughts/arcs/0004-mortality-awakens.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Rajallisuus herättää kysymyksen
+- description: Ashraellenin tukiajatus: moni alkaa todella kysyä vasta, kun rajallisuus tekee vanhoista harhakuvitelmista liian pieniä.
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0004-mortality-awakens.html
+- H1: Rajallisuus herättää kysymyksen
+- H2: Merkitys | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
+- H3: _missing_
+- suggested keyword seed: rajallisuus, herättää, kysymyksen, alkaa, ashraellen, kun, miksi, moni, public, ajatella, ajatus, arcs, ashraellenin, awakens, että, harhakuvitelmista, koko, kysyä
+- candidates: rajallisuus, kun, alkaa, kysymyksen, ajatella, ajatus, että, miksi, moni, ole, vaan, herättää, hyvin, kuoleman, silloin, tämä, tekee, tukiajatus, tulee, usein, vasta, voi, 0004, abstraktista
+
+Excerpt:
+
+> Tukiajatus 0004 Rajallisuus herättää kysymyksen Moni alkaa ajatella ei silloin, kun totuus paljastuu, vaan silloin, kun harhakuvitelmat loppuvat. Merkitys Filosofia syntyy usein rajalla. Kuoleman, kivun ja ajan rajallisuus kokoavat huomion tavalla, johon mukavuus ei aina pysty. Koko teksti Niin kauan kuin elämä tuntuu pohjattomalta varastolta huomisia, ihminen voi hyvin lykätä olennaisen kysymyksen ensi viikolle. Miksi maailma on? Miksi minä olen? Mitä tästä kaikesta oikeastaan jää, jos aikaa ei ole loputtomasti? Rajallisuus tekee näistä kysymyksistä epämukavan konkreettisia. Kuolema ei tässä ole synkkä koriste vaan mitta, joka palauttaa mittasuhteet. Moni ei ala ajatella siksi, että joku selitti totuuden hyvin. Hän alkaa ajatella, kun vanha selitys ei enää kanna häntä sen tosiasian yli, että kaikki tämä päättyy. Siinä kohdassa kysymyksestä tulee vihdoin oma. Miksi tämä valittiin Ajatus 
+
+### fi/public/thoughts/arcs/0005-on-your-own.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Pelko hallinnan mekanismina
+- description: Ashraellenin tukiajatus: siellä missä ihminen lakkaa elämistä pelon kautta ja alkaa ajatella itse, vanhat hallinnan mekanismit heikkenevät.
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0005-on-your-own.html
+- H1: Pelko hallinnan mekanismina
+- H2: Merkitys | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
+- H3: _missing_
+- suggested keyword seed: hallinnan, pelko, ajatella, alkaa, ashraellen, ihminen, itse, mekanismina, public, ajatus, arcs, ashraellenin, elämistä, enää, ennen, että, heikkenevät, joka
+- candidates: ihminen, ajatella, alkaa, itse, ajatus, hallinnan, joka, ole, pelko, enää, ennen, että, hän, ihmisen, ihmistä, jos, jossa, kehosta, kun, kuoleman, kuolemasta, kyse, lakkaa, mekanismina
+
+Excerpt:
+
+> Tukiajatus 0005 Pelko hallinnan mekanismina Kun ihminen lakkaa pelkäämästä ja alkaa ajatella itse, pelolla, kiellolla ja riippuvuudella hallinneiden valta heikkenee. Merkitys Dogmi ei ole tässä vain joukko uskomuksia. Se on myös tapa pitää ihminen ennalta määrätyssä reitissä. Kaikki mikä palauttaa oikeuden ajatella itse kehosta, kuolemasta, tietoisuudesta ja tulevaisuudesta uhkaa pelkoon perustuvaa järjestystä. Koko teksti Järjestelmälle, joka tarvitsee ihmisen pelkäävän, itsenäinen valinta on aina hieman epäilyttävä. Kun ihminen alkaa itse kysyä syntymästä, kehosta, kuolemasta, tietoisuudesta tai oman olemassaolonsa rajoista, hän astuu alueelle, jossa valmis käsikirjoitus ei enää riitä. Siksi niin moni uusi mahdollisuus kohtaa ensimmäisenä moraalisen paniikin: lisääntymisteknologia, kuoleman rajojen tutkiminen, tekoäly, tietoisuuden kokeet, erilaiset tavat ajatella ihmisen tulevaisuutta
+
+### fi/public/thoughts/arcs/0006-insight.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Syvempi katse kokoaa elämän
+- description: Ashraellenin tukiajatus: syvempi katse kokoaa virheet, kivun ja kokemuksen ymmärryksen ketjuksi.
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0006-insight.html
+- H1: Syvempi katse kokoaa elämän
+- H2: Merkitys | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
+- H3: _missing_
+- suggested keyword seed: katse, kokoaa, elämän, syvempi, ashraellen, public, alkaa, arcs, ashraellenin, enää, hän, ihminen, insight, ketjuksi, kivun, kohti, kokemuksen, koko
+- candidates: katse, alkaa, elämän, hän, enää, ihminen, kohti, kokoaa, kun, mutta, nähdä, sitä, syvempi, virheet, ehkä, ilman, joukossa, juuri, kaari, kaikki, koko, miksi, nyt, oivallus
+
+Excerpt:
+
+> Tukiajatus 0006 Syvempi katse kokoaa elämän Kun ihminen alkaa nähdä näkyvää syvemmälle, hän lakkaa vaeltamasta seurausten joukossa ja alkaa huomata syitä. Merkitys Syvä ymmärrys ei tee elämästä yksinkertaista. Se tekee siitä yhteydessä olevan. Virheet, epäonnistumiset ja kipu eivät enää näytä irralliselta romulta vaan osilta ketjua, joka johti nykyiseen näkemiseen. Koko teksti Kun ihminen näkee pintaa syvemmälle, jalat löytävät yllättävän paljon paremmin maan. Silloin hän ei enää vaella seurausten joukossa suurena marttyyrina, kerää sirpaleita ja kysy universumilta miksi juuri hän, tämä poikkeuksellisen hieno yksilö, sai taas huonekalun kulman jalkaansa. Katse alkaa etsiä syitä. Elämä ei muutu helpoksi, mutta siitä tulee usein loogisempi kuin keskellä hysteriaa näytti. Ilman tällaista katsetta ihminen kulkee sokkona labyrintissa: törmää seinään, loukkaantuu kulmalle ja epäilee lopulta hu
 
 ### fi/public/thoughts/index-0001.html
 

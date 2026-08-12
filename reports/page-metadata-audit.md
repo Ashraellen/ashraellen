@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T12:13:28.130Z
+Generated: 2026-08-12T12:18:04.360Z
 
-Pages checked: 810
-Pages with issues: 289
-Total issues: 1772
+Pages checked: 816
+Pages with issues: 295
+Total issues: 1814
 Pages with review notes: 616
 Total review notes: 2164
 
@@ -12,13 +12,13 @@ Total review notes: 2164
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 227 |
-| MISSING_TWITTER_IMAGE | 225 |
-| MISSING_TWITTER_CARD | 195 |
-| MISSING_OG_DESCRIPTION | 194 |
-| MISSING_JSON_LD | 191 |
-| MISSING_OG_IMAGE | 185 |
-| MISSING_OG_TITLE | 178 |
+| MISSING_KEYWORDS | 233 |
+| MISSING_TWITTER_IMAGE | 231 |
+| MISSING_TWITTER_CARD | 201 |
+| MISSING_OG_DESCRIPTION | 200 |
+| MISSING_JSON_LD | 197 |
+| MISSING_OG_IMAGE | 191 |
+| MISSING_OG_TITLE | 184 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
@@ -1291,6 +1291,102 @@ Total review notes: 2164
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
 - DESCRIPTION_TOO_SHORT: 69
+
+### fi/public/thoughts/arcs/0001-cheerfulness.html
+
+- title: Ashraellen — Iloisuus ihmisen diagnoosina
+- description length: 84
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0001-cheerfulness.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### fi/public/thoughts/arcs/0002-still-the-same.html
+
+- title: Ashraellen — Samat voimat, uudet nimet
+- description length: 108
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0002-still-the-same.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### fi/public/thoughts/arcs/0003-let-go.html
+
+- title: Ashraellen — Herääminen alkaa, kun jatkaminen ei enää onnistu
+- description length: 116
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0003-let-go.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### fi/public/thoughts/arcs/0004-mortality-awakens.html
+
+- title: Ashraellen — Rajallisuus herättää kysymyksen
+- description length: 120
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0004-mortality-awakens.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### fi/public/thoughts/arcs/0005-on-your-own.html
+
+- title: Ashraellen — Pelko hallinnan mekanismina
+- description length: 139
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0005-on-your-own.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### fi/public/thoughts/arcs/0006-insight.html
+
+- title: Ashraellen — Syvempi katse kokoaa elämän
+- description length: 96
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0006-insight.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
 
 ### fi/public/thoughts/index-0001.html
 
