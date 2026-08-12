@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T12:39:30.582Z
-Pages: 838
+Generated: 2026-08-12T12:44:45.991Z
+Pages: 842
 
 ## Index
 
@@ -318,6 +318,8 @@ Pages: 838
 | fi/privacy.html | fi | privacy.html | Tietosuojakäytäntö — Ashraellen — Suomi | _missing_ | analytiikka, tietoja, tietosuojakäytäntö, ashraellen, evästeet, kerätä, palvelut, voidaan, ashraellen.com, ashraellen.comin, google, henkilötiedot, käsittelyn, kauan, käytetään, käyttää, käyttäjän, kolmannen |
 | fi/professional/index.html | fi | professional | Ashraellen — Ammatillinen esittely | _missing_ | ashraellen, havainnoinnin, ammatillinen, esittely, julkiset, menetelmä, muodot, professional, ammatilliset, arkisto, ashraellenin, avaa, havainnon, infrastruktuuri, julkinen, kanava, kautta, kehityssuunnitelma |
 | fi/public/index.html | fi | public | Ashraellen — Julkinen | _missing_ | julkinen, ashraellen, ihmisen, missä, public, tutkimus, ajatus, älä, ashraellenin, avaa, elävän, enää, havaintoja, julkaisuja, julkaisut, kansa, kenttä, kohtaa |
+| fi/public/posts/essay/cycles/cycle-0001.html | fi | public | Ashraellen — Ensimmäinen miniesseesykli | _missing_ | ensimmäinen, keho, menneisyys, ashraellen, huomio, miniesseesykli, public, sykli, vaan, ajatukseen, älä, alkaa, ashraellenin, cycle, cycles, elää, essay, huomioon |
+| fi/public/posts/essay/cycles/index.html | fi | public | Ashraellen — Miniesseiden syklit | _missing_ | miniesseiden, syklit, ashraellen, valmiit, ashraellenin, nykyinen, public, sykli, cycles, elää, ensimmäinen, essay, huomio, keho, kootaan, löytyy, pääsivulta, posts |
 | fi/public/posts/essay/index.html | fi | public | Ashraellen — Miniesseet | _missing_ | ensimmäinen, miniesseet, ashraellen, keho, menneisyys, public, vaan, yksi, ajatukseen, älä, alkaa, ashraellenin, elää, essay, huomioon, johtopäätökseen, joissa, katselukulmaan |
 | fi/public/posts/formula/index.html | fi | public | Ashraellen — Polku, teko, rytmi | _missing_ | polku, rytmi, teko, ashraellen, public, aina, ajatuksia, ashraellenin, formula, joissa, joskus, kaava, kaavalinja, kaavat, liike, lyhyitä, mikä, mittansa |
 | fi/public/posts/formula/lines/index.html | fi | public | Ashraellen — Rajat, mitta, muoto | _missing_ | mitta, muoto, rajat, ashraellen, formula, formulalinja, public, ashraellenin, formulat, joskus, kaikki, kolmas, kun, lines, linja, linjan, ole, posts |
@@ -325,6 +327,8 @@ Pages: 838
 | fi/public/posts/formula/lines/line-0002.html | fi | public | Ashraellen — Sana, hiljaisuus, merkitys | _missing_ | hiljaisuus, merkitys, sana, arkistoitu, ashraellen, formula, formulalinja, public, alkaa, ashraellenin, formulat, kun, line, lines, linja, linjan, ole, posts |
 | fi/public/posts/fragment/index.html | fi | public | Ashraellen — Fragmentit | _missing_ | fragmentit, aikana, ashraellen, julkaisujen, käsinkirjoitettujen, muistiinpanojen, public, tekstien, vuosien, aineistoa, alla, arkisto, arkiston, arkistoon, arkistosta, ashraellenin, fragment, kertyneestä |
 | fi/public/posts/index.html | fi | public | Ashraellen — Julkaisut | _missing_ | ashraellen, julkaisut, ashraellenin, fragmentit, kaavat, miniesseet, public, ajatus, ehtii, ennen, eri, havaintomuodot, lue, lyhyet, osastot, posts, yksi |
+| fi/public/posts/sources/index.html | fi | public | Ashraellen — Lähteet ovat siirtyneet | _missing_ | lähteet, ovat, siirtyneet, ashraellen, ashraellen-menetelmän, metodologista, perustaa, public, ashraellenin, avaa, eivät, enää, fenomenologia, osaksi, posts, public-teksteistä, sijainti, sources |
+| fi/public/talks/index.html | fi | public | Ashraellen — Puheenvuorot | _missing_ | ashraellen, ahepsu, public, puheenvuorot, pyhä, ääniraitoja, analyysejä, asetuksista, ashraellenin, avaa, dubbaus, eikä, elävään, havainto, hiljaisuuteen, ilmestys, itsepetoksen, jälkeen |
 | fi/public/thoughts/arcs/0001-cheerfulness.html | fi | public | Ashraellen — Iloisuus ihmisen diagnoosina | _missing_ | ihmisen, diagnoosina, iloisuus, ashraellen, ashraellenin, nauru, public, usein, ajatus, arcs, cheerfulness, haluat, hän, ilman, koko, kuin, kuinka, merkitys |
 | fi/public/thoughts/arcs/0002-still-the-same.html | fi | public | Ashraellen — Samat voimat, uudet nimet | _missing_ | nimet, voimat, uudet, aina, ashraellen, eivät, public, samat, ajatus, antaa, arcs, ashraellenin, että, hän, ihminen, katoa, koko, merkitys |
 | fi/public/thoughts/arcs/0003-let-go.html | fi | public | Ashraellen — Herääminen alkaa, kun jatkaminen ei enää onnistu | _missing_ | alkaa, enää, herääminen, kun, ashraellen, jatkaminen, onnistu, public, tämä, ajatus, arcs, ashraellenin, ehkä, elää, että, jatkamaan, koko, let |
@@ -6135,6 +6139,40 @@ Excerpt:
 
 > Julkinen Tässä tutkimus poistuu kirjoista, luonnoksista ja sisäisistä kaavoista ja astuu elävään kenttään: videoihin, julkaisuihin, kommentteihin, vastauksiin, reaktioihin ja avoimiin havaintoihin. Julkinen kenttä ei ole toimintaraportin näyteikkuna. Se on paikka, jossa ajatus testataan elävässä kontaktissa ihmiseen. Kirjan muoto ei enää suojaa sitä: siitä tulee lyhyt lause, kuva, video, vastaus, ärsytys, kiitollisuus tai äkillinen tunnistaminen. Jos kirjat näyttävät mekanismin syvyydessä, julkinen muoto tallentaa sen välähdykset: missä ajatus hyväksyttiin, missä se kohtasi vastarintaa, missä se vääristyi ja missä se muuttui yhtäkkiä tunnistettavaksi. Puheet Videot, Shorts, julkiset analyysit ja elävän puheen muodot. Avaa → Julkaisut Laboratoriosta lähteneet tekstit: tukiajatukset, fragmentit, reaktiot ja havainnot. Avaa → Projektit Ashraellenin tutkimus-, kirjallisuus- ja mediaprojektit
 
+### fi/public/posts/essay/cycles/cycle-0001.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Ensimmäinen miniesseesykli
+- description: Ashraellenin ensimmäinen valmis miniesseesykli: huomio, keho ja menneisyys.
+- canonical: https://www.ashraellen.com/fi/public/posts/essay/cycles/cycle-0001.html
+- H1: Ensimmäinen sykli
+- H2: Ensimmäinen sykli | Valta ei ajatukseen vaan huomioon | Keho on ensimmäinen ovi, ei päämäärä | Menneisyys on sen tulkinta
+- H3: _missing_
+- suggested keyword seed: ensimmäinen, keho, menneisyys, ashraellen, huomio, miniesseesykli, public, sykli, vaan, ajatukseen, älä, alkaa, ashraellenin, cycle, cycles, elää, essay, huomioon
+- candidates: ensimmäinen, keho, menneisyys, voi, siitä, vaan, elää, huomio, mutta, syntyy, älä, alkaa, ihminen, lue, miniessee, mitä, ole, olla, ovi, sen, sitä, sykli, tietoisuus, ajatus
+
+Excerpt:
+
+> Ensimmäinen sykli Ensimmäinen valmis miniesseiden sykli: huomio, keho ja menneisyys. Ensimmäinen sykli valmiisiin sykleihin Miniessee Valta ei ajatukseen vaan huomioon Ajatus syntyy itsestään. Vapaus ei ala ajatusten kieltämisestä vaan siitä, ettei jokaisesta sisäisestä liikkeestä tarvitse tulla minä. tietoisuus / huomio / havaitsija Olemme tottuneet ajattelemaan, että kypsyys tarkoittaa itsensä hallitsemista: älä suutu, älä ahdistu, älä ajattele “vääriä” ajatuksia. Ensimmäinen virhe alkaa juuri tästä. Ihminen ei valitse seuraavaa ajatustaan samalla tavalla kuin ravintolan annosta. Ahdistus, viha ja epäily nousevat muistista, kehosta, tottumuksesta, pelosta ja ympäristön ärsykkeistä. Emme ole jokaisen sisäisen tapahtuman tekijöitä. Olemme pikemminkin niiden ensimmäisiä todistajia. Ongelma ei ala ahdistuksen ilmestymisestä vaan lauseesta: “Tätä ei saisi olla. Minun ei pitäisi tuntea näin.
+
+### fi/public/posts/essay/cycles/index.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Miniesseiden syklit
+- description: Ashraellenin valmiit miniesseiden syklit. Nykyinen sykli löytyy miniesseiden pääsivulta.
+- canonical: https://www.ashraellen.com/fi/public/posts/essay/cycles/
+- H1: Miniesseiden syklit
+- H2: Valmiit syklit
+- H3: _missing_
+- suggested keyword seed: miniesseiden, syklit, ashraellen, valmiit, ashraellenin, nykyinen, public, sykli, cycles, elää, ensimmäinen, essay, huomio, keho, kootaan, löytyy, pääsivulta, posts
+- candidates: miniesseiden, sykli, syklit, nykyinen, valmiit, ensimmäinen, ashraellen, ashraellenin, elää, huomio, keho, kootaan, löytyy, mark, menneisyys, nykyiseen, osion, pääsivulla, pääsivulta, presence, sykliin, tänne
+
+Excerpt:
+
+> Miniesseiden syklit Valmiit miniesseiden syklit kootaan tänne. Nykyinen sykli elää osion pääsivulla. Valmiit syklit nykyiseen sykliin Ensimmäinen sykli Ensimmäinen miniesseiden sykli: huomio, keho ja menneisyys. sykli Nykyinen sykli — mark of presence
+
 ### fi/public/posts/essay/index.html
 
 - lang: fi
@@ -6253,6 +6291,40 @@ Excerpt:
 Excerpt:
 
 > Julkaisut Lyhyitä havaintomuotoja: kaavoja, fragmentteja ja miniesseitä. Eri tapoja saada ajatus kiinni ennen kuin se ehtii pukeutua luennoksi. Osastot valitse muoto kaava Kaavat Tiiviitä muotoiluja: yksi ajatus — yksi tarkka isku. Lue fragmentti Fragmentit Katkelmia suuremmista teksteistä ja työaineistosta: sävyn ja suunnan tunnistamiseen. Lue essee Miniesseet Pieni tutkimus: kysymys, katselukulma ja johtopäätös — ilman teatteria, mutta riittävällä tarkkuudella. Lue — mark of presence
+
+### fi/public/posts/sources/index.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Lähteet ovat siirtyneet
+- description: Lähteet ovat siirtyneet Public-teksteistä tutkimusosioon osaksi Ashraellen-menetelmän metodologista perustaa.
+- canonical: https://www.ashraellen.com/fi/public/posts/sources/
+- H1: Lähteet ovat siirtyneet
+- H2: Uusi sijainti
+- H3: _missing_
+- suggested keyword seed: lähteet, ovat, siirtyneet, ashraellen, ashraellen-menetelmän, metodologista, perustaa, public, ashraellenin, avaa, eivät, enää, fenomenologia, osaksi, posts, public-teksteistä, sijainti, sources
+- candidates: lähteet, ovat, siirtyneet, metodologista, perustaa, ashraellen, ashraellen-menetelmän, ashraellenin, avaa, eivät, enää, fenomenologia, jossa, käytäntö, keho, kognitiotiede, kuulu, mark, menetelmä, muodostavat, narratiivi, nyt, osaksi, osana
+
+Excerpt:
+
+> Lähteet ovat siirtyneet Lähteet eivät enää kuulu Public-julkaisuihin. Ne ovat nyt tutkimusosiossa osana projektin metodologista perustaa. Uusi sijainti tutkimus Avaa “Lähteet ja traditio” Fenomenologia, keho, narratiivi, kognitiotiede ja taiteellinen käytäntö muodostavat risteyskohdan, jossa Ashraellenin menetelmä työskentelee. siirretty — mark of presence
+
+### fi/public/talks/index.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Puheenvuorot
+- description: Ashraellenin videoita ja julkisia analyysejä: selkeys, havainto, tietoisuus, todellisuus ja paluu elävään ymmärrykseen.
+- canonical: https://www.ashraellen.com/fi/public/talks/
+- H1: Puheenvuorot
+- H2: Lista | Mitä kuoleman jälkeen tapahtuu? | Seitsemän itsepetoksen tasoa | Valituksesi on pyhä | Ilmestys IV | Pinocchio: kuolleen sielun kronikka | Raha & … / AHEPSU:n pyhä kirja | Tiedät liikaa rikastuaksesi | Sivu II | Sacred Taste — Matka hiljaisuuteen
+- H3: _missing_
+- suggested keyword seed: ashraellen, ahepsu, public, puheenvuorot, pyhä, ääniraitoja, analyysejä, asetuksista, ashraellenin, avaa, dubbaus, eikä, elävään, havainto, hiljaisuuteen, ilmestys, itsepetoksen, jälkeen
+- candidates: avaa, vaan, youtubessa, voi, dubbaus, monikielinen, ahepsu, eikä, ääniraitoja, asetuksista, ashraellen, jossa, kielen, lakkaa, muuttuu, pyhän, raha, sacred, sacrunomicon, saint, sen, siitä, sivu, taste
+
+Excerpt:
+
+> Puheenvuorot Videoita ja julkisia analyysejä — sitä, minkä voi jo tuoda näkyviin. Ei “motivaatiota” eikä “opetusta”, vaan yritys puhua täsmällisesti: ilman turhaa melua, mutta myös ilman pakenemista sumuun. Lista osio laajenee Mitä kuoleman jälkeen tapahtuu? Kuolemanpelkoa tarkastellaan yksinkertaisten kuvien kautta: meri, elokuvateatteri, virtuaalitodellisuus ja soittolista. Entä jos kuolema ei tavallisessa mielessä ole tietoisuuden loppu vaan sen muodon hajoaminen, johon erehdymme samaistumaan? Tämä ei tarjoa uutta uskoa eikä karttaa tuonpuoleisesta. Se yrittää katsoa kehon, persoonan, ajan ja ihmistarinan “viimeisen käyttöpäivän” tuttujen käsitysten taakse. Videossa on useita ääniraitoja. Kielen voi vaihtaa YouTube-soittimen asetuksista. Avaa YouTubessa → Ashraellen monikielinen dubbaus Seitsemän itsepetoksen tasoa Radikaali inventaario tavoista, joilla ihminen huijaa itseään: “minull
 
 ### fi/public/thoughts/arcs/0001-cheerfulness.html
 

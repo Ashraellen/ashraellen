@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T12:39:30.012Z
+Generated: 2026-08-12T12:44:45.347Z
 
-Pages checked: 837
-Pages with issues: 316
-Total issues: 1970
+Pages checked: 841
+Pages with issues: 320
+Total issues: 1999
 Pages with review notes: 616
 Total review notes: 2164
 
@@ -12,20 +12,20 @@ Total review notes: 2164
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 254 |
-| MISSING_TWITTER_IMAGE | 252 |
-| MISSING_TWITTER_CARD | 222 |
-| MISSING_OG_DESCRIPTION | 221 |
-| MISSING_JSON_LD | 218 |
-| MISSING_OG_IMAGE | 212 |
-| MISSING_OG_TITLE | 205 |
+| MISSING_KEYWORDS | 258 |
+| MISSING_TWITTER_IMAGE | 256 |
+| MISSING_TWITTER_CARD | 226 |
+| MISSING_OG_DESCRIPTION | 225 |
+| MISSING_JSON_LD | 222 |
+| MISSING_OG_IMAGE | 216 |
+| MISSING_OG_TITLE | 209 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
 | DUPLICATE_TITLE | 44 |
 | DUPLICATE_OG_TITLE | 42 |
 | DUPLICATE_KEYWORDS | 36 |
-| DESCRIPTION_TOO_SHORT | 33 |
+| DESCRIPTION_TOO_SHORT | 34 |
 
 
 ## Review note summary
@@ -1228,6 +1228,39 @@ Total review notes: 2164
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
 
+### fi/public/posts/essay/cycles/cycle-0001.html
+
+- title: Ashraellen — Ensimmäinen miniesseesykli
+- description length: 75
+- canonical: https://www.ashraellen.com/fi/public/posts/essay/cycles/cycle-0001.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 75
+
+### fi/public/posts/essay/cycles/index.html
+
+- title: Ashraellen — Miniesseiden syklit
+- description length: 88
+- canonical: https://www.ashraellen.com/fi/public/posts/essay/cycles/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
 ### fi/public/posts/essay/index.html
 
 - title: Ashraellen — Miniesseet
@@ -1341,6 +1374,38 @@ Total review notes: 2164
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
 - DESCRIPTION_TOO_SHORT: 69
+
+### fi/public/posts/sources/index.html
+
+- title: Ashraellen — Lähteet ovat siirtyneet
+- description length: 109
+- canonical: https://www.ashraellen.com/fi/public/posts/sources/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### fi/public/talks/index.html
+
+- title: Ashraellen — Puheenvuorot
+- description length: 119
+- canonical: https://www.ashraellen.com/fi/public/talks/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
 
 ### fi/public/thoughts/arcs/0001-cheerfulness.html
 
