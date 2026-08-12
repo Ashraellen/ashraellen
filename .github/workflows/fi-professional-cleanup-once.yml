@@ -1,0 +1,55 @@
+name: FI professional cleanup once
+
+on:
+  push:
+    paths:
+      - '.github/workflows/fi-professional-cleanup-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup-fi-professional:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Patch FI professional only
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('fi/professional/index.html')
+          s = p.read_text(encoding='utf-8')
+
+          replacements = {
+            'You Are Already Online': 'Olet jo verkossa',
+            'Error 404: God Not Found': 'VIRHE 404: JUMALAA EI LÖYTYNYT',
+            'ERROR 404: GOD NOT FOUND': 'VIRHE 404: JUMALAA EI LÖYTYNYT',
+            'Why Me?': 'Miksi minä?',
+            'RADIANCE': 'HOHDE'
+          }
+          for old, new in replacements.items():
+            s = s.replace(old, new)
+
+          desc = '<meta name="description" content="Ashraellenin ammatillinen esittely: tekijä, havainnoinnin menetelmä, teokset, julkiset muodot, kehityssuunnitelma, infrastruktuuri, yhteistyö ja yhteystiedot.">'
+          if 'name="keywords"' not in s:
+            s = s.replace(desc, desc + '<meta name="keywords" content="Ashraellen, taiteellinen tutkimus, kirjallisuus, MONOLIITTI, ammatillinen esittely, julkinen filosofia">', 1)
+
+          title = '<meta name="twitter:title" content="Ashraellen — Ammatillinen esittely">'
+          if 'name="twitter:image"' not in s:
+            s = s.replace(title, title + '<meta name="twitter:image" content="https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg">', 1)
+
+          p.write_text(s, encoding='utf-8')
+          PY
+      - name: Commit FI professional cleanup
+        run: |
+          if git diff --quiet -- fi/professional/index.html; then
+            echo 'No changes needed.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add fi/professional/index.html
+          git commit -m 'FI professional: complete metadata and localize book canon'
+          git push
