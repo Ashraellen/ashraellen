@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T14:09:28.996Z
+Generated: 2026-08-12T14:25:39.768Z
 
 Pages checked: 841
 Pages with issues: 316
-Total issues: 1811
+Total issues: 1806
 Pages with review notes: 628
 Total review notes: 2202
 
@@ -12,22 +12,22 @@ Total review notes: 2202
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 224 |
-| MISSING_TWITTER_IMAGE | 222 |
-| MISSING_TWITTER_CARD | 192 |
-| MISSING_OG_DESCRIPTION | 191 |
-| MISSING_JSON_LD | 188 |
-| MISSING_OG_IMAGE | 183 |
-| MISSING_OG_TITLE | 177 |
+| MISSING_KEYWORDS | 223 |
+| MISSING_TWITTER_IMAGE | 221 |
+| MISSING_TWITTER_CARD | 191 |
+| MISSING_OG_DESCRIPTION | 190 |
+| MISSING_JSON_LD | 187 |
+| MISSING_OG_IMAGE | 182 |
+| MISSING_OG_TITLE | 176 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
 | DUPLICATE_TITLE | 44 |
 | DUPLICATE_OG_TITLE | 42 |
 | DUPLICATE_KEYWORDS | 36 |
+| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 28 |
+| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 28 |
 | DESCRIPTION_TOO_SHORT | 27 |
-| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 27 |
-| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 27 |
 
 
 ## Review note summary
@@ -1238,16 +1238,11 @@ Total review notes: 2202
 - title: Ashraellen — Miniesseiden syklit
 - description length: 88
 - canonical: https://www.ashraellen.com/fi/public/posts/essay/cycles/
-- og:image: _missing_
-- twitter:image: _missing_
+- og:image: https://www.ashraellen.com/assets/symbol.png
+- twitter:image: https://www.ashraellen.com/assets/symbol.png
 
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_TITLE
-- MISSING_OG_DESCRIPTION
-- MISSING_OG_IMAGE
-- MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
+- OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/symbol.png
+- TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/symbol.png
 
 ### fi/public/posts/essay/index.html
 
