@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T12:36:54.969Z
+Generated: 2026-08-12T12:39:30.012Z
 
-Pages checked: 834
-Pages with issues: 313
-Total issues: 1947
+Pages checked: 837
+Pages with issues: 316
+Total issues: 1970
 Pages with review notes: 616
 Total review notes: 2164
 
@@ -12,20 +12,20 @@ Total review notes: 2164
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 251 |
-| MISSING_TWITTER_IMAGE | 249 |
-| MISSING_TWITTER_CARD | 219 |
-| MISSING_OG_DESCRIPTION | 218 |
-| MISSING_JSON_LD | 215 |
-| MISSING_OG_IMAGE | 209 |
-| MISSING_OG_TITLE | 202 |
+| MISSING_KEYWORDS | 254 |
+| MISSING_TWITTER_IMAGE | 252 |
+| MISSING_TWITTER_CARD | 222 |
+| MISSING_OG_DESCRIPTION | 221 |
+| MISSING_JSON_LD | 218 |
+| MISSING_OG_IMAGE | 212 |
+| MISSING_OG_TITLE | 205 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
 | DUPLICATE_TITLE | 44 |
 | DUPLICATE_OG_TITLE | 42 |
 | DUPLICATE_KEYWORDS | 36 |
-| DESCRIPTION_TOO_SHORT | 31 |
+| DESCRIPTION_TOO_SHORT | 33 |
 
 
 ## Review note summary
@@ -1259,6 +1259,56 @@ Total review notes: 2164
 - MISSING_OG_IMAGE
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
+
+### fi/public/posts/formula/lines/index.html
+
+- title: Ashraellen — Rajat, mitta, muoto
+- description length: 56
+- canonical: https://www.ashraellen.com/fi/public/posts/formula/lines/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 56
+
+### fi/public/posts/formula/lines/line-0001.html
+
+- title: Ashraellen — Ajatus, huomio, keho, menneisyys
+- description length: 85
+- canonical: https://www.ashraellen.com/fi/public/posts/formula/lines/line-0001.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### fi/public/posts/formula/lines/line-0002.html
+
+- title: Ashraellen — Sana, hiljaisuus, merkitys
+- description length: 74
+- canonical: https://www.ashraellen.com/fi/public/posts/formula/lines/line-0002.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 74
 
 ### fi/public/posts/fragment/index.html
 
