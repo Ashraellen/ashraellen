@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T20:59:58.577Z
-Pages: 844
+Generated: 2026-08-12T21:40:48.584Z
+Pages: 845
 
 ## Index
 
@@ -366,6 +366,7 @@ Pages: 844
 | fi/research/sources/index.html | fi | research | Ashraellen — Lähteet ja tutkimusperinne | Ashraellen, tutkimusperinne, fenomenologia, kognitiotiede, taiteellinen tutkimus | lähteet, tutkimusperinne, ashraellen, fenomenologia, keho, kokemus, research, taiteellinen, tietoisuuden, ajatuksen, ashraelleniin, ashraellenin, edmund, elävänä, eleanor, ennen, ensimmäisenä, essee |
 | flow/index.html | root | flow | FLOW — Ashraellen | ashraellen, flow, playlist, youtube, music, doctype, html, title, window.location.replace, https, music.youtube.com, list, plliwih1l4vxtrzs4, wvti69pbdhddk4ny, iuwpb0ptwi1d1elk, script, root, 050505 | flow, ashraellen, playlist, music, youtube, open, opening |
 | focus-group/books/Error404/index.html | root | focus-group | Ошибка 404: Бог не найден — читательская панель | _missing_ | 404, бог, найден, ошибка, панель, читательская, ashraellen, books, ch.title, error404, escapehtml, focus, focus-group, group, важно, вычитки, где, главы |
+| focus-group/style-lab/dark/index.html | root | focus-group | Ashraellen — Dark Style Lab | _missing_ | dark, lab, style, ashraellen, текст, текстовые, 14px, 16px, badge, contact, current, focus, focus-group, group, pills, public, radius, serif-текст |
 | fr/books/demotopia/index.html | fr | books | Demotopia — Utopie démocratique — roman d’Ashraellen | Ashraellen, Demotopia, Utopie démocratique, roman philosophique, science-fiction sociale, Varsovie, démocratie, dictature, données, liberté, responsabilité | demotopia, roman, books, d’ashraellen, est, les, qui, artistique, ashraellen, atmosphère, avenir, cadre, choisi, circuits, d’un, démocratie, démocratique, des |
 | fr/books/error-404-god-not-found/index.html | fr | books | Ashraellen — Erreur 404 : Dieu introuvable | _missing_ | 404, dieu, erreur, introuvable, cycle, ashraellen, books, céleste, chancellerie, l’erreur, série, sur, contre, error, est, found, god, humaine |
 | fr/books/error-404-god-not-found/why-me/index.html | fr | books | Ashraellen — Pourquoi moi ? | _missing_ | livre, moi, pourquoi, ashraellen, books, 404, avec, bureaucratie, céleste, chancellerie, comme, couches, cycle, dans, demande, dieu, douleur, erreur |
@@ -6956,6 +6957,23 @@ Excerpt:
 Excerpt:
 
 > Прогресс чтения 0 / 22 Сбросить Начните с первой главы. Галочки и заметки сохраняются только в этом браузере. Что особенно важно отметить Не нужно играть в корректора с красной ручкой. Нужна честная реакция живого читателя. Короткая памятка Где стало скучно, непонятно или захотелось закрыть текст. Что зацепило, рассмешило или осталось в памяти. Где герой кажется живым, а где — автором на кафедре. Ошибки и опечатки — тоже отмечайте, но не охотьтесь за ними вместо чтения. Все главы Не проверены Проверены Есть заметки Печать списка
+
+### focus-group/style-lab/dark/index.html
+
+- lang: root
+- section: focus-group
+- title: Ashraellen — Dark Style Lab
+- description: _missing_
+- canonical: _missing_
+- H1: Dark Style Lab
+- H2: 1. Основной текст: размер + межстрочный интервал | 2. Serif-текст | 3. Текстовые роли и заголовки | 4. Кнопки, pills, badge | 5. Карточки и текстовые контейнеры | 6. Рамки, радиусы, тени | 7. Базовая палитра | 8. Пространство
+- H3: Публичное | То, что действительно твоё | Прямой контакт
+- suggested keyword seed: dark, lab, style, ashraellen, текст, текстовые, 14px, 16px, badge, contact, current, focus, focus-group, group, pills, public, radius, serif-текст
+- candidates: current, текст, radius, начинается, 16px, test, 14px, contact, public, system-ui, быстрее, его, лестницу, место, объяснять, обязан, оставляет, превращает, пустот, ритм, себя, смыслу, страницу, услышать
+
+Excerpt:
+
+> internal visual laboratory / dark system Dark Style Lab Изолированная страница для выбора типографики и компонентов основного тёмного сайта. Зелёная метка CURRENT означает существующее значение на сайте. Тёплая метка TEST — вариант для визуального сравнения. Отвечать можно коротко по ID: «D-T05 лучше, D-T02 мелкий, D-B03 оставить». 1. Основной текст: размер + межстрочный интервал Один и тот же текст. Меняется только размер и line-height. Сравнивай прежде всего комфорт длительного чтения на телефоне. D-T01 CURRENT 14px / 1.35 system-ui thought cards Текст не обязан объяснять себя быстрее, чем читатель успевает его услышать. Хороший ритм оставляет место смыслу, но не превращает страницу в лестницу из пустот. D-T02 CURRENT 14px / 1.78 system-ui public intro Текст не обязан объяснять себя быстрее, чем читатель успевает его услышать. Хороший ритм оставляет место смыслу, но не превращает стран
 
 ### fr/books/demotopia/index.html
 

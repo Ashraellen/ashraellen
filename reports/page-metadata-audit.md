@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T20:59:57.871Z
+Generated: 2026-08-12T21:40:47.899Z
 
-Pages checked: 843
-Pages with issues: 313
-Total issues: 1715
+Pages checked: 844
+Pages with issues: 314
+Total issues: 1724
 Pages with review notes: 646
 Total review notes: 2270
 
@@ -12,18 +12,18 @@ Total review notes: 2270
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 190 |
-| MISSING_TWITTER_IMAGE | 190 |
-| MISSING_TWITTER_CARD | 176 |
-| MISSING_JSON_LD | 171 |
-| MISSING_OG_DESCRIPTION | 171 |
-| MISSING_OG_IMAGE | 170 |
-| MISSING_OG_TITLE | 169 |
-| MISSING_DESCRIPTION | 120 |
+| MISSING_KEYWORDS | 191 |
+| MISSING_TWITTER_IMAGE | 191 |
+| MISSING_TWITTER_CARD | 177 |
+| MISSING_JSON_LD | 172 |
+| MISSING_OG_DESCRIPTION | 172 |
+| MISSING_OG_IMAGE | 171 |
+| MISSING_OG_TITLE | 170 |
+| MISSING_DESCRIPTION | 121 |
 | DUPLICATE_TITLE | 68 |
 | DUPLICATE_CANONICAL | 66 |
 | DUPLICATE_OG_TITLE | 66 |
-| MISSING_CANONICAL | 45 |
+| MISSING_CANONICAL | 46 |
 | OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
 | TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
 | DUPLICATE_KEYWORDS | 29 |
@@ -1398,6 +1398,24 @@ Total review notes: 2270
 - og:image: _missing_
 - twitter:image: _missing_
 
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### focus-group/style-lab/dark/index.html
+
+- title: Ashraellen — Dark Style Lab
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
 - MISSING_KEYWORDS
 - MISSING_CANONICAL
 - MISSING_JSON_LD
