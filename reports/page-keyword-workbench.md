@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T16:33:31.317Z
+Generated: 2026-08-12T16:34:15.052Z
 Pages: 842
 
 ## Index
@@ -322,7 +322,7 @@ Pages: 842
 | fi/public/posts/essay/cycles/index.html | fi | public | Ashraellen — Miniesseiden syklit | Ashraellen, miniesseet, syklit, huomio, keho, menneisyys | miniesseiden, syklit, ashraellen, valmiit, ashraellenin, nykyinen, public, sykli, cycles, elää, ensimmäinen, essay, huomio, keho, kootaan, löytyy, pääsivulta, posts |
 | fi/public/posts/essay/index.html | fi | public | Ashraellen — Miniesseet | Ashraellen, miniesseet, huomio, keho, menneisyys, tietoisuus | ensimmäinen, miniesseet, ashraellen, keho, menneisyys, public, vaan, yksi, ajatukseen, älä, alkaa, ashraellenin, elää, essay, huomioon, johtopäätökseen, joissa, katselukulmaan |
 | fi/public/posts/formula/index.html | fi | public | Ashraellen — Polku, teko, rytmi | Ashraellen, kaavat, polku, teko, rytmi | polku, rytmi, teko, ashraellen, public, aina, ajatuksia, ashraellenin, formula, joissa, joskus, kaava, kaavalinja, kaavat, liike, lyhyitä, mikä, mittansa |
-| fi/public/posts/formula/lines/index.html | fi | public | Ashraellen — Rajat, mitta, muoto | Ashraellen, kaavat, rajat, mitta, muoto | mitta, muoto, rajat, ashraellen, public, ashraellenin, formula, formulalinja, joskus, kaava, kaavat, kaikki, kanssa, kolmas, kun, lines, linja, linjan |
+| fi/public/posts/formula/lines/index.html | fi | public | Ashraellen — Rajat, mitta, muoto | Ashraellen, kaavat, rajat, mitta, muoto | mitta, muoto, alkaa, ashraellen, ihmisen, public, rajat, ashraellenin, formula, itseensä, joskus, kaava, kaavalinja, kaavat, kaikki, kieltäytyminen, kolmas, kun |
 | fi/public/posts/formula/lines/line-0001.html | fi | public | Ashraellen — Ajatus, huomio, keho, menneisyys | Ashraellen, kaavat, ajatus, huomio, keho, menneisyys | ajatus, huomio, keho, menneisyys, arkistoitu, ashraellen, ensimmäinen, public, ajatusta, ashraellenin, edelleen, formula, kaava, kaavalinja, kaavat, line, lines, linja |
 | fi/public/posts/formula/lines/line-0002.html | fi | public | Ashraellen — Sana, hiljaisuus, merkitys | Ashraellen, kaavat, sana, hiljaisuus, merkitys | hiljaisuus, merkitys, sana, arkistoitu, ashraellen, public, alkaa, ashraellenin, formula, itseään, kaava, kaavalinja, kaavat, kun, line, lines, linja, linjan |
 | fi/public/posts/fragment/index.html | fi | public | Ashraellen — Fragmentit | Ashraellen, fragmentit, arkisto, muistiinpanot, työtekstit | fragmentit, aikana, ashraellen, julkaisujen, käsinkirjoitettujen, muistiinpanojen, public, tekstien, vuosien, aineistoa, alla, arkisto, arkiston, arkistoon, arkistosta, ashraellenin, fragment, kertyneestä |
@@ -6212,13 +6212,13 @@ Excerpt:
 - lang: fi
 - section: public
 - title: Ashraellen — Rajat, mitta, muoto
-- description: Ashraellenin kolmas formulalinja: rajat, mitta ja muoto.
+- description: Ashraellenin kolmas kaavalinja tutkii rajoja, mittaa ja muotoa: missä oma rytmi alkaa, miten suostumus toimii ja milloin kieltäytyminen palauttaa ihmisen itseensä.
 - canonical: https://www.ashraellen.com/fi/public/posts/formula/lines/
 - H1: Rajat, mitta, muoto
 - H2: Linjan kaavat
 - H3: _missing_
-- suggested keyword seed: mitta, muoto, rajat, ashraellen, public, ashraellenin, formula, formulalinja, joskus, kaava, kaavat, kaikki, kanssa, kolmas, kun, lines, linja, linjan
-- candidates: muoto, mitta, raja, kaava, kun, kaikki, linja, ole, rajat, toisen, joskus, kanssa, kolmas, lakkaa, nykyinen, omaksesi, tarvitse, tullut, alkaa, annat, ashraellen, ashraellenin, avoimuus, enää
+- suggested keyword seed: mitta, muoto, alkaa, ashraellen, ihmisen, public, rajat, ashraellenin, formula, itseensä, joskus, kaava, kaavalinja, kaavat, kaikki, kieltäytyminen, kolmas, kun
+- candidates: muoto, mitta, raja, kaava, kun, kaikki, linja, ole, toisen, alkaa, ihmisen, joskus, kaavalinja, kanssa, kieltäytyminen, kolmas, lakkaa, mittaa, nykyinen, omaksesi, palauttaa, rajat, tarvitse, tullut
 
 Excerpt:
 
