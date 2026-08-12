@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T18:39:41.704Z
-Pages: 842
+Generated: 2026-08-12T18:42:10.421Z
+Pages: 843
 
 ## Index
 
@@ -231,6 +231,7 @@ Pages: 842
 | es/books/error-404-god-not-found/why-me/index.html | es | books | Ashraellen — ¿Por qué yo? | _missing_ | del, por, qué, libro, ashraellen, books, dios, error, sobre, una, 404, alma, burocracia, cancillería, capas, celestial, ciclo, como |
 | es/books/index.html | es | books | Ashraellen — Libros | Ashraellen, libros, Demotopia, Utopía Democrática, MONOLITH, RADIANCE, ERROR 404, SECCUS, Ya estás en la red, The Book of Whinesis, samizdat 2.0, ediciones de autor | libros, ashraellen, autor, directas, ediciones, books, libro, 2.0, 404, abrir, book, ciclo, ciclos, del, demotopia, error, estás, found |
 | es/books/monolith/beton/index.html | es | books | Ashraellen — HORMIGÓN | Ashraellen, MONOLITO, HORMIGÓN, distopía, literatura, investigación artística | hormigón, ashraellen, books, del, estabilidad, libro, memoria, para, sobre, una, anton, artístico, beton, como, con, dentro, destripes, distopía |
+| es/books/monolith/gas/index.html | es | books | Ashraellen — GAS | Ashraellen, MONOLITO, GAS, volumen tres, Victoria, poder, control, memoria, localización, medio, señal, distopía | gas, del, ashraellen, books, medio, sin, sobre, una, artístico, autor, como, con, control, desaparición, destripes, entre, estado, expediente |
 | es/books/monolith/index.html | es | books | Ashraellen — MONOLITO | Ashraellen, MONOLITO, HORMIGÓN, LODO, GAS, distopía, literatura, investigación artística | monolito, desintegración, ashraellen, books, control, gas, hormigón, lodo, memoria, que, una, artístico, confundirse, debe, del, distópica, este, filosófica |
 | es/books/monolith/sludge/index.html | es | books | Ashraellen — LODO | Ashraellen, MONOLITO, LODO, distopía, literatura, investigación artística | lodo, ashraellen, books, del, para, sobre, una, adam, agotada, artístico, autor, como, complicidad, con, destripes, distopía, expediente, filosófica |
 | es/books/radiance/index.html | es | books | Ashraellen — Resplandor \| Cuentos del norte sobre la historia real del mundo. | Ashraellen, Resplandor, Sampo, Canto, Libros, literary-philosophical, artistic research | resplandor, del, mundo, para, sobre, ashraellen, books, ciclo, instrucciones, investigación, que, antiguas, artística, artístico, como, cómo, con, confundir |
@@ -4659,6 +4660,23 @@ Excerpt:
 Excerpt:
 
 > HORMIGÓN HORMIGÓN es una distopía filosófica sobre un mundo en el que la estabilidad se ha convertido en prisión, la memoria es tratada como amenaza y la primera grieta aparece dentro de un sistema que todavía se cree eterno. Volumen I de la trilogía MONOLITO. Expediente Volumen I El hormigón no empieza con un muro. Empieza con la costumbre de llamar estabilidad a una prisión. EXPEDIENTE N.º 2026-001B. Índice: 6666548A. ESTADO: Alto secreto. Leer la edición inglesa en Google Play Books Leer la edición inglesa en Amazon Volver a MONOLITO Fragmento seleccionado Capítulo 9 / § 9.1 Capítulo 9. Protocolo «Orgullo» § 9.1. El mejor pegamento para la sociedad El fragmento muestra uno de los mecanismos de HORMIGÓN: cómo el dolor se convierte en consigna, la culpa en pegamento social y la pérdida humana en una imagen administrable de estabilidad. Abrir el fragmento completo Capítulo 9. Protocolo «
+
+### es/books/monolith/gas/index.html
+
+- lang: es
+- section: books
+- title: Ashraellen — GAS
+- description: GAS — tercer y último volumen de la trilogía MONOLITO: una novela sobre poder, control total y la desaparición de la frontera entre fuente, portador y medio.
+- canonical: https://www.ashraellen.com/es/books/monolith/gas/
+- H1: GAS
+- H2: Expediente | Fragmento seleccionado | Sobre el libro | Estado del objeto | Del autor | Sin destripes | Marco artístico y de investigación | Temas / nodos de sentido
+- H3: Pérdida de localización | Fuente | Portador | Observador | Memoria | Propagación | Capítulo 1. Inventario de sombras | Capítulo 2. Costuras del rostro
+- suggested keyword seed: gas, del, ashraellen, books, medio, sin, sobre, una, artístico, autor, como, con, control, desaparición, destripes, entre, estado, expediente
+- candidates: una, que, del, por, con, las, los, había, sin, como, para, medio, sobre, capítulo, fuente, gas, más, objeto, portador, después, entre, observador, sensor, sistema
+
+Excerpt:
+
+> GAS El tercer volumen de MONOLITO comienza donde el sistema aún conserva su forma, pero ya está perdiendo el derecho a considerarse la única fuente de lo que sucede. GAS convierte la investigación de Victoria en una prueba de la frontera entre poder, memoria, observación y el propio medio. Expediente Volumen III El gas rara vez se detecta en el momento de la penetración. Por regla general, su presencia solo se vuelve distinguible después de haberse distribuido ya por todo el medio. PROTOCOLO DE IDENTIFICACIÓN DEL OBJETO N.º 2026-001B OBJETO: TRANSCRIPCIÓN «GAS» (VERSIÓN COMPLETA) ARQUITECTO: ASHRAELLEN IDENTIFICADOR: 2026-001B-GAS INTEGRIDAD: 100 % (SIN EDICIÓN EXTERNA) Leer la edición inglesa en Google Play Books Edición inglesa en Amazon Volver a MONOLITO Abrir el protocolo completo Cerrar el protocolo completo DEPARTAMENTO DE SENTIDOS SECTOR SUPERIOR DIRECCIÓN DE CONTROL DE DIFUSIÓN P
 
 ### es/books/monolith/index.html
 

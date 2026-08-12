@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T18:39:41.688Z",
+  "generated": "2026-08-12T18:42:10.409Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -16662,6 +16662,91 @@
         "dentro",
         "destripes",
         "distopía"
+      ]
+    },
+    {
+      "page": "es/books/monolith/gas/index.html",
+      "lang": "es",
+      "section": "books",
+      "title": "Ashraellen — GAS",
+      "description": "GAS — tercer y último volumen de la trilogía MONOLITO: una novela sobre poder, control total y la desaparición de la frontera entre fuente, portador y medio.",
+      "existingKeywords": "Ashraellen, MONOLITO, GAS, volumen tres, Victoria, poder, control, memoria, localización, medio, señal, distopía",
+      "canonical": "https://www.ashraellen.com/es/books/monolith/gas/",
+      "h1": [
+        "GAS"
+      ],
+      "h2": [
+        "Expediente",
+        "Fragmento seleccionado",
+        "Sobre el libro",
+        "Estado del objeto",
+        "Del autor",
+        "Sin destripes",
+        "Marco artístico y de investigación",
+        "Temas / nodos de sentido"
+      ],
+      "h3": [
+        "Pérdida de localización",
+        "Fuente",
+        "Portador",
+        "Observador",
+        "Memoria",
+        "Propagación",
+        "Capítulo 1. Inventario de sombras",
+        "Capítulo 2. Costuras del rostro"
+      ],
+      "slugTerms": [
+        "es",
+        "books",
+        "monolith",
+        "gas"
+      ],
+      "excerpt": "GAS El tercer volumen de MONOLITO comienza donde el sistema aún conserva su forma, pero ya está perdiendo el derecho a considerarse la única fuente de lo que sucede. GAS convierte la investigación de Victoria en una prueba de la frontera entre poder, memoria, observación y el propio medio. Expediente Volumen III El gas rara vez se detecta en el momento de la penetración. Por regla general, su presencia solo se vuelve distinguible después de haberse distribuido ya por todo el medio. PROTOCOLO DE IDENTIFICACIÓN DEL OBJETO N.º 2026-001B OBJETO: TRANSCRIPCIÓN «GAS» (VERSIÓN COMPLETA) ARQUITECTO: ASHRAELLEN IDENTIFICADOR: 2026-001B-GAS INTEGRIDAD: 100 % (SIN EDICIÓN EXTERNA) Leer la edición inglesa en Google Play Books Edición inglesa en Amazon Volver a MONOLITO Abrir el protocolo completo Cerrar el protocolo completo DEPARTAMENTO DE SENTIDOS SECTOR SUPERIOR DIRECCIÓN DE CONTROL DE DIFUSIÓN P",
+      "candidates": [
+        "una",
+        "que",
+        "del",
+        "por",
+        "con",
+        "las",
+        "los",
+        "había",
+        "sin",
+        "como",
+        "para",
+        "medio",
+        "sobre",
+        "capítulo",
+        "fuente",
+        "gas",
+        "más",
+        "objeto",
+        "portador",
+        "después",
+        "entre",
+        "observador",
+        "sensor",
+        "sistema"
+      ],
+      "suggestedKeywordSeed": [
+        "gas",
+        "del",
+        "ashraellen",
+        "books",
+        "medio",
+        "sin",
+        "sobre",
+        "una",
+        "artístico",
+        "autor",
+        "como",
+        "con",
+        "control",
+        "desaparición",
+        "destripes",
+        "entre",
+        "estado",
+        "expediente"
       ]
     },
     {
