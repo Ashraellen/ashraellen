@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T18:34:13.584Z",
+  "generated": "2026-08-12T18:38:34.782Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -16751,12 +16751,12 @@
       "page": "es/books/monolith/sludge/index.html",
       "lang": "es",
       "section": "books",
-      "title": "Ashraellen — SLUDGE",
-      "description": "SLUDGE es el volumen II de MONOLITH: una distopía filosófica sobre presión viscosa, resistencia agotada, complicidad y pérdida de forma.",
-      "existingKeywords": "Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research",
+      "title": "Ashraellen — LODO",
+      "description": "LODO es el volumen II de MONOLITO: una distopía filosófica sobre presión viscosa, resistencia agotada, complicidad y pérdida de forma.",
+      "existingKeywords": "Ashraellen, MONOLITO, LODO, distopía, literatura, investigación artística",
       "canonical": "https://www.ashraellen.com/es/books/monolith/sludge/",
       "h1": [
-        "SLUDGE"
+        "LODO"
       ],
       "h2": [
         "Expediente",
@@ -16782,7 +16782,7 @@
         "monolith",
         "sludge"
       ],
-      "excerpt": "SLUDGE SLUDGE es una distopía filosófica sobre un mundo donde la presión ya no se parece a una pared: se filtra en la vida cotidiana, el lenguaje y el cuerpo, borra los límites y convierte a la persona en material del entorno. Volumen II de la trilogía MONOLITH: deformación viscosa, agotamiento de la resistencia y complicidad convertida en hábito. Expediente Volumen II Una persona no se quiebra de golpe. Primero se cansa de resistir. Después empieza a asentir. EXPEDIENTE N.º 2026-001B. Índice: 6666548A. ESTADO: Estrictamente secreto. Leer la edición rusa en Google Play Books Leer la edición inglesa en Amazon Volver a MONOLITH Fragmento seleccionado Capítulo 6 / § 6.2 Capítulo 6. Primeros pasos por SLUDGE. § 6.2. Almacenes de Conservación de Fragmentos El fragmento muestra cómo la necesidad ordinaria, el procedimiento ritualizado, el miedo, el silencio y la complicidad se convierten en la",
+      "excerpt": "LODO LODO es una distopía filosófica sobre un mundo donde la presión ya no se parece a una pared: se filtra en la vida cotidiana, el lenguaje y el cuerpo, borra los límites y convierte a la persona en material del entorno. Volumen II de la trilogía MONOLITO: deformación viscosa, agotamiento de la resistencia y complicidad convertida en hábito. Expediente Volumen II Una persona no se quiebra de golpe. Primero se cansa de resistir. Después empieza a asentir. EXPEDIENTE N.º 2026-001B. Índice: 6666548A. ESTADO: Estrictamente secreto. Leer la edición inglesa en Google Play Books Leer la edición inglesa en Amazon Volver a MONOLITO Fragmento seleccionado Capítulo 6 / § 6.2 Capítulo 6. Primeros pasos por el Lodo. § 6.2. Almacenes de Conservación de Fragmentos El fragmento muestra cómo la necesidad ordinaria, el procedimiento ritualizado, el miedo, el silencio y la complicidad se convierten en la",
       "candidates": [
         "que",
         "una",
@@ -16791,30 +16791,29 @@
         "por",
         "los",
         "las",
+        "lodo",
         "para",
         "adam",
         "como",
         "sino",
-        "sludge",
         "era",
         "más",
         "persona",
         "dentro",
         "entorno",
         "forma",
+        "monolito",
         "sin",
         "pero",
         "sobre",
         "solo",
-        "canoso",
-        "entre"
+        "canoso"
       ],
       "suggestedKeywordSeed": [
-        "sludge",
+        "lodo",
         "ashraellen",
         "books",
         "del",
-        "monolith",
         "para",
         "sobre",
         "una",
@@ -16827,7 +16826,8 @@
         "con",
         "destripes",
         "distopía",
-        "expediente"
+        "expediente",
+        "filosófica"
       ]
     },
     {

@@ -1,12 +1,12 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T18:34:12.936Z
+Generated: 2026-08-12T18:38:34.137Z
 
 Pages checked: 841
-Pages with issues: 280
-Total issues: 1655
-Pages with review notes: 642
-Total review notes: 2262
+Pages with issues: 279
+Total issues: 1652
+Pages with review notes: 643
+Total review notes: 2264
 
 ## Issue summary
 
@@ -22,9 +22,9 @@ Total review notes: 2262
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
-| DUPLICATE_KEYWORDS | 35 |
-| DUPLICATE_TITLE | 35 |
-| DUPLICATE_OG_TITLE | 33 |
+| DUPLICATE_KEYWORDS | 34 |
+| DUPLICATE_TITLE | 34 |
+| DUPLICATE_OG_TITLE | 32 |
 | OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
 | TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
 | DESCRIPTION_TOO_SHORT | 20 |
@@ -34,8 +34,8 @@ Total review notes: 2262
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 642 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 622 |
+| DUPLICATE_OG_IMAGE_REVIEW | 643 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 623 |
 | FALLBACK_OG_IMAGE_USED | 509 |
 | FALLBACK_TWITTER_IMAGE_USED | 489 |
 
@@ -405,9 +405,9 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_TITLE: shared by 3 pages
-- DUPLICATE_KEYWORDS: shared by 3 pages
-- DUPLICATE_OG_TITLE: shared by 3 pages
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_KEYWORDS: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
 
 ### en/books/radiance/index.html
 
@@ -749,18 +749,6 @@ Total review notes: 2262
 - DUPLICATE_TITLE: shared by 5 pages
 - DUPLICATE_KEYWORDS: shared by 5 pages
 - DUPLICATE_OG_TITLE: shared by 5 pages
-
-### es/books/monolith/sludge/index.html
-
-- title: Ashraellen — SLUDGE
-- description length: 136
-- canonical: https://www.ashraellen.com/es/books/monolith/sludge/
-- og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
-- twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
-
-- DUPLICATE_TITLE: shared by 3 pages
-- DUPLICATE_KEYWORDS: shared by 3 pages
-- DUPLICATE_OG_TITLE: shared by 3 pages
 
 ### es/books/radiance/index.html
 
@@ -1299,9 +1287,9 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_TITLE: shared by 3 pages
-- DUPLICATE_KEYWORDS: shared by 3 pages
-- DUPLICATE_OG_TITLE: shared by 3 pages
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_KEYWORDS: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
 
 ### fr/books/radiance/index.html
 
@@ -4262,8 +4250,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### be/books/monolith/gas/index.html
 
@@ -4280,8 +4268,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### be/books/monolith/sludge/index.html
 
@@ -4289,8 +4277,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### be/books/radiance/index.html
 
@@ -4383,8 +4371,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### be/privacy.html
 
@@ -4956,8 +4944,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### de/books/monolith/gas/index.html
 
@@ -4974,8 +4962,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### de/books/monolith/sludge/index.html
 
@@ -4983,8 +4971,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### de/books/radiance/index.html
 
@@ -5077,8 +5065,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### de/privacy.html
 
@@ -5652,8 +5640,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### en/books/monolith/gas/index.html
 
@@ -5670,8 +5658,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### en/books/monolith/sludge/index.html
 
@@ -5679,8 +5667,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### en/books/radiance/index.html
 
@@ -5775,8 +5763,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### en/privacy.html
 
@@ -6348,8 +6336,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### es/books/monolith/index.html
 
@@ -6357,17 +6345,17 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### es/books/monolith/sludge/index.html
 
-- title: Ashraellen — SLUDGE
-- og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
-- twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
+- title: Ashraellen — LODO
+- og:image: https://www.ashraellen.com/assets/covers/sludge-en.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/sludge-en.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
 
 ### es/books/radiance/index.html
 
@@ -6460,8 +6448,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### es/privacy.html
 
@@ -7035,8 +7023,17 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
+
+### fi/books/monolith/sludge/index.html
+
+- title: Ashraellen — LIETE
+- og:image: https://www.ashraellen.com/assets/covers/sludge-en.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/sludge-en.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
 
 ### fi/books/radiance/index.html
 
@@ -7469,8 +7466,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### fr/books/monolith/index.html
 
@@ -7478,8 +7475,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### fr/books/monolith/sludge/index.html
 
@@ -7487,8 +7484,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### fr/books/radiance/index.html
 
@@ -7581,8 +7578,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### fr/privacy.html
 
@@ -8178,8 +8175,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### pl/books/monolith/index.html
 
@@ -8187,8 +8184,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### pl/books/monolith/sludge/index.html
 
@@ -8196,8 +8193,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### pl/books/radiance/index.html
 
@@ -8263,8 +8260,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### pl/privacy.html
 
@@ -8847,8 +8844,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### pt/books/monolith/gas/index.html
 
@@ -8865,8 +8862,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### pt/books/monolith/sludge/index.html
 
@@ -8874,8 +8871,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### pt/books/radiance/index.html
 
@@ -8968,8 +8965,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### pt/privacy.html
 
@@ -9545,8 +9542,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### ru/books/monolith/gas/index.html
 
@@ -9563,8 +9560,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### ru/books/monolith/sludge/index.html
 
@@ -9572,8 +9569,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### ru/books/radiance/index.html
 
@@ -9663,8 +9660,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### ru/privacy.html
 
@@ -10324,8 +10321,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### uk/books/monolith/gas/index.html
 
@@ -10342,8 +10339,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### uk/books/monolith/sludge/index.html
 
@@ -10351,8 +10348,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### uk/books/radiance/index.html
 
@@ -10445,8 +10442,8 @@ Total review notes: 2262
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 37 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 37 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 36 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 36 pages
 
 ### uk/privacy.html
 
