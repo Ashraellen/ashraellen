@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T15:55:26.025Z
+Generated: 2026-08-12T15:56:28.218Z
 
 Pages checked: 841
-Pages with issues: 301
-Total issues: 1742
+Pages with issues: 300
+Total issues: 1740
 Pages with review notes: 638
 Total review notes: 2241
 
@@ -12,8 +12,8 @@ Total review notes: 2241
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 208 |
-| MISSING_TWITTER_IMAGE | 207 |
+| MISSING_KEYWORDS | 207 |
+| MISSING_TWITTER_IMAGE | 206 |
 | MISSING_TWITTER_CARD | 187 |
 | MISSING_OG_DESCRIPTION | 184 |
 | MISSING_JSON_LD | 183 |
@@ -876,17 +876,6 @@ Total review notes: 2241
 
 - DUPLICATE_TITLE: shared by 9 pages
 - DUPLICATE_OG_TITLE: shared by 9 pages
-
-### fi/books/demotopia/index.html
-
-- title: Demotopia — Demokraattinen utopia — Ashraellen
-- description length: 147
-- canonical: https://www.ashraellen.com/fi/books/demotopia/
-- og:image: https://www.ashraellen.com/assets/covers/DEMOTOPIA_COMMERCIAL_COVER_CONCEPT_EN_v01.webp
-- twitter:image: _missing_
-
-- MISSING_KEYWORDS
-- MISSING_TWITTER_IMAGE
 
 ### fi/books/error-404-god-not-found/index.html
 
