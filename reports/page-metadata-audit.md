@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T14:29:34.357Z
+Generated: 2026-08-12T14:33:19.449Z
 
 Pages checked: 841
-Pages with issues: 316
-Total issues: 1786
+Pages with issues: 315
+Total issues: 1785
 Pages with review notes: 633
 Total review notes: 2212
 
@@ -12,7 +12,7 @@ Total review notes: 2212
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 219 |
+| MISSING_KEYWORDS | 218 |
 | MISSING_TWITTER_IMAGE | 217 |
 | MISSING_TWITTER_CARD | 187 |
 | MISSING_OG_DESCRIPTION | 186 |
@@ -1183,16 +1183,6 @@ Total review notes: 2212
 
 - MISSING_KEYWORDS
 - MISSING_TWITTER_IMAGE
-
-### fi/index.html
-
-- title: Ashraellen — Kirjat, tutkimus ja julkiset tekstit
-- description length: 180
-- canonical: https://www.ashraellen.com/fi/
-- og:image: https://www.ashraellen.com/assets/hero.webp
-- twitter:image: https://www.ashraellen.com/assets/hero.webp
-
-- MISSING_KEYWORDS
 
 ### fi/privacy.html
 
