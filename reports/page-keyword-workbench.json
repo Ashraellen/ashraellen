@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T16:35:04.907Z",
+  "generated": "2026-08-12T16:35:59.535Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -23143,7 +23143,7 @@
       "lang": "fi",
       "section": "public",
       "title": "Ashraellen — Ensimmäinen miniesseesykli",
-      "description": "Ashraellenin ensimmäinen valmis miniesseesykli: huomio, keho ja menneisyys.",
+      "description": "Ashraellenin ensimmäinen valmis miniesseesykli tutkii huomiota, kehoa ja menneisyyttä: miten sisäinen tapahtuma muuttuu samaistumiseksi, harjoitukseksi tai muistoksi.",
       "existingKeywords": "Ashraellen, miniessee, huomio, keho, menneisyys, tietoisuus",
       "canonical": "https://www.ashraellen.com/fi/public/posts/essay/cycles/cycle-0001.html",
       "h1": [
@@ -23168,16 +23168,16 @@
       "candidates": [
         "ensimmäinen",
         "keho",
-        "menneisyys",
         "voi",
+        "menneisyys",
         "siitä",
         "vaan",
         "elää",
-        "huomio",
         "mutta",
         "syntyy",
         "älä",
         "alkaa",
+        "huomio",
         "ihminen",
         "lue",
         "miniessee",
@@ -23193,10 +23193,9 @@
       ],
       "suggestedKeywordSeed": [
         "ensimmäinen",
+        "ashraellen",
         "keho",
         "menneisyys",
-        "ashraellen",
-        "huomio",
         "miniesseesykli",
         "public",
         "sykli",
@@ -23209,7 +23208,8 @@
         "cycles",
         "elää",
         "essay",
-        "huomioon"
+        "harjoitukseksi",
+        "huomio"
       ]
     },
     {

@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T16:35:04.244Z
+Generated: 2026-08-12T16:35:58.882Z
 
 Pages checked: 841
 Pages with issues: 281
-Total issues: 1659
+Total issues: 1658
 Pages with review notes: 642
 Total review notes: 2262
 
@@ -27,7 +27,7 @@ Total review notes: 2262
 | DUPLICATE_OG_TITLE | 34 |
 | OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
 | TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
-| DESCRIPTION_TOO_SHORT | 21 |
+| DESCRIPTION_TOO_SHORT | 20 |
 
 
 ## Review note summary
@@ -891,14 +891,13 @@ Total review notes: 2262
 ### fi/public/posts/essay/cycles/cycle-0001.html
 
 - title: Ashraellen — Ensimmäinen miniesseesykli
-- description length: 75
+- description length: 166
 - canonical: https://www.ashraellen.com/fi/public/posts/essay/cycles/cycle-0001.html
 - og:image: https://www.ashraellen.com/assets/symbol.png
 - twitter:image: https://www.ashraellen.com/assets/symbol.png
 
 - OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/symbol.png
 - TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/symbol.png
-- DESCRIPTION_TOO_SHORT: 75
 
 ### fi/public/posts/essay/cycles/index.html
 
