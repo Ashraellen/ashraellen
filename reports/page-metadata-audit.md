@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T13:26:40.902Z
+Generated: 2026-08-12T13:27:48.944Z
 
 Pages checked: 841
 Pages with issues: 320
-Total issues: 1892
+Total issues: 1887
 Pages with review notes: 616
 Total review notes: 2164
 
@@ -12,13 +12,13 @@ Total review notes: 2164
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 238 |
-| MISSING_TWITTER_IMAGE | 236 |
-| MISSING_TWITTER_CARD | 206 |
-| MISSING_OG_DESCRIPTION | 205 |
-| MISSING_JSON_LD | 202 |
-| MISSING_OG_IMAGE | 196 |
-| MISSING_OG_TITLE | 189 |
+| MISSING_KEYWORDS | 237 |
+| MISSING_TWITTER_IMAGE | 235 |
+| MISSING_TWITTER_CARD | 205 |
+| MISSING_OG_DESCRIPTION | 204 |
+| MISSING_JSON_LD | 201 |
+| MISSING_OG_IMAGE | 195 |
+| MISSING_OG_TITLE | 188 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
@@ -26,8 +26,8 @@ Total review notes: 2164
 | DUPLICATE_OG_TITLE | 42 |
 | DUPLICATE_KEYWORDS | 36 |
 | DESCRIPTION_TOO_SHORT | 27 |
-| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 20 |
-| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 20 |
+| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 21 |
+| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 21 |
 
 
 ## Review note summary
@@ -1491,16 +1491,11 @@ Total review notes: 2164
 - title: Ashraellen — Yleistys havainnon sijasta
 - description length: 98
 - canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0008-generalization.html
-- og:image: _missing_
-- twitter:image: _missing_
+- og:image: https://www.ashraellen.com/assets/thoughts/0008-generalization.jpg
+- twitter:image: https://www.ashraellen.com/assets/thoughts/0008-generalization.jpg
 
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_TITLE
-- MISSING_OG_DESCRIPTION
-- MISSING_OG_IMAGE
-- MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
+- OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0008-generalization.jpg
+- TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0008-generalization.jpg
 
 ### fi/public/thoughts/arcs/0009-where-life-stopped.html
 
