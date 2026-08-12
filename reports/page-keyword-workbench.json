@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T16:15:19.270Z",
+  "generated": "2026-08-12T16:16:05.984Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -22190,8 +22190,8 @@
       "lang": "fi",
       "section": "books",
       "title": "Demotopia — Kirjapassi — samizdat 2.0",
-      "description": "Demotopian fyysisen tekijäjulkaisun kirjapassi samizdat 2.0 -järjestelmässä.",
-      "existingKeywords": "",
+      "description": "Demotopian fyysisen tekijäjulkaisun kirjapassi samizdat 2.0 -järjestelmässä: Demokraattinen utopia, Varsova 2026.",
+      "existingKeywords": "Ashraellen, Demotopia, Demokraattinen utopia, samizdat 2.0, kirjapassi, tekijäjulkaisu",
       "canonical": "https://www.ashraellen.com/fi/books/samizdat/demotopia/",
       "h1": [
         "Demotopia"
@@ -22211,18 +22211,20 @@
         "samizdat",
         "demotopia"
       ],
-      "excerpt": "Kirjapassi / samizdat 2.0 Demotopia Democratic Utopia Filosofinen romaani demokratiasta, vallasta ja vapauden hiljaisesta muuttumisesta rituaaliksi. Tekijän suoraan julkaisema fyysinen laitos Kirjasta demokratia oman rituaalinsa sisältä nähtynä Demotopia tarkastelee hetkeä, jolloin demokratian kieli säilyy ehjänä mutta sen merkitys alkaa liukua. Romaani ei seuraa vapautta romahtamassa yhdessä dramaattisessa hetkessä, vaan muuttumassa tavaksi, menettelyksi ja esitykseksi. Teos ei kuulu millekään puolueelle eikä tarjoa poliittista ohjelmaa. Se esittää hiljaisemman kysymyksen: mitä tapahtuu, kun ihmiset jatkavat demokratian rituaalia vielä senkin jälkeen, kun he eivät enää odota sen muuttavan mitään? Tämä julkaisu valmis fyysinen muoto suoraan tekijältä Teos Demotopia — Democratic Utopia Tekijä Ashraellen Julkaisu Tekijän fyysinen julkaisu Järjestelmä samizdat 2.0 Paikka ja vuosi Varsova, 2",
+      "excerpt": "Kirjapassi / samizdat 2.0 Demotopia Demokraattinen utopia Filosofinen romaani demokratiasta, vallasta ja vapauden hiljaisesta muuttumisesta rituaaliksi. Tekijän suoraan julkaisema fyysinen laitos Kirjasta demokratia oman rituaalinsa sisältä nähtynä Demotopia tarkastelee hetkeä, jolloin demokratian kieli säilyy ehjänä mutta sen merkitys alkaa liukua. Romaani ei seuraa vapautta romahtamassa yhdessä dramaattisessa hetkessä, vaan muuttumassa tavaksi, menettelyksi ja esitykseksi. Teos ei kuulu millekään puolueelle eikä tarjoa poliittista ohjelmaa. Se esittää hiljaisemman kysymyksen: mitä tapahtuu, kun ihmiset jatkavat demokratian rituaalia vielä senkin jälkeen, kun he eivät enää odota sen muuttavan mitään? Tämä julkaisu valmis fyysinen muoto suoraan tekijältä Teos Demotopia — Demokraattinen utopia Tekijä Ashraellen Julkaisu Tekijän fyysinen julkaisu Järjestelmä samizdat 2.0 Paikka ja vuosi Va",
       "candidates": [
         "fyysinen",
         "2.0",
         "demotopia",
         "samizdat",
+        "demokraattinen",
         "julkaisu",
         "kirjapassi",
         "sen",
         "suoraan",
         "tekijän",
-        "democratic",
+        "utopia",
+        "2026",
         "demokratian",
         "demotopian",
         "julkinen",
@@ -22234,29 +22236,27 @@
         "romaani",
         "tekijältä",
         "teos",
-        "utopia",
-        "2026",
-        "alkaa"
+        "varsova"
       ],
       "suggestedKeywordSeed": [
         "demotopia",
         "samizdat",
         "2.0",
         "kirjapassi",
+        "2026",
         "books",
-        "demotopian",
+        "demokraattinen",
         "julkaisu",
+        "utopia",
         "ashraellen",
-        "democratic",
-        "demokratian",
+        "demotopian",
         "fyysinen",
         "fyysisen",
         "järjestelmässä",
         "kirjasta",
         "passi",
         "pysyvä",
-        "pyydä",
-        "sen"
+        "pyydä"
       ]
     },
     {

@@ -1,24 +1,24 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T16:15:18.565Z
+Generated: 2026-08-12T16:16:05.302Z
 
 Pages checked: 841
-Pages with issues: 291
-Total issues: 1698
-Pages with review notes: 638
-Total review notes: 2250
+Pages with issues: 290
+Total issues: 1690
+Pages with review notes: 640
+Total review notes: 2254
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 197 |
-| MISSING_TWITTER_IMAGE | 197 |
-| MISSING_TWITTER_CARD | 180 |
-| MISSING_OG_DESCRIPTION | 176 |
-| MISSING_JSON_LD | 175 |
-| MISSING_OG_IMAGE | 173 |
-| MISSING_OG_TITLE | 172 |
+| MISSING_KEYWORDS | 196 |
+| MISSING_TWITTER_IMAGE | 196 |
+| MISSING_TWITTER_CARD | 179 |
+| MISSING_OG_DESCRIPTION | 175 |
+| MISSING_JSON_LD | 174 |
+| MISSING_OG_IMAGE | 172 |
+| MISSING_OG_TITLE | 171 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
@@ -27,15 +27,15 @@ Total review notes: 2250
 | DUPLICATE_OG_TITLE | 34 |
 | OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
 | TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
-| DESCRIPTION_TOO_SHORT | 27 |
+| DESCRIPTION_TOO_SHORT | 26 |
 
 
 ## Review note summary
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 638 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 615 |
+| DUPLICATE_OG_IMAGE_REVIEW | 640 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 617 |
 | FALLBACK_OG_IMAGE_USED | 509 |
 | FALLBACK_TWITTER_IMAGE_USED | 488 |
 
@@ -899,23 +899,6 @@ Total review notes: 2250
 - MISSING_KEYWORDS
 - MISSING_OG_DESCRIPTION
 - MISSING_TWITTER_IMAGE
-
-### fi/books/samizdat/demotopia/index.html
-
-- title: Demotopia — Kirjapassi — samizdat 2.0
-- description length: 76
-- canonical: https://www.ashraellen.com/fi/books/samizdat/demotopia/
-- og:image: _missing_
-- twitter:image: _missing_
-
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_TITLE
-- MISSING_OG_DESCRIPTION
-- MISSING_OG_IMAGE
-- MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
-- DESCRIPTION_TOO_SHORT: 76
 
 ### fi/books/samizdat/order/index.html
 
@@ -7133,6 +7116,15 @@ Total review notes: 2250
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 509 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 488 pages
 
+### fi/books/demotopia/index.html
+
+- title: Demotopia — Demokraattinen utopia — Ashraellen
+- og:image: https://www.ashraellen.com/assets/covers/DEMOTOPIA_COMMERCIAL_COVER_CONCEPT_EN_v01.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/DEMOTOPIA_COMMERCIAL_COVER_CONCEPT_EN_v01.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
+
 ### fi/books/error-404-god-not-found/index.html
 
 - title: Ashraellen — VIRHE 404: JUMALAA EI LÖYTYNYT
@@ -7193,6 +7185,15 @@ Total review notes: 2250
 - title: Ashraellen — Laulu | HOHDE, Kirja II
 - og:image: https://www.ashraellen.com/assets/covers/song-cover-en.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/song-cover-en.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
+
+### fi/books/samizdat/demotopia/index.html
+
+- title: Demotopia — Kirjapassi — samizdat 2.0
+- og:image: https://www.ashraellen.com/assets/covers/DEMOTOPIA_COMMERCIAL_COVER_CONCEPT_EN_v01.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/DEMOTOPIA_COMMERCIAL_COVER_CONCEPT_EN_v01.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
