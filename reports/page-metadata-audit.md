@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T16:05:26.728Z
+Generated: 2026-08-12T16:09:20.122Z
 
 Pages checked: 841
-Pages with issues: 294
-Total issues: 1713
+Pages with issues: 293
+Total issues: 1711
 Pages with review notes: 638
 Total review notes: 2249
 
@@ -12,8 +12,8 @@ Total review notes: 2249
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 201 |
-| MISSING_TWITTER_IMAGE | 200 |
+| MISSING_KEYWORDS | 200 |
+| MISSING_TWITTER_IMAGE | 199 |
 | MISSING_TWITTER_CARD | 182 |
 | MISSING_OG_DESCRIPTION | 179 |
 | MISSING_JSON_LD | 178 |
@@ -876,17 +876,6 @@ Total review notes: 2249
 
 - DUPLICATE_TITLE: shared by 9 pages
 - DUPLICATE_OG_TITLE: shared by 9 pages
-
-### fi/books/monolith/beton/index.html
-
-- title: Ashraellen — BETONI
-- description length: 148
-- canonical: https://www.ashraellen.com/fi/books/monolith/beton/
-- og:image: https://www.ashraellen.com/assets/covers/beton-en.webp
-- twitter:image: _missing_
-
-- MISSING_KEYWORDS
-- MISSING_TWITTER_IMAGE
 
 ### fi/books/monolith/gas/index.html
 
