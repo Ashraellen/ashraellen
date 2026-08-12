@@ -1,22 +1,22 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T16:18:58.379Z
+Generated: 2026-08-12T16:25:52.685Z
 
 Pages checked: 841
-Pages with issues: 288
-Total issues: 1674
+Pages with issues: 285
+Total issues: 1664
 Pages with review notes: 642
-Total review notes: 2258
+Total review notes: 2260
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 194 |
-| MISSING_TWITTER_IMAGE | 194 |
-| MISSING_TWITTER_CARD | 177 |
-| MISSING_OG_DESCRIPTION | 173 |
-| MISSING_JSON_LD | 172 |
+| MISSING_KEYWORDS | 191 |
+| MISSING_TWITTER_IMAGE | 191 |
+| MISSING_TWITTER_CARD | 176 |
+| MISSING_JSON_LD | 171 |
+| MISSING_OG_DESCRIPTION | 171 |
 | MISSING_OG_IMAGE | 170 |
 | MISSING_OG_TITLE | 169 |
 | MISSING_DESCRIPTION | 120 |
@@ -35,7 +35,7 @@ Total review notes: 2258
 | Item | Count |
 |---|---:|
 | DUPLICATE_OG_IMAGE_REVIEW | 642 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 619 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 621 |
 | FALLBACK_OG_IMAGE_USED | 509 |
 | FALLBACK_TWITTER_IMAGE_USED | 488 |
 
@@ -877,29 +877,6 @@ Total review notes: 2258
 - DUPLICATE_TITLE: shared by 9 pages
 - DUPLICATE_OG_TITLE: shared by 9 pages
 
-### fi/books/monolith/gas/index.html
-
-- title: Ashraellen — KAASU
-- description length: 157
-- canonical: https://www.ashraellen.com/fi/books/monolith/gas/
-- og:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
-- twitter:image: _missing_
-
-- MISSING_KEYWORDS
-- MISSING_TWITTER_IMAGE
-
-### fi/books/monolith/sludge/index.html
-
-- title: Ashraellen — LIETE
-- description length: 146
-- canonical: https://www.ashraellen.com/fi/books/monolith/sludge/
-- og:image: https://www.ashraellen.com/assets/covers/sludge-en.webp
-- twitter:image: _missing_
-
-- MISSING_KEYWORDS
-- MISSING_OG_DESCRIPTION
-- MISSING_TWITTER_IMAGE
-
 ### fi/books/the-book-of-whinesis/index.html
 
 - title: Ashraellen — The Book of Whinesis
@@ -910,20 +887,6 @@ Total review notes: 2258
 
 - DUPLICATE_TITLE: shared by 9 pages
 - DUPLICATE_OG_TITLE: shared by 9 pages
-
-### fi/books/you-are-already-online/index.html
-
-- title: Ashraellen — Olet jo verkossa
-- description length: 116
-- canonical: https://www.ashraellen.com/fi/books/you-are-already-online/
-- og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
-- twitter:image: _missing_
-
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_DESCRIPTION
-- MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
 
 ### fi/professional/index.html
 
@@ -4446,7 +4409,7 @@ Total review notes: 2258
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### be/contact.html
 
@@ -5057,7 +5020,7 @@ Total review notes: 2258
 - twitter:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 3 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
 
 ### de/books/monolith/index.html
 
@@ -5140,7 +5103,7 @@ Total review notes: 2258
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### de/contact.html
 
@@ -5753,7 +5716,7 @@ Total review notes: 2258
 - twitter:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 3 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
 
 ### en/books/monolith/index.html
 
@@ -5838,7 +5801,7 @@ Total review notes: 2258
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### en/contact.html
 
@@ -6523,7 +6486,7 @@ Total review notes: 2258
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### es/contact.html
 
@@ -7115,9 +7078,10 @@ Total review notes: 2258
 
 - title: Ashraellen — KAASU
 - og:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
-- twitter:image: _missing_
+- twitter:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
 
 ### fi/books/monolith/index.html
 
@@ -7195,9 +7159,10 @@ Total review notes: 2258
 
 - title: Ashraellen — Olet jo verkossa
 - og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
-- twitter:image: _missing_
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### fi/contact.html
 
@@ -7640,7 +7605,7 @@ Total review notes: 2258
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### fr/contact.html
 
@@ -8322,7 +8287,7 @@ Total review notes: 2258
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### pl/contact.html
 
@@ -8944,7 +8909,7 @@ Total review notes: 2258
 - twitter:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 3 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
 
 ### pt/books/monolith/index.html
 
@@ -9027,7 +8992,7 @@ Total review notes: 2258
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### pt/contact.html
 
@@ -9722,7 +9687,7 @@ Total review notes: 2258
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### ru/contact.html
 
@@ -10504,7 +10469,7 @@ Total review notes: 2258
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### uk/contact.html
 
