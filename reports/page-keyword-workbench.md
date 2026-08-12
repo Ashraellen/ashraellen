@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T14:54:48.580Z
+Generated: 2026-08-12T14:55:57.592Z
 Pages: 842
 
 ## Index
@@ -309,7 +309,7 @@ Pages: 842
 | fi/books/samizdat/index.html | fi | books | samizdat 2.0 — Ashraellenin tekijäjulkaisut | _missing_ | samizdat, 2.0, ashraellenin, books, ilman, tekijäjulkaisut, ashraellen, eikä, fyysinen, fyysiset, julkiset, kappale, kappaleen, kappaleet, kirja, kirjan, kirjapassit, kirjat |
 | fi/books/samizdat/order/index.html | fi | books | Pyydä samizdat 2.0 -tekijäkappale — Ashraellen | _missing_ | 2.0, kappale, pyyntö, samizdat, allekirjoitettu, ashraellen, books, kielellä, pyydä, ashraellenin, ennen, henkilökohtaisesti, hinnan, järjestämiseen, kappaleen, kirja, maksu, order |
 | fi/books/samizdat/order/received/index.html | fi | books | Pyyntö vastaanotettu — samizdat 2.0 — Ashraellen | _missing_ | samizdat, 2.0, ashraellen, vastaanotettu, books, pyyntö, aan, antamaasi, eikä, ennen, erillistä, hinnan, käynnistä, kiitos, kirjapyyntö, order, received |
-| fi/books/seccus/index.html | fi | books | Ashraellen — THE SACRED BOOK OF SECCUS | _missing_ | seccus, book, sacred, ashraellen, books, honesty, menestyksestä, path, sivu, ääni, alibina, avaa, filosofinen, ihminen, itsepetoksesta, joka, kirja, kirjan |
+| fi/books/seccus/index.html | fi | books | Ashraellen — SECCUSIN PYHÄ KIRJA | _missing_ | kirja, pyhä, seccusin, ashraellen, books, menestyksestä, polku, rehellisyyden, sivu, ääni, alibina, avaa, filosofinen, ihminen, itsepetoksesta, joka, kirjan, kirjassa |
 | fi/books/the-book-of-whinesis/index.html | fi | books | Ashraellen — The Book of Whinesis | _missing_ | book, whinesis, ashraellen, books, jotka, satiiri, ääniraitoja, ensimmäiset, että, herra, katkelma, kirjasta, kulttiin, kun, loputtomaan, luvut, menestyksen, niille |
 | fi/books/you-are-already-online/index.html | fi | books | Ashraellen — You Are Already Online | _missing_ | already, online, you, ashraellen, books, hypertodellisuuden, luku, algoritmien, audioromaani, digitaalisen, enää, ennen, ensimmäinen, hän, ilman, immersiivinen, järjestelmä, katkelma |
 | fi/contact.html | fi | contact.html | Yhteys — Ashraellen — Suomi | Ashraellen, yhteys, yhteistyö, julkaiseminen, apurahat, media | ashraellen, yhteys, apurahoja, ashraellenin, julkaisemista, mediaa, projektia, varten, yhteistyötä, aineistot, contact, contact.html, julkiset, koskevia, suomi, telegram-yhteys, yhteydenottoja, yhteystiedot |
@@ -5990,18 +5990,18 @@ Excerpt:
 
 - lang: fi
 - section: books
-- title: Ashraellen — THE SACRED BOOK OF SECCUS
-- description: THE SACRED BOOK OF SECCUS — The Path of Honesty on filosofinen satiiri rahasta, menestyksestä, itsepetoksesta, tiedosta alibina ja vastuusta omasta valinnasta.
+- title: Ashraellen — SECCUSIN PYHÄ KIRJA
+- description: SECCUSIN PYHÄ KIRJA — Rehellisyyden polku on filosofinen satiiri rahasta, menestyksestä, itsepetoksesta, tiedosta alibina ja vastuusta omasta valinnasta.
 - canonical: https://www.ashraellen.com/fi/books/seccus/
-- H1: THE SACRED BOOK OF SECCUS
+- H1: SECCUSIN PYHÄ KIRJA
 - H2: Valittu sivu | Mistä kirjassa on kyse | Neljä sisäänkäyntiä | Kirjan ääni | Versio
 - H3: Sivu 71 — Varjon energialähde | Menestys nurinpäin | Raha peilinä | Tieto alibina | Suora puhuttelu
-- suggested keyword seed: seccus, book, sacred, ashraellen, books, honesty, menestyksestä, path, sivu, ääni, alibina, avaa, filosofinen, ihminen, itsepetoksesta, joka, kirja, kirjan
-- candidates: sivu, honesty, mitä, path, seccus, avaa, book, ihminen, joka, kirja, menestyksestä, raha, sacred, sen, vaan, vapauden, voit, alibina, alkaa, ashraellen, englanninkielinen, hinta, jota, kansi
+- suggested keyword seed: kirja, pyhä, seccusin, ashraellen, books, menestyksestä, polku, rehellisyyden, sivu, ääni, alibina, avaa, filosofinen, ihminen, itsepetoksesta, joka, kirjan, kirjassa
+- candidates: sivu, kirja, mitä, polku, rehellisyyden, avaa, ihminen, joka, menestyksestä, pyhä, raha, seccusin, sen, vaan, vapauden, voit, alibina, alkaa, ashraellen, englanninkielinen, hinta, jota, kansi, kostoa
 
 Excerpt:
 
-> SACRUNOMICON — MENESTYKSEN NURINPÄIN KÄÄNNETTY TETRAKIRJA THE SACRED BOOK OF SECCUS The Path of Honesty Kirja rahasta ja menestyksestä, joka kääntää tutun kysymyksen ympäri. Ei “miten saan mitä haluan?”, vaan mitä ihminen oikeastaan yrittää ostaa samalla, kun hän tavoittelee vapautta, tunnustusta ja oikeutta kutsua itseään onnistuneeksi. Raha on vain tekosyy. Varsinainen tutkimuskohde on ihminen, joka sitä haluaa. Englanninkielinen kansi. Ashraellen. Valittu sivu Käärö IV — Muurien kaatuminen Sivu motiivista, joka piiloutuu oikeiden sanojen — vapauden, auttamisen, hyödyn ja tarkoituksen — taakse. Avaa sivu Sulje sivu Sivu 71 — Varjon energialähde Lähestymme motivaation syvintä kerrosta — sitä, jota olet kiertänyt siisteillä sanoilla ja kunniallisilla tavoitteilla. Olet sanonut haluavasi rahaa vapauden vuoksi, läheistesi auttamiseksi, maailman palvelemiseksi. Mutta sileän pinnan alla voi 
+> SACRUNOMICON — MENESTYKSEN NURINPÄIN KÄÄNNETTY TETRAKIRJA SECCUSIN PYHÄ KIRJA Rehellisyyden polku Kirja rahasta ja menestyksestä, joka kääntää tutun kysymyksen ympäri. Ei “miten saan mitä haluan?”, vaan mitä ihminen oikeastaan yrittää ostaa samalla, kun hän tavoittelee vapautta, tunnustusta ja oikeutta kutsua itseään onnistuneeksi. Raha on vain tekosyy. Varsinainen tutkimuskohde on ihminen, joka sitä haluaa. Englanninkielinen kansi. Ashraellen. Valittu sivu Käärö IV — Muurien kaatuminen Sivu motiivista, joka piiloutuu oikeiden sanojen — vapauden, auttamisen, hyödyn ja tarkoituksen — taakse. Avaa sivu Sulje sivu Sivu 71 — Varjon energialähde Lähestymme motivaation syvintä kerrosta — sitä, jota olet kiertänyt siisteillä sanoilla ja kunniallisilla tavoitteilla. Olet sanonut haluavasi rahaa vapauden vuoksi, läheistesi auttamiseksi, maailman palvelemiseksi. Mutta sileän pinnan alla voi käydä 
 
 ### fi/books/the-book-of-whinesis/index.html
 

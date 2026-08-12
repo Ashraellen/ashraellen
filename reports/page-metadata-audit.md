@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T14:54:47.900Z
+Generated: 2026-08-12T14:55:56.937Z
 
 Pages checked: 841
-Pages with issues: 311
-Total issues: 1773
+Pages with issues: 310
+Total issues: 1769
 Pages with review notes: 633
 Total review notes: 2216
 
@@ -22,9 +22,9 @@ Total review notes: 2216
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
-| DUPLICATE_TITLE | 40 |
-| DUPLICATE_OG_TITLE | 38 |
+| DUPLICATE_TITLE | 38 |
 | DUPLICATE_KEYWORDS | 36 |
+| DUPLICATE_OG_TITLE | 36 |
 | OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
 | TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
 | DESCRIPTION_TOO_SHORT | 27 |
@@ -705,17 +705,6 @@ Total review notes: 2216
 - MISSING_TWITTER_IMAGE
 - DUPLICATE_TITLE: shared by 2 pages
 
-### en/books/seccus/index.html
-
-- title: Ashraellen — THE SACRED BOOK OF SECCUS
-- description length: 177
-- canonical: https://www.ashraellen.com/en/books/seccus/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_TITLE: shared by 2 pages
-- DUPLICATE_OG_TITLE: shared by 2 pages
-
 ### en/books/the-book-of-whinesis/index.html
 
 - title: Ashraellen — The Book of Whinesis
@@ -1103,8 +1092,8 @@ Total review notes: 2216
 
 ### fi/books/seccus/index.html
 
-- title: Ashraellen — THE SACRED BOOK OF SECCUS
-- description length: 159
+- title: Ashraellen — SECCUSIN PYHÄ KIRJA
+- description length: 153
 - canonical: https://www.ashraellen.com/fi/books/seccus/
 - og:image: https://www.ashraellen.com/assets/covers/seccus-cover-en.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seccus-cover-en.webp
@@ -1112,8 +1101,6 @@ Total review notes: 2216
 - MISSING_KEYWORDS
 - MISSING_JSON_LD
 - MISSING_OG_DESCRIPTION
-- DUPLICATE_TITLE: shared by 2 pages
-- DUPLICATE_OG_TITLE: shared by 2 pages
 
 ### fi/books/the-book-of-whinesis/index.html
 
