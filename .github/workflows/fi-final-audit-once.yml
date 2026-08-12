@@ -1,0 +1,118 @@
+name: FI final audit once
+
+on:
+  push:
+    paths:
+      - '.github/workflows/fi-final-audit-once.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  audit-fi:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Audit Finnish HTML surface
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          from html.parser import HTMLParser
+          import re
+
+          class P(HTMLParser):
+              def __init__(self):
+                  super().__init__()
+                  self.skip = 0
+                  self.text = []
+                  self.anchors = []
+                  self.current_href = None
+                  self.current_text = []
+              def handle_starttag(self, tag, attrs):
+                  a = dict(attrs)
+                  if tag in ('script','style'):
+                      self.skip += 1
+                  if tag == 'a':
+                      self.current_href = a.get('href')
+                      self.current_text = []
+              def handle_endtag(self, tag):
+                  if tag in ('script','style') and self.skip:
+                      self.skip -= 1
+                  if tag == 'a' and self.current_href is not None:
+                      self.anchors.append((self.current_href, ' '.join(self.current_text).strip()))
+                      self.current_href = None
+                      self.current_text = []
+              def handle_data(self, data):
+                  if self.skip:
+                      return
+                  t = ' '.join(data.split())
+                  if t:
+                      self.text.append(t)
+                      if self.current_href is not None:
+                          self.current_text.append(t)
+
+          files = sorted(Path('fi').rglob('*.html'))
+          print(f'FI_HTML_FILES={len(files)}')
+
+          lang_bad = []
+          title_hits = []
+          en_links = []
+          seal_bad = []
+          seal_pages = 0
+
+          patterns = [
+              ('MONOLITH', re.compile(r'\bMONOLITH\b')),
+              ('BETON', re.compile(r'\bBETON\b')),
+              ('SLUDGE', re.compile(r'\bSLUDGE\b')),
+              ('GAS', re.compile(r'\bGAS\b')),
+              ('RADIANCE', re.compile(r'\bRADIANCE\b', re.I)),
+              ('Error 404: God Not Found', re.compile(r'Error 404:\s*God Not Found', re.I)),
+              ('Why Me?', re.compile(r'\bWhy Me\?', re.I)),
+              ('You Are Already Online', re.compile(r'You Are Already Online', re.I)),
+              ('Democratic Utopia', re.compile(r'Democratic Utopia', re.I)),
+              ('Song', re.compile(r'\bSong\b')),
+              ('Forge', re.compile(r'\bForge\b')),
+              ('Thy Will in All Things', re.compile(r'Thy Will in All Things', re.I)),
+              ('The Sacred Book of Seccus', re.compile(r'The Sacred Book of Seccus', re.I)),
+              ('The Path of Honesty', re.compile(r'The Path of Honesty', re.I)),
+          ]
+
+          for f in files:
+              s = f.read_text(encoding='utf-8')
+              m = re.search(r'<html[^>]*\blang=["\']([^"\']+)["\']', s, re.I)
+              if not m or m.group(1) != 'fi-FI':
+                  lang_bad.append((str(f), m.group(1) if m else 'MISSING'))
+
+              p = P(); p.feed(s)
+              visible = ' '.join(p.text)
+              for label, rx in patterns:
+                  if rx.search(visible):
+                      title_hits.append((str(f), label))
+
+              for href, txt in p.anchors:
+                  if href and (href.startswith('/en/') or href.startswith('https://www.ashraellen.com/en/')):
+                      en_links.append((str(f), href, txt))
+
+              has_seal = 'class="seal"' in s or 'class="presence"' in s or "class='seal'" in s or "class='presence'" in s
+              if has_seal:
+                  seal_pages += 1
+                  if '— mark of presence' not in s:
+                      seal_bad.append(str(f))
+
+          print('\n=== LANG_NOT_FI_FI ===')
+          for x in lang_bad: print(*x, sep=' | ')
+          print(f'COUNT={len(lang_bad)}')
+
+          print('\n=== OLD_ENGLISH_BOOK_TITLES_IN_VISIBLE_TEXT ===')
+          for x in title_hits: print(*x, sep=' | ')
+          print(f'COUNT={len(title_hits)}')
+
+          print('\n=== BODY_LINKS_TO_EN ===')
+          for x in en_links: print(*x, sep=' | ')
+          print(f'COUNT={len(en_links)}')
+
+          print('\n=== SEAL_CHECK ===')
+          print(f'PAGES_WITH_SEAL_OR_PRESENCE={seal_pages}')
+          for x in seal_bad: print('BAD_SEAL |', x)
+          print(f'BAD_COUNT={len(seal_bad)}')
+          PY
