@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T18:38:34.798Z
+Generated: 2026-08-12T18:39:41.704Z
 Pages: 842
 
 ## Index
@@ -230,7 +230,7 @@ Pages: 842
 | es/books/error-404-god-not-found/index.html | es | books | Ashraellen — Error 404: Dios no encontrado | _missing_ | error, 404, dios, ciclo, encontrado, ashraellen, books, búsqueda, cancillería, celestial, del, serie, sobre, contra, filosófico-satírico, forma, found, frase |
 | es/books/error-404-god-not-found/why-me/index.html | es | books | Ashraellen — ¿Por qué yo? | _missing_ | del, por, qué, libro, ashraellen, books, dios, error, sobre, una, 404, alma, burocracia, cancillería, capas, celestial, ciclo, como |
 | es/books/index.html | es | books | Ashraellen — Libros | Ashraellen, libros, Demotopia, Utopía Democrática, MONOLITH, RADIANCE, ERROR 404, SECCUS, Ya estás en la red, The Book of Whinesis, samizdat 2.0, ediciones de autor | libros, ashraellen, autor, directas, ediciones, books, libro, 2.0, 404, abrir, book, ciclo, ciclos, del, demotopia, error, estás, found |
-| es/books/monolith/beton/index.html | es | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ashraellen, books, del, estabilidad, libro, memoria, monolith, para, sobre, una, anton, artístico, como, con, dentro, destripes, distopía |
+| es/books/monolith/beton/index.html | es | books | Ashraellen — HORMIGÓN | Ashraellen, MONOLITO, HORMIGÓN, distopía, literatura, investigación artística | hormigón, ashraellen, books, del, estabilidad, libro, memoria, para, sobre, una, anton, artístico, beton, como, con, dentro, destripes, distopía |
 | es/books/monolith/index.html | es | books | Ashraellen — MONOLITO | Ashraellen, MONOLITO, HORMIGÓN, LODO, GAS, distopía, literatura, investigación artística | monolito, desintegración, ashraellen, books, control, gas, hormigón, lodo, memoria, que, una, artístico, confundirse, debe, del, distópica, este, filosófica |
 | es/books/monolith/sludge/index.html | es | books | Ashraellen — LODO | Ashraellen, MONOLITO, LODO, distopía, literatura, investigación artística | lodo, ashraellen, books, del, para, sobre, una, adam, agotada, artístico, autor, como, complicidad, con, destripes, distopía, expediente, filosófica |
 | es/books/radiance/index.html | es | books | Ashraellen — Resplandor \| Cuentos del norte sobre la historia real del mundo. | Ashraellen, Resplandor, Sampo, Canto, Libros, literary-philosophical, artistic research | resplandor, del, mundo, para, sobre, ashraellen, books, ciclo, instrucciones, investigación, que, antiguas, artística, artístico, como, cómo, con, confundir |
@@ -4647,18 +4647,18 @@ Excerpt:
 
 - lang: es
 - section: books
-- title: Ashraellen — BETON
-- description: BETON es el volumen I de MONOLITH: una distopía filosófica sobre la estabilidad endurecida, la memoria editada y la primera grieta dentro del Sistema.
+- title: Ashraellen — HORMIGÓN
+- description: HORMIGÓN es el volumen I de MONOLITO: una distopía filosófica sobre la estabilidad endurecida, la memoria editada y la primera grieta dentro del Sistema.
 - canonical: https://www.ashraellen.com/es/books/monolith/beton/
-- H1: BETON
+- H1: HORMIGÓN
 - H2: Expediente | Fragmento seleccionado | Sobre el libro | Sin destripes | Marco artístico y de investigación | Temas / nodos de sentido | Para quién es este libro | Lugar en la trilogía
 - H3: Estabilidad | Memoria | Ruido | Corrección | Departamento de Sentidos | La grieta
-- suggested keyword seed: beton, ashraellen, books, del, estabilidad, libro, memoria, monolith, para, sobre, una, anton, artístico, como, con, dentro, destripes, distopía
-- candidates: que, una, del, los, con, para, beton, estabilidad, por, anton, como, memoria, las, mark, grieta, monolith, sistema, primera, departamento, interior, ruido, sobre, volumen, dentro
+- suggested keyword seed: hormigón, ashraellen, books, del, estabilidad, libro, memoria, para, sobre, una, anton, artístico, beton, como, con, dentro, destripes, distopía
+- candidates: que, una, del, hormigón, los, con, para, estabilidad, por, anton, como, memoria, las, mark, grieta, monolito, sistema, primera, departamento, interior, ruido, sobre, volumen, dentro
 
 Excerpt:
 
-> BETON BETON es una distopía filosófica sobre un mundo en el que la estabilidad se ha convertido en prisión, la memoria es tratada como amenaza y la primera grieta aparece dentro de un sistema que todavía se cree eterno. Volumen I de la trilogía MONOLITH. Expediente Volumen I El hormigón no empieza con un muro. Empieza con la costumbre de llamar estabilidad a una prisión. EXPEDIENTE N.º 2026-001B. Índice: 6666548A. ESTADO: Alto secreto. Leer la edición rusa en Google Play Books Leer la edición inglesa en Amazon Volver a MONOLITH Fragmento seleccionado Capítulo 9 / § 9.1 Capítulo 9. Protocolo «Orgullo» § 9.1. El mejor pegamento para la sociedad El fragmento muestra uno de los mecanismos de BETON: cómo el dolor se convierte en consigna, la culpa en pegamento social y la pérdida humana en una imagen administrable de estabilidad. Abrir el fragmento completo Capítulo 9. Protocolo «Orgullo» § 9
+> HORMIGÓN HORMIGÓN es una distopía filosófica sobre un mundo en el que la estabilidad se ha convertido en prisión, la memoria es tratada como amenaza y la primera grieta aparece dentro de un sistema que todavía se cree eterno. Volumen I de la trilogía MONOLITO. Expediente Volumen I El hormigón no empieza con un muro. Empieza con la costumbre de llamar estabilidad a una prisión. EXPEDIENTE N.º 2026-001B. Índice: 6666548A. ESTADO: Alto secreto. Leer la edición inglesa en Google Play Books Leer la edición inglesa en Amazon Volver a MONOLITO Fragmento seleccionado Capítulo 9 / § 9.1 Capítulo 9. Protocolo «Orgullo» § 9.1. El mejor pegamento para la sociedad El fragmento muestra uno de los mecanismos de HORMIGÓN: cómo el dolor se convierte en consigna, la culpa en pegamento social y la pérdida humana en una imagen administrable de estabilidad. Abrir el fragmento completo Capítulo 9. Protocolo «
 
 ### es/books/monolith/index.html
 

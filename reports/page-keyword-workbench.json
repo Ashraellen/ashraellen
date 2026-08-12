@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T18:38:34.782Z",
+  "generated": "2026-08-12T18:39:41.688Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -16585,12 +16585,12 @@
       "page": "es/books/monolith/beton/index.html",
       "lang": "es",
       "section": "books",
-      "title": "Ashraellen — BETON",
-      "description": "BETON es el volumen I de MONOLITH: una distopía filosófica sobre la estabilidad endurecida, la memoria editada y la primera grieta dentro del Sistema.",
-      "existingKeywords": "Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research",
+      "title": "Ashraellen — HORMIGÓN",
+      "description": "HORMIGÓN es el volumen I de MONOLITO: una distopía filosófica sobre la estabilidad endurecida, la memoria editada y la primera grieta dentro del Sistema.",
+      "existingKeywords": "Ashraellen, MONOLITO, HORMIGÓN, distopía, literatura, investigación artística",
       "canonical": "https://www.ashraellen.com/es/books/monolith/beton/",
       "h1": [
-        "BETON"
+        "HORMIGÓN"
       ],
       "h2": [
         "Expediente",
@@ -16616,15 +16616,15 @@
         "monolith",
         "beton"
       ],
-      "excerpt": "BETON BETON es una distopía filosófica sobre un mundo en el que la estabilidad se ha convertido en prisión, la memoria es tratada como amenaza y la primera grieta aparece dentro de un sistema que todavía se cree eterno. Volumen I de la trilogía MONOLITH. Expediente Volumen I El hormigón no empieza con un muro. Empieza con la costumbre de llamar estabilidad a una prisión. EXPEDIENTE N.º 2026-001B. Índice: 6666548A. ESTADO: Alto secreto. Leer la edición rusa en Google Play Books Leer la edición inglesa en Amazon Volver a MONOLITH Fragmento seleccionado Capítulo 9 / § 9.1 Capítulo 9. Protocolo «Orgullo» § 9.1. El mejor pegamento para la sociedad El fragmento muestra uno de los mecanismos de BETON: cómo el dolor se convierte en consigna, la culpa en pegamento social y la pérdida humana en una imagen administrable de estabilidad. Abrir el fragmento completo Capítulo 9. Protocolo «Orgullo» § 9",
+      "excerpt": "HORMIGÓN HORMIGÓN es una distopía filosófica sobre un mundo en el que la estabilidad se ha convertido en prisión, la memoria es tratada como amenaza y la primera grieta aparece dentro de un sistema que todavía se cree eterno. Volumen I de la trilogía MONOLITO. Expediente Volumen I El hormigón no empieza con un muro. Empieza con la costumbre de llamar estabilidad a una prisión. EXPEDIENTE N.º 2026-001B. Índice: 6666548A. ESTADO: Alto secreto. Leer la edición inglesa en Google Play Books Leer la edición inglesa en Amazon Volver a MONOLITO Fragmento seleccionado Capítulo 9 / § 9.1 Capítulo 9. Protocolo «Orgullo» § 9.1. El mejor pegamento para la sociedad El fragmento muestra uno de los mecanismos de HORMIGÓN: cómo el dolor se convierte en consigna, la culpa en pegamento social y la pérdida humana en una imagen administrable de estabilidad. Abrir el fragmento completo Capítulo 9. Protocolo «",
       "candidates": [
         "que",
         "una",
         "del",
+        "hormigón",
         "los",
         "con",
         "para",
-        "beton",
         "estabilidad",
         "por",
         "anton",
@@ -16633,7 +16633,7 @@
         "las",
         "mark",
         "grieta",
-        "monolith",
+        "monolito",
         "sistema",
         "primera",
         "departamento",
@@ -16644,19 +16644,19 @@
         "dentro"
       ],
       "suggestedKeywordSeed": [
-        "beton",
+        "hormigón",
         "ashraellen",
         "books",
         "del",
         "estabilidad",
         "libro",
         "memoria",
-        "monolith",
         "para",
         "sobre",
         "una",
         "anton",
         "artístico",
+        "beton",
         "como",
         "con",
         "dentro",
