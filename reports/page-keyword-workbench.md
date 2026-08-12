@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T13:07:29.169Z
+Generated: 2026-08-12T13:08:19.538Z
 Pages: 842
 
 ## Index
@@ -351,7 +351,7 @@ Pages: 842
 | fi/public/thoughts/arcs/0020-people-and-mass.html | fi | public | Ashraellen — Kansa ja massa | Ashraellen, tukiajatus, kansa, massa, sisäinen havainto | kansa, massa, ajatus, alkaa, ashraellen, ihminen, kasvoista, lakkaa, public, 0020, arcs, hänen, kansan, katsomasta, kielestä, koko, kun, mass |
 | fi/public/thoughts/arcs/0021-mating-games.html | fi | public | Ashraellen — Parittelupelit | Ashraellen, tukiajatus, suhteet, roolit, käsikirjoitus | ajatus, alkavat, ashraellen, jonka, koko, parittelupelit, public, 0021, arcs, ennen, games, hän, ihminen, ihmistä, joka, joku, jotkut, käsikirjoituksesta |
 | fi/public/thoughts/arcs/0022-spirituality-is-not-forced.html | fi | public | Ashraellen — Hengellisyyttä ei pakoteta | Ashraellen, tukiajatus, hengellisyys, yhteys, pelko | hengellisyyttä, pakoteta, ajatus, ashraellen, hengellisyys, pelosta, public, todellinen, 0022, arcs, että, forced, halusta, koko, miksi, pakosta, pelko, sielu |
-| fi/public/thoughts/arcs/0023-price-of-transition.html | fi | public | Ashraellen — Siirtymän hinta | _missing_ | hinta, ajatus, ashraellen, jokainen, kriisillä, maksetaan, public, siirtymän, vaiheeseen, 0023, arcs, hän, jotka, kaikki, koko, kriisi, kuin, miksi |
+| fi/public/thoughts/arcs/0023-price-of-transition.html | fi | public | Ashraellen — Siirtymän hinta | Ashraellen, tukiajatus, kriisi, siirtymä, muutos | hinta, siirtymän, ajatus, ashraellen, enää, kriisi, muodosta, public, 0023, arcs, hän, jotka, kaikki, kanna, koko, kuin, kun, luopumaan |
 | fi/public/thoughts/arcs/0024-true-enemy-not-ignorance.html | fi | public | Ashraellen — Todellinen vihollinen | _missing_ | todellinen, vihollinen, ashraellen, hän, ihmisen, ole, public, siitä, tietää, tietämättömyys, varmuus, 0024, ajatus, arcs, enemy, että, ignorance, joka |
 | fi/public/thoughts/index-0001.html | fi | public | Ashraellen — Tukiajatusten ensimmäinen kaari | _missing_ | ensimmäinen, kaari, herääminen, iloisuus, pelko, tukiajatusten, voimat, alkaa, ashraellen, enää, kun, public, rajallisuus, ajatus, ashraellenin, avaa, diagnoosina, elämän |
 | fi/public/thoughts/index-0002.html | fi | public | Ashraellen — Tukiajatusten toinen kaari | _missing_ | kaari, toinen, tukiajatusten, kuppi, likainen, armo, ashraellen, havainnon, herääminen, public, ajatus, älä, ashraellenin, avaa, elossa, havainnointi, hengellisen, index |
@@ -6705,13 +6705,13 @@ Excerpt:
 - lang: fi
 - section: public
 - title: Ashraellen — Siirtymän hinta
-- description: Tukiajatus 0023: jokainen siirtymä uuteen vaiheeseen maksetaan kriisillä.
+- description: Tukiajatus 0023: kriisi voi olla siirtymän hinta, kun vanha rooli ei enää kanna ja uusi vaihe vaatii luopumaan tutusta muodosta.
 - canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0023-price-of-transition.html
 - H1: Siirtymän hinta
 - H2: Ajatus | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
 - H3: _missing_
-- suggested keyword seed: hinta, ajatus, ashraellen, jokainen, kriisillä, maksetaan, public, siirtymän, vaiheeseen, 0023, arcs, hän, jotka, kaikki, koko, kriisi, kuin, miksi
-- candidates: kriisi, kuin, ajatus, maksetaan, tai, vaiheeseen, hän, hinta, jokainen, jotka, kaikki, kriisillä, mutta, ole, olisi, sama, siirtymä, siirtymän, uuteen, 0023, aina, edessä, enää, ikuisia
+- suggested keyword seed: hinta, siirtymän, ajatus, ashraellen, enää, kriisi, muodosta, public, 0023, arcs, hän, jotka, kaikki, kanna, koko, kuin, kun, luopumaan
+- candidates: kriisi, kuin, ajatus, hinta, siirtymän, tai, enää, hän, jotka, kaikki, maksetaan, muodosta, mutta, ole, olisi, rooli, sama, vaiheeseen, 0023, aina, edessä, ikuisia, itsestä, johon
 
 Excerpt:
 

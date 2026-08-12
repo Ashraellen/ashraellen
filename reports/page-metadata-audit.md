@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T13:07:28.468Z
+Generated: 2026-08-12T13:08:18.844Z
 
 Pages checked: 841
 Pages with issues: 320
-Total issues: 1938
+Total issues: 1932
 Pages with review notes: 616
 Total review notes: 2164
 
@@ -12,22 +12,22 @@ Total review notes: 2164
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 247 |
-| MISSING_TWITTER_IMAGE | 245 |
-| MISSING_TWITTER_CARD | 215 |
-| MISSING_OG_DESCRIPTION | 214 |
-| MISSING_JSON_LD | 211 |
-| MISSING_OG_IMAGE | 205 |
-| MISSING_OG_TITLE | 198 |
+| MISSING_KEYWORDS | 246 |
+| MISSING_TWITTER_IMAGE | 244 |
+| MISSING_TWITTER_CARD | 214 |
+| MISSING_OG_DESCRIPTION | 213 |
+| MISSING_JSON_LD | 210 |
+| MISSING_OG_IMAGE | 204 |
+| MISSING_OG_TITLE | 197 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
 | DUPLICATE_TITLE | 44 |
 | DUPLICATE_OG_TITLE | 42 |
 | DUPLICATE_KEYWORDS | 36 |
-| DESCRIPTION_TOO_SHORT | 28 |
-| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 11 |
-| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 11 |
+| DESCRIPTION_TOO_SHORT | 27 |
+| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 12 |
+| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 12 |
 
 
 ## Review note summary
@@ -1709,19 +1709,13 @@ Total review notes: 2164
 ### fi/public/thoughts/arcs/0023-price-of-transition.html
 
 - title: Ashraellen — Siirtymän hinta
-- description length: 73
+- description length: 128
 - canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0023-price-of-transition.html
-- og:image: _missing_
-- twitter:image: _missing_
+- og:image: https://www.ashraellen.com/assets/thoughts/0023-price-of-transition.jpg
+- twitter:image: https://www.ashraellen.com/assets/thoughts/0023-price-of-transition.jpg
 
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_TITLE
-- MISSING_OG_DESCRIPTION
-- MISSING_OG_IMAGE
-- MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
-- DESCRIPTION_TOO_SHORT: 73
+- OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0023-price-of-transition.jpg
+- TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0023-price-of-transition.jpg
 
 ### fi/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
 
