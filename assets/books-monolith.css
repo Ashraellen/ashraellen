@@ -1,47 +1,121 @@
 /* Ashraellen — MONOLITH series landing page type
-   Shared across all language versions.
+   One shared stylesheet for every language landing page at /xx/books/monolith/.
+   No dependency on books.css and no page-local presentation rules.
+
    Typography baseline approved 2026-08-13:
-   body 14px/1.45; lead 15–16px/1.45; literary accent 18px/1.4–1.45;
-   major strike 20px; service text 12px.
+   readable prose 14px/1.45; lead 15–16px/1.45;
+   literary accent 18px/1.4–1.45; major strike 20px; service text 12px.
 */
 
-/* Scope strictly to canonical MONOLITH landing pages while legacy inline styles are being removed. */
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .page::before{
-  background-image:url("backgrounds/monolith-bg.webp");
-  filter:brightness(.48) contrast(1.08) saturate(.72) blur(1.5px);
+:root{
+  --bg:#0b0b0d;
+  --fg:#f2f2f4;
+  --muted:#a9a9b2;
+  --warm:rgba(210,150,80,.07);
 }
 
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .hero{padding:18px 0 8px}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{
+  margin:0;
+  font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Arial,"Noto Sans","Liberation Sans",sans-serif;
+  background:var(--bg);
+  color:var(--fg);
+}
+a{color:var(--fg);text-decoration:none}
+a:hover{text-decoration:underline}
 
-/* Service / navigation-like text */
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .kicker,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .monolith-kicker,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .note,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .protocol,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .state-note,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .monolith-state-card .state-note{
+.wrap{min-height:100vh}
+.page{
+  position:relative;
+  min-height:100vh;
+  overflow:hidden;
+  display:flex;
+  flex-direction:column;
+}
+.page::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:url("backgrounds/monolith-bg.webp") center/cover no-repeat;
+  filter:brightness(.48) contrast(1.08) saturate(.72) blur(1.5px);
+  transform:scale(1.02);
+  z-index:0;
+  will-change:transform;
+  animation:monolithDrift 80s ease-in-out infinite alternate;
+}
+.page::after{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:
+    linear-gradient(90deg,rgba(11,11,13,.92) 0%,rgba(11,11,13,.74) 30%,rgba(11,11,13,.46) 58%,rgba(11,11,13,.18) 82%,rgba(11,11,13,.06) 100%),
+    radial-gradient(70% 80% at 62% 45%,var(--warm) 0%,rgba(210,150,80,0) 70%);
+  z-index:1;
+}
+@keyframes monolithDrift{
+  0%{transform:scale(1.02) translate3d(0,0,0)}
+  100%{transform:scale(1.042) translate3d(-.4%,-.25%,0)}
+}
+@media(prefers-reduced-motion:reduce){.page::before{animation:none}}
+
+.site-header{
+  position:relative;
+  z-index:2;
+  padding:22px 44px 0;
+  text-align:right;
+}
+.site-header .brand{
+  margin:0 0 6px;
+  letter-spacing:.22em;
+  text-transform:uppercase;
+  font-size:14px;
+  font-weight:600;
+  opacity:.92;
+}
+.site-header .menu{font-size:13px;color:var(--muted)}
+.site-header .menu a{color:var(--muted);margin:0 10px}
+.site-header .menu:hover{color:var(--muted)}
+.site-header .menu a:hover{color:var(--fg);text-decoration:none}
+
+.main{
+  position:relative;
+  z-index:2;
+  flex:1;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+.container{
+  width:min(100%,980px);
+  max-width:980px;
+  margin:0 auto;
+  padding:28px 44px 56px;
+  text-shadow:0 2px 8px rgba(0,0,0,.84),0 0 22px rgba(0,0,0,.46);
+}
+.hero{padding:18px 0 8px}
+.h1{
+  margin:0 0 10px;
+  font-size:28px;
+  font-weight:800;
+  letter-spacing:.02em;
+}
+.lead{
+  margin:0 0 16px;
+  max-width:78ch;
+  color:var(--muted);
+  font-size:15px;
+  line-height:1.45;
+}
+
+.kicker,.monolith-kicker,.note,.protocol,.state-note,.monolith-state-card .state-note{
   color:var(--muted);
   font-size:12px;
   line-height:1.35;
 }
+.kicker,.monolith-kicker{letter-spacing:.08em;text-transform:uppercase}
 
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .kicker,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .monolith-kicker{
-  letter-spacing:.08em;
-  text-transform:uppercase;
-}
-
-/* Lead / introductory prose */
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .lead{
-  font-size:15px;
-  line-height:1.45;
-  max-width:78ch;
-  margin-bottom:16px;
-}
-
-/* Literary signal near the title */
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .signal,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .monolith-signal{
+.signal,.monolith-signal{
   margin:0 0 14px;
   max-width:76ch;
   font-family:Georgia,"Times New Roman",serif;
@@ -49,119 +123,156 @@ html:has(link[rel="canonical"][href$="/books/monolith/"]) .monolith-signal{
   line-height:1.4;
   color:rgba(242,242,244,.94);
 }
-
-/* Main readable prose */
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .copy,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .monolith-copy,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .series-desc{
+.copy,.monolith-copy,.series-desc{
+  max-width:88ch;
+  color:var(--muted);
   font-size:14px;
   line-height:1.45;
-  color:var(--muted);
-  max-width:88ch;
 }
-
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .copy p,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .monolith-copy p,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .series-desc p{
-  margin:0 0 13px;
-}
-
-/* Introductory emphasis: important, but not a headline. */
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .quote,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .quote-line{
+.copy p,.monolith-copy p,.series-desc p{margin:0 0 13px}
+.quote,.quote-line{
   font-family:Georgia,"Times New Roman",serif;
   font-size:16px;
   line-height:1.45;
   color:var(--fg);
 }
-
-/* The final phrase of the series is the one deliberate large semantic strike. */
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .container > .list:last-of-type .quote,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .container > .list:last-of-type .quote-line{
+.container>.list:last-of-type .quote,
+.container>.list:last-of-type .quote-line{
   font-size:20px;
   line-height:1.4;
 }
 
-/* Cards and state descriptions: readable prose starts at 14px. */
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .card p:not(.note),
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .series-card p,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .box p,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .monolith-box p,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .state-desc,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .monolith-state-card .state-desc,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .state li,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .monolith-state-card li{
-  font-size:14px;
-  line-height:1.45;
-  color:var(--muted);
+.list{
+  margin-top:14px;
+  border:1px solid rgba(242,242,244,.07);
+  border-radius:18px;
+  background:rgba(0,0,0,.18);
+  backdrop-filter:blur(4px);
+  overflow:hidden;
+  box-shadow:0 12px 34px rgba(0,0,0,.18);
 }
+.list-header{
+  padding:14px 16px;
+  border-bottom:1px solid rgba(242,242,244,.055);
+  display:flex;
+  align-items:baseline;
+  justify-content:space-between;
+  gap:12px;
+}
+.list-header h2{margin:0;font-size:16px;font-weight:700;line-height:1.3}
+.list-header .note{margin:0}
 
-/* Shared MONOLITH component geometry */
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .grid,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .series-grid,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .monolith-state-grid{
+.grid,.series-grid,.monolith-state-grid{
   display:grid;
   grid-template-columns:repeat(3,minmax(0,1fr));
   gap:16px;
 }
-
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .two,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .monolith-two-col{
+.two,.monolith-two-col{
   display:grid;
   grid-template-columns:repeat(2,minmax(0,1fr));
   gap:16px;
 }
-
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .card,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .series-card,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .box,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .monolith-box,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .monolith-state-card{
+.card,.series-card,.box,.monolith-box,.monolith-state-card{
   border:1px solid rgba(242,242,244,.13);
   border-radius:16px;
   padding:16px;
   background:rgba(0,0,0,.22);
 }
-
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .series-card{
-  display:flex;
-  flex-direction:column;
-}
-
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .series-card h3,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .card h3{
+.series-card{display:flex;flex-direction:column}
+.series-card h3,.card h3{
   margin:0 0 8px;
   font-size:17px;
   line-height:1.3;
 }
-
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .cover,
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .series-cover{
+.card p:not(.note),.series-card p,.box p,.monolith-box p,
+.state-desc,.monolith-state-card .state-desc,.state li,.monolith-state-card li{
+  color:var(--muted);
+  font-size:14px;
+  line-height:1.45;
+}
+.cover,.series-cover{
   border-radius:13px;
   overflow:hidden;
   margin-bottom:12px;
   border:1px solid rgba(242,242,244,.14);
   background:rgba(255,255,255,.04);
 }
-
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .series-cover{aspect-ratio:2/3}
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .cover img{display:block;width:100%;height:auto}
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .series-cover img{display:block;width:100%;height:100%;object-fit:cover}
-
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .state ul{
+.series-cover{aspect-ratio:2/3}
+.cover img{display:block;width:100%;height:auto}
+.series-cover img{display:block;width:100%;height:100%;object-fit:cover}
+.placeholder{
+  aspect-ratio:2/3;
+  display:grid;
+  place-items:center;
+  font-size:30px;
+  font-weight:800;
+  letter-spacing:.12em;
+  background:rgba(255,255,255,.035);
+}
+.state ul,.monolith-state-card ul{
   padding-left:19px;
   color:var(--muted);
   line-height:1.45;
 }
+strong{color:var(--fg)}
 
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .series-card .cta-row{margin-top:auto}
-html:has(link[rel="canonical"][href$="/books/monolith/"]) .series-card .btn{font-size:13px;padding:10px 14px;font-weight:700}
+button.btn{font-family:inherit;background:none}
+.btn{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  padding:12px 18px;
+  border-radius:14px;
+  border:1px solid rgba(242,242,244,.18);
+  background:rgba(0,0,0,.22);
+  backdrop-filter:blur(3px);
+  color:var(--fg)!important;
+  font-size:14px;
+  font-weight:800;
+  text-decoration:none;
+  cursor:pointer;
+  user-select:none;
+  transition:transform 140ms ease,background 140ms ease,border-color 140ms ease,opacity 140ms ease;
+  opacity:.95;
+  appearance:none;
+  -webkit-appearance:none;
+  outline:none;
+}
+.btn:hover{
+  background:rgba(255,255,255,.08);
+  border-color:rgba(242,242,244,.34);
+  transform:translateY(-1px);
+  opacity:1;
+  text-decoration:none;
+  color:var(--fg)!important;
+}
+.btn:active{transform:translateY(0) scale(.99)}
+.btn:focus-visible{box-shadow:0 0 0 2px rgba(242,242,244,.18),0 0 0 6px rgba(242,242,244,.08)}
+.btn.secondary{
+  font-weight:700;
+  border-color:rgba(242,242,244,.14);
+  background:rgba(0,0,0,.16);
+  opacity:.95;
+}
+.cta-row{display:flex;gap:12px;flex-wrap:wrap;margin-top:14px}
+.card .cta-row,.series-card .cta-row{margin-top:12px}
+.series-card .cta-row{margin-top:auto;padding-top:12px}
+.series-card .btn{font-size:14px;padding:10px 14px;font-weight:700}
+
+.seal{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  margin-top:24px;
+  color:var(--muted);
+  font-size:12px;
+}
+.seal img{height:22px;width:auto;opacity:.75}
 
 @media(max-width:900px){
-  html:has(link[rel="canonical"][href$="/books/monolith/"]) .grid,
-  html:has(link[rel="canonical"][href$="/books/monolith/"]) .series-grid,
-  html:has(link[rel="canonical"][href$="/books/monolith/"]) .monolith-state-grid,
-  html:has(link[rel="canonical"][href$="/books/monolith/"]) .two,
-  html:has(link[rel="canonical"][href$="/books/monolith/"]) .monolith-two-col{grid-template-columns:1fr}
-  html:has(link[rel="canonical"][href$="/books/monolith/"]) .series-cover{max-width:320px}
+  .site-header{padding:16px 22px 0}
+  .main{align-items:flex-start;justify-content:center}
+  .container{width:100%;padding:22px 22px 44px}
+  .grid,.series-grid,.monolith-state-grid,.two,.monolith-two-col{grid-template-columns:1fr}
+  .series-cover{max-width:320px}
 }
