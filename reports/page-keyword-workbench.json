@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T19:18:36.830Z",
+  "generated": "2026-08-12T19:19:34.873Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -27017,15 +27017,15 @@
       "page": "fr/books/monolith/index.html",
       "lang": "fr",
       "section": "books",
-      "title": "Ashraellen — MONOLITH",
-      "description": "MONOLITH est une trilogie dystopique littéraire et philosophique sur le contrôle, la mémoire et l’effondrement des systèmes : BETON, SLUDGE et GAS.",
-      "existingKeywords": "Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research",
+      "title": "Ashraellen — MONOLITHE",
+      "description": "MONOLITHE est une trilogie dystopique littéraire et philosophique sur le contrôle, la mémoire et la désagrégation des systèmes : BÉTON, BOUE et GAZ.",
+      "existingKeywords": "Ashraellen, MONOLITHE, BÉTON, BOUE, GAZ, dystopie, littérature, recherche artistique",
       "canonical": "https://www.ashraellen.com/fr/books/monolith/",
       "h1": [
-        "MONOLITH"
+        "MONOLITHE"
       ],
       "h2": [
-        "Ce qu’est MONOLITH",
+        "Ce qu’est MONOLITHE",
         "Volumes",
         "Cadre artistique et de recherche",
         "Carte de la désagrégation",
@@ -27034,12 +27034,12 @@
         "La phrase de la série"
       ],
       "h3": [
-        "Volume I — BETON",
-        "Volume II — SLUDGE",
-        "Volume III — GAS",
-        "BETON",
-        "SLUDGE",
-        "GAS",
+        "Volume I — BÉTON",
+        "Volume II — BOUE",
+        "Volume III — GAZ",
+        "BÉTON",
+        "BOUE",
+        "GAZ",
         "Lecteurs",
         "Éditeurs / partenaires / traducteurs"
       ],
@@ -27048,23 +27048,23 @@
         "books",
         "monolith"
       ],
-      "excerpt": "PROTOCOLE DE DÉSAGRÉGATION DE LA MATIÈRE SOCIALE / BETON — SLUDGE — GAS MONOLITH MONOLITH est une trilogie dystopique littéraire et philosophique sur le contrôle, la mémoire et l’effondrement des systèmes. Ses trois volumes enregistrent le passage de la matière sociale par trois états : BETON, SLUDGE et GAS — de la stabilité durcie à la déformation visqueuse, puis à la décompression complète de la forme. Le système ne craint pas la révolte. Il craint la première fissure. Volumes de la trilogie Carte de la désagrégation Ce qu’il ne faut pas confondre Ce qu’est MONOLITH BETON / SLUDGE / GAS Voici une chronique de la désagrégation contrôlée : l’enregistrement continu de la transition de phase de la matière sociale, saisie dans trois états — BETON, SLUDGE et GAS. Ce qui importe ici n’est pas une prédiction de l’avenir, mais la matière du présent : un ordre que l’on a trop longtemps appelé sé",
+      "excerpt": "PROTOCOLE DE DÉSAGRÉGATION DE LA MATIÈRE SOCIALE / BÉTON — BOUE — GAZ MONOLITHE MONOLITHE est une trilogie dystopique littéraire et philosophique sur le contrôle, la mémoire et l’effondrement des systèmes. Ses trois volumes enregistrent le passage de la matière sociale par trois états : BÉTON, BOUE et GAZ — de la stabilité durcie à la déformation visqueuse, puis à la décompression complète de la forme. Le système ne craint pas la révolte. Il craint la première fissure. Volumes de la trilogie Carte de la désagrégation Ce qu’il ne faut pas confondre Ce qu’est MONOLITHE BÉTON / BOUE / GAZ Voici une chronique de la désagrégation contrôlée : l’enregistrement continu de la transition de phase de la matière sociale, saisie dans trois états — BÉTON, BOUE et GAZ. Ce qui importe ici n’est pas une prédiction de l’avenir, mais la matière du présent : un ordre que l’on a trop longtemps appelé sécurit",
       "candidates": [
         "pas",
         "une",
-        "monolith",
+        "monolithe",
         "est",
         "forme",
         "mémoire",
         "dans",
         "contrôle",
         "des",
-        "gas",
         "que",
-        "beton",
+        "béton",
+        "boue",
         "commence",
+        "gaz",
         "qui",
-        "sludge",
         "comme",
         "mais",
         "elle",
@@ -27076,14 +27076,15 @@
         "système"
       ],
       "suggestedKeywordSeed": [
-        "monolith",
+        "monolithe",
         "ashraellen",
-        "beton",
+        "béton",
         "books",
+        "boue",
         "contrôle",
         "des",
+        "désagrégation",
         "est",
-        "gas",
         "mémoire",
         "pas",
         "une",
@@ -27092,7 +27093,6 @@
         "carte",
         "confondre",
         "dans",
-        "désagrégation",
         "dystopique"
       ]
     },
