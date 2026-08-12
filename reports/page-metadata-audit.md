@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T16:09:20.122Z
+Generated: 2026-08-12T16:13:42.301Z
 
 Pages checked: 841
-Pages with issues: 293
-Total issues: 1711
+Pages with issues: 292
+Total issues: 1708
 Pages with review notes: 638
 Total review notes: 2249
 
@@ -12,11 +12,11 @@ Total review notes: 2249
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 200 |
+| MISSING_KEYWORDS | 199 |
 | MISSING_TWITTER_IMAGE | 199 |
 | MISSING_TWITTER_CARD | 182 |
-| MISSING_OG_DESCRIPTION | 179 |
-| MISSING_JSON_LD | 178 |
+| MISSING_OG_DESCRIPTION | 178 |
+| MISSING_JSON_LD | 177 |
 | MISSING_OG_IMAGE | 173 |
 | MISSING_OG_TITLE | 172 |
 | MISSING_DESCRIPTION | 120 |
@@ -964,18 +964,6 @@ Total review notes: 2249
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
 - DESCRIPTION_TOO_SHORT: 43
-
-### fi/books/seccus/index.html
-
-- title: Ashraellen — SECCUSIN PYHÄ KIRJA
-- description length: 153
-- canonical: https://www.ashraellen.com/fi/books/seccus/
-- og:image: https://www.ashraellen.com/assets/covers/seccus-cover-en.webp
-- twitter:image: https://www.ashraellen.com/assets/covers/seccus-cover-en.webp
-
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_DESCRIPTION
 
 ### fi/books/the-book-of-whinesis/index.html
 
