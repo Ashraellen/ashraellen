@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T14:08:36.640Z",
+  "generated": "2026-08-12T14:09:29.650Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -23495,14 +23495,14 @@
       "lang": "fi",
       "section": "public",
       "title": "Ashraellen — Ajatus, huomio, keho, menneisyys",
-      "description": "Ashraellenin ensimmäinen arkistoitu formulalinja: ajatus, huomio, keho ja menneisyys.",
-      "existingKeywords": "",
+      "description": "Ashraellenin ensimmäinen arkistoitu kaavalinja: ajatus, huomio, keho ja menneisyys.",
+      "existingKeywords": "Ashraellen, kaavat, ajatus, huomio, keho, menneisyys",
       "canonical": "https://www.ashraellen.com/fi/public/posts/formula/lines/line-0001.html",
       "h1": [
         "Ajatus, huomio, keho, menneisyys"
       ],
       "h2": [
-        "Linjan formulat"
+        "Linjan kaavat"
       ],
       "h3": [],
       "slugTerms": [
@@ -23513,13 +23513,13 @@
         "lines",
         "line"
       ],
-      "excerpt": "Ajatus, huomio, keho, menneisyys Ensimmäinen arkistoitu formulalinja. Linjan formulat Nykyinen linja Formula Ajatus tulee itsestään. Vapaus alkaa, kun lakkaat pukemasta jokaista ajatusta omaksi itseksesi. ajatus / huomio / keho / menneisyys Formula Itsensä hallinta ei ole ajatusten hallintaa. Se on huomion hallintaa. ajatus / huomio / keho / menneisyys Formula Emme valitse ensimmäistä ajatusta. Valitsemme, ruokimmeko sitä edelleen. ajatus / huomio / keho / menneisyys Formula Ajatus, jota vastaan taistelet, vahvistuu itse taistelusta. ajatus / huomio / keho / menneisyys Formula Tietoisuus ei ala hiljaisesta mielestä vaan havainnosta: tämä ajatus ilmestyi. ajatus / huomio / keho / menneisyys Formula Tietoisuus ilman kehoa on vain ajatus tarkkailemassa itseään. ajatus / huomio / keho / menneisyys Formula Keho puhuu ennen kuin mieli ehtii keksiä syyn. ajatus / huomio / keho / menneisyys Form",
+      "excerpt": "Ajatus, huomio, keho, menneisyys Ensimmäinen arkistoitu kaavalinja. Linjan kaavat Nykyinen linja Kaava Ajatus tulee itsestään. Vapaus alkaa, kun lakkaat pukemasta jokaista ajatusta omaksi itseksesi. ajatus / huomio / keho / menneisyys Kaava Itsensä hallinta ei ole ajatusten hallintaa. Se on huomion hallintaa. ajatus / huomio / keho / menneisyys Kaava Emme valitse ensimmäistä ajatusta. Valitsemme, ruokimmeko sitä edelleen. ajatus / huomio / keho / menneisyys Kaava Ajatus, jota vastaan taistelet, vahvistuu itse taistelusta. ajatus / huomio / keho / menneisyys Kaava Tietoisuus ei ala hiljaisesta mielestä vaan havainnosta: tämä ajatus ilmestyi. ajatus / huomio / keho / menneisyys Kaava Tietoisuus ilman kehoa on vain ajatus tarkkailemassa itseään. ajatus / huomio / keho / menneisyys Kaava Keho puhuu ennen kuin mieli ehtii keksiä syyn. ajatus / huomio / keho / menneisyys Kaava Keho on ensimmäi",
       "candidates": [
         "ajatus",
         "keho",
         "menneisyys",
         "huomio",
-        "formula",
+        "kaava",
         "ole",
         "ensimmäinen",
         "linja",
@@ -23527,9 +23527,9 @@
         "ajatusta",
         "arkistoitu",
         "edelleen",
-        "formulalinja",
         "hallintaa",
         "jota",
+        "kaavalinja",
         "kun",
         "nykyinen",
         "siitä",
@@ -23548,17 +23548,17 @@
         "arkistoitu",
         "ashraellen",
         "ensimmäinen",
-        "formula",
         "public",
         "ajatusta",
         "ashraellenin",
         "edelleen",
-        "formulalinja",
-        "formulat",
+        "formula",
+        "kaava",
+        "kaavalinja",
+        "kaavat",
         "line",
         "lines",
-        "linja",
-        "linjan"
+        "linja"
       ]
     },
     {
