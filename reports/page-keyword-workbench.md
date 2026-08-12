@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T11:14:22.021Z
-Pages: 777
+Generated: 2026-08-12T11:19:54.335Z
+Pages: 784
 
 ## Index
 
@@ -298,6 +298,13 @@ Pages: 777
 | fi/index.html | fi | index.html | Ashraellen — Kirjat, tutkimus ja julkiset tekstit | _missing_ | ashraellen, julkiset, kirjat, tekstit, itsenäinen, kirjallis-filosofinen, monikielinen, taiteellinen, tutkimus, tutkimuskäytäntö, havainnoinnin, index.html, joka, julkinen, sisäisen, tutkimuksen, videot, yhdistää |
 | fi/kone/index.html | fi | kone | Ashraellen — tiivistelmä Koneen Säätiölle | ashraellen, kone, tiivistelmä, koneen, säätiölle, suomenkielinen, ashraellen-hankkeesta, elämänmittainen, taiteellis-filosofinen, tutkimus, merkityksestä, kirjallisuudesta, videoista, monikielisestä, arkistosta, tutkimuksen, ydin, tekijä | ashraellen, koneen, kone, säätiölle, tiivistelmä, tutkimuksen, tutkimus, arkistosta, ashraellen-hankkeesta, asiakirjat, elämänmittainen, hankkeen, infrastruktuuri, julkinen, kirjallisuudesta, kuukauden, merkityksestä, miten |
 | fi/privacy.html | fi | privacy.html | Tietosuojakäytäntö — Ashraellen — Suomi | _missing_ | analytiikka, tietoja, tietosuojakäytäntö, ashraellen, evästeet, kerätä, palvelut, voidaan, ashraellen.com, ashraellen.comin, google, henkilötiedot, käsittelyn, kauan, käytetään, käyttää, käyttäjän, kolmannen |
+| fi/research/archive/index.html | fi | research | Ashraellen — Tutkimusarkisto | _missing_ | tutkimusarkisto, aiemmat, aktiivisessa, arkisto, ashraellen, ashraellenin, eivät, enää, jotka, ole, research, työssä, aikaista, aineistoille, aineistot, archive, jäljet, kerrokset |
+| fi/research/index.html | fi | research | Ashraellen — Tutkimus | _missing_ | tutkimus, ashraellen, miten, ihminen, research, siitä, tutkimuksen, avaa, avoin, digitaalinen, elämänmittainen, havainnon, havainto, jatkuva, lähestyä, menetelmä, menettää, merkitykseen |
+| fi/research/method/index.html | fi | research | Ashraellen — Havainnoinnin menetelmä | _missing_ | ashraellen, havainnoinnin, menetelmä, muoto, havainnon, koettelu, ole, research, taiteellinen, aineistoa, alkaa, ashraellenin, eikä, ensimmäisen, havainnointi, havainto, kautta, kirjaaminen |
+| fi/research/notes/index.html | fi | research | Ashraellen — Muistiinpanot / Marginaalit | _missing_ | ashraellen, marginaalit, muistiinpanot, aineistoa, epäilyjä, fragmentteja, joka, kieltäytyy, marginaaleja, muuttumasta, opiksi, research, jos, notes |
+| fi/research/position/index.html | fi | research | Ashraellen — Lähtökohta | _missing_ | lähtökohta, ashraellen, ashraellenin, havainnoinnin, ihmisen, itsenäinen, kenttänä, research, tutkimus, eivät, filosofia, itse, itsenäisenä, kokemus, position, sisäinen, taiteellinen, tutkimuksellinen |
+| fi/research/projects/index.html | fi | research | Ashraellen — Tutkimusprojektit | _missing_ | ashraellen, monoliitti, ashraellenin, havainnon, kenttä, projektit, research, avaa, book, church, eikä, ihminen, inner, instagram, julkinen, kartta, kautta, laboratorio |
+| fi/research/sources/index.html | fi | research | Ashraellen — Lähteet ja tutkimusperinne | _missing_ | lähteet, tutkimusperinne, ashraellen, fenomenologia, keho, kokemus, research, taiteellinen, tietoisuuden, ajatuksen, ashraelleniin, ashraellenin, edmund, elävänä, eleanor, ennen, ensimmäisenä, essee |
 | flow/index.html | root | flow | FLOW — Ashraellen | ashraellen, flow, playlist, youtube, music, doctype, html, title, window.location.replace, https, music.youtube.com, list, plliwih1l4vxtrzs4, wvti69pbdhddk4ny, iuwpb0ptwi1d1elk, script, root, 050505 | flow, ashraellen, playlist, music, youtube, open, opening |
 | focus-group/books/Error404/index.html | root | focus-group | Ошибка 404: Бог не найден — читательская панель | _missing_ | 404, бог, найден, ошибка, панель, читательская, ashraellen, books, ch.title, error404, escapehtml, focus, focus-group, group, важно, вычитки, где, главы |
 | fr/books/demotopia/index.html | fr | books | Demotopia — Utopie démocratique — roman d’Ashraellen | Ashraellen, Demotopia, Utopie démocratique, roman philosophique, science-fiction sociale, Varsovie, démocratie, dictature, données, liberté, responsabilité | demotopia, roman, books, d’ashraellen, est, les, qui, artistique, ashraellen, atmosphère, avenir, cadre, choisi, circuits, d’un, démocratie, démocratique, des |
@@ -5733,6 +5740,125 @@ Excerpt:
 Excerpt:
 
 > Oikeudellinen läpinäkyvyys Tietosuojakäytäntö Tällä sivulla kerrotaan, miten Ashraellen.com voi kerätä, käyttää ja suojata henkilötietoja, kun kävijä käyttää verkkosivustoa. Päivitetty viimeksi: 25. toukokuuta 2026 1. Kuka vastaa tästä verkkosivustosta Ashraellen.com -sivustoa ylläpidetään osana Nikolai Kostysheviin liittyvää itsenäistä luovaa ja tutkimuksellista Ashraellen -projektia. Tietosuojaa, pyyntöjä tai yhteistyötä koskevissa asioissa voit ottaa yhteyttä osoitteeseen ashraellen.live@gmail.com . 2. Mitä tietoja voidaan kerätä Sivusto voi käsitellä rajallisesti teknisiä tietoja ja yhteystietoja: selaimen ja laitteen tietoja, likimääräistä verkkosijaintia, vierailtuja sivuja ja käyntiaikaa, IP-osoitteen anonymisointia käyttävän Google Analyticsin tietoja, vapaaehtoisesti lähettämiäsi sähköpostitietoja sekä selaimen tai service workerin tekniseen toimintaan tarvitsemia tietoja. Sivus
+
+### fi/research/archive/index.html
+
+- lang: fi
+- section: research
+- title: Ashraellen — Tutkimusarkisto
+- description: Ashraellenin tutkimusarkisto: päättyneet versiot, aiemmat kerrokset, reitin jäljet ja aineistot, jotka eivät enää ole aktiivisessa työssä.
+- canonical: https://www.ashraellen.com/fi/research/archive/
+- H1: Arkisto
+- H2: Tutkimus on yhä liikkeessä
+- H3: _missing_
+- suggested keyword seed: tutkimusarkisto, aiemmat, aktiivisessa, arkisto, ashraellen, ashraellenin, eivät, enää, jotka, ole, research, työssä, aikaista, aineistoille, aineistot, archive, jäljet, kerrokset
+- candidates: ole, aktiivisessa, arkisto, ashraellenin, eivät, enää, jotka, tutkimusarkisto, työssä, aiemmat, aikaista, aineistoille, aineistot, antaa, arkistoon, arvoinen, ashraellen, edelleen, eikä, elävässä, ensin, epäonnistuneiden, hautausmaa, havainnot
+
+Excerpt:
+
+> Arkisto Arkisto ei ole vanhan materiaalin kaatopaikka eikä epäonnistuneiden yritysten hautausmaa. Se on valmiiden kerrosten paikka: versioille, jäljille, aineistoille ja muotoiluille, jotka eivät enää ole aktiivisessa työssä mutta säilyvät merkityksellisinä osina kuljettua reittiä. toistaiseksi tyhjä Tutkimus on yhä liikkeessä Tällä hetkellä Ashraellenin projektit, tekstit ja havainnot ovat edelleen elävässä prosessissa. Ne muuttuvat, tarkentuvat, siirtyvät julkaisuista videoihin, videoista kirjoihin ja kirjoista takaisin uusiin kaavoihin ja kysymyksiin. Siksi on liian aikaista siirtää niitä arkistoon. Sitä, mikä vielä hengittää, ei pidä sulkea lasikaappiin. Antaa sen ensin puhua. Kun tutkimuksen kerros on päättynyt ja säilyttämisen arvoinen, se saa paikkansa täällä. — mark of presence
+
+### fi/research/index.html
+
+- lang: fi
+- section: research
+- title: Ashraellen — Tutkimus
+- description: Ashraellen on tapa nähdä ja elämänmittainen taiteellis-filosofinen merkityksen tutkimus: havainto siitä, miten ihminen menettää yhteyden todellisuuteen, merkitykseen ja sisäiseen vapauteen.
+- canonical: https://www.ashraellen.com/fi/research/
+- H1: Tutkimus
+- H2: Mitä tutkitaan | Miten tutkimus tehdään | Sirpaleinen muoto, jatkuva tutkimus | Menetelmä | Tutkimuksen muodot | Miten tätä työtä voi lähestyä | Taiteellinen tutkimus | Avoin tieto
+- H3: _missing_
+- suggested keyword seed: tutkimus, ashraellen, miten, ihminen, research, siitä, tutkimuksen, avaa, avoin, digitaalinen, elämänmittainen, havainnon, havainto, jatkuva, lähestyä, menetelmä, menettää, merkitykseen
+- candidates: vaan, ole, miten, tai, tutkimus, ashraellen, avaa, digitaalinen, ihminen, havainnon, siitä, tutkimuksen, voi, ääni, nähdä, sen, video, ajatus, arkisto, eri, menetelmä, merkityksen, missä, muoto
+
+Excerpt:
+
+> Tutkimus Ashraellen ei ole vain nimi, vaan tapa nähdä. Se on tietoisuuden tila, jossa maailma ei näyttäydy irrallisten tapahtumien, ajatusten ja reaktioiden kokoelmana vaan merkitysten, suhteiden, solmujen ja heijastusten verkkona. Yksi merkitys avaa toisen: henkilökohtainen liittyy yhteiskunnalliseen, arkinen symboliseen, henkinen kieleen, pelko uskoon, kipu maailmankuvaan — ja ohimenevä lause voi paljastaa kokonaisen kerroksen ihmisen itsepetosta. Ashraellen on elämänmittainen taiteellis-filosofinen merkityksen tutkimus. Se ei synny halusta tuottaa tekstejä, kirjoja, videoita tai mediaformaatteja, vaan tietystä havainnon tavasta: kyvystä nähdä merkityksiä merkitysten sisällä, rakenteita rakenteiden sisällä ja risteyskohtia siellä, missä pinnalla näyttää olevan vain ajatus, arkinen kohtaus tai henkilökohtainen reaktio. Tekijä ei ole tässä lopullisen järjestelmän rakentaja eikä totuuden 
+
+### fi/research/method/index.html
+
+- lang: fi
+- section: research
+- title: Ashraellen — Havainnoinnin menetelmä
+- description: Ashraellenin havainnoinnin menetelmä: merkityssolmujen kirjaaminen, taiteellinen muoto tutkimusvälineenä ja havainnon koettelu tunnistamisen kautta.
+- canonical: https://www.ashraellen.com/fi/research/method/
+- H1: Havainnoinnin menetelmä
+- H2: Merkityssolmu | Tutkimuskenttä | Miten havainto syntyy | Ensimmäisen persoonan havainnointi | Miksi taiteellinen muoto | Muodot välineinä | Koettelu | Mitä täällä ei ole
+- H3: I. Lähtökohta | II. Kohde | III. Miksi ei vain akateeminen teksti | IV. Muoto välineenä | V. Koettelu | VI. Mitä puuttuu | VII. Positio
+- suggested keyword seed: ashraellen, havainnoinnin, menetelmä, muoto, havainnon, koettelu, ole, research, taiteellinen, aineistoa, alkaa, ashraellenin, eikä, ensimmäisen, havainnointi, havainto, kautta, kirjaaminen
+- candidates: ole, mekanismi, eikä, havainnon, mekanismin, muoto, sen, alkaa, ashraellen, vaan, vain, aineistoa, ihminen, jossa, menetelmä, sitä, teksti, tunnistamisen, voi, akateeminen, ashraellenin, että, havainnointi, jolloin
+
+Excerpt:
+
+> Havainnoinnin menetelmä Ashraellenin menetelmä on havainnointi ja merkityssolmujen kirjaaminen. Se ei ala väitteestä, joka pitäisi todistaa, eikä järjestelmästä, joka pitäisi rakentaa. Se alkaa hetkestä, jolloin kokemuksen, lauseen, reaktion, kohtauksen, pelon, kivun tai sattuman sisällä alkaa hahmottua merkityssolmu. Merkityssolmu Sellaista solmua ei voi vain selittää nopeasti. Jos sen selittää liian aikaisin, se litistyy ajatukseksi ja menettää elävän rakenteensa. Menetelmän tehtävä ei ole kaapata merkitystä ja julistaa sitä totuudeksi, vaan pitää sitä näkyvissä riittävän kauan, jotta yhteydet muihin tasoihin voidaan nähdä. Ashraellen työskentelee merkitysten verkossa: yksi solmu johtaa toiseen; henkilökohtainen liittyy yhteiskunnalliseen, arkinen symboliseen, kielellinen henkiseen, pelko uskoon ja kipu maailmankuvaan. Tekijä ei ole lopullisen totuuden omistaja vaan risteysten havainno
+
+### fi/research/notes/index.html
+
+- lang: fi
+- section: research
+- title: Ashraellen — Muistiinpanot / Marginaalit
+- description: Marginaaleja, epäilyjä ja fragmentteja. Aineistoa, joka kieltäytyy muuttumasta opiksi.
+- canonical: https://www.ashraellen.com/fi/research/notes/
+- H1: Muistiinpanot / Marginaalit
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: ashraellen, marginaalit, muistiinpanot, aineistoa, epäilyjä, fragmentteja, joka, kieltäytyy, marginaaleja, muuttumasta, opiksi, research, jos, notes
+- candidates: aineistoa, ashraellen, epäilyjä, fragmentteja, joka, kieltäytyy, marginaaleja, marginaalit, muistiinpanot, muuttumasta, opiksi, jos, julkinen, juuri, keskeneräiseltä, kyse, siitä, tuntuu, tutkimus
+
+Excerpt:
+
+> Ashraellen Muistiinpanot / Marginaalit Marginaaleja, epäilyjä, fragmentteja. Aineistoa, joka kieltäytyy muuttumasta opiksi. Jos se tuntuu keskeneräiseltä — juuri siitä on kyse. ← Tutkimus Julkinen
+
+### fi/research/position/index.html
+
+- lang: fi
+- section: research
+- title: Ashraellen — Lähtökohta
+- description: Ashraellenin tutkimuksellinen lähtökohta: itsenäinen taiteellinen tutkimus ja ihmisen sisäinen kokemus havainnoinnin kenttänä.
+- canonical: https://www.ashraellen.com/fi/research/position/
+- H1: Lähtökohta
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: lähtökohta, ashraellen, ashraellenin, havainnoinnin, ihmisen, itsenäinen, kenttänä, research, tutkimus, eivät, filosofia, itse, itsenäisenä, kokemus, position, sisäinen, taiteellinen, tutkimuksellinen
+- candidates: lähtökohta, ashraellen, havainnoinnin, ihmisen, kenttänä, tutkimus, ashraellenin, eivät, filosofia, itse, itsenäinen, itsenäisenä, julkinen, käsittelen, kokemukset, kokemus, kokemusta, kuvauksen, malleja, ovat, sisäinen, sisäistä, taiteellinen, taiteellisena
+
+Excerpt:
+
+> Ashraellen Lähtökohta Työskentelen itsenäisenä taiteellisena tutkijana ja käsittelen ihmisen sisäistä kokemusta havainnoinnin kenttänä. Uskonto, filosofia ja transsendentit kokemukset ovat kuvauksen malleja — eivät itse todellisuus. ← Tutkimus Julkinen
+
+### fi/research/projects/index.html
+
+- lang: fi
+- section: research
+- title: Ashraellen — Tutkimusprojektit
+- description: Ashraellenin työskentelykenttien kartta: MONOLIITTI, pääkanava, julkinen kenttä, satiiriset projektit ja havainnon sivulaboratoriot.
+- canonical: https://www.ashraellen.com/fi/research/projects/
+- H1: Projektit
+- H2: MONOLIITTI | Ashraellen | Instagram | Telegram | Church of Saint Whine | The Book of Whinesis | Occultus Scriptorium | Melodies & Sounds of Inner Spirit
+- H3: _missing_
+- suggested keyword seed: ashraellen, monoliitti, ashraellenin, havainnon, kenttä, projektit, research, avaa, book, church, eikä, ihminen, inner, instagram, julkinen, kartta, kautta, laboratorio
+- candidates: avaa, ihminen, ashraellenin, kenttä, miten, vaan, eikä, kautta, ole, havainnon, laboratorio, monoliitti, osa, pääkanava, siitä, sisäisen, sivulaboratoriot, youtube, äänen, ajatus, arvon, ashraellen, church, eivät
+
+Excerpt:
+
+> Projektit Tämä ei ole lajien esittely eikä alustaluettelo. Se on Ashraellenin työskentelykenttien kartta. Osa projekteista on tutkimuksen keskeisiä malleja. Osa on julkisia vyöhykkeitä, joissa ajatus kohtaa elävän reaktion. Osa toimii sivulaboratorioina satiirin, äänen, maun, kuvan, symbolin ja arkisen havainnon kautta. Keskeinen kenttä MONOLIITTI Ashraellenin keskeinen taiteellis-tutkimuksellinen malli. Trilogia tutkii, miten ihminen menettää erillisyytensä, muistinsa, kielensä, kehonsa ja sisäisen perustansa järjestelmässä, joka ensin lupaa järjestystä ja tekee sitten elävästä materiaalia. BETONI, LIETE ja KAASU ovat kolme todellisuuden tilaa: jähmettyminen, hajoaminen ja merkityksen hajaantuminen. Romaani ei toimi pakotarinana vaan mallina, jonka sisältä mekanismi voidaan nähdä. Avaa → Pääkanava Ashraellen Kanava kirkkaudesta, tietoisuudesta ja paluusta elävään havaintoon. Se tutkii h
+
+### fi/research/sources/index.html
+
+- lang: fi
+- section: research
+- title: Ashraellen — Lähteet ja tutkimusperinne
+- description: Ashraellenin lähteet ja tutkimusperinne: tietoisuuden fenomenologia, keho, narratiivi, kognitiotiede ja taiteellinen käytäntö metodologisina linjoina.
+- canonical: https://www.ashraellen.com/fi/research/sources/
+- H1: Lähteet ja tutkimusperinne
+- H2: Edmund Husserl — kokemus ennen valmiita selityksiä | Maurice Merleau-Ponty — keho havainnon ensimmäisenä pisteenä | Paul Ricoeur — kertomus itseymmärryksen muotona | Francisco Varela, Evan Thompson, Eleanor Rosch — tietoisuus elävänä vuorovaikutuksena | Romaani, essee ja julkinen teksti tutkimuksen muotoina | Keskeisiä nimiä ja suuntia
+- H3: _missing_
+- suggested keyword seed: lähteet, tutkimusperinne, ashraellen, fenomenologia, keho, kokemus, research, taiteellinen, tietoisuuden, ajatuksen, ashraelleniin, ashraellenin, edmund, elävänä, eleanor, ennen, ensimmäisenä, essee
+- candidates: vaan, ashraelleniin, jossa, kokemuksen, ole, tietoisuuden, yhteys, fenomenologia, kokemus, näkyväksi, taiteellinen, ajatuksen, husserl, itse, kautta, keho, kehoon, kognitiotieteen, lähteet, merleau-ponty, miten, ricoeur, romaani, rosch
+
+Excerpt:
+
+> Lähteet ja tutkimusperinne Tämä tutkimus sijoittuu tietoisuuden fenomenologian, narratiivisen tiedon, kognitiotieteen ja taiteellisen käytännön risteykseen. Husserl rakensi menetelmää kokemuksen täsmälliseen kuvaamiseen. Merleau-Ponty palautti tietoisuuden kehoon. Ricoeur osoitti, ettei narratiivi ole ajatuksen koriste vaan itseymmärryksen muoto. Varela, Thompson ja Rosch toivat fenomenologian yhteyteen kognitiotieteen ja eletyn kokemuksen. Ashraellen työskentelee kohdassa, jossa nämä linjat kohtaavat: siellä, missä akateeminen kirjoitus yksin ei enää riitä ja elävä kokemus ei ole vielä saanut tarkkaa muotoa. Tietoisuuden fenomenologia Edmund Husserl — kokemus ennen valmiita selityksiä Olennaista ei ole uskoa ensimmäistä ajatusta vaan tarkkailla, miten kokemus ilmestyy tietoisuuteen. Totunnaiset selitykset siirretään hetkeksi sivuun, jotta itse ilmiö — ajatus, aistimus, pelko, odotus, ku
 
 ### flow/index.html
 
