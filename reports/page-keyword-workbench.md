@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T14:51:09.591Z
+Generated: 2026-08-12T14:51:51.709Z
 Pages: 842
 
 ## Index
@@ -294,7 +294,7 @@ Pages: 842
 | es/research/position/index.html | es | research | Ashraellen — Position — Spanish | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, es, research, position | position, ashraellen, como, artístico, campo, descripción, experiencia, experiencias, filosofía, independiente, interna, investigador, research, modelos, observación, religión, son, spanish |
 | es/research/projects/index.html | es | research | Ashraellen — Proyectos de investigación | ashraellen, research, projects, proyectos, investigación, mapa, campos, trabajo, monolith, canal, principal, campo, público, satíricos, laboratorios, laterales, percepción, instagram | ashraellen, proyectos, monolith, percepción, research, abrir, aquí, book, campo, campos, canal, church, como, cómo, con, del, inner, instagram |
 | es/research/sources/index.html | es | research | Ashraellen — Fuentes y tradición | ashraellen, research, sources, fuentes, tradición, fenomenología, conciencia, cuerpo, relato, ciencia, cognitiva, práctica, artística, edmund, husserl, experiencia, antes, las | como, ashraellen, conciencia, cuerpo, fuentes, relato, tradición, artística, experiencia, fenomenología, forma, research, antes, ciencia, cognitiva, comprensión, con, direcciones |
-| fi/books/demotopia/index.html | fi | books | Demotopia — Democratic Utopia — Ashraellen | _missing_ | demotopia, ashraellen, books, ashraellenin, datasta, democratic, demokratiasta, filosofinen, hajautetusta, hän, ihmisen, ihmisestä, järjestelmä, julkaisutilanne, kehys, kirjassa, kuin, kun |
+| fi/books/demotopia/index.html | fi | books | Demotopia — Demokraattinen utopia — Ashraellen | _missing_ | demotopia, ashraellen, books, ashraellenin, datasta, demokraattinen, demokratiasta, filosofinen, hajautetusta, hän, ihmisen, ihmisestä, järjestelmä, julkaisutilanne, kehys, kirjassa, kuin, kun |
 | fi/books/error-404-god-not-found/index.html | fi | books | Ashraellen — Error 404: God Not Found | _missing_ | error, found, god, 404, ashraellen, books, filosofis-satiirinen, ihmisen, sarjan, all, avaa, etsitään, hakutavasta, häntä, kansliasta, kirja, kirjat, lause |
 | fi/books/error-404-god-not-found/why-me/index.html | fi | books | Ashraellen — Why Me? | _missing_ | why, error, found, god, 404, ashraellen, books, kirja, byrokratiasta, eikä, ensimmäinen, filosofis-satiirinen, hän, katkelma, kirjasta, kivusta, kuin, oli |
 | fi/books/index.html | fi | books | Ashraellen — Kirjat | _missing_ | kirjat, 2.0, ashraellen, books, jumalaa, samizdat, satiiri, tekijäjulkaisut, 404, ashraellenin, audioromaani, avaa, book, demotopia, filosofinen, hohde, itsenäiset, kirja |
@@ -5735,18 +5735,18 @@ Excerpt:
 
 - lang: fi
 - section: books
-- title: Demotopia — Democratic Utopia — Ashraellen
+- title: Demotopia — Demokraattinen utopia — Ashraellen
 - description: Demotopia on Ashraellenin filosofinen romaani lähitulevaisuuden Varsovasta, demokratiasta, hajautetusta vallasta, datasta, vapaudesta ja vastuusta.
 - canonical: https://www.ashraellen.com/fi/books/demotopia/
 - H1: Demotopia
 - H2: Mistä kirjassa on kyse | Romaanin kysymykset | Taiteellisen tutkimuksen kehys | Julkaisutilanne
 - H3: Vapaus | Data | Demokratia | Vastuu
-- suggested keyword seed: demotopia, ashraellen, books, ashraellenin, datasta, democratic, demokratiasta, filosofinen, hajautetusta, hän, ihmisen, ihmisestä, järjestelmä, julkaisutilanne, kehys, kirjassa, kuin, kun
-- candidates: mitä, demotopia, ihmisen, järjestelmä, kun, hän, ihmisestä, kuin, kuvan, vain, voi, yhteiskunta, ala, ashraellen, democratic, eikä, enää, englanninkielinen, filosofinen, ilman, jää, kokonaisuus, lähes, lähitulevaisuuden
+- suggested keyword seed: demotopia, ashraellen, books, ashraellenin, datasta, demokraattinen, demokratiasta, filosofinen, hajautetusta, hän, ihmisen, ihmisestä, järjestelmä, julkaisutilanne, kehys, kirjassa, kuin, kun
+- candidates: mitä, demotopia, ihmisen, järjestelmä, kun, hän, ihmisestä, kuin, kuvan, vain, voi, yhteiskunta, ala, ashraellen, demokraattinen, eikä, enää, englanninkielinen, filosofinen, ilman, jää, kokonaisuus, lähes, lähitulevaisuuden
 
 Excerpt:
 
-> Filosofinen romaani / Varsova lähitulevaisuudessa Demotopia Democratic Utopia Kaupunki on turvallisempi, läpinäkyvämpi ja oikeudenmukaisempi. Järjestelmä ei enää näe vain yksittäistä tekoa: se näkee ihmisen kokonaisuuden — reitit, suhteet, valinnat, velvoitteet ja myös hiljaisuudet. Mutta mitä vapaudesta jää jäljelle, jos yhteiskunta pystyy osoittamaan tuntevansa ihmisen tarkemmin kuin hän itse? Englanninkielinen kansikonsepti. Ashraellen. Mistä kirjassa on kyse ilman juonipaljastuksia Demotopia ei ala katastrofista eikä julistetusta diktatuurista. Se näyttää lähitulevaisuuden Varsovan, jossa järjestelmä toimii aidosti hyvin: se ehkäisee vahinkoja, jakaa riskejä ja tekee päätöksiä lähes täydellisen kuvan perusteella. Ongelma syntyy vasta, kun tästä kuvasta tulee vakuuttavampi kuin ihmisen oma käsitys itsestään. Järjestelmän ei tarvitse valehdella tai vainota ketään. Se voi toimia laillis
+> Filosofinen romaani / Varsova lähitulevaisuudessa Demotopia Demokraattinen utopia Kaupunki on turvallisempi, läpinäkyvämpi ja oikeudenmukaisempi. Järjestelmä ei enää näe vain yksittäistä tekoa: se näkee ihmisen kokonaisuuden — reitit, suhteet, valinnat, velvoitteet ja myös hiljaisuudet. Mutta mitä vapaudesta jää jäljelle, jos yhteiskunta pystyy osoittamaan tuntevansa ihmisen tarkemmin kuin hän itse? Englanninkielinen kansikonsepti. Ashraellen. Mistä kirjassa on kyse ilman juonipaljastuksia Demotopia ei ala katastrofista eikä julistetusta diktatuurista. Se näyttää lähitulevaisuuden Varsovan, jossa järjestelmä toimii aidosti hyvin: se ehkäisee vahinkoja, jakaa riskejä ja tekee päätöksiä lähes täydellisen kuvan perusteella. Ongelma syntyy vasta, kun tästä kuvasta tulee vakuuttavampi kuin ihmisen oma käsitys itsestään. Järjestelmän ei tarvitse valehdella tai vainota ketään. Se voi toimia lai
 
 ### fi/books/error-404-god-not-found/index.html
 

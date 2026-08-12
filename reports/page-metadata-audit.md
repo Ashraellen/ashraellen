@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T14:51:08.910Z
+Generated: 2026-08-12T14:51:51.041Z
 
 Pages checked: 841
-Pages with issues: 313
-Total issues: 1781
+Pages with issues: 312
+Total issues: 1779
 Pages with review notes: 633
 Total review notes: 2216
 
@@ -23,7 +23,7 @@ Total review notes: 2216
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
 | DUPLICATE_TITLE | 44 |
-| DUPLICATE_OG_TITLE | 42 |
+| DUPLICATE_OG_TITLE | 40 |
 | DUPLICATE_KEYWORDS | 36 |
 | OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
 | TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
@@ -350,16 +350,6 @@ Total review notes: 2216
 
 - DUPLICATE_TITLE: shared by 9 pages
 - DUPLICATE_OG_TITLE: shared by 9 pages
-
-### en/books/demotopia/index.html
-
-- title: Demotopia — Democratic Utopia — a novel by Ashraellen
-- description length: 138
-- canonical: https://www.ashraellen.com/en/books/demotopia/
-- og:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
-- twitter:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
-
-- DUPLICATE_OG_TITLE: shared by 2 pages
 
 ### en/books/error-404-god-not-found/index.html
 
@@ -923,7 +913,7 @@ Total review notes: 2216
 
 ### fi/books/demotopia/index.html
 
-- title: Demotopia — Democratic Utopia — Ashraellen
+- title: Demotopia — Demokraattinen utopia — Ashraellen
 - description length: 147
 - canonical: https://www.ashraellen.com/fi/books/demotopia/
 - og:image: https://www.ashraellen.com/assets/covers/DEMOTOPIA_COMMERCIAL_COVER_CONCEPT_EN_v01.webp
@@ -931,7 +921,6 @@ Total review notes: 2216
 
 - MISSING_KEYWORDS
 - MISSING_TWITTER_IMAGE
-- DUPLICATE_OG_TITLE: shared by 2 pages
 
 ### fi/books/error-404-god-not-found/index.html
 
