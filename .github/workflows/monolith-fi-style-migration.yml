@@ -1,0 +1,44 @@
+name: Finnish MONOLITH style migration
+
+on:
+  push:
+    paths:
+      - '.github/workflows/monolith-fi-style-migration.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Remove page-local MONOLITH presentation
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          path = Path('fi/books/monolith/index.html')
+          text = path.read_text(encoding='utf-8')
+          canonical = 'https://www.ashraellen.com/fi/books/monolith/'
+          if f'<link rel="canonical" href="{canonical}">' not in text:
+              raise SystemExit('Unexpected FI MONOLITH canonical')
+          text, count = re.subn(r'<link\s+rel="stylesheet"\s+href="\.\./\.\./\.\./assets/books\.css[^\"]*">', '<link rel="stylesheet" href="../../../assets/books-monolith.css?v=20260813-2">', text, count=1)
+          if count != 1:
+              raise SystemExit(f'Expected one books.css link, found {count}')
+          text = re.sub(r'<style\b[^>]*>.*?</style>', '', text, flags=re.I|re.S)
+          text = re.sub(r'\s+style\s*=\s*"[^"]*"', '', text, flags=re.I)
+          text = re.sub(r"\s+style\s*=\s*'[^']*'", '', text, flags=re.I)
+          for forbidden in ('assets/books.css', '<style'):
+              if forbidden in text:
+                  raise SystemExit(f'Forbidden presentation remains: {forbidden}')
+          if re.search(r'\sstyle\s*=', text, flags=re.I):
+              raise SystemExit('Inline style attribute remains')
+          path.write_text(text, encoding='utf-8')
+          PY
+          git config user.name 'Ashraellen'
+          git config user.email 'ashraellen@gmail.com'
+          git add fi/books/monolith/index.html
+          git commit -m 'Unify Finnish MONOLITH landing under shared CSS'
+          git push origin HEAD:main
