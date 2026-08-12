@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T15:57:35.648Z
+Generated: 2026-08-12T15:58:31.544Z
 
 Pages checked: 841
-Pages with issues: 299
-Total issues: 1735
+Pages with issues: 298
+Total issues: 1730
 Pages with review notes: 638
 Total review notes: 2243
 
@@ -12,11 +12,11 @@ Total review notes: 2243
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 206 |
-| MISSING_TWITTER_IMAGE | 205 |
-| MISSING_TWITTER_CARD | 186 |
-| MISSING_OG_DESCRIPTION | 183 |
-| MISSING_JSON_LD | 182 |
+| MISSING_KEYWORDS | 205 |
+| MISSING_TWITTER_IMAGE | 204 |
+| MISSING_TWITTER_CARD | 185 |
+| MISSING_OG_DESCRIPTION | 182 |
+| MISSING_JSON_LD | 181 |
 | MISSING_OG_IMAGE | 173 |
 | MISSING_OG_TITLE | 172 |
 | MISSING_DESCRIPTION | 120 |
@@ -876,20 +876,6 @@ Total review notes: 2243
 
 - DUPLICATE_TITLE: shared by 9 pages
 - DUPLICATE_OG_TITLE: shared by 9 pages
-
-### fi/books/error-404-god-not-found/why-me/index.html
-
-- title: Ashraellen — Miksi minä?
-- description length: 156
-- canonical: https://www.ashraellen.com/fi/books/error-404-god-not-found/why-me/
-- og:image: https://www.ashraellen.com/assets/covers/error-404-why-me-en.webp
-- twitter:image: _missing_
-
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_DESCRIPTION
-- MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
 
 ### fi/books/monolith/beton/index.html
 
