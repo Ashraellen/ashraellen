@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T13:00:17.102Z
+Generated: 2026-08-12T13:01:06.179Z
 
 Pages checked: 841
 Pages with issues: 320
-Total issues: 1988
+Total issues: 1983
 Pages with review notes: 616
 Total review notes: 2164
 
@@ -12,13 +12,13 @@ Total review notes: 2164
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 256 |
-| MISSING_TWITTER_IMAGE | 254 |
-| MISSING_TWITTER_CARD | 224 |
-| MISSING_OG_DESCRIPTION | 223 |
-| MISSING_JSON_LD | 220 |
-| MISSING_OG_IMAGE | 214 |
-| MISSING_OG_TITLE | 207 |
+| MISSING_KEYWORDS | 255 |
+| MISSING_TWITTER_IMAGE | 253 |
+| MISSING_TWITTER_CARD | 223 |
+| MISSING_OG_DESCRIPTION | 222 |
+| MISSING_JSON_LD | 219 |
+| MISSING_OG_IMAGE | 213 |
+| MISSING_OG_TITLE | 206 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
@@ -26,8 +26,8 @@ Total review notes: 2164
 | DUPLICATE_OG_TITLE | 42 |
 | DUPLICATE_KEYWORDS | 36 |
 | DESCRIPTION_TOO_SHORT | 33 |
-| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 2 |
-| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 2 |
+| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 3 |
+| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 3 |
 
 
 ## Review note summary
@@ -1610,18 +1610,13 @@ Total review notes: 2164
 ### fi/public/thoughts/arcs/0014-end-of-extra-war.html
 
 - title: Ashraellen — Ylimääräisen sodan loppu
-- description length: 98
+- description length: 117
 - canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0014-end-of-extra-war.html
-- og:image: _missing_
-- twitter:image: _missing_
+- og:image: https://www.ashraellen.com/assets/thoughts/0014-end-of-extra-war.jpg
+- twitter:image: https://www.ashraellen.com/assets/thoughts/0014-end-of-extra-war.jpg
 
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_TITLE
-- MISSING_OG_DESCRIPTION
-- MISSING_OG_IMAGE
-- MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
+- OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0014-end-of-extra-war.jpg
+- TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0014-end-of-extra-war.jpg
 
 ### fi/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
 

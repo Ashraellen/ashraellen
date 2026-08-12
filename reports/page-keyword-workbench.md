@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T13:00:17.772Z
+Generated: 2026-08-12T13:01:06.851Z
 Pages: 842
 
 ## Index
@@ -342,7 +342,7 @@ Pages: 842
 | fi/public/thoughts/arcs/0011-do-not-regret.html | fi | public | Ashraellen — Älä kadu | _missing_ | älä, kadu, armo, ashraellen, joskus, public, ajatus, arcs, ashraellenin, elämä, ihminen, jota, koko, kun, menetykseltä, merkitys, mikä, miksi |
 | fi/public/thoughts/arcs/0012-close-the-book.html | fi | public | Ashraellen — Milloin kirja on aika sulkea | Ashraellen, tukiajatus, henkinen kirjallisuus, hiljaisuus, hyväksyminen | kirja, aika, ajatus, ashraellen, enää, henkinen, hiljaisuudessa, kirjallisuus, milloin, mutta, public, sulkea, voi, 0012, arcs, book, close, että |
 | fi/public/thoughts/arcs/0013-problem-loses-crown.html | fi | public | Ashraellen — Ongelma menettää kruununsa | Ashraellen, tukiajatus, hyväksyminen, draama, ongelma | ongelma, ajatus, aseman, ashraellen, kruununsa, menettää, mutta, public, voi, 0013, arcs, crown, draaman, ehkä, eikä, että, hyväksyminen, katoa |
-| fi/public/thoughts/arcs/0014-end-of-extra-war.html | fi | public | Ashraellen — Ylimääräisen sodan loppu | _missing_ | loppu, sodan, ajatus, ashraellen, mikä, public, sisäinen, ylimääräisen, 0014, arcs, end, että, extra, joka, juuri, kaikki, koko, kyllä |
+| fi/public/thoughts/arcs/0014-end-of-extra-war.html | fi | public | Ashraellen — Ylimääräisen sodan loppu | Ashraellen, tukiajatus, hyväksyminen, sisäinen sota, todellisuus | loppu, sodan, ajatus, ashraellen, ole, public, ylimääräisen, 0014, arcs, end, että, extra, hyväksyminen, joka, juuri, kaikki, koko, kyllä |
 | fi/public/thoughts/arcs/0015-subtle-thought-needs-silence.html | fi | public | Ashraellen — Hieno ajatus tarvitsee hiljaisuutta | _missing_ | ajatus, hieno, hiljaisuutta, tarvitsee, ajatuksen, ashraellen, huomatuksi, karkeaksi, muuttua, public, tarvitse, tullakseen, 0015, arcs, hienovaraisen, joskus, koko, miksi |
 | fi/public/thoughts/arcs/0016-one-fact.html | fi | public | Ashraellen — Oli yksi fakta | _missing_ | fakta, oli, yksi, ajatus, ashraellen, jatko-osineen, kärsimystä, kolme, public, 0016, arcs, fact, itse, joku, koko, kuin, miksi, mitä |
 | fi/public/thoughts/arcs/0017-witness-does-not-interfere.html | fi | public | Ashraellen — Todistaja ei puutu väliin | _missing_ | todistaja, aikojaan, ajatus, ashraellen, ennen, estä, näkyväksi, public, puutu, väliin, 0017, arcs, does, ihminen, interfere, joka, joskus, koko |
@@ -6552,13 +6552,13 @@ Excerpt:
 - lang: fi
 - section: public
 - title: Ashraellen — Ylimääräisen sodan loppu
-- description: Tukiajatus 0014: sisäinen suostuminen siihen mikä on, ei ole tappio vaan tarpeettoman sodan loppu.
+- description: Tukiajatus 0014: hyväksyminen ei ole tappio, vaan tarpeettoman sisäisen sodan loppu ja paluu siihen, mitä todella on.
 - canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0014-end-of-extra-war.html
 - H1: Ylimääräisen sodan loppu
 - H2: Ajatus | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
 - H3: _missing_
-- suggested keyword seed: loppu, sodan, ajatus, ashraellen, mikä, public, sisäinen, ylimääräisen, 0014, arcs, end, että, extra, joka, juuri, kaikki, koko, kyllä
-- candidates: että, loppu, sodan, ajatus, joka, kaikki, mikä, siksi, sisäinen, juuri, kyllä, näin, ole, olisi, siihen, suostuminen, tämä, tappio, tarpeettoman, vaan, 0014, alkaa, faktan, ihminen
+- suggested keyword seed: loppu, sodan, ajatus, ashraellen, ole, public, ylimääräisen, 0014, arcs, end, että, extra, hyväksyminen, joka, juuri, kaikki, koko, kyllä
+- candidates: että, loppu, sodan, ajatus, joka, kaikki, siksi, juuri, kyllä, mikä, näin, ole, olisi, siihen, sisäinen, tämä, tappio, tarpeettoman, vaan, 0014, alkaa, faktan, ihminen, kärsii
 
 Excerpt:
 

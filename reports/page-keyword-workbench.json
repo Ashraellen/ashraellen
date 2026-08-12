@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T13:00:17.756Z",
+  "generated": "2026-08-12T13:01:06.834Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -24886,8 +24886,8 @@
       "lang": "fi",
       "section": "public",
       "title": "Ashraellen — Ylimääräisen sodan loppu",
-      "description": "Tukiajatus 0014: sisäinen suostuminen siihen mikä on, ei ole tappio vaan tarpeettoman sodan loppu.",
-      "existingKeywords": "",
+      "description": "Tukiajatus 0014: hyväksyminen ei ole tappio, vaan tarpeettoman sisäisen sodan loppu ja paluu siihen, mitä todella on.",
+      "existingKeywords": "Ashraellen, tukiajatus, hyväksyminen, sisäinen sota, todellisuus",
       "canonical": "https://www.ashraellen.com/fi/public/thoughts/arcs/0014-end-of-extra-war.html",
       "h1": [
         "Ylimääräisen sodan loppu"
@@ -24917,16 +24917,15 @@
         "ajatus",
         "joka",
         "kaikki",
-        "mikä",
         "siksi",
-        "sisäinen",
         "juuri",
         "kyllä",
+        "mikä",
         "näin",
         "ole",
         "olisi",
         "siihen",
-        "suostuminen",
+        "sisäinen",
         "tämä",
         "tappio",
         "tarpeettoman",
@@ -24934,22 +24933,23 @@
         "0014",
         "alkaa",
         "faktan",
-        "ihminen"
+        "ihminen",
+        "kärsii"
       ],
       "suggestedKeywordSeed": [
         "loppu",
         "sodan",
         "ajatus",
         "ashraellen",
-        "mikä",
+        "ole",
         "public",
-        "sisäinen",
         "ylimääräisen",
         "0014",
         "arcs",
         "end",
         "että",
         "extra",
+        "hyväksyminen",
         "joka",
         "juuri",
         "kaikki",
