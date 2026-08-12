@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T11:19:54.335Z
-Pages: 784
+Generated: 2026-08-12T11:22:31.084Z
+Pages: 785
 
 ## Index
 
@@ -298,6 +298,7 @@ Pages: 784
 | fi/index.html | fi | index.html | Ashraellen — Kirjat, tutkimus ja julkiset tekstit | _missing_ | ashraellen, julkiset, kirjat, tekstit, itsenäinen, kirjallis-filosofinen, monikielinen, taiteellinen, tutkimus, tutkimuskäytäntö, havainnoinnin, index.html, joka, julkinen, sisäisen, tutkimuksen, videot, yhdistää |
 | fi/kone/index.html | fi | kone | Ashraellen — tiivistelmä Koneen Säätiölle | ashraellen, kone, tiivistelmä, koneen, säätiölle, suomenkielinen, ashraellen-hankkeesta, elämänmittainen, taiteellis-filosofinen, tutkimus, merkityksestä, kirjallisuudesta, videoista, monikielisestä, arkistosta, tutkimuksen, ydin, tekijä | ashraellen, koneen, kone, säätiölle, tiivistelmä, tutkimuksen, tutkimus, arkistosta, ashraellen-hankkeesta, asiakirjat, elämänmittainen, hankkeen, infrastruktuuri, julkinen, kirjallisuudesta, kuukauden, merkityksestä, miten |
 | fi/privacy.html | fi | privacy.html | Tietosuojakäytäntö — Ashraellen — Suomi | _missing_ | analytiikka, tietoja, tietosuojakäytäntö, ashraellen, evästeet, kerätä, palvelut, voidaan, ashraellen.com, ashraellen.comin, google, henkilötiedot, käsittelyn, kauan, käytetään, käyttää, käyttäjän, kolmannen |
+| fi/professional/index.html | fi | professional | Ashraellen — Ammatillinen esittely | _missing_ | ashraellen, havainnoinnin, ammatillinen, esittely, julkiset, menetelmä, muodot, professional, ammatilliset, arkisto, ashraellenin, avaa, havainnon, infrastruktuuri, julkinen, kanava, kautta, kehityssuunnitelma |
 | fi/research/archive/index.html | fi | research | Ashraellen — Tutkimusarkisto | _missing_ | tutkimusarkisto, aiemmat, aktiivisessa, arkisto, ashraellen, ashraellenin, eivät, enää, jotka, ole, research, työssä, aikaista, aineistoille, aineistot, archive, jäljet, kerrokset |
 | fi/research/index.html | fi | research | Ashraellen — Tutkimus | _missing_ | tutkimus, ashraellen, miten, ihminen, research, siitä, tutkimuksen, avaa, avoin, digitaalinen, elämänmittainen, havainnon, havainto, jatkuva, lähestyä, menetelmä, menettää, merkitykseen |
 | fi/research/method/index.html | fi | research | Ashraellen — Havainnoinnin menetelmä | _missing_ | ashraellen, havainnoinnin, menetelmä, muoto, havainnon, koettelu, ole, research, taiteellinen, aineistoa, alkaa, ashraellenin, eikä, ensimmäisen, havainnointi, havainto, kautta, kirjaaminen |
@@ -5740,6 +5741,23 @@ Excerpt:
 Excerpt:
 
 > Oikeudellinen läpinäkyvyys Tietosuojakäytäntö Tällä sivulla kerrotaan, miten Ashraellen.com voi kerätä, käyttää ja suojata henkilötietoja, kun kävijä käyttää verkkosivustoa. Päivitetty viimeksi: 25. toukokuuta 2026 1. Kuka vastaa tästä verkkosivustosta Ashraellen.com -sivustoa ylläpidetään osana Nikolai Kostysheviin liittyvää itsenäistä luovaa ja tutkimuksellista Ashraellen -projektia. Tietosuojaa, pyyntöjä tai yhteistyötä koskevissa asioissa voit ottaa yhteyttä osoitteeseen ashraellen.live@gmail.com . 2. Mitä tietoja voidaan kerätä Sivusto voi käsitellä rajallisesti teknisiä tietoja ja yhteystietoja: selaimen ja laitteen tietoja, likimääräistä verkkosijaintia, vierailtuja sivuja ja käyntiaikaa, IP-osoitteen anonymisointia käyttävän Google Analyticsin tietoja, vapaaehtoisesti lähettämiäsi sähköpostitietoja sekä selaimen tai service workerin tekniseen toimintaan tarvitsemia tietoja. Sivus
+
+### fi/professional/index.html
+
+- lang: fi
+- section: professional
+- title: Ashraellen — Ammatillinen esittely
+- description: Ashraellenin ammatillinen esittely: tekijä, havainnoinnin menetelmä, teokset, julkiset muodot, kehityssuunnitelma, infrastruktuuri, yhteistyö ja yhteystiedot.
+- canonical: https://www.ashraellen.com/fi/professional/
+- H1: Ashraellen
+- H2: Tausta-aineistot | Tekijästä | Havainnoinnin lähtökohta | Havainnoinnin menetelmä | Ammatilliset kehykset | Valittuja teoksia ja työskentelykenttiä | Projektin julkiset muodot | Nykyinen työvaihe
+- H3: Taiteellinen tutkimus | Avoin tieto | Digitaalinen yhteiskunta | Itsenäinen digitaalinen arkisto | MONOLIITTI | BETONI | LIETE | The Book of Whinesis
+- suggested keyword seed: ashraellen, havainnoinnin, ammatillinen, esittely, julkiset, menetelmä, muodot, professional, ammatilliset, arkisto, ashraellenin, avaa, havainnon, infrastruktuuri, julkinen, kanava, kautta, kehityssuunnitelma
+- candidates: avaa, ashraellen, julkinen, havainnon, kanava, monikielinen, arkisto, havainnoinnin, kautta, miten, muoto, projekti, taiteellinen, tutkimus, työ, arkiston, digitaalinen, esittely, jossa, ole, projektin, sekä, tai, vaan
+
+Excerpt:
+
+> Ammatillinen esittely Ashraellen Taiteellinen havainnointi · Kirjallinen työ · Monikielinen julkinen arkisto Tämä sivu kokoaa Ashraellenin ammatilliseen muotoon apuraha-, kustannus-, tutkimus-, media- ja kulttuuriyhteyksiä varten. Varsinainen sivusto pysyy elävänä tilana lukijoille ja katsojille; tämä esittely toimii sen työpöytänä. Tausta-aineistot Projektista on saatavilla yksityiskohtaisempia englanninkielisiä asiakirjoja apuraha-, kustannus- ja institutionaalista tarkastelua varten. Suomenkielinen sivusto toimii itsenäisenä esittelynä; asiakirjojen kieltä ei peitetä paikallisella painikkeella. Professional Dossier — englanninkielinen PDF → 12 kuukauden projektisuunnitelma — englanninkielinen PDF → Budjetti — englanninkielinen PDF → Tekijästä Ashraellen on Puolassa asuvan itsenäisen kirjailijan ja taiteellisen tutkijan Nikolai Kostyshevin työskentelynimi. Työ yhdistää kirjallisen proo
 
 ### fi/research/archive/index.html
 
