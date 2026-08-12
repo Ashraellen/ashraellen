@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T13:27:48.944Z
+Generated: 2026-08-12T13:28:54.094Z
 
 Pages checked: 841
 Pages with issues: 320
-Total issues: 1887
+Total issues: 1882
 Pages with review notes: 616
 Total review notes: 2164
 
@@ -12,13 +12,13 @@ Total review notes: 2164
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 237 |
-| MISSING_TWITTER_IMAGE | 235 |
-| MISSING_TWITTER_CARD | 205 |
-| MISSING_OG_DESCRIPTION | 204 |
-| MISSING_JSON_LD | 201 |
-| MISSING_OG_IMAGE | 195 |
-| MISSING_OG_TITLE | 188 |
+| MISSING_KEYWORDS | 236 |
+| MISSING_TWITTER_IMAGE | 234 |
+| MISSING_TWITTER_CARD | 204 |
+| MISSING_OG_DESCRIPTION | 203 |
+| MISSING_JSON_LD | 200 |
+| MISSING_OG_IMAGE | 194 |
+| MISSING_OG_TITLE | 187 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
@@ -26,8 +26,8 @@ Total review notes: 2164
 | DUPLICATE_OG_TITLE | 42 |
 | DUPLICATE_KEYWORDS | 36 |
 | DESCRIPTION_TOO_SHORT | 27 |
-| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 21 |
-| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 21 |
+| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 22 |
+| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 22 |
 
 
 ## Review note summary
@@ -1502,16 +1502,11 @@ Total review notes: 2164
 - title: Ashraellen — Missä lakkasit olemasta elossa
 - description length: 119
 - canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0009-where-life-stopped.html
-- og:image: _missing_
-- twitter:image: _missing_
+- og:image: https://www.ashraellen.com/assets/thoughts/0009-where-life-stopped.jpg
+- twitter:image: https://www.ashraellen.com/assets/thoughts/0009-where-life-stopped.jpg
 
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_TITLE
-- MISSING_OG_DESCRIPTION
-- MISSING_OG_IMAGE
-- MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
+- OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0009-where-life-stopped.jpg
+- TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0009-where-life-stopped.jpg
 
 ### fi/public/thoughts/arcs/0010-dirty-cup.html
 
