@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T12:05:46.576Z
-Pages: 803
+Generated: 2026-08-12T12:13:28.784Z
+Pages: 811
 
 ## Index
 
@@ -317,6 +317,14 @@ Pages: 803
 | fi/kone/index.html | fi | kone | Ashraellen — tiivistelmä Koneen Säätiölle | ashraellen, kone, tiivistelmä, koneen, säätiölle, suomenkielinen, ashraellen-hankkeesta, elämänmittainen, taiteellis-filosofinen, tutkimus, merkityksestä, kirjallisuudesta, videoista, monikielisestä, arkistosta, tutkimuksen, ydin, tekijä | ashraellen, koneen, kone, säätiölle, tiivistelmä, tutkimuksen, tutkimus, arkistosta, ashraellen-hankkeesta, asiakirjat, elämänmittainen, hankkeen, infrastruktuuri, julkinen, kirjallisuudesta, kuukauden, merkityksestä, miten |
 | fi/privacy.html | fi | privacy.html | Tietosuojakäytäntö — Ashraellen — Suomi | _missing_ | analytiikka, tietoja, tietosuojakäytäntö, ashraellen, evästeet, kerätä, palvelut, voidaan, ashraellen.com, ashraellen.comin, google, henkilötiedot, käsittelyn, kauan, käytetään, käyttää, käyttäjän, kolmannen |
 | fi/professional/index.html | fi | professional | Ashraellen — Ammatillinen esittely | _missing_ | ashraellen, havainnoinnin, ammatillinen, esittely, julkiset, menetelmä, muodot, professional, ammatilliset, arkisto, ashraellenin, avaa, havainnon, infrastruktuuri, julkinen, kanava, kautta, kehityssuunnitelma |
+| fi/public/index.html | fi | public | Ashraellen — Julkinen | _missing_ | julkinen, ashraellen, ihmisen, missä, public, tutkimus, ajatus, älä, ashraellenin, avaa, elävän, enää, havaintoja, julkaisuja, julkaisut, kansa, kenttä, kohtaa |
+| fi/public/posts/essay/index.html | fi | public | Ashraellen — Miniesseet | _missing_ | ensimmäinen, miniesseet, ashraellen, keho, menneisyys, public, vaan, yksi, ajatukseen, älä, alkaa, ashraellenin, elää, essay, huomioon, johtopäätökseen, joissa, katselukulmaan |
+| fi/public/posts/formula/index.html | fi | public | Ashraellen — Polku, teko, rytmi | _missing_ | polku, rytmi, teko, ashraellen, public, aina, ajatuksia, ashraellenin, formula, joissa, joskus, kaava, kaavalinja, kaavat, liike, lyhyitä, mikä, mittansa |
+| fi/public/posts/fragment/index.html | fi | public | Ashraellen — Fragmentit | _missing_ | fragmentit, aikana, ashraellen, julkaisujen, käsinkirjoitettujen, muistiinpanojen, public, tekstien, vuosien, aineistoa, alla, arkisto, arkiston, arkistoon, arkistosta, ashraellenin, fragment, kertyneestä |
+| fi/public/posts/index.html | fi | public | Ashraellen — Julkaisut | _missing_ | ashraellen, julkaisut, ashraellenin, fragmentit, kaavat, miniesseet, public, ajatus, ehtii, ennen, eri, havaintomuodot, lue, lyhyet, osastot, posts, yksi |
+| fi/public/thoughts/index-0001.html | fi | public | Ashraellen — Tukiajatusten ensimmäinen kaari | _missing_ | ensimmäinen, kaari, herääminen, iloisuus, pelko, tukiajatusten, voimat, alkaa, ashraellen, enää, kun, public, rajallisuus, ajatus, ashraellenin, avaa, diagnoosina, elämän |
+| fi/public/thoughts/index-0002.html | fi | public | Ashraellen — Tukiajatusten toinen kaari | _missing_ | kaari, toinen, tukiajatusten, kuppi, likainen, armo, ashraellen, havainnon, herääminen, public, ajatus, älä, ashraellenin, avaa, elossa, havainnointi, hengellisen, index |
+| fi/public/thoughts/index.html | fi | public | Ashraellen — Tukiajatusten kolmas kaari | _missing_ | kaari, kolmas, ajatus, fakta, hienovarainen, kruununsa, kuva, menettää, todistaja, tukiajatusten, yksi, ashraellen, hiljaisuutta, ongelma, public, tarvitsee, ashraellenin, avaa |
 | fi/research/archive/index.html | fi | research | Ashraellen — Tutkimusarkisto | _missing_ | tutkimusarkisto, aiemmat, aktiivisessa, arkisto, ashraellen, ashraellenin, eivät, enää, jotka, ole, research, työssä, aikaista, aineistoille, aineistot, archive, jäljet, kerrokset |
 | fi/research/index.html | fi | research | Ashraellen — Tutkimus | _missing_ | tutkimus, ashraellen, miten, ihminen, research, siitä, tutkimuksen, avaa, avoin, digitaalinen, elämänmittainen, havainnon, havainto, jatkuva, lähestyä, menetelmä, menettää, merkitykseen |
 | fi/research/method/index.html | fi | research | Ashraellen — Havainnoinnin menetelmä | _missing_ | ashraellen, havainnoinnin, menetelmä, muoto, havainnon, koettelu, ole, research, taiteellinen, aineistoa, alkaa, ashraellenin, eikä, ensimmäisen, havainnointi, havainto, kautta, kirjaaminen |
@@ -6082,6 +6090,142 @@ Excerpt:
 Excerpt:
 
 > Ammatillinen esittely Ashraellen Taiteellinen havainnointi · Kirjallinen työ · Monikielinen julkinen arkisto Tämä sivu kokoaa Ashraellenin ammatilliseen muotoon apuraha-, kustannus-, tutkimus-, media- ja kulttuuriyhteyksiä varten. Varsinainen sivusto pysyy elävänä tilana lukijoille ja katsojille; tämä esittely toimii sen työpöytänä. Tausta-aineistot Projektista on saatavilla yksityiskohtaisempia englanninkielisiä asiakirjoja apuraha-, kustannus- ja institutionaalista tarkastelua varten. Suomenkielinen sivusto toimii itsenäisenä esittelynä; asiakirjojen kieltä ei peitetä paikallisella painikkeella. Professional Dossier — englanninkielinen PDF → 12 kuukauden projektisuunnitelma — englanninkielinen PDF → Budjetti — englanninkielinen PDF → Tekijästä Ashraellen on Puolassa asuvan itsenäisen kirjailijan ja taiteellisen tutkijan Nikolai Kostyshevin työskentelynimi. Työ yhdistää kirjallisen proo
+
+### fi/public/index.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Julkinen
+- description: Ashraellenin julkinen kenttä: puheita, julkaisuja, tukiajatuksia, reaktioita ja havaintoja siellä missä tutkimus kohtaa elävän ihmisen.
+- canonical: https://www.ashraellen.com/fi/public/
+- H1: Julkinen
+- H2: Puheet | Julkaisut | Projektit | Uudet tukiajatukset
+- H3: Älä pommita | Kansa ja massa | Parinmuodostuksen pelit | Hengellisyyttä ei pakoteta | Siirtymän hinta | Todellinen vihollinen
+- suggested keyword seed: julkinen, ashraellen, ihmisen, missä, public, tutkimus, ajatus, älä, ashraellenin, avaa, elävän, enää, havaintoja, julkaisuja, julkaisut, kansa, kenttä, kohtaa
+- candidates: avaa, ajatus, tukiajatus, julkinen, missä, kansa, massa, enää, ihmisen, siitä, tutkimus, älä, alkavat, ashraellenin, elävä, elävän, että, hän, hengellisyys, hengellisyyttä, hinta, jonka, jossa, kentän
+
+Excerpt:
+
+> Julkinen Tässä tutkimus poistuu kirjoista, luonnoksista ja sisäisistä kaavoista ja astuu elävään kenttään: videoihin, julkaisuihin, kommentteihin, vastauksiin, reaktioihin ja avoimiin havaintoihin. Julkinen kenttä ei ole toimintaraportin näyteikkuna. Se on paikka, jossa ajatus testataan elävässä kontaktissa ihmiseen. Kirjan muoto ei enää suojaa sitä: siitä tulee lyhyt lause, kuva, video, vastaus, ärsytys, kiitollisuus tai äkillinen tunnistaminen. Jos kirjat näyttävät mekanismin syvyydessä, julkinen muoto tallentaa sen välähdykset: missä ajatus hyväksyttiin, missä se kohtasi vastarintaa, missä se vääristyi ja missä se muuttui yhtäkkiä tunnistettavaksi. Puheet Videot, Shorts, julkiset analyysit ja elävän puheen muodot. Avaa → Julkaisut Laboratoriosta lähteneet tekstit: tukiajatukset, fragmentit, reaktiot ja havainnot. Avaa → Projektit Ashraellenin tutkimus-, kirjallisuus- ja mediaprojektit
+
+### fi/public/posts/essay/index.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Miniesseet
+- description: Ashraellenin miniesseet: pieniä tutkimuksia, joissa yksi kysymys viedään yhteen katselukulmaan ja mahdollisimman kirkkaaseen johtopäätökseen.
+- canonical: https://www.ashraellen.com/fi/public/posts/essay/
+- H1: Miniesseet
+- H2: Ensimmäinen sykli | Valta ei ajatukseen vaan huomioon | Keho on ensimmäinen ovi, ei päämäärä | Menneisyys on sen tulkinta
+- H3: _missing_
+- suggested keyword seed: ensimmäinen, miniesseet, ashraellen, keho, menneisyys, public, vaan, yksi, ajatukseen, älä, alkaa, ashraellenin, elää, essay, huomioon, johtopäätökseen, joissa, katselukulmaan
+- candidates: keho, voi, ensimmäinen, siitä, vaan, yksi, elää, menneisyys, mutta, syntyy, älä, alkaa, ihminen, lue, miniessee, miniesseet, mitä, ole, olla, ovi, sen, sitä, tietoisuus, vain
+
+Excerpt:
+
+> Miniesseet Pieni tutkimus: yksi kysymys, yksi katselukulma, yksi johtopäätös. Ei luentoposeerausta eikä teatteria — vain mekanismi riittävän näkyväksi tehtynä. Ensimmäinen sykli valmiisiin sykleihin Miniessee Valta ei ajatukseen vaan huomioon Ajatus syntyy itsestään. Vapaus ei ala ajatusten kieltämisestä vaan siitä, ettei jokaisesta sisäisestä liikkeestä tarvitse tulla minä. tietoisuus / huomio / havaitsija Olemme tottuneet ajattelemaan, että kypsyys tarkoittaa itsensä hallitsemista: älä suutu, älä ahdistu, älä ajattele “vääriä” ajatuksia. Ensimmäinen virhe alkaa juuri tästä. Ihminen ei valitse seuraavaa ajatustaan samalla tavalla kuin ravintolan annosta. Ahdistus, viha ja epäily nousevat muistista, kehosta, tottumuksesta, pelosta ja ympäristön ärsykkeistä. Emme ole jokaisen sisäisen tapahtuman tekijöitä. Olemme pikemminkin niiden ensimmäisiä todistajia. Ongelma ei ala ahdistuksen ilmest
+
+### fi/public/posts/formula/index.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Polku, teko, rytmi
+- description: Ashraellenin nykyinen kaavalinja polusta, teosta ja rytmistä: lyhyitä ajatuksia, joissa liike oppii mittansa.
+- canonical: https://www.ashraellen.com/fi/public/posts/formula/
+- H1: Kaavat
+- H2: Polku, teko, rytmi
+- H3: _missing_
+- suggested keyword seed: polku, rytmi, teko, ashraellen, public, aina, ajatuksia, ashraellenin, formula, joissa, joskus, kaava, kaavalinja, kaavat, liike, lyhyitä, mikä, mittansa
+- candidates: polku, teko, rytmi, kaava, joskus, ole, aina, mikä, sitä, tarpeettoman, tauko, yksi, aika, ajatuksen, ajatuksia, ala, alkaa, ashraellen, ashraellenin, askeleen, askeleesta, auki, ehkä, ennen
+
+Excerpt:
+
+> Kaavat Ajatuksen lyhyt muoto: yksi rivi, yksi puhdas osuma. Polku, teko, rytmi Kaava Polku ei ala varmuudesta. Se alkaa ensimmäisestä rehellisestä askeleesta. polku / teko / rytmi Kaava Teko ilman sisäistä perustaa muuttuu pian meluksi. polku / teko / rytmi Kaava Kärsivällisyys ei ole ihmeen odottamista. Se on kieltäytymistä rikkomasta sitä, mikä ei ole vielä kypsä. polku / teko / rytmi Kaava Kun kuljet omaa polkuasi, muiden kartat muuttuvat lähdeaineistoksi. polku / teko / rytmi Kaava Voima ei aina liiku eteenpäin. Joskus se pysäyttää tarpeettoman askeleen. polku / teko / rytmi Kaava Aika ei paranna sitä, minkä revit auki joka päivä. polku / teko / rytmi Kaava Jokainen tauko ei ole heikkoutta. Joskus tauko suojaa suuntaa. polku / teko / rytmi Kaava Päätös kypsyy usein ennen kuin sille löytyvät sanat. polku / teko / rytmi Kaava Kiire pukeutuu mielellään päättäväisyydeksi. polku / teko / 
+
+### fi/public/posts/fragment/index.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Fragmentit
+- description: Ashraellenin fragmentit: valmistuva osasto vuosien aikana kertyneestä käsinkirjoitettujen tekstien, muistiinpanojen ja julkaisujen arkistosta.
+- canonical: https://www.ashraellen.com/fi/public/posts/fragment/
+- H1: Fragmentit
+- H2: Tätä osastoa valmistellaan
+- H3: _missing_
+- suggested keyword seed: fragmentit, aikana, ashraellen, julkaisujen, käsinkirjoitettujen, muistiinpanojen, public, tekstien, vuosien, aineistoa, alla, arkisto, arkiston, arkistoon, arkistosta, ashraellenin, fragment, kertyneestä
+- candidates: fragmentit, aikana, arkisto, julkaisujen, käsinkirjoitettujen, muistiinpanojen, tekstien, vuosien, aineistoa, alla, arkiston, arkistoon, arkistosta, asetetaan, ashraellen, ashraellen-projektin, ashraellenin, digitaaliseen, erityisen, fragmentteja, havaintoja, ilmestyy, jälkeen, järjestetään
+
+Excerpt:
+
+> Fragmentit Katkelmia suuremmista teksteistä, muistiinpanoista ja työaineistosta: tapa tuntea sävy, nähdä suunta ja tunnistaa, mikä palapelin pala juuri tässä asetetaan paikalleen. Tätä osastoa valmistellaan takaisin sisältöön Työtekstien arkisto Vuosien aikana kertynyttä käsinkirjoitettujen tekstien, muistiinpanojen ja julkaisujen aineistoa järjestetään parhaillaan digitaaliseen arkistoon. arkisto Tuleva valikoima Arkiston käsittelyn jälkeen tänne ilmestyy valittuja fragmentteja: tiiviitä kohtia, havaintoja ja tekstinpaloja, joissa Ashraellen-projektin sisäinen logiikka näkyy erityisen kirkkaasti. työn alla — mark of presence
+
+### fi/public/posts/index.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Julkaisut
+- description: Ashraellenin lyhyet havaintomuodot: kaavat, fragmentit ja miniesseet.
+- canonical: https://www.ashraellen.com/fi/public/posts/
+- H1: Julkaisut
+- H2: Osastot
+- H3: Kaavat | Fragmentit | Miniesseet
+- suggested keyword seed: ashraellen, julkaisut, ashraellenin, fragmentit, kaavat, miniesseet, public, ajatus, ehtii, ennen, eri, havaintomuodot, lue, lyhyet, osastot, posts, yksi
+- candidates: lue, ajatus, fragmentit, julkaisut, kaavat, miniesseet, yksi, ashraellen, ashraellenin, ehtii, ennen, eri, essee, fragmentteja, fragmentti, havaintomuodot, havaintomuotoja, ilman, isku, johtopäätös, kaava, kaavoja, katkelmia, katselukulma
+
+Excerpt:
+
+> Julkaisut Lyhyitä havaintomuotoja: kaavoja, fragmentteja ja miniesseitä. Eri tapoja saada ajatus kiinni ennen kuin se ehtii pukeutua luennoksi. Osastot valitse muoto kaava Kaavat Tiiviitä muotoiluja: yksi ajatus — yksi tarkka isku. Lue fragmentti Fragmentit Katkelmia suuremmista teksteistä ja työaineistosta: sävyn ja suunnan tunnistamiseen. Lue essee Miniesseet Pieni tutkimus: kysymys, katselukulma ja johtopäätös — ilman teatteria, mutta riittävällä tarkkuudella. Lue — mark of presence
+
+### fi/public/thoughts/index-0001.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Tukiajatusten ensimmäinen kaari
+- description: Ashraellenin tukiajatusten ensimmäinen kaari: iloisuus, vanhat voimat uusilla nimillä, herääminen, rajallisuus, pelko ja oivallus.
+- canonical: https://www.ashraellen.com/fi/public/thoughts/index-0001.html
+- H1: Tukiajatusten ensimmäinen kaari
+- H2: Iloisuus ihmisen diagnoosina | Samat voimat, uudet nimet | Herääminen alkaa, kun jatkaminen ei enää onnistu | Rajallisuus herättää kysymyksen | Pelko hallinnan mekanismina | Syvempi katse kokoaa elämän
+- H3: _missing_
+- suggested keyword seed: ensimmäinen, kaari, herääminen, iloisuus, pelko, tukiajatusten, voimat, alkaa, ashraellen, enää, kun, public, rajallisuus, ajatus, ashraellenin, avaa, diagnoosina, elämän
+- candidates: avaa, ajatus, tukiajatus, kaari, voimat, alkaa, enää, ensimmäinen, herääminen, iloisuus, kun, pelko, rajallisuus, tukiajatusten, 0001, eivät, ihmisen, katse, nimet, nimillä, syvempi, uusilla, vanhat, voi
+
+Excerpt:
+
+> Tukiajatukset KAARI 0001 Tukiajatusten ensimmäinen kaari Iloisuus, vanhat voimat uusilla nimillä, herääminen, rajallisuus, pelko ja syvemmän katseen synty. Ensimmäiset kuusi tukiajatusta muodostavat lähtöpisteen julkiselle havaintokentälle. Ne eivät ole aforismikokoelma vaan pieniä ovia: jokainen avaa mekanismin, jonka voi huomata omassa kokemuksessa ilman, että siitä tarvitsee rakentaa oppia. Tukiajatus 0001 Iloisuus ihmisen diagnoosina Nauru paljastaa ihmisen joskus tarkemmin kuin hänen oikeat sanansa. Avaa ajatus → Tukiajatus 0002 Samat voimat, uudet nimet Muinaiset voimat eivät kadonneet. Ne saivat vain modernit nimet. Avaa ajatus → Tukiajatus 0003 Herääminen alkaa, kun jatkaminen ei enää onnistu Sisäinen käänne alkaa kohdassa, jossa vanha reitti ei enää kanna. Avaa ajatus → Tukiajatus 0004 Rajallisuus herättää kysymyksen Moni alkaa todella ajatella vasta, kun harhakuvitelmien varast
+
+### fi/public/thoughts/index-0002.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Tukiajatusten toinen kaari
+- description: Ashraellenin tukiajatusten toinen kaari: muisti, havainnointi, herääminen, likainen kuppi, menetyksen armo ja hengellisen kirjallisuuden raja.
+- canonical: https://www.ashraellen.com/fi/public/thoughts/index-0002.html
+- H1: Tukiajatusten toinen kaari
+- H2: Tyhjä tuoli | Yleistys havainnon sijasta | Missä lakkasit olemasta elossa | Likainen kuppi | Älä kadu | Milloin kirja suljetaan
+- H3: _missing_
+- suggested keyword seed: kaari, toinen, tukiajatusten, kuppi, likainen, armo, ashraellen, havainnon, herääminen, public, ajatus, älä, ashraellenin, avaa, elossa, havainnointi, hengellisen, index
+- candidates: kaari, ajatus, avaa, tukiajatus, toinen, armo, havainnon, herääminen, joskus, kuppi, likainen, tukiajatusten, elämä, enää, havainnointi, jossa, kirja, kohdassa, menetyksen, missä, muisti, olemasta, vain, yleistys
+
+Excerpt:
+
+> Tukiajatukset KAARI 0002 Tukiajatusten toinen kaari Muisti, havainnointi, herääminen, likainen kuppi, menetyksen armo ja hetki, jolloin kirja on suljettava. Toinen kuuden ajatuksen kaari tuo havainnon konkreettisiin kuviin: tyhjään tuoliin, yleistämisen vaaraan, paikkaan jossa elämä lakkasi olemasta elävää, likaiseen kuppiin, menetykseen ja kirjaan, joka ei voi enää kulkea puolestasi. Tukiajatus 0007 Tyhjä tuoli Jotkut ihmiset eivät lähde kokonaan. He vain lakkaavat istumasta vieressämme. Avaa ajatus → Tukiajatus 0008 Yleistys havainnon sijasta Yleistys muuttuu vaaralliseksi siinä kohdassa, jossa se korvaa havainnon. Avaa ajatus → Tukiajatus 0009 Missä lakkasit olemasta elossa Joskus herääminen tarkoittaa sen näkemistä, missä kohdassa elämä muuttui pelkäksi toiminnaksi. Avaa ajatus → Tukiajatus 0010 Likainen kuppi Ympyrää juokseminen ei pese kuppia. Se vaihtaa vain juoksijan. Avaa ajatus
+
+### fi/public/thoughts/index.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Tukiajatusten kolmas kaari
+- description: Ashraellenin tukiajatusten kolmas kaari: ongelma menettää kruununsa, ylimääräinen sota päättyy, hienovarainen ajatus tarvitsee hiljaisuutta, yksi fakta, todistaja ja kuva.
+- canonical: https://www.ashraellen.com/fi/public/thoughts/
+- H1: Tukiajatusten kolmas kaari
+- H2: Ongelma menettää kruununsa | Ylimääräisen sodan loppu | Hienovarainen ajatus tarvitsee hiljaisuutta | Oli yksi fakta | Todistaja ei häiritse | Kuva ei voi olla onnellinen
+- H3: _missing_
+- suggested keyword seed: kaari, kolmas, ajatus, fakta, hienovarainen, kruununsa, kuva, menettää, todistaja, tukiajatusten, yksi, ashraellen, hiljaisuutta, ongelma, public, tarvitsee, ashraellenin, avaa
+- candidates: ajatus, avaa, tukiajatus, kaari, fakta, hienovarainen, todistaja, yksi, kolmas, kruununsa, kuva, menettää, ongelma, sodan, tukiajatusten, voi, erotetaan, häiritse, hiljaisuutta, oli, olla, onnellinen, päättyminen, sisäinen
+
+Excerpt:
+
+> Tukiajatukset KAARI 0003 Tukiajatusten kolmas kaari Faktan hyväksyminen, tarpeettoman sodan päättyminen, hienovarainen ymmärrys, paluu todellisuuteen, rauhallinen todistaminen ja ero ihmisen ja hänen kuvansa välillä. Tässä kaaressa ongelma menettää kruununsa, sisäinen väittely todellisuuden kanssa hiljenee, hienovarainen ajatus pyytää tilaa, yksi fakta erotetaan sisäisestä tv-sarjasta, todistaja ei häiritse ja elävä ihminen erotetaan kuvasta, jota hän ylläpitää. Tukiajatus 0013 Ongelma menettää kruununsa Ongelmaa ei tuhottu. Sen draama vain menetti hallitsijan aseman. Avaa ajatus → Tukiajatus 0014 Ylimääräisen sodan loppu Sisäinen suostuminen siihen, mikä on, ei ole tappio. Se on tarpeettoman sodan päättyminen. Avaa ajatus → Tukiajatus 0015 Hienovarainen ajatus tarvitsee hiljaisuutta Hienovaraisen ajatuksen ei tarvitse muuttua karkeaksi tullakseen huomatuksi. Avaa ajatus → Tukiajatus 001
 
 ### fi/research/archive/index.html
 
