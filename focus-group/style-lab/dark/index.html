@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow,noarchive">
+  <title>Ashraellen — Dark Style Lab</title>
+  <link rel="stylesheet" href="/assets/style-lab.css">
+</head>
+<body class="lab-dark">
+  <main class="lab-shell">
+    <header class="lab-head">
+      <p class="lab-eyebrow">internal visual laboratory / dark system</p>
+      <h1 class="lab-title">Dark Style Lab</h1>
+      <p class="lab-intro">Изолированная страница для выбора типографики и компонентов основного тёмного сайта. Зелёная метка CURRENT означает существующее значение на сайте. Тёплая метка TEST — вариант для визуального сравнения.</p>
+      <p class="lab-rule">Отвечать можно коротко по ID: «D-T05 лучше, D-T02 мелкий, D-B03 оставить».</p>
+    </header>
+
+    <section class="lab-section">
+      <h2>1. Основной текст: размер + межстрочный интервал</h2>
+      <p class="section-note">Один и тот же текст. Меняется только размер и line-height. Сравнивай прежде всего комфорт длительного чтения на телефоне.</p>
+      <div class="spec-grid">
+        <article class="spec current"><div class="spec-meta"><span class="spec-id">D-T01</span><span class="state">CURRENT</span><span>14px / 1.35</span><span>system-ui</span><span>thought cards</span></div><p class="sample system fs14 lh135 muted">Текст не обязан объяснять себя быстрее, чем читатель успевает его услышать. Хороший ритм оставляет место смыслу, но не превращает страницу в лестницу из пустот.</p></article>
+        <article class="spec current"><div class="spec-meta"><span class="spec-id">D-T02</span><span class="state">CURRENT</span><span>14px / 1.78</span><span>system-ui</span><span>public intro</span></div><p class="sample system fs14 lh178 muted">Текст не обязан объяснять себя быстрее, чем читатель успевает его услышать. Хороший ритм оставляет место смыслу, но не превращает страницу в лестницу из пустот.</p></article>
+        <article class="spec current"><div class="spec-meta"><span class="spec-id">D-T03</span><span class="state">CURRENT</span><span>15px / 1.50</span><span>system-ui</span><span>contact body</span></div><p class="sample system fs15 lh15">Текст не обязан объяснять себя быстрее, чем читатель успевает его услышать. Хороший ритм оставляет место смыслу, но не превращает страницу в лестницу из пустот.</p></article>
+        <article class="spec test"><div class="spec-meta"><span class="spec-id">D-T04</span><span class="state">TEST</span><span>16px / 1.35</span><span>system-ui</span></div><p class="sample system fs16 lh135">Текст не обязан объяснять себя быстрее, чем читатель успевает его услышать. Хороший ритм оставляет место смыслу, но не превращает страницу в лестницу из пустот.</p></article>
+        <article class="spec test"><div class="spec-meta"><span class="spec-id">D-T05</span><span class="state">TEST</span><span>16px / 1.45</span><span>system-ui</span></div><p class="sample system fs16 lh145">Текст не обязан объяснять себя быстрее, чем читатель успевает его услышать. Хороший ритм оставляет место смыслу, но не превращает страницу в лестницу из пустот.</p></article>
+        <article class="spec test"><div class="spec-meta"><span class="spec-id">D-T06</span><span class="state">TEST</span><span>16px / 1.58</span><span>system-ui</span></div><p class="sample system fs16 lh158">Текст не обязан объяснять себя быстрее, чем читатель успевает его услышать. Хороший ритм оставляет место смыслу, но не превращает страницу в лестницу из пустот.</p></article>
+      </div>
+    </section>
+
+    <section class="lab-section">
+      <h2>2. Serif-текст</h2>
+      <p class="section-note">Georgia / Times используется в формулах, цитатах и некоторых более литературных блоках.</p>
+      <div class="spec-grid">
+        <article class="spec current"><div class="spec-meta"><span class="spec-id">D-S01</span><span class="state">CURRENT</span><span>14px / 1.55</span><span>Georgia</span><span>formula line</span></div><p class="sample serif fs14 lh155">Путь не начинается с уверенности. Он начинается с первого честного шага.</p></article>
+        <article class="spec current"><div class="spec-meta"><span class="spec-id">D-S02</span><span class="state">CURRENT</span><span>22px / 1.42</span><span>Georgia</span><span>large formula</span></div><p class="sample serif fs22 lh142">Путь не начинается с уверенности. Он начинается с первого честного шага.</p></article>
+        <article class="spec test"><div class="spec-meta"><span class="spec-id">D-S03</span><span class="state">TEST</span><span>16px / 1.45</span><span>Georgia</span></div><p class="sample serif fs16 lh145">Путь не начинается с уверенности. Он начинается с первого честного шага.</p></article>
+        <article class="spec test"><div class="spec-meta"><span class="spec-id">D-S04</span><span class="state">TEST</span><span>16px / 1.58</span><span>Georgia</span></div><p class="sample serif fs16 lh158">Путь не начинается с уверенности. Он начинается с первого честного шага.</p></article>
+      </div>
+    </section>
+
+    <section class="lab-section">
+      <h2>3. Текстовые роли и заголовки</h2>
+      <p class="section-note">Реальные уровни, которые уже существуют в основных CSS.</p>
+      <div class="spec type-ruler current">
+        <div class="type-row"><span class="type-label">D-R01 · 11px</span><p class="sample fs11 strong" style="letter-spacing:.12em;text-transform:uppercase">FORMULA KICKER / LANGUAGE ROW</p></div>
+        <div class="type-row"><span class="type-label">D-R02 · 12px</span><p class="sample fs12 muted">note / badge / seal / eyebrow</p></div>
+        <div class="type-row"><span class="type-label">D-R03 · 13px</span><p class="sample fs13 muted">navigation / metadata / small action</p></div>
+        <div class="type-row"><span class="type-label">D-R04 · 13.5px</span><p class="sample fs135 muted">homepage hint / professional link — исторический промежуточный размер</p></div>
+        <div class="type-row"><span class="type-label">D-R05 · 14px</span><p class="sample fs14">card copy / public intro / standard button</p></div>
+        <div class="type-row"><span class="type-label">D-R06 · 15px</span><p class="sample fs15">contact body / homepage subtitle</p></div>
+        <div class="type-row"><span class="type-label">D-R07 · 16px</span><p class="sample fs16 strong">card heading / mobile primary button</p></div>
+        <div class="type-row"><span class="type-label">D-R08 · 18px</span><p class="sample fs18 strong">contact box heading / block heading</p></div>
+        <div class="type-row"><span class="type-label">D-R09 · 20px</span><p class="sample fs20 strong">thought title / book title</p></div>
+        <div class="type-row"><span class="type-label">D-R10 · 22px</span><p class="sample fs22 strong">section title / public H1</p></div>
+        <div class="type-row"><span class="type-label">D-R11 · 28px</span><p class="sample fs28 strong">books H1 / compact large title</p></div>
+      </div>
+      <div class="spec-grid three" style="margin-top:16px">
+        <article class="spec current"><div class="spec-meta"><span class="spec-id">D-H01</span><span class="state">CURRENT</span><span>clamp(28,5vw,40) / 1.15</span></div><p class="display-sample display-1">Заметки / Поля</p></article>
+        <article class="spec current"><div class="spec-meta"><span class="spec-id">D-H02</span><span class="state">CURRENT</span><span>clamp(34,6vw,56) / 1.02</span></div><p class="display-sample display-2">Контакт</p></article>
+        <article class="spec test"><div class="spec-meta"><span class="spec-id">D-H03</span><span class="state">TEST</span><span>clamp(42,8vw,76) / .96</span></div><p class="display-sample display-3">Ashraellen</p></article>
+      </div>
+    </section>
+
+    <section class="lab-section">
+      <h2>4. Кнопки, pills, badge</h2>
+      <p class="section-note">Формы собраны из homepage, public/thoughts, contact и books.</p>
+      <div class="spec-grid">
+        <article class="spec current"><div class="spec-meta"><span class="spec-id">D-B01</span><span class="state">CURRENT</span><span>homepage desktop</span><span>44px high · radius 12</span></div><div class="button-row"><span class="lab-btn btn-rect">Публичное</span><span class="lab-btn btn-rect">Исследование</span></div></article>
+        <article class="spec current"><div class="spec-meta"><span class="spec-id">D-B02</span><span class="state">CURRENT</span><span>homepage mobile</span><span>16px · radius 14</span></div><div class="button-row"><span class="lab-btn btn-mobile">Публичное</span></div></article>
+        <article class="spec current"><div class="spec-meta"><span class="spec-id">D-B03</span><span class="state">CURRENT</span><span>thought/public pill</span><span>13px</span></div><div class="button-row"><span class="lab-btn btn-pill13">Открыть</span><span class="badge">текущий</span></div></article>
+        <article class="spec current"><div class="spec-meta"><span class="spec-id">D-B04</span><span class="state">CURRENT</span><span>formula pill</span><span>12px</span></div><div class="button-row"><span class="lab-btn btn-pill12">Читать формулу</span></div></article>
+        <article class="spec current"><div class="spec-meta"><span class="spec-id">D-B05</span><span class="state">CURRENT</span><span>professional pill</span><span>13.5px / 1</span></div><div class="button-row"><span class="lab-btn btn-prof">Профессиональное досье</span></div></article>
+        <article class="spec current"><div class="spec-meta"><span class="spec-id">D-B06</span><span class="state">CURRENT</span><span>contact pill</span><span>15px</span></div><div class="button-row"><span class="lab-btn btn-contact">ashraellen@gmail.com</span></div></article>
+      </div>
+    </section>
+
+    <section class="lab-section">
+      <h2>5. Карточки и текстовые контейнеры</h2>
+      <div class="spec-grid">
+        <article class="spec current"><div class="spec-meta"><span class="spec-id">D-C01</span><span class="state">CURRENT</span><span>public card · radius 16</span></div><div class="card-dark"><h3>Публичное</h3><p>Короткий описательный текст карточки. Сейчас 14px / 1.35.</p></div></article>
+        <article class="spec current"><div class="spec-meta"><span class="spec-id">D-C02</span><span class="state">CURRENT</span><span>thought card · radius 18</span></div><div class="card-thought"><p class="lab-eyebrow">мысль 0019</p><h3>То, что действительно твоё</h3><p>Карточка мысли с более мягким контуром и тем же текстовым масштабом.</p></div></article>
+        <article class="spec current"><div class="spec-meta"><span class="spec-id">D-C03</span><span class="state">CURRENT</span><span>field note · 14px / 1.75</span></div><div class="field-note">Полевое примечание имеет заметно более воздушный line-height. Здесь удобно сравнить, является ли 1.75 комфортом или уже избыточной разрядкой строк.</div></article>
+        <article class="spec current"><div class="spec-meta"><span class="spec-id">D-C04</span><span class="state">CURRENT</span><span>contact box · 15px / 1.50</span></div><div class="contact-box"><h3>Прямой контакт</h3><p>Этот контейнер использует чуть более крупный текст и спокойный межстрочный интервал.</p></div></article>
+      </div>
+    </section>
+
+    <section class="lab-section">
+      <h2>6. Рамки, радиусы, тени</h2>
+      <p class="section-note">Здесь нет текста как главного объекта — сравниваем только форму контейнера.</p>
+      <div class="surface-grid">
+        <div class="surface radius12 shadow0">D-F01 · radius 12 · no shadow</div>
+        <div class="surface radius14 shadow1">D-F02 · radius 14 · shadow 8/24</div>
+        <div class="surface radius16 shadow2">D-F03 · radius 16 · shadow 14/38</div>
+        <div class="surface radius18 shadow3">D-F04 · radius 18 · shadow 18/42</div>
+      </div>
+    </section>
+
+    <section class="lab-section">
+      <h2>7. Базовая палитра</h2>
+      <div class="palette">
+        <div class="swatch sw-bg">D-P01 · #0b0b0d</div><div class="swatch sw-fg">D-P02 · #f2f2f4</div><div class="swatch sw-muted">D-P03 · #a9a9b2</div><div class="swatch sw-panel">D-P04 · panel</div><div class="swatch sw-accent">D-P05 · lab accent</div>
+      </div>
+    </section>
+
+    <section class="lab-section">
+      <h2>8. Пространство</h2>
+      <p class="section-note">Опорные величины, которые часто встречаются в padding/gap текущего сайта.</p>
+      <div class="spacing-row"><div class="space-box s8">8</div><div class="space-box s12">12</div><div class="space-box s16">16</div><div class="space-box s18">18</div><div class="space-box s22">22</div><div class="space-box s28">28</div><div class="space-box s34">34</div><div class="space-box s44">44px</div></div>
+    </section>
+
+    <section class="lab-section">
+      <h2>9. Mark of presence</h2>
+      <div class="spec current"><div class="spec-meta"><span class="spec-id">D-M01</span><span class="state">CURRENT</span><span>12px · icon 22px</span></div><div class="seal-sample"><img src="/assets/symbol.png" alt=""><span>— mark of presence</span></div></div>
+    </section>
+
+    <footer class="lab-footer">Служебная страница. noindex / nofollow. Не включена в навигацию. Никакие выбранные здесь варианты сами по себе не являются утверждёнными design tokens.</footer>
+  </main>
+</body>
+</html>
