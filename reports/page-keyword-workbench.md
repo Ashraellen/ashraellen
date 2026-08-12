@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T19:19:34.895Z
+Generated: 2026-08-12T19:22:41.260Z
 Pages: 843
 
 ## Index
@@ -370,7 +370,7 @@ Pages: 843
 | fr/books/error-404-god-not-found/index.html | fr | books | Ashraellen — Erreur 404 : Dieu introuvable | _missing_ | 404, dieu, erreur, introuvable, cycle, ashraellen, books, céleste, chancellerie, l’erreur, série, sur, contre, error, est, found, god, humaine |
 | fr/books/error-404-god-not-found/why-me/index.html | fr | books | Ashraellen — Pourquoi moi ? | _missing_ | livre, moi, pourquoi, ashraellen, books, 404, avec, bureaucratie, céleste, chancellerie, comme, couches, cycle, dans, demande, dieu, douleur, erreur |
 | fr/books/index.html | fr | books | Ashraellen — Livres | Ashraellen, livres, Demotopia, Utopie démocratique, MONOLITHE, ÉCLAT, ERREUR 404, DIEU INTROUVABLE, SECCUS, Tu es déjà en ligne, The Book of Whinesis, samizdat 2.0, éditions d’auteur | livres, d’auteur, directes, ashraellen, books, éditions, livre, 2.0, 404, book, cycle, cycles, d’ashraellen, déjà, demotopia, des, dieu, éclat |
-| fr/books/monolith/beton/index.html | fr | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ashraellen, books, dans, est, livre, monolith, stabilité, une, anton, artistique, cadre, choisi, cœur, comme, des, divulgâcher, dossier |
+| fr/books/monolith/beton/index.html | fr | books | Ashraellen — BÉTON | Ashraellen, MONOLITHE, BÉTON, dystopie, littérature, recherche artistique | béton, ashraellen, books, dans, est, livre, stabilité, une, anton, artistique, beton, cadre, choisi, cœur, comme, des, divulgâcher, dossier |
 | fr/books/monolith/index.html | fr | books | Ashraellen — MONOLITHE | Ashraellen, MONOLITHE, BÉTON, BOUE, GAZ, dystopie, littérature, recherche artistique | monolithe, ashraellen, béton, books, boue, contrôle, des, désagrégation, est, mémoire, pas, une, artistique, cadre, carte, confondre, dans, dystopique |
 | fr/books/monolith/sludge/index.html | fr | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, ashraellen, books, monolith, pour, qui, sur, une, artistique, cadre, choisi, comme, complicité, dans, des, divulgâcher, dossier, dystopie |
 | fr/books/radiance/index.html | fr | books | Ashraellen — Éclat \| Contes nordiques sur la véritable histoire du monde | Ashraellen, Éclat, Sampo, Chant, Livres, literary-philosophical, artistic research | éclat, artistique, les, monde, sur, ashraellen, books, cycle, est, pas, recherche, anciennes, cadre, carte, confondre, contes, d'instructions, des |
@@ -7028,18 +7028,18 @@ Excerpt:
 
 - lang: fr
 - section: books
-- title: Ashraellen — BETON
-- description: BETON est le volume I de MONOLITH : une dystopie philosophique sur la stabilité durcie, la mémoire réécrite et la première fissure au cœur du Système.
+- title: Ashraellen — BÉTON
+- description: BÉTON est le volume I de MONOLITHE : une dystopie philosophique sur la stabilité durcie, la mémoire réécrite et la première fissure au cœur du Système.
 - canonical: https://www.ashraellen.com/fr/books/monolith/beton/
-- H1: BETON
+- H1: BÉTON
 - H2: Dossier | Extrait choisi | À propos du livre | Sans divulgâcher | Cadre artistique et de recherche | Thèmes / nœuds de sens | À qui s’adresse ce livre | Place dans la trilogie
 - H3: Stabilité | Mémoire | Bruit | Correction | Département des Sens | La fissure
-- suggested keyword seed: beton, ashraellen, books, dans, est, livre, monolith, stabilité, une, anton, artistique, cadre, choisi, cœur, comme, des, divulgâcher, dossier
-- candidates: une, les, est, que, dans, des, pas, pour, beton, stabilité, anton, comme, mémoire, sur, qui, mark, fissure, monolith, sens, système, c’est, nous, plus, bruit
+- suggested keyword seed: béton, ashraellen, books, dans, est, livre, stabilité, une, anton, artistique, beton, cadre, choisi, cœur, comme, des, divulgâcher, dossier
+- candidates: une, les, est, que, dans, des, béton, pas, pour, stabilité, anton, comme, mémoire, sur, qui, mark, fissure, monolithe, sens, système, c’est, nous, plus, bruit
 
 Excerpt:
 
-> BETON BETON est une dystopie philosophique sur un monde où la stabilité est devenue une prison, où la mémoire est considérée comme une menace et où la première fissure apparaît à l’intérieur d’un système qui se croit encore éternel. Volume I de la trilogie MONOLITH. Dossier Volume I Le béton ne commence pas par un mur. Il commence par l’habitude d’appeler une prison stabilité. DOSSIER N° 2026-001B. Indice : 6666548A. STATUT : Secret absolu. Lire l’édition russe sur Google Play Books Lire l’édition anglaise sur Amazon Retour à MONOLITH Extrait choisi Chapitre 9 / § 9.1 Chapitre 9. Protocole « Fierté » § 9.1. La meilleure colle pour la société L’extrait révèle l’un des mécanismes de BETON : comment la douleur devient slogan, la culpabilité colle sociale, et la perte humaine une image administrable de la stabilité. Ouvrir l’extrait complet Chapitre 9. Protocole « Fierté » § 9.1. La meilleur
+> BÉTON BÉTON est une dystopie philosophique sur un monde où la stabilité est devenue une prison, où la mémoire est considérée comme une menace et où la première fissure apparaît à l’intérieur d’un système qui se croit encore éternel. Volume I de la trilogie MONOLITHE. Dossier Volume I Le béton ne commence pas par un mur. Il commence par l’habitude d’appeler une prison stabilité. DOSSIER N° 2026-001B. Indice : 6666548A. STATUT : Secret absolu. Lire l’édition anglaise sur Google Play Books Lire l’édition anglaise sur Amazon Retour à MONOLITHE Extrait choisi Chapitre 9 / § 9.1 Chapitre 9. Protocole « Fierté » § 9.1. La meilleure colle pour la société L’extrait révèle l’un des mécanismes de BÉTON : comment la douleur devient slogan, la culpabilité colle sociale, et la perte humaine une image administrable de la stabilité. Ouvrir l’extrait complet Chapitre 9. Protocole « Fierté » § 9.1. La mei
 
 ### fr/books/monolith/index.html
 
