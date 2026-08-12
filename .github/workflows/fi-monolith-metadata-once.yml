@@ -1,0 +1,66 @@
+name: FI MONOLIITTI metadata patch once
+
+on:
+  push:
+    paths:
+      - '.github/workflows/fi-monolith-metadata-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  patch-fi-monolith-metadata:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Patch LIETE and KAASU metadata only
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          jobs = {
+            Path('fi/books/monolith/sludge/index.html'): {
+              'desc': 'LIETE on MONOLIITTI-trilogian osa II: filosofinen dystopia viskoosista paineesta, uupuneesta vastarinnasta, osallisuudesta ja muodon menetyksestä.',
+              'keywords': 'Ashraellen, LIETE, MONOLIITTI, dystopia, osallisuus, uupumus, muodonmuutos',
+              'ogdesc': 'MONOLIITTI, osa II: viskoosi paine, uupunut vastarinta, osallisuus ja muodon menetys.',
+              'title': 'Ashraellen — LIETE',
+              'image': 'https://www.ashraellen.com/assets/covers/sludge-en.webp'
+            },
+            Path('fi/books/monolith/gas/index.html'): {
+              'desc': 'KAASU — MONOLIITTI-trilogian kolmas ja viimeinen osa: romaani vallasta, kokonaiskontrollista ja lähteen, kantajan sekä ympäristön välisen rajan katoamisesta.',
+              'keywords': 'Ashraellen, KAASU, MONOLIITTI, dystopia, valta, muisti, diffuusio',
+              'ogdesc': 'MONOLIITTI-trilogian osa III: paikannuksen menetys, valta, muisti ja diffuusio.',
+              'title': 'Ashraellen — KAASU',
+              'image': 'https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp'
+            }
+          }
+
+          for path, m in jobs.items():
+            s = path.read_text(encoding='utf-8')
+            desc_tag = f'<meta name="description" content="{m["desc"]}">'
+            if 'name="keywords"' not in s:
+              s = s.replace(desc_tag, desc_tag + f'<meta name="keywords" content="{m["keywords"]}">', 1)
+            if 'property="og:description"' not in s:
+              marker = f'<meta property="og:title" content="{m["title"]}">'
+              s = s.replace(marker, marker + f'<meta property="og:description" content="{m["ogdesc"]}">', 1)
+            if 'name="twitter:title"' not in s:
+              marker = '<meta name="twitter:card" content="summary_large_image">'
+              s = s.replace(marker, marker + f'<meta name="twitter:title" content="{m["title"]}"><meta name="twitter:description" content="{m["ogdesc"]}"><meta name="twitter:image" content="{m["image"]}">', 1)
+            elif 'name="twitter:image"' not in s:
+              marker = f'<meta name="twitter:title" content="{m["title"]}">'
+              s = s.replace(marker, marker + f'<meta name="twitter:description" content="{m["ogdesc"]}"><meta name="twitter:image" content="{m["image"]}">', 1)
+            path.write_text(s, encoding='utf-8')
+          PY
+      - name: Commit only FI MONOLIITTI metadata changes
+        run: |
+          if git diff --quiet -- fi/books/monolith/sludge/index.html fi/books/monolith/gas/index.html; then
+            echo 'No changes needed.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add fi/books/monolith/sludge/index.html fi/books/monolith/gas/index.html
+          git commit -m 'FI MONOLIITTI: complete LIETE and KAASU metadata'
+          git push
