@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T12:44:45.976Z",
+  "generated": "2026-08-12T12:59:30.416Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -24736,8 +24736,8 @@
       "lang": "fi",
       "section": "public",
       "title": "Ashraellen — Milloin kirja on aika sulkea",
-      "description": "Tukiajatus 0012: jossain vaiheessa polku ei enää jatku sivulla vaan hiljaisuudessa.",
-      "existingKeywords": "",
+      "description": "Tukiajatus 0012: henkinen kirjallisuus voi näyttää suunnan, mutta jossain vaiheessa polku ei enää jatku sivulla vaan hiljaisuudessa.",
+      "existingKeywords": "Ashraellen, tukiajatus, henkinen kirjallisuus, hiljaisuus, hyväksyminen",
       "canonical": "https://www.ashraellen.com/fi/public/thoughts/arcs/0012-close-the-book.html",
       "h1": [
         "Milloin kirja on aika sulkea"
@@ -24761,20 +24761,20 @@
       "excerpt": "Tukiajatus 0012 Milloin kirja on aika sulkea Jossain vaiheessa polku ei enää jatku sivulla. Se jatkuu hiljaisuudessa. Ajatus Henkinen kirjallisuus voi olla kartta, lyhty ja ensimmäinen sysäys. Mutta kartta ei kävele puolestasi. Jos lukeminen korvaa kokemuksen, viisaimmastakin tienviitasta tulee uusi häkki. Koko teksti Kuinka arvokasta henkinen kirjallisuus on? Erittäin arvokasta. Se hälventää tietämättömyyttä, antaa ensimmäiset sanat, ensimmäiset suunnat ja ensimmäisen sisäisen tuen. Matkan alussa kirja voi olla kartta, lyhty ja joskus myös sopivan epähieno potku kohti itseä. Mutta jokaisessa kartassa on yksi vaara. Ihminen voi alkaa tutkia karttaa sen sijaan, että lähtisi liikkeelle. Hän lukee hiljaisuudesta sen sijaan, että astuisi siihen. Lukee hyväksymisestä sen sijaan, että hyväksyisi. Lukee vapaudesta sen sijaan, että poistuu omasta häkistään. Lukee Jumalasta sen sijaan, että olisi",
       "candidates": [
         "että",
-        "sen",
         "voi",
-        "kirja",
         "mutta",
+        "sen",
+        "kirja",
         "sijaan",
         "ajatus",
+        "henkinen",
+        "kirjallisuus",
         "lukee",
         "enää",
-        "henkinen",
         "hiljaisuudessa",
         "jatku",
         "jossain",
         "kartta",
-        "kirjallisuus",
         "polku",
         "sivulla",
         "sulkea",
@@ -24791,19 +24791,19 @@
         "ajatus",
         "ashraellen",
         "enää",
+        "henkinen",
         "hiljaisuudessa",
-        "jatku",
+        "kirjallisuus",
         "milloin",
+        "mutta",
         "public",
         "sulkea",
+        "voi",
         "0012",
         "arcs",
         "book",
         "close",
-        "että",
-        "henkinen",
-        "jossain",
-        "koko"
+        "että"
       ]
     },
     {

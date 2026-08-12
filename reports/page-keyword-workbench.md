@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T12:44:45.991Z
+Generated: 2026-08-12T12:59:30.431Z
 Pages: 842
 
 ## Index
@@ -340,7 +340,7 @@ Pages: 842
 | fi/public/thoughts/arcs/0009-where-life-stopped.html | fi | public | Ashraellen — Missä lakkasit olemasta elossa | _missing_ | missä, elossa, lakkasit, ashraellen, elämä, herääminen, joskus, olemasta, public, ajatus, arcs, ashraellenin, että, herätä, juuri, kohdassa, koko, life |
 | fi/public/thoughts/arcs/0010-dirty-cup.html | fi | public | Ashraellen — Likainen kuppi | _missing_ | kuppi, likainen, ashraellen, kuppia, public, vaihtaa, vain, ympyrää, ajatus, alice, arcs, ashraellenin, cup, dirty, hatuntekijä, juokseminen, juoksijan, koko |
 | fi/public/thoughts/arcs/0011-do-not-regret.html | fi | public | Ashraellen — Älä kadu | _missing_ | älä, kadu, armo, ashraellen, joskus, public, ajatus, arcs, ashraellenin, elämä, ihminen, jota, koko, kun, menetykseltä, merkitys, mikä, miksi |
-| fi/public/thoughts/arcs/0012-close-the-book.html | fi | public | Ashraellen — Milloin kirja on aika sulkea | _missing_ | kirja, aika, ajatus, ashraellen, enää, hiljaisuudessa, jatku, milloin, public, sulkea, 0012, arcs, book, close, että, henkinen, jossain, koko |
+| fi/public/thoughts/arcs/0012-close-the-book.html | fi | public | Ashraellen — Milloin kirja on aika sulkea | Ashraellen, tukiajatus, henkinen kirjallisuus, hiljaisuus, hyväksyminen | kirja, aika, ajatus, ashraellen, enää, henkinen, hiljaisuudessa, kirjallisuus, milloin, mutta, public, sulkea, voi, 0012, arcs, book, close, että |
 | fi/public/thoughts/arcs/0013-problem-loses-crown.html | fi | public | Ashraellen — Ongelma menettää kruununsa | _missing_ | ongelma, ajatus, ashraellen, kadonnut, kruununsa, menettää, mutta, ole, public, sen, 0013, arcs, crown, draama, eikä, että, koko, loses |
 | fi/public/thoughts/arcs/0014-end-of-extra-war.html | fi | public | Ashraellen — Ylimääräisen sodan loppu | _missing_ | loppu, sodan, ajatus, ashraellen, mikä, public, sisäinen, ylimääräisen, 0014, arcs, end, että, extra, joka, juuri, kaikki, koko, kyllä |
 | fi/public/thoughts/arcs/0015-subtle-thought-needs-silence.html | fi | public | Ashraellen — Hieno ajatus tarvitsee hiljaisuutta | _missing_ | ajatus, hieno, hiljaisuutta, tarvitsee, ajatuksen, ashraellen, huomatuksi, karkeaksi, muuttua, public, tarvitse, tullakseen, 0015, arcs, hienovaraisen, joskus, koko, miksi |
@@ -6518,13 +6518,13 @@ Excerpt:
 - lang: fi
 - section: public
 - title: Ashraellen — Milloin kirja on aika sulkea
-- description: Tukiajatus 0012: jossain vaiheessa polku ei enää jatku sivulla vaan hiljaisuudessa.
+- description: Tukiajatus 0012: henkinen kirjallisuus voi näyttää suunnan, mutta jossain vaiheessa polku ei enää jatku sivulla vaan hiljaisuudessa.
 - canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0012-close-the-book.html
 - H1: Milloin kirja on aika sulkea
 - H2: Ajatus | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
 - H3: _missing_
-- suggested keyword seed: kirja, aika, ajatus, ashraellen, enää, hiljaisuudessa, jatku, milloin, public, sulkea, 0012, arcs, book, close, että, henkinen, jossain, koko
-- candidates: että, sen, voi, kirja, mutta, sijaan, ajatus, lukee, enää, henkinen, hiljaisuudessa, jatku, jossain, kartta, kirjallisuus, polku, sivulla, sulkea, vaan, vaiheessa, 0012, aika, alussa, antaa
+- suggested keyword seed: kirja, aika, ajatus, ashraellen, enää, henkinen, hiljaisuudessa, kirjallisuus, milloin, mutta, public, sulkea, voi, 0012, arcs, book, close, että
+- candidates: että, voi, mutta, sen, kirja, sijaan, ajatus, henkinen, kirjallisuus, lukee, enää, hiljaisuudessa, jatku, jossain, kartta, polku, sivulla, sulkea, vaan, vaiheessa, 0012, aika, alussa, antaa
 
 Excerpt:
 
