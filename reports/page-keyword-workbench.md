@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T14:53:03.912Z
+Generated: 2026-08-12T14:54:06.920Z
 Pages: 842
 
 ## Index
@@ -296,7 +296,7 @@ Pages: 842
 | es/research/sources/index.html | es | research | Ashraellen — Fuentes y tradición | ashraellen, research, sources, fuentes, tradición, fenomenología, conciencia, cuerpo, relato, ciencia, cognitiva, práctica, artística, edmund, husserl, experiencia, antes, las | como, ashraellen, conciencia, cuerpo, fuentes, relato, tradición, artística, experiencia, fenomenología, forma, research, antes, ciencia, cognitiva, comprensión, con, direcciones |
 | fi/books/demotopia/index.html | fi | books | Demotopia — Demokraattinen utopia — Ashraellen | _missing_ | demotopia, ashraellen, books, ashraellenin, datasta, demokraattinen, demokratiasta, filosofinen, hajautetusta, hän, ihmisen, ihmisestä, järjestelmä, julkaisutilanne, kehys, kirjassa, kuin, kun |
 | fi/books/error-404-god-not-found/index.html | fi | books | Ashraellen — VIRHE 404: JUMALAA EI LÖYTYNYT | _missing_ | 404, jumalaa, löytynyt, virhe, ashraellen, books, filosofis-satiirinen, ihmisen, sarjan, avaa, error, etsitään, found, god, hakutavasta, häntä, kaikessa, kansliasta |
-| fi/books/error-404-god-not-found/why-me/index.html | fi | books | Ashraellen — Why Me? | _missing_ | why, error, found, god, 404, ashraellen, books, kirja, byrokratiasta, eikä, ensimmäinen, filosofis-satiirinen, hän, katkelma, kirjasta, kivusta, kuin, oli |
+| fi/books/error-404-god-not-found/why-me/index.html | fi | books | Ashraellen — Miksi minä? | _missing_ | miksi, minä, 404, ashraellen, books, jumalaa, kirja, virhe, byrokratiasta, eikä, ensimmäinen, error, filosofis-satiirinen, found, god, hän, katkelma, kirjasta |
 | fi/books/index.html | fi | books | Ashraellen — Kirjat | _missing_ | kirjat, 2.0, ashraellen, books, jumalaa, samizdat, satiiri, tekijäjulkaisut, 404, ashraellenin, audioromaani, avaa, book, demotopia, filosofinen, hohde, itsenäiset, kirja |
 | fi/books/monolith/beton/index.html | fi | books | Ashraellen — BETONI | _missing_ | betoni, ashraellen, books, järjestelmän, katkelma, osa, anton, beton, dystopia, englanninkielinen, ensimmäinen, ensimmäisestä, että, filosofinen, halkeama, halkeamasta, hänen, kehys |
 | fi/books/monolith/gas/index.html | fi | books | Ashraellen — KAASU | _missing_ | kaasu, ashraellen, books, objektin, osa, alkaa, ennen, gas, ilman, jälkeen, joka, kantajan, katkelma, katoamisesta, kehys, kirjallinen, kirjasta, kokonaiskontrollista |
@@ -5769,18 +5769,18 @@ Excerpt:
 
 - lang: fi
 - section: books
-- title: Ashraellen — Why Me?
-- description: Why Me? — Error 404: God Not Found -sarjan ensimmäinen kirja. Filosofis-satiirinen romaani kivusta, valituksesta, uskosta ja sielun byrokratiasta.
+- title: Ashraellen — Miksi minä?
+- description: Miksi minä? — VIRHE 404: JUMALAA EI LÖYTYNYT -sarjan ensimmäinen kirja. Filosofis-satiirinen romaani kivusta, valituksesta, uskosta ja sielun byrokratiasta.
 - canonical: https://www.ashraellen.com/fi/books/error-404-god-not-found/why-me/
-- H1: Why Me?
+- H1: Miksi minä?
 - H2: Kirjasta | Teema | Katkelma | Versio
-- H3: Luku 1. Error 404
-- suggested keyword seed: why, error, found, god, 404, ashraellen, books, kirja, byrokratiasta, eikä, ensimmäinen, filosofis-satiirinen, hän, katkelma, kirjasta, kivusta, kuin, oli
-- candidates: hän, oli, why, 404, error, kuin, vlad, eikä, sanoi, found, god, kirja, kivusta, ole, olisi, ollut, sitten, antaa, elämän, että, filosofis-satiirinen, ihminen, istui, joka
+- H3: Luku 1. Virhe 404
+- suggested keyword seed: miksi, minä, 404, ashraellen, books, jumalaa, kirja, virhe, byrokratiasta, eikä, ensimmäinen, error, filosofis-satiirinen, found, god, hän, katkelma, kirjasta
+- candidates: hän, miksi, minä, oli, virhe, 404, jumalaa, kuin, vlad, eikä, sanoi, kirja, kivusta, löytynyt, ole, olisi, ollut, sitten, antaa, elämän, että, filosofis-satiirinen, ihminen, istui
 
 Excerpt:
 
-> Why Me? Kirja I sarjasta Error 404: God Not Found . Filosofis-satiirinen romaani kivusta, valituksesta, uskosta ja Taivaallisesta kansliasta — paikasta, jota ei ehkä ole missään muualla kuin siinä hetkessä, kun ihminen vaatii elämältä kirjallista selitystä. Kirjasta valmisteilla painoon Valmisteilla Why Me? kertoo Vladista, lakimiehestä ja maailmankaikkeuden ärtyneestä kantelijasta, joka yrittää tehdä omasta kärsimyksestään muodollisesti pätevän valituksen. Hän ei kaipaa valaistumista. Hän haluaa selityksen — mieluiten kirjallisena, allekirjoitettuna, leimattuna ja muutoksenhakuohjeineen. Hänestä kärsimys antaa oikeuden vastaukseen, ja elämän pitäisi ainakin tunnustaa menettelyvirhe. Taivaallinen kanslia ei kuitenkaan ole korvausosasto. Se ei väittele, lohduta eikä todista Jumalan olemassaoloa. Se rekisteröi pyynnön ja alkaa vähitellen näyttää, että virhe saattaa olla muualla kuin vastau
+> Miksi minä? Kirja I sarjasta VIRHE 404: JUMALAA EI LÖYTYNYT . Filosofis-satiirinen romaani kivusta, valituksesta, uskosta ja Taivaallisesta kansliasta — paikasta, jota ei ehkä ole missään muualla kuin siinä hetkessä, kun ihminen vaatii elämältä kirjallista selitystä. Kirjasta valmisteilla painoon Valmisteilla Miksi minä? kertoo Vladista, lakimiehestä ja maailmankaikkeuden ärtyneestä kantelijasta, joka yrittää tehdä omasta kärsimyksestään muodollisesti pätevän valituksen. Hän ei kaipaa valaistumista. Hän haluaa selityksen — mieluiten kirjallisena, allekirjoitettuna, leimattuna ja muutoksenhakuohjeineen. Hänestä kärsimys antaa oikeuden vastaukseen, ja elämän pitäisi ainakin tunnustaa menettelyvirhe. Taivaallinen kanslia ei kuitenkaan ole korvausosasto. Se ei väittele, lohduta eikä todista Jumalan olemassaoloa. Se rekisteröi pyynnön ja alkaa vähitellen näyttää, että virhe saattaa olla muual
 
 ### fi/books/index.html
 

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T14:53:03.895Z",
+  "generated": "2026-08-12T14:54:06.904Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -21486,12 +21486,12 @@
       "page": "fi/books/error-404-god-not-found/why-me/index.html",
       "lang": "fi",
       "section": "books",
-      "title": "Ashraellen — Why Me?",
-      "description": "Why Me? — Error 404: God Not Found -sarjan ensimmäinen kirja. Filosofis-satiirinen romaani kivusta, valituksesta, uskosta ja sielun byrokratiasta.",
+      "title": "Ashraellen — Miksi minä?",
+      "description": "Miksi minä? — VIRHE 404: JUMALAA EI LÖYTYNYT -sarjan ensimmäinen kirja. Filosofis-satiirinen romaani kivusta, valituksesta, uskosta ja sielun byrokratiasta.",
       "existingKeywords": "",
       "canonical": "https://www.ashraellen.com/fi/books/error-404-god-not-found/why-me/",
       "h1": [
-        "Why Me?"
+        "Miksi minä?"
       ],
       "h2": [
         "Kirjasta",
@@ -21500,7 +21500,7 @@
         "Versio"
       ],
       "h3": [
-        "Luku 1. Error 404"
+        "Luku 1. Virhe 404"
       ],
       "slugTerms": [
         "fi",
@@ -21512,21 +21512,22 @@
         "why",
         "me"
       ],
-      "excerpt": "Why Me? Kirja I sarjasta Error 404: God Not Found . Filosofis-satiirinen romaani kivusta, valituksesta, uskosta ja Taivaallisesta kansliasta — paikasta, jota ei ehkä ole missään muualla kuin siinä hetkessä, kun ihminen vaatii elämältä kirjallista selitystä. Kirjasta valmisteilla painoon Valmisteilla Why Me? kertoo Vladista, lakimiehestä ja maailmankaikkeuden ärtyneestä kantelijasta, joka yrittää tehdä omasta kärsimyksestään muodollisesti pätevän valituksen. Hän ei kaipaa valaistumista. Hän haluaa selityksen — mieluiten kirjallisena, allekirjoitettuna, leimattuna ja muutoksenhakuohjeineen. Hänestä kärsimys antaa oikeuden vastaukseen, ja elämän pitäisi ainakin tunnustaa menettelyvirhe. Taivaallinen kanslia ei kuitenkaan ole korvausosasto. Se ei väittele, lohduta eikä todista Jumalan olemassaoloa. Se rekisteröi pyynnön ja alkaa vähitellen näyttää, että virhe saattaa olla muualla kuin vastau",
+      "excerpt": "Miksi minä? Kirja I sarjasta VIRHE 404: JUMALAA EI LÖYTYNYT . Filosofis-satiirinen romaani kivusta, valituksesta, uskosta ja Taivaallisesta kansliasta — paikasta, jota ei ehkä ole missään muualla kuin siinä hetkessä, kun ihminen vaatii elämältä kirjallista selitystä. Kirjasta valmisteilla painoon Valmisteilla Miksi minä? kertoo Vladista, lakimiehestä ja maailmankaikkeuden ärtyneestä kantelijasta, joka yrittää tehdä omasta kärsimyksestään muodollisesti pätevän valituksen. Hän ei kaipaa valaistumista. Hän haluaa selityksen — mieluiten kirjallisena, allekirjoitettuna, leimattuna ja muutoksenhakuohjeineen. Hänestä kärsimys antaa oikeuden vastaukseen, ja elämän pitäisi ainakin tunnustaa menettelyvirhe. Taivaallinen kanslia ei kuitenkaan ole korvausosasto. Se ei väittele, lohduta eikä todista Jumalan olemassaoloa. Se rekisteröi pyynnön ja alkaa vähitellen näyttää, että virhe saattaa olla muual",
       "candidates": [
         "hän",
+        "miksi",
+        "minä",
         "oli",
-        "why",
+        "virhe",
         "404",
-        "error",
+        "jumalaa",
         "kuin",
         "vlad",
         "eikä",
         "sanoi",
-        "found",
-        "god",
         "kirja",
         "kivusta",
+        "löytynyt",
         "ole",
         "olisi",
         "ollut",
@@ -21536,28 +21537,27 @@
         "että",
         "filosofis-satiirinen",
         "ihminen",
-        "istui",
-        "joka"
+        "istui"
       ],
       "suggestedKeywordSeed": [
-        "why",
-        "error",
-        "found",
-        "god",
+        "miksi",
+        "minä",
         "404",
         "ashraellen",
         "books",
+        "jumalaa",
         "kirja",
+        "virhe",
         "byrokratiasta",
         "eikä",
         "ensimmäinen",
+        "error",
         "filosofis-satiirinen",
+        "found",
+        "god",
         "hän",
         "katkelma",
-        "kirjasta",
-        "kivusta",
-        "kuin",
-        "oli"
+        "kirjasta"
       ]
     },
     {
