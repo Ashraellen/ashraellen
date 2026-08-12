@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T14:57:59.492Z
+Generated: 2026-08-12T14:59:06.758Z
 
 Pages checked: 841
-Pages with issues: 310
-Total issues: 1769
+Pages with issues: 309
+Total issues: 1765
 Pages with review notes: 633
 Total review notes: 2216
 
@@ -22,9 +22,9 @@ Total review notes: 2216
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
-| DUPLICATE_TITLE | 38 |
 | DUPLICATE_KEYWORDS | 36 |
-| DUPLICATE_OG_TITLE | 36 |
+| DUPLICATE_TITLE | 36 |
+| DUPLICATE_OG_TITLE | 34 |
 | OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
 | TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
 | DESCRIPTION_TOO_SHORT | 27 |
@@ -716,17 +716,6 @@ Total review notes: 2216
 - DUPLICATE_TITLE: shared by 9 pages
 - DUPLICATE_OG_TITLE: shared by 9 pages
 
-### en/books/you-are-already-online/index.html
-
-- title: Ashraellen — You Are Already Online
-- description length: 172
-- canonical: https://www.ashraellen.com/en/books/you-are-already-online/
-- og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
-- twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
-
-- DUPLICATE_TITLE: shared by 2 pages
-- DUPLICATE_OG_TITLE: shared by 2 pages
-
 ### es/books/error-404-god-not-found/index.html
 
 - title: Ashraellen — Error 404: Dios no encontrado
@@ -1120,8 +1109,8 @@ Total review notes: 2216
 
 ### fi/books/you-are-already-online/index.html
 
-- title: Ashraellen — You Are Already Online
-- description length: 122
+- title: Ashraellen — Olet jo verkossa
+- description length: 116
 - canonical: https://www.ashraellen.com/fi/books/you-are-already-online/
 - og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 - twitter:image: _missing_
@@ -1131,8 +1120,6 @@ Total review notes: 2216
 - MISSING_OG_DESCRIPTION
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
-- DUPLICATE_TITLE: shared by 2 pages
-- DUPLICATE_OG_TITLE: shared by 2 pages
 
 ### fi/professional/index.html
 
@@ -7440,7 +7427,7 @@ Total review notes: 2216
 
 ### fi/books/you-are-already-online/index.html
 
-- title: Ashraellen — You Are Already Online
+- title: Ashraellen — Olet jo verkossa
 - og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 - twitter:image: _missing_
 

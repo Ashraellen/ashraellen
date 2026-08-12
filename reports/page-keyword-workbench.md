@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T14:58:00.164Z
+Generated: 2026-08-12T14:59:07.464Z
 Pages: 842
 
 ## Index
@@ -311,7 +311,7 @@ Pages: 842
 | fi/books/samizdat/order/received/index.html | fi | books | Pyyntö vastaanotettu — samizdat 2.0 — Ashraellen | _missing_ | samizdat, 2.0, ashraellen, vastaanotettu, books, pyyntö, aan, antamaasi, eikä, ennen, erillistä, hinnan, käynnistä, kiitos, kirjapyyntö, order, received |
 | fi/books/seccus/index.html | fi | books | Ashraellen — SECCUSIN PYHÄ KIRJA | _missing_ | kirja, pyhä, seccusin, ashraellen, books, menestyksestä, polku, rehellisyyden, sivu, ääni, alibina, avaa, filosofinen, ihminen, itsepetoksesta, joka, kirjan, kirjassa |
 | fi/books/the-book-of-whinesis/index.html | fi | books | Ashraellen — The Book of Whinesis | _missing_ | book, whinesis, ashraellen, books, jotka, satiiri, ääniraitoja, ensimmäiset, että, herra, katkelma, kirjasta, kulttiin, kun, loputtomaan, luvut, menestyksen, niille |
-| fi/books/you-are-already-online/index.html | fi | books | Ashraellen — You Are Already Online | _missing_ | already, online, you, ashraellen, books, hypertodellisuuden, luku, algoritmien, audioromaani, digitaalisen, enää, ennen, ensimmäinen, hän, ilman, immersiivinen, järjestelmä, katkelma |
+| fi/books/you-are-already-online/index.html | fi | books | Ashraellen — Olet jo verkossa | _missing_ | olet, verkossa, ashraellen, books, hypertodellisuuden, luku, algoritmien, already, audioromaani, digitaalisen, enää, ennen, ensimmäinen, hän, ilman, immersiivinen, järjestelmä, katkelma |
 | fi/contact.html | fi | contact.html | Yhteys — Ashraellen — Suomi | Ashraellen, yhteys, yhteistyö, julkaiseminen, apurahat, media | ashraellen, yhteys, apurahoja, ashraellenin, julkaisemista, mediaa, projektia, varten, yhteistyötä, aineistot, contact, contact.html, julkiset, koskevia, suomi, telegram-yhteys, yhteydenottoja, yhteystiedot |
 | fi/index.html | fi | index.html | Ashraellen — Kirjat, tutkimus ja julkiset tekstit | Ashraellen, kirjat, taiteellinen tutkimus, kirjallis-filosofinen tutkimus, julkiset tekstit, sisäinen havainnointi | ashraellen, julkiset, kirjat, tekstit, itsenäinen, kirjallis-filosofinen, monikielinen, taiteellinen, tutkimus, tutkimuskäytäntö, havainnoinnin, index.html, joka, julkinen, sisäisen, tutkimuksen, videot, yhdistää |
 | fi/kone/index.html | fi | kone | Ashraellen — tiivistelmä Koneen Säätiölle | ashraellen, kone, tiivistelmä, koneen, säätiölle, suomenkielinen, ashraellen-hankkeesta, elämänmittainen, taiteellis-filosofinen, tutkimus, merkityksestä, kirjallisuudesta, videoista, monikielisestä, arkistosta, tutkimuksen, ydin, tekijä | ashraellen, koneen, kone, säätiölle, tiivistelmä, tutkimuksen, tutkimus, arkistosta, ashraellen-hankkeesta, asiakirjat, elämänmittainen, hankkeen, infrastruktuuri, julkinen, kirjallisuudesta, kuukauden, merkityksestä, miten |
@@ -6024,18 +6024,18 @@ Excerpt:
 
 - lang: fi
 - section: books
-- title: Ashraellen — You Are Already Online
-- description: You Are Already Online — immersiivinen audioromaani digitaalisen todellisuuden, algoritmien ja hypertodellisuuden rajalta.
+- title: Ashraellen — Olet jo verkossa
+- description: Olet jo verkossa — immersiivinen audioromaani digitaalisen todellisuuden, algoritmien ja hypertodellisuuden rajalta.
 - canonical: https://www.ashraellen.com/fi/books/you-are-already-online/
-- H1: You Are Already Online
+- H1: Olet jo verkossa
 - H2: Kirjasta | Romaanin kerrokset | Ensimmäinen luku | Katkelma | Versio
 - H3: _missing_
-- suggested keyword seed: already, online, you, ashraellen, books, hypertodellisuuden, luku, algoritmien, audioromaani, digitaalisen, enää, ennen, ensimmäinen, hän, ilman, immersiivinen, järjestelmä, katkelma
-- candidates: hän, liian, already, ilman, online, you, enää, ennen, hypertodellisuuden, järjestelmä, luku, maailma, ole, oli, ollut, sen, siitä, vaan, vain, ääneen, ääni, äänikirja, ääniraitoja, ääntä
+- suggested keyword seed: olet, verkossa, ashraellen, books, hypertodellisuuden, luku, algoritmien, already, audioromaani, digitaalisen, enää, ennen, ensimmäinen, hän, ilman, immersiivinen, järjestelmä, katkelma
+- candidates: hän, liian, ilman, luku, olet, verkossa, enää, ennen, hypertodellisuuden, järjestelmä, maailma, ole, oli, ollut, sen, siitä, vaan, vain, ääneen, ääni, äänikirja, ääniraitoja, ääntä, aikaa
 
 Excerpt:
 
-> You Are Already Online Se ei ole ääni. Se on toteamus. Se ei pyydä reaktiota — se on jo merkinnyt sen vastaanotetuksi. Kirjasta sisäänkirjautuminen ilman painiketta Kello 03:17 hän herää ei ääneen vaan valmiiseen tunteeseen. Siitä lähtien tuttu todellisuus alkaa käyttäytyä käyttöliittymän tavoin. Tapahtumien järjestys rakoilee: pelko ilmestyy ennen iskua, kaiku ennen ääntä ja sattumat asettuvat liian täsmällisesti ollakseen enää sattumia. Maailma ei näytä muuttuneen. Se vain toimii liian hyvin. Liian puhtaasti. Liian editoidusti. Romaani liikkuu psykologisen trillerin, kyberpunkin ja hypertodellisuuden rajalla. Tässä ei ole neonista kapinaa, vaan hitaasti kasvava epäilys siitä, että maailma on jo optimoitu ja ladattu tietoisuuteen tiedostona. Muisti muuttuu kuvakaappaukseksi. Sattuma käsikirjoitukseksi. Keho reagoi tulevaan kuin se olisi jo tallennettu. Se on tarina ihmisestä, joka huoma
+> Olet jo verkossa Se ei ole ääni. Se on toteamus. Se ei pyydä reaktiota — se on jo merkinnyt sen vastaanotetuksi. Kirjasta sisäänkirjautuminen ilman painiketta Kello 03:17 hän herää ei ääneen vaan valmiiseen tunteeseen. Siitä lähtien tuttu todellisuus alkaa käyttäytyä käyttöliittymän tavoin. Tapahtumien järjestys rakoilee: pelko ilmestyy ennen iskua, kaiku ennen ääntä ja sattumat asettuvat liian täsmällisesti ollakseen enää sattumia. Maailma ei näytä muuttuneen. Se vain toimii liian hyvin. Liian puhtaasti. Liian editoidusti. Romaani liikkuu psykologisen trillerin, kyberpunkin ja hypertodellisuuden rajalla. Tässä ei ole neonista kapinaa, vaan hitaasti kasvava epäilys siitä, että maailma on jo optimoitu ja ladattu tietoisuuteen tiedostona. Muisti muuttuu kuvakaappaukseksi. Sattuma käsikirjoitukseksi. Keho reagoi tulevaan kuin se olisi jo tallennettu. Se on tarina ihmisestä, joka huomasi vir
 
 ### fi/contact.html
 

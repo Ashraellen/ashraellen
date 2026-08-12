@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T14:58:00.149Z",
+  "generated": "2026-08-12T14:59:07.447Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -22629,12 +22629,12 @@
       "page": "fi/books/you-are-already-online/index.html",
       "lang": "fi",
       "section": "books",
-      "title": "Ashraellen — You Are Already Online",
-      "description": "You Are Already Online — immersiivinen audioromaani digitaalisen todellisuuden, algoritmien ja hypertodellisuuden rajalta.",
+      "title": "Ashraellen — Olet jo verkossa",
+      "description": "Olet jo verkossa — immersiivinen audioromaani digitaalisen todellisuuden, algoritmien ja hypertodellisuuden rajalta.",
       "existingKeywords": "",
       "canonical": "https://www.ashraellen.com/fi/books/you-are-already-online/",
       "h1": [
-        "You Are Already Online"
+        "Olet jo verkossa"
       ],
       "h2": [
         "Kirjasta",
@@ -22652,19 +22652,18 @@
         "already",
         "online"
       ],
-      "excerpt": "You Are Already Online Se ei ole ääni. Se on toteamus. Se ei pyydä reaktiota — se on jo merkinnyt sen vastaanotetuksi. Kirjasta sisäänkirjautuminen ilman painiketta Kello 03:17 hän herää ei ääneen vaan valmiiseen tunteeseen. Siitä lähtien tuttu todellisuus alkaa käyttäytyä käyttöliittymän tavoin. Tapahtumien järjestys rakoilee: pelko ilmestyy ennen iskua, kaiku ennen ääntä ja sattumat asettuvat liian täsmällisesti ollakseen enää sattumia. Maailma ei näytä muuttuneen. Se vain toimii liian hyvin. Liian puhtaasti. Liian editoidusti. Romaani liikkuu psykologisen trillerin, kyberpunkin ja hypertodellisuuden rajalla. Tässä ei ole neonista kapinaa, vaan hitaasti kasvava epäilys siitä, että maailma on jo optimoitu ja ladattu tietoisuuteen tiedostona. Muisti muuttuu kuvakaappaukseksi. Sattuma käsikirjoitukseksi. Keho reagoi tulevaan kuin se olisi jo tallennettu. Se on tarina ihmisestä, joka huoma",
+      "excerpt": "Olet jo verkossa Se ei ole ääni. Se on toteamus. Se ei pyydä reaktiota — se on jo merkinnyt sen vastaanotetuksi. Kirjasta sisäänkirjautuminen ilman painiketta Kello 03:17 hän herää ei ääneen vaan valmiiseen tunteeseen. Siitä lähtien tuttu todellisuus alkaa käyttäytyä käyttöliittymän tavoin. Tapahtumien järjestys rakoilee: pelko ilmestyy ennen iskua, kaiku ennen ääntä ja sattumat asettuvat liian täsmällisesti ollakseen enää sattumia. Maailma ei näytä muuttuneen. Se vain toimii liian hyvin. Liian puhtaasti. Liian editoidusti. Romaani liikkuu psykologisen trillerin, kyberpunkin ja hypertodellisuuden rajalla. Tässä ei ole neonista kapinaa, vaan hitaasti kasvava epäilys siitä, että maailma on jo optimoitu ja ladattu tietoisuuteen tiedostona. Muisti muuttuu kuvakaappaukseksi. Sattuma käsikirjoitukseksi. Keho reagoi tulevaan kuin se olisi jo tallennettu. Se on tarina ihmisestä, joka huomasi vir",
       "candidates": [
         "hän",
         "liian",
-        "already",
         "ilman",
-        "online",
-        "you",
+        "luku",
+        "olet",
+        "verkossa",
         "enää",
         "ennen",
         "hypertodellisuuden",
         "järjestelmä",
-        "luku",
         "maailma",
         "ole",
         "oli",
@@ -22677,17 +22676,18 @@
         "ääni",
         "äänikirja",
         "ääniraitoja",
-        "ääntä"
+        "ääntä",
+        "aikaa"
       ],
       "suggestedKeywordSeed": [
-        "already",
-        "online",
-        "you",
+        "olet",
+        "verkossa",
         "ashraellen",
         "books",
         "hypertodellisuuden",
         "luku",
         "algoritmien",
+        "already",
         "audioromaani",
         "digitaalisen",
         "enää",
