@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T16:16:06.001Z
+Generated: 2026-08-12T16:16:58.794Z
 Pages: 842
 
 ## Index
@@ -307,7 +307,7 @@ Pages: 842
 | fi/books/radiance/song/index.html | fi | books | Ashraellen — Laulu \| HOHDE, Kirja II | Ashraellen, Laulu, HOHDE, kieli, kuuleminen, taiteellinen tutkimus | laulu, ashraellen, kirja, äänestä, books, joka, ääni, alkaa, ennen, hohde, hohde-sarjan, julkaisutilanne, katkelma, kaupungista, kielestä, kieli, kirjasta, kuulemisesta |
 | fi/books/samizdat/demotopia/index.html | fi | books | Demotopia — Kirjapassi — samizdat 2.0 | Ashraellen, Demotopia, Demokraattinen utopia, samizdat 2.0, kirjapassi, tekijäjulkaisu | demotopia, samizdat, 2.0, kirjapassi, 2026, books, demokraattinen, julkaisu, utopia, ashraellen, demotopian, fyysinen, fyysisen, järjestelmässä, kirjasta, passi, pysyvä, pyydä |
 | fi/books/samizdat/index.html | fi | books | samizdat 2.0 — Ashraellenin tekijäjulkaisut | Ashraellen, samizdat 2.0, tekijäjulkaisut, kirjapassi, fyysiset kirjat, numeroidut kappaleet | samizdat, 2.0, ashraellenin, books, ilman, tekijäjulkaisut, ashraellen, eikä, fyysinen, fyysiset, julkiset, kappale, kappaleen, kappaleet, kirja, kirjan, kirjapassit, kirjat |
-| fi/books/samizdat/order/index.html | fi | books | Pyydä samizdat 2.0 -tekijäkappale — Ashraellen | _missing_ | 2.0, kappale, pyyntö, samizdat, allekirjoitettu, ashraellen, books, kielellä, pyydä, ashraellenin, ennen, henkilökohtaisesti, hinnan, järjestämiseen, kappaleen, kirja, maksu, order |
+| fi/books/samizdat/order/index.html | fi | books | Pyydä samizdat 2.0 -tekijäkappale — Ashraellen | Ashraellen, samizdat 2.0, tekijäkappale, kirjatilaus, Demotopia, kirjapyyntö | pyydä, 2.0, kappale, samizdat, tekijäkappale, allekirjoitettu, ashraellen, books, henkilökohtaisesti, hinta, toimitus, ashraellenin, ennen, hinnan, järjestämiseen, kappaleen, kielellä, maksu |
 | fi/books/samizdat/order/received/index.html | fi | books | Pyyntö vastaanotettu — samizdat 2.0 — Ashraellen | _missing_ | samizdat, 2.0, ashraellen, vastaanotettu, books, pyyntö, aan, antamaasi, eikä, ennen, erillistä, hinnan, käynnistä, kiitos, kirjapyyntö, order, received |
 | fi/books/seccus/index.html | fi | books | Ashraellen — SECCUSIN PYHÄ KIRJA | Ashraellen, SECCUS, SECCUSIN PYHÄ KIRJA, Rehellisyyden polku, filosofia, itsepetos, vastuu | kirja, pyhä, seccusin, ashraellen, books, menestyksestä, polku, rehellisyyden, sivu, ääni, alibina, avaa, filosofinen, ihminen, itsepetoksesta, joka, kirjan, kirjassa |
 | fi/books/the-book-of-whinesis/index.html | fi | books | Ashraellen — The Book of Whinesis | Ashraellen, The Book of Whinesis, satiiri, Church of Saint Whine, uupumus, tuottavuuskultti | book, whinesis, ashraellen, books, jotka, satiiri, ääniraitoja, ensimmäiset, että, herra, katkelma, kirjasta, kulttiin, kun, loputtomaan, luvut, menestyksen, niille |
@@ -5957,17 +5957,17 @@ Excerpt:
 - lang: fi
 - section: books
 - title: Pyydä samizdat 2.0 -tekijäkappale — Ashraellen
-- description: Pyyntö Ashraellenin samizdat 2.0 -tekijäkappaleesta valitulla kielellä.
+- description: Pyydä Ashraellenin samizdat 2.0 -tekijäkappale valitulla kielellä; saatavuus, valmistusaika, hinta ja toimitus vahvistetaan henkilökohtaisesti.
 - canonical: https://www.ashraellen.com/fi/books/samizdat/order/
 - H1: Pyydä kappale
 - H2: Pyyntö ↓ Tarjous ↓ Vahvistus ↓ Maksu ↓ Valmistus ↓ Toimitus | Allekirjoitettu kappale
 - H3: _missing_
-- suggested keyword seed: 2.0, kappale, pyyntö, samizdat, allekirjoitettu, ashraellen, books, kielellä, pyydä, ashraellenin, ennen, henkilökohtaisesti, hinnan, järjestämiseen, kappaleen, kirja, maksu, order
-- candidates: ennen, henkilökohtaisesti, hinnan, kappale, pyyntö, toimituksen, 2.0, allekirjoitettu, järjestämiseen, kappaleen, kielellä, kirja, lukijalle, pyydä, samizdat, tekijäkappale, toimitusehdot, toimitusta, valitse, valitulla, valmistuksen, voidaan, ajan, allekirjoitukseen
+- suggested keyword seed: pyydä, 2.0, kappale, samizdat, tekijäkappale, allekirjoitettu, ashraellen, books, henkilökohtaisesti, hinta, toimitus, ashraellenin, ennen, hinnan, järjestämiseen, kappaleen, kielellä, maksu
+- candidates: henkilökohtaisesti, ennen, hinnan, kappale, pyydä, tekijäkappale, toimituksen, 2.0, allekirjoitettu, hinta, järjestämiseen, kappaleen, kielellä, kirja, lukijalle, pyyntö, samizdat, toimitus, toimitusehdot, toimitusta, vahvistetaan, valitse, valitulla, valmistuksen
 
 Excerpt:
 
-> Tekijäkappale vahvistetusta pyynnöstä Pyydä kappale Kirja voidaan valmistaa valitulla kielellä ja välittää tietylle lukijalle. Vahvistamme henkilökohtaisesti valitun kielen saatavuuden, valmistusajan, lopullisen hinnan ja toimitusehdot. Lomakkeen lähettäminen ei luo ostopakkoa. Miten se toimii Pyyntö ↓ Tarjous ↓ Vahvistus ↓ Maksu ↓ Valmistus ↓ Toimitus Jos valittu kieliversio ei vielä ole valmis, ilmoitamme sen valmistumiseen tarvittavan ajan ennen vahvistusta. Erityisvaihtoehto Allekirjoitettu kappale Henkilökohtaisesti allekirjoitettu kappale kulkee tekijän käsien kautta ennen toimitusta. Allekirjoitukseen voidaan liittää omistuskirjoitus. Voit kirjoittaa toivotun omistustekstin viestikenttään. Kirja Valitse Demotopia — Democratic Utopia Kappaleen kieli Valitse English (EN) Suomi (FI) Polski (PL) Português (PT) Русский (RU) Українська (UK) Deutsch (DE) Español (ES) Français (FR) Белару
+> Tekijäkappale vahvistetusta pyynnöstä Pyydä kappale Kirja voidaan valmistaa valitulla kielellä ja välittää tietylle lukijalle. Vahvistamme henkilökohtaisesti valitun kielen saatavuuden, valmistusajan, lopullisen hinnan ja toimitusehdot. Lomakkeen lähettäminen ei luo ostopakkoa. Miten se toimii Pyyntö ↓ Tarjous ↓ Vahvistus ↓ Maksu ↓ Valmistus ↓ Toimitus Jos valittu kieliversio ei vielä ole valmis, ilmoitamme sen valmistumiseen tarvittavan ajan ennen vahvistusta. Erityisvaihtoehto Allekirjoitettu kappale Henkilökohtaisesti allekirjoitettu kappale kulkee tekijän käsien kautta ennen toimitusta. Allekirjoitukseen voidaan liittää omistuskirjoitus. Voit kirjoittaa toivotun omistustekstin viestikenttään. Kirja Valitse Demotopia — Demokraattinen utopia Kappaleen kieli Valitse English (EN) Suomi (FI) Polski (PL) Português (PT) Русский (RU) Українська (UK) Deutsch (DE) Español (ES) Français (FR) Бе
 
 ### fi/books/samizdat/order/received/index.html
 

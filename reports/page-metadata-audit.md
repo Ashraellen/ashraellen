@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T16:16:05.302Z
+Generated: 2026-08-12T16:16:58.107Z
 
 Pages checked: 841
-Pages with issues: 290
-Total issues: 1690
+Pages with issues: 289
+Total issues: 1682
 Pages with review notes: 640
 Total review notes: 2254
 
@@ -12,13 +12,13 @@ Total review notes: 2254
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 196 |
-| MISSING_TWITTER_IMAGE | 196 |
-| MISSING_TWITTER_CARD | 179 |
-| MISSING_OG_DESCRIPTION | 175 |
-| MISSING_JSON_LD | 174 |
-| MISSING_OG_IMAGE | 172 |
-| MISSING_OG_TITLE | 171 |
+| MISSING_KEYWORDS | 195 |
+| MISSING_TWITTER_IMAGE | 195 |
+| MISSING_TWITTER_CARD | 178 |
+| MISSING_OG_DESCRIPTION | 174 |
+| MISSING_JSON_LD | 173 |
+| MISSING_OG_IMAGE | 171 |
+| MISSING_OG_TITLE | 170 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
@@ -27,7 +27,7 @@ Total review notes: 2254
 | DUPLICATE_OG_TITLE | 34 |
 | OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
 | TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
-| DESCRIPTION_TOO_SHORT | 26 |
+| DESCRIPTION_TOO_SHORT | 25 |
 
 
 ## Review note summary
@@ -899,23 +899,6 @@ Total review notes: 2254
 - MISSING_KEYWORDS
 - MISSING_OG_DESCRIPTION
 - MISSING_TWITTER_IMAGE
-
-### fi/books/samizdat/order/index.html
-
-- title: Pyydä samizdat 2.0 -tekijäkappale — Ashraellen
-- description length: 71
-- canonical: https://www.ashraellen.com/fi/books/samizdat/order/
-- og:image: _missing_
-- twitter:image: _missing_
-
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_TITLE
-- MISSING_OG_DESCRIPTION
-- MISSING_OG_IMAGE
-- MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
-- DESCRIPTION_TOO_SHORT: 71
 
 ### fi/books/samizdat/order/received/index.html
 
