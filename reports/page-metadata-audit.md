@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T12:32:34.318Z
+Generated: 2026-08-12T12:36:54.969Z
 
-Pages checked: 828
-Pages with issues: 307
-Total issues: 1901
+Pages checked: 834
+Pages with issues: 313
+Total issues: 1947
 Pages with review notes: 616
 Total review notes: 2164
 
@@ -12,20 +12,20 @@ Total review notes: 2164
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 245 |
-| MISSING_TWITTER_IMAGE | 243 |
-| MISSING_TWITTER_CARD | 213 |
-| MISSING_OG_DESCRIPTION | 212 |
-| MISSING_JSON_LD | 209 |
-| MISSING_OG_IMAGE | 203 |
-| MISSING_OG_TITLE | 196 |
+| MISSING_KEYWORDS | 251 |
+| MISSING_TWITTER_IMAGE | 249 |
+| MISSING_TWITTER_CARD | 219 |
+| MISSING_OG_DESCRIPTION | 218 |
+| MISSING_JSON_LD | 215 |
+| MISSING_OG_IMAGE | 209 |
+| MISSING_OG_TITLE | 202 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
 | DUPLICATE_TITLE | 44 |
 | DUPLICATE_OG_TITLE | 42 |
 | DUPLICATE_KEYWORDS | 36 |
-| DESCRIPTION_TOO_SHORT | 27 |
+| DESCRIPTION_TOO_SHORT | 31 |
 
 
 ## Review note summary
@@ -1582,6 +1582,106 @@ Total review notes: 2164
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
 - DESCRIPTION_TOO_SHORT: 77
+
+### fi/public/thoughts/arcs/0019-do-not-bomb.html
+
+- title: Ashraellen — Älä pommita
+- description length: 58
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0019-do-not-bomb.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 58
+
+### fi/public/thoughts/arcs/0020-people-and-mass.html
+
+- title: Ashraellen — Kansa ja massa
+- description length: 45
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0020-people-and-mass.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 45
+
+### fi/public/thoughts/arcs/0021-mating-games.html
+
+- title: Ashraellen — Parittelupelit
+- description length: 83
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0021-mating-games.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### fi/public/thoughts/arcs/0022-spirituality-is-not-forced.html
+
+- title: Ashraellen — Hengellisyyttä ei pakoteta
+- description length: 73
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0022-spirituality-is-not-forced.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 73
+
+### fi/public/thoughts/arcs/0023-price-of-transition.html
+
+- title: Ashraellen — Siirtymän hinta
+- description length: 73
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0023-price-of-transition.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DESCRIPTION_TOO_SHORT: 73
+
+### fi/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
+
+- title: Ashraellen — Todellinen vihollinen
+- description length: 118
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
 
 ### fi/public/thoughts/index-0001.html
 

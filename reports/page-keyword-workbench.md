@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T12:32:34.993Z
-Pages: 829
+Generated: 2026-08-12T12:36:55.640Z
+Pages: 835
 
 ## Index
 
@@ -340,6 +340,12 @@ Pages: 829
 | fi/public/thoughts/arcs/0016-one-fact.html | fi | public | Ashraellen — Oli yksi fakta | _missing_ | fakta, oli, yksi, ajatus, ashraellen, jatko-osineen, kärsimystä, kolme, public, 0016, arcs, fact, itse, joku, koko, kuin, miksi, mitä |
 | fi/public/thoughts/arcs/0017-witness-does-not-interfere.html | fi | public | Ashraellen — Todistaja ei puutu väliin | _missing_ | todistaja, aikojaan, ajatus, ashraellen, ennen, estä, näkyväksi, public, puutu, väliin, 0017, arcs, does, ihminen, interfere, joka, joskus, koko |
 | fi/public/thoughts/arcs/0018-image-cannot-be-happy.html | fi | public | Ashraellen — Kuva ei voi olla onnellinen | _missing_ | voi, kuva, olla, onnellinen, ajatus, ashraellen, mutta, public, 0018, arcs, cannot, hänen, happy, ihminen, image, itsensä, koko, kuvan |
+| fi/public/thoughts/arcs/0019-do-not-bomb.html | fi | public | Ashraellen — Älä pommita | _missing_ | älä, pommita, ajatus, ashraellen, niin, pommiteta, public, tämä, 0019, arcs, bomb, ensin, että, hän, ihminen, koko, maailmaan, miksi |
+| fi/public/thoughts/arcs/0020-people-and-mass.html | fi | public | Ashraellen — Kansa ja massa | _missing_ | kansa, massa, ajatus, ashraellen, public, 0020, arcs, hänen, ihminen, kansan, koko, mass, massan, miksi, minä, minussa, mitä, muistaa |
+| fi/public/thoughts/arcs/0021-mating-games.html | fi | public | Ashraellen — Parittelupelit | _missing_ | ajatus, alkavat, ashraellen, jonka, koko, parittelupelit, public, 0021, arcs, games, hän, joka, joku, jotkut, kauan, kun, mating, miksi |
+| fi/public/thoughts/arcs/0022-spirituality-is-not-forced.html | fi | public | Ashraellen — Hengellisyyttä ei pakoteta | _missing_ | hengellisyyttä, pakoteta, ajatus, ashraellen, ihastutaan, public, 0022, arcs, että, forced, hengellisyys, koko, määrätä, miksi, pelko, sielu, siihen, siksi |
+| fi/public/thoughts/arcs/0023-price-of-transition.html | fi | public | Ashraellen — Siirtymän hinta | _missing_ | hinta, ajatus, ashraellen, jokainen, kriisillä, maksetaan, public, siirtymän, vaiheeseen, 0023, arcs, hän, jotka, kaikki, koko, kriisi, kuin, miksi |
+| fi/public/thoughts/arcs/0024-true-enemy-not-ignorance.html | fi | public | Ashraellen — Todellinen vihollinen | _missing_ | todellinen, vihollinen, ashraellen, hän, ihmisen, ole, public, siitä, tietää, tietämättömyys, varmuus, 0024, ajatus, arcs, enemy, että, ignorance, joka |
 | fi/public/thoughts/index-0001.html | fi | public | Ashraellen — Tukiajatusten ensimmäinen kaari | _missing_ | ensimmäinen, kaari, herääminen, iloisuus, pelko, tukiajatusten, voimat, alkaa, ashraellen, enää, kun, public, rajallisuus, ajatus, ashraellenin, avaa, diagnoosina, elämän |
 | fi/public/thoughts/index-0002.html | fi | public | Ashraellen — Tukiajatusten toinen kaari | _missing_ | kaari, toinen, tukiajatusten, kuppi, likainen, armo, ashraellen, havainnon, herääminen, public, ajatus, älä, ashraellenin, avaa, elossa, havainnointi, hengellisen, index |
 | fi/public/thoughts/index.html | fi | public | Ashraellen — Tukiajatusten kolmas kaari | _missing_ | kaari, kolmas, ajatus, fakta, hienovarainen, kruununsa, kuva, menettää, todistaja, tukiajatusten, yksi, ashraellen, hiljaisuutta, ongelma, public, tarvitsee, ashraellenin, avaa |
@@ -6499,6 +6505,108 @@ Excerpt:
 Excerpt:
 
 > Tukiajatus 0018 Kuva ei voi olla onnellinen Kuva voi saada tunnustusta. Mutta se ei voi olla onnellinen. Ajatus Ihminen voi käyttää vuosia vakuuttavan kuvan rakentamiseen itsestään, mutta kuva ei elä hänen puolestaan. Todellinen itsensä toteuttaminen alkaa vasta, kun kysymys vaihtuu: ei “miltä minun pitäisi näyttää?” vaan “mikä minussa on todella elävää?” Koko teksti Moni käyttää elämänsä toteuttaakseen käsitystä siitä, millainen hänen pitäisi olla. Ei itseään. Käsitystä. Kuvaa. Roolia. Sisäistä julistetta, jossa lukee: “Tällaisena heidän pitää nähdä minut.” Ihminen voi rakentaa vuosia oikeaa kasvoa. Oikeaa elämäkertaa. Oikeaa hengellisyyttä. Oikeaa menestystä. Oikeaa vaatimattomuutta. Oikeaa vahvuutta. Tarvittaessa jopa oikeanlaista kipua, jos vahvuutta ei vielä ole tarpeeksi. Ja kaikki voi näyttää erittäin vakuuttavalta. Ulkopuolelta. Samaan aikaan elävä ihminen jää jonnekin sivuun kui
+
+### fi/public/thoughts/arcs/0019-do-not-bomb.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Älä pommita
+- description: Tukiajatus 0019: älä pommita, niin sinuakaan ei pommiteta.
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0019-do-not-bomb.html
+- H1: Älä pommita
+- H2: Ajatus | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
+- H3: _missing_
+- suggested keyword seed: älä, pommita, ajatus, ashraellen, niin, pommiteta, public, tämä, 0019, arcs, bomb, ensin, että, hän, ihminen, koko, maailmaan, miksi
+- candidates: hän, älä, pommita, ensin, ihminen, sitten, tämä, ajatus, että, maailmaan, niin, pommiteta, sinuakaan, hänen, jos, mitä, 0019, aggression, aina, alkaa, hiljaisuuskin, jaloksi, koko, lähettää
+
+Excerpt:
+
+> Tukiajatus 0019 Älä pommita Älä pommita, niin sinuakaan ei pommiteta. Ajatus Ihminen lähettää helposti oman sotansa maailmaan ja ihmettelee sitten, miksi hiljaisuuskin hänen ympärillään alkaa haista ruudilta. Tämä ajatus palauttaa huomion siihen, mitä lähetämme ulospäin puolustuksen, totuuden ja välttämättömän reaktion nimissä. Koko teksti Älä pommita, niin sinuakaan ei pommiteta. Yksinkertainen käsky. Melkein liian ilmeinen maailmalle, joka mielellään sivuuttaa ilmeiset asiat ensin ja siivoaa seuraukset myöhemmin sankarillisesti. Ihminen on outo olento. Ensin hän heittää kiven maailmaan. Sitten hän loukkaantuu, kun maailma ei lähetä takaisin päivänkakkarakimppua. Ensin hän puhuu töykeästi. Sitten hän suuttuu töykeydestä. Ensin hän rikkoo toisen rajat. Sitten hän valittaa, että joku tuli liian lähelle hänen omiaan. Ensin hän pommittaa. Sitten hän närkästyy siitä, että jotain saapui takai
+
+### fi/public/thoughts/arcs/0020-people-and-mass.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Kansa ja massa
+- description: Tukiajatus 0020: kansa muistaa, massa reagoi.
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0020-people-and-mass.html
+- H1: Kansa ja massa
+- H2: Ajatus | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
+- H3: _missing_
+- suggested keyword seed: kansa, massa, ajatus, ashraellen, public, 0020, arcs, hänen, ihminen, kansan, koko, mass, massan, miksi, minä, minussa, mitä, muistaa
+- candidates: kansa, ihminen, massa, ajatus, hänen, kansan, puolestaan, voi, massan, minä, minussa, mitä, muistaa, reagoi, virta, 0020, ajattelee, alkaa, enää, että, hän, helposti, herättää, itse
+
+Excerpt:
+
+> Tukiajatus 0020 Kansa ja massa Kansa muistaa. Massa reagoi. Ajatus Kansa rakentuu kasvoista, muistista, kielestä ja sisäisestä yhteydestä. Massa syntyy, kun ihminen lakkaa kysymästä mitä hän itse näkee ja alkaa reagoida virtauksen osana. Koko teksti Surullisista johtopäätöksistä. Kansa ei ole vain suuri määrä ihmisiä. Kansa on muisti. Kieli. Käsityö. Laulu. Juhla. Yhteinen ele. Tapa tervehtiä, olla hiljaa, haudata kuolleet, iloita, leipoa leipää, kertoa lapsille tarinoita ja tunnistaa omansa vieraassakin kaupungissa. Kansa koostuu ihmisistä. Erillisistä kasvoista. Kohtaloista. Perheistä. Äänistä. Elävistä sisäisistä maailmoista. Massa on jotain muuta. Massa on hermostunut ihmisvirta, joka kiihtyy helposti ja pelästyy yhtä helposti. Tänään se on valmis seuraamaan ensimmäistä äänekästä kutsua ja hajottamaan kaiken historiallisen välttämättömyyden ilme kasvoillaan. Huomenna sama virta hajaa
+
+### fi/public/thoughts/arcs/0021-mating-games.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Parittelupelit
+- description: Tukiajatus 0021: suhteet alkavat usein roolista, jonka olemme jo tuoneet mukanamme.
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0021-mating-games.html
+- H1: Parittelupelit
+- H2: Ajatus | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
+- H3: _missing_
+- suggested keyword seed: ajatus, alkavat, ashraellen, jonka, koko, parittelupelit, public, 0021, arcs, games, hän, joka, joku, jotkut, kauan, kun, mating, miksi
+- candidates: hän, toinen, alkavat, ajatus, jonka, kun, peli, joka, joku, jotkut, kauan, koko, kuka, minä, mukanamme, olemme, parittelupelit, roolista, suhteet, tai, tämä, toiset, tuoneet, vain
+
+Excerpt:
+
+> Tukiajatus 0021 Parittelupelit Suhteet alkavat harvoin toisesta ihmisestä. Useammin ne alkavat roolista, jonka olemme jo tuoneet mukanamme. Ajatus Suhde näyttää kahden ihmisen kohtaamiselta, mutta sen sisällä pyörii usein jo valmiiksi tuotu käsikirjoitus: valta, sääli, pelastaminen, pakeneminen, oman arvon todistaminen tai ikuinen oikeus sanoa “tiesinhän minä”. Koko teksti Parittelupelit ovat monenlaisia. Iralla ja Olegilla peli on “ota koppi, tiili”. Hän heittää aggressiivisia pikku esityksiä; toinen esittää avutonta raukkaa. Hän murisee, toinen kärsii. Hän painostaa, toinen ilmoittaa hienovaraisesti maailmalle joutuneensa jälleen hirviön kynsiin — vaikka on jo kauan tuntenut pedon ruokinta-ajat. Asyalla ja Petyalla peli on “asema kolmelle”. Kolmannet vaihtuvat säännöllisesti. Joku lähtee, joku saapuu. Vain ikuinen asemakohtaus säilyy: hän yrittää mennä, mutta älä mene; toinen kiroaa sa
+
+### fi/public/thoughts/arcs/0022-spirituality-is-not-forced.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Hengellisyyttä ei pakoteta
+- description: Tukiajatus 0022: todellista hengellisyyttä ei määrätä, siihen ihastutaan.
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0022-spirituality-is-not-forced.html
+- H1: Hengellisyyttä ei pakoteta
+- H2: Ajatus | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
+- H3: _missing_
+- suggested keyword seed: hengellisyyttä, pakoteta, ajatus, ashraellen, ihastutaan, public, 0022, arcs, että, forced, hengellisyys, koko, määrätä, miksi, pelko, sielu, siihen, siksi
+- candidates: voi, että, siksi, hengellisyys, hengellisyyttä, synnyttää, todellinen, ajatus, ihastutaan, pakoteta, pelko, sielu, siihen, tämä, todellista, 0022, alkaa, elävää, ihminen, itse, kuuliaisuutta, lähdettä, lähteeseen, määrätä
+
+Excerpt:
+
+> Tukiajatus 0022 Hengellisyyttä ei pakoteta Todellista hengellisyyttä ei määrätä. Siihen ihastutaan. Ajatus Pelko voi synnyttää kuuliaisuutta, tapoja ja ulkoista oikeaoppisuutta, mutta ei elävää yhteyttä Lähteeseen. Hengellisyys alkaa tunnistamisesta, ei uhasta. Koko teksti Todellista hengellisyyttä ei pakoteta. Siihen ihastutaan. Ei siksi, että joku saapuu vakavana, avaa pyhän kieltojen luettelon ja ilmoittaa, että nyt sinun on kiireesti muututtava paremmaksi, valoisammaksi ja taivaalliselle kirjanpidolle helpommin käsiteltäväksi. Ei. Aito hengellisyys ei synny rangaistuksen pelosta. Pelko voi synnyttää kuuliaisuutta. Se voi synnyttää tavan. Ulkoista korrektisuutta. Se voi opettaa taittelemaan kädet kauniisti ja lausumaan oikeat sanat oikeassa paikassa. Mutta pelko ei synnytä elävää suhdetta Lähteeseen. Se synnyttää varovaisuutta. Sielu ei etsi varovaisuutta. Sielu etsii yhteyttä. Lämpöä
+
+### fi/public/thoughts/arcs/0023-price-of-transition.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Siirtymän hinta
+- description: Tukiajatus 0023: jokainen siirtymä uuteen vaiheeseen maksetaan kriisillä.
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0023-price-of-transition.html
+- H1: Siirtymän hinta
+- H2: Ajatus | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
+- H3: _missing_
+- suggested keyword seed: hinta, ajatus, ashraellen, jokainen, kriisillä, maksetaan, public, siirtymän, vaiheeseen, 0023, arcs, hän, jotka, kaikki, koko, kriisi, kuin, miksi
+- candidates: kriisi, kuin, ajatus, maksetaan, tai, vaiheeseen, hän, hinta, jokainen, jotka, kaikki, kriisillä, mutta, ole, olisi, sama, siirtymä, siirtymän, uuteen, 0023, aina, edessä, enää, ikuisia
+
+Excerpt:
+
+> Tukiajatus 0023 Siirtymän hinta Jokainen siirtymä uuteen vaiheeseen maksetaan kriisillä. Ajatus Kriisi ei aina ole häiriö. Joskus se on siirtymän hinta: vanhasta roolista irtoamisesta, vapaudesta, omasta muodosta ja liikkeestä kohti paikkaa, jossa entinen kertomus itsestä ei enää kanna. Koko teksti Jokainen siirtymä uuteen vaiheeseen maksetaan kriisillä. Tavalla tai toisella. Omaperäisyydestä maksetaan häpeällä. Läheisriippuvuudesta irtautumisesta — repeämällä. Syntymästä — kivulla. Läheisyydestä — kompromisseilla. Vapaudesta — yksinäisyydellä. Ja niin edelleen. Kaikella on hintansa. Jos ihminen jää liian pitkäksi aikaa rooliin, joka on jo kuluttanut itsensä loppuun, hän alkaa hiljaa liukua kohti tunne-elämän konkurssia. Voimia ei enää ole. Ei motiivia. Ei kiinnostusta. Ei sisäistä tulta. Hän liikkuu, puhuu ja tekee tuttuja asioita, mutta sisällä rooli on jo tyhjä vaate, jota hän jostain
+
+### fi/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
+
+- lang: fi
+- section: public
+- title: Ashraellen — Todellinen vihollinen
+- description: Tukiajatus 0024: ihmisen todellinen vihollinen ei ole tietämättömyys vaan varmuus siitä, että hän tietää jo tarpeeksi.
+- canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
+- H1: Todellinen vihollinen
+- H2: Ajatus | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
+- H3: _missing_
+- suggested keyword seed: todellinen, vihollinen, ashraellen, hän, ihmisen, ole, public, siitä, tietää, tietämättömyys, varmuus, 0024, ajatus, arcs, enemy, että, ignorance, joka
+- candidates: hän, todellinen, joka, tiedä, tietämättömyys, vihollinen, voi, ole, ihmisen, siitä, tietää, varmuus, enää, että, ettei, ihminen, vaan, vaarallisempaa, vielä, 0024, ajatus, jos, katso, kuuntele
+
+Excerpt:
+
+> Tukiajatus 0024 Todellinen vihollinen Ihmisen todellinen vihollinen ei ole tietämättömyys. Se on varmuus siitä, että hän tietää jo tarpeeksi. Ajatus Tietämättömyys voi vielä oppia, jos se tunnistaa oman tyhjyytensä. Vaarallisempaa on sulkeutunut varmuus, joka ei enää katso, kuuntele eikä epäile. Koko teksti Ihmisen todellinen vihollinen ei ole tietämättömyys. Tietämättömyys itsessään ei vielä ole katastrofi. Se on rehellistä. Se vain ei tiedä. Ja se, joka ei tiedä ja tietää ettei tiedä, voi vielä kysyä. Voi pysähtyä. Voi kuunnella. Voi jonain päivänä nähdä, että maailma oli leveämpi kuin eilinen varmuus. Paljon vaarallisempaa on jokin muu. Vaarallisempaa on ihminen, joka ei tiedä — mutta on jo varma. Varma johtopäätöksistään. Loukkaantumisistaan. Oikeassaolostaan. Maailmankuvastaan, joka on koottu huhuista, pelosta, mukavista selityksistä ja parista vanhasta haavasta, joille myönnettiin 
 
 ### fi/public/thoughts/index-0001.html
 
