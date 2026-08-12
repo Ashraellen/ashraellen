@@ -1,22 +1,22 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T16:00:51.903Z
+Generated: 2026-08-12T16:02:04.697Z
 
 Pages checked: 841
-Pages with issues: 296
-Total issues: 1720
+Pages with issues: 295
+Total issues: 1715
 Pages with review notes: 638
-Total review notes: 2246
+Total review notes: 2248
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 203 |
-| MISSING_TWITTER_IMAGE | 202 |
-| MISSING_TWITTER_CARD | 183 |
-| MISSING_OG_DESCRIPTION | 180 |
-| MISSING_JSON_LD | 179 |
+| MISSING_KEYWORDS | 202 |
+| MISSING_TWITTER_IMAGE | 201 |
+| MISSING_TWITTER_CARD | 182 |
+| MISSING_OG_DESCRIPTION | 179 |
+| MISSING_JSON_LD | 178 |
 | MISSING_OG_IMAGE | 173 |
 | MISSING_OG_TITLE | 172 |
 | MISSING_DESCRIPTION | 120 |
@@ -35,7 +35,7 @@ Total review notes: 2246
 | Item | Count |
 |---|---:|
 | DUPLICATE_OG_IMAGE_REVIEW | 638 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 611 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 613 |
 | FALLBACK_OG_IMAGE_USED | 509 |
 | FALLBACK_TWITTER_IMAGE_USED | 488 |
 
@@ -920,20 +920,6 @@ Total review notes: 2246
 
 - MISSING_KEYWORDS
 - MISSING_OG_DESCRIPTION
-- MISSING_TWITTER_IMAGE
-
-### fi/books/radiance/song/index.html
-
-- title: Ashraellen — Laulu | HOHDE, Kirja II
-- description length: 138
-- canonical: https://www.ashraellen.com/fi/books/radiance/song/
-- og:image: https://www.ashraellen.com/assets/covers/song-cover-en.webp
-- twitter:image: _missing_
-
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_DESCRIPTION
-- MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
 
 ### fi/books/samizdat/demotopia/index.html
@@ -5916,6 +5902,7 @@ Total review notes: 2246
 - twitter:image: https://www.ashraellen.com/assets/covers/song-cover-en.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
 
 ### en/books/samizdat/index.html
 
@@ -7257,9 +7244,10 @@ Total review notes: 2246
 
 - title: Ashraellen — Laulu | HOHDE, Kirja II
 - og:image: https://www.ashraellen.com/assets/covers/song-cover-en.webp
-- twitter:image: _missing_
+- twitter:image: https://www.ashraellen.com/assets/covers/song-cover-en.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
 
 ### fi/books/the-book-of-whinesis/index.html
 
