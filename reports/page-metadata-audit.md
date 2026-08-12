@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T13:21:20.708Z
+Generated: 2026-08-12T13:22:24.766Z
 
 Pages checked: 841
 Pages with issues: 320
-Total issues: 1917
+Total issues: 1912
 Pages with review notes: 616
 Total review notes: 2164
 
@@ -12,13 +12,13 @@ Total review notes: 2164
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 243 |
-| MISSING_TWITTER_IMAGE | 241 |
-| MISSING_TWITTER_CARD | 211 |
-| MISSING_OG_DESCRIPTION | 210 |
-| MISSING_JSON_LD | 207 |
-| MISSING_OG_IMAGE | 201 |
-| MISSING_OG_TITLE | 194 |
+| MISSING_KEYWORDS | 242 |
+| MISSING_TWITTER_IMAGE | 240 |
+| MISSING_TWITTER_CARD | 210 |
+| MISSING_OG_DESCRIPTION | 209 |
+| MISSING_JSON_LD | 206 |
+| MISSING_OG_IMAGE | 200 |
+| MISSING_OG_TITLE | 193 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
@@ -26,8 +26,8 @@ Total review notes: 2164
 | DUPLICATE_OG_TITLE | 42 |
 | DUPLICATE_KEYWORDS | 36 |
 | DESCRIPTION_TOO_SHORT | 27 |
-| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 15 |
-| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 15 |
+| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 16 |
+| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 16 |
 
 
 ## Review note summary
@@ -1436,16 +1436,11 @@ Total review notes: 2164
 - title: Ashraellen — Herääminen alkaa, kun jatkaminen ei enää onnistu
 - description length: 116
 - canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0003-let-go.html
-- og:image: _missing_
-- twitter:image: _missing_
+- og:image: https://www.ashraellen.com/assets/thoughts/0003-let-go.jpg
+- twitter:image: https://www.ashraellen.com/assets/thoughts/0003-let-go.jpg
 
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_TITLE
-- MISSING_OG_DESCRIPTION
-- MISSING_OG_IMAGE
-- MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
+- OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0003-let-go.jpg
+- TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0003-let-go.jpg
 
 ### fi/public/thoughts/arcs/0004-mortality-awakens.html
 
