@@ -35,3 +35,5 @@ jobs:
           git add -A
           git commit -m 'Audit fixes: strip language-suffix titles, missing CSS links, remove JS text/link patches, dead code, translate research/notes+position'
           git push origin HEAD:audit-fixes-2026-08
+
+# Trigger after workflow exists on branch.
