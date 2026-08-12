@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T13:05:40.832Z
+Generated: 2026-08-12T13:06:43.995Z
 Pages: 842
 
 ## Index
@@ -349,7 +349,7 @@ Pages: 842
 | fi/public/thoughts/arcs/0018-image-cannot-be-happy.html | fi | public | Ashraellen — Kuva ei voi olla onnellinen | Ashraellen, tukiajatus, minäkuva, aitous, itsensä toteuttaminen | voi, kuva, olla, onnellinen, ajatus, ashraellen, elää, ihminen, mutta, public, 0018, arcs, cannot, elävä, hänen, happy, ihmisen, image |
 | fi/public/thoughts/arcs/0019-do-not-bomb.html | fi | public | Ashraellen — Älä pommita | Ashraellen, tukiajatus, aggressio, vastuu, aselepo | älä, pommita, ajatus, alkaa, ashraellen, hän, ihminen, maailmaan, mitä, public, tämä, 0019, arcs, bomb, elää, ensin, että, ilmapiiriä |
 | fi/public/thoughts/arcs/0020-people-and-mass.html | fi | public | Ashraellen — Kansa ja massa | Ashraellen, tukiajatus, kansa, massa, sisäinen havainto | kansa, massa, ajatus, alkaa, ashraellen, ihminen, kasvoista, lakkaa, public, 0020, arcs, hänen, kansan, katsomasta, kielestä, koko, kun, mass |
-| fi/public/thoughts/arcs/0021-mating-games.html | fi | public | Ashraellen — Parittelupelit | _missing_ | ajatus, alkavat, ashraellen, jonka, koko, parittelupelit, public, 0021, arcs, games, hän, joka, joku, jotkut, kauan, kun, mating, miksi |
+| fi/public/thoughts/arcs/0021-mating-games.html | fi | public | Ashraellen — Parittelupelit | Ashraellen, tukiajatus, suhteet, roolit, käsikirjoitus | ajatus, alkavat, ashraellen, jonka, koko, parittelupelit, public, 0021, arcs, ennen, games, hän, ihminen, ihmistä, joka, joku, jotkut, käsikirjoituksesta |
 | fi/public/thoughts/arcs/0022-spirituality-is-not-forced.html | fi | public | Ashraellen — Hengellisyyttä ei pakoteta | _missing_ | hengellisyyttä, pakoteta, ajatus, ashraellen, ihastutaan, public, 0022, arcs, että, forced, hengellisyys, koko, määrätä, miksi, pelko, sielu, siihen, siksi |
 | fi/public/thoughts/arcs/0023-price-of-transition.html | fi | public | Ashraellen — Siirtymän hinta | _missing_ | hinta, ajatus, ashraellen, jokainen, kriisillä, maksetaan, public, siirtymän, vaiheeseen, 0023, arcs, hän, jotka, kaikki, koko, kriisi, kuin, miksi |
 | fi/public/thoughts/arcs/0024-true-enemy-not-ignorance.html | fi | public | Ashraellen — Todellinen vihollinen | _missing_ | todellinen, vihollinen, ashraellen, hän, ihmisen, ole, public, siitä, tietää, tietämättömyys, varmuus, 0024, ajatus, arcs, enemy, että, ignorance, joka |
@@ -6671,13 +6671,13 @@ Excerpt:
 - lang: fi
 - section: public
 - title: Ashraellen — Parittelupelit
-- description: Tukiajatus 0021: suhteet alkavat usein roolista, jonka olemme jo tuoneet mukanamme.
+- description: Tukiajatus 0021: suhteet alkavat usein roolista ja käsikirjoituksesta, jonka ihminen on tuonut mukanaan jo ennen toista ihmistä.
 - canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0021-mating-games.html
 - H1: Parittelupelit
 - H2: Ajatus | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
 - H3: _missing_
-- suggested keyword seed: ajatus, alkavat, ashraellen, jonka, koko, parittelupelit, public, 0021, arcs, games, hän, joka, joku, jotkut, kauan, kun, mating, miksi
-- candidates: hän, toinen, alkavat, ajatus, jonka, kun, peli, joka, joku, jotkut, kauan, koko, kuka, minä, mukanamme, olemme, parittelupelit, roolista, suhteet, tai, tämä, toiset, tuoneet, vain
+- suggested keyword seed: ajatus, alkavat, ashraellen, jonka, koko, parittelupelit, public, 0021, arcs, ennen, games, hän, ihminen, ihmistä, joka, joku, jotkut, käsikirjoituksesta
+- candidates: hän, toinen, alkavat, ajatus, jonka, kun, peli, joka, joku, jotkut, kauan, koko, kuka, minä, parittelupelit, roolista, suhteet, tai, tämä, toiset, vain, 0021, äidit, aina
 
 Excerpt:
 

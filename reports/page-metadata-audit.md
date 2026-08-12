@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T13:05:40.147Z
+Generated: 2026-08-12T13:06:43.452Z
 
 Pages checked: 841
 Pages with issues: 320
-Total issues: 1949
+Total issues: 1944
 Pages with review notes: 616
 Total review notes: 2164
 
@@ -12,13 +12,13 @@ Total review notes: 2164
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 249 |
-| MISSING_TWITTER_IMAGE | 247 |
-| MISSING_TWITTER_CARD | 217 |
-| MISSING_OG_DESCRIPTION | 216 |
-| MISSING_JSON_LD | 213 |
-| MISSING_OG_IMAGE | 207 |
-| MISSING_OG_TITLE | 200 |
+| MISSING_KEYWORDS | 248 |
+| MISSING_TWITTER_IMAGE | 246 |
+| MISSING_TWITTER_CARD | 216 |
+| MISSING_OG_DESCRIPTION | 215 |
+| MISSING_JSON_LD | 212 |
+| MISSING_OG_IMAGE | 206 |
+| MISSING_OG_TITLE | 199 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
@@ -26,8 +26,8 @@ Total review notes: 2164
 | DUPLICATE_OG_TITLE | 42 |
 | DUPLICATE_KEYWORDS | 36 |
 | DESCRIPTION_TOO_SHORT | 29 |
-| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 9 |
-| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 9 |
+| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 10 |
+| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 10 |
 
 
 ## Review note summary
@@ -1687,18 +1687,13 @@ Total review notes: 2164
 ### fi/public/thoughts/arcs/0021-mating-games.html
 
 - title: Ashraellen — Parittelupelit
-- description length: 83
+- description length: 128
 - canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0021-mating-games.html
-- og:image: _missing_
-- twitter:image: _missing_
+- og:image: https://www.ashraellen.com/assets/thoughts/0021-mating-games.jpg
+- twitter:image: https://www.ashraellen.com/assets/thoughts/0021-mating-games.jpg
 
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_TITLE
-- MISSING_OG_DESCRIPTION
-- MISSING_OG_IMAGE
-- MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
+- OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0021-mating-games.jpg
+- TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0021-mating-games.jpg
 
 ### fi/public/thoughts/arcs/0022-spirituality-is-not-forced.html
 

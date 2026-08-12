@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T13:05:40.817Z",
+  "generated": "2026-08-12T13:06:43.982Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -25414,8 +25414,8 @@
       "lang": "fi",
       "section": "public",
       "title": "Ashraellen — Parittelupelit",
-      "description": "Tukiajatus 0021: suhteet alkavat usein roolista, jonka olemme jo tuoneet mukanamme.",
-      "existingKeywords": "",
+      "description": "Tukiajatus 0021: suhteet alkavat usein roolista ja käsikirjoituksesta, jonka ihminen on tuonut mukanaan jo ennen toista ihmistä.",
+      "existingKeywords": "Ashraellen, tukiajatus, suhteet, roolit, käsikirjoitus",
       "canonical": "https://www.ashraellen.com/fi/public/thoughts/arcs/0021-mating-games.html",
       "h1": [
         "Parittelupelit"
@@ -25451,16 +25451,16 @@
         "koko",
         "kuka",
         "minä",
-        "mukanamme",
-        "olemme",
         "parittelupelit",
         "roolista",
         "suhteet",
         "tai",
         "tämä",
         "toiset",
-        "tuoneet",
-        "vain"
+        "vain",
+        "0021",
+        "äidit",
+        "aina"
       ],
       "suggestedKeywordSeed": [
         "ajatus",
@@ -25472,15 +25472,15 @@
         "public",
         "0021",
         "arcs",
+        "ennen",
         "games",
         "hän",
+        "ihminen",
+        "ihmistä",
         "joka",
         "joku",
         "jotkut",
-        "kauan",
-        "kun",
-        "mating",
-        "miksi"
+        "käsikirjoituksesta"
       ]
     },
     {
