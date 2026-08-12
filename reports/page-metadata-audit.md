@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T13:01:57.507Z
+Generated: 2026-08-12T13:02:32.067Z
 
 Pages checked: 841
 Pages with issues: 320
-Total issues: 1978
+Total issues: 1973
 Pages with review notes: 616
 Total review notes: 2164
 
@@ -12,13 +12,13 @@ Total review notes: 2164
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 254 |
-| MISSING_TWITTER_IMAGE | 252 |
-| MISSING_TWITTER_CARD | 222 |
-| MISSING_OG_DESCRIPTION | 221 |
-| MISSING_JSON_LD | 218 |
-| MISSING_OG_IMAGE | 212 |
-| MISSING_OG_TITLE | 205 |
+| MISSING_KEYWORDS | 253 |
+| MISSING_TWITTER_IMAGE | 251 |
+| MISSING_TWITTER_CARD | 221 |
+| MISSING_OG_DESCRIPTION | 220 |
+| MISSING_JSON_LD | 217 |
+| MISSING_OG_IMAGE | 211 |
+| MISSING_OG_TITLE | 204 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
@@ -26,8 +26,8 @@ Total review notes: 2164
 | DUPLICATE_OG_TITLE | 42 |
 | DUPLICATE_KEYWORDS | 36 |
 | DESCRIPTION_TOO_SHORT | 33 |
-| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 4 |
-| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 4 |
+| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 5 |
+| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 5 |
 
 
 ## Review note summary
@@ -1632,18 +1632,13 @@ Total review notes: 2164
 ### fi/public/thoughts/arcs/0016-one-fact.html
 
 - title: Ashraellen — Oli yksi fakta
-- description length: 81
+- description length: 117
 - canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0016-one-fact.html
-- og:image: _missing_
-- twitter:image: _missing_
+- og:image: https://www.ashraellen.com/assets/thoughts/0016-one-fact.jpg
+- twitter:image: https://www.ashraellen.com/assets/thoughts/0016-one-fact.jpg
 
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_TITLE
-- MISSING_OG_DESCRIPTION
-- MISSING_OG_IMAGE
-- MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
+- OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0016-one-fact.jpg
+- TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0016-one-fact.jpg
 
 ### fi/public/thoughts/arcs/0017-witness-does-not-interfere.html
 

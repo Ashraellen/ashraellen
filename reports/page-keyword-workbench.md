@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T13:01:58.179Z
+Generated: 2026-08-12T13:02:32.752Z
 Pages: 842
 
 ## Index
@@ -344,7 +344,7 @@ Pages: 842
 | fi/public/thoughts/arcs/0013-problem-loses-crown.html | fi | public | Ashraellen — Ongelma menettää kruununsa | Ashraellen, tukiajatus, hyväksyminen, draama, ongelma | ongelma, ajatus, aseman, ashraellen, kruununsa, menettää, mutta, public, voi, 0013, arcs, crown, draaman, ehkä, eikä, että, hyväksyminen, katoa |
 | fi/public/thoughts/arcs/0014-end-of-extra-war.html | fi | public | Ashraellen — Ylimääräisen sodan loppu | Ashraellen, tukiajatus, hyväksyminen, sisäinen sota, todellisuus | loppu, sodan, ajatus, ashraellen, ole, public, ylimääräisen, 0014, arcs, end, että, extra, hyväksyminen, joka, juuri, kaikki, koko, kyllä |
 | fi/public/thoughts/arcs/0015-subtle-thought-needs-silence.html | fi | public | Ashraellen — Hieno ajatus tarvitsee hiljaisuutta | Ashraellen, tukiajatus, hiljaisuus, ymmärtäminen, hienovaraisuus | ajatus, hiljaisuutta, hieno, tarvitsee, 0015, ashraellen, public, tarvitse, tullakseen, vaan, aikaa, aina, arcs, herkkyyttä, hienovarainen, joskus, karkeaksi, karkeutta |
-| fi/public/thoughts/arcs/0016-one-fact.html | fi | public | Ashraellen — Oli yksi fakta | _missing_ | fakta, oli, yksi, ajatus, ashraellen, jatko-osineen, kärsimystä, kolme, public, 0016, arcs, fact, itse, joku, koko, kuin, miksi, mitä |
+| fi/public/thoughts/arcs/0016-one-fact.html | fi | public | Ashraellen — Oli yksi fakta | Ashraellen, tukiajatus, fakta, tulkinta, ahdistus | fakta, yksi, oli, 0016, ajatus, ashraellen, mitä, public, tiedän, varmasti, arcs, fact, itse, joku, kärsimyssarjaksi, koko, kokonaiseksi, kuin |
 | fi/public/thoughts/arcs/0017-witness-does-not-interfere.html | fi | public | Ashraellen — Todistaja ei puutu väliin | _missing_ | todistaja, aikojaan, ajatus, ashraellen, ennen, estä, näkyväksi, public, puutu, väliin, 0017, arcs, does, ihminen, interfere, joka, joskus, koko |
 | fi/public/thoughts/arcs/0018-image-cannot-be-happy.html | fi | public | Ashraellen — Kuva ei voi olla onnellinen | _missing_ | voi, kuva, olla, onnellinen, ajatus, ashraellen, mutta, public, 0018, arcs, cannot, hänen, happy, ihminen, image, itsensä, koko, kuvan |
 | fi/public/thoughts/arcs/0019-do-not-bomb.html | fi | public | Ashraellen — Älä pommita | _missing_ | älä, pommita, ajatus, ashraellen, niin, pommiteta, public, tämä, 0019, arcs, bomb, ensin, että, hän, ihminen, koko, maailmaan, miksi |
@@ -6586,13 +6586,13 @@ Excerpt:
 - lang: fi
 - section: public
 - title: Ashraellen — Oli yksi fakta
-- description: Tukiajatus 0016: oli yksi fakta ja kärsimystä kolme tuotantokautta jatko-osineen.
+- description: Tukiajatus 0016: yksi fakta voi muuttua mielessä kokonaiseksi kärsimyssarjaksi. Kysymys kuuluu: mitä tiedän varmasti?
 - canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0016-one-fact.html
 - H1: Oli yksi fakta
 - H2: Ajatus | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
 - H3: _missing_
-- suggested keyword seed: fakta, oli, yksi, ajatus, ashraellen, jatko-osineen, kärsimystä, kolme, public, 0016, arcs, fact, itse, joku, koko, kuin, miksi, mitä
-- candidates: mitä, oli, fakta, yksi, ajatus, itse, jatko-osineen, joku, kärsimystä, kolme, kuin, siihen, tuotantokautta, 0016, ahdistuksen, ajattele, älä, hän, joskus, jotain, kanssa, katsoi, liikaa, lyhyesti
+- suggested keyword seed: fakta, yksi, oli, 0016, ajatus, ashraellen, mitä, public, tiedän, varmasti, arcs, fact, itse, joku, kärsimyssarjaksi, koko, kokonaiseksi, kuin
+- candidates: mitä, fakta, oli, yksi, ajatus, itse, joku, kuin, siihen, tiedän, varmasti, 0016, ahdistuksen, ajattele, älä, hän, jatko-osineen, joskus, jotain, kanssa, kärsimystä, katsoi, kolme, kysymys
 
 Excerpt:
 
