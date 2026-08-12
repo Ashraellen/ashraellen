@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T14:55:57.592Z
+Generated: 2026-08-12T14:56:57.185Z
 Pages: 842
 
 ## Index
@@ -303,7 +303,7 @@ Pages: 842
 | fi/books/monolith/index.html | fi | books | Ashraellen — MONOLIITTI | _missing_ | monoliitti, ashraellen, betoni, books, kaasu, liete, aineen, avaa, dystopiatrilogia, enää, filosofinen, hän, järjestelmien, kartta, kirjallinen, kontrollista, mihin, mikä |
 | fi/books/monolith/sludge/index.html | fi | books | Ashraellen — LIETE | _missing_ | liete, ashraellen, books, katkelma, osa, alkaa, dystopia, enää, englanninkielinen, filosofinen, hän, ihminen, joka, jossa, kehys, kirjallinen, kirjasta, menetyksestä |
 | fi/books/radiance/index.html | fi | books | Ashraellen — HOHDE \| Pohjoisia kertomuksia maailman todellisesta historiasta | _missing_ | hohde, ashraellen, books, kertomukset, kirjallis-filosofinen, maailman, mitä, siitä, sykli, että, historiasta, ihminen, kertomuksia, kirja, kirjat, kuvallisia, maailmassa, mikä |
-| fi/books/radiance/sampo/index.html | fi | books | Ashraellen — Sampo \| RADIANCE, Kirja I | _missing_ | sampo, kirja, ashraellen, books, jossa, ole, radiance, ensimmäinen, erotettu, hän, ihminen, julkaisutilanne, katkelma, kehys, kertomus, kirjallis-filosofinen, kirjasta, kuin |
+| fi/books/radiance/sampo/index.html | fi | books | Ashraellen — Sampo \| HOHDE, Kirja I | _missing_ | sampo, kirja, ashraellen, books, jossa, ole, ensimmäinen, erotettu, hän, hohde, hohde-sarjan, ihminen, julkaisutilanne, katkelma, kehys, kertomus, kirjallis-filosofinen, kirjasta |
 | fi/books/radiance/song/index.html | fi | books | Ashraellen — Song \| RADIANCE, Kirja II | _missing_ | song, ashraellen, kirja, äänestä, books, joka, radiance, ääni, alkaa, ennen, julkaisutilanne, katkelma, kaupungista, kielestä, kieli, kirjasta, kuulemisesta, laulusta |
 | fi/books/samizdat/demotopia/index.html | fi | books | Demotopia — Kirjapassi — samizdat 2.0 | _missing_ | demotopia, samizdat, 2.0, kirjapassi, books, demotopian, julkaisu, ashraellen, democratic, demokratian, fyysinen, fyysisen, järjestelmässä, kirjasta, passi, pysyvä, pyydä, sen |
 | fi/books/samizdat/index.html | fi | books | samizdat 2.0 — Ashraellenin tekijäjulkaisut | _missing_ | samizdat, 2.0, ashraellenin, books, ilman, tekijäjulkaisut, ashraellen, eikä, fyysinen, fyysiset, julkiset, kappale, kappaleen, kappaleet, kirja, kirjan, kirjapassit, kirjat |
@@ -5888,18 +5888,18 @@ Excerpt:
 
 - lang: fi
 - section: books
-- title: Ashraellen — Sampo | RADIANCE, Kirja I
-- description: Sampo on RADIANCE-sarjan ensimmäinen kirja: pohjoinen kirjallis-filosofinen kertomus runsaudesta, omistamisesta, osallisuudesta ja maailmasta, jossa myyttiä ei ole erotettu työstä.
+- title: Ashraellen — Sampo | HOHDE, Kirja I
+- description: Sampo on HOHDE-sarjan ensimmäinen kirja: pohjoinen kirjallis-filosofinen kertomus runsaudesta, omistamisesta, osallisuudesta ja maailmasta, jossa myyttiä ei ole erotettu työstä.
 - canonical: https://www.ashraellen.com/fi/books/radiance/sampo/
 - H1: Sampo
 - H2: Kirjasta | Valittu katkelma | Taiteellisen tutkimuksen kehys | Julkaisutilanne
 - H3: _missing_
-- suggested keyword seed: sampo, kirja, ashraellen, books, jossa, ole, radiance, ensimmäinen, erotettu, hän, ihminen, julkaisutilanne, katkelma, kehys, kertomus, kirjallis-filosofinen, kirjasta, kuin
-- candidates: oli, sampo, hän, ole, ihminen, jossa, kirja, kuin, kun, leipä, olisi, sofia, vielä, ashraellen, englanninkielinen, ennen, ensimmäinen, erotettu, esineeksi, haluaa, joka, jotka, kansi, keittiön
+- suggested keyword seed: sampo, kirja, ashraellen, books, jossa, ole, ensimmäinen, erotettu, hän, hohde, hohde-sarjan, ihminen, julkaisutilanne, katkelma, kehys, kertomus, kirjallis-filosofinen, kirjasta
+- candidates: oli, sampo, hän, ole, ihminen, jossa, kirja, kuin, kun, leipä, olisi, sofia, vielä, ashraellen, englanninkielinen, ennen, ensimmäinen, erotettu, esineeksi, haluaa, hohde, hohde-sarjan, joka, jotka
 
 Excerpt:
 
-> RADIANCE — pohjoisia kertomuksia maailman todellisesta historiasta Sampo RADIANCE-sarjan ensimmäinen kirja. Pohjoinen kertomus esineestä, joka osoittautuu enemmän kuin esineeksi: runsaudesta, omistamisesta, osallisuudesta ja rauhasta maailmassa, jossa myyttiä ei ole vielä erotettu työstä, kylmästä, kodista ja tulesta. Emme kerro Kalevalaa uudelleen. Näytämme maailman, josta sellaiset kertomukset saattoivat syntyä. Englanninkielinen kansi. Ashraellen. Kirjasta runsaus ilman omistajan harhaa Sampo alkaa kysymyksestä, joka näyttää taloudelliselta ja päätyy ontologiseksi: mitä ihminen oikeastaan haluaa omistaa, kun hän haluaa runsauden lähteen? Kirjassa leipä, maa, puu, vesi, metsä ja talo eivät ole symboleja, jotka liimataan tarinan päälle. Ne ovat tapa, jolla maailma puhuu ihmiselle ennen käsitettä. Runsaus ei ole varasto, jonka voi sulkea oven taakse, vaan suhde siihen, mikä tuottaa elämä
+> HOHDE — pohjoisia kertomuksia maailman todellisesta historiasta Sampo HOHDE-sarjan ensimmäinen kirja. Pohjoinen kertomus esineestä, joka osoittautuu enemmän kuin esineeksi: runsaudesta, omistamisesta, osallisuudesta ja rauhasta maailmassa, jossa myyttiä ei ole vielä erotettu työstä, kylmästä, kodista ja tulesta. Emme kerro Kalevalaa uudelleen. Näytämme maailman, josta sellaiset kertomukset saattoivat syntyä. Englanninkielinen kansi. Ashraellen. Kirjasta runsaus ilman omistajan harhaa Sampo alkaa kysymyksestä, joka näyttää taloudelliselta ja päätyy ontologiseksi: mitä ihminen oikeastaan haluaa omistaa, kun hän haluaa runsauden lähteen? Kirjassa leipä, maa, puu, vesi, metsä ja talo eivät ole symboleja, jotka liimataan tarinan päälle. Ne ovat tapa, jolla maailma puhuu ihmiselle ennen käsitettä. Runsaus ei ole varasto, jonka voi sulkea oven taakse, vaan suhde siihen, mikä tuottaa elämää yhde
 
 ### fi/books/radiance/song/index.html
 

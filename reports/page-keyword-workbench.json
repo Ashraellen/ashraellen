@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T14:55:57.576Z",
+  "generated": "2026-08-12T14:56:57.171Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -22045,8 +22045,8 @@
       "page": "fi/books/radiance/sampo/index.html",
       "lang": "fi",
       "section": "books",
-      "title": "Ashraellen — Sampo | RADIANCE, Kirja I",
-      "description": "Sampo on RADIANCE-sarjan ensimmäinen kirja: pohjoinen kirjallis-filosofinen kertomus runsaudesta, omistamisesta, osallisuudesta ja maailmasta, jossa myyttiä ei ole erotettu työstä.",
+      "title": "Ashraellen — Sampo | HOHDE, Kirja I",
+      "description": "Sampo on HOHDE-sarjan ensimmäinen kirja: pohjoinen kirjallis-filosofinen kertomus runsaudesta, omistamisesta, osallisuudesta ja maailmasta, jossa myyttiä ei ole erotettu työstä.",
       "existingKeywords": "",
       "canonical": "https://www.ashraellen.com/fi/books/radiance/sampo/",
       "h1": [
@@ -22065,7 +22065,7 @@
         "radiance",
         "sampo"
       ],
-      "excerpt": "RADIANCE — pohjoisia kertomuksia maailman todellisesta historiasta Sampo RADIANCE-sarjan ensimmäinen kirja. Pohjoinen kertomus esineestä, joka osoittautuu enemmän kuin esineeksi: runsaudesta, omistamisesta, osallisuudesta ja rauhasta maailmassa, jossa myyttiä ei ole vielä erotettu työstä, kylmästä, kodista ja tulesta. Emme kerro Kalevalaa uudelleen. Näytämme maailman, josta sellaiset kertomukset saattoivat syntyä. Englanninkielinen kansi. Ashraellen. Kirjasta runsaus ilman omistajan harhaa Sampo alkaa kysymyksestä, joka näyttää taloudelliselta ja päätyy ontologiseksi: mitä ihminen oikeastaan haluaa omistaa, kun hän haluaa runsauden lähteen? Kirjassa leipä, maa, puu, vesi, metsä ja talo eivät ole symboleja, jotka liimataan tarinan päälle. Ne ovat tapa, jolla maailma puhuu ihmiselle ennen käsitettä. Runsaus ei ole varasto, jonka voi sulkea oven taakse, vaan suhde siihen, mikä tuottaa elämä",
+      "excerpt": "HOHDE — pohjoisia kertomuksia maailman todellisesta historiasta Sampo HOHDE-sarjan ensimmäinen kirja. Pohjoinen kertomus esineestä, joka osoittautuu enemmän kuin esineeksi: runsaudesta, omistamisesta, osallisuudesta ja rauhasta maailmassa, jossa myyttiä ei ole vielä erotettu työstä, kylmästä, kodista ja tulesta. Emme kerro Kalevalaa uudelleen. Näytämme maailman, josta sellaiset kertomukset saattoivat syntyä. Englanninkielinen kansi. Ashraellen. Kirjasta runsaus ilman omistajan harhaa Sampo alkaa kysymyksestä, joka näyttää taloudelliselta ja päätyy ontologiseksi: mitä ihminen oikeastaan haluaa omistaa, kun hän haluaa runsauden lähteen? Kirjassa leipä, maa, puu, vesi, metsä ja talo eivät ole symboleja, jotka liimataan tarinan päälle. Ne ovat tapa, jolla maailma puhuu ihmiselle ennen käsitettä. Runsaus ei ole varasto, jonka voi sulkea oven taakse, vaan suhde siihen, mikä tuottaa elämää yhde",
       "candidates": [
         "oli",
         "sampo",
@@ -22087,10 +22087,10 @@
         "erotettu",
         "esineeksi",
         "haluaa",
+        "hohde",
+        "hohde-sarjan",
         "joka",
-        "jotka",
-        "kansi",
-        "keittiön"
+        "jotka"
       ],
       "suggestedKeywordSeed": [
         "sampo",
@@ -22099,18 +22099,18 @@
         "books",
         "jossa",
         "ole",
-        "radiance",
         "ensimmäinen",
         "erotettu",
         "hän",
+        "hohde",
+        "hohde-sarjan",
         "ihminen",
         "julkaisutilanne",
         "katkelma",
         "kehys",
         "kertomus",
         "kirjallis-filosofinen",
-        "kirjasta",
-        "kuin"
+        "kirjasta"
       ]
     },
     {

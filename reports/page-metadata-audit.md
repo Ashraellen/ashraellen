@@ -1,6 +1,6 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T14:55:56.937Z
+Generated: 2026-08-12T14:56:56.495Z
 
 Pages checked: 841
 Pages with issues: 310
@@ -999,8 +999,8 @@ Total review notes: 2216
 
 ### fi/books/radiance/sampo/index.html
 
-- title: Ashraellen — Sampo | RADIANCE, Kirja I
-- description length: 180
+- title: Ashraellen — Sampo | HOHDE, Kirja I
+- description length: 177
 - canonical: https://www.ashraellen.com/fi/books/radiance/sampo/
 - og:image: https://www.ashraellen.com/assets/covers/sampo-cover-en.webp
 - twitter:image: _missing_
@@ -7416,7 +7416,7 @@ Total review notes: 2216
 
 ### fi/books/radiance/sampo/index.html
 
-- title: Ashraellen — Sampo | RADIANCE, Kirja I
+- title: Ashraellen — Sampo | HOHDE, Kirja I
 - og:image: https://www.ashraellen.com/assets/covers/sampo-cover-en.webp
 - twitter:image: _missing_
 
