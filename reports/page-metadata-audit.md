@@ -1,24 +1,24 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T16:16:58.107Z
+Generated: 2026-08-12T16:17:35.080Z
 
 Pages checked: 841
-Pages with issues: 289
-Total issues: 1682
-Pages with review notes: 640
-Total review notes: 2254
+Pages with issues: 288
+Total issues: 1674
+Pages with review notes: 642
+Total review notes: 2258
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 195 |
-| MISSING_TWITTER_IMAGE | 195 |
-| MISSING_TWITTER_CARD | 178 |
-| MISSING_OG_DESCRIPTION | 174 |
-| MISSING_JSON_LD | 173 |
-| MISSING_OG_IMAGE | 171 |
-| MISSING_OG_TITLE | 170 |
+| MISSING_KEYWORDS | 194 |
+| MISSING_TWITTER_IMAGE | 194 |
+| MISSING_TWITTER_CARD | 177 |
+| MISSING_OG_DESCRIPTION | 173 |
+| MISSING_JSON_LD | 172 |
+| MISSING_OG_IMAGE | 170 |
+| MISSING_OG_TITLE | 169 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
@@ -27,15 +27,15 @@ Total review notes: 2254
 | DUPLICATE_OG_TITLE | 34 |
 | OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
 | TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
-| DESCRIPTION_TOO_SHORT | 25 |
+| DESCRIPTION_TOO_SHORT | 24 |
 
 
 ## Review note summary
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 640 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 617 |
+| DUPLICATE_OG_IMAGE_REVIEW | 642 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 619 |
 | FALLBACK_OG_IMAGE_USED | 509 |
 | FALLBACK_TWITTER_IMAGE_USED | 488 |
 
@@ -899,23 +899,6 @@ Total review notes: 2254
 - MISSING_KEYWORDS
 - MISSING_OG_DESCRIPTION
 - MISSING_TWITTER_IMAGE
-
-### fi/books/samizdat/order/received/index.html
-
-- title: Pyyntö vastaanotettu — samizdat 2.0 — Ashraellen
-- description length: 43
-- canonical: https://www.ashraellen.com/fi/books/samizdat/order/received/
-- og:image: _missing_
-- twitter:image: _missing_
-
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_TITLE
-- MISSING_OG_DESCRIPTION
-- MISSING_OG_IMAGE
-- MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
-- DESCRIPTION_TOO_SHORT: 43
 
 ### fi/books/the-book-of-whinesis/index.html
 
@@ -7177,6 +7160,24 @@ Total review notes: 2254
 - title: Demotopia — Kirjapassi — samizdat 2.0
 - og:image: https://www.ashraellen.com/assets/covers/DEMOTOPIA_COMMERCIAL_COVER_CONCEPT_EN_v01.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/DEMOTOPIA_COMMERCIAL_COVER_CONCEPT_EN_v01.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
+
+### fi/books/samizdat/index.html
+
+- title: samizdat 2.0 — Ashraellenin tekijäjulkaisut
+- og:image: https://www.ashraellen.com/assets/backgrounds/samizdat-2-0-author-edition-on-writing-desk.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/samizdat-2-0-author-edition-on-writing-desk.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
+
+### fi/books/samizdat/order/received/index.html
+
+- title: Pyyntö vastaanotettu — samizdat 2.0 — Ashraellen
+- og:image: https://www.ashraellen.com/assets/backgrounds/samizdat-2-0-author-edition-on-writing-desk.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/samizdat-2-0-author-edition-on-writing-desk.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages

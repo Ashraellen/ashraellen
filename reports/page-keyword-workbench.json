@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T16:16:58.777Z",
+  "generated": "2026-08-12T16:17:35.722Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -22411,8 +22411,8 @@
       "lang": "fi",
       "section": "books",
       "title": "Pyyntö vastaanotettu — samizdat 2.0 — Ashraellen",
-      "description": "Samizdat 2.0 -kirjapyyntö on vastaanotettu.",
-      "existingKeywords": "",
+      "description": "Samizdat 2.0 -kirjapyyntö on vastaanotettu. Saatavuus, valmistusaika, hinta ja toimitus vahvistetaan sähköpostitse ennen valmistusta.",
+      "existingKeywords": "Ashraellen, samizdat 2.0, kirjapyyntö, tekijäkappale, pyyntö vastaanotettu",
       "canonical": "https://www.ashraellen.com/fi/books/samizdat/order/received/",
       "h1": [
         "Kiitos."
@@ -22432,13 +22432,15 @@
         "pyyntö",
         "samizdat",
         "vastaanotettu",
+        "ennen",
+        "valmistusta",
         "aan",
         "antamaasi",
         "ashraellen",
         "eikä",
-        "ennen",
         "erillistä",
         "hinnan",
+        "hinta",
         "käynnistä",
         "kielen",
         "kiitos",
@@ -22447,11 +22449,9 @@
         "ostoon",
         "perille",
         "saatavuuden",
+        "saatavuus",
         "sähköpostiosoitteeseen",
-        "sido",
-        "takaisin",
-        "tarkistamme",
-        "toimitusvaihtoehdot"
+        "sähköpostitse"
       ],
       "suggestedKeywordSeed": [
         "samizdat",
@@ -22459,14 +22459,15 @@
         "ashraellen",
         "vastaanotettu",
         "books",
+        "ennen",
         "pyyntö",
+        "valmistusta",
         "aan",
         "antamaasi",
         "eikä",
-        "ennen",
         "erillistä",
         "hinnan",
-        "käynnistä",
+        "hinta",
         "kiitos",
         "kirjapyyntö",
         "order",

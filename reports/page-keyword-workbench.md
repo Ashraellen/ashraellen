@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-12T16:16:58.794Z
+Generated: 2026-08-12T16:17:35.737Z
 Pages: 842
 
 ## Index
@@ -308,7 +308,7 @@ Pages: 842
 | fi/books/samizdat/demotopia/index.html | fi | books | Demotopia — Kirjapassi — samizdat 2.0 | Ashraellen, Demotopia, Demokraattinen utopia, samizdat 2.0, kirjapassi, tekijäjulkaisu | demotopia, samizdat, 2.0, kirjapassi, 2026, books, demokraattinen, julkaisu, utopia, ashraellen, demotopian, fyysinen, fyysisen, järjestelmässä, kirjasta, passi, pysyvä, pyydä |
 | fi/books/samizdat/index.html | fi | books | samizdat 2.0 — Ashraellenin tekijäjulkaisut | Ashraellen, samizdat 2.0, tekijäjulkaisut, kirjapassi, fyysiset kirjat, numeroidut kappaleet | samizdat, 2.0, ashraellenin, books, ilman, tekijäjulkaisut, ashraellen, eikä, fyysinen, fyysiset, julkiset, kappale, kappaleen, kappaleet, kirja, kirjan, kirjapassit, kirjat |
 | fi/books/samizdat/order/index.html | fi | books | Pyydä samizdat 2.0 -tekijäkappale — Ashraellen | Ashraellen, samizdat 2.0, tekijäkappale, kirjatilaus, Demotopia, kirjapyyntö | pyydä, 2.0, kappale, samizdat, tekijäkappale, allekirjoitettu, ashraellen, books, henkilökohtaisesti, hinta, toimitus, ashraellenin, ennen, hinnan, järjestämiseen, kappaleen, kielellä, maksu |
-| fi/books/samizdat/order/received/index.html | fi | books | Pyyntö vastaanotettu — samizdat 2.0 — Ashraellen | _missing_ | samizdat, 2.0, ashraellen, vastaanotettu, books, pyyntö, aan, antamaasi, eikä, ennen, erillistä, hinnan, käynnistä, kiitos, kirjapyyntö, order, received |
+| fi/books/samizdat/order/received/index.html | fi | books | Pyyntö vastaanotettu — samizdat 2.0 — Ashraellen | Ashraellen, samizdat 2.0, kirjapyyntö, tekijäkappale, pyyntö vastaanotettu | samizdat, 2.0, ashraellen, vastaanotettu, books, ennen, pyyntö, valmistusta, aan, antamaasi, eikä, erillistä, hinnan, hinta, kiitos, kirjapyyntö, order, received |
 | fi/books/seccus/index.html | fi | books | Ashraellen — SECCUSIN PYHÄ KIRJA | Ashraellen, SECCUS, SECCUSIN PYHÄ KIRJA, Rehellisyyden polku, filosofia, itsepetos, vastuu | kirja, pyhä, seccusin, ashraellen, books, menestyksestä, polku, rehellisyyden, sivu, ääni, alibina, avaa, filosofinen, ihminen, itsepetoksesta, joka, kirjan, kirjassa |
 | fi/books/the-book-of-whinesis/index.html | fi | books | Ashraellen — The Book of Whinesis | Ashraellen, The Book of Whinesis, satiiri, Church of Saint Whine, uupumus, tuottavuuskultti | book, whinesis, ashraellen, books, jotka, satiiri, ääniraitoja, ensimmäiset, että, herra, katkelma, kirjasta, kulttiin, kun, loputtomaan, luvut, menestyksen, niille |
 | fi/books/you-are-already-online/index.html | fi | books | Ashraellen — Olet jo verkossa | _missing_ | olet, verkossa, ashraellen, books, hypertodellisuuden, luku, algoritmien, already, audioromaani, digitaalisen, enää, ennen, ensimmäinen, hän, ilman, immersiivinen, järjestelmä, katkelma |
@@ -5974,13 +5974,13 @@ Excerpt:
 - lang: fi
 - section: books
 - title: Pyyntö vastaanotettu — samizdat 2.0 — Ashraellen
-- description: Samizdat 2.0 -kirjapyyntö on vastaanotettu.
+- description: Samizdat 2.0 -kirjapyyntö on vastaanotettu. Saatavuus, valmistusaika, hinta ja toimitus vahvistetaan sähköpostitse ennen valmistusta.
 - canonical: https://www.ashraellen.com/fi/books/samizdat/order/received/
 - H1: Kiitos.
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: samizdat, 2.0, ashraellen, vastaanotettu, books, pyyntö, aan, antamaasi, eikä, ennen, erillistä, hinnan, käynnistä, kiitos, kirjapyyntö, order, received
-- candidates: 2.0, pyyntö, samizdat, vastaanotettu, aan, antamaasi, ashraellen, eikä, ennen, erillistä, hinnan, käynnistä, kielen, kiitos, kirjapyyntö, kirjapyyntösi, ostoon, perille, saatavuuden, sähköpostiosoitteeseen, sido, takaisin, tarkistamme, toimitusvaihtoehdot
+- suggested keyword seed: samizdat, 2.0, ashraellen, vastaanotettu, books, ennen, pyyntö, valmistusta, aan, antamaasi, eikä, erillistä, hinnan, hinta, kiitos, kirjapyyntö, order, received
+- candidates: 2.0, pyyntö, samizdat, vastaanotettu, ennen, valmistusta, aan, antamaasi, ashraellen, eikä, erillistä, hinnan, hinta, käynnistä, kielen, kiitos, kirjapyyntö, kirjapyyntösi, ostoon, perille, saatavuuden, saatavuus, sähköpostiosoitteeseen, sähköpostitse
 
 Excerpt:
 
