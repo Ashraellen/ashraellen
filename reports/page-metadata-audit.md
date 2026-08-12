@@ -1,24 +1,24 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T13:34:06.735Z
+Generated: 2026-08-12T13:35:04.858Z
 
 Pages checked: 841
 Pages with issues: 320
-Total issues: 1862
-Pages with review notes: 620
-Total review notes: 2172
+Total issues: 1857
+Pages with review notes: 622
+Total review notes: 2176
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 232 |
-| MISSING_TWITTER_IMAGE | 230 |
-| MISSING_TWITTER_CARD | 200 |
-| MISSING_OG_DESCRIPTION | 199 |
-| MISSING_JSON_LD | 196 |
-| MISSING_OG_IMAGE | 190 |
-| MISSING_OG_TITLE | 183 |
+| MISSING_KEYWORDS | 231 |
+| MISSING_TWITTER_IMAGE | 229 |
+| MISSING_TWITTER_CARD | 199 |
+| MISSING_OG_DESCRIPTION | 198 |
+| MISSING_JSON_LD | 195 |
+| MISSING_OG_IMAGE | 189 |
+| MISSING_OG_TITLE | 182 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
@@ -26,16 +26,16 @@ Total review notes: 2172
 | DUPLICATE_OG_TITLE | 42 |
 | DUPLICATE_KEYWORDS | 36 |
 | DESCRIPTION_TOO_SHORT | 27 |
-| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 26 |
-| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 26 |
+| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 27 |
+| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 27 |
 
 
 ## Review note summary
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 620 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 583 |
+| DUPLICATE_OG_IMAGE_REVIEW | 622 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 585 |
 | FALLBACK_OG_IMAGE_USED | 498 |
 | FALLBACK_TWITTER_IMAGE_USED | 471 |
 
@@ -1700,16 +1700,11 @@ Total review notes: 2172
 - title: Ashraellen — Tukiajatusten kolmas kaari
 - description length: 171
 - canonical: https://www.ashraellen.com/fi/public/thoughts/
-- og:image: _missing_
-- twitter:image: _missing_
+- og:image: https://www.ashraellen.com/assets/thoughts/0013-problem-loses-crown.jpg
+- twitter:image: https://www.ashraellen.com/assets/thoughts/0013-problem-loses-crown.jpg
 
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_TITLE
-- MISSING_OG_DESCRIPTION
-- MISSING_OG_IMAGE
-- MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
+- OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0013-problem-loses-crown.jpg
+- TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0013-problem-loses-crown.jpg
 
 ### fi/research/archive/index.html
 
@@ -7703,6 +7698,15 @@ Total review notes: 2172
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
 
+### fi/public/thoughts/arcs/0013-problem-loses-crown.html
+
+- title: Ashraellen — Ongelma menettää kruununsa
+- og:image: https://www.ashraellen.com/assets/thoughts/0013-problem-loses-crown.jpg
+- twitter:image: https://www.ashraellen.com/assets/thoughts/0013-problem-loses-crown.jpg
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
+
 ### fi/public/thoughts/index-0001.html
 
 - title: Ashraellen — Tukiajatusten ensimmäinen kaari
@@ -7717,6 +7721,15 @@ Total review notes: 2172
 - title: Ashraellen — Tukiajatusten toinen kaari
 - og:image: https://www.ashraellen.com/assets/thoughts/0007-empty-chair.jpg
 - twitter:image: https://www.ashraellen.com/assets/thoughts/0007-empty-chair.jpg
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
+
+### fi/public/thoughts/index.html
+
+- title: Ashraellen — Tukiajatusten kolmas kaari
+- og:image: https://www.ashraellen.com/assets/thoughts/0013-problem-loses-crown.jpg
+- twitter:image: https://www.ashraellen.com/assets/thoughts/0013-problem-loses-crown.jpg
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
