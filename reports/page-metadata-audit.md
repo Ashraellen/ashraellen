@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T16:14:37.005Z
+Generated: 2026-08-12T16:15:18.565Z
 
 Pages checked: 841
-Pages with issues: 292
-Total issues: 1703
+Pages with issues: 291
+Total issues: 1698
 Pages with review notes: 638
 Total review notes: 2250
 
@@ -12,11 +12,11 @@ Total review notes: 2250
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 198 |
-| MISSING_TWITTER_IMAGE | 198 |
-| MISSING_TWITTER_CARD | 181 |
-| MISSING_OG_DESCRIPTION | 177 |
-| MISSING_JSON_LD | 176 |
+| MISSING_KEYWORDS | 197 |
+| MISSING_TWITTER_IMAGE | 197 |
+| MISSING_TWITTER_CARD | 180 |
+| MISSING_OG_DESCRIPTION | 176 |
+| MISSING_JSON_LD | 175 |
 | MISSING_OG_IMAGE | 173 |
 | MISSING_OG_TITLE | 172 |
 | MISSING_DESCRIPTION | 120 |
@@ -916,20 +916,6 @@ Total review notes: 2250
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
 - DESCRIPTION_TOO_SHORT: 76
-
-### fi/books/samizdat/index.html
-
-- title: samizdat 2.0 — Ashraellenin tekijäjulkaisut
-- description length: 113
-- canonical: https://www.ashraellen.com/fi/books/samizdat/
-- og:image: https://www.ashraellen.com/assets/backgrounds/samizdat-2-0-author-edition-on-writing-desk.webp
-- twitter:image: _missing_
-
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_DESCRIPTION
-- MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
 
 ### fi/books/samizdat/order/index.html
 
