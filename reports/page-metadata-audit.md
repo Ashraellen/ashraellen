@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T13:28:54.094Z
+Generated: 2026-08-12T13:30:00.391Z
 
 Pages checked: 841
 Pages with issues: 320
-Total issues: 1882
+Total issues: 1877
 Pages with review notes: 616
 Total review notes: 2164
 
@@ -12,13 +12,13 @@ Total review notes: 2164
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 236 |
-| MISSING_TWITTER_IMAGE | 234 |
-| MISSING_TWITTER_CARD | 204 |
-| MISSING_OG_DESCRIPTION | 203 |
-| MISSING_JSON_LD | 200 |
-| MISSING_OG_IMAGE | 194 |
-| MISSING_OG_TITLE | 187 |
+| MISSING_KEYWORDS | 235 |
+| MISSING_TWITTER_IMAGE | 233 |
+| MISSING_TWITTER_CARD | 203 |
+| MISSING_OG_DESCRIPTION | 202 |
+| MISSING_JSON_LD | 199 |
+| MISSING_OG_IMAGE | 193 |
+| MISSING_OG_TITLE | 186 |
 | MISSING_DESCRIPTION | 120 |
 | DUPLICATE_CANONICAL | 66 |
 | MISSING_CANONICAL | 45 |
@@ -26,8 +26,8 @@ Total review notes: 2164
 | DUPLICATE_OG_TITLE | 42 |
 | DUPLICATE_KEYWORDS | 36 |
 | DESCRIPTION_TOO_SHORT | 27 |
-| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 22 |
-| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 22 |
+| OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 23 |
+| TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 23 |
 
 
 ## Review note summary
@@ -1513,16 +1513,11 @@ Total review notes: 2164
 - title: Ashraellen — Likainen kuppi
 - description length: 87
 - canonical: https://www.ashraellen.com/fi/public/thoughts/arcs/0010-dirty-cup.html
-- og:image: _missing_
-- twitter:image: _missing_
+- og:image: https://www.ashraellen.com/assets/thoughts/0010-dirty-cup.jpg
+- twitter:image: https://www.ashraellen.com/assets/thoughts/0010-dirty-cup.jpg
 
-- MISSING_KEYWORDS
-- MISSING_JSON_LD
-- MISSING_OG_TITLE
-- MISSING_OG_DESCRIPTION
-- MISSING_OG_IMAGE
-- MISSING_TWITTER_CARD
-- MISSING_TWITTER_IMAGE
+- OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0010-dirty-cup.jpg
+- TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG: https://www.ashraellen.com/assets/thoughts/0010-dirty-cup.jpg
 
 ### fi/public/thoughts/arcs/0011-do-not-regret.html
 
