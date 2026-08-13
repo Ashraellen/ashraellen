@@ -1,0 +1,198 @@
+name: Migrate BETON page type
+
+on:
+  push:
+    branches: [agent/beton-page-type]
+
+permissions:
+  contents: write
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/beton-page-type
+          fetch-depth: 0
+      - name: Apply bounded BETON migration
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          langs = ['en','ru','pl','be','uk','de','fr','es','pt','fi']
+          close_text = {
+            'en':'Close the complete excerpt',
+            'ru':'Закрыть фрагмент',
+            'pl':'Zamknij pełny fragment',
+            'be':'Закрыць поўны фрагмент',
+            'uk':'Закрити повний фрагмент',
+            'de':'Vollständigen Auszug schließen',
+            'fr':'Fermer l’extrait complet',
+            'es':'Cerrar el fragmento completo',
+            'pt':'Fechar o trecho completo',
+            'fi':'Sulje katkelma',
+          }
+
+          css = '''/* Ashraellen — BETON book-detail page type
+             One shared stylesheet for every language version at /xx/books/monolith/beton/.
+             No dependency on books.css, no page-local <style>, no inline style="" attributes.
+             Typography for narrative content follows tokens.css roles (body / lead / accent / kicker).
+          */
+          @import url("tokens.css");
+
+          :root{--warm:rgba(210,150,80,.07)}
+
+          *{box-sizing:border-box}
+          html,body{height:100%}
+          body{margin:0;font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Arial,"Noto Sans","Liberation Sans",sans-serif;background:var(--bg);color:var(--fg)}
+          a{color:var(--fg);text-decoration:none}
+          a:hover{text-decoration:underline}
+
+          .wrap{min-height:100vh}
+          .page{position:relative;min-height:100vh;overflow:hidden;display:flex;flex-direction:column}
+          .page::before{content:"";position:absolute;inset:0;background:url("backgrounds/monolith-bg.webp") center/cover no-repeat;filter:brightness(.48) contrast(1.08) saturate(.72) blur(1.5px);transform:scale(1.02);z-index:0;will-change:transform;animation:betonDrift 80s ease-in-out infinite alternate}
+          .page::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(11,11,13,.92) 0%,rgba(11,11,13,.74) 30%,rgba(11,11,13,.46) 58%,rgba(11,11,13,.18) 82%,rgba(11,11,13,.06) 100%),radial-gradient(70% 80% at 62% 45%,var(--warm) 0%,rgba(210,150,80,0) 70%);z-index:1}
+          @keyframes betonDrift{0%{transform:scale(1.02) translate3d(0,0,0)}100%{transform:scale(1.042) translate3d(-.4%,-.25%,0)}}
+          @media(prefers-reduced-motion:reduce){.page::before{animation:none}}
+
+          .site-header{position:relative;z-index:2;padding:22px 44px 0;text-align:right}
+          .site-header .brand{margin:0 0 6px;letter-spacing:.22em;text-transform:uppercase;font-size:14px;font-weight:600;opacity:.92}
+          .site-header .menu{font-size:13px;color:var(--muted)}
+          .site-header .menu a{color:var(--muted);margin:0 10px}
+          .site-header .menu a:hover{color:var(--fg);text-decoration:none}
+
+          .main{position:relative;z-index:2;flex:1;display:flex;align-items:center;justify-content:center}
+          .container{width:min(100%,980px);max-width:980px;margin:0 auto;padding:28px 44px 56px;text-shadow:0 2px 8px rgba(0,0,0,.84),0 0 22px rgba(0,0,0,.46)}
+
+          .h1{margin:0 0 10px;font-size:28px;font-weight:800;letter-spacing:.02em}
+          .lead{margin:0 0 16px;font-size:var(--fs-lead);line-height:var(--lh-lead);color:var(--muted);max-width:78ch}
+
+          /* Case-file hero: cover + protocol number + opening quote */
+          .book-hero{display:grid;grid-template-columns:220px 1fr;gap:22px;align-items:start}
+          .cover{border-radius:16px;overflow:hidden;border:1px solid rgba(242,242,244,.14)}
+          .cover img{display:block;width:100%}
+
+          .protocol,.note{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;color:var(--muted);font-size:var(--fs-kicker);line-height:var(--lh-kicker)}
+
+          .quote{font-family:Georgia,"Times New Roman",serif;font-size:var(--fs-accent);line-height:var(--lh-accent);color:var(--fg);margin:0 0 12px}
+
+          /* Running descriptive copy */
+          .copy{font-size:var(--fs-body);line-height:var(--lh-body);color:var(--muted);max-width:88ch}
+          .copy p{margin:0 0 12px}
+
+          .cta-row{display:flex;gap:12px;flex-wrap:wrap;margin-top:14px}
+          .btn{display:inline-flex;align-items:center;justify-content:center;padding:12px 18px;border-radius:14px;border:1px solid rgba(242,242,244,.18);background:rgba(0,0,0,.22);backdrop-filter:blur(3px);font-size:14px;font-weight:800;text-decoration:none;cursor:pointer;user-select:none;transition:transform 140ms ease,background 140ms ease,border-color 140ms ease,opacity 140ms ease;opacity:.95;color:var(--fg)!important;appearance:none;-webkit-appearance:none;outline:none}
+          .btn:hover{background:rgba(255,255,255,.08);border-color:rgba(242,242,244,.34);transform:translateY(-1px);opacity:1;text-decoration:none;color:var(--fg)!important}
+          .btn:active{transform:translateY(0) scale(.99)}
+          .btn:focus-visible{box-shadow:0 0 0 2px rgba(242,242,244,.18),0 0 0 6px rgba(242,242,244,.08)}
+          .btn.secondary{font-weight:700;border-color:rgba(242,242,244,.14);background:rgba(0,0,0,.16);opacity:.95;color:var(--fg)!important}
+
+          /* Excerpt toggle — open/closed label swap, same behavior in all 10 languages */
+          details{margin-top:12px;border:1px solid rgba(242,242,244,.13);border-radius:14px;padding:12px;background:rgba(0,0,0,.2)}
+          summary{cursor:pointer;font-weight:700;color:var(--fg)}
+          summary .when-open{display:none}
+          details[open] summary .when-closed{display:none}
+          details[open] summary .when-open{display:inline}
+          .fragment{margin-top:14px}
+          .fragment p{max-width:88ch}
+
+          /* List sections (Themes, Where to read, etc.) */
+          .list{margin-top:14px;border:1px solid rgba(242,242,244,.07);border-radius:18px;background:rgba(0,0,0,.18);backdrop-filter:blur(4px);overflow:hidden;box-shadow:0 12px 34px rgba(0,0,0,.18)}
+          .list-header{padding:14px 16px;border-bottom:1px solid rgba(242,242,244,.055);display:flex;align-items:baseline;justify-content:space-between;gap:12px}
+          .list-header h2{margin:0;font-size:16px;font-weight:700}
+          .list-header .note{margin:0}
+
+          .grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+          .card,.linkbox{border:1px solid rgba(242,242,244,.12);border-radius:14px;padding:14px;background:rgba(0,0,0,.20)}
+          .card h3{margin:0 0 7px}
+          .card p{margin:0;color:var(--muted);font-size:var(--fs-body);line-height:var(--lh-body)}
+
+          .seal{display:flex;align-items:center;gap:10px;margin-top:24px;color:var(--muted);font-size:var(--fs-kicker)}
+          .seal img{height:22px;width:auto;opacity:.75}
+
+          @media(max-width:900px){
+            .site-header{padding:16px 22px 0}
+            .main{align-items:flex-start;justify-content:center}
+            .container{width:100%;padding:22px 22px 44px}
+          }
+          @media(max-width:850px){.grid{grid-template-columns:1fr}}
+          @media(max-width:700px){.book-hero{grid-template-columns:1fr}.cover{max-width:260px}}
+          '''
+          css = '\n'.join(line[10:] if line.startswith('          ') else line for line in css.splitlines()) + '\n'
+          Path('assets/beton.css').write_text(css, encoding='utf-8')
+
+          for lang in langs:
+              p = Path(lang) / 'books/monolith/beton/index.html'
+              s = p.read_text(encoding='utf-8')
+              original = s
+
+              s, ncss = re.subn(r'<link rel="stylesheet" href="\.\./\.\./\.\./\.\./assets/books\.css\?v=[^"]+">', '<link rel="stylesheet" href="../../../../assets/beton.css?v=20260813-1">', s)
+              assert ncss == 1, (lang, 'stylesheet', ncss)
+              s, nstyle = re.subn(r'<style>.*?</style>', '', s, flags=re.S)
+              assert nstyle == 1, (lang, 'style block', nstyle)
+              s = re.sub(r'\sdata-p="\d+"', '', s)
+
+              if lang == 'ru':
+                  # Remove page-local presentation wrappers/attributes inherited from the catalog page type.
+                  s = re.sub(r'\sstyle="[^"]*"', '', s)
+                  opens = len(re.findall(r'<ul class="items"><li class="item">', s))
+                  assert opens == 8, ('ru', 'items wrappers', opens)
+                  s = s.replace('<ul class="items"><li class="item">', '')
+                  closes = s.count('</li></ul>')
+                  assert closes == 8, ('ru', 'items wrapper closes', closes)
+                  s = s.replace('</li></ul>', '')
+
+                  s = s.replace('book-cover', 'cover')
+                  s = s.replace('quote-line', 'quote')
+                  s = s.replace('beton-copy', 'copy')
+                  s = s.replace('beton-grid', 'grid')
+                  s = s.replace('beton-card', 'card')
+                  s = s.replace('beton-link-box', 'linkbox')
+                  s = s.replace('beton-fragment-body', 'fragment')
+                  s = s.replace('<details class="beton-fragment">', '<details>')
+                  s = re.sub(r'class="body ([^"]+)"', r'class="\1"', s)
+                  s = s.replace('<summary><span class="when-closed">Открыть фрагмент</span><span class="when-open">Закрыть фрагмент</span></summary>', '<summary><span class="when-closed">Открыть фрагмент</span><span class="when-open">Закрыть фрагмент</span></summary>')
+              else:
+                  m = re.search(r'<summary>([^<]+)</summary>', s)
+                  assert m, (lang, 'summary not found')
+                  opening = m.group(1)
+                  repl = f'<summary><span class="when-closed">{opening}</span><span class="when-open">{close_text[lang]}</span></summary>'
+                  s = s[:m.start()] + repl + s[m.end():]
+
+              assert '<style>' not in s, (lang, 'local style remains')
+              assert 'style="' not in s, (lang, 'inline style remains')
+              assert 'assets/books.css' not in s, (lang, 'books.css remains')
+              assert 'assets/beton.css?v=20260813-1' in s, (lang, 'beton.css missing')
+              assert 'data-p=' not in s, (lang, 'data-p remains')
+              assert 'when-closed' in s and 'when-open' in s, (lang, 'toggle missing')
+              assert s != original, (lang, 'no change')
+              p.write_text(s, encoding='utf-8')
+
+          # Structural assertions across all ten mirrors.
+          for lang in langs:
+              s = (Path(lang) / 'books/monolith/beton/index.html').read_text(encoding='utf-8')
+              for old in ['beton-card','beton-grid','beton-link-box','beton-copy','book-cover','quote-line','beton-fragment-body','class="beton-fragment"']:
+                  assert old not in s, (lang, 'old class remains', old)
+
+          # Existing project checks: preserve baseline rather than pretending historical debt is new.
+          import subprocess
+          for cmd in (['node','scripts/check-site.js'], ['node','scripts/check-links.js']):
+              r = subprocess.run(cmd, text=True, capture_output=True)
+              print('$', ' '.join(cmd), 'exit=', r.returncode)
+              print(r.stdout[-4000:])
+              print(r.stderr[-4000:])
+
+          # Remove this one-shot workflow before the resulting commit.
+          Path('.github/workflows/migrate-beton-page-type.yml').unlink()
+          PY
+
+          git config user.name "Ashraellen"
+          git config user.email "ashraellen@gmail.com"
+          git add -A
+          git diff --cached --stat
+          test "$(git diff --cached --name-only | wc -l)" -eq 11
+          git commit -m "Migrate BETON to shared page-type CSS"
+          git push origin HEAD:agent/beton-page-type
