@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T21:41:30.063Z",
+  "generated": "2026-08-13T07:36:26.473Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -484,7 +484,7 @@
       "section": "books",
       "title": "Ashraellen — МАНАЛІТ",
       "description": "МАНАЛІТ — літаратурна-філасофская антыўтапічная трылогія пра кантроль, памяць і распад сістэм: БЕТОН, ЖЫЖА і ГАЗ.",
-      "existingKeywords": "Ashraellen, МАНАЛІТ, МАНАЛІТ, dystopia, literature, artistic research",
+      "existingKeywords": "Ashraellen, МАНАЛІТ, БЕТОН, ЖЫЖА, ГАЗ, dystopia, literature, artistic research",
       "canonical": "https://www.ashraellen.com/be/books/monolith/",
       "h1": [
         "МАНАЛІТ"
@@ -5616,7 +5616,7 @@
       "section": "books",
       "title": "Ashraellen — MONOLITH",
       "description": "MONOLITH ist eine literarisch-philosophische dystopische Trilogie über Kontrolle, Erinnerung und den Zerfall von Systemen: BETON, SCHLAMM und GAS.",
-      "existingKeywords": "Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research",
+      "existingKeywords": "Ashraellen, MONOLITH, BETON, SCHLAMM, GAS, dystopia, literature, artistic research",
       "canonical": "https://www.ashraellen.com/de/books/monolith/",
       "h1": [
         "MONOLITH"
@@ -10765,7 +10765,7 @@
       "section": "books",
       "title": "Ashraellen — MONOLITH",
       "description": "MONOLITH is a literary-philosophical dystopian trilogy about control, memory and the collapse of systems: BETON, SLUDGE and GAS.",
-      "existingKeywords": "Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research",
+      "existingKeywords": "Ashraellen, MONOLITH, BETON, SLUDGE, GAS, dystopia, literature, artistic research",
       "canonical": "https://www.ashraellen.com/en/books/monolith/",
       "h1": [
         "MONOLITH"
@@ -40194,7 +40194,7 @@
       "section": "books",
       "title": "Ashraellen — MONÓLITO",
       "description": "MONÓLITO é uma trilogia distópica literária e filosófica sobre controlo, memória e colapso dos sistemas: BETÃO, LAMA e GÁS.",
-      "existingKeywords": "Ashraellen, MONÓLITO, MONÓLITO, dystopia, literature, artistic research",
+      "existingKeywords": "Ashraellen, MONÓLITO, BETÃO, LAMA, GÁS, dystopia, literature, artistic research",
       "canonical": "https://www.ashraellen.com/pt/books/monolith/",
       "h1": [
         "MONÓLITO"
@@ -45330,7 +45330,7 @@
       "lang": "ru",
       "section": "books",
       "title": "Ashraellen — МОНОЛИТ",
-      "description": "МОНОЛИТ — трилогия социальной фантастики, антиутопии и философского киберпанка о контроле, памяти и распаде систем.",
+      "description": "МОНОЛИТ — трилогия социальной фантастики, антиутопии и философского киберпанка о контроле, памяти и распаде систем: БЕТОН, ЖИЖА и ГАЗ.",
       "existingKeywords": "ashraellen, books, monolith, монолит, трилогия, социальной, фантастики, антиутопии, философского, киберпанка, контроле, памяти, распаде, систем, серия, тома, том, бетон",
       "canonical": "https://www.ashraellen.com/ru/books/monolith/",
       "h1": [
@@ -45363,11 +45363,11 @@
       "excerpt": "Протокол распада социальной материи / БЕТОН — ЖИЖА — ГАЗ МОНОЛИТ МОНОЛИТ — литературно-философская антиутопическая трилогия о контроле, памяти и распаде систем. Три тома фиксируют переход социальной материи через три состояния: БЕТОН, ЖИЖА, ГАЗ — от затвердевшей стабильности к вязкой деформации и полной разгерметизации формы. Система боится не бунта. Она боится первой трещины. Тома трилогии Карта распада Что важно не перепутать Что такое МОНОЛИТ БЕТОН / ЖИЖА / ГАЗ Перед вами хроника контролируемого распада: последовательная фиксация фазового перехода социальной материи, запечатлённая в трёх агрегатных состояниях: БЕТОН, ЖИЖА, ГАЗ. Здесь важен не прогноз будущего, а материал настоящего: порядок, который слишком долго называли безопасностью; память, которую удобнее исправить, чем услышать; человек, который начинает замечать трещину раньше, чем система признаёт её существование. БЕТОН — ста",
       "candidates": [
         "монолит",
-        "память",
-        "форма",
         "бетон",
         "газ",
         "жижа",
+        "память",
+        "форма",
         "внутри",
         "контроль",
         "начинает",
@@ -45391,13 +45391,13 @@
         "монолит",
         "ashraellen",
         "books",
-        "monolith",
-        "антиутопии",
         "бетон",
-        "важно",
-        "внутри",
         "газ",
         "жижа",
+        "monolith",
+        "антиутопии",
+        "важно",
+        "внутри",
         "карта",
         "киберпанка",
         "кого",

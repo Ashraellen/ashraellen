@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-12T21:41:29.356Z
+Generated: 2026-08-13T07:36:25.808Z
 
 Pages checked: 845
 Pages with issues: 315
-Total issues: 1733
+Total issues: 1731
 Pages with review notes: 646
 Total review notes: 2270
 
@@ -26,7 +26,7 @@ Total review notes: 2270
 | MISSING_CANONICAL | 47 |
 | OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
 | TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
-| DUPLICATE_KEYWORDS | 29 |
+| DUPLICATE_KEYWORDS | 27 |
 | DESCRIPTION_TOO_SHORT | 20 |
 
 
@@ -267,7 +267,6 @@ Total review notes: 2270
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
 - DUPLICATE_TITLE: shared by 3 pages
-- DUPLICATE_KEYWORDS: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 3 pages
 
 ### de/books/radiance/index.html
@@ -471,7 +470,6 @@ Total review notes: 2270
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 
 - DUPLICATE_TITLE: shared by 3 pages
-- DUPLICATE_KEYWORDS: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 3 pages
 
 ### en/books/radiance/index.html
