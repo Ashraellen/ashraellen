@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T11:06:07.721Z",
+  "generated": "2026-08-13T11:07:32.866Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -5131,58 +5131,6 @@
         "даследавання",
         "досведу",
         "жывая"
-      ]
-    },
-    {
-      "page": "books/monolith/index.html",
-      "lang": "root",
-      "section": "books",
-      "title": "MONOLITH — Ashraellen",
-      "description": "MONOLITH — a literary-philosophical dystopian trilogy by Ashraellen: BETON, SLUDGE and GAS. Automatic language selection.",
-      "existingKeywords": "",
-      "canonical": "https://www.ashraellen.com/monolith/",
-      "h1": [
-        "MONOLITH"
-      ],
-      "h2": [],
-      "h3": [],
-      "slugTerms": [
-        "books",
-        "monolith"
-      ],
-      "excerpt": "Ashraellen · trilogy MONOLITH BETON · SLUDGE · GAS Detecting language… Choose manually if needed.",
-      "candidates": [
-        "ashraellen",
-        "monolith",
-        "beton",
-        "gas",
-        "language",
-        "sludge",
-        "trilogy",
-        "automatic",
-        "choose",
-        "detecting",
-        "dystopian",
-        "literary-philosophical",
-        "manually",
-        "needed",
-        "selection"
-      ],
-      "suggestedKeywordSeed": [
-        "monolith",
-        "ashraellen",
-        "automatic",
-        "beton",
-        "books",
-        "dystopian",
-        "gas",
-        "language",
-        "literary-philosophical",
-        "sludge",
-        "trilogy",
-        "choose",
-        "detecting",
-        "selection"
       ]
     },
     {
