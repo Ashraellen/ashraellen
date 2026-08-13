@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-13T18:49:17.741Z
-Pages: 846
+Generated: 2026-08-13T20:23:15.145Z
+Pages: 847
 
 ## Index
 
@@ -150,6 +150,7 @@ Pages: 846
 | en/books/error-404-god-not-found/why-me/index.html | en | books | Ashraellen — Why Me? | _missing_ | why, book, error, god, about, ashraellen, books, found, 404, appeal, bureaucracy, chancellery, complaint, did, excerpt, faith, had, heavenly |
 | en/books/index.html | en | books | Ashraellen — Books | Ashraellen, books, Demotopia, Democratic Utopia, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis, samizdat 2.0, author editions | books, book, ashraellen, author, direct, editions, research, satire, 2.0, 404, about, already, cycle, cycles, demotopia, error, found, god |
 | en/books/monolith/beton/index.html | en | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, monolith, about, ashraellen, book, books, crack, first, memory, stability, system, anton, artistic-research, case, dystopia, edited, excerpt, file |
+| en/books/monolith/gas/index_1.html | en | books | Ashraellen — GAS | ashraellen, monolith, gas, volume three, victoria, mold, power, control, memory, localisation, medium, signal, dystopia | gas, about, ashraellen, books, carrier, medium, monolith, object, source, artistic-research, author, between, book, boundary, case, chapter, control, disappearance |
 | en/books/monolith/gas/index.html | en | books | Ashraellen — GAS | ashraellen, monolith, gas, volume three, victoria, mold, power, control, memory, localisation, medium, signal, dystopia | gas, about, ashraellen, books, carrier, medium, monolith, object, source, artistic-research, author, between, book, boundary, case, chapter, control, disappearance |
 | en/books/monolith/index.html | en | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, BETON, SLUDGE, GAS, dystopia, literature, artistic research | monolith, ashraellen, beton, books, collapse, control, gas, memory, sludge, what, about, artistic-research, confused, crack, dystopian, fear, first, form |
 | en/books/monolith/sludge/index.html | en | books | Ashraellen — SLUDGE | Ashraellen, MONOLITH, SLUDGE, dystopia, literature, artistic research | sludge, monolith, about, ashraellen, books, adam, already, artistic-research, author, book, case, complicity, dystopia, environment, excerpt, exhausted, file, form |
@@ -3286,6 +3287,23 @@ Excerpt:
 Excerpt:
 
 > BETON BETON is a philosophical dystopia about a world in which stability has become a prison, memory is treated as a threat and the first crack appears inside a system that still believes itself eternal. Volume I of the MONOLITH trilogy. Case file Volume I Concrete does not begin with a wall. It begins with the habit of calling a prison stability. CASE No. 2026-001B. Index: 6666548A. STATUS: Top Secret. Read the Russian edition on Google Play Books Read the English edition on Amazon Back to MONOLITH Selected excerpt Chapter 9 / § 9.1 Chapter 9. The “Pride” Protocol § 9.1. The Best Glue for Society The excerpt reveals one of BETON’s mechanisms: how pain is turned into a slogan, guilt into social glue and human loss into a managed image of stability. Open the complete excerpt Close the complete excerpt Chapter 9. The “Pride” Protocol § 9.1. The Best Glue for Society Morning at the Departme
+
+### en/books/monolith/gas/index_1.html
+
+- lang: en
+- section: books
+- title: Ashraellen — GAS
+- description: GAS — the third and final volume of the MONOLITH trilogy: a novel about power, total control, and the disappearance of the boundary between source, carrier, and medium.
+- canonical: https://www.ashraellen.com/en/books/monolith/gas/
+- H1: GAS
+- H2: Case File | Selected fragment | About the book | Object status | From the author | Spoiler-free | Artistic-research frame | Themes / nodes of meaning
+- H3: Lost localisation | Source | Carrier | Observer | Memory | Propagation | Chapter 1. Inventory of Shadows | Chapter 2. Seams of the Face
+- suggested keyword seed: gas, about, ashraellen, books, carrier, medium, monolith, object, source, artistic-research, author, between, book, boundary, case, chapter, control, disappearance
+- candidates: was, had, its, his, what, without, chapter, source, gas, medium, object, carrier, then, sensor, system, volume, you, already, between, form, one, only, been, own
+
+Excerpt:
+
+> GAS The third volume of MONOLITH begins where the system still retains its form but is already losing the right to regard itself as the sole source of what is happening. GAS turns Victoria’s investigation into a test of the boundary between power, memory, observation, and the medium itself. Case File Volume III Gas is rarely detected at the moment of penetration. As a rule, its presence becomes distinguishable only after it has already been distributed throughout the medium. OBJECT IDENTIFICATION PROTOCOL No. 2026-001B OBJECT: TRANSCRIPT “GAS” (COMPLETE VERSION) ARCHITECT: ASHRAELLEN IDENTIFIER: 2026-001B-GAS INTEGRITY: 100% (NO EXTERNAL EDITING) Read in English on Google Play Books English edition on Amazon Back to the series Open full protocol Close full protocol DEPARTMENT OF MEANINGS UPPER SECTOR DIFFUSION CONTROL DIRECTORATE OBJECT IDENTIFICATION PROTOCOL No. 2026-001B OBJECT: TRANS
 
 ### en/books/monolith/gas/index.html
 
