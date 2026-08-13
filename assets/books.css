@@ -316,6 +316,21 @@ button.btn{
   margin-top:14px;
 }
 
+/* Samizdat CTA: intentionally quieter than the edition-system badge. */
+.page.books-page .samizdat-list .books-card-cta .btn.secondary{
+  color:#382b1f !important;
+  border-color:rgba(72,54,36,.16) !important;
+  background:rgba(47,36,24,.055) !important;
+  opacity:.82;
+}
+
+.page.books-page .samizdat-list .books-card-cta .btn.secondary:hover{
+  color:#2b2118 !important;
+  border-color:rgba(72,54,36,.22) !important;
+  background:rgba(47,36,24,.095) !important;
+  opacity:.94;
+}
+
 /* Seal */
 .seal{
   display:flex;
