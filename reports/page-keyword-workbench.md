@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-13T09:34:01.028Z
+Generated: 2026-08-13T10:08:48.030Z
 Pages: 846
 
 ## Index
@@ -990,7 +990,7 @@ Excerpt:
 
 Excerpt:
 
-> ЖЫЖА ЖЫЖА — філасофская антыўтопія пра свет, дзе ціск больш не падобны да сцяны: ён прасочваецца ў побыт, мову і цела, размывае межы і ператварае чалавека ў матэрыял асяроддзя. Том II трылогіі МАНАЛІТ: вязкая дэфармацыя, стома супраціву і саўдзел як звычка. Справа Том II Чалавек не ламаецца адразу. Спачатку ён стамляецца супраціўляцца. Потым пачынае згаджацца. СПРАВА № 2026-001B. Індэкс: 6666548A. СТАТУС: Цалкам сакрэтна. Чытаць рускае выданне ў Google Play Books Чытаць англійскае выданне на Amazon Назад да МАНАЛІТ Абраны фрагмент Раздзел 6 / § 6.2 Раздзел 6. Першыя крокі праз ЖЫЖА. § 6.2. Склады Захавання Аскепкаў Фрагмент паказвае, як звычайная патрэба, рытуалізаваная працэдура, страх, маўчанне і саўдзел становяцца паўсядзённай матэрыяй ЖЫЖА. Адкрыць поўны фрагмент Раздзел 6. Першыя крокі па Жыжы. § 6.2. Склады Захаванасці Аскепкаў На сняданак ім далі кашу. Не ежу ў чалавечым сэнсе, а 
+> ЖЫЖА ЖЫЖА — філасофская антыўтопія пра свет, дзе ціск больш не падобны да сцяны: ён прасочваецца ў побыт, мову і цела, размывае межы і ператварае чалавека ў матэрыял асяроддзя. Том II трылогіі МАНАЛІТ: вязкая дэфармацыя, стома супраціву і саўдзел як звычка. Справа Том II Чалавек не ламаецца адразу. Спачатку ён стамляецца супраціўляцца. Потым пачынае згаджацца. СПРАВА № 2026-001B. Індэкс: 6666548A. СТАТУС: Цалкам сакрэтна. Чытаць рускае выданне ў Google Play Books Чытаць англійскае выданне на Amazon Назад да МАНАЛІТ Абраны фрагмент Раздзел 6 / § 6.2 Раздзел 6. Першыя крокі праз ЖЫЖА. § 6.2. Склады Захавання Аскепкаў Фрагмент паказвае, як звычайная патрэба, рытуалізаваная працэдура, страх, маўчанне і саўдзел становяцца паўсядзённай матэрыяй ЖЫЖА. Адкрыць поўны фрагмент Закрыць поўны фрагмент Раздзел 6. Першыя крокі па Жыжы. § 6.2. Склады Захаванасці Аскепкаў На сняданак ім далі кашу. Не еж
 
 ### be/books/radiance/index.html
 
@@ -3336,7 +3336,7 @@ Excerpt:
 
 Excerpt:
 
-> SLUDGE SLUDGE is a philosophical dystopia about a world in which pressure no longer resembles a wall: it seeps into everyday life, language and the body, blurs boundaries and turns the human being into material of the environment. Volume II of the MONOLITH trilogy: viscous deformation, exhausted resistance and complicity as habit. Case file Volume II A person does not break all at once. First they grow tired of resisting. Then they begin to agree. CASE No. 2026-001B. Index: 6666548A. STATUS: Top Secret. Read the Russian edition on Google Play Books Read the English edition on Amazon Back to MONOLITH Selected excerpt Chapter 6 / § 6.2 Chapter 6. First Steps through Sludge. § 6.2. Warehouses for the Preservation of Shards The excerpt shows how ordinary need, ritualised procedure, fear, silence and complicity become the everyday composition of SLUDGE. Open the complete excerpt Chapter 6. Fi
+> SLUDGE SLUDGE is a philosophical dystopia about a world in which pressure no longer resembles a wall: it seeps into everyday life, language and the body, blurs boundaries and turns the human being into material of the environment. Volume II of the MONOLITH trilogy: viscous deformation, exhausted resistance and complicity as habit. Case file Volume II A person does not break all at once. First they grow tired of resisting. Then they begin to agree. CASE No. 2026-001B. Index: 6666548A. STATUS: Top Secret. Read the Russian edition on Google Play Books Read the English edition on Amazon Back to MONOLITH Selected excerpt Chapter 6 / § 6.2 Chapter 6. First Steps through Sludge. § 6.2. Warehouses for the Preservation of Shards The excerpt shows how ordinary need, ritualised procedure, fear, silence and complicity become the everyday composition of SLUDGE. Open the complete excerpt Close the com
 
 ### en/books/radiance/index.html
 
@@ -5882,11 +5882,11 @@ Excerpt:
 - H2: Objektiprotokolla | Valittu kirjallinen katkelma | Kirjasta | Objektin tila | Taiteellis-tutkimuksellinen kehys | Teemalliset solmut | Paikka trilogiassa | Tulkinnan rajat
 - H3: Viskoosi paine | Uupumus | Osallisuus | Muoto | Keho | Hiljaisuus | Tarve | Menettely
 - suggested keyword seed: liete, ashraellen, books, katkelma, osa, alkaa, dystopia, enää, englanninkielinen, filosofinen, hän, ihminen, joka, jossa, kehys, kirjallinen, kirjasta, menetyksestä
-- candidates: vaan, liete, alkaa, ihminen, osa, enää, hän, jossa, oli, englanninkielinen, joka, katkelma, kun, laitos, mikä, mitä, osallisuus, paine, sitä, sitten, vain, adam, edes, että
+- candidates: vaan, liete, alkaa, ihminen, osa, enää, hän, jossa, katkelma, oli, englanninkielinen, joka, kun, laitos, mikä, mitä, osallisuus, paine, sitä, sitten, vain, adam, edes, että
 
 Excerpt:
 
-> LIETE LIETE on filosofinen dystopia maailmasta, jossa paine ei enää näytä seinältä: se tihkuu arkeen, kieleen ja kehoon, pehmentää rajoja ja muuttaa ihmisen ympäristön materiaaliksi. MONOLIITTI-trilogian osa II: viskoosi muodonmuutos, uupunut vastarinta ja osallisuus tapana. Objektiprotokolla Osa II Ihminen ei murru kerralla. Ensin hän väsyy vastustamaan. Sitten hän alkaa suostua. TAPAUS Nro 2026-001B. Indeksi: 6666548A. TILA: Erittäin salainen. Lue englanninkielinen laitos Google Play Booksissa Lue englanninkielinen laitos Amazonissa Takaisin MONOLIITTIIN Valittu kirjallinen katkelma Luku 6 / § 6.2 Luku 6. Ensimmäiset askeleet lietteen läpi § 6.2. Sirpaleiden säilytysvarastot Katkelma näyttää, miten tavallinen tarve, ritualisoitu menettely, pelko, hiljaisuus ja osallisuus muuttuvat LIETTEEN jokapäiväiseksi koostumukseksi. Avaa katkelma Aamiaiseksi he saivat puuroa. Ei ruokaa inhimillise
+> LIETE LIETE on filosofinen dystopia maailmasta, jossa paine ei enää näytä seinältä: se tihkuu arkeen, kieleen ja kehoon, pehmentää rajoja ja muuttaa ihmisen ympäristön materiaaliksi. MONOLIITTI-trilogian osa II: viskoosi muodonmuutos, uupunut vastarinta ja osallisuus tapana. Objektiprotokolla Osa II Ihminen ei murru kerralla. Ensin hän väsyy vastustamaan. Sitten hän alkaa suostua. TAPAUS Nro 2026-001B. Indeksi: 6666548A. TILA: Erittäin salainen. Lue englanninkielinen laitos Google Play Booksissa Lue englanninkielinen laitos Amazonissa Takaisin MONOLIITTIIN Valittu kirjallinen katkelma Luku 6 / § 6.2 Luku 6. Ensimmäiset askeleet lietteen läpi § 6.2. Sirpaleiden säilytysvarastot Katkelma näyttää, miten tavallinen tarve, ritualisoitu menettely, pelko, hiljaisuus ja osallisuus muuttuvat LIETTEEN jokapäiväiseksi koostumukseksi. Avaa katkelma Sulje katkelma Aamiaiseksi he saivat puuroa. Ei ruo
 
 ### fi/books/radiance/index.html
 
@@ -8351,7 +8351,7 @@ Excerpt:
 
 Excerpt:
 
-> SZLAM SZLAM to filozoficzna antyutopia o świecie, w którym presja przestaje przypominać ścianę: przenika do codzienności, języka i ciała, zaciera granice i zamienia człowieka w materiał środowiska. Tom II trylogii MONOLITH: lepka deformacja, zmęczenie oporu i współudział jako nawyk. Akta Tom II Człowiek nie łamie się od razu. Najpierw męczy się stawianiem oporu. Potem zaczyna się zgadzać. SPRAWA NR 2026-001B. Indeks: 6666548A. STATUS: Ściśle tajne. Czytaj polskie wydanie w Google Play Books Czytaj angielskie wydanie na Amazon Wróć do MONOLITHU Wybrany fragment Rozdział 6 / § 6.2 Rozdział 6. Pierwsze kroki przez SZLAM. § 6.2. Magazyny Zachowania Odłamków Fragment pokazuje, jak zwykła potrzeba, zrytualizowana procedura, strach, milczenie i współudział stają się codziennym tworzywem SZLAM. Otwórz pełny fragment Rozdział 6. Pierwsze kroki przez SZLAM. § 6.2. Magazyny Zachowania Odłamków Na ś
+> SZLAM SZLAM to filozoficzna antyutopia o świecie, w którym presja przestaje przypominać ścianę: przenika do codzienności, języka i ciała, zaciera granice i zamienia człowieka w materiał środowiska. Tom II trylogii MONOLITH: lepka deformacja, zmęczenie oporu i współudział jako nawyk. Akta Tom II Człowiek nie łamie się od razu. Najpierw męczy się stawianiem oporu. Potem zaczyna się zgadzać. SPRAWA NR 2026-001B. Indeks: 6666548A. STATUS: Ściśle tajne. Czytaj polskie wydanie w Google Play Books Czytaj angielskie wydanie na Amazon Wróć do MONOLITHU Wybrany fragment Rozdział 6 / § 6.2 Rozdział 6. Pierwsze kroki przez SZLAM. § 6.2. Magazyny Zachowania Odłamków Fragment pokazuje, jak zwykła potrzeba, zrytualizowana procedura, strach, milczenie i współudział stają się codziennym tworzywem SZLAM. Otwórz pełny fragment Zamknij pełny fragment Rozdział 6. Pierwsze kroki przez SZLAM. § 6.2. Magazyny Z
 
 ### pl/books/radiance/index.html
 
@@ -10102,7 +10102,7 @@ Excerpt:
 
 Excerpt:
 
-> LAMA LAMA é uma distopia filosófica sobre um mundo em que a pressão já não se parece com uma parede: infiltra-se na vida quotidiana, na linguagem e no corpo, desfaz limites e transforma a pessoa em material do ambiente. Volume II da trilogia MONÓLITO: deformação viscosa, desgaste da resistência e cumplicidade como hábito. Dossiê Volume II Uma pessoa não se quebra de uma vez. Primeiro se cansa de resistir. Depois começa a concordar. DOSSIÊ N.º 2026-001B. Índice: 6666548A. STATUS: Ultrassecreto. Ler a edição inglesa no Google Play Books Ler a edição inglesa na Amazon Voltar ao MONÓLITO Trecho selecionado Capítulo 6 / § 6.2 Capítulo 6. Primeiros passos através de LAMA. § 6.2. Armazéns de Preservação de Fragmentos O trecho mostra como a necessidade comum, o procedimento ritualizado, o medo, o silêncio e a cumplicidade torna-sem a matéria quotidiana de LAMA. Abrir o trecho completo Capítulo 6
+> LAMA LAMA é uma distopia filosófica sobre um mundo em que a pressão já não se parece com uma parede: infiltra-se na vida quotidiana, na linguagem e no corpo, desfaz limites e transforma a pessoa em material do ambiente. Volume II da trilogia MONÓLITO: deformação viscosa, desgaste da resistência e cumplicidade como hábito. Dossiê Volume II Uma pessoa não se quebra de uma vez. Primeiro se cansa de resistir. Depois começa a concordar. DOSSIÊ N.º 2026-001B. Índice: 6666548A. STATUS: Ultrassecreto. Ler a edição inglesa no Google Play Books Ler a edição inglesa na Amazon Voltar ao MONÓLITO Trecho selecionado Capítulo 6 / § 6.2 Capítulo 6. Primeiros passos através de LAMA. § 6.2. Armazéns de Preservação de Fragmentos O trecho mostra como a necessidade comum, o procedimento ritualizado, o medo, o silêncio e a cumplicidade torna-sem a matéria quotidiana de LAMA. Abrir o trecho completo Fechar o t
 
 ### pt/books/radiance/index.html
 
@@ -14199,7 +14199,7 @@ Excerpt:
 
 Excerpt:
 
-> ЖИЖА ЖИЖА — філософська антиутопія про світ, де тиск більше не схожий на стіну: він просочується в побут, мову й тіло, розмиває межі та перетворює людину на матеріал середовища. Том II трилогії МОНОЛІТ: в’язка деформація, втома опору та співучасть як звичка. Справа Том II Людина не ламається одразу. Спочатку вона втомлюється чинити опір. Потім починає погоджуватися. СПРАВА № 2026-001B. Індекс: 6666548A. СТАТУС: Цілком таємно. Читати російське видання в Google Play Books Читати англійське видання на Amazon Назад до МОНОЛІТ Вибраний фрагмент Розділ 6 / § 6.2 Розділ 6. Перші кроки крізь ЖИЖА. § 6.2. Склади Збереження Уламків Фрагмент показує, як звичайна потреба, ритуалізована процедура, страх, мовчання та співучасть стають повсякденною матерією ЖИЖА. Відкрити повний фрагмент Розділ 6. Перші кроки по Жижі. § 6.2. Склади Збереження Уламків На сніданок їм дали кашу. Не їжу в людському розумін
+> ЖИЖА ЖИЖА — філософська антиутопія про світ, де тиск більше не схожий на стіну: він просочується в побут, мову й тіло, розмиває межі та перетворює людину на матеріал середовища. Том II трилогії МОНОЛІТ: в’язка деформація, втома опору та співучасть як звичка. Справа Том II Людина не ламається одразу. Спочатку вона втомлюється чинити опір. Потім починає погоджуватися. СПРАВА № 2026-001B. Індекс: 6666548A. СТАТУС: Цілком таємно. Читати російське видання в Google Play Books Читати англійське видання на Amazon Назад до МОНОЛІТ Вибраний фрагмент Розділ 6 / § 6.2 Розділ 6. Перші кроки крізь ЖИЖА. § 6.2. Склади Збереження Уламків Фрагмент показує, як звичайна потреба, ритуалізована процедура, страх, мовчання та співучасть стають повсякденною матерією ЖИЖА. Відкрити повний фрагмент Закрити повний фрагмент Розділ 6. Перші кроки по Жижі. § 6.2. Склади Збереження Уламків На сніданок їм дали кашу. Не
 
 ### uk/books/radiance/index.html
 
