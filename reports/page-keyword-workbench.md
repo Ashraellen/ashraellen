@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-13T15:25:50.668Z
+Generated: 2026-08-13T17:48:03.299Z
 Pages: 846
 
 ## Index
@@ -81,7 +81,7 @@ Pages: 846
 | de/books/error-404-god-not-found/why-me/index.html | de | books | Ashraellen — Warum ich? | _missing_ | ich, der, die, warum, ashraellen, books, buch, das, ein, nicht, über, und, 404, auf, auszug, bedeutungsschichten, beschwerde, buches |
 | de/books/index.html | de | books | Ashraellen — Bücher | Ashraellen, Bücher, Demotopia, Demokratische Utopie, MONOLITH, RADIANCE, ERROR 404, SECCUS, Du bist bereits online, The Book of Whinesis, samizdat 2.0, Autorenausgaben | bücher, ashraellen, autorenausgaben, und, books, buch, das, direkte, satire, über, 2.0, 404, bereits, bist, book, buchzyklen, demotopia, der |
 | de/books/monolith/beton/index.html | de | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ist, ashraellen, books, buch, das, den, der, für, monolith, über, und, akte, als, ausgewählter, auszug, band, bedeutungsknoten |
-| de/books/monolith/gas/index.html | de | books | Ashraellen — GAS | Ashraellen, MONOLITH, GAS, dritter Band, Viktoria, Macht, Kontrolle, Erinnerung, Lokalisierung, Medium, Signal, Dystopie | der, gas, und, ashraellen, books, das, den, des, über, akte, ausgewählter, auszug, band, bedeutungen, bedeutungsknoten, buch, dem, die |
+| de/books/monolith/gas/index.html | de | books | Ashraellen — GAS | Ashraellen, MONOLITH, GAS, dritter Band, Viktoria, Macht, Kontrolle, Erinnerung, Lokalisierung, Medium, Signal, Dystopie | gas, und, der, ashraellen, books, das, den, des, über, akte, ausgewählter, auszug, autor, band, bedeutungsknoten, buch, dem, die |
 | de/books/monolith/index.html | de | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, BETON, SCHLAMM, GAS, dystopia, literature, artistic research | monolith, ist, der, und, ashraellen, books, den, eine, erinnerung, kontrolle, nicht, was, als, bände, beton, darf, des, die |
 | de/books/monolith/sludge/index.html | de | books | Ashraellen — SCHLAMM | Ashraellen, MONOLITH, SCHLAMM, dystopia, literature, artistic research | schlamm, ashraellen, books, das, für, monolith, über, und, akte, als, ausgewählter, auszug, autor, band, buch, dem, den, der |
 | de/books/radiance/index.html | de | books | Ashraellen — Glanz \| Nordische Geschichten über die wahre Geschichte der Welt | Ashraellen, Glanz, Sampo, Lied, Bücher, literary-philosophical, artistic research | glanz, ist, der, die, für, geschichten, welt, ashraellen, books, ein, was, als, alte, anleitungskarte, anweisungen, bewahren, bildhafte, buch |
@@ -2122,14 +2122,14 @@ Excerpt:
 - description: GAS — dritter und letzter Band der MONOLITH-Trilogie: ein Roman über Macht, totale Kontrolle und den Verlust der Grenze zwischen Quelle, Träger und Medium.
 - canonical: https://www.ashraellen.com/de/books/monolith/gas/
 - H1: GAS
-- H2: Akte | Ausgewählter Auszug | Über das Buch | Status des Objekts | Künstlerisch-forschender Rahmen | Themen / Bedeutungsknoten | Register der Bedeutungen | Stellung in der Trilogie
+- H2: Akte | Ausgewählter Auszug | Über das Buch | Status des Objekts | Vom Autor | Ohne Spoiler | Künstlerisch-forschender Rahmen | Themen / Bedeutungsknoten
 - H3: Lokalisierungsverlust | Quelle | Träger | Beobachter | Erinnerung | Diffusion | Kapitel 1. Inventar der Schatten | Kapitel 2. Nähte des Gesichts
-- suggested keyword seed: der, gas, und, ashraellen, books, das, den, des, über, akte, ausgewählter, auszug, band, bedeutungen, bedeutungsknoten, buch, dem, die
-- candidates: die, der, und, des, das, nicht, den, kapitel, dem, sich, von, eine, gas, sie, auf, ohne, träger, einer, medium, ein, ist, war, wurde, band
+- suggested keyword seed: gas, und, der, ashraellen, books, das, den, des, über, akte, ausgewählter, auszug, autor, band, bedeutungsknoten, buch, dem, die
+- candidates: die, der, und, des, nicht, das, sich, den, dem, von, kapitel, eine, gas, ohne, sie, auf, träger, ist, einer, medium, quelle, band, ein, für
 
 Excerpt:
 
-> GAS Der dritte Band von MONOLITH beginnt dort, wo das System seine Form noch bewahrt, aber bereits das Recht verliert, sich für die einzige Quelle des Geschehens zu halten. GAS macht Viktorias Untersuchung zu einer Prüfung der Grenze selbst — zwischen Macht, Erinnerung, Beobachtung und Medium. Akte Band III Gas wird nur selten im Augenblick seines Eindringens erkannt. Meist wird seine Anwesenheit erst wahrnehmbar, wenn es sich bereits im Medium verteilt hat. PROTOKOLL ZUR IDENTIFIZIERUNG DES OBJEKTS NR. 2026-001B OBJEKT: TRANSKRIPTION „GAS“ (VOLLSTÄNDIGE FASSUNG) ARCHITEKT: ASHRAELLEN IDENTIFIKATOR: 2026-001B-GAS INTEGRITÄT: 100 % (OHNE EXTERNE REDAKTION) Englische Ausgabe bei Google Play Books lesen Englische Ausgabe bei Amazon lesen Zurück zu MONOLITH Vollständiges Protokoll öffnen DEPARTMENT FÜR BEDEUTUNGEN OBERER SEKTOR DIREKTION ZUR KONTROLLE DER AUSBREITUNG PROTOKOLL ZUR IDENTIFIZI
+> GAS Der dritte Band von MONOLITH beginnt dort, wo das System seine Form noch bewahrt, aber bereits das Recht verliert, sich für die einzige Quelle des Geschehens zu halten. GAS macht Viktorias Untersuchung zu einer Prüfung der Grenze selbst — zwischen Macht, Erinnerung, Beobachtung und Medium. Akte Band III Gas wird nur selten im Augenblick seines Eindringens erkannt. Meist wird seine Anwesenheit erst wahrnehmbar, wenn es sich bereits im Medium verteilt hat. PROTOKOLL ZUR IDENTIFIZIERUNG DES OBJEKTS NR. 2026-001B OBJEKT: TRANSKRIPTION „GAS“ (VOLLSTÄNDIGE FASSUNG) ARCHITEKT: ASHRAELLEN IDENTIFIKATOR: 2026-001B-GAS INTEGRITÄT: 100 % (OHNE EXTERNE REDAKTION) Englische Ausgabe bei Google Play Books lesen Englische Ausgabe bei Amazon lesen Zurück zu MONOLITH Vollständiges Protokoll öffnen Vollständiges Protokoll schließen DEPARTMENT FÜR BEDEUTUNGEN OBERER SEKTOR DIREKTION ZUR KONTROLLE DER AU
 
 ### de/books/monolith/index.html
 
