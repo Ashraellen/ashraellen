@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T10:08:48.015Z",
+  "generated": "2026-08-13T11:00:30.049Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -5131,6 +5131,52 @@
         "даследавання",
         "досведу",
         "жывая"
+      ]
+    },
+    {
+      "page": "books/monolith/index.html",
+      "lang": "root",
+      "section": "books",
+      "title": "Ashraellen — MONOLITH",
+      "description": "MONOLITH — a literary-philosophical dystopian trilogy by Ashraellen. Choose your language or continue automatically.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/books/monolith/",
+      "h1": [
+        "MONOLITH"
+      ],
+      "h2": [],
+      "h3": [],
+      "slugTerms": [
+        "books",
+        "monolith"
+      ],
+      "excerpt": "MONOLITH Select a language:",
+      "candidates": [
+        "monolith",
+        "ashraellen",
+        "language",
+        "automatically",
+        "choose",
+        "continue",
+        "dystopian",
+        "literary-philosophical",
+        "select",
+        "trilogy",
+        "your"
+      ],
+      "suggestedKeywordSeed": [
+        "monolith",
+        "ashraellen",
+        "automatically",
+        "books",
+        "choose",
+        "continue",
+        "dystopian",
+        "language",
+        "literary-philosophical",
+        "trilogy",
+        "your",
+        "select"
       ]
     },
     {

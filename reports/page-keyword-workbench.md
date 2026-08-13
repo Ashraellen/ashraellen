@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-13T10:08:48.030Z
-Pages: 846
+Generated: 2026-08-13T11:00:30.063Z
+Pages: 847
 
 ## Index
 
@@ -76,6 +76,7 @@ Pages: 846
 | be/research/position/index.html | be | research | Ashraellen — Пазіцыя | ashraellen, research, position, пазіцыя, незалежнае, мастацкае, даследаванне, ўнутранага, досведу, поля, назірання, doctype, html, title, script, context, https, schema.org | ashraellen, пазіцыя, research, даследаванне, досведу, мастацкае, назірання, position, апісання, даследчык, досвед, досведы, мадэлі, мастацкі, незалежнае, поля, ўнутранага |
 | be/research/projects/index.html | be | research | Ashraellen — Праекты даследавання | ashraellen, research, projects, праекты, даследавання, карта, рабочых, палёў, monolith, асноўны, канал, публічнае, поле, сатырычныя, бакавыя, лабараторыі, ўспрымання, instagram | ashraellen, праекты, monolith, research, telegram, бакавыя, канал, лабараторыі, ныцця, поле, inner, instagram, melodies, occultus, projects, scriptorium, sounds, spirit |
 | be/research/sources/index.html | be | research | Ashraellen — Крыніцы і традыцыя | ashraellen, research, sources, крыніцы, традыцыя, фенаменалогія, свядомасці, цела, наратыў, кагнітыўная, навука, мастацкая, практыка, эдмунд, гусерль, досвед, гатовых, тлумачэнняў | ashraellen, крыніцы, традыцыя, цела, research, аповед, досвед, свядомасці, свядомасць, фенаменалогія, sources, бачным, варэла, гатовых, гусерль, даследавання, досведу, жывая |
+| books/monolith/index.html | root | books | Ashraellen — MONOLITH | _missing_ | monolith, ashraellen, automatically, books, choose, continue, dystopian, language, literary-philosophical, trilogy, your, select |
 | de/books/demotopia/index.html | de | books | Demotopia — Demokratische Utopie — ein Roman von Ashraellen | Ashraellen, Demotopia, Demokratische Utopie, philosophischer Roman, Gesellschaftsroman, Warschau, Demokratie, Diktatur, Daten, Freiheit, Verantwortung | demotopia, ashraellen, ein, und, von, books, das, ist, roman, über, als, atmosphäre, auf, ausgewählter, auszug, buch, daten, demokratie |
 | de/books/error-404-god-not-found/index.html | de | books | Ashraellen — Fehler 404: Gott nicht gefunden | _missing_ | fehler, gefunden, gott, nicht, 404, der, die, ashraellen, books, das, den, ein, kanzlei, reihe, beschwerde, buch, bücher, des |
 | de/books/error-404-god-not-found/why-me/index.html | de | books | Ashraellen — Warum ich? | _missing_ | ich, der, die, warum, ashraellen, books, buch, das, ein, nicht, über, und, 404, auf, auszug, bedeutungsschichten, beschwerde, buches |
@@ -2028,6 +2029,23 @@ Excerpt:
 Excerpt:
 
 > Крыніцы і традыцыя Гэта даследаванне стаіць на скрыжаванні фенаменалогіі свядомасці, наратыўнага пазнання, кагнітыўнай навукі і мастацкай практыкі. Гусерль выбудоўвае метад дакладнага апісання досведу. Мерло-Понці вяртае свядомасць да цела. Рыкёр паказвае, што наратыў — не ўпрыгожанне думкі, а форма самаразумення. Варэла, Томпсан і Рош злучаюць фенаменалогію з кагнітыўнай навукай і жывым досведам. Ashraellen працуе там, дзе гэтыя лініі перасякаюцца: у зоне, дзе акадэмічнага тэксту ўжо недастаткова, а жывы досвед яшчэ не атрымаў дакладнай формы. Фенаменалогія свядомасці Эдмунд Гусерль — досвед да гатовых тлумачэнняў Тут важна не верыць першай думцы, а дакладна назіраць, як досвед з’яўляецца ў свядомасці. Звыклыя тлумачэнні часова адсоўваюцца, каб само з’яўленне стала бачным: думка, адчуванне, страх, чаканне, вобраз, унутраны імпульс. Сувязь з Ashraellen: назіраць думку да атаясамлення з ё
+
+### books/monolith/index.html
+
+- lang: root
+- section: books
+- title: Ashraellen — MONOLITH
+- description: MONOLITH — a literary-philosophical dystopian trilogy by Ashraellen. Choose your language or continue automatically.
+- canonical: https://www.ashraellen.com/books/monolith/
+- H1: MONOLITH
+- H2: _missing_
+- H3: _missing_
+- suggested keyword seed: monolith, ashraellen, automatically, books, choose, continue, dystopian, language, literary-philosophical, trilogy, your, select
+- candidates: monolith, ashraellen, language, automatically, choose, continue, dystopian, literary-philosophical, select, trilogy, your
+
+Excerpt:
+
+> MONOLITH Select a language:
 
 ### de/books/demotopia/index.html
 
