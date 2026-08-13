@@ -31,6 +31,13 @@
   --fs-accent:   20px;
   --lh-accent:   1.4;
 
+  /* registry role — deliberate exception, not part of the five narrative roles.
+     Dense, repeating monospace index content (e.g. GAS's Registry of Meanings:
+     45 entries across 15 chapters), not running prose and not a one-off kicker
+     label. Introduced 2026-08 alongside the GAS page type. */
+  --fs-registry: 11px;
+  --lh-registry: 1.45;
+
   /* structural/chrome sizes — outside the five narrative roles */
   --fs-h2:        22px;
   --fs-h1-static: 28px;
