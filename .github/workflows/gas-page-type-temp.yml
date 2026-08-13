@@ -1,0 +1,107 @@
+name: GAS page-type temporary migration
+
+on:
+  push:
+    branches:
+      - tmp/gas-page-type-20260813
+    paths:
+      - .github/workflows/gas-page-type-temp.yml
+
+permissions:
+  contents: write
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: tmp/gas-page-type-20260813
+          fetch-depth: 0
+
+      - name: Decode and apply exact audited patch
+        shell: bash
+        run: |
+          set -euo pipefail
+          base64 -d .tmp/gas-page-type.patch.gz.b64 | gzip -d > /tmp/gas.patch
+          git apply --check /tmp/gas.patch
+          git apply /tmp/gas.patch
+          git diff --check
+
+      - name: Validate GAS architecture
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+          import json, re
+
+          langs = ['be','de','en','es','fi','fr','pl','pt','ru','uk']
+          paths = [Path(lang) / 'books/monolith/gas/index.html' for lang in langs]
+
+          gas_css = Path('assets/gas.css').read_text(encoding='utf-8')
+          tokens = Path('assets/tokens.css').read_text(encoding='utf-8')
+
+          assert 'gas-*/registry-*' not in gas_css
+          assert '@import url("tokens.css");' in gas_css
+          assert '--fs-registry: 11px;' in tokens
+          assert '--lh-registry: 1.45;' in tokens
+          assert 'font-size:var(--fs-registry);line-height:var(--lh-registry)' in gas_css
+
+          m = re.search(r'\.registry-grid\{([^}]*)\}', gas_css)
+          assert m, 'registry-grid rule missing'
+          assert 'margin-top' not in m.group(1), 'registry-grid must have no margin-top by canon'
+
+          for path in paths:
+              text = path.read_text(encoding='utf-8')
+              assert 'assets/books.css' not in text and 'books.css?' not in text, path
+              assert '<style' not in text.lower(), path
+              assert not re.search(r'\sstyle\s*=', text, re.I), path
+              assert not re.search(r'class=["\']body(?:\s|["\'])', text), path
+              assert 'assets/gas.css?v=20260813-1' in text, path
+              assert text.count('when-closed') == 3, (path, text.count('when-closed'))
+              assert text.count('when-open') == 3, (path, text.count('when-open'))
+              for payload in re.findall(r'<script\s+type=["\']application/ld\+json["\']>(.*?)</script>', text, re.S|re.I):
+                  json.loads(payload)
+
+          for lang in ['de','pt','fi']:
+              text = (Path(lang) / 'books/monolith/gas/index.html').read_text(encoding='utf-8')
+              for section_id in ['author-note','spoiler-free','for-whom']:
+                  assert f'id="{section_id}"' in text, (lang, section_id)
+
+          print('GAS targeted architecture validation: OK')
+          PY
+
+      - name: Record baseline checks without reclassifying known debt
+        shell: bash
+        run: |
+          set -u
+          node scripts/check-site.js > /tmp/check-site.txt 2>&1 || true
+          node scripts/check-links.js > /tmp/check-links.txt 2>&1 || true
+          echo '--- check-site tail ---'
+          tail -n 30 /tmp/check-site.txt || true
+          echo '--- check-links tail ---'
+          tail -n 30 /tmp/check-links.txt || true
+
+      - name: Commit only the 12 agreed GAS files
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'Ashraellen'
+          git config user.email 'ashraellen@gmail.com'
+          git add \
+            assets/gas.css \
+            assets/tokens.css \
+            be/books/monolith/gas/index.html \
+            de/books/monolith/gas/index.html \
+            en/books/monolith/gas/index.html \
+            es/books/monolith/gas/index.html \
+            fi/books/monolith/gas/index.html \
+            fr/books/monolith/gas/index.html \
+            pl/books/monolith/gas/index.html \
+            pt/books/monolith/gas/index.html \
+            ru/books/monolith/gas/index.html \
+            uk/books/monolith/gas/index.html
+          test "$(git diff --cached --name-only | wc -l)" -eq 12
+          git commit -m 'Apply audited GAS page-type candidate'
+          git push origin HEAD:tmp/gas-page-type-20260813
