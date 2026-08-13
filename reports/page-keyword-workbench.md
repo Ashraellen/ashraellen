@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-13T11:00:30.063Z
+Generated: 2026-08-13T11:06:07.735Z
 Pages: 847
 
 ## Index
@@ -76,7 +76,7 @@ Pages: 847
 | be/research/position/index.html | be | research | Ashraellen — Пазіцыя | ashraellen, research, position, пазіцыя, незалежнае, мастацкае, даследаванне, ўнутранага, досведу, поля, назірання, doctype, html, title, script, context, https, schema.org | ashraellen, пазіцыя, research, даследаванне, досведу, мастацкае, назірання, position, апісання, даследчык, досвед, досведы, мадэлі, мастацкі, незалежнае, поля, ўнутранага |
 | be/research/projects/index.html | be | research | Ashraellen — Праекты даследавання | ashraellen, research, projects, праекты, даследавання, карта, рабочых, палёў, monolith, асноўны, канал, публічнае, поле, сатырычныя, бакавыя, лабараторыі, ўспрымання, instagram | ashraellen, праекты, monolith, research, telegram, бакавыя, канал, лабараторыі, ныцця, поле, inner, instagram, melodies, occultus, projects, scriptorium, sounds, spirit |
 | be/research/sources/index.html | be | research | Ashraellen — Крыніцы і традыцыя | ashraellen, research, sources, крыніцы, традыцыя, фенаменалогія, свядомасці, цела, наратыў, кагнітыўная, навука, мастацкая, практыка, эдмунд, гусерль, досвед, гатовых, тлумачэнняў | ashraellen, крыніцы, традыцыя, цела, research, аповед, досвед, свядомасці, свядомасць, фенаменалогія, sources, бачным, варэла, гатовых, гусерль, даследавання, досведу, жывая |
-| books/monolith/index.html | root | books | Ashraellen — MONOLITH | _missing_ | monolith, ashraellen, automatically, books, choose, continue, dystopian, language, literary-philosophical, trilogy, your, select |
+| books/monolith/index.html | root | books | MONOLITH — Ashraellen | _missing_ | monolith, ashraellen, automatic, beton, books, dystopian, gas, language, literary-philosophical, sludge, trilogy, choose, detecting, selection |
 | de/books/demotopia/index.html | de | books | Demotopia — Demokratische Utopie — ein Roman von Ashraellen | Ashraellen, Demotopia, Demokratische Utopie, philosophischer Roman, Gesellschaftsroman, Warschau, Demokratie, Diktatur, Daten, Freiheit, Verantwortung | demotopia, ashraellen, ein, und, von, books, das, ist, roman, über, als, atmosphäre, auf, ausgewählter, auszug, buch, daten, demokratie |
 | de/books/error-404-god-not-found/index.html | de | books | Ashraellen — Fehler 404: Gott nicht gefunden | _missing_ | fehler, gefunden, gott, nicht, 404, der, die, ashraellen, books, das, den, ein, kanzlei, reihe, beschwerde, buch, bücher, des |
 | de/books/error-404-god-not-found/why-me/index.html | de | books | Ashraellen — Warum ich? | _missing_ | ich, der, die, warum, ashraellen, books, buch, das, ein, nicht, über, und, 404, auf, auszug, bedeutungsschichten, beschwerde, buches |
@@ -440,7 +440,7 @@ Pages: 847
 | fr/research/sources/index.html | fr | research | Ashraellen — Sources et tradition | ashraellen, research, sources, tradition, d’ashraellen, phénoménologie, conscience, corps, récit, sciences, cognitives, pratique, artistique, edmund, husserl, l’expérience, avant, les | comme, sources, ashraellen, conscience, corps, récit, tradition, forme, l’expérience, phénoménologie, research, artistique, avant, avec, cognitives, compréhension, d’ashraellen, dans |
 | google2b44b1dd60a5fdd9.html | root | google2b44b1dd60a5fdd9.html |  | _missing_ | google2b44b1dd60a5fdd9.html, ashraellen, google-site-verification, google2b44b1dd60a5fdd9 |
 | index.html | root | index.html | Ashraellen — Entry | Ashraellen, Nikolai Kostyshev, books, research, public texts, multilingual archive, literary-philosophical research, inner observation | ashraellen, audiobooks, books, choose, inner, language, observation, public, research, texts, videos, your, entry, index, index.html |
-| monolith/index.html | root | monolith | MONOLITH — Ashraellen | ashraellen, monolith, language, gateway, beton, sludge, gas, doctype, html, title, function, var, routes, languages, navigator.languages, navigator.language, target, routes.en | monolith, language, ashraellen, detecting, deutsch, english, español, français, polski, português, беларуская, определение, русский, beton, gas, gateway, sludge, українська |
+| monolith/index.html | root | monolith | MONOLITH — Ashraellen | _missing_ | monolith, ashraellen, automatic, beton, gas, language, selection, sludge, trilogy, above, choose, detecting, dystopian, literary-philosophical |
 | pl/books/demotopia/index.html | pl | books | Demotopia — Demokratyczna Utopia — powieść Ashraellena | Ashraellen, Demotopia, Demokratyczna Utopia, powieść filozoficzna, fantastyka społeczna, Warszawa, demokracja, dyktatura, dane, wolność, odpowiedzialność | demotopia, powieść, ashraellena, books, artystyczno-badawcza, ashraellen, atmosfera, bez, człowiek, człowieka, danych, demokracji, demokratyczna, dwa, filozoficzna, forma, fragment, główne |
 | pl/books/error-404-god-not-found/index.html | pl | books | Ashraellen — Błąd 404: Boga nie znaleziono | ashraellen, books, error, 404, god, found, błąd, boga, nie, znaleziono, wielojęzyczny, filozoficzno-satyryczny, cykl, powieściowy, niebiańskiej, kancelarii, ludzkiej, pretensji | nie, 404, błąd, boga, znaleziono, ashraellen, bogu, books, kancelarii, który, niebiańskiej, szukania, albo, błędzie, cykl, cyklu, error, filozoficzno-satyryczny |
 | pl/books/error-404-god-not-found/why-me/index.html | pl | books | Ashraellen — Dlaczego ja? | _missing_ | dlaczego, ashraellen, błąd, boga, books, nie, 404, albo, ale, biurokracji, bólu, cyklu, duszy, error, filozoficzno-satyryczna, found, fragment, god |
@@ -2034,18 +2034,18 @@ Excerpt:
 
 - lang: root
 - section: books
-- title: Ashraellen — MONOLITH
-- description: MONOLITH — a literary-philosophical dystopian trilogy by Ashraellen. Choose your language or continue automatically.
-- canonical: https://www.ashraellen.com/books/monolith/
+- title: MONOLITH — Ashraellen
+- description: MONOLITH — a literary-philosophical dystopian trilogy by Ashraellen: BETON, SLUDGE and GAS. Automatic language selection.
+- canonical: https://www.ashraellen.com/monolith/
 - H1: MONOLITH
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: monolith, ashraellen, automatically, books, choose, continue, dystopian, language, literary-philosophical, trilogy, your, select
-- candidates: monolith, ashraellen, language, automatically, choose, continue, dystopian, literary-philosophical, select, trilogy, your
+- suggested keyword seed: monolith, ashraellen, automatic, beton, books, dystopian, gas, language, literary-philosophical, sludge, trilogy, choose, detecting, selection
+- candidates: ashraellen, monolith, beton, gas, language, sludge, trilogy, automatic, choose, detecting, dystopian, literary-philosophical, manually, needed, selection
 
 Excerpt:
 
-> MONOLITH Select a language:
+> Ashraellen · trilogy MONOLITH BETON · SLUDGE · GAS Detecting language… Choose manually if needed.
 
 ### de/books/demotopia/index.html
 
@@ -8223,17 +8223,17 @@ Excerpt:
 - lang: root
 - section: monolith
 - title: MONOLITH — Ashraellen
-- description: MONOLITH language gateway: BETON. SLUDGE. GAS. MONOLITH MONOLITH Detecting language… Определение языка… English Русский Беларуская Polski Deutsch Español Français Português Українська
+- description: MONOLITH — a literary-philosophical dystopian trilogy by Ashraellen: BETON, SLUDGE and GAS. Automatic language selection.
 - canonical: https://www.ashraellen.com/monolith/
 - H1: MONOLITH
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: monolith, language, ashraellen, detecting, deutsch, english, español, français, polski, português, беларуская, определение, русский, beton, gas, gateway, sludge, українська
-- candidates: monolith, language, detecting, deutsch, english, español, français, polski, português, беларуская, определение, русский, українська, языка, ashraellen, beton, gas, gateway, sludge
+- suggested keyword seed: monolith, ashraellen, automatic, beton, gas, language, selection, sludge, trilogy, above, choose, detecting, dystopian, literary-philosophical
+- candidates: language, ashraellen, monolith, automatic, beton, choose, gas, selection, sludge, trilogy, above, detecting, dystopian, javascript, literary-philosophical, manually, needed, please, requires
 
 Excerpt:
 
-> MONOLITH Detecting language… Определение языка… English Русский Беларуская Polski Deutsch Español Français Português Українська
+> Ashraellen · trilogy MONOLITH BETON · SLUDGE · GAS Detecting language… Choose manually if needed. Automatic language selection requires JavaScript. Please choose a language above.
 
 ### pl/books/demotopia/index.html
 

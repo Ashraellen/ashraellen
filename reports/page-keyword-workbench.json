@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T11:00:30.049Z",
+  "generated": "2026-08-13T11:06:07.721Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -5137,10 +5137,10 @@
       "page": "books/monolith/index.html",
       "lang": "root",
       "section": "books",
-      "title": "Ashraellen — MONOLITH",
-      "description": "MONOLITH — a literary-philosophical dystopian trilogy by Ashraellen. Choose your language or continue automatically.",
+      "title": "MONOLITH — Ashraellen",
+      "description": "MONOLITH — a literary-philosophical dystopian trilogy by Ashraellen: BETON, SLUDGE and GAS. Automatic language selection.",
       "existingKeywords": "",
-      "canonical": "https://www.ashraellen.com/books/monolith/",
+      "canonical": "https://www.ashraellen.com/monolith/",
       "h1": [
         "MONOLITH"
       ],
@@ -5150,33 +5150,39 @@
         "books",
         "monolith"
       ],
-      "excerpt": "MONOLITH Select a language:",
+      "excerpt": "Ashraellen · trilogy MONOLITH BETON · SLUDGE · GAS Detecting language… Choose manually if needed.",
       "candidates": [
-        "monolith",
         "ashraellen",
+        "monolith",
+        "beton",
+        "gas",
         "language",
-        "automatically",
+        "sludge",
+        "trilogy",
+        "automatic",
         "choose",
-        "continue",
+        "detecting",
         "dystopian",
         "literary-philosophical",
-        "select",
-        "trilogy",
-        "your"
+        "manually",
+        "needed",
+        "selection"
       ],
       "suggestedKeywordSeed": [
         "monolith",
         "ashraellen",
-        "automatically",
+        "automatic",
+        "beton",
         "books",
-        "choose",
-        "continue",
         "dystopian",
+        "gas",
         "language",
         "literary-philosophical",
+        "sludge",
         "trilogy",
-        "your",
-        "select"
+        "choose",
+        "detecting",
+        "selection"
       ]
     },
     {
@@ -32053,8 +32059,8 @@
       "lang": "root",
       "section": "monolith",
       "title": "MONOLITH — Ashraellen",
-      "description": "MONOLITH language gateway: BETON. SLUDGE. GAS. MONOLITH MONOLITH Detecting language… Определение языка… English Русский Беларуская Polski Deutsch Español Français Português Українська",
-      "existingKeywords": "ashraellen, monolith, language, gateway, beton, sludge, gas, doctype, html, title, function, var, routes, languages, navigator.languages, navigator.language, target, routes.en",
+      "description": "MONOLITH — a literary-philosophical dystopian trilogy by Ashraellen: BETON, SLUDGE and GAS. Automatic language selection.",
+      "existingKeywords": "",
       "canonical": "https://www.ashraellen.com/monolith/",
       "h1": [
         "MONOLITH"
@@ -32064,47 +32070,43 @@
       "slugTerms": [
         "monolith"
       ],
-      "excerpt": "MONOLITH Detecting language… Определение языка… English Русский Беларуская Polski Deutsch Español Français Português Українська",
+      "excerpt": "Ashraellen · trilogy MONOLITH BETON · SLUDGE · GAS Detecting language… Choose manually if needed. Automatic language selection requires JavaScript. Please choose a language above.",
       "candidates": [
-        "monolith",
         "language",
-        "detecting",
-        "deutsch",
-        "english",
-        "español",
-        "français",
-        "polski",
-        "português",
-        "беларуская",
-        "определение",
-        "русский",
-        "українська",
-        "языка",
         "ashraellen",
+        "monolith",
+        "automatic",
         "beton",
+        "choose",
         "gas",
-        "gateway",
-        "sludge"
+        "selection",
+        "sludge",
+        "trilogy",
+        "above",
+        "detecting",
+        "dystopian",
+        "javascript",
+        "literary-philosophical",
+        "manually",
+        "needed",
+        "please",
+        "requires"
       ],
       "suggestedKeywordSeed": [
         "monolith",
-        "language",
         "ashraellen",
-        "detecting",
-        "deutsch",
-        "english",
-        "español",
-        "français",
-        "polski",
-        "português",
-        "беларуская",
-        "определение",
-        "русский",
+        "automatic",
         "beton",
         "gas",
-        "gateway",
+        "language",
+        "selection",
         "sludge",
-        "українська"
+        "trilogy",
+        "above",
+        "choose",
+        "detecting",
+        "dystopian",
+        "literary-philosophical"
       ]
     },
     {
