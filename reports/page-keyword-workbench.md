@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-13T11:07:32.880Z
+Generated: 2026-08-13T15:15:49.521Z
 Pages: 846
 
 ## Index
@@ -300,7 +300,7 @@ Pages: 846
 | fi/books/error-404-god-not-found/why-me/index.html | fi | books | Ashraellen — Miksi minä? | Ashraellen, Miksi minä, VIRHE 404, filosofinen satiiri, romaani | miksi, minä, 404, ashraellen, books, jumalaa, kirja, virhe, byrokratiasta, eikä, ensimmäinen, error, filosofis-satiirinen, found, god, hän, katkelma, kirjasta |
 | fi/books/index.html | fi | books | Ashraellen — Kirjat | Ashraellen, kirjat, MONOLIITTI, HOHDE, Demotopia, SECCUS | kirjat, 2.0, ashraellen, books, jumalaa, samizdat, satiiri, tekijäjulkaisut, 404, ashraellenin, audioromaani, avaa, book, demotopia, filosofinen, hohde, itsenäiset, kirja |
 | fi/books/monolith/beton/index.html | fi | books | Ashraellen — BETONI | Ashraellen, BETONI, MONOLIITTI, dystopia, muisti, kontrolli | betoni, ashraellen, books, järjestelmän, katkelma, osa, anton, beton, dystopia, englanninkielinen, ensimmäinen, ensimmäisestä, että, filosofinen, halkeama, halkeamasta, hänen, kehys |
-| fi/books/monolith/gas/index.html | fi | books | Ashraellen — KAASU | Ashraellen, KAASU, MONOLIITTI, dystopia, valta, muisti, diffuusio | kaasu, ashraellen, books, objektin, osa, alkaa, ennen, gas, ilman, jälkeen, joka, kantajan, katkelma, katoamisesta, kehys, kirjallinen, kirjasta, kokonaiskontrollista |
+| fi/books/monolith/gas/index.html | fi | books | Ashraellen — KAASU | Ashraellen, KAASU, MONOLIITTI, dystopia, valta, muisti, diffuusio | kaasu, ashraellen, books, ilman, katkelma, objektin, osa, ennen, gas, joka, juonipaljastuksia, kantajan, katoamisesta, kehys, kirjallinen, kirjasta, kirjoittajalta, kokonaiskontrollista |
 | fi/books/monolith/index.html | fi | books | Ashraellen — MONOLIITTI | Ashraellen, MONOLIITTI, BETONI, LIETE, KAASU, dystopia | monoliitti, ashraellen, betoni, books, kaasu, liete, aineen, avaa, dystopiatrilogia, enää, filosofinen, hän, järjestelmien, kartta, kirjallinen, kontrollista, mihin, mikä |
 | fi/books/monolith/sludge/index.html | fi | books | Ashraellen — LIETE | Ashraellen, LIETE, MONOLIITTI, dystopia, osallisuus, uupumus, muodonmuutos | liete, ashraellen, books, katkelma, osa, alkaa, dystopia, enää, englanninkielinen, filosofinen, hän, ihminen, joka, jossa, kehys, kirjallinen, kirjasta, menetyksestä |
 | fi/books/radiance/index.html | fi | books | Ashraellen — HOHDE \| Pohjoisia kertomuksia maailman todellisesta historiasta | Ashraellen, HOHDE, pohjoiset kertomukset, taiteellinen tutkimus, Sampo | hohde, ashraellen, books, kertomukset, kirjallis-filosofinen, maailman, mitä, siitä, sykli, että, historiasta, ihminen, kertomuksia, kirja, kirjat, kuvallisia, maailmassa, mikä |
@@ -5845,14 +5845,14 @@ Excerpt:
 - description: KAASU — MONOLIITTI-trilogian kolmas ja viimeinen osa: romaani vallasta, kokonaiskontrollista ja lähteen, kantajan sekä ympäristön välisen rajan katoamisesta.
 - canonical: https://www.ashraellen.com/fi/books/monolith/gas/
 - H1: KAASU
-- H2: Objektiprotokolla | Valittu kirjallinen katkelma | Kirjasta | Objektin tila | Taiteellis-tutkimuksellinen kehys | Teemat / merkityssolmut | Merkitysrekisteri | Paikka trilogiassa
+- H2: Objektiprotokolla | Valittu kirjallinen katkelma | Kirjasta | Objektin tila | Kirjoittajalta | Ilman juonipaljastuksia | Taiteellis-tutkimuksellinen kehys | Teemat / merkityssolmut
 - H3: Paikannuksen menetys | Lähde | Kantaja | Havaitsija | Muisti | Diffuusio | Luku 1. Varjojen inventaario | Luku 2. Kasvojen saumat
-- suggested keyword seed: kaasu, ashraellen, books, objektin, osa, alkaa, ennen, gas, ilman, jälkeen, joka, kantajan, katkelma, katoamisesta, kehys, kirjallinen, kirjasta, kokonaiskontrollista
-- candidates: luku, kaasu, sen, oli, ilman, joka, osa, ennen, objektin, alkaa, jälkeen, kuin, kun, nro, objekti, oman, sitten, että, kantaja, kantajan, katkelma, määritetty, sensori, signaalin
+- suggested keyword seed: kaasu, ashraellen, books, ilman, katkelma, objektin, osa, ennen, gas, joka, juonipaljastuksia, kantajan, katoamisesta, kehys, kirjallinen, kirjasta, kirjoittajalta, kokonaiskontrollista
+- candidates: luku, kaasu, sen, oli, ilman, osa, joka, kun, ennen, katkelma, nro, objektin, alkaa, että, jälkeen, kuin, objekti, oman, signaalin, sisäisen, sitten, viimeinen, kantaja, kantajan
 
 Excerpt:
 
-> KAASU MONOLIITIN kolmas osa alkaa kohdasta, jossa järjestelmä säilyttää vielä muotonsa mutta menettää jo oikeuden pitää itseään kaiken tapahtuvan ainoana lähteenä. KAASU muuttaa Victorian tutkimuksen kokeeksi vallan, muistin, havainnon ja itse ympäristön välisestä rajasta. Objektiprotokolla Osa III Kaasu havaitaan harvoin tunkeutumisen hetkellä. Yleensä sen läsnäolo erottuu vasta sen jälkeen, kun se on jo jakautunut ympäristöön. OBJEKTIN TUNNISTUSPROTOKOLLA Nro 2026-001B OBJEKTI: TRANSKRIPTIO ”KAASU” (TÄYSI VERSIO) ARKKITEHTI: ASHRAELLEN TUNNISTE: 2026-001B-GAS EHEYS: 100 % (EI ULKOISTA EDITOINTIA) Lue englanninkielinen laitos Google Play Booksissa Lue englanninkielinen laitos Amazonissa Takaisin MONOLIITTIIN Avaa koko protokolla MERKITYSTEN OSASTO YLEMPI SEKTORI DIFFUUSION VALVONTAJOHTO OBJEKTIN TUNNISTUSPROTOKOLLA Nro 2026-001B OBJEKTI: TRANSKRIPTIO ”KAASU” (TÄYSI VERSIO) ARKKITEHTI: A
+> KAASU MONOLIITIN kolmas osa alkaa kohdasta, jossa järjestelmä säilyttää vielä muotonsa mutta menettää jo oikeuden pitää itseään kaiken tapahtuvan ainoana lähteenä. KAASU muuttaa Victorian tutkimuksen kokeeksi vallan, muistin, havainnon ja itse ympäristön välisestä rajasta. Objektiprotokolla Osa III Kaasu havaitaan harvoin tunkeutumisen hetkellä. Yleensä sen läsnäolo erottuu vasta sen jälkeen, kun se on jo jakautunut ympäristöön. OBJEKTIN TUNNISTUSPROTOKOLLA Nro 2026-001B OBJEKTI: TRANSKRIPTIO ”KAASU” (TÄYSI VERSIO) ARKKITEHTI: ASHRAELLEN TUNNISTE: 2026-001B-GAS EHEYS: 100 % (EI ULKOISTA EDITOINTIA) Lue englanninkielinen laitos Google Play Booksissa Lue englanninkielinen laitos Amazonissa Takaisin MONOLIITTIIN Avaa koko protokolla Sulje koko protokolla MERKITYSTEN OSASTO YLEMPI SEKTORI DIFFUUSION VALVONTAJOHTO OBJEKTIN TUNNISTUSPROTOKOLLA Nro 2026-001B OBJEKTI: TRANSKRIPTIO ”KAASU” (TÄYSI
 
 ### fi/books/monolith/index.html
 
