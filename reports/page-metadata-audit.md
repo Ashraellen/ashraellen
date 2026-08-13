@@ -1,12 +1,12 @@
 # Page Metadata Audit
 
-Generated: 2026-08-13T21:32:16.496Z
+Generated: 2026-08-13T21:40:07.853Z
 
-Pages checked: 847
-Pages with issues: 317
-Total issues: 1752
-Pages with review notes: 649
-Total review notes: 2274
+Pages checked: 845
+Pages with issues: 315
+Total issues: 1732
+Pages with review notes: 646
+Total review notes: 2268
 
 ## Issue summary
 
@@ -20,24 +20,22 @@ Total review notes: 2274
 | MISSING_OG_IMAGE | 172 |
 | MISSING_OG_TITLE | 171 |
 | MISSING_DESCRIPTION | 122 |
-| DUPLICATE_CANONICAL | 70 |
-| DUPLICATE_TITLE | 70 |
-| DUPLICATE_OG_TITLE | 68 |
+| DUPLICATE_TITLE | 68 |
+| DUPLICATE_CANONICAL | 66 |
+| DUPLICATE_OG_TITLE | 66 |
 | MISSING_CANONICAL | 47 |
 | OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
 | TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
-| DUPLICATE_KEYWORDS | 31 |
+| DUPLICATE_KEYWORDS | 27 |
 | DESCRIPTION_TOO_SHORT | 20 |
-| DUPLICATE_DESCRIPTION | 4 |
-| DUPLICATE_OG_DESCRIPTION | 4 |
 
 
 ## Review note summary
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 649 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 629 |
+| DUPLICATE_OG_IMAGE_REVIEW | 646 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 626 |
 | FALLBACK_OG_IMAGE_USED | 508 |
 | FALLBACK_TWITTER_IMAGE_USED | 488 |
 
@@ -257,8 +255,8 @@ Total review notes: 2274
 - og:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 
-- DUPLICATE_TITLE: shared by 4 pages
-- DUPLICATE_OG_TITLE: shared by 4 pages
+- DUPLICATE_TITLE: shared by 3 pages
+- DUPLICATE_OG_TITLE: shared by 3 pages
 
 ### de/books/monolith/index.html
 
@@ -460,27 +458,8 @@ Total review notes: 2274
 - og:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 
-- DUPLICATE_TITLE: shared by 4 pages
-- DUPLICATE_DESCRIPTION: shared by 2 pages
-- DUPLICATE_KEYWORDS: shared by 2 pages
-- DUPLICATE_CANONICAL: shared by 2 pages
-- DUPLICATE_OG_TITLE: shared by 4 pages
-- DUPLICATE_OG_DESCRIPTION: shared by 2 pages
-
-### en/books/monolith/gas/index_1.html
-
-- title: Ashraellen — GAS
-- description length: 168
-- canonical: https://www.ashraellen.com/en/books/monolith/gas/
-- og:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
-- twitter:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
-
-- DUPLICATE_TITLE: shared by 4 pages
-- DUPLICATE_DESCRIPTION: shared by 2 pages
-- DUPLICATE_KEYWORDS: shared by 2 pages
-- DUPLICATE_CANONICAL: shared by 2 pages
-- DUPLICATE_OG_TITLE: shared by 4 pages
-- DUPLICATE_OG_DESCRIPTION: shared by 2 pages
+- DUPLICATE_TITLE: shared by 3 pages
+- DUPLICATE_OG_TITLE: shared by 3 pages
 
 ### en/books/monolith/index.html
 
@@ -907,8 +886,8 @@ Total review notes: 2274
 - og:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 
-- DUPLICATE_TITLE: shared by 4 pages
-- DUPLICATE_OG_TITLE: shared by 4 pages
+- DUPLICATE_TITLE: shared by 3 pages
+- DUPLICATE_OG_TITLE: shared by 3 pages
 
 ### es/books/radiance/index.html
 
@@ -1492,8 +1471,8 @@ Total review notes: 2274
 - og:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 
-- DUPLICATE_TITLE: shared by 3 pages
-- DUPLICATE_OG_TITLE: shared by 3 pages
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
 
 ### fr/books/radiance/index.html
 
@@ -1712,27 +1691,8 @@ Total review notes: 2274
 - og:image: https://www.ashraellen.com/assets/covers/GAS_PL_COVER_final_v01.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/GAS_PL_COVER_final_v01.webp
 
-- DUPLICATE_TITLE: shared by 3 pages
-- DUPLICATE_DESCRIPTION: shared by 2 pages
-- DUPLICATE_KEYWORDS: shared by 2 pages
-- DUPLICATE_CANONICAL: shared by 2 pages
-- DUPLICATE_OG_TITLE: shared by 3 pages
-- DUPLICATE_OG_DESCRIPTION: shared by 2 pages
-
-### pl/books/monolith/gas/index_1.html
-
-- title: Ashraellen — GAZ
-- description length: 139
-- canonical: https://www.ashraellen.com/pl/books/monolith/gas/
-- og:image: https://www.ashraellen.com/assets/covers/GAS_PL_COVER_final_v01.webp
-- twitter:image: https://www.ashraellen.com/assets/covers/GAS_PL_COVER_final_v01.webp
-
-- DUPLICATE_TITLE: shared by 3 pages
-- DUPLICATE_DESCRIPTION: shared by 2 pages
-- DUPLICATE_KEYWORDS: shared by 2 pages
-- DUPLICATE_CANONICAL: shared by 2 pages
-- DUPLICATE_OG_TITLE: shared by 3 pages
-- DUPLICATE_OG_DESCRIPTION: shared by 2 pages
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
 
 ### pl/books/monolith/index.html
 
@@ -5397,8 +5357,8 @@ Total review notes: 2274
 - og:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 7 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 7 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 6 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 6 pages
 
 ### de/books/monolith/index.html
 
@@ -6093,17 +6053,8 @@ Total review notes: 2274
 - og:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 7 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 7 pages
-
-### en/books/monolith/gas/index_1.html
-
-- title: Ashraellen — GAS
-- og:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
-- twitter:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
-
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 7 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 7 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 6 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 6 pages
 
 ### en/books/monolith/index.html
 
@@ -6798,8 +6749,8 @@ Total review notes: 2274
 - og:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 7 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 7 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 6 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 6 pages
 
 ### es/books/monolith/index.html
 
@@ -7485,8 +7436,8 @@ Total review notes: 2274
 - og:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 7 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 7 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 6 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 6 pages
 
 ### fi/books/monolith/index.html
 
@@ -7946,8 +7897,8 @@ Total review notes: 2274
 - og:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 7 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 7 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 6 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 6 pages
 
 ### fr/books/monolith/index.html
 
@@ -8656,24 +8607,6 @@ Total review notes: 2274
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 34 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 34 pages
 
-### pl/books/monolith/gas/index.html
-
-- title: Ashraellen — GAZ
-- og:image: https://www.ashraellen.com/assets/covers/GAS_PL_COVER_final_v01.webp
-- twitter:image: https://www.ashraellen.com/assets/covers/GAS_PL_COVER_final_v01.webp
-
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
-
-### pl/books/monolith/gas/index_1.html
-
-- title: Ashraellen — GAZ
-- og:image: https://www.ashraellen.com/assets/covers/GAS_PL_COVER_final_v01.webp
-- twitter:image: https://www.ashraellen.com/assets/covers/GAS_PL_COVER_final_v01.webp
-
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
-
 ### pl/books/monolith/index.html
 
 - title: Ashraellen — MONOLITH
@@ -9349,8 +9282,8 @@ Total review notes: 2274
 - og:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/GAS_EN_COVER_final_v01.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 7 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 7 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 6 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 6 pages
 
 ### pt/books/monolith/index.html
 
