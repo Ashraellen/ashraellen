@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T20:23:15.134Z",
+  "generated": "2026-08-13T20:35:58.573Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -32533,6 +32533,92 @@
         "kogo",
         "książce",
         "książka"
+      ]
+    },
+    {
+      "page": "pl/books/monolith/gas/index_1.html",
+      "lang": "pl",
+      "section": "books",
+      "title": "Ashraellen — GAZ",
+      "description": "GAZ — trzeci i finałowy tom trylogii MONOLITH: powieść o władzy, pełnej kontroli i zaniku granicy między źródłem, nośnikiem a środowiskiem.",
+      "existingKeywords": "ashraellen, monolith, gaz, tom trzeci, wiktoria, pleśń, władza, kontrola, pamięć, lokalizacja, środowisko, sygnał, dystopia",
+      "canonical": "https://www.ashraellen.com/pl/books/monolith/gas/",
+      "h1": [
+        "GAZ"
+      ],
+      "h2": [
+        "Akta",
+        "Wybrany fragment",
+        "O książce",
+        "Status obiektu",
+        "Od autora",
+        "Bez spoilerów",
+        "Rama artystyczno-badawcza",
+        "Tematy / węzły znaczeń"
+      ],
+      "h3": [
+        "Utrata lokalizacji",
+        "Źródło",
+        "Nośnik",
+        "Obserwator",
+        "Pamięć",
+        "Rozprzestrzenianie",
+        "Rozdział 1. Inwentaryzacja cieni",
+        "Rozdział 2. Szwy twarzy"
+      ],
+      "slugTerms": [
+        "pl",
+        "books",
+        "monolith",
+        "gas",
+        "index"
+      ],
+      "excerpt": "GAZ Trzeci tom MONOLITHU zaczyna się tam, gdzie system wciąż zachowuje formę, lecz traci już prawo do uznawania siebie za jedyne źródło tego, co się wydarza. GAZ zamienia śledztwo Wiktorii w próbę samej granicy między władzą, pamięcią, obserwacją i środowiskiem. Akta Tom III Gaz rzadko daje się wykryć w chwili przeniknięcia. Zwykle jego obecność staje się widoczna dopiero wtedy, gdy zdążył już rozproszyć się wewnątrz środowiska. PROTOKÓŁ IDENTYFIKACJI OBIEKTU NR 2026-001B OBIEKT: STENOGRAM „GAZ” (WERSJA PEŁNA) ARCHITEKT: ASHRAELLEN IDENTYFIKATOR: 2026-001B-GAS INTEGRALNOŚĆ: 100% (BEZ ZEWNĘTRZNEJ REDAKCJI) Czytaj po polsku w Google Play Books Wydanie angielskie na Amazon Wróć do serii Otwórz pełny protokół Zamknij pełny protokół DEPARTAMENT ZNACZEŃ SEKTOR GÓRNY ZARZĄD KONTROLI ROZPRZESTRZENIANIA PROTOKÓŁ IDENTYFIKACJI OBIEKTU NR 2026-001B OBIEKT: STENOGRAM „GAZ” (WERSJA PEŁNA) ARCHITEKT: ",
+      "candidates": [
+        "się",
+        "nie",
+        "bez",
+        "już",
+        "rozdział",
+        "lecz",
+        "gaz",
+        "było",
+        "między",
+        "środowiska",
+        "jego",
+        "tylko",
+        "obiektu",
+        "sensor",
+        "tym",
+        "jako",
+        "przez",
+        "ani",
+        "był",
+        "drzwi",
+        "fragment",
+        "gdzie",
+        "jakby",
+        "obserwatora"
+      ],
+      "suggestedKeywordSeed": [
+        "gaz",
+        "ashraellen",
+        "bez",
+        "books",
+        "między",
+        "monolith",
+        "akta",
+        "artystyczno-badawcza",
+        "autora",
+        "było",
+        "finałowy",
+        "fragment",
+        "gas",
+        "granicy",
+        "index",
+        "jego",
+        "już",
+        "kontroli"
       ]
     },
     {
