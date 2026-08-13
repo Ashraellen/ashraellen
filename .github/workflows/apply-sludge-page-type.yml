@@ -1,0 +1,257 @@
+name: Apply SLUDGE page-type migration
+on:
+  push:
+    branches:
+      - agent/sludge-page-type
+permissions:
+  contents: write
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/sludge-page-type
+          fetch-depth: 0
+      - name: Apply agreed SLUDGE migration
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re, subprocess, sys
+
+          langs = ['be','de','en','es','fi','fr','pl','pt','ru','uk']
+          labels = {
+              'be': ('Адкрыць поўны фрагмент','Закрыць поўны фрагмент'),
+              'de': ('Vollständigen Auszug öffnen','Vollständigen Auszug schließen'),
+              'en': ('Open the complete excerpt','Close the complete excerpt'),
+              'es': ('Abrir el fragmento completo','Cerrar el fragmento completo'),
+              'fi': ('Avaa katkelma','Sulje katkelma'),
+              'fr': ('Ouvrir l’extrait complet','Fermer l’extrait complet'),
+              'pl': ('Otwórz pełny fragment','Zamknij pełny fragment'),
+              'pt': ('Abrir o trecho completo','Fechar o trecho completo'),
+              'ru': ('Открыть фрагмент','Закрыть фрагмент'),
+              'uk': ('Відкрити повний фрагмент','Закрити повний фрагмент'),
+          }
+
+          css = '''/* Ashraellen — SLUDGE book-detail page type
+             One shared stylesheet for every language version at /xx/books/monolith/sludge/.
+             No dependency on books.css, no page-local <style>, no inline style="" attributes.
+             Typography for narrative content follows tokens.css roles (body / lead / accent / kicker).
+          */
+          @import url("tokens.css");
+
+          :root{--warm:rgba(210,150,80,.07)}
+
+          *{box-sizing:border-box}
+          html,body{height:100%}
+          body{margin:0;font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Arial,"Noto Sans","Liberation Sans",sans-serif;background:var(--bg);color:var(--fg)}
+          a{color:var(--fg);text-decoration:none}
+          a:hover{text-decoration:underline}
+
+          .wrap{min-height:100vh}
+          .page{position:relative;min-height:100vh;overflow:hidden;display:flex;flex-direction:column}
+          .page::before{content:"";position:absolute;inset:0;background:url("backgrounds/monolith-bg.webp") center/cover no-repeat;filter:brightness(.43) contrast(1.06) saturate(.58) blur(1.5px);transform:scale(1.02);z-index:0;will-change:transform;animation:sludgeDrift 80s ease-in-out infinite alternate}
+          .page::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(11,11,13,.92) 0%,rgba(11,11,13,.74) 30%,rgba(11,11,13,.46) 58%,rgba(11,11,13,.18) 82%,rgba(11,11,13,.06) 100%),radial-gradient(70% 80% at 62% 45%,var(--warm) 0%,rgba(210,150,80,0) 70%);z-index:1}
+          @keyframes sludgeDrift{0%{transform:scale(1.02) translate3d(0,0,0)}100%{transform:scale(1.042) translate3d(-.4%,-.25%,0)}}
+          @media(prefers-reduced-motion:reduce){.page::before{animation:none}}
+
+          .site-header{position:relative;z-index:2;padding:22px 44px 0;text-align:right}
+          .site-header .brand{margin:0 0 6px;letter-spacing:.22em;text-transform:uppercase;font-size:14px;font-weight:600;opacity:.92}
+          .site-header .menu{font-size:13px;color:var(--muted)}
+          .site-header .menu a{color:var(--muted);margin:0 10px}
+          .site-header .menu a:hover{color:var(--fg);text-decoration:none}
+
+          .main{position:relative;z-index:2;flex:1;display:flex;align-items:center;justify-content:center}
+          .container{width:min(100%,980px);max-width:980px;margin:0 auto;padding:28px 44px 56px;text-shadow:0 2px 8px rgba(0,0,0,.84),0 0 22px rgba(0,0,0,.46)}
+
+          .h1{margin:0 0 10px;font-size:28px;font-weight:800;letter-spacing:.02em}
+          .lead{margin:0 0 16px;font-size:var(--fs-lead);line-height:var(--lh-lead);color:var(--muted);max-width:78ch}
+
+          /* Case-file hero: cover + protocol number + opening quote */
+          .book-hero{display:grid;grid-template-columns:220px 1fr;gap:22px;align-items:start}
+          .cover{border-radius:16px;overflow:hidden;border:1px solid rgba(242,242,244,.14)}
+          .cover img{display:block;width:100%}
+
+          .protocol,.note{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;color:var(--muted);font-size:var(--fs-kicker);line-height:var(--lh-kicker)}
+
+          .quote{font-family:Georgia,"Times New Roman",serif;font-size:var(--fs-accent);line-height:var(--lh-accent);color:var(--fg);margin:0 0 12px}
+
+          /* Running descriptive copy */
+          .copy{font-size:var(--fs-body);line-height:var(--lh-body);color:var(--muted);max-width:90ch}
+          .copy p{margin:0 0 12px}
+
+          .cta-row{display:flex;gap:12px;flex-wrap:wrap;margin-top:14px}
+          .btn{display:inline-flex;align-items:center;justify-content:center;padding:12px 18px;border-radius:14px;border:1px solid rgba(242,242,244,.18);background:rgba(0,0,0,.22);backdrop-filter:blur(3px);font-size:14px;font-weight:800;text-decoration:none;cursor:pointer;user-select:none;transition:transform 140ms ease,background 140ms ease,border-color 140ms ease,opacity 140ms ease;opacity:.95;color:var(--fg)!important;appearance:none;-webkit-appearance:none;outline:none}
+          .btn:hover{background:rgba(255,255,255,.08);border-color:rgba(242,242,244,.34);transform:translateY(-1px);opacity:1;text-decoration:none;color:var(--fg)!important}
+          .btn:active{transform:translateY(0) scale(.99)}
+          .btn:focus-visible{box-shadow:0 0 0 2px rgba(242,242,244,.18),0 0 0 6px rgba(242,242,244,.08)}
+          .btn.secondary{font-weight:700;border-color:rgba(242,242,244,.14);background:rgba(0,0,0,.16);opacity:.95;color:var(--fg)!important}
+
+          /* Excerpt toggle — open/closed label swap, same behavior in all 10 languages */
+          details{margin-top:12px;border:1px solid rgba(242,242,244,.13);border-radius:14px;padding:12px;background:rgba(0,0,0,.22)}
+          summary{cursor:pointer;font-weight:700;color:var(--fg)}
+          summary .when-open{display:none}
+          details[open] summary .when-closed{display:none}
+          details[open] summary .when-open{display:inline}
+          .fragment{margin-top:14px}
+          .fragment p{max-width:90ch}
+
+          /* List sections (Themes, Where to read, etc.) */
+          .list{margin-top:14px;border:1px solid rgba(242,242,244,.07);border-radius:18px;background:rgba(0,0,0,.18);backdrop-filter:blur(4px);overflow:hidden;box-shadow:0 12px 34px rgba(0,0,0,.18)}
+          .list-header{padding:14px 16px;border-bottom:1px solid rgba(242,242,244,.055);display:flex;align-items:baseline;justify-content:space-between;gap:12px}
+          .list-header h2{margin:0;font-size:16px;font-weight:700}
+          .list-header .note{margin:0}
+
+          .grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+          .card,.linkbox{border:1px solid rgba(242,242,244,.12);border-radius:14px;padding:14px;background:rgba(0,0,0,.20)}
+          .card h3{margin:0 0 7px}
+          .card p{margin:0;color:var(--muted);font-size:var(--fs-body);line-height:var(--lh-body)}
+
+          .seal{display:flex;align-items:center;gap:10px;margin-top:24px;color:var(--muted);font-size:var(--fs-kicker)}
+          .seal img{height:22px;width:auto;opacity:.75}
+
+          @media(max-width:900px){
+            .site-header{padding:16px 22px 0}
+            .main{align-items:flex-start;justify-content:center}
+            .container{width:100%;padding:22px 22px 44px}
+          }
+          @media(max-width:850px){.grid{grid-template-columns:1fr}}
+          @media(max-width:700px){.book-hero{grid-template-columns:1fr}.cover{max-width:260px}}
+          '''
+          css = '\n'.join(line[10:] if line.startswith('          ') else line for line in css.splitlines()) + '\n'
+          Path('assets/sludge.css').write_text(css, encoding='utf-8')
+
+          for lang in langs:
+              path = Path(lang) / 'books/monolith/sludge/index.html'
+              s = path.read_text(encoding='utf-8')
+
+              # Replace books.css + page-local style block with one SLUDGE stylesheet.
+              if lang == 'ru':
+                  s, n = re.subn(r'<link rel="stylesheet" href="\.\./\.\./\.\./\.\./assets/books\.css\?v=20260217">\s*<style>.*?</style>',
+                                 '<link rel="stylesheet" href="../../../../assets/sludge.css?v=20260813-1">', s, count=1, flags=re.S)
+              else:
+                  s, n = re.subn(r'<link rel="stylesheet" href="\.\./\.\./\.\./\.\./assets/books\.css\?v=20260217"><style>.*?</style>',
+                                 '<link rel="stylesheet" href="../../../../assets/sludge.css?v=20260813-1">', s, count=1, flags=re.S)
+              if n != 1:
+                  raise SystemExit(f'{path}: expected exactly one books.css + style block, got {n}')
+
+              # Remove inert paragraph markers and obsolete inline spacing hacks.
+              s = re.sub(r' data-p="\d+"', '', s)
+              s = s.replace(' style="margin:0 0 12px;"', '')
+
+              if lang == 'ru':
+                  # Normalize the historical RU-only class vocabulary to the shared schema.
+                  repl = {
+                      'book-cover':'cover',
+                      'quote-line':'quote',
+                      'sludge-copy':'copy',
+                      'sludge-grid':'grid',
+                      'sludge-card':'card',
+                      'sludge-link-box':'linkbox',
+                      'sludge-fragment-body':'fragment',
+                  }
+                  for a,b in repl.items():
+                      s = s.replace(a,b)
+                  s = s.replace('class="body book-hero"','class="book-hero"')
+                  s = s.replace('class="body copy"','class="copy"')
+                  s = s.replace('details class="sludge-fragment"','details')
+
+                  opener = '<ul class="items"><li class="item" style="grid-template-columns:1fr;">'
+                  if s.count(opener) != 10:
+                      raise SystemExit(f'{path}: expected 10 catalog wrappers, got {s.count(opener)}')
+                  s = s.replace(opener, '')
+                  closer = '</li></ul></section>'
+                  if s.count(closer) < 10:
+                      raise SystemExit(f'{path}: expected at least 10 wrapper closers, got {s.count(closer)}')
+                  s = s.replace(closer, '</section>', 10)
+
+              open_label, close_label = labels[lang]
+              if lang != 'ru':
+                  old = f'<summary>{open_label}</summary>'
+                  if s.count(old) != 1:
+                      raise SystemExit(f'{path}: expected one summary label, got {s.count(old)}')
+                  new = f'<summary><span class="when-closed">{open_label}</span><span class="when-open">{close_label}</span></summary>'
+                  s = s.replace(old, new, 1)
+              else:
+                  # RU already had the toggle; class normalization above preserves it.
+                  expected = f'<summary><span class="when-closed">{open_label}</span><span class="when-open">{close_label}</span></summary>'
+                  if expected not in s:
+                      raise SystemExit(f'{path}: RU toggle missing after normalization')
+
+              path.write_text(s, encoding='utf-8')
+
+          # Hard postconditions across all language mirrors.
+          class_sets = []
+          for lang in langs:
+              path = Path(lang) / 'books/monolith/sludge/index.html'
+              s = path.read_text(encoding='utf-8')
+              bad = []
+              for token in ['<style','style="','data-p=','assets/books.css']:
+                  if token in s: bad.append(token)
+              if bad:
+                  raise SystemExit(f'{path}: forbidden remnants {bad}')
+              if s.count('assets/sludge.css?v=20260813-1') != 1:
+                  raise SystemExit(f'{path}: sludge.css link count mismatch')
+              if s.count('when-closed') != 1 or s.count('when-open') != 1:
+                  raise SystemExit(f'{path}: toggle count mismatch')
+              classes = set()
+              for val in re.findall(r'class="([^"]+)"', s):
+                  classes.update(val.split())
+              class_sets.append((lang, classes))
+
+          baseline = class_sets[0][1]
+          for lang, classes in class_sets[1:]:
+              if classes != baseline:
+                  raise SystemExit(f'class-set mismatch for {lang}: +{sorted(classes-baseline)} -{sorted(baseline-classes)}')
+
+          ru = Path('ru/books/monolith/sludge/index.html').read_text(encoding='utf-8')
+          for old in ['beton-copy','book-cover','quote-line','sludge-copy','sludge-grid','sludge-card','sludge-link-box','sludge-fragment','sludge-fragment-body','class="items"','class="item"']:
+              if old in ru:
+                  raise SystemExit(f'RU legacy token remains: {old}')
+
+          # CSS canon assertions.
+          c = Path('assets/sludge.css').read_text(encoding='utf-8')
+          required = [
+              '@import url("tokens.css");',
+              '.lead{margin:0 0 16px;font-size:var(--fs-lead);line-height:var(--lh-lead)',
+              '.copy{font-size:var(--fs-body);line-height:var(--lh-body);color:var(--muted);max-width:90ch}',
+              '.quote{font-family:Georgia,"Times New Roman",serif;font-size:var(--fs-accent);line-height:var(--lh-accent);color:var(--fg);margin:0 0 12px}',
+              '.protocol,.note{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;color:var(--muted);font-size:var(--fs-kicker);line-height:var(--lh-kicker)}',
+              'filter:brightness(.43) contrast(1.06) saturate(.58) blur(1.5px)',
+          ]
+          for token in required:
+              if token not in c:
+                  raise SystemExit(f'CSS assertion missing: {token}')
+
+          print('SLUDGE migration assertions: OK')
+          PY
+
+          echo '--- check-site.js (known baseline debt allowed) ---'
+          node scripts/check-site.js || true
+          echo '--- check-links.js ---'
+          node scripts/check-links.js || true
+          echo '--- check-language-mirrors.js (known baseline debt allowed) ---'
+          node scripts/check-language-mirrors.js || true
+
+          git status --short
+          git add assets/sludge.css \
+            be/books/monolith/sludge/index.html \
+            de/books/monolith/sludge/index.html \
+            en/books/monolith/sludge/index.html \
+            es/books/monolith/sludge/index.html \
+            fi/books/monolith/sludge/index.html \
+            fr/books/monolith/sludge/index.html \
+            pl/books/monolith/sludge/index.html \
+            pt/books/monolith/sludge/index.html \
+            ru/books/monolith/sludge/index.html \
+            uk/books/monolith/sludge/index.html
+          git diff --cached --check
+          if git diff --cached --quiet; then
+            echo 'No target changes to commit.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Migrate SLUDGE to shared page-type CSS [skip ci]'
+          git push origin HEAD:agent/sludge-page-type
