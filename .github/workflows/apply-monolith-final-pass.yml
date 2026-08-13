@@ -1,0 +1,121 @@
+name: Apply MONOLITH final pass
+
+on:
+  push:
+    branches:
+      - agent/monolith-final-pass
+    paths:
+      - '.github/workflows/apply-monolith-final-pass.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/monolith-final-pass
+      - name: Apply bounded MONOLITH metadata pass
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          langs = ('en','ru','pl','be','uk','de','fr','es','pt','fi')
+          full = ''.join(
+              f'<link rel="alternate" hreflang="{lang}" href="https://www.ashraellen.com/{lang}/books/monolith/">'
+              for lang in langs
+          ) + '<link rel="alternate" hreflang="x-default" href="https://www.ashraellen.com/en/books/monolith/">'
+
+          # Add FI to existing hreflang blocks on pages that already have a 9-language set.
+          for lang in ('en','be','de','es','pl','pt'):
+              p = Path(lang) / 'books' / 'monolith' / 'index.html'
+              s = p.read_text(encoding='utf-8')
+              needle = '<link rel="alternate" hreflang="pt" href="https://www.ashraellen.com/pt/books/monolith/"><link rel="alternate" hreflang="x-default" href="https://www.ashraellen.com/en/books/monolith/">'
+              repl = '<link rel="alternate" hreflang="pt" href="https://www.ashraellen.com/pt/books/monolith/"><link rel="alternate" hreflang="fi" href="https://www.ashraellen.com/fi/books/monolith/"><link rel="alternate" hreflang="x-default" href="https://www.ashraellen.com/en/books/monolith/">'
+              if s.count(needle) != 1:
+                  raise SystemExit(f'Expected hreflang insertion point once in {p}, got {s.count(needle)}')
+              p.write_text(s.replace(needle, repl, 1), encoding='utf-8')
+
+          # FI already has fi; add ES and FR before it.
+          p = Path('fi/books/monolith/index.html')
+          s = p.read_text(encoding='utf-8')
+          needle = '<link rel="alternate" hreflang="de" href="https://www.ashraellen.com/de/books/monolith/"><link rel="alternate" hreflang="fi" href="https://www.ashraellen.com/fi/books/monolith/">'
+          repl = '<link rel="alternate" hreflang="de" href="https://www.ashraellen.com/de/books/monolith/"><link rel="alternate" hreflang="es" href="https://www.ashraellen.com/es/books/monolith/"><link rel="alternate" hreflang="fr" href="https://www.ashraellen.com/fr/books/monolith/"><link rel="alternate" hreflang="fi" href="https://www.ashraellen.com/fi/books/monolith/">'
+          if s.count(needle) != 1:
+              raise SystemExit(f'Expected FI hreflang insertion point once, got {s.count(needle)}')
+          p.write_text(s.replace(needle, repl, 1), encoding='utf-8')
+
+          # RU and UK had no hreflang block: insert complete reciprocal set after canonical.
+          for lang in ('ru','uk'):
+              p = Path(lang) / 'books' / 'monolith' / 'index.html'
+              s = p.read_text(encoding='utf-8')
+              canonical = f'<link rel="canonical" href="https://www.ashraellen.com/{lang}/books/monolith/">'
+              if s.count(canonical) != 1:
+                  raise SystemExit(f'Expected canonical once in {p}, got {s.count(canonical)}')
+              if 'hreflang=' in s:
+                  raise SystemExit(f'Unexpected pre-existing hreflang in {p}')
+              p.write_text(s.replace(canonical, canonical + '\n    ' + full, 1), encoding='utf-8')
+
+          # Add FI to the seven WebSite.inLanguage arrays that have that WebSite block.
+          array_variants = [
+              '["en","ru","pl","be","uk","de","fr","es","pt"]',
+              '["en","ru","pl","de","es","fr","pt","uk","be"]',
+          ]
+          for lang in ('en','ru','pl','be','uk','de','pt'):
+              p = Path(lang) / 'books' / 'monolith' / 'index.html'
+              s = p.read_text(encoding='utf-8')
+              hits = [(old, old[:-1] + ',"fi"]') for old in array_variants if old in s]
+              if len(hits) != 1:
+                  raise SystemExit(f'Expected one inLanguage array variant in {p}, got {len(hits)}')
+              old, new = hits[0]
+              p.write_text(s.replace(old, new, 1), encoding='utf-8')
+
+          # Fix duplicated trilogy keywords.
+          kw = {
+              'en': ('Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research', 'Ashraellen, MONOLITH, BETON, SLUDGE, GAS, dystopia, literature, artistic research'),
+              'de': ('Ashraellen, MONOLITH, MONOLITH, dystopia, literature, artistic research', 'Ashraellen, MONOLITH, BETON, SCHLAMM, GAS, dystopia, literature, artistic research'),
+              'pt': ('Ashraellen, MONÓLITO, MONÓLITO, dystopia, literature, artistic research', 'Ashraellen, MONÓLITO, BETÃO, LAMA, GÁS, dystopia, literature, artistic research'),
+              'be': ('Ashraellen, МАНАЛІТ, МАНАЛІТ, dystopia, literature, artistic research', 'Ashraellen, МАНАЛІТ, БЕТОН, ЖЫЖА, ГАЗ, dystopia, literature, artistic research'),
+          }
+          for lang, (old, new) in kw.items():
+              p = Path(lang) / 'books' / 'monolith' / 'index.html'
+              s = p.read_text(encoding='utf-8')
+              if s.count(old) != 1:
+                  raise SystemExit(f'Expected keywords once in {p}, got {s.count(old)}')
+              p.write_text(s.replace(old, new, 1), encoding='utf-8')
+
+          # RU description: same bounded text used by the supplied final patch.
+          p = Path('ru/books/monolith/index.html')
+          s = p.read_text(encoding='utf-8')
+          old = 'МОНОЛИТ — трилогия социальной фантастики, антиутопии и философского киберпанка о контроле, памяти и распаде систем.'
+          new = 'МОНОЛИТ — трилогия социальной фантастики, антиутопии и философского киберпанка о контроле, памяти и распаде систем: БЕТОН, ЖИЖА и ГАЗ.'
+          if s.count(old) != 5:
+              raise SystemExit(f'Expected RU description 5 times, got {s.count(old)}')
+          s = s.replace(old, new)
+          if s.count('"name": "MONOLITH"') != 1:
+              raise SystemExit('Expected RU BookSeries name MONOLITH once')
+          s = s.replace('"name": "MONOLITH"', '"name": "МОНОЛИТ"', 1)
+          p.write_text(s, encoding='utf-8')
+
+          # Final invariants across all ten pages.
+          expected = set(langs) | {'x-default'}
+          import re, json
+          for lang in langs:
+              p = Path(lang) / 'books' / 'monolith' / 'index.html'
+              s = p.read_text(encoding='utf-8')
+              got = re.findall(r'hreflang="([^"]+)"', s)
+              if set(got) != expected or len(got) != len(expected):
+                  raise SystemExit(f'Bad hreflang set in {p}: {got}')
+              for payload in re.findall(r'<script type="application/ld\+json">(.*?)</script>', s, flags=re.S):
+                  json.loads(payload)
+          PY
+
+          git rm .github/workflows/apply-monolith-final-pass.yml
+          git config user.name 'Ashraellen'
+          git config user.email 'ashraellen@gmail.com'
+          git add en/books/monolith/index.html ru/books/monolith/index.html pl/books/monolith/index.html be/books/monolith/index.html uk/books/monolith/index.html de/books/monolith/index.html es/books/monolith/index.html pt/books/monolith/index.html fi/books/monolith/index.html
+          git commit -m 'Finalize MONOLITH multilingual metadata'
+          git push origin HEAD:agent/monolith-final-pass
