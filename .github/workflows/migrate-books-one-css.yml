@@ -1,0 +1,172 @@
+name: Migrate books indexes to one CSS
+
+on:
+  push:
+    branches:
+      - agent/books-one-css
+    paths:
+      - '.github/workflows/migrate-books-one-css.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/books-one-css
+      - name: Consolidate books page-type styling
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          langs = ('en','ru','pl','be','uk','de','fr','es','pt','fi')
+
+          common = '''.item .books-card-cta .btn{font-size:12px;line-height:1.2;padding:8px 12px;border-radius:12px;font-weight:700}
+          .demotopia-thumb{object-fit:cover;object-position:center top}'''
+
+          ru = '''.item .books-card-cta .btn{font-size:12px;line-height:1.2;padding:8px 12px;border-radius:12px;font-weight:700}
+          .demotopia-thumb{object-fit:cover;object-position:center top}
+          .samizdat-list{border-color:rgba(120,94,60,.18);background:rgba(233,223,201,.82);box-shadow:0 16px 34px rgba(0,0,0,.22);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);text-shadow:none}
+          .samizdat-list .list-header{border-bottom-color:rgba(120,94,60,.14)}
+          .samizdat-list .list-header h2,.samizdat-list .item a{color:#2f2418}
+          .samizdat-list .list-header .note,.samizdat-list .item .meta{color:rgba(50,38,24,.72)}
+          .samizdat-list .item{border-top-color:rgba(120,94,60,.12)}
+          .samizdat-list .thumb{border-color:rgba(120,94,60,.16);background:rgba(216,204,181,.54)}
+          .samizdat-list .samizdat-thumb{object-fit:cover;object-position:center}
+          .samizdat-list .badge{color:rgba(50,38,24,.72);border-color:rgba(120,94,60,.16);background:rgba(120,94,60,.06)}
+          .samizdat-list .btn.secondary{color:#2b2118!important;border-color:rgba(72,54,36,.22);background:rgba(255,255,255,.10);backdrop-filter:blur(4px);-webkit-backdrop-filter:blur(4px)}
+          .samizdat-list .btn.secondary:hover{color:#2b2118!important;border-color:rgba(72,54,36,.30);background:rgba(255,255,255,.22)}'''
+
+          norm = lambda s: re.sub(r'\s+', '', s)
+          allowed = {norm(common), norm(ru)}
+
+          for lang in langs:
+              p = Path(lang) / 'books' / 'index.html'
+              text = p.read_text(encoding='utf-8')
+              styles = re.findall(r'<style>(.*?)</style>', text, flags=re.S)
+              assert len(styles) == 1, f'{p}: expected exactly one local style block, got {len(styles)}'
+              assert norm(styles[0]) in allowed, f'{p}: unexpected local CSS; aborting migration'
+              assert text.count('books-samizdat.css') == 1, f'{p}: expected one books-samizdat.css link'
+              assert text.count('books.css') == 1, f'{p}: expected one books.css link'
+
+              text = re.sub(r'<style>.*?</style>\s*', '', text, count=1, flags=re.S)
+              text = re.sub(r'<link rel="stylesheet" href="\.\./\.\./assets/books-samizdat\.css\?v=[^"]+">\s*', '', text, count=1)
+              text = re.sub(r'books\.css\?v=[^"]+', 'books.css?v=20260813-1', text, count=1)
+
+              assert '<style' not in text, f'{p}: local style remained'
+              assert 'books-samizdat.css' not in text, f'{p}: secondary page-type stylesheet remained'
+              assert text.count('rel="stylesheet"') == 1, f'{p}: expected exactly one stylesheet after migration'
+              assert 'books.css?v=20260813-1' in text, f'{p}: shared stylesheet version not set'
+              p.write_text(text, encoding='utf-8')
+
+          css_path = Path('assets/books.css')
+          css = css_path.read_text(encoding='utf-8')
+          old_quiet = '''/* Samizdat CTA: intentionally quieter than the edition-system badge. */
+          .page.books-page .samizdat-list .books-card-cta .btn.secondary{
+            color:#382b1f !important;
+            border-color:rgba(72,54,36,.16) !important;
+            background:rgba(47,36,24,.055) !important;
+            opacity:.82;
+          }
+
+          .page.books-page .samizdat-list .books-card-cta .btn.secondary:hover{
+            color:#2b2118 !important;
+            border-color:rgba(72,54,36,.22) !important;
+            background:rgba(47,36,24,.095) !important;
+            opacity:.94;
+          }
+
+          '''
+          assert old_quiet in css, 'Expected current quiet samizdat CTA block not found'
+          css = css.replace(old_quiet, '', 1)
+
+          shared = '''/* Books index page-type refinements: shared by all language mirrors. */
+          .item .books-card-cta .btn{
+            font-size:12px;
+            line-height:1.2;
+            padding:8px 12px;
+            border-radius:12px;
+            font-weight:700;
+          }
+
+          .demotopia-thumb{
+            object-fit:cover;
+            object-position:center top;
+          }
+
+          .samizdat-list{
+            border-color:rgba(120,94,60,.18);
+            background:rgba(233,223,201,.82);
+            box-shadow:0 16px 34px rgba(0,0,0,.22);
+            backdrop-filter:blur(6px);
+            -webkit-backdrop-filter:blur(6px);
+            text-shadow:none;
+          }
+          .samizdat-list .list-header{border-bottom-color:rgba(120,94,60,.14)}
+          .samizdat-list .list-header h2,
+          .samizdat-list .item a{color:#2f2418}
+          .samizdat-list .list-header .note,
+          .samizdat-list .item .meta{color:rgba(50,38,24,.72)}
+          .samizdat-list .item{border-top-color:rgba(120,94,60,.12)}
+          .samizdat-list .thumb{border-color:rgba(120,94,60,.16);background:rgba(216,204,181,.54)}
+          .samizdat-list .samizdat-thumb{object-fit:cover;object-position:center}
+          .samizdat-list .badge{color:rgba(50,38,24,.72);border-color:rgba(120,94,60,.16);background:rgba(120,94,60,.06)}
+          .samizdat-list .btn.secondary{
+            color:#2b2118!important;
+            border-color:rgba(72,54,36,.22);
+            background:rgba(255,255,255,.10);
+            backdrop-filter:blur(4px);
+            -webkit-backdrop-filter:blur(4px);
+          }
+          .samizdat-list .btn.secondary:hover{
+            color:#2b2118!important;
+            border-color:rgba(72,54,36,.30);
+            background:rgba(255,255,255,.22);
+          }
+
+          /* Intentionally quieter than the edition-system badge. */
+          .page.books-page .samizdat-list .books-card-cta .btn.secondary{
+            color:#382b1f !important;
+            border-color:rgba(72,54,36,.16) !important;
+            background:rgba(47,36,24,.055) !important;
+            opacity:.82;
+          }
+          .page.books-page .samizdat-list .books-card-cta .btn.secondary:hover{
+            color:#2b2118 !important;
+            border-color:rgba(72,54,36,.22) !important;
+            background:rgba(47,36,24,.095) !important;
+            opacity:.94;
+          }
+
+          '''
+          marker = '/* Seal */\n'
+          assert marker in css, 'Seal marker not found in books.css'
+          css = css.replace(marker, shared + marker, 1)
+          css_path.write_text(css, encoding='utf-8')
+
+          extra = Path('assets/books-samizdat.css')
+          assert extra.exists(), 'books-samizdat.css missing before consolidation'
+          extra.unlink()
+
+          # Final architecture assertions.
+          for lang in langs:
+              text = (Path(lang) / 'books' / 'index.html').read_text(encoding='utf-8')
+              assert '<style' not in text
+              assert 'books-samizdat.css' not in text
+              assert text.count('rel="stylesheet"') == 1
+              assert 'books.css?v=20260813-1' in text
+          assert not Path('assets/books-samizdat.css').exists()
+          PY
+
+          rm .github/workflows/migrate-books-one-css.yml
+          git config user.name "Ashraellen"
+          git config user.email "ashraellen@gmail.com"
+          git add -A
+          git diff --cached --check
+          git commit -m "Unify books indexes under one shared CSS"
+          git push origin HEAD:agent/books-one-css
