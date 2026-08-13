@@ -1,0 +1,44 @@
+/* Ashraellen — design tokens
+   Single source of truth for the typographic scale and shared surface colors.
+   Migrated page-type CSS files must @import this as their first line:
+       @import url("tokens.css");
+   Do not redefine these values locally. If a genuinely new size or role is needed,
+   extend the scale here so it remains a shared decision rather than a page-local one.
+
+   Content roles are always font-size + line-height pairs. Running copy should remain
+   calm and readable; 13px is retired from the content scale. */
+
+:root{
+  /* shared surface colors */
+  --bg:#0b0b0d;
+  --fg:#f2f2f4;
+  --muted:#a9a9b2;
+  --line:#2a2a33;
+
+  /* content roles — editorial canon, fixed 2026-08 */
+  --fs-kicker:   12px;
+  --lh-kicker:   1.35;
+
+  --fs-body:     14px;
+  --lh-body:     1.45;
+
+  --fs-lead:     16px;
+  --lh-lead:     1.45;
+
+  --fs-emphasis: 18px;
+  --lh-emphasis: 1.425;
+
+  --fs-accent:   20px;
+  --lh-accent:   1.4;
+
+  /* structural/chrome sizes — outside the five narrative roles */
+  --fs-h2:        22px;
+  --fs-h1-static: 28px;
+  --fs-fine:      11px;
+
+  /* fluid display scale for hero headings */
+  --fs-display-sm: clamp(28px, 5vw, 40px);
+  --fs-display-md: clamp(34px, 8vw, 58px);
+  --fs-display-lg: clamp(42px, 8vw, 92px);
+  --fs-display-xl: clamp(96px, 22vw, 210px);
+}
