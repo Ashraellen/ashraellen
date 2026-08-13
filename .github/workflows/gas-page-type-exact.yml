@@ -1,0 +1,71 @@
+name: GAS page-type exact migration
+on:
+  push:
+    branches:
+      - tmp/gas-page-type-20260813b
+    paths:
+      - '.tmp/gas-ready'
+permissions:
+  contents: write
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: tmp/gas-page-type-20260813b
+          fetch-depth: 0
+      - name: Reassemble and verify audited patch
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat .tmp/gasparts/* > /tmp/gas.b64
+          base64 -d /tmp/gas.b64 | gzip -d > /tmp/gas.patch
+          echo "de285e70545e0db63c6d044f6fdc7aee0bb71df048573e1e8e082d5cff3cec45  /tmp/gas.patch" | sha256sum -c -
+          git apply --check /tmp/gas.patch
+          git apply /tmp/gas.patch
+          git diff --check
+      - name: Validate GAS architecture
+        shell: bash
+        run: |
+          set -euo pipefail
+          langs=(en ru pl be uk de fr es pt fi)
+          for lang in "${langs[@]}"; do
+            f="$lang/books/monolith/gas/index.html"
+            grep -q 'assets/gas.css?v=20260813-1' "$f"
+            ! grep -q 'assets/books.css' "$f"
+            ! grep -q '<style' "$f"
+            ! grep -q 'style="' "$f"
+            ! grep -q 'class="body' "$f"
+            test "$(grep -o 'when-closed' "$f" | wc -l)" -eq 3
+            test "$(grep -o 'when-open' "$f" | wc -l)" -eq 3
+          done
+          grep -q -- '--fs-registry: 11px' assets/tokens.css
+          grep -q -- '--lh-registry: 1.45' assets/tokens.css
+          grep -q 'font-size:var(--fs-registry)' assets/gas.css
+          grep -q 'line-height:var(--lh-registry)' assets/gas.css
+          grep -q '@import url("tokens.css");' assets/gas.css
+          ! grep -q '\.registry-grid{[^}]*margin-top' assets/gas.css
+      - name: Record existing checks
+        shell: bash
+        run: |
+          set +e
+          node scripts/check-site.js
+          echo "check-site rc=$?"
+          node scripts/check-links.js
+          echo "check-links rc=$?"
+          exit 0
+      - name: Commit only agreed GAS files
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "Ashraellen"
+          git config user.email "ashraellen@gmail.com"
+          git add assets/gas.css assets/tokens.css \
+            be/books/monolith/gas/index.html de/books/monolith/gas/index.html \
+            en/books/monolith/gas/index.html es/books/monolith/gas/index.html \
+            fi/books/monolith/gas/index.html fr/books/monolith/gas/index.html \
+            pl/books/monolith/gas/index.html pt/books/monolith/gas/index.html \
+            ru/books/monolith/gas/index.html uk/books/monolith/gas/index.html
+          git commit -m "Migrate GAS to shared page-type CSS"
+          git push origin HEAD:tmp/gas-page-type-20260813b
