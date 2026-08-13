@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-13T18:47:15.254Z
+Generated: 2026-08-13T18:47:57.268Z
 Pages: 846
 
 ## Index
@@ -548,7 +548,7 @@ Pages: 846
 | pt/books/error-404-god-not-found/why-me/index.html | pt | books | Ashraellen — Por que eu? | _missing_ | por, que, livro, ashraellen, books, deus, não, sobre, 404, alma, burocracia, camadas, celestial, chancelaria, ciclo, com, como, depois |
 | pt/books/index.html | pt | books | Ashraellen — Livros | Ashraellen, livros, Demotopia, Utopia Democrática, MONOLITH, RADIANCE, ERROR 404, SECCUS, Você já está online, The Book of Whinesis, samizdat 2.0, edições de autor | livros, ashraellen, autor, diretas, edições, books, livro, sátira, 2.0, 404, abrir, book, ciclo, ciclos, demotopia, error, está, found |
 | pt/books/monolith/beton/index.html | pt | books | Ashraellen — BETÃO | Ashraellen, MONÓLITO, BETÃO, dystopia, literature, artistic research | betão, ashraellen, books, estabilidade, livro, memória, para, sobre, uma, anton, artístico-investigativa, beton, com, como, dentro, distopia, dossiê, editada |
-| pt/books/monolith/gas/index.html | pt | books | Ashraellen — GÁS | Ashraellen, MONÓLITO, GÁS, terceiro volume, Vitória, poder, controlo, memória, localização, meio, sinal, distopia | gás, ashraellen, books, fonte, meio, objeto, portador, sobre, trilogia, artístico-investigativa, capítulo, controlo, depois, dossiê, entre, estado, fragmento, fronteira |
+| pt/books/monolith/gas/index.html | pt | books | Ashraellen — GÁS | Ashraellen, MONÓLITO, GÁS, terceiro volume, Vitória, poder, controlo, memória, localização, meio, sinal, distopia | gás, ashraellen, books, fonte, meio, objeto, sem, sobre, artístico-investigativa, autor, capítulo, controlo, depois, dossiê, entre, estado, fragmento, fronteira |
 | pt/books/monolith/index.html | pt | books | Ashraellen — MONÓLITO | Ashraellen, MONÓLITO, BETÃO, LAMA, GÁS, dystopia, literature, artistic research | monólito, que, ashraellen, betão, books, colapso, controlo, gás, lama, memória, não, uma, artístico-investigativa, como, confundido, deve, distópica, dos |
 | pt/books/monolith/sludge/index.html | pt | books | Ashraellen — LAMA | Ashraellen, MONÓLITO, LAMA, dystopia, literature, artistic research | lama, ashraellen, books, para, sobre, uma, adam, artístico-investigativa, autor, com, como, cumplicidade, distopia, dossiê, era, estrutura, exaurida, filosófica |
 | pt/books/radiance/index.html | pt | books | Ashraellen — Esplendor \| Contos do norte sobre a história real do mundo | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | esplendor, instruções, mundo, para, que, sobre, ashraellen, books, ciclo, como, não, pesquisa, antigas, artística, artístico, confundir, contos, este |
@@ -10061,14 +10061,14 @@ Excerpt:
 - description: GÁS — terceiro e último volume da trilogia MONÓLITO: um romance sobre poder, controlo total e a perda da fronteira entre fonte, portador e meio.
 - canonical: https://www.ashraellen.com/pt/books/monolith/gas/
 - H1: GÁS
-- H2: Dossiê | Fragmento selecionado | Sobre o livro | Estado do objeto | Moldura artístico-investigativa | Temas / nós de sentido | Registo de sentidos | Lugar na trilogia
+- H2: Dossiê | Fragmento selecionado | Sobre o livro | Estado do objeto | Do autor | Sem spoilers | Moldura artístico-investigativa | Temas / nós de sentido
 - H3: Perda de localização | Fonte | Portador | Observador | Memória | Difusão | Capítulo 1. Inventário das Sombras | Capítulo 2. Costuras do Rosto
-- suggested keyword seed: gás, ashraellen, books, fonte, meio, objeto, portador, sobre, trilogia, artístico-investigativa, capítulo, controlo, depois, dossiê, entre, estado, fragmento, fronteira
-- candidates: não, que, uma, meio, capítulo, objeto, gás, depois, sem, para, portador, fonte, com, monólito, própria, sensor, volume, exterior, observador, sobre, ser, sinal, circuito, começa
+- suggested keyword seed: gás, ashraellen, books, fonte, meio, objeto, sem, sobre, artístico-investigativa, autor, capítulo, controlo, depois, dossiê, entre, estado, fragmento, fronteira
+- candidates: não, que, uma, meio, capítulo, gás, objeto, para, sem, depois, fonte, observador, portador, volume, com, monólito, própria, como, mas, sensor, sobre, exterior, sinal, sua
 
 Excerpt:
 
-> GÁS O terceiro volume de MONÓLITO começa onde o sistema ainda conserva a forma, mas já perde o direito de se considerar a única fonte do que acontece. GÁS transforma a investigação de Vitória numa prova da própria fronteira entre poder, memória, observação e meio. Dossiê Volume III O gás raramente é detetado no momento da penetração. Regra geral, a sua presença só se torna percetível depois de já se ter distribuído pelo meio. PROTOCOLO DE IDENTIFICAÇÃO DO OBJETO N.º 2026-001B OBJETO: TRANSCRIÇÃO «GÁS» (VERSÃO INTEGRAL) ARQUITETO: ASHRAELLEN IDENTIFICADOR: 2026-001B-GAS INTEGRIDADE: 100% (SEM EDIÇÃO EXTERNA) Ler a edição inglesa no Google Play Books Ler a edição inglesa na Amazon Voltar ao MONÓLITO Abrir o protocolo completo DEPARTAMENTO DOS SENTIDOS SETOR SUPERIOR DIREÇÃO DE CONTROLO DA DIFUSÃO PROTOCOLO DE IDENTIFICAÇÃO DO OBJETO N.º 2026-001B OBJETO: TRANSCRIÇÃO «GÁS» (VERSÃO INTEGRAL)
+> GÁS O terceiro volume de MONÓLITO começa onde o sistema ainda conserva a forma, mas já perde o direito de se considerar a única fonte do que acontece. GÁS transforma a investigação de Vitória numa prova da própria fronteira entre poder, memória, observação e meio. Dossiê Volume III O gás raramente é detetado no momento da penetração. Regra geral, a sua presença só se torna percetível depois de já se ter distribuído pelo meio. PROTOCOLO DE IDENTIFICAÇÃO DO OBJETO N.º 2026-001B OBJETO: TRANSCRIÇÃO «GÁS» (VERSÃO INTEGRAL) ARQUITETO: ASHRAELLEN IDENTIFICADOR: 2026-001B-GAS INTEGRIDADE: 100% (SEM EDIÇÃO EXTERNA) Ler a edição inglesa no Google Play Books Ler a edição inglesa na Amazon Voltar ao MONÓLITO Abrir o protocolo completo Fechar o protocolo completo DEPARTAMENTO DOS SENTIDOS SETOR SUPERIOR DIREÇÃO DE CONTROLO DA DIFUSÃO PROTOCOLO DE IDENTIFICAÇÃO DO OBJETO N.º 2026-001B OBJETO: TRANSCR
 
 ### pt/books/monolith/index.html
 
