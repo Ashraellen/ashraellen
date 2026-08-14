@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-14T15:26:43.678Z",
+  "generated": "2026-08-14T15:41:54.126Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -4642,7 +4642,7 @@
       "section": "research",
       "title": "Ashraellen — Архіў даследавання",
       "description": "Архіў даследчых матэрыялаў Ashraellen: завершаныя версіі, ранейшыя пласты, сляды шляху і матэрыялы, якія больш не знаходзяцца ў жывой працы.",
-      "existingKeywords": "ashraellen, research, archive, архіў, даследавання, даследчых, матэрыялаў, завершаныя, версіі, ранейшыя, пласты, сляды, шляху, матэрыялы, якія, больш, знаходзяцца, жывой",
+      "existingKeywords": "Ashraellen, архіў даследавання, даследчыя матэрыялы, версіі, пласты даследавання, мастацкае даследаванне",
       "canonical": "https://www.ashraellen.com/be/research/archive/",
       "h1": [
         "Архіў"
@@ -9783,14 +9783,14 @@
       "lang": "de",
       "section": "research",
       "title": "Ashraellen — Forschungsarchiv",
-      "description": "Archiv der Forschungsmaterialien von Ashraellen: abgeschlossene Versionen, frühere Schichten, Spuren des Weges und Materialien, die nicht mehr in lebendiger Arbeit sind.",
-      "existingKeywords": "ashraellen, research, archive, forschungsarchiv, archiv, der, forschungsmaterialien, von, abgeschlossene, versionen, frühere, schichten, spuren, des, weges, und, materialien, die",
+      "description": "Archiv der Forschungsmaterialien von Ashraellen: abgeschlossene Versionen, frühere Schichten, Spuren des Weges und Materialien außerhalb des lebendigen Arbeitsprozesses.",
+      "existingKeywords": "Ashraellen, Forschungsarchiv, Forschungsmaterialien, Versionen, Forschungsschichten, künstlerische Forschung",
       "canonical": "https://www.ashraellen.com/de/research/archive/",
       "h1": [
         "Archiv"
       ],
       "h2": [
-        "Die Forschung bewegt sich noch"
+        "Die Forschung ist noch in Bewegung"
       ],
       "h3": [],
       "slugTerms": [
@@ -9798,50 +9798,50 @@
         "research",
         "archive"
       ],
-      "excerpt": "Archiv Das Archiv ist kein Lager alter Materialien und kein Friedhof misslungener Versuche. Es ist ein Ort für abgeschlossene Schichten: Versionen, Spuren, Materialien und Formulierungen, die nicht mehr in lebendiger Arbeit sind, aber als Teil des Weges Bedeutung behalten. noch leer Die Forschung bewegt sich noch Die Projekte, Texte und Beobachtungen von Ashraellen befinden sich derzeit in einem lebendigen Prozess. Sie verändern sich, werden präziser, gehen von Beiträgen in Videos, von Videos in Bücher und von Büchern zurück in neue Formeln und Fragen. Deshalb ist es noch zu früh für das Archiv. Was noch atmet, sollte nicht in einen Glasschrank gesperrt werden. Es soll zuerst aussprechen. Wenn eine Forschungsschicht abgeschlossen und der Bewahrung würdig ist, wird sie hier leben. — mark of presence",
+      "excerpt": "Archiv Das Archiv ist keine Müllhalde für altes Material und kein Friedhof misslungener Versuche. Es ist ein Ort für abgeschlossene Schichten: Versionen, Spuren, Materialien und Formulierungen, die nicht mehr in lebendiger Arbeit sind, aber als Teil des Weges Bedeutung behalten. noch leer Die Forschung ist noch in Bewegung Die Projekte, Texte und Beobachtungen von Ashraellen befinden sich derzeit in einem lebendigen Prozess. Sie verändern sich, werden präziser, gehen von Beiträgen in Videos, von Videos in Bücher und von Büchern zurück in neue Formeln und Fragen. Deshalb ist es noch zu früh für das Archiv. Was noch atmet, sollte nicht in einen Glasschrank gesperrt werden. Es soll zuerst aussprechen. Wenn eine Forschungsschicht abgeschlossen und der Bewahrung würdig ist, wird sie hier leben. — mark of presence",
       "candidates": [
         "und",
+        "ist",
         "von",
         "archiv",
-        "die",
-        "ist",
         "noch",
         "ashraellen",
-        "materialien",
-        "nicht",
-        "sich",
+        "des",
+        "die",
+        "für",
         "abgeschlossene",
-        "arbeit",
         "das",
         "der",
-        "des",
-        "für",
-        "kein",
-        "lebendiger",
-        "mehr",
+        "lebendigen",
+        "materialien",
+        "nicht",
         "schichten",
+        "sich",
         "sie",
-        "sind",
         "spuren",
-        "versionen"
+        "versionen",
+        "videos",
+        "weges",
+        "werden",
+        "aber"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",
         "archiv",
-        "die",
+        "des",
         "abgeschlossene",
-        "arbeit",
-        "materialien",
-        "nicht",
+        "der",
+        "die",
+        "ist",
         "noch",
         "research",
-        "sich",
         "und",
         "von",
+        "arbeitsprozesses",
         "archive",
-        "bewegt",
-        "der",
-        "des",
+        "außerhalb",
+        "bewegung",
+        "das",
         "forschung",
         "forschungsarchiv"
       ]
@@ -15781,7 +15781,7 @@
       "section": "research",
       "title": "Ashraellen — Research Archive",
       "description": "Archive of Ashraellen research materials: completed versions, earlier layers, traces of the path, and materials no longer in active work.",
-      "existingKeywords": "ashraellen, research, archive, materials, completed, versions, earlier, layers, traces, path, longer, active, work, still, moving, doctype, html, title",
+      "existingKeywords": "Ashraellen, research archive, research materials, versions, research layers, artistic research",
       "canonical": "https://www.ashraellen.com/en/research/archive/",
       "h1": [
         "Archive"
@@ -15795,7 +15795,7 @@
         "research",
         "archive"
       ],
-      "excerpt": "Archive The archive is not a dump of old material and not a cemetery of failed attempts. It is a place for completed layers: versions, traces, materials, and formulations that are no longer in active work but remain meaningful as part of the path. empty for now The research is still moving At the moment, Ashraellen projects, texts, and observations are still in a living process. They are changing, being refined, moving from posts into videos, from videos into books, from books back into new formulas and questions. That is why it is too early for them to enter the archive. What still breathes should not be locked in a glass cabinet. Let it speak first. When a layer of research is complete and worthy of preservation, it will live here. — mark of presence",
+      "excerpt": "Archive The archive is neither a dumping ground for old material nor a cemetery of failed attempts. It is a place for completed layers: versions, traces, materials, and formulations that are no longer in active work but remain meaningful as part of the path. empty for now The research is still moving At the moment, Ashraellen projects, texts, and observations are still in a living process. They are changing, being refined, moving from posts into videos, from videos into books, from books back into new formulas and questions. That is why it is too early for them to enter the archive. What still breathes should not be locked in a glass cabinet. Let it finish speaking first. When a layer of research is complete and worthy of preservation, it will live here. — mark of presence",
       "candidates": [
         "archive",
         "research",
@@ -20908,8 +20908,8 @@
       "lang": "es",
       "section": "research",
       "title": "Ashraellen — Archivo de investigación",
-      "description": "Archivo de materiales de investigación de Ashraellen: versiones concluidas, capas anteriores, rastros del camino y materiales que ya no están en trabajo vivo.",
-      "existingKeywords": "ashraellen, research, archive, archivo, investigación, materiales, versiones, concluidas, capas, anteriores, rastros, del, camino, que, están, trabajo, vivo, sigue",
+      "description": "Archivo de materiales de investigación de Ashraellen: versiones concluidas, capas anteriores, rastros del camino y materiales que ya no forman parte del proceso vivo.",
+      "existingKeywords": "Ashraellen, archivo de investigación, materiales de investigación, versiones, capas de investigación, investigación artística",
       "canonical": "https://www.ashraellen.com/es/research/archive/",
       "h1": [
         "Archivo"
@@ -20923,30 +20923,30 @@
         "research",
         "archive"
       ],
-      "excerpt": "Archivo El archivo no es un almacén de material viejo ni un cementerio de intentos fallidos. Es un lugar para capas concluidas: versiones, rastros, materiales y formulaciones que ya no están en trabajo vivo, pero conservan valor como parte del camino. vacío por ahora La investigación sigue en movimiento Los proyectos, textos y observaciones de Ashraellen están todavía en un proceso vivo. Cambian, se precisan, pasan de publicaciones a videos, de videos a libros, y de libros otra vez a nuevas fórmulas y preguntas. Por eso todavía es temprano para enviarlos al archivo. Lo que aún respira no debería encerrarse en una vitrina. Que hable primero. Cuando una capa de investigación esté completa y sea digna de conservarse, vivirá aquí. — mark of presence",
+      "excerpt": "Archivo El archivo no es un vertedero de material viejo ni un cementerio de intentos fallidos. Es un lugar para capas concluidas: versiones, rastros, materiales y formulaciones que ya no están en trabajo vivo, pero conservan valor como parte del camino. vacío por ahora La investigación sigue en movimiento Los proyectos, textos y observaciones de Ashraellen están todavía en un proceso vivo. Cambian, se precisan, pasan de publicaciones a videos, de videos a libros, y de libros otra vez a nuevas fórmulas y preguntas. Por eso todavía es temprano para enviarlos al archivo. Lo que aún respira no debería encerrarse en una vitrina. Que termine de hablar primero. Cuando una capa de investigación esté completa y sea digna de conservarse, vivirá aquí. — mark of presence",
       "candidates": [
         "archivo",
         "investigación",
         "que",
         "ashraellen",
-        "están",
+        "del",
         "materiales",
         "vivo",
         "camino",
         "capas",
         "concluidas",
-        "del",
+        "están",
         "libros",
         "para",
+        "parte",
         "por",
+        "proceso",
         "rastros",
         "todavía",
-        "trabajo",
         "una",
         "versiones",
         "videos",
         "ahora",
-        "almacén",
         "anteriores",
         "aquí"
       ],
@@ -20954,21 +20954,21 @@
         "archivo",
         "ashraellen",
         "investigación",
+        "del",
         "materiales",
         "camino",
         "capas",
         "concluidas",
-        "del",
-        "están",
         "que",
         "research",
         "vivo",
         "anteriores",
         "archive",
+        "están",
+        "forman",
         "libros",
         "movimiento",
-        "rastros",
-        "sigue"
+        "parte"
       ]
     },
     {
@@ -26006,7 +26006,7 @@
       "section": "research",
       "title": "Ashraellen — Tutkimusarkisto",
       "description": "Ashraellenin tutkimusarkisto: päättyneet versiot, aiemmat kerrokset, reitin jäljet ja aineistot, jotka eivät enää ole aktiivisessa työssä.",
-      "existingKeywords": "Ashraellen, tutkimusarkisto, taiteellinen tutkimus, tutkimus, arkisto",
+      "existingKeywords": "Ashraellen, tutkimusarkisto, tutkimusaineistot, versiot, tutkimuskerrokset, taiteellinen tutkimus",
       "canonical": "https://www.ashraellen.com/fi/research/archive/",
       "h1": [
         "Arkisto"
@@ -26020,7 +26020,7 @@
         "research",
         "archive"
       ],
-      "excerpt": "Arkisto Arkisto ei ole vanhan materiaalin kaatopaikka eikä epäonnistuneiden yritysten hautausmaa. Se on valmiiden kerrosten paikka: versioille, jäljille, aineistoille ja muotoiluille, jotka eivät enää ole aktiivisessa työssä mutta säilyvät merkityksellisinä osina kuljettua reittiä. toistaiseksi tyhjä Tutkimus on yhä liikkeessä Tällä hetkellä Ashraellenin projektit, tekstit ja havainnot ovat edelleen elävässä prosessissa. Ne muuttuvat, tarkentuvat, siirtyvät julkaisuista videoihin, videoista kirjoihin ja kirjoista takaisin uusiin kaavoihin ja kysymyksiin. Siksi on liian aikaista siirtää niitä arkistoon. Sitä, mikä vielä hengittää, ei pidä sulkea lasikaappiin. Antaa sen ensin puhua. Kun tutkimuksen kerros on päättynyt ja säilyttämisen arvoinen, se saa paikkansa täällä. — mark of presence",
+      "excerpt": "Arkisto Arkisto ei ole vanhan materiaalin kaatopaikka eikä epäonnistuneiden yritysten hautausmaa. Se on valmiiden kerrosten paikka: versioille, jäljille, aineistoille ja muotoiluille, jotka eivät enää ole aktiivisessa työssä mutta säilyvät merkityksellisinä osina kuljettua reittiä. toistaiseksi tyhjä Tutkimus on yhä liikkeessä Tällä hetkellä Ashraellenin projektit, tekstit ja havainnot ovat edelleen elävässä prosessissa. Ne muuttuvat, tarkentuvat, siirtyvät julkaisuista videoihin, videoista kirjoihin ja kirjoista takaisin uusiin kaavoihin ja kysymyksiin. Siksi on liian aikaista siirtää niitä arkistoon. Sitä, mikä vielä hengittää, ei pidä sulkea lasikaappiin. Antaa sen ensin puhua loppuun. Kun tutkimuksen kerros on päättynyt ja säilyttämisen arvoinen, se jää elämään tänne. — mark of presence",
       "candidates": [
         "ole",
         "aktiivisessa",
@@ -26041,11 +26041,11 @@
         "ashraellen",
         "edelleen",
         "eikä",
+        "elämään",
         "elävässä",
         "ensin",
         "epäonnistuneiden",
-        "hautausmaa",
-        "havainnot"
+        "hautausmaa"
       ],
       "suggestedKeywordSeed": [
         "tutkimusarkisto",
@@ -31412,8 +31412,8 @@
       "lang": "fr",
       "section": "research",
       "title": "Ashraellen — Archive de recherche",
-      "description": "Archive des materiaux de recherche Ashraellen: versions achevees, couches anterieures, traces du chemin et materiaux qui ne sont plus dans le travail vivant.",
-      "existingKeywords": "ashraellen, research, archive, recherche, des, materiaux, versions, achevees, couches, anterieures, traces, chemin, qui, sont, plus, dans, travail, vivant",
+      "description": "Archive des matériaux de recherche d’Ashraellen : versions achevées, couches antérieures, traces du chemin et matériaux qui ne font plus partie du processus vivant.",
+      "existingKeywords": "Ashraellen, archive de recherche, matériaux de recherche, versions, couches de recherche, recherche artistique",
       "canonical": "https://www.ashraellen.com/fr/research/archive/",
       "h1": [
         "Archive"
@@ -31427,52 +31427,52 @@
         "research",
         "archive"
       ],
-      "excerpt": "Archive L archive n est pas un depot de vieux materiaux ni un cimetiere de tentatives ratees. C est un lieu pour les couches achevees: versions, traces, materiaux et formulations qui ne sont plus dans le travail vivant, mais gardent leur sens comme partie du chemin. vide pour l instant La recherche est encore en mouvement Les projets, textes et observations d Ashraellen sont encore dans un processus vivant. Ils changent, se precisent, passent des publications aux videos, des videos aux livres, puis des livres vers de nouvelles formules et questions. C est pourquoi il est encore trop tot pour les placer dans l archive. Ce qui respire encore ne doit pas etre enferme dans une vitrine. Qu il parle d abord. Lorsqu une couche de recherche sera achevee et digne d etre conservee, elle vivra ici. — mark of presence",
+      "excerpt": "Archive L’archive n’est ni un dépotoir de vieux matériaux ni un cimetière de tentatives ratées. C’est un lieu pour les couches achevées : versions, traces, matériaux et formulations qui ne font plus partie du processus vivant, mais gardent leur sens comme éléments du chemin. vide pour l’instant La recherche est encore en mouvement Les projets, textes et observations d’Ashraellen sont encore dans un processus vivant. Ils changent, se précisent, passent des publications aux vidéos, des vidéos aux livres, puis des livres vers de nouvelles formules et questions. C’est pourquoi il est encore trop tôt pour les placer dans l’archive. Ce qui respire encore ne doit pas être enfermé dans une vitrine. Qu’il finisse d’abord de parler. Lorsqu’une couche de recherche sera achevée et digne d’être conservée, elle vivra ici. — mark of presence",
       "candidates": [
-        "archive",
-        "dans",
-        "est",
         "des",
         "encore",
-        "materiaux",
+        "matériaux",
         "recherche",
-        "ashraellen",
+        "archive",
+        "dans",
         "les",
         "pour",
+        "processus",
         "qui",
-        "sont",
         "vivant",
-        "achevees",
+        "achevées",
         "aux",
+        "c’est",
         "chemin",
         "couches",
-        "etre",
+        "d’ashraellen",
+        "est",
+        "font",
+        "l’archive",
         "livres",
-        "pas",
+        "partie",
         "plus",
-        "traces",
-        "travail",
-        "une"
+        "traces"
       ],
       "suggestedKeywordSeed": [
         "archive",
-        "ashraellen",
         "recherche",
-        "materiaux",
-        "dans",
+        "matériaux",
+        "achevées",
+        "ashraellen",
         "des",
         "encore",
-        "est",
+        "processus",
         "qui",
         "research",
-        "sont",
-        "achevees",
-        "anterieures",
+        "vivant",
+        "antérieures",
         "chemin",
         "couches",
-        "les",
-        "mouvement",
-        "plus"
+        "d’ashraellen",
+        "dans",
+        "est",
+        "font"
       ]
     },
     {
@@ -39150,14 +39150,14 @@
       "lang": "pl",
       "section": "research",
       "title": "Ashraellen — Archiwum badań",
-      "description": "Archiwum materiałów badawczych Ashraellen: zakończone wersje, wcześniejsze warstwy, ślady drogi i materiały, które nie są już w żywej pracy.",
-      "existingKeywords": "ashraellen, research, archive, archiwum, badań, materiałów, badawczych, zakończone, wersje, wcześniejsze, warstwy, ślady, drogi, materiały, które, nie, już, żywej",
+      "description": "Archiwum materiałów badawczych Ashraellen: ukończone wersje, wcześniejsze warstwy, ślady drogi i materiały, które wyszły już z żywego procesu.",
+      "existingKeywords": "Ashraellen, archiwum badań, materiały badawcze, wersje, warstwy badania, badanie artystyczne",
       "canonical": "https://www.ashraellen.com/pl/research/archive/",
       "h1": [
         "Archiwum"
       ],
       "h2": [
-        "Badanie nadal się porusza"
+        "Badanie pozostaje w ruchu"
       ],
       "h3": [],
       "slugTerms": [
@@ -39165,18 +39165,16 @@
         "research",
         "archive"
       ],
-      "excerpt": "Archiwum Archiwum nie jest magazynem starego materiału ani cmentarzem nieudanych prób. To miejsce dla zakończonych warstw: wersji, śladów, materiałów i formuł, które nie są już w żywej pracy, ale zachowują znaczenie jako część drogi. na razie puste Badanie nadal się porusza Projekty, teksty i obserwacje Ashraellen pozostają obecnie w żywym procesie. Zmieniają się, doprecyzowują, przechodzą z postów w filmy, z filmów w książki, z książek znów w nowe formuły i pytania. Dlatego jest jeszcze za wcześnie, aby trafiały do archiwum. Tego, co oddycha, nie zamyka się w szklanej gablocie. Niech najpierw dopowie. Kiedy któraś warstwa badania zostanie zakończona i będzie warta zachowania, zamieszka tutaj. — mark of presence",
+      "excerpt": "Archiwum Archiwum nie jest wysypiskiem starych materiałów ani cmentarzem nieudanych prób. To miejsce dla zakończonych warstw: wersji, śladów, materiałów i formuł, które nie są już w żywej pracy, ale zachowują znaczenie jako część drogi. na razie puste Badanie pozostaje w ruchu Projekty, teksty i obserwacje Ashraellen pozostają obecnie w żywym procesie. Zmieniają się, doprecyzowują, przechodzą z postów w filmy, z filmów w książki, z książek znów w nowe formuły i pytania. Dlatego jest jeszcze za wcześnie, aby trafiały do archiwum. Tego, co oddycha, nie zamyka się w szklanej gablocie. Niech najpierw dopowie. Kiedy któraś warstwa badania zostanie zakończona i będzie warta zachowania, zamieszka tutaj. — mark of presence",
       "candidates": [
         "archiwum",
-        "nie",
         "ashraellen",
-        "się",
+        "materiałów",
+        "nie",
         "drogi",
         "już",
         "które",
-        "materiałów",
-        "pracy",
-        "żywej",
+        "się",
         "aby",
         "ale",
         "ani",
@@ -39190,27 +39188,29 @@
         "dlatego",
         "dopowie",
         "doprecyzowują",
-        "filmów"
+        "filmów",
+        "filmy",
+        "formuł"
       ],
       "suggestedKeywordSeed": [
         "archiwum",
         "ashraellen",
+        "badań",
         "drogi",
         "już",
         "które",
         "materiałów",
-        "nie",
-        "pracy",
         "research",
-        "się",
-        "żywej",
         "aby",
         "ale",
+        "ani",
         "archive",
-        "badań",
         "badanie",
         "badawczych",
-        "materiały"
+        "materiały",
+        "nie",
+        "pozostaje",
+        "procesu"
       ]
     },
     {
@@ -44339,8 +44339,8 @@
       "lang": "pt",
       "section": "research",
       "title": "Ashraellen — Arquivo de pesquisa",
-      "description": "Arquivo de materiais de pesquisa de Ashraellen: versões concluídas, camadas anteriores, rastros do caminho e materiais que já não estão em trabalho vivo.",
-      "existingKeywords": "ashraellen, research, archive, arquivo, pesquisa, materiais, versões, concluídas, camadas, anteriores, rastros, caminho, que, não, estão, trabalho, vivo, ainda",
+      "description": "Arquivo de materiais de pesquisa de Ashraellen: versões concluídas, camadas anteriores, rastros do caminho e materiais que já não fazem parte do processo vivo.",
+      "existingKeywords": "Ashraellen, arquivo de pesquisa, materiais de pesquisa, versões, camadas da pesquisa, pesquisa artística",
       "canonical": "https://www.ashraellen.com/pt/research/archive/",
       "h1": [
         "Arquivo"
@@ -44354,32 +44354,32 @@
         "research",
         "archive"
       ],
-      "excerpt": "Arquivo O arquivo não é um depósito de material antigo nem um cemitério de tentativas fracassadas. É um lugar para camadas concluídas: versões, rastros, materiais e formulações que já não estão em trabalho vivo, mas permanecem significativas como parte do caminho. vazio por enquanto A pesquisa ainda está em movimento Os projetos, textos e observações de Ashraellen ainda estão em um processo vivo. Eles mudam, tornam-se mais precisos, passam de publicações para vídeos, de vídeos para livros, e dos livros novamente para novas fórmulas e perguntas. Por isso ainda é cedo para enviá-los ao arquivo. Aquilo que ainda respira não deve ser trancado numa vitrine. Que fale primeiro. Quando uma camada de pesquisa estiver concluída e for digna de preservação, viverá aqui. — mark of presence",
+      "excerpt": "Arquivo O arquivo não é um lixão de materiais antigos nem um cemitério de tentativas fracassadas. É um lugar para camadas concluídas: versões, rastros, materiais e formulações que já não estão em trabalho vivo, mas permanecem significativas como parte do caminho. vazio por enquanto A pesquisa ainda está em movimento Os projetos, textos e observações de Ashraellen ainda estão em um processo vivo. Eles mudam, tornam-se mais precisos, passam de publicações para vídeos, de vídeos para livros, e dos livros novamente para novas fórmulas e perguntas. Por isso ainda é cedo para enviá-los ao arquivo. Aquilo que ainda respira não deve ser trancado numa vitrine. Que termine de falar primeiro. Quando uma camada de pesquisa estiver concluída e for digna de preservação, viverá aqui. — mark of presence",
       "candidates": [
         "arquivo",
         "para",
         "ainda",
+        "materiais",
         "não",
         "pesquisa",
         "que",
         "ashraellen",
-        "estão",
-        "materiais",
         "vivo",
         "camadas",
         "caminho",
         "concluídas",
+        "estão",
         "livros",
+        "parte",
         "por",
+        "processo",
         "rastros",
-        "trabalho",
         "versões",
         "vídeos",
         "anteriores",
-        "antigo",
+        "antigos",
         "aqui",
-        "aquilo",
-        "camada"
+        "aquilo"
       ],
       "suggestedKeywordSeed": [
         "arquivo",
@@ -44389,15 +44389,15 @@
         "ainda",
         "camadas",
         "caminho",
-        "estão",
+        "concluídas",
         "não",
         "que",
         "research",
         "vivo",
         "anteriores",
         "archive",
-        "concluídas",
         "está",
+        "fazem",
         "movimento",
         "para"
       ]
@@ -52371,7 +52371,7 @@
       "section": "research",
       "title": "Ashraellen — Архив исследования",
       "description": "Архив исследовательских материалов Ashraellen: завершённые версии, прежние слои, следы пути и материалы, которые больше не находятся в живой работе.",
-      "existingKeywords": "ashraellen, research, archive, архив, исследования, исследовательских, материалов, завершённые, версии, прежние, слои, следы, пути, материалы, которые, больше, находятся, живой",
+      "existingKeywords": "Ashraellen, архив исследования, исследовательские материалы, версии, слои исследования, художественное исследование",
       "canonical": "https://www.ashraellen.com/ru/research/archive/",
       "h1": [
         "Архив"
@@ -59641,7 +59641,7 @@
       "section": "research",
       "title": "Ashraellen — Архів дослідження",
       "description": "Архів дослідницьких матеріалів Ashraellen: завершені версії, попередні шари, сліди шляху й матеріали, які вже не перебувають у живій роботі.",
-      "existingKeywords": "ashraellen, research, archive, архів, дослідження, дослідницьких, матеріалів, завершені, версії, попередні, шари, сліди, шляху, матеріали, які, вже, перебувають, живій",
+      "existingKeywords": "Ashraellen, архів дослідження, дослідницькі матеріали, версії, шари дослідження, художнє дослідження",
       "canonical": "https://www.ashraellen.com/uk/research/archive/",
       "h1": [
         "Архів"
@@ -59655,7 +59655,7 @@
         "research",
         "archive"
       ],
-      "excerpt": "Архів Архів — це не склад старого матеріалу і не кладовище невдалих спроб. Це місце для завершених шарів: версій, слідів, матеріалів і формулювань, які вже не перебувають у живій роботі, але зберігають значення як частина шляху. поки порожньо Дослідження ще рухається Проєкти, тексти й спостереження Ashraellen зараз перебувають у живому процесі. Вони змінюються, уточнюються, переходять із постів у відео, з відео в книжки, а з книжок — знову в нові формули й питання. Тому їм ще зарано йти в архів. Те, що ще дихає, не варто замикати у скляну шафу. Нехай спершу договорить. Коли якийсь шар дослідження завершиться і стане гідним збереження, він житиме тут. — mark of presence",
+      "excerpt": "Архів Архів — це не звалище старого й не кладовище невдалих спроб. Це місце для завершених шарів: версій, слідів, матеріалів і формулювань, які вже не перебувають у живій роботі, але зберігають значення як частина шляху. поки порожньо Дослідження ще рухається Проєкти, тексти й спостереження Ashraellen зараз перебувають у живому процесі. Вони змінюються, уточнюються, переходять із постів у відео, з відео в книжки, а з книжок — знову в нові формули й питання. Тому їм ще зарано йти в архів. Те, що ще дихає, не варто замикати у скляну шафу. Нехай спершу договорить. Коли якийсь шар дослідження завершиться і стане гідним збереження, він житиме тут. — mark of presence",
       "candidates": [
         "архів",
         "ashraellen",
