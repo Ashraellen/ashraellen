@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-14T00:48:33.047Z",
+  "generated": "2026-08-14T10:26:54.956Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -21711,7 +21711,7 @@
       "section": "books",
       "title": "Ashraellen — BETONI",
       "description": "BETONI on MONOLIITTI-trilogian osa I: filosofinen dystopia kovettuneesta vakaudesta, muokatusta muistista ja järjestelmän ensimmäisestä halkeamasta.",
-      "existingKeywords": "Ashraellen, BETONI, MONOLIITTI, dystopia, muisti, kontrolli",
+      "existingKeywords": "Ashraellen, BETONI, MONOLIITTI, dystopia, kirjallisuus, taiteellinen tutkimus, muisti, kontrolli",
       "canonical": "https://www.ashraellen.com/fi/books/monolith/beton/",
       "h1": [
         "BETONI"
@@ -21720,21 +21720,19 @@
         "Objektiprotokolla",
         "Valittu kirjallinen katkelma",
         "Kirjasta",
-        "Objektin tila",
+        "Ilman juonipaljastuksia",
         "Taiteellis-tutkimuksellinen kehys",
-        "Teemalliset solmut",
-        "Paikka trilogiassa",
-        "Tulkinnan rajat"
+        "Teemat / merkityssolmut",
+        "Kenelle tämä kirja on kirjoitettu",
+        "Paikka trilogiassa"
       ],
       "h3": [
         "Vakaus",
         "Muisti",
-        "Merkitys",
-        "Halkeama",
-        "Mukautuminen",
-        "Kieli",
-        "Järjestys",
-        "Syyllisyys"
+        "Kohina",
+        "Korjaus",
+        "Merkitysten osasto",
+        "Halkeama"
       ],
       "slugTerms": [
         "fi",
@@ -21742,52 +21740,52 @@
         "monolith",
         "beton"
       ],
-      "excerpt": "BETONI BETONI on filosofinen dystopia maailmasta, jossa vakaudesta on tullut vankila, muistia käsitellään uhkana ja ensimmäinen halkeama ilmestyy järjestelmään, joka yhä uskoo olevansa ikuinen. MONOLIITTI-trilogian osa I. Objektiprotokolla Osa I Betoni ei ala seinästä. Se alkaa tavasta kutsua vankilaa vakaudeksi. TAPAUS Nro 2026-001B. Indeksi: 6666548A. TILA: Erittäin salainen. Lue englanninkielinen laitos Google Play Booksissa Lue englanninkielinen laitos Amazonissa Takaisin MONOLIITTIIN Valittu kirjallinen katkelma Luku 9 / § 9.1 Luku 9. ”Ylpeys”-protokolla § 9.1. Paras liima yhteiskunnalle Katkelma paljastaa yhden BETONIN mekanismeista: miten kipu muutetaan iskulauseeksi, syyllisyys yhteiskunnalliseksi liimaksi ja inhimillinen menetys hallittavaksi vakauden kuvaksi. Avaa katkelma Sulje katkelma Aamu Merkitysten osastolla alkoi ”valkoisella koodilla”. Se tarkoitti, että kaikki käynniss",
+      "excerpt": "BETONI BETONI on filosofinen dystopia maailmasta, jossa vakaudesta on tullut vankila, muistia käsitellään uhkana ja ensimmäinen halkeama ilmestyy järjestelmään, joka yhä uskoo olevansa ikuinen. MONOLIITTI-trilogian osa I. Objektiprotokolla Osa I Betoni ei ala seinästä. Se alkaa tavasta kutsua vankilaa vakaudeksi. TAPAUS Nro 2026-001B. Indeksi: 6666548A. TILA: Erittäin salainen. Lue englanninkielinen laitos Google Play Booksissa Lue englanninkielinen laitos Amazonissa Takaisin MONOLIITTIIN Valittu kirjallinen katkelma Luku 9 / § 9.1 Luku 9. ”Ylpeys”-protokolla § 9.1. Paras liima yhteiskunnalle Katkelma paljastaa yhden BETONIN mekanismeista: miten kipu muutetaan iskulauseeksi, syyllisyys yhteiskunnalliseksi liimaksi ja inhimillinen menetys hallittavaksi vakauden kuvaksi. Avaa koko katkelma Sulje koko katkelma Luku 9. ”Ylpeys”-protokolla § 9.1. Paras liima yhteiskunnalle Aamu Merkitysten os",
       "candidates": [
         "betoni",
-        "että",
-        "osa",
-        "halkeama",
-        "katkelma",
-        "kieli",
-        "mark",
+        "hän",
         "anton",
-        "englanninkielinen",
-        "ensimmäinen",
-        "hänen",
-        "järjestelmän",
-        "kun",
-        "laitos",
+        "että",
+        "mark",
         "muisti",
+        "hänen",
+        "osa",
+        "oli",
+        "ensimmäinen",
+        "jotka",
+        "laitos",
+        "englanninkielinen",
+        "halkeama",
+        "ihminen",
+        "katkelma",
+        "kun",
+        "liian",
         "ole",
         "sen",
-        "siitä",
-        "hän",
-        "ihminen",
-        "järjestelmä",
-        "järjestys",
-        "jossa",
-        "juuri"
+        "vain",
+        "vakaus",
+        "9.1",
+        "ettei"
       ],
       "suggestedKeywordSeed": [
         "betoni",
         "ashraellen",
         "books",
-        "järjestelmän",
-        "katkelma",
         "osa",
         "anton",
         "beton",
         "dystopia",
-        "englanninkielinen",
         "ensimmäinen",
         "ensimmäisestä",
         "että",
         "filosofinen",
-        "halkeama",
         "halkeamasta",
+        "hän",
         "hänen",
-        "kehys"
+        "ilman",
+        "järjestelmän",
+        "jotka",
+        "juonipaljastuksia"
       ]
     },
     {
