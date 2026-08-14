@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-14T10:40:11.749Z
+Generated: 2026-08-14T10:42:05.052Z
 Pages: 846
 
 ## Index
@@ -3285,7 +3285,7 @@ Excerpt:
 
 Excerpt:
 
-> BETON BETON is a philosophical dystopia about a world in which stability has become a prison, memory is treated as a threat and the first crack appears inside a system that still believes itself eternal. Volume I of the MONOLITH trilogy. Case file Volume I Concrete does not begin with a wall. It begins with the habit of calling a prison stability. CASE No. 2026-001B. Index: 6666548A. STATUS: Top Secret. Read the Russian edition on Google Play Books Read the English edition on Amazon Back to MONOLITH Selected excerpt Chapter 9 / § 9.1 Chapter 9. The “Pride” Protocol § 9.1. The Best Glue for Society The excerpt reveals one of BETON’s mechanisms: how pain is turned into a slogan, guilt into social glue and human loss into a managed image of stability. Open the complete excerpt Close the complete excerpt Chapter 9. The “Pride” Protocol § 9.1. The Best Glue for Society Morning at the Departme
+> BETON BETON is a philosophical dystopia about a world in which stability has become a prison, memory is treated as a threat and the first crack appears inside a system that still believes itself eternal. Volume I of the MONOLITH trilogy. Case file Volume I Concrete does not begin with a wall. It begins with the habit of calling a prison stability. CASE No. 2026-001B. Index: 6666548A. STATUS: Top Secret. Read the English edition on Google Play Books Read the English edition on Amazon Back to MONOLITH Selected excerpt Chapter 9 / § 9.1 Chapter 9. The “Pride” Protocol § 9.1. The Best Glue for Society The excerpt reveals one of BETON’s mechanisms: how pain is turned into a slogan, guilt into social glue and human loss into a managed image of stability. Open the complete excerpt Close the complete excerpt Chapter 9. The “Pride” Protocol § 9.1. The Best Glue for Society Morning at the Departme
 
 ### en/books/monolith/gas/index.html
 
