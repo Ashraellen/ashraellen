@@ -229,7 +229,7 @@ a:hover{text-decoration:underline}
   flex:1;
 }
 
-.formula-kicker{
+.formula-card p.formula-kicker{
   margin:0;
   font-size:var(--fs-kicker);
   line-height:var(--lh-kicker);
