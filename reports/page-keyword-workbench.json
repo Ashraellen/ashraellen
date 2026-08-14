@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-14T14:04:52.842Z",
+  "generated": "2026-08-14T14:22:13.446Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -9937,7 +9937,7 @@
         "Warum künstlerische Form",
         "Formen als Instrumente",
         "Überprüfung",
-        "Was hier fehlt"
+        "Was es hier nicht gibt"
       ],
       "h3": [
         "I. Ausgangsposition",
@@ -9945,7 +9945,7 @@
         "III. Warum nicht nur akademischer Text",
         "IV. Form als Instrument",
         "V. Überprüfung",
-        "VI. Was hier fehlt",
+        "VI. Was es hier nicht gibt",
         "VII. Position"
       ],
       "slugTerms": [
@@ -9990,6 +9990,7 @@
         "die",
         "form",
         "künstlerische",
+        "nicht",
         "research",
         "sinnknoten",
         "überprüfung",
@@ -9997,8 +9998,7 @@
         "aufzeichnung",
         "das",
         "durch",
-        "ein",
-        "entsteht"
+        "ein"
       ]
     },
     {
@@ -15933,7 +15933,7 @@
         "Why artistic form",
         "Forms as instruments",
         "Verification",
-        "What is absent here"
+        "What this method is not"
       ],
       "h3": [
         "I. Initial position",
@@ -15941,7 +15941,7 @@
         "III. Why not only academic text",
         "IV. Form as instrument",
         "V. Verification",
-        "VI. What is absent here",
+        "VI. What this method is not",
         "VII. Position"
       ],
       "slugTerms": [
@@ -15952,8 +15952,8 @@
       "excerpt": "Method of Observation The method of Ashraellen is observation and the recording of knots of meaning. It does not begin with a thesis to be proved or a system to be built. It begins at the moment when, within an experience, a phrase, a reaction, a scene, a fear, a pain or a coincidence, a knot of meaning begins to appear. The knot of meaning Such a knot cannot simply be explained quickly. If it is explained too early, it turns into a flat thought and loses its living structure. The task of the method is not to seize meaning and declare it truth, but to hold it long enough to see how it is connected with other levels. Ashraellen works with what may be called a web of meaning: one knot leads to another; the personal connects with the social; the everyday with the symbolic; the linguistic with the spiritual; fear with belief; pain with worldview. The author is present in this process not as ",
       "candidates": [
         "mechanism",
-        "observation",
         "method",
+        "observation",
         "ashraellen",
         "experience",
         "form",
@@ -15967,18 +15967,18 @@
         "recognition",
         "through",
         "does",
-        "here",
         "person",
         "where",
         "another",
         "begins",
         "being",
         "explanation",
-        "interpretation"
+        "interpretation",
+        "knot"
       ],
       "suggestedKeywordSeed": [
-        "observation",
         "method",
+        "observation",
         "ashraellen",
         "research",
         "form",
@@ -15987,14 +15987,14 @@
         "how",
         "verification",
         "what",
-        "absent",
         "appears",
         "experience",
         "field",
         "first-person",
         "forms",
         "has",
-        "here"
+        "instrument",
+        "instruments"
       ]
     },
     {
@@ -21063,7 +21063,7 @@
         "Por qué la forma artística",
         "Formas como instrumentos",
         "Verificación",
-        "Lo que está ausente aquí"
+        "Lo que aquí no hay"
       ],
       "h3": [
         "I. Posición inicial",
@@ -21071,7 +21071,7 @@
         "III. Por qué no solo texto académico",
         "IV. Forma como instrumento",
         "V. Verificación",
-        "VI. Lo que está ausente aquí",
+        "VI. Lo que aquí no hay",
         "VII. Posición"
       ],
       "slugTerms": [
@@ -21086,13 +21086,13 @@
         "mecanismo",
         "del",
         "con",
+        "hay",
         "observación",
         "método",
         "por",
-        "está",
-        "hay",
         "ashraellen",
         "dentro",
+        "está",
         "experiencia",
         "forma",
         "sentido",
@@ -21112,8 +21112,8 @@
         "método",
         "artística",
         "como",
-        "está",
         "forma",
+        "hay",
         "investigación",
         "por",
         "que",
@@ -21122,9 +21122,9 @@
         "verificación",
         "aparece",
         "aquí",
-        "ausente",
         "campo",
-        "cómo"
+        "cómo",
+        "con"
       ]
     },
     {
@@ -26180,28 +26180,28 @@
       "candidates": [
         "ole",
         "mekanismi",
+        "mekanismin",
         "eikä",
         "havainnon",
-        "mekanismin",
         "muoto",
         "sen",
+        "vain",
         "alkaa",
         "ashraellen",
+        "sitä",
         "vaan",
-        "vain",
         "aineistoa",
+        "havainnointi",
         "ihminen",
         "jossa",
         "menetelmä",
-        "sitä",
+        "syntyy",
         "teksti",
         "tunnistamisen",
-        "voi",
         "akateeminen",
         "ashraellenin",
-        "että",
-        "havainnointi",
-        "jolloin"
+        "ennen",
+        "että"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",
@@ -26213,7 +26213,6 @@
         "ole",
         "research",
         "taiteellinen",
-        "aineistoa",
         "alkaa",
         "ashraellenin",
         "eikä",
@@ -26221,7 +26220,8 @@
         "havainnointi",
         "havainto",
         "kautta",
-        "kirjaaminen"
+        "kirjaaminen",
+        "mekanismi"
       ]
     },
     {
@@ -31567,7 +31567,7 @@
         "Pourquoi la forme artistique",
         "Les formes comme instruments",
         "Vérification",
-        "Ce qui est absent ici"
+        "Ce qu’il n’y a pas ici"
       ],
       "h3": [
         "I. Position initiale",
@@ -31575,7 +31575,7 @@
         "III. Pourquoi pas seulement le texte académique",
         "IV. La forme comme instrument",
         "V. Vérification",
-        "VI. Ce qui est absent ici",
+        "VI. Ce qu’il n’y a pas ici",
         "VII. Position"
       ],
       "slugTerms": [
@@ -31586,8 +31586,8 @@
       "excerpt": "Méthode d’observation La méthode d’Ashraellen est l’observation et l’enregistrement des nœuds de sens. Elle ne commence pas par une thèse à prouver ni par un système à construire. Elle commence au moment où, dans une expérience, une phrase, une réaction, une scène, une peur, une douleur ou une coïncidence, un nœud de sens commence à apparaître. Le nœud de sens Un tel nœud ne peut pas être simplement expliqué rapidement. S’il est expliqué trop tôt, il devient une pensée plate et perd sa structure vivante. La tâche de la méthode n’est pas de saisir le sens et de le déclarer vérité, mais de le maintenir assez longtemps pour voir comment il est relié à d’autres niveaux. Ashraellen travaille avec ce que l’on peut appeler une toile de sens : un nœud mène à un autre ; le personnel se relie au social ; le quotidien au symbolique ; le linguistique au spirituel ; la peur à la croyance ; la douleur",
       "candidates": [
         "une",
-        "est",
         "pas",
+        "est",
         "mécanisme",
         "dans",
         "n’est",
@@ -31600,7 +31600,6 @@
         "que",
         "forme",
         "l’observation",
-        "qui",
         "sens",
         "ashraellen",
         "comme",
@@ -31608,7 +31607,8 @@
         "l’intérieur",
         "moment",
         "non",
-        "personne"
+        "personne",
+        "réaction"
       ],
       "suggestedKeywordSeed": [
         "méthode",
@@ -31616,19 +31616,19 @@
         "artistique",
         "ashraellen",
         "comme",
-        "est",
         "forme",
         "les",
         "par",
+        "pas",
         "recherche",
         "research",
         "sens",
         "vérification",
-        "absent",
         "apparaît",
         "champ",
         "comment",
-        "d’ashraellen"
+        "d’ashraellen",
+        "dans"
       ]
     },
     {
@@ -44480,21 +44480,21 @@
       "lang": "pt",
       "section": "research",
       "title": "Ashraellen — Método de Observação",
-      "description": "O método de observação de Ashraellen: registro de nós de sentido, forma artística como instrumento de investigação e verificação pelo reconhecimento.",
-      "existingKeywords": "ashraellen, research, method, método, observação, registro, nós, sentido, forma, artística, como, instrumento, investigação, verificação, pelo, reconhecimento, campo, aparece",
+      "description": "O método de observação de Ashraellen: registro de nós de sentido, forma artística como instrumento de pesquisa e verificação pelo reconhecimento.",
+      "existingKeywords": "ashraellen, research, method, método, observação, registro, nós, sentido, forma, artística, como, instrumento, pesquisa, verificação, pelo, reconhecimento, campo, aparece",
       "canonical": "https://www.ashraellen.com/pt/research/method/",
       "h1": [
         "Método de Observação"
       ],
       "h2": [
         "O nó de sentido",
-        "Campo de investigação",
+        "Campo de pesquisa",
         "Como a observação aparece",
         "Observação em primeira pessoa",
         "Por que a forma artística",
         "Formas como instrumentos",
         "Verificação",
-        "O que está ausente aqui"
+        "O que não há aqui"
       ],
       "h3": [
         "I. Posição inicial",
@@ -44502,7 +44502,7 @@
         "III. Por que não apenas texto acadêmico",
         "IV. Forma como instrumento",
         "V. Verificação",
-        "VI. O que está ausente aqui",
+        "VI. O que não há aqui",
         "VII. Posição"
       ],
       "slugTerms": [
@@ -44524,13 +44524,13 @@
         "método",
         "ashraellen",
         "dentro",
-        "está",
         "experiência",
         "forma",
         "sentido",
-        "investigação",
+        "está",
         "momento",
         "pelo",
+        "pesquisa",
         "pessoa",
         "reação",
         "reconhecimento",
@@ -44545,17 +44545,17 @@
         "que",
         "artística",
         "forma",
-        "investigação",
+        "não",
+        "pesquisa",
         "por",
         "research",
         "sentido",
         "verificação",
         "aparece",
         "aqui",
-        "ausente",
         "campo",
         "dentro",
-        "está"
+        "formas"
       ]
     },
     {
