@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-14T15:41:53.578Z
+Generated: 2026-08-14T16:16:52.054Z
 
 Pages checked: 845
-Pages with issues: 327
-Total issues: 1744
+Pages with issues: 329
+Total issues: 1748
 Pages with review notes: 646
 Total review notes: 2288
 
@@ -20,9 +20,9 @@ Total review notes: 2288
 | MISSING_OG_IMAGE | 172 |
 | MISSING_OG_TITLE | 171 |
 | MISSING_DESCRIPTION | 122 |
-| DUPLICATE_TITLE | 68 |
+| DUPLICATE_TITLE | 70 |
+| DUPLICATE_OG_TITLE | 68 |
 | DUPLICATE_CANONICAL | 66 |
-| DUPLICATE_OG_TITLE | 66 |
 | MISSING_CANONICAL | 47 |
 | OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
 | TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 32 |
@@ -1043,6 +1043,17 @@ Total review notes: 2288
 
 - DUPLICATE_TITLE: shared by 6 pages
 - DUPLICATE_OG_TITLE: shared by 6 pages
+
+### es/public/index.html
+
+- title: Ashraellen — Público
+- description length: 163
+- canonical: https://www.ashraellen.com/es/public/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
 
 ### es/research/notes/index.html
 
@@ -2665,6 +2676,17 @@ Total review notes: 2288
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
 - MISSING_KEYWORDS
+
+### pt/public/index.html
+
+- title: Ashraellen — Público
+- description length: 129
+- canonical: https://www.ashraellen.com/pt/public/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
 
 ### ru/books/index.html
 
@@ -9558,7 +9580,7 @@ Total review notes: 2288
 
 ### pt/public/index.html
 
-- title: Ashraellen — Público — PT
+- title: Ashraellen — Público
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
