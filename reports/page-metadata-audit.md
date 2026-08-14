@@ -1,6 +1,6 @@
 # Page Metadata Audit
 
-Generated: 2026-08-14T14:22:12.771Z
+Generated: 2026-08-14T14:48:01.843Z
 
 Pages checked: 845
 Pages with issues: 327
@@ -10827,7 +10827,7 @@ Total review notes: 2288
 
 ### ru/research/projects/index.html
 
-- title: Ashraellen — Проекты исследования
+- title: Ashraellen — Исследовательские проекты
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
