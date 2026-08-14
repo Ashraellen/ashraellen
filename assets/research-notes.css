@@ -1,11 +1,6 @@
-/* Ashraellen — shared stylesheet for the research/notes and research/position page type */
+@import url("tokens.css");
 
-:root{
-  --bg:#0b0b0d;
-  --fg:#f2f2f4;
-  --muted:#a9a9b2;
-  --line:#2a2a33;
-}
+/* Ashraellen — shared stylesheet for the research/notes and research/position page type */
 
 *{box-sizing:border-box}
 html,body{height:100%}
@@ -42,26 +37,27 @@ a:hover{border-bottom-color:rgba(242,242,244,.55)}
 }
 
 .brand{
-  font-size:12px;
+  font-size:var(--fs-kicker);
   letter-spacing:.22em;
   text-transform:uppercase;
   color:var(--muted);
   margin:0 0 18px;
+  line-height:var(--lh-kicker);
 }
 
 .card h1{
   margin:0 0 16px;
   font-family:Georgia,"Times New Roman",serif;
   font-weight:400;
-  font-size:clamp(28px,5vw,40px);
+  font-size:var(--fs-display-sm);
   line-height:1.15;
 }
 
 .card p{
   margin:0 0 12px;
   color:var(--muted);
-  line-height:1.6;
-  font-size:15px;
+  line-height:var(--lh-body);
+  font-size:var(--fs-body);
 }
 
 .card hr{
@@ -73,7 +69,8 @@ a:hover{border-bottom-color:rgba(242,242,244,.55)}
 .sub{
   display:flex;
   gap:16px;
-  font-size:13px;
+  font-size:var(--fs-kicker);
+  line-height:var(--lh-kicker);
 }
 .sub a{border-bottom-color:rgba(242,242,244,.18)}
 .sub a:hover{border-bottom-color:rgba(242,242,244,.55)}

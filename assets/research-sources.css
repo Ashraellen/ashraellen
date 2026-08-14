@@ -225,176 +225,31 @@ p,
   .item{ flex-direction:column; align-items:flex-start; }
 }
 
-/* Research projects page */
-
+/* Sources and Tradition page */
 .page.research-projects-page::before{
-  background: url("backgrounds/research-projects-bg.webp") center/cover no-repeat;
-  filter: brightness(0.72) contrast(1.08) saturate(0.88);
-  transform: scale(1.02);
+  background:url("backgrounds/research-projects-bg.webp") center/cover no-repeat;
+  filter:brightness(.72) contrast(1.08) saturate(.88);
+  transform:scale(1.02);
 }
-
 .page.research-projects-page::after{
-  background: linear-gradient(90deg,
-    rgba(11,11,13,0.88) 0%,
-    rgba(11,11,13,0.70) 34%,
-    rgba(11,11,13,0.46) 62%,
-    rgba(11,11,13,0.28) 82%,
-    rgba(11,11,13,0.18) 100%);
+  background:linear-gradient(90deg,rgba(11,11,13,.88) 0%,rgba(11,11,13,.70) 34%,rgba(11,11,13,.46) 62%,rgba(11,11,13,.28) 82%,rgba(11,11,13,.18) 100%);
 }
-
 .content .lead{
-  line-height:var(--lh-lead);
   font-size:var(--fs-lead);
+  line-height:var(--lh-lead)!important;
 }
-
-.projects-section{
-  margin-top:28px;
-}
-
-.projects-section:first-of-type{
-  margin-top:22px;
-}
-
-.section-kicker{
-  margin:0 0 10px;
-  font-size:var(--fs-kicker);
-  letter-spacing:.08em;
-  text-transform:uppercase;
-  color:rgba(242,242,244,.55);
-  font-weight:700;
-  line-height:var(--lh-kicker);
-}
-
-.projects-grid{
-  display:grid;
-  grid-template-columns:repeat(2,minmax(0,1fr));
-  gap:16px;
-  margin-top:12px;
-}
-
-.projects-grid.single{
-  grid-template-columns:minmax(0,1fr);
-}
-
-.project-card{
-  border:1px solid rgba(242,242,244,.14);
-  border-radius:16px;
-  padding:18px 16px;
-  background:rgba(0,0,0,.22);
-  backdrop-filter:blur(3px);
-  min-height:190px;
-  display:flex;
-  flex-direction:column;
-  transition:transform 140ms ease,border-color 140ms ease,background 140ms ease;
-}
-
-.project-card.main-card{
-  min-height:210px;
-}
-
-.project-card:hover{
-  transform:translateY(-2px);
-  border-color:rgba(242,242,244,.28);
-  background:rgba(255,255,255,.05);
-}
-
-.project-card h2{
-  margin:0 0 10px;
-  font-size:var(--fs-h2);
-  font-weight:700;
-}
-
-.project-card p{
-  margin:0 0 12px;
-  color:var(--muted);
-  font-size:var(--fs-body);
-  line-height:var(--lh-body);
-}
-
-.project-card .formula{
-  margin-top:auto;
-  padding-top:8px;
-  font-family:Georgia,'Times New Roman',serif;
-  color:var(--fg);
-  font-size:var(--fs-emphasis);
-  line-height:var(--lh-emphasis);
-}
-
-.project-card .actions{
-  margin-top:14px;
-  display:flex;
-  gap:10px;
-  flex-wrap:wrap;
-  align-items:center;
-}
-
-.project-card a.btn,
-.project-card span.btn{
-  display:inline-flex;
-  align-items:center;
-  justify-content:center;
-  padding:9px 12px;
-  border-radius:999px;
-  border:1px solid rgba(242,242,244,.16);
-  background:rgba(255,255,255,.04);
-  font-size:var(--fs-kicker);
-  font-weight:700;
-  color:var(--fg);
-  text-decoration:none;
-  line-height:var(--lh-kicker);
-}
-
-.project-card a.btn:hover{
-  border-color:rgba(242,242,244,.34);
-  background:rgba(255,255,255,.08);
-  text-decoration:none;
-}
-
-.project-card span.btn{
-  color:var(--muted);
-  font-weight:600;
-}
-
-.research-note{
-  margin-top:28px;
-  border:1px solid rgba(242,242,244,.12);
-  border-radius:16px;
-  background:rgba(0,0,0,.18);
-  padding:16px;
-  max-width:78ch;
-  color:var(--muted);
-  line-height:var(--lh-body);
-  font-size:var(--fs-body);
-}
-
-.research-note p{
-  margin:0 0 10px;
-  line-height:var(--lh-body)!important;
-}
-
-.research-note p:last-child{
-  margin-bottom:0;
-}
-
+.source-list{display:grid;gap:16px;margin-top:18px}
+.source-card{border:1px solid rgba(242,242,244,.13);border-radius:18px;background:rgba(0,0,0,.20);backdrop-filter:blur(5px);padding:18px}
+.source-card h2{margin:0 0 10px;font-size:var(--fs-h2);line-height:1.22}
+.source-card p{margin:0 0 12px;color:var(--muted);font-size:var(--fs-body);line-height:var(--lh-body);max-width:86ch}
+.source-card p:last-child{margin-bottom:0}
+.source-kicker{font-size:var(--fs-kicker);line-height:var(--lh-kicker);letter-spacing:.09em;text-transform:uppercase;color:rgba(242,242,244,.52);margin:0 0 8px!important}
+.source-note{border-left:2px solid rgba(242,242,244,.22);padding-left:14px;color:rgba(242,242,244,.78)!important}
+.bibliography{margin-top:26px;border-top:1px solid rgba(242,242,244,.12);padding-top:18px}
+.bibliography ul{margin:0;padding-left:18px;color:var(--muted);font-size:var(--fs-body);line-height:var(--lh-body);max-width:90ch}
+.nav-row{display:flex;gap:10px;flex-wrap:wrap;margin-top:24px}
+.btn{display:inline-flex;align-items:center;justify-content:center;padding:10px 14px;border-radius:999px;border:1px solid rgba(242,242,244,.16);background:rgba(255,255,255,.04);font-size:var(--fs-kicker);line-height:var(--lh-kicker);font-weight:700;color:var(--fg);text-decoration:none}
 @media(max-width:900px){
-  .page.research-projects-page::before{
-    background-position:center center;
-  }
-
-  .page.research-projects-page::after{
-    background:linear-gradient(90deg,
-      rgba(11,11,13,0.90) 0%,
-      rgba(11,11,13,0.76) 48%,
-      rgba(11,11,13,0.48) 100%);
-  }
-
-  .projects-grid,
-  .projects-grid.single{
-    grid-template-columns:1fr;
-  }
-
-  .project-card,
-  .project-card.main-card{
-    min-height:auto;
-  }
+  .page.research-projects-page::before{background-position:center center}
+  .page.research-projects-page::after{background:linear-gradient(90deg,rgba(11,11,13,.90) 0%,rgba(11,11,13,.76) 48%,rgba(11,11,13,.48) 100%)}
 }

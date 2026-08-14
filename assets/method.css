@@ -1,3 +1,229 @@
+@import url("tokens.css");
+
+*{box-sizing:border-box}
+html,body{height:100%}
+
+body{
+  margin:0;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  background:var(--bg);
+  color:var(--fg);
+}
+
+a{color:var(--fg); text-decoration:none}
+a:hover{text-decoration:underline}
+
+.wrap{min-height:100vh}
+
+.page{
+  position:relative;
+  min-height:100vh;
+  overflow:hidden;
+  display:flex;
+  flex-direction:column;
+}
+
+/* Background: your photo — warm, but balanced for Research */
+.page::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  background: url("../assets/texts-bg.jpg") center/cover no-repeat;
+  filter: brightness(0.82) contrast(1.06) saturate(0.82);
+  transform: scale(1.02);
+  z-index:0;
+}
+
+/* Left readable field + softer overall overlay */
+.page::after{
+  content:"";
+  position:absolute;
+  inset:0;
+  background: linear-gradient(90deg,
+    rgba(11,11,13,0.86) 0%,
+    rgba(11,11,13,0.62) 32%,
+    rgba(11,11,13,0.30) 62%,
+    rgba(11,11,13,0.14) 82%,
+    rgba(11,11,13,0.06) 100%);
+  z-index:1;
+}
+
+/* Header: constant, not sticky */
+.site-header{
+  position:relative;
+  z-index:2;
+  padding:22px 44px 0;
+  text-align:right;
+}
+
+.site-header .brand{
+  margin:0 0 6px;
+  letter-spacing:0.22em;
+  text-transform:uppercase;
+  font-size:var(--fs-body);
+  font-weight:600;
+  opacity:0.92;
+  line-height:var(--lh-body);
+}
+
+.site-header .menu{
+  font-size:var(--fs-kicker);
+  color:var(--muted);
+  line-height:var(--lh-kicker);
+}
+
+.site-header .menu a{
+  color:var(--muted);
+  margin:0 10px;
+}
+.site-header .menu a:first-child{ margin-left:0; }
+.site-header .menu a:last-child{ margin-right:0; }
+
+.site-header .menu a:hover{
+  color:var(--fg);
+  text-decoration:none;
+}
+
+/* Main */
+.main{
+  position:relative;
+  z-index:2;
+  flex:1;
+  display:flex;
+  align-items:center;
+}
+
+.content{
+  width:100%;
+  max-width:980px;
+  padding:28px 44px 56px;
+}
+
+.h1{
+  margin:0 0 10px;
+  font-size:var(--fs-h1-static);
+  font-weight:600;
+}
+
+.lead{
+  margin:0 0 16px;
+  line-height:var(--lh-lead);
+  color:var(--muted);
+  max-width:74ch;
+  font-size:var(--fs-lead);
+}
+
+/* List block */
+.list{
+  margin-top:14px;
+  border:1px solid rgba(242,242,244,0.14);
+  border-radius:16px;
+  background: rgba(0,0,0,0.16);
+  backdrop-filter: blur(3px);
+  overflow:hidden;
+}
+
+.list-header{
+  padding:14px 16px;
+  border-bottom:1px solid rgba(242,242,244,0.10);
+  display:flex;
+  align-items:baseline;
+  justify-content:space-between;
+  gap:12px;
+}
+
+.list-header h2{
+  margin:0;
+  font-size:var(--fs-h2);
+  font-weight:600;
+}
+
+.list-header .note{
+  margin:0;
+  font-size:var(--fs-kicker);
+  color:var(--muted);
+  white-space:nowrap;
+  line-height:var(--lh-kicker);
+}
+
+.items{
+  list-style:none;
+  margin:0;
+  padding:0;
+}
+
+.item{
+  padding:14px 16px;
+  display:flex;
+  justify-content:space-between;
+  align-items:flex-start;
+  gap:14px;
+  border-top:1px solid rgba(242,242,244,0.08);
+}
+
+.item:first-child{ border-top:none; }
+
+.item a{
+  display:inline-block;
+  font-size:var(--fs-emphasis);
+  font-weight:600;
+  line-height:var(--lh-emphasis);
+}
+
+.item .meta{
+  margin-top:6px;
+  font-size:var(--fs-body);
+  color:var(--muted);
+  line-height:var(--lh-body);
+}
+
+.badge{
+  font-size:var(--fs-kicker);
+  color:var(--muted);
+  border:1px solid rgba(242,242,244,0.14);
+  border-radius:999px;
+  padding:6px 10px;
+  white-space:nowrap;
+  background: rgba(255,255,255,0.03);
+  line-height:var(--lh-kicker);
+}
+
+/* Footer seal */
+.seal{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  margin-top:18px;
+  color:var(--muted);
+  font-size:var(--fs-kicker);
+  line-height:var(--lh-kicker);
+}
+
+.seal img{
+  height:22px;
+  width:auto;
+  opacity:0.75;
+}
+
+/* Global text rhythm guard for text pages */
+p,
+.lead,
+.item .meta,
+.archive-box p,
+.archive-line,
+.research-note,
+.research-note p{
+  line-height:var(--lh-body)!important;
+}
+
+@media (max-width: 900px){
+  .site-header{ padding:16px 22px 0; }
+  .main{ align-items:flex-start; }
+  .content{ padding:22px 22px 44px; }
+  .list-header .note{ display:none; }
+  .item{ flex-direction:column; align-items:flex-start; }
+}
+
 /* Method of Observation page
    Shared styles for all language versions of /research/method/
 */
@@ -13,7 +239,8 @@
   margin:0 0 18px;
   color:var(--muted);
   max-width:78ch;
-  line-height:1.25!important;
+  line-height:var(--lh-lead);
+  font-size:var(--fs-lead);
 }
 
 .method-section{
@@ -27,14 +254,15 @@
 
 .method-section h2{
   margin:0 0 12px;
-  font-size:17px;
+  font-size:var(--fs-h2);
   font-weight:700;
 }
 
 .method-section p{
   margin:0 0 12px;
   color:var(--muted);
-  line-height:1.25!important;
+  line-height:var(--lh-body);
+  font-size:var(--fs-body);
 }
 
 .method-section strong{
@@ -55,12 +283,13 @@
   cursor:pointer;
   list-style:none;
   padding:16px;
-  font-size:14px;
+  font-size:var(--fs-body);
   font-weight:700;
   letter-spacing:.04em;
   text-transform:uppercase;
   color:var(--fg);
   background:rgba(255,255,255,.035);
+  line-height:var(--lh-body);
 }
 
 .manifest summary::-webkit-details-marker{
@@ -83,29 +312,31 @@
 
 .manifest h2{
   margin:0 0 14px;
-  font-size:18px;
+  font-size:var(--fs-h2);
 }
 
 .manifest h3{
   margin:20px 0 10px;
-  font-size:15px;
+  font-size:var(--fs-kicker);
   letter-spacing:.04em;
   text-transform:uppercase;
   color:rgba(242,242,244,.74);
+  line-height:var(--lh-kicker);
 }
 
 .manifest p{
   margin:0 0 12px;
   color:var(--muted);
-  line-height:1.25!important;
+  line-height:var(--lh-body);
+  font-size:var(--fs-body);
 }
 
 .formula-line{
   margin:20px 0 0;
   color:var(--fg)!important;
   font-family:Georgia,'Times New Roman',serif;
-  font-size:18px;
-  line-height:1.25!important;
+  font-size:var(--fs-emphasis);
+  line-height:var(--lh-emphasis);
 }
 
 .back-links{
@@ -123,10 +354,11 @@
   border-radius:999px;
   border:1px solid rgba(242,242,244,.16);
   background:rgba(255,255,255,.04);
-  font-size:12px;
+  font-size:var(--fs-kicker);
   font-weight:700;
   color:var(--fg);
   text-decoration:none;
+  line-height:var(--lh-kicker);
 }
 
 .back-links a:hover{

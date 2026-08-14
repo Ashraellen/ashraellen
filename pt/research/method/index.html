@@ -9,16 +9,9 @@
 <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
 
-  <script>
-    (function(){
-      const isGitHub=location.hostname.endsWith('github.io');
-      const repo=location.pathname.split('/').filter(Boolean)[0];
-      window.__BASE__=(isGitHub&&repo)?`/${repo}/`:`/`;
-    })();
-  </script>
+  
 
-  <link rel="stylesheet" href="../../../assets/texts.css?v=20260519-2">
-  <link rel="stylesheet" href="../../../assets/method.css?v=20260525-1">
+  <link rel="stylesheet" href="../../../assets/method.css?v=20260814-1">
   <script defer src="/assets/analytics.js"></script>
 
   <script type="application/ld+json">
@@ -144,7 +137,7 @@
     <div class="page method-page">
       <header class="site-header">
         <p class="brand">Ashraellen</p>
-        <div class="menu"><a id="toEntry" href="https://www.ashraellen.com/pt/">Entrada</a> | <a id="toPublic" href="https://www.ashraellen.com/pt/public/">Público</a> | <a id="toBooks" href="https://www.ashraellen.com/pt/books/">Livros</a></div>
+        <div class="menu"><a id="toEntry" href="/pt/">Entrada</a> | <a id="toPublic" href="/pt/public/">Público</a> | <a id="toBooks" href="/pt/books/">Livros</a></div>
       </header>
 
       <main class="main">
@@ -310,28 +303,17 @@
           </details>
 
           <div class="back-links">
-            <a id="backResearch" href="#">← Investigação</a>
-            <a id="goProjects" href="#">Projetos</a>
-            <a id="goPosts" href="#">Publicações</a>
+            <a id="backResearch" href="/pt/research/">← Investigação</a>
+            <a id="goProjects" href="/pt/research/projects/">Projetos</a>
+            <a id="goPosts" href="/pt/public/posts/">Publicações</a>
           </div>
 
-          <div class="seal"><img id="sealImg" src="https://www.ashraellen.com/assets/symbol.png" alt="Ashraellen symbol"><span>— mark of presence</span></div>
+          <div class="seal"><img id="sealImg" src="/assets/symbol.png" alt="Ashraellen symbol"><span>— mark of presence</span></div>
         </div>
       </main>
     </div>
   </div>
 
-  <script>
-    (function(){
-      const base=window.__BASE__||'/';
-      document.getElementById('toEntry').href=base+'pt/';
-      document.getElementById('toPublic').href=base+'pt/public/';
-      document.getElementById('toBooks').href=base+'pt/books/';
-      document.getElementById('backResearch').href=base+'pt/research/';
-      document.getElementById('goProjects').href=base+'pt/research/projects/';
-      document.getElementById('goPosts').href=base+'pt/public/posts/';
-      document.getElementById('sealImg').src=base+'assets/symbol.png';
-    })();
-  </script>
+  
 </body>
 </html>

@@ -1,9 +1,4 @@
-:root{
-  --bg:#0b0b0d;
-  --fg:#f2f2f4;
-  --muted:#a9a9b2;
-  --line:#2a2a33;
-}
+@import url("tokens.css");
 
 *{box-sizing:border-box}
 html,body{height:100%}
@@ -68,14 +63,16 @@ a:hover{text-decoration:underline}
   margin:0 0 6px;
   letter-spacing:0.22em;
   text-transform:uppercase;
-  font-size:14px;
+  font-size:var(--fs-body);
   font-weight:600;
   opacity:0.92;
+  line-height:var(--lh-body);
 }
 
 .site-header .menu{
-  font-size:13px;
+  font-size:var(--fs-kicker);
   color:var(--muted);
+  line-height:var(--lh-kicker);
 }
 
 .site-header .menu a{
@@ -110,22 +107,23 @@ a:hover{text-decoration:underline}
 /* Title + lead */
 .h1{
   margin:0 0 12px;
-  font-size:22px;
+  font-size:var(--fs-h1-static);
   font-weight:600;
 }
 
 .content > h2{
   margin:22px 0 9px;
-  font-size:17px;
-  line-height:1.25;
+  font-size:var(--fs-h2);
+  line-height:var(--lh-body);
   font-weight:600;
 }
 
 .lead{
   margin:0 0 12px;
-  line-height:1.25;
+  line-height:var(--lh-lead);
   color:var(--muted);
   max-width:70ch;
+  font-size:var(--fs-lead);
 }
 
 .focus{
@@ -138,7 +136,8 @@ a:hover{text-decoration:underline}
 
 .focus li{
   margin:6px 0;
-  line-height:1.25;
+  line-height:var(--lh-body);
+  font-size:var(--fs-body);
 }
 
 .focus li::before{
@@ -171,21 +170,22 @@ a:hover{text-decoration:underline}
 
 .card h2{
   margin:0 0 8px;
-  font-size:16px;
+  font-size:var(--fs-h2);
   font-weight:600;
 }
 
 .card p{
   margin:0 0 14px;
   color:var(--muted);
-  line-height:1.25;
-  font-size:14px;
+  line-height:var(--lh-body);
+  font-size:var(--fs-body);
 }
 
 .card a{
   display:inline-block;
-  font-size:13px;
+  font-size:var(--fs-kicker);
   opacity:0.92;
+  line-height:var(--lh-kicker);
 }
 
 .card a:hover{
@@ -200,7 +200,8 @@ a:hover{text-decoration:underline}
   gap:10px;
   margin-top:22px;
   color:var(--muted);
-  font-size:12px;
+  font-size:var(--fs-kicker);
+  line-height:var(--lh-kicker);
 }
 
 .seal img{
@@ -215,6 +216,6 @@ a:hover{text-decoration:underline}
   .site-header{ padding:16px 22px 0; }
   .main{ align-items:flex-start; }
   .content{ padding:22px 22px 44px; }
-  .content > h2{ margin:20px 0 8px; line-height:1.25; }
-  .lead{ line-height:1.25; margin-bottom:11px; }
+  .content > h2{ margin:20px 0 8px; line-height:var(--lh-body); }
+  .lead{ line-height:var(--lh-body); margin-bottom:11px; }
 }

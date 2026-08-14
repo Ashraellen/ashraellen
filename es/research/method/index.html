@@ -9,16 +9,9 @@
 <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
 
-  <script>
-    (function(){
-      const isGitHub=location.hostname.endsWith('github.io');
-      const repo=location.pathname.split('/').filter(Boolean)[0];
-      window.__BASE__=(isGitHub&&repo)?`/${repo}/`:`/`;
-    })();
-  </script>
+  
 
-  <link rel="stylesheet" href="../../../assets/texts.css?v=20260519-2">
-  <link rel="stylesheet" href="../../../assets/method.css?v=20260525-1">
+  <link rel="stylesheet" href="../../../assets/method.css?v=20260814-1">
   <script defer src="/assets/analytics.js"></script>
 
   <script type="application/ld+json">
@@ -144,7 +137,7 @@
     <div class="page method-page">
       <header class="site-header">
         <p class="brand">Ashraellen</p>
-        <div class="menu"><a id="toEntry" href="https://www.ashraellen.com/es/">Entrada</a> | <a id="toPublic" href="https://www.ashraellen.com/es/public/">Público</a> | <a id="toBooks" href="https://www.ashraellen.com/es/books/">Libros</a></div>
+        <div class="menu"><a id="toEntry" href="/es/">Entrada</a> | <a id="toPublic" href="/es/public/">Público</a> | <a id="toBooks" href="/es/books/">Libros</a></div>
       </header>
 
       <main class="main">
@@ -310,28 +303,17 @@
           </details>
 
           <div class="back-links">
-            <a id="backResearch" href="#">← Investigación</a>
-            <a id="goProjects" href="#">Proyectos</a>
-            <a id="goPosts" href="#">Publicaciones</a>
+            <a id="backResearch" href="/es/research/">← Investigación</a>
+            <a id="goProjects" href="/es/research/projects/">Proyectos</a>
+            <a id="goPosts" href="/es/public/posts/">Publicaciones</a>
           </div>
 
-          <div class="seal"><img id="sealImg" src="https://www.ashraellen.com/assets/symbol.png" alt="Ashraellen symbol"><span>— mark of presence</span></div>
+          <div class="seal"><img id="sealImg" src="/assets/symbol.png" alt="Ashraellen symbol"><span>— mark of presence</span></div>
         </div>
       </main>
     </div>
   </div>
 
-  <script>
-    (function(){
-      const base=window.__BASE__||'/';
-      document.getElementById('toEntry').href=base+'es/';
-      document.getElementById('toPublic').href=base+'es/public/';
-      document.getElementById('toBooks').href=base+'es/books/';
-      document.getElementById('backResearch').href=base+'es/research/';
-      document.getElementById('goProjects').href=base+'es/research/projects/';
-      document.getElementById('goPosts').href=base+'es/public/posts/';
-      document.getElementById('sealImg').src=base+'assets/symbol.png';
-    })();
-  </script>
+  
 </body>
 </html>

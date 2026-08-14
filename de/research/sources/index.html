@@ -9,31 +9,9 @@
 <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
 
-  <script>
-  (function(){
-    const isGitHub = location.hostname.endsWith('github.io');
-    const repo = location.pathname.split('/').filter(Boolean)[0];
-    window.__BASE__ = (isGitHub && repo) ? `/${repo}/` : `/`;
-  })();
-  </script>
+  
 
-  <link rel="stylesheet" href="../../../assets/texts.css?v=20260519-2">
-  <link rel="stylesheet" href="../../../assets/research-projects.css?v=20260525-1">
   <script defer src="/assets/analytics.js"></script>
-  <style>
-    .source-list{display:grid;gap:16px;margin-top:18px}
-    .source-card{border:1px solid rgba(242,242,244,.13);border-radius:18px;background:rgba(0,0,0,.20);backdrop-filter:blur(5px);padding:18px}
-    .source-card h2{margin:0 0 10px;font-size:20px;line-height:1.22}
-    .source-card p{margin:0 0 12px;color:var(--muted);font-size:14px;line-height:1.7;max-width:86ch}
-    .source-card p:last-child{margin-bottom:0}
-    .source-kicker{font-size:11px;letter-spacing:.09em;text-transform:uppercase;color:rgba(242,242,244,.52);margin:0 0 8px!important}
-    .source-note{border-left:2px solid rgba(242,242,244,.22);padding-left:14px;color:rgba(242,242,244,.78)!important}
-    .bibliography{margin-top:26px;border-top:1px solid rgba(242,242,244,.12);padding-top:18px}
-    .bibliography ul{margin:0;padding-left:18px;color:var(--muted);font-size:13px;line-height:1.7;max-width:90ch}
-    .nav-row{display:flex;gap:10px;flex-wrap:wrap;margin-top:24px}
-    .btn{display:inline-flex;align-items:center;justify-content:center;padding:10px 14px;border-radius:999px;border:1px solid rgba(242,242,244,.16);background:rgba(255,255,255,.04);font-size:13px;font-weight:700;color:var(--fg);text-decoration:none}
-  </style>
-
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -151,6 +129,7 @@
     <meta property="og:image:alt" content="Ashraellen — dark formal image with the hand and eye symbol">
     <meta name="twitter:image" content="https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg">
     <meta name="twitter:image:alt" content="Ashraellen — dark formal image with the hand and eye symbol">
+  <link rel="stylesheet" href="../../../assets/research-sources.css?v=20260814-1">
 </head>
 <body>
   <div class="wrap">
@@ -158,9 +137,9 @@
       <header class="site-header">
         <p class="brand">Ashraellen</p>
         <div class="menu">
-          <a id="toEntry" href="https://www.ashraellen.com/de/">Einstieg</a> |
-          <a id="toPublic" href="https://www.ashraellen.com/de/public/">Öffentlich</a> |
-          <a id="toResearch" href="https://www.ashraellen.com/de/research/">Forschung</a>
+          <a id="toEntry" href="/de/">Einstieg</a> |
+          <a id="toPublic" href="/de/public/">Öffentlich</a> |
+          <a id="toResearch" href="/de/research/">Forschung</a>
         </div>
       </header>
 
@@ -221,26 +200,16 @@
           </section>
 
           <div class="nav-row">
-            <a id="backResearch" class="btn" href="#">← Zur Forschung</a>
-            <a id="goMethod" class="btn" href="#">Methode der Beobachtung →</a>
+            <a id="backResearch" class="btn" href="/de/research/">← Zur Forschung</a>
+            <a id="goMethod" class="btn" href="/de/research/method/">Methode der Beobachtung →</a>
           </div>
 
-          <div class="seal"><img id="sealImg" src="https://www.ashraellen.com/assets/symbol.png" alt="Ashraellen symbol"><span>— mark of presence</span></div>
+          <div class="seal"><img id="sealImg" src="/assets/symbol.png" alt="Ashraellen symbol"><span>— mark of presence</span></div>
         </div>
       </main>
     </div>
   </div>
 
-  <script>
-  (function(){
-    const base = window.__BASE__ || '/';
-    document.getElementById('toEntry').href = base + 'de/';
-    document.getElementById('toPublic').href = base + 'de/public/';
-    document.getElementById('toResearch').href = base + 'de/research/';
-    document.getElementById('backResearch').href = base + 'de/research/';
-    document.getElementById('goMethod').href = base + 'de/research/method/';
-    document.getElementById('sealImg').src = base + 'assets/symbol.png';
-  })();
-  </script>
+  
 </body>
 </html>

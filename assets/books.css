@@ -1,7 +1,6 @@
+@import url("tokens.css");
+
 :root{
-  --bg:#0b0b0d;
-  --fg:#f2f2f4;
-  --muted:#a9a9b2;
   --warm: rgba(210, 150, 80, 0.07);
 }
 
@@ -102,14 +101,16 @@ a:hover{text-decoration:underline}
   margin:0 0 6px;
   letter-spacing:0.22em;
   text-transform:uppercase;
-  font-size:14px;
+  font-size:var(--fs-body);
   font-weight:600;
   opacity:0.92;
+  line-height:var(--lh-body);
 }
 
 .site-header .menu{
-  font-size:13px;
+  font-size:var(--fs-kicker);
   color:var(--muted);
+  line-height:var(--lh-kicker);
 }
 
 .site-header .menu a{
@@ -142,16 +143,17 @@ a:hover{text-decoration:underline}
 
 .h1{
   margin:0 0 10px;
-  font-size:28px;
+  font-size:var(--fs-h1-static);
   font-weight:800;
   letter-spacing:0.02em;
 }
 
 .lead{
   margin:0 0 16px;
-  line-height:1.25;
+  line-height:var(--lh-lead);
   color:var(--muted);
   max-width:78ch;
+  font-size:var(--fs-lead);
 }
 
 /* List blocks */
@@ -176,14 +178,15 @@ a:hover{text-decoration:underline}
 
 .list-header h2{
   margin:0;
-  font-size:16px;
+  font-size:var(--fs-h2);
   font-weight:700;
 }
 
 .list-header .note{
   margin:0;
-  font-size:12px;
+  font-size:var(--fs-kicker);
   color:var(--muted);
+  line-height:var(--lh-kicker);
 }
 
 .items{
@@ -222,22 +225,22 @@ a:hover{text-decoration:underline}
 
 /* Title inside list */
 .item a{
-  font-size:20px;
+  font-size:var(--fs-accent);
   font-weight:800;
-  line-height:1.25;
+  line-height:var(--lh-accent);
 }
 
 .item .meta{
   margin-top:8px;
-  font-size:13px;
+  font-size:var(--fs-body);
   color:var(--muted);
-  line-height:1.25;
+  line-height:var(--lh-body);
   max-width:70ch;
 }
 
 /* Badge */
 .badge{
-  font-size:12px;
+  font-size:var(--fs-kicker);
   color:var(--muted);
   border:1px solid rgba(242,242,244,0.12);
   border-radius:999px;
@@ -245,6 +248,7 @@ a:hover{text-decoration:underline}
   white-space:nowrap;
   background: rgba(255,255,255,0.025);
   align-self:start;
+  line-height:var(--lh-kicker);
 }
 
 .badge.warm{
@@ -256,6 +260,8 @@ a:hover{text-decoration:underline}
 button.btn{
   font-family: inherit;
   background: none;
+  font-size:var(--fs-body);
+  line-height:var(--lh-body);
 }
 
 /* Buttons */
@@ -268,7 +274,7 @@ button.btn{
   border:1px solid rgba(242,242,244,0.18);
   background: rgba(0,0,0,0.22);
   backdrop-filter: blur(3px);
-  font-size:14px;
+  font-size:var(--fs-body);
   font-weight:800;
   text-decoration:none;
   cursor:pointer;
@@ -318,8 +324,8 @@ button.btn{
 
 /* Books index page-type refinements: shared by all language mirrors. */
 .item .books-card-cta .btn{
-  font-size:12px;
-  line-height:1.2;
+  font-size:var(--fs-kicker);
+  line-height:var(--lh-kicker);
   padding:8px 12px;
   border-radius:12px;
   font-weight:700;
@@ -381,7 +387,8 @@ button.btn{
   gap:10px;
   margin-top:24px;
   color:var(--muted);
-  font-size:12px;
+  font-size:var(--fs-kicker);
+  line-height:var(--lh-kicker);
 }
 
 .seal img{
@@ -416,6 +423,6 @@ button.btn{
   }
 
   .item a{
-    font-size:22px;
+    font-size:var(--fs-accent);
   }
 }
