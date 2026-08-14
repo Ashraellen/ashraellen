@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-14T18:23:25.812Z",
+  "generated": "2026-08-14T20:10:49.109Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -2067,7 +2067,7 @@
       "section": "public",
       "title": "Ashraellen — Шлях, дзеянне, рытм",
       "description": "Актуальная лінія формул Ashraellen пра шлях, дзеянне і рытм: кароткія формы думкі, у якіх рух знаходзіць сваю меру.",
-      "existingKeywords": "Ashraellen, Формулы, Шлях, дзеянне, рытм, шлях / дзеянне / рытм, лінія 0004",
+      "existingKeywords": "Ashraellen, формулы, шлях, дзеянне, рытм, лінія 0004",
       "canonical": "https://www.ashraellen.com/be/public/posts/formula/",
       "h1": [
         "Формулы"
@@ -2082,7 +2082,7 @@
         "posts",
         "formula"
       ],
-      "excerpt": "Формулы Кароткія формы думкі: адзін радок, адна дакладнасць. Шлях, дзеянне, рытм Формула Шлях не пачынаецца з упэўненасці. Ён пачынаецца з першага сумленнага кроку. шлях / дзеянне / рытм Формула Дзеянне без унутранай глебы хутка становіцца шумам. шлях / дзеянне / рытм Формула Цярпенне не чакае цуду. Яно беражэ тое, што яшчэ не саспела. шлях / дзеянне / рытм Формула Калі ідзеш сваім шляхам, чужыя мапы становяцца толькі даведнікам. шлях / дзеянне / рытм Формула Сіла не заўсёды штурхае наперад. Часам яна спыняе лішні крок. шлях / дзеянне / рытм Формула Час не лечыць таго, што ты адкрываеш кожны дзень. шлях / дзеянне / рытм Формула Не кожная паўза — слабасць. Часам яна аберагае кірунак. шлях / дзеянне / рытм Формула Рашэнне саспявае раней, чым прыходзяць словы. шлях / дзеянне / рытм Формула Паспешнасць часта апранаецца ў рашучасць. шлях / дзеянне / рытм Формула Шлях правярае не натхненне, а ",
+      "excerpt": "Формулы Кароткія формы думкі: адзін радок, адна дакладнасць. Шлях, дзеянне, рытм Формула Шлях пачынаецца не з упэўненасці, а са згоды зрабіць першы сумленны крок. шлях / дзеянне / рытм Формула Дзеянне без унутранай апоры хутка ператвараецца ў мітусню. шлях / дзеянне / рытм Формула Цярпенне — гэта не чаканне цуду, а адмова ламаць тое, што яшчэ не саспела. шлях / дзеянне / рытм Формула Калі ідзеш сваім шляхам, чужыя мапы становяцца толькі даведнікам. шлях / дзеянне / рытм Формула Сіла не заўсёды штурхае наперад. Часам яна спыняе лішні крок. шлях / дзеянне / рытм Формула Час не лечыць таго, што ты працягваеш адкрываць нанова кожны дзень. шлях / дзеянне / рытм Формула Не кожны прыпынак — слабасць. Часам гэта спосаб не здрадзіць кірунку. шлях / дзеянне / рытм Формула Рашэнне саспявае раней, чым чалавек знаходзіць для яго словы. шлях / дзеянне / рытм Формула Паспешнасць часта апранаецца ў рашу",
       "candidates": [
         "шлях",
         "дзеянне",
@@ -2091,23 +2091,23 @@
         "часам",
         "заўсёды",
         "формы",
-        "яна",
         "ashraellen",
-        "дзень",
         "думкі",
+        "знаходзіць",
+        "калі",
         "кароткія",
+        "кожны",
+        "крок",
         "лінія",
-        "пачынаецца",
         "просіць",
         "прыходзіць",
         "тое",
         "хутка",
+        "яго",
+        "яна",
         "mark",
         "presence",
-        "аберагае",
-        "адзін",
-        "адкрываеш",
-        "адна"
+        "адзін"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",
@@ -2116,14 +2116,14 @@
         "шлях",
         "public",
         "думкі",
+        "знаходзіць",
         "кароткія",
         "формы",
         "formula",
         "posts",
         "актуальная",
-        "дзень",
         "заўсёды",
-        "знаходзіць",
+        "калі",
         "лінія",
         "меру",
         "пра",
@@ -7203,7 +7203,7 @@
       "section": "public",
       "title": "Ashraellen — Weg, Handlung, Rhythmus",
       "description": "Aktuelle Ashraellen-Formellinie über Weg, Handlung und Rhythmus: kurze Denkformen, in denen Bewegung ihr Maß lernt.",
-      "existingKeywords": "Ashraellen, Formeln, Weg, Handlung, Rhythmus, Weg / Handlung / Rhythmus, Linie 0004",
+      "existingKeywords": "Ashraellen, Formeln, Weg, Handlung, Rhythmus, Linie 0004",
       "canonical": "https://www.ashraellen.com/de/public/posts/formula/",
       "h1": [
         "Formeln"
@@ -7218,32 +7218,32 @@
         "posts",
         "formula"
       ],
-      "excerpt": "Formeln Kurze Formen des Gedankens: eine Zeile, ein klarer Schlag. Weg, Handlung, Rhythmus Formel Ein Weg beginnt nicht mit Gewissheit. Er beginnt mit dem ersten ehrlichen Schritt. Weg / Handlung / Rhythmus Formel Handlung ohne inneren Grund wird schnell zu Lärm. Weg / Handlung / Rhythmus Formel Geduld ist kein Warten auf ein Wunder. Sie weigert sich, das Unreife zu zerbrechen. Weg / Handlung / Rhythmus Formel Wenn du deinen eigenen Weg gehst, werden fremde Karten nur zu Hilfsmaterial. Weg / Handlung / Rhythmus Formel Kraft drängt nicht immer vorwärts. Manchmal hält sie den unnötigen Schritt auf. Weg / Handlung / Rhythmus Formel Zeit heilt nicht, was du jeden Tag neu öffnest. Weg / Handlung / Rhythmus Formel Nicht jede Pause ist Schwäche. Manchmal schützt sie die Richtung. Weg / Handlung / Rhythmus Formel Eine Entscheidung reift, bevor die Worte dafür kommen. Weg / Handlung / Rhythmus Fo",
+      "excerpt": "Formeln Kurze Formen des Gedankens: eine Zeile, ein klarer Schlag. Weg, Handlung, Rhythmus Formel Ein Weg beginnt nicht mit Gewissheit, sondern mit der Bereitschaft, den ersten ehrlichen Schritt zu tun. Weg / Handlung / Rhythmus Formel Handeln ohne inneren Halt wird schnell zu bloßer Betriebsamkeit. Weg / Handlung / Rhythmus Formel Geduld ist kein Warten auf ein Wunder. Sie weigert sich, das Unreife zu zerbrechen. Weg / Handlung / Rhythmus Formel Wenn du deinen eigenen Weg gehst, werden fremde Karten nur zu Hilfsmaterial. Weg / Handlung / Rhythmus Formel Kraft drängt nicht immer vorwärts. Manchmal hält sie dich von einem unnötigen Schritt ab. Weg / Handlung / Rhythmus Formel Zeit heilt nicht, was du jeden Tag immer wieder öffnest. Weg / Handlung / Rhythmus Formel Nicht jedes Innehalten ist Schwäche. Manchmal ist es eine Art, die Richtung nicht zu verraten. Weg / Handlung / Rhythmus Forme",
       "candidates": [
         "weg",
-        "handlung",
         "rhythmus",
+        "handlung",
         "formel",
         "nicht",
-        "die",
-        "manchmal",
-        "sie",
-        "ein",
-        "immer",
         "ist",
-        "sich",
-        "auf",
-        "beginnt",
-        "den",
         "der",
+        "immer",
+        "manchmal",
+        "die",
+        "ein",
         "eine",
+        "sich",
+        "sie",
+        "wird",
+        "den",
         "klarer",
+        "kommt",
         "kurze",
         "mit",
         "ohne",
         "schnell",
         "schritt",
-        "tag"
+        "sondern"
       ],
       "suggestedKeywordSeed": [
         "handlung",
@@ -7256,14 +7256,14 @@
         "bewegung",
         "denen",
         "denkformen",
+        "der",
         "die",
         "ein",
+        "eine",
         "formel",
         "formeln",
         "formula",
-        "ihr",
-        "immer",
-        "ist"
+        "ihr"
       ]
     },
     {
@@ -13201,7 +13201,7 @@
       "section": "public",
       "title": "Ashraellen — Path, Action, Rhythm",
       "description": "Current Ashraellen formula line on path, action and rhythm: short forms of thought where movement learns its measure.",
-      "existingKeywords": "Ashraellen, Formulas, Path, Action, Rhythm, path / action / rhythm, line 0004",
+      "existingKeywords": "Ashraellen, formulas, path, action, rhythm, line 0004",
       "canonical": "https://www.ashraellen.com/en/public/posts/formula/",
       "h1": [
         "Formulas"
@@ -13216,32 +13216,32 @@
         "posts",
         "formula"
       ],
-      "excerpt": "Formulas Short forms of thought: one line, one clean strike. Path, action, rhythm Formula A path does not begin with certainty. It begins with the first honest step. path / action / rhythm Formula Action without inner ground soon turns into noise. path / action / rhythm Formula Patience is not waiting for a miracle. It is refusing to break what is not ripe. path / action / rhythm Formula When you walk your own path, other people’s maps become reference material. path / action / rhythm Formula Strength does not always move forward. Sometimes it stops the unnecessary step. path / action / rhythm Formula Time does not heal what you reopen every day. path / action / rhythm Formula Not every pause is weakness. Sometimes it protects the direction. path / action / rhythm Formula A decision ripens before the words for it arrive. path / action / rhythm Formula Haste often dresses itself as resolv",
+      "excerpt": "Formulas Short forms of thought: one line, one clean strike. Path, action, rhythm Formula A path does not begin with certainty. It begins with agreeing to take the first honest step. path / action / rhythm Formula Action without inner support quickly turns into restless activity. path / action / rhythm Formula Patience is not waiting for a miracle. It is refusing to break what is not ripe. path / action / rhythm Formula When you walk your own path, other people’s maps become reference material. path / action / rhythm Formula Strength does not always move forward. Sometimes it keeps you from an unnecessary step. path / action / rhythm Formula Time does not heal what you keep reopening every day. path / action / rhythm Formula Not every pause is weakness. Sometimes it is a way not to betray the direction. path / action / rhythm Formula A decision ripens before you find words for it. path /",
       "candidates": [
         "path",
         "action",
         "rhythm",
         "formula",
+        "you",
         "does",
         "sometimes",
         "every",
         "line",
         "what",
-        "you",
         "always",
         "ashraellen",
         "day",
         "forms",
-        "honest",
         "more",
         "move",
         "one",
+        "quickly",
         "short",
         "step",
         "thought",
         "unnecessary",
-        "without",
-        "after"
+        "when",
+        "without"
       ],
       "suggestedKeywordSeed": [
         "action",
@@ -18328,7 +18328,7 @@
       "section": "public",
       "title": "Ashraellen — Camino, acción, ritmo",
       "description": "Línea actual de fórmulas Ashraellen sobre camino, acción y ritmo: formas breves de pensamiento donde el movimiento aprende su medida.",
-      "existingKeywords": "Ashraellen, Fórmulas, Camino, acción, ritmo, camino / acción / ritmo, línea 0004",
+      "existingKeywords": "Ashraellen, fórmulas, camino, acción, ritmo, línea 0004",
       "canonical": "https://www.ashraellen.com/es/public/posts/formula/",
       "h1": [
         "Fórmulas"
@@ -18343,52 +18343,52 @@
         "posts",
         "formula"
       ],
-      "excerpt": "Fórmulas Formas breves del pensamiento: una línea, una precisión. Camino, acción, ritmo Fórmula Un camino no empieza con certeza. Empieza con el primer paso honesto. camino / acción / ritmo Fórmula La acción sin suelo interior pronto se vuelve ruido. camino / acción / ritmo Fórmula La paciencia no espera un milagro. Se niega a romper lo inmaduro. camino / acción / ritmo Fórmula Cuando sigues tu propio camino, los mapas ajenos quedan como material de consulta. camino / acción / ritmo Fórmula La fuerza no siempre empuja hacia adelante. A veces detiene el paso innecesario. camino / acción / ritmo Fórmula El tiempo no cura lo que vuelves a abrir cada día. camino / acción / ritmo Fórmula No toda pausa es debilidad. A veces protege la dirección. camino / acción / ritmo Fórmula Una decisión madura antes de que lleguen sus palabras. camino / acción / ritmo Fórmula La prisa suele vestirse de dete",
+      "excerpt": "Fórmulas Formas breves del pensamiento: una línea, una precisión. Camino, acción, ritmo Fórmula Un camino no empieza con certeza, sino con la disposición de dar el primer paso honesto. camino / acción / ritmo Fórmula La acción sin apoyo interior pronto se convierte en ajetreo. camino / acción / ritmo Fórmula La paciencia no espera un milagro. Se niega a romper lo inmaduro. camino / acción / ritmo Fórmula Cuando sigues tu propio camino, los mapas ajenos quedan como material de consulta. camino / acción / ritmo Fórmula La fuerza no siempre empuja hacia adelante. A veces te frena antes de un paso innecesario. camino / acción / ritmo Fórmula El tiempo no cura lo que sigues abriendo de nuevo cada día. camino / acción / ritmo Fórmula No toda parada es debilidad. A veces es una forma de no traicionar la dirección. camino / acción / ritmo Fórmula Una decisión madura antes de que la persona encue",
       "candidates": [
         "camino",
         "acción",
         "ritmo",
         "fórmula",
         "con",
+        "una",
         "veces",
         "línea",
         "que",
         "siempre",
-        "una",
+        "antes",
         "ashraellen",
         "breves",
         "cada",
+        "cuando",
         "día",
-        "empieza",
+        "forma",
         "formas",
         "fórmulas",
         "fuerza",
         "llega",
         "más",
         "paso",
-        "pensamiento",
-        "pide",
-        "sin"
+        "pensamiento"
       ],
       "suggestedKeywordSeed": [
         "acción",
         "ashraellen",
         "camino",
         "ritmo",
-        "breves",
         "fórmulas",
         "línea",
         "public",
         "actual",
+        "antes",
         "aprende",
+        "breves",
         "con",
         "donde",
         "formas",
         "formula",
         "fórmula",
         "medida",
-        "movimiento",
-        "pensamiento"
+        "movimiento"
       ]
     },
     {
@@ -23425,7 +23425,7 @@
       "section": "public",
       "title": "Ashraellen — Polku, teko, rytmi",
       "description": "Ashraellenin nykyinen kaavalinja polusta, teosta ja rytmistä: lyhyitä ajatuksia, joissa liike oppii mittansa.",
-      "existingKeywords": "Ashraellen, kaavat, polku, teko, rytmi",
+      "existingKeywords": "Ashraellen, kaavat, polku, teko, rytmi, linja 0004",
       "canonical": "https://www.ashraellen.com/fi/public/posts/formula/",
       "h1": [
         "Kaavat"
@@ -23440,7 +23440,7 @@
         "posts",
         "formula"
       ],
-      "excerpt": "Kaavat Ajatuksen lyhyt muoto: yksi rivi, yksi puhdas osuma. Polku, teko, rytmi Kaava Polku ei ala varmuudesta. Se alkaa ensimmäisestä rehellisestä askeleesta. polku / teko / rytmi Kaava Teko ilman sisäistä perustaa muuttuu pian meluksi. polku / teko / rytmi Kaava Kärsivällisyys ei ole ihmeen odottamista. Se on kieltäytymistä rikkomasta sitä, mikä ei ole vielä kypsä. polku / teko / rytmi Kaava Kun kuljet omaa polkuasi, muiden kartat muuttuvat lähdeaineistoksi. polku / teko / rytmi Kaava Voima ei aina liiku eteenpäin. Joskus se pysäyttää tarpeettoman askeleen. polku / teko / rytmi Kaava Aika ei paranna sitä, minkä revit auki joka päivä. polku / teko / rytmi Kaava Jokainen tauko ei ole heikkoutta. Joskus tauko suojaa suuntaa. polku / teko / rytmi Kaava Päätös kypsyy usein ennen kuin sille löytyvät sanat. polku / teko / rytmi Kaava Kiire pukeutuu mielellään päättäväisyydeksi. polku / teko / ",
+      "excerpt": "Kaavat Ajatuksen lyhyt muoto: yksi rivi, yksi puhdas osuma. Polku, teko, rytmi Kaava Polku ei ala varmuudesta vaan suostumisesta ensimmäiseen rehelliseen askeleeseen. polku / teko / rytmi Kaava Teko ilman sisäistä tukea muuttuu pian levottomaksi touhuamiseksi. polku / teko / rytmi Kaava Kärsivällisyys ei ole ihmeen odottamista. Se on kieltäytymistä rikkomasta sitä, mikä ei ole vielä kypsä. polku / teko / rytmi Kaava Kun kuljet omaa polkuasi, muiden kartat jäävät vain hakuteoksiksi. polku / teko / rytmi Kaava Voima ei aina liiku eteenpäin. Joskus se estää sinua ottamasta tarpeetonta askelta. polku / teko / rytmi Kaava Aika ei paranna sitä, jonka avaat yhä uudelleen joka päivä. polku / teko / rytmi Kaava Kaikki pysähtyminen ei ole heikkoutta. Joskus se on tapa olla pettämättä suuntaa. polku / teko / rytmi Kaava Päätös kypsyy ennen kuin ihminen löytää sille sanat. polku / teko / rytmi Kaava",
       "candidates": [
         "polku",
         "teko",
@@ -23451,21 +23451,21 @@
         "aina",
         "mikä",
         "sitä",
-        "tarpeettoman",
-        "tauko",
+        "vaan",
         "yksi",
         "aika",
         "ajatuksen",
         "ajatuksia",
         "ala",
-        "alkaa",
         "ashraellen",
         "ashraellenin",
-        "askeleen",
-        "askeleesta",
-        "auki",
+        "askeleeseen",
+        "askelta",
+        "avaat",
         "ehkä",
-        "ennen"
+        "ennen",
+        "ensimmäiseen",
+        "estää"
       ],
       "suggestedKeywordSeed": [
         "polku",
@@ -23473,6 +23473,7 @@
         "teko",
         "ashraellen",
         "public",
+        "aika",
         "aina",
         "ajatuksia",
         "ashraellenin",
@@ -23484,8 +23485,7 @@
         "kaavat",
         "liike",
         "lyhyitä",
-        "mikä",
-        "mittansa"
+        "mikä"
       ]
     },
     {
@@ -28832,7 +28832,7 @@
       "section": "public",
       "title": "Ashraellen — Chemin, action, rythme",
       "description": "Ligne actuelle de formules Ashraellen sur le chemin, l’action et le rythme : formes brèves où le mouvement apprend sa mesure.",
-      "existingKeywords": "Ashraellen, Formules, Chemin, action, rythme, chemin / action / rythme, ligne 0004",
+      "existingKeywords": "Ashraellen, formules, chemin, action, rythme, ligne 0004",
       "canonical": "https://www.ashraellen.com/fr/public/posts/formula/",
       "h1": [
         "Formules"
@@ -28847,7 +28847,7 @@
         "posts",
         "formula"
       ],
-      "excerpt": "Formules Formes brèves de pensée : une ligne, une précision. Chemin, action, rythme Formule Un chemin ne commence pas par la certitude. Il commence par le premier pas honnête. chemin / action / rythme Formule L’action sans sol intérieur devient vite du bruit. chemin / action / rythme Formule La patience n’attend pas un miracle. Elle refuse de briser ce qui n’est pas mûr. chemin / action / rythme Formule Quand tu suis ton propre chemin, les cartes des autres deviennent de simples repères. chemin / action / rythme Formule La force ne pousse pas toujours en avant. Parfois, elle retient le pas inutile. chemin / action / rythme Formule Le temps ne guérit pas ce que tu rouvres chaque jour. chemin / action / rythme Formule Toute pause n’est pas faiblesse. Parfois, elle protège la direction. chemin / action / rythme Formule Une décision mûrit avant que les mots n’arrivent. chemin / action / ryth",
+      "excerpt": "Formules Formes brèves de pensée : une ligne, une précision. Chemin, action, rythme Formule Un chemin ne commence pas par la certitude, mais par le consentement à faire le premier pas honnête. chemin / action / rythme Formule L’action sans appui intérieur devient vite de l’agitation. chemin / action / rythme Formule La patience n’attend pas un miracle. Elle refuse de briser ce qui n’est pas mûr. chemin / action / rythme Formule Quand tu suis ton propre chemin, les cartes des autres deviennent de simples repères. chemin / action / rythme Formule La force ne pousse pas toujours en avant. Parfois, elle nous retient de faire un pas inutile. chemin / action / rythme Formule Le temps ne guérit pas ce que tu continues de rouvrir chaque jour. chemin / action / rythme Formule Une pause n’est pas toujours une faiblesse. Parfois, elle permet de ne pas trahir la direction. chemin / action / rythme F",
       "candidates": [
         "chemin",
         "rythme",
@@ -28855,24 +28855,24 @@
         "formule",
         "pas",
         "elle",
+        "une",
         "par",
         "parfois",
-        "ligne",
-        "n’est",
         "toujours",
-        "une",
+        "ligne",
+        "mais",
+        "n’est",
         "ashraellen",
         "avant",
         "brèves",
         "chaque",
-        "commence",
-        "demande",
+        "faire",
+        "force",
         "formes",
         "formules",
         "inutile",
         "jour",
-        "l’action",
-        "les"
+        "l’action"
       ],
       "suggestedKeywordSeed": [
         "chemin",
@@ -28890,9 +28890,9 @@
         "formula",
         "formule",
         "l’action",
+        "mais",
         "mesure",
-        "mouvement",
-        "n’est"
+        "mouvement"
       ]
     },
     {
@@ -36570,7 +36570,7 @@
       "section": "public",
       "title": "Ashraellen — Droga, działanie, rytm",
       "description": "Aktualna linia formuł Ashraellen o drodze, działaniu i rytmie: krótkie formy myśli, w których ruch uczy się swojej miary.",
-      "existingKeywords": "Ashraellen, Formuły, Droga, działanie, rytm, droga / działanie / rytm, linia 0004",
+      "existingKeywords": "Ashraellen, formuły, droga, działanie, rytm, linia 0004",
       "canonical": "https://www.ashraellen.com/pl/public/posts/formula/",
       "h1": [
         "Formuły"
@@ -36585,7 +36585,7 @@
         "posts",
         "formula"
       ],
-      "excerpt": "Formuły Krótka forma myśli: jedna linia, jedno czyste trafienie. Droga, działanie, rytm Formuła Droga nie zaczyna się od pewności. Zaczyna się od pierwszego uczciwego kroku. droga / działanie / rytm Formuła Działanie bez wewnętrznego gruntu szybko zmienia się w hałas. droga / działanie / rytm Formuła Cierpliwość nie jest czekaniem na cud. Jest odmową łamania tego, co jeszcze niedojrzałe. droga / działanie / rytm Formuła Gdy idziesz własną drogą, cudze mapy stają się tylko materiałem pomocniczym. droga / działanie / rytm Formuła Siła nie zawsze pcha do przodu. Czasem zatrzymuje przed zbędnym krokiem. droga / działanie / rytm Formuła Czas nie leczy tego, co codziennie otwierasz na nowo. droga / działanie / rytm Formuła Nie każda pauza jest słabością. Czasem chroni kierunek. droga / działanie / rytm Formuła Decyzja dojrzewa wcześniej, niż przychodzą dla niej słowa. droga / działanie / rytm ",
+      "excerpt": "Formuły Krótka forma myśli: jedna linia, jedno czyste trafienie. Droga, działanie, rytm Formuła Droga zaczyna się nie od pewności, lecz od zgody na pierwszy uczciwy krok. droga / działanie / rytm Formuła Działanie bez wewnętrznego oparcia szybko zmienia się w krzątaninę. droga / działanie / rytm Formuła Cierpliwość nie jest czekaniem na cud. Jest odmową łamania tego, co jeszcze niedojrzałe. droga / działanie / rytm Formuła Gdy idziesz własną drogą, cudze mapy stają się tylko materiałem pomocniczym. droga / działanie / rytm Formuła Siła nie zawsze pcha do przodu. Czasem powstrzymuje cię przed zbędnym krokiem. droga / działanie / rytm Formuła Czas nie leczy tego, co codziennie otwierasz na nowo. droga / działanie / rytm Formuła Nie każde zatrzymanie jest słabością. Czasem jest sposobem, by nie zdradzić kierunku. droga / działanie / rytm Formuła Decyzja dojrzewa wcześniej, niż człowiek znaj",
       "candidates": [
         "droga",
         "działanie",
@@ -36598,38 +36598,38 @@
         "zawsze",
         "ashraellen",
         "bez",
+        "drodze",
         "formy",
         "iść",
+        "lecz",
         "myśli",
         "przychodzi",
         "szybko",
         "tego",
-        "zaczyna",
         "zbędnym",
         "aktualna",
         "ale",
-        "chroni",
-        "cierpliwość",
-        "ciszej"
+        "cię",
+        "cierpliwość"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",
         "droga",
         "działanie",
         "rytm",
-        "formy",
+        "drodze",
         "linia",
         "public",
         "się",
         "aktualna",
         "bez",
         "czasem",
-        "drodze",
         "działaniu",
         "formuł",
         "formula",
         "formuła",
         "formuły",
+        "formy",
         "krótkie"
       ]
     },
@@ -41762,7 +41762,7 @@
       "section": "public",
       "title": "Ashraellen — Caminho, ação, ritmo",
       "description": "Linha atual de fórmulas Ashraellen sobre caminho, ação e ritmo: formas breves de pensamento onde o movimento aprende sua medida.",
-      "existingKeywords": "Ashraellen, Fórmulas, Caminho, ação, ritmo, caminho / ação / ritmo, linha 0004",
+      "existingKeywords": "Ashraellen, fórmulas, caminho, ação, ritmo, linha 0004",
       "canonical": "https://www.ashraellen.com/pt/public/posts/formula/",
       "h1": [
         "Fórmulas"
@@ -41777,32 +41777,32 @@
         "posts",
         "formula"
       ],
-      "excerpt": "Fórmulas Formas breves do pensamento: uma linha, uma precisão. Caminho, ação, ritmo Fórmula Um caminho não começa com certeza. Começa com o primeiro passo honesto. caminho / ação / ritmo Fórmula Ação sem chão interior logo vira ruído. caminho / ação / ritmo Fórmula Paciência não espera um milagre. Ela cuida do que ainda não amadureceu. caminho / ação / ritmo Fórmula Quando você segue o próprio caminho, os mapas dos outros viram apenas referência. caminho / ação / ritmo Fórmula A força nem sempre empurra para a frente. Às vezes segura o passo desnecessário. caminho / ação / ritmo Fórmula O tempo não cura o que você reabre todos os dias. caminho / ação / ritmo Fórmula Nem toda pausa é fraqueza. Às vezes ela protege a direção. caminho / ação / ritmo Fórmula Uma decisão amadurece antes que as palavras cheguem. caminho / ação / ritmo Fórmula A pressa muitas vezes se veste de decisão. caminho ",
+      "excerpt": "Fórmulas Formas breves do pensamento: uma linha, uma precisão. Caminho, ação, ritmo Fórmula Um caminho não começa com certeza, mas com a disposição de dar o primeiro passo honesto. caminho / ação / ritmo Fórmula A ação sem apoio interior logo se transforma em agitação. caminho / ação / ritmo Fórmula Paciência não é esperar por um milagre, mas recusar-se a quebrar o que ainda não amadureceu. caminho / ação / ritmo Fórmula Quando você segue o próprio caminho, os mapas dos outros viram apenas referência. caminho / ação / ritmo Fórmula A força nem sempre empurra para a frente. Às vezes impede um passo desnecessário. caminho / ação / ritmo Fórmula O tempo não cura o que você continua reabrindo todos os dias. caminho / ação / ritmo Fórmula Nem toda parada é fraqueza. Às vezes é uma forma de não trair a direção. caminho / ação / ritmo Fórmula Uma decisão amadurece antes que a pessoa encontre pa",
       "candidates": [
         "caminho",
         "ação",
         "ritmo",
         "fórmula",
         "não",
-        "com",
         "vezes",
+        "com",
+        "mas",
         "nem",
         "que",
+        "uma",
         "linha",
         "mais",
         "sempre",
-        "uma",
+        "você",
         "ashraellen",
         "breves",
-        "começa",
         "decisão",
-        "ela",
         "força",
+        "forma",
         "formas",
         "fórmulas",
-        "mas",
-        "passo",
-        "pede"
+        "para",
+        "passo"
       ],
       "suggestedKeywordSeed": [
         "ação",
@@ -41819,7 +41819,7 @@
         "formas",
         "formula",
         "fórmula",
-        "mais",
+        "mas",
         "medida",
         "movimento",
         "não"
@@ -49209,7 +49209,7 @@
       "section": "public",
       "title": "Ashraellen — Путь, действие, ритм",
       "description": "Актуальная линия формул Ashraellen о пути, действии и ритме: короткие формы мысли, где движение учится своей мере.",
-      "existingKeywords": "Ashraellen, Формулы, Путь, действие, ритм, путь / действие / ритм, линия 0004",
+      "existingKeywords": "Ashraellen, формулы, путь, действие, ритм, линия 0004",
       "canonical": "https://www.ashraellen.com/ru/public/posts/formula/",
       "h1": [
         "Формулы"
@@ -57067,7 +57067,7 @@
       "section": "public",
       "title": "Ashraellen — Шлях, дія, ритм",
       "description": "Актуальна лінія формул Ashraellen про шлях, дію і ритм: короткі форми думки, у яких рух знаходить свою міру.",
-      "existingKeywords": "Ashraellen, Формули, Шлях, дія, ритм, шлях / дія / ритм, лінія 0004",
+      "existingKeywords": "Ashraellen, формули, шлях, дія, ритм, лінія 0004",
       "canonical": "https://www.ashraellen.com/uk/public/posts/formula/",
       "h1": [
         "Формули"
@@ -57082,32 +57082,32 @@
         "posts",
         "formula"
       ],
-      "excerpt": "Формули Короткі форми думки: один рядок, одна точність. Шлях, дія, ритм Формула Шлях не починається з упевненості. Він починається з першого чесного кроку. шлях / дія / ритм Формула Дія без внутрішнього ґрунту швидко стає шумом. шлях / дія / ритм Формула Терпіння не чекає дива. Воно береже те, що ще не дозріло. шлях / дія / ритм Формула Коли йдеш своїм шляхом, чужі карти стають лише довідником. шлях / дія / ритм Формула Сила не завжди штовхає вперед. Іноді вона зупиняє зайвий крок. шлях / дія / ритм Формула Час не лікує того, що ти відкриваєш щодня. шлях / дія / ритм Формула Не кожна пауза — слабкість. Іноді вона захищає напрям. шлях / дія / ритм Формула Рішення дозріває раніше, ніж приходять слова. шлях / дія / ритм Формула Поспіх часто вдягається в рішучість. шлях / дія / ритм Формула Шлях перевіряє не натхнення, а звичайний день. шлях / дія / ритм Формула Те, що справді твоє, не завжд",
+      "excerpt": "Формули Короткі форми думки: один рядок, одна точність. Шлях, дія, ритм Формула Шлях починається не з упевненості, а зі згоди зробити перший чесний крок. шлях / дія / ритм Формула Дія без внутрішньої опори швидко перетворюється на метушню. шлях / дія / ритм Формула Терпіння — це не очікування дива, а відмова ламати те, що ще не дозріло. шлях / дія / ритм Формула Коли йдеш своїм шляхом, чужі карти стають лише довідником. шлях / дія / ритм Формула Сила не завжди штовхає вперед. Іноді вона утримує від зайвого кроку. шлях / дія / ритм Формула Час не лікує того, що ти продовжуєш відкривати наново щодня. шлях / дія / ритм Формула Не кожна зупинка — слабкість. Іноді це спосіб не зрадити напрям. шлях / дія / ритм Формула Рішення дозріває раніше, ніж людина знаходить для нього слова. шлях / дія / ритм Формула Поспіх часто вдягається в рішучість. шлях / дія / ритм Формула Вірність шляху перевіряєт",
       "candidates": [
         "шлях",
         "дія",
         "ритм",
         "формула",
         "іноді",
-        "вона",
         "завжди",
-        "форми",
         "ashraellen",
+        "вона",
         "думки",
+        "зайвого",
+        "знаходить",
+        "коли",
         "короткі",
         "лінія",
-        "починається",
         "приходить",
-        "просить",
+        "форми",
         "швидко",
         "mark",
         "presence",
         "актуальна",
         "але",
         "без",
-        "береже",
         "вдягається",
-        "відкриваєш"
+        "вимагає"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",
@@ -57116,18 +57116,18 @@
         "дія",
         "public",
         "думки",
-        "короткі",
-        "лінія",
-        "форми",
+        "знаходить",
         "formula",
         "posts",
         "актуальна",
         "вона",
         "дію",
         "завжди",
-        "знаходить",
+        "зайвого",
         "іноді",
-        "міру"
+        "коли",
+        "короткі",
+        "лінія"
       ]
     },
     {
