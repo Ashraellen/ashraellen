@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-14T15:11:40.101Z
+Generated: 2026-08-14T15:26:43.693Z
 Pages: 846
 
 ## Index
@@ -39,7 +39,7 @@ Pages: 846
 | be/public/posts/formula/lines/line-0001.html | be | public | Ashraellen — Думка, увага, цела, мінулае | Ashraellen, Формулы, Думка, увага, цела, мінулае, думка / увага / цела / мінулае, лінія 0001 | ashraellen, мінулае, цела, думка, увага, public, думку, лінія, увагу, formula, line, lines, posts, актуальная, архіўная, кароткія, лініі, назірання |
 | be/public/posts/formula/lines/line-0002.html | be | public | Ashraellen — Слова, маўчанне, сэнс | Ashraellen, Формулы, Слова, маўчанне, сэнс, слова / маўчанне / сэнс, лінія 0002 | ashraellen, маўчанне, слова, сэнс, public, архіўная, лінія, пра, formula, line, lines, posts, актуальная, дакладнасць, калі, кароткія, лініі, месца |
 | be/public/posts/fragment/index.html | be | public | Ashraellen — Фрагменты | ashraellen, public, posts, fragment, фрагменты, па-беларуску, раздзел, які, рыхтуецца, аснове, вялікага, архіва, рукапісаў, нататак, публікацый, doctype, html, title | ashraellen, фрагменты, раздзел, рыхтуецца, public, архіва, нататак, публікацый, рукапісаў, fragment, posts, архіў, аснове, вялікага, па-беларуску, рабочых, тут, тэкстаў |
-| be/public/posts/index.html | be | public | Ashraellen — Публікацыі | ashraellen, public, posts, публікацыі, па-беларуску, кароткія, формы, назірання, формулы, фрагменты, міні-эсэ, раздзелы, doctype, html, title, function, const, isgithub | ashraellen, публікацыі, public, кароткія, міні-эсэ, назірання, формулы, формы, фрагменты, essay, formula, fragment, posts, па-беларуску, раздзелы, чытаць |
+| be/public/posts/index.html | be | public | Ashraellen — Публікацыі | Ashraellen, публікацыі, формулы, фрагменты, міні-эсэ, філасофскія тэксты, мастацкае даследаванне | ashraellen, публікацыі, public, думку, кароткія, лекцыяй, міні-эсэ, назірання, таго, формулы, формы, фрагменты, posts, раздзелы, становіцца, фіксуюць, чытаць, якія |
 | be/public/posts/sources/index.html | be | public | Ashraellen — Крыніцы перанесены | ashraellen, public, posts, sources, крыніцы, перанесены, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean | крыніцы, перанесены, ashraellen, public, адкрыць, аснова, даследавання, кагнітыўная, мастацкая, метадалагічная, навука, належаць, наратыў, праекта, posts, sources, практыка, раздзела |
 | be/public/talks/index.html | be | public | Ashraellen — Выступленні | ashraellen, public, talks, выступленні, відэа, публічныя, разборы, яснасць, успрыманне, свядомасць, рэальнасць, вяртанне, жывога, разумення, спіс, адбываецца, пасля, смерці | ashraellen, sacred, public, taste, ахепсу, відэа, выступленні, moan, money, revelation, talks, your, youtube, адбываецца, адкрыць, ведаеш, вяртанне, дзе |
 | be/public/thoughts/arcs/0001-cheerfulness.html | be | public | Ashraellen — Вясёласць як дыягностыка чалавека | ashraellen, public, thoughts, arcs, 0001, cheerfulness, вясёласць, дыягностыка, чалавека, апорная, думка, смех, часта, адкрывае, душу, дакладней, правільныя, прамовы | ashraellen, вясёласць, чалавека, public, адкрывае, апорная, думка, дыягностыка, смех, arcs, cheerfulness, thoughts, або, без, выбрана, дакладней, даследчая, душу |
@@ -108,7 +108,7 @@ Pages: 846
 | de/public/posts/formula/lines/line-0001.html | de | public | Ashraellen — Gedanke, Aufmerksamkeit, Körper, Vergangenheit | Ashraellen, Formeln, Gedanke, Aufmerksamkeit, Körper, Vergangenheit, Gedanke / Aufmerksamkeit / Körper / Vergangenheit, Linie 0001 | aufmerksamkeit, gedanke, körper, vergangenheit, ashraellen, der, public, über, und, archivierte, ashraellen-formellinie, beobachtungen, bewegung, das, die, erinnerung, formel, formeln |
 | de/public/posts/formula/lines/line-0002.html | de | public | Ashraellen — Wort, Schweigen, Sinn | Ashraellen, Formeln, Wort, Schweigen, Sinn, Wort / Schweigen / Sinn, Linie 0002 | schweigen, sinn, wort, ashraellen, der, linie, public, über, und, archivierte, ashraellen-formellinie, den, denkformen, ein, formel, formeln, formula, genauigkeit |
 | de/public/posts/fragment/index.html | de | public | Ashraellen — Fragmente | ashraellen, public, posts, fragment, fragmente, von, ein, bereich, der, aus, einem, großen, archiv, handschriftlicher, texte, notizen, und, veröffentlichungen | ashraellen, fragmente, bereich, wird, archiv, aus, der, notizen, public, texte, und, vorbereitet, auszüge, die, dieser, ein, einem, fragment |
-| de/public/posts/index.html | de | public | Ashraellen — Beiträge | ashraellen, public, posts, beiträge, abschnitte, formeln, fragmente, mini-essays, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | beiträge, abschnitte, formeln, fragmente, mini-essays, ashraellen, beobachtung, bevor, der, kurze, public, und, ein, einen, fassen, format, formen, gedanken |
+| de/public/posts/index.html | de | public | Ashraellen — Beiträge | Ashraellen, Beiträge, Formeln, Fragmente, Mini-Essays, philosophische Texte, künstlerische Forschung | ashraellen, beiträge, bevor, einen, formeln, fragmente, gedanken, kurze, mini-essays, public, und, abschnitte, beobachtungsformen, die, ein, festhalten, lesen, posts |
 | de/public/posts/sources/index.html | de | public | Ashraellen — Quellen verschoben | ashraellen, public, posts, sources, quellen, verschoben, wurden, neue, adresse, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | quellen, verschoben, neue, wurden, adresse, ashraellen, beiträgen, bilden, den, der, forschung, public, und, des, eine, gehören, grundlage, jetzt |
 | de/public/talks/index.html | de | public | Ashraellen — Vorträge | ashraellen, public, talks, vorträge, videos, und, öffentliche, analysen, von, klarheit, wahrnehmung, bewusstsein, realität, die, rückkehr, zum, lebendigen, verstehen | ashraellen, die, und, das, dem, der, public, sacred, von, vorträge, ahepsu, als, analysen, bewusstsein, buch, chronik, des, ebenen |
 | de/public/thoughts/arcs/0001-cheerfulness.html | de | public | Ashraellen — Heiterkeit als Diagnose des Menschen | ashraellen, public, thoughts, arcs, 0001, cheerfulness, heiterkeit, als, diagnose, des, menschen, stützgedanke, lachen, öffnet, die, seele, oft, genauer | als, ashraellen, heiterkeit, menschen, des, diagnose, die, lachen, public, arcs, ausgewählt, cheerfulness, das, den, durch, forschungsnotiz, genauer, lacht |
@@ -189,7 +189,7 @@ Pages: 846
 | en/public/posts/formula/lines/line-0001.html | en | public | Ashraellen — Thought, Attention, Body, Past | Ashraellen, Formulas, Thought, Attention, Body, Past, thought / attention / body / past, line 0001 | ashraellen, attention, body, line, past, thought, formula, archived, public, awareness, command, first, forms, formulas, inner, lines, memory, movement |
 | en/public/posts/formula/lines/line-0002.html | en | public | Ashraellen — Word, Silence, Meaning | Ashraellen, Formulas, Word, Silence, Meaning, word / silence / meaning, line 0002 | ashraellen, line, meaning, silence, word, formula, archived, language, public, thought, can, forms, formulas, lines, listening, place, posts, precision |
 | en/public/posts/fragment/index.html | en | public | Ashraellen — Fragments | ashraellen, public, posts, fragment, fragments, section, being, prepared, large, archive, handwritten, texts, notes, publications, accumulated, over, many, years | ashraellen, fragments, being, accumulated, archive, handwritten, large, notes, prepared, public, section, texts, work, excerpts, fragment, here, many, over |
-| en/public/posts/index.html | en | public | Ashraellen — Posts | ashraellen, public, posts, sections, formulas, fragments, mini-essays, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | posts, sections, formulas, fragments, mini-essays, ashraellen, become, before, catching, choose, different, public, thought, forms, has, lecture, observation, read |
+| en/public/posts/index.html | en | public | Ashraellen — Posts | Ashraellen, posts, formulas, fragments, mini-essays, philosophical texts, artistic research | posts, ashraellen, before, forms, formulas, fragments, lecture, mini-essays, observation, public, thought, becomes, catch, one, read, sections, short |
 | en/public/posts/sources/index.html | en | public | Ashraellen — Sources Moved | ashraellen, public, posts, sources, moved, have, new, location, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | sources, moved, have, location, new, ashraellen, part, public, research, belong, foundation, longer, methodological, posts, now, open, project, section |
 | en/public/talks/index.html | en | public | Ashraellen — Talks | ashraellen, public, talks, videos, analyses, clarity, perception, consciousness, reality, return, living, understanding, list, what, happens, after, death, seven | ashraellen, sacred, public, talks, ahepsu, taste, about, after, analyses, book, can, chronicle, clarity, consciousness, dead, death, dubbing, familiar |
 | en/public/thoughts/arcs/0001-cheerfulness.html | en | public | Ashraellen — Cheerfulness as a Diagnosis of a Person | ashraellen, public, thoughts, arcs, 0001, cheerfulness, diagnosis, person, support, thought, laughter, often, reveals, soul, more, precisely, than, correct | ashraellen, cheerfulness, person, correct, diagnosis, laughter, public, than, thought, about, arcs, chosen, full, how, meaning, more, note, often |
@@ -258,7 +258,7 @@ Pages: 846
 | es/public/posts/formula/lines/line-0001.html | es | public | Ashraellen — Pensamiento, atención, cuerpo, pasado | Ashraellen, Fórmulas, Pensamiento, atención, cuerpo, pasado, pensamiento / atención / cuerpo / pasado, línea 0001 | atención, cuerpo, pasado, pensamiento, ashraellen, fórmulas, línea, public, archivada, breves, empieza, formas, formula, fórmula, line, lines, memoria, observación |
 | es/public/posts/formula/lines/line-0002.html | es | public | Ashraellen — Palabra, silencio, sentido | Ashraellen, Fórmulas, Palabra, silencio, sentido, palabra / silencio / sentido, línea 0002 | palabra, sentido, silencio, ashraellen, fórmulas, línea, lenguaje, public, sobre, archivada, breves, con, cuando, escucha, formas, formula, fórmula, line |
 | es/public/posts/fragment/index.html | es | public | Ashraellen — Fragmentos | ashraellen, public, posts, fragment, fragmentos, sección, preparada, partir, gran, archivo, manuscritos, notas, publicaciones, acumulados, durante, muchos, años, trabajo | ashraellen, fragmentos, acumulados, años, archivo, durante, notas, public, sección, trabajo, aquí, del, extractos, fragment, gran, manuscritos, muchos, partir |
-| es/public/posts/index.html | es | public | Ashraellen — Publicaciones | ashraellen, public, posts, publicaciones, secciones, fórmulas, fragmentos, mini-ensayos, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | publicaciones, fórmulas, fragmentos, mini-ensayos, alcance, antes, ashraellen, atrapar, breves, convertirse, distintas, formas, public, secciones, idea, leer, maneras, observación |
+| es/public/posts/index.html | es | public | Ashraellen — Publicaciones | Ashraellen, publicaciones, fórmulas, fragmentos, miniensayos, textos filosóficos, investigación artística | ashraellen, publicaciones, que, antes, breves, conferencia, formas, fórmulas, fragmentos, idea, miniensayos, public, capturan, convierta, leer, observación, posts, secciones |
 | es/public/posts/sources/index.html | es | public | Ashraellen — Fuentes trasladadas | ashraellen, public, posts, sources, fuentes, trasladadas, las, han, sido, nueva, dirección, doctype, html, title, function, const, isgithub, location.hostname.endswith | fuentes, las, trasladadas, han, sido, ashraellen, dirección, ahora, como, del, forman, investigación, nueva, public, fundamento, metodológico, parte, pertenecen |
 | es/public/talks/index.html | es | public | Ashraellen — Presentaciones | ashraellen, public, talks, presentaciones, videos, análisis, públicos, claridad, percepción, conciencia, realidad, regreso, una, comprensión, viva, lista, qué, sucede | ashraellen, análisis, presentaciones, public, sacred, una, abrir, ahepsu, alma, autoengaño, claridad, como, comprensión, con, conciencia, crónica, del, demasiado |
 | es/public/thoughts/arcs/0001-cheerfulness.html | es | public | Ashraellen — La alegría como diagnóstico de la persona | ashraellen, public, thoughts, arcs, 0001, cheerfulness, alegría, como, diagnóstico, persona, pensamiento, apoyo, risa, menudo, abre, alma, con, más | alegría, ashraellen, como, persona, con, diagnóstico, más, pensamiento, public, que, abre, alma, apoyo, arcs, bondad, cheerfulness, cómo, completo |
@@ -327,7 +327,7 @@ Pages: 846
 | fi/public/posts/formula/lines/line-0001.html | fi | public | Ashraellen — Ajatus, huomio, keho, menneisyys | Ashraellen, kaavat, ajatus, huomio, keho, menneisyys | ajatus, huomio, keho, menneisyys, arkistoitu, ashraellen, ensimmäinen, public, ajatusta, ashraellenin, edelleen, formula, kaava, kaavalinja, kaavat, line, lines, linja |
 | fi/public/posts/formula/lines/line-0002.html | fi | public | Ashraellen — Sana, hiljaisuus, merkitys | Ashraellen, kaavat, sana, hiljaisuus, merkitys | hiljaisuus, merkitys, sana, alkaa, arkistoitu, ashraellen, milloin, public, sitä, ashraellenin, formula, hiljaisuuden, kaava, kaavalinja, kaavat, kieli, kirkastaa, kokemuksen |
 | fi/public/posts/fragment/index.html | fi | public | Ashraellen — Fragmentit | Ashraellen, fragmentit, arkisto, muistiinpanot, työtekstit | fragmentit, aikana, ashraellen, julkaisujen, käsinkirjoitettujen, muistiinpanojen, public, tekstien, vuosien, aineistoa, alla, arkisto, arkiston, arkistoon, arkistosta, ashraellenin, fragment, kertyneestä |
-| fi/public/posts/index.html | fi | public | Ashraellen — Julkaisut | Ashraellen, julkaisut, kaavat, fragmentit, miniesseet | ashraellen, julkaisut, ajatus, ashraellenin, ennen, fragmentit, kaavat, kuin, luennoksi, miniesseet, public, havaintomuodot, joissa, julkiset, kirjataan, kovettuu, lue, lyhyet |
+| fi/public/posts/index.html | fi | public | Ashraellen — Julkaisut | Ashraellen, julkaisut, kaavat, fragmentit, miniesseet, filosofiset tekstit, taiteellinen tutkimus | ashraellen, julkaisut, ajatus, ennen, fragmentit, kaavat, kuin, luennoksi, miniesseet, public, ashraellenin, havaintomuodot, joissa, julkiset, kirjataan, kovettuu, lue, lyhyet |
 | fi/public/posts/sources/index.html | fi | public | Ashraellen — Lähteet ovat siirtyneet | Ashraellen, lähteet, tutkimus, menetelmä, fenomenologia | lähteet, ovat, siirtyneet, ashraellen, ashraellen-menetelmän, metodologista, perustaa, public, ashraellenin, avaa, eivät, enää, fenomenologia, osaksi, posts, public-teksteistä, sijainti, sources |
 | fi/public/talks/index.html | fi | public | Ashraellen — Puheenvuorot | Ashraellen, puheenvuorot, videot, julkiset analyysit, tietoisuus | ashraellen, ahepsu, public, puheenvuorot, pyhä, ääniraitoja, analyysejä, asetuksista, ashraellenin, avaa, dubbaus, eikä, elävään, havainto, hiljaisuuteen, ilmestys, itsepetoksen, jälkeen |
 | fi/public/thoughts/arcs/0001-cheerfulness.html | fi | public | Ashraellen — Iloisuus ihmisen diagnoosina | Ashraellen, tukiajatus, iloisuus, nauru, havainto | ihmisen, diagnoosina, iloisuus, ashraellen, ashraellenin, nauru, public, usein, ajatus, arcs, cheerfulness, haluat, hän, ilman, koko, kuin, kuinka, merkitys |
@@ -400,7 +400,7 @@ Pages: 846
 | fr/public/posts/formula/lines/line-0001.html | fr | public | Ashraellen — Pensée, attention, corps, passé | Ashraellen, Formules, Pensée, attention, corps, passé, pensée / attention / corps / passé, ligne 0001 | corps, passé, pensée, ashraellen, attention, ligne, formules, public, archivée, brèves, c’est, commence, d’observation, formes, formula, formule, l’attention, line |
 | fr/public/posts/formula/lines/line-0002.html | fr | public | Ashraellen — Mot, silence, sens | Ashraellen, Formules, Mot, silence, sens, mot / silence / sens, ligne 0002 | mot, sens, silence, ashraellen, formules, ligne, langue, public, sur, archivée, brèves, encore, formes, formula, formule, l’écoute, line, lines |
 | fr/public/posts/fragment/index.html | fr | public | Ashraellen — Fragments | ashraellen, public, posts, fragment, fragments, section, préparée, partir, d’un, vaste, ensemble, manuscrits, notes, publications, accumulés, pendant, nombreuses, années | ashraellen, fragments, accumulés, années, ensemble, manuscrits, notes, public, section, travail, archive, d’un, extraits, fragment, ici, nombreuses, partir, pendant |
-| fr/public/posts/index.html | fr | public | Ashraellen — Publications | ashraellen, public, posts, publications, sections, formules, fragments, mini-essais, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | publications, formules, fragments, mini-essais, une, ait, ashraellen, avant, brèves, d’observation, devenir, pensée, public, sections, différentes, formes, lire, manières |
+| fr/public/posts/index.html | fr | public | Ashraellen — Publications | Ashraellen, publications, formules, fragments, mini-essais, textes philosophiques, recherche artistique | publications, une, ashraellen, avant, brèves, conférence, d’observation, formes, formules, fragments, mini-essais, pensée, public, d’ashraellen, devienne, lire, posts, qu’elle |
 | fr/public/posts/sources/index.html | fr | public | Ashraellen — Sources déplacées | ashraellen, public, posts, sources, déplacées, les, ont, été, nouvelle, adresse, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io | sources, déplacées, les, été, ont, adresse, ashraellen, comme, des, désormais, elles, nouvelle, public, recherche, fondement, font, méthodologique, partie |
 | fr/public/talks/index.html | fr | public | Ashraellen — Interventions | ashraellen, public, talks, interventions, vidéos, analyses, publiques, d’ashraellen, clarté, perception, conscience, réalité, retour, une, compréhension, vivante, liste, que | ashraellen, dans, interventions, public, sacred, une, âme, analyses, après, c’est, chronique, clarté, comme, compréhension, conscience, d’ahepsu, d’ashraellen, d’auto-tromperie |
 | fr/public/thoughts/arcs/0001-cheerfulness.html | fr | public | Ashraellen — La joie comme diagnostic de la personne | ashraellen, public, thoughts, arcs, 0001, cheerfulness, joie, comme, diagnostic, personne, pensée, d’appui, rire, ouvre, souvent, l’âme, plus, précisément | ashraellen, comme, joie, personne, diagnostic, pensée, plus, public, que, rire, arcs, bonté, cheerfulness, choix, complet, corrects, d’appui, discours |
@@ -505,7 +505,7 @@ Pages: 846
 | pl/public/posts/formula/lines/line-0001.html | pl | public | Ashraellen — Myśl, uwaga, ciało, przeszłość | Ashraellen, Formuły, Myśl, uwaga, ciało, przeszłość, myśl / uwaga / ciało / przeszłość, linia 0001 | ashraellen, ciało, myśl, przeszłość, uwaga, public, 261, 263, 281, 322, 347, 380, archiwalna, ciele, formuł, formula, formuła, formuły |
 | pl/public/posts/formula/lines/line-0002.html | pl | public | Ashraellen — Słowo, milczenie, sens | Ashraellen, Formuły, Słowo, milczenie, sens, słowo / milczenie / sens, linia 0002 | ashraellen, milczenie, sens, słowo, archiwalna, linia, public, aktualna, formuł, formula, formuła, formuły, formy, gdy, jeszcze, języku, krótkie, line |
 | pl/public/posts/fragment/index.html | pl | public | Ashraellen — Fragmenty | ashraellen, public, posts, fragment, fragmenty, dział, przygotowywany, podstawie, dużego, archiwum, rękopisów, notatek, publikacji, gromadzonych, przez, wiele, lat, pracy | ashraellen, fragmenty, dział, przygotowywany, archiwum, lat, notatek, pracy, przez, public, publikacji, rękopisów, dużego, fragment, gromadzonych, podstawie, posts, roboczych |
-| pl/public/posts/index.html | pl | public | Ashraellen — Publikacje | ashraellen, public, posts, publikacje, działy, formuły, fragmenty, mini-eseje, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | publikacje, działy, formuły, fragmenty, mini-eseje, ashraellen, format, formula, formy, krótkie, myśli, obserwacji, public, czytaj, posts, różne, się, sposoby |
+| pl/public/posts/index.html | pl | public | Ashraellen — Publikacje | Ashraellen, publikacje, formuły, fragmenty, minieseje, teksty filozoficzne, badanie artystyczne | ashraellen, publikacje, formuły, formy, fragmenty, krótkie, minieseje, myśl, obserwacji, public, się, wykładem, chwytają, czytaj, działy, które, posts, stanie |
 | pl/public/posts/sources/index.html | pl | public | Ashraellen — Źródła przeniesione | ashraellen, public, posts, sources, źródła, przeniesione, zostały, nowy, adres, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | źródła, przeniesione, adres, nowy, zostały, ashraellen, badań, badania, częścią, działu, fundament, jako, public, już, metodologiczny, należą, nie, otwórz |
 | pl/public/talks/index.html | pl | public | Ashraellen — Wystąpienia | ashraellen, public, talks, wystąpienia, wideo, publiczne, analizy, jasność, percepcja, świadomość, rzeczywistość, powrót, żywego, rozumienia, lista, dzieje, się, śmierci | ashraellen, sacred, się, ahepsu, public, wideo, wystąpienia, analizy, ciszę, dubbing, duszy, dużo, dzieje, jako, jasność, kronika, księga, lecz |
 | pl/public/thoughts/arcs/0001-cheerfulness.html | pl | public | Ashraellen — Wesołość jako diagnoza człowieka | ashraellen, public, thoughts, arcs, 0001, cheerfulness, wesołość, jako, diagnoza, człowieka, myśl, przewodnia, śmiech, często, odsłania, duszę, dokładniej, niż | ashraellen, człowieka, jako, wesołość, diagnoza, myśl, niż, public, śmiech, arcs, badawcza, bez, cheerfulness, często, człowiek, dlaczego, dokładniej, duszę |
@@ -575,7 +575,7 @@ Pages: 846
 | pt/public/posts/formula/lines/line-0001.html | pt | public | Ashraellen — Pensamento, atenção, corpo, passado | Ashraellen, Fórmulas, Pensamento, atenção, corpo, passado, pensamento / atenção / corpo / passado, linha 0001 | atenção, corpo, passado, pensamento, ashraellen, fórmulas, linha, public, apenas, arquivada, breves, começa, formas, formula, fórmula, line, lines, memória |
 | pt/public/posts/formula/lines/line-0002.html | pt | public | Ashraellen — Palavra, silêncio, sentido | Ashraellen, Fórmulas, Palavra, silêncio, sentido, palavra / silêncio / sentido, linha 0002 | palavra, sentido, silêncio, ashraellen, fórmulas, linha, linguagem, public, sobre, ainda, arquivada, breves, escuta, formas, formula, fórmula, line, lines |
 | pt/public/posts/fragment/index.html | pt | public | Ashraellen — Fragmentos — PT | ashraellen, public, posts, fragment, fragmentos, seção, preparada, partir, grande, arquivo, manuscritos, notas, publicações, acumulados, longo, muitos, anos, trabalho | ashraellen, fragmentos, acumulados, anos, arquivo, grande, longo, manuscritos, notas, public, seção, trabalho, aqui, fragment, muitos, partir, posts, preparação |
-| pt/public/posts/index.html | pt | public | Ashraellen — Publicações | ashraellen, public, posts, publicações, seções, fórmulas, fragmentos, mini-ensaios, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | publicações, fórmulas, fragmentos, mini-ensaios, antes, ashraellen, breves, capturar, diferentes, ele, formas, pensamento, public, seções, ler, maneiras, observação, posts |
+| pt/public/posts/index.html | pt | public | Ashraellen — Publicações | Ashraellen, publicações, fórmulas, fragmentos, miniensaios, textos filosóficos, pesquisa artística | ashraellen, publicações, que, antes, breves, ele, formas, fórmulas, fragmentos, miniensaios, pensamento, public, capturam, ler, observação, palestra, posts, seções |
 | pt/public/posts/sources/index.html | pt | public | Ashraellen — Fontes transferidas | ashraellen, public, posts, sources, fontes, transferidas, foram, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | fontes, transferidas, foram, abrir, agora, ashraellen, base, ciência, como, corpo, fazem, fenomenologia, metodológica, public, narrativa, parte, pesquisa, posts |
 | pt/public/talks/index.html | pt | public | Ashraellen — Apresentações | ashraellen, public, talks, apresentações, vídeos, análises, públicas, clareza, percepção, consciência, realidade, retorno, compreensão, viva, lista, que, acontece, depois | ashraellen, apresentações, para, public, que, sacred, uma, abrir, acontece, ahepsu, alma, análises, autoengano, clareza, com, como, compreensão, consciência |
 | pt/public/thoughts/arcs/0001-cheerfulness.html | pt | public | Ashraellen — A alegria como diagnóstico da pessoa | ashraellen, public, thoughts, arcs, 0001, cheerfulness, alegria, como, diagnóstico, pessoa, pensamento, apoio, riso, muitas, vezes, abre, alma, com | alegria, ashraellen, como, pessoa, que, com, diagnóstico, mais, pensamento, public, abre, alma, apoio, arcs, bondade, cheerfulness, completo, corretos |
@@ -675,7 +675,7 @@ Pages: 846
 | ru/public/posts/formula/lines/line-0001.html | ru | public | Ashraellen — Мысль, внимание, тело, прошлое | Ashraellen, Формулы, Мысль, внимание, тело, прошлое, мысль / внимание / тело / прошлое, линия 0001 | ashraellen, внимание, мысль, прошлое, тело, public, архивная, линия, formula, line, lines, posts, актуальная, власть, внимании, внутреннем, движении, короткие |
 | ru/public/posts/formula/lines/line-0002.html | ru | public | Ashraellen — Слово, молчание, смысл | Ashraellen, Формулы, Слово, молчание, смысл, слово / молчание / смысл, линия 0002 | ashraellen, молчание, слово, смысл, public, архивная, линия, formula, line, lines, posts, актуальная, бывает, иногда, когда, короткие, линии, место |
 | ru/public/posts/fragment/index.html | ru | public | Ashraellen — Фрагменты | ashraellen, public, posts, fragment, фрагменты, раздел, готовится, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | фрагменты, готовится, раздел, ashraellen, public, архив, больших, заметок, здесь, какой, отрывки, рабочих, текстов, fragment, posts, кусок, лежит, материалов |
-| ru/public/posts/index.html | ru | public | Ashraellen — Публикации | ashraellen, public, posts, публикации, разделы, формулы, фрагменты, мини-эссе, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | публикации, разделы, мини-эссе, формулы, фрагменты, ashraellen, formula, public, выберите, короткие, лекцией, мысль, наблюдения, posts, она, поймать, разные, способы |
+| ru/public/posts/index.html | ru | public | Ashraellen — Публикации | Ashraellen, публикации, формулы, фрагменты, мини-эссе, философские тексты, художественное исследование | ashraellen, публикации, public, короткие, лекцией, мини-эссе, мысль, наблюдения, она, того, формулы, фрагменты, posts, разделы, становится, фиксирующие, формы, читать |
 | ru/public/posts/sources/index.html | ru | public | Ashraellen — Источники перенесены | ashraellen, public, posts, sources, источники, перенесены, новый, адрес, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | источники, перенесены, адрес, новый, ashraellen, public, больше, исследование, исследовании, методологическая, находится, основа, относится, posts, sources, проекта, публикациям, публичным |
 | ru/public/talks/index.html | ru | public | Ashraellen — Выступления | ashraellen, public, talks, выступления, видео, публичные, разборы, ясность, восприятие, сознание, реальность, возвращение, живому, пониманию, список, происходит, после, смерти | ashraellen, sacred, public, taste, ахепсу, видео, выступления, moan, money, revelation, talks, your, youtube, возвращение, восприятие, где, дубляж, души |
 | ru/public/thoughts/01-cheerfulness/index.html | ru | public | Ashraellen — Весёлость как диагностика человека — thoughts / cheerfulness | ashraellen, public, thoughts, cheerfulness, весёлость, диагностика, человека, опорная, мысль, смех, открывает, душу, точнее, чем, правильные, речи, смысл, полный | ashraellen, весёлость, диагностика, человека, cheerfulness, public, thoughts, смех, чем, context, без, выбрано, говорит, душу, его, если, заметка, или |
@@ -816,7 +816,7 @@ Pages: 846
 | uk/public/posts/formula/lines/line-0001.html | uk | public | Ashraellen — Думка, увага, тіло, минуле | Ashraellen, Формули, Думка, увага, тіло, минуле, думка / увага / тіло / минуле, лінія 0001 | минуле, тіло, ashraellen, думка, увага, public, думку, лінія, увагу, formula, line, lines, posts, архівна, від, владнати, короткі, лінії |
 | uk/public/posts/formula/lines/line-0002.html | uk | public | Ashraellen — Слово, мовчання, сенс | Ashraellen, Формули, Слово, мовчання, сенс, слово / мовчання / сенс, лінія 0002 | ashraellen, мовчання, сенс, слово, public, архівна, лінія, про, formula, line, lines, posts, актуальна, бути, думки, коли, короткі, лінії |
 | uk/public/posts/fragment/index.html | uk | public | Ashraellen — Фрагменти | ashraellen, public, posts, fragment, фрагменти, список, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean | фрагменти, список, щоб, 002, ashraellen, fragment, public, більших, відчути, достатньо, публікація, тут, posts, змісту, знайти, зрозуміти, іноді, лежить |
-| uk/public/posts/index.html | uk | public | Ashraellen — Публікації | ashraellen, public, posts, публікації, розділи, формули, фрагменти, міні-есе, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | публікації, розділи, міні-есе, формули, фрагменти, ashraellen, formula, public, вона, впіймати, встигла, думку, короткі, posts, лекцією, оберіть, різні, способи |
+| uk/public/posts/index.html | uk | public | Ashraellen — Публікації | Ashraellen, публікації, формули, фрагменти, мініесе, філософські тексти, художнє дослідження | ashraellen, публікації, public, вона, думку, короткі, лекцією, мініесе, спостереження, того, формули, фрагменти, posts, розділи, стає, фіксують, форми, читати |
 | uk/public/posts/sources/index.html | uk | public | Ashraellen — Джерела перенесено | ashraellen, public, posts, sources, джерела, перенесено, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean | джерела, перенесено, ashraellen, public, відкрити, дослідження, когнітивна, методологічна, належать, наратив, наука, основа, практика, проєкту, posts, sources, розділу, тепер |
 | uk/public/talks/index.html | uk | public | Ashraellen — Виступи | ashraellen, public, talks, виступи, відео, публічні, розбори, ясність, сприйняття, свідомість, реальність, повернення, живого, розуміння, список, відбувається, після, смерті | ashraellen, sacred, public, taste, ахепсу, виступи, відео, moan, money, revelation, talks, your, youtube, багатомовний, відбувається, відкрити, дубляж, душі |
 | uk/public/thoughts/arcs/0001-cheerfulness.html | uk | public | Ashraellen — Веселість як діагностика людини | ashraellen, public, thoughts, arcs, 0001, cheerfulness, веселість, діагностика, людини, опорна, думка, сміх, часто, відкриває, душу, точніше, ніж, правильні | ashraellen, веселість, людини, public, відкриває, діагностика, думка, ніж, опорна, сміх, arcs, cheerfulness, thoughts, без, вибрано, дослідницька, душу, людина |
@@ -1405,17 +1405,17 @@ Excerpt:
 - lang: be
 - section: public
 - title: Ashraellen — Публікацыі
-- description: Публікацыі Ashraellen па-беларуску: кароткія формы назірання, формулы, фрагменты і міні-эсэ.
+- description: Публікацыі Ashraellen: кароткія формы назірання — формулы, фрагменты і міні-эсэ, якія фіксуюць думку да таго, як яна становіцца лекцыяй.
 - canonical: https://www.ashraellen.com/be/public/posts/
 - H1: Публікацыі
 - H2: Раздзелы
 - H3: Формулы | Фрагменты | Міні-эсэ
-- suggested keyword seed: ashraellen, публікацыі, public, кароткія, міні-эсэ, назірання, формулы, формы, фрагменты, essay, formula, fragment, posts, па-беларуску, раздзелы, чытаць
-- candidates: міні-эсэ, публікацыі, формулы, фрагменты, чытаць, ashraellen, кароткія, назірання, формы, essay, formula, fragment, mark, presence, адзін, адна, адчуць, але, без, вугал, выберыце, выснова, вялікіх, гледжання
+- suggested keyword seed: ashraellen, публікацыі, public, думку, кароткія, лекцыяй, міні-эсэ, назірання, таго, формулы, формы, фрагменты, posts, раздзелы, становіцца, фіксуюць, чытаць, якія
+- candidates: міні-эсэ, публікацыі, формулы, фрагменты, чытаць, ashraellen, думку, кароткія, лекцыяй, назірання, таго, формы, яна, mark, presence, адзін, адна, адчуць, але, без, вугал, выберыце, выснова, вялікіх
 
 Excerpt:
 
-> Публікацыі Кароткія формы назірання: формулы, фрагменты і міні-эсэ. Розныя спосабы злавіць думку да таго, як яна паспела стаць лекцыяй. Раздзелы выберыце фармат formula Формулы Лаканічныя фармулёўкі: адна думка — адзін дакладны ўдар. Чытаць fragment Фрагменты Урыўкі з вялікіх тэкстаў: каб адчуць тон і напрамак. Чытаць essay Міні-эсэ Невялікія разборы: пытанне, вугал гледжання, выснова — без тэатра, але дакладна. Чытаць — mark of presence
+> Публікацыі Кароткія формы назірання: формулы, фрагменты і міні-эсэ. Розныя спосабы злавіць думку да таго, як яна паспела стаць лекцыяй. Раздзелы выберыце фармат формула Формулы Лаканічныя фармулёўкі: адна думка — адзін дакладны ўдар. Чытаць фрагмент Фрагменты Урыўкі з вялікіх тэкстаў: каб адчуць тон і напрамак. Чытаць эсэ Міні-эсэ Невялікія разборы: пытанне, вугал гледжання, выснова — без тэатра, але дакладна. Чытаць — mark of presence
 
 ### be/public/posts/sources/index.html
 
@@ -2578,17 +2578,17 @@ Excerpt:
 - lang: de
 - section: public
 - title: Ashraellen — Beiträge
-- description: Beiträge Abschnitte Formeln Fragmente Mini-Essays Beiträge Kurze Formen der Beobachtung: Formeln, Fragmente und Mini-Essays. Verschiedene Wege, einen Gedanken zu fassen, bevor er zur Vorlesung wird. Abschnitte Format…
+- description: Beiträge von Ashraellen: kurze Beobachtungsformen — Formeln, Fragmente und Mini-Essays, die einen Gedanken festhalten, bevor er zur Vorlesung wird.
 - canonical: https://www.ashraellen.com/de/public/posts/
 - H1: Beiträge
 - H2: Abschnitte
 - H3: Formeln | Fragmente | Mini-Essays
-- suggested keyword seed: beiträge, abschnitte, formeln, fragmente, mini-essays, ashraellen, beobachtung, bevor, der, kurze, public, und, ein, einen, fassen, format, formen, gedanken
-- candidates: beiträge, formeln, fragmente, mini-essays, abschnitte, kurze, lesen, und, beobachtung, bevor, der, ein, einen, fassen, format, formen, gedanken, verschiedene, vorlesung, wege, wird, zur, aber, ashraellen
+- suggested keyword seed: ashraellen, beiträge, bevor, einen, formeln, fragmente, gedanken, kurze, mini-essays, public, und, abschnitte, beobachtungsformen, die, ein, festhalten, lesen, posts
+- candidates: beiträge, formeln, fragmente, kurze, lesen, mini-essays, und, ashraellen, bevor, ein, einen, gedanken, vorlesung, wird, zur, aber, abschnitte, aus, ausschnitte, beobachtung, beobachtungsformen, betrachtungen, blickwinkel, der
 
 Excerpt:
 
-> Beiträge Kurze Formen der Beobachtung: Formeln, Fragmente und Mini-Essays. Verschiedene Wege, einen Gedanken zu fassen, bevor er zur Vorlesung wird. Abschnitte Format wählen formula Formeln Knapp formulierte Sätze: ein Gedanke — ein präziser Schlag. Lesen fragment Fragmente Ausschnitte aus größeren Texten: um Ton und Richtung zu spüren. Lesen essay Mini-Essays Kurze Betrachtungen: Frage, Blickwinkel, Schluss — ohne Theater, aber präzise. Lesen — mark of presence
+> Beiträge Kurze Formen der Beobachtung: Formeln, Fragmente und Mini-Essays. Verschiedene Wege, einen Gedanken zu fassen, bevor er zur Vorlesung wird. Abschnitte Format wählen Formel Formeln Prägnante Formulierungen: ein Gedanke — ein präziser Schlag. Lesen Fragment Fragmente Ausschnitte aus größeren Texten: um Ton und Richtung zu spüren. Lesen Essay Mini-Essays Kurze Betrachtungen: Frage, Blickwinkel, Schluss — ohne Theater, aber präzise. Lesen — mark of presence
 
 ### de/public/posts/sources/index.html
 
@@ -3955,17 +3955,17 @@ Excerpt:
 - lang: en
 - section: public
 - title: Ashraellen — Posts
-- description: Posts Sections Formulas Fragments Mini-Essays Posts Short forms of observation: formulas, fragments, and mini-essays. Different ways of catching a thought before it has time to become a lecture. Sections choose a…
+- description: Ashraellen posts: short forms of observation—formulas, fragments, and mini-essays that catch a thought before it becomes a lecture.
 - canonical: https://www.ashraellen.com/en/public/posts/
 - H1: Posts
 - H2: Sections
 - H3: Formulas | Fragments | Mini-Essays
-- suggested keyword seed: posts, sections, formulas, fragments, mini-essays, ashraellen, become, before, catching, choose, different, public, thought, forms, has, lecture, observation, read
-- candidates: formulas, fragments, mini-essays, posts, read, sections, thought, become, before, catching, choose, different, forms, has, lecture, observation, one, short, time, ways, angle, ashraellen, concise, conclusion
+- suggested keyword seed: posts, ashraellen, before, forms, formulas, fragments, lecture, mini-essays, observation, public, thought, becomes, catch, one, read, sections, short
+- candidates: formulas, fragments, mini-essays, posts, read, thought, ashraellen, before, forms, lecture, observation, one, short, analyses, become, becomes, brief, catch, catching, choose, concise, conclusion, different, direction
 
 Excerpt:
 
-> Posts Short forms of observation: formulas, fragments, and mini-essays. Different ways of catching a thought before it has time to become a lecture. Sections choose a format formula Formulas Concise formulations: one thought — one precise strike. Read fragment Fragments Passages from larger texts: to feel the tone and direction. Read essay Mini-Essays Small examinations: a question, an angle of view, a conclusion — without theatre, but with precision. Read — mark of presence
+> Posts Short forms of observation: formulas, fragments, and mini-essays. Different ways of catching a thought before it has time to become a lecture. Sections choose a format formula Formulas Concise formulations: one thought — one precise strike. Read fragment Fragments Passages from larger texts: to feel the tone and direction. Read essay Mini-Essays Brief analyses: a question, a point of view, a conclusion — without theatre, but with precision. Read — mark of presence
 
 ### en/public/posts/sources/index.html
 
@@ -5128,17 +5128,17 @@ Excerpt:
 - lang: es
 - section: public
 - title: Ashraellen — Publicaciones
-- description: Publicaciones Secciones Fórmulas Fragmentos Mini-ensayos Publicaciones Formas breves de observación: fórmulas, fragmentos y mini-ensayos. Distintas maneras de atrapar una idea antes de que alcance a convertirse en…
+- description: Publicaciones de Ashraellen: formas breves de observación — fórmulas, fragmentos y miniensayos que capturan una idea antes de que se convierta en conferencia.
 - canonical: https://www.ashraellen.com/es/public/posts/
 - H1: Publicaciones
 - H2: Secciones
-- H3: Fórmulas | Fragmentos | Mini-ensayos
-- suggested keyword seed: publicaciones, fórmulas, fragmentos, mini-ensayos, alcance, antes, ashraellen, atrapar, breves, convertirse, distintas, formas, public, secciones, idea, leer, maneras, observación
-- candidates: fórmulas, fragmentos, mini-ensayos, publicaciones, leer, alcance, antes, atrapar, breves, convertirse, distintas, formas, idea, maneras, observación, que, secciones, una, análisis, ángulo, ashraellen, con, conclusión, conferencia
+- H3: Fórmulas | Fragmentos | Miniensayos
+- suggested keyword seed: ashraellen, publicaciones, que, antes, breves, conferencia, formas, fórmulas, fragmentos, idea, miniensayos, public, capturan, convierta, leer, observación, posts, secciones
+- candidates: breves, fórmulas, fragmentos, leer, miniensayos, publicaciones, que, antes, ashraellen, conferencia, formas, idea, observación, una, alcance, análisis, atrapar, capturan, con, conclusión, convertirse, convierta, dirección, distintas
 
 Excerpt:
 
-> Publicaciones Formas breves de observación: fórmulas, fragmentos y mini-ensayos. Distintas maneras de atrapar una idea antes de que alcance a convertirse en conferencia. Secciones elige un formato formula Fórmulas Formulaciones lacónicas: un pensamiento — un golpe preciso. Leer fragment Fragmentos Pasajes de textos mayores: para sentir el tono y la dirección. Leer essay Mini-ensayos Pequeños análisis: pregunta, ángulo de visión, conclusión — sin teatro, pero con precisión. Leer — mark of presence
+> Publicaciones Formas breves de observación: fórmulas, fragmentos y miniensayos. Distintas maneras de atrapar una idea antes de que alcance a convertirse en conferencia. Secciones elige un formato fórmula Fórmulas Formulaciones lacónicas: un pensamiento — un golpe preciso. Leer fragmento Fragmentos Pasajes de textos mayores: para sentir el tono y la dirección. Leer ensayo Miniensayos Breves análisis: pregunta, punto de vista, conclusión — sin teatro, pero con precisión. Leer — mark of presence
 
 ### es/public/posts/sources/index.html
 
@@ -6306,12 +6306,12 @@ Excerpt:
 - H1: Julkaisut
 - H2: Osastot
 - H3: Kaavat | Fragmentit | Miniesseet
-- suggested keyword seed: ashraellen, julkaisut, ajatus, ashraellenin, ennen, fragmentit, kaavat, kuin, luennoksi, miniesseet, public, havaintomuodot, joissa, julkiset, kirjataan, kovettuu, lue, lyhyet
-- candidates: ajatus, lue, ennen, fragmentit, julkaisut, kaavat, kuin, luennoksi, miniesseet, yksi, ashraellen, ashraellenin, ehtii, eri, essee, fragmentteja, fragmentti, havaintomuodot, havaintomuotoja, ilman, isku, johtopäätös, joissa, julkiset
+- suggested keyword seed: ashraellen, julkaisut, ajatus, ennen, fragmentit, kaavat, kuin, luennoksi, miniesseet, public, ashraellenin, havaintomuodot, joissa, julkiset, kirjataan, kovettuu, lue, lyhyet
+- candidates: ajatus, lue, ennen, fragmentit, julkaisut, kaavat, kuin, luennoksi, lyhyitä, miniesseet, yksi, ashraellen, ashraellenin, ehtii, eri, essee, fragmentteja, fragmentti, havaintomuodot, havaintomuotoja, ilman, isku, johtopäätös, joissa
 
 Excerpt:
 
-> Julkaisut Lyhyitä havaintomuotoja: kaavoja, fragmentteja ja miniesseitä. Eri tapoja saada ajatus kiinni ennen kuin se ehtii pukeutua luennoksi. Osastot valitse muoto kaava Kaavat Tiiviitä muotoiluja: yksi ajatus — yksi tarkka isku. Lue fragmentti Fragmentit Katkelmia suuremmista teksteistä ja työaineistosta: sävyn ja suunnan tunnistamiseen. Lue essee Miniesseet Pieni tutkimus: kysymys, katselukulma ja johtopäätös — ilman teatteria, mutta riittävällä tarkkuudella. Lue — mark of presence
+> Julkaisut Lyhyitä havaintomuotoja: kaavoja, fragmentteja ja miniesseitä. Eri tapoja saada ajatus kiinni ennen kuin se ehtii pukeutua luennoksi. Osastot valitse muoto kaava Kaavat Tiiviitä muotoiluja: yksi ajatus — yksi tarkka isku. Lue fragmentti Fragmentit Katkelmia suuremmista teksteistä ja työaineistosta: sävyn ja suunnan tunnistamiseen. Lue essee Miniesseet Lyhyitä tarkasteluja: kysymys, näkökulma ja johtopäätös — ilman teatteria, mutta täsmällisesti. Lue — mark of presence
 
 ### fi/public/posts/sources/index.html
 
@@ -7542,17 +7542,17 @@ Excerpt:
 - lang: fr
 - section: public
 - title: Ashraellen — Publications
-- description: Publications Sections Formules Fragments Mini-essais Publications Formes brèves d’observation : formules, fragments et mini-essais. Différentes manières de saisir une pensée avant qu’elle ait le temps de devenir une…
+- description: Publications d’Ashraellen : formes brèves d’observation — formules, fragments et mini-essais qui saisissent une pensée avant qu’elle ne devienne une conférence.
 - canonical: https://www.ashraellen.com/fr/public/posts/
 - H1: Publications
 - H2: Sections
 - H3: Formules | Fragments | Mini-essais
-- suggested keyword seed: publications, formules, fragments, mini-essais, une, ait, ashraellen, avant, brèves, d’observation, devenir, pensée, public, sections, différentes, formes, lire, manières
-- candidates: une, formules, fragments, mini-essais, publications, brèves, lire, pensée, ait, avant, d’observation, devenir, différentes, formes, manières, qu’elle, saisir, sections, temps, angle, ashraellen, avec, choisissez, conclusion
+- suggested keyword seed: publications, une, ashraellen, avant, brèves, conférence, d’observation, formes, formules, fragments, mini-essais, pensée, public, d’ashraellen, devienne, lire, posts, qu’elle
+- candidates: une, brèves, formules, fragments, lire, mini-essais, pensée, publications, avant, conférence, d’observation, formes, qu’elle, ait, analyses, ashraellen, avec, choisissez, conclusion, d’ashraellen, devenir, devienne, différentes, direction
 
 Excerpt:
 
-> Publications Formes brèves d’observation : formules, fragments et mini-essais. Différentes manières de saisir une pensée avant qu’elle ait le temps de devenir une conférence. Sections choisissez un format formula Formules Formulations brèves : une pensée — une frappe précise. Lire fragment Fragments Passages de textes plus vastes : pour sentir le ton et la direction. Lire essay Mini-essais Courts examens : question, angle de vue, conclusion — sans théâtre, mais avec précision. Lire — mark of presence
+> Publications Formes brèves d’observation : formules, fragments et mini-essais. Différentes manières de saisir une pensée avant qu’elle ait le temps de devenir une conférence. Sections choisissez un format formule Formules Formulations brèves : une pensée — une frappe précise. Lire fragment Fragments Passages de textes plus vastes : pour sentir le ton et la direction. Lire essai Mini-essais Brèves analyses : question, point de vue, conclusion — sans théâtre, mais avec précision. Lire — mark of presence
 
 ### fr/public/posts/sources/index.html
 
@@ -9327,17 +9327,17 @@ Excerpt:
 - lang: pl
 - section: public
 - title: Ashraellen — Publikacje
-- description: Publikacje Działy Formuły Fragmenty Mini-eseje Publikacje Krótkie formy obserwacji: formuły, fragmenty i mini-eseje. Różne sposoby uchwycenia myśli, zanim zdąży stać się wykładem. Działy wybierz format formula Formuły…
+- description: Publikacje Ashraellen: krótkie formy obserwacji — formuły, fragmenty i minieseje, które chwytają myśl, zanim stanie się wykładem.
 - canonical: https://www.ashraellen.com/pl/public/posts/
 - H1: Publikacje
 - H2: Działy
-- H3: Formuły | Fragmenty | Mini-eseje
-- suggested keyword seed: publikacje, działy, formuły, fragmenty, mini-eseje, ashraellen, format, formula, formy, krótkie, myśli, obserwacji, public, czytaj, posts, różne, się, sposoby
-- candidates: formuły, fragmenty, mini-eseje, publikacje, czytaj, działy, krótkie, format, formula, formy, myśli, obserwacji, różne, się, sposoby, stać, uchwycenia, wybierz, wykładem, zanim, zdąży, ale, ashraellen, bez
+- H3: Formuły | Fragmenty | Minieseje
+- suggested keyword seed: ashraellen, publikacje, formuły, formy, fragmenty, krótkie, minieseje, myśl, obserwacji, public, się, wykładem, chwytają, czytaj, działy, które, posts, stanie
+- candidates: czytaj, formuły, fragmenty, krótkie, minieseje, publikacje, ashraellen, formy, myśl, obserwacji, się, wykładem, zanim, ale, analizy, bez, chwytają, działy, esej, format, formuła, fragment, jedna, jedno
 
 Excerpt:
 
-> Publikacje Krótkie formy obserwacji: formuły, fragmenty i mini-eseje. Różne sposoby uchwycenia myśli, zanim zdąży stać się wykładem. Działy wybierz format formula Formuły Lakoniczne sformułowania: jedna myśl — jedno precyzyjne uderzenie. Czytaj fragment Fragmenty Urywki z większych tekstów: żeby poczuć ton i kierunek. Czytaj essay Mini-eseje Krótkie rozbiórki: pytanie, kąt widzenia, wniosek — bez teatru, ale precyzyjnie. Czytaj — mark of presence
+> Publikacje Krótkie formy obserwacji: formuły, fragmenty i minieseje. Różne sposoby uchwycenia myśli, zanim zdąży stać się wykładem. Działy wybierz format formuła Formuły Lakoniczne sformułowania: jedna myśl — jedno precyzyjne uderzenie. Czytaj fragment Fragmenty Urywki z większych tekstów: żeby poczuć ton i kierunek. Czytaj esej Minieseje Krótkie analizy: pytanie, punkt widzenia, wniosek — bez teatru, ale precyzyjnie. Czytaj — mark of presence
 
 ### pl/public/posts/sources/index.html
 
@@ -10517,17 +10517,17 @@ Excerpt:
 - lang: pt
 - section: public
 - title: Ashraellen — Publicações
-- description: Publicações Seções Fórmulas Fragmentos Mini-ensaios Publicações Formas breves de observação: fórmulas, fragmentos e mini-ensaios. Diferentes maneiras de capturar um pensamento antes que ele tenha tempo de virar uma…
+- description: Publicações de Ashraellen: formas breves de observação — fórmulas, fragmentos e miniensaios que capturam o pensamento antes que ele vire palestra.
 - canonical: https://www.ashraellen.com/pt/public/posts/
 - H1: Publicações
 - H2: Seções
-- H3: Fórmulas | Fragmentos | Mini-ensaios
-- suggested keyword seed: publicações, fórmulas, fragmentos, mini-ensaios, antes, ashraellen, breves, capturar, diferentes, ele, formas, pensamento, public, seções, ler, maneiras, observação, posts
-- candidates: fórmulas, fragmentos, mini-ensaios, publicações, ler, pensamento, antes, breves, capturar, diferentes, ele, formas, maneiras, observação, que, seções, tempo, tenha, uma, virar, análises, ângulo, ashraellen, com
+- H3: Fórmulas | Fragmentos | Miniensaios
+- suggested keyword seed: ashraellen, publicações, que, antes, breves, ele, formas, fórmulas, fragmentos, miniensaios, pensamento, public, capturam, ler, observação, palestra, posts, seções
+- candidates: breves, fórmulas, fragmentos, ler, miniensaios, pensamento, publicações, que, antes, ashraellen, ele, formas, observação, palestra, análises, capturam, capturar, com, conclusão, diferentes, direção, ensaio, escolha, formato
 
 Excerpt:
 
-> Publicações Formas breves de observação: fórmulas, fragmentos e mini-ensaios. Diferentes maneiras de capturar um pensamento antes que ele tenha tempo de virar uma palestra. Seções escolha um formato formula Fórmulas Formulações lacônicas: um pensamento — um golpe preciso. Ler fragment Fragmentos Trechos de textos maiores: para sentir o tom e a direção. Ler essay Mini-ensaios Pequenas análises: pergunta, ângulo de visão, conclusão — sem teatro, mas com precisão. Ler — mark of presence
+> Publicações Formas breves de observação: fórmulas, fragmentos e miniensaios. Diferentes maneiras de capturar um pensamento antes que ele tenha tempo de virar uma palestra. Seções escolha um formato fórmula Fórmulas Formulações lacônicas: um pensamento — um golpe preciso. Ler fragmento Fragmentos Trechos de textos maiores: para sentir o tom e a direção. Ler ensaio Miniensaios Breves análises: pergunta, ponto de vista, conclusão — sem teatro, mas com precisão. Ler — mark of presence
 
 ### pt/public/posts/sources/index.html
 
@@ -12217,17 +12217,17 @@ Excerpt:
 - lang: ru
 - section: public
 - title: Ashraellen — Публикации
-- description: Публикации Разделы Формулы Фрагменты Мини-эссе Публикации Короткие формы наблюдения: формулы, фрагменты и мини-эссе. Разные способы поймать мысль до того, как она успела стать лекцией. Разделы выберите формат formula…
+- description: Публикации Ashraellen: короткие формы наблюдения — формулы, фрагменты и мини-эссе, фиксирующие мысль до того, как она становится лекцией.
 - canonical: https://www.ashraellen.com/ru/public/posts/
 - H1: Публикации
 - H2: Разделы
 - H3: Формулы | Фрагменты | Мини-эссе
-- suggested keyword seed: публикации, разделы, мини-эссе, формулы, фрагменты, ashraellen, formula, public, выберите, короткие, лекцией, мысль, наблюдения, posts, она, поймать, разные, способы
-- candidates: мини-эссе, публикации, формулы, фрагменты, мысль, разделы, читать, formula, выберите, короткие, лекцией, наблюдения, она, поймать, разные, способы, стать, того, успела, формат, формы, ashraellen, essay, fragment
+- suggested keyword seed: ashraellen, публикации, public, короткие, лекцией, мини-эссе, мысль, наблюдения, она, того, формулы, фрагменты, posts, разделы, становится, фиксирующие, формы, читать
+- candidates: мини-эссе, мысль, публикации, формулы, фрагменты, читать, ashraellen, короткие, лекцией, наблюдения, она, того, формы, mark, presence, без, больших, вопрос, выберите, вывод, зрения, лаконичные, направление, небольшие
 
 Excerpt:
 
-> Публикации Короткие формы наблюдения: формулы, фрагменты и мини-эссе. Разные способы поймать мысль до того, как она успела стать лекцией. Разделы выберите формат formula Формулы Лаконичные формулировки: одна мысль — один точный удар. Читать fragment Фрагменты Отрывки из больших текстов: чтобы почувствовать тон и направление. Читать essay Мини-эссе Небольшие разборы: вопрос, угол зрения, вывод — без театра, но точно. Читать — mark of presence
+> Публикации Короткие формы наблюдения: формулы, фрагменты и мини-эссе. Разные способы поймать мысль до того, как она успела стать лекцией. Разделы выберите формат формула Формулы Лаконичные формулировки: одна мысль — один точный удар. Читать фрагмент Фрагменты Отрывки из больших текстов: чтобы почувствовать тон и направление. Читать эссе Мини-эссе Небольшие разборы: вопрос, угол зрения, вывод — без театра, но точно. Читать — mark of presence
 
 ### ru/public/posts/sources/index.html
 
@@ -14614,17 +14614,17 @@ Excerpt:
 - lang: uk
 - section: public
 - title: Ashraellen — Публікації
-- description: Публікації Розділи Формули Фрагменти Міні-есе Публікації Короткі форми спостереження: формули, фрагменти й міні-есе. Різні способи впіймати думку до того, як вона встигла стати лекцією. Розділи оберіть формат formula…
+- description: Публікації Ashraellen: короткі форми спостереження — формули, фрагменти й мініесе, що фіксують думку до того, як вона стає лекцією.
 - canonical: https://www.ashraellen.com/uk/public/posts/
 - H1: Публікації
 - H2: Розділи
-- H3: Формули | Фрагменти | Міні-есе
-- suggested keyword seed: публікації, розділи, міні-есе, формули, фрагменти, ashraellen, formula, public, вона, впіймати, встигла, думку, короткі, posts, лекцією, оберіть, різні, способи
-- candidates: міні-есе, публікації, формули, фрагменти, розділи, читати, formula, вона, впіймати, встигла, думку, короткі, лекцією, оберіть, різні, способи, спостереження, стати, того, формат, форми, ashraellen, essay, fragment
+- H3: Формули | Фрагменти | Мініесе
+- suggested keyword seed: ashraellen, публікації, public, вона, думку, короткі, лекцією, мініесе, спостереження, того, формули, фрагменти, posts, розділи, стає, фіксують, форми, читати
+- candidates: мініесе, публікації, формули, фрагменти, читати, ashraellen, вона, думку, короткі, лекцією, спостереження, того, форми, mark, presence, але, без, великих, висновок, відчути, впіймати, встигла, думка, есе
 
 Excerpt:
 
-> Публікації Короткі форми спостереження: формули, фрагменти й міні-есе. Різні способи впіймати думку до того, як вона встигла стати лекцією. Розділи оберіть формат formula Формули Лаконічні формулювання: одна думка — один точний удар. Читати fragment Фрагменти Уривки з великих текстів: щоб відчути тон і напрям. Читати essay Міні-есе Невеликі розбори: питання, кут зору, висновок — без театру, але точно. Читати — mark of presence
+> Публікації Короткі форми спостереження: формули, фрагменти й мініесе. Різні способи впіймати думку до того, як вона встигла стати лекцією. Розділи оберіть формат формула Формули Лаконічні формулювання: одна думка — один точний удар. Читати фрагмент Фрагменти Уривки з великих текстів: щоб відчути тон і напрям. Читати есе Мініесе Невеликі розбори: питання, кут зору, висновок — без театру, але точно. Читати — mark of presence
 
 ### uk/public/posts/sources/index.html
 
