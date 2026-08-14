@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-14T20:10:48.551Z
+Generated: 2026-08-14T21:40:25.727Z
 
 Pages checked: 845
-Pages with issues: 328
-Total issues: 1746
+Pages with issues: 326
+Total issues: 1742
 Pages with review notes: 645
 Total review notes: 2288
 
@@ -20,9 +20,9 @@ Total review notes: 2288
 | MISSING_OG_IMAGE | 172 |
 | MISSING_OG_TITLE | 171 |
 | MISSING_DESCRIPTION | 122 |
-| DUPLICATE_TITLE | 70 |
-| DUPLICATE_OG_TITLE | 68 |
+| DUPLICATE_TITLE | 68 |
 | DUPLICATE_CANONICAL | 66 |
+| DUPLICATE_OG_TITLE | 66 |
 | MISSING_CANONICAL | 47 |
 | OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 31 |
 | TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 31 |
@@ -425,17 +425,6 @@ Total review notes: 2288
 
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
-
-### de/research/notes/index.html
-
-- title: Ashraellen — Notes
-- description length: 185
-- canonical: https://www.ashraellen.com/de/research/notes/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_TITLE: shared by 6 pages
-- DUPLICATE_OG_TITLE: shared by 6 pages
 
 ### de/research/position/index.html
 
@@ -868,13 +857,13 @@ Total review notes: 2288
 ### en/research/notes/index.html
 
 - title: Ashraellen — Notes
-- description length: 174
+- description length: 106
 - canonical: https://www.ashraellen.com/en/research/notes/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- DUPLICATE_TITLE: shared by 6 pages
-- DUPLICATE_OG_TITLE: shared by 6 pages
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
 
 ### en/research/position/index.html
 
@@ -1057,14 +1046,14 @@ Total review notes: 2288
 
 ### es/research/notes/index.html
 
-- title: Ashraellen — Notes
-- description length: 180
+- title: Ashraellen — Notas
+- description length: 116
 - canonical: https://www.ashraellen.com/es/research/notes/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- DUPLICATE_TITLE: shared by 6 pages
-- DUPLICATE_OG_TITLE: shared by 6 pages
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
 
 ### es/research/position/index.html
 
@@ -1700,13 +1689,13 @@ Total review notes: 2288
 ### fr/research/notes/index.html
 
 - title: Ashraellen — Notes
-- description length: 176
+- description length: 104
 - canonical: https://www.ashraellen.com/fr/research/notes/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- DUPLICATE_TITLE: shared by 6 pages
-- DUPLICATE_OG_TITLE: shared by 6 pages
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
 
 ### fr/research/position/index.html
 
@@ -2496,17 +2485,6 @@ Total review notes: 2288
 - DUPLICATE_TITLE: shared by 6 pages
 - DUPLICATE_OG_TITLE: shared by 6 pages
 
-### pl/research/notes/index.html
-
-- title: Ashraellen — Notes
-- description length: 179
-- canonical: https://www.ashraellen.com/pl/research/notes/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_TITLE: shared by 6 pages
-- DUPLICATE_OG_TITLE: shared by 6 pages
-
 ### pl/research/position/index.html
 
 - title: Ashraellen — Position
@@ -2671,6 +2649,17 @@ Total review notes: 2288
 - title: Ashraellen — Público
 - description length: 129
 - canonical: https://www.ashraellen.com/pt/public/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
+
+### pt/research/notes/index.html
+
+- title: Ashraellen — Notas
+- description length: 113
+- canonical: https://www.ashraellen.com/pt/research/notes/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -4719,17 +4708,6 @@ Total review notes: 2288
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
 
-### uk/research/notes/index.html
-
-- title: Ashraellen — Notes
-- description length: 168
-- canonical: https://www.ashraellen.com/uk/research/notes/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_TITLE: shared by 6 pages
-- DUPLICATE_OG_TITLE: shared by 6 pages
-
 ### uk/research/position/index.html
 
 - title: Ashraellen — Position
@@ -6094,7 +6072,7 @@ Total review notes: 2288
 
 ### de/research/notes/index.html
 
-- title: Ashraellen — Notes
+- title: Ashraellen — Notizen
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -7490,7 +7468,7 @@ Total review notes: 2288
 
 ### es/research/notes/index.html
 
-- title: Ashraellen — Notes
+- title: Ashraellen — Notas
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -7928,7 +7906,7 @@ Total review notes: 2288
 
 ### fi/research/notes/index.html
 
-- title: Ashraellen — Muistiinpanot / Marginaalit
+- title: Ashraellen — Muistiinpanot
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -9317,7 +9295,7 @@ Total review notes: 2288
 
 ### pl/research/notes/index.html
 
-- title: Ashraellen — Notes
+- title: Ashraellen — Notatki
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -10024,7 +10002,7 @@ Total review notes: 2288
 
 ### pt/research/notes/index.html
 
-- title: Ashraellen — Notes — PT
+- title: Ashraellen — Notas
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -11505,7 +11483,7 @@ Total review notes: 2288
 
 ### uk/research/notes/index.html
 
-- title: Ashraellen — Notes
+- title: Ashraellen — Нотатки
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 

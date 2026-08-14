@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-14T20:10:49.121Z
+Generated: 2026-08-14T21:40:26.419Z
 Pages: 846
 
 ## Index
@@ -72,7 +72,7 @@ Pages: 846
 | be/research/archive/index.html | be | research | Ashraellen — Архіў даследавання | Ashraellen, архіў даследавання, даследчыя матэрыялы, версіі, пласты даследавання, мастацкае даследаванне | ashraellen, архіў, research, даследавання, жывой, знаходзяцца, матэрыялаў, шляху, якія, яшчэ, archive, mark, presence, больш, версіі, даследаванне, даследчых, завершаныя |
 | be/research/index.html | be | research | Ashraellen — Даследаванне | ashraellen, research, даследаванне, спосаб, бачыць, мастацка-філасофскае, сэнсу, даўжынёю, жыццё, назіранне, тым, чалавек, губляе, сувязь, рэальнасцю, сэнсам, ўнутранай, свабодай | даследаванне, ashraellen, research, лічбавае, сэнсу, тым, чалавек, або, адкрытыя, адкрыць, бачыць, бесперапыннае, веды, відэа, грамадства, губляе, гэтую, даследавання |
 | be/research/method/index.html | be | research | Ashraellen — Метад назірання | ashraellen, research, method, метад, назірання, фіксацыя, сэнсавых, вузлоў, мастацкая, форма, даследчы, інструмент, праверка, праз, пазнаванне, сэнсавы, вузел, поле | ashraellen, метад, назіранне, назірання, форма, research, мастацкая, няма, праверка, праз, method, але, асобы, вузел, вузлоў, даследавання, даследчы, дзе |
-| be/research/notes/index.html | be | research | Ashraellen — Нататкі | ashraellen, research, notes, нататкі, палі, па-беларуску, сумненні, фрагменты, матэрыял, які, хоча, станавіцца, дактрынай, doctype, html, title, script, context | ashraellen, нататкі, палі, research, дактрынай, матэрыял, станавіцца, сумненні, фрагменты, хоча, які, notes, даследаванне, задумана, па-беларуску |
+| be/research/notes/index.html | be | research | Ashraellen — Нататкі | ashraellen, нататкі, палі, даследаванне, сумненні, фрагменты | ashraellen, нататкі, палі, research, дактрынай, матэрыял, станавіцца, сумненні, фрагменты, хоча, які, notes, задумана, здаецца |
 | be/research/position/index.html | be | research | Ashraellen — Пазіцыя | ashraellen, research, position, пазіцыя, незалежнае, мастацкае, даследаванне, ўнутранага, досведу, поля, назірання, doctype, html, title, script, context, https, schema.org | ashraellen, пазіцыя, research, даследаванне, досведу, мастацкае, назірання, position, апісання, даследчык, досвед, досведы, мадэлі, мастацкі, незалежнае, поля, ўнутранага |
 | be/research/projects/index.html | be | research | Ashraellen — Праекты даследавання | ashraellen, research, projects, праекты, даследавання, карта, рабочых, палёў, monolith, асноўны, канал, публічнае, поле, сатырычныя, бакавыя, лабараторыі, ўспрымання, instagram | ashraellen, праекты, monolith, research, бакавыя, канал, лабараторыі, ныцця, поле, inner, instagram, melodies, occultus, projects, scriptorium, sounds, spirit, telegram |
 | be/research/sources/index.html | be | research | Ashraellen — Крыніцы і традыцыя | ashraellen, research, sources, крыніцы, традыцыя, фенаменалогія, свядомасці, цела, наратыў, кагнітыўная, навука, мастацкая, практыка, эдмунд, гусерль, досвед, гатовых, тлумачэнняў | ashraellen, крыніцы, традыцыя, цела, research, досвед, свядомасці, свядомасць, фенаменалогія, sources, аповед, бачным, варэла, гатовых, гусерль, даследавання, досведу, жывая |
@@ -141,7 +141,7 @@ Pages: 846
 | de/research/archive/index.html | de | research | Ashraellen — Forschungsarchiv | Ashraellen, Forschungsarchiv, Forschungsmaterialien, Versionen, Forschungsschichten, künstlerische Forschung | ashraellen, archiv, des, abgeschlossene, der, die, ist, noch, research, und, von, arbeitsprozesses, archive, außerhalb, bewegung, das, forschung, forschungsarchiv |
 | de/research/index.html | de | research | Ashraellen — Forschung | ashraellen, research, forschung, ist, eine, weise, des, sehens, und, lebenslange, künstlerisch-philosophische, untersuchung, sinns, beobachtung, dessen, wie, der, mensch | eine, forschung, wie, ashraellen, des, ist, und, der, research, als, arbeit, beobachtung, den, dessen, die, diese, digitale, ein |
 | de/research/method/index.html | de | research | Ashraellen — Methode der Beobachtung | ashraellen, research, method, methode, der, beobachtung, die, von, aufzeichnung, sinnknoten, künstlerische, form, als, forschungsinstrument, und, überprüfung, durch, wiedererkennen | der, beobachtung, ashraellen, methode, von, als, die, form, künstlerische, nicht, research, sinnknoten, überprüfung, und, aufzeichnung, das, durch, ein |
-| de/research/notes/index.html | de | research | Ashraellen — Notes | ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, de, research, notes | notes, ashraellen, margins, research, darum, das, doktrin, fragmente, geht, genau, material, public, ränder, sich, unfertig, weigert, wenn, werden |
+| de/research/notes/index.html | de | research | Ashraellen — Notizen | ashraellen, notizen, randbemerkungen, forschung, zweifel, fragmente | notizen, ashraellen, randbemerkungen, und, ashraellens, bewusst, das, doktrin, fragmente, material, research, werden, zweifel, keine, notes, will |
 | de/research/position/index.html | de | research | Ashraellen — Position | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, de, research, position | position, ashraellen, als, und, arbeite, beobachtung, beschreibungsmodelle, betrachte, der, erfahrung, erfahrungen, feld, research, forscher, ich, innere, künstlerischer, philosophie |
 | de/research/projects/index.html | de | research | Ashraellen — Forschungsprojekte | ashraellen, research, projects, forschungsprojekte, eine, karte, der, arbeitsfelder, von, monolith, hauptkanal, öffentliches, feld, satirische, projekte, und, seitenlabore, wahrnehmung | ashraellen, der, eine, monolith, projekte, research, und, von, als, arbeitsfelder, book, church, das, die, ein, feld, forschungsprojekte, hauptkanal |
 | de/research/sources/index.html | de | research | Ashraellen — Quellen und Tradition | ashraellen, research, sources, quellen, und, tradition, von, phänomenologie, des, bewusstseins, körper, narration, kognitionswissenschaft, künstlerische, praxis, als, methodische, linien | und, als, der, ashraellen, des, körper, quellen, tradition, erfahrung, forschung, research, bewusstsein, bewusstseins, das, die, edmund, eine, eleanor |
@@ -222,7 +222,7 @@ Pages: 846
 | en/research/archive/index.html | en | research | Ashraellen — Research Archive | Ashraellen, research archive, research materials, versions, research layers, artistic research | research, archive, ashraellen, materials, active, completed, layers, longer, moving, path, still, books, earlier, traces, versions, work |
 | en/research/index.html | en | research | Ashraellen — Research | ashraellen, research, mode, seeing, lifelong, artistic-philosophical, inquiry, meaning, observation, how, human, being, loses, contact, reality, inner, freedom, what | research, ashraellen, how, inquiry, meaning, being, digital, observation, what, artistic, artistic-philosophical, contact, continuous, done, form, fragmented, freedom, human |
 | en/research/method/index.html | en | research | Ashraellen — Method of Observation | ashraellen, research, method, observation, recording, knots, meaning, artistic, form, instrument, verification, through, recognition, knot, field, how, appears, first-person | method, observation, ashraellen, research, form, meaning, artistic, how, verification, what, appears, experience, field, first-person, forms, has, instrument, instruments |
-| en/research/notes/index.html | en | research | Ashraellen — Notes | ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai | notes, margins, ashraellen, research, become, doctrine, doubts, feels, fragments, material, point, public, refuses, unfinished |
+| en/research/notes/index.html | en | research | Ashraellen — Notes | ashraellen, notes, margins, research, doubts, fragments | notes, ashraellen, margins, ashraellen’s, become, deliberately, doctrine, doubts, fragments, material, refuses, research, feels |
 | en/research/position/index.html | en | research | Ashraellen — Position | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev | position, ashraellen, artistic, description, experience, experiences, field, human, independent, inner, models, observation, research, philosophy, religion, researcher, transcendental, treating |
 | en/research/projects/index.html | en | research | Ashraellen — Research Projects | ashraellen, research, projects, map, working, fields, monolith, main, channel, public, field, satirical, side, laboratories, perception, instagram, telegram, church | ashraellen, projects, research, channel, field, monolith, perception, book, church, fields, here, how, inner, instagram, laboratories, living, main, map |
 | en/research/sources/index.html | en | research | Ashraellen — Sources and Tradition | ashraellen, research, sources, tradition, phenomenology, consciousness, body, narrative, cognitive, science, artistic, practice, methodological, lines, edmund, husserl, experience, before | research, ashraellen, sources, body, consciousness, narrative, tradition, artistic, cognitive, experience, form, phenomenology, before, connection, directions, does, edmund, eleanor |
@@ -291,7 +291,7 @@ Pages: 846
 | es/research/archive/index.html | es | research | Ashraellen — Archivo de investigación | Ashraellen, archivo de investigación, materiales de investigación, versiones, capas de investigación, investigación artística | archivo, ashraellen, investigación, del, materiales, camino, capas, concluidas, que, research, vivo, anteriores, archive, están, forman, libros, movimiento, parte |
 | es/research/index.html | es | research | Ashraellen — Investigación | ashraellen, research, investigación, una, forma, ver, artístico-filosófica, del, sentido, largo, vida, observación, cómo, ser, humano, pierde, contacto, con | investigación, ashraellen, cómo, una, forma, sentido, con, del, observación, research, abierto, artística, artístico-filosófica, como, conocimiento, contacto, continua, digital |
 | es/research/method/index.html | es | research | Ashraellen — Método de observación | ashraellen, research, method, método, observación, registro, nudos, sentido, forma, artística, como, instrumento, investigación, verificación, mediante, reconocimiento, nudo, campo | observación, ashraellen, método, artística, como, forma, hay, investigación, por, que, research, sentido, verificación, aparece, aquí, campo, cómo, con |
-| es/research/notes/index.html | es | research | Ashraellen — Notes | ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, es, research, notes | notes, ashraellen, margins, research, convertirse, doctrina, dudas, ese, fragmentos, inacabado, márgenes, material, niega, public, punto, que, siente |
+| es/research/notes/index.html | es | research | Ashraellen — Notas | ashraellen, notas, márgenes, investigación, dudas, fragmentos | ashraellen, notas, márgenes, convertirse, doctrina, dudas, fragmentos, material, niega, que, research, así, concebido, deliberadamente, notes |
 | es/research/position/index.html | es | research | Ashraellen — Position | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, es, research, position | position, ashraellen, como, artístico, campo, descripción, experiencia, experiencias, filosofía, independiente, interna, investigador, research, modelos, observación, religión, son, trabajo |
 | es/research/projects/index.html | es | research | Ashraellen — Proyectos de investigación | ashraellen, research, projects, proyectos, investigación, mapa, campos, trabajo, monolith, canal, principal, campo, público, satíricos, laboratorios, laterales, percepción, instagram | ashraellen, proyectos, monolith, percepción, research, abrir, aquí, book, campo, campos, canal, church, como, cómo, con, del, inner, instagram |
 | es/research/sources/index.html | es | research | Ashraellen — Fuentes y tradición | ashraellen, research, sources, fuentes, tradición, fenomenología, conciencia, cuerpo, relato, ciencia, cognitiva, práctica, artística, edmund, husserl, experiencia, antes, las | como, ashraellen, conciencia, cuerpo, fuentes, relato, tradición, artística, experiencia, fenomenología, forma, research, antes, ciencia, cognitiva, comprensión, con, direcciones |
@@ -360,7 +360,7 @@ Pages: 846
 | fi/research/archive/index.html | fi | research | Ashraellen — Tutkimusarkisto | Ashraellen, tutkimusarkisto, tutkimusaineistot, versiot, tutkimuskerrokset, taiteellinen tutkimus | tutkimusarkisto, aiemmat, aktiivisessa, arkisto, ashraellen, ashraellenin, eivät, enää, jotka, ole, research, työssä, aikaista, aineistoille, aineistot, archive, jäljet, kerrokset |
 | fi/research/index.html | fi | research | Ashraellen — Tutkimus | Ashraellen, taiteellinen tutkimus, merkitys, havainto, sisäinen vapaus | tutkimus, ashraellen, miten, digitaalinen, research, siitä, voi, ajatus, avaa, avoin, elämänmittainen, havainnoinnin, havainto, ihminen, jatkuva, lähestyä, menetelmä, menettää |
 | fi/research/method/index.html | fi | research | Ashraellen — Havainnoinnin menetelmä | Ashraellen, havainnoinnin menetelmä, merkityssolmu, taiteellinen tutkimus, fenomenologia | ashraellen, havainnoinnin, menetelmä, muoto, havainnon, koettelu, ole, research, taiteellinen, alkaa, ashraellenin, eikä, ensimmäisen, havainnointi, havainto, kautta, kirjaaminen, mekanismi |
-| fi/research/notes/index.html | fi | research | Ashraellen — Muistiinpanot / Marginaalit | Ashraellen, muistiinpanot, marginaalit, fragmentit, taiteellinen tutkimus | ashraellen, marginaalit, muistiinpanot, aineistoa, epäilyjä, fragmentteja, joka, kieltäytyy, marginaaleja, muuttumasta, opiksi, research, jos, notes |
+| fi/research/notes/index.html | fi | research | Ashraellen — Muistiinpanot | ashraellen, muistiinpanot, marginaalit, tutkimus, epäilyt, fragmentit | ashraellen, muistiinpanot, aineistoa, ashraellenin, epäilyjä, fragmentteja, joka, kieltäytyy, marginaaleja, muuttumasta, opiksi, research, jos, marginaalit, muistiinpanoja, notes, tietoisesti |
 | fi/research/position/index.html | fi | research | Ashraellen — Lähtökohta | Ashraellen, lähtökohta, taiteellinen tutkimus, sisäinen kokemus, havainnointi | lähtökohta, ashraellen, ashraellenin, havainnoinnin, ihmisen, itsenäinen, kenttänä, research, tutkimus, eivät, filosofia, itse, itsenäisenä, kokemus, position, sisäinen, taiteellinen, tutkimuksellinen |
 | fi/research/projects/index.html | fi | research | Ashraellen — Tutkimusprojektit | Ashraellen, tutkimusprojektit, MONOLIITTI, taiteellinen tutkimus, julkinen filosofia | ashraellen, monoliitti, ashraellenin, havainnon, kenttä, projektit, research, avaa, book, church, eikä, ihminen, inner, instagram, julkinen, kartta, kautta, laboratorio |
 | fi/research/sources/index.html | fi | research | Ashraellen — Lähteet ja tutkimusperinne | Ashraellen, tutkimusperinne, fenomenologia, kognitiotiede, taiteellinen tutkimus | lähteet, tutkimusperinne, ashraellen, fenomenologia, keho, kokemus, research, taiteellinen, tietoisuuden, ashraelleniin, ashraellenin, edmund, elävänä, eleanor, ennen, ensimmäisenä, essee, evan |
@@ -433,7 +433,7 @@ Pages: 846
 | fr/research/archive/index.html | fr | research | Ashraellen — Archive de recherche | Ashraellen, archive de recherche, matériaux de recherche, versions, couches de recherche, recherche artistique | archive, recherche, matériaux, achevées, ashraellen, des, encore, processus, qui, research, vivant, antérieures, chemin, couches, d’ashraellen, dans, est, font |
 | fr/research/index.html | fr | research | Ashraellen — Recherche | ashraellen, research, recherche, est, une, manière, voir, artistique, philosophique, sens, l’échelle, d’une, vie, observation, façon, dont, l’être, humain | recherche, ashraellen, sens, une, artistique, comment, dont, est, numérique, research, avec, cela, comme, comprendre, contact, continue, d’une, dans |
 | fr/research/method/index.html | fr | research | Ashraellen — Méthode d’observation | ashraellen, research, method, méthode, d’observation, d’ashraellen, enregistrement, des, nœuds, sens, forme, artistique, comme, instrument, recherche, vérification, par, reconnaissance | méthode, d’observation, artistique, ashraellen, comme, forme, les, par, pas, recherche, research, sens, vérification, apparaît, champ, comment, d’ashraellen, dans |
-| fr/research/notes/index.html | fr | research | Ashraellen — Notes | ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, fr, research, notes | notes, ashraellen, margins, research, c’est, cela, devenir, doctrine, doutes, fragments, inachevé, marges, matière, principe, public, qui, refuse, semble |
+| fr/research/notes/index.html | fr | research | Ashraellen — Notes | ashraellen, notes, marges, recherche, doutes, fragments | notes, ashraellen, marges, devenir, doctrine, doutes, fragments, matière, qui, refuse, research, c’est, cela, d’ashraellen, délibérément |
 | fr/research/position/index.html | fr | research | Ashraellen — Position | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, fr, research, position | position, ashraellen, comme, artistique, champ, chercheur, considérant, d’observation, des, expériences, indépendant, intérieure, research, l’expérience, philosophies, religions, sont, transcendantes |
 | fr/research/projects/index.html | fr | research | Ashraellen — Projets de recherche | ashraellen, research, projects, projets, recherche, carte, des, champs, travail, d’ashraellen, monolith, chaîne, principale, champ, public, satiriques, laboratoires, latéraux | ashraellen, projets, des, monolith, perception, research, book, carte, chaîne, champ, champs, church, comme, d’ashraellen, est, inner, instagram, laboratoires |
 | fr/research/sources/index.html | fr | research | Ashraellen — Sources et tradition | ashraellen, research, sources, tradition, d’ashraellen, phénoménologie, conscience, corps, récit, sciences, cognitives, pratique, artistique, edmund, husserl, l’expérience, avant, les | comme, sources, ashraellen, conscience, corps, récit, tradition, forme, l’expérience, phénoménologie, research, artistique, avant, avec, cognitives, compréhension, d’ashraellen, dans |
@@ -538,7 +538,7 @@ Pages: 846
 | pl/research/archive/index.html | pl | research | Ashraellen — Archiwum badań | Ashraellen, archiwum badań, materiały badawcze, wersje, warstwy badania, badanie artystyczne | archiwum, ashraellen, badań, drogi, już, które, materiałów, research, aby, ale, ani, archive, badanie, badawczych, materiały, nie, pozostaje, procesu |
 | pl/research/index.html | pl | research | Ashraellen — Badanie | ashraellen, research, badanie, sposób, widzenia, trwające, całe, życie, artystyczno-filozoficzne, sensu, obserwacja, tego, jak, człowiek, traci, kontakt, rzeczywistością, sensem | badanie, ashraellen, badania, cyfrowe, człowiek, research, się, artystyczne, artystyczno-filozoficzne, badane, całe, ciągłość, forma, fragmentaryczna, jako, kontakt, lecz, metoda |
 | pl/research/method/index.html | pl | research | Ashraellen — Metoda obserwacji | ashraellen, research, method, metoda, obserwacji, zapisywanie, węzłów, znaczeń, forma, artystyczna, jako, narzędzie, badawcze, weryfikacja, przez, rozpoznanie, węzeł, znaczenia | ashraellen, obserwacji, forma, jako, metoda, obserwacja, artystyczna, nie, research, się, weryfikacja, badania, badawcze, czego, człowiek, dlaczego, formy, lecz |
-| pl/research/notes/index.html | pl | research | Ashraellen — Notes | ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, pl, research, notes | notes, ashraellen, margins, research, chce, chodzi, doktryną, fragmenty, jeśli, który, marginesy, materiał, nie, niedokończone, public, się, stać, wątpliwości |
+| pl/research/notes/index.html | pl | research | Ashraellen — Notatki | ashraellen, notatki, marginesy, badania, wątpliwości, fragmenty | ashraellen, notatki, marginesy, chce, doktryną, fragmenty, który, materiał, nie, research, się, stać, wątpliwości, notes |
 | pl/research/position/index.html | pl | research | Ashraellen — Position | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, pl, research, position | position, ashraellen, jako, artystyczny, badacz, doświadczenia, doświadczenie, filozofia, modele, nie, niezależny, obserwacji, research, opisu, pole, pracuję, religia, sama |
 | pl/research/projects/index.html | pl | research | Ashraellen — Projekty badawcze | ashraellen, research, projects, projekty, badawcze, mapa, pól, pracy, monolit, główny, kanał, pole, publiczne, satyryczne, boczne, laboratoria, percepcji, instagram | ashraellen, projekty, boczne, monolit, pole, research, bada, badawcze, book, church, człowiek, główny, inner, instagram, jako, kanał, laboratoria, lecz |
 | pl/research/sources/index.html | pl | research | Ashraellen — Źródła i tradycja | ashraellen, research, sources, źródła, tradycja, fenomenologia, świadomości, ciało, narracja, nauki, kognitywne, praktyka, artystyczna, jako, linie, metodologiczne, badania, edmund | jako, ashraellen, ciało, tradycja, źródła, badania, doświadczenie, fenomenologia, research, świadomości, artystyczna, edmund, eleanor, esej, evan, forma, formy, francisco |
@@ -608,7 +608,7 @@ Pages: 846
 | pt/research/archive/index.html | pt | research | Ashraellen — Arquivo de pesquisa | Ashraellen, arquivo de pesquisa, materiais de pesquisa, versões, camadas da pesquisa, pesquisa artística | arquivo, ashraellen, pesquisa, materiais, ainda, camadas, caminho, concluídas, não, que, research, vivo, anteriores, archive, está, fazem, movimento, para |
 | pt/research/index.html | pt | research | Ashraellen — Pesquisa | ashraellen, research, pesquisa, modo, ver, uma, artístico-filosófica, sentido, longo, vida, observação, como, ser, humano, perde, contato, com, realidade | pesquisa, ashraellen, como, sentido, uma, digital, observação, que, research, aberto, artística, artístico-filosófica, com, conhecimento, contato, contínua, dentro, entender |
 | pt/research/method/index.html | pt | research | Ashraellen — Método de Observação | ashraellen, research, method, método, observação, registro, nós, sentido, forma, artística, como, instrumento, pesquisa, verificação, pelo, reconhecimento, campo, aparece | observação, ashraellen, como, método, que, artística, forma, não, pesquisa, por, research, sentido, verificação, aparece, aqui, campo, dentro, formas |
-| pt/research/notes/index.html | pt | research | Ashraellen — Notes — PT | ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, pt, research, notes | notes, ashraellen, margins, research, doutrina, dúvidas, esse, fragmentos, inacabado, margens, material, parece, ponto, public, que, recusa, virar |
+| pt/research/notes/index.html | pt | research | Ashraellen — Notas | ashraellen, notas, margens, pesquisa, dúvidas, fragmentos | ashraellen, notas, margens, doutrina, dúvidas, fragmentos, material, que, recusa, research, tornar, assim, concebido, deliberadamente, notes |
 | pt/research/position/index.html | pt | research | Ashraellen — Position — PT | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, pt, research, position | position, ashraellen, como, artístico, campo, descrição, experiência, experiências, filosofia, independente, interna, modelos, research, não, observação, pesquisador, religião, são |
 | pt/research/projects/index.html | pt | research | Ashraellen — Projetos de pesquisa | ashraellen, research, projects, projetos, pesquisa, mapa, dos, campos, trabalho, monolith, canal, principal, campo, público, satíricos, laboratórios, laterais, percepção | ashraellen, projetos, campo, monolith, percepção, pesquisa, research, abrir, aqui, book, campos, canal, church, como, dos, inner, instagram, laboratórios |
 | pt/research/sources/index.html | pt | research | Ashraellen — Fontes e tradição | ashraellen, research, sources, fontes, tradição, fenomenologia, consciência, corpo, narrativa, ciência, cognitiva, prática, artística, edmund, husserl, experiência, antes, das | como, ashraellen, consciência, corpo, fontes, narrativa, tradição, experiência, fenomenologia, forma, research, antes, artística, ciência, cognitiva, com, compreensão, das |
@@ -716,7 +716,7 @@ Pages: 846
 | ru/research/archive/index.html | ru | research | Ashraellen — Архив исследования | Ashraellen, архив исследования, исследовательские материалы, версии, слои исследования, художественное исследование | ashraellen, архив, research, ещё, живой, исследования, которые, материалов, находятся, пути, archive, mark, presence, больше, версии, движется, завершённые, исследование |
 | ru/research/index.html | ru | research | Ashraellen — Исследование | ashraellen, research, исследование, способ, видеть, художественно-философское, смысла, длиною, жизнь, наблюдение, тем, человек, теряет, контакт, реальностью, смыслом, внутренней, свободой | исследование, ashraellen, research, смысла, человек, архив, видео, видеть, внутренней, внутри, где, делается, длиною, жизнь, знание, или, исследования, исследуется |
 | ru/research/method/index.html | ru | research | Ashraellen — Метод наблюдения | ashraellen, research, method, метод, наблюдения, фиксация, смысловых, узлов, художественная, форма, инструмент, исследования, проверка, через, узнавание, читателя, смысловой, узел | ashraellen, метод, наблюдение, наблюдения, форма, research, здесь, исследования, нет, проверка, художественная, через, method, где, его, инструмент, лица, метода |
-| ru/research/notes/index.html | ru | research | Ashraellen — Заметки | ashraellen, заметки, поля, исследование, черновики, сомнения, фрагменты | ashraellen, заметки, поля, research, доктриной, которые, сомнения, фрагменты, notes, если, задумано, исследование, кажется, который, наблюдения, сознательно, становятся, черновики |
+| ru/research/notes/index.html | ru | research | Ashraellen — Заметки | ashraellen, заметки, поля, исследование, сомнения, фрагменты | ashraellen, заметки, поля, research, доктриной, который, материал, сомнения, становиться, фрагменты, хочет, notes, если, задумано |
 | ru/research/position/index.html | ru | research | Ashraellen — Позиция | ashraellen, позиция, исследование, художественное исследование, внутренний опыт, философия | ashraellen, позиция, research, внутреннего, исследование, модели, описания, реальность, религии, сама, трансцендентные, философии, position, внутренний, независимое, опыта, состояния, художественное |
 | ru/research/projects/index.html | ru | research | Ashraellen — Исследовательские проекты | ashraellen, research, projects, проекты, исследования, карта, рабочих, полей, монолит, основной, канал, публичное, поле, сатирические, боковые, лаборатории, восприятия, instagram | ashraellen, проекты, research, боковые, канал, лаборатории, монолит, поле, inner, instagram, melodies, occultus, projects, scriptorium, sounds, spirit, telegram, восприятия |
 | ru/research/sources/index.html | ru | research | Ashraellen — Источники и традиция | ashraellen, research, sources, источники, традиция, феноменология, сознания, тело, нарратив, когнитивная, наука, художественная, практика, методологические, линии, исследования, эдмунд, гуссерль | ashraellen, источники, тело, традиция, форма, research, варела, исследования, опыт, сознание, сознания, феноменология, sources, взаимодействие, восприятия, где, готовых, гуссерль |
@@ -849,7 +849,7 @@ Pages: 846
 | uk/research/archive/index.html | uk | research | Ashraellen — Архів дослідження | Ashraellen, архів дослідження, дослідницькі матеріали, версії, шари дослідження, художнє дослідження | ashraellen, архів, дослідження, research, вже, живій, матеріалів, перебувають, роботі, шляху, які, archive, mark, версії, відео, дослідницьких, завершені, матеріали |
 | uk/research/index.html | uk | research | Ashraellen — Дослідження | ashraellen, research, дослідження, спосіб, бачити, художньо-філософське, сенсу, завдовжки, життя, спостереження, тим, людина, втрачає, контакт, реальністю, сенсом, внутрішньою, свободою | дослідження, ashraellen, research, людина, метод, сенсу, спостереження, цифрове, або, архів, бачити, безперервне, відео, відкрите, відкрити, внутрішньою, втрачає, досліджується |
 | uk/research/method/index.html | uk | research | Ashraellen — Метод спостереження | ashraellen, research, method, метод, спостереження, фіксація, вузлів, сенсу, художня, форма, дослідницький, інструмент, перевірка, через, упізнавання, вузол, поле, дослідження | спостереження, ashraellen, метод, форма, research, немає, перевірка, сенсу, художня, через, method, він, вона, всередині, вузлів, вузол, дослідження, дослідницький |
-| uk/research/notes/index.html | uk | research | Ashraellen — Notes | ashraellen, research, notes, margins, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, uk, research, notes | notes, ashraellen, margins, research, public, доктриною, здається, матеріал, незавершеним, поля, ставати, сумніви, так, треба, фрагменти, хоче, якщо |
+| uk/research/notes/index.html | uk | research | Ashraellen — Нотатки | ashraellen, нотатки, поля, дослідження, сумніви, фрагменти | ashraellen, нотатки, поля, research, доктриною, матеріал, ставати, сумніви, фрагменти, хоче, notes, задумано, здається, незавершеним, який |
 | uk/research/position/index.html | uk | research | Ashraellen — Position | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, uk, research, position | position, ashraellen, research, внутрішній, досвід, дослідник, моделі, незалежний, опису, поле, працюю, реальність, релігії, розглядаючи, сама, спостереження, стани, трансцендентні |
 | uk/research/projects/index.html | uk | research | Ashraellen — Дослідницькі проєкти | ashraellen, research, projects, дослідницькі, проєкти, карта, робочих, полів, monolith, основний, канал, публічне, поле, сатиричні, бічні, лабораторії, сприйняття, instagram | ashraellen, проєкти, monolith, research, бічні, канал, лабораторії, поле, сприйняття, book, inner, instagram, melodies, occultus, projects, scriptorium, sounds, spirit |
 | uk/research/sources/index.html | uk | research | Ashraellen — Джерела і традиція | ashraellen, research, sources, джерела, традиція, феноменологія, свідомості, тіло, наратив, когнітивна, наука, художня, практика, едмунд, гуссерль, досвід, готових, пояснень | ashraellen, джерела, тіло, традиція, research, досвід, дослідження, свідомість, свідомості, феноменологія, sources, варела, взаємодія, видимим, готових, гуссерль, досвіду, еван |
@@ -1966,17 +1966,17 @@ Excerpt:
 - lang: be
 - section: research
 - title: Ashraellen — Нататкі
-- description: Нататкі і палі Ashraellen па-беларуску: сумненні, фрагменты і матэрыял, які не хоча станавіцца дактрынай.
+- description: Нататкі і палі Ashraellen: сумненні, фрагменты і матэрыял, які не хоча станавіцца дактрынай.
 - canonical: https://www.ashraellen.com/be/research/notes/
 - H1: Нататкі / Палі
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, нататкі, палі, research, дактрынай, матэрыял, станавіцца, сумненні, фрагменты, хоча, які, notes, даследаванне, задумана, па-беларуску
-- candidates: ashraellen, нататкі, палі, дактрынай, матэрыял, станавіцца, сумненні, фрагменты, хоча, які, даследаванне, задумана, здаецца, калі, незавершаным, па-беларуску, публічнае, так
+- suggested keyword seed: ashraellen, нататкі, палі, research, дактрынай, матэрыял, станавіцца, сумненні, фрагменты, хоча, які, notes, задумана, здаецца
+- candidates: ashraellen, нататкі, палі, дактрынай, матэрыял, станавіцца, сумненні, фрагменты, хоча, які, задумана, здаецца, калі, незавершаным, так
 
 Excerpt:
 
-> Ashraellen Нататкі / Палі Палі, сумненні, фрагменты. Матэрыял, які не хоча станавіцца дактрынай. Калі здаецца незавершаным — так і задумана. ← Даследаванне Публічнае
+> Ashraellen Нататкі / Палі Палі, сумненні, фрагменты. Матэрыял, які не хоча станавіцца дактрынай. Калі здаецца незавершаным — так і задумана.
 
 ### be/research/position/index.html
 
@@ -3138,18 +3138,18 @@ Excerpt:
 
 - lang: de
 - section: research
-- title: Ashraellen — Notes
-- description: Notes / Margins Ashraellen Notes / Margins Ränder, Zweifel, Fragmente. Material, das sich weigert, zur Doktrin zu werden. Wenn es unfertig wirkt — genau darum geht es. ← Research Public
+- title: Ashraellen — Notizen
+- description: Ashraellens Notizen und Randbemerkungen: Zweifel, Fragmente und Material, das bewusst keine Doktrin werden will.
 - canonical: https://www.ashraellen.com/de/research/notes/
-- H1: Notes / Margins
+- H1: Notizen / Randbemerkungen
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: notes, ashraellen, margins, research, darum, das, doktrin, fragmente, geht, genau, material, public, ränder, sich, unfertig, weigert, wenn, werden
-- candidates: notes, ashraellen, margins, darum, das, doktrin, fragmente, geht, genau, material, public, ränder, research, sich, unfertig, weigert, wenn, werden, wirkt, zur, zweifel
+- suggested keyword seed: notizen, ashraellen, randbemerkungen, und, ashraellens, bewusst, das, doktrin, fragmente, material, research, werden, zweifel, keine, notes, will
+- candidates: notizen, randbemerkungen, ashraellen, das, doktrin, fragmente, material, und, werden, zweifel, ashraellens, bewusst, gedacht, ist, keine, sich, unfertig, weigert, wenn, will, wirkt, zur
 
 Excerpt:
 
-> Ashraellen Notes / Margins Ränder, Zweifel, Fragmente. Material, das sich weigert, zur Doktrin zu werden. Wenn es unfertig wirkt — genau darum geht es. ← Research Public
+> Ashraellen Notizen / Randbemerkungen Randbemerkungen, Zweifel, Fragmente. Material, das sich weigert, zur Doktrin zu werden. Wenn es unfertig wirkt — so ist es gedacht.
 
 ### de/research/position/index.html
 
@@ -4516,17 +4516,17 @@ Excerpt:
 - lang: en
 - section: research
 - title: Ashraellen — Notes
-- description: Notes / Margins Ashraellen Notes / Margins Margins, doubts, fragments. Material that refuses to become doctrine. If it feels unfinished — that is the point. ← Research Public
+- description: Ashraellen’s Notes / Margins: doubts, fragments and material that deliberately refuses to become doctrine.
 - canonical: https://www.ashraellen.com/en/research/notes/
 - H1: Notes / Margins
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: notes, margins, ashraellen, research, become, doctrine, doubts, feels, fragments, material, point, public, refuses, unfinished
-- candidates: margins, notes, ashraellen, become, doctrine, doubts, feels, fragments, material, point, public, refuses, research, unfinished
+- suggested keyword seed: notes, ashraellen, margins, ashraellen’s, become, deliberately, doctrine, doubts, fragments, material, refuses, research, feels
+- candidates: margins, notes, ashraellen, become, doctrine, doubts, fragments, material, refuses, ashraellen’s, deliberately, feels, meant, unfinished, was
 
 Excerpt:
 
-> Ashraellen Notes / Margins Margins, doubts, fragments. Material that refuses to become doctrine. If it feels unfinished — that is the point. ← Research Public
+> Ashraellen Notes / Margins Margins, doubts, fragments. Material that refuses to become doctrine. If it feels unfinished — it was meant to be.
 
 ### en/research/position/index.html
 
@@ -5688,18 +5688,18 @@ Excerpt:
 
 - lang: es
 - section: research
-- title: Ashraellen — Notes
-- description: Notes / Margins Ashraellen Notes / Margins Márgenes, dudas, fragmentos. Material que se niega a convertirse en doctrina. Si se siente inacabado — ese es el punto. ← Research Public
+- title: Ashraellen — Notas
+- description: Notas y márgenes de Ashraellen: dudas, fragmentos y material que deliberadamente se niega a convertirse en doctrina.
 - canonical: https://www.ashraellen.com/es/research/notes/
-- H1: Notes / Margins
+- H1: Notas / Márgenes
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: notes, ashraellen, margins, research, convertirse, doctrina, dudas, ese, fragmentos, inacabado, márgenes, material, niega, public, punto, que, siente
-- candidates: notes, ashraellen, margins, convertirse, doctrina, dudas, ese, fragmentos, inacabado, márgenes, material, niega, public, punto, que, research, siente
+- suggested keyword seed: ashraellen, notas, márgenes, convertirse, doctrina, dudas, fragmentos, material, niega, que, research, así, concebido, deliberadamente, notes
+- candidates: ashraellen, márgenes, notas, convertirse, doctrina, dudas, fragmentos, material, niega, que, así, concebido, deliberadamente, fue, inacabado, parece
 
 Excerpt:
 
-> Ashraellen Notes / Margins Márgenes, dudas, fragmentos. Material que se niega a convertirse en doctrina. Si se siente inacabado — ese es el punto. ← Research Public
+> Ashraellen Notas / Márgenes Márgenes, dudas, fragmentos. Material que se niega a convertirse en doctrina. Si parece inacabado — así fue concebido.
 
 ### es/research/position/index.html
 
@@ -6861,18 +6861,18 @@ Excerpt:
 
 - lang: fi
 - section: research
-- title: Ashraellen — Muistiinpanot / Marginaalit
-- description: Marginaaleja, epäilyjä ja fragmentteja. Aineistoa, joka kieltäytyy muuttumasta opiksi.
+- title: Ashraellen — Muistiinpanot
+- description: Ashraellenin muistiinpanoja ja marginaaleja: epäilyjä, fragmentteja ja aineistoa, joka tietoisesti kieltäytyy muuttumasta opiksi.
 - canonical: https://www.ashraellen.com/fi/research/notes/
 - H1: Muistiinpanot / Marginaalit
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, marginaalit, muistiinpanot, aineistoa, epäilyjä, fragmentteja, joka, kieltäytyy, marginaaleja, muuttumasta, opiksi, research, jos, notes
-- candidates: aineistoa, ashraellen, epäilyjä, fragmentteja, joka, kieltäytyy, marginaaleja, marginaalit, muistiinpanot, muuttumasta, opiksi, jos, julkinen, juuri, keskeneräiseltä, kyse, siitä, tuntuu, tutkimus
+- suggested keyword seed: ashraellen, muistiinpanot, aineistoa, ashraellenin, epäilyjä, fragmentteja, joka, kieltäytyy, marginaaleja, muuttumasta, opiksi, research, jos, marginaalit, muistiinpanoja, notes, tietoisesti
+- candidates: aineistoa, ashraellen, epäilyjä, fragmentteja, joka, kieltäytyy, marginaaleja, muistiinpanot, muuttumasta, opiksi, ashraellenin, jos, keskeneräiseltä, marginaalit, muistiinpanoja, sellaiseksi, tarkoitettu, tietoisesti, tuntuu
 
 Excerpt:
 
-> Ashraellen Muistiinpanot / Marginaalit Marginaaleja, epäilyjä, fragmentteja. Aineistoa, joka kieltäytyy muuttumasta opiksi. Jos se tuntuu keskeneräiseltä — juuri siitä on kyse. ← Tutkimus Julkinen
+> Ashraellen Muistiinpanot / Marginaalit Marginaaleja, epäilyjä, fragmentteja. Aineistoa, joka kieltäytyy muuttumasta opiksi. Jos se tuntuu keskeneräiseltä — sellaiseksi se on tarkoitettu.
 
 ### fi/research/position/index.html
 
@@ -8103,17 +8103,17 @@ Excerpt:
 - lang: fr
 - section: research
 - title: Ashraellen — Notes
-- description: Notes / Margins Ashraellen Notes / Margins Marges, doutes, fragments. Une matière qui refuse de devenir doctrine. Si cela semble inachevé — c’est le principe. ← Research Public
+- description: Notes et marges d’Ashraellen : doutes, fragments et matière qui refuse délibérément de devenir doctrine.
 - canonical: https://www.ashraellen.com/fr/research/notes/
-- H1: Notes / Margins
+- H1: Notes / Marges
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: notes, ashraellen, margins, research, c’est, cela, devenir, doctrine, doutes, fragments, inachevé, marges, matière, principe, public, qui, refuse, semble
-- candidates: notes, ashraellen, margins, c’est, cela, devenir, doctrine, doutes, fragments, inachevé, marges, matière, principe, public, qui, refuse, research, semble, une
+- suggested keyword seed: notes, ashraellen, marges, devenir, doctrine, doutes, fragments, matière, qui, refuse, research, c’est, cela, d’ashraellen, délibérément
+- candidates: marges, notes, ashraellen, devenir, doctrine, doutes, fragments, matière, qui, refuse, c’est, cela, d’ashraellen, délibérément, inachevé, semble, une, voulu
 
 Excerpt:
 
-> Ashraellen Notes / Margins Marges, doutes, fragments. Une matière qui refuse de devenir doctrine. Si cela semble inachevé — c’est le principe. ← Research Public
+> Ashraellen Notes / Marges Marges, doutes, fragments. Une matière qui refuse de devenir doctrine. Si cela semble inachevé — c’est voulu.
 
 ### fr/research/position/index.html
 
@@ -9887,18 +9887,18 @@ Excerpt:
 
 - lang: pl
 - section: research
-- title: Ashraellen — Notes
-- description: Notes / Margins Ashraellen Notes / Margins Marginesy, wątpliwości, fragmenty. Materiał, który nie chce stać się doktryną. Jeśli jest niedokończone — o to chodzi. ← Research Public
+- title: Ashraellen — Notatki
+- description: Notatki i marginesy Ashraellen: wątpliwości, fragmenty i materiał, który nie chce stać się doktryną.
 - canonical: https://www.ashraellen.com/pl/research/notes/
-- H1: Notes / Margins
+- H1: Notatki / Marginesy
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: notes, ashraellen, margins, research, chce, chodzi, doktryną, fragmenty, jeśli, który, marginesy, materiał, nie, niedokończone, public, się, stać, wątpliwości
-- candidates: notes, ashraellen, margins, chce, chodzi, doktryną, fragmenty, jeśli, który, marginesy, materiał, nie, niedokończone, public, research, się, stać, wątpliwości
+- suggested keyword seed: ashraellen, notatki, marginesy, chce, doktryną, fragmenty, który, materiał, nie, research, się, stać, wątpliwości, notes
+- candidates: ashraellen, marginesy, notatki, się, chce, doktryną, fragmenty, który, materiał, nie, stać, wątpliwości, być, jeśli, miało, niedokończony, tak, właśnie, wydaje
 
 Excerpt:
 
-> Ashraellen Notes / Margins Marginesy, wątpliwości, fragmenty. Materiał, który nie chce stać się doktryną. Jeśli jest niedokończone — o to chodzi. ← Research Public
+> Ashraellen Notatki / Marginesy Marginesy, wątpliwości, fragmenty. Materiał, który nie chce stać się doktryną. Jeśli wydaje się niedokończony — właśnie tak miało być.
 
 ### pl/research/position/index.html
 
@@ -11077,18 +11077,18 @@ Excerpt:
 
 - lang: pt
 - section: research
-- title: Ashraellen — Notes — PT
-- description: Notes / Margins Ashraellen Notes / Margins Margens, dúvidas, fragmentos. Material que se recusa a virar doutrina. Se parece inacabado — esse é o ponto. ← Research Public
+- title: Ashraellen — Notas
+- description: Notas e margens de Ashraellen: dúvidas, fragmentos e material que deliberadamente se recusa a se tornar doutrina.
 - canonical: https://www.ashraellen.com/pt/research/notes/
-- H1: Notes / Margins
+- H1: Notas / Margens
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: notes, ashraellen, margins, research, doutrina, dúvidas, esse, fragmentos, inacabado, margens, material, parece, ponto, public, que, recusa, virar
-- candidates: notes, ashraellen, margins, doutrina, dúvidas, esse, fragmentos, inacabado, margens, material, parece, ponto, public, que, recusa, research, virar
+- suggested keyword seed: ashraellen, notas, margens, doutrina, dúvidas, fragmentos, material, que, recusa, research, tornar, assim, concebido, deliberadamente, notes
+- candidates: ashraellen, margens, notas, doutrina, dúvidas, fragmentos, material, que, recusa, tornar, assim, concebido, deliberadamente, foi, inacabado, parecer, porque
 
 Excerpt:
 
-> Ashraellen Notes / Margins Margens, dúvidas, fragmentos. Material que se recusa a virar doutrina. Se parece inacabado — esse é o ponto. ← Research Public
+> Ashraellen Notas / Margens Margens, dúvidas, fragmentos. Material que se recusa a se tornar doutrina. Se parecer inacabado — é porque foi concebido assim.
 
 ### pt/research/position/index.html
 
@@ -12914,17 +12914,17 @@ Excerpt:
 - lang: ru
 - section: research
 - title: Ashraellen — Заметки
-- description: Заметки и поля наблюдения Ashraellen: сомнения, черновики и фрагменты, которые сознательно не становятся доктриной.
+- description: Заметки и поля Ashraellen: сомнения, фрагменты и материал, который не хочет становиться доктриной.
 - canonical: https://www.ashraellen.com/ru/research/notes/
 - H1: Заметки / Поля
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, заметки, поля, research, доктриной, которые, сомнения, фрагменты, notes, если, задумано, исследование, кажется, который, наблюдения, сознательно, становятся, черновики
-- candidates: ashraellen, заметки, поля, доктриной, сомнения, фрагменты, если, задумано, исследование, кажется, которые, который, материал, наблюдения, незавершённым, публичное, сознательно, становиться, становятся, так, хочет, черновики
+- suggested keyword seed: ashraellen, заметки, поля, research, доктриной, который, материал, сомнения, становиться, фрагменты, хочет, notes, если, задумано
+- candidates: ashraellen, заметки, поля, доктриной, который, материал, сомнения, становиться, фрагменты, хочет, если, задумано, кажется, незавершённым, так
 
 Excerpt:
 
-> Ashraellen Заметки / Поля Поля, сомнения, фрагменты. Материал, который не хочет становиться доктриной. Если кажется незавершённым — так и задумано. ← Исследование Публичное
+> Ashraellen Заметки / Поля Поля, сомнения, фрагменты. Материал, который не хочет становиться доктриной. Если кажется незавершённым — так и задумано.
 
 ### ru/research/position/index.html
 
@@ -15174,18 +15174,18 @@ Excerpt:
 
 - lang: uk
 - section: research
-- title: Ashraellen — Notes
-- description: Notes / Margins Ashraellen Notes / Margins Поля, сумніви, фрагменти. Матеріал, що не хоче ставати доктриною. Якщо здається незавершеним — так і треба. ← Research Public
+- title: Ashraellen — Нотатки
+- description: Нотатки й поля Ashraellen: сумніви, фрагменти та матеріал, який не хоче ставати доктриною.
 - canonical: https://www.ashraellen.com/uk/research/notes/
-- H1: Notes / Margins
+- H1: Нотатки / Поля
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: notes, ashraellen, margins, research, public, доктриною, здається, матеріал, незавершеним, поля, ставати, сумніви, так, треба, фрагменти, хоче, якщо
-- candidates: notes, ashraellen, margins, public, research, доктриною, здається, матеріал, незавершеним, поля, ставати, сумніви, так, треба, фрагменти, хоче, якщо
+- suggested keyword seed: ashraellen, нотатки, поля, research, доктриною, матеріал, ставати, сумніви, фрагменти, хоче, notes, задумано, здається, незавершеним, який
+- candidates: ashraellen, нотатки, поля, доктриною, матеріал, ставати, сумніви, фрагменти, хоче, задумано, здається, незавершеним, так, який, якщо
 
 Excerpt:
 
-> Ashraellen Notes / Margins Поля, сумніви, фрагменти. Матеріал, що не хоче ставати доктриною. Якщо здається незавершеним — так і треба. ← Research Public
+> Ashraellen Нотатки / Поля Поля, сумніви, фрагменти. Матеріал, що не хоче ставати доктриною. Якщо здається незавершеним — так і задумано.
 
 ### uk/research/position/index.html
 
