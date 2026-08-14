@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-14T10:42:05.052Z
+Generated: 2026-08-14T12:33:58.617Z
 Pages: 846
 
 ## Index
@@ -26,7 +26,7 @@ Pages: 846
 | be/books/the-book-of-whinesis/index.html | be | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, кніга, ныцця, святая, сатыра, тых, хто, стаміўся, пазітыўных, вайбаў, бясконцай, прадуктыўнасці, культу, поспеху, пра | book, whinesis, ashraellen, books, пра, хто, будзе, будзеш, бясконцай, вайбаў, глава, главы, госпад, каб, кнігу, культу, моаніі, моанія |
 | be/books/you-are-already-online/index.html | be | books | Ashraellen — Ты ўжо ў сетцы | ashraellen, books, you, already, online, ўжо, сетцы, імерсіўны, аўдыяраман, жанры, псіхалагічнага, трылера, кіберпанк-драмы, пра, лічбавую, рэальнасць, алгарытмы, гіперрэальнасць | сетцы, ўжо, пра, ashraellen, books, глава, рэальнасць, already, online, you, алгарытмы, аўдыяраман, было, гіперрэальнасць, дзе, жанры, занадта, імерсіўны |
 | be/contact.html | be | contact.html | Кантакт — Ashraellen | ashraellen, contact, кантакт, кантактная, старонка, супрацоўніцтва, публікацыі, гранты, медыя, запыты, праекце, doctype, html, title, function, const, isgithub, location.hostname.endswith | ashraellen, кантакт, гранты, запыты, медыя, праекце, публікацыі, супрацоўніцтва, contact, contact.html, telegram, telegram-канал, кантактная, публічныя, сувязі |
-| be/index.html | be | index.html | Ashraellen — кнігі, даследаванні і публічныя тэксты | ashraellen, кнігі, даследаванні, публічныя, тэксты, шматмоўны, аўтарскі, праект, які, аб’ядноўвае, відэа, формы, ўнутранага, назірання, doctype, html, title, function | ashraellen, даследаванні, кнігі, публічныя, тэксты, відэа, формы, deutsch, english, español, index.html, аб’ядноўвае, аўтарскі, даследаванне, назірання, праект, публічнае, ўнутранага |
+| be/index.html | be | index.html | Ashraellen — кнігі, даследаванні і публічныя тэксты | _missing_ | ashraellen, даследаванні, кнігі, публічныя, тэксты, відэа, гук, літаратурна-філасофская, мастацка-даследчая, незалежная, практыка, шматмоўная, index.html, сатыра |
 | be/monolith/index.html | be | monolith | Трылогія MONOLITH — Ashraellen | ashraellen, monolith, трылогія, тры, станы, кантраляванага, распаду, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io | monolith, beton, gas, sludge, кантраляванага, распаду, станы, тры, трылогія, ashraellen, amazon, books, антыўтопіі, сацыяльнай, том, фантастыкі, філасофскага |
 | be/privacy.html | be | privacy.html | Палітыка прыватнасці — Ashraellen | ashraellen, privacy, палітыка, прыватнасці, ashraellen.com, персанальныя, даныя, аналітыка, cookies, правы, карыстальніка, кантакт, хто, адказвае, сайт, якія, могуць, збірацца | даныя, палітыка, прыватнасці, ashraellen, ashraellen.com, cookies, аналітыка, апрацоўкі, могуць, google, privacy, privacy.html, абнаўленні, або, адказвае, выкарыстоўваюцца, даных, збірацца |
 | be/professional/index.html | be | professional | Ashraellen — Прафесійнае дасье | ashraellen, professional, прафесійнае, дасье, аўтар, метад, назірання, кнігі, публічныя, формы, праекта, план, развіцця, супрацоўніцтва, кантакт, пра, аўтара, пазіцыя | ashraellen, назірання, праекта, публічныя, формы, professional, дасье, кнігі, метад, план, пра, праект, прафесійнае, развіцця, адкрыць, архіў, аўтар, аўтара |
@@ -95,7 +95,7 @@ Pages: 846
 | de/books/the-book-of-whinesis/index.html | de | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sakrale, satire, für, alle, die, von, positiven, vibes, endloser, produktivität, und, dem, kult, des | book, whinesis, ashraellen, books, des, die, und, alle, auf, auszug, buch, das, dem, den, der, endloser, erfolgs, erste |
 | de/books/you-are-already-online/index.html | de | books | Ashraellen — Du bist bereits online | ashraellen, books, you, already, online, bist, bereits, ein, immersiver, audio-roman, genre, des, psychologischen, thrillers, und, cyberpunk-dramas, über, digitale | bereits, online, bist, des, und, ashraellen, books, das, ein, über, algorithmen, already, audio-roman, auszug, buch, cyberpunk-dramas, den, der |
 | de/contact.html | de | contact.html | Kontakt — Ashraellen | ashraellen, contact, kontakt, kontaktseite, von, zusammenarbeit, publikationen, förderungen, medien, und, projektanfragen, doctype, html, title, function, const, isgithub, location.hostname.endswith | ashraellen, kontakt, förderungen, medien, projektanfragen, und, von, zusammenarbeit, contact, contact.html, der, dient, kontaktseite, kostyshev, öffentliche, publikationen |
-| de/index.html | de | index.html | Ashraellen — Bücher, Forschung und öffentliche Texte | ashraellen, bücher, forschung, und, öffentliche, texte, ist, ein, mehrsprachiges, autorenprojekt, über, videos, formen, innerer, beobachtung, doctype, html, title | ashraellen, bücher, forschung, öffentliche, texte, und, autorenprojekt, formen, ist, bedeutung, beobachtung, ein, eine, index.html, innerer, mehrsprachiges, öffentlich, über |
+| de/index.html | de | index.html | Ashraellen — Bücher, Forschung und öffentliche Texte | _missing_ | ashraellen, und, bücher, forschung, öffentliche, texte, eine, forschungspraxis, ist, klang, der, die, index.html, künstlerische, literarisch-philosophische, mehrsprachige, satire, unabhängige |
 | de/monolith/index.html | de | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, de, monolith | monolith, beton, gas, sludge, ashraellen, erinnerung, ist, amazon, auf, band, bei, den, die, drei, dystopische, eine, kontrolle, kontrollierten |
 | de/privacy.html | de | privacy.html | Datenschutzerklärung — Ashraellen | ashraellen, privacy, datenschutzerklärung, für, ashraellen.com, personenbezogene, daten, analyse, cookies, nutzerrechte, und, kontakt, verantwortliche, stelle, welche, verarbeitet, werden, können | und, analyse, daten, datenschutzerklärung, ashraellen, cookies, der, externe, für, können, werden, ashraellen.com, die, dienste, kann, käufe, kontakt, lokale |
 | de/professional/index.html | de | professional | Ashraellen — Professionelles Dossier | ashraellen, professional, professionelles, dossier, von, autor, beobachtungsmethode, bücher, öffentliche, formen, des, projekts, entwicklungsplan, zusammenarbeit, und, kontakt, über, den | ashraellen, der, beobachtung, des, öffentliche, und, autor, dossier, entwicklungsplan, formen, professional, professionelles, projekt, projekts, von, aktuelles, auf, ausgewählte |
@@ -176,7 +176,7 @@ Pages: 846
 | en/books/the-book-of-whinesis/index.html | en | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sacred, satire, those, tired, positive, vibes, endless, productivity, cult, success, about, first, chapters, excerpt | book, whinesis, ashraellen, books, about, becomes, chapters, cult, discount, endless, excerpt, first, gnorna, lord, moania, positive, productivity, sacred |
 | en/books/you-are-already-online/index.html | en | books | Ashraellen — You Are Already Online | ashraellen, books, you, already, online, immersive, audio, novel, genre, psychological, thriller, cyberpunk, drama, about, digital, reality, algorithms, attention | already, online, you, about, ashraellen, books, chapter, first, novel, reality, algorithms, attention, audio, book, cyberpunk, did, digital, drama |
 | en/contact.html | en | contact.html | Contact — Ashraellen | ashraellen, contact, cooperation, publishing, grants, media, project, inquiries, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, contact, cooperation, grants, inquiries, media, project, publishing, channel, contact.html, kostyshev, materials, telegram |
-| en/index.html | en | index.html | Ashraellen — Books, Research and Public Texts | ashraellen, books, research, public, texts, multilingual, author, project, combining, videos, forms, inner, observation, doctype, html, title, script, professional-link | ashraellen, books, public, research, texts, forms, inner, multilingual, videos, artistic, author, combining, index.html, observation, one, presence, project |
+| en/index.html | en | index.html | Ashraellen — Books, Research and Public Texts | _missing_ | ashraellen, research, books, public, texts, artistic, independent, literary-philosophical, multilingual, practice, satire, index.html, presence, sound, spanning, video |
 | en/monolith/index.html | en | monolith | MONOLITH Trilogy — Ashraellen | ashraellen, monolith, trilogy, three, states, controlled, disintegration, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io | monolith, beton, gas, sludge, controlled, disintegration, states, three, trilogy, ashraellen, dystopia, about, fiction, science, social, volume |
 | en/privacy.html | en | privacy.html | Privacy Policy — Ashraellen | ashraellen, privacy, policy, ashraellen.com, personal, data, analytics, cookies, user, rights, contact, information, who, responsible, website, what, may, collected | data, policy, privacy, analytics, ashraellen, ashraellen.com, cookies, legal, may, platforms, website, basis, collected, consent, contact, external, google, information |
 | en/professional/index.html | en | professional | Ashraellen — Professional Dossier | ashraellen, professional, dossier, lifelong, artistic-philosophical, inquiry, meaning, books, public, forms, development, plan, support, contact, pdf, project, proposal, budget | ashraellen, professional, dossier, forms, project, public, development, meaning, observation, plan, research, about, archive, artistic-philosophical, author, books, budget, channel |
@@ -245,7 +245,7 @@ Pages: 846
 | es/books/the-book-of-whinesis/index.html | es | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sátira, sagrada, para, quienes, han, cansado, las, vibras, positivas, productividad, infinita, culto, éxito, sobre | book, whinesis, ashraellen, books, para, sobre, cansado, capítulos, con, culto, del, dijo, estado, éxito, fragmento, han, infinita, las |
 | es/books/you-are-already-online/index.html | es | books | Ashraellen — Ya estás en la red | ashraellen, books, you, already, online, estás, red, una, novela, sonora, inmersiva, género, del, thriller, psicológico, drama, cyberpunk, sobre | estás, red, ashraellen, books, capítulo, del, los, novela, realidad, sobre, una, algoritmos, already, antes, como, cyberpunk, digital, drama |
 | es/contact.html | es | contact.html | Contacto — Ashraellen | ashraellen, contact, contacto, página, cooperación, publicaciones, subvenciones, medios, consultas, del, proyecto, doctype, html, title, function, const, isgithub, location.hostname.endswith | ashraellen, contacto, consultas, cooperación, del, medios, proyecto, subvenciones, canal, contact, contact.html, investigación, página, para, publicaciones, telegram |
-| es/index.html | es | index.html | Ashraellen — libros, investigación y textos públicos | ashraellen, libros, investigación, textos, públicos, proyecto, autoral, multilingüe, que, reúne, videos, formas, observación, interior, doctype, html, title, function | ashraellen, investigación, libros, públicos, textos, formas, multilingüe, que, artística, autoral, index.html, interior, los, observación, proyecto, público, reúne, una |
+| es/index.html | es | index.html | Ashraellen — libros, investigación y textos públicos | _missing_ | ashraellen, investigación, libros, públicos, textos, artística, independiente, literario-filosófica, multilingüe, práctica, una, index.html, los, sátira, sonido, vídeo |
 | es/monolith/index.html | es | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, es, monolith | monolith, beton, gas, sludge, ashraellen, colapso, control, controlada, memoria, amazon, desintegración, distópica, estados, inglés, preparación, sistemas, sobre, tres |
 | es/privacy.html | es | privacy.html | Política de privacidad — Ashraellen | ashraellen, privacy, política, privacidad, ashraellen.com, datos, personales, analítica, cookies, derechos, del, usuario, contacto, quién, responsable, sitio, qué, pueden | datos, del, política, privacidad, analítica, ashraellen, cookies, los, para, plataformas, qué, sitio, actualizaciones, ashraellen.com, base, compras, con, contacto |
 | es/professional/index.html | es | professional | Ashraellen — Dosier profesional | ashraellen, professional, dosier, profesional, autor, método, observación, libros, formas, públicas, del, proyecto, plan, desarrollo, cooperación, contacto, sobre, posición | ashraellen, observación, proyecto, del, autor, desarrollo, dosier, formas, método, plan, profesional, professional, públicas, actual, apoyo, archivo, busca, campos |
@@ -314,7 +314,7 @@ Pages: 846
 | fi/books/the-book-of-whinesis/index.html | fi | books | Ashraellen — The Book of Whinesis | Ashraellen, The Book of Whinesis, satiiri, Church of Saint Whine, uupumus, tuottavuuskultti | book, whinesis, ashraellen, books, jotka, satiiri, ääniraitoja, ensimmäiset, että, herra, katkelma, kirjasta, kulttiin, kun, loputtomaan, luvut, menestyksen, niille |
 | fi/books/you-are-already-online/index.html | fi | books | Ashraellen — Olet jo verkossa | Ashraellen, Olet jo verkossa, audioromaani, kyberpunk, hypertodellisuus, algoritmit, digitaalinen todellisuus | olet, verkossa, ashraellen, books, hypertodellisuuden, luku, algoritmien, already, audioromaani, digitaalisen, enää, ennen, ensimmäinen, hän, ilman, immersiivinen, järjestelmä, katkelma |
 | fi/contact.html | fi | contact.html | Yhteys — Ashraellen — Suomi | Ashraellen, yhteys, yhteistyö, julkaiseminen, apurahat, media | ashraellen, yhteys, apurahoja, ashraellenin, julkaisemista, mediaa, projektia, varten, yhteistyötä, aineistot, contact, contact.html, julkiset, koskevia, suomi, telegram-yhteys, yhteydenottoja, yhteystiedot |
-| fi/index.html | fi | index.html | Ashraellen — Kirjat, tutkimus ja julkiset tekstit | Ashraellen, kirjat, taiteellinen tutkimus, kirjallis-filosofinen tutkimus, julkiset tekstit, sisäinen havainnointi | ashraellen, julkiset, kirjat, tekstit, itsenäinen, kirjallis-filosofinen, monikielinen, taiteellinen, tutkimus, tutkimuskäytäntö, havainnoinnin, index.html, joka, julkinen, sisäisen, tutkimuksen, videot, yhdistää |
+| fi/index.html | fi | index.html | Ashraellen — Kirjat, tutkimus ja julkiset tekstit | _missing_ | ashraellen, ääntä, itsenäinen, kirjallis-filosofinen, kirjat, monikielinen, taiteellinen, tutkimus, tutkimuskäytäntö, äänen, ammatillinen, autonomiaa, index.html, julkiset, julkisia, kirjoja, satiiria, tekstejä |
 | fi/kone/index.html | fi | kone | Ashraellen — tiivistelmä Koneen Säätiölle | Ashraellen, Koneen Säätiö, taiteellinen tutkimus, kirjallisuus, MONOLIITTI, monikielinen arkisto | ashraellen, koneen, kone, kuukauden, säätiölle, tiivistelmä, tutkimuksen, tutkimus, arkistosta, ashraellen-hankkeesta, asiakirjat, budjetti, elämänmittainen, englanninkielinen, hankkeen, infrastruktuuri, julkinen, kirjallisuudesta |
 | fi/privacy.html | fi | privacy.html | Tietosuojakäytäntö — Ashraellen — Suomi | Ashraellen, tietosuoja, henkilötiedot, analytiikka, evästeet, GDPR | analytiikka, tietoja, tietosuojakäytäntö, ashraellen, evästeet, kerätä, palvelut, voidaan, ashraellen.com, ashraellen.comin, google, henkilötiedot, käsittelyn, kauan, käytetään, käyttää, käyttäjän, kolmannen |
 | fi/professional/index.html | fi | professional | Ashraellen — Ammatillinen esittely | Ashraellen, taiteellinen tutkimus, kirjallisuus, MONOLIITTI, ammatillinen esittely, julkinen filosofia | ashraellen, havainnoinnin, ammatillinen, esittely, julkiset, menetelmä, muodot, professional, ammatilliset, arkisto, ashraellenin, avaa, havainnon, infrastruktuuri, julkinen, kanava, kautta, kehityssuunnitelma |
@@ -387,7 +387,7 @@ Pages: 846
 | fr/books/the-book-of-whinesis/index.html | fr | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, satire, sacrée, pour, celles, ceux, qui, sont, fatigués, des, ondes, positives, productivité, sans, fin | book, whinesis, ashraellen, books, des, qui, celles, ceux, chapitres, culte, dans, dit, extrait, fatigués, fin, les, livre, moania |
 | fr/books/you-are-already-online/index.html | fr | books | Ashraellen — Tu es déjà en ligne | ashraellen, books, you, already, online, déjà, ligne, roman, audio, immersif, entre, thriller, psychologique, drame, cyberpunk, sur, réalité, numérique | déjà, ligne, ashraellen, audio, books, les, réalité, roman, algorithmes, already, avait, avant, chapitre, comme, cyberpunk, dans, des, drame |
 | fr/contact.html | fr | contact.html | Contact — Ashraellen | ashraellen, contact, coopération, édition, subventions, médias, demandes, liées, projet, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | ashraellen, contact, coopération, demandes, médias, projet, subventions, aux, canal, contact.html, des, édition, kostyshev, liées, telegram |
-| fr/index.html | fr | index.html | Ashraellen — livres, recherche et textes publics | ashraellen, livres, recherche, textes, publics, est, projet, d’auteur, multilingue, réunissant, vidéos, formes, d’observation, intérieure, doctype, html, title, function | ashraellen, livres, publics, recherche, textes, est, formes, multilingue, artistique, avec, d’auteur, d’observation, index.html, intérieure, les, projet, public, réunissant |
+| fr/index.html | fr | index.html | Ashraellen — livres, recherche et textes publics | _missing_ | ashraellen, recherche, livres, publics, textes, artistique, est, indépendante, littéraire, multilingue, philosophique, index.html, les, pratique, satire, son, une, vidéo |
 | fr/monolith/index.html | fr | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, fr, monolith | monolith, beton, gas, sludge, ashraellen, est, mémoire, sur, une, amazon, anglais, contrôle, contrôlée, des, désintégration, dystopique, états, l’effondrement |
 | fr/privacy.html | fr | privacy.html | Politique de confidentialité — Ashraellen | ashraellen, privacy, politique, confidentialité, d’ashraellen.com, données, personnelles, analyse, cookies, droits, l’utilisateur, contact, responsable, pouvant, être, collectées, finalités, traitement | confidentialité, politique, données, analyse, ashraellen, cookies, être, jour, services, achats, base, cette, collectées, contact, d’ashraellen.com, des, droits, externes |
 | fr/professional/index.html | fr | professional | Ashraellen — Dossier professionnel | ashraellen, professional, dossier, professionnel, d’ashraellen, auteur, méthode, d’observation, livres, formes, publiques, projet, plan, développement, coopération, contact, propos, l’auteur | ashraellen, projet, d’observation, formes, développement, dossier, méthode, plan, professional, professionnel, publiques, recherche, actuel, auteur, cadres, champs, comment, contact |
@@ -438,7 +438,7 @@ Pages: 846
 | fr/research/projects/index.html | fr | research | Ashraellen — Projets de recherche | ashraellen, research, projects, projets, recherche, carte, des, champs, travail, d’ashraellen, monolith, chaîne, principale, champ, public, satiriques, laboratoires, latéraux | ashraellen, projets, des, monolith, perception, research, book, carte, chaîne, champ, champs, church, comme, d’ashraellen, est, inner, instagram, laboratoires |
 | fr/research/sources/index.html | fr | research | Ashraellen — Sources et tradition | ashraellen, research, sources, tradition, d’ashraellen, phénoménologie, conscience, corps, récit, sciences, cognitives, pratique, artistique, edmund, husserl, l’expérience, avant, les | comme, sources, ashraellen, conscience, corps, récit, tradition, forme, l’expérience, phénoménologie, research, artistique, avant, avec, cognitives, compréhension, d’ashraellen, dans |
 | google2b44b1dd60a5fdd9.html | root | google2b44b1dd60a5fdd9.html |  | _missing_ | google2b44b1dd60a5fdd9.html, ashraellen, google-site-verification, google2b44b1dd60a5fdd9 |
-| index.html | root | index.html | Ashraellen — Entry | Ashraellen, Nikolai Kostyshev, books, research, public texts, multilingual archive, literary-philosophical research, inner observation | ashraellen, audiobooks, books, choose, inner, language, observation, public, research, texts, videos, your, entry, index, index.html |
+| index.html | root | index.html | Ashraellen — Entry | _missing_ | ashraellen, audiobooks, books, choose, inner, language, observation, public, research, texts, videos, your, entry, index, index.html |
 | monolith/index.html | root | monolith | MONOLITH — Ashraellen | _missing_ | monolith, ashraellen, automatic, beton, gas, language, selection, sludge, trilogy, above, choose, detecting, dystopian, literary-philosophical |
 | pl/books/demotopia/index.html | pl | books | Demotopia — Demokratyczna Utopia — powieść Ashraellena | Ashraellen, Demotopia, Demokratyczna Utopia, powieść filozoficzna, fantastyka społeczna, Warszawa, demokracja, dyktatura, dane, wolność, odpowiedzialność | demotopia, powieść, ashraellena, books, artystyczno-badawcza, ashraellen, atmosfera, bez, człowiek, człowieka, danych, demokracji, demokratyczna, dwa, filozoficzna, forma, fragment, główne |
 | pl/books/error-404-god-not-found/index.html | pl | books | Ashraellen — Błąd 404: Boga nie znaleziono | ashraellen, books, error, 404, god, found, błąd, boga, nie, znaleziono, wielojęzyczny, filozoficzno-satyryczny, cykl, powieściowy, niebiańskiej, kancelarii, ludzkiej, pretensji | nie, 404, błąd, boga, znaleziono, ashraellen, bogu, books, kancelarii, który, niebiańskiej, szukania, albo, błędzie, cykl, cyklu, error, filozoficzno-satyryczny |
@@ -492,7 +492,7 @@ Pages: 846
 | pl/books/the-book-of-whinesis/index.html | pl | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sakralna, satyra, dla, tych, którzy, zmęczyli, się, pozytywnymi, wibracjami, niekończącą, produktywnością, kultem, sukcesu, książce | book, whinesis, się, ashraellen, books, albowiem, będzie, będziesz, fragment, jego, książce, którzy, kultem, moania, moanii, narzekania, nie, niekończącą |
 | pl/books/you-are-already-online/index.html | pl | books | Ashraellen — Już jesteś w sieci | ashraellen, books, you, already, online, już, jesteś, sieci, immersyjna, powieść, audio, gatunku, thrillera, psychologicznego, dramatu, cyberpunkowego, cyfrowej, rzeczywistości | jesteś, już, sieci, ashraellen, books, rozdział, algorytmach, already, audio, było, cyberpunkowego, cyfrowej, dramatu, fragment, gatunku, gdzie, hiperrealności, immersyjna |
 | pl/contact.html | pl | contact.html | Kontakt — Ashraellen | ashraellen, contact, kontakt, współpraca, publikacje, granty, media, zapytania, projektowe, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | ashraellen, kontakt, granty, media, współpraca, contact, contact.html, kanał, kontaktu, projektów, projektowe, publiczne, publikacje, publikacji, służy, telegram, zapytania |
-| pl/index.html | pl | index.html | Ashraellen — książki, badania i teksty publiczne | ashraellen, książki, badania, teksty, publiczne, wielojęzyczny, projekt, autorski, łączący, wideo, formy, wewnętrznej, obserwacji, doctype, html, title, function, const | ashraellen, badania, książki, publiczne, teksty, autorski, formy, wideo, artystyczno-badawcza, badające, człowieka, deutsch, index.html, łączący, obserwacji, projekt, wewnętrznej, wielojęzyczny |
+| pl/index.html | pl | index.html | Ashraellen — książki, badania i teksty publiczne | _missing_ | ashraellen, badania, książki, publiczne, teksty, artystyczno-badawcza, dźwięk, literacko-filozoficzna, niezależna, praktyka, wideo, wielojęzyczna, index.html, satyra |
 | pl/monolith/index.html | pl | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, pl, monolith | monolith, beton, gas, sludge, ashraellen, dystopijna, edycja, kontroli, amazon, angielsku, czytaj, kontrolowanego, pamięci, polska, przygotowaniu, rozpadu, rozpadzie, stany |
 | pl/privacy.html | pl | privacy.html | Polityka prywatności — Ashraellen | ashraellen, privacy, polityka, prywatności, ashraellen.com, dane, osobowe, analityka, cookies, prawa, użytkownika, kontakt, administrator, strony, jakie, mogą, być, zbierane | polityka, prywatności, cookies, dane, analityka, ashraellen, ashraellen.com, być, mogą, strony, zewnętrzne, administrator, aktualizacje, cel, danych, google, jakie, kontakt |
 | pl/professional/index.html | pl | professional | Ashraellen — dossier profesjonalne | ashraellen, professional, dossier, profesjonalne, autor, metoda, obserwacji, książki, publiczne, formy, projektu, plan, rozwoju, współpraca, kontakt, autorze, pozycja, ramy | ashraellen, obserwacji, profesjonalne, projektu, publiczne, dossier, formy, metoda, plan, professional, projekt, rozwoju, archiwum, autor, autorze, jako, kontakt, książki |
@@ -562,7 +562,7 @@ Pages: 846
 | pt/books/the-book-of-whinesis/index.html | pt | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sátira, sagrada, para, quem, cansou, das, vibrações, positivas, produtividade, infinita, culto, sucesso, sobre, livro | book, whinesis, ashraellen, books, para, sobre, cansou, capítulos, culto, das, desconto, disse, gnorna, infinita, livro, moania, não, pois |
 | pt/books/you-are-already-online/index.html | pt | books | Ashraellen — Você já está online | ashraellen, books, you, already, online, você, está, romance, áudio, imersivo, entre, thriller, psicológico, drama, cyberpunk, sobre, realidade, digital | está, online, você, ashraellen, books, capítulo, realidade, romance, sobre, algoritmos, already, antes, áudio, como, cyberpunk, demais, digital, drama |
 | pt/contact.html | pt | contact.html | Contacto — Ashraellen — PT | ashraellen, contact, contacto, página, cooperação, publicações, bolsas, media, pedidos, relacionados, com, projeto, doctype, html, title, function, const, isgithub | ashraellen, contacto, bolsas, com, cooperação, media, pedidos, projeto, canal, contact, contact.html, investigação, página, para, publicações, relacionados, telegram |
-| pt/index.html | pt | index.html | Ashraellen — livros, pesquisa e textos públicos | ashraellen, livros, pesquisa, textos, públicos, projeto, autoral, multilíngue, que, reúne, vídeos, formas, observação, interior, doctype, html, title, function | ashraellen, livros, pesquisa, públicos, textos, autoral, formas, multilíngue, artística, com, index.html, interior, observação, projeto, público, que, reúne, uma |
+| pt/index.html | pt | index.html | Ashraellen — livros, pesquisa e textos públicos | _missing_ | ashraellen, pesquisa, livros, públicos, textos, artística, independente, literário-filosófica, multilíngue, prática, uma, index.html, por, sátira, som, vídeo |
 | pt/monolith/index.html | pt | monolith | MONOLITH — Ashraellen — PT | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, pt, monolith | monolith, beton, gas, sludge, ashraellen, colapso, controlada, controle, memória, amazon, desintegração, distópica, edição, estados, inglês, preparação, sistemas, sobre |
 | pt/privacy.html | pt | privacy.html | Política de privacidade — Ashraellen | ashraellen, privacy, política, privacidade, ashraellen.com, dados, pessoais, análise, cookies, direitos, utilizador, contacto, quem, responsável, pelo, que, podem, ser | dados, política, privacidade, análise, que, ashraellen, cookies, para, plataformas, podem, ser, ashraellen.com, atualizações, base, com, compras, contacto, direitos |
 | pt/professional/index.html | pt | professional | Ashraellen — Dossiê profissional | ashraellen, professional, dossiê, profissional, autor, método, observação, livros, formas, públicas, projeto, plano, desenvolvimento, cooperação, contato, sobre, posição, enquadramentos | ashraellen, observação, projeto, apoio, autor, desenvolvimento, dossiê, formas, método, plano, professional, profissional, públicas, arquivo, atual, busca, campos, como |
@@ -662,7 +662,7 @@ Pages: 846
 | ru/books/the-book-of-whinesis/index.html | ru | books | Ashraellen — Книга Нытия | ashraellen, books, book, whinesis, книга, нытия, священная, сатира, тех, кто, устал, позитивных, вайбов, бесконечной, продуктивности, культа, успеха, книге | книга, нытия, ashraellen, books, кто, book, whinesis, бесконечной, будет, будешь, вайбов, глава, главы, господь, его, ибо, книге, культа |
 | ru/books/you-are-already-online/index.html | ru | books | Ashraellen — Ты уже в сети | ashraellen, books, you, already, online, уже, сети, иммерсивный, аудиороман, жанре, психологического, триллера, киберпанк-драмы, цифровой, реальности, алгоритмах, гиперреальности, книге | сети, уже, ashraellen, books, глава, already, online, you, алгоритмах, аудиороман, без, было, где, гиперреальности, жанре, идеально, иммерсивный, истончение |
 | ru/contact.html | ru | contact.html | Контакт — Ashraellen | ashraellen, contact, контакт, контактная, страница, сотрудничество, издательские, грантовые, медийные, проектные, запросы, doctype, html, title, function, const, isgithub, location.hostname.endswith | ashraellen, контакт, запросы, издательские, сотрудничество, ashraellen.live, ashraellenchannel, contact, contact.html, telegram, telegram-канал, грантовые, контактная, медийные, обращения, проектные, публичные, связи |
-| ru/index.html | ru | index.html | Ashraellen — книги, исследования и публичные тексты | ashraellen, книги, исследования, публичные, тексты, многоязычный, авторский, проект, видео, формы, внутреннего, наблюдения, doctype, html, title, function, const, isgithub | ashraellen, исследования, книги, публичные, тексты, видео, формы, deutsch, english, español, index.html, авторский, внутреннего, исследование, многоязычный, наблюдения, проект, публичное |
+| ru/index.html | ru | index.html | Ashraellen — книги, исследования и публичные тексты | _missing_ | ashraellen, исследования, книги, публичные, тексты, видео, звук, литературно-философская, многоязычная, независимая, практика, художественно-исследовательская, index.html, сатира |
 | ru/monolith/index.html | ru | monolith | Трилогия МОНОЛИТ — Ashraellen | ashraellen, monolith, трилогия, монолит, три, состояния, контролируемого, распада, бетон, жижа, газ, doctype, html, title, function, const, isgithub, location.hostname.endswith | monolith, бетон, газ, жижа, контролируемого, монолит, распада, состояния, три, трилогия, ashraellen, amazon, антиутопии, социальной, том, фантастики, философского |
 | ru/privacy.html | ru | privacy.html | Политика конфиденциальности — Ashraellen | ashraellen, privacy, политика, конфиденциальности, ashraellen.com, персональные, данные, аналитика, cookies, права, пользователя, контакт, кто, отвечает, сайт, какие, могут, собираться | данные, конфиденциальности, политика, аналитика, ashraellen, ashraellen.com, cookies, обработки, google, privacy, privacy.html, внешние, данных, если, или, используются, какие, контакт |
 | ru/professional/index.html | ru | professional | Ashraellen — Профессиональное досье | ashraellen, professional, профессиональное, досье, художественно-философское, исследование, смысла, книги, публичные, формы, план, развития, поддержка, контакт, pdf-досье, проектный, бюджет, исследовательское | ashraellen, план, формы, professional, досье, исследование, наблюдения, профессиональное, публичные, развития, смысла, pdf-досье, авторе, архив, бюджет, видео, где, избранные |
@@ -803,7 +803,7 @@ Pages: 846
 | uk/books/the-book-of-whinesis/index.html | uk | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, книга, нытия, сакральна, сатира, тих, хто, втомився, від, позитивних, вайбів, нескінченної, продуктивності, культу, успіху | book, whinesis, ashraellen, books, про, хто, буде, вайбів, від, він, втомився, глава, глави, господь, його, книгу, культу, моанії |
 | uk/books/you-are-already-online/index.html | uk | books | Ashraellen — Ти вже в мережі | ashraellen, books, you, already, online, вже, мережі, психологічний, технотрилер, про, цифрове, сприйняття, підтвердження, реальність, яка, починає, відповідати, запитання | вже, мережі, ashraellen, books, про, реальність, яка, already, online, you, буде, від, відбувається, відповідати, вона, гачок, дослідницький, запитання |
 | uk/contact.html | uk | contact.html | Контакт — Ashraellen | ashraellen, contact, контакт, контактна, сторінка, співпраця, публікації, гранти, медіа, запити, щодо, проєкту, doctype, html, title, function, const, isgithub | ashraellen, контакт, гранти, запити, медіа, проєкту, публікації, співпраця, contact, contact.html, telegram, telegram-канал, зв’язку, контактна, публічні, сторінка, щодо |
-| uk/index.html | uk | index.html | Ashraellen — книжки, дослідження і публічні тексти | ashraellen, книжки, дослідження, публічні, тексти, багатомовний, авторський, проєкт, поєднує, відео, форми, внутрішнього, спостереження, doctype, html, title, function, const | ashraellen, дослідження, книжки, публічні, тексти, відео, форми, deutsch, english, español, français, index.html, авторський, багатомовний, внутрішнього, поєднує, проєкт, публічне |
+| uk/index.html | uk | index.html | Ashraellen — книжки, дослідження і публічні тексти | _missing_ | ashraellen, дослідження, книжки, публічні, тексти, багатомовна, відео, звук, літературно-філософська, мистецько-дослідницька, незалежна, практика, index.html, сатира |
 | uk/monolith/index.html | uk | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, uk, monolith | monolith, beton, gas, sludge, ashraellen, видання, пам’ять, amazon, google, play, англійською, антиутопічна, контроль, контрольованого, про, розпад, розпаду, систем |
 | uk/privacy.html | uk | privacy.html | Політика конфіденційності — Ashraellen | ashraellen, privacy, політика, конфіденційності, ashraellen.com, персональні, дані, аналітика, cookies, права, користувача, контакт, хто, відповідає, сайт, які, можуть, збиратися | дані, конфіденційності, політика, ashraellen, ashraellen.com, cookies, аналітика, можуть, обробки, google, privacy, privacy.html, або, використовуються, відповідає, даних, збиратися, зовнішні |
 | uk/professional/index.html | uk | professional | Ashraellen — Професійне досьє | ashraellen, professional, професійне, досьє, автор, метод, спостереження, книги, публічні, форми, проєкту, план, розвитку, співпраця, контакт, про, автора, позиція | ashraellen, спостереження, проєкту, публічні, professional, досьє, метод, план, про, проєкт, професійне, роботи, розвитку, форми, автор, автора, архів, вибрані |
@@ -1184,17 +1184,17 @@ Excerpt:
 - lang: be
 - section: index.html
 - title: Ashraellen — кнігі, даследаванні і публічныя тэксты
-- description: Ashraellen — шматмоўны аўтарскі праект, які аб’ядноўвае кнігі, даследаванні, публічныя тэксты, відэа і формы ўнутранага назірання.
+- description: Ashraellen — незалежная шматмоўная літаратурна-філасофская і мастацка-даследчая практыка: кнігі, даследаванні, публічныя тэксты, відэа, гук і сатыра.
 - canonical: https://www.ashraellen.com/be/
 - H1: Ashraellen
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, даследаванні, кнігі, публічныя, тэксты, відэа, формы, deutsch, english, español, index.html, аб’ядноўвае, аўтарскі, даследаванне, назірання, праект, публічнае, ўнутранага
-- candidates: кнігі, ashraellen, даследаванні, публічныя, тэксты, відэа, даследаванне, публічнае, формы, deutsch, english, español, français, mark, polski, português, presence, suomi, аб’ядноўвае, адно, аўтарскі, візуальныя, гаворыць, гук
+- suggested keyword seed: ashraellen, даследаванні, кнігі, публічныя, тэксты, відэа, гук, літаратурна-філасофская, мастацка-даследчая, незалежная, практыка, шматмоўная, index.html, сатыра
+- candidates: ashraellen, кнігі, даследаванні, публічныя, тэксты, відэа, гук, літаратурна-філасофская, мастацка-даследчая, незалежная, практыка, шматмоўная, mark, presence, адно, аўтаномію, візуальныя, вяртае, гаворыць, губляе, даследаванне, даследуе, дасье, дзеянні
 
 Excerpt:
 
-> Ashraellen Тры напрамкі прысутнасці: адно назірае, другое гаворыць, трэцяе становіцца кнігай. Даследаванне Публічнае Кнігі Даследаванне — зразумець механізмы. Публічнае — убачыць жывыя рэакцыі. Кнігі — пражыць мадэль знутры. Ashraellen — незалежная шматмоўная літаратурна-філасофская і мастацка-даследчая практыка: кнігі, даследаванні, публічныя тэксты, відэа, гук і візуальныя формы даследуюць свядомасць, мову, сістэмы і кантакт чалавека са сэнсам. English Русский Polski Deutsch Français Español Português Українська Suomi — mark of presence
+> Ashraellen Тры напрамкі прысутнасці: адно назірае, другое гаворыць, трэцяе становіцца кнігай. Даследаванне — зразумець механізмы. Публічнае — убачыць іх у дзеянні. Кнігі — пражыць мадэль знутры. Прафесійнае дасье Ashraellen — незалежная шматмоўная літаратурна-філасофская і мастацка-даследчая практыка. Праз кнігі, даследаванні, публічныя тэксты, відэа, гук, візуальныя формы і сатыру яна даследуе свядомасць, мову, сістэмы, лічбавы ціск, унутраную аўтаномію і тое, як чалавек губляе і вяртае непасрэдны кантакт са сэнсам. — mark of presence
 
 ### be/monolith/index.html
 
@@ -2357,17 +2357,17 @@ Excerpt:
 - lang: de
 - section: index.html
 - title: Ashraellen — Bücher, Forschung und öffentliche Texte
-- description: Ashraellen ist ein mehrsprachiges Autorenprojekt über Bücher, Forschung, öffentliche Texte, Videos und Formen innerer Beobachtung.
+- description: Ashraellen ist eine unabhängige mehrsprachige literarisch-philosophische und künstlerische Forschungspraxis: Bücher, Forschung, öffentliche Texte, Video, Klang und Satire.
 - canonical: https://www.ashraellen.com/de/
 - H1: Ashraellen
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, bücher, forschung, öffentliche, texte, und, autorenprojekt, formen, ist, bedeutung, beobachtung, ein, eine, index.html, innerer, mehrsprachiges, öffentlich, über
-- candidates: bücher, forschung, und, ashraellen, eine, öffentliche, texte, formen, ist, öffentlich, autorenprojekt, bedeutung, beobachtet, beobachtung, bewusstsein, buch, das, den, der, des, die, drei, durchleben, ein
+- suggested keyword seed: ashraellen, und, bücher, forschung, öffentliche, texte, eine, forschungspraxis, ist, klang, der, die, index.html, künstlerische, literarisch-philosophische, mehrsprachige, satire, unabhängige
+- candidates: und, ashraellen, bücher, eine, forschung, die, öffentliche, texte, der, forschungspraxis, ist, klang, künstlerische, literarisch-philosophische, mehrsprachige, satire, sie, unabhängige, video, zum, aktion, andere, autonomie, beobachtet
 
 Excerpt:
 
-> Ashraellen Drei Richtungen der Präsenz: eine beobachtet, eine spricht, eine wird zum Buch. Forschung Öffentlich Bücher Forschung — die Mechanismen verstehen. Öffentlich — lebendige Reaktionen sehen. Bücher — das Modell von innen durchleben. Ashraellen ist eine unabhängige mehrsprachige literarisch-philosophische und künstlerische Forschungspraxis: Bücher, Forschung, öffentliche Texte, Video, Klang und visuelle Formen untersuchen Bewusstsein, Sprache, Systeme und den Kontakt des Menschen mit Bedeutung. Русский English Беларуская Polski Français Español Português Українська Suomi — mark of presence
+> Ashraellen Drei Richtungen der Präsenz: eine beobachtet, eine andere spricht, die dritte wird zum Buch. Forschung — die Mechanismen verstehen. Öffentlich — sie in Aktion sehen. Bücher — das Modell von innen erfahren. Professionelles Dossier Ashraellen ist eine unabhängige mehrsprachige literarisch-philosophische und künstlerische Forschungspraxis. Durch Bücher, Forschung, öffentliche Texte, Video, Klang, visuelle Formen und Satire untersucht sie Bewusstsein, Sprache, Systeme, digitalen Druck, innere Autonomie und die Frage, wie der Mensch den unmittelbaren Kontakt zum Sinn verliert und wiederfindet. — mark of presence
 
 ### de/monolith/index.html
 
@@ -3734,17 +3734,17 @@ Excerpt:
 - lang: en
 - section: index.html
 - title: Ashraellen — Books, Research and Public Texts
-- description: Ashraellen is a multilingual author project combining books, research, public texts, videos and forms of inner observation.
+- description: Ashraellen is an independent multilingual literary-philosophical and artistic research practice spanning books, research, public texts, video, sound and satire.
 - canonical: https://www.ashraellen.com/en/
 - H1: Ashraellen
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, books, public, research, texts, forms, inner, multilingual, videos, artistic, author, combining, index.html, observation, one, presence, project
-- candidates: books, public, research, ashraellen, one, texts, forms, inner, multilingual, presence, videos, artistic, author, autonomy, becomes, book, combining, consciousness, deutsch, digital, direct, directions, dossier, español
+- suggested keyword seed: ashraellen, research, books, public, texts, artistic, independent, literary-philosophical, multilingual, practice, satire, index.html, presence, sound, spanning, video
+- candidates: research, ashraellen, books, public, texts, artistic, independent, literary-philosophical, multilingual, practice, presence, satire, sound, video, another, autonomy, becomes, book, consciousness, contact, digital, direct, directions, dossier
 
 Excerpt:
 
-> Ashraellen Three directions of presence: one observes, one speaks, one becomes a book. Research Public Books Research — understand the mechanisms. Public — see living reactions. Books — live the model from within. Professional dossier Ashraellen is an independent multilingual literary-philosophical and artistic research practice exploring consciousness, language, systems, satire, digital pressure, inner autonomy and the loss of direct perception through books, public texts, videos, sound and visual forms. Русский Беларуская Polski Deutsch Français Español Português Українська Suomi — mark of presence
+> Ashraellen Three directions of presence: one observes, another speaks, the third becomes a book. Research — understand the mechanisms. Public — see them at work. Books — experience the model from within. Professional dossier Ashraellen is an independent multilingual literary-philosophical and artistic research practice. Through books, research, public texts, video, sound, visual forms and satire, it explores consciousness, language, systems, digital pressure, inner autonomy, and how people lose and regain direct contact with meaning. — mark of presence
 
 ### en/monolith/index.html
 
@@ -4907,17 +4907,17 @@ Excerpt:
 - lang: es
 - section: index.html
 - title: Ashraellen — libros, investigación y textos públicos
-- description: Ashraellen es un proyecto autoral multilingüe que reúne libros, investigación, textos públicos, videos y formas de observación interior.
+- description: Ashraellen es una práctica independiente y multilingüe de investigación literario-filosófica y artística: libros, investigación, textos públicos, vídeo, sonido y sátira.
 - canonical: https://www.ashraellen.com/es/
 - H1: Ashraellen
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, investigación, libros, públicos, textos, formas, multilingüe, que, artística, autoral, index.html, interior, los, observación, proyecto, público, reúne, una
-- candidates: investigación, libros, ashraellen, públicos, textos, formas, los, multilingüe, público, que, una, artística, autoral, comprender, con, conciencia, contacto, convierte, dentro, desde, deutsch, direcciones, english, exploran
+- suggested keyword seed: ashraellen, investigación, libros, públicos, textos, artística, independiente, literario-filosófica, multilingüe, práctica, una, index.html, los, sátira, sonido, vídeo
+- candidates: investigación, ashraellen, libros, públicos, textos, una, artística, independiente, literario-filosófica, los, multilingüe, práctica, sátira, sonido, vídeo, acción, autonomía, cómo, comprender, con, conciencia, contacto, convierte, dentro
 
 Excerpt:
 
-> Ashraellen Tres direcciones de presencia: una observa, otra habla, la tercera se convierte en libro. Investigación Público Libros Investigación — comprender los mecanismos. Público — ver reacciones vivas. Libros — vivir el modelo desde dentro. Ashraellen es una práctica independiente y multilingüe de investigación literario-filosófica y artística: libros, investigación, textos públicos, video, sonido y formas visuales que exploran la conciencia, el lenguaje, los sistemas y el contacto humano con el sentido. Русский English Беларуская Polski Deutsch Français Português Українська Suomi — mark of presence
+> Ashraellen Tres direcciones de presencia: una observa, otra habla, la tercera se convierte en libro. Investigación — comprender los mecanismos. Público — verlos en acción. Libros — vivir el modelo desde dentro. Dosier profesional Ashraellen es una práctica independiente y multilingüe de investigación literario-filosófica y artística. A través de libros, investigación, textos públicos, vídeo, sonido, formas visuales y sátira, explora la conciencia, el lenguaje, los sistemas, la presión digital, la autonomía interior y cómo la persona pierde y recupera el contacto directo con el sentido. — mark of presence
 
 ### es/monolith/index.html
 
@@ -6080,17 +6080,17 @@ Excerpt:
 - lang: fi
 - section: index.html
 - title: Ashraellen — Kirjat, tutkimus ja julkiset tekstit
-- description: Ashraellen on itsenäinen monikielinen kirjallis-filosofinen ja taiteellinen tutkimuskäytäntö, joka yhdistää kirjat, tutkimuksen, julkiset tekstit, videot ja sisäisen havainnoinnin.
+- description: Ashraellen on itsenäinen monikielinen kirjallis-filosofinen ja taiteellinen tutkimuskäytäntö: kirjoja, tutkimusta, julkisia tekstejä, videota, ääntä ja satiiria.
 - canonical: https://www.ashraellen.com/fi/
 - H1: Ashraellen
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, julkiset, kirjat, tekstit, itsenäinen, kirjallis-filosofinen, monikielinen, taiteellinen, tutkimus, tutkimuskäytäntö, havainnoinnin, index.html, joka, julkinen, sisäisen, tutkimuksen, videot, yhdistää
-- candidates: ashraellen, kirjat, tutkimus, yksi, itsenäinen, julkinen, julkiset, kirjallis-filosofinen, monikielinen, taiteellinen, tekstit, tutkimuskäytäntö, äänen, ammatillinen, autonomiaa, deutsch, digitaalista, elä, elävät, english, esittely, español, français, havainnoi
+- suggested keyword seed: ashraellen, ääntä, itsenäinen, kirjallis-filosofinen, kirjat, monikielinen, taiteellinen, tutkimus, tutkimuskäytäntö, äänen, ammatillinen, autonomiaa, index.html, julkiset, julkisia, kirjoja, satiiria, tekstejä
+- candidates: ashraellen, itsenäinen, kirjallis-filosofinen, kirjat, monikielinen, taiteellinen, tutkimus, tutkimuskäytäntö, äänen, ääntä, ammatillinen, autonomiaa, digitaalista, esittely, havainnoi, ihminen, järjestelmiä, julkinen, julkiset, julkisia, julkisten, käsin, kautta, kieltä
 
 Excerpt:
 
-> Ashraellen Kolme läsnäolon suuntaa: yksi havainnoi, yksi puhuu, yksi muuttuu kirjaksi. Tutkimus Julkinen Kirjat Tutkimus — ymmärrä mekanismeja. Julkinen — näe elävät reaktiot. Kirjat — elä malli sisältäpäin. Ammatillinen esittely Ashraellen on itsenäinen monikielinen kirjallis-filosofinen ja taiteellinen tutkimuskäytäntö. Se tarkastelee tietoisuutta, kieltä, järjestelmiä, satiiria, digitaalista painetta, sisäistä autonomiaa ja suoran havainnon katoamista kirjojen, julkisten tekstien, videon, äänen ja visuaalisten muotojen kautta. English Русский Беларуская Polski Deutsch Français Español Português Українська — mark of presence
+> Ashraellen Kolme läsnäolon suuntaa: yksi havainnoi, toinen puhuu, kolmas muuttuu kirjaksi. Tutkimus — ymmärrä mekanismit. Julkinen — näe ne toiminnassa. Kirjat — koe malli sisältä käsin. Ammatillinen esittely Ashraellen on itsenäinen monikielinen kirjallis-filosofinen ja taiteellinen tutkimuskäytäntö. Kirjojen, tutkimuksen, julkisten tekstien, videon, äänen, visuaalisten muotojen ja satiirin kautta se tarkastelee tietoisuutta, kieltä, järjestelmiä, digitaalista painetta, sisäistä autonomiaa sekä sitä, kuinka ihminen menettää ja löytää uudelleen suoran yhteyden merkitykseen. — mark of presence
 
 ### fi/kone/index.html
 
@@ -7321,17 +7321,17 @@ Excerpt:
 - lang: fr
 - section: index.html
 - title: Ashraellen — livres, recherche et textes publics
-- description: Ashraellen est un projet d’auteur multilingue réunissant livres, recherche, textes publics, vidéos et formes d’observation intérieure.
+- description: Ashraellen est une pratique indépendante et multilingue de recherche littéraire, philosophique et artistique : livres, recherche, textes publics, vidéo, son et satire.
 - canonical: https://www.ashraellen.com/fr/
 - H1: Ashraellen
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, livres, publics, recherche, textes, est, formes, multilingue, artistique, avec, d’auteur, d’observation, index.html, intérieure, les, projet, public, réunissant
-- candidates: recherche, livres, ashraellen, les, publics, textes, est, formes, multilingue, public, artistique, avec, comprendre, conscience, contact, d’auteur, d’observation, deutsch, devient, directions, english, español, explorent, humain
+- suggested keyword seed: ashraellen, recherche, livres, publics, textes, artistique, est, indépendante, littéraire, multilingue, philosophique, index.html, les, pratique, satire, son, une, vidéo
+- candidates: les, recherche, ashraellen, livres, publics, textes, artistique, est, indépendante, littéraire, multilingue, philosophique, pratique, satire, son, une, vidéo, ainsi, avec, comprendre, conscience, contact, devient, direct
 
 Excerpt:
 
-> Ashraellen Trois directions de présence : l’une observe, l’autre parle, la troisième devient un livre. Recherche Public Livres Recherche — comprendre les mécanismes. Public — voir les réactions vivantes. Livres — vivre le modèle de l’intérieur. Ashraellen est une pratique indépendante et multilingue de recherche littéraire-philosophique et artistique : livres, recherche, textes publics, vidéo, son et formes visuelles explorent la conscience, le langage, les systèmes et le contact humain avec le sens. Русский English Беларуская Polski Deutsch Español Português Українська Suomi — mark of presence
+> Ashraellen Trois directions de présence : l’une observe, l’autre parle, la troisième devient un livre. Recherche — comprendre les mécanismes. Public — les voir à l’œuvre. Livres — vivre le modèle de l’intérieur. Dossier professionnel Ashraellen est une pratique indépendante et multilingue de recherche littéraire, philosophique et artistique. À travers les livres, la recherche, les textes publics, la vidéo, le son, les formes visuelles et la satire, elle explore la conscience, le langage, les systèmes, la pression numérique, l’autonomie intérieure, ainsi que la manière dont l’être humain perd et retrouve un contact direct avec le sens. — mark of presence
 
 ### fr/monolith/index.html
 
@@ -9106,17 +9106,17 @@ Excerpt:
 - lang: pl
 - section: index.html
 - title: Ashraellen — książki, badania i teksty publiczne
-- description: Ashraellen to wielojęzyczny projekt autorski łączący książki, badania, teksty publiczne, wideo i formy wewnętrznej obserwacji.
+- description: Ashraellen to niezależna, wielojęzyczna praktyka literacko-filozoficzna i artystyczno-badawcza: książki, badania, teksty publiczne, wideo, dźwięk i satyra.
 - canonical: https://www.ashraellen.com/pl/
 - H1: Ashraellen
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, badania, książki, publiczne, teksty, autorski, formy, wideo, artystyczno-badawcza, badające, człowieka, deutsch, index.html, łączący, obserwacji, projekt, wewnętrznej, wielojęzyczny
-- candidates: badania, książki, publiczne, ashraellen, teksty, formy, wideo, artystyczno-badawcza, autorski, badające, człowieka, deutsch, drugi, dźwięk, english, español, français, jeden, język, kierunki, kontakt, książką, łączący, literacko-filozoficzna
+- suggested keyword seed: ashraellen, badania, książki, publiczne, teksty, artystyczno-badawcza, dźwięk, literacko-filozoficzna, niezależna, praktyka, wideo, wielojęzyczna, index.html, satyra
+- candidates: ashraellen, badania, książki, publiczne, teksty, artystyczno-badawcza, dźwięk, literacko-filozoficzna, niezależna, praktyka, wideo, wielojęzyczna, autonomię, bada, bezpośredni, cyfrową, człowiek, dossier, drugi, działaniu, formy, jeden, język, kierunki
 
 Excerpt:
 
-> Ashraellen Trzy kierunki obecności: jeden obserwuje, drugi mówi, trzeci staje się książką. Badania Publiczne Książki Badania — zrozumieć mechanizmy. Publiczne — zobaczyć żywe reakcje. Książki — przeżyć model od środka. Ashraellen to niezależna, wielojęzyczna praktyka literacko-filozoficzna i artystyczno-badawcza: książki, badania, teksty publiczne, wideo, dźwięk i formy wizualne badające świadomość, język, systemy oraz kontakt człowieka ze znaczeniem. Русский English Беларуская Deutsch Français Español Português Українська Suomi — mark of presence
+> Ashraellen Trzy kierunki obecności: jeden obserwuje, drugi mówi, trzeci staje się książką. Badania — zrozumieć mechanizmy. Publiczne — zobaczyć je w działaniu. Książki — przeżyć model od środka. Dossier profesjonalne Ashraellen to niezależna, wielojęzyczna praktyka literacko-filozoficzna i artystyczno-badawcza. Poprzez książki, badania, teksty publiczne, wideo, dźwięk, formy wizualne i satyrę bada świadomość, język, systemy, presję cyfrową, wewnętrzną autonomię oraz to, jak człowiek traci i odzyskuje bezpośredni kontakt z sensem. — mark of presence
 
 ### pl/monolith/index.html
 
@@ -10296,17 +10296,17 @@ Excerpt:
 - lang: pt
 - section: index.html
 - title: Ashraellen — livros, pesquisa e textos públicos
-- description: Ashraellen é um projeto autoral multilíngue que reúne livros, pesquisa, textos públicos, vídeos e formas de observação interior.
+- description: Ashraellen é uma prática independente e multilíngue de pesquisa literário-filosófica e artística: livros, pesquisa, textos públicos, vídeo, som e sátira.
 - canonical: https://www.ashraellen.com/pt/
 - H1: Ashraellen
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, livros, pesquisa, públicos, textos, autoral, formas, multilíngue, artística, com, index.html, interior, observação, projeto, público, que, reúne, uma
-- candidates: pesquisa, livros, ashraellen, públicos, textos, formas, multilíngue, público, uma, artística, autoral, com, compreender, consciência, contato, dentro, deutsch, direções, english, español, exploram, fala, français, humano
+- suggested keyword seed: ashraellen, pesquisa, livros, públicos, textos, artística, independente, literário-filosófica, multilíngue, prática, uma, index.html, por, sátira, som, vídeo
+- candidates: pesquisa, ashraellen, livros, públicos, textos, uma, artística, independente, literário-filosófica, multilíngue, por, prática, sátira, som, vídeo, ação, autonomia, com, como, compreender, consciência, contato, dentro, digital
 
 Excerpt:
 
-> Ashraellen Três direções de presença: uma observa, outra fala, a terceira vira um livro. Pesquisa Público Livros Pesquisa — compreender os mecanismos. Público — ver reações vivas. Livros — viver o modelo por dentro. Ashraellen é uma prática independente e multilíngue de pesquisa literário-filosófica e artística: livros, pesquisa, textos públicos, vídeo, som e formas visuais exploram consciência, linguagem, sistemas e o contato humano com o sentido. Русский English Беларуская Polski Deutsch Français Español Українська Suomi — mark of presence
+> Ashraellen Três direções de presença: uma observa, outra fala, a terceira torna-se um livro. Pesquisa — compreender os mecanismos. Público — vê-los em ação. Livros — vivenciar o modelo por dentro. Dossiê profissional Ashraellen é uma prática independente e multilíngue de pesquisa literário-filosófica e artística. Por meio de livros, pesquisa, textos públicos, vídeo, som, formas visuais e sátira, explora a consciência, a linguagem, os sistemas, a pressão digital, a autonomia interior e como a pessoa perde e recupera o contato direto com o sentido. — mark of presence
 
 ### pt/monolith/index.html
 
@@ -11996,17 +11996,17 @@ Excerpt:
 - lang: ru
 - section: index.html
 - title: Ashraellen — книги, исследования и публичные тексты
-- description: Ashraellen — многоязычный авторский проект: книги, исследования, публичные тексты, видео и формы внутреннего наблюдения.
+- description: Ashraellen — независимая многоязычная литературно-философская и художественно-исследовательская практика: книги, исследования, публичные тексты, видео, звук и сатира.
 - canonical: https://www.ashraellen.com/ru/
 - H1: Ashraellen
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, исследования, книги, публичные, тексты, видео, формы, deutsch, english, español, index.html, авторский, внутреннего, исследование, многоязычный, наблюдения, проект, публичное
-- candidates: книги, ashraellen, исследования, публичные, тексты, видео, исследование, публичное, формы, deutsch, english, español, français, mark, polski, português, presence, suomi, авторский, беларуская, визуальные, внутреннего, возвращает, говорит
+- suggested keyword seed: ashraellen, исследования, книги, публичные, тексты, видео, звук, литературно-философская, многоязычная, независимая, практика, художественно-исследовательская, index.html, сатира
+- candidates: ashraellen, книги, исследования, публичные, тексты, видео, звук, литературно-философская, многоязычная, независимая, практика, художественно-исследовательская, mark, presence, автономию, визуальные, внутреннюю, возвращает, говорит, давление, действии, досье, другое, изнутри
 
 Excerpt:
 
-> Ashraellen Три направления присутствия: одно наблюдает, другое говорит, третье становится книгой. Исследование Публичное Книги Исследование — понять механизмы. Публичное — увидеть живые реакции. Книги — прожить модель изнутри. Профессиональное досье Ashraellen — независимая многоязычная литературно-философская и художественно-исследовательская практика: книги, исследования, публичные тексты, видео, звук, визуальные формы и наблюдение за тем, как человек теряет и возвращает контакт со смыслом. English Беларуская Polski Deutsch Français Español Português Українська Suomi — mark of presence Политика конфиденциальности
+> Ashraellen Три направления присутствия: одно наблюдает, другое говорит, третье становится книгой. Исследование — понять механизмы. Публичное — увидеть их в действии. Книги — прожить модель изнутри. Профессиональное досье Ashraellen — независимая многоязычная литературно-философская и художественно-исследовательская практика. Через книги, исследования, публичные тексты, видео, звук, визуальные формы и сатиру она исследует сознание, язык, системы, цифровое давление, внутреннюю автономию и то, как человек теряет и возвращает непосредственный контакт со смыслом. — mark of presence
 
 ### ru/monolith/index.html
 
@@ -14393,17 +14393,17 @@ Excerpt:
 - lang: uk
 - section: index.html
 - title: Ashraellen — книжки, дослідження і публічні тексти
-- description: Ashraellen — багатомовний авторський проєкт, що поєднує книжки, дослідження, публічні тексти, відео та форми внутрішнього спостереження.
+- description: Ashraellen — незалежна багатомовна літературно-філософська та мистецько-дослідницька практика: книжки, дослідження, публічні тексти, відео, звук і сатира.
 - canonical: https://www.ashraellen.com/uk/
 - H1: Ashraellen
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, дослідження, книжки, публічні, тексти, відео, форми, deutsch, english, español, français, index.html, авторський, багатомовний, внутрішнього, поєднує, проєкт, публічне
-- candidates: дослідження, книжки, ashraellen, публічні, тексти, відео, публічне, форми, deutsch, english, español, français, mark, polski, português, presence, suomi, авторський, багатомовна, багатомовний, беларуская, візуальні, внутрішнього, говорить
+- suggested keyword seed: ashraellen, дослідження, книжки, публічні, тексти, багатомовна, відео, звук, літературно-філософська, мистецько-дослідницька, незалежна, практика, index.html, сатира
+- candidates: ashraellen, дослідження, книжки, публічні, тексти, багатомовна, відео, звук, літературно-філософська, мистецько-дослідницька, незалежна, практика, mark, presence, автономію, безпосередній, відновлює, візуальні, внутрішню, вона, втрачає, говорить, дії, досліджує
 
 Excerpt:
 
-> Ashraellen Три напрями присутності: один спостерігає, другий говорить, третій стає книгою. Дослідження Публічне Книжки Дослідження — зрозуміти механізми. Публічне — побачити живі реакції. Книжки — прожити модель зсередини. Ashraellen — незалежна багатомовна літературно-філософська та мистецько-дослідницька практика: книжки, дослідження, публічні тексти, відео, звук і візуальні форми досліджують свідомість, мову, системи та контакт людини зі смислом. Русский English Беларуская Polski Deutsch Français Español Português Suomi — mark of presence
+> Ashraellen Три напрями присутності: один спостерігає, другий говорить, третій стає книгою. Дослідження — зрозуміти механізми. Публічне — побачити їх у дії. Книжки — прожити модель зсередини. Професійне досьє Ashraellen — незалежна багатомовна літературно-філософська та мистецько-дослідницька практика. Через книжки, дослідження, публічні тексти, відео, звук, візуальні форми й сатиру вона досліджує свідомість, мову, системи, цифровий тиск, внутрішню автономію та те, як людина втрачає і відновлює безпосередній контакт із сенсом. — mark of presence
 
 ### uk/monolith/index.html
 
