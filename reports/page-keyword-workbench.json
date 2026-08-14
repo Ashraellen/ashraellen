@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-14T16:23:31.961Z",
+  "generated": "2026-08-14T17:10:53.188Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -2550,12 +2550,12 @@
       "page": "be/public/talks/index.html",
       "lang": "be",
       "section": "public",
-      "title": "Ashraellen — Выступленні",
+      "title": "Ashraellen — Выступы",
       "description": "Відэа і публічныя разборы Ashraellen: яснасць, успрыманне, свядомасць, рэальнасць і вяртанне да жывога разумення.",
-      "existingKeywords": "ashraellen, public, talks, выступленні, відэа, публічныя, разборы, яснасць, успрыманне, свядомасць, рэальнасць, вяртанне, жывога, разумення, спіс, адбываецца, пасля, смерці",
+      "existingKeywords": "Ashraellen, выступы, відэа, публічныя разборы, свядомасць, успрыманне, яснасць",
       "canonical": "https://www.ashraellen.com/be/public/talks/",
       "h1": [
-        "Выступленні"
+        "Выступы"
       ],
       "h2": [
         "Спіс",
@@ -2573,7 +2573,7 @@
         "public",
         "talks"
       ],
-      "excerpt": "Выступленні Тут сабраны відэа і публічныя разборы — тое, што ўжо можна паказваць. Гэта не “матывацыя” і не “вучэнне”. Гэта спроба гаварыць дакладна: без лішняга шуму, але і без сыходу ў туман. Спіс раздзел папаўняецца Што адбываецца пасля смерці? Разбор страху смерці праз простыя метафары: акіян, кінатэатр, віртуальная рэальнасць і плэйліст. Відэа даследуе магчымасць, што смерць у звыклым разуменні — не канец свядомасці, а растварэнне формы, з якой мы памылкова сябе атаясамліваем. Гэта не новая вера і не абяцанне замагільнага сцэнарыя. Гэта спроба паглядзець за межы звыклых уяўленняў пра цела, асобу, час і “тэрмін прыдатнасці” чалавечай гісторыі. Відэа змяшчае шматмоўныя аўдыядарожкі. Мову можна змяніць у настройках YouTube-плеера. Адкрыць YouTube → Ashraellen шматмоўны дубляж Сем узроўняў самападману Радыкальная інвентарызацыя звыклых спосабаў, якімі чалавек падманвае сябе: ад фразы “са",
+      "excerpt": "Выступы Тут сабраны відэа і публічныя разборы — тое, што ўжо можна паказваць. Гэта не “матывацыя” і не “вучэнне”. Гэта спроба гаварыць дакладна: без лішняга шуму, але і без сыходу ў туман. Спіс раздзел папаўняецца Што адбываецца пасля смерці? Разбор страху смерці праз простыя метафары: акіян, кінатэатр, віртуальная рэальнасць і плэйліст. Відэа даследуе магчымасць, што смерць у звыклым разуменні — не канец свядомасці, а растварэнне формы, з якой мы памылкова сябе атаясамліваем. Гэта не новая вера і не абяцанне замагільнага сцэнарыя. Гэта спроба паглядзець за межы звыклых уяўленняў пра цела, асобу, час і “тэрмін прыдатнасці” чалавечай гісторыі. Відэа змяшчае шматмоўныя аўдыядарожкі. Мову можна змяніць у настройках YouTube-плеера. Адкрыць YouTube → Ashraellen шматмоўны дубляж Сем узроўняў самападману Радыкальная інвентарызацыя звыклых спосабаў, якімі чалавек падманвае сябе: ад фразы “са мно",
       "candidates": [
         "відэа",
         "youtube",
@@ -2607,7 +2607,7 @@
         "taste",
         "ахепсу",
         "відэа",
-        "выступленні",
+        "выступы",
         "moan",
         "money",
         "revelation",
@@ -7694,7 +7694,7 @@
       "section": "public",
       "title": "Ashraellen — Vorträge",
       "description": "Videos und öffentliche Analysen von Ashraellen: Klarheit, Wahrnehmung, Bewusstsein, Realität und die Rückkehr zum lebendigen Verstehen.",
-      "existingKeywords": "ashraellen, public, talks, vorträge, videos, und, öffentliche, analysen, von, klarheit, wahrnehmung, bewusstsein, realität, die, rückkehr, zum, lebendigen, verstehen",
+      "existingKeywords": "Ashraellen, Vorträge, Videos, öffentliche Analysen, Bewusstsein, Wahrnehmung, Klarheit",
       "canonical": "https://www.ashraellen.com/de/public/talks/",
       "h1": [
         "Vorträge"
@@ -13691,7 +13691,7 @@
       "section": "public",
       "title": "Ashraellen — Talks",
       "description": "Videos and public analyses by Ashraellen: clarity, perception, consciousness, reality, and the return to living understanding.",
-      "existingKeywords": "ashraellen, public, talks, videos, analyses, clarity, perception, consciousness, reality, return, living, understanding, list, what, happens, after, death, seven",
+      "existingKeywords": "Ashraellen, talks, videos, public analyses, consciousness, perception, clarity",
       "canonical": "https://www.ashraellen.com/en/public/talks/",
       "h1": [
         "Talks"
@@ -13712,7 +13712,7 @@
         "public",
         "talks"
       ],
-      "excerpt": "Talks Here are videos and public analyses — what can already be shown. This is not “motivation” and not “teaching”. It is an attempt to speak precisely: without unnecessary noise, but also without escaping into fog. List section expanding What Happens After Death? An exploration of the fear of death through simple metaphors: the ocean, the cinema, virtual reality and a playlist. The video examines the possibility that death, in the usual sense, is not the end of consciousness, but the dissolution of the form with which we mistakenly identify ourselves. This is not a new belief and not a promise of an afterlife scenario. It is an attempt to look beyond familiar ideas about the body, personality, time and the “expiration date” of a human story. The video contains multilingual audio tracks. The language can be changed in the YouTube player settings. Open YouTube → Ashraellen multilingual du",
+      "excerpt": "Talks Here are videos and public analyses — what can already be shown. This is neither “motivation” nor “teaching”. It is an attempt to speak precisely: without unnecessary noise, but also without escaping into fog. List section expanding What Happens After Death? An exploration of the fear of death through simple metaphors: the ocean, the cinema, virtual reality and a playlist. The video examines the possibility that death, in the usual sense, is not the end of consciousness, but the dissolution of the form with which we mistakenly identify ourselves. This is neither a new belief nor a promise of an afterlife scenario. It is an attempt to look beyond familiar ideas about the body, personality, time and the “expiration date” of a human story. The video contains multilingual audio tracks. The language can be changed in the YouTube player settings. Open YouTube → Ashraellen multilingual du",
       "candidates": [
         "sacred",
         "youtube",
@@ -13723,21 +13723,21 @@
         "ashraellen",
         "dubbing",
         "taste",
-        "about",
         "ahepsu",
         "familiar",
         "language",
         "money",
+        "neither",
+        "nor",
         "where",
+        "about",
         "analysis",
         "audio",
         "become",
         "becomes",
         "being",
         "book",
-        "changed",
-        "clarity",
-        "complaint"
+        "changed"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",
@@ -13746,7 +13746,6 @@
         "talks",
         "ahepsu",
         "taste",
-        "about",
         "after",
         "analyses",
         "book",
@@ -13757,7 +13756,8 @@
         "dead",
         "death",
         "dubbing",
-        "familiar"
+        "familiar",
+        "get"
       ]
     },
     {
@@ -18818,8 +18818,8 @@
       "lang": "es",
       "section": "public",
       "title": "Ashraellen — Presentaciones",
-      "description": "Videos y análisis públicos de Ashraellen: claridad, percepción, conciencia, realidad y regreso a una comprensión viva.",
-      "existingKeywords": "ashraellen, public, talks, presentaciones, videos, análisis, públicos, claridad, percepción, conciencia, realidad, regreso, una, comprensión, viva, lista, qué, sucede",
+      "description": "Vídeos y análisis públicos de Ashraellen: claridad, percepción, conciencia, realidad y regreso a una comprensión viva.",
+      "existingKeywords": "Ashraellen, presentaciones, vídeos, análisis públicos, conciencia, percepción, claridad",
       "canonical": "https://www.ashraellen.com/es/public/talks/",
       "h1": [
         "Presentaciones"
@@ -18840,13 +18840,13 @@
         "public",
         "talks"
       ],
-      "excerpt": "Presentaciones Aquí se reúnen videos y análisis públicos: aquello que ya puede mostrarse. No es “motivación” ni “enseñanza”. Es un intento de hablar con precisión: sin ruido innecesario, pero también sin escapar hacia la niebla. Lista la sección se amplía ¿Qué sucede después de la muerte? Un análisis del miedo a la muerte mediante metáforas simples: el océano, el cine, la realidad virtual y una lista de reproducción. El video explora la posibilidad de que la muerte, en el sentido habitual, no sea el final de la conciencia, sino la disolución de la forma con la que nos identificamos por error. No es una nueva fe ni una promesa de un escenario de ultratumba. Es un intento de mirar más allá de las ideas habituales sobre el cuerpo, la personalidad, el tiempo y la “fecha de caducidad” de una historia humana. El video contiene pistas de audio multilingües. El idioma puede cambiarse en la confi",
+      "excerpt": "Presentaciones Aquí se reúnen vídeos y análisis públicos: aquello que ya puede mostrarse. No es “motivación” ni “enseñanza”. Es un intento de hablar con precisión: sin ruido innecesario, pero también sin escapar hacia la niebla. Lista la sección se amplía ¿Qué sucede después de la muerte? Un análisis del miedo a la muerte mediante metáforas simples: el océano, el cine, la realidad virtual y una lista de reproducción. El vídeo explora la posibilidad de que la muerte, en el sentido habitual, no sea el final de la conciencia, sino la disolución de la forma con la que nos identificamos por error. No es una nueva fe ni una promesa de un escenario de ultratumba. Es un intento de mirar más allá de las ideas habituales sobre el cuerpo, la personalidad, el tiempo y la “fecha de caducidad” de una historia humana. El vídeo contiene pistas de audio multilingües. El idioma puede cambiarse en la confi",
       "candidates": [
         "una",
         "del",
         "youtube",
         "que",
-        "video",
+        "vídeo",
         "abrir",
         "sobre",
         "análisis",
@@ -23916,7 +23916,7 @@
       "section": "public",
       "title": "Ashraellen — Puheenvuorot",
       "description": "Ashraellenin videoita ja julkisia analyysejä: selkeys, havainto, tietoisuus, todellisuus ja paluu elävään ymmärrykseen.",
-      "existingKeywords": "Ashraellen, puheenvuorot, videot, julkiset analyysit, tietoisuus",
+      "existingKeywords": "Ashraellen, puheenvuorot, videot, julkiset analyysit, tietoisuus, havainnointi, selkeys",
       "canonical": "https://www.ashraellen.com/fi/public/talks/",
       "h1": [
         "Puheenvuorot"
@@ -23925,9 +23925,9 @@
         "Lista",
         "Mitä kuoleman jälkeen tapahtuu?",
         "Seitsemän itsepetoksen tasoa",
-        "Valituksesi on pyhä | Ilmestys IV",
+        "Your Moan Is Sacred | Revelation IV",
         "Pinocchio: kuolleen sielun kronikka",
-        "Raha & … / AHEPSU:n pyhä kirja",
+        "Money & … / AHEPSU:n pyhä kirja",
         "Tiedät liikaa rikastuaksesi | Sivu II",
         "Sacred Taste — Matka hiljaisuuteen"
       ],
@@ -23937,7 +23937,7 @@
         "public",
         "talks"
       ],
-      "excerpt": "Puheenvuorot Videoita ja julkisia analyysejä — sitä, minkä voi jo tuoda näkyviin. Ei “motivaatiota” eikä “opetusta”, vaan yritys puhua täsmällisesti: ilman turhaa melua, mutta myös ilman pakenemista sumuun. Lista osio laajenee Mitä kuoleman jälkeen tapahtuu? Kuolemanpelkoa tarkastellaan yksinkertaisten kuvien kautta: meri, elokuvateatteri, virtuaalitodellisuus ja soittolista. Entä jos kuolema ei tavallisessa mielessä ole tietoisuuden loppu vaan sen muodon hajoaminen, johon erehdymme samaistumaan? Tämä ei tarjoa uutta uskoa eikä karttaa tuonpuoleisesta. Se yrittää katsoa kehon, persoonan, ajan ja ihmistarinan “viimeisen käyttöpäivän” tuttujen käsitysten taakse. Videossa on useita ääniraitoja. Kielen voi vaihtaa YouTube-soittimen asetuksista. Avaa YouTubessa → Ashraellen monikielinen dubbaus Seitsemän itsepetoksen tasoa Radikaali inventaario tavoista, joilla ihminen huijaa itseään: “minull",
+      "excerpt": "Puheenvuorot Videoita ja julkisia analyysejä — sitä, minkä voi jo tuoda näkyviin. Ei “motivaatiota” eikä “opetusta”, vaan yritys puhua täsmällisesti: ilman turhaa melua, mutta myös ilman pakenemista sumuun. Lista osio laajenee Mitä kuoleman jälkeen tapahtuu? Kuolemanpelkoa tarkastellaan yksinkertaisten kuvien kautta: valtameri, elokuvateatteri, virtuaalitodellisuus ja soittolista. Entä jos kuolema ei tavallisessa mielessä ole tietoisuuden loppu vaan sen muodon hajoaminen, johon erehdymme samaistumaan? Tämä ei tarjoa uutta uskoa eikä lupausta tuonpuoleisen tapahtumakulusta. Se yrittää katsoa kehon, persoonan, ajan ja ihmistarinan “viimeisen käyttöpäivän” tuttujen käsitysten taakse. Videossa on monikielisiä ääniraitoja. Kielen voi vaihtaa YouTube-soittimen asetuksista. Avaa YouTubessa → Ashraellen monikielinen dubbaus Seitsemän itsepetoksen tasoa Radikaali inventaario tavoista, joilla ihmi",
       "candidates": [
         "avaa",
         "vaan",
@@ -23947,29 +23947,29 @@
         "monikielinen",
         "ahepsu",
         "eikä",
+        "sacred",
         "ääniraitoja",
         "asetuksista",
         "ashraellen",
         "jossa",
         "kielen",
         "lakkaa",
+        "monikielisiä",
         "muuttuu",
+        "ole",
         "pyhän",
-        "raha",
-        "sacred",
         "sacrunomicon",
         "saint",
         "sen",
         "siitä",
-        "sivu",
-        "taste"
+        "sivu"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",
+        "sacred",
         "ahepsu",
         "public",
         "puheenvuorot",
-        "pyhä",
         "ääniraitoja",
         "analyysejä",
         "asetuksista",
@@ -23980,9 +23980,9 @@
         "elävään",
         "havainto",
         "hiljaisuuteen",
-        "ilmestys",
         "itsepetoksen",
-        "jälkeen"
+        "jälkeen",
+        "julkisia"
       ]
     },
     {
@@ -29323,7 +29323,7 @@
       "section": "public",
       "title": "Ashraellen — Interventions",
       "description": "Vidéos et analyses publiques d’Ashraellen : clarté, perception, conscience, réalité et retour à une compréhension vivante.",
-      "existingKeywords": "ashraellen, public, talks, interventions, vidéos, analyses, publiques, d’ashraellen, clarté, perception, conscience, réalité, retour, une, compréhension, vivante, liste, que",
+      "existingKeywords": "Ashraellen, interventions, vidéos, analyses publiques, conscience, perception, clarté",
       "canonical": "https://www.ashraellen.com/fr/public/talks/",
       "h1": [
         "Interventions"
@@ -37061,7 +37061,7 @@
       "section": "public",
       "title": "Ashraellen — Wystąpienia",
       "description": "Wideo i publiczne analizy Ashraellen: jasność, percepcja, świadomość, rzeczywistość i powrót do żywego rozumienia.",
-      "existingKeywords": "ashraellen, public, talks, wystąpienia, wideo, publiczne, analizy, jasność, percepcja, świadomość, rzeczywistość, powrót, żywego, rozumienia, lista, dzieje, się, śmierci",
+      "existingKeywords": "Ashraellen, wystąpienia, wideo, publiczne analizy, świadomość, percepcja, jasność",
       "canonical": "https://www.ashraellen.com/pl/public/talks/",
       "h1": [
         "Wystąpienia"
@@ -42250,7 +42250,7 @@
       "section": "public",
       "title": "Ashraellen — Apresentações",
       "description": "Vídeos e análises públicas de Ashraellen: clareza, percepção, consciência, realidade e retorno à compreensão viva.",
-      "existingKeywords": "ashraellen, public, talks, apresentações, vídeos, análises, públicas, clareza, percepção, consciência, realidade, retorno, compreensão, viva, lista, que, acontece, depois",
+      "existingKeywords": "Ashraellen, apresentações, vídeos, análises públicas, consciência, percepção, clareza",
       "canonical": "https://www.ashraellen.com/pt/public/talks/",
       "h1": [
         "Apresentações"
@@ -42271,7 +42271,7 @@
         "public",
         "talks"
       ],
-      "excerpt": "Apresentações Aqui estão reunidos vídeos e análises públicas — aquilo que já pode ser mostrado. Isto não é “motivação” nem “ensinamento”. É uma tentativa de falar com precisão: sem ruído desnecessário, mas também sem fugir para a névoa. Lista seção em expansão O que acontece depois da morte? Uma análise do medo da morte por meio de metáforas simples: o oceano, o cinema, a realidade virtual e uma playlist. O vídeo examina a possibilidade de que a morte, no sentido habitual, não seja o fim da consciência, mas a dissolução da forma com a qual nos identificamos por engano. Isto não é uma nova fé nem a promessa de um cenário após a morte. É uma tentativa de olhar para além das ideias habituais sobre o corpo, a personalidade, o tempo e o “prazo de validade” de uma história humana. O vídeo contém faixas de áudio multilíngues. O idioma pode ser alterado nas configurações do player do YouTube. Ab",
+      "excerpt": "Apresentações Aqui estão reunidos vídeos e análises públicas — aquilo que já pode ser mostrado. Isto não é “motivação” nem “ensinamento”. É uma tentativa de falar com precisão: sem ruído desnecessário, mas também sem fugir para a névoa. Lista seção em expansão O que acontece depois da morte? Uma análise do medo da morte por meio de metáforas simples: o oceano, o cinema, a realidade virtual e uma playlist. O vídeo examina a possibilidade de que a morte, no sentido habitual, não seja o fim da consciência, mas a dissolução da forma com a qual nos identificamos por engano. Isto não é uma nova fé nem a promessa de um cenário após a morte. É uma tentativa de olhar para além das ideias habituais sobre o corpo, a personalidade, o tempo e o “prazo de validade” de uma história humana. O vídeo contém faixas de áudio multilíngues. O idioma pode ser alterado nas configurações do reprodutor do YouTube",
       "candidates": [
         "uma",
         "youtube",
@@ -49700,7 +49700,7 @@
       "section": "public",
       "title": "Ashraellen — Выступления",
       "description": "Видео и публичные разборы Ashraellen: ясность, восприятие, сознание, реальность и возвращение к живому пониманию.",
-      "existingKeywords": "ashraellen, public, talks, выступления, видео, публичные, разборы, ясность, восприятие, сознание, реальность, возвращение, живому, пониманию, список, происходит, после, смерти",
+      "existingKeywords": "Ashraellen, выступления, видео, публичные разборы, сознание, восприятие, ясность",
       "canonical": "https://www.ashraellen.com/ru/public/talks/",
       "h1": [
         "Выступления"
@@ -57551,7 +57551,7 @@
       "section": "public",
       "title": "Ashraellen — Виступи",
       "description": "Відео та публічні розбори Ashraellen: ясність, сприйняття, свідомість, реальність і повернення до живого розуміння.",
-      "existingKeywords": "ashraellen, public, talks, виступи, відео, публічні, розбори, ясність, сприйняття, свідомість, реальність, повернення, живого, розуміння, список, відбувається, після, смерті",
+      "existingKeywords": "Ashraellen, виступи, відео, публічні розбори, свідомість, сприйняття, ясність",
       "canonical": "https://www.ashraellen.com/uk/public/talks/",
       "h1": [
         "Виступи"

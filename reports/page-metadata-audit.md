@@ -1,6 +1,6 @@
 # Page Metadata Audit
 
-Generated: 2026-08-14T16:23:31.266Z
+Generated: 2026-08-14T17:10:52.497Z
 
 Pages checked: 845
 Pages with issues: 329
@@ -5068,7 +5068,7 @@ Total review notes: 2288
 
 ### be/public/talks/index.html
 
-- title: Ashraellen — Выступленні
+- title: Ashraellen — Выступы
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
