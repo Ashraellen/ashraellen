@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-15T14:21:10.107Z
+Generated: 2026-08-15T15:12:14.498Z
 
 Pages checked: 845
-Pages with issues: 323
-Total issues: 1736
+Pages with issues: 332
+Total issues: 1746
 Pages with review notes: 645
 Total review notes: 2288
 
@@ -12,7 +12,7 @@ Total review notes: 2288
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 204 |
+| MISSING_KEYWORDS | 214 |
 | MISSING_TWITTER_IMAGE | 192 |
 | MISSING_TWITTER_CARD | 178 |
 | MISSING_JSON_LD | 173 |
@@ -197,6 +197,16 @@ Total review notes: 2288
 - title: Ashraellen — кнігі, даследаванні і публічныя тэксты
 - description length: 149
 - canonical: https://www.ashraellen.com/be/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- MISSING_KEYWORDS
+
+### be/privacy.html
+
+- title: Палітыка прыватнасці — Ashraellen
+- description length: 107
+- canonical: https://www.ashraellen.com/be/privacy.html
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -414,6 +424,16 @@ Total review notes: 2288
 
 - DUPLICATE_TITLE: shared by 6 pages
 - DUPLICATE_OG_TITLE: shared by 6 pages
+
+### de/privacy.html
+
+- title: Datenschutzerklärung — Ashraellen
+- description length: 108
+- canonical: https://www.ashraellen.com/de/privacy.html
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- MISSING_KEYWORDS
 
 ### de/public/posts/essay/index.html
 
@@ -818,6 +838,7 @@ Total review notes: 2288
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
+- MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
 
@@ -1033,6 +1054,16 @@ Total review notes: 2288
 - DUPLICATE_TITLE: shared by 6 pages
 - DUPLICATE_OG_TITLE: shared by 6 pages
 
+### es/privacy.html
+
+- title: Política de privacidad — Ashraellen
+- description length: 112
+- canonical: https://www.ashraellen.com/es/privacy.html
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- MISSING_KEYWORDS
+
 ### es/public/index.html
 
 - title: Ashraellen — Público
@@ -1071,6 +1102,16 @@ Total review notes: 2288
 - title: Ashraellen — Kirjat, tutkimus ja julkiset tekstit
 - description length: 161
 - canonical: https://www.ashraellen.com/fi/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- MISSING_KEYWORDS
+
+### fi/privacy.html
+
+- title: Tietosuojakäytäntö — Ashraellen
+- description length: 110
+- canonical: https://www.ashraellen.com/fi/privacy.html
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -1642,6 +1683,16 @@ Total review notes: 2288
 
 - DUPLICATE_TITLE: shared by 6 pages
 - DUPLICATE_OG_TITLE: shared by 6 pages
+
+### fr/privacy.html
+
+- title: Politique de confidentialité — Ashraellen
+- description length: 123
+- canonical: https://www.ashraellen.com/fr/privacy.html
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- MISSING_KEYWORDS
 
 ### fr/public/index.html
 
@@ -2474,6 +2525,16 @@ Total review notes: 2288
 - DUPLICATE_TITLE: shared by 6 pages
 - DUPLICATE_OG_TITLE: shared by 6 pages
 
+### pl/privacy.html
+
+- title: Polityka prywatności — Ashraellen
+- description length: 99
+- canonical: https://www.ashraellen.com/pl/privacy.html
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- MISSING_KEYWORDS
+
 ### privacy.html
 
 - title: Privacy Policy — Ashraellen
@@ -2617,6 +2678,16 @@ Total review notes: 2288
 - title: Ashraellen — livros, pesquisa e textos públicos
 - description length: 153
 - canonical: https://www.ashraellen.com/pt/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- MISSING_KEYWORDS
+
+### pt/privacy.html
+
+- title: Política de privacidade — Ashraellen
+- description length: 111
+- canonical: https://www.ashraellen.com/pt/privacy.html
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -3308,6 +3379,16 @@ Total review notes: 2288
 - title: Ashraellen — книги, исследования и публичные тексты
 - description length: 166
 - canonical: https://www.ashraellen.com/ru/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- MISSING_KEYWORDS
+
+### ru/privacy.html
+
+- title: Политика конфиденциальности — Ashraellen
+- description length: 114
+- canonical: https://www.ashraellen.com/ru/privacy.html
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -4674,6 +4755,16 @@ Total review notes: 2288
 
 - DUPLICATE_TITLE: shared by 6 pages
 - DUPLICATE_OG_TITLE: shared by 6 pages
+
+### uk/privacy.html
+
+- title: Політика конфіденційності — Ashraellen
+- description length: 109
+- canonical: https://www.ashraellen.com/uk/privacy.html
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- MISSING_KEYWORDS
 
 ### uk/public/thoughts/arcs/0020-people-and-mass.html
 
@@ -7649,7 +7740,7 @@ Total review notes: 2288
 
 ### fi/privacy.html
 
-- title: Tietosuojakäytäntö — Ashraellen — Suomi
+- title: Tietosuojakäytäntö — Ashraellen
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
