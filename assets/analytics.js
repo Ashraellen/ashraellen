@@ -113,21 +113,3 @@
     else showBanner();
   }
 })();
-
-/* Ashraellen — compact privacy page menu */
-(function () {
-  'use strict';
-  if (!document.querySelector('.privacy-page')) return;
-  var labels = {
-    en:{entry:'Entry',dossier:'Dossier'}, ru:{entry:'Вход',dossier:'Досье'}, be:{entry:'Уваход',dossier:'Дасье'},
-    pl:{entry:'Wejście',dossier:'Dossier'}, de:{entry:'Eingang',dossier:'Dossier'}, fr:{entry:'Entrée',dossier:'Dossier'},
-    es:{entry:'Entrada',dossier:'Dossier'}, pt:{entry:'Entrada',dossier:'Dossiê'}, uk:{entry:'Вхід',dossier:'Досьє'},
-    fi:{entry:'Alku',dossier:'Ammatillinen esittely'}
-  };
-  var l = window.__ashraellenSite.lang('en');
-  if (!labels[l]) l = 'en';
-  var base = window.__ashraellenSite.base();
-  var menu = document.querySelector('.site-header .menu');
-  if (!menu) return;
-  menu.innerHTML = '<a href="' + base + l + '/">' + labels[l].entry + '</a> | <a href="' + base + l + '/professional/">' + labels[l].dossier + '</a>';
-})();
