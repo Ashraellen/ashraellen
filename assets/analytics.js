@@ -55,7 +55,8 @@
     de: { text: 'Ashraellen verwendet technische Website-Funktionen und optionale Analyse, um zu verstehen, wie die Website genutzt wird. Analytics startet nur nach Ihrer Zustimmung.', accept: 'Analytics erlauben', reject: 'Ablehnen', privacy: 'Datenschutzerklärung' },
     fr: { text: 'Ashraellen utilise des fonctions techniques du site et une analyse optionnelle pour comprendre l’usage du site. L’analyse ne démarre qu’après votre consentement.', accept: 'Autoriser l’analyse', reject: 'Refuser', privacy: 'Politique de confidentialité' },
     es: { text: 'Ashraellen utiliza funciones técnicas del sitio y analítica opcional para comprender cómo se usa el sitio. La analítica solo se activa con tu consentimiento.', accept: 'Aceptar analítica', reject: 'Rechazar', privacy: 'Política de privacidad' },
-    pt: { text: 'Ashraellen usa funções técnicas do site e análise opcional para entender como o site é usado. A análise só é ativada após o seu consentimento.', accept: 'Aceitar análise', reject: 'Recusar', privacy: 'Política de privacidade' }
+    pt: { text: 'Ashraellen usa funções técnicas do site e análise opcional para entender como o site é usado. A análise só é ativada após o seu consentimento.', accept: 'Aceitar análise', reject: 'Recusar', privacy: 'Política de privacidade' },
+    fi: { text: 'Ashraellen käyttää sivuston teknisiä toimintoja ja valinnaista analytiikkaa ymmärtääkseen, miten sivustoa käytetään. Analytiikka käynnistyy vasta suostumuksesi jälkeen.', accept: 'Salli analytiikka', reject: 'Hylkää', privacy: 'Tietosuojakäytäntö' }
   };
 
   function lang(){ var l = window.__ashraellenSite.lang('en'); return labels[l] ? l : 'en'; }
@@ -120,7 +121,8 @@
   var labels = {
     en:{entry:'Entry',dossier:'Dossier'}, ru:{entry:'Вход',dossier:'Досье'}, be:{entry:'Уваход',dossier:'Дасье'},
     pl:{entry:'Wejście',dossier:'Dossier'}, de:{entry:'Eingang',dossier:'Dossier'}, fr:{entry:'Entrée',dossier:'Dossier'},
-    es:{entry:'Entrada',dossier:'Dossier'}, pt:{entry:'Entrada',dossier:'Dossiê'}, uk:{entry:'Вхід',dossier:'Досьє'}
+    es:{entry:'Entrada',dossier:'Dossier'}, pt:{entry:'Entrada',dossier:'Dossiê'}, uk:{entry:'Вхід',dossier:'Досьє'},
+    fi:{entry:'Alku',dossier:'Ammatillinen esittely'}
   };
   var l = window.__ashraellenSite.lang('en');
   if (!labels[l]) l = 'en';
@@ -128,91 +130,4 @@
   var menu = document.querySelector('.site-header .menu');
   if (!menu) return;
   menu.innerHTML = '<a href="' + base + l + '/">' + labels[l].entry + '</a> | <a href="' + base + l + '/professional/">' + labels[l].dossier + '</a>';
-})();
-
-/* Ashraellen — global contact button on language entry pages */
-(function () {
-  'use strict';
-  var labels = { en:'Contact', ru:'Контакт', be:'Кантакт', pl:'Kontakt', de:'Kontakt', fr:'Contact', es:'Contacto', pt:'Contacto', uk:'Контакт', fi:'Yhteys' };
-  var parts = window.__ashraellenSite.parts();
-  var l = parts[window.__ashraellenSite.langIndex()] || '';
-  var rest = parts.slice(window.__ashraellenSite.langIndex() + 1);
-  if (!labels[l] || rest.length) return;
-  if (!document.querySelector('.entry')) return;
-  var base = window.__ashraellenSite.base();
-  if (!document.getElementById('contact-corner-style')) {
-    var style = document.createElement('style');
-    style.id = 'contact-corner-style';
-    style.textContent = '.contact-corner{position:fixed;right:22px;top:18px;z-index:6;margin:0}.contact-corner a{display:inline-flex;align-items:center;justify-content:center;padding:7px 11px;border:1px solid rgba(242,242,244,.16);border-radius:999px;background:rgba(0,0,0,.22);backdrop-filter:blur(4px);color:rgba(242,242,244,.62);font-size:12px;font-weight:650;line-height:1;text-decoration:none;letter-spacing:.015em;box-shadow:0 8px 24px rgba(0,0,0,.22);transition:color 140ms ease,border-color 140ms ease,background 140ms ease,transform 140ms ease}.contact-corner a:hover{color:rgba(242,242,244,.86);border-color:rgba(242,242,244,.30);background:rgba(0,0,0,.34);transform:translateY(-1px)}@media(max-width:700px){.contact-corner{right:14px;top:12px}.contact-corner a{font-size:11px;padding:7px 9px}}';
-    document.head.appendChild(style);
-  }
-  var existing = document.getElementById('goContact') || document.querySelector('.contact-corner a');
-  if (existing) { existing.href = base + l + '/contact.html'; existing.textContent = labels[l]; return; }
-  var p = document.createElement('p');
-  p.className = 'contact-corner';
-  var a = document.createElement('a');
-  a.id = 'goContact';
-  a.href = base + l + '/contact.html';
-  a.textContent = labels[l];
-  p.appendChild(a);
-  document.body.appendChild(p);
-})();
-
-/* Ashraellen — global privacy corner on language entry pages */
-(function () {
-  'use strict';
-  var labels = { en:'Privacy Policy', ru:'Политика конфиденциальности', be:'Палітыка прыватнасці', pl:'Polityka prywatności', de:'Datenschutzerklärung', fr:'Politique de confidentialité', es:'Política de privacidad', pt:'Política de privacidade', uk:'Політика конфіденційності' };
-  var parts = window.__ashraellenSite.parts();
-  var l = parts[window.__ashraellenSite.langIndex()] || '';
-  var rest = parts.slice(window.__ashraellenSite.langIndex() + 1);
-  if (!labels[l] || rest.length) return;
-  if (!document.querySelector('.entry')) return;
-  var base = window.__ashraellenSite.base();
-  if (!document.getElementById('privacy-corner-style')) {
-    var style = document.createElement('style');
-    style.id = 'privacy-corner-style';
-    style.textContent = '.privacy-corner{position:fixed;right:22px;bottom:18px;z-index:5;margin:0}.privacy-corner a{display:inline-flex;align-items:center;justify-content:center;padding:7px 10px;border:1px solid rgba(242,242,244,.12);border-radius:999px;background:rgba(0,0,0,.18);backdrop-filter:blur(4px);color:rgba(242,242,244,.46);font-size:12px;line-height:1;text-decoration:none;transition:color 140ms ease,border-color 140ms ease,background 140ms ease,transform 140ms ease}.privacy-corner a:hover{color:rgba(242,242,244,.82);border-color:rgba(242,242,244,.28);background:rgba(0,0,0,.30);transform:translateY(-1px)}@media(max-width:700px){.privacy-corner{right:14px;bottom:12px}.privacy-corner a{font-size:11px;padding:7px 9px}}';
-    document.head.appendChild(style);
-  }
-  var existing = document.getElementById('goPrivacy') || document.querySelector('.privacy-corner a');
-  if (existing) { existing.href = base + l + '/privacy.html'; existing.textContent = labels[l]; return; }
-  var p = document.createElement('p');
-  p.className = 'privacy-corner';
-  var a = document.createElement('a');
-  a.id = 'goPrivacy';
-  a.href = base + l + '/privacy.html';
-  a.textContent = labels[l];
-  p.appendChild(a);
-  document.body.appendChild(p);
-})();
-
-/* Ashraellen — localized professional dossier button */
-(function () {
-  'use strict';
-  var labels = { ru:'Профессиональное досье', be:'Прафесійнае дасье', pl:'Dossier profesjonalne', de:'Professionelles Dossier', fr:'Dossier professionnel', es:'Dossier profesional', pt:'Dossiê profissional', uk:'Професійне досьє', en:'Professional dossier' };
-  var parts = window.__ashraellenSite.parts();
-  var l = parts[window.__ashraellenSite.langIndex()] || '';
-  var rest = parts.slice(window.__ashraellenSite.langIndex() + 1);
-  if (!labels[l] || rest.length) return;
-  var base = window.__ashraellenSite.base();
-  var href = base + l + '/professional/';
-  var existing = document.getElementById('goProfessional');
-  if (existing) { existing.href = href; return; }
-  var hint = document.querySelector('.action-hint');
-  var langs = document.querySelector('.langs');
-  if (!hint || !langs) return;
-  if (!document.getElementById('professional-button-style')) {
-    var style = document.createElement('style');
-    style.id = 'professional-button-style';
-    style.textContent = '.professional-link{display:flex;justify-content:flex-start;margin:18px 0 0}.professional-link a{display:inline-flex;align-items:center;justify-content:center;padding:7px 11px;border:1px solid rgba(242,242,244,.16);border-radius:999px;background:rgba(0,0,0,.22);color:rgba(242,242,244,.60);font-size:12px;font-weight:650;line-height:1;text-decoration:none;letter-spacing:.015em;box-shadow:0 8px 24px rgba(0,0,0,.22);transition:color 140ms ease,border-color 140ms ease,background 140ms ease,transform 140ms ease}.professional-link a:hover{color:rgba(242,242,244,.86);border-color:rgba(242,242,244,.30);background:rgba(0,0,0,.34);transform:translateY(-1px)}';
-    document.head.appendChild(style);
-  }
-  var p = document.createElement('p');
-  p.className = 'professional-link';
-  var a = document.createElement('a');
-  a.id = 'goProfessional';
-  a.href = href;
-  a.textContent = labels[l];
-  p.appendChild(a);
-  hint.insertAdjacentElement('afterend', p);
 })();
