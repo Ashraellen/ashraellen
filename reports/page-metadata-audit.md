@@ -1,6 +1,6 @@
 # Page Metadata Audit
 
-Generated: 2026-08-15T12:13:09.078Z
+Generated: 2026-08-15T12:13:39.244Z
 
 Pages checked: 845
 Pages with issues: 323
@@ -3292,7 +3292,7 @@ Total review notes: 2288
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
 
-### ru/contact_desktop_text_right.html
+### ru/contact.html
 
 - title: Контакт — Ashraellen
 - description length: 102
@@ -10149,7 +10149,7 @@ Total review notes: 2288
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
-### ru/contact_desktop_text_right.html
+### ru/contact.html
 
 - title: Контакт — Ashraellen
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg

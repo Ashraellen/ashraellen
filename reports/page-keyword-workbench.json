@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-15T12:13:09.757Z",
+  "generated": "2026-08-15T12:13:39.939Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -48623,9 +48623,9 @@
       ]
     },
     {
-      "page": "ru/contact_desktop_text_right.html",
+      "page": "ru/contact.html",
       "lang": "ru",
-      "section": "contact_desktop_text_right.html",
+      "section": "contact.html",
       "title": "Контакт — Ashraellen",
       "description": "Контактная страница Ashraellen: сотрудничество, издательские, грантовые, медийные и проектные запросы.",
       "existingKeywords": "ashraellen, contact, контакт, контактная, страница, сотрудничество, издательские, грантовые, медийные, проектные, запросы, doctype, html, title, function, const, isgithub, location.hostname.endswith",
@@ -48639,10 +48639,7 @@
       "h3": [],
       "slugTerms": [
         "ru",
-        "contact",
-        "desktop",
-        "text",
-        "right"
+        "contact"
       ],
       "excerpt": "Точка связи Контакт Для сотрудничества, издательских, грантовых, медийных и проектных запросов можно написать напрямую. Ashraellen Независимый творческий и исследовательский проект Николая Костышева. Email: ashraellen.live@gmail.com Telegram для связи: @AshraellenLive Локация: Польша / Европейский союз Подходящие темы для обращения: сотрудничество и партнёрские предложения; издательские и литературные запросы; гранты, резиденции и исследовательские программы; медиа, интервью и публичные материалы; вопросы по проектам Ashraellen. Публичные каналы: YouTube — @ashraellen Instagram — @kostyshev Telegram-канал — @ashraellenchannel Telegram для связи используется для прямого обращения. Telegram-канал предназначен для публикации текстов, заметок, обновлений и материалов проекта. — mark of presence",
       "candidates": [
@@ -48674,22 +48671,22 @@
       "suggestedKeywordSeed": [
         "ashraellen",
         "контакт",
-        "contact",
-        "desktop",
-        "text",
         "запросы",
         "издательские",
         "сотрудничество",
         "ashraellen.live",
         "ashraellenchannel",
-        "right",
-        "right.html",
+        "contact",
+        "contact.html",
         "telegram",
         "telegram-канал",
         "грантовые",
         "контактная",
         "медийные",
-        "обращения"
+        "обращения",
+        "проектные",
+        "публичные",
+        "связи"
       ]
     },
     {

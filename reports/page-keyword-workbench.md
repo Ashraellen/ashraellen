@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-15T12:13:09.772Z
+Generated: 2026-08-15T12:13:39.954Z
 Pages: 846
 
 ## Index
@@ -661,7 +661,7 @@ Pages: 846
 | ru/books/seccus/index.html | ru | books | Ashraellen — Сакральная Книга АХЕПСУ | ashraellen, seccus, сакральная книга ахепсу, путь честности, философская сатира, деньги, успех, самообман, знание как алиби, ответственность, sacrunomicon, ordo sacrunomiconis, тетра-книга | ахепсу, книга, сакральная, ashraellen, books, без, sacrunomicon, seccus, ssmv, алиби, выбор, голос, деньгах, ещё, знании, избранная, или, книге |
 | ru/books/the-book-of-whinesis/index.html | ru | books | Ashraellen — Книга Нытия | ashraellen, books, book, whinesis, книга, нытия, священная, сатира, тех, кто, устал, позитивных, вайбов, бесконечной, продуктивности, культа, успеха, книге | книга, нытия, ashraellen, books, кто, book, whinesis, бесконечной, будет, будешь, вайбов, глава, главы, господь, его, ибо, книге, культа |
 | ru/books/you-are-already-online/index.html | ru | books | Ashraellen — Ты уже в сети | ashraellen, books, you, already, online, уже, сети, иммерсивный, аудиороман, жанре, психологического, триллера, киберпанк-драмы, цифровой, реальности, алгоритмах, гиперреальности, книге | сети, уже, ashraellen, books, глава, already, online, you, алгоритмах, аудиороман, без, было, где, гиперреальности, жанре, идеально, иммерсивный, истончение |
-| ru/contact_desktop_text_right.html | ru | contact_desktop_text_right.html | Контакт — Ashraellen | ashraellen, contact, контакт, контактная, страница, сотрудничество, издательские, грантовые, медийные, проектные, запросы, doctype, html, title, function, const, isgithub, location.hostname.endswith | ashraellen, контакт, contact, desktop, text, запросы, издательские, сотрудничество, ashraellen.live, ashraellenchannel, right, right.html, telegram, telegram-канал, грантовые, контактная, медийные, обращения |
+| ru/contact.html | ru | contact.html | Контакт — Ashraellen | ashraellen, contact, контакт, контактная, страница, сотрудничество, издательские, грантовые, медийные, проектные, запросы, doctype, html, title, function, const, isgithub, location.hostname.endswith | ashraellen, контакт, запросы, издательские, сотрудничество, ashraellen.live, ashraellenchannel, contact, contact.html, telegram, telegram-канал, грантовые, контактная, медийные, обращения, проектные, публичные, связи |
 | ru/index.html | ru | index.html | Ashraellen — книги, исследования и публичные тексты | _missing_ | ashraellen, исследования, книги, публичные, тексты, видео, звук, литературно-философская, многоязычная, независимая, практика, художественно-исследовательская, index.html, сатира |
 | ru/monolith/index.html | ru | monolith | Трилогия МОНОЛИТ — Ashraellen | ashraellen, monolith, трилогия, монолит, три, состояния, контролируемого, распада, бетон, жижа, газ, doctype, html, title, function, const, isgithub, location.hostname.endswith | monolith, бетон, газ, жижа, контролируемого, монолит, распада, состояния, три, трилогия, ashraellen, amazon, антиутопии, социальной, том, фантастики, философского |
 | ru/privacy.html | ru | privacy.html | Политика конфиденциальности — Ashraellen | ashraellen, privacy, политика, конфиденциальности, ashraellen.com, персональные, данные, аналитика, cookies, права, пользователя, контакт, кто, отвечает, сайт, какие, могут, собираться | данные, конфиденциальности, политика, аналитика, ashraellen, ashraellen.com, cookies, обработки, google, privacy, privacy.html, внешние, данных, если, или, используются, какие, контакт |
@@ -11974,17 +11974,17 @@ Excerpt:
 
 > Ты уже в сети Это не голос. Это констатация. Она не просит реакции — она уже считает её полученной. О книге вход в систему В 03:17 он просыпается не от звука, а от готовой эмоции. С этого момента привычная реальность начинает вести себя как интерфейс. Порядок событий нарушен: испуг возникает до удара, эхо звучит раньше хлопка, а совпадения выстраиваются слишком идеально, чтобы оставаться случайными. Мир остаётся прежним — но функционирует слишком идеально. Слишком чисто. Слишком монтажно. Это иммерсивный аудиороман в жанре психологического триллера и киберпанк-драмы о цифровой реальности, алгоритмах и гиперреальности. Здесь нет яркого бунта — есть медленное осознание того, что мир уже оптимизирован, отрендерен и подгружен в сознание как файл. Память превращается в скриншот. Совпадение становится сценарием. Тело реагирует на будущее, как будто оно уже записано. Это история о человеке, кот
 
-### ru/contact_desktop_text_right.html
+### ru/contact.html
 
 - lang: ru
-- section: contact_desktop_text_right.html
+- section: contact.html
 - title: Контакт — Ashraellen
 - description: Контактная страница Ashraellen: сотрудничество, издательские, грантовые, медийные и проектные запросы.
 - canonical: https://www.ashraellen.com/ru/contact.html
 - H1: Контакт
 - H2: Ashraellen
 - H3: _missing_
-- suggested keyword seed: ashraellen, контакт, contact, desktop, text, запросы, издательские, сотрудничество, ashraellen.live, ashraellenchannel, right, right.html, telegram, telegram-канал, грантовые, контактная, медийные, обращения
+- suggested keyword seed: ashraellen, контакт, запросы, издательские, сотрудничество, ashraellen.live, ashraellenchannel, contact, contact.html, telegram, telegram-канал, грантовые, контактная, медийные, обращения, проектные, публичные, связи
 - candidates: ashraellen, связи, telegram, telegram-канал, запросы, издательские, контакт, обращения, публичные, сотрудничество, ashraellen.live, ashraellenchannel, ashraellenlive, email, gmail.com, instagram, kostyshev, mark, presence, youtube, вопросы, грантовые, грантовых, гранты
 
 Excerpt:
