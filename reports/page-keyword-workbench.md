@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-15T12:13:39.954Z
+Generated: 2026-08-15T12:23:10.572Z
 Pages: 846
 
 ## Index
@@ -11985,11 +11985,11 @@ Excerpt:
 - H2: Ashraellen
 - H3: _missing_
 - suggested keyword seed: ashraellen, контакт, запросы, издательские, сотрудничество, ashraellen.live, ashraellenchannel, contact, contact.html, telegram, telegram-канал, грантовые, контактная, медийные, обращения, проектные, публичные, связи
-- candidates: ashraellen, связи, telegram, telegram-канал, запросы, издательские, контакт, обращения, публичные, сотрудничество, ashraellen.live, ashraellenchannel, ashraellenlive, email, gmail.com, instagram, kostyshev, mark, presence, youtube, вопросы, грантовые, грантовых, гранты
+- candidates: ashraellen, связи, telegram, telegram-канал, запросы, издательские, контакт, обращения, публичные, сотрудничество, ashraellen.live, ashraellenchannel, ashraellenlive, email, gmail.com, instagram, kostyshev, mark, presence, youtube, внутренней, войне, вопросы, грантовые
 
 Excerpt:
 
-> Точка связи Контакт Для сотрудничества, издательских, грантовых, медийных и проектных запросов можно написать напрямую. Ashraellen Независимый творческий и исследовательский проект Николая Костышева. Email: ashraellen.live@gmail.com Telegram для связи: @AshraellenLive Локация: Польша / Европейский союз Подходящие темы для обращения: сотрудничество и партнёрские предложения; издательские и литературные запросы; гранты, резиденции и исследовательские программы; медиа, интервью и публичные материалы; вопросы по проектам Ashraellen. Публичные каналы: YouTube — @ashraellen Instagram — @kostyshev Telegram-канал — @ashraellenchannel Telegram для связи используется для прямого обращения. Telegram-канал предназначен для публикации текстов, заметок, обновлений и материалов проекта. — mark of presence
+> Точка связи Контакт Для сотрудничества, издательских, грантовых, медийных и проектных запросов можно написать напрямую. «Действие не равно внутренней войне с существованием.» Ashraellen Независимый творческий и исследовательский проект Николая Костышева. Email: ashraellen.live@gmail.com Telegram для связи: @AshraellenLive Локация: Польша / Европейский союз Подходящие темы для обращения: сотрудничество и партнёрские предложения; издательские и литературные запросы; гранты, резиденции и исследовательские программы; медиа, интервью и публичные материалы; вопросы по проектам Ashraellen. Публичные каналы: YouTube — @ashraellen Instagram — @kostyshev Telegram-канал — @ashraellenchannel Telegram для связи используется для прямого обращения. Telegram-канал предназначен для публикации текстов, заметок, обновлений и материалов проекта. — mark of presence
 
 ### ru/index.html
 
