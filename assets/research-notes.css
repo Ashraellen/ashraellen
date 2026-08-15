@@ -60,6 +60,23 @@ a:hover{border-bottom-color:rgba(242,242,244,.55)}
   font-size:var(--fs-body);
 }
 
+/* Position statement extension; Notes pages do not use these elements/classes. */
+.card h2{
+  margin:26px 0 10px;
+  font-size:var(--fs-h2);
+  line-height:1.2;
+  font-weight:600;
+}
+
+.position-statement{
+  max-width:760px;
+}
+
+.position-statement .lead{
+  font-size:var(--fs-lead);
+  line-height:var(--lh-lead);
+}
+
 .card hr{
   margin:22px 0;
   border:none;
