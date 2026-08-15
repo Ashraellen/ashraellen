@@ -12,24 +12,45 @@
   <link rel="stylesheet" href="../assets/contact.css?v=20260525-1">
   <link rel="stylesheet" href="../assets/contact-scale.css?v=20260525-1">
   <style>
-    .contact-intro-media{
+    .contact-hero{
       display:grid;
-      grid-template-columns:164px minmax(0,1fr);
-      gap:28px;
+      grid-template-columns:180px minmax(0,1fr);
+      gap:32px;
       align-items:start;
-      margin:0 0 20px 0;
       max-width:680px;
+      margin:0 0 22px 0;
     }
 
-    .contact-intro-media .contact-lead{
-      margin:0;
+    .contact-hero-copy{
+      min-width:0;
+    }
+
+    .contact-hero .contact-kicker{
+      margin:0 0 10px;
+    }
+
+    .contact-hero .contact-title{
+      margin:0 0 12px;
+    }
+
+    .contact-hero .contact-lead{
+      margin:0 0 14px;
       max-width:none;
-      align-self:start;
+    }
+
+    .contact-quote{
+      margin:0;
+      max-width:38ch;
+      color:rgba(242,242,244,.74);
+      font-size:14px;
+      line-height:1.45!important;
+      font-style:italic;
+      font-weight:700;
     }
 
     .contact-portrait{
-      width:164px;
-      height:164px;
+      width:180px;
+      height:180px;
       margin:0;
       border-radius:18px;
       overflow:hidden;
@@ -45,22 +66,43 @@
     }
 
     @media(max-width:900px){
-      .contact-intro-media{
+      .contact-hero{
         display:flex;
         flex-direction:column;
-        gap:18px;
+        gap:0;
         margin-bottom:18px;
       }
 
-      .contact-intro-media .contact-lead{
+      .contact-hero-copy{
+        display:contents;
+      }
+
+      .contact-hero .contact-kicker{
         order:1;
       }
 
-      .contact-portrait{
+      .contact-hero .contact-title{
         order:2;
-        width:154px;
-        height:154px;
+      }
+
+      .contact-hero .contact-lead{
+        order:3;
+        margin-bottom:18px;
+      }
+
+      .contact-portrait{
+        order:4;
+        width:170px;
+        height:170px;
+        margin-bottom:14px;
         border-radius:18px;
+      }
+
+      .contact-quote{
+        order:5;
+        max-width:32ch;
+        margin:0;
+        font-size:13px;
       }
     }
   </style>
@@ -107,14 +149,18 @@
   <div class="wrap"><div class="page contact-page">
     <header class="site-header"><p class="brand">Ashraellen</p><div class="menu"><a id="toEntry" href="https://www.ashraellen.com/ru/">Вход</a> | <a id="toProfessional" href="https://www.ashraellen.com/ru/professional/">Досье</a></div></header>
     <main class="main"><div class="content contact-content">
-      <p class="contact-kicker">Точка связи</p>
-      <h1 class="contact-title">Контакт</h1>
 
-      <div class="contact-intro-media">
+      <div class="contact-hero">
         <div class="contact-portrait">
           <img src="../assets/portraits/ashraellen-contact.webp" alt="Ashraellen" width="320" height="320">
         </div>
-        <p class="contact-lead">Для сотрудничества, издательских, грантовых, медийных и проектных запросов можно написать напрямую.</p>
+
+        <div class="contact-hero-copy">
+          <p class="contact-kicker">Точка связи</p>
+          <h1 class="contact-title">Контакт</h1>
+          <p class="contact-lead">Для сотрудничества, издательских, грантовых, медийных и проектных запросов можно написать напрямую.</p>
+          <p class="contact-quote">«Действие не равно внутренней войне с существованием.»</p>
+        </div>
       </div>
 
       <article class="contact-box">
