@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-15T12:28:22.624Z
+Generated: 2026-08-15T12:57:25.037Z
 Pages: 846
 
 ## Index
@@ -25,7 +25,7 @@ Pages: 846
 | be/books/seccus/index.html | be | books | Ashraellen — САКРАЛЬНАЯ КНІГА АХЕПСУ | Ashraellen, АХЕПСУ, Сакральная кніга АХЕПСУ, Шлях Сумленнасці, філасофская сатыра, грошы, поспех, самаашуканства, веды як алібі, адказнасць, Sacrunomicon, Ordo Sacrunomiconis, Тэтра-Кніга | ахепсу, кніга, пра, сакральная, ashraellen, books, грошы, поспех, sacrunomicon, seccus, ssmv, або, абраная, адказнасць, але, алібі, без, веды |
 | be/books/the-book-of-whinesis/index.html | be | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, кніга, ныцця, святая, сатыра, тых, хто, стаміўся, пазітыўных, вайбаў, бясконцай, прадуктыўнасці, культу, поспеху, пра | book, whinesis, ashraellen, books, пра, хто, будзе, будзеш, бясконцай, вайбаў, глава, главы, госпад, каб, кнігу, культу, моаніі, моанія |
 | be/books/you-are-already-online/index.html | be | books | Ashraellen — Ты ўжо ў сетцы | ashraellen, books, you, already, online, ўжо, сетцы, імерсіўны, аўдыяраман, жанры, псіхалагічнага, трылера, кіберпанк-драмы, пра, лічбавую, рэальнасць, алгарытмы, гіперрэальнасць | сетцы, ўжо, пра, ashraellen, books, глава, рэальнасць, already, online, you, алгарытмы, аўдыяраман, было, гіперрэальнасць, дзе, жанры, занадта, імерсіўны |
-| be/contact.html | be | contact.html | Кантакт — Ashraellen | ashraellen, contact, кантакт, кантактная, старонка, супрацоўніцтва, публікацыі, гранты, медыя, запыты, праекце, doctype, html, title, function, const, isgithub, location.hostname.endswith | ashraellen, кантакт, гранты, запыты, медыя, праекце, публікацыі, супрацоўніцтва, contact, contact.html, telegram, telegram-канал, кантактная, публічныя, сувязі |
+| be/contact.html | be | contact.html | Кантакт — Ashraellen | ashraellen, кантакт, супрацоўніцтва, выдавецкія запыты, гранты, медыя, праекты | ashraellen, кантакт, выдавецкія, гранты, запыты, медыя, праектах, супрацоўніцтва, contact, contact.html, telegram, telegram-канал, кантактная, публічныя, пытанні, сувязі |
 | be/index.html | be | index.html | Ashraellen — кнігі, даследаванні і публічныя тэксты | _missing_ | ashraellen, даследаванні, кнігі, публічныя, тэксты, відэа, гук, літаратурна-філасофская, мастацка-даследчая, незалежная, практыка, шматмоўная, index.html, сатыра |
 | be/monolith/index.html | be | monolith | Трылогія MONOLITH — Ashraellen | ashraellen, monolith, трылогія, тры, станы, кантраляванага, распаду, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io | monolith, beton, gas, sludge, кантраляванага, распаду, станы, тры, трылогія, ashraellen, amazon, books, антыўтопіі, сацыяльнай, том, фантастыкі, філасофскага |
 | be/privacy.html | be | privacy.html | Палітыка прыватнасці — Ashraellen | ashraellen, privacy, палітыка, прыватнасці, ashraellen.com, персанальныя, даныя, аналітыка, cookies, правы, карыстальніка, кантакт, хто, адказвае, сайт, якія, могуць, збірацца | даныя, палітыка, прыватнасці, ashraellen, ashraellen.com, cookies, аналітыка, апрацоўкі, могуць, google, privacy, privacy.html, абнаўленні, або, адказвае, выкарыстоўваюцца, даных, збірацца |
@@ -94,7 +94,7 @@ Pages: 846
 | de/books/seccus/index.html | de | books | Ashraellen — DAS HEILIGE BUCH SECCUS | Ashraellen, SECCUS, Das Heilige Buch SECCUS, Der Weg der Ehrlichkeit, philosophische Satire, Geld, Erfolg, Selbsttäuschung, Wissen als Alibi, Verantwortung, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Buch | das, buch, der, die, seccus, heilige, und, ashraellen, books, des, für, ist, seite, über, alibi, als, ausgewählte, buches |
 | de/books/the-book-of-whinesis/index.html | de | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sakrale, satire, für, alle, die, von, positiven, vibes, endloser, produktivität, und, dem, kult, des | book, whinesis, ashraellen, books, des, die, und, alle, auf, auszug, buch, das, dem, den, der, endloser, erfolgs, erste |
 | de/books/you-are-already-online/index.html | de | books | Ashraellen — Du bist bereits online | ashraellen, books, you, already, online, bist, bereits, ein, immersiver, audio-roman, genre, des, psychologischen, thrillers, und, cyberpunk-dramas, über, digitale | bereits, online, bist, des, und, ashraellen, books, das, ein, über, algorithmen, already, audio-roman, auszug, buch, cyberpunk-dramas, den, der |
-| de/contact.html | de | contact.html | Kontakt — Ashraellen | ashraellen, contact, kontakt, kontaktseite, von, zusammenarbeit, publikationen, förderungen, medien, und, projektanfragen, doctype, html, title, function, const, isgithub, location.hostname.endswith | ashraellen, kontakt, förderungen, medien, projektanfragen, und, von, zusammenarbeit, contact, contact.html, der, dient, kontaktseite, kostyshev, öffentliche, publikationen |
+| de/contact.html | de | contact.html | Kontakt — Ashraellen | ashraellen, kontakt, zusammenarbeit, verlag, förderungen, medien, projekte | ashraellen, kontakt, förderungen, für, medien, und, zusammenarbeit, contact, contact.html, der, ist, kostyshev, öffentliche, projekte, telegram-kanal, verlagsanfragen |
 | de/index.html | de | index.html | Ashraellen — Bücher, Forschung und öffentliche Texte | _missing_ | ashraellen, und, bücher, forschung, öffentliche, texte, eine, forschungspraxis, ist, klang, der, die, index.html, künstlerische, literarisch-philosophische, mehrsprachige, satire, unabhängige |
 | de/monolith/index.html | de | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, de, monolith | monolith, beton, gas, sludge, ashraellen, erinnerung, ist, amazon, auf, band, bei, den, die, drei, dystopische, eine, kontrolle, kontrollierten |
 | de/privacy.html | de | privacy.html | Datenschutzerklärung — Ashraellen | ashraellen, privacy, datenschutzerklärung, für, ashraellen.com, personenbezogene, daten, analyse, cookies, nutzerrechte, und, kontakt, verantwortliche, stelle, welche, verarbeitet, werden, können | und, analyse, daten, datenschutzerklärung, ashraellen, cookies, der, externe, für, können, werden, ashraellen.com, die, dienste, kann, käufe, kontakt, lokale |
@@ -175,7 +175,7 @@ Pages: 846
 | en/books/seccus/index.html | en | books | Ashraellen — THE SACRED BOOK OF SECCUS | Ashraellen, SECCUS, The Sacred Book of SECCUS, The Path of Honesty, philosophical satire, money, success, self-deception, knowledge as an alibi, responsibility, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Book | book, seccus, about, sacred, ashraellen, books, money, own, success, alibi, choice, corpus, does, frame, honesty, how, knowledge, literary-philosophical |
 | en/books/the-book-of-whinesis/index.html | en | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sacred, satire, those, tired, positive, vibes, endless, productivity, cult, success, about, first, chapters, excerpt | book, whinesis, ashraellen, books, about, becomes, chapters, cult, discount, endless, excerpt, first, gnorna, lord, moania, positive, productivity, sacred |
 | en/books/you-are-already-online/index.html | en | books | Ashraellen — You Are Already Online | ashraellen, books, you, already, online, immersive, audio, novel, genre, psychological, thriller, cyberpunk, drama, about, digital, reality, algorithms, attention | already, online, you, about, ashraellen, books, chapter, first, novel, reality, algorithms, attention, audio, book, cyberpunk, did, digital, drama |
-| en/contact.html | en | contact.html | Contact — Ashraellen | ashraellen, contact, cooperation, publishing, grants, media, project, inquiries, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ashraellen, contact, cooperation, grants, inquiries, media, project, publishing, channel, contact.html, kostyshev, materials, telegram |
+| en/contact.html | en | contact.html | Contact — Ashraellen | ashraellen, contact, collaboration, publishing, grants, media, projects | ashraellen, contact, collaboration, grants, inquiries, media, project, publishing, about, channel, contact.html, kostyshev, materials, telegram |
 | en/index.html | en | index.html | Ashraellen — Books, Research and Public Texts | _missing_ | ashraellen, research, books, public, texts, artistic, independent, literary-philosophical, multilingual, practice, satire, index.html, presence, sound, spanning, video |
 | en/monolith/index.html | en | monolith | MONOLITH Trilogy — Ashraellen | ashraellen, monolith, trilogy, three, states, controlled, disintegration, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io | monolith, beton, gas, sludge, controlled, disintegration, states, three, trilogy, ashraellen, dystopia, about, fiction, science, social, volume |
 | en/privacy.html | en | privacy.html | Privacy Policy — Ashraellen | ashraellen, privacy, policy, ashraellen.com, personal, data, analytics, cookies, user, rights, contact, information, who, responsible, website, what, may, collected | data, policy, privacy, analytics, ashraellen, ashraellen.com, cookies, legal, may, platforms, website, basis, collected, consent, contact, external, google, information |
@@ -244,7 +244,7 @@ Pages: 846
 | es/books/seccus/index.html | es | books | Ashraellen — EL LIBRO SAGRADO DE SECCUS | Ashraellen, SECCUS, El Libro Sagrado de SECCUS, El Camino de la Honestidad, sátira filosófica, dinero, éxito, autoengaño, conocimiento como coartada, responsabilidad, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Libro | libro, seccus, sagrado, ashraellen, books, del, dinero, éxito, página, para, sobre, una, autoengaño, camino, coartada, como, con, conocimiento |
 | es/books/the-book-of-whinesis/index.html | es | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sátira, sagrada, para, quienes, han, cansado, las, vibras, positivas, productividad, infinita, culto, éxito, sobre | book, whinesis, ashraellen, books, para, sobre, cansado, capítulos, con, culto, del, dijo, estado, éxito, fragmento, han, infinita, las |
 | es/books/you-are-already-online/index.html | es | books | Ashraellen — Ya estás en la red | ashraellen, books, you, already, online, estás, red, una, novela, sonora, inmersiva, género, del, thriller, psicológico, drama, cyberpunk, sobre | estás, red, ashraellen, books, capítulo, del, los, novela, realidad, sobre, una, algoritmos, already, antes, como, cyberpunk, digital, drama |
-| es/contact.html | es | contact.html | Contacto — Ashraellen | ashraellen, contact, contacto, página, cooperación, publicaciones, subvenciones, medios, consultas, del, proyecto, doctype, html, title, function, const, isgithub, location.hostname.endswith | ashraellen, contacto, consultas, cooperación, del, medios, proyecto, subvenciones, canal, contact, contact.html, investigación, página, para, publicaciones, telegram |
+| es/contact.html | es | contact.html | Contacto — Ashraellen | ashraellen, contacto, colaboración, publicaciones, subvenciones, medios, proyectos | ashraellen, contacto, colaboración, medios, proyectos, subvenciones, canal, contact, contact.html, investigación, kostyshev, materiales, página, para, publicaciones, telegram |
 | es/index.html | es | index.html | Ashraellen — libros, investigación y textos públicos | _missing_ | ashraellen, investigación, libros, públicos, textos, artística, independiente, literario-filosófica, multilingüe, práctica, una, index.html, los, sátira, sonido, vídeo |
 | es/monolith/index.html | es | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, es, monolith | monolith, beton, gas, sludge, ashraellen, colapso, control, controlada, memoria, amazon, desintegración, distópica, estados, inglés, preparación, sistemas, sobre, tres |
 | es/privacy.html | es | privacy.html | Política de privacidad — Ashraellen | ashraellen, privacy, política, privacidad, ashraellen.com, datos, personales, analítica, cookies, derechos, del, usuario, contacto, quién, responsable, sitio, qué, pueden | datos, del, política, privacidad, analítica, ashraellen, cookies, los, para, plataformas, qué, sitio, actualizaciones, ashraellen.com, base, compras, con, contacto |
@@ -313,7 +313,7 @@ Pages: 846
 | fi/books/seccus/index.html | fi | books | Ashraellen — SECCUSIN PYHÄ KIRJA | Ashraellen, SECCUS, SECCUSIN PYHÄ KIRJA, Rehellisyyden polku, filosofia, itsepetos, vastuu | kirja, pyhä, seccusin, ashraellen, books, menestyksestä, polku, rehellisyyden, sivu, ääni, alibina, avaa, filosofinen, ihminen, itsepetoksesta, joka, kirjan, kirjassa |
 | fi/books/the-book-of-whinesis/index.html | fi | books | Ashraellen — The Book of Whinesis | Ashraellen, The Book of Whinesis, satiiri, Church of Saint Whine, uupumus, tuottavuuskultti | book, whinesis, ashraellen, books, jotka, satiiri, ääniraitoja, ensimmäiset, että, herra, katkelma, kirjasta, kulttiin, kun, loputtomaan, luvut, menestyksen, niille |
 | fi/books/you-are-already-online/index.html | fi | books | Ashraellen — Olet jo verkossa | Ashraellen, Olet jo verkossa, audioromaani, kyberpunk, hypertodellisuus, algoritmit, digitaalinen todellisuus | olet, verkossa, ashraellen, books, hypertodellisuuden, luku, algoritmien, already, audioromaani, digitaalisen, enää, ennen, ensimmäinen, hän, ilman, immersiivinen, järjestelmä, katkelma |
-| fi/contact.html | fi | contact.html | Yhteys — Ashraellen — Suomi | Ashraellen, yhteys, yhteistyö, julkaiseminen, apurahat, media | ashraellen, yhteys, apurahoja, ashraellenin, julkaisemista, mediaa, projektia, varten, yhteistyötä, aineistot, contact, contact.html, julkiset, koskevia, suomi, telegram-yhteys, yhteydenottoja, yhteystiedot |
+| fi/contact.html | fi | contact.html | Yhteys — Ashraellen | ashraellen, yhteys, yhteistyö, julkaiseminen, apurahat, media, projektit | ashraellen, yhteys, apurahoja, ashraellenin, julkaisemista, mediaa, projekteja, varten, yhteistyötä, aineistot, contact, contact.html, julkiset, koskevia, telegram-yhteys, yhteydenottoja, yhteystiedot |
 | fi/index.html | fi | index.html | Ashraellen — Kirjat, tutkimus ja julkiset tekstit | _missing_ | ashraellen, ääntä, itsenäinen, kirjallis-filosofinen, kirjat, monikielinen, taiteellinen, tutkimus, tutkimuskäytäntö, äänen, ammatillinen, autonomiaa, index.html, julkiset, julkisia, kirjoja, satiiria, tekstejä |
 | fi/kone/index.html | fi | kone | Ashraellen — tiivistelmä Koneen Säätiölle | Ashraellen, Koneen Säätiö, taiteellinen tutkimus, kirjallisuus, MONOLIITTI, monikielinen arkisto | ashraellen, koneen, kone, kuukauden, säätiölle, tiivistelmä, tutkimuksen, tutkimus, arkistosta, ashraellen-hankkeesta, asiakirjat, budjetti, elämänmittainen, englanninkielinen, hankkeen, infrastruktuuri, julkinen, kirjallisuudesta |
 | fi/privacy.html | fi | privacy.html | Tietosuojakäytäntö — Ashraellen — Suomi | Ashraellen, tietosuoja, henkilötiedot, analytiikka, evästeet, GDPR | analytiikka, tietoja, tietosuojakäytäntö, ashraellen, evästeet, kerätä, palvelut, voidaan, ashraellen.com, ashraellen.comin, google, henkilötiedot, käsittelyn, kauan, käytetään, käyttää, käyttäjän, kolmannen |
@@ -386,7 +386,7 @@ Pages: 846
 | fr/books/seccus/index.html | fr | books | Ashraellen — LE LIVRE SACRÉ DE SECCUS | Ashraellen, SECCUS, Le Livre Sacré de SECCUS, Le Chemin de l’Honnêteté, satire philosophique, argent, réussite, auto-illusion, savoir comme alibi, responsabilité, Sacrunomicon, Ordo Sacrunomiconis, Tétra-Livre | livre, seccus, sacré, ashraellen, books, est, philosophique, pour, qui, réussite, sur, une, alibi, cadre, chemin, choisie, choix, comme |
 | fr/books/the-book-of-whinesis/index.html | fr | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, satire, sacrée, pour, celles, ceux, qui, sont, fatigués, des, ondes, positives, productivité, sans, fin | book, whinesis, ashraellen, books, des, qui, celles, ceux, chapitres, culte, dans, dit, extrait, fatigués, fin, les, livre, moania |
 | fr/books/you-are-already-online/index.html | fr | books | Ashraellen — Tu es déjà en ligne | ashraellen, books, you, already, online, déjà, ligne, roman, audio, immersif, entre, thriller, psychologique, drame, cyberpunk, sur, réalité, numérique | déjà, ligne, ashraellen, audio, books, les, réalité, roman, algorithmes, already, avait, avant, chapitre, comme, cyberpunk, dans, des, drame |
-| fr/contact.html | fr | contact.html | Contact — Ashraellen | ashraellen, contact, coopération, édition, subventions, médias, demandes, liées, projet, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | ashraellen, contact, coopération, demandes, médias, projet, subventions, aux, canal, contact.html, des, édition, kostyshev, liées, telegram |
+| fr/contact.html | fr | contact.html | Contact — Ashraellen | ashraellen, contact, collaboration, édition, subventions, médias, projets | ashraellen, contact, une, collaboration, demande, éditoriale, médias, projet, aux, canal, contact.html, contacter, contenus, les, pour, subvention, telegram |
 | fr/index.html | fr | index.html | Ashraellen — livres, recherche et textes publics | _missing_ | ashraellen, recherche, livres, publics, textes, artistique, est, indépendante, littéraire, multilingue, philosophique, index.html, les, pratique, satire, son, une, vidéo |
 | fr/monolith/index.html | fr | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, fr, monolith | monolith, beton, gas, sludge, ashraellen, est, mémoire, sur, une, amazon, anglais, contrôle, contrôlée, des, désintégration, dystopique, états, l’effondrement |
 | fr/privacy.html | fr | privacy.html | Politique de confidentialité — Ashraellen | ashraellen, privacy, politique, confidentialité, d’ashraellen.com, données, personnelles, analyse, cookies, droits, l’utilisateur, contact, responsable, pouvant, être, collectées, finalités, traitement | confidentialité, politique, données, analyse, ashraellen, cookies, être, jour, services, achats, base, cette, collectées, contact, d’ashraellen.com, des, droits, externes |
@@ -491,7 +491,7 @@ Pages: 846
 | pl/books/seccus/index.html | pl | books | Ashraellen — ŚWIĘTA KSIĘGA SECCUS | Ashraellen, SECCUS, Święta Księga SECCUS, Droga Uczciwości, satyra filozoficzna, pieniądze, sukces, samooszustwo, wiedza jako alibi, odpowiedzialność, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Księga | seccus, księga, święta, ashraellen, bez, books, jako, alibi, ani, człowiek, droga, filozoficzna, głos, kogo, korpus, książce, książka, książki |
 | pl/books/the-book-of-whinesis/index.html | pl | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sakralna, satyra, dla, tych, którzy, zmęczyli, się, pozytywnymi, wibracjami, niekończącą, produktywnością, kultem, sukcesu, książce | book, whinesis, się, ashraellen, books, albowiem, będzie, będziesz, fragment, jego, książce, którzy, kultem, moania, moanii, narzekania, nie, niekończącą |
 | pl/books/you-are-already-online/index.html | pl | books | Ashraellen — Już jesteś w sieci | ashraellen, books, you, already, online, już, jesteś, sieci, immersyjna, powieść, audio, gatunku, thrillera, psychologicznego, dramatu, cyberpunkowego, cyfrowej, rzeczywistości | jesteś, już, sieci, ashraellen, books, rozdział, algorytmach, already, audio, było, cyberpunkowego, cyfrowej, dramatu, fragment, gatunku, gdzie, hiperrealności, immersyjna |
-| pl/contact.html | pl | contact.html | Kontakt — Ashraellen | ashraellen, contact, kontakt, współpraca, publikacje, granty, media, zapytania, projektowe, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo | ashraellen, kontakt, granty, media, współpraca, contact, contact.html, kanał, kontaktu, projektów, projektowe, publiczne, publikacje, publikacji, służy, telegram, zapytania |
+| pl/contact.html | pl | contact.html | Kontakt — Ashraellen | ashraellen, kontakt, współpraca, wydawnictwo, granty, media, projekty | ashraellen, kontakt, granty, media, contact, contact.html, kanał, kontaktu, kostyshev, projektów, projekty, przez, publiczne, publikacji, telegram, współpraca, wydawnicze, zapytania |
 | pl/index.html | pl | index.html | Ashraellen — książki, badania i teksty publiczne | _missing_ | ashraellen, badania, książki, publiczne, teksty, artystyczno-badawcza, dźwięk, literacko-filozoficzna, niezależna, praktyka, wideo, wielojęzyczna, index.html, satyra |
 | pl/monolith/index.html | pl | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, pl, monolith | monolith, beton, gas, sludge, ashraellen, dystopijna, edycja, kontroli, amazon, angielsku, czytaj, kontrolowanego, pamięci, polska, przygotowaniu, rozpadu, rozpadzie, stany |
 | pl/privacy.html | pl | privacy.html | Polityka prywatności — Ashraellen | ashraellen, privacy, polityka, prywatności, ashraellen.com, dane, osobowe, analityka, cookies, prawa, użytkownika, kontakt, administrator, strony, jakie, mogą, być, zbierane | polityka, prywatności, cookies, dane, analityka, ashraellen, ashraellen.com, być, mogą, strony, zewnętrzne, administrator, aktualizacje, cel, danych, google, jakie, kontakt |
@@ -561,7 +561,7 @@ Pages: 846
 | pt/books/seccus/index.html | pt | books | Ashraellen — O LIVRO SAGRADO DE SECCUS | Ashraellen, SECCUS, O Livro Sagrado de SECCUS, O Caminho da Honestidade, sátira filosófica, dinheiro, sucesso, autoengano, conhecimento como álibi, responsabilidade, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Livro | livro, seccus, sagrado, ashraellen, books, como, página, para, sobre, sucesso, uma, álibi, autoengano, caminho, conhecimento, corpus, dinheiro, escolha |
 | pt/books/the-book-of-whinesis/index.html | pt | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sátira, sagrada, para, quem, cansou, das, vibrações, positivas, produtividade, infinita, culto, sucesso, sobre, livro | book, whinesis, ashraellen, books, para, sobre, cansou, capítulos, culto, das, desconto, disse, gnorna, infinita, livro, moania, não, pois |
 | pt/books/you-are-already-online/index.html | pt | books | Ashraellen — Você já está online | ashraellen, books, you, already, online, você, está, romance, áudio, imersivo, entre, thriller, psicológico, drama, cyberpunk, sobre, realidade, digital | está, online, você, ashraellen, books, capítulo, realidade, romance, sobre, algoritmos, already, antes, áudio, como, cyberpunk, demais, digital, drama |
-| pt/contact.html | pt | contact.html | Contacto — Ashraellen — PT | ashraellen, contact, contacto, página, cooperação, publicações, bolsas, media, pedidos, relacionados, com, projeto, doctype, html, title, function, const, isgithub | ashraellen, contacto, bolsas, com, cooperação, media, pedidos, projeto, canal, contact, contact.html, investigação, página, para, publicações, relacionados, telegram |
+| pt/contact.html | pt | contact.html | Contato — Ashraellen | ashraellen, contato, colaboração, publicações, bolsas, mídia, projetos | ashraellen, contato, aos, assuntos, bolsas, colaboração, mídia, projetos, canal, contact, contact.html, kostyshev, página, para, publicações, relacionados, telegram |
 | pt/index.html | pt | index.html | Ashraellen — livros, pesquisa e textos públicos | _missing_ | ashraellen, pesquisa, livros, públicos, textos, artística, independente, literário-filosófica, multilíngue, prática, uma, index.html, por, sátira, som, vídeo |
 | pt/monolith/index.html | pt | monolith | MONOLITH — Ashraellen — PT | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, pt, monolith | monolith, beton, gas, sludge, ashraellen, colapso, controlada, controle, memória, amazon, desintegração, distópica, edição, estados, inglês, preparação, sistemas, sobre |
 | pt/privacy.html | pt | privacy.html | Política de privacidade — Ashraellen | ashraellen, privacy, política, privacidade, ashraellen.com, dados, pessoais, análise, cookies, direitos, utilizador, contacto, quem, responsável, pelo, que, podem, ser | dados, política, privacidade, análise, que, ashraellen, cookies, para, plataformas, podem, ser, ashraellen.com, atualizações, base, com, compras, contacto, direitos |
@@ -661,7 +661,7 @@ Pages: 846
 | ru/books/seccus/index.html | ru | books | Ashraellen — Сакральная Книга АХЕПСУ | ashraellen, seccus, сакральная книга ахепсу, путь честности, философская сатира, деньги, успех, самообман, знание как алиби, ответственность, sacrunomicon, ordo sacrunomiconis, тетра-книга | ахепсу, книга, сакральная, ashraellen, books, без, sacrunomicon, seccus, ssmv, алиби, выбор, голос, деньгах, ещё, знании, избранная, или, книге |
 | ru/books/the-book-of-whinesis/index.html | ru | books | Ashraellen — Книга Нытия | ashraellen, books, book, whinesis, книга, нытия, священная, сатира, тех, кто, устал, позитивных, вайбов, бесконечной, продуктивности, культа, успеха, книге | книга, нытия, ashraellen, books, кто, book, whinesis, бесконечной, будет, будешь, вайбов, глава, главы, господь, его, ибо, книге, культа |
 | ru/books/you-are-already-online/index.html | ru | books | Ashraellen — Ты уже в сети | ashraellen, books, you, already, online, уже, сети, иммерсивный, аудиороман, жанре, психологического, триллера, киберпанк-драмы, цифровой, реальности, алгоритмах, гиперреальности, книге | сети, уже, ashraellen, books, глава, already, online, you, алгоритмах, аудиороман, без, было, где, гиперреальности, жанре, идеально, иммерсивный, истончение |
-| ru/contact.html | ru | contact.html | Контакт — Ashraellen | ashraellen, contact, контакт, контактная, страница, сотрудничество, издательские, грантовые, медийные, проектные, запросы, doctype, html, title, function, const, isgithub, location.hostname.endswith | ashraellen, контакт, запросы, издательские, сотрудничество, ashraellen.live, ashraellenchannel, contact, contact.html, telegram, telegram-канал, грантовые, контактная, медийные, обращения, проектные, публичные, связи |
+| ru/contact.html | ru | contact.html | Контакт — Ashraellen | ashraellen, контакт, сотрудничество, издательские запросы, гранты, медиа, проекты | ashraellen, контакт, запросы, издательские, сотрудничество, ashraellen.live, ashraellenchannel, contact, contact.html, telegram, telegram-канал, грантовые, контактная, медийные, обращения, проектные, публичные, связи |
 | ru/index.html | ru | index.html | Ashraellen — книги, исследования и публичные тексты | _missing_ | ashraellen, исследования, книги, публичные, тексты, видео, звук, литературно-философская, многоязычная, независимая, практика, художественно-исследовательская, index.html, сатира |
 | ru/monolith/index.html | ru | monolith | Трилогия МОНОЛИТ — Ashraellen | ashraellen, monolith, трилогия, монолит, три, состояния, контролируемого, распада, бетон, жижа, газ, doctype, html, title, function, const, isgithub, location.hostname.endswith | monolith, бетон, газ, жижа, контролируемого, монолит, распада, состояния, три, трилогия, ashraellen, amazon, антиутопии, социальной, том, фантастики, философского |
 | ru/privacy.html | ru | privacy.html | Политика конфиденциальности — Ashraellen | ashraellen, privacy, политика, конфиденциальности, ashraellen.com, персональные, данные, аналитика, cookies, права, пользователя, контакт, кто, отвечает, сайт, какие, могут, собираться | данные, конфиденциальности, политика, аналитика, ashraellen, ashraellen.com, cookies, обработки, google, privacy, privacy.html, внешние, данных, если, или, используются, какие, контакт |
@@ -802,7 +802,7 @@ Pages: 846
 | uk/books/seccus/index.html | uk | books | Ashraellen — САКРАЛЬНА КНИГА АХЕПСУ | Ashraellen, АХЕПСУ, Сакральна книга АХЕПСУ, Шлях Чесності, філософська сатира, гроші, успіх, самообман, знання як алібі, відповідальність, Sacrunomicon, Ordo Sacrunomiconis, Тетра-Книга | ахепсу, книга, про, сакральна, ashraellen, books, гроші, сторінка, успіх, sacrunomicon, seccus, ssmv, але, алібі, без, вибір, вибрана, від |
 | uk/books/the-book-of-whinesis/index.html | uk | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, книга, нытия, сакральна, сатира, тих, хто, втомився, від, позитивних, вайбів, нескінченної, продуктивності, культу, успіху | book, whinesis, ashraellen, books, про, хто, буде, вайбів, від, він, втомився, глава, глави, господь, його, книгу, культу, моанії |
 | uk/books/you-are-already-online/index.html | uk | books | Ashraellen — Ти вже в мережі | ashraellen, books, you, already, online, вже, мережі, психологічний, технотрилер, про, цифрове, сприйняття, підтвердження, реальність, яка, починає, відповідати, запитання | вже, мережі, ashraellen, books, про, реальність, яка, already, online, you, буде, від, відбувається, відповідати, вона, гачок, дослідницький, запитання |
-| uk/contact.html | uk | contact.html | Контакт — Ashraellen | ashraellen, contact, контакт, контактна, сторінка, співпраця, публікації, гранти, медіа, запити, щодо, проєкту, doctype, html, title, function, const, isgithub | ashraellen, контакт, гранти, запити, медіа, проєкту, публікації, співпраця, contact, contact.html, telegram, telegram-канал, зв’язку, контактна, публічні, сторінка, щодо |
+| uk/contact.html | uk | contact.html | Контакт — Ashraellen | ashraellen, контакт, співпраця, видавничі запити, гранти, медіа, проєкти | ashraellen, контакт, видавничі, гранти, запити, медіа, співпраця, contact, contact.html, telegram, telegram-канал, зв’язку, контактна, проєкти, проєктів, публічні, сторінка |
 | uk/index.html | uk | index.html | Ashraellen — книжки, дослідження і публічні тексти | _missing_ | ashraellen, дослідження, книжки, публічні, тексти, багатомовна, відео, звук, літературно-філософська, мистецько-дослідницька, незалежна, практика, index.html, сатира |
 | uk/monolith/index.html | uk | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, uk, monolith | monolith, beton, gas, sludge, ashraellen, видання, пам’ять, amazon, google, play, англійською, антиутопічна, контроль, контрольованого, про, розпад, розпаду, систем |
 | uk/privacy.html | uk | privacy.html | Політика конфіденційності — Ashraellen | ashraellen, privacy, політика, конфіденційності, ashraellen.com, персональні, дані, аналітика, cookies, права, користувача, контакт, хто, відповідає, сайт, які, можуть, збиратися | дані, конфіденційності, політика, ashraellen, ashraellen.com, cookies, аналітика, можуть, обробки, google, privacy, privacy.html, або, використовуються, відповідає, даних, збиратися, зовнішні |
@@ -1167,17 +1167,17 @@ Excerpt:
 - lang: be
 - section: contact.html
 - title: Кантакт — Ashraellen
-- description: Кантактная старонка Ashraellen: супрацоўніцтва, публікацыі, гранты, медыя і запыты па праекце.
+- description: Кантактная старонка Ashraellen: супрацоўніцтва, выдавецкія запыты, гранты, медыя і пытанні па праектах.
 - canonical: https://www.ashraellen.com/be/contact.html
 - H1: Кантакт
 - H2: Ashraellen
 - H3: _missing_
-- suggested keyword seed: ashraellen, кантакт, гранты, запыты, медыя, праекце, публікацыі, супрацоўніцтва, contact, contact.html, telegram, telegram-канал, кантактная, публічныя, сувязі
-- candidates: ashraellen, медыя, сувязі, супрацоўніцтва, telegram, telegram-канал, гранты, запыты, кантакт, праекце, публікацыі, публічныя, ashraellen.live, ashraellenchannel, ashraellenlive, email, gmail.com, instagram, kostyshev, mark, presence, youtube, абнаўленняў, выдавецкія
+- suggested keyword seed: ashraellen, кантакт, выдавецкія, гранты, запыты, медыя, праектах, супрацоўніцтва, contact, contact.html, telegram, telegram-канал, кантактная, публічныя, пытанні, сувязі
+- candidates: ashraellen, медыя, сувязі, супрацоўніцтва, telegram, telegram-канал, выдавецкія, гранты, запыты, кантакт, праектах, публічныя, пытанні, ashraellen.live, ashraellenchannel, ashraellenlive, email, gmail.com, instagram, kostyshev, mark, presence, youtube, абнаўленняў
 
 Excerpt:
 
-> Пункт сувязі Кантакт Па пытаннях супрацоўніцтва, публікацый, грантаў, медыя і запытаў па праекце можна напісаць напрамую. Ashraellen Незалежны творчы і даследчы праект Мікалая Кастышава. Email: ashraellen.live@gmail.com Telegram для сувязі: @AshraellenLive Лакацыя: Польшча / Еўрапейскі Саюз Дарэчныя тэмы для звароту: супрацоўніцтва і партнёрскія прапановы; выдавецкія і літаратурныя запыты; гранты, рэзідэнцыі і даследчыя праграмы; медыя, інтэрв’ю і публічныя матэрыялы; пытанні па праектах Ashraellen. Публічныя каналы: YouTube — @ashraellen Instagram — @kostyshev Telegram-канал — @ashraellenchannel Telegram для сувязі выкарыстоўваецца для прамых зваротаў. Telegram-канал прызначаны для публікацыі тэкстаў, нататак, абнаўленняў і матэрыялаў праекта. — mark of presence
+> Пункт сувязі Кантакт Па пытаннях супрацоўніцтва, публікацый, грантаў, медыя і праектаў можна напісаць напрамую. «Дзеянне не роўнае ўнутранай вайне з існаваннем.» Ashraellen Незалежны творчы і даследчы праект Мікалая Кастышава. Email: ashraellen.live@gmail.com Telegram для сувязі: @AshraellenLive Лакацыя: Польшча / Еўрапейскі Саюз Дарэчныя тэмы для звароту: супрацоўніцтва і партнёрскія прапановы; выдавецкія і літаратурныя запыты; гранты, рэзідэнцыі і даследчыя праграмы; медыя, інтэрв’ю і публічныя матэрыялы; пытанні па праектах Ashraellen. Публічныя каналы: YouTube — @ashraellen Instagram — @kostyshev Telegram-канал — @ashraellenchannel Telegram для сувязі выкарыстоўваецца для прамых зваротаў. Telegram-канал прызначаны для публікацыі тэкстаў, нататак, абнаўленняў і матэрыялаў праекта. — mark of presence
 
 ### be/index.html
 
@@ -2340,17 +2340,17 @@ Excerpt:
 - lang: de
 - section: contact.html
 - title: Kontakt — Ashraellen
-- description: Kontaktseite von Ashraellen: Zusammenarbeit, Publikationen, Förderungen, Medien und Projektanfragen.
+- description: Kontakt zu Ashraellen für Zusammenarbeit, Verlagsanfragen, Förderungen, Medien und Projekte.
 - canonical: https://www.ashraellen.com/de/contact.html
 - H1: Kontakt
 - H2: Ashraellen
 - H3: _missing_
-- suggested keyword seed: ashraellen, kontakt, förderungen, medien, projektanfragen, und, von, zusammenarbeit, contact, contact.html, der, dient, kontaktseite, kostyshev, öffentliche, publikationen
-- candidates: und, ashraellen, der, förderungen, medien, von, zusammenarbeit, dient, kontakt, kostyshev, öffentliche, projektanfragen, publikationen, telegram-kanal, telegram-kontakt, ashraellen-projekten, ashraellen.live, ashraellenchannel, ashraellenlive, direkt, direkten, ein, email, europäische
+- suggested keyword seed: ashraellen, kontakt, förderungen, für, medien, und, zusammenarbeit, contact, contact.html, der, ist, kostyshev, öffentliche, projekte, telegram-kanal, verlagsanfragen
+- candidates: und, ashraellen, für, förderungen, kontakt, medien, zusammenarbeit, der, ist, kostyshev, öffentliche, telegram-kanal, telegram-kontakt, ashraellen-projekten, ashraellen.live, ashraellenchannel, ashraellenlive, bestimmt, das, dasein, dient, direkt, direkte, e-mail
 
 Excerpt:
 
-> Kontaktpunkt Kontakt Für Zusammenarbeit, Publikationen, Förderungen, Medien und Projektanfragen können Sie direkt schreiben. Ashraellen Ein unabhängiges kreatives und forschendes Projekt von Nikolai Kostyshev. Email: ashraellen.live@gmail.com Telegram-Kontakt: @AshraellenLive Standort: Polen / Europäische Union Geeignete Kontaktgründe: Zusammenarbeit und Partnerschaften; Verlags- und Literaturfragen; Förderungen, Residenzen und Forschungsprogramme; Medien, Interviews und öffentliche Materialien; Fragen zu Ashraellen-Projekten. Öffentliche Kanäle: YouTube — @ashraellen Instagram — @kostyshev Telegram-Kanal — @ashraellenchannel Der Telegram-Kontakt dient direkten Nachrichten. Der Telegram-Kanal dient der Veröffentlichung von Texten, Notizen, Updates und Projektmaterialien. — mark of presence
+> Kontaktpunkt Kontakt Für Zusammenarbeit, Publikationen, Förderungen, Medien und Projektanfragen können Sie direkt schreiben. „Handeln ist kein innerer Krieg gegen das Dasein.“ Ashraellen Ein unabhängiges kreatives und forschendes Projekt von Nikolai Kostyshev. E-Mail: ashraellen.live@gmail.com Telegram-Kontakt: @AshraellenLive Standort: Polen / Europäische Union Passende Gründe für eine Kontaktaufnahme: Zusammenarbeit und Partnerschaftsvorschläge; Verlags- und Literaturfragen; Förderungen, Residenzen und Forschungsprogramme; Medien, Interviews und öffentliche Materialien; Fragen zu Ashraellen-Projekten. Öffentliche Kanäle: YouTube — @ashraellen Instagram — @kostyshev Telegram-Kanal — @ashraellenchannel Der Telegram-Kontakt ist für direkte Nachrichten bestimmt. Der Telegram-Kanal dient Texten, Notizen, Neuigkeiten und Projektmaterialien. — mark of presence
 
 ### de/index.html
 
@@ -3717,17 +3717,17 @@ Excerpt:
 - lang: en
 - section: contact.html
 - title: Contact — Ashraellen
-- description: Contact page for Ashraellen: cooperation, publishing, grants, media and project inquiries.
+- description: Contact Ashraellen about collaboration, publishing, grants, media and project inquiries.
 - canonical: https://www.ashraellen.com/en/contact.html
 - H1: Contact
 - H2: Ashraellen
 - H3: _missing_
-- suggested keyword seed: ashraellen, contact, cooperation, grants, inquiries, media, project, publishing, channel, contact.html, kostyshev, materials, telegram
-- candidates: contact, ashraellen, project, telegram, cooperation, grants, inquiries, media, publishing, channel, kostyshev, materials, public, research, used, ashraellen.live, ashraellenchannel, ashraellenlive, can, channels, creative, direct, directly, email
+- suggested keyword seed: ashraellen, contact, collaboration, grants, inquiries, media, project, publishing, about, channel, contact.html, kostyshev, materials, telegram
+- candidates: contact, ashraellen, project, telegram, collaboration, grants, inquiries, media, publishing, channel, kostyshev, materials, public, research, about, action, against, ashraellen.live, ashraellenchannel, ashraellenlive, can, channels, creative, direct
 
 Excerpt:
 
-> Point of contact Contact For cooperation, publishing, grants, media and project inquiries, you can write directly. Ashraellen An independent creative and research project by Nikolai Kostyshev. Email: ashraellen.live@gmail.com Telegram contact: @AshraellenLive Location: Poland / European Union Suitable reasons to contact: cooperation and partnership proposals; publishing and literary inquiries; grants, residencies and research programmes; media, interviews and public materials; questions related to Ashraellen projects. Public channels: YouTube — @ashraellen Instagram — @kostyshev Telegram channel — @ashraellenchannel Telegram contact is used for direct messages. The Telegram channel is used for texts, notes, updates and project materials. — mark of presence
+> Point of contact Contact For collaboration, publishing, grants, media and project inquiries, you can write directly. “Action is not an inner war against existence.” Ashraellen An independent creative and research project by Nikolai Kostyshev. Email: ashraellen.live@gmail.com Telegram contact: @AshraellenLive Location: Poland / European Union Suitable reasons to get in touch: collaboration and partnership proposals; publishing and literary inquiries; grants, residencies and research programmes; media, interviews and public materials; questions related to Ashraellen projects. Public channels: YouTube — @ashraellen Instagram — @kostyshev Telegram channel — @ashraellenchannel Telegram contact is for direct messages. The Telegram channel is for texts, notes, updates and project materials. — mark of presence
 
 ### en/index.html
 
@@ -4890,17 +4890,17 @@ Excerpt:
 - lang: es
 - section: contact.html
 - title: Contacto — Ashraellen
-- description: Página de contacto de Ashraellen: cooperación, publicaciones, subvenciones, medios y consultas del proyecto.
+- description: Página de contacto de Ashraellen: colaboración, publicaciones, subvenciones, medios y proyectos.
 - canonical: https://www.ashraellen.com/es/contact.html
 - H1: Contacto
 - H2: Ashraellen
 - H3: _missing_
-- suggested keyword seed: ashraellen, contacto, consultas, cooperación, del, medios, proyecto, subvenciones, canal, contact, contact.html, investigación, página, para, publicaciones, telegram
-- candidates: contacto, ashraellen, para, proyecto, telegram, consultas, cooperación, del, medios, subvenciones, canal, investigación, kostyshev, materiales, por, publicaciones, públicos, usa, actualizaciones, adecuados, ashraellen.live, ashraellenchannel, ashraellenlive, canales
+- suggested keyword seed: ashraellen, contacto, colaboración, medios, proyectos, subvenciones, canal, contact, contact.html, investigación, kostyshev, materiales, página, para, publicaciones, telegram
+- candidates: contacto, ashraellen, telegram, colaboración, medios, para, proyectos, subvenciones, canal, investigación, kostyshev, materiales, por, proyecto, publicaciones, públicos, actualizaciones, actuar, adecuados, ashraellen.live, ashraellenchannel, ashraellenlive, asociación, asuntos
 
 Excerpt:
 
-> Punto de contacto Contacto Para cooperación, publicaciones, subvenciones, medios y consultas del proyecto, puede escribir directamente. Ashraellen Un proyecto creativo y de investigación independiente de Nikolai Kostyshev. Email: ashraellen.live@gmail.com Contacto por Telegram: @AshraellenLive Ubicación: Polonia / Unión Europea Motivos adecuados para contactar: cooperación y propuestas de colaboración; consultas editoriales y literarias; subvenciones, residencias y programas de investigación; medios, entrevistas y materiales públicos; preguntas relacionadas con los proyectos Ashraellen. Canales públicos: YouTube — @ashraellen Instagram — @kostyshev Canal de Telegram — @ashraellenchannel El contacto por Telegram se usa para mensajes directos. El canal de Telegram se usa para publicar textos, notas, actualizaciones y materiales del proyecto. — mark of presence
+> Punto de contacto Contacto Para asuntos de colaboración, publicaciones, subvenciones, medios y proyectos, puede escribir directamente. «Actuar no es una guerra interior contra la existencia.» Ashraellen Un proyecto creativo y de investigación independiente de Nikolai Kostyshev. Email: ashraellen.live@gmail.com Contacto por Telegram: @AshraellenLive Ubicación: Polonia / Unión Europea Motivos adecuados para contactar: colaboración y propuestas de asociación; consultas editoriales y literarias; subvenciones, residencias y programas de investigación; medios, entrevistas y materiales públicos; preguntas relacionadas con los proyectos Ashraellen. Canales públicos: YouTube — @ashraellen Instagram — @kostyshev Canal de Telegram — @ashraellenchannel El contacto por Telegram se utiliza para mensajes directos. El canal de Telegram está destinado a textos, notas, actualizaciones y materiales del pro
 
 ### es/index.html
 
@@ -6062,18 +6062,18 @@ Excerpt:
 
 - lang: fi
 - section: contact.html
-- title: Yhteys — Ashraellen — Suomi
-- description: Ashraellenin yhteystiedot yhteistyötä, julkaisemista, apurahoja, mediaa ja projektia koskevia yhteydenottoja varten.
+- title: Yhteys — Ashraellen
+- description: Ashraellenin yhteystiedot yhteistyötä, julkaisemista, apurahoja, mediaa ja projekteja koskevia yhteydenottoja varten.
 - canonical: https://www.ashraellen.com/fi/contact.html
 - H1: Yhteys
 - H2: Ashraellen
 - H3: _missing_
-- suggested keyword seed: ashraellen, yhteys, apurahoja, ashraellenin, julkaisemista, mediaa, projektia, varten, yhteistyötä, aineistot, contact, contact.html, julkiset, koskevia, suomi, telegram-yhteys, yhteydenottoja, yhteystiedot
-- candidates: ashraellen, julkaisemista, apurahoja, ashraellenin, julkiset, mediaa, projektia, telegram-yhteys, varten, yhteistyötä, yhteys, aineistot, apurahat, ashraellen.live, ashraellenchannel, ashraellenlive, asioissa, euroopan, gmail.com, haastattelut, instagram, itsenäinen, julkaistaan, kanavat
+- suggested keyword seed: ashraellen, yhteys, apurahoja, ashraellenin, julkaisemista, mediaa, projekteja, varten, yhteistyötä, aineistot, contact, contact.html, julkiset, koskevia, telegram-yhteys, yhteydenottoja, yhteystiedot
+- candidates: ashraellen, julkaisemista, apurahoja, ashraellenin, julkiset, mediaa, projekteja, telegram-yhteys, varten, yhteistyötä, yhteys, aineistot, apurahat, ashraellen.live, ashraellenchannel, ashraellenlive, asioissa, euroopan, gmail.com, haastattelut, instagram, itsenäinen, julkaistaan, kanavat
 
 Excerpt:
 
-> Yhteyspiste Yhteys Yhteistyötä, julkaisemista, apurahoja, mediaa tai projektia koskevissa asioissa voit kirjoittaa suoraan. Ashraellen Nikolai Kostyshevin itsenäinen luova ja tutkimuksellinen projekti. Sähköposti: ashraellen.live@gmail.com Telegram-yhteys: @AshraellenLive Sijainti: Puola / Euroopan unioni Sopivia syitä ottaa yhteyttä: yhteistyö- ja kumppanuusehdotukset; julkaisemista ja kirjallisuutta koskevat tiedustelut; apurahat, residenssit ja tutkimusohjelmat; media, haastattelut ja julkiset aineistot; Ashraellenin projekteihin liittyvät kysymykset. Julkiset kanavat: YouTube — @ashraellen Instagram — @kostyshev Telegram-kanava — @ashraellenchannel Telegram-yhteys on suoria viestejä varten. Telegram-kanavalla julkaistaan tekstejä, muistiinpanoja, päivityksiä ja projektiaineistoa. — mark of presence
+> Yhteyspiste Yhteys Yhteistyötä, julkaisemista, apurahoja, mediaa tai projekteja koskevissa asioissa voit kirjoittaa suoraan. ”Toiminta ei ole sisäistä sotaa olemassaoloa vastaan.” Ashraellen Nikolai Kostyshevin itsenäinen luova ja tutkimuksellinen projekti. Sähköposti: ashraellen.live@gmail.com Telegram-yhteys: @AshraellenLive Sijainti: Puola / Euroopan unioni Sopivia syitä ottaa yhteyttä: yhteistyö- ja kumppanuusehdotukset; julkaisemista ja kirjallisuutta koskevat tiedustelut; apurahat, residenssit ja tutkimusohjelmat; media, haastattelut ja julkiset aineistot; Ashraellenin projekteihin liittyvät kysymykset. Julkiset kanavat: YouTube — @ashraellen Instagram — @kostyshev Telegram-kanava — @ashraellenchannel Telegram-yhteys on suoria viestejä varten. Telegram-kanavalla julkaistaan tekstejä, muistiinpanoja, päivityksiä ja projektiaineistoa. — mark of presence
 
 ### fi/index.html
 
@@ -7304,17 +7304,17 @@ Excerpt:
 - lang: fr
 - section: contact.html
 - title: Contact — Ashraellen
-- description: Page de contact Ashraellen : coopération, édition, subventions, médias et demandes liées au projet.
+- description: Contacter Ashraellen pour une collaboration, une demande éditoriale, une subvention, les médias ou un projet.
 - canonical: https://www.ashraellen.com/fr/contact.html
 - H1: Contact
 - H2: Ashraellen
 - H3: _missing_
-- suggested keyword seed: ashraellen, contact, coopération, demandes, médias, projet, subventions, aux, canal, contact.html, des, édition, kostyshev, liées, telegram
-- candidates: contact, ashraellen, des, telegram, coopération, demandes, médias, projet, subventions, aux, canal, kostyshev, liées, projets, publics, recherche, sert, appropriés, ashraellen.live, ashraellenchannel, ashraellenlive, canaux, créatif, d’édition
+- suggested keyword seed: ashraellen, contact, une, collaboration, demande, éditoriale, médias, projet, aux, canal, contact.html, contacter, contenus, les, pour, subvention, telegram
+- candidates: une, contact, ashraellen, projet, telegram, aux, médias, canal, collaboration, contenus, demande, éditoriale, kostyshev, les, pour, publics, recherche, subvention, actualités, agir, appropriés, ashraellen.live, ashraellenchannel, ashraellenlive
 
 Excerpt:
 
-> Point de contact Contact Pour les demandes de coopération, d’édition, de subventions, de médias et de projets, vous pouvez écrire directement. Ashraellen Un projet créatif et de recherche indépendant de Nikolai Kostyshev. Email : ashraellen.live@gmail.com Contact Telegram : @AshraellenLive Localisation : Pologne / Union européenne Motifs appropriés de contact : coopération et propositions de partenariat ; demandes éditoriales et littéraires ; subventions, résidences et programmes de recherche ; médias, interviews et documents publics ; questions liées aux projets Ashraellen. Canaux publics : YouTube — @ashraellen Instagram — @kostyshev Canal Telegram — @ashraellenchannel Le contact Telegram sert aux messages directs. Le canal Telegram sert à publier des textes, des notes, des mises à jour et des matériaux du projet. — mark of presence
+> Point de contact Contact Pour une collaboration, une demande éditoriale, une subvention, les médias ou un projet, vous pouvez écrire directement. « Agir n’est pas mener une guerre intérieure contre l’existence. » Ashraellen Un projet indépendant de création et de recherche de Nikolai Kostyshev. Email: ashraellen.live@gmail.com Contact Telegram: @AshraellenLive Localisation: Pologne / Union européenne Motifs appropriés de contact: collaborations et propositions de partenariat ; demandes éditoriales et littéraires ; subventions, résidences et programmes de recherche ; médias, entretiens et contenus publics ; questions liées aux projets Ashraellen. Canaux publics: YouTube — @ashraellen Instagram — @kostyshev Canal Telegram — @ashraellenchannel Le contact Telegram sert aux messages directs. Le canal Telegram est destiné aux textes, notes, actualités et contenus du projet. — mark of presence
 
 ### fr/index.html
 
@@ -9089,17 +9089,17 @@ Excerpt:
 - lang: pl
 - section: contact.html
 - title: Kontakt — Ashraellen
-- description: Kontakt z Ashraellen: współpraca, publikacje, granty, media i zapytania projektowe.
+- description: Kontakt z Ashraellen: współpraca, zapytania wydawnicze, granty, media i projekty.
 - canonical: https://www.ashraellen.com/pl/contact.html
 - H1: Kontakt
 - H2: Ashraellen
 - H3: _missing_
-- suggested keyword seed: ashraellen, kontakt, granty, media, współpraca, contact, contact.html, kanał, kontaktu, projektów, projektowe, publiczne, publikacje, publikacji, służy, telegram, zapytania
-- candidates: ashraellen, kontaktu, telegram, kontakt, granty, kanał, media, projektów, publiczne, publikacji, służy, współpraca, zapytania, aktualizacji, ashraellen.live, ashraellenchannel, ashraellenlive, badawcze, badawczy, bezpośrednich, bezpośrednio, dotyczące, email, europejska
+- suggested keyword seed: ashraellen, kontakt, granty, media, contact, contact.html, kanał, kontaktu, kostyshev, projektów, projekty, przez, publiczne, publikacji, telegram, współpraca, wydawnicze, zapytania
+- candidates: ashraellen, kontakt, telegram, granty, kanał, kontaktu, kostyshev, media, projektów, przez, publiczne, publikacji, służy, współpraca, wydawnicze, zapytania, aktualizacji, ashraellen.live, ashraellenchannel, ashraellenlive, badawcze, badawczy, bezpośrednich, bezpośrednio
 
 Excerpt:
 
-> Punkt kontaktu Kontakt W sprawach współpracy, publikacji, grantów, mediów i projektów można napisać bezpośrednio. Ashraellen Niezależny projekt twórczy i badawczy Nikolai Kostysheva. Email: ashraellen.live@gmail.com Telegram do kontaktu: @AshraellenLive Lokalizacja: Polska / Unia Europejska Odpowiednie tematy kontaktu: współpraca i propozycje partnerskie; zapytania wydawnicze i literackie; granty, rezydencje i programy badawcze; media, wywiady i materiały publiczne; pytania dotyczące projektów Ashraellen. Kanały publiczne: YouTube — @ashraellen Instagram — @kostyshev Kanał Telegram — @ashraellenchannel Telegram do kontaktu służy do bezpośrednich wiadomości. Kanał Telegram służy do publikacji tekstów, notatek, aktualizacji i materiałów projektu. — mark of presence
+> Punkt kontaktu Kontakt W sprawach współpracy, publikacji, grantów, mediów i projektów można napisać bezpośrednio. „Działanie nie jest wewnętrzną wojną z istnieniem.” Ashraellen Niezależny projekt twórczy i badawczy, którego twórcą jest Nikolai Kostyshev. Email: ashraellen.live@gmail.com Kontakt przez Telegram: @AshraellenLive Lokalizacja: Polska / Unia Europejska Odpowiednie tematy kontaktu: współpraca i propozycje partnerskie; zapytania wydawnicze i literackie; granty, rezydencje i programy badawcze; media, wywiady i materiały publiczne; pytania dotyczące projektów Ashraellen. Kanały publiczne: YouTube — @ashraellen Instagram — @kostyshev Kanał Telegram — @ashraellenchannel Kontakt przez Telegram służy do bezpośrednich wiadomości. Kanał Telegram służy do publikacji tekstów, notatek, aktualizacji i materiałów projektu. — mark of presence
 
 ### pl/index.html
 
@@ -10278,18 +10278,18 @@ Excerpt:
 
 - lang: pt
 - section: contact.html
-- title: Contacto — Ashraellen — PT
-- description: Página de contacto da Ashraellen: cooperação, publicações, bolsas, media e pedidos relacionados com o projeto.
+- title: Contato — Ashraellen
+- description: Página de contato de Ashraellen: colaboração, publicações, bolsas, mídia e assuntos relacionados aos projetos.
 - canonical: https://www.ashraellen.com/pt/contact.html
-- H1: Contacto
+- H1: Contato
 - H2: Ashraellen
 - H3: _missing_
-- suggested keyword seed: ashraellen, contacto, bolsas, com, cooperação, media, pedidos, projeto, canal, contact, contact.html, investigação, página, para, publicações, relacionados, telegram
-- candidates: contacto, ashraellen, para, projeto, telegram, bolsas, com, cooperação, media, pedidos, canal, investigação, kostyshev, materiais, por, publicações, públicos, relacionados, usado, adequados, ashraellen.live, ashraellenchannel, ashraellenlive, atualizações
+- suggested keyword seed: ashraellen, contato, aos, assuntos, bolsas, colaboração, mídia, projetos, canal, contact, contact.html, kostyshev, página, para, publicações, relacionados, telegram
+- candidates: contato, ashraellen, telegram, assuntos, bolsas, colaboração, mídia, para, projetos, aos, canal, kostyshev, materiais, pelo, pesquisa, projeto, publicações, públicos, adequados, agir, ashraellen.live, ashraellenchannel, ashraellenlive, atualizações
 
 Excerpt:
 
-> Ponto de contacto Contacto Para cooperação, publicações, bolsas, media e pedidos relacionados com o projeto, pode escrever diretamente. Ashraellen Um projeto criativo e de investigação independente de Nikolai Kostyshev. Email: ashraellen.live@gmail.com Contacto por Telegram: @AshraellenLive Localização: Polónia / União Europeia Motivos adequados para contacto: cooperação e propostas de parceria; pedidos editoriais e literários; bolsas, residências e programas de investigação; media, entrevistas e materiais públicos; perguntas relacionadas com os projetos Ashraellen. Canais públicos: YouTube — @ashraellen Instagram — @kostyshev Canal Telegram — @ashraellenchannel O contacto por Telegram é usado para mensagens diretas. O canal Telegram é usado para publicar textos, notas, atualizações e materiais do projeto. — mark of presence
+> Ponto de contato Contato Para assuntos de colaboração, publicações, bolsas, mídia e projetos, você pode escrever diretamente. “Agir não é uma guerra interior contra a existência.” Ashraellen Um projeto criativo e de pesquisa independente de Nikolai Kostyshev. E-mail: ashraellen.live@gmail.com Contato pelo Telegram: @AshraellenLive Localização: Polônia / União Europeia Assuntos adequados para contato: colaboração e propostas de parceria; consultas editoriais e literárias; bolsas, residências e programas de pesquisa; mídia, entrevistas e materiais públicos; perguntas relacionadas aos projetos Ashraellen. Canais públicos: YouTube — @ashraellen Instagram — @kostyshev Canal do Telegram — @ashraellenchannel O contato pelo Telegram é usado para mensagens diretas. O canal do Telegram é destinado à publicação de textos, notas, atualizações e materiais do projeto. — mark of presence
 
 ### pt/index.html
 
@@ -14376,17 +14376,17 @@ Excerpt:
 - lang: uk
 - section: contact.html
 - title: Контакт — Ashraellen
-- description: Контактна сторінка Ashraellen: співпраця, публікації, гранти, медіа та запити щодо проєкту.
+- description: Контактна сторінка Ashraellen: співпраця, видавничі запити, гранти, медіа та проєкти.
 - canonical: https://www.ashraellen.com/uk/contact.html
 - H1: Контакт
 - H2: Ashraellen
 - H3: _missing_
-- suggested keyword seed: ashraellen, контакт, гранти, запити, медіа, проєкту, публікації, співпраця, contact, contact.html, telegram, telegram-канал, зв’язку, контактна, публічні, сторінка, щодо
-- candidates: ashraellen, зв’язку, медіа, telegram, telegram-канал, гранти, запити, контакт, проєкту, публікації, публічні, співпраця, щодо, ashraellen.live, ashraellenchannel, ashraellenlive, email, gmail.com, instagram, kostyshev, mark, presence, youtube, видавничі
+- suggested keyword seed: ashraellen, контакт, видавничі, гранти, запити, медіа, співпраця, contact, contact.html, telegram, telegram-канал, зв’язку, контактна, проєкти, проєктів, публічні, сторінка
+- candidates: ashraellen, зв’язку, медіа, telegram, telegram-канал, видавничі, гранти, запити, контакт, проєктів, публічні, співпраця, ashraellen.live, ashraellenchannel, ashraellenlive, email, gmail.com, instagram, kostyshev, mark, presence, youtube, використовується, війні
 
 Excerpt:
 
-> Точка зв’язку Контакт З питань співпраці, публікацій, грантів, медіа та проєктних запитів можна написати напряму. Ashraellen Незалежний творчий і дослідницький проєкт Миколи Костишева. Email: ashraellen.live@gmail.com Telegram для зв’язку: @AshraellenLive Локація: Польща / Європейський Союз Доречні теми для звернення: співпраця та партнерські пропозиції; видавничі й літературні запити; гранти, резиденції та дослідницькі програми; медіа, інтерв’ю та публічні матеріали; питання щодо проєктів Ashraellen. Публічні канали: YouTube — @ashraellen Instagram — @kostyshev Telegram-канал — @ashraellenchannel Telegram для зв’язку використовується для прямих звернень. Telegram-канал призначений для публікації текстів, нотаток, оновлень і матеріалів проєкту. — mark of presence
+> Точка зв’язку Контакт З питань співпраці, публікацій, грантів, медіа та проєктів можна написати напряму. «Дія не дорівнює внутрішній війні з існуванням.» Ashraellen Незалежний творчий і дослідницький проєкт Миколи Костишева. Email: ashraellen.live@gmail.com Telegram для зв’язку: @AshraellenLive Локація: Польща / Європейський Союз Доречні теми для звернення: співпраця та партнерські пропозиції; видавничі й літературні запити; гранти, резиденції та дослідницькі програми; медіа, інтерв’ю та публічні матеріали; питання щодо проєктів Ashraellen. Публічні канали: YouTube — @ashraellen Instagram — @kostyshev Telegram-канал — @ashraellenchannel Telegram для зв’язку використовується для прямих звернень. Telegram-канал призначений для публікації текстів, нотаток, оновлень і матеріалів проєкту. — mark of presence
 
 ### uk/index.html
 

@@ -1,6 +1,6 @@
 # Page Metadata Audit
 
-Generated: 2026-08-15T12:28:21.918Z
+Generated: 2026-08-15T12:57:24.342Z
 
 Pages checked: 845
 Pages with issues: 323
@@ -386,7 +386,7 @@ Total review notes: 2288
 ### de/contact.html
 
 - title: Kontakt — Ashraellen
-- description length: 100
+- description length: 92
 - canonical: https://www.ashraellen.com/de/contact.html
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
@@ -792,7 +792,7 @@ Total review notes: 2288
 ### en/contact.html
 
 - title: Contact — Ashraellen
-- description length: 90
+- description length: 88
 - canonical: https://www.ashraellen.com/en/contact.html
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
@@ -1614,7 +1614,7 @@ Total review notes: 2288
 ### fr/contact.html
 
 - title: Contact — Ashraellen
-- description length: 99
+- description length: 109
 - canonical: https://www.ashraellen.com/fr/contact.html
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
@@ -2445,7 +2445,7 @@ Total review notes: 2288
 ### pl/contact.html
 
 - title: Kontakt — Ashraellen
-- description length: 83
+- description length: 81
 - canonical: https://www.ashraellen.com/pl/contact.html
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
@@ -4646,7 +4646,7 @@ Total review notes: 2288
 ### uk/contact.html
 
 - title: Контакт — Ashraellen
-- description length: 91
+- description length: 85
 - canonical: https://www.ashraellen.com/uk/contact.html
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
@@ -7616,7 +7616,7 @@ Total review notes: 2288
 
 ### fi/contact.html
 
-- title: Yhteys — Ashraellen — Suomi
+- title: Yhteys — Ashraellen
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -9454,7 +9454,7 @@ Total review notes: 2288
 
 ### pt/contact.html
 
-- title: Contacto — Ashraellen — PT
+- title: Contato — Ashraellen
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
