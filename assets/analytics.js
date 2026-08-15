@@ -133,7 +133,7 @@
 /* Ashraellen — global contact button on language entry pages */
 (function () {
   'use strict';
-  var labels = { en:'Contact', ru:'Контакт', be:'Кантакт', pl:'Kontakt', de:'Kontakt', fr:'Contact', es:'Contacto', pt:'Contacto', uk:'Контакт' };
+  var labels = { en:'Contact', ru:'Контакт', be:'Кантакт', pl:'Kontakt', de:'Kontakt', fr:'Contact', es:'Contacto', pt:'Contacto', uk:'Контакт', fi:'Yhteys' };
   var parts = window.__ashraellenSite.parts();
   var l = parts[window.__ashraellenSite.langIndex()] || '';
   var rest = parts.slice(window.__ashraellenSite.langIndex() + 1);
