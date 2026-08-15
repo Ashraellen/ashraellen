@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-15T16:42:36.686Z
+Generated: 2026-08-15T17:47:14.601Z
 
 Pages checked: 845
-Pages with issues: 342
-Total issues: 1756
+Pages with issues: 352
+Total issues: 1766
 Pages with review notes: 645
 Total review notes: 2288
 
@@ -12,7 +12,7 @@ Total review notes: 2288
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 224 |
+| MISSING_KEYWORDS | 234 |
 | MISSING_TWITTER_IMAGE | 192 |
 | MISSING_TWITTER_CARD | 178 |
 | MISSING_JSON_LD | 173 |
@@ -191,6 +191,16 @@ Total review notes: 2288
 
 - DUPLICATE_TITLE: shared by 9 pages
 - DUPLICATE_OG_TITLE: shared by 9 pages
+
+### be/books/you-are-already-online/index.html
+
+- title: Ashraellen — Ты ўжо ў сетцы
+- description length: 140
+- canonical: https://www.ashraellen.com/be/books/you-are-already-online/
+- og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
+
+- MISSING_KEYWORDS
 
 ### be/index.html
 
@@ -402,6 +412,16 @@ Total review notes: 2288
 
 - DUPLICATE_TITLE: shared by 9 pages
 - DUPLICATE_OG_TITLE: shared by 9 pages
+
+### de/books/you-are-already-online/index.html
+
+- title: Ashraellen — Du bist bereits online
+- description length: 166
+- canonical: https://www.ashraellen.com/de/books/you-are-already-online/
+- og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
+
+- MISSING_KEYWORDS
 
 ### de/contact.html
 
@@ -829,6 +849,16 @@ Total review notes: 2288
 - DUPLICATE_TITLE: shared by 9 pages
 - DUPLICATE_OG_TITLE: shared by 9 pages
 
+### en/books/you-are-already-online/index.html
+
+- title: Ashraellen — You Are Already Online
+- description length: 172
+- canonical: https://www.ashraellen.com/en/books/you-are-already-online/
+- og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
+
+- MISSING_KEYWORDS
+
 ### en/contact.html
 
 - title: Contact — Ashraellen
@@ -1063,6 +1093,16 @@ Total review notes: 2288
 - DUPLICATE_TITLE: shared by 9 pages
 - DUPLICATE_OG_TITLE: shared by 9 pages
 
+### es/books/you-are-already-online/index.html
+
+- title: Ashraellen — Ya estás en la red
+- description length: 169
+- canonical: https://www.ashraellen.com/es/books/you-are-already-online/
+- og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
+
+- MISSING_KEYWORDS
+
 ### es/index.html
 
 - title: Ashraellen — libros, investigación y textos públicos
@@ -1136,6 +1176,16 @@ Total review notes: 2288
 
 - DUPLICATE_TITLE: shared by 9 pages
 - DUPLICATE_OG_TITLE: shared by 9 pages
+
+### fi/books/you-are-already-online/index.html
+
+- title: Ashraellen — Olet jo verkossa
+- description length: 159
+- canonical: https://www.ashraellen.com/fi/books/you-are-already-online/
+- og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
+
+- MISSING_KEYWORDS
 
 ### fi/index.html
 
@@ -1701,6 +1751,16 @@ Total review notes: 2288
 
 - DUPLICATE_TITLE: shared by 9 pages
 - DUPLICATE_OG_TITLE: shared by 9 pages
+
+### fr/books/you-are-already-online/index.html
+
+- title: Ashraellen — Tu es déjà en ligne
+- description length: 156
+- canonical: https://www.ashraellen.com/fr/books/you-are-already-online/
+- og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
+
+- MISSING_KEYWORDS
 
 ### fr/contact.html
 
@@ -2553,6 +2613,16 @@ Total review notes: 2288
 - DUPLICATE_TITLE: shared by 9 pages
 - DUPLICATE_OG_TITLE: shared by 9 pages
 
+### pl/books/you-are-already-online/index.html
+
+- title: Ashraellen — Już jesteś w sieci
+- description length: 164
+- canonical: https://www.ashraellen.com/pl/books/you-are-already-online/
+- og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
+
+- MISSING_KEYWORDS
+
 ### pl/contact.html
 
 - title: Kontakt — Ashraellen
@@ -2742,6 +2812,16 @@ Total review notes: 2288
 
 - DUPLICATE_TITLE: shared by 9 pages
 - DUPLICATE_OG_TITLE: shared by 9 pages
+
+### pt/books/you-are-already-online/index.html
+
+- title: Ashraellen — Você já está online
+- description length: 152
+- canonical: https://www.ashraellen.com/pt/books/you-are-already-online/
+- og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
+
+- MISSING_KEYWORDS
 
 ### pt/index.html
 
@@ -3442,6 +3522,16 @@ Total review notes: 2288
 - MISSING_OG_IMAGE
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
+
+### ru/books/you-are-already-online/index.html
+
+- title: Ashraellen — Ты уже в сети
+- description length: 143
+- canonical: https://www.ashraellen.com/ru/books/you-are-already-online/
+- og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
+
+- MISSING_KEYWORDS
 
 ### ru/contact.html
 
@@ -4813,6 +4903,16 @@ Total review notes: 2288
 
 - DUPLICATE_TITLE: shared by 9 pages
 - DUPLICATE_OG_TITLE: shared by 9 pages
+
+### uk/books/you-are-already-online/index.html
+
+- title: Ashraellen — Ти вже в мережі
+- description length: 142
+- canonical: https://www.ashraellen.com/uk/books/you-are-already-online/
+- og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
+
+- MISSING_KEYWORDS
 
 ### uk/contact.html
 
