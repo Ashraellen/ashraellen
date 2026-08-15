@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-15T16:01:34.266Z
+Generated: 2026-08-15T16:42:36.686Z
 
 Pages checked: 845
-Pages with issues: 332
-Total issues: 1746
+Pages with issues: 342
+Total issues: 1756
 Pages with review notes: 645
 Total review notes: 2288
 
@@ -12,7 +12,7 @@ Total review notes: 2288
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 214 |
+| MISSING_KEYWORDS | 224 |
 | MISSING_TWITTER_IMAGE | 192 |
 | MISSING_TWITTER_CARD | 178 |
 | MISSING_JSON_LD | 173 |
@@ -207,6 +207,16 @@ Total review notes: 2288
 - title: Палітыка прыватнасці — Ashraellen
 - description length: 107
 - canonical: https://www.ashraellen.com/be/privacy.html
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- MISSING_KEYWORDS
+
+### be/professional/index.html
+
+- title: Ashraellen — Прафесійнае дасье
+- description length: 126
+- canonical: https://www.ashraellen.com/be/professional/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -430,6 +440,16 @@ Total review notes: 2288
 - title: Datenschutzerklärung — Ashraellen
 - description length: 108
 - canonical: https://www.ashraellen.com/de/privacy.html
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- MISSING_KEYWORDS
+
+### de/professional/index.html
+
+- title: Ashraellen — Professionelles Dossier
+- description length: 154
+- canonical: https://www.ashraellen.com/de/professional/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -842,6 +862,16 @@ Total review notes: 2288
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
 
+### en/professional/index.html
+
+- title: Ashraellen — Professional Dossier
+- description length: 151
+- canonical: https://www.ashraellen.com/en/professional/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- MISSING_KEYWORDS
+
 ### en/public/index.html
 
 - title: Ashraellen — Public
@@ -1064,6 +1094,16 @@ Total review notes: 2288
 
 - MISSING_KEYWORDS
 
+### es/professional/index.html
+
+- title: Ashraellen — Dosier profesional
+- description length: 145
+- canonical: https://www.ashraellen.com/es/professional/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- MISSING_KEYWORDS
+
 ### es/public/index.html
 
 - title: Ashraellen — Público
@@ -1112,6 +1152,16 @@ Total review notes: 2288
 - title: Tietosuojakäytäntö — Ashraellen
 - description length: 110
 - canonical: https://www.ashraellen.com/fi/privacy.html
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- MISSING_KEYWORDS
+
+### fi/professional/index.html
+
+- title: Ashraellen — Ammatillinen esittely
+- description length: 158
+- canonical: https://www.ashraellen.com/fi/professional/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -1689,6 +1739,16 @@ Total review notes: 2288
 - title: Politique de confidentialité — Ashraellen
 - description length: 123
 - canonical: https://www.ashraellen.com/fr/privacy.html
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- MISSING_KEYWORDS
+
+### fr/professional/index.html
+
+- title: Ashraellen — Dossier professionnel
+- description length: 150
+- canonical: https://www.ashraellen.com/fr/professional/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -2535,6 +2595,16 @@ Total review notes: 2288
 
 - MISSING_KEYWORDS
 
+### pl/professional/index.html
+
+- title: Ashraellen — dossier profesjonalne
+- description length: 130
+- canonical: https://www.ashraellen.com/pl/professional/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- MISSING_KEYWORDS
+
 ### privacy.html
 
 - title: Privacy Policy — Ashraellen
@@ -2688,6 +2758,16 @@ Total review notes: 2288
 - title: Política de privacidade — Ashraellen
 - description length: 111
 - canonical: https://www.ashraellen.com/pt/privacy.html
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- MISSING_KEYWORDS
+
+### pt/professional/index.html
+
+- title: Ashraellen — Dossiê profissional
+- description length: 147
+- canonical: https://www.ashraellen.com/pt/professional/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -3389,6 +3469,16 @@ Total review notes: 2288
 - title: Политика конфиденциальности — Ashraellen
 - description length: 114
 - canonical: https://www.ashraellen.com/ru/privacy.html
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- MISSING_KEYWORDS
+
+### ru/professional/index.html
+
+- title: Ashraellen — Профессиональное досье
+- description length: 141
+- canonical: https://www.ashraellen.com/ru/professional/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -4761,6 +4851,16 @@ Total review notes: 2288
 - title: Політика конфіденційності — Ashraellen
 - description length: 109
 - canonical: https://www.ashraellen.com/uk/privacy.html
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- MISSING_KEYWORDS
+
+### uk/professional/index.html
+
+- title: Ashraellen — Професійне досьє
+- description length: 123
+- canonical: https://www.ashraellen.com/uk/professional/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
