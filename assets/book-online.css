@@ -362,6 +362,7 @@ button.btn{font-family:inherit}
 .quiet-book-link:hover{color:var(--fg);opacity:.95}
 
 .list:last-of-type .lead{margin:0;max-width:78ch}
+.list:last-of-type .book-copy{margin-top:12px}
 
 .seal{
   display:flex;
