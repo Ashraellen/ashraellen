@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-15T10:34:39.603Z
+Generated: 2026-08-15T11:17:00.599Z
 
 Pages checked: 845
-Pages with issues: 326
-Total issues: 1742
+Pages with issues: 323
+Total issues: 1736
 Pages with review notes: 645
 Total review notes: 2288
 
@@ -20,9 +20,9 @@ Total review notes: 2288
 | MISSING_OG_IMAGE | 172 |
 | MISSING_OG_TITLE | 171 |
 | MISSING_DESCRIPTION | 122 |
-| DUPLICATE_TITLE | 68 |
 | DUPLICATE_CANONICAL | 66 |
-| DUPLICATE_OG_TITLE | 66 |
+| DUPLICATE_TITLE | 65 |
+| DUPLICATE_OG_TITLE | 63 |
 | MISSING_CANONICAL | 47 |
 | OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 31 |
 | TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 31 |
@@ -429,13 +429,13 @@ Total review notes: 2288
 ### de/research/position/index.html
 
 - title: Ashraellen — Position
-- description length: 219
+- description length: 172
 - canonical: https://www.ashraellen.com/de/research/position/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- DUPLICATE_TITLE: shared by 6 pages
-- DUPLICATE_OG_TITLE: shared by 6 pages
+- DUPLICATE_TITLE: shared by 3 pages
+- DUPLICATE_OG_TITLE: shared by 3 pages
 
 ### en/books/error-404-god-not-found/why-me/index.html
 
@@ -868,13 +868,13 @@ Total review notes: 2288
 ### en/research/position/index.html
 
 - title: Ashraellen — Position
-- description length: 218
+- description length: 150
 - canonical: https://www.ashraellen.com/en/research/position/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- DUPLICATE_TITLE: shared by 6 pages
-- DUPLICATE_OG_TITLE: shared by 6 pages
+- DUPLICATE_TITLE: shared by 3 pages
+- DUPLICATE_OG_TITLE: shared by 3 pages
 
 ### es/books/error-404-god-not-found/index.html
 
@@ -1054,17 +1054,6 @@ Total review notes: 2288
 
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
-
-### es/research/position/index.html
-
-- title: Ashraellen — Position
-- description length: 218
-- canonical: https://www.ashraellen.com/es/research/position/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_TITLE: shared by 6 pages
-- DUPLICATE_OG_TITLE: shared by 6 pages
 
 ### fi/books/the-book-of-whinesis/index.html
 
@@ -1700,13 +1689,13 @@ Total review notes: 2288
 ### fr/research/position/index.html
 
 - title: Ashraellen — Position
-- description length: 214
+- description length: 183
 - canonical: https://www.ashraellen.com/fr/research/position/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
-- DUPLICATE_TITLE: shared by 6 pages
-- DUPLICATE_OG_TITLE: shared by 6 pages
+- DUPLICATE_TITLE: shared by 3 pages
+- DUPLICATE_OG_TITLE: shared by 3 pages
 
 ### index.html
 
@@ -2481,17 +2470,6 @@ Total review notes: 2288
 - canonical: https://www.ashraellen.com/pl/monolith/
 - og:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/monolith-bg.webp
-
-- DUPLICATE_TITLE: shared by 6 pages
-- DUPLICATE_OG_TITLE: shared by 6 pages
-
-### pl/research/position/index.html
-
-- title: Ashraellen — Position
-- description length: 206
-- canonical: https://www.ashraellen.com/pl/research/position/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
 - DUPLICATE_TITLE: shared by 6 pages
 - DUPLICATE_OG_TITLE: shared by 6 pages
@@ -4707,17 +4685,6 @@ Total review notes: 2288
 
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
-
-### uk/research/position/index.html
-
-- title: Ashraellen — Position
-- description length: 219
-- canonical: https://www.ashraellen.com/uk/research/position/
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- DUPLICATE_TITLE: shared by 6 pages
-- DUPLICATE_OG_TITLE: shared by 6 pages
 
 
 ## Pages with review notes
@@ -7479,7 +7446,7 @@ Total review notes: 2288
 
 ### es/research/position/index.html
 
-- title: Ashraellen — Position
+- title: Ashraellen — Posición
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -9306,7 +9273,7 @@ Total review notes: 2288
 
 ### pl/research/position/index.html
 
-- title: Ashraellen — Position
+- title: Ashraellen — Stanowisko
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -10013,7 +9980,7 @@ Total review notes: 2288
 
 ### pt/research/position/index.html
 
-- title: Ashraellen — Position — PT
+- title: Ashraellen — Posição
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -11494,7 +11461,7 @@ Total review notes: 2288
 
 ### uk/research/position/index.html
 
-- title: Ashraellen — Position
+- title: Ashraellen — Позиція
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 

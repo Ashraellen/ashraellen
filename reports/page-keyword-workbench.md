@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-15T10:34:40.304Z
+Generated: 2026-08-15T11:17:01.319Z
 Pages: 846
 
 ## Index
@@ -73,7 +73,7 @@ Pages: 846
 | be/research/index.html | be | research | Ashraellen — Даследаванне | ashraellen, research, даследаванне, спосаб, бачыць, мастацка-філасофскае, сэнсу, даўжынёю, жыццё, назіранне, тым, чалавек, губляе, сувязь, рэальнасцю, сэнсам, ўнутранай, свабодай | даследаванне, ashraellen, research, лічбавае, сэнсу, тым, чалавек, або, адкрытыя, адкрыць, бачыць, бесперапыннае, веды, відэа, грамадства, губляе, гэтую, даследавання |
 | be/research/method/index.html | be | research | Ashraellen — Метад назірання | ashraellen, research, method, метад, назірання, фіксацыя, сэнсавых, вузлоў, мастацкая, форма, даследчы, інструмент, праверка, праз, пазнаванне, сэнсавы, вузел, поле | ashraellen, метад, назіранне, назірання, форма, research, мастацкая, няма, праверка, праз, method, але, асобы, вузел, вузлоў, даследавання, даследчы, дзе |
 | be/research/notes/index.html | be | research | Ashraellen — Нататкі | ashraellen, нататкі, палі, даследаванне, сумненні, фрагменты | ashraellen, нататкі, палі, research, дактрынай, матэрыял, станавіцца, сумненні, фрагменты, хоча, які, notes, задумана, здаецца |
-| be/research/position/index.html | be | research | Ashraellen — Пазіцыя | ashraellen, research, position, пазіцыя, незалежнае, мастацкае, даследаванне, ўнутранага, досведу, поля, назірання, doctype, html, title, script, context, https, schema.org | ashraellen, пазіцыя, research, даследаванне, досведу, мастацкае, назірання, position, апісання, даследчык, досвед, досведы, мадэлі, мастацкі, незалежнае, поля, ўнутранага |
+| be/research/position/index.html | be | research | Ashraellen — Пазіцыя | ashraellen, пазіцыя, мастацкае даследаванне, Рэальнасць, прыняцце, Творца, свабода чалавека, рэлігія, адказнасць | ashraellen, пазіцыя, чалавека, research, адказнасць, без, прыняцце, разуменне, рэальнасць, чалавек, position, або, адмова, але, вайны, гістарычныя, дзеянне, іншага |
 | be/research/projects/index.html | be | research | Ashraellen — Праекты даследавання | ashraellen, research, projects, праекты, даследавання, карта, рабочых, палёў, monolith, асноўны, канал, публічнае, поле, сатырычныя, бакавыя, лабараторыі, ўспрымання, instagram | ashraellen, праекты, monolith, research, бакавыя, канал, лабараторыі, ныцця, поле, inner, instagram, melodies, occultus, projects, scriptorium, sounds, spirit, telegram |
 | be/research/sources/index.html | be | research | Ashraellen — Крыніцы і традыцыя | ashraellen, research, sources, крыніцы, традыцыя, фенаменалогія, свядомасці, цела, наратыў, кагнітыўная, навука, мастацкая, практыка, эдмунд, гусерль, досвед, гатовых, тлумачэнняў | ashraellen, крыніцы, традыцыя, цела, research, досвед, свядомасці, свядомасць, фенаменалогія, sources, аповед, бачным, варэла, гатовых, гусерль, даследавання, досведу, жывая |
 | de/books/demotopia/index.html | de | books | Demotopia — Demokratische Utopie — ein Roman von Ashraellen | Ashraellen, Demotopia, Demokratische Utopie, philosophischer Roman, Gesellschaftsroman, Warschau, Demokratie, Diktatur, Daten, Freiheit, Verantwortung | demotopia, ashraellen, ein, und, von, books, das, ist, roman, über, als, atmosphäre, auf, ausgewählter, auszug, buch, daten, demokratie |
@@ -139,10 +139,10 @@ Pages: 846
 | de/public/thoughts/index-0002.html | de | public | Ashraellen — Bogen 0002 | ashraellen, public, thoughts, index, 0002, bogen, zweiter, der, stützgedanken, leere, stuhl, verallgemeinerung, statt, beobachtung, das, leben, stehen, blieb | der, bogen, das, stützgedanken, ashraellen, beobachtung, die, nicht, tasse, verallgemeinerung, zweiter, bereue, blieb, buch, leben, leere, man, public |
 | de/public/thoughts/index.html | de | public | Ashraellen — Dritter Bogen der Stützgedanken | Ashraellen, Stützgedanken, Bogen 0003, Annahme der Wirklichkeit, Zeuge, Bild | der, bogen, das, stützgedanken, bild, die, dritter, ein, nicht, tatsache, ashraellen, eine, feiner, gedanke, krone, problem, public, verliert |
 | de/research/archive/index.html | de | research | Ashraellen — Forschungsarchiv | Ashraellen, Forschungsarchiv, Forschungsmaterialien, Versionen, Forschungsschichten, künstlerische Forschung | ashraellen, archiv, des, abgeschlossene, der, die, ist, noch, research, und, von, arbeitsprozesses, archive, außerhalb, bewegung, das, forschung, forschungsarchiv |
-| de/research/index.html | de | research | Ashraellen — Forschung | ashraellen, research, forschung, ist, eine, weise, des, sehens, und, lebenslange, künstlerisch-philosophische, untersuchung, sinns, beobachtung, dessen, wie, der, mensch | eine, forschung, wie, ashraellen, des, ist, und, der, research, als, arbeit, beobachtung, den, dessen, die, diese, digitale, ein |
+| de/research/index.html | de | research | Ashraellen — Forschung | ashraellen, research, forschung, ist, eine, weise, des, sehens, und, lebenslange, künstlerisch-philosophische, untersuchung, sinns, beobachtung, dessen, wie, der, mensch | ashraellen, eine, forschung, wie, des, ist, und, der, research, arbeit, beobachtung, den, dessen, die, diese, digitale, ein, form |
 | de/research/method/index.html | de | research | Ashraellen — Methode der Beobachtung | ashraellen, research, method, methode, der, beobachtung, die, von, aufzeichnung, sinnknoten, künstlerische, form, als, forschungsinstrument, und, überprüfung, durch, wiedererkennen | der, beobachtung, ashraellen, methode, von, als, die, form, künstlerische, nicht, research, sinnknoten, überprüfung, und, aufzeichnung, das, durch, ein |
 | de/research/notes/index.html | de | research | Ashraellen — Notizen | ashraellen, notizen, randbemerkungen, forschung, zweifel, fragmente | notizen, ashraellen, randbemerkungen, und, ashraellens, bewusst, das, doktrin, fragmente, material, research, werden, zweifel, keine, notes, will |
-| de/research/position/index.html | de | research | Ashraellen — Position | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, de, research, position | position, ashraellen, als, und, arbeite, beobachtung, beschreibungsmodelle, betrachte, der, erfahrung, erfahrungen, feld, research, forscher, ich, innere, künstlerischer, philosophie |
+| de/research/position/index.html | de | research | Ashraellen — Position | ashraellen, Position, künstlerische Forschung, Wirklichkeit, Annahme, Schöpfer, menschliche Freiheit, Religion, Verantwortung | ashraellen, position, den, der, die, und, wirklichkeit, annahme, ist, nicht, ohne, research, verantwortung, von, absage, als, anderen, billigung |
 | de/research/projects/index.html | de | research | Ashraellen — Forschungsprojekte | ashraellen, research, projects, forschungsprojekte, eine, karte, der, arbeitsfelder, von, monolith, hauptkanal, öffentliches, feld, satirische, projekte, und, seitenlabore, wahrnehmung | ashraellen, der, eine, monolith, projekte, research, und, von, als, arbeitsfelder, book, church, das, die, ein, feld, forschungsprojekte, hauptkanal |
 | de/research/sources/index.html | de | research | Ashraellen — Quellen und Tradition | ashraellen, research, sources, quellen, und, tradition, von, phänomenologie, des, bewusstseins, körper, narration, kognitionswissenschaft, künstlerische, praxis, als, methodische, linien | und, als, der, ashraellen, des, körper, quellen, tradition, erfahrung, forschung, research, bewusstsein, bewusstseins, das, die, edmund, eine, eleanor |
 | en/books/demotopia/index.html | en | books | Demotopia — Democratic Utopia — a novel by Ashraellen | Ashraellen, Demotopia, Democratic Utopia, philosophical novel, social science fiction, Warsaw, democracy, dictatorship, data, freedom, responsibility | demotopia, ashraellen, novel, about, books, power, artistic-research, atmosphere, book, can, circuits, core, data, democracy, democratic, did, distributed, excerpt |
@@ -220,10 +220,10 @@ Pages: 846
 | en/public/thoughts/index-0002.html | en | public | Ashraellen — Second Arc of Support Thoughts | ashraellen, public, thoughts, index, 0002, second, arc, support, memory, observation, awakening, dirty, cup, mercy, loss, border, spiritual, literature | thoughts, arc, ashraellen, second, support, cup, dirty, observation, awakening, loss, public, alive, being, book, border, chair, close, empty |
 | en/public/thoughts/index.html | en | public | Ashraellen — Third Arc of Support Thoughts | Ashraellen, Support Thoughts, arc 0003, acceptance of reality, witness, image | thoughts, arc, support, fact, image, its, one, problem, subtle, third, thought, ashraellen, crown, does, loses, public, unnecessary, war |
 | en/research/archive/index.html | en | research | Ashraellen — Research Archive | Ashraellen, research archive, research materials, versions, research layers, artistic research | research, archive, ashraellen, materials, active, completed, layers, longer, moving, path, still, books, earlier, traces, versions, work |
-| en/research/index.html | en | research | Ashraellen — Research | ashraellen, research, mode, seeing, lifelong, artistic-philosophical, inquiry, meaning, observation, how, human, being, loses, contact, reality, inner, freedom, what | research, ashraellen, how, inquiry, meaning, being, digital, observation, what, artistic, artistic-philosophical, contact, continuous, done, form, fragmented, freedom, human |
+| en/research/index.html | en | research | Ashraellen — Research | ashraellen, research, mode, seeing, lifelong, artistic-philosophical, inquiry, meaning, observation, how, human, being, loses, contact, reality, inner, freedom, what | research, ashraellen, how, inquiry, meaning, being, digital, human, observation, open, artistic, artistic-philosophical, contact, continuous, done, form, fragmented, freedom |
 | en/research/method/index.html | en | research | Ashraellen — Method of Observation | ashraellen, research, method, observation, recording, knots, meaning, artistic, form, instrument, verification, through, recognition, knot, field, how, appears, first-person | method, observation, ashraellen, research, form, meaning, artistic, how, verification, what, appears, experience, field, first-person, forms, has, instrument, instruments |
 | en/research/notes/index.html | en | research | Ashraellen — Notes | ashraellen, notes, margins, research, doubts, fragments | notes, ashraellen, margins, ashraellen’s, become, deliberately, doctrine, doubts, fragments, material, refuses, research, feels |
-| en/research/position/index.html | en | research | Ashraellen — Position | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev | position, ashraellen, artistic, description, experience, experiences, field, human, independent, inner, models, observation, research, philosophy, religion, researcher, transcendental, treating |
+| en/research/position/index.html | en | research | Ashraellen — Position | ashraellen, position, artistic research, Reality, acceptance, Creator, human freedom, religion, responsibility | position, reality, ashraellen, acceptance, ashraellen’s, human, radio, research, responsibility, understanding, action, against, another, approval, being, creator, does, final |
 | en/research/projects/index.html | en | research | Ashraellen — Research Projects | ashraellen, research, projects, map, working, fields, monolith, main, channel, public, field, satirical, side, laboratories, perception, instagram, telegram, church | ashraellen, projects, research, channel, field, monolith, perception, book, church, fields, here, how, inner, instagram, laboratories, living, main, map |
 | en/research/sources/index.html | en | research | Ashraellen — Sources and Tradition | ashraellen, research, sources, tradition, phenomenology, consciousness, body, narrative, cognitive, science, artistic, practice, methodological, lines, edmund, husserl, experience, before | research, ashraellen, sources, body, consciousness, narrative, tradition, artistic, cognitive, experience, form, phenomenology, before, connection, directions, does, edmund, eleanor |
 | es/books/demotopia/index.html | es | books | Demotopia — Utopía Democrática — novela de Ashraellen | Ashraellen, Demotopia, Utopía Democrática, novela filosófica, ciencia ficción social, Varsovia, democracia, dictadura, datos, libertad, responsabilidad | demotopia, ashraellen, novela, books, del, los, poder, sobre, una, artístico, atmósfera, circuitos, como, con, datos, democracia, democrática, destripes |
@@ -292,7 +292,7 @@ Pages: 846
 | es/research/index.html | es | research | Ashraellen — Investigación | ashraellen, research, investigación, una, forma, ver, artístico-filosófica, del, sentido, largo, vida, observación, cómo, ser, humano, pierde, contacto, con | investigación, ashraellen, cómo, una, forma, sentido, con, del, observación, research, abierto, artística, artístico-filosófica, como, conocimiento, contacto, continua, digital |
 | es/research/method/index.html | es | research | Ashraellen — Método de observación | ashraellen, research, method, método, observación, registro, nudos, sentido, forma, artística, como, instrumento, investigación, verificación, mediante, reconocimiento, nudo, campo | observación, ashraellen, método, artística, como, forma, hay, investigación, por, que, research, sentido, verificación, aparece, aquí, campo, cómo, con |
 | es/research/notes/index.html | es | research | Ashraellen — Notas | ashraellen, notas, márgenes, investigación, dudas, fragmentos | ashraellen, notas, márgenes, convertirse, doctrina, dudas, fragmentos, material, niega, que, research, así, concebido, deliberadamente, notes |
-| es/research/position/index.html | es | research | Ashraellen — Position | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, es, research, position | position, ashraellen, como, artístico, campo, descripción, experiencia, experiencias, filosofía, independiente, interna, investigador, research, modelos, observación, religión, son, trabajo |
+| es/research/position/index.html | es | research | Ashraellen — Posición | ashraellen, posición, investigación artística, Realidad, aceptación, Creador, libertad humana, religión, responsabilidad | ashraellen, realidad, posición, comprensión, persona, punto, research, responsabilidad, sin, una, aceptación, aceptar, actuar, aprobar, camino, coacción, como, con |
 | es/research/projects/index.html | es | research | Ashraellen — Proyectos de investigación | ashraellen, research, projects, proyectos, investigación, mapa, campos, trabajo, monolith, canal, principal, campo, público, satíricos, laboratorios, laterales, percepción, instagram | ashraellen, proyectos, monolith, percepción, research, abrir, aquí, book, campo, campos, canal, church, como, cómo, con, del, inner, instagram |
 | es/research/sources/index.html | es | research | Ashraellen — Fuentes y tradición | ashraellen, research, sources, fuentes, tradición, fenomenología, conciencia, cuerpo, relato, ciencia, cognitiva, práctica, artística, edmund, husserl, experiencia, antes, las | como, ashraellen, conciencia, cuerpo, fuentes, relato, tradición, artística, experiencia, fenomenología, forma, research, antes, ciencia, cognitiva, comprensión, con, direcciones |
 | fi/books/demotopia/index.html | fi | books | Demotopia — Demokraattinen utopia — Ashraellen | Ashraellen, Demotopia, demokraattinen utopia, filosofinen romaani, Varsova | demotopia, ashraellen, books, ashraellenin, datasta, demokraattinen, demokratiasta, filosofinen, hajautetusta, hän, ihmisen, ihmisestä, järjestelmä, julkaisutilanne, kehys, kirjassa, kuin, kun |
@@ -361,7 +361,7 @@ Pages: 846
 | fi/research/index.html | fi | research | Ashraellen — Tutkimus | Ashraellen, taiteellinen tutkimus, merkitys, havainto, sisäinen vapaus | tutkimus, ashraellen, miten, digitaalinen, research, siitä, voi, ajatus, avaa, avoin, elämänmittainen, havainnoinnin, havainto, ihminen, jatkuva, lähestyä, menetelmä, menettää |
 | fi/research/method/index.html | fi | research | Ashraellen — Havainnoinnin menetelmä | Ashraellen, havainnoinnin menetelmä, merkityssolmu, taiteellinen tutkimus, fenomenologia | ashraellen, havainnoinnin, menetelmä, muoto, havainnon, koettelu, ole, research, taiteellinen, alkaa, ashraellenin, eikä, ensimmäisen, havainnointi, havainto, kautta, kirjaaminen, mekanismi |
 | fi/research/notes/index.html | fi | research | Ashraellen — Muistiinpanot | ashraellen, muistiinpanot, marginaalit, tutkimus, epäilyt, fragmentit | ashraellen, muistiinpanot, aineistoa, ashraellenin, epäilyjä, fragmentteja, joka, kieltäytyy, marginaaleja, muuttumasta, opiksi, research, jos, marginaalit, muistiinpanoja, notes, tietoisesti |
-| fi/research/position/index.html | fi | research | Ashraellen — Lähtökohta | Ashraellen, lähtökohta, taiteellinen tutkimus, sisäinen kokemus, havainnointi | lähtökohta, ashraellen, ashraellenin, havainnoinnin, ihmisen, itsenäinen, kenttänä, research, tutkimus, eivät, filosofia, itse, itsenäisenä, kokemus, position, sisäinen, taiteellinen, tutkimuksellinen |
+| fi/research/position/index.html | fi | research | Ashraellen — Lähtökohta | ashraellen, lähtökohta, taiteellinen tutkimus, Todellisuus, hyväksyminen, Luoja, ihmisen vapaus, uskonto, vastuu | ashraellen, ihmisen, lähtökohta, ashraellenin, ole, research, toisen, että, hän, hänen, historialliset, hyväksyminen, hyväksymisestä, hyväksyntää, ihminen, ilman, järjestelmä, järjestelmät |
 | fi/research/projects/index.html | fi | research | Ashraellen — Tutkimusprojektit | Ashraellen, tutkimusprojektit, MONOLIITTI, taiteellinen tutkimus, julkinen filosofia | ashraellen, monoliitti, ashraellenin, havainnon, kenttä, projektit, research, avaa, book, church, eikä, ihminen, inner, instagram, julkinen, kartta, kautta, laboratorio |
 | fi/research/sources/index.html | fi | research | Ashraellen — Lähteet ja tutkimusperinne | Ashraellen, tutkimusperinne, fenomenologia, kognitiotiede, taiteellinen tutkimus | lähteet, tutkimusperinne, ashraellen, fenomenologia, keho, kokemus, research, taiteellinen, tietoisuuden, ashraelleniin, ashraellenin, edmund, elävänä, eleanor, ennen, ensimmäisenä, essee, evan |
 | flow/index.html | root | flow | FLOW — Ashraellen | ashraellen, flow, playlist, youtube, music, doctype, html, title, window.location.replace, https, music.youtube.com, list, plliwih1l4vxtrzs4, wvti69pbdhddk4ny, iuwpb0ptwi1d1elk, script, root, 050505 | flow, ashraellen, playlist, music, youtube, open, opening |
@@ -434,7 +434,7 @@ Pages: 846
 | fr/research/index.html | fr | research | Ashraellen — Recherche | ashraellen, research, recherche, est, une, manière, voir, artistique, philosophique, sens, l’échelle, d’une, vie, observation, façon, dont, l’être, humain | recherche, ashraellen, sens, une, artistique, comment, dont, est, numérique, research, avec, cela, comme, comprendre, contact, continue, d’une, dans |
 | fr/research/method/index.html | fr | research | Ashraellen — Méthode d’observation | ashraellen, research, method, méthode, d’observation, d’ashraellen, enregistrement, des, nœuds, sens, forme, artistique, comme, instrument, recherche, vérification, par, reconnaissance | méthode, d’observation, artistique, ashraellen, comme, forme, les, par, pas, recherche, research, sens, vérification, apparaît, champ, comment, d’ashraellen, dans |
 | fr/research/notes/index.html | fr | research | Ashraellen — Notes | ashraellen, notes, marges, recherche, doutes, fragments | notes, ashraellen, marges, devenir, doctrine, doutes, fragments, matière, qui, refuse, research, c’est, cela, d’ashraellen, délibérément |
-| fr/research/position/index.html | fr | research | Ashraellen — Position | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, fr, research, position | position, ashraellen, comme, artistique, champ, chercheur, considérant, d’observation, des, expériences, indépendant, intérieure, research, l’expérience, philosophies, religions, sont, transcendantes |
+| fr/research/position/index.html | fr | research | Ashraellen — Position | ashraellen, position, recherche artistique, Réalité, acceptation, Créateur, liberté humaine, religion, responsabilité | position, réalité, ashraellen, pas, compréhension, d’ashraellen, point, research, responsabilité, sans, une, accepter, agir, approuver, autre, chemin, comme, contrainte |
 | fr/research/projects/index.html | fr | research | Ashraellen — Projets de recherche | ashraellen, research, projects, projets, recherche, carte, des, champs, travail, d’ashraellen, monolith, chaîne, principale, champ, public, satiriques, laboratoires, latéraux | ashraellen, projets, des, monolith, perception, research, book, carte, chaîne, champ, champs, church, comme, d’ashraellen, est, inner, instagram, laboratoires |
 | fr/research/sources/index.html | fr | research | Ashraellen — Sources et tradition | ashraellen, research, sources, tradition, d’ashraellen, phénoménologie, conscience, corps, récit, sciences, cognitives, pratique, artistique, edmund, husserl, l’expérience, avant, les | comme, sources, ashraellen, conscience, corps, récit, tradition, forme, l’expérience, phénoménologie, research, artistique, avant, avec, cognitives, compréhension, d’ashraellen, dans |
 | google2b44b1dd60a5fdd9.html | root | google2b44b1dd60a5fdd9.html |  | _missing_ | google2b44b1dd60a5fdd9.html, ashraellen, google-site-verification, google2b44b1dd60a5fdd9 |
@@ -539,7 +539,7 @@ Pages: 846
 | pl/research/index.html | pl | research | Ashraellen — Badanie | ashraellen, research, badanie, sposób, widzenia, trwające, całe, życie, artystyczno-filozoficzne, sensu, obserwacja, tego, jak, człowiek, traci, kontakt, rzeczywistością, sensem | badanie, ashraellen, badania, cyfrowe, człowiek, research, się, artystyczne, artystyczno-filozoficzne, badane, całe, ciągłość, forma, fragmentaryczna, jako, kontakt, lecz, metoda |
 | pl/research/method/index.html | pl | research | Ashraellen — Metoda obserwacji | ashraellen, research, method, metoda, obserwacji, zapisywanie, węzłów, znaczeń, forma, artystyczna, jako, narzędzie, badawcze, weryfikacja, przez, rozpoznanie, węzeł, znaczenia | ashraellen, obserwacji, forma, jako, metoda, obserwacja, artystyczna, nie, research, się, weryfikacja, badania, badawcze, czego, człowiek, dlaczego, formy, lecz |
 | pl/research/notes/index.html | pl | research | Ashraellen — Notatki | ashraellen, notatki, marginesy, badania, wątpliwości, fragmenty | ashraellen, notatki, marginesy, chce, doktryną, fragmenty, który, materiał, nie, research, się, stać, wątpliwości, notes |
-| pl/research/position/index.html | pl | research | Ashraellen — Position | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, pl, research, position | position, ashraellen, jako, artystyczny, badacz, doświadczenia, doświadczenie, filozofia, modele, nie, niezależny, obserwacji, research, opisu, pole, pracuję, religia, sama |
+| pl/research/position/index.html | pl | research | Ashraellen — Stanowisko | ashraellen, stanowisko, badania artystyczne, Rzeczywistość, akceptacja, Stwórca, wolność człowieka, religia, odpowiedzialność | ashraellen, bez, człowieka, nie, stanowisko, człowiek, research, rozumienia, akceptacja, akceptacji, aprobaty, dotycząca, droga, drugiego, działanie, formuła, historyczne, jako |
 | pl/research/projects/index.html | pl | research | Ashraellen — Projekty badawcze | ashraellen, research, projects, projekty, badawcze, mapa, pól, pracy, monolit, główny, kanał, pole, publiczne, satyryczne, boczne, laboratoria, percepcji, instagram | ashraellen, projekty, boczne, monolit, pole, research, bada, badawcze, book, church, człowiek, główny, inner, instagram, jako, kanał, laboratoria, lecz |
 | pl/research/sources/index.html | pl | research | Ashraellen — Źródła i tradycja | ashraellen, research, sources, źródła, tradycja, fenomenologia, świadomości, ciało, narracja, nauki, kognitywne, praktyka, artystyczna, jako, linie, metodologiczne, badania, edmund | jako, ashraellen, ciało, tradycja, źródła, badania, doświadczenie, fenomenologia, research, świadomości, artystyczna, edmund, eleanor, esej, evan, forma, formy, francisco |
 | privacy.html | root | privacy.html | Privacy Policy — Ashraellen | Ashraellen, privacy policy, website privacy, analytics, language redirection, contact data | privacy, ashraellen, analytics, ashraellen.com, basic, contact, data, handles, how, including, information, policy, language, privacy.html, redirection, user |
@@ -609,7 +609,7 @@ Pages: 846
 | pt/research/index.html | pt | research | Ashraellen — Pesquisa | ashraellen, research, pesquisa, modo, ver, uma, artístico-filosófica, sentido, longo, vida, observação, como, ser, humano, perde, contato, com, realidade | pesquisa, ashraellen, como, sentido, uma, digital, observação, que, research, aberto, artística, artístico-filosófica, com, conhecimento, contato, contínua, dentro, entender |
 | pt/research/method/index.html | pt | research | Ashraellen — Método de Observação | ashraellen, research, method, método, observação, registro, nós, sentido, forma, artística, como, instrumento, pesquisa, verificação, pelo, reconhecimento, campo, aparece | observação, ashraellen, como, método, que, artística, forma, não, pesquisa, por, research, sentido, verificação, aparece, aqui, campo, dentro, formas |
 | pt/research/notes/index.html | pt | research | Ashraellen — Notas | ashraellen, notas, margens, pesquisa, dúvidas, fragmentos | ashraellen, notas, margens, doutrina, dúvidas, fragmentos, material, que, recusa, research, tornar, assim, concebido, deliberadamente, notes |
-| pt/research/position/index.html | pt | research | Ashraellen — Position — PT | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, pt, research, position | position, ashraellen, como, artístico, campo, descrição, experiência, experiências, filosofia, independente, interna, modelos, research, não, observação, pesquisador, religião, são |
+| pt/research/position/index.html | pt | research | Ashraellen — Posição | ashraellen, posição, pesquisa artística, Realidade, aceitação, Criador, liberdade humana, religião, responsabilidade | ashraellen, realidade, não, posição, aceitação, pessoa, ponto, research, responsabilidade, sem, uma, agir, aprovação, caminho, coerção, com, como, compreensão |
 | pt/research/projects/index.html | pt | research | Ashraellen — Projetos de pesquisa | ashraellen, research, projects, projetos, pesquisa, mapa, dos, campos, trabalho, monolith, canal, principal, campo, público, satíricos, laboratórios, laterais, percepção | ashraellen, projetos, campo, monolith, percepção, pesquisa, research, abrir, aqui, book, campos, canal, church, como, dos, inner, instagram, laboratórios |
 | pt/research/sources/index.html | pt | research | Ashraellen — Fontes e tradição | ashraellen, research, sources, fontes, tradição, fenomenologia, consciência, corpo, narrativa, ciência, cognitiva, prática, artística, edmund, husserl, experiência, antes, das | como, ashraellen, consciência, corpo, fontes, narrativa, tradição, experiência, fenomenologia, forma, research, antes, artística, ciência, cognitiva, com, compreensão, das |
 | ru/books/demotopia/index.html | ru | books | Demotopia — Демократичная Утопия — роман Ashraellen | Ashraellen, Demotopia, Демократичная Утопия, философский роман, социальная фантастика, Варшава, демократия, диктатура, данные, свобода, ответственность | demotopia, ashraellen, роман, books, без, атмосфера, ближайшего, будущего, варшаве, власти, всё, где, данных, два, демократии, демократичная, его, избранный |
@@ -850,7 +850,7 @@ Pages: 846
 | uk/research/index.html | uk | research | Ashraellen — Дослідження | ashraellen, research, дослідження, спосіб, бачити, художньо-філософське, сенсу, завдовжки, життя, спостереження, тим, людина, втрачає, контакт, реальністю, сенсом, внутрішньою, свободою | дослідження, ashraellen, research, людина, метод, сенсу, спостереження, цифрове, або, архів, бачити, безперервне, відео, відкрите, відкрити, внутрішньою, втрачає, досліджується |
 | uk/research/method/index.html | uk | research | Ashraellen — Метод спостереження | ashraellen, research, method, метод, спостереження, фіксація, вузлів, сенсу, художня, форма, дослідницький, інструмент, перевірка, через, упізнавання, вузол, поле, дослідження | спостереження, ashraellen, метод, форма, research, немає, перевірка, сенсу, художня, через, method, він, вона, всередині, вузлів, вузол, дослідження, дослідницький |
 | uk/research/notes/index.html | uk | research | Ashraellen — Нотатки | ashraellen, нотатки, поля, дослідження, сумніви, фрагменти | ashraellen, нотатки, поля, research, доктриною, матеріал, ставати, сумніви, фрагменти, хоче, notes, задумано, здається, незавершеним, який |
-| uk/research/position/index.html | uk | research | Ashraellen — Position | ashraellen, research, position, doctype, html, title, script, context, https, schema.org, graph, type, person, www.ashraellen.com, name, alternatename, nikolai, kostyshev, uk, research, position | position, ashraellen, research, внутрішній, досвід, дослідник, моделі, незалежний, опису, поле, працюю, реальність, релігії, розглядаючи, сама, спостереження, стани, трансцендентні |
+| uk/research/position/index.html | uk | research | Ashraellen — Позиція | ashraellen, позиція, художнє дослідження, Реальність, прийняття, Творець, свобода людини, релігія, відповідальність | ashraellen, позиція, research, без, відповідальність, людина, людини, прийняття, реальність, розуміння, position, або, але, від, відмова, війни, він, вона |
 | uk/research/projects/index.html | uk | research | Ashraellen — Дослідницькі проєкти | ashraellen, research, projects, дослідницькі, проєкти, карта, робочих, полів, monolith, основний, канал, публічне, поле, сатиричні, бічні, лабораторії, сприйняття, instagram | ashraellen, проєкти, monolith, research, бічні, канал, лабораторії, поле, сприйняття, book, inner, instagram, melodies, occultus, projects, scriptorium, sounds, spirit |
 | uk/research/sources/index.html | uk | research | Ashraellen — Джерела і традиція | ashraellen, research, sources, джерела, традиція, феноменологія, свідомості, тіло, наратив, когнітивна, наука, художня, практика, едмунд, гуссерль, досвід, готових, пояснень | ashraellen, джерела, тіло, традиція, research, досвід, дослідження, свідомість, свідомості, феноменологія, sources, варела, взаємодія, видимим, готових, гуссерль, досвіду, еван |
 
@@ -1938,7 +1938,7 @@ Excerpt:
 - H2: Што даследуецца | Як гэта робіцца | Фрагментарная форма, бесперапыннае даследаванне | Метад | Як разумець гэтую працу | Мастацкае даследаванне | Адкрытыя веды | Лічбавае грамадства
 - H3: _missing_
 - suggested keyword seed: даследаванне, ashraellen, research, лічбавае, сэнсу, тым, чалавек, або, адкрытыя, адкрыць, бачыць, бесперапыннае, веды, відэа, грамадства, губляе, гэтую, даследавання
-- candidates: ashraellen, відэа, даследаванне, даследавання, або, дзе, назірання, тым, лічбавае, сэнсу, чалавек, адкрыць, архіў, гук, метад, форма, асобная, асяроддзе, бачыць, думка, можа, назіранне, спосаб, становяцца
+- candidates: ashraellen, відэа, даследаванне, даследавання, або, дзе, назірання, тым, адкрыць, лічбавае, сэнсу, чалавек, архіў, гук, метад, спосаб, сэнс, форма, асобная, асяроддзе, бачыць, думка, можа, назіранне
 
 Excerpt:
 
@@ -1983,17 +1983,17 @@ Excerpt:
 - lang: be
 - section: research
 - title: Ashraellen — Пазіцыя
-- description: Пазіцыя Ashraellen: незалежнае мастацкае даследаванне ўнутранага досведу як поля назірання.
+- description: Пазіцыя Ashraellen: публічная фармулёўка пра Рэальнасць, прыняцце, свабоду чалавека, рэлігію, Творцу, разуменне без прымусу і адказнасць.
 - canonical: https://www.ashraellen.com/be/research/position/
-- H1: Пазіцыя
-- H2: _missing_
+- H1: Пазіцыя Ashraellen
+- H2: Рэальнасць: прыняцце не роўнае ўхваленню | Дзеянне без вайны з Рэальнасцю | Шлях іншага чалавека | Рэлігіі і гістарычныя сістэмы | Адмова ад месіянізму | Чалавек як радыёкропка | Адказнасць | Не канчатковая сістэма
 - H3: _missing_
-- suggested keyword seed: ashraellen, пазіцыя, research, даследаванне, досведу, мастацкае, назірання, position, апісання, даследчык, досвед, досведы, мадэлі, мастацкі, незалежнае, поля, ўнутранага
-- candidates: ashraellen, пазіцыя, даследаванне, назірання, апісання, даследчык, досвед, досведу, досведы, мадэлі, мастацкае, мастацкі, незалежнае, незалежны, поле, поля, працую, публічнае, разглядаючы, рэальнасць, рэлігіі, сама, трансцэндэнтныя, ўнутранага
+- suggested keyword seed: ashraellen, пазіцыя, чалавека, research, адказнасць, без, прыняцце, разуменне, рэальнасць, чалавек, position, або, адмова, але, вайны, гістарычныя, дзеянне, іншага
+- candidates: ashraellen, яго, або, праз, тое, але, можа, таго, разуменне, сябе, чалавек, чалавека, паміж, адбылося, адказвае, без, з’яўляецца, пазіцыя, праходзіць, прыняцце, радыёкропка, разумення, таму, хто
 
 Excerpt:
 
-> Ashraellen Пазіцыя Я працую як незалежны мастацкі даследчык, разглядаючы ўнутраны досвед як поле назірання. Рэлігіі, філасофіі і трансцэндэнтныя досведы — гэта мадэлі апісання, а не сама рэальнасць. ← Даследаванне Публічнае
+> Ashraellen Пазіцыя Ashraellen Ashraellen працуе як незалежны мастацкі даследчык. Полем яго назірання з’яўляецца ўнутраны чалавечы досвед: тое, як чалавек успрымае тое, што адбываецца, стварае тлумачэнні, прымае інтэрпрэтацыю за саму Рэальнасць і губляе сувязь з Рэальнасцю, сэнсам, унутранай свабодай і ўласнай прысутнасцю. Літаратура, філасофія, рэлігія, мова, вобраз, гук і публічная рэакцыя выкарыстоўваюцца ў гэтай працы не як доказы гатовай сістэмы, а як спосабы даследавання. Рэлігійныя і філасофскія вучэнні, а таксама апісанні трансцэндэнтнага досведу разглядаюцца як мадэлі сустрэчы чалавека з Рэальнасцю — важныя, часам глыбокія, але не тоесныя самой Рэальнасці ва ўсёй яе паўнаце. Гэтая пазіцыя не прапануецца чытачу як абавязковая дактрына. Гэта светапоглядная і даследчая кропка, з якой Ashraellen назірае, піша і дзейнічае. Рэальнасць: прыняцце не роўнае ўхваленню У сваёй асабістай мет
 
 ### be/research/projects/index.html
 
@@ -3110,8 +3110,8 @@ Excerpt:
 - H1: Forschung
 - H2: Was untersucht wird | Wie es geschieht | Fragmentarische Form, fortlaufende Forschung | Methode | Wie diese Arbeit zu verstehen ist | Künstlerische Forschung | Offenes Wissen | Digitale Gesellschaft
 - H3: _missing_
-- suggested keyword seed: eine, forschung, wie, ashraellen, des, ist, und, der, research, als, arbeit, beobachtung, den, dessen, die, diese, digitale, ein
-- candidates: und, der, die, eine, des, wie, ein, nicht, ist, sondern, von, als, ashraellen, das, beobachtung, dem, den, einem, forschung, mit, werden, digitale, einer, für
+- suggested keyword seed: ashraellen, eine, forschung, wie, des, ist, und, der, research, arbeit, beobachtung, den, dessen, die, diese, digitale, ein, form
+- candidates: und, der, die, eine, des, wie, ein, ist, nicht, sondern, von, ashraellen, als, das, dem, beobachtung, den, einem, forschung, mit, werden, digitale, einer, für
 
 Excerpt:
 
@@ -3156,17 +3156,17 @@ Excerpt:
 - lang: de
 - section: research
 - title: Ashraellen — Position
-- description: Position Ashraellen Position Ich arbeite als unabhängiger künstlerischer Forscher und betrachte innere Erfahrung als Feld der Beobachtung. Religion, Philosophie und transzendente Erfahrungen sind Beschreibungsmodelle —…
+- description: Die Position von Ashraellen: eine öffentliche Formulierung über Wirklichkeit, Annahme, menschliche Freiheit, Religion, den Schöpfer, Verstehen ohne Zwang und Verantwortung.
 - canonical: https://www.ashraellen.com/de/research/position/
-- H1: Position
-- H2: _missing_
+- H1: Position von Ashraellen
+- H2: Wirklichkeit: Annahme ist nicht Billigung | Handeln ohne Krieg gegen die Wirklichkeit | Der Weg eines anderen Menschen | Religionen und historische Systeme | Absage an den Messianismus | Der Mensch als Radiopunkt | Verantwortung | Kein endgültiges System
 - H3: _missing_
-- suggested keyword seed: position, ashraellen, als, und, arbeite, beobachtung, beschreibungsmodelle, betrachte, der, erfahrung, erfahrungen, feld, research, forscher, ich, innere, künstlerischer, philosophie
-- candidates: als, position, und, ashraellen, arbeite, beobachtung, beschreibungsmodelle, betrachte, der, erfahrung, erfahrungen, feld, forscher, ich, innere, künstlerischer, philosophie, religion, sind, transzendente, unabhängiger, die, nicht, public
+- suggested keyword seed: ashraellen, position, den, der, die, und, wirklichkeit, annahme, ist, nicht, ohne, research, verantwortung, von, absage, als, anderen, billigung
+- candidates: und, nicht, die, der, das, des, ist, ein, ashraellen, für, kann, den, eine, oder, von, sich, durch, als, wirklichkeit, dem, eigenen, anderen, sie, verständnis
 
 Excerpt:
 
-> Ashraellen Position Ich arbeite als unabhängiger künstlerischer Forscher und betrachte innere Erfahrung als Feld der Beobachtung. Religion, Philosophie und transzendente Erfahrungen sind Beschreibungsmodelle — nicht die Realität selbst. ← Research Public
+> Ashraellen Position von Ashraellen Ashraellen arbeitet als unabhängiger künstlerischer Forscher. Sein Beobachtungsfeld ist die innere menschliche Erfahrung: wie ein Mensch das Geschehen wahrnimmt, Erklärungen bildet, eine Deutung mit der Wirklichkeit selbst verwechselt und den Kontakt zur Wirklichkeit, zum Sinn, zur inneren Freiheit und zur eigenen Gegenwart verliert. Literatur, Philosophie, Religion, Sprache, Bild, Klang und öffentliche Reaktion dienen in dieser Arbeit nicht als Beweise für ein fertiges System, sondern als Formen der Forschung. Religiöse und philosophische Lehren sowie Beschreibungen transzendenter Erfahrung werden als Modelle der Begegnung des Menschen mit der Wirklichkeit betrachtet — wichtig, mitunter tief, aber nicht identisch mit der Wirklichkeit in ihrer ganzen Fülle. Diese Position wird dem Leser nicht als verbindliche Lehre angeboten. Sie ist der weltanschaulich
 
 ### de/research/projects/index.html
 
@@ -4487,8 +4487,8 @@ Excerpt:
 - H1: Research
 - H2: What is being researched | How it is done | Fragmented form, continuous inquiry | Method | How to understand this work | Artistic research | Open knowledge | Digital society
 - H3: _missing_
-- suggested keyword seed: research, ashraellen, how, inquiry, meaning, being, digital, observation, what, artistic, artistic-philosophical, contact, continuous, done, form, fragmented, freedom, human
-- candidates: how, meaning, ashraellen, observation, research, digital, inquiry, one, thought, where, what, within, form, human, inner, open, perception, separate, sound, system, work, archive, being, method
+- suggested keyword seed: research, ashraellen, how, inquiry, meaning, being, digital, human, observation, open, artistic, artistic-philosophical, contact, continuous, done, form, fragmented, freedom
+- candidates: how, meaning, research, ashraellen, observation, digital, inquiry, one, thought, where, human, open, what, within, form, inner, perception, separate, sound, system, work, archive, being, method
 
 Excerpt:
 
@@ -4533,17 +4533,17 @@ Excerpt:
 - lang: en
 - section: research
 - title: Ashraellen — Position
-- description: Position Ashraellen Position I work as an independent artistic researcher, treating inner human experience as a field of observation. Religion, philosophy and transcendental experiences are models of description — not…
+- description: Ashraellen’s Position: a public statement on Reality, acceptance, human freedom, religion, the Creator, non-coercive understanding and responsibility.
 - canonical: https://www.ashraellen.com/en/research/position/
-- H1: Position
-- H2: _missing_
+- H1: Ashraellen’s Position
+- H2: Reality: acceptance is not approval | Action without war against Reality | Another person’s path | Religions and historical systems | A refusal of messianism | The human being as a radio point | Responsibility | Not a final system
 - H3: _missing_
-- suggested keyword seed: position, ashraellen, artistic, description, experience, experiences, field, human, independent, inner, models, observation, research, philosophy, religion, researcher, transcendental, treating
-- candidates: position, ashraellen, artistic, description, experience, experiences, field, human, independent, inner, models, observation, philosophy, religion, researcher, transcendental, treating, work, itself, public, reality, research
+- suggested keyword seed: position, reality, ashraellen, acceptance, ashraellen’s, human, radio, research, responsibility, understanding, action, against, another, approval, being, creator, does, final
+- candidates: does, what, ashraellen, own, his, person, radio, understanding, reality, through, their, inner, point, another, can, position, acceptance, they, its, person’s, between, experience, has, may
 
 Excerpt:
 
-> Ashraellen Position I work as an independent artistic researcher, treating inner human experience as a field of observation. Religion, philosophy and transcendental experiences are models of description — not reality itself. ← Research Public
+> Ashraellen Ashraellen’s Position Ashraellen works as an independent artistic researcher. His field of observation is inner human experience: how a person perceives what is happening, creates explanations, mistakes an interpretation for Reality itself, and loses contact with Reality, meaning, inner freedom and their own presence. Literature, philosophy, religion, language, image, sound and public response are used in this work not as proofs of a finished system, but as modes of inquiry. Religious and philosophical teachings, together with accounts of transcendent experience, are treated as models of the human encounter with Reality — important and sometimes profound, yet not identical with Reality in all its fullness. This position is not offered to the reader as a compulsory doctrine. It is the worldview and research position from which Ashraellen observes, writes and acts. Reality: acce
 
 ### en/research/projects/index.html
 
@@ -5661,7 +5661,7 @@ Excerpt:
 - H2: Qué se investiga | Cómo se hace | Forma fragmentaria, investigación continua | Método | Cómo entender este trabajo | Investigación artística | Conocimiento abierto | Sociedad digital
 - H3: _missing_
 - suggested keyword seed: investigación, ashraellen, cómo, una, forma, sentido, con, del, observación, research, abierto, artística, artístico-filosófica, como, conocimiento, contacto, continua, digital
-- candidates: una, investigación, del, cómo, sino, como, que, sentido, ashraellen, observación, con, forma, las, digital, dentro, donde, son, más, para, pensamiento, percepción, persona, puede, sistema
+- candidates: una, investigación, del, cómo, que, sino, sentido, ashraellen, como, forma, observación, con, las, digital, dentro, donde, son, abrir, más, para, pensamiento, percepción, persona, puede
 
 Excerpt:
 
@@ -5705,18 +5705,18 @@ Excerpt:
 
 - lang: es
 - section: research
-- title: Ashraellen — Position
-- description: Position Ashraellen Position Trabajo como investigador artístico independiente, tratando la experiencia interna como campo de observación. Religión, filosofía y experiencias trascendentales son modelos de descripción,…
+- title: Ashraellen — Posición
+- description: La posición de Ashraellen: una formulación pública sobre la Realidad, la aceptación, la libertad humana, la religión, el Creador, la comprensión sin coacción y la responsabilidad.
 - canonical: https://www.ashraellen.com/es/research/position/
-- H1: Position
-- H2: _missing_
+- H1: Posición de Ashraellen
+- H2: Realidad: aceptar no es aprobar | Actuar sin hacer la guerra a la Realidad | El camino de otra persona | Religiones y sistemas históricos | Renuncia al mesianismo | El ser humano como punto de radio | Responsabilidad | No es un sistema definitivo
 - H3: _missing_
-- suggested keyword seed: position, ashraellen, como, artístico, campo, descripción, experiencia, experiencias, filosofía, independiente, interna, investigador, research, modelos, observación, religión, son, trabajo
-- candidates: como, position, ashraellen, artístico, campo, descripción, experiencia, experiencias, filosofía, independiente, interna, investigador, modelos, observación, religión, son, trabajo, trascendentales, tratando, misma, public, realidad, research
+- suggested keyword seed: ashraellen, realidad, posición, comprensión, persona, punto, research, responsabilidad, sin, una, aceptación, aceptar, actuar, aprobar, camino, coacción, como, con
+- candidates: que, una, por, ashraellen, del, persona, puede, con, comprensión, punto, realidad, propia, radio, interior, las, pero, sin, como, creador, entre, para, posición, otra, quien
 
 Excerpt:
 
-> Ashraellen Position Trabajo como investigador artístico independiente, tratando la experiencia interna como campo de observación. Religión, filosofía y experiencias trascendentales son modelos de descripción, no la realidad misma. ← Research Public
+> Ashraellen Posición de Ashraellen Ashraellen trabaja como investigador artístico independiente. Su campo de observación es la experiencia humana interior: cómo una persona percibe lo que sucede, construye explicaciones, toma una interpretación por la Realidad misma y pierde el contacto con la Realidad, el sentido, la libertad interior y su propia presencia. La literatura, la filosofía, la religión, el lenguaje, la imagen, el sonido y la reacción pública se utilizan en este trabajo no como pruebas de un sistema terminado, sino como modos de investigación. Las enseñanzas religiosas y filosóficas, así como los relatos de experiencias trascendentes, se consideran modelos del encuentro humano con la Realidad: importantes, a veces profundos, pero no idénticos a la Realidad en toda su plenitud. Esta posición no se ofrece al lector como doctrina obligatoria. Es el punto vital y de investigación 
 
 ### es/research/projects/index.html
 
@@ -6834,7 +6834,7 @@ Excerpt:
 - H2: Mitä tutkitaan | Miten tutkimus tehdään | Sirpaleinen muoto, jatkuva tutkimus | Menetelmä | Miten tätä työtä voi lähestyä | Taiteellinen tutkimus | Avoin tieto | Digitaalinen yhteiskunta
 - H3: _missing_
 - suggested keyword seed: tutkimus, ashraellen, miten, digitaalinen, research, siitä, voi, ajatus, avaa, avoin, elämänmittainen, havainnoinnin, havainto, ihminen, jatkuva, lähestyä, menetelmä, menettää
-- candidates: vaan, ole, miten, ashraellen, digitaalinen, tai, tutkimus, avaa, siitä, voi, ajatus, havainnoinnin, havainnon, ihminen, menetelmä, merkityksen, muoto, tutkimuksen, arkisto, eivät, missä, nähdä, säilyttää, tallentaa
+- candidates: vaan, ole, miten, ashraellen, avaa, digitaalinen, tai, tutkimus, siitä, voi, ajatus, havainnoinnin, havainnon, ihminen, menetelmä, merkityksen, muoto, tutkimuksen, arkisto, eivät, ihmisen, missä, nähdä, säilyttää
 
 Excerpt:
 
@@ -6879,17 +6879,17 @@ Excerpt:
 - lang: fi
 - section: research
 - title: Ashraellen — Lähtökohta
-- description: Ashraellenin tutkimuksellinen lähtökohta: itsenäinen taiteellinen tutkimus ja ihmisen sisäinen kokemus havainnoinnin kenttänä.
+- description: Ashraellenin lähtökohta: julkinen muotoilu Todellisuudesta, hyväksymisestä, ihmisen vapaudesta, uskonnosta, Luojasta, pakottomasta ymmärtämisestä ja vastuusta.
 - canonical: https://www.ashraellen.com/fi/research/position/
-- H1: Lähtökohta
-- H2: _missing_
+- H1: Ashraellenin lähtökohta
+- H2: Todellisuus: hyväksyminen ei ole hyväksyntää | Toiminta ilman sotaa Todellisuutta vastaan | Toisen ihmisen tie | Uskonnot ja historialliset järjestelmät | Kieltäytyminen messianismista | Ihminen radiopisteenä | Vastuu | Ei lopullinen järjestelmä
 - H3: _missing_
-- suggested keyword seed: lähtökohta, ashraellen, ashraellenin, havainnoinnin, ihmisen, itsenäinen, kenttänä, research, tutkimus, eivät, filosofia, itse, itsenäisenä, kokemus, position, sisäinen, taiteellinen, tutkimuksellinen
-- candidates: lähtökohta, ashraellen, havainnoinnin, ihmisen, kenttänä, tutkimus, ashraellenin, eivät, filosofia, itse, itsenäinen, itsenäisenä, julkinen, käsittelen, kokemukset, kokemus, kokemusta, kuvauksen, malleja, ovat, sisäinen, sisäistä, taiteellinen, taiteellisena
+- suggested keyword seed: ashraellen, ihmisen, lähtökohta, ashraellenin, ole, research, toisen, että, hän, hänen, historialliset, hyväksyminen, hyväksymisestä, hyväksyntää, ihminen, ilman, järjestelmä, järjestelmät
+- candidates: tai, hän, hänen, ashraellen, ole, sen, voi, ihmisen, toisen, läpi, sitä, että, ihminen, luojan, mutta, sisäistä, eikä, koko, mitä, oman, tämä, todellisuuden, vastaa, hyväksyminen
 
 Excerpt:
 
-> Ashraellen Lähtökohta Työskentelen itsenäisenä taiteellisena tutkijana ja käsittelen ihmisen sisäistä kokemusta havainnoinnin kenttänä. Uskonto, filosofia ja transsendentit kokemukset ovat kuvauksen malleja — eivät itse todellisuus. ← Tutkimus Julkinen
+> Ashraellen Ashraellenin lähtökohta Ashraellen työskentelee itsenäisenä taiteellisena tutkijana. Hänen havaintokenttänsä on ihmisen sisäinen kokemus: se, miten ihminen havaitsee tapahtuvan, rakentaa selityksiä, pitää tulkintaa itse Todellisuutena ja menettää yhteyden Todellisuuteen, merkitykseen, sisäiseen vapauteen ja omaan läsnäoloonsa. Kirjallisuus, filosofia, uskonto, kieli, kuva, ääni ja yleisön reaktio eivät tässä työssä todista valmista järjestelmää, vaan toimivat tutkimisen tapoina. Uskonnollisia ja filosofisia opetuksia sekä kuvauksia transsendenttisista kokemuksista tarkastellaan malleina ihmisen kohtaamisesta Todellisuuden kanssa — tärkeinä, joskus syvinä, mutta ei itse Todellisuuden koko täyteytenä. Tätä lähtökohtaa ei tarjota lukijalle velvoittavana oppina. Se on maailmankatsomuksellinen ja tutkimuksellinen piste, josta Ashraellen havainnoi, kirjoittaa ja toimii. Todellisuus:
 
 ### fi/research/projects/index.html
 
@@ -8075,7 +8075,7 @@ Excerpt:
 - H2: Ce qui est recherché | Comment cela se fait | Forme fragmentaire, recherche continue | Méthode | Comment comprendre ce travail | Recherche artistique | Savoir ouvert | Société numérique
 - H3: _missing_
 - suggested keyword seed: recherche, ashraellen, sens, une, artistique, comment, dont, est, numérique, research, avec, cela, comme, comprendre, contact, continue, d’une, dans
-- candidates: une, des, recherche, pas, sens, mais, comme, les, dans, ashraellen, dont, numérique, pensée, pour, son, comment, d’observation, est, plus, réaction, sont, artistique, c’est, elle
+- candidates: une, recherche, des, pas, sens, mais, comme, dans, les, ashraellen, dont, numérique, pensée, pour, son, sont, comment, d’observation, est, philosophique, plus, réaction, artistique, c’est
 
 Excerpt:
 
@@ -8120,17 +8120,17 @@ Excerpt:
 - lang: fr
 - section: research
 - title: Ashraellen — Position
-- description: Position Ashraellen Position Je travaille comme chercheur artistique indépendant, en considérant l’expérience intérieure comme un champ d’observation. Religions, philosophies et expériences transcendantes sont des…
+- description: La position d’Ashraellen : une formulation publique sur la Réalité, l’acceptation, la liberté humaine, la religion, le Créateur, la compréhension sans contrainte et la responsabilité.
 - canonical: https://www.ashraellen.com/fr/research/position/
-- H1: Position
-- H2: _missing_
+- H1: Position d’Ashraellen
+- H2: Réalité : accepter n’est pas approuver | Agir sans faire la guerre à la Réalité | Le chemin d’un autre | Religions et systèmes historiques | Refus du messianisme | L’être humain comme point radio | Responsabilité | Pas un système définitif
 - H3: _missing_
-- suggested keyword seed: position, ashraellen, comme, artistique, champ, chercheur, considérant, d’observation, des, expériences, indépendant, intérieure, research, l’expérience, philosophies, religions, sont, transcendantes
-- candidates: comme, position, ashraellen, artistique, champ, chercheur, considérant, d’observation, des, expériences, indépendant, intérieure, l’expérience, philosophies, religions, sont, transcendantes, travaille, description, elle, même, modèles, pas, public
+- suggested keyword seed: position, réalité, ashraellen, pas, compréhension, d’ashraellen, point, research, responsabilité, sans, une, accepter, agir, approuver, autre, chemin, comme, contrainte
+- candidates: pas, une, qui, ashraellen, des, peut, propre, est, point, réalité, compréhension, elle, les, n’est, radio, son, comme, dans, mais, intérieure, par, que, d’une, entre
 
 Excerpt:
 
-> Ashraellen Position Je travaille comme chercheur artistique indépendant, en considérant l’expérience intérieure comme un champ d’observation. Religions, philosophies et expériences transcendantes sont des modèles de description — pas la réalité elle‑même. ← Research Public
+> Ashraellen Position d’Ashraellen Ashraellen travaille comme chercheur artistique indépendant. Son champ d’observation est l’expérience intérieure humaine : la manière dont une personne perçoit ce qui arrive, construit des explications, prend une interprétation pour la Réalité elle-même et perd le contact avec la Réalité, le sens, la liberté intérieure et sa propre présence. La littérature, la philosophie, la religion, la langue, l’image, le son et la réaction publique sont employés dans ce travail non comme preuves d’un système achevé, mais comme modes de recherche. Les enseignements religieux et philosophiques, ainsi que les récits d’expériences transcendantes, sont envisagés comme des modèles de la rencontre humaine avec la Réalité — importants, parfois profonds, mais non identiques à la Réalité dans toute sa plénitude. Cette position n’est pas proposée au lecteur comme une doctrine ob
 
 ### fr/research/projects/index.html
 
@@ -9860,7 +9860,7 @@ Excerpt:
 - H2: Co jest badane | Jak to się odbywa | Forma fragmentaryczna, ciągłość badania | Metoda | Jak rozumieć tę pracę | Badanie artystyczne | Otwarta wiedza | Społeczeństwo cyfrowe
 - H3: _missing_
 - suggested keyword seed: badanie, ashraellen, badania, cyfrowe, człowiek, research, się, artystyczne, artystyczno-filozoficzne, badane, całe, ciągłość, forma, fragmentaryczna, jako, kontakt, lecz, metoda
-- candidates: nie, się, lecz, ashraellen, badania, jako, obserwacji, wideo, badanie, cyfrowe, człowiek, myśl, sensu, tym, archiwum, forma, może, otwórz, tego, wewnątrz, ani, częścią, dźwięk, formy
+- candidates: nie, się, lecz, ashraellen, badania, jako, obserwacji, wideo, badanie, cyfrowe, człowiek, myśl, otwórz, sensu, tym, archiwum, forma, może, sposób, tego, wewnątrz, ani, częścią, dźwięk
 
 Excerpt:
 
@@ -9904,18 +9904,18 @@ Excerpt:
 
 - lang: pl
 - section: research
-- title: Ashraellen — Position
-- description: Position Ashraellen Position Pracuję jako niezależny badacz artystyczny, traktując doświadczenie wewnętrzne jako pole obserwacji. Religia, filozofia i doświadczenia transgresyjne to modele opisu — nie sama…
+- title: Ashraellen — Stanowisko
+- description: Stanowisko Ashraellen: publiczna formuła dotycząca Rzeczywistości, akceptacji, wolności człowieka, religii, Stwórcy, rozumienia bez przymusu i odpowiedzialności.
 - canonical: https://www.ashraellen.com/pl/research/position/
-- H1: Position
-- H2: _missing_
+- H1: Stanowisko Ashraellen
+- H2: Rzeczywistość: akceptacja nie oznacza aprobaty | Działanie bez wojny z Rzeczywistością | Droga drugiego człowieka | Religie i systemy historyczne | Odmowa mesjanizmu | Człowiek jako punkt radiowy | Odpowiedzialność | Nie system ostateczny
 - H3: _missing_
-- suggested keyword seed: position, ashraellen, jako, artystyczny, badacz, doświadczenia, doświadczenie, filozofia, modele, nie, niezależny, obserwacji, research, opisu, pole, pracuję, religia, sama
-- candidates: jako, position, ashraellen, artystyczny, badacz, doświadczenia, doświadczenie, filozofia, modele, nie, niezależny, obserwacji, opisu, pole, pracuję, religia, sama, traktując, transgresyjne, wewnętrzne, public, research, rzeczywistość
+- suggested keyword seed: ashraellen, bez, człowieka, nie, stanowisko, człowiek, research, rozumienia, akceptacja, akceptacji, aprobaty, dotycząca, droga, drugiego, działanie, formuła, historyczne, jako
+- candidates: nie, się, ashraellen, jego, przez, może, człowiek, rozumienia, tego, lub, bez, człowieka, między, punkt, własnego, jako, siebie, stwórcy, ani, odpowiada, radiowy, rzeczywistości, stanowisko, błąd
 
 Excerpt:
 
-> Ashraellen Position Pracuję jako niezależny badacz artystyczny, traktując doświadczenie wewnętrzne jako pole obserwacji. Religia, filozofia i doświadczenia transgresyjne to modele opisu — nie sama rzeczywistość. ← Research Public
+> Ashraellen Stanowisko Ashraellen Ashraellen pracuje jako niezależny badacz artystyczny. Polem jego obserwacji jest wewnętrzne doświadczenie człowieka: to, jak człowiek postrzega to, co się dzieje, tworzy wyjaśnienia, bierze interpretację za samą Rzeczywistość i traci kontakt z Rzeczywistością, sensem, wewnętrzną wolnością oraz własną obecnością. Literatura, filozofia, religia, język, obraz, dźwięk i reakcja publiczna służą w tej pracy nie jako dowody gotowego systemu, lecz jako sposoby badania. Nauki religijne i filozoficzne, a także opisy doświadczeń transcendentnych, są traktowane jako modele spotkania człowieka z Rzeczywistością — ważne, niekiedy głębokie, ale nietożsame z Rzeczywistością w całej jej pełni. To stanowisko nie jest przedstawiane czytelnikowi jako obowiązująca doktryna. Jest światopoglądowym i badawczym punktem, z którego Ashraellen obserwuje, pisze i działa. Rzeczywisto
 
 ### pl/research/projects/index.html
 
@@ -11050,7 +11050,7 @@ Excerpt:
 - H2: O que é investigado | Como isso é feito | Forma fragmentária, pesquisa contínua | Método | Como entender este trabalho | Pesquisa artística | Conhecimento aberto | Sociedade digital
 - H3: _missing_
 - suggested keyword seed: pesquisa, ashraellen, como, sentido, uma, digital, observação, que, research, aberto, artística, artístico-filosófica, com, conhecimento, contato, contínua, dentro, entender
-- candidates: uma, como, não, pesquisa, que, mas, sentido, ashraellen, observação, digital, por, dentro, para, são, modo, onde, forma, pensamento, percepção, pessoa, pode, ser, sistema, trabalho
+- candidates: uma, como, pesquisa, não, que, mas, sentido, ashraellen, observação, digital, por, dentro, modo, para, são, onde, trabalho, abrir, forma, pensamento, percepção, pessoa, pode, ser
 
 Excerpt:
 
@@ -11094,18 +11094,18 @@ Excerpt:
 
 - lang: pt
 - section: research
-- title: Ashraellen — Position — PT
-- description: Position Ashraellen Position Trabalho como pesquisador artístico independente, tratando a experiência interna como campo de observação. Religião, filosofia e experiências transcendentais são modelos de descrição — não…
+- title: Ashraellen — Posição
+- description: A posição de Ashraellen: uma formulação pública sobre a Realidade, a aceitação, a liberdade humana, a religião, o Criador, a compreensão sem coerção e a responsabilidade.
 - canonical: https://www.ashraellen.com/pt/research/position/
-- H1: Position
-- H2: _missing_
+- H1: Posição de Ashraellen
+- H2: Realidade: aceitação não é aprovação | Agir sem guerrear contra a Realidade | O caminho de outra pessoa | Religiões e sistemas históricos | Recusa do messianismo | O ser humano como ponto de rádio | Responsabilidade | Não é um sistema definitivo
 - H3: _missing_
-- suggested keyword seed: position, ashraellen, como, artístico, campo, descrição, experiência, experiências, filosofia, independente, interna, modelos, research, não, observação, pesquisador, religião, são
-- candidates: como, position, ashraellen, artístico, campo, descrição, experiência, experiências, filosofia, independente, interna, modelos, não, observação, pesquisador, religião, são, trabalho, transcendentais, tratando, public, realidade, research
+- suggested keyword seed: ashraellen, realidade, não, posição, aceitação, pessoa, ponto, research, responsabilidade, sem, uma, agir, aprovação, caminho, coerção, com, como, compreensão
+- candidates: não, que, uma, ashraellen, sua, pessoa, por, com, mas, pode, ponto, realidade, pela, própria, rádio, interior, seu, como, ele, entendimento, entre, sem, criador, para
 
 Excerpt:
 
-> Ashraellen Position Trabalho como pesquisador artístico independente, tratando a experiência interna como campo de observação. Religião, filosofia e experiências transcendentais são modelos de descrição — não a realidade em si. ← Research Public
+> Ashraellen Posição de Ashraellen Ashraellen trabalha como pesquisador artístico independente. Seu campo de observação é a experiência humana interior: como uma pessoa percebe o que acontece, cria explicações, toma uma interpretação pela própria Realidade e perde o contato com a Realidade, o sentido, a liberdade interior e a própria presença. Literatura, filosofia, religião, linguagem, imagem, som e reação pública são usados neste trabalho não como provas de um sistema pronto, mas como modos de pesquisa. Ensinamentos religiosos e filosóficos, assim como relatos de experiências transcendentes, são considerados modelos do encontro humano com a Realidade — importantes, às vezes profundos, mas não idênticos à Realidade em toda a sua plenitude. Esta posição não é oferecida ao leitor como doutrina obrigatória. É o ponto de vista e de pesquisa a partir do qual Ashraellen observa, escreve e age. 
 
 ### pt/research/projects/index.html
 
@@ -15147,7 +15147,7 @@ Excerpt:
 - H2: Що досліджується | Як це робиться | Фрагментарна форма, безперервне дослідження | Метод | Як розуміти цю роботу | Художнє дослідження | Відкрите знання | Цифрове суспільство
 - H3: _missing_
 - suggested keyword seed: дослідження, ashraellen, research, людина, метод, сенсу, спостереження, цифрове, або, архів, бачити, безперервне, відео, відкрите, відкрити, внутрішньою, втрачає, досліджується
-- candidates: дослідження, спостереження, ashraellen, відео, людина, сенсу, цифрове, або, архів, відкрити, звук, метод, сприйняття, форма, бачити, думка, може, окрема, сенс, середовище, спосіб, стають, тому, тут
+- candidates: дослідження, ashraellen, спостереження, відео, відкрити, людина, сенсу, цифрове, або, архів, звук, метод, сенс, спосіб, сприйняття, форма, бачити, думка, може, окрема, роботи, середовище, стають, тому
 
 Excerpt:
 
@@ -15191,18 +15191,18 @@ Excerpt:
 
 - lang: uk
 - section: research
-- title: Ashraellen — Position
-- description: Position Ashraellen Position Я працюю як незалежний художній дослідник, розглядаючи внутрішній досвід як поле спостереження. Релігії, філософії й трансцендентні стани — це моделі опису, а не сама реальність. ← Research…
+- title: Ashraellen — Позиція
+- description: Позиція Ashraellen: публічне формулювання про Реальність, прийняття, свободу людини, релігію, Творця, розуміння без примусу та відповідальність.
 - canonical: https://www.ashraellen.com/uk/research/position/
-- H1: Position
-- H2: _missing_
+- H1: Позиція Ashraellen
+- H2: Реальність: прийняття не дорівнює схваленню | Дія без війни з Реальністю | Шлях іншої людини | Релігії та історичні системи | Відмова від месіанства | Людина як радіоточка | Відповідальність | Не остаточна система
 - H3: _missing_
-- suggested keyword seed: position, ashraellen, research, внутрішній, досвід, дослідник, моделі, незалежний, опису, поле, працюю, реальність, релігії, розглядаючи, сама, спостереження, стани, трансцендентні
-- candidates: position, ashraellen, research, внутрішній, досвід, дослідник, моделі, незалежний, опису, поле, працюю, реальність, релігії, розглядаючи, сама, спостереження, стани, трансцендентні, філософії, художній, public
+- suggested keyword seed: ashraellen, позиція, research, без, відповідальність, людина, людини, прийняття, реальність, розуміння, position, або, але, від, відмова, війни, він, вона
+- candidates: ashraellen, або, його, розуміння, через, але, він, може, вона, людина, себе, того, між, прийняття, творця, без, від, відбулося, відповідає, означає, позиція, радіоточка, тому, людини
 
 Excerpt:
 
-> Ashraellen Position Я працюю як незалежний художній дослідник, розглядаючи внутрішній досвід як поле спостереження. Релігії, філософії й трансцендентні стани — це моделі опису, а не сама реальність. ← Research Public
+> Ashraellen Позиція Ashraellen Ashraellen працює як незалежний художній дослідник. Полем його спостереження є внутрішній людський досвід: те, як людина сприймає те, що відбувається, створює пояснення, приймає інтерпретацію за саму Реальність і втрачає контакт із Реальністю, сенсом, внутрішньою свободою та власною присутністю. Література, філософія, релігія, мова, образ, звук і публічна реакція використовуються в цій роботі не як докази готової системи, а як способи дослідження. Релігійні й філософські вчення, а також описи трансцендентного досвіду розглядаються як моделі зустрічі людини з Реальністю — важливі, іноді глибокі, але не тотожні самій Реальності в усій її повноті. Ця позиція не пропонується читачеві як обов’язкова доктрина. Це світоглядна й дослідницька точка, з якої Ashraellen спостерігає, пише та діє. Реальність: прийняття не дорівнює схваленню У своїй особистій метафізичній 
 
 ### uk/research/projects/index.html
 
