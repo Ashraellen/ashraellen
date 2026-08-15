@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-15T12:03:04.410Z",
+  "generated": "2026-08-15T12:12:36.193Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -48620,6 +48620,76 @@
         "идеально",
         "иммерсивный",
         "истончение"
+      ]
+    },
+    {
+      "page": "ru/contact_desktop_text_right.html",
+      "lang": "ru",
+      "section": "contact_desktop_text_right.html",
+      "title": "Контакт — Ashraellen",
+      "description": "Контактная страница Ashraellen: сотрудничество, издательские, грантовые, медийные и проектные запросы.",
+      "existingKeywords": "ashraellen, contact, контакт, контактная, страница, сотрудничество, издательские, грантовые, медийные, проектные, запросы, doctype, html, title, function, const, isgithub, location.hostname.endswith",
+      "canonical": "https://www.ashraellen.com/ru/contact.html",
+      "h1": [
+        "Контакт"
+      ],
+      "h2": [
+        "Ashraellen"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "ru",
+        "contact",
+        "desktop",
+        "text",
+        "right"
+      ],
+      "excerpt": "Точка связи Контакт Для сотрудничества, издательских, грантовых, медийных и проектных запросов можно написать напрямую. Ashraellen Независимый творческий и исследовательский проект Николая Костышева. Email: ashraellen.live@gmail.com Telegram для связи: @AshraellenLive Локация: Польша / Европейский союз Подходящие темы для обращения: сотрудничество и партнёрские предложения; издательские и литературные запросы; гранты, резиденции и исследовательские программы; медиа, интервью и публичные материалы; вопросы по проектам Ashraellen. Публичные каналы: YouTube — @ashraellen Instagram — @kostyshev Telegram-канал — @ashraellenchannel Telegram для связи используется для прямого обращения. Telegram-канал предназначен для публикации текстов, заметок, обновлений и материалов проекта. — mark of presence",
+      "candidates": [
+        "ashraellen",
+        "связи",
+        "telegram",
+        "telegram-канал",
+        "запросы",
+        "издательские",
+        "контакт",
+        "обращения",
+        "публичные",
+        "сотрудничество",
+        "ashraellen.live",
+        "ashraellenchannel",
+        "ashraellenlive",
+        "email",
+        "gmail.com",
+        "instagram",
+        "kostyshev",
+        "mark",
+        "presence",
+        "youtube",
+        "вопросы",
+        "грантовые",
+        "грантовых",
+        "гранты"
+      ],
+      "suggestedKeywordSeed": [
+        "ashraellen",
+        "контакт",
+        "contact",
+        "desktop",
+        "text",
+        "запросы",
+        "издательские",
+        "сотрудничество",
+        "ashraellen.live",
+        "ashraellenchannel",
+        "right",
+        "right.html",
+        "telegram",
+        "telegram-канал",
+        "грантовые",
+        "контактная",
+        "медийные",
+        "обращения"
       ]
     },
     {
