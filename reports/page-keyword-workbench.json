@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T08:03:39.864Z",
+  "generated": "2026-08-17T08:17:33.926Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -44909,7 +44909,7 @@
       "title": "Redirecting — Ashraellen",
       "description": "",
       "existingKeywords": "",
-      "canonical": "https://www.ashraellen.com/en/research/position/",
+      "canonical": "https://www.ashraellen.com/en/research/",
       "h1": [],
       "h2": [],
       "h3": [],
@@ -44917,18 +44917,17 @@
         "research",
         "method"
       ],
-      "excerpt": "Redirecting to Ashraellen — Position …",
+      "excerpt": "Redirecting to Ashraellen — Research …",
       "candidates": [
         "ashraellen",
         "redirecting",
-        "position"
+        "research"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",
-        "redirecting",
         "research",
-        "method",
-        "position"
+        "redirecting",
+        "method"
       ]
     },
     {

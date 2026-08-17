@@ -1,9 +1,9 @@
 # Page Metadata Audit
 
-Generated: 2026-08-17T08:03:39.298Z
+Generated: 2026-08-17T08:17:33.227Z
 
 Pages checked: 846
-Pages with issues: 353
+Pages with issues: 354
 Total issues: 1776
 Pages with review notes: 645
 Total review notes: 2288
@@ -935,6 +935,16 @@ Total review notes: 2288
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
 
+### en/research/index.html
+
+- title: Ashraellen — Research
+- description length: 181
+- canonical: https://www.ashraellen.com/en/research/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_CANONICAL: shared by 2 pages
+
 ### en/research/notes/index.html
 
 - title: Ashraellen — Notes
@@ -955,7 +965,6 @@ Total review notes: 2288
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
 - DUPLICATE_TITLE: shared by 3 pages
-- DUPLICATE_CANONICAL: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 3 pages
 
 ### es/books/error-404-god-not-found/index.html
@@ -2880,7 +2889,7 @@ Total review notes: 2288
 
 - title: Redirecting — Ashraellen
 - description length: 0
-- canonical: https://www.ashraellen.com/en/research/position/
+- canonical: https://www.ashraellen.com/en/research/
 - og:image: _missing_
 - twitter:image: _missing_
 
