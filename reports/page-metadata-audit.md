@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-15T17:50:56.148Z
+Generated: 2026-08-17T08:03:39.298Z
 
-Pages checked: 845
-Pages with issues: 352
-Total issues: 1766
+Pages checked: 846
+Pages with issues: 353
+Total issues: 1776
 Pages with review notes: 645
 Total review notes: 2288
 
@@ -12,15 +12,15 @@ Total review notes: 2288
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 234 |
-| MISSING_TWITTER_IMAGE | 192 |
-| MISSING_TWITTER_CARD | 178 |
-| MISSING_JSON_LD | 173 |
-| MISSING_OG_DESCRIPTION | 173 |
-| MISSING_OG_IMAGE | 172 |
-| MISSING_OG_TITLE | 171 |
-| MISSING_DESCRIPTION | 122 |
-| DUPLICATE_CANONICAL | 66 |
+| MISSING_KEYWORDS | 235 |
+| MISSING_TWITTER_IMAGE | 193 |
+| MISSING_TWITTER_CARD | 179 |
+| MISSING_JSON_LD | 174 |
+| MISSING_OG_DESCRIPTION | 174 |
+| MISSING_OG_IMAGE | 173 |
+| MISSING_OG_TITLE | 172 |
+| MISSING_DESCRIPTION | 123 |
+| DUPLICATE_CANONICAL | 68 |
 | DUPLICATE_TITLE | 65 |
 | DUPLICATE_OG_TITLE | 63 |
 | MISSING_CANONICAL | 47 |
@@ -955,6 +955,7 @@ Total review notes: 2288
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
 - DUPLICATE_TITLE: shared by 3 pages
+- DUPLICATE_CANONICAL: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 3 pages
 
 ### es/books/error-404-god-not-found/index.html
@@ -2874,6 +2875,24 @@ Total review notes: 2288
 
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
+
+### research/method/index.html
+
+- title: Redirecting — Ashraellen
+- description length: 0
+- canonical: https://www.ashraellen.com/en/research/position/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+- DUPLICATE_CANONICAL: shared by 2 pages
 
 ### ru/books/index.html
 
