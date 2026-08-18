@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-18T19:25:02.064Z
+Generated: 2026-08-18T19:57:18.007Z
 Pages: 849
 
 ## Index
@@ -3808,10 +3808,10 @@ Excerpt:
 - description: MY MEMORY is user-owned continuity infrastructure for long-running AI-assisted work, preserving decisions, reasons, provenance, commitments and current project state outside any single AI provider.
 - canonical: https://www.ashraellen.com/en/projects/my-memory/
 - H1: MY MEMORY
-- H2: The problem | What MY MEMORY does | Technical depth | Evidence so far | What this evidence does not establish | Current product | Potential scope | Current stage
+- H2: The problem | What MY MEMORY does | Technical depth | Evidence so far | What this evidence does not establish | Current product — now | Long-term direction | Current stage
 - H3: Clean successor recovery | Project-history retelling | Portable recovery tests | External-user workflows
 - suggested keyword seed: memory, current, continuity, evidence, user-owned, what, work, ai-assisted, does, product, project, projects, state, any, ashraellen, commitments, decisions, depth
-- candidates: memory, continuity, current, work, project, recovery, state, what, product, evidence, real, user-owned, decision, history, long-running, across, ai-assisted, bounded, decisions, explicit, help, one, provider, reasons
+- candidates: memory, continuity, current, state, work, project, recovery, what, evidence, product, real, user-owned, ai-assisted, decisions, long-running, reasons, research, across, bounded, decision, explicit, help, history, later
 
 Excerpt:
 
