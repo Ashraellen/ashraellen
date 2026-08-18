@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-18T19:18:26.821Z
+Generated: 2026-08-18T19:24:10.052Z
 Pages: 849
 
 ## Index
@@ -180,7 +180,7 @@ Pages: 849
 | en/monolith/index.html | en | monolith | MONOLITH Trilogy — Ashraellen | ashraellen, monolith, trilogy, three, states, controlled, disintegration, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io | monolith, beton, gas, sludge, controlled, disintegration, states, three, trilogy, ashraellen, dystopia, about, fiction, science, social, volume |
 | en/privacy.html | en | privacy.html | Privacy Policy — Ashraellen | _missing_ | data, policy, privacy, analytics, ashraellen, ashraellen.com, cookies, legal, may, platforms, website, basis, collected, consent, contact, external, google, information |
 | en/professional/index.html | en | professional | Ashraellen — Professional Dossier | _missing_ | ashraellen, professional, dossier, forms, project, public, development, meaning, observation, plan, research, about, archive, artistic-philosophical, author, books, budget, channel |
-| en/projects/my-memory/index.html | en | projects | MY MEMORY — User-Owned Continuity for AI-Assisted Work | _missing_ | memory, current, continuity, evidence, work, ai-assisted, decisions, does, long-running, product, project, projects, state, user-owned, what, any, ashraellen, commitments |
+| en/projects/my-memory/index.html | en | projects | MY MEMORY — User-Owned Continuity for AI-Assisted Work | _missing_ | memory, current, continuity, evidence, user-owned, what, work, ai-assisted, does, product, project, projects, state, any, ashraellen, commitments, decisions, depth |
 | en/public/index.html | en | public | Ashraellen — Public | Ashraellen, public field, talks, publications, support thoughts, research, observations | public, ashraellen, support, thoughts, field, living, person, publications, talks, where, already, mass, meets, new, observations, open, people, projects |
 | en/public/posts/essay/cycles/cycle-0001.html | en | public | Ashraellen — First Mini-Essay Cycle | ashraellen, public, posts, essay, cycles, cycle, 0001, first, mini-essay, power, over, thought, attention, body, door, goal, past, its | first, cycle, attention, body, over, past, thought, ashraellen, door, goal, interpretation, its, power, public, become, becomes, begins, completed |
 | en/public/posts/essay/cycles/index.html | en | public | Ashraellen — Mini-Essay Cycles | ashraellen, public, posts, essay, cycles, mini-essay, completed, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | cycles, completed, mini-essay, cycle, ashraellen, current, first, gathered, here, main, mini-essays, public, section, essay, posts |
@@ -3810,8 +3810,8 @@ Excerpt:
 - H1: MY MEMORY
 - H2: The problem | What MY MEMORY does | Technical depth | Evidence so far | What this evidence does not establish | Current product | Potential scope | Current stage
 - H3: Clean successor recovery | Project-history retelling | Portable recovery tests | External-user workflows
-- suggested keyword seed: memory, current, continuity, evidence, work, ai-assisted, decisions, does, long-running, product, project, projects, state, user-owned, what, any, ashraellen, commitments
-- candidates: memory, continuity, state, project, recovery, work, current, product, evidence, real, decisions, long-running, user-owned, ai-assisted, bounded, decision, explicit, history, reasons, should, stale, successor, technical, what
+- suggested keyword seed: memory, current, continuity, evidence, user-owned, what, work, ai-assisted, does, product, project, projects, state, any, ashraellen, commitments, decisions, depth
+- candidates: memory, continuity, current, work, project, recovery, state, what, product, evidence, real, user-owned, decision, history, long-running, across, ai-assisted, bounded, decisions, explicit, help, one, provider, reasons
 
 Excerpt:
 
