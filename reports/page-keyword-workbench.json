@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-18T19:11:10.687Z",
+  "generated": "2026-08-18T19:17:39.966Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -12966,17 +12966,18 @@
       "excerpt": "MY MEMORY Your memory should belong to you. User-owned continuity infrastructure for long-running AI-assisted work. The problem A serious project can outlive a chat, a session, a model and eventually an AI provider. When that happens, decisions become separated from their reasons, sources disappear from conclusions, commitments drift out of view, stale information competes with current state, and the user is asked to reconstruct the same project history again. A successor AI should not have to guess what happened before it arrived. What MY MEMORY does MY MEMORY is an external project-memory layer focused first on Project & Decision Memory. It preserves the parts of long-running work that must survive beyond a single conversation or provider. Project → Event → Decision → Reason → Person → Document → Commitment → Current State → Source The AI participates in memory capture. The user owns t",
       "candidates": [
         "memory",
-        "state",
         "continuity",
+        "state",
         "project",
         "recovery",
-        "current",
         "work",
-        "evidence",
+        "current",
         "product",
+        "evidence",
         "real",
         "decisions",
         "long-running",
+        "user-owned",
         "ai-assisted",
         "bounded",
         "decision",
@@ -12987,7 +12988,6 @@
         "stale",
         "successor",
         "technical",
-        "user-owned",
         "what"
       ],
       "suggestedKeywordSeed": [

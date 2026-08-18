@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-18T19:11:10.707Z
+Generated: 2026-08-18T19:17:39.981Z
 Pages: 849
 
 ## Index
@@ -3811,7 +3811,7 @@ Excerpt:
 - H2: The problem | What MY MEMORY does | Technical depth | Evidence so far | What this evidence does not establish | Current product | Potential scope | Current stage
 - H3: Clean successor recovery | Project-history retelling | Portable recovery tests | External-user workflows
 - suggested keyword seed: memory, current, continuity, evidence, work, ai-assisted, decisions, does, long-running, product, project, projects, state, user-owned, what, any, ashraellen, commitments
-- candidates: memory, state, continuity, project, recovery, current, work, evidence, product, real, decisions, long-running, ai-assisted, bounded, decision, explicit, history, reasons, should, stale, successor, technical, user-owned, what
+- candidates: memory, continuity, state, project, recovery, work, current, product, evidence, real, decisions, long-running, user-owned, ai-assisted, bounded, decision, explicit, history, reasons, should, stale, successor, technical, what
 
 Excerpt:
 
