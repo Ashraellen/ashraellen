@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-18T18:43:07.157Z
-Pages: 848
+Generated: 2026-08-18T18:46:00.560Z
+Pages: 849
 
 ## Index
 
@@ -497,6 +497,7 @@ Pages: 848
 | pl/monolith/index.html | pl | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, pl, monolith | monolith, beton, gas, sludge, ashraellen, dystopijna, edycja, kontroli, amazon, angielsku, czytaj, kontrolowanego, pamięci, polska, przygotowaniu, rozpadu, rozpadzie, stany |
 | pl/privacy.html | pl | privacy.html | Polityka prywatności — Ashraellen | _missing_ | polityka, prywatności, cookies, dane, analityka, ashraellen, ashraellen.com, być, mogą, strony, zewnętrzne, administrator, aktualizacje, cel, danych, google, jakie, kontakt |
 | pl/professional/index.html | pl | professional | Ashraellen — dossier profesjonalne | _missing_ | ashraellen, obserwacji, profesjonalne, projektu, publiczne, dossier, formy, metoda, plan, professional, projekt, rozwoju, archiwum, autor, autorze, jako, kontakt, książki |
+| pl/projects/my-memory/index.html | pl | projects | MY MEMORY — pamięć projektu należąca do użytkownika | _missing_ | memory, dowody, projektu, użytkownika, ciągłości, należąca, nie, obecny, pracy, projects, przez, aktualny, ashraellen, czego, decyzje, długotrwałej, dostawcą, dotychczasowe |
 | pl/public/index.html | pl | public | Ashraellen — Publiczne | Ashraellen, publiczne pole, wystąpienia, publikacje, myśli przewodnie, badanie, obserwacje | ashraellen, publiczne, myśli, człowieka, gdzie, przewodnie, public, publikacje, wystąpienia, badanie, już, lecz, myśl, nie, nowe, obserwacje, otwórz, pole |
 | pl/public/posts/essay/cycles/cycle-0001.html | pl | public | Ashraellen — Pierwszy cykl mini-esejów | ashraellen, public, posts, essay, cycles, cycle, 0001, pierwszy, cykl, mini-esejów, władza, nie, nad, myślą, lecz, uwagą, ciało, pierwszymi | cykl, pierwszy, nie, ciało, nad, ale, lecz, myślą, przeszłość, ashraellen, celem, drzwiami, interpretacją, jej, mini-esejów, pierwszymi, public, uwagą |
 | pl/public/posts/essay/cycles/index.html | pl | public | Ashraellen — Cykle mini-esejów | ashraellen, public, posts, essay, cycles, cykle, mini-esejów, zakończone, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | cykle, mini-esejów, zakończone, cykl, pierwszy, aktualnego, aktualny, ashraellen, cyklu, działu, głównej, public, się, stronie, cycles, essay, posts, tutaj |
@@ -9187,6 +9188,23 @@ Excerpt:
 Excerpt:
 
 > Dossier profesjonalne Ashraellen Obserwacja artystyczna · Praca literacka · Archiwum publiczne Ta strona ujmuje projekt Ashraellen w formie profesjonalnej: autor, metoda, korpus prac, formy publiczne, plan rozwoju, niezbędne warunki pracy oraz możliwości współpracy. Główna strona pozostaje żywą przestrzenią dla czytelników i widzów; to dossier jest jej stołem roboczym. O autorze Ashraellen to robocze imię Nikolai Kostysheva , niezależnego pisarza i badacza artystycznego mieszkającego w Polsce. Praca autora łączy prozę literacką, obserwację fenomenologiczną, satyrę społeczną, kulturę cyfrową i publiczną praktykę filozoficzną. Poprzez książki, eseje, wideo, publikacje i wielojęzyczne archiwum projekt pokazuje, jak współczesny człowiek traci jasność, wewnętrzne oparcie i kontakt z rzeczywistością — oraz jak te procesy można uczynić widzialnymi poprzez formę. Język rosyjski jest podstawowym 
+
+### pl/projects/my-memory/index.html
+
+- lang: pl
+- section: projects
+- title: MY MEMORY — pamięć projektu należąca do użytkownika
+- description: MY MEMORY to należąca do użytkownika warstwa ciągłości dla długotrwałej pracy wspomaganej przez AI, zachowująca decyzje, ich powody, źródła, zobowiązania i aktualny stan projektu poza jednym dostawcą AI.
+- canonical: https://www.ashraellen.com/pl/projects/my-memory/
+- H1: MY MEMORY
+- H2: Problem | Co robi MY MEMORY | Dotychczasowe dowody | Czego te dowody nie potwierdzają | Obecny produkt | Obecny etap | Następny kamień milowy | Finansowanie
+- H3: Czyste odtworzenie przez następcę | Ponownego opowiadania historii projektu | Testy przenośnego odtwarzania | Przepływy z użytkownikami zewnętrznymi
+- suggested keyword seed: memory, dowody, projektu, użytkownika, ciągłości, należąca, nie, obecny, pracy, projects, przez, aktualny, ashraellen, czego, decyzje, długotrwałej, dostawcą, dotychczasowe
+- candidates: nie, projektu, memory, przez, historii, się, użytkownika, ciągłości, dowody, odtwarzania, pracy, produktu, użytkowników, bez, decision, decyzje, długotrwałej, lub, należąca, project, stan, 000, ani, celem
+
+Excerpt:
+
+> MY MEMORY Twoja pamięć powinna należeć do Ciebie. Należąca do użytkownika warstwa ciągłości dla długotrwałej pracy wspomaganej przez AI. Problem Poważny projekt może trwać dłużej niż jeden czat, sesja, model, a w końcu także dostawca AI. Wtedy decyzje odrywają się od powodów, źródła znikają z wniosków, zobowiązania wypadają z pola widzenia, nieaktualne informacje konkurują z bieżącym stanem, a użytkownik ponownie rekonstruuje historię projektu. Następny agent AI nie powinien zgadywać, co wydarzyło się przed jego pojawieniem się. Co robi MY MEMORY MY MEMORY jest zewnętrzną warstwą pamięci projektu, skoncentrowaną najpierw na Project & Decision Memory. Zachowuje te elementy długotrwałej pracy, które muszą przetrwać poza pojedynczą rozmową lub dostawcą. Project → Event → Decision → Reason → Person → Document → Commitment → Current State → Source AI uczestniczy w zapisie pamięci. Użytkownik 
 
 ### pl/public/index.html
 

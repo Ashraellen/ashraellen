@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-18T18:43:07.143Z",
+  "generated": "2026-08-18T18:46:00.548Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -36409,6 +36409,87 @@
         "jako",
         "kontakt",
         "książki"
+      ]
+    },
+    {
+      "page": "pl/projects/my-memory/index.html",
+      "lang": "pl",
+      "section": "projects",
+      "title": "MY MEMORY — pamięć projektu należąca do użytkownika",
+      "description": "MY MEMORY to należąca do użytkownika warstwa ciągłości dla długotrwałej pracy wspomaganej przez AI, zachowująca decyzje, ich powody, źródła, zobowiązania i aktualny stan projektu poza jednym dostawcą AI.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/pl/projects/my-memory/",
+      "h1": [
+        "MY MEMORY"
+      ],
+      "h2": [
+        "Problem",
+        "Co robi MY MEMORY",
+        "Dotychczasowe dowody",
+        "Czego te dowody nie potwierdzają",
+        "Obecny produkt",
+        "Obecny etap",
+        "Następny kamień milowy",
+        "Finansowanie"
+      ],
+      "h3": [
+        "Czyste odtworzenie przez następcę",
+        "Ponownego opowiadania historii projektu",
+        "Testy przenośnego odtwarzania",
+        "Przepływy z użytkownikami zewnętrznymi"
+      ],
+      "slugTerms": [
+        "pl",
+        "projects",
+        "my",
+        "memory"
+      ],
+      "excerpt": "MY MEMORY Twoja pamięć powinna należeć do Ciebie. Należąca do użytkownika warstwa ciągłości dla długotrwałej pracy wspomaganej przez AI. Problem Poważny projekt może trwać dłużej niż jeden czat, sesja, model, a w końcu także dostawca AI. Wtedy decyzje odrywają się od powodów, źródła znikają z wniosków, zobowiązania wypadają z pola widzenia, nieaktualne informacje konkurują z bieżącym stanem, a użytkownik ponownie rekonstruuje historię projektu. Następny agent AI nie powinien zgadywać, co wydarzyło się przed jego pojawieniem się. Co robi MY MEMORY MY MEMORY jest zewnętrzną warstwą pamięci projektu, skoncentrowaną najpierw na Project & Decision Memory. Zachowuje te elementy długotrwałej pracy, które muszą przetrwać poza pojedynczą rozmową lub dostawcą. Project → Event → Decision → Reason → Person → Document → Commitment → Current State → Source AI uczestniczy w zapisie pamięci. Użytkownik ",
+      "candidates": [
+        "nie",
+        "projektu",
+        "memory",
+        "przez",
+        "historii",
+        "się",
+        "użytkownika",
+        "ciągłości",
+        "dowody",
+        "odtwarzania",
+        "pracy",
+        "produktu",
+        "użytkowników",
+        "bez",
+        "decision",
+        "decyzje",
+        "długotrwałej",
+        "lub",
+        "należąca",
+        "project",
+        "stan",
+        "000",
+        "ani",
+        "celem"
+      ],
+      "suggestedKeywordSeed": [
+        "memory",
+        "dowody",
+        "projektu",
+        "użytkownika",
+        "ciągłości",
+        "należąca",
+        "nie",
+        "obecny",
+        "pracy",
+        "projects",
+        "przez",
+        "aktualny",
+        "ashraellen",
+        "czego",
+        "decyzje",
+        "długotrwałej",
+        "dostawcą",
+        "dotychczasowe"
       ]
     },
     {
