@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-18T19:58:09.253Z
+Generated: 2026-08-18T20:11:48.821Z
 Pages: 849
 
 ## Index
@@ -497,7 +497,7 @@ Pages: 849
 | pl/monolith/index.html | pl | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, pl, monolith | monolith, beton, gas, sludge, ashraellen, dystopijna, edycja, kontroli, amazon, angielsku, czytaj, kontrolowanego, pamięci, polska, przygotowaniu, rozpadu, rozpadzie, stany |
 | pl/privacy.html | pl | privacy.html | Polityka prywatności — Ashraellen | _missing_ | polityka, prywatności, cookies, dane, analityka, ashraellen, ashraellen.com, być, mogą, strony, zewnętrzne, administrator, aktualizacje, cel, danych, google, jakie, kontakt |
 | pl/professional/index.html | pl | professional | Ashraellen — dossier profesjonalne | _missing_ | ashraellen, obserwacji, profesjonalne, projektu, publiczne, dossier, formy, metoda, plan, professional, projekt, rozwoju, archiwum, autor, autorze, jako, kontakt, książki |
-| pl/projects/my-memory/index.html | pl | projects | MY MEMORY — pamięć projektu należąca do użytkownika | _missing_ | memory, projektu, użytkownika, ciągłości, decyzje, dowody, należąca, nie, obecny, pracy, projects, przez, stan, aktualny, ashraellen, czego, długoterminowy, długotrwałej |
+| pl/projects/my-memory/index.html | pl | projects | MY MEMORY — należąca do użytkownika ciągłość pracy wspomaganej przez AI | _missing_ | memory, pracy, przez, użytkownika, ciągłości, decyzje, dowody, należąca, nie, obecny, projects, projektu, stan, wspomaganej, aktualny, ashraellen, ciągłość, czego |
 | pl/public/index.html | pl | public | Ashraellen — Publiczne | Ashraellen, publiczne pole, wystąpienia, publikacje, myśli przewodnie, badanie, obserwacje | ashraellen, publiczne, myśli, człowieka, gdzie, przewodnie, public, publikacje, wystąpienia, badanie, już, lecz, myśl, nie, nowe, obserwacje, otwórz, pole |
 | pl/public/posts/essay/cycles/cycle-0001.html | pl | public | Ashraellen — Pierwszy cykl mini-esejów | ashraellen, public, posts, essay, cycles, cycle, 0001, pierwszy, cykl, mini-esejów, władza, nie, nad, myślą, lecz, uwagą, ciało, pierwszymi | cykl, pierwszy, nie, ciało, nad, ale, lecz, myślą, przeszłość, ashraellen, celem, drzwiami, interpretacją, jej, mini-esejów, pierwszymi, public, uwagą |
 | pl/public/posts/essay/cycles/index.html | pl | public | Ashraellen — Cykle mini-esejów | ashraellen, public, posts, essay, cycles, cykle, mini-esejów, zakończone, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | cykle, mini-esejów, zakończone, cykl, pierwszy, aktualnego, aktualny, ashraellen, cyklu, działu, głównej, public, się, stronie, cycles, essay, posts, tutaj |
@@ -9193,14 +9193,14 @@ Excerpt:
 
 - lang: pl
 - section: projects
-- title: MY MEMORY — pamięć projektu należąca do użytkownika
+- title: MY MEMORY — należąca do użytkownika ciągłość pracy wspomaganej przez AI
 - description: MY MEMORY to należąca do użytkownika warstwa ciągłości dla długotrwałej pracy wspomaganej przez AI, zachowująca decyzje, ich powody, źródła, zobowiązania i aktualny stan projektu poza jednym dostawcą AI.
 - canonical: https://www.ashraellen.com/pl/projects/my-memory/
 - H1: MY MEMORY
 - H2: Problem | Co robi MY MEMORY | Głębia techniczna | Dotychczasowe dowody | Czego te dowody nie potwierdzają | Obecny produkt — teraz | Kierunek długoterminowy | Obecny etap
 - H3: Czyste odtworzenie przez następcę | Ponownego opowiadania historii projektu | Testy przenośnego odtwarzania | Przepływy z użytkownikami zewnętrznymi
-- suggested keyword seed: memory, projektu, użytkownika, ciągłości, decyzje, dowody, należąca, nie, obecny, pracy, projects, przez, stan, aktualny, ashraellen, czego, długoterminowy, długotrwałej
-- candidates: nie, memory, projektu, przez, ciągłości, się, historii, użytkownika, odtwarzania, pracy, stan, decyzje, oraz, pamięć, pamięci, użytkowników, ani, dowody, lub, poza, produktu, źródła, aby, aktualny
+- suggested keyword seed: memory, pracy, przez, użytkownika, ciągłości, decyzje, dowody, należąca, nie, obecny, projects, projektu, stan, wspomaganej, aktualny, ashraellen, ciągłość, czego
+- candidates: nie, memory, przez, ciągłości, projektu, się, historii, pracy, użytkownika, odtwarzania, stan, decyzje, oraz, pamięci, użytkowników, ani, ciągłość, dowody, lub, pamięć, poza, produktu, źródła, aby
 
 Excerpt:
 

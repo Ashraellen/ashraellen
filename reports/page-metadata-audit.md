@@ -1,6 +1,6 @@
 # Page Metadata Audit
 
-Generated: 2026-08-18T19:58:08.530Z
+Generated: 2026-08-18T20:11:48.186Z
 
 Pages checked: 848
 Pages with issues: 356
@@ -2698,7 +2698,7 @@ Total review notes: 2296
 
 ### pl/projects/my-memory/index.html
 
-- title: MY MEMORY — pamięć projektu należąca do użytkownika
+- title: MY MEMORY — należąca do użytkownika ciągłość pracy wspomaganej przez AI
 - description length: 203
 - canonical: https://www.ashraellen.com/pl/projects/my-memory/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
@@ -9152,7 +9152,7 @@ Total review notes: 2296
 
 ### pl/projects/my-memory/index.html
 
-- title: MY MEMORY — pamięć projektu należąca do użytkownika
+- title: MY MEMORY — należąca do użytkownika ciągłość pracy wspomaganej przez AI
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 

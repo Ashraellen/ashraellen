@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-18T19:58:09.234Z",
+  "generated": "2026-08-18T20:11:48.806Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -36415,7 +36415,7 @@
       "page": "pl/projects/my-memory/index.html",
       "lang": "pl",
       "section": "projects",
-      "title": "MY MEMORY — pamięć projektu należąca do użytkownika",
+      "title": "MY MEMORY — należąca do użytkownika ciągłość pracy wspomaganej przez AI",
       "description": "MY MEMORY to należąca do użytkownika warstwa ciągłości dla długotrwałej pracy wspomaganej przez AI, zachowująca decyzje, ich powody, źródła, zobowiązania i aktualny stan projektu poza jednym dostawcą AI.",
       "existingKeywords": "",
       "canonical": "https://www.ashraellen.com/pl/projects/my-memory/",
@@ -36448,32 +36448,33 @@
       "candidates": [
         "nie",
         "memory",
-        "projektu",
         "przez",
         "ciągłości",
+        "projektu",
         "się",
         "historii",
+        "pracy",
         "użytkownika",
         "odtwarzania",
-        "pracy",
         "stan",
         "decyzje",
         "oraz",
-        "pamięć",
         "pamięci",
         "użytkowników",
         "ani",
+        "ciągłość",
         "dowody",
         "lub",
+        "pamięć",
         "poza",
         "produktu",
         "źródła",
-        "aby",
-        "aktualny"
+        "aby"
       ],
       "suggestedKeywordSeed": [
         "memory",
-        "projektu",
+        "pracy",
+        "przez",
         "użytkownika",
         "ciągłości",
         "decyzje",
@@ -36481,15 +36482,14 @@
         "należąca",
         "nie",
         "obecny",
-        "pracy",
         "projects",
-        "przez",
+        "projektu",
         "stan",
+        "wspomaganej",
         "aktualny",
         "ashraellen",
-        "czego",
-        "długoterminowy",
-        "długotrwałej"
+        "ciągłość",
+        "czego"
       ]
     },
     {
