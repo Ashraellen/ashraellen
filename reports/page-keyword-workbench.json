@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-18T18:46:00.548Z",
+  "generated": "2026-08-18T19:10:27.860Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -12944,12 +12944,12 @@
       "h2": [
         "The problem",
         "What MY MEMORY does",
+        "Technical depth",
         "Evidence so far",
         "What this evidence does not establish",
         "Current product",
-        "Current stage",
-        "Next milestone",
-        "Funding"
+        "Potential scope",
+        "Current stage"
       ],
       "h3": [
         "Clean successor recovery",
@@ -12966,37 +12966,38 @@
       "excerpt": "MY MEMORY Your memory should belong to you. User-owned continuity infrastructure for long-running AI-assisted work. The problem A serious project can outlive a chat, a session, a model and eventually an AI provider. When that happens, decisions become separated from their reasons, sources disappear from conclusions, commitments drift out of view, stale information competes with current state, and the user is asked to reconstruct the same project history again. A successor AI should not have to guess what happened before it arrived. What MY MEMORY does MY MEMORY is an external project-memory layer focused first on Project & Decision Memory. It preserves the parts of long-running work that must survive beyond a single conversation or provider. Project → Event → Decision → Reason → Person → Document → Commitment → Current State → Source The AI participates in memory capture. The user owns t",
       "candidates": [
         "memory",
+        "state",
+        "continuity",
         "project",
-        "work",
-        "current",
         "recovery",
+        "current",
+        "work",
         "evidence",
         "product",
         "real",
-        "continuity",
-        "state",
-        "ai-assisted",
+        "decisions",
         "long-running",
-        "should",
-        "successor",
-        "user-owned",
+        "ai-assisted",
         "bounded",
         "decision",
-        "decisions",
-        "founder",
+        "explicit",
         "history",
-        "project-history",
-        "provider",
         "reasons",
-        "target-user"
+        "should",
+        "stale",
+        "successor",
+        "technical",
+        "user-owned",
+        "what"
       ],
       "suggestedKeywordSeed": [
         "memory",
         "current",
-        "ai-assisted",
         "continuity",
         "evidence",
         "work",
+        "ai-assisted",
+        "decisions",
         "does",
         "long-running",
         "product",
@@ -13007,8 +13008,7 @@
         "what",
         "any",
         "ashraellen",
-        "commitments",
-        "decisions"
+        "commitments"
       ]
     },
     {
