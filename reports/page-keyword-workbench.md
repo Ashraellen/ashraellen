@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-17T08:17:33.940Z
-Pages: 847
+Generated: 2026-08-18T18:23:23.446Z
+Pages: 848
 
 ## Index
 
@@ -180,6 +180,7 @@ Pages: 847
 | en/monolith/index.html | en | monolith | MONOLITH Trilogy — Ashraellen | ashraellen, monolith, trilogy, three, states, controlled, disintegration, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io | monolith, beton, gas, sludge, controlled, disintegration, states, three, trilogy, ashraellen, dystopia, about, fiction, science, social, volume |
 | en/privacy.html | en | privacy.html | Privacy Policy — Ashraellen | _missing_ | data, policy, privacy, analytics, ashraellen, ashraellen.com, cookies, legal, may, platforms, website, basis, collected, consent, contact, external, google, information |
 | en/professional/index.html | en | professional | Ashraellen — Professional Dossier | _missing_ | ashraellen, professional, dossier, forms, project, public, development, meaning, observation, plan, research, about, archive, artistic-philosophical, author, books, budget, channel |
+| en/projects/my-memory/index.html | en | projects | MY MEMORY — User-Owned Continuity for AI-Assisted Work | _missing_ | memory, current, ai-assisted, continuity, evidence, work, does, long-running, product, project, projects, state, user-owned, what, any, ashraellen, commitments, decisions |
 | en/public/index.html | en | public | Ashraellen — Public | Ashraellen, public field, talks, publications, support thoughts, research, observations | public, ashraellen, support, thoughts, field, living, person, publications, talks, where, already, mass, meets, new, observations, open, people, projects |
 | en/public/posts/essay/cycles/cycle-0001.html | en | public | Ashraellen — First Mini-Essay Cycle | ashraellen, public, posts, essay, cycles, cycle, 0001, first, mini-essay, power, over, thought, attention, body, door, goal, past, its | first, cycle, attention, body, over, past, thought, ashraellen, door, goal, interpretation, its, power, public, become, becomes, begins, completed |
 | en/public/posts/essay/cycles/index.html | en | public | Ashraellen — Mini-Essay Cycles | ashraellen, public, posts, essay, cycles, mini-essay, completed, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | cycles, completed, mini-essay, cycle, ashraellen, current, first, gathered, here, main, mini-essays, public, section, essay, posts |
@@ -3797,6 +3798,23 @@ Excerpt:
 Excerpt:
 
 > Professional dossier Ashraellen A mode of seeing · Artistic-philosophical inquiry · Literary and public archive This page gathers the Ashraellen project in a professional form for grant, publishing, cultural, media and institutional contexts. The main website remains a living space for readers and viewers; this dossier is its working table. PDF dossier, project proposal and budget Compact documents are available for grant, publishing, media and institutional inquiries. Download PDF dossier → Download 12-month project proposal PDF → Download budget PDF → Download budget spreadsheet → Research core Ashraellen is not merely a name, but a mode of seeing. It is a lifelong artistic-philosophical inquiry into meaning, perception, self-deception, inner freedom and the human loss of contact with reality. The work is based on the author’s ability to perceive meanings inside meanings, structures wi
+
+### en/projects/my-memory/index.html
+
+- lang: en
+- section: projects
+- title: MY MEMORY — User-Owned Continuity for AI-Assisted Work
+- description: MY MEMORY is user-owned continuity infrastructure for long-running AI-assisted work, preserving decisions, reasons, provenance, commitments and current project state outside any single AI provider.
+- canonical: https://www.ashraellen.com/en/projects/my-memory/
+- H1: MY MEMORY
+- H2: The problem | What MY MEMORY does | Evidence so far | What this evidence does not establish | Current product | Current stage | Next milestone | Funding
+- H3: Clean successor recovery | Project-history retelling | Portable recovery tests | External-user workflows
+- suggested keyword seed: memory, current, ai-assisted, continuity, evidence, work, does, long-running, product, project, projects, state, user-owned, what, any, ashraellen, commitments, decisions
+- candidates: memory, project, work, current, recovery, evidence, product, real, continuity, state, ai-assisted, long-running, should, successor, user-owned, bounded, decision, decisions, founder, history, project-history, provider, reasons, target-user
+
+Excerpt:
+
+> MY MEMORY Your memory should belong to you. User-owned continuity infrastructure for long-running AI-assisted work. The problem A serious project can outlive a chat, a session, a model and eventually an AI provider. When that happens, decisions become separated from their reasons, sources disappear from conclusions, commitments drift out of view, stale information competes with current state, and the user is asked to reconstruct the same project history again. A successor AI should not have to guess what happened before it arrived. What MY MEMORY does MY MEMORY is an external project-memory layer focused first on Project & Decision Memory. It preserves the parts of long-running work that must survive beyond a single conversation or provider. Project → Event → Decision → Reason → Person → Document → Commitment → Current State → Source The AI participates in memory capture. The user owns t
 
 ### en/public/index.html
 

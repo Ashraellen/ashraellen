@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T08:17:33.926Z",
+  "generated": "2026-08-18T18:23:23.428Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -12928,6 +12928,87 @@
         "books",
         "budget",
         "channel"
+      ]
+    },
+    {
+      "page": "en/projects/my-memory/index.html",
+      "lang": "en",
+      "section": "projects",
+      "title": "MY MEMORY — User-Owned Continuity for AI-Assisted Work",
+      "description": "MY MEMORY is user-owned continuity infrastructure for long-running AI-assisted work, preserving decisions, reasons, provenance, commitments and current project state outside any single AI provider.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/en/projects/my-memory/",
+      "h1": [
+        "MY MEMORY"
+      ],
+      "h2": [
+        "The problem",
+        "What MY MEMORY does",
+        "Evidence so far",
+        "What this evidence does not establish",
+        "Current product",
+        "Current stage",
+        "Next milestone",
+        "Funding"
+      ],
+      "h3": [
+        "Clean successor recovery",
+        "Project-history retelling",
+        "Portable recovery tests",
+        "External-user workflows"
+      ],
+      "slugTerms": [
+        "en",
+        "projects",
+        "my",
+        "memory"
+      ],
+      "excerpt": "MY MEMORY Your memory should belong to you. User-owned continuity infrastructure for long-running AI-assisted work. The problem A serious project can outlive a chat, a session, a model and eventually an AI provider. When that happens, decisions become separated from their reasons, sources disappear from conclusions, commitments drift out of view, stale information competes with current state, and the user is asked to reconstruct the same project history again. A successor AI should not have to guess what happened before it arrived. What MY MEMORY does MY MEMORY is an external project-memory layer focused first on Project & Decision Memory. It preserves the parts of long-running work that must survive beyond a single conversation or provider. Project → Event → Decision → Reason → Person → Document → Commitment → Current State → Source The AI participates in memory capture. The user owns t",
+      "candidates": [
+        "memory",
+        "project",
+        "work",
+        "current",
+        "recovery",
+        "evidence",
+        "product",
+        "real",
+        "continuity",
+        "state",
+        "ai-assisted",
+        "long-running",
+        "should",
+        "successor",
+        "user-owned",
+        "bounded",
+        "decision",
+        "decisions",
+        "founder",
+        "history",
+        "project-history",
+        "provider",
+        "reasons",
+        "target-user"
+      ],
+      "suggestedKeywordSeed": [
+        "memory",
+        "current",
+        "ai-assisted",
+        "continuity",
+        "evidence",
+        "work",
+        "does",
+        "long-running",
+        "product",
+        "project",
+        "projects",
+        "state",
+        "user-owned",
+        "what",
+        "any",
+        "ashraellen",
+        "commitments",
+        "decisions"
       ]
     },
     {
