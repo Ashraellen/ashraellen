@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T11:30:38.473Z",
+  "generated": "2026-08-19T11:31:39.779Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -23324,6 +23324,90 @@
         "arkisto",
         "eri",
         "index01",
+        "jossa",
+        "julkinen",
+        "kehykset"
+      ]
+    },
+    {
+      "page": "fi/professional/index02.html",
+      "lang": "fi",
+      "section": "professional",
+      "title": "Ashraellen — Ammatillinen esittely",
+      "description": "Ashraellenin ammatillinen esittely: kirjallinen ja taiteellis-filosofinen käytäntö, havainnoinnin menetelmä, valitut teokset, julkiset muodot ja rinnakkaiset tutkimussuunnat.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/fi/professional/",
+      "h1": [
+        "Ashraellen"
+      ],
+      "h2": [
+        "Tutkimuksellinen ydin",
+        "Tekijästä",
+        "Havainnoinnin menetelmä",
+        "Ammatilliset kehykset",
+        "Valittuja kirjallisia ja taiteellisia teoksia",
+        "Julkiset muodot",
+        "Rinnakkaiset suunnat",
+        "Nykyinen käytäntö"
+      ],
+      "h3": [
+        "Taiteellinen tutkimus",
+        "Avoin tieto",
+        "Digitaalinen yhteiskunta",
+        "Itsenäinen digitaalinen arkisto",
+        "MONOLIITTI",
+        "HOHDE",
+        "Demotopia — Demokraattinen utopia",
+        "Ashraellen — Uuden ajan henki"
+      ],
+      "slugTerms": [
+        "fi",
+        "professional",
+        "index02"
+      ],
+      "excerpt": "Ammatillinen esittely Ashraellen Tapa nähdä · Kirjallinen ja taiteellis-filosofinen käytäntö · Tutkimus · Julkinen arkisto Tämä sivu esittelee Ashraellenin toimintaa ammatillisessa yhteydessä — kustantajille, kulttuuri- ja tutkimusorganisaatioille, säätiöille, kumppaneille, medialle ja muille yhteistyötahoille. Pääsivusto säilyy elävänä kirjojen, tutkimuksen, julkisten tekstien ja muiden teosten tilana; tämä esittely kokoaa tiiviimmin sen, mitä Ashraellenin käytäntö on tänään ja mihin suuntiin se kehittyy. Tutkimuksellinen ydin Ashraellen ei ole aivan nimi; pikemminkin se on tapa nähdä. Kyse on elämänmittaisesta taiteellis-filosofisesta tutkimuksesta, joka tarkastelee merkitystä, havaitsemista, itsepetosta, sisäistä vapautta ja ihmisen yhteyden katoamista todellisuuteen. Työ perustuu tekijän kykyyn nähdä merkityksiä merkitysten sisällä, rakenteita rakenteiden sisällä ja leikkauspisteitä ",
+      "candidates": [
+        "ashraellen",
+        "tai",
+        "säilyttää",
+        "ashraellenin",
+        "eri",
+        "jossa",
+        "julkinen",
+        "käytäntö",
+        "kielten",
+        "tekijän",
+        "tutkimus",
+        "arkisto",
+        "miten",
+        "sekä",
+        "sen",
+        "työ",
+        "työn",
+        "välillä",
+        "ajan",
+        "digitaalinen",
+        "merkitys",
+        "muodot",
+        "muoto",
+        "suunnat"
+      ],
+      "suggestedKeywordSeed": [
+        "ashraellen",
+        "käytäntö",
+        "ammatillinen",
+        "ashraellenin",
+        "esittely",
+        "havainnoinnin",
+        "julkiset",
+        "menetelmä",
+        "muodot",
+        "professional",
+        "rinnakkaiset",
+        "ammatilliset",
+        "arkisto",
+        "eri",
+        "index02",
         "jossa",
         "julkinen",
         "kehykset"
