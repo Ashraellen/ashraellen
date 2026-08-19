@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-19T10:13:22.068Z
-Pages: 850
+Generated: 2026-08-19T10:18:43.846Z
+Pages: 851
 
 ## Index
 
@@ -181,6 +181,7 @@ Pages: 850
 | en/privacy.html | en | privacy.html | Privacy Policy — Ashraellen | _missing_ | data, policy, privacy, analytics, ashraellen, ashraellen.com, cookies, legal, may, platforms, website, basis, collected, consent, contact, external, google, information |
 | en/professional/index.html | en | professional | Ashraellen — Professional Dossier | _missing_ | ashraellen, professional, dossier, forms, project, public, development, meaning, observation, plan, research, about, archive, artistic-philosophical, author, books, budget, channel |
 | en/professional/index01.html | en | professional | Ashraellen — Professional Dossier | _missing_ | ashraellen, professional, directions, forms, literary, observation, public, research, dossier, method, parallel, practice, selected, work, works, about, artistic, artistic-philosophical |
+| en/professional/index02.html | en | professional | Ashraellen — Professional Dossier | _missing_ | ashraellen, professional, directions, forms, literary, observation, public, research, dossier, method, parallel, practice, selected, work, works, about, artistic, artistic-philosophical |
 | en/projects/my-memory/index.html | en | projects | MY MEMORY — User-Owned Continuity for AI-Assisted Work | _missing_ | memory, current, continuity, evidence, user-owned, what, work, ai-assisted, does, product, project, projects, state, any, ashraellen, commitments, decisions, depth |
 | en/public/index.html | en | public | Ashraellen — Public | Ashraellen, public field, talks, publications, support thoughts, research, observations | public, ashraellen, support, thoughts, field, living, person, publications, talks, where, already, mass, meets, new, observations, open, people, projects |
 | en/public/posts/essay/cycles/cycle-0001.html | en | public | Ashraellen — First Mini-Essay Cycle | ashraellen, public, posts, essay, cycles, cycle, 0001, first, mini-essay, power, over, thought, attention, body, door, goal, past, its | first, cycle, attention, body, over, past, thought, ashraellen, door, goal, interpretation, its, power, public, become, becomes, begins, completed |
@@ -3817,6 +3818,23 @@ Excerpt:
 Excerpt:
 
 > Professional dossier Ashraellen A way of seeing · Literary and artistic-philosophical practice · Research · Public archive This page presents the work of Ashraellen in a professional context — for publishers, cultural and research organisations, foundations, partners, media and other forms of collaboration. The main website remains a living space for books, research, public texts and other work; this dossier offers a more concentrated view of what Ashraellen is today and of the directions in which the practice is developing. Research core Ashraellen is not quite a name; it is, rather, a way of seeing. It is a lifelong artistic-philosophical inquiry into meaning, perception, self-deception, inner freedom and the human loss of contact with reality. The work is grounded in the author’s ability to see meanings within meanings, structures within structures, and intersections where a chance ph
+
+### en/professional/index02.html
+
+- lang: en
+- section: professional
+- title: Ashraellen — Professional Dossier
+- description: Professional dossier of Ashraellen: literary and artistic-philosophical practice, method of observation, selected works, public forms and parallel research directions.
+- canonical: https://www.ashraellen.com/en/professional/
+- H1: Ashraellen
+- H2: Research core | About the author | Method of observation | Professional frames | Selected literary and artistic works | Public forms of the project | Parallel directions | How the work is developing today
+- H3: Artistic research | Open knowledge | Digital society | Independent digital archive | MONOLITH | Radiance | Demotopia — Democratic Utopia | Ashraellen — Spirit of the New Age
+- suggested keyword seed: ashraellen, professional, directions, forms, literary, observation, public, research, dossier, method, parallel, practice, selected, work, works, about, artistic, artistic-philosophical
+- candidates: research, work, ashraellen, public, practice, directions, forms, literary, meaning, observation, languages, open, they, artistic, form, how, person, preserving, project, time, archive, authorial, collaboration, different
+
+Excerpt:
+
+> Professional dossier Ashraellen A way of seeing · Literary and artistic-philosophical practice · Research · Public archive This page presents the work of Ashraellen in a professional context — for publishers, cultural and research organisations, foundations, partners, media and other forms of collaboration. The main website remains a living space for books, research, public texts and other work; this dossier offers a more focused view of what Ashraellen is today and of the directions in which the practice is developing. Research core Ashraellen is not quite a name; it is, rather, a way of seeing. It is a lifelong artistic-philosophical inquiry into meaning, perception, self-deception, inner freedom and the human loss of contact with reality. The work is grounded in the author’s ability to see meanings within meanings, structures within structures, and intersections where a chance phrase,
 
 ### en/projects/my-memory/index.html
 
