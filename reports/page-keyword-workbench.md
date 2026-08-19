@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-19T10:18:43.846Z
-Pages: 851
+Generated: 2026-08-19T10:22:07.951Z
+Pages: 849
 
 ## Index
 
@@ -179,9 +179,7 @@ Pages: 851
 | en/index.html | en | index.html | Ashraellen — Books, Research and Public Texts | _missing_ | ashraellen, research, books, public, texts, artistic, independent, literary-philosophical, multilingual, practice, contact, index.html, presence, satire, sound, spanning, video |
 | en/monolith/index.html | en | monolith | MONOLITH Trilogy — Ashraellen | ashraellen, monolith, trilogy, three, states, controlled, disintegration, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io | monolith, beton, gas, sludge, controlled, disintegration, states, three, trilogy, ashraellen, dystopia, about, fiction, science, social, volume |
 | en/privacy.html | en | privacy.html | Privacy Policy — Ashraellen | _missing_ | data, policy, privacy, analytics, ashraellen, ashraellen.com, cookies, legal, may, platforms, website, basis, collected, consent, contact, external, google, information |
-| en/professional/index.html | en | professional | Ashraellen — Professional Dossier | _missing_ | ashraellen, professional, dossier, forms, project, public, development, meaning, observation, plan, research, about, archive, artistic-philosophical, author, books, budget, channel |
-| en/professional/index01.html | en | professional | Ashraellen — Professional Dossier | _missing_ | ashraellen, professional, directions, forms, literary, observation, public, research, dossier, method, parallel, practice, selected, work, works, about, artistic, artistic-philosophical |
-| en/professional/index02.html | en | professional | Ashraellen — Professional Dossier | _missing_ | ashraellen, professional, directions, forms, literary, observation, public, research, dossier, method, parallel, practice, selected, work, works, about, artistic, artistic-philosophical |
+| en/professional/index.html | en | professional | Ashraellen — Professional Dossier | _missing_ | ashraellen, professional, directions, forms, literary, observation, public, research, dossier, method, parallel, practice, selected, work, works, about, artistic, artistic-philosophical |
 | en/projects/my-memory/index.html | en | projects | MY MEMORY — User-Owned Continuity for AI-Assisted Work | _missing_ | memory, current, continuity, evidence, user-owned, what, work, ai-assisted, does, product, project, projects, state, any, ashraellen, commitments, decisions, depth |
 | en/public/index.html | en | public | Ashraellen — Public | Ashraellen, public field, talks, publications, support thoughts, research, observations | public, ashraellen, support, thoughts, field, living, person, publications, talks, where, already, mass, meets, new, observations, open, people, projects |
 | en/public/posts/essay/cycles/cycle-0001.html | en | public | Ashraellen — First Mini-Essay Cycle | ashraellen, public, posts, essay, cycles, cycle, 0001, first, mini-essay, power, over, thought, attention, body, door, goal, past, its | first, cycle, attention, body, over, past, thought, ashraellen, door, goal, interpretation, its, power, public, become, becomes, begins, completed |
@@ -3786,40 +3784,6 @@ Excerpt:
 > Legal transparency Privacy Policy This page explains how Ashraellen.com may collect, use and protect personal data when visitors use the website. Last updated: 25 May 2026 1. Who is responsible for this website The website Ashraellen.com is operated as part of the independent creative and research project Ashraellen , associated with Nikolai Kostyshev. For privacy-related questions, requests or cooperation matters, you may contact the project at: ashraellen.live@gmail.com . 2. What data may be collected The website may process limited technical and contact data: browser and device data, approximate network location, visited pages, visit time, Google Analytics data with IP anonymisation, email data voluntarily sent by you, and technical data used by the browser or service worker. The website does not ask visitors to create accounts and does not intentionally collect sensitive personal dat
 
 ### en/professional/index.html
-
-- lang: en
-- section: professional
-- title: Ashraellen — Professional Dossier
-- description: Professional dossier of Ashraellen: a lifelong artistic-philosophical inquiry into meaning, books, public forms, development plan, support and contact.
-- canonical: https://www.ashraellen.com/en/professional/
-- H1: Ashraellen
-- H2: PDF dossier, project proposal and budget | Research core | About the author | Method of observation | Professional frames | Selected works and fields | Public forms of the project | Current stage and development plan
-- H3: Artistic research | Open knowledge | Digital society | Independent digital archive | MONOLITH | Error 404: God Not Found | You Are Already Online | The Book of Whinesis
-- suggested keyword seed: ashraellen, professional, dossier, forms, project, public, development, meaning, observation, plan, research, about, archive, artistic-philosophical, author, books, budget, channel
-- candidates: public, ashraellen, project, open, research, forms, meaning, observation, archive, channel, digital, dossier, form, multilingual, already, contact, how, inquiry, media, perception, professional, support, working, about
-
-Excerpt:
-
-> Professional dossier Ashraellen A mode of seeing · Artistic-philosophical inquiry · Literary and public archive This page gathers the Ashraellen project in a professional form for grant, publishing, cultural, media and institutional contexts. The main website remains a living space for readers and viewers; this dossier is its working table. PDF dossier, project proposal and budget Compact documents are available for grant, publishing, media and institutional inquiries. Download PDF dossier → Download 12-month project proposal PDF → Download budget PDF → Download budget spreadsheet → Research core Ashraellen is not merely a name, but a mode of seeing. It is a lifelong artistic-philosophical inquiry into meaning, perception, self-deception, inner freedom and the human loss of contact with reality. The work is based on the author’s ability to perceive meanings inside meanings, structures wi
-
-### en/professional/index01.html
-
-- lang: en
-- section: professional
-- title: Ashraellen — Professional Dossier
-- description: Professional dossier of Ashraellen: literary and artistic-philosophical practice, method of observation, selected works, public forms and parallel research directions.
-- canonical: https://www.ashraellen.com/en/professional/
-- H1: Ashraellen
-- H2: Research core | About the author | Method of observation | Professional frames | Selected literary and artistic works | Public forms of the project | Parallel directions | How the work is developing today
-- H3: Artistic research | Open knowledge | Digital society | Independent digital archive | MONOLITH | Radiance | Demotopia — Democratic Utopia | Ashraellen — Spirit of the New Age
-- suggested keyword seed: ashraellen, professional, directions, forms, literary, observation, public, research, dossier, method, parallel, practice, selected, work, works, about, artistic, artistic-philosophical
-- candidates: research, work, ashraellen, public, forms, practice, directions, meaning, observation, literary, languages, open, they, artistic, person, project, time, which, archive, authorial, collaboration, different, digital, how
-
-Excerpt:
-
-> Professional dossier Ashraellen A way of seeing · Literary and artistic-philosophical practice · Research · Public archive This page presents the work of Ashraellen in a professional context — for publishers, cultural and research organisations, foundations, partners, media and other forms of collaboration. The main website remains a living space for books, research, public texts and other work; this dossier offers a more concentrated view of what Ashraellen is today and of the directions in which the practice is developing. Research core Ashraellen is not quite a name; it is, rather, a way of seeing. It is a lifelong artistic-philosophical inquiry into meaning, perception, self-deception, inner freedom and the human loss of contact with reality. The work is grounded in the author’s ability to see meanings within meanings, structures within structures, and intersections where a chance ph
-
-### en/professional/index02.html
 
 - lang: en
 - section: professional
