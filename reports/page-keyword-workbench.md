@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-19T10:55:24.984Z
-Pages: 850
+Generated: 2026-08-19T10:56:36.379Z
+Pages: 851
 
 ## Index
 
@@ -251,6 +251,7 @@ Pages: 850
 | es/privacy.html | es | privacy.html | Política de privacidad — Ashraellen | _missing_ | datos, del, política, privacidad, analítica, ashraellen, cookies, los, para, plataformas, qué, sitio, actualizaciones, ashraellen.com, base, compras, con, contacto |
 | es/professional/index.html | es | professional | Ashraellen — Dosier profesional | _missing_ | ashraellen, observación, proyecto, del, autor, desarrollo, dosier, formas, método, plan, profesional, professional, públicas, actual, apoyo, archivo, busca, campos |
 | es/professional/index01.html | es | professional | Ashraellen — Dosier profesional | _missing_ | ashraellen, formas, investigación, líneas, del, dosier, método, obras, observación, paralelas, práctica, profesional, professional, públicas, seleccionadas, trabajo, artísticas, artístico-filosófica |
+| es/professional/index02.html | es | professional | Ashraellen — Dosier profesional | _missing_ | ashraellen, formas, investigación, líneas, del, dosier, método, obras, observación, paralelas, práctica, profesional, professional, públicas, seleccionadas, trabajo, artísticas, artístico-filosófica |
 | es/public/index.html | es | public | Ashraellen — Público | Ashraellen, campo público, intervenciones, publicaciones, pensamientos de apoyo, investigación, observaciones | público, apoyo, ashraellen, pensamientos, campo, con, donde, intervenciones, persona, public, publicaciones, abrir, encuentra, investigación, los, nuevos, observaciones, pensamiento |
 | es/public/posts/essay/cycles/cycle-0001.html | es | public | Ashraellen — Primer ciclo de mini-ensayos | ashraellen, public, posts, essay, cycles, cycle, 0001, primer, ciclo, mini-ensayos, poder, sobre, pensamiento, sino, atención, cuerpo, primera, puerta | ciclo, primer, sobre, cuerpo, pasado, pensamiento, pero, ashraellen, atención, interpretación, objetivo, poder, primera, public, puerta, sino, como, completado |
 | es/public/posts/essay/cycles/index.html | es | public | Ashraellen — Ciclos de mini-ensayos | ashraellen, public, posts, essay, cycles, ciclos, mini-ensayos, completados, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ciclos, mini-ensayos, completados, ciclo, actual, aquí, ashraellen, encuentra, los, página, principal, public, reúnen, cycles, essay, posts, primer, sección |
@@ -5003,6 +5004,23 @@ Excerpt:
 - H3: Investigación artística | Conocimiento abierto | Sociedad digital | Archivo digital independiente | MONOLITO | Resplandor | Demotopia — Utopía Democrática | Ashraellen — Espíritu de la Nueva Era
 - suggested keyword seed: ashraellen, formas, investigación, líneas, del, dosier, método, obras, observación, paralelas, práctica, profesional, professional, públicas, seleccionadas, trabajo, artísticas, artístico-filosófica
 - candidates: una, investigación, trabajo, que, del, ashraellen, las, formas, práctica, sentido, con, líneas, observación, lenguas, como, entre, literaria, para, forma, persona, públicas, archivo, cómo, filosófica
+
+Excerpt:
+
+> Dosier profesional Ashraellen Una forma de ver · Práctica literaria y artístico-filosófica · Investigación · Archivo público Esta página presenta la actividad de Ashraellen en un contexto profesional — para editoriales, organizaciones culturales y de investigación, fundaciones, colaboradores, medios de comunicación y otras formas de cooperación. El sitio principal sigue siendo un espacio vivo de libros, investigaciones, textos públicos y otros trabajos; este dosier ofrece una visión más concentrada de lo que es hoy la práctica de Ashraellen y de las direcciones en las que se desarrolla. Núcleo de investigación Ashraellen no es exactamente un nombre; es, más bien, una forma de ver. Es una investigación artístico-filosófica, desarrollada a lo largo de una vida, sobre el sentido, la percepción, el autoengaño, la libertad interior y la pérdida humana de contacto con la realidad. El trabajo s
+
+### es/professional/index02.html
+
+- lang: es
+- section: professional
+- title: Ashraellen — Dosier profesional
+- description: Dosier profesional de Ashraellen: práctica literaria y artístico-filosófica, método de observación, obras seleccionadas, formas públicas y líneas de investigación paralelas.
+- canonical: https://www.ashraellen.com/es/professional/
+- H1: Ashraellen
+- H2: Núcleo de investigación | Sobre el autor | Método de observación | Marcos profesionales | Obras literarias y artísticas seleccionadas | Formas públicas del proyecto | Líneas paralelas | Cómo se desarrolla hoy el trabajo
+- H3: Investigación artística | Conocimiento abierto | Sociedad digital | Archivo digital independiente | MONOLITO | Resplandor | Demotopia — Utopía Democrática | Ashraellen — Espíritu de la Nueva Era
+- suggested keyword seed: ashraellen, formas, investigación, líneas, del, dosier, método, obras, observación, paralelas, práctica, profesional, professional, públicas, seleccionadas, trabajo, artísticas, artístico-filosófica
+- candidates: una, investigación, trabajo, que, ashraellen, del, las, formas, práctica, sentido, con, líneas, observación, lenguas, como, entre, literaria, para, forma, persona, públicas, archivo, cómo, filosófica
 
 Excerpt:
 
