@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-19T11:31:39.793Z
-Pages: 851
+Generated: 2026-08-19T11:34:49.508Z
+Pages: 849
 
 ## Index
 
@@ -318,9 +318,7 @@ Pages: 851
 | fi/index.html | fi | index.html | Ashraellen — Kirjat, tutkimus ja julkiset tekstit | _missing_ | ashraellen, ääntä, itsenäinen, kirjallis-filosofinen, kirjat, monikielinen, taiteellinen, tutkimus, tutkimuskäytäntö, äänen, ammatillinen, autonomiaa, index.html, julkiset, julkisia, kirjoja, satiiria, tekstejä |
 | fi/kone/index.html | fi | kone | Ashraellen — tiivistelmä Koneen Säätiölle | Ashraellen, Koneen Säätiö, taiteellinen tutkimus, kirjallisuus, MONOLIITTI, monikielinen arkisto | ashraellen, koneen, kone, kuukauden, säätiölle, tiivistelmä, tutkimuksen, tutkimus, arkistosta, ashraellen-hankkeesta, asiakirjat, budjetti, elämänmittainen, englanninkielinen, hankkeen, infrastruktuuri, julkinen, kirjallisuudesta |
 | fi/privacy.html | fi | privacy.html | Tietosuojakäytäntö — Ashraellen | _missing_ | analytiikka, tietoja, tietosuojakäytäntö, ashraellen, evästeet, kerätä, palvelut, voidaan, ashraellen.com, ashraellen.comin, google, henkilötiedot, käsittelyn, kauan, käytetään, käyttää, käyttäjän, kolmannen |
-| fi/professional/index.html | fi | professional | Ashraellen — Ammatillinen esittely | _missing_ | ashraellen, havainnoinnin, ammatillinen, esittely, julkiset, menetelmä, muodot, professional, ammatilliset, arkisto, ashraellenin, avaa, havainnon, infrastruktuuri, julkinen, kanava, kautta, kehityssuunnitelma |
-| fi/professional/index01.html | fi | professional | Ashraellen — Ammatillinen esittely | _missing_ | ashraellen, käytäntö, ammatillinen, ashraellenin, esittely, havainnoinnin, julkiset, menetelmä, muodot, professional, rinnakkaiset, ammatilliset, arkisto, eri, index01, jossa, julkinen, kehykset |
-| fi/professional/index02.html | fi | professional | Ashraellen — Ammatillinen esittely | _missing_ | ashraellen, käytäntö, ammatillinen, ashraellenin, esittely, havainnoinnin, julkiset, menetelmä, muodot, professional, rinnakkaiset, ammatilliset, arkisto, eri, index02, jossa, julkinen, kehykset |
+| fi/professional/index.html | fi | professional | Ashraellen — Ammatillinen esittely | _missing_ | ashraellen, käytäntö, ammatillinen, ashraellenin, esittely, havainnoinnin, julkiset, menetelmä, muodot, professional, rinnakkaiset, ammatilliset, arkisto, eri, jossa, julkinen, kehykset, kielten |
 | fi/public/index.html | fi | public | Ashraellen — Julkinen | Ashraellen, julkinen kenttä, puheet, julkaisut, tukiajatukset, tutkimus, havainnot | julkinen, ashraellen, ashraellenin, missä, public, ajatus, avaa, elävän, hän, havaintoja, hinta, ihminen, ihmisen, julkaisuja, julkaisut, kansa, kenttä, kohtaa |
 | fi/public/posts/essay/cycles/cycle-0001.html | fi | public | Ashraellen — Ensimmäinen miniesseesykli | Ashraellen, miniessee, huomio, keho, menneisyys, tietoisuus | ensimmäinen, ashraellen, keho, menneisyys, miniesseesykli, public, sykli, vaan, ajatukseen, älä, alkaa, ashraellenin, cycle, cycles, elää, essay, harjoitukseksi, huomio |
 | fi/public/posts/essay/cycles/index.html | fi | public | Ashraellen — Miniesseiden syklit | Ashraellen, miniesseet, syklit, huomio, keho, menneisyys | miniesseiden, syklit, ashraellen, valmiit, ashraellenin, nykyinen, public, sykli, cycles, elää, ensimmäinen, essay, huomio, keho, kootaan, löytyy, pääsivulta, posts |
@@ -6153,46 +6151,12 @@ Excerpt:
 - lang: fi
 - section: professional
 - title: Ashraellen — Ammatillinen esittely
-- description: Ashraellenin ammatillinen esittely: tekijä, havainnoinnin menetelmä, teokset, julkiset muodot, kehityssuunnitelma, infrastruktuuri, yhteistyö ja yhteystiedot.
-- canonical: https://www.ashraellen.com/fi/professional/
-- H1: Ashraellen
-- H2: Tausta-aineistot | Tekijästä | Havainnoinnin lähtökohta | Havainnoinnin menetelmä | Ammatilliset kehykset | Valittuja teoksia ja työskentelykenttiä | Projektin julkiset muodot | Nykyinen työvaihe
-- H3: Taiteellinen tutkimus | Avoin tieto | Digitaalinen yhteiskunta | Itsenäinen digitaalinen arkisto | MONOLIITTI | BETONI | LIETE | The Book of Whinesis
-- suggested keyword seed: ashraellen, havainnoinnin, ammatillinen, esittely, julkiset, menetelmä, muodot, professional, ammatilliset, arkisto, ashraellenin, avaa, havainnon, infrastruktuuri, julkinen, kanava, kautta, kehityssuunnitelma
-- candidates: avaa, ashraellen, julkinen, havainnon, kanava, monikielinen, arkisto, havainnoinnin, kautta, miten, muoto, projekti, taiteellinen, tutkimus, työ, arkiston, digitaalinen, esittely, jossa, ole, projektin, sekä, tai, vaan
-
-Excerpt:
-
-> Ammatillinen esittely Ashraellen Taiteellinen havainnointi · Kirjallinen työ · Monikielinen julkinen arkisto Tämä sivu kokoaa Ashraellenin ammatilliseen muotoon apuraha-, kustannus-, tutkimus-, media- ja kulttuuriyhteyksiä varten. Varsinainen sivusto pysyy elävänä tilana lukijoille ja katsojille; tämä esittely toimii sen työpöytänä. Tausta-aineistot Projektista on saatavilla yksityiskohtaisempia englanninkielisiä asiakirjoja apuraha-, kustannus- ja institutionaalista tarkastelua varten. Suomenkielinen sivusto toimii itsenäisenä esittelynä; asiakirjojen kieltä ei peitetä paikallisella painikkeella. Professional Dossier — englanninkielinen PDF → 12 kuukauden projektisuunnitelma — englanninkielinen PDF → Budjetti — englanninkielinen PDF → Tekijästä Ashraellen on Puolassa asuvan itsenäisen kirjailijan ja taiteellisen tutkijan Nikolai Kostyshevin työskentelynimi. Työ yhdistää kirjallisen proo
-
-### fi/professional/index01.html
-
-- lang: fi
-- section: professional
-- title: Ashraellen — Ammatillinen esittely
 - description: Ashraellenin ammatillinen esittely: kirjallinen ja taiteellis-filosofinen käytäntö, havainnoinnin menetelmä, valitut teokset, julkiset muodot ja rinnakkaiset tutkimussuunnat.
 - canonical: https://www.ashraellen.com/fi/professional/
 - H1: Ashraellen
 - H2: Tutkimuksellinen ydin | Tekijästä | Havainnoinnin menetelmä | Ammatilliset kehykset | Valittuja kirjallisia ja taiteellisia teoksia | Julkiset muodot | Rinnakkaiset suunnat | Nykyinen käytäntö
 - H3: Taiteellinen tutkimus | Avoin tieto | Digitaalinen yhteiskunta | Itsenäinen digitaalinen arkisto | MONOLIITTI | HOHDE | Demotopia — Demokraattinen utopia | Ashraellen — Uuden ajan henki
-- suggested keyword seed: ashraellen, käytäntö, ammatillinen, ashraellenin, esittely, havainnoinnin, julkiset, menetelmä, muodot, professional, rinnakkaiset, ammatilliset, arkisto, eri, index01, jossa, julkinen, kehykset
-- candidates: ashraellen, tai, säilyttää, ashraellenin, eri, jossa, julkinen, käytäntö, kielten, tekijän, tutkimus, arkisto, miten, sen, työ, työn, välillä, ajan, digitaalinen, merkitys, muodot, muoto, nähdä, ole
-
-Excerpt:
-
-> Ammatillinen esittely Ashraellen Tapa nähdä · Kirjallinen ja taiteellis-filosofinen käytäntö · Tutkimus · Julkinen arkisto Tämä sivu esittelee Ashraellenin toimintaa ammatillisessa yhteydessä — kustantajille, kulttuuri- ja tutkimusorganisaatioille, säätiöille, kumppaneille, medialle ja muille yhteistyötahoille. Pääsivusto säilyy elävänä kirjojen, tutkimuksen, julkisten tekstien ja muiden teosten tilana; tämä esittely kokoaa tiiviimmin sen, mitä Ashraellenin käytäntö on tänään ja mihin suuntiin se kehittyy. Tutkimuksellinen ydin Ashraellen ei ole aivan nimi; pikemminkin se on tapa nähdä. Kyse on elämänmittaisesta taiteellis-filosofisesta tutkimuksesta, joka tarkastelee merkitystä, havaitsemista, itsepetosta, sisäistä vapautta ja ihmisen yhteyden katoamista todellisuuteen. Työ perustuu tekijän kykyyn nähdä merkityksiä merkitysten sisällä, rakenteita rakenteiden sisällä ja leikkauspisteitä 
-
-### fi/professional/index02.html
-
-- lang: fi
-- section: professional
-- title: Ashraellen — Ammatillinen esittely
-- description: Ashraellenin ammatillinen esittely: kirjallinen ja taiteellis-filosofinen käytäntö, havainnoinnin menetelmä, valitut teokset, julkiset muodot ja rinnakkaiset tutkimussuunnat.
-- canonical: https://www.ashraellen.com/fi/professional/
-- H1: Ashraellen
-- H2: Tutkimuksellinen ydin | Tekijästä | Havainnoinnin menetelmä | Ammatilliset kehykset | Valittuja kirjallisia ja taiteellisia teoksia | Julkiset muodot | Rinnakkaiset suunnat | Nykyinen käytäntö
-- H3: Taiteellinen tutkimus | Avoin tieto | Digitaalinen yhteiskunta | Itsenäinen digitaalinen arkisto | MONOLIITTI | HOHDE | Demotopia — Demokraattinen utopia | Ashraellen — Uuden ajan henki
-- suggested keyword seed: ashraellen, käytäntö, ammatillinen, ashraellenin, esittely, havainnoinnin, julkiset, menetelmä, muodot, professional, rinnakkaiset, ammatilliset, arkisto, eri, index02, jossa, julkinen, kehykset
+- suggested keyword seed: ashraellen, käytäntö, ammatillinen, ashraellenin, esittely, havainnoinnin, julkiset, menetelmä, muodot, professional, rinnakkaiset, ammatilliset, arkisto, eri, jossa, julkinen, kehykset, kielten
 - candidates: ashraellen, tai, säilyttää, ashraellenin, eri, jossa, julkinen, käytäntö, kielten, tekijän, tutkimus, arkisto, miten, sekä, sen, työ, työn, välillä, ajan, digitaalinen, merkitys, muodot, muoto, suunnat
 
 Excerpt:
