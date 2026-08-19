@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-19T11:02:07.256Z
-Pages: 851
+Generated: 2026-08-19T11:08:50.980Z
+Pages: 849
 
 ## Index
 
@@ -391,9 +391,7 @@ Pages: 851
 | fr/index.html | fr | index.html | Ashraellen — livres, recherche et textes publics | _missing_ | ashraellen, recherche, livres, publics, textes, artistique, est, indépendante, littéraire, multilingue, contact, index.html, les, philosophique, pratique, satire, son, une |
 | fr/monolith/index.html | fr | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, fr, monolith | monolith, beton, gas, sludge, ashraellen, est, mémoire, sur, une, amazon, anglais, contrôle, contrôlée, des, désintégration, dystopique, états, l’effondrement |
 | fr/privacy.html | fr | privacy.html | Politique de confidentialité — Ashraellen | _missing_ | confidentialité, politique, données, analyse, ashraellen, cookies, être, jour, services, achats, base, cette, collectées, contact, d’ashraellen.com, des, droits, externes |
-| fr/professional/index.html | fr | professional | Ashraellen — Dossier professionnel | _missing_ | ashraellen, projet, d’observation, formes, développement, dossier, méthode, plan, professional, professionnel, publiques, recherche, actuel, auteur, cadres, champs, comment, contact |
-| fr/professional/index01.html | fr | professional | Ashraellen — Dossier professionnel | _missing_ | ashraellen, formes, recherche, axes, d’observation, dossier, méthode, œuvres, parallèles, pratique, professional, professionnel, publiques, sélectionnées, travail, artistique-philosophique, artistiques, aujourd’hui |
-| fr/professional/index02.html | fr | professional | Ashraellen — Dossier professionnel | _missing_ | ashraellen, formes, recherche, axes, d’observation, dossier, méthode, œuvres, parallèles, pratique, professional, professionnel, publiques, sélectionnées, travail, artistico-philosophique, artistiques, aujourd’hui |
+| fr/professional/index.html | fr | professional | Ashraellen — Dossier professionnel | _missing_ | ashraellen, formes, recherche, axes, d’observation, dossier, méthode, œuvres, parallèles, pratique, professional, professionnel, publiques, sélectionnées, travail, artistico-philosophique, artistiques, aujourd’hui |
 | fr/public/index.html | fr | public | Ashraellen — Public | Ashraellen, champ public, interventions, publications, pensées d’appui, recherche, observations | public, ashraellen, d’appui, pensées, interventions, personne, publications, avec, champ, dans, elle, les, nouvelles, observations, ouvrir, pas, pensée, projets |
 | fr/public/posts/essay/cycles/cycle-0001.html | fr | public | Ashraellen — Premier cycle de mini-essais | ashraellen, public, posts, essay, cycles, cycle, 0001, premier, mini-essais, pouvoir, non, sur, pensée, mais, l’attention, corps, est, première | cycle, premier, est, mais, non, sur, corps, passé, pensée, ashraellen, interprétation, l’attention, mini-essais, porte, pouvoir, première, public, son |
 | fr/public/posts/essay/cycles/index.html | fr | public | Ashraellen — Cycles de mini-essais | ashraellen, public, posts, essay, cycles, mini-essais, achevés, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | cycles, mini-essais, achevés, actuel, cycle, ashraellen, ici, les, principale, public, rassemblés, section, sont, essay, posts, premier, sur, trouve |
@@ -7390,40 +7388,6 @@ Excerpt:
 > Transparence juridique Politique de confidentialité Cette page explique quelles données Ashraellen.com peut traiter, pourquoi elles sont utilisées et quels droits possède le visiteur du site. Dernière mise à jour : 25 mai 2026 1. Responsable du site Le site Ashraellen.com fait partie du projet créatif et de recherche indépendant Ashraellen , associé à Nikolai Kostyshev. Pour les questions liées à la confidentialité, à la coopération, aux subventions, à l’édition ou aux médias, vous pouvez écrire à : ashraellen.live@gmail.com . 2. Données pouvant être collectées Le site peut traiter un volume limité de données techniques et de contact : type de navigateur, type d’appareil, localisation approximative issue du réseau, pages visitées, heure de visite, données Google Analytics avec anonymisation IP, données envoyées volontairement par e-mail et données techniques nécessaires au fonctionnement
 
 ### fr/professional/index.html
-
-- lang: fr
-- section: professional
-- title: Ashraellen — Dossier professionnel
-- description: Dossier professionnel d’Ashraellen : auteur, méthode d’observation, livres, formes publiques du projet, plan de développement, coopération et contact.
-- canonical: https://www.ashraellen.com/fr/professional/
-- H1: Ashraellen
-- H2: À propos de l’auteur | Position d’observation | Méthode d’observation | Cadres professionnels | Œuvres et champs sélectionnés | Formes publiques du projet | Projet actuel en recherche de soutien | Plan de développement
-- H3: Recherche artistique | Savoir ouvert | Société numérique | Archive numérique indépendante | MONOLITH | BETON | SLUDGE | The Book of Whinesis
-- suggested keyword seed: ashraellen, projet, d’observation, formes, développement, dossier, méthode, plan, professional, professionnel, publiques, recherche, actuel, auteur, cadres, champs, comment, contact
-- candidates: des, projet, les, travail, une, recherche, sur, ashraellen, formes, comment, est, numérique, ouvrir, publique, archive, chaîne, comme, d’observation, forme, livres, multilingue, vidéo, artistique, non
-
-Excerpt:
-
-> Dossier professionnel Ashraellen Observation artistique · Travail littéraire · Archive publique Cette page rassemble le projet Ashraellen sous une forme professionnelle : auteur, méthode, corpus d’œuvres, formes publiques, plan de développement, conditions de travail nécessaires et possibilités de coopération. À propos de l’auteur Ashraellen est le nom de travail de Nikolai Kostyshev , écrivain indépendant et chercheur artistique vivant en Pologne. Le travail de l’auteur réunit prose littéraire, observation phénoménologique, satire sociale, culture numérique et pratique philosophique publique. À travers livres, essais, vidéos, publications et archive multilingue, le projet montre comment l’être humain contemporain perd clarté, appui intérieur et contact avec la réalité — et comment ces processus peuvent devenir visibles par la forme. Le russe est la langue principale de pensée et d’écrit
-
-### fr/professional/index01.html
-
-- lang: fr
-- section: professional
-- title: Ashraellen — Dossier professionnel
-- description: Dossier professionnel d’Ashraellen : pratique littéraire et artistique-philosophique, méthode d’observation, œuvres sélectionnées, formes publiques et axes de recherche parallèles.
-- canonical: https://www.ashraellen.com/fr/professional/
-- H1: Ashraellen
-- H2: Noyau de recherche | À propos de l’auteur | Méthode d’observation | Cadres professionnels | Œuvres littéraires et artistiques sélectionnées | Formes publiques du projet | Axes parallèles | Comment ce travail se développe aujourd’hui
-- H3: Recherche artistique | Savoir ouvert | Société numérique | Archive numérique indépendante | MONOLITHE | Éclat | Demotopia — Utopie démocratique | Ashraellen — Esprit du Nouvel Âge
-- suggested keyword seed: ashraellen, formes, recherche, axes, d’observation, dossier, méthode, œuvres, parallèles, pratique, professional, professionnel, publiques, sélectionnées, travail, artistique-philosophique, artistiques, aujourd’hui
-- candidates: une, les, des, recherche, travail, pas, dans, sens, formes, pratique, d’un, est, ashraellen, axes, philosophique, avec, d’ashraellen, d’une, littéraire, préserver, publiques, artistique, comme, l’auteur
-
-Excerpt:
-
-> Dossier professionnel Ashraellen Une manière de voir · Pratique littéraire et artistique-philosophique · Recherche · Archive publique Cette page présente l’activité d’Ashraellen dans un contexte professionnel — pour les maisons d’édition, les organisations culturelles et de recherche, les fondations, les partenaires, les médias et d’autres formes de collaboration. Le site principal demeure un espace vivant de livres, de recherches, de textes publics et d’autres travaux ; ce dossier offre une vision plus concentrée de ce qu’est aujourd’hui la pratique d’Ashraellen et des directions dans lesquelles elle se développe. Noyau de recherche Ashraellen n’est pas tout à fait un nom ; c’est plutôt une manière de voir. Il s’agit d’une recherche artistique et philosophique menée tout au long d’une vie sur le sens, la perception, l’auto-illusion, la liberté intérieure et la perte humaine de contact a
-
-### fr/professional/index02.html
 
 - lang: fr
 - section: professional
