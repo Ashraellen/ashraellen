@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-19T10:48:22.137Z
-Pages: 850
+Generated: 2026-08-19T10:49:18.860Z
+Pages: 851
 
 ## Index
 
@@ -569,6 +569,7 @@ Pages: 850
 | pt/privacy.html | pt | privacy.html | Política de privacidade — Ashraellen | _missing_ | dados, política, privacidade, análise, que, ashraellen, cookies, para, plataformas, podem, ser, ashraellen.com, atualizações, base, com, compras, contacto, direitos |
 | pt/professional/index.html | pt | professional | Ashraellen — Dossiê profissional | _missing_ | ashraellen, observação, projeto, apoio, autor, desenvolvimento, dossiê, formas, método, plano, professional, profissional, públicas, arquivo, atual, busca, campos, como |
 | pt/professional/index01.html | pt | professional | Ashraellen — Dossiê profissional | _missing_ | ashraellen, formas, investigação, como, dossiê, linhas, método, obras, observação, paralelas, prática, professional, profissional, públicas, selecionadas, trabalho, artísticas, artístico-filosófica |
+| pt/professional/index02.html | pt | professional | Ashraellen — Dossiê profissional | _missing_ | ashraellen, formas, investigação, como, dossiê, linhas, método, obras, observação, paralelas, prática, professional, profissional, públicas, selecionadas, trabalho, artísticas, artístico-filosófica |
 | pt/public/index.html | pt | public | Ashraellen — Público | Ashraellen, campo público, falas, publicações, pensamentos de apoio, pesquisa, observações | público, apoio, ashraellen, pensamentos, campo, falas, onde, pessoa, public, publicações, abrir, com, encontra, não, novos, observações, pensamento, pesquisa |
 | pt/public/posts/essay/cycles/cycle-0001.html | pt | public | Ashraellen — Primeiro ciclo de mini-ensaios | ashraellen, public, posts, essay, cycles, cycle, 0001, primeiro, ciclo, mini-ensaios, poder, não, sobre, pensamento, mas, atenção, corpo, primeira | ciclo, primeiro, mas, não, sobre, corpo, passado, pensamento, ashraellen, atenção, interpretação, mini-ensaios, objetivo, poder, porta, primeira, public, sua |
 | pt/public/posts/essay/cycles/index.html | pt | public | Ashraellen — Ciclos de mini-ensaios | ashraellen, public, posts, essay, cycles, ciclos, mini-ensaios, concluídos, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ciclos, mini-ensaios, concluídos, atual, ciclo, aqui, ashraellen, estão, fica, página, para, primeiro, principal, public, cycles, essay, posts, reunidos |
@@ -10413,6 +10414,23 @@ Excerpt:
 Excerpt:
 
 > Dossiê profissional Ashraellen Uma forma de ver · Prática literária e artístico-filosófica · Investigação · Arquivo público Esta página apresenta o trabalho de Ashraellen num contexto profissional — para editoras, organizações culturais e de investigação, fundações, parceiros, meios de comunicação e outras formas de colaboração. O site principal continua a ser um espaço vivo de livros, investigação, textos públicos e outros trabalhos; este dossiê oferece uma visão mais concentrada do que é hoje a prática de Ashraellen e das direções em que se desenvolve. Núcleo de investigação Ashraellen não é exatamente um nome; é, antes de mais, uma forma de ver. É uma investigação artístico-filosófica, ao longo de uma vida, sobre sentido, perceção, autoengano, liberdade interior e a perda humana de contacto com a realidade. O trabalho assenta na capacidade do autor de reconhecer sentidos dentro de sen
+
+### pt/professional/index02.html
+
+- lang: pt
+- section: professional
+- title: Ashraellen — Dossiê profissional
+- description: Dossiê profissional de Ashraellen: prática literária e artístico-filosófica, método de observação, obras selecionadas, formas públicas e linhas de investigação paralelas.
+- canonical: https://www.ashraellen.com/pt/professional/
+- H1: Ashraellen
+- H2: Núcleo de investigação | Sobre o autor | Método de observação | Enquadramentos profissionais | Obras literárias e artísticas selecionadas | Formas públicas do projeto | Linhas paralelas | Como o trabalho se desenvolve hoje
+- H3: Investigação artística | Conhecimento aberto | Sociedade digital | Arquivo digital independente | MONÓLITO | Esplendor | Demotopia — Utopia Democrática | Ashraellen — Espírito da Nova Era
+- suggested keyword seed: ashraellen, formas, investigação, como, dossiê, linhas, método, obras, observação, paralelas, prática, professional, profissional, públicas, selecionadas, trabalho, artísticas, artístico-filosófica
+- candidates: uma, investigação, que, trabalho, ashraellen, não, como, prática, formas, sentido, para, com, linhas, observação, línguas, entre, forma, ser, literária, pessoa, públicas, arquivo, diferentes, projeto
+
+Excerpt:
+
+> Dossiê profissional Ashraellen Uma forma de ver · Prática literária e artístico-filosófica · Investigação · Arquivo público Esta página apresenta o trabalho de Ashraellen num contexto profissional — para editoras, organizações culturais e de investigação, fundações, parceiros, meios de comunicação e outras formas de colaboração. O site principal continua a ser um espaço vivo de livros, investigação, textos públicos e outros trabalhos; este dossiê oferece uma visão mais concentrada do que é hoje a prática de Ashraellen e das direções em que se desenvolve. Núcleo de investigação Ashraellen não é exatamente um nome; é, antes, uma forma de ver. É uma investigação artístico-filosófica, ao longo de uma vida, sobre sentido, perceção, autoengano, liberdade interior e a perda humana de contacto com a realidade. O trabalho assenta na capacidade do autor de reconhecer sentidos dentro de sentidos, e
 
 ### pt/public/index.html
 
