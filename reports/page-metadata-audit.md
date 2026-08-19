@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-19T09:28:36.991Z
+Generated: 2026-08-19T09:48:05.318Z
 
-Pages checked: 850
-Pages with issues: 358
-Total issues: 1791
+Pages checked: 851
+Pages with issues: 359
+Total issues: 1801
 Pages with review notes: 649
 Total review notes: 2304
 
@@ -12,23 +12,24 @@ Total review notes: 2304
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 239 |
-| MISSING_TWITTER_IMAGE | 193 |
-| MISSING_TWITTER_CARD | 179 |
-| MISSING_JSON_LD | 176 |
-| MISSING_OG_DESCRIPTION | 174 |
-| MISSING_OG_IMAGE | 173 |
-| MISSING_OG_TITLE | 172 |
-| MISSING_DESCRIPTION | 123 |
+| MISSING_KEYWORDS | 240 |
+| MISSING_TWITTER_IMAGE | 194 |
+| MISSING_TWITTER_CARD | 180 |
+| MISSING_JSON_LD | 177 |
+| MISSING_OG_DESCRIPTION | 175 |
+| MISSING_OG_IMAGE | 174 |
+| MISSING_OG_TITLE | 173 |
+| MISSING_DESCRIPTION | 124 |
 | DUPLICATE_CANONICAL | 71 |
 | DUPLICATE_TITLE | 68 |
 | DUPLICATE_OG_TITLE | 66 |
-| MISSING_CANONICAL | 47 |
+| MISSING_CANONICAL | 48 |
 | OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 31 |
 | TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 31 |
 | DUPLICATE_KEYWORDS | 27 |
 | DESCRIPTION_TOO_SHORT | 20 |
 | DESCRIPTION_TOO_LONG | 1 |
+| MISSING_TITLE | 1 |
 
 
 ## Review note summary
@@ -3652,6 +3653,25 @@ Total review notes: 2304
 - DUPLICATE_TITLE: shared by 3 pages
 - DUPLICATE_CANONICAL: shared by 3 pages
 - DUPLICATE_OG_TITLE: shared by 3 pages
+
+### ru/professional/index03.html
+
+- title: _missing_
+- description length: 0
+- canonical: _missing_
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_TITLE
+- MISSING_DESCRIPTION
+- MISSING_KEYWORDS
+- MISSING_CANONICAL
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
 
 ### ru/public/posts/fragment/index.html
 

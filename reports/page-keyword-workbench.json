@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T09:28:37.693Z",
+  "generated": "2026-08-19T09:48:06.005Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -49339,6 +49339,30 @@
         "где",
         "избранные",
         "или"
+      ]
+    },
+    {
+      "page": "ru/professional/index03.html",
+      "lang": "ru",
+      "section": "professional",
+      "title": "",
+      "description": "",
+      "existingKeywords": "",
+      "canonical": "",
+      "h1": [],
+      "h2": [],
+      "h3": [],
+      "slugTerms": [
+        "ru",
+        "professional",
+        "index03"
+      ],
+      "excerpt": "",
+      "candidates": [],
+      "suggestedKeywordSeed": [
+        "professional",
+        "ashraellen",
+        "index03"
       ]
     },
     {
