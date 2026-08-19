@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-19T11:14:50.084Z
-Pages: 851
+Generated: 2026-08-19T11:17:20.451Z
+Pages: 849
 
 ## Index
 
@@ -98,9 +98,7 @@ Pages: 851
 | de/index.html | de | index.html | Ashraellen — Bücher, Forschung und öffentliche Texte | _missing_ | ashraellen, und, bücher, forschung, öffentliche, texte, eine, forschungspraxis, ist, klang, der, die, index.html, künstlerische, literarisch-philosophische, mehrsprachige, satire, unabhängige |
 | de/monolith/index.html | de | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, de, monolith | monolith, beton, gas, sludge, ashraellen, erinnerung, ist, amazon, auf, band, bei, den, die, drei, dystopische, eine, kontrolle, kontrollierten |
 | de/privacy.html | de | privacy.html | Datenschutzerklärung — Ashraellen | _missing_ | und, analyse, daten, datenschutzerklärung, ashraellen, cookies, der, externe, für, können, werden, ashraellen.com, die, dienste, kann, käufe, kontakt, lokale |
-| de/professional/index.html | de | professional | Ashraellen — Professionelles Dossier | _missing_ | ashraellen, der, beobachtung, des, öffentliche, und, autor, dossier, entwicklungsplan, formen, professional, professionelles, projekt, projekts, von, aktuelles, auf, ausgewählte |
-| de/professional/index01.html | de | professional | Ashraellen — Professionelles Dossier | _missing_ | ashraellen, und, arbeit, ausgewählte, beobachtungsmethode, des, die, dossier, formen, literarische, öffentliche, parallele, praxis, professional, professionelles, von, arbeiten, autor |
-| de/professional/index02.html | de | professional | Ashraellen — Professionelles Dossier | _missing_ | ashraellen, und, arbeit, ausgewählte, beobachtungsmethode, des, die, dossier, formen, literarische, öffentliche, parallele, professional, professionelles, sich, von, arbeiten, autor |
+| de/professional/index.html | de | professional | Ashraellen — Professionelles Dossier | _missing_ | ashraellen, und, arbeit, ausgewählte, beobachtungsmethode, des, die, dossier, formen, literarische, öffentliche, parallele, professional, professionelles, sich, von, arbeiten, autor |
 | de/public/index.html | de | public | Ashraellen — Öffentlich | Ashraellen, öffentliches Feld, Auftritte, Veröffentlichungen, Stützgedanken, Forschung, Beobachtungen | ashraellen, auftritte, öffentlich, public, stützgedanken, und, veröffentlichungen, begegnet, beobachtungen, dem, denen, der, des, die, ein, eine, feld, forschung |
 | de/public/posts/essay/cycles/cycle-0001.html | de | public | Ashraellen — Erster Mini-Essay-Zyklus | ashraellen, public, posts, essay, cycles, cycle, 0001, erster, mini-essay-zyklus, zyklus, macht, nicht, über, den, gedanken, sondern, die, aufmerksamkeit | die, erster, ist, nicht, zyklus, der, über, das, erste, körper, vergangenheit, aber, ashraellen, aufmerksamkeit, den, deutung, gedanken, ihre |
 | de/public/posts/essay/cycles/index.html | de | public | Ashraellen — Mini-Essay-Zyklen | ashraellen, public, posts, essay, cycles, mini-essay-zyklen, abgeschlossene, zyklen, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | abgeschlossene, mini-essay-zyklen, zyklen, der, abschnitts, aktuelle, ashraellen, auf, befindet, des, gesammelt, hauptseite, public, zyklus, cycles, essay, hier, mini-essays |
@@ -2409,40 +2407,6 @@ Excerpt:
 > Rechtliche Transparenz Datenschutzerklärung Diese Seite erklärt, welche Daten Ashraellen.com verarbeiten kann, zu welchem Zweck sie genutzt werden und welche Rechte Besucher haben. Zuletzt aktualisiert: 25. Mai 2026 1. Verantwortliche Stelle Die Website Ashraellen.com ist Teil des unabhängigen kreativen und forschenden Projekts Ashraellen , verbunden mit Nikolai Kostyshev. Kontakt: ashraellen.live@gmail.com . 2. Welche Daten verarbeitet werden können Die Website kann begrenzte technische und Kontaktdaten verarbeiten: Browser- und Gerätedaten, ungefähre netzwerkbasierte Standortdaten, besuchte Seiten, Besuchszeit, Google-Analytics-Daten mit IP-Anonymisierung, freiwillig per E-Mail übermittelte Daten und technische Daten, die für den Betrieb der Website erforderlich sind. 3. Zweck der Verarbeitung Daten können verwendet werden, um die Website bereitzustellen, ihre Struktur und Sprachversio
 
 ### de/professional/index.html
-
-- lang: de
-- section: professional
-- title: Ashraellen — Professionelles Dossier
-- description: Professionelles Dossier von Ashraellen: Autor, Beobachtungsmethode, Bücher, öffentliche Formen des Projekts, Entwicklungsplan, Zusammenarbeit und Kontakt.
-- canonical: https://www.ashraellen.com/de/professional/
-- H1: Ashraellen
-- H2: Über den Autor | Position der Beobachtung | Methode der Beobachtung | Professionelle Rahmen | Ausgewählte Werke und Felder | Öffentliche Formen des Projekts | Aktuelles Projekt auf der Suche nach Unterstützung | Entwicklungsplan
-- H3: Künstlerische Forschung | Offenes Wissen | Digitale Gesellschaft | Unabhängiges digitales Archiv | MONOLITH | BETON | SLUDGE | The Book of Whinesis
-- suggested keyword seed: ashraellen, der, beobachtung, des, öffentliche, und, autor, dossier, entwicklungsplan, formen, professional, professionelles, projekt, projekts, von, aktuelles, auf, ausgewählte
-- candidates: und, der, die, ein, des, von, das, ashraellen, beobachtung, eine, öffentliche, projekt, über, formen, wie, arbeit, ist, nicht, öffnen, als, archiv, mehrsprachige, bücher, digitale
-
-Excerpt:
-
-> Professionelles Dossier Ashraellen Künstlerische Beobachtung · Literarische Arbeit · Öffentliches Archiv Diese Seite fasst das Projekt Ashraellen in professioneller Form zusammen: Autor, Methode, Werkbestand, öffentliche Formen, Entwicklungsplan, notwendige Arbeitsbedingungen und Möglichkeiten der Zusammenarbeit. Über den Autor Ashraellen ist der Arbeitsname von Nikolai Kostyshev , einem unabhängigen Schriftsteller und künstlerischen Forscher, der in Polen lebt. Die Arbeit des Autors verbindet literarische Prosa, phänomenologische Beobachtung, soziale Satire, digitale Kultur und öffentliche philosophische Praxis. Durch Bücher, Essays, Videos, Veröffentlichungen und ein mehrsprachiges Archiv zeigt das Projekt, wie der heutige Mensch Klarheit, inneren Halt und Kontakt zur Realität verliert — und wie diese Prozesse durch Form sichtbar werden können. Russisch ist die Hauptsprache des Denkens
-
-### de/professional/index01.html
-
-- lang: de
-- section: professional
-- title: Ashraellen — Professionelles Dossier
-- description: Professionelles Dossier von Ashraellen: literarische und künstlerisch-philosophische Praxis, Beobachtungsmethode, ausgewählte Werke, öffentliche Formen und parallele Forschungsrichtungen.
-- canonical: https://www.ashraellen.com/de/professional/
-- H1: Ashraellen
-- H2: Forschungskern | Über den Autor | Beobachtungsmethode | Professionelle Rahmen | Ausgewählte literarische und künstlerische Arbeiten | Öffentliche Formen des Projekts | Parallele Richtungen | Wie sich die Arbeit heute entwickelt
-- H3: Künstlerische Forschung | Offenes Wissen | Digitale Gesellschaft | Unabhängiges digitales Archiv | MONOLITH | Glanz | Demotopia — Demokratische Utopie | Ashraellen — Geist der Neuen Zeit
-- suggested keyword seed: ashraellen, und, arbeit, ausgewählte, beobachtungsmethode, des, die, dossier, formen, literarische, öffentliche, parallele, praxis, professional, professionelles, von, arbeiten, autor
-- candidates: und, die, der, von, ein, eine, ashraellen, des, arbeit, nicht, ist, praxis, sich, formen, als, sie, einer, sinn, forschung, öffentliche, beobachtung, einem, mit, oder
-
-Excerpt:
-
-> Professionelles Dossier Ashraellen Eine Art zu sehen · Literarische und künstlerisch-philosophische Praxis · Forschung · Öffentliches Archiv Diese Seite stellt die Tätigkeit von Ashraellen in einem professionellen Kontext vor — für Verlage, Kultur- und Forschungsorganisationen, Stiftungen, Partner, Medien und andere Formen der Zusammenarbeit. Die Hauptseite bleibt ein lebendiger Raum für Bücher, Forschung, öffentliche Texte und andere Arbeiten; dieses Dossier bietet ein konzentrierteres Bild davon, was die Praxis von Ashraellen heute ist und in welche Richtungen sie sich entwickelt. Forschungskern Ashraellen ist nicht ganz ein Name; eher eine Art zu sehen. Es ist eine lebenslange künstlerisch-philosophische Untersuchung von Sinn, Wahrnehmung, Selbsttäuschung, innerer Freiheit und dem menschlichen Verlust des Kontakts zur Realität. Die Arbeit beruht auf der Fähigkeit des Autors, Sinn in S
-
-### de/professional/index02.html
 
 - lang: de
 - section: professional
