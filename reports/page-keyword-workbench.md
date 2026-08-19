@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-19T11:13:54.290Z
-Pages: 850
+Generated: 2026-08-19T11:14:50.084Z
+Pages: 851
 
 ## Index
 
@@ -100,6 +100,7 @@ Pages: 850
 | de/privacy.html | de | privacy.html | Datenschutzerklärung — Ashraellen | _missing_ | und, analyse, daten, datenschutzerklärung, ashraellen, cookies, der, externe, für, können, werden, ashraellen.com, die, dienste, kann, käufe, kontakt, lokale |
 | de/professional/index.html | de | professional | Ashraellen — Professionelles Dossier | _missing_ | ashraellen, der, beobachtung, des, öffentliche, und, autor, dossier, entwicklungsplan, formen, professional, professionelles, projekt, projekts, von, aktuelles, auf, ausgewählte |
 | de/professional/index01.html | de | professional | Ashraellen — Professionelles Dossier | _missing_ | ashraellen, und, arbeit, ausgewählte, beobachtungsmethode, des, die, dossier, formen, literarische, öffentliche, parallele, praxis, professional, professionelles, von, arbeiten, autor |
+| de/professional/index02.html | de | professional | Ashraellen — Professionelles Dossier | _missing_ | ashraellen, und, arbeit, ausgewählte, beobachtungsmethode, des, die, dossier, formen, literarische, öffentliche, parallele, professional, professionelles, sich, von, arbeiten, autor |
 | de/public/index.html | de | public | Ashraellen — Öffentlich | Ashraellen, öffentliches Feld, Auftritte, Veröffentlichungen, Stützgedanken, Forschung, Beobachtungen | ashraellen, auftritte, öffentlich, public, stützgedanken, und, veröffentlichungen, begegnet, beobachtungen, dem, denen, der, des, die, ein, eine, feld, forschung |
 | de/public/posts/essay/cycles/cycle-0001.html | de | public | Ashraellen — Erster Mini-Essay-Zyklus | ashraellen, public, posts, essay, cycles, cycle, 0001, erster, mini-essay-zyklus, zyklus, macht, nicht, über, den, gedanken, sondern, die, aufmerksamkeit | die, erster, ist, nicht, zyklus, der, über, das, erste, körper, vergangenheit, aber, ashraellen, aufmerksamkeit, den, deutung, gedanken, ihre |
 | de/public/posts/essay/cycles/index.html | de | public | Ashraellen — Mini-Essay-Zyklen | ashraellen, public, posts, essay, cycles, mini-essay-zyklen, abgeschlossene, zyklen, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | abgeschlossene, mini-essay-zyklen, zyklen, der, abschnitts, aktuelle, ashraellen, auf, befindet, des, gesammelt, hauptseite, public, zyklus, cycles, essay, hier, mini-essays |
@@ -2440,6 +2441,23 @@ Excerpt:
 Excerpt:
 
 > Professionelles Dossier Ashraellen Eine Art zu sehen · Literarische und künstlerisch-philosophische Praxis · Forschung · Öffentliches Archiv Diese Seite stellt die Tätigkeit von Ashraellen in einem professionellen Kontext vor — für Verlage, Kultur- und Forschungsorganisationen, Stiftungen, Partner, Medien und andere Formen der Zusammenarbeit. Die Hauptseite bleibt ein lebendiger Raum für Bücher, Forschung, öffentliche Texte und andere Arbeiten; dieses Dossier bietet ein konzentrierteres Bild davon, was die Praxis von Ashraellen heute ist und in welche Richtungen sie sich entwickelt. Forschungskern Ashraellen ist nicht ganz ein Name; eher eine Art zu sehen. Es ist eine lebenslange künstlerisch-philosophische Untersuchung von Sinn, Wahrnehmung, Selbsttäuschung, innerer Freiheit und dem menschlichen Verlust des Kontakts zur Realität. Die Arbeit beruht auf der Fähigkeit des Autors, Sinn in S
+
+### de/professional/index02.html
+
+- lang: de
+- section: professional
+- title: Ashraellen — Professionelles Dossier
+- description: Professionelles Dossier von Ashraellen: literarische und künstlerisch-philosophische Praxis, Beobachtungsmethode, ausgewählte Werke, öffentliche Formen und parallele Forschungsrichtungen.
+- canonical: https://www.ashraellen.com/de/professional/
+- H1: Ashraellen
+- H2: Forschungskern | Über den Autor | Beobachtungsmethode | Professionelle Rahmen | Ausgewählte literarische und künstlerische Arbeiten | Öffentliche Formen des Projekts | Parallele Richtungen | Wie sich die Arbeit heute entwickelt
+- H3: Künstlerische Forschung | Offenes Wissen | Digitale Gesellschaft | Unabhängiges digitales Archiv | MONOLITH | Glanz | Demotopia — Demokratische Utopie | Ashraellen — Geist der Neuen Zeit
+- suggested keyword seed: ashraellen, und, arbeit, ausgewählte, beobachtungsmethode, des, die, dossier, formen, literarische, öffentliche, parallele, professional, professionelles, sich, von, arbeiten, autor
+- candidates: und, die, der, von, ein, eine, ashraellen, des, arbeit, nicht, ist, sich, praxis, formen, als, sie, einer, forschung, sinn, öffentliche, beobachtung, einem, mit, oder
+
+Excerpt:
+
+> Professionelles Dossier Ashraellen Eine Weise zu sehen · Literarische und künstlerisch-philosophische Praxis · Forschung · Öffentliches Archiv Diese Seite stellt die Tätigkeit von Ashraellen in einem professionellen Kontext vor — für Verlage, Kultur- und Forschungsorganisationen, Stiftungen, Partner, Medien und andere Formen der Zusammenarbeit. Die Hauptseite bleibt ein lebendiger Raum für Bücher, Forschung, öffentliche Texte und andere Arbeiten; dieses Dossier bietet ein konzentrierteres Bild davon, was die Praxis von Ashraellen heute ist und in welche Richtungen sie sich entwickelt. Forschungskern Ashraellen ist nicht ganz ein Name; eher eine Weise zu sehen. Es ist eine lebenslange künstlerisch-philosophische Untersuchung von Sinn, Wahrnehmung, Selbsttäuschung, innerer Freiheit und dem menschlichen Verlust des Kontakts zur Realität. Die Arbeit beruht auf der Fähigkeit des Autors, Sinn 
 
 ### de/public/index.html
 

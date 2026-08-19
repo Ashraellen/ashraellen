@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T11:13:54.244Z",
+  "generated": "2026-08-19T11:14:50.066Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -6991,6 +6991,90 @@
         "praxis",
         "professional",
         "professionelles",
+        "von",
+        "arbeiten",
+        "autor"
+      ]
+    },
+    {
+      "page": "de/professional/index02.html",
+      "lang": "de",
+      "section": "professional",
+      "title": "Ashraellen — Professionelles Dossier",
+      "description": "Professionelles Dossier von Ashraellen: literarische und künstlerisch-philosophische Praxis, Beobachtungsmethode, ausgewählte Werke, öffentliche Formen und parallele Forschungsrichtungen.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/de/professional/",
+      "h1": [
+        "Ashraellen"
+      ],
+      "h2": [
+        "Forschungskern",
+        "Über den Autor",
+        "Beobachtungsmethode",
+        "Professionelle Rahmen",
+        "Ausgewählte literarische und künstlerische Arbeiten",
+        "Öffentliche Formen des Projekts",
+        "Parallele Richtungen",
+        "Wie sich die Arbeit heute entwickelt"
+      ],
+      "h3": [
+        "Künstlerische Forschung",
+        "Offenes Wissen",
+        "Digitale Gesellschaft",
+        "Unabhängiges digitales Archiv",
+        "MONOLITH",
+        "Glanz",
+        "Demotopia — Demokratische Utopie",
+        "Ashraellen — Geist der Neuen Zeit"
+      ],
+      "slugTerms": [
+        "de",
+        "professional",
+        "index02"
+      ],
+      "excerpt": "Professionelles Dossier Ashraellen Eine Weise zu sehen · Literarische und künstlerisch-philosophische Praxis · Forschung · Öffentliches Archiv Diese Seite stellt die Tätigkeit von Ashraellen in einem professionellen Kontext vor — für Verlage, Kultur- und Forschungsorganisationen, Stiftungen, Partner, Medien und andere Formen der Zusammenarbeit. Die Hauptseite bleibt ein lebendiger Raum für Bücher, Forschung, öffentliche Texte und andere Arbeiten; dieses Dossier bietet ein konzentrierteres Bild davon, was die Praxis von Ashraellen heute ist und in welche Richtungen sie sich entwickelt. Forschungskern Ashraellen ist nicht ganz ein Name; eher eine Weise zu sehen. Es ist eine lebenslange künstlerisch-philosophische Untersuchung von Sinn, Wahrnehmung, Selbsttäuschung, innerer Freiheit und dem menschlichen Verlust des Kontakts zur Realität. Die Arbeit beruht auf der Fähigkeit des Autors, Sinn ",
+      "candidates": [
+        "und",
+        "die",
+        "der",
+        "von",
+        "ein",
+        "eine",
+        "ashraellen",
+        "des",
+        "arbeit",
+        "nicht",
+        "ist",
+        "sich",
+        "praxis",
+        "formen",
+        "als",
+        "sie",
+        "einer",
+        "forschung",
+        "sinn",
+        "öffentliche",
+        "beobachtung",
+        "einem",
+        "mit",
+        "oder"
+      ],
+      "suggestedKeywordSeed": [
+        "ashraellen",
+        "und",
+        "arbeit",
+        "ausgewählte",
+        "beobachtungsmethode",
+        "des",
+        "die",
+        "dossier",
+        "formen",
+        "literarische",
+        "öffentliche",
+        "parallele",
+        "professional",
+        "professionelles",
+        "sich",
         "von",
         "arbeiten",
         "autor"
