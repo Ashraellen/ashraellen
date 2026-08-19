@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T10:58:12.785Z",
+  "generated": "2026-08-19T11:01:06.672Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -28665,6 +28665,90 @@
         "champs",
         "comment",
         "contact"
+      ]
+    },
+    {
+      "page": "fr/professional/index01.html",
+      "lang": "fr",
+      "section": "professional",
+      "title": "Ashraellen — Dossier professionnel",
+      "description": "Dossier professionnel d’Ashraellen : pratique littéraire et artistique-philosophique, méthode d’observation, œuvres sélectionnées, formes publiques et axes de recherche parallèles.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/fr/professional/",
+      "h1": [
+        "Ashraellen"
+      ],
+      "h2": [
+        "Noyau de recherche",
+        "À propos de l’auteur",
+        "Méthode d’observation",
+        "Cadres professionnels",
+        "Œuvres littéraires et artistiques sélectionnées",
+        "Formes publiques du projet",
+        "Axes parallèles",
+        "Comment ce travail se développe aujourd’hui"
+      ],
+      "h3": [
+        "Recherche artistique",
+        "Savoir ouvert",
+        "Société numérique",
+        "Archive numérique indépendante",
+        "MONOLITHE",
+        "Éclat",
+        "Demotopia — Utopie démocratique",
+        "Ashraellen — Esprit du Nouvel Âge"
+      ],
+      "slugTerms": [
+        "fr",
+        "professional",
+        "index01"
+      ],
+      "excerpt": "Dossier professionnel Ashraellen Une manière de voir · Pratique littéraire et artistique-philosophique · Recherche · Archive publique Cette page présente l’activité d’Ashraellen dans un contexte professionnel — pour les maisons d’édition, les organisations culturelles et de recherche, les fondations, les partenaires, les médias et d’autres formes de collaboration. Le site principal demeure un espace vivant de livres, de recherches, de textes publics et d’autres travaux ; ce dossier offre une vision plus concentrée de ce qu’est aujourd’hui la pratique d’Ashraellen et des directions dans lesquelles elle se développe. Noyau de recherche Ashraellen n’est pas tout à fait un nom ; c’est plutôt une manière de voir. Il s’agit d’une recherche artistique et philosophique menée tout au long d’une vie sur le sens, la perception, l’auto-illusion, la liberté intérieure et la perte humaine de contact a",
+      "candidates": [
+        "une",
+        "les",
+        "des",
+        "recherche",
+        "travail",
+        "pas",
+        "dans",
+        "sens",
+        "formes",
+        "pratique",
+        "d’un",
+        "est",
+        "ashraellen",
+        "axes",
+        "philosophique",
+        "avec",
+        "d’ashraellen",
+        "d’une",
+        "littéraire",
+        "préserver",
+        "publiques",
+        "artistique",
+        "comme",
+        "l’auteur"
+      ],
+      "suggestedKeywordSeed": [
+        "ashraellen",
+        "formes",
+        "recherche",
+        "axes",
+        "d’observation",
+        "dossier",
+        "méthode",
+        "œuvres",
+        "parallèles",
+        "pratique",
+        "professional",
+        "professionnel",
+        "publiques",
+        "sélectionnées",
+        "travail",
+        "artistique-philosophique",
+        "artistiques",
+        "aujourd’hui"
       ]
     },
     {
