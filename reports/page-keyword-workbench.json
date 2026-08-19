@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T10:56:36.364Z",
+  "generated": "2026-08-19T10:58:12.785Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -18066,203 +18066,35 @@
       "lang": "es",
       "section": "professional",
       "title": "Ashraellen — Dosier profesional",
-      "description": "Dosier profesional de Ashraellen: autor, método de observación, libros, formas públicas del proyecto, plan de desarrollo, cooperación y contacto.",
+      "description": "Dosier profesional de Ashraellen: práctica literaria y artístico-filosófica, método de observación, obras seleccionadas, formas públicas y líneas de investigación paralelas.",
       "existingKeywords": "",
       "canonical": "https://www.ashraellen.com/es/professional/",
       "h1": [
         "Ashraellen"
       ],
       "h2": [
+        "Núcleo de investigación",
         "Sobre el autor",
-        "Posición de observación",
         "Método de observación",
         "Marcos profesionales",
-        "Obras y campos seleccionados",
+        "Obras literarias y artísticas seleccionadas",
         "Formas públicas del proyecto",
-        "Proyecto actual que busca apoyo",
-        "Plan de desarrollo"
+        "Líneas paralelas",
+        "Cómo se desarrolla hoy el trabajo"
       ],
       "h3": [
         "Investigación artística",
         "Conocimiento abierto",
         "Sociedad digital",
         "Archivo digital independiente",
-        "MONOLITH",
-        "BETON",
-        "SLUDGE",
-        "The Book of Whinesis"
+        "MONOLITO",
+        "Resplandor",
+        "Demotopia — Utopía Democrática",
+        "Ashraellen — Espíritu de la Nueva Era"
       ],
       "slugTerms": [
         "es",
         "professional"
-      ],
-      "excerpt": "Dosier profesional Ashraellen Observación artística · Trabajo literario · Archivo público Esta página reúne el proyecto Ashraellen en una forma profesional: el autor, el método, el corpus de obras, las formas públicas, el plan de desarrollo, las condiciones de trabajo necesarias y las posibilidades de cooperación. El sitio principal sigue siendo un espacio vivo para lectores y espectadores; este dosier es su mesa de trabajo. Sobre el autor Ashraellen es el nombre de trabajo de Nikolai Kostyshev , escritor independiente e investigador artístico que vive en Polonia. El trabajo del autor une prosa literaria, observación fenomenológica, sátira social, cultura digital y práctica filosófica pública. A través de libros, ensayos, vídeos, publicaciones y un archivo multilingüe, el proyecto muestra cómo la persona contemporánea pierde claridad, apoyo interior y contacto con la realidad — y cómo es",
-      "candidates": [
-        "del",
-        "proyecto",
-        "trabajo",
-        "para",
-        "observación",
-        "las",
-        "una",
-        "archivo",
-        "ashraellen",
-        "como",
-        "vídeo",
-        "forma",
-        "que",
-        "apoyo",
-        "con",
-        "formas",
-        "los",
-        "sobre",
-        "canal",
-        "investigación",
-        "materiales",
-        "multilingüe",
-        "cómo",
-        "vídeos"
-      ],
-      "suggestedKeywordSeed": [
-        "ashraellen",
-        "observación",
-        "proyecto",
-        "del",
-        "autor",
-        "desarrollo",
-        "dosier",
-        "formas",
-        "método",
-        "plan",
-        "profesional",
-        "professional",
-        "públicas",
-        "actual",
-        "apoyo",
-        "archivo",
-        "busca",
-        "campos"
-      ]
-    },
-    {
-      "page": "es/professional/index01.html",
-      "lang": "es",
-      "section": "professional",
-      "title": "Ashraellen — Dosier profesional",
-      "description": "Dosier profesional de Ashraellen: práctica literaria y artístico-filosófica, método de observación, obras seleccionadas, formas públicas y líneas de investigación paralelas.",
-      "existingKeywords": "",
-      "canonical": "https://www.ashraellen.com/es/professional/",
-      "h1": [
-        "Ashraellen"
-      ],
-      "h2": [
-        "Núcleo de investigación",
-        "Sobre el autor",
-        "Método de observación",
-        "Marcos profesionales",
-        "Obras literarias y artísticas seleccionadas",
-        "Formas públicas del proyecto",
-        "Líneas paralelas",
-        "Cómo se desarrolla hoy el trabajo"
-      ],
-      "h3": [
-        "Investigación artística",
-        "Conocimiento abierto",
-        "Sociedad digital",
-        "Archivo digital independiente",
-        "MONOLITO",
-        "Resplandor",
-        "Demotopia — Utopía Democrática",
-        "Ashraellen — Espíritu de la Nueva Era"
-      ],
-      "slugTerms": [
-        "es",
-        "professional",
-        "index01"
-      ],
-      "excerpt": "Dosier profesional Ashraellen Una forma de ver · Práctica literaria y artístico-filosófica · Investigación · Archivo público Esta página presenta la actividad de Ashraellen en un contexto profesional — para editoriales, organizaciones culturales y de investigación, fundaciones, colaboradores, medios de comunicación y otras formas de cooperación. El sitio principal sigue siendo un espacio vivo de libros, investigaciones, textos públicos y otros trabajos; este dosier ofrece una visión más concentrada de lo que es hoy la práctica de Ashraellen y de las direcciones en las que se desarrolla. Núcleo de investigación Ashraellen no es exactamente un nombre; es, más bien, una forma de ver. Es una investigación artístico-filosófica, desarrollada a lo largo de una vida, sobre el sentido, la percepción, el autoengaño, la libertad interior y la pérdida humana de contacto con la realidad. El trabajo s",
-      "candidates": [
-        "una",
-        "investigación",
-        "trabajo",
-        "que",
-        "del",
-        "ashraellen",
-        "las",
-        "formas",
-        "práctica",
-        "sentido",
-        "con",
-        "líneas",
-        "observación",
-        "lenguas",
-        "como",
-        "entre",
-        "literaria",
-        "para",
-        "forma",
-        "persona",
-        "públicas",
-        "archivo",
-        "cómo",
-        "filosófica"
-      ],
-      "suggestedKeywordSeed": [
-        "ashraellen",
-        "formas",
-        "investigación",
-        "líneas",
-        "del",
-        "dosier",
-        "método",
-        "obras",
-        "observación",
-        "paralelas",
-        "práctica",
-        "profesional",
-        "professional",
-        "públicas",
-        "seleccionadas",
-        "trabajo",
-        "artísticas",
-        "artístico-filosófica"
-      ]
-    },
-    {
-      "page": "es/professional/index02.html",
-      "lang": "es",
-      "section": "professional",
-      "title": "Ashraellen — Dosier profesional",
-      "description": "Dosier profesional de Ashraellen: práctica literaria y artístico-filosófica, método de observación, obras seleccionadas, formas públicas y líneas de investigación paralelas.",
-      "existingKeywords": "",
-      "canonical": "https://www.ashraellen.com/es/professional/",
-      "h1": [
-        "Ashraellen"
-      ],
-      "h2": [
-        "Núcleo de investigación",
-        "Sobre el autor",
-        "Método de observación",
-        "Marcos profesionales",
-        "Obras literarias y artísticas seleccionadas",
-        "Formas públicas del proyecto",
-        "Líneas paralelas",
-        "Cómo se desarrolla hoy el trabajo"
-      ],
-      "h3": [
-        "Investigación artística",
-        "Conocimiento abierto",
-        "Sociedad digital",
-        "Archivo digital independiente",
-        "MONOLITO",
-        "Resplandor",
-        "Demotopia — Utopía Democrática",
-        "Ashraellen — Espíritu de la Nueva Era"
-      ],
-      "slugTerms": [
-        "es",
-        "professional",
-        "index02"
       ],
       "excerpt": "Dosier profesional Ashraellen Una forma de ver · Práctica literaria y artístico-filosófica · Investigación · Archivo público Esta página presenta la actividad de Ashraellen en un contexto profesional — para editoriales, organizaciones culturales y de investigación, fundaciones, colaboradores, medios de comunicación y otras formas de cooperación. El sitio principal sigue siendo un espacio vivo de libros, investigaciones, textos públicos y otros trabajos; este dosier ofrece una visión más concentrada de lo que es hoy la práctica de Ashraellen y de las direcciones en las que se desarrolla. Núcleo de investigación Ashraellen no es exactamente un nombre; es, más bien, una forma de ver. Es una investigación artístico-filosófica, desarrollada a lo largo de una vida, sobre el sentido, la percepción, el autoengaño, la libertad interior y la pérdida humana de contacto con la realidad. El trabajo s",
       "candidates": [
