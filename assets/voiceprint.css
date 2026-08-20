@@ -377,6 +377,16 @@ a:hover{text-decoration:underline}
   line-height:var(--lh-kicker);
 }
 
+.seal::before{
+  content:"";
+  display:block;
+  width:22px;
+  height:22px;
+  flex:0 0 22px;
+  background:url("/assets/symbol.png") center/contain no-repeat;
+  opacity:.75;
+}
+
 @media (max-width:900px){
   .site-header{padding:16px 22px 0}
   .content{padding:30px 22px 44px}
