@@ -319,6 +319,54 @@ a:hover{text-decoration:underline}
   color:var(--fg);
 }
 
+.voiceprint-contact{
+  max-width:760px;
+  margin:12px 0 0;
+  padding:26px 0 4px;
+  border-top:1px solid rgba(242,242,244,.18);
+}
+
+.voiceprint-contact-kicker{
+  margin:0 0 7px;
+  font-size:var(--fs-kicker);
+  line-height:var(--lh-kicker);
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  color:rgba(242,242,244,.46);
+}
+
+.voiceprint-contact h2{
+  margin:0 0 8px;
+  font-size:var(--fs-h2);
+  line-height:var(--lh-body);
+  font-weight:600;
+}
+
+.voiceprint-contact-copy{
+  margin:0;
+  max-width:66ch;
+  font-size:var(--fs-body);
+  line-height:var(--lh-body);
+  color:var(--muted);
+}
+
+.voiceprint-contact-email{
+  margin:11px 0 0;
+  font-size:var(--fs-lead);
+  line-height:var(--lh-lead);
+}
+
+.voiceprint-contact-email a{
+  color:var(--fg);
+  text-decoration:underline;
+  text-decoration-color:rgba(242,242,244,.34);
+  text-underline-offset:4px;
+}
+
+.voiceprint-contact-email a:hover{
+  text-decoration-color:currentColor;
+}
+
 .seal{
   display:flex;
   align-items:center;
@@ -365,5 +413,7 @@ a:hover{text-decoration:underline}
   .principle{margin:10px 0}
   .island{margin:14px 0;padding:8px 0 8px 12px}
   .final-line{margin-top:12px}
+  .voiceprint-contact{margin-top:8px;padding-top:22px}
+  .voiceprint-contact-email{margin-top:9px}
   .seal{margin-top:28px}
 }
