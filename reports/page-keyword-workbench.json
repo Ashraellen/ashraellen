@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T15:16:58.826Z",
+  "generated": "2026-08-20T15:49:13.635Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -36568,6 +36568,84 @@
         "ashraellen",
         "ciągłość",
         "czego"
+      ]
+    },
+    {
+      "page": "pl/projects/voiceprint/index.html",
+      "lang": "pl",
+      "section": "projects",
+      "title": "VOICEPRINT — Gdzie w tym przepływie jestem JA?",
+      "description": "Voiceprint bada, co musi zostać zachowane podczas przejścia przez język i maszynę, aby wraz ze słowami nie zniknął ten, kto je wypowiedział.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/pl/projects/voiceprint/",
+      "h1": [
+        "VOICEPRINT"
+      ],
+      "h2": [
+        "Gdzie w tym przepływie jestem JA?",
+        "Początek",
+        "Jak to się zaczęło",
+        "Od osobistego pytania do badania",
+        "Utrata",
+        "Poprawny tekst może być błędny",
+        "Tłumaczenie i transkreacja",
+        "Czym jest obecność autora?"
+      ],
+      "h3": [
+        "Pełna historia",
+        "What must an AI not translate?"
+      ],
+      "slugTerms": [
+        "pl",
+        "projects",
+        "voiceprint"
+      ],
+      "excerpt": "VOICEPRINT Gdzie w tym przepływie jestem JA? Dziś tekst może przejść przez kilka języków, modeli AI, redakcję, adaptację — i wrócić do nas niemal bez skazy. Poprawny gramatycznie. Naturalny. Płynny. Czasem nawet bardziej literacki niż oryginał. I właśnie tutaj pojawia się problem. Po takiej obróbce tekst może stać się lepszy. Czasem właśnie na tym polega strata. Voiceprint bada, co musi zostać zachowane podczas przejścia przez język i maszynę, aby wraz ze słowami nie zniknął ten, kto je wypowiedział. 01 Początek Jak to się zaczęło Nie zaczynałem od książek. W młodości po prostu zapisywałem myśli. Czasem było to jedno zdanie. Czasem kilka linijek. Potem kilka stron. Potem pojawiły się zeszyty. Stopniowo te zapiski zaczęły łączyć się ze sobą. Jedna myśl prowadziła do następnej, krótkie fragmenty zamieniały się w dłuższe teksty. I w pewnym momencie po raz pierwszy pomyślałem: a może zebrać ",
+      "candidates": [
+        "nie",
+        "się",
+        "może",
+        "voiceprint",
+        "tekst",
+        "ale",
+        "autora",
+        "pytanie",
+        "nas",
+        "przez",
+        "właśnie",
+        "dlatego",
+        "tym",
+        "czasem",
+        "tego",
+        "gdzie",
+        "można",
+        "musi",
+        "tylko",
+        "decyzji",
+        "obecności",
+        "system",
+        "atp",
+        "czego"
+      ],
+      "suggestedKeywordSeed": [
+        "voiceprint",
+        "autora",
+        "gdzie",
+        "jestem",
+        "może",
+        "nie",
+        "projects",
+        "przepływie",
+        "przez",
+        "się",
+        "tekst",
+        "tym",
+        "aby",
+        "ale",
+        "ashraellen",
+        "bada",
+        "badania",
+        "błędny"
       ]
     },
     {
