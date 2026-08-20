@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-20T14:39:04.328Z",
+  "generated": "2026-08-20T15:16:58.826Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -13009,6 +13009,84 @@
         "commitments",
         "decisions",
         "depth"
+      ]
+    },
+    {
+      "page": "en/projects/voiceprint/index.html",
+      "lang": "en",
+      "section": "projects",
+      "title": "VOICEPRINT — Where Am I in This Flow?",
+      "description": "Voiceprint explores what must be preserved as text passes through language and machine, so that the person who spoke does not disappear along with the words.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/en/projects/voiceprint/",
+      "h1": [
+        "VOICEPRINT"
+      ],
+      "h2": [
+        "Where Am I in This Flow?",
+        "Origin",
+        "How It Began",
+        "From a Personal Question to Research",
+        "Loss",
+        "A Correct Text Can Still Be Wrong",
+        "Translation and Transcreation",
+        "What Is Authorial Presence?"
+      ],
+      "h3": [
+        "The Full Story",
+        "What must an AI not translate?"
+      ],
+      "slugTerms": [
+        "en",
+        "projects",
+        "voiceprint"
+      ],
+      "excerpt": "VOICEPRINT Where Am I in This Flow? Today, a text can pass through several languages, AI models, editing, adaptation — and come back to us almost flawless. Grammatically correct. Natural. Smooth. Sometimes even more literary than the original. And this is exactly where the problem begins. A text can become better after this kind of processing. Sometimes, that is precisely the loss. Voiceprint explores what must be preserved as text passes through language and machine, so that the person who spoke does not disappear along with the words. 01 Origin How It Began I did not begin with books. When I was young, I simply wrote down thoughts. Sometimes it was one sentence. Sometimes a few lines. Then a few pages. Then notebooks began to appear. Gradually, those notes started connecting with one another. One thought continued another, and short fragments grew into longer texts. At some point, I fi",
+      "candidates": [
+        "can",
+        "what",
+        "text",
+        "was",
+        "one",
+        "voiceprint",
+        "language",
+        "another",
+        "question",
+        "does",
+        "more",
+        "person",
+        "presence",
+        "when",
+        "where",
+        "author",
+        "must",
+        "work",
+        "authorial",
+        "why",
+        "book",
+        "human",
+        "began",
+        "decisions"
+      ],
+      "suggestedKeywordSeed": [
+        "voiceprint",
+        "text",
+        "what",
+        "can",
+        "does",
+        "flow",
+        "language",
+        "person",
+        "projects",
+        "question",
+        "where",
+        "along",
+        "another",
+        "ashraellen",
+        "authorial",
+        "began",
+        "correct",
+        "disappear"
       ]
     },
     {

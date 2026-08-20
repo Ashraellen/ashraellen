@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-20T14:39:04.341Z
-Pages: 850
+Generated: 2026-08-20T15:16:58.844Z
+Pages: 851
 
 ## Index
 
@@ -181,6 +181,7 @@ Pages: 850
 | en/privacy.html | en | privacy.html | Privacy Policy — Ashraellen | _missing_ | data, policy, privacy, analytics, ashraellen, ashraellen.com, cookies, legal, may, platforms, website, basis, collected, consent, contact, external, google, information |
 | en/professional/index.html | en | professional | Ashraellen — Professional Dossier | _missing_ | ashraellen, professional, directions, forms, literary, observation, public, research, dossier, method, parallel, practice, selected, work, works, about, artistic, artistic-philosophical |
 | en/projects/my-memory/index.html | en | projects | MY MEMORY — User-Owned Continuity for AI-Assisted Work | _missing_ | memory, current, continuity, evidence, user-owned, what, work, ai-assisted, does, product, project, projects, state, any, ashraellen, commitments, decisions, depth |
+| en/projects/voiceprint/index.html | en | projects | VOICEPRINT — Where Am I in This Flow? | _missing_ | voiceprint, text, what, can, does, flow, language, person, projects, question, where, along, another, ashraellen, authorial, began, correct, disappear |
 | en/public/index.html | en | public | Ashraellen — Public | Ashraellen, public field, talks, publications, support thoughts, research, observations | public, ashraellen, support, thoughts, field, living, person, publications, talks, where, already, mass, meets, new, observations, open, people, projects |
 | en/public/posts/essay/cycles/cycle-0001.html | en | public | Ashraellen — First Mini-Essay Cycle | ashraellen, public, posts, essay, cycles, cycle, 0001, first, mini-essay, power, over, thought, attention, body, door, goal, past, its | first, cycle, attention, body, over, past, thought, ashraellen, door, goal, interpretation, its, power, public, become, becomes, begins, completed |
 | en/public/posts/essay/cycles/index.html | en | public | Ashraellen — Mini-Essay Cycles | ashraellen, public, posts, essay, cycles, mini-essay, completed, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | cycles, completed, mini-essay, cycle, ashraellen, current, first, gathered, here, main, mini-essays, public, section, essay, posts |
@@ -3817,6 +3818,23 @@ Excerpt:
 Excerpt:
 
 > MY MEMORY Your memory should belong to you. User-owned continuity infrastructure for long-running AI-assisted work. The problem A serious project can outlive a chat, a session, a model and eventually an AI provider. When that happens, decisions become separated from their reasons, sources disappear from conclusions, commitments drift out of view, stale information competes with current state, and the user is asked to reconstruct the same project history again. A successor AI should not have to guess what happened before it arrived. What MY MEMORY does MY MEMORY is an external project-memory layer focused first on Project & Decision Memory. It preserves the parts of long-running work that must survive beyond a single conversation or provider. Project → Event → Decision → Reason → Person → Document → Commitment → Current State → Source The AI participates in memory capture. The user owns t
+
+### en/projects/voiceprint/index.html
+
+- lang: en
+- section: projects
+- title: VOICEPRINT — Where Am I in This Flow?
+- description: Voiceprint explores what must be preserved as text passes through language and machine, so that the person who spoke does not disappear along with the words.
+- canonical: https://www.ashraellen.com/en/projects/voiceprint/
+- H1: VOICEPRINT
+- H2: Where Am I in This Flow? | Origin | How It Began | From a Personal Question to Research | Loss | A Correct Text Can Still Be Wrong | Translation and Transcreation | What Is Authorial Presence?
+- H3: The Full Story | What must an AI not translate?
+- suggested keyword seed: voiceprint, text, what, can, does, flow, language, person, projects, question, where, along, another, ashraellen, authorial, began, correct, disappear
+- candidates: can, what, text, was, one, voiceprint, language, another, question, does, more, person, presence, when, where, author, must, work, authorial, why, book, human, began, decisions
+
+Excerpt:
+
+> VOICEPRINT Where Am I in This Flow? Today, a text can pass through several languages, AI models, editing, adaptation — and come back to us almost flawless. Grammatically correct. Natural. Smooth. Sometimes even more literary than the original. And this is exactly where the problem begins. A text can become better after this kind of processing. Sometimes, that is precisely the loss. Voiceprint explores what must be preserved as text passes through language and machine, so that the person who spoke does not disappear along with the words. 01 Origin How It Began I did not begin with books. When I was young, I simply wrote down thoughts. Sometimes it was one sentence. Sometimes a few lines. Then a few pages. Then notebooks began to appear. Gradually, those notes started connecting with one another. One thought continued another, and short fragments grew into longer texts. At some point, I fi
 
 ### en/public/index.html
 
