@@ -70,18 +70,22 @@ a:hover{text-decoration:underline}
 }
 
 .h1{
-  margin:0 0 8px;
-  font-size:var(--fs-h1-static);
-  line-height:1.2;
+  margin:0 0 10px;
+  font-size:var(--fs-accent);
+  line-height:var(--lh-accent);
   font-weight:600;
-  letter-spacing:.04em;
+  letter-spacing:.10em;
+  color:var(--muted);
+  opacity:.72;
 }
 
 .hero-question{
-  margin:0 0 14px;
-  font-size:var(--fs-emphasis);
-  line-height:var(--lh-emphasis);
+  margin:0 0 18px;
+  font-size:var(--fs-display-sm);
+  line-height:1.12;
   font-weight:500;
+  letter-spacing:-.02em;
+  color:var(--fg);
 }
 
 .hero-copy,
@@ -247,7 +251,8 @@ a:hover{text-decoration:underline}
   .site-header{padding:16px 22px 0}
   .content{padding:30px 22px 44px}
   .hero{margin-bottom:22px}
-  .hero-question{margin-bottom:12px}
+  .h1{margin-bottom:8px}
+  .hero-question{margin-bottom:14px}
   .hero-copy,
   .origin-teaser p,
   .origin-full p{margin-bottom:7px}
