@@ -181,9 +181,10 @@ a:hover{text-decoration:underline}
 
 .chapter-title{
   margin:0;
-  font-size:var(--fs-h1-static);
-  line-height:1.2;
-  font-weight:600;
+  font-size:clamp(30px,4.2vw,36px);
+  line-height:1.16;
+  font-weight:650;
+  letter-spacing:-.012em;
   color:var(--fg);
 }
 
@@ -348,7 +349,7 @@ a:hover{text-decoration:underline}
   .chapter{margin-bottom:34px;scroll-margin-top:14px}
   .chapter + .chapter{padding-top:28px}
   .chapter-head{gap:9px;margin-bottom:19px}
-  .chapter-title{font-size:var(--fs-h2);line-height:1.25}
+  .chapter-title{font-size:clamp(25px,7vw,29px);line-height:1.18}
   .section{margin-bottom:22px}
   .section + .section{margin-top:24px}
   .origin{padding:16px 14px}
