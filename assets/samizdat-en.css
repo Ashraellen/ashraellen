@@ -55,6 +55,7 @@ h1{margin:0;font-family:Georgia,"Times New Roman",serif;font-size:clamp(42px,8vw
 .books{display:grid;gap:14px;padding:18px}
 .book{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:20px;padding:18px;border:1px solid var(--line-strong);border-radius:16px;background:rgba(255,250,238,.34)}
 .book:hover{background:rgba(255,250,238,.58)}
+.book[href*="/books/samizdat/demotopia/"]{visibility:hidden;pointer-events:none}
 .book strong{display:block;font-size:20px}
 .book span{display:block;margin-top:6px;color:var(--muted);font-size:13px;line-height:1.45}
 .book b{font-size:20px;font-weight:500;color:var(--accent)}
