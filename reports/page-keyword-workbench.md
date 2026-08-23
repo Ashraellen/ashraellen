@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-20T15:49:13.650Z
+Generated: 2026-08-23T13:48:29.161Z
 Pages: 852
 
 ## Index
@@ -228,10 +228,10 @@ Pages: 852
 | en/research/position/index.html | en | research | Ashraellen — Position | ashraellen, position, artistic research, Reality, acceptance, Creator, human freedom, religion, responsibility | position, reality, ashraellen, acceptance, ashraellen’s, human, radio, research, responsibility, understanding, action, against, another, approval, being, creator, does, final |
 | en/research/projects/index.html | en | research | Ashraellen — Research Projects | ashraellen, research, projects, map, working, fields, monolith, main, channel, public, field, satirical, side, laboratories, perception, instagram, telegram, church | ashraellen, projects, research, channel, field, monolith, perception, book, church, fields, here, how, inner, instagram, laboratories, living, main, map |
 | en/research/sources/index.html | en | research | Ashraellen — Sources and Tradition | ashraellen, research, sources, tradition, phenomenology, consciousness, body, narrative, cognitive, science, artistic, practice, methodological, lines, edmund, husserl, experience, before | research, ashraellen, sources, body, consciousness, narrative, tradition, artistic, cognitive, experience, form, phenomenology, before, connection, directions, does, edmund, eleanor |
-| es/books/demotopia/index.html | es | books | Demotopia — Utopía Democrática — novela de Ashraellen | Ashraellen, Demotopia, Utopía Democrática, novela filosófica, ciencia ficción social, Varsovia, democracia, dictadura, datos, libertad, responsabilidad | demotopia, ashraellen, novela, books, del, los, poder, sobre, una, artístico, atmósfera, circuitos, como, con, datos, democracia, democrática, destripes |
+| es/books/demotopia/index.html | es | books | Demotopia — Utopía Democrática — novela de Ashraellen | Ashraellen, Demotopia, Utopía Democrática, novela filosófica, ciencia ficción social, Varsovia, democracia, dictadura, datos, libertad, responsabilidad | demotopia, ashraellen, novela, sobre, books, del, los, poder, una, artístico, atmósfera, circuitos, como, datos, democracia, democrática, destripes, distribuido |
 | es/books/error-404-god-not-found/index.html | es | books | Ashraellen — Error 404: Dios no encontrado | _missing_ | error, 404, dios, ciclo, encontrado, ashraellen, books, búsqueda, cancillería, celestial, del, serie, sobre, contra, filosófico-satírico, forma, found, frase |
 | es/books/error-404-god-not-found/why-me/index.html | es | books | Ashraellen — ¿Por qué yo? | _missing_ | del, por, qué, libro, ashraellen, books, dios, error, sobre, una, 404, alma, burocracia, cancillería, capas, celestial, ciclo, como |
-| es/books/index.html | es | books | Ashraellen — Libros | Ashraellen, libros, Demotopia, Utopía Democrática, MONOLITO, RESPLANDOR, ERROR 404, DIOS NO ENCONTRADO, SECCUS, Ya estás en la red, The Book of Whinesis, samizdat 2.0, ediciones de autor | libros, ashraellen, autor, directas, ediciones, books, libro, 2.0, 404, abrir, book, ciclo, ciclos, del, demotopia, dios, encontrado, error |
+| es/books/index.html | es | books | Ashraellen — Libros | Ashraellen, libros, Demotopia, Utopía Democrática, MONOLITO, RESPLANDOR, ERROR 404, DIOS NO ENCONTRADO, SECCUS, Ya estás en la red, The Book of Whinesis, samizdat 2.0, ediciones de autor | libros, ashraellen, autor, directas, ediciones, books, libro, 2.0, 404, abrir, book, ciclo, ciclos, demotopia, dios, encontrado, error, estás |
 | es/books/monolith/beton/index.html | es | books | Ashraellen — HORMIGÓN | Ashraellen, MONOLITO, HORMIGÓN, distopía, literatura, investigación artística | hormigón, ashraellen, books, del, estabilidad, libro, memoria, para, sobre, una, anton, artístico, beton, como, con, dentro, destripes, distopía |
 | es/books/monolith/gas/index.html | es | books | Ashraellen — GAS | Ashraellen, MONOLITO, GAS, volumen tres, Victoria, poder, control, memoria, localización, medio, señal, distopía | gas, del, ashraellen, books, medio, sin, sobre, una, artístico, autor, como, con, control, desaparición, destripes, entre, estado, expediente |
 | es/books/monolith/index.html | es | books | Ashraellen — MONOLITO | Ashraellen, MONOLITO, HORMIGÓN, LODO, GAS, distopía, literatura, investigación artística | monolito, desintegración, ashraellen, books, control, gas, hormigón, lodo, memoria, que, una, artístico, confundirse, debe, del, distópica, este, filosófica |
@@ -873,7 +873,7 @@ Pages: 852
 - H2: Абраны ўрывак | Пра кнігу | Без спойлераў | Мастацка-даследчая рамка | Асноўныя тэмы | Форма і атмасфера | Для каго | Два контуры выдання
 - H3: Варшава, якая працуе | Чалавек як сукупнасць | Улада без злога твару | Адказнасць без намеру | Свабода | Даныя | Дэмакратыя | Адказнасць
 - suggested keyword seed: demotopia, ashraellen, пра, раман, books, без, абраны, адказнасць, але, асноўныя, атмасфера, будучыні, варшаву, выдання, даныя, два, дзе, дэмакратычная
-- candidates: яго, раман, але, следчы, чалавека, demotopia, без, дзе, можа, паміж, пра, права, сістэма, чалавек, грамадства, яна, ashraellen, адсутнасць, будучыні, быць, варшава, дыктатуры, знойдзена, калі
+- candidates: яго, раман, але, следчы, чалавека, demotopia, без, дзе, можа, паміж, пра, права, сістэма, чалавек, будучыні, грамадства, яна, ashraellen, адсутнасць, быць, варшава, версіі, дыктатуры, завяршэння
 
 Excerpt:
 
@@ -924,7 +924,7 @@ Excerpt:
 - H2: Кніжныя цыклы | Асобныя кнігі і даследаванні | Сатыра | Прамыя аўтарскія выданні
 - H3: _missing_
 - suggested keyword seed: кнігі, ashraellen, аўтарскія, 2.0, books, samizdat, выданні, кніга, прамыя, сатыра, 404, book, demotopia, error, found, god, monolith, radiance
-- candidates: адкрыць, кнігі, пра, кніга, сатыра, сістэма, цыкл, 2.0, ashraellen, samizdat, аўдыяраман, аўтарскія, выданні, прамыя, раман, 404, book, demotopia, error, found, god, monolith, radiance, whinesis
+- candidates: адкрыць, пра, кнігі, кніга, сатыра, сістэма, цыкл, 2.0, ashraellen, samizdat, аўдыяраман, аўтарскія, выданні, прамыя, раман, 404, book, demotopia, error, found, god, monolith, radiance, whinesis
 
 Excerpt:
 
@@ -2046,7 +2046,7 @@ Excerpt:
 - H2: Ausgewählter Auszug | Über das Buch | Ohne Spoiler | Künstlerisch-forschende Perspektive | Zentrale Themen | Form und Atmosphäre | Für wen | Zwei Publikationskreise
 - H3: Ein Warschau, das funktioniert | Der Mensch als Summe | Macht ohne böses Gesicht | Verantwortung ohne Absicht | Freiheit | Daten | Demokratie | Verantwortung
 - suggested keyword seed: demotopia, ashraellen, ein, und, von, books, das, ist, roman, über, als, atmosphäre, auf, ausgewählter, auszug, buch, daten, demokratie
-- candidates: die, und, der, das, nicht, ein, eine, als, ist, auf, von, kann, menschen, roman, sie, den, sondern, demotopia, für, sich, demokratie, des, diktatur, macht
+- candidates: die, und, der, das, nicht, ein, eine, als, auf, ist, den, von, kann, menschen, roman, sie, für, sich, sondern, demotopia, des, demokratie, diktatur, einer
 
 Excerpt:
 
@@ -3219,7 +3219,7 @@ Excerpt:
 - H2: Selected excerpt | About the book | Without spoilers | Artistic-research framework | Core themes | Form and atmosphere | Who it is for | Two publishing circuits
 - H3: A Warsaw that works | The person as an aggregate | Power without an evil face | Responsibility without intention | Freedom | Data | Democracy | Responsibility
 - suggested keyword seed: demotopia, ashraellen, novel, about, books, power, artistic-research, atmosphere, book, can, circuits, core, data, democracy, democratic, did, distributed, excerpt
-- candidates: person, was, has, system, what, did, can, him, investigator, novel, power, demotopia, team, their, which, his, leader, more, public, right, society, than, without, been
+- candidates: person, was, system, what, did, has, can, him, investigator, novel, power, demotopia, team, their, which, decision, his, leader, more, right, society, than, without, authorial
 
 Excerpt:
 
@@ -4629,8 +4629,8 @@ Excerpt:
 - H1: Demotopia
 - H2: Fragmento seleccionado | Sobre el libro | Sin destripes | Marco artístico y de investigación | Temas principales | Forma y atmósfera | Para quién | Dos circuitos de edición
 - H3: Una Varsovia que funciona | La persona como suma de rastros | Poder sin rostro maligno | Responsabilidad sin intención | Libertad | Datos | Democracia | Responsabilidad
-- suggested keyword seed: demotopia, ashraellen, novela, books, del, los, poder, sobre, una, artístico, atmósfera, circuitos, como, con, datos, democracia, democrática, destripes
-- candidates: una, que, persona, como, del, los, novela, puede, las, poder, sistema, con, cuando, demotopia, está, sino, sobre, democracia, derecho, sin, social, sociedad, dictadura, forma
+- suggested keyword seed: demotopia, ashraellen, novela, sobre, books, del, los, poder, una, artístico, atmósfera, circuitos, como, datos, democracia, democrática, destripes, distribuido
+- candidates: una, que, persona, como, del, los, novela, las, puede, poder, sistema, sobre, con, cuando, demotopia, sino, versión, autoral, democracia, derecho, sin, social, sociedad, decisión
 
 Excerpt:
 
@@ -4680,8 +4680,8 @@ Excerpt:
 - H1: Libros
 - H2: Ciclos de libros | Libros independientes e investigaciones | Sátira | Ediciones directas de autor
 - H3: _missing_
-- suggested keyword seed: libros, ashraellen, autor, directas, ediciones, books, libro, 2.0, 404, abrir, book, ciclo, ciclos, del, demotopia, dios, encontrado, error
-- candidates: libro, una, abrir, libros, ciclo, los, sobre, que, autor, del, directas, ediciones, las, sátira, sistema, 2.0, ashraellen, audionovela, dios, filosófica, novela, samizdat, trilogía, 404
+- suggested keyword seed: libros, ashraellen, autor, directas, ediciones, books, libro, 2.0, 404, abrir, book, ciclo, ciclos, demotopia, dios, encontrado, error, estás
+- candidates: una, libro, abrir, libros, ciclo, los, sobre, que, autor, directas, ediciones, las, sátira, sistema, 2.0, ashraellen, audionovela, del, dios, filosófica, novela, samizdat, trilogía, 404
 
 Excerpt:
 
@@ -7044,7 +7044,7 @@ Excerpt:
 - H2: Extrait choisi | À propos du livre | Sans spoilers | Cadre artistique et de recherche | Thèmes principaux | Forme et atmosphère | Pour qui ? | Deux circuits éditoriaux
 - H3: Une Varsovie qui fonctionne | La personne comme somme | Un pouvoir sans visage mauvais | Une responsabilité sans intention | Liberté | Données | Démocratie | Responsabilité
 - suggested keyword seed: demotopia, roman, books, d’ashraellen, est, les, qui, artistique, ashraellen, atmosphère, avenir, cadre, choisi, circuits, d’un, démocratie, démocratique, des
-- candidates: une, personne, des, pas, les, mais, plus, qui, roman, est, ses, système, peut, été, non, que, comme, d’un, d’une, demotopia, société, sur, dans, démocratie
+- candidates: une, personne, des, pas, les, mais, plus, est, qui, roman, ses, système, peut, non, que, sur, comme, d’un, d’une, demotopia, société, dans, démocratie, été
 
 Excerpt:
 
@@ -7095,7 +7095,7 @@ Excerpt:
 - H2: Cycles de livres | Livres indépendants et recherches | Satire | Éditions directes d’auteur
 - H3: _missing_
 - suggested keyword seed: livres, d’auteur, directes, ashraellen, books, éditions, livre, 2.0, 404, book, cycle, cycles, d’ashraellen, déjà, demotopia, des, dieu, éclat
-- candidates: livre, une, les, livres, ouvrir, sur, cycle, roman, philosophique, d’auteur, des, directes, satire, ses, système, 2.0, audio, dieu, éditions, leur, ligne, samizdat, trilogie, 404
+- candidates: une, livre, les, livres, ouvrir, sur, cycle, roman, philosophique, d’auteur, des, directes, satire, ses, système, 2.0, audio, dieu, éditions, leur, ligne, samizdat, trilogie, 404
 
 Excerpt:
 
@@ -8268,7 +8268,7 @@ Excerpt:
 - H2: Wybrany fragment | O książce | Bez spoilerów | Rama artystyczno-badawcza | Główne tematy | Forma i atmosfera | Dla kogo | Dwa obiegi wydawnicze
 - H3: Warszawa, która działa | Człowiek jako suma | Władza bez złej twarzy | Odpowiedzialność bez zamiaru | Wolność | Dane | Demokracja | Odpowiedzialność
 - suggested keyword seed: demotopia, powieść, ashraellena, books, artystyczno-badawcza, ashraellen, atmosfera, bez, człowiek, człowieka, danych, demokracji, demokratyczna, dwa, filozoficzna, forma, fragment, główne
-- candidates: nie, się, jego, system, człowieka, może, człowiek, lecz, powieść, śledczy, jako, niż, prawo, demotopia, już, kierownik, wersja, bez, czy, gdy, ich, między, musi, społeczeństwo
+- candidates: nie, się, jego, system, człowieka, może, człowiek, jako, lecz, powieść, śledczy, niż, prawo, demotopia, już, kierownik, bez, czy, gdy, ich, między, musi, społeczeństwo, decyzji
 
 Excerpt:
 
@@ -8319,7 +8319,7 @@ Excerpt:
 - H2: Cykle książkowe | Samodzielne książki i badania | Satyra | Bezpośrednie wydania autorskie
 - H3: _missing_
 - suggested keyword seed: książki, autorskie, bezpośrednie, 2.0, ashraellen, błąd, boga, books, nie, wydania, 404, ashraellena, audio, badania, blask, book, cykl, cykle
-- candidates: książki, otwórz, cykl, powieść, system, 2.0, audio, autorskie, bezpośrednie, błąd, boga, nie, oraz, samizdat, satyra, wydania, 404, albo, ashraellena, blask, book, cyfrowej, cykle, demotopia
+- candidates: otwórz, cykl, książki, powieść, system, 2.0, audio, autorskie, bezpośrednie, błąd, boga, nie, oraz, samizdat, satyra, wydania, 404, albo, ashraellena, blask, book, cyfrowej, cykle, demotopia
 
 Excerpt:
 
@@ -10053,7 +10053,7 @@ Excerpt:
 - H2: Trecho selecionado | Sobre o livro | Sem spoilers | Quadro artístico e de pesquisa | Temas principais | Forma e atmosfera | Para quem | Dois circuitos editoriais
 - H3: Uma Varsóvia que funciona | A pessoa como soma | Poder sem rosto maligno | Responsabilidade sem intenção | Liberdade | Dados | Democracia | Responsabilidade
 - suggested keyword seed: demotopia, ashraellen, romance, sobre, books, artístico, atmosfera, circuitos, como, dados, democracia, democrática, distribuído, dois, editoriais, filosófico, forma, futuro
-- candidates: não, uma, que, pessoa, mas, romance, como, sistema, sobre, pode, quando, demotopia, pela, democracia, foi, mais, para, sem, com, direito, forma, investigador, livro, poder
+- candidates: uma, não, que, pessoa, mas, romance, como, sistema, sobre, pode, quando, demotopia, para, pela, autoral, democracia, mais, sem, versão, com, decisão, direito, forma, investigador
 
 Excerpt:
 
@@ -11243,7 +11243,7 @@ Excerpt:
 - H2: Избранный отрывок | О книге | Без спойлеров | Художественно-исследовательская рамка | Основные темы | Форма и атмосфера | Для кого | Два контура издания
 - H3: Варшава, которая работает | Человек как совокупность | Власть без злого лица | Ответственность без намерения | Свобода | Данные | Демократия | Ответственность
 - suggested keyword seed: demotopia, ashraellen, роман, books, без, атмосфера, ближайшего, будущего, варшаве, власти, всё, где, данных, два, демократии, демократичная, его, избранный
-- candidates: его, человека, система, роман, следователь, demotopia, без, где, руководитель, человек, всё, между, может, версия, знал, именно, нет, общество, она, право, сам, уже, ashraellen, ближайшего
+- candidates: его, человека, система, роман, следователь, demotopia, без, где, руководитель, человек, всё, между, может, версия, знал, именно, нет, общество, она, право, решения, сам, уже, ashraellen
 
 Excerpt:
 
@@ -11294,7 +11294,7 @@ Excerpt:
 - H2: Книжные циклы | Отдельные книги и исследования | Сатира | Авторские физические издания
 - H3: _missing_
 - suggested keyword seed: книги, ashraellen, 2.0, 404, books, samizdat, авторские, издания, книга, сатира, физические, demotopia, аудиороман, ахепсу, бог, исследования, книжные, монолит
-- candidates: книги, открыть, книга, сатира, цикл, 2.0, ashraellen, samizdat, аудиороман, роман, система, 404, demotopia, авторские, ахепсу, бог, изданий, издания, или, книга-исследование, книгу, книжные, монолит, найден
+- candidates: открыть, книги, книга, сатира, цикл, 2.0, ashraellen, samizdat, аудиороман, роман, система, 404, demotopia, авторские, ахепсу, бог, изданий, издания, или, книга-исследование, книгу, книжные, монолит, найден
 
 Excerpt:
 
@@ -14184,7 +14184,7 @@ Excerpt:
 - H2: Вибраний уривок | Про книгу | Без спойлерів | Художньо-дослідницька рамка | Основні теми | Форма й атмосфера | Для кого | Два контури видання
 - H3: Варшава, яка працює | Людина як сукупність | Влада без злого обличчя | Відповідальність без наміру | Свобода | Дані | Демократія | Відповідальність
 - suggested keyword seed: demotopia, ashraellen, про, роман, books, без, але, атмосфера, варшаву, вибраний, видання, відповідальність, він, владу, вона, дані, два, демократична
-- candidates: система, він, вона, роман, слідчий, demotopia, але, людину, про, без, керівник, людина, рішення, має, між, може, яка, було, версія, від, все, знав, його, право
+- candidates: система, він, вона, роман, слідчий, demotopia, але, людину, про, рішення, без, керівник, людина, його, має, між, може, яка, було, версія, від, все, знав, право
 
 Excerpt:
 
@@ -14235,7 +14235,7 @@ Excerpt:
 - H2: Книжкові цикли | Окремі книги й дослідження | Сатира | Прямі авторські видання
 - H3: _missing_
 - suggested keyword seed: книги, ashraellen, авторські, видання, 2.0, books, samizdat, книга, прямі, 404, book, demotopia, error, found, god, monolith, radiance, whinesis
-- candidates: відкрити, книги, про, книга, система, цикл, 2.0, ashraellen, samizdat, авторські, аудіороман, видання, прямі, роман, сатира, 404, book, demotopia, error, found, god, monolith, radiance, whinesis
+- candidates: відкрити, про, книги, книга, система, цикл, 2.0, ashraellen, samizdat, авторські, аудіороман, видання, прямі, роман, сатира, 404, book, demotopia, error, found, god, monolith, radiance, whinesis
 
 Excerpt:
 
