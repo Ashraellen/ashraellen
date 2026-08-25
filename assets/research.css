@@ -122,7 +122,7 @@ a:hover{text-decoration:underline}
   margin:0 0 12px;
   line-height:var(--lh-lead);
   color:var(--muted);
-  max-width:70ch;
+  max-width:none;
   font-size:var(--fs-lead);
 }
 
@@ -131,7 +131,7 @@ a:hover{text-decoration:underline}
   padding:0;
   list-style:none;
   color:var(--muted);
-  max-width:70ch;
+  max-width:none;
 }
 
 .focus li{
