@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-25T14:57:13.374Z
-Pages: 853
+Generated: 2026-08-25T14:58:32.488Z
+Pages: 852
 
 ## Index
 
@@ -225,8 +225,7 @@ Pages: 853
 | en/research/index.html | en | research | Ashraellen — Research | ashraellen, research, mode, seeing, lifelong, artistic-philosophical, inquiry, meaning, observation, how, human, being, loses, contact, reality, inner, freedom, what | research, ashraellen, how, inquiry, meaning, being, digital, human, observation, open, artistic, artistic-philosophical, contact, continuous, done, form, fragmented, freedom |
 | en/research/method/index.html | en | research | Ashraellen — Method of Observation | ashraellen, research, method, observation, recording, knots, meaning, artistic, form, instrument, verification, through, recognition, knot, field, how, appears, first-person | method, observation, ashraellen, research, form, meaning, artistic, how, verification, what, appears, experience, field, first-person, forms, has, instrument, instruments |
 | en/research/notes/index.html | en | research | Ashraellen — Notes | ashraellen, notes, margins, research, doubts, fragments | notes, ashraellen, margins, ashraellen’s, become, deliberately, doctrine, doubts, fragments, material, refuses, research, feels |
-| en/research/position/index_v01.html | en | research | Ashraellen — Position | ashraellen, position, artistic research, Reality, acceptance, Creator, human freedom, religion, responsibility | position, reality, ashraellen, point, another, ashraellen’s, inquiry, radio, religions, research, without, acceptance, action, against, approval, artistic, being, description |
-| en/research/position/index.html | en | research | Ashraellen — Position | ashraellen, position, artistic research, Reality, acceptance, Creator, human freedom, religion, responsibility | position, reality, ashraellen, acceptance, ashraellen’s, human, radio, research, responsibility, understanding, action, against, another, approval, being, creator, does, final |
+| en/research/position/index.html | en | research | Ashraellen — Position | ashraellen, position, artistic research, Reality, acceptance, Creator, human freedom, religion, responsibility | position, reality, ashraellen, point, another, ashraellen’s, inquiry, radio, religions, research, without, acceptance, action, against, approval, artistic, being, description |
 | en/research/projects/index.html | en | research | Ashraellen — Research Projects | ashraellen, research, projects, map, working, fields, monolith, main, channel, public, field, satirical, side, laboratories, perception, instagram, telegram, church | ashraellen, projects, research, channel, field, monolith, perception, book, church, fields, here, how, inner, instagram, laboratories, living, main, map |
 | en/research/sources/index.html | en | research | Ashraellen — Sources and Tradition | ashraellen, research, sources, tradition, phenomenology, consciousness, body, narrative, cognitive, science, artistic, practice, methodological, lines, edmund, husserl, experience, before | research, ashraellen, sources, body, consciousness, narrative, tradition, artistic, cognitive, experience, form, phenomenology, before, connection, directions, does, edmund, eleanor |
 | es/books/demotopia/index.html | es | books | Demotopia — Utopía Democrática — novela de Ashraellen | Ashraellen, Demotopia, Utopía Democrática, novela filosófica, ciencia ficción social, Varsovia, democracia, dictadura, datos, libertad, responsabilidad | demotopia, ashraellen, novela, sobre, books, del, los, poder, una, artístico, atmósfera, circuitos, como, datos, democracia, democrática, destripes, distribuido |
@@ -4569,7 +4568,7 @@ Excerpt:
 
 > Ashraellen Notes / Margins Margins, doubts, fragments. Material that refuses to become doctrine. If it feels unfinished — it was meant to be.
 
-### en/research/position/index_v01.html
+### en/research/position/index.html
 
 - lang: en
 - section: research
@@ -4581,23 +4580,6 @@ Excerpt:
 - H3: _missing_
 - suggested keyword seed: position, reality, ashraellen, point, another, ashraellen’s, inquiry, radio, religions, research, without, acceptance, action, against, approval, artistic, being, description
 - candidates: does, what, ashraellen, understanding, own, his, person, point, radio, through, reality, another, inner, their, position, can, may, has, its, they, acceptance, between, experience, one
-
-Excerpt:
-
-> Ashraellen Ashraellen’s Position Ashraellen works as an independent artistic researcher. His field of observation is inner human experience: how a person perceives what is happening, creates explanations, mistakes an interpretation for Reality itself, and loses contact with Reality, meaning, inner freedom and their own presence. Literature, philosophy, religion, language, image, sound and public response are used in this work not as proofs of a finished system, but as modes of inquiry. Religious and philosophical teachings, together with accounts of transcendent experience, are treated as models of the human encounter with Reality — important and sometimes profound, yet not identical with Reality in all its fullness. This position is not offered to the reader as a compulsory doctrine. It is the worldview and research position from which Ashraellen observes, writes and acts. Reality: acce
-
-### en/research/position/index.html
-
-- lang: en
-- section: research
-- title: Ashraellen — Position
-- description: Ashraellen’s Position: a public statement on Reality, acceptance, human freedom, religion, the Creator, non-coercive understanding and responsibility.
-- canonical: https://www.ashraellen.com/en/research/position/
-- H1: Ashraellen’s Position
-- H2: Reality: acceptance is not approval | Action without war against Reality | Another person’s path | Religions and historical systems | A refusal of messianism | The human being as a radio point | Responsibility | Not a final system
-- H3: _missing_
-- suggested keyword seed: position, reality, ashraellen, acceptance, ashraellen’s, human, radio, research, responsibility, understanding, action, against, another, approval, being, creator, does, final
-- candidates: does, what, ashraellen, own, his, person, radio, understanding, reality, through, their, inner, point, another, can, position, acceptance, they, its, person’s, between, experience, has, may
 
 Excerpt:
 

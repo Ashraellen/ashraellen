@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-25T14:57:13.363Z",
+  "generated": "2026-08-25T14:58:32.474Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -16228,7 +16228,7 @@
       ]
     },
     {
-      "page": "en/research/position/index_v01.html",
+      "page": "en/research/position/index.html",
       "lang": "en",
       "section": "research",
       "title": "Ashraellen — Position",
@@ -16252,9 +16252,7 @@
       "slugTerms": [
         "en",
         "research",
-        "position",
-        "index",
-        "v01"
+        "position"
       ],
       "excerpt": "Ashraellen Ashraellen’s Position Ashraellen works as an independent artistic researcher. His field of observation is inner human experience: how a person perceives what is happening, creates explanations, mistakes an interpretation for Reality itself, and loses contact with Reality, meaning, inner freedom and their own presence. Literature, philosophy, religion, language, image, sound and public response are used in this work not as proofs of a finished system, but as modes of inquiry. Religious and philosophical teachings, together with accounts of transcendent experience, are treated as models of the human encounter with Reality — important and sometimes profound, yet not identical with Reality in all its fullness. This position is not offered to the reader as a compulsory doctrine. It is the worldview and research position from which Ashraellen observes, writes and acts. Reality: acce",
       "candidates": [
@@ -16302,81 +16300,6 @@
         "artistic",
         "being",
         "description"
-      ]
-    },
-    {
-      "page": "en/research/position/index.html",
-      "lang": "en",
-      "section": "research",
-      "title": "Ashraellen — Position",
-      "description": "Ashraellen’s Position: a public statement on Reality, acceptance, human freedom, religion, the Creator, non-coercive understanding and responsibility.",
-      "existingKeywords": "ashraellen, position, artistic research, Reality, acceptance, Creator, human freedom, religion, responsibility",
-      "canonical": "https://www.ashraellen.com/en/research/position/",
-      "h1": [
-        "Ashraellen’s Position"
-      ],
-      "h2": [
-        "Reality: acceptance is not approval",
-        "Action without war against Reality",
-        "Another person’s path",
-        "Religions and historical systems",
-        "A refusal of messianism",
-        "The human being as a radio point",
-        "Responsibility",
-        "Not a final system"
-      ],
-      "h3": [],
-      "slugTerms": [
-        "en",
-        "research",
-        "position"
-      ],
-      "excerpt": "Ashraellen Ashraellen’s Position Ashraellen works as an independent artistic researcher. His field of observation is inner human experience: how a person perceives what is happening, creates explanations, mistakes an interpretation for Reality itself, and loses contact with Reality, meaning, inner freedom and their own presence. Literature, philosophy, religion, language, image, sound and public response are used in this work not as proofs of a finished system, but as modes of inquiry. Religious and philosophical teachings, together with accounts of transcendent experience, are treated as models of the human encounter with Reality — important and sometimes profound, yet not identical with Reality in all its fullness. This position is not offered to the reader as a compulsory doctrine. It is the worldview and research position from which Ashraellen observes, writes and acts. Reality: acce",
-      "candidates": [
-        "does",
-        "what",
-        "ashraellen",
-        "own",
-        "his",
-        "person",
-        "radio",
-        "understanding",
-        "reality",
-        "through",
-        "their",
-        "inner",
-        "point",
-        "another",
-        "can",
-        "position",
-        "acceptance",
-        "they",
-        "its",
-        "person’s",
-        "between",
-        "experience",
-        "has",
-        "may"
-      ],
-      "suggestedKeywordSeed": [
-        "position",
-        "reality",
-        "ashraellen",
-        "acceptance",
-        "ashraellen’s",
-        "human",
-        "radio",
-        "research",
-        "responsibility",
-        "understanding",
-        "action",
-        "against",
-        "another",
-        "approval",
-        "being",
-        "creator",
-        "does",
-        "final"
       ]
     },
     {
