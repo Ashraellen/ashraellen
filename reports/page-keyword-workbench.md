@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-25T15:07:14.926Z
-Pages: 852
+Generated: 2026-08-25T15:08:15.011Z
+Pages: 853
 
 ## Index
 
@@ -223,6 +223,7 @@ Pages: 852
 | en/public/thoughts/index.html | en | public | Ashraellen — Third Arc of Support Thoughts | Ashraellen, Support Thoughts, arc 0003, acceptance of reality, witness, image | thoughts, arc, support, fact, image, its, one, problem, subtle, third, thought, ashraellen, crown, does, loses, public, unnecessary, war |
 | en/research/archive/index.html | en | research | Ashraellen — Research Archive | Ashraellen, research archive, research materials, versions, research layers, artistic research | research, archive, ashraellen, materials, active, completed, layers, longer, moving, path, still, books, earlier, traces, versions, work |
 | en/research/index.html | en | research | Ashraellen — Research | ashraellen, research, mode, seeing, lifelong, artistic-philosophical, inquiry, meaning, observation, how, human, being, loses, contact, reality, inner, freedom, what | research, ashraellen, how, inquiry, meaning, being, digital, human, observation, open, artistic, artistic-philosophical, contact, continuous, done, form, fragmented, freedom |
+| en/research/method/index_v01.html | en | research | Ashraellen — Method of Observation | ashraellen, research, method, observation, recording, knots, meaning, artistic, form, instrument, reader response, field material, recognition | method, observation, ashraellen, research, form, meaning, artistic, field, material, what, appears, does, experience, first-person, forms, has, how, index |
 | en/research/method/index.html | en | research | Ashraellen — Method of Observation | ashraellen, research, method, observation, recording, knots, meaning, artistic, form, instrument, verification, through, recognition, knot, field, how, appears, first-person | method, observation, ashraellen, research, form, meaning, artistic, how, verification, what, appears, experience, field, first-person, forms, has, instrument, instruments |
 | en/research/notes/index.html | en | research | Ashraellen — Notes | ashraellen, notes, margins, research, doubts, fragments | notes, ashraellen, margins, ashraellen’s, become, deliberately, doctrine, doubts, fragments, material, refuses, research, feels |
 | en/research/position/index.html | en | research | Ashraellen — Position | ashraellen, position, artistic research, Reality, acceptance, Creator, human freedom, religion, responsibility | position, reality, ashraellen, point, another, ashraellen’s, inquiry, radio, religions, research, without, acceptance, action, against, approval, artistic, being, description |
@@ -4533,6 +4534,23 @@ Excerpt:
 Excerpt:
 
 > Research Ashraellen is not merely a name, but a mode of seeing. It is a mode of consciousness in which the world is perceived not as a collection of separate events, thoughts and reactions, but as a web of meanings, relations, knots and reflections. In this mode, one meaning opens another: the personal connects with the social, the everyday with the symbolic, the spiritual with language, fear with belief, pain with worldview, and a casual phrase may reveal an entire layer of human self-deception. Ashraellen is a lifelong artistic-philosophical inquiry into meaning. It does not arise from the desire to produce texts, books, videos or media formats, but from a specific mode of consciousness: the ability to perceive meanings inside meanings, structures within structures, and intersections where, on the surface, there may seem to be only a thought, a casual phrase, an everyday scene or a per
+
+### en/research/method/index_v01.html
+
+- lang: en
+- section: research
+- title: Ashraellen — Method of Observation
+- description: The Ashraellen method of observation: recording knots of meaning, artistic form as a research instrument, and reader response as field material.
+- canonical: https://www.ashraellen.com/en/research/method/
+- H1: Method of Observation
+- H2: The knot of meaning | Field of research | How observation appears | First-person observation | Why artistic form | Forms as instruments | Verification | What this method is not
+- H3: I. Initial position | II. Subject | III. Why not only academic text | IV. Form as instrument | V. Verification | VI. What this method is not | VII. Position
+- suggested keyword seed: method, observation, ashraellen, research, form, meaning, artistic, field, material, what, appears, does, experience, first-person, forms, has, how, index
+- candidates: mechanism, method, observation, ashraellen, experience, form, does, material, meaning, what, within, has, how, moment, reaction, reader, another, becomes, field, person, recognition, through, understanding, where
+
+Excerpt:
+
+> Method of Observation The method of Ashraellen is observation and the recording of knots of meaning. It does not begin with a thesis to be proved or a system to be built. It begins at the moment when, within an experience, a phrase, a reaction, a scene, a fear, a pain or a coincidence, a knot of meaning begins to appear. The knot of meaning Such a knot cannot simply be explained quickly. If it is explained too early, it turns into a flat thought and loses its living structure. The task of the method is not to seize meaning and declare it truth, but to hold it long enough to see how it is connected with other levels. Ashraellen works with what may be called a web of meaning: one knot leads to another; the personal connects with the social; the everyday with the symbolic; the linguistic with the spiritual; fear with belief; pain with worldview. The author is present in this process not as 
 
 ### en/research/method/index.html
 

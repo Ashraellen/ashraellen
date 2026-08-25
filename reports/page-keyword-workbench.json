@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-25T15:07:14.912Z",
+  "generated": "2026-08-25T15:08:14.996Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -16090,6 +16090,91 @@
         "form",
         "fragmented",
         "freedom"
+      ]
+    },
+    {
+      "page": "en/research/method/index_v01.html",
+      "lang": "en",
+      "section": "research",
+      "title": "Ashraellen — Method of Observation",
+      "description": "The Ashraellen method of observation: recording knots of meaning, artistic form as a research instrument, and reader response as field material.",
+      "existingKeywords": "ashraellen, research, method, observation, recording, knots, meaning, artistic, form, instrument, reader response, field material, recognition",
+      "canonical": "https://www.ashraellen.com/en/research/method/",
+      "h1": [
+        "Method of Observation"
+      ],
+      "h2": [
+        "The knot of meaning",
+        "Field of research",
+        "How observation appears",
+        "First-person observation",
+        "Why artistic form",
+        "Forms as instruments",
+        "Verification",
+        "What this method is not"
+      ],
+      "h3": [
+        "I. Initial position",
+        "II. Subject",
+        "III. Why not only academic text",
+        "IV. Form as instrument",
+        "V. Verification",
+        "VI. What this method is not",
+        "VII. Position"
+      ],
+      "slugTerms": [
+        "en",
+        "research",
+        "method",
+        "index",
+        "v01"
+      ],
+      "excerpt": "Method of Observation The method of Ashraellen is observation and the recording of knots of meaning. It does not begin with a thesis to be proved or a system to be built. It begins at the moment when, within an experience, a phrase, a reaction, a scene, a fear, a pain or a coincidence, a knot of meaning begins to appear. The knot of meaning Such a knot cannot simply be explained quickly. If it is explained too early, it turns into a flat thought and loses its living structure. The task of the method is not to seize meaning and declare it truth, but to hold it long enough to see how it is connected with other levels. Ashraellen works with what may be called a web of meaning: one knot leads to another; the personal connects with the social; the everyday with the symbolic; the linguistic with the spiritual; fear with belief; pain with worldview. The author is present in this process not as ",
+      "candidates": [
+        "mechanism",
+        "method",
+        "observation",
+        "ashraellen",
+        "experience",
+        "form",
+        "does",
+        "material",
+        "meaning",
+        "what",
+        "within",
+        "has",
+        "how",
+        "moment",
+        "reaction",
+        "reader",
+        "another",
+        "becomes",
+        "field",
+        "person",
+        "recognition",
+        "through",
+        "understanding",
+        "where"
+      ],
+      "suggestedKeywordSeed": [
+        "method",
+        "observation",
+        "ashraellen",
+        "research",
+        "form",
+        "meaning",
+        "artistic",
+        "field",
+        "material",
+        "what",
+        "appears",
+        "does",
+        "experience",
+        "first-person",
+        "forms",
+        "has",
+        "how",
+        "index"
       ]
     },
     {
