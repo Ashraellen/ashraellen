@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-25T15:11:55.368Z",
+  "generated": "2026-08-25T15:13:23.054Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -12845,6 +12845,91 @@
         "external",
         "google",
         "information"
+      ]
+    },
+    {
+      "page": "en/professional/index_v01.html",
+      "lang": "en",
+      "section": "professional",
+      "title": "Ashraellen — Professional Dossier",
+      "description": "Professional dossier of Ashraellen: literary and artistic-philosophical practice, method of observation, selected works, public forms and internal working directions.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/en/professional/",
+      "h1": [
+        "Ashraellen"
+      ],
+      "h2": [
+        "Research core",
+        "About the author",
+        "How the field of work expanded",
+        "Method of observation",
+        "Professional frames",
+        "Selected literary and artistic works",
+        "Public forms of the project",
+        "Internal working infrastructure"
+      ],
+      "h3": [
+        "Artistic research",
+        "Open knowledge",
+        "Digital society",
+        "Independent digital archive",
+        "MONOLITH",
+        "Radiance",
+        "Demotopia — Democratic Utopia",
+        "Ashraellen — Spirit of the New Age"
+      ],
+      "slugTerms": [
+        "en",
+        "professional",
+        "index",
+        "v01"
+      ],
+      "excerpt": "Professional dossier Ashraellen A way of seeing · Literary and artistic-philosophical practice · Research · Public archive This page presents the work of Ashraellen in a professional context — for publishers, cultural and research organisations, foundations, partners, media and other forms of collaboration. The main website remains a living space for books, research, public texts and other work; this dossier offers a more focused view of what Ashraellen is today and of the directions in which the practice is developing. Research core Ashraellen is not quite a name; it is, rather, a way of seeing. It is a lifelong artistic-philosophical inquiry into meaning, perception, self-deception, inner freedom and the human loss of contact with reality. The work is grounded in the author’s ability to see meanings within meanings, structures within structures, and intersections where a chance phrase,",
+      "candidates": [
+        "work",
+        "public",
+        "practice",
+        "research",
+        "ashraellen",
+        "forms",
+        "meaning",
+        "internal",
+        "literary",
+        "working",
+        "authorial",
+        "how",
+        "infrastructure",
+        "inquiry",
+        "multilingual",
+        "observation",
+        "open",
+        "preserving",
+        "author’s",
+        "does",
+        "other",
+        "time",
+        "which",
+        "archive"
+      ],
+      "suggestedKeywordSeed": [
+        "ashraellen",
+        "professional",
+        "forms",
+        "internal",
+        "literary",
+        "public",
+        "working",
+        "dossier",
+        "how",
+        "method",
+        "observation",
+        "practice",
+        "research",
+        "selected",
+        "work",
+        "works",
+        "about",
+        "artistic"
       ]
     },
     {
