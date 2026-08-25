@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-25T15:15:46.564Z
+Generated: 2026-08-25T15:24:48.090Z
 Pages: 852
 
 ## Index
@@ -543,7 +543,7 @@ Pages: 852
 | pl/research/index.html | pl | research | Ashraellen — Badanie | ashraellen, research, badanie, sposób, widzenia, trwające, całe, życie, artystyczno-filozoficzne, sensu, obserwacja, tego, jak, człowiek, traci, kontakt, rzeczywistością, sensem | badanie, ashraellen, badania, cyfrowe, człowiek, research, się, artystyczne, artystyczno-filozoficzne, badane, całe, ciągłość, forma, fragmentaryczna, jako, kontakt, lecz, metoda |
 | pl/research/method/index.html | pl | research | Ashraellen — Metoda obserwacji | ashraellen, research, method, metoda, obserwacji, zapisywanie, węzłów, znaczeń, forma, artystyczna, jako, narzędzie, badawcze, weryfikacja, przez, rozpoznanie, węzeł, znaczenia | ashraellen, obserwacji, forma, jako, metoda, obserwacja, artystyczna, nie, research, się, weryfikacja, badania, badawcze, czego, człowiek, dlaczego, formy, lecz |
 | pl/research/notes/index.html | pl | research | Ashraellen — Notatki | ashraellen, notatki, marginesy, badania, wątpliwości, fragmenty | ashraellen, notatki, marginesy, chce, doktryną, fragmenty, który, materiał, nie, research, się, stać, wątpliwości, notes |
-| pl/research/position/index.html | pl | research | Ashraellen — Stanowisko | ashraellen, stanowisko, badania artystyczne, Rzeczywistość, akceptacja, Stwórca, wolność człowieka, religia, odpowiedzialność | ashraellen, bez, człowieka, nie, stanowisko, człowiek, research, rozumienia, akceptacja, akceptacji, aprobaty, dotycząca, droga, drugiego, działanie, formuła, historyczne, jako |
+| pl/research/position/index.html | pl | research | Ashraellen — Stanowisko | ashraellen, stanowisko, badania artystyczne, Rzeczywistość, akceptacja, Stwórca, wolność człowieka, religia, odpowiedzialność | ashraellen, bez, nie, stanowisko, badanie, człowiek, punkt, religie, research, rzeczywistością, akceptacja, aprobaty, artystyczne, człowieka, doświadczenia, droga, drugiego, działanie |
 | pl/research/projects/index.html | pl | research | Ashraellen — Projekty badawcze | ashraellen, research, projects, projekty, badawcze, mapa, pól, pracy, monolit, główny, kanał, pole, publiczne, satyryczne, boczne, laboratoria, percepcji, instagram | ashraellen, projekty, boczne, monolit, pole, research, bada, badawcze, book, church, człowiek, główny, inner, instagram, jako, kanał, laboratoria, lecz |
 | pl/research/sources/index.html | pl | research | Ashraellen — Źródła i tradycja | ashraellen, research, sources, źródła, tradycja, fenomenologia, świadomości, ciało, narracja, nauki, kognitywne, praktyka, artystyczna, jako, linie, metodologiczne, badania, edmund | jako, ashraellen, ciało, tradycja, źródła, badania, doświadczenie, fenomenologia, research, świadomości, artystyczna, edmund, eleanor, esej, evan, forma, formy, francisco |
 | privacy.html | root | privacy.html | Privacy Policy — Ashraellen | Ashraellen, privacy policy, website privacy, analytics, language redirection, contact data | privacy, ashraellen, analytics, ashraellen.com, basic, contact, data, handles, how, including, information, policy, language, privacy.html, redirection, user |
@@ -9979,13 +9979,13 @@ Excerpt:
 - lang: pl
 - section: research
 - title: Ashraellen — Stanowisko
-- description: Stanowisko Ashraellen: publiczna formuła dotycząca Rzeczywistości, akceptacji, wolności człowieka, religii, Stwórcy, rozumienia bez przymusu i odpowiedzialności.
+- description: Stanowisko Ashraellen: niezależne badanie artystyczne wewnętrznego doświadczenia. Religie, filozofie i stany transcendentne są modelami opisu, a nie samą Rzeczywistością.
 - canonical: https://www.ashraellen.com/pl/research/position/
 - H1: Stanowisko Ashraellen
-- H2: Rzeczywistość: akceptacja nie oznacza aprobaty | Działanie bez wojny z Rzeczywistością | Droga drugiego człowieka | Religie i systemy historyczne | Odmowa mesjanizmu | Człowiek jako punkt radiowy | Odpowiedzialność | Nie system ostateczny
+- H2: Rzeczywistość: akceptacja nie oznacza aprobaty | Działanie bez wojny z Rzeczywistością | Droga drugiego człowieka | Religie i systemy historyczne | Odmowa mesjanizmu | Człowiek jako punkt radiowy | Odpowiedzialność | Badanie bez ostatecznego punktu
 - H3: _missing_
-- suggested keyword seed: ashraellen, bez, człowieka, nie, stanowisko, człowiek, research, rozumienia, akceptacja, akceptacji, aprobaty, dotycząca, droga, drugiego, działanie, formuła, historyczne, jako
-- candidates: nie, się, ashraellen, jego, przez, może, człowiek, rozumienia, tego, lub, bez, człowieka, między, punkt, własnego, jako, siebie, stwórcy, ani, odpowiada, radiowy, rzeczywistości, stanowisko, błąd
+- suggested keyword seed: ashraellen, bez, nie, stanowisko, badanie, człowiek, punkt, religie, research, rzeczywistością, akceptacja, aprobaty, artystyczne, człowieka, doświadczenia, droga, drugiego, działanie
+- candidates: nie, się, ashraellen, może, jego, przez, rozumienia, tego, człowiek, lub, punkt, bez, jako, między, własnego, człowieka, siebie, ani, którego, lecz, odpowiada, oznacza, radiowy, rozumienie
 
 Excerpt:
 
