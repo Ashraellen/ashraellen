@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-25T18:41:53.582Z
+Generated: 2026-08-25T18:50:03.135Z
 Pages: 854
 
 ## Index
@@ -4579,9 +4579,9 @@ Excerpt:
 - canonical: https://www.ashraellen.com/en/research/platform-dali/
 - H1: ASHRAELLEN
 - H2: Research position | MONOLITH — research through literature | Public practice as a field of observation | Language and human–AI methodology | Current point of enquiry | Selected evidence of practice
-- H3: A system seen from inside human experience | Support Thoughts | Ashraellen Transcreation Protocol — ATP | Voiceprint | Where Does Understanding Reside?
+- H3: A system seen through human experience | Anchoring Thoughts | Ashraellen Transcreation Protocol — ATP | Voiceprint | Where Does Understanding Reside?
 - suggested keyword seed: research, practice, ashraellen, selected, language, public, human, literary, memory, reality, understanding, around, artistic, atp, current, dali, enquiry, evidence
-- candidates: practice, research, language, question, reality, understanding, work, atp, literary, memory, public, selected, ashraellen, how, human, through, voiceprint, what, artistic, continuity, monolith, open, person, system
+- candidates: practice, research, language, question, reality, understanding, work, atp, literary, memory, public, selected, through, ashraellen, how, human, voiceprint, what, artistic, continuity, monolith, open, person, system
 
 Excerpt:
 
