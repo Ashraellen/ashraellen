@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-08-25T15:27:34.659Z
+Generated: 2026-08-25T15:29:24.735Z
 
 Pages checked: 852
 Pages with issues: 361
-Total issues: 1789
+Total issues: 1795
 Pages with review notes: 651
 Total review notes: 2312
 
@@ -26,8 +26,10 @@ Total review notes: 2312
 | MISSING_CANONICAL | 47 |
 | OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 31 |
 | TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 31 |
-| DUPLICATE_KEYWORDS | 27 |
+| DUPLICATE_KEYWORDS | 29 |
 | DESCRIPTION_TOO_SHORT | 20 |
+| DUPLICATE_DESCRIPTION | 2 |
+| DUPLICATE_OG_DESCRIPTION | 2 |
 | DESCRIPTION_TOO_LONG | 1 |
 
 
@@ -2727,29 +2729,35 @@ Total review notes: 2312
 
 - MISSING_KEYWORDS
 
-### pl/research/method/index.html
+### pl/research/sources/index.html
 
-- title: Ashraellen — Metoda obserwacji
-- description length: 132
-- canonical: https://www.ashraellen.com/pl/research/method/
+- title: Ashraellen — Źródła i tradycja
+- description length: 148
+- canonical: https://www.ashraellen.com/pl/research/sources/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
 - DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_DESCRIPTION: shared by 2 pages
+- DUPLICATE_KEYWORDS: shared by 2 pages
 - DUPLICATE_CANONICAL: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
+- DUPLICATE_OG_DESCRIPTION: shared by 2 pages
 
-### pl/research/method/index_v01.html
+### pl/research/sources/index_v01.html
 
-- title: Ashraellen — Metoda obserwacji
-- description length: 144
-- canonical: https://www.ashraellen.com/pl/research/method/
+- title: Ashraellen — Źródła i tradycja
+- description length: 148
+- canonical: https://www.ashraellen.com/pl/research/sources/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
 - DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_DESCRIPTION: shared by 2 pages
+- DUPLICATE_KEYWORDS: shared by 2 pages
 - DUPLICATE_CANONICAL: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
+- DUPLICATE_OG_DESCRIPTION: shared by 2 pages
 
 ### privacy.html
 
@@ -9699,17 +9707,6 @@ Total review notes: 2312
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 525 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 505 pages
 
-### pl/research/method/index_v01.html
-
-- title: Ashraellen — Metoda obserwacji
-- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
-
-- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
-- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 525 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 505 pages
-
 ### pl/research/notes/index.html
 
 - title: Ashraellen — Notatki
@@ -9744,6 +9741,17 @@ Total review notes: 2312
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 505 pages
 
 ### pl/research/sources/index.html
+
+- title: Ashraellen — Źródła i tradycja
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- FALLBACK_OG_IMAGE_USED: approved fallback; verify intentional use
+- FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 525 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 505 pages
+
+### pl/research/sources/index_v01.html
 
 - title: Ashraellen — Źródła i tradycja
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg

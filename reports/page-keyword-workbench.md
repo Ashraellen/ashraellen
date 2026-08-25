@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-25T15:27:35.366Z
+Generated: 2026-08-25T15:29:25.311Z
 Pages: 853
 
 ## Index
@@ -541,11 +541,11 @@ Pages: 853
 | pl/public/thoughts/index.html | pl | public | Ashraellen — Trzeci łuk myśli przewodnich | Ashraellen, myśli przewodnie, łuk 0003, przyjęcie rzeczywistości, świadek, obraz | łuk, myśli, przewodnich, ashraellen, fakt, myśl, nie, problem, subtelna, świadek, trzeci, jeden, koronę, obraz, public, się, traci, być |
 | pl/research/archive/index.html | pl | research | Ashraellen — Archiwum badań | Ashraellen, archiwum badań, materiały badawcze, wersje, warstwy badania, badanie artystyczne | archiwum, ashraellen, badań, drogi, już, które, materiałów, research, aby, ale, ani, archive, badanie, badawczych, materiały, nie, pozostaje, procesu |
 | pl/research/index.html | pl | research | Ashraellen — Badanie | ashraellen, research, badanie, sposób, widzenia, trwające, całe, życie, artystyczno-filozoficzne, sensu, obserwacja, tego, jak, człowiek, traci, kontakt, rzeczywistością, sensem | badanie, ashraellen, badania, cyfrowe, człowiek, research, się, artystyczne, artystyczno-filozoficzne, badane, całe, ciągłość, forma, fragmentaryczna, jako, kontakt, lecz, metoda |
-| pl/research/method/index_v01.html | pl | research | Ashraellen — Metoda obserwacji | ashraellen, research, method, metoda, obserwacji, zapisywanie, węzłów, znaczeń, forma, artystyczna, jako, narzędzie, badawcze, reakcja czytelnika, materiał terenowy, rozpoznanie | ashraellen, jako, forma, metoda, obserwacji, artystyczna, nie, obserwacja, research, się, ale, badania, badawcze, czego, człowiek, czytelnika, dlaczego, formy |
-| pl/research/method/index.html | pl | research | Ashraellen — Metoda obserwacji | ashraellen, research, method, metoda, obserwacji, zapisywanie, węzłów, znaczeń, forma, artystyczna, jako, narzędzie, badawcze, weryfikacja, przez, rozpoznanie, węzeł, znaczenia | ashraellen, obserwacji, forma, jako, metoda, obserwacja, artystyczna, nie, research, się, weryfikacja, badania, badawcze, czego, człowiek, dlaczego, formy, lecz |
+| pl/research/method/index.html | pl | research | Ashraellen — Metoda obserwacji | ashraellen, research, method, metoda, obserwacji, zapisywanie, węzłów, znaczeń, forma, artystyczna, jako, narzędzie, badawcze, reakcja czytelnika, materiał terenowy, rozpoznanie | ashraellen, jako, forma, metoda, obserwacji, artystyczna, nie, obserwacja, research, się, ale, badania, badawcze, czego, człowiek, czytelnika, dlaczego, formy |
 | pl/research/notes/index.html | pl | research | Ashraellen — Notatki | ashraellen, notatki, marginesy, badania, wątpliwości, fragmenty | ashraellen, notatki, marginesy, chce, doktryną, fragmenty, który, materiał, nie, research, się, stać, wątpliwości, notes |
 | pl/research/position/index.html | pl | research | Ashraellen — Stanowisko | ashraellen, stanowisko, badania artystyczne, Rzeczywistość, akceptacja, Stwórca, wolność człowieka, religia, odpowiedzialność | ashraellen, bez, nie, stanowisko, badanie, człowiek, punkt, religie, research, rzeczywistością, akceptacja, aprobaty, artystyczne, człowieka, doświadczenia, droga, drugiego, działanie |
 | pl/research/projects/index.html | pl | research | Ashraellen — Projekty badawcze | ashraellen, research, projects, projekty, badawcze, mapa, pól, pracy, monolit, główny, kanał, pole, publiczne, satyryczne, boczne, laboratoria, percepcji, instagram | ashraellen, projekty, boczne, monolit, pole, research, bada, badawcze, book, church, człowiek, główny, inner, instagram, jako, kanał, laboratoria, lecz |
+| pl/research/sources/index_v01.html | pl | research | Ashraellen — Źródła i tradycja | ashraellen, research, sources, źródła, tradycja, fenomenologia, świadomości, ciało, narracja, nauki, kognitywne, praktyka, artystyczna, jako, linie, metodologiczne, badania, edmund | jako, ashraellen, badania, ciało, tradycja, źródła, artystyczna, doświadczenie, fenomenologia, research, świadomości, edmund, eleanor, esej, evan, forma, formy, francisco |
 | pl/research/sources/index.html | pl | research | Ashraellen — Źródła i tradycja | ashraellen, research, sources, źródła, tradycja, fenomenologia, świadomości, ciało, narracja, nauki, kognitywne, praktyka, artystyczna, jako, linie, metodologiczne, badania, edmund | jako, ashraellen, ciało, tradycja, źródła, badania, doświadczenie, fenomenologia, research, świadomości, artystyczna, edmund, eleanor, esej, evan, forma, formy, francisco |
 | privacy.html | root | privacy.html | Privacy Policy — Ashraellen | Ashraellen, privacy policy, website privacy, analytics, language redirection, contact data | privacy, ashraellen, analytics, ashraellen.com, basic, contact, data, handles, how, including, information, policy, language, privacy.html, redirection, user |
 | pt/books/demotopia/index.html | pt | books | Demotopia — Utopia Democrática — romance de Ashraellen | Ashraellen, Demotopia, Utopia Democrática, romance filosófico, ficção científica social, Varsóvia, democracia, ditadura, dados, liberdade, responsabilidade | demotopia, ashraellen, romance, sobre, books, artístico, atmosfera, circuitos, como, dados, democracia, democrática, distribuído, dois, editoriais, filosófico, forma, futuro |
@@ -9941,7 +9941,7 @@ Excerpt:
 
 > Badanie Ashraellen nie jest tylko imieniem, lecz sposobem widzenia. To sposób świadomości, w którym świat postrzegany jest nie jako zbiór oddzielnych zdarzeń, myśli i reakcji, lecz jako sieć znaczeń, relacji, węzłów i odbić. W tym sposobie jedno znaczenie otwiera drugie: osobiste łączy się ze społecznym, codzienne — z symbolicznym, duchowe — z językiem, strach — z przekonaniem, ból — ze światopoglądem, a przypadkowe zdanie może odsłonić całą warstwę ludzkiego samooszukiwania. Ashraellen to trwające całe życie artystyczno-filozoficzne badanie sensu. Nie wynika ono z chęci produkowania tekstów, książek, wideo czy formatów medialnych, lecz ze szczególnego sposobu pracy świadomości: zdolności widzenia znaczeń wewnątrz znaczeń, struktur wewnątrz struktur i splotów tam, gdzie na powierzchni wydaje się, że istnieje tylko pojedyncza myśl, przypadkowe zdanie, scena codzienności albo osobista reak
 
-### pl/research/method/index_v01.html
+### pl/research/method/index.html
 
 - lang: pl
 - section: research
@@ -9953,23 +9953,6 @@ Excerpt:
 - H3: I. Pozycja wyjściowa | II. Przedmiot | III. Dlaczego nie tylko tekst akademicki | IV. Forma jako narzędzie | V. Weryfikacja | VI. Czego tutaj nie ma | VII. Pozycja
 - suggested keyword seed: ashraellen, jako, forma, metoda, obserwacji, artystyczna, nie, obserwacja, research, się, ale, badania, badawcze, czego, człowiek, czytelnika, dlaczego, formy
 - candidates: nie, się, mechanizm, ashraellen, lecz, forma, jako, wewnątrz, ale, człowiek, metody, materiałem, obserwacja, tutaj, zaczyna, zobaczyć, badania, czytelnika, działa, gdzie, metoda, myśl, przez, tekst
-
-Excerpt:
-
-> Metoda obserwacji Metoda Ashraellen to obserwacja i zapisywanie węzłów znaczeń. Nie zaczyna się od tezy, którą trzeba udowodnić, ani od systemu, który trzeba zbudować. Zaczyna się w chwili, gdy wewnątrz doświadczenia, frazy, reakcji, sceny, lęku, bólu albo zbiegu okoliczności zaczyna pojawiać się węzeł znaczenia. Węzeł znaczenia Takiego węzła nie da się po prostu szybko wyjaśnić. Jeśli wyjaśni się go zbyt wcześnie, zamienia się w płaską myśl i traci swoją żywą strukturę. Zadaniem metody nie jest uchwycić znaczenie i ogłosić je prawdą, lecz utrzymać je wystarczająco długo, aby zobaczyć, jak łączy się z innymi poziomami. Ashraellen pracuje z tym, co można nazwać siecią znaczeń: jeden węzeł prowadzi do drugiego; osobiste łączy się ze społecznym; codzienne — z symbolicznym; językowe — z duchowym; lęk — z przekonaniem; ból — ze światopoglądem. Autor jest obecny w tym procesie nie jako właścic
-
-### pl/research/method/index.html
-
-- lang: pl
-- section: research
-- title: Ashraellen — Metoda obserwacji
-- description: Metoda obserwacji Ashraellen: zapisywanie węzłów znaczeń, forma artystyczna jako narzędzie badawcze i weryfikacja przez rozpoznanie.
-- canonical: https://www.ashraellen.com/pl/research/method/
-- H1: Metoda obserwacji
-- H2: Węzeł znaczenia | Pole badania | Jak pojawia się obserwacja | Obserwacja pierwszoosobowa | Dlaczego forma artystyczna | Formy jako narzędzia | Weryfikacja | Czego tutaj nie ma
-- H3: I. Pozycja wyjściowa | II. Przedmiot | III. Dlaczego nie tylko tekst akademicki | IV. Forma jako narzędzie | V. Weryfikacja | VI. Czego tutaj nie ma | VII. Pozycja
-- suggested keyword seed: ashraellen, obserwacji, forma, jako, metoda, obserwacja, artystyczna, nie, research, się, weryfikacja, badania, badawcze, czego, człowiek, dlaczego, formy, lecz
-- candidates: nie, się, mechanizm, ashraellen, lecz, wewnątrz, człowiek, forma, jako, metody, obserwacja, obserwacji, przez, tutaj, zaczyna, zobaczyć, ale, działa, gdzie, materiałem, metoda, tekst, tylko, akademicki
 
 Excerpt:
 
@@ -10025,6 +10008,23 @@ Excerpt:
 Excerpt:
 
 > Projekty To nie jest wystawa gatunków ani lista platform. To mapa pól pracy Ashraellen. Jedne projekty są centralnymi modelami badania. Inne — publicznymi strefami, w których myśl spotyka żywą reakcję. Jeszcze inne działają jak boczne laboratoria: przez satyrę, dźwięk, smak, obraz, symbol i codzienne postrzeganie. Centralne pole MONOLIT Główny artystyczno-badawczy model Ashraellen. Trylogia bada, jak człowiek traci odrębność, pamięć, język, ciało i wewnętrzne oparcie wewnątrz systemu, który najpierw obiecuje porządek, a potem zamienia żywe w materiał. BETON, ŻIŻA i GAZ — trzy stany rzeczywistości: zastygnięcie, rozpad i rozproszenie sensu. Powieść działa tu nie jako historia ucieczki, lecz jako model, przez który można zobaczyć mechanizm od środka. Otwórz → Główny kanał Ashraellen Kanał o jasności, uważności i powrocie do żywego postrzegania. Tutaj badany jest moment, w którym um przesta
+
+### pl/research/sources/index_v01.html
+
+- lang: pl
+- section: research
+- title: Ashraellen — Źródła i tradycja
+- description: Źródła i tradycja Ashraellen: fenomenologia świadomości, ciało, narracja, nauki kognitywne i praktyka artystyczna jako linie metodologiczne badania.
+- canonical: https://www.ashraellen.com/pl/research/sources/
+- H1: Źródła i tradycja
+- H2: Edmund Husserl — doświadczenie przed gotowym wyjaśnieniem | Maurice Merleau-Ponty — ciało jako pierwszy punkt percepcji | Paul Ricoeur — opowieść jako forma samorozumienia | Francisco Varela, Evan Thompson, Eleanor Rosch — świadomość jako żywa interakcja | Powieść, esej i tekst publiczny jako formy badania | Kluczowe nazwiska i kierunki
+- H3: _missing_
+- suggested keyword seed: jako, ashraellen, badania, ciało, tradycja, źródła, artystyczna, doświadczenie, fenomenologia, research, świadomości, edmund, eleanor, esej, evan, forma, formy, francisco
+- candidates: nie, jako, się, ashraellen, fenomenologia, lecz, świadomości, artystyczna, ciało, doświadczenie, związek, badania, myśl, poprzez, świat, tylko, badanie, doświadczenia, forma, husserl, kognitywne, której, lęk, merleau-ponty
+
+Excerpt:
+
+> Źródła i tradycja Praca Ashraellen styka się z kilkoma tradycjami intelektualnymi i artystycznymi, które oferują różne języki opisu doświadczenia, percepcji, samorozumienia i samego procesu badania. Fenomenologia świadomości, fenomenologia cielesna, myśl narracyjna, nauki kognitywne i praktyka artystyczna nie tworzą tutaj zamkniętego systemu źródeł ani pełnej genealogii intelektualnej, lecz kilka ważnych linii porównania. Linie te nie składają się na jeden system dowodzenia. Model naukowy pozostaje modelem naukowym, filozoficzny — filozoficznym, a badanie artystyczne — badaniem artystycznym. Ich spotkanie jest wartościowe tam, gdzie różne sposoby opisu pozwalają zobaczyć jedno pytanie z różnych stron. Husserl budował metodę uważnego opisu doświadczenia. Merleau-Ponty przywracał świadomość ciału. Ricoeur pokazywał, że narracja nie jest ozdobą myśli, lecz formą samorozumienia. Varela, Thom
 
 ### pl/research/sources/index.html
 
