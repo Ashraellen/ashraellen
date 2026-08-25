@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-25T18:38:11.775Z
-Pages: 853
+Generated: 2026-08-25T18:41:53.582Z
+Pages: 854
 
 ## Index
 
@@ -225,6 +225,7 @@ Pages: 853
 | en/research/index.html | en | research | Ashraellen — Research | ashraellen, research, mode, seeing, lifelong, artistic-philosophical, inquiry, meaning, observation, how, human, being, loses, contact, reality, inner, freedom, what | research, ashraellen, how, inquiry, meaning, being, digital, human, observation, open, artistic, artistic-philosophical, contact, continuous, done, form, fragmented, freedom |
 | en/research/method/index.html | en | research | Ashraellen — Method of Observation | ashraellen, research, method, observation, recording, knots, meaning, artistic, form, instrument, reader response, field material, recognition | method, observation, ashraellen, research, form, meaning, artistic, field, material, what, appears, does, experience, first-person, forms, has, how, instrument |
 | en/research/notes/index.html | en | research | Ashraellen — Notes | ashraellen, notes, margins, research, doubts, fragments | notes, ashraellen, margins, ashraellen’s, become, deliberately, doctrine, doubts, fragments, material, refuses, research, feels |
+| en/research/platform-dali/index.html | en | research | Ashraellen — Selected Research and Artistic Practice | _missing_ | research, practice, ashraellen, selected, language, public, human, literary, memory, reality, understanding, around, artistic, atp, current, dali, enquiry, evidence |
 | en/research/position/index.html | en | research | Ashraellen — Position | ashraellen, position, artistic research, Reality, acceptance, Creator, human freedom, religion, responsibility | position, reality, ashraellen, point, another, ashraellen’s, inquiry, radio, religions, research, without, acceptance, action, against, approval, artistic, being, description |
 | en/research/projects/index.html | en | research | Ashraellen — Research Projects | ashraellen, research, projects, map, working, fields, monolith, main, channel, public, field, satirical, side, laboratories, perception, instagram, telegram, church | ashraellen, projects, research, channel, field, monolith, perception, book, church, fields, here, how, inner, instagram, laboratories, living, main, map |
 | en/research/sources/index.html | en | research | Ashraellen — Sources and Tradition | ashraellen, research, sources, tradition, phenomenology, consciousness, body, narrative, cognitive, science, artistic, practice, methodological, lines, edmund, husserl, experience, before | research, ashraellen, sources, body, consciousness, narrative, tradition, artistic, cognitive, experience, form, phenomenology, before, directions, does, edmund, eleanor, essay |
@@ -4568,6 +4569,23 @@ Excerpt:
 Excerpt:
 
 > Ashraellen Notes / Margins Margins, doubts, fragments. Material that refuses to become doctrine. If it feels unfinished — it was meant to be.
+
+### en/research/platform-dali/index.html
+
+- lang: en
+- section: research
+- title: Ashraellen — Selected Research and Artistic Practice
+- description: Selected literary, public and human–AI practice by Ashraellen around perception, models of reality, language, memory and understanding.
+- canonical: https://www.ashraellen.com/en/research/platform-dali/
+- H1: ASHRAELLEN
+- H2: Research position | MONOLITH — research through literature | Public practice as a field of observation | Language and human–AI methodology | Current point of enquiry | Selected evidence of practice
+- H3: A system seen from inside human experience | Support Thoughts | Ashraellen Transcreation Protocol — ATP | Voiceprint | Where Does Understanding Reside?
+- suggested keyword seed: research, practice, ashraellen, selected, language, public, human, literary, memory, reality, understanding, around, artistic, atp, current, dali, enquiry, evidence
+- candidates: practice, research, language, question, reality, understanding, work, atp, literary, memory, public, selected, ashraellen, how, human, through, voiceprint, what, artistic, continuity, monolith, open, person, system
+
+Excerpt:
+
+> Selected research and artistic practice ASHRAELLEN Independent writer and artistic researcher I use books, texts, video and human–AI working systems as different instruments for investigating how reality is perceived, modelled and transmitted — and how our understanding changes as more layers of mediation appear between a person and what they are trying to understand. 01 Research position My work begins not with a theory to be proved, but with observation and a question. I am interested in how a person constructs a picture of reality through perception, memory, language, belief, social systems and the explanations they create for themselves. For me, a work does not have to be a container for a conclusion that already exists. A book, text or video can become a place where the thought itself continues to move. The work therefore records a present state of understanding rather than a final 
 
 ### en/research/position/index.html
 

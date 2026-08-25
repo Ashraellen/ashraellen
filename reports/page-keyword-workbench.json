@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-25T18:38:11.763Z",
+  "generated": "2026-08-25T18:41:53.567Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -16224,6 +16224,86 @@
         "refuses",
         "research",
         "feels"
+      ]
+    },
+    {
+      "page": "en/research/platform-dali/index.html",
+      "lang": "en",
+      "section": "research",
+      "title": "Ashraellen — Selected Research and Artistic Practice",
+      "description": "Selected literary, public and human–AI practice by Ashraellen around perception, models of reality, language, memory and understanding.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/en/research/platform-dali/",
+      "h1": [
+        "ASHRAELLEN"
+      ],
+      "h2": [
+        "Research position",
+        "MONOLITH — research through literature",
+        "Public practice as a field of observation",
+        "Language and human–AI methodology",
+        "Current point of enquiry",
+        "Selected evidence of practice"
+      ],
+      "h3": [
+        "A system seen from inside human experience",
+        "Support Thoughts",
+        "Ashraellen Transcreation Protocol — ATP",
+        "Voiceprint",
+        "Where Does Understanding Reside?"
+      ],
+      "slugTerms": [
+        "en",
+        "research",
+        "platform",
+        "dali"
+      ],
+      "excerpt": "Selected research and artistic practice ASHRAELLEN Independent writer and artistic researcher I use books, texts, video and human–AI working systems as different instruments for investigating how reality is perceived, modelled and transmitted — and how our understanding changes as more layers of mediation appear between a person and what they are trying to understand. 01 Research position My work begins not with a theory to be proved, but with observation and a question. I am interested in how a person constructs a picture of reality through perception, memory, language, belief, social systems and the explanations they create for themselves. For me, a work does not have to be a container for a conclusion that already exists. A book, text or video can become a place where the thought itself continues to move. The work therefore records a present state of understanding rather than a final ",
+      "candidates": [
+        "practice",
+        "research",
+        "language",
+        "question",
+        "reality",
+        "understanding",
+        "work",
+        "atp",
+        "literary",
+        "memory",
+        "public",
+        "selected",
+        "ashraellen",
+        "how",
+        "human",
+        "through",
+        "voiceprint",
+        "what",
+        "artistic",
+        "continuity",
+        "monolith",
+        "open",
+        "person",
+        "system"
+      ],
+      "suggestedKeywordSeed": [
+        "research",
+        "practice",
+        "ashraellen",
+        "selected",
+        "language",
+        "public",
+        "human",
+        "literary",
+        "memory",
+        "reality",
+        "understanding",
+        "around",
+        "artistic",
+        "atp",
+        "current",
+        "dali",
+        "enquiry",
+        "evidence"
       ]
     },
     {
