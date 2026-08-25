@@ -387,6 +387,171 @@ a:hover{text-decoration:underline}
   opacity:.75;
 }
 
+/* Test-only layout for ru/projects/voiceprint/index_v01.html.
+   All rules are scoped so the live index.html remains visually unchanged. */
+.voiceprint-v01 .main{
+  justify-content:center;
+}
+
+.voiceprint-v01 .content{
+  max-width:1180px;
+  margin:0 auto;
+  padding:46px 54px 72px;
+}
+
+.voiceprint-v01 .hero{
+  max-width:920px;
+  margin:0 auto 34px;
+}
+
+.voiceprint-v01 .hero-copy,
+.voiceprint-v01 .body-copy,
+.voiceprint-v01 .origin-teaser p,
+.voiceprint-v01 .origin-full p,
+.voiceprint-v01 .emphasis,
+.voiceprint-v01 .principle,
+.voiceprint-v01 .final-line,
+.voiceprint-v01 .rhythm-list,
+.voiceprint-v01 .question-stack{
+  max-width:88ch;
+}
+
+.voiceprint-v01 .chapter-nav{
+  max-width:1040px;
+  margin:0 auto 52px;
+  justify-content:center;
+}
+
+.voiceprint-v01 .chapter{
+  max-width:1040px;
+  margin:0 auto 56px;
+}
+
+.voiceprint-v01 .chapter + .chapter{
+  padding-top:46px;
+}
+
+.voiceprint-v01 .section{
+  max-width:960px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.voiceprint-v01 .chapter-title{
+  font-size:clamp(32px,4vw,40px);
+}
+
+.voiceprint-v01 .chapter-head{
+  max-width:960px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.voiceprint-v01 .origin,
+.voiceprint-v01 .vp-card,
+.voiceprint-v01 .vp-monolith{
+  border:1px solid rgba(242,242,244,.14);
+  border-radius:20px;
+  background:rgba(255,255,255,.018);
+  box-shadow:0 18px 48px rgba(0,0,0,.32);
+}
+
+.voiceprint-v01 .origin{
+  padding:26px 28px;
+}
+
+.voiceprint-v01 .vp-card{
+  margin:22px auto;
+  padding:24px 26px;
+}
+
+.voiceprint-v01 .vp-card > :last-child,
+.voiceprint-v01 .vp-monolith > :last-child{
+  margin-bottom:0;
+}
+
+.voiceprint-v01 .vp-stages{
+  display:grid;
+  grid-template-columns:repeat(4,minmax(0,1fr));
+  gap:12px;
+  max-width:960px;
+  margin:22px auto 30px;
+}
+
+.voiceprint-v01 .vp-stage{
+  padding:16px;
+  border:1px solid rgba(242,242,244,.12);
+  border-radius:16px;
+  background:rgba(255,255,255,.015);
+}
+
+.voiceprint-v01 .vp-stage strong{
+  display:block;
+  margin-bottom:6px;
+  color:var(--fg);
+  font-size:var(--fs-lead);
+  line-height:var(--lh-lead);
+}
+
+.voiceprint-v01 .vp-stage span{
+  display:block;
+  color:var(--muted);
+  font-size:var(--fs-kicker);
+  line-height:var(--lh-kicker);
+}
+
+.voiceprint-v01 .vp-monolith{
+  max-width:960px;
+  margin:22px auto 30px;
+  padding:24px 26px;
+}
+
+.voiceprint-v01 .vp-action{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  margin-top:10px;
+  padding:10px 14px;
+  border:1px solid rgba(242,242,244,.18);
+  border-radius:999px;
+  background:rgba(255,255,255,.035);
+  color:var(--fg);
+  font-size:var(--fs-kicker);
+  line-height:var(--lh-kicker);
+  font-weight:700;
+  text-decoration:none;
+}
+
+.voiceprint-v01 .vp-action:hover{
+  border-color:rgba(242,242,244,.38);
+  background:rgba(255,255,255,.075);
+  text-decoration:none;
+}
+
+.voiceprint-v01 .voiceprint-contact{
+  max-width:960px;
+  margin:22px auto 0;
+}
+
+.voiceprint-v01 .seal{
+  max-width:960px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.voiceprint-v01 .vp-finale{
+  max-width:960px;
+  margin:54px auto 0;
+  padding-top:34px;
+  border-top:1px solid rgba(242,242,244,.18);
+}
+
+.voiceprint-v01 .vp-finale .final-line{
+  margin-top:24px;
+  font-size:clamp(24px,3vw,32px);
+  line-height:1.25;
+}
+
 @media (max-width:900px){
   .site-header{padding:16px 22px 0}
   .content{padding:30px 22px 44px}
@@ -426,4 +591,20 @@ a:hover{text-decoration:underline}
   .voiceprint-contact{margin-top:8px;padding-top:22px}
   .voiceprint-contact-email{margin-top:9px}
   .seal{margin-top:28px}
+
+  .voiceprint-v01 .content{padding:30px 22px 48px}
+  .voiceprint-v01 .hero{margin-bottom:24px}
+  .voiceprint-v01 .chapter-nav{justify-content:flex-start;margin-bottom:36px}
+  .voiceprint-v01 .chapter{margin-bottom:38px}
+  .voiceprint-v01 .chapter + .chapter{padding-top:30px}
+  .voiceprint-v01 .chapter-title{font-size:clamp(25px,7vw,30px)}
+  .voiceprint-v01 .origin{padding:18px 16px}
+  .voiceprint-v01 .vp-card,
+  .voiceprint-v01 .vp-monolith{padding:18px 16px}
+  .voiceprint-v01 .vp-stages{grid-template-columns:1fr 1fr}
+  .voiceprint-v01 .vp-finale{margin-top:38px;padding-top:26px}
+}
+
+@media (max-width:560px){
+  .voiceprint-v01 .vp-stages{grid-template-columns:1fr}
 }
