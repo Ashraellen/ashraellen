@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-25T18:50:03.135Z
+Generated: 2026-08-25T19:44:46.559Z
 Pages: 854
 
 ## Index
@@ -3344,7 +3344,7 @@ Excerpt:
 
 Excerpt:
 
-> SLUDGE SLUDGE is a philosophical dystopia about a world in which pressure no longer resembles a wall: it seeps into everyday life, language and the body, blurs boundaries and turns the human being into material of the environment. Volume II of the MONOLITH trilogy: viscous deformation, exhausted resistance and complicity as habit. Case file Volume II A person does not break all at once. First they grow tired of resisting. Then they begin to agree. CASE No. 2026-001B. Index: 6666548A. STATUS: Top Secret. Read the Russian edition on Google Play Books Read the English edition on Amazon Back to MONOLITH Selected excerpt Chapter 6 / § 6.2 Chapter 6. First Steps through Sludge. § 6.2. Warehouses for the Preservation of Shards The excerpt shows how ordinary need, ritualised procedure, fear, silence and complicity become the everyday composition of SLUDGE. Open the complete excerpt Close the com
+> SLUDGE SLUDGE is a philosophical dystopia about a world in which pressure no longer resembles a wall: it seeps into everyday life, language and the body, blurs boundaries and turns the human being into material of the environment. Volume II of the MONOLITH trilogy: viscous deformation, exhausted resistance and complicity as habit. Case file Volume II A person does not break all at once. First they grow tired of resisting. Then they begin to agree. CASE No. 2026-001B. Index: 6666548A. STATUS: Top Secret. Read the English edition on Google Play Books Read the English edition on Amazon Back to MONOLITH Selected excerpt Chapter 6 / § 6.2 Chapter 6. First Steps through Sludge. § 6.2. Warehouses for the Preservation of Shards The excerpt shows how ordinary need, ritualised procedure, fear, silence and complicity become the everyday composition of SLUDGE. Open the complete excerpt Close the com
 
 ### en/books/radiance/index.html
 
@@ -8355,11 +8355,11 @@ Excerpt:
 - H2: Akta | Wybrany fragment | O książce | Bez spoilerów | Rama artystyczno-badawcza | Tematy / węzły znaczeń | Dla kogo jest ta książka | Miejsce w trylogii
 - H3: Stabilność | Pamięć | Szum | Korekta | Departament Znaczeń | Pęknięcie
 - suggested keyword seed: beton, ashraellen, books, stabilności, systemu, akta, anton, antyutopia, artystyczno-badawcza, bez, filozoficzna, fragment, gdy, jako, jego, kogo, książce, książka
-- candidates: się, nie, beton, anton, jego, jako, mark, pamięć, stabilność, gdy, stabilności, systemu, tom, tylko, wydanie, fragment, już, klej, monolith, monolithu, zbyt, 9.1, bez, człowiek
+- candidates: się, nie, beton, anton, jego, jako, mark, pamięć, stabilność, gdy, stabilności, systemu, tom, tylko, wydanie, fragment, już, klej, monolith, monolithu, polskie, zbyt, 9.1, bez
 
 Excerpt:
 
-> BETON BETON to filozoficzna antyutopia o świecie, w którym stabilność stała się więzieniem, pamięć uznano za zagrożenie, a pierwsza szczelina pojawia się wewnątrz systemu wciąż przekonanego o własnej wieczności. Tom I trylogii MONOLITH. Akta Tom I Beton nie zaczyna się od ściany. Zaczyna się od nawyku nazywania więzienia stabilnością. SPRAWA NR 2026-001B. Indeks: 6666548A. STATUS: Ściśle tajne. Czytaj polskie wydanie w Google Play Books Czytaj angielskie wydanie na Amazon Wróć do MONOLITHU Wybrany fragment Rozdział 9 / § 9.1 Rozdział 9. Protokół „Duma” § 9.1. Najlepszy klej dla społeczeństwa Fragment pokazuje jeden z mechanizmów BETONU: jak ból zmienia się w hasło, winę — w społeczny klej, a ludzką stratę — w sterowalny obraz stabilności. Otwórz pełny fragment Zamknij pełny fragment Rozdział 9. Protokół „Duma” § 9.1. Najlepszy klej dla społeczeństwa Poranek w Departamencie Sensów rozpocz
+> BETON BETON to filozoficzna antyutopia o świecie, w którym stabilność stała się więzieniem, pamięć uznano za zagrożenie, a pierwsza szczelina pojawia się wewnątrz systemu wciąż przekonanego o własnej wieczności. Tom I trylogii MONOLITH. Akta Tom I Beton nie zaczyna się od ściany. Zaczyna się od nawyku nazywania więzienia stabilnością. SPRAWA NR 2026-001B. Indeks: 6666548A. STATUS: Ściśle tajne. Czytaj polskie wydanie w Google Play Books Czytaj polskie wydanie na Amazon Wróć do MONOLITHU Wybrany fragment Rozdział 9 / § 9.1 Rozdział 9. Protokół „Duma” § 9.1. Najlepszy klej dla społeczeństwa Fragment pokazuje jeden z mechanizmów BETONU: jak ból zmienia się w hasło, winę — w społeczny klej, a ludzką stratę — w sterowalny obraz stabilności. Otwórz pełny fragment Zamknij pełny fragment Rozdział 9. Protokół „Duma” § 9.1. Najlepszy klej dla społeczeństwa Poranek w Departamencie Sensów rozpoczął 
 
 ### pl/books/monolith/gas/index.html
 
@@ -8376,7 +8376,7 @@ Excerpt:
 
 Excerpt:
 
-> GAZ Trzeci tom MONOLITHU zaczyna się tam, gdzie system wciąż zachowuje formę, lecz traci już prawo do uznawania siebie za jedyne źródło tego, co się wydarza. GAZ zamienia śledztwo Wiktorii w próbę samej granicy między władzą, pamięcią, obserwacją i środowiskiem. Akta Tom III Gaz rzadko daje się wykryć w chwili przeniknięcia. Zwykle jego obecność staje się widoczna dopiero wtedy, gdy zdążył już rozproszyć się wewnątrz środowiska. PROTOKÓŁ IDENTYFIKACJI OBIEKTU NR 2026-001B OBIEKT: STENOGRAM „GAZ” (WERSJA PEŁNA) ARCHITEKT: ASHRAELLEN IDENTYFIKATOR: 2026-001B-GAS INTEGRALNOŚĆ: 100% (BEZ ZEWNĘTRZNEJ REDAKCJI) Czytaj po polsku w Google Play Books Wydanie angielskie na Amazon Wróć do serii Otwórz pełny protokół Zamknij pełny protokół DEPARTAMENT ZNACZEŃ SEKTOR GÓRNY ZARZĄD KONTROLI ROZPRZESTRZENIANIA PROTOKÓŁ IDENTYFIKACJI OBIEKTU NR 2026-001B OBIEKT: STENOGRAM „GAZ” (WERSJA PEŁNA) ARCHITEKT: 
+> GAZ Trzeci tom MONOLITHU zaczyna się tam, gdzie system wciąż zachowuje formę, lecz traci już prawo do uznawania siebie za jedyne źródło tego, co się wydarza. GAZ zamienia śledztwo Wiktorii w próbę samej granicy między władzą, pamięcią, obserwacją i środowiskiem. Akta Tom III Gaz rzadko daje się wykryć w chwili przeniknięcia. Zwykle jego obecność staje się widoczna dopiero wtedy, gdy zdążył już rozproszyć się wewnątrz środowiska. PROTOKÓŁ IDENTYFIKACJI OBIEKTU NR 2026-001B OBIEKT: STENOGRAM „GAZ” (WERSJA PEŁNA) ARCHITEKT: ASHRAELLEN IDENTYFIKATOR: 2026-001B-GAS INTEGRALNOŚĆ: 100% (BEZ ZEWNĘTRZNEJ REDAKCJI) Czytaj po polsku w Google Play Books Polskie wydanie na Amazon Wróć do serii Otwórz pełny protokół Zamknij pełny protokół DEPARTAMENT ZNACZEŃ SEKTOR GÓRNY ZARZĄD KONTROLI ROZPRZESTRZENIANIA PROTOKÓŁ IDENTYFIKACJI OBIEKTU NR 2026-001B OBIEKT: STENOGRAM „GAZ” (WERSJA PEŁNA) ARCHITEKT: ASH
 
 ### pl/books/monolith/index.html
 
@@ -8410,7 +8410,7 @@ Excerpt:
 
 Excerpt:
 
-> SZLAM SZLAM to filozoficzna antyutopia o świecie, w którym presja przestaje przypominać ścianę: przenika do codzienności, języka i ciała, zaciera granice i zamienia człowieka w materiał środowiska. Tom II trylogii MONOLITH: lepka deformacja, zmęczenie oporu i współudział jako nawyk. Akta Tom II Człowiek nie łamie się od razu. Najpierw męczy się stawianiem oporu. Potem zaczyna się zgadzać. SPRAWA NR 2026-001B. Indeks: 6666548A. STATUS: Ściśle tajne. Czytaj polskie wydanie w Google Play Books Czytaj angielskie wydanie na Amazon Wróć do MONOLITHU Wybrany fragment Rozdział 6 / § 6.2 Rozdział 6. Pierwsze kroki przez SZLAM. § 6.2. Magazyny Zachowania Odłamków Fragment pokazuje, jak zwykła potrzeba, zrytualizowana procedura, strach, milczenie i współudział stają się codziennym tworzywem SZLAM. Otwórz pełny fragment Zamknij pełny fragment Rozdział 6. Pierwsze kroki przez SZLAM. § 6.2. Magazyny Z
+> SZLAM SZLAM to filozoficzna antyutopia o świecie, w którym presja przestaje przypominać ścianę: przenika do codzienności, języka i ciała, zaciera granice i zamienia człowieka w materiał środowiska. Tom II trylogii MONOLITH: lepka deformacja, zmęczenie oporu i współudział jako nawyk. Akta Tom II Człowiek nie łamie się od razu. Najpierw męczy się stawianiem oporu. Potem zaczyna się zgadzać. SPRAWA NR 2026-001B. Indeks: 6666548A. STATUS: Ściśle tajne. Czytaj polskie wydanie w Google Play Books Czytaj polskie wydanie na Amazon Wróć do MONOLITHU Wybrany fragment Rozdział 6 / § 6.2 Rozdział 6. Pierwsze kroki przez SZLAM. § 6.2. Magazyny Zachowania Odłamków Fragment pokazuje, jak zwykła potrzeba, zrytualizowana procedura, strach, milczenie i współudział stają się codziennym tworzywem SZLAM. Otwórz pełny fragment Zamknij pełny fragment Rozdział 6. Pierwsze kroki przez SZLAM. § 6.2. Magazyny Zach
 
 ### pl/books/radiance/index.html
 
