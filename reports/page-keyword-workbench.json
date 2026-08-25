@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-25T15:25:42.272Z",
+  "generated": "2026-08-25T15:26:39.566Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -39589,82 +39589,6 @@
       ]
     },
     {
-      "page": "pl/research/index_v01.html",
-      "lang": "pl",
-      "section": "research",
-      "title": "Ashraellen — Badanie",
-      "description": "Ashraellen to sposób widzenia i trwające całe życie artystyczno-filozoficzne badanie sensu: obserwacja tego, jak człowiek traci kontakt z rzeczywistością, sensem i wewnętrzną wolnością.",
-      "existingKeywords": "ashraellen, research, badanie, sposób, widzenia, trwające, całe, życie, artystyczno-filozoficzne, sensu, obserwacja, tego, jak, człowiek, traci, kontakt, rzeczywistością, sensem",
-      "canonical": "https://www.ashraellen.com/pl/research/",
-      "h1": [
-        "Badanie"
-      ],
-      "h2": [
-        "Co jest badane",
-        "Jak to się odbywa",
-        "Forma fragmentaryczna, ciągłość badania",
-        "Metoda",
-        "Jak rozumieć tę pracę",
-        "Badanie artystyczne",
-        "Otwarta wiedza",
-        "Społeczeństwo cyfrowe"
-      ],
-      "h3": [],
-      "slugTerms": [
-        "pl",
-        "research",
-        "index",
-        "v01"
-      ],
-      "excerpt": "Badanie Ashraellen nie jest tylko imieniem, lecz sposobem widzenia. To sposób świadomości, w którym świat postrzegany jest nie jako zbiór oddzielnych zdarzeń, myśli i reakcji, lecz jako sieć znaczeń, relacji, węzłów i odbić. W tym sposobie jedno znaczenie otwiera drugie: osobiste łączy się ze społecznym, codzienne — z symbolicznym, duchowe — z językiem, strach — z przekonaniem, ból — ze światopoglądem, a przypadkowe zdanie może odsłonić całą warstwę ludzkiego samooszukiwania. Ashraellen to trwające całe życie artystyczno-filozoficzne badanie sensu. Nie wynika ono z chęci produkowania tekstów, książek, wideo czy formatów medialnych, lecz ze szczególnego sposobu pracy świadomości: zdolności widzenia znaczeń wewnątrz znaczeń, struktur wewnątrz struktur i splotów tam, gdzie na powierzchni wydaje się, że istnieje tylko pojedyncza myśl, przypadkowe zdanie, scena codzienności albo osobista reak",
-      "candidates": [
-        "nie",
-        "się",
-        "lecz",
-        "ashraellen",
-        "badania",
-        "jako",
-        "obserwacji",
-        "wideo",
-        "badanie",
-        "cyfrowe",
-        "człowiek",
-        "myśl",
-        "otwórz",
-        "sensu",
-        "tym",
-        "archiwum",
-        "forma",
-        "sposób",
-        "tego",
-        "wewnątrz",
-        "ani",
-        "częścią",
-        "dźwięk",
-        "formy"
-      ],
-      "suggestedKeywordSeed": [
-        "badanie",
-        "ashraellen",
-        "badania",
-        "cyfrowe",
-        "człowiek",
-        "research",
-        "się",
-        "artystyczne",
-        "artystyczno-filozoficzne",
-        "badane",
-        "całe",
-        "ciągłość",
-        "forma",
-        "fragmentaryczna",
-        "index",
-        "jako",
-        "kontakt",
-        "lecz"
-      ]
-    },
-    {
       "page": "pl/research/index.html",
       "lang": "pl",
       "section": "research",
@@ -39709,13 +39633,13 @@
         "tym",
         "archiwum",
         "forma",
-        "może",
         "sposób",
         "tego",
         "wewnątrz",
         "ani",
         "częścią",
-        "dźwięk"
+        "dźwięk",
+        "formy"
       ],
       "suggestedKeywordSeed": [
         "badanie",

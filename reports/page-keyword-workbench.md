@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-25T15:25:42.286Z
-Pages: 853
+Generated: 2026-08-25T15:26:39.579Z
+Pages: 852
 
 ## Index
 
@@ -540,7 +540,6 @@ Pages: 853
 | pl/public/thoughts/index-0002.html | pl | public | Ashraellen — Drugi łuk myśli przewodnich | ashraellen, public, thoughts, index, 0002, drugi, łuk, myśli, przewodnich, pamięć, obserwacja, przebudzenie, brudna, filiżanka, miłosierdzie, straty, granica, literatury | ashraellen, drugi, łuk, myśli, przewodnich, brudna, filiżanka, nie, public, być, czasem, duchowej, gdzie, granica, index, kiedy, krzesło, książkę |
 | pl/public/thoughts/index.html | pl | public | Ashraellen — Trzeci łuk myśli przewodnich | Ashraellen, myśli przewodnie, łuk 0003, przyjęcie rzeczywistości, świadek, obraz | łuk, myśli, przewodnich, ashraellen, fakt, myśl, nie, problem, subtelna, świadek, trzeci, jeden, koronę, obraz, public, się, traci, być |
 | pl/research/archive/index.html | pl | research | Ashraellen — Archiwum badań | Ashraellen, archiwum badań, materiały badawcze, wersje, warstwy badania, badanie artystyczne | archiwum, ashraellen, badań, drogi, już, które, materiałów, research, aby, ale, ani, archive, badanie, badawczych, materiały, nie, pozostaje, procesu |
-| pl/research/index_v01.html | pl | research | Ashraellen — Badanie | ashraellen, research, badanie, sposób, widzenia, trwające, całe, życie, artystyczno-filozoficzne, sensu, obserwacja, tego, jak, człowiek, traci, kontakt, rzeczywistością, sensem | badanie, ashraellen, badania, cyfrowe, człowiek, research, się, artystyczne, artystyczno-filozoficzne, badane, całe, ciągłość, forma, fragmentaryczna, index, jako, kontakt, lecz |
 | pl/research/index.html | pl | research | Ashraellen — Badanie | ashraellen, research, badanie, sposób, widzenia, trwające, całe, życie, artystyczno-filozoficzne, sensu, obserwacja, tego, jak, człowiek, traci, kontakt, rzeczywistością, sensem | badanie, ashraellen, badania, cyfrowe, człowiek, research, się, artystyczne, artystyczno-filozoficzne, badane, całe, ciągłość, forma, fragmentaryczna, jako, kontakt, lecz, metoda |
 | pl/research/method/index.html | pl | research | Ashraellen — Metoda obserwacji | ashraellen, research, method, metoda, obserwacji, zapisywanie, węzłów, znaczeń, forma, artystyczna, jako, narzędzie, badawcze, weryfikacja, przez, rozpoznanie, węzeł, znaczenia | ashraellen, obserwacji, forma, jako, metoda, obserwacja, artystyczna, nie, research, się, weryfikacja, badania, badawcze, czego, człowiek, dlaczego, formy, lecz |
 | pl/research/notes/index.html | pl | research | Ashraellen — Notatki | ashraellen, notatki, marginesy, badania, wątpliwości, fragmenty | ashraellen, notatki, marginesy, chce, doktryną, fragmenty, który, materiał, nie, research, się, stać, wątpliwości, notes |
@@ -9924,23 +9923,6 @@ Excerpt:
 
 > Archiwum Archiwum nie jest wysypiskiem starych materiałów ani cmentarzem nieudanych prób. To miejsce dla zakończonych warstw: wersji, śladów, materiałów i formuł, które nie są już w żywej pracy, ale zachowują znaczenie jako część drogi. na razie puste Badanie pozostaje w ruchu Projekty, teksty i obserwacje Ashraellen pozostają obecnie w żywym procesie. Zmieniają się, doprecyzowują, przechodzą z postów w filmy, z filmów w książki, z książek znów w nowe formuły i pytania. Dlatego jest jeszcze za wcześnie, aby trafiały do archiwum. Tego, co oddycha, nie zamyka się w szklanej gablocie. Niech najpierw dopowie. Kiedy któraś warstwa badania zostanie zakończona i będzie warta zachowania, zamieszka tutaj. — mark of presence
 
-### pl/research/index_v01.html
-
-- lang: pl
-- section: research
-- title: Ashraellen — Badanie
-- description: Ashraellen to sposób widzenia i trwające całe życie artystyczno-filozoficzne badanie sensu: obserwacja tego, jak człowiek traci kontakt z rzeczywistością, sensem i wewnętrzną wolnością.
-- canonical: https://www.ashraellen.com/pl/research/
-- H1: Badanie
-- H2: Co jest badane | Jak to się odbywa | Forma fragmentaryczna, ciągłość badania | Metoda | Jak rozumieć tę pracę | Badanie artystyczne | Otwarta wiedza | Społeczeństwo cyfrowe
-- H3: _missing_
-- suggested keyword seed: badanie, ashraellen, badania, cyfrowe, człowiek, research, się, artystyczne, artystyczno-filozoficzne, badane, całe, ciągłość, forma, fragmentaryczna, index, jako, kontakt, lecz
-- candidates: nie, się, lecz, ashraellen, badania, jako, obserwacji, wideo, badanie, cyfrowe, człowiek, myśl, otwórz, sensu, tym, archiwum, forma, sposób, tego, wewnątrz, ani, częścią, dźwięk, formy
-
-Excerpt:
-
-> Badanie Ashraellen nie jest tylko imieniem, lecz sposobem widzenia. To sposób świadomości, w którym świat postrzegany jest nie jako zbiór oddzielnych zdarzeń, myśli i reakcji, lecz jako sieć znaczeń, relacji, węzłów i odbić. W tym sposobie jedno znaczenie otwiera drugie: osobiste łączy się ze społecznym, codzienne — z symbolicznym, duchowe — z językiem, strach — z przekonaniem, ból — ze światopoglądem, a przypadkowe zdanie może odsłonić całą warstwę ludzkiego samooszukiwania. Ashraellen to trwające całe życie artystyczno-filozoficzne badanie sensu. Nie wynika ono z chęci produkowania tekstów, książek, wideo czy formatów medialnych, lecz ze szczególnego sposobu pracy świadomości: zdolności widzenia znaczeń wewnątrz znaczeń, struktur wewnątrz struktur i splotów tam, gdzie na powierzchni wydaje się, że istnieje tylko pojedyncza myśl, przypadkowe zdanie, scena codzienności albo osobista reak
-
 ### pl/research/index.html
 
 - lang: pl
@@ -9952,7 +9934,7 @@ Excerpt:
 - H2: Co jest badane | Jak to się odbywa | Forma fragmentaryczna, ciągłość badania | Metoda | Jak rozumieć tę pracę | Badanie artystyczne | Otwarta wiedza | Społeczeństwo cyfrowe
 - H3: _missing_
 - suggested keyword seed: badanie, ashraellen, badania, cyfrowe, człowiek, research, się, artystyczne, artystyczno-filozoficzne, badane, całe, ciągłość, forma, fragmentaryczna, jako, kontakt, lecz, metoda
-- candidates: nie, się, lecz, ashraellen, badania, jako, obserwacji, wideo, badanie, cyfrowe, człowiek, myśl, otwórz, sensu, tym, archiwum, forma, może, sposób, tego, wewnątrz, ani, częścią, dźwięk
+- candidates: nie, się, lecz, ashraellen, badania, jako, obserwacji, wideo, badanie, cyfrowe, człowiek, myśl, otwórz, sensu, tym, archiwum, forma, sposób, tego, wewnątrz, ani, częścią, dźwięk, formy
 
 Excerpt:
 
