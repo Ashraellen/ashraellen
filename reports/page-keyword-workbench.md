@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-25T15:29:25.311Z
-Pages: 853
+Generated: 2026-08-25T15:30:12.853Z
+Pages: 852
 
 ## Index
 
@@ -545,8 +545,7 @@ Pages: 853
 | pl/research/notes/index.html | pl | research | Ashraellen — Notatki | ashraellen, notatki, marginesy, badania, wątpliwości, fragmenty | ashraellen, notatki, marginesy, chce, doktryną, fragmenty, który, materiał, nie, research, się, stać, wątpliwości, notes |
 | pl/research/position/index.html | pl | research | Ashraellen — Stanowisko | ashraellen, stanowisko, badania artystyczne, Rzeczywistość, akceptacja, Stwórca, wolność człowieka, religia, odpowiedzialność | ashraellen, bez, nie, stanowisko, badanie, człowiek, punkt, religie, research, rzeczywistością, akceptacja, aprobaty, artystyczne, człowieka, doświadczenia, droga, drugiego, działanie |
 | pl/research/projects/index.html | pl | research | Ashraellen — Projekty badawcze | ashraellen, research, projects, projekty, badawcze, mapa, pól, pracy, monolit, główny, kanał, pole, publiczne, satyryczne, boczne, laboratoria, percepcji, instagram | ashraellen, projekty, boczne, monolit, pole, research, bada, badawcze, book, church, człowiek, główny, inner, instagram, jako, kanał, laboratoria, lecz |
-| pl/research/sources/index_v01.html | pl | research | Ashraellen — Źródła i tradycja | ashraellen, research, sources, źródła, tradycja, fenomenologia, świadomości, ciało, narracja, nauki, kognitywne, praktyka, artystyczna, jako, linie, metodologiczne, badania, edmund | jako, ashraellen, badania, ciało, tradycja, źródła, artystyczna, doświadczenie, fenomenologia, research, świadomości, edmund, eleanor, esej, evan, forma, formy, francisco |
-| pl/research/sources/index.html | pl | research | Ashraellen — Źródła i tradycja | ashraellen, research, sources, źródła, tradycja, fenomenologia, świadomości, ciało, narracja, nauki, kognitywne, praktyka, artystyczna, jako, linie, metodologiczne, badania, edmund | jako, ashraellen, ciało, tradycja, źródła, badania, doświadczenie, fenomenologia, research, świadomości, artystyczna, edmund, eleanor, esej, evan, forma, formy, francisco |
+| pl/research/sources/index.html | pl | research | Ashraellen — Źródła i tradycja | ashraellen, research, sources, źródła, tradycja, fenomenologia, świadomości, ciało, narracja, nauki, kognitywne, praktyka, artystyczna, jako, linie, metodologiczne, badania, edmund | jako, ashraellen, badania, ciało, tradycja, źródła, artystyczna, doświadczenie, fenomenologia, research, świadomości, edmund, eleanor, esej, evan, forma, formy, francisco |
 | privacy.html | root | privacy.html | Privacy Policy — Ashraellen | Ashraellen, privacy policy, website privacy, analytics, language redirection, contact data | privacy, ashraellen, analytics, ashraellen.com, basic, contact, data, handles, how, including, information, policy, language, privacy.html, redirection, user |
 | pt/books/demotopia/index.html | pt | books | Demotopia — Utopia Democrática — romance de Ashraellen | Ashraellen, Demotopia, Utopia Democrática, romance filosófico, ficção científica social, Varsóvia, democracia, ditadura, dados, liberdade, responsabilidade | demotopia, ashraellen, romance, sobre, books, artístico, atmosfera, circuitos, como, dados, democracia, democrática, distribuído, dois, editoriais, filosófico, forma, futuro |
 | pt/books/error-404-god-not-found/index.html | pt | books | Ashraellen — Erro 404: Deus não encontrado | _missing_ | erro, 404, deus, encontrado, não, ciclo, ashraellen, books, celestial, chancelaria, série, sobre, busca, contra, error, filosófico-satírico, forma, found |
@@ -10009,7 +10008,7 @@ Excerpt:
 
 > Projekty To nie jest wystawa gatunków ani lista platform. To mapa pól pracy Ashraellen. Jedne projekty są centralnymi modelami badania. Inne — publicznymi strefami, w których myśl spotyka żywą reakcję. Jeszcze inne działają jak boczne laboratoria: przez satyrę, dźwięk, smak, obraz, symbol i codzienne postrzeganie. Centralne pole MONOLIT Główny artystyczno-badawczy model Ashraellen. Trylogia bada, jak człowiek traci odrębność, pamięć, język, ciało i wewnętrzne oparcie wewnątrz systemu, który najpierw obiecuje porządek, a potem zamienia żywe w materiał. BETON, ŻIŻA i GAZ — trzy stany rzeczywistości: zastygnięcie, rozpad i rozproszenie sensu. Powieść działa tu nie jako historia ucieczki, lecz jako model, przez który można zobaczyć mechanizm od środka. Otwórz → Główny kanał Ashraellen Kanał o jasności, uważności i powrocie do żywego postrzegania. Tutaj badany jest moment, w którym um przesta
 
-### pl/research/sources/index_v01.html
+### pl/research/sources/index.html
 
 - lang: pl
 - section: research
@@ -10025,23 +10024,6 @@ Excerpt:
 Excerpt:
 
 > Źródła i tradycja Praca Ashraellen styka się z kilkoma tradycjami intelektualnymi i artystycznymi, które oferują różne języki opisu doświadczenia, percepcji, samorozumienia i samego procesu badania. Fenomenologia świadomości, fenomenologia cielesna, myśl narracyjna, nauki kognitywne i praktyka artystyczna nie tworzą tutaj zamkniętego systemu źródeł ani pełnej genealogii intelektualnej, lecz kilka ważnych linii porównania. Linie te nie składają się na jeden system dowodzenia. Model naukowy pozostaje modelem naukowym, filozoficzny — filozoficznym, a badanie artystyczne — badaniem artystycznym. Ich spotkanie jest wartościowe tam, gdzie różne sposoby opisu pozwalają zobaczyć jedno pytanie z różnych stron. Husserl budował metodę uważnego opisu doświadczenia. Merleau-Ponty przywracał świadomość ciału. Ricoeur pokazywał, że narracja nie jest ozdobą myśli, lecz formą samorozumienia. Varela, Thom
-
-### pl/research/sources/index.html
-
-- lang: pl
-- section: research
-- title: Ashraellen — Źródła i tradycja
-- description: Źródła i tradycja Ashraellen: fenomenologia świadomości, ciało, narracja, nauki kognitywne i praktyka artystyczna jako linie metodologiczne badania.
-- canonical: https://www.ashraellen.com/pl/research/sources/
-- H1: Źródła i tradycja
-- H2: Edmund Husserl — doświadczenie przed gotowym wyjaśnieniem | Maurice Merleau-Ponty — ciało jako pierwszy punkt percepcji | Paul Ricoeur — opowieść jako forma samorozumienia | Francisco Varela, Evan Thompson, Eleanor Rosch — świadomość jako żywa interakcja | Powieść, esej i tekst publiczny jako formy badania | Kluczowe nazwiska i kierunki
-- H3: _missing_
-- suggested keyword seed: jako, ashraellen, ciało, tradycja, źródła, badania, doświadczenie, fenomenologia, research, świadomości, artystyczna, edmund, eleanor, esej, evan, forma, formy, francisco
-- candidates: nie, jako, się, ashraellen, świadomości, ciało, doświadczenie, lecz, związek, fenomenologia, świat, tylko, artystyczna, formy, husserl, której, lęk, merleau-ponty, myśl, narracja, opowieść, pamięć, poprzez, powieść
-
-Excerpt:
-
-> Źródła i tradycja To badanie stoi na przecięciu fenomenologii świadomości, epistemologii narracyjnej, nauk kognitywnych i praktyki artystycznej. Husserl budował metodę precyzyjnego opisu doświadczenia. Merleau-Ponty przywracał świadomość ciału. Ricoeur pokazywał, że narracja nie jest ozdobą myśli, lecz formą samorozumienia. Varela, Thompson i Rosch łączyli fenomenologię z naukami kognitywnymi i żywym doświadczeniem. Ashraellen pracuje tam, gdzie te linie się przecinają: w obszarze, w którym sam tekst akademicki już nie wystarcza, a żywe doświadczenie nie otrzymało jeszcze dokładnej formy. Fenomenologia świadomości Edmund Husserl — doświadczenie przed gotowym wyjaśnieniem W tej linii ważna jest nie wiara w pierwszą myśl, lecz uważne oglądanie tego, jak doświadczenie pojawia się w świadomości. Nawykowe wyjaśnienia zostają chwilowo odsunięte, aby samo zjawisko mogło stać się widoczne: myśl,
 
 ### privacy.html
 

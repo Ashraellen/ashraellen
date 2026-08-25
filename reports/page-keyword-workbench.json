@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-25T15:29:25.299Z",
+  "generated": "2026-08-25T15:30:12.836Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -39953,7 +39953,7 @@
       ]
     },
     {
-      "page": "pl/research/sources/index_v01.html",
+      "page": "pl/research/sources/index.html",
       "lang": "pl",
       "section": "research",
       "title": "Ashraellen — Źródła i tradycja",
@@ -39975,9 +39975,7 @@
       "slugTerms": [
         "pl",
         "research",
-        "sources",
-        "index",
-        "v01"
+        "sources"
       ],
       "excerpt": "Źródła i tradycja Praca Ashraellen styka się z kilkoma tradycjami intelektualnymi i artystycznymi, które oferują różne języki opisu doświadczenia, percepcji, samorozumienia i samego procesu badania. Fenomenologia świadomości, fenomenologia cielesna, myśl narracyjna, nauki kognitywne i praktyka artystyczna nie tworzą tutaj zamkniętego systemu źródeł ani pełnej genealogii intelektualnej, lecz kilka ważnych linii porównania. Linie te nie składają się na jeden system dowodzenia. Model naukowy pozostaje modelem naukowym, filozoficzny — filozoficznym, a badanie artystyczne — badaniem artystycznym. Ich spotkanie jest wartościowe tam, gdzie różne sposoby opisu pozwalają zobaczyć jedno pytanie z różnych stron. Husserl budował metodę uważnego opisu doświadczenia. Merleau-Ponty przywracał świadomość ciału. Ricoeur pokazywał, że narracja nie jest ozdobą myśli, lecz formą samorozumienia. Varela, Thom",
       "candidates": [
@@ -40018,79 +40016,6 @@
         "fenomenologia",
         "research",
         "świadomości",
-        "edmund",
-        "eleanor",
-        "esej",
-        "evan",
-        "forma",
-        "formy",
-        "francisco"
-      ]
-    },
-    {
-      "page": "pl/research/sources/index.html",
-      "lang": "pl",
-      "section": "research",
-      "title": "Ashraellen — Źródła i tradycja",
-      "description": "Źródła i tradycja Ashraellen: fenomenologia świadomości, ciało, narracja, nauki kognitywne i praktyka artystyczna jako linie metodologiczne badania.",
-      "existingKeywords": "ashraellen, research, sources, źródła, tradycja, fenomenologia, świadomości, ciało, narracja, nauki, kognitywne, praktyka, artystyczna, jako, linie, metodologiczne, badania, edmund",
-      "canonical": "https://www.ashraellen.com/pl/research/sources/",
-      "h1": [
-        "Źródła i tradycja"
-      ],
-      "h2": [
-        "Edmund Husserl — doświadczenie przed gotowym wyjaśnieniem",
-        "Maurice Merleau-Ponty — ciało jako pierwszy punkt percepcji",
-        "Paul Ricoeur — opowieść jako forma samorozumienia",
-        "Francisco Varela, Evan Thompson, Eleanor Rosch — świadomość jako żywa interakcja",
-        "Powieść, esej i tekst publiczny jako formy badania",
-        "Kluczowe nazwiska i kierunki"
-      ],
-      "h3": [],
-      "slugTerms": [
-        "pl",
-        "research",
-        "sources"
-      ],
-      "excerpt": "Źródła i tradycja To badanie stoi na przecięciu fenomenologii świadomości, epistemologii narracyjnej, nauk kognitywnych i praktyki artystycznej. Husserl budował metodę precyzyjnego opisu doświadczenia. Merleau-Ponty przywracał świadomość ciału. Ricoeur pokazywał, że narracja nie jest ozdobą myśli, lecz formą samorozumienia. Varela, Thompson i Rosch łączyli fenomenologię z naukami kognitywnymi i żywym doświadczeniem. Ashraellen pracuje tam, gdzie te linie się przecinają: w obszarze, w którym sam tekst akademicki już nie wystarcza, a żywe doświadczenie nie otrzymało jeszcze dokładnej formy. Fenomenologia świadomości Edmund Husserl — doświadczenie przed gotowym wyjaśnieniem W tej linii ważna jest nie wiara w pierwszą myśl, lecz uważne oglądanie tego, jak doświadczenie pojawia się w świadomości. Nawykowe wyjaśnienia zostają chwilowo odsunięte, aby samo zjawisko mogło stać się widoczne: myśl,",
-      "candidates": [
-        "nie",
-        "jako",
-        "się",
-        "ashraellen",
-        "świadomości",
-        "ciało",
-        "doświadczenie",
-        "lecz",
-        "związek",
-        "fenomenologia",
-        "świat",
-        "tylko",
-        "artystyczna",
-        "formy",
-        "husserl",
-        "której",
-        "lęk",
-        "merleau-ponty",
-        "myśl",
-        "narracja",
-        "opowieść",
-        "pamięć",
-        "poprzez",
-        "powieść"
-      ],
-      "suggestedKeywordSeed": [
-        "jako",
-        "ashraellen",
-        "ciało",
-        "tradycja",
-        "źródła",
-        "badania",
-        "doświadczenie",
-        "fenomenologia",
-        "research",
-        "świadomości",
-        "artystyczna",
         "edmund",
         "eleanor",
         "esej",
