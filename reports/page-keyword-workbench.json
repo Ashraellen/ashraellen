@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-25T15:11:07.927Z",
+  "generated": "2026-08-25T15:11:55.368Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -16378,7 +16378,7 @@
       ]
     },
     {
-      "page": "en/research/sources/index_v01.html",
+      "page": "en/research/sources/index.html",
       "lang": "en",
       "section": "research",
       "title": "Ashraellen — Sources and Tradition",
@@ -16400,9 +16400,7 @@
       "slugTerms": [
         "en",
         "research",
-        "sources",
-        "index",
-        "v01"
+        "sources"
       ],
       "excerpt": "Sources and Tradition Ashraellen’s work comes into contact with several intellectual and artistic traditions that offer different languages for describing experience, perception, self-understanding and the process of inquiry. Phenomenology of consciousness, embodied phenomenology, narrative thought, cognitive science and artistic practice form here neither a closed system of sources nor a complete intellectual genealogy, but several important lines of comparison. These lines do not collapse into a single system of evidence. A scientific model remains a scientific model, a philosophical one remains philosophical, and artistic research remains artistic. Their encounter is valuable where different modes of description allow the same question to be seen from different sides. Husserl built a method for describing experience with precision. Merleau-Ponty returned consciousness to the body. Ric",
       "candidates": [
@@ -16450,79 +16448,6 @@
         "edmund",
         "eleanor",
         "essay"
-      ]
-    },
-    {
-      "page": "en/research/sources/index.html",
-      "lang": "en",
-      "section": "research",
-      "title": "Ashraellen — Sources and Tradition",
-      "description": "Ashraellen sources and tradition: phenomenology of consciousness, the body, narrative, cognitive science, and artistic practice as methodological lines of research.",
-      "existingKeywords": "ashraellen, research, sources, tradition, phenomenology, consciousness, body, narrative, cognitive, science, artistic, practice, methodological, lines, edmund, husserl, experience, before",
-      "canonical": "https://www.ashraellen.com/en/research/sources/",
-      "h1": [
-        "Sources and Tradition"
-      ],
-      "h2": [
-        "Edmund Husserl — experience before ready-made explanations",
-        "Maurice Merleau-Ponty — the body as the first point of perception",
-        "Paul Ricoeur — narrative as a form of self-understanding",
-        "Francisco Varela, Evan Thompson, Eleanor Rosch — consciousness as living interaction",
-        "The novel, the essay, and the public text as forms of research",
-        "Key names and directions"
-      ],
-      "h3": [],
-      "slugTerms": [
-        "en",
-        "research",
-        "sources"
-      ],
-      "excerpt": "Sources and Tradition This research stands at the intersection of the phenomenology of consciousness, narrative epistemology, cognitive science, and artistic practice. Husserl built a method for describing experience with precision. Merleau-Ponty returned consciousness to the body. Ricoeur showed that narrative is not an ornament added to thought, but a form of self-understanding. Varela, Thompson, and Rosch brought phenomenology into contact with cognitive science and lived experience. Ashraellen works where these lines meet: in the region where academic writing alone is no longer sufficient, and living experience has not yet received an exact form. Phenomenology of consciousness Edmund Husserl — experience before ready-made explanations What matters here is not believing the first thought, but observing how experience appears within consciousness. Habitual explanations are temporarily ",
-      "candidates": [
-        "experience",
-        "consciousness",
-        "ashraellen",
-        "body",
-        "does",
-        "narrative",
-        "form",
-        "phenomenology",
-        "research",
-        "artistic",
-        "cognitive",
-        "connection",
-        "science",
-        "thought",
-        "through",
-        "which",
-        "fear",
-        "practice",
-        "visible",
-        "world",
-        "becomes",
-        "embodied",
-        "explanations",
-        "first"
-      ],
-      "suggestedKeywordSeed": [
-        "research",
-        "ashraellen",
-        "sources",
-        "body",
-        "consciousness",
-        "narrative",
-        "tradition",
-        "artistic",
-        "cognitive",
-        "experience",
-        "form",
-        "phenomenology",
-        "before",
-        "connection",
-        "directions",
-        "does",
-        "edmund",
-        "eleanor"
       ]
     },
     {

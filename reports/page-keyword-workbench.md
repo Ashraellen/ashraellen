@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-25T15:11:07.943Z
-Pages: 853
+Generated: 2026-08-25T15:11:55.384Z
+Pages: 852
 
 ## Index
 
@@ -227,8 +227,7 @@ Pages: 853
 | en/research/notes/index.html | en | research | Ashraellen — Notes | ashraellen, notes, margins, research, doubts, fragments | notes, ashraellen, margins, ashraellen’s, become, deliberately, doctrine, doubts, fragments, material, refuses, research, feels |
 | en/research/position/index.html | en | research | Ashraellen — Position | ashraellen, position, artistic research, Reality, acceptance, Creator, human freedom, religion, responsibility | position, reality, ashraellen, point, another, ashraellen’s, inquiry, radio, religions, research, without, acceptance, action, against, approval, artistic, being, description |
 | en/research/projects/index.html | en | research | Ashraellen — Research Projects | ashraellen, research, projects, map, working, fields, monolith, main, channel, public, field, satirical, side, laboratories, perception, instagram, telegram, church | ashraellen, projects, research, channel, field, monolith, perception, book, church, fields, here, how, inner, instagram, laboratories, living, main, map |
-| en/research/sources/index_v01.html | en | research | Ashraellen — Sources and Tradition | ashraellen, research, sources, tradition, phenomenology, consciousness, body, narrative, cognitive, science, artistic, practice, methodological, lines, edmund, husserl, experience, before | research, ashraellen, sources, body, consciousness, narrative, tradition, artistic, cognitive, experience, form, phenomenology, before, directions, does, edmund, eleanor, essay |
-| en/research/sources/index.html | en | research | Ashraellen — Sources and Tradition | ashraellen, research, sources, tradition, phenomenology, consciousness, body, narrative, cognitive, science, artistic, practice, methodological, lines, edmund, husserl, experience, before | research, ashraellen, sources, body, consciousness, narrative, tradition, artistic, cognitive, experience, form, phenomenology, before, connection, directions, does, edmund, eleanor |
+| en/research/sources/index.html | en | research | Ashraellen — Sources and Tradition | ashraellen, research, sources, tradition, phenomenology, consciousness, body, narrative, cognitive, science, artistic, practice, methodological, lines, edmund, husserl, experience, before | research, ashraellen, sources, body, consciousness, narrative, tradition, artistic, cognitive, experience, form, phenomenology, before, directions, does, edmund, eleanor, essay |
 | es/books/demotopia/index.html | es | books | Demotopia — Utopía Democrática — novela de Ashraellen | Ashraellen, Demotopia, Utopía Democrática, novela filosófica, ciencia ficción social, Varsovia, democracia, dictadura, datos, libertad, responsabilidad | demotopia, ashraellen, novela, sobre, books, del, los, poder, una, artístico, atmósfera, circuitos, como, datos, democracia, democrática, destripes, distribuido |
 | es/books/error-404-god-not-found/index.html | es | books | Ashraellen — Error 404: Dios no encontrado | _missing_ | error, 404, dios, ciclo, encontrado, ashraellen, books, búsqueda, cancillería, celestial, del, serie, sobre, contra, filosófico-satírico, forma, found, frase |
 | es/books/error-404-god-not-found/why-me/index.html | es | books | Ashraellen — ¿Por qué yo? | _missing_ | del, por, qué, libro, ashraellen, books, dios, error, sobre, una, 404, alma, burocracia, cancillería, capas, celestial, ciclo, como |
@@ -4603,7 +4602,7 @@ Excerpt:
 
 > Projects This is neither a showcase of genres nor a list of platforms. It is a map of Ashraellen’s working fields. Some projects are central research models. Others are public zones where thought meets living reaction. Others work as side laboratories: through satire, sound, taste, image, symbol, and everyday perception. Central field MONOLITH The main artistic-research model of Ashraellen. The trilogy studies how a person loses separateness, memory, language, body, and inner ground inside a system that first promises order and then turns the living into material. BETON, SLUDGE, and GAS are three states of reality: solidification, decay, and the dispersion of meaning. The novel works here not as an escape story, but as a model through which a mechanism can be seen from within. Open → Main channel Ashraellen A channel about clarity, awareness, and the return to living perception. It studi
 
-### en/research/sources/index_v01.html
+### en/research/sources/index.html
 
 - lang: en
 - section: research
@@ -4619,23 +4618,6 @@ Excerpt:
 Excerpt:
 
 > Sources and Tradition Ashraellen’s work comes into contact with several intellectual and artistic traditions that offer different languages for describing experience, perception, self-understanding and the process of inquiry. Phenomenology of consciousness, embodied phenomenology, narrative thought, cognitive science and artistic practice form here neither a closed system of sources nor a complete intellectual genealogy, but several important lines of comparison. These lines do not collapse into a single system of evidence. A scientific model remains a scientific model, a philosophical one remains philosophical, and artistic research remains artistic. Their encounter is valuable where different modes of description allow the same question to be seen from different sides. Husserl built a method for describing experience with precision. Merleau-Ponty returned consciousness to the body. Ric
-
-### en/research/sources/index.html
-
-- lang: en
-- section: research
-- title: Ashraellen — Sources and Tradition
-- description: Ashraellen sources and tradition: phenomenology of consciousness, the body, narrative, cognitive science, and artistic practice as methodological lines of research.
-- canonical: https://www.ashraellen.com/en/research/sources/
-- H1: Sources and Tradition
-- H2: Edmund Husserl — experience before ready-made explanations | Maurice Merleau-Ponty — the body as the first point of perception | Paul Ricoeur — narrative as a form of self-understanding | Francisco Varela, Evan Thompson, Eleanor Rosch — consciousness as living interaction | The novel, the essay, and the public text as forms of research | Key names and directions
-- H3: _missing_
-- suggested keyword seed: research, ashraellen, sources, body, consciousness, narrative, tradition, artistic, cognitive, experience, form, phenomenology, before, connection, directions, does, edmund, eleanor
-- candidates: experience, consciousness, ashraellen, body, does, narrative, form, phenomenology, research, artistic, cognitive, connection, science, thought, through, which, fear, practice, visible, world, becomes, embodied, explanations, first
-
-Excerpt:
-
-> Sources and Tradition This research stands at the intersection of the phenomenology of consciousness, narrative epistemology, cognitive science, and artistic practice. Husserl built a method for describing experience with precision. Merleau-Ponty returned consciousness to the body. Ricoeur showed that narrative is not an ornament added to thought, but a form of self-understanding. Varela, Thompson, and Rosch brought phenomenology into contact with cognitive science and lived experience. Ashraellen works where these lines meet: in the region where academic writing alone is no longer sufficient, and living experience has not yet received an exact form. Phenomenology of consciousness Edmund Husserl — experience before ready-made explanations What matters here is not believing the first thought, but observing how experience appears within consciousness. Habitual explanations are temporarily 
 
 ### es/books/demotopia/index.html
 
