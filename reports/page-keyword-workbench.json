@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-25T15:31:12.941Z",
+  "generated": "2026-08-25T15:33:09.010Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -36407,7 +36407,7 @@
       ]
     },
     {
-      "page": "pl/professional/index_v01.html",
+      "page": "pl/professional/index.html",
       "lang": "pl",
       "section": "professional",
       "title": "Ashraellen — Dossier profesjonalne",
@@ -36439,9 +36439,7 @@
       ],
       "slugTerms": [
         "pl",
-        "professional",
-        "index",
-        "v01"
+        "professional"
       ],
       "excerpt": "Dossier profesjonalne Ashraellen Sposób widzenia · Praktyka literacka i artystyczno-filozoficzna · Badania · Publiczne archiwum Ta strona przedstawia działalność Ashraellen w kontekście profesjonalnym — dla wydawnictw, organizacji kulturalnych i badawczych, fundacji, partnerów, mediów oraz innych form współpracy. Główna strona pozostaje żywą przestrzenią książek, badań, tekstów publicznych i innych prac; to dossier daje bardziej skupiony obraz tego, czym Ashraellen jest dziś i w jakich kierunkach rozwija się ta praktyka. Rdzeń badawczy Ashraellen to nie do końca imię; raczej sposób widzenia. To trwające przez całe życie artystyczno-filozoficzne badanie sensu, percepcji, samooszukiwania się, wewnętrznej wolności i ludzkiej utraty kontaktu z rzeczywistością. Praca opiera się na zdolności autora do dostrzegania sensów wewnątrz sensów, struktur wewnątrz struktur oraz punktów przecięcia, w kt",
       "candidates": [
@@ -36489,89 +36487,6 @@
         "artystyczno-filozoficzna",
         "autora",
         "autorze"
-      ]
-    },
-    {
-      "page": "pl/professional/index.html",
-      "lang": "pl",
-      "section": "professional",
-      "title": "Ashraellen — Dossier profesjonalne",
-      "description": "Dossier profesjonalne Ashraellen: praktyka literacka i artystyczno-filozoficzna, metoda obserwacji, wybrane prace, formy publiczne i równoległe kierunki badawcze.",
-      "existingKeywords": "",
-      "canonical": "https://www.ashraellen.com/pl/professional/",
-      "h1": [
-        "Ashraellen"
-      ],
-      "h2": [
-        "Rdzeń badawczy",
-        "O autorze",
-        "Metoda obserwacji",
-        "Ramy profesjonalne",
-        "Wybrane prace literackie i artystyczne",
-        "Publiczne formy projektu",
-        "Kierunki równoległe",
-        "Jak rozwija się dziś ta praca"
-      ],
-      "h3": [
-        "Badania artystyczne",
-        "Otwarta wiedza",
-        "Społeczeństwo cyfrowe",
-        "Niezależne archiwum cyfrowe",
-        "MONOLIT",
-        "Blask",
-        "Demotopia — Demokratyczna Utopia",
-        "Ashraellen — Duch Nowej Ery"
-      ],
-      "slugTerms": [
-        "pl",
-        "professional"
-      ],
-      "excerpt": "Dossier profesjonalne Ashraellen Sposób widzenia · Praktyka literacka i artystyczno-filozoficzna · Badania · Publiczne archiwum Ta strona przedstawia działalność Ashraellen w kontekście profesjonalnym — dla wydawnictw, organizacji kulturalnych i badawczych, fundacji, partnerów, mediów oraz innych form współpracy. Główna strona pozostaje żywą przestrzenią książek, badań, tekstów publicznych i innych prac; to dossier daje bardziej skupiony obraz tego, czym Ashraellen jest dziś i w jakich kierunkach rozwija się ta praktyka. Rdzeń badawczy Ashraellen to nie do końca imię; raczej sposób widzenia. To trwające przez całe życie artystyczno-filozoficzne badanie sensu, percepcji, samooszukiwania się, wewnętrznej wolności i ludzkiej utraty kontaktu z rzeczywistością. Praca opiera się na zdolności autora do dostrzegania sensów wewnątrz sensów, struktur wewnątrz struktur oraz punktów przecięcia, w kt",
-      "candidates": [
-        "się",
-        "nie",
-        "ashraellen",
-        "kierunki",
-        "obserwacji",
-        "jako",
-        "oraz",
-        "pracy",
-        "formy",
-        "lub",
-        "sensu",
-        "archiwum",
-        "badawcze",
-        "językami",
-        "między",
-        "otwórz",
-        "praca",
-        "praktyka",
-        "praktyki",
-        "publiczne",
-        "sens",
-        "autora",
-        "badań",
-        "badania"
-      ],
-      "suggestedKeywordSeed": [
-        "ashraellen",
-        "formy",
-        "kierunki",
-        "obserwacji",
-        "profesjonalne",
-        "dossier",
-        "metoda",
-        "prace",
-        "professional",
-        "publiczne",
-        "równoległe",
-        "się",
-        "wybrane",
-        "archiwum",
-        "artystyczne",
-        "artystyczno-filozoficzna",
-        "autorze",
-        "badawcze"
       ]
     },
     {
