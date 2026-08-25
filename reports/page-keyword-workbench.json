@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-25T15:26:39.566Z",
+  "generated": "2026-08-25T15:27:35.352Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -39660,6 +39660,91 @@
         "kontakt",
         "lecz",
         "metoda"
+      ]
+    },
+    {
+      "page": "pl/research/method/index_v01.html",
+      "lang": "pl",
+      "section": "research",
+      "title": "Ashraellen — Metoda obserwacji",
+      "description": "Metoda obserwacji Ashraellen: zapisywanie węzłów znaczeń, forma artystyczna jako narzędzie badawcze i reakcja czytelnika jako materiał terenowy.",
+      "existingKeywords": "ashraellen, research, method, metoda, obserwacji, zapisywanie, węzłów, znaczeń, forma, artystyczna, jako, narzędzie, badawcze, reakcja czytelnika, materiał terenowy, rozpoznanie",
+      "canonical": "https://www.ashraellen.com/pl/research/method/",
+      "h1": [
+        "Metoda obserwacji"
+      ],
+      "h2": [
+        "Węzeł znaczenia",
+        "Pole badania",
+        "Jak pojawia się obserwacja",
+        "Obserwacja pierwszoosobowa",
+        "Dlaczego forma artystyczna",
+        "Formy jako narzędzia",
+        "Weryfikacja",
+        "Czego tutaj nie ma"
+      ],
+      "h3": [
+        "I. Pozycja wyjściowa",
+        "II. Przedmiot",
+        "III. Dlaczego nie tylko tekst akademicki",
+        "IV. Forma jako narzędzie",
+        "V. Weryfikacja",
+        "VI. Czego tutaj nie ma",
+        "VII. Pozycja"
+      ],
+      "slugTerms": [
+        "pl",
+        "research",
+        "method",
+        "index",
+        "v01"
+      ],
+      "excerpt": "Metoda obserwacji Metoda Ashraellen to obserwacja i zapisywanie węzłów znaczeń. Nie zaczyna się od tezy, którą trzeba udowodnić, ani od systemu, który trzeba zbudować. Zaczyna się w chwili, gdy wewnątrz doświadczenia, frazy, reakcji, sceny, lęku, bólu albo zbiegu okoliczności zaczyna pojawiać się węzeł znaczenia. Węzeł znaczenia Takiego węzła nie da się po prostu szybko wyjaśnić. Jeśli wyjaśni się go zbyt wcześnie, zamienia się w płaską myśl i traci swoją żywą strukturę. Zadaniem metody nie jest uchwycić znaczenie i ogłosić je prawdą, lecz utrzymać je wystarczająco długo, aby zobaczyć, jak łączy się z innymi poziomami. Ashraellen pracuje z tym, co można nazwać siecią znaczeń: jeden węzeł prowadzi do drugiego; osobiste łączy się ze społecznym; codzienne — z symbolicznym; językowe — z duchowym; lęk — z przekonaniem; ból — ze światopoglądem. Autor jest obecny w tym procesie nie jako właścic",
+      "candidates": [
+        "nie",
+        "się",
+        "mechanizm",
+        "ashraellen",
+        "lecz",
+        "forma",
+        "jako",
+        "wewnątrz",
+        "ale",
+        "człowiek",
+        "metody",
+        "materiałem",
+        "obserwacja",
+        "tutaj",
+        "zaczyna",
+        "zobaczyć",
+        "badania",
+        "czytelnika",
+        "działa",
+        "gdzie",
+        "metoda",
+        "myśl",
+        "przez",
+        "tekst"
+      ],
+      "suggestedKeywordSeed": [
+        "ashraellen",
+        "jako",
+        "forma",
+        "metoda",
+        "obserwacji",
+        "artystyczna",
+        "nie",
+        "obserwacja",
+        "research",
+        "się",
+        "ale",
+        "badania",
+        "badawcze",
+        "czego",
+        "człowiek",
+        "czytelnika",
+        "dlaczego",
+        "formy"
       ]
     },
     {
