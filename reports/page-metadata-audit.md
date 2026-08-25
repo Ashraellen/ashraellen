@@ -1,6 +1,6 @@
 # Page Metadata Audit
 
-Generated: 2026-08-25T14:19:37.271Z
+Generated: 2026-08-25T14:26:44.976Z
 
 Pages checked: 851
 Pages with issues: 359
@@ -3637,7 +3637,7 @@ Total review notes: 2308
 ### ru/professional/index.html
 
 - title: Ashraellen — Профессиональное досье
-- description length: 183
+- description length: 171
 - canonical: https://www.ashraellen.com/ru/professional/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
