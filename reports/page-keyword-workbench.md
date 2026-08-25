@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-25T15:30:12.853Z
-Pages: 852
+Generated: 2026-08-25T15:31:12.958Z
+Pages: 853
 
 ## Index
 
@@ -497,6 +497,7 @@ Pages: 852
 | pl/index.html | pl | index.html | Ashraellen — książki, badania i teksty publiczne | _missing_ | ashraellen, badania, książki, publiczne, teksty, artystyczno-badawcza, dźwięk, literacko-filozoficzna, niezależna, praktyka, wideo, index.html, kontakt, satyra, wielojęzyczna |
 | pl/monolith/index.html | pl | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, pl, monolith | monolith, beton, gas, sludge, ashraellen, dystopijna, edycja, kontroli, amazon, angielsku, czytaj, kontrolowanego, pamięci, polska, przygotowaniu, rozpadu, rozpadzie, stany |
 | pl/privacy.html | pl | privacy.html | Polityka prywatności — Ashraellen | _missing_ | polityka, prywatności, cookies, dane, analityka, ashraellen, ashraellen.com, być, mogą, strony, zewnętrzne, administrator, aktualizacje, cel, danych, google, jakie, kontakt |
+| pl/professional/index_v01.html | pl | professional | Ashraellen — Dossier profesjonalne | _missing_ | ashraellen, formy, obserwacji, profesjonalne, dossier, metoda, prace, pracy, praktyka, professional, publiczne, się, wybrane, archiwum, artystyczne, artystyczno-filozoficzna, autora, autorze |
 | pl/professional/index.html | pl | professional | Ashraellen — Dossier profesjonalne | _missing_ | ashraellen, formy, kierunki, obserwacji, profesjonalne, dossier, metoda, prace, professional, publiczne, równoległe, się, wybrane, archiwum, artystyczne, artystyczno-filozoficzna, autorze, badawcze |
 | pl/projects/my-memory/index.html | pl | projects | MY MEMORY — należąca do użytkownika ciągłość pracy wspomaganej przez AI | _missing_ | memory, pracy, przez, użytkownika, ciągłości, decyzje, dowody, należąca, nie, obecny, projects, projektu, stan, wspomaganej, aktualny, ashraellen, ciągłość, czego |
 | pl/projects/voiceprint/index.html | pl | projects | VOICEPRINT — Gdzie w tym przepływie jestem JA? | _missing_ | voiceprint, autora, gdzie, jestem, może, nie, projects, przepływie, przez, się, tekst, tym, aby, ale, ashraellen, bada, badania, błędny |
@@ -9191,6 +9192,23 @@ Excerpt:
 Excerpt:
 
 > Przejrzystość prawna Polityka prywatności Ta strona wyjaśnia, jakie dane może przetwarzać Ashraellen.com, w jakim celu są używane i jakie prawa ma odwiedzający stronę. Ostatnia aktualizacja: 25 maja 2026 1. Administrator strony Strona Ashraellen.com jest częścią niezależnego projektu twórczego i badawczego Ashraellen , związanego z Nikolaiem Kostyshevem. W sprawach prywatności, współpracy, grantów i publikacji można pisać na: ashraellen.live@gmail.com . 2. Jakie dane mogą być zbierane Strona może przetwarzać ograniczone dane techniczne i kontaktowe: typ przeglądarki, urządzenie, przybliżoną lokalizację sieciową, odwiedzone strony, czas wizyty, dane Google Analytics z anonimizacją IP, dane dobrowolnie wysłane e-mailem oraz dane techniczne potrzebne do działania strony. Strona nie wymaga zakładania konta i nie jest przeznaczona do świadomego zbierania danych wrażliwych. 3. Cel przetwarzani
+
+### pl/professional/index_v01.html
+
+- lang: pl
+- section: professional
+- title: Ashraellen — Dossier profesjonalne
+- description: Dossier profesjonalne Ashraellen: praktyka literacka i artystyczno-filozoficzna, metoda obserwacji, wybrane prace, formy publiczne i wewnętrzne kierunki robocze.
+- canonical: https://www.ashraellen.com/pl/professional/
+- H1: Ashraellen
+- H2: Rdzeń badawczy | O autorze | Jak rozszerzało się pole pracy | Metoda obserwacji | Ramy profesjonalne | Wybrane prace literackie i artystyczne | Publiczne formy projektu | Wewnętrzna infrastruktura robocza
+- H3: Badania artystyczne | Otwarta wiedza | Społeczeństwo cyfrowe | Niezależne archiwum cyfrowe | MONOLIT | Blask | Demotopia — Demokratyczna Utopia | Ashraellen — Duch Nowej Ery
+- suggested keyword seed: ashraellen, formy, obserwacji, profesjonalne, dossier, metoda, prace, pracy, praktyka, professional, publiczne, się, wybrane, archiwum, artystyczne, artystyczno-filozoficzna, autora, autorze
+- candidates: się, nie, ashraellen, jako, pracy, oraz, praktyka, archiwum, autora, badanie, formy, obserwacji, otwórz, publiczne, sensu, tego, ani, badania, badawcze, infrastruktura, kanał, kierunki, literacka, lub
+
+Excerpt:
+
+> Dossier profesjonalne Ashraellen Sposób widzenia · Praktyka literacka i artystyczno-filozoficzna · Badania · Publiczne archiwum Ta strona przedstawia działalność Ashraellen w kontekście profesjonalnym — dla wydawnictw, organizacji kulturalnych i badawczych, fundacji, partnerów, mediów oraz innych form współpracy. Główna strona pozostaje żywą przestrzenią książek, badań, tekstów publicznych i innych prac; to dossier daje bardziej skupiony obraz tego, czym Ashraellen jest dziś i w jakich kierunkach rozwija się ta praktyka. Rdzeń badawczy Ashraellen to nie do końca imię; raczej sposób widzenia. To trwające przez całe życie artystyczno-filozoficzne badanie sensu, percepcji, samooszukiwania się, wewnętrznej wolności i ludzkiej utraty kontaktu z rzeczywistością. Praca opiera się na zdolności autora do dostrzegania sensów wewnątrz sensów, struktur wewnątrz struktur oraz punktów przecięcia, w kt
 
 ### pl/professional/index.html
 

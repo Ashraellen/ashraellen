@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-25T15:30:12.836Z",
+  "generated": "2026-08-25T15:31:12.941Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -36404,6 +36404,91 @@
         "google",
         "jakie",
         "kontakt"
+      ]
+    },
+    {
+      "page": "pl/professional/index_v01.html",
+      "lang": "pl",
+      "section": "professional",
+      "title": "Ashraellen — Dossier profesjonalne",
+      "description": "Dossier profesjonalne Ashraellen: praktyka literacka i artystyczno-filozoficzna, metoda obserwacji, wybrane prace, formy publiczne i wewnętrzne kierunki robocze.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/pl/professional/",
+      "h1": [
+        "Ashraellen"
+      ],
+      "h2": [
+        "Rdzeń badawczy",
+        "O autorze",
+        "Jak rozszerzało się pole pracy",
+        "Metoda obserwacji",
+        "Ramy profesjonalne",
+        "Wybrane prace literackie i artystyczne",
+        "Publiczne formy projektu",
+        "Wewnętrzna infrastruktura robocza"
+      ],
+      "h3": [
+        "Badania artystyczne",
+        "Otwarta wiedza",
+        "Społeczeństwo cyfrowe",
+        "Niezależne archiwum cyfrowe",
+        "MONOLIT",
+        "Blask",
+        "Demotopia — Demokratyczna Utopia",
+        "Ashraellen — Duch Nowej Ery"
+      ],
+      "slugTerms": [
+        "pl",
+        "professional",
+        "index",
+        "v01"
+      ],
+      "excerpt": "Dossier profesjonalne Ashraellen Sposób widzenia · Praktyka literacka i artystyczno-filozoficzna · Badania · Publiczne archiwum Ta strona przedstawia działalność Ashraellen w kontekście profesjonalnym — dla wydawnictw, organizacji kulturalnych i badawczych, fundacji, partnerów, mediów oraz innych form współpracy. Główna strona pozostaje żywą przestrzenią książek, badań, tekstów publicznych i innych prac; to dossier daje bardziej skupiony obraz tego, czym Ashraellen jest dziś i w jakich kierunkach rozwija się ta praktyka. Rdzeń badawczy Ashraellen to nie do końca imię; raczej sposób widzenia. To trwające przez całe życie artystyczno-filozoficzne badanie sensu, percepcji, samooszukiwania się, wewnętrznej wolności i ludzkiej utraty kontaktu z rzeczywistością. Praca opiera się na zdolności autora do dostrzegania sensów wewnątrz sensów, struktur wewnątrz struktur oraz punktów przecięcia, w kt",
+      "candidates": [
+        "się",
+        "nie",
+        "ashraellen",
+        "jako",
+        "pracy",
+        "oraz",
+        "praktyka",
+        "archiwum",
+        "autora",
+        "badanie",
+        "formy",
+        "obserwacji",
+        "otwórz",
+        "publiczne",
+        "sensu",
+        "tego",
+        "ani",
+        "badania",
+        "badawcze",
+        "infrastruktura",
+        "kanał",
+        "kierunki",
+        "literacka",
+        "lub"
+      ],
+      "suggestedKeywordSeed": [
+        "ashraellen",
+        "formy",
+        "obserwacji",
+        "profesjonalne",
+        "dossier",
+        "metoda",
+        "prace",
+        "pracy",
+        "praktyka",
+        "professional",
+        "publiczne",
+        "się",
+        "wybrane",
+        "archiwum",
+        "artystyczne",
+        "artystyczno-filozoficzna",
+        "autora",
+        "autorze"
       ]
     },
     {
