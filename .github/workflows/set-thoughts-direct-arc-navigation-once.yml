@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/set-thoughts-direct-arc-navigation-once.yml'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -83,7 +84,6 @@ jobs:
                       raise SystemExit(f'Nav replacement failed: {p}')
                   p.write_text(out)
 
-              # Strict validation of text, order, and actual destinations.
               for k, p in pages.items():
                   html = p.read_text()
                   m = nav_pat.search(html)
