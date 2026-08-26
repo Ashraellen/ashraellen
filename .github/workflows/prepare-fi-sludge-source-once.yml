@@ -1,0 +1,37 @@
+name: One-time Finnish Sludge source preparation
+on:
+  push:
+    paths:
+      - '.github/workflows/prepare-fi-sludge-source-once.yml'
+permissions:
+  contents: write
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Extract Russian canonical fragment paragraph by paragraph
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          src = Path('ru/books/monolith/sludge/index.html').read_text(encoding='utf-8')
+          start = src.index('<div class="fragment">') + len('<div class="fragment">')
+          end = src.index('</div></details>', start)
+          frag = src[start:end]
+          ps = re.findall(r'<p>(.*?)</p>', frag, flags=re.S)
+          if len(ps) < 20:
+              raise SystemExit(f'Unexpectedly short RU fragment: {len(ps)} paragraphs')
+          out = '\n'.join(f'{i+1:03d}\t{p}' for i,p in enumerate(ps)) + '\n'
+          Path('.tmp').mkdir(exist_ok=True)
+          Path('.tmp/ru-sludge-fragment-paragraphs.txt').write_text(out, encoding='utf-8')
+          print('RU fragment paragraphs:', len(ps))
+          PY
+      - name: Commit source helper and remove workflow
+        run: |
+          rm -f .github/workflows/prepare-fi-sludge-source-once.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add .tmp/ru-sludge-fragment-paragraphs.txt .github/workflows/prepare-fi-sludge-source-once.yml
+          git commit -m 'Prepare canonical Sludge fragment for Finnish reconstruction'
+          git push
