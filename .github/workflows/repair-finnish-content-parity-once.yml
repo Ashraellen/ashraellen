@@ -16,197 +16,71 @@ jobs:
           from pathlib import Path
           import re
 
-          # --- Professional dossier: restore exact semantic parity where it was reduced/drifted ---
           p = Path('fi/professional/index.html')
           s = p.read_text(encoding='utf-8')
 
-          old_nav = '<a href="#core">Ydin</a><a href="#about">Tekijä</a><a href="#method">Menetelmä</a>'
-          new_nav = '<a href="#core">Ydin</a><a href="#about">Tekijä</a><a href="#trajectory">Kehityskaari</a><a href="#method">Menetelmä</a>'
-          assert s.count(old_nav) == 1
-          s = s.replace(old_nav, new_nav, 1)
+          pairs = [
+            ('<a href="#core">Ydin</a><a href="#about">Tekijä</a><a href="#method">Menetelmä</a>',
+             '<a href="#core">Ydin</a><a href="#about">Tekijä</a><a href="#trajectory">Kehityskaari</a><a href="#method">Menetelmä</a>'),
+            ('<p>Taiteellinen muoto ei ole tässä koriste. Siitä tulee tietämisen tapa. Romaani toimii pitkäkestoisena tutkimusvälineenä; esseet ja muotoilut kirjaavat havaintoja kirkkauden hetkellä; video ja julkinen vaste koettelevat ajatusta elävässä reaktiossa; visuaaliset kuvat lähestyvät havainnon kerroksia, joissa merkitys ei ole vielä muuttunut käsitteeksi.</p>',
+             '<p>Taiteellinen muoto ei ole tässä koriste. Siitä tulee tietämisen tapa. Romaani toimii pitkäkestoisena tutkimusvälineenä; esseet ja muotoilut kirjaavat havaintoja kirkkauden hetkellä; video ja julkinen vaste tarjoavat kenttäaineistoa; visuaaliset kuvat lähestyvät havainnon kerroksia, joissa merkitys ei ole vielä muuttunut käsitteeksi.</p>'),
+            ('<p>Havainnon yleispätevyyttä ei testata vain tilastoilla vaan myös tunnistamisella: hetkellä, jolloin lukija löytää kuvauksen omasta kokemuksestaan siellä, missä ei odottanut sitä kohtaavansa.</p>',
+             '<p>Lukijan vaste voi viitata toistuvaan mekanismiin, mutta se ei itsessään todista mekanismin yleispätevyyttä. Se muodostaa osan aineistosta, jonka kanssa tutkimus jatkaa työskentelyä.</p>')
+          ]
+          for old,new in pairs:
+              assert s.count(old) == 1, old[:80]
+              s = s.replace(old,new,1)
 
-          core_anchor = '<p>Ashraellen ei ala sisällöntuotannosta. Kirjat, esseet, romaanit, videot, ääniteokset, satiiri, symboliset tulkinnat, julkiset muotoilut ja monikielinen arkisto ovat eri tapoja tallentaa yhtä pitkäkestoista tutkimusta.</p>'
-          core_insert = core_anchor + '\n            <p>Tutkimusta tehdään ennen kaikkea tekijän oman ymmärryksen vuoksi. Sen tehtävänä ei ole vahvistaa ennalta valittua teoriaa tai vakuuttaa yleisöä, vaan kirjata rehellisesti se ymmärrys, johon tässä hetkessä on päästy, ja jatkaa siitä eteenpäin. Täältä löytynyt vastaus ei sulje kysymystä: se muuttaa kohtaa, josta seuraava kysymys syntyy.</p>\n            <p>Siksi kirjoja, tekstejä ja muita teoksia ei käsitellä järjestelmän lopullisina muotoiluina. Kukin niistä säilyttää tietyn tutkimuksen tilan — silloinkin, kun tekijän ymmärrys myöhemmin muuttuu.</p>'
-          assert s.count(core_anchor) == 1
-          s = s.replace(core_anchor, core_insert, 1)
+          anchor = '<p>Ashraellen ei ala sisällöntuotannosta. Kirjat, esseet, romaanit, videot, ääniteokset, satiiri, symboliset tulkinnat, julkiset muotoilut ja monikielinen arkisto ovat eri tapoja tallentaa yhtä pitkäkestoista tutkimusta.</p>'
+          extra = '\n            <p>Tutkimusta tehdään ennen kaikkea tekijän oman ymmärryksen vuoksi. Sen tehtävänä ei ole vahvistaa ennalta valittua teoriaa tai vakuuttaa yleisöä, vaan kirjata rehellisesti se ymmärrys, johon tässä hetkessä on päästy, ja jatkaa siitä eteenpäin. Täältä löytynyt vastaus ei sulje kysymystä: se muuttaa kohtaa, josta seuraava kysymys syntyy.</p>\n            <p>Siksi kirjoja, tekstejä ja muita teoksia ei käsitellä järjestelmän lopullisina muotoiluina. Kukin niistä säilyttää tietyn tutkimuksen tilan — silloinkin, kun tekijän ymmärrys myöhemmin muuttuu.</p>'
+          assert s.count(anchor) == 1
+          s = s.replace(anchor, anchor + extra, 1)
 
-          method_marker = '          <section id="method" class="dossier-section">'
-          trajectory = '''          <section id="trajectory" class="dossier-section">
-            <h2>Miten työskentelyn kenttä laajeni</h2>
-            <p>Kirjallinen työ vei tutkimusta vähitellen yksittäisen teoksen rajojen ulkopuolelle. Laajojen tekstien parissa työskentely osoitti, että sama kysymys voi vaatia eri muotoja — romaanin, lyhyen tekstin, kuvan, äänen tai julkisen havainnon.</p>
-            <p>Monikielinen julkaiseminen nosti esiin käytännöllisen kysymyksen: mitä on säilytettävä, kun teksti kulkee toisen kielen ja tekoälyn kautta, jotta tekijä ei katoa sanojen mukana? VOICEPRINT-työkehys kasvoi sisäisestä tarpeesta ratkaista tämä ongelma — ennen kaikkea tekijän oman monikielisen ja kirjallisen käytännön työvälineeksi.</p>
-            <p>Pitkäaikainen työ tekoälyn kanssa toi esiin toisen sisäisen tarpeen: päätösten, niiden alkuperän, kontekstin, epävarmuuden ja projektin nykytilan säilyttämisen erillisten keskustelujen ja työskentelyjaksojen yli. Tästä tarpeesta kasvoi MY MEMORY; sen nykyistä sisäistä MMS 2.0 -kehystä käytetään tekijän oman pitkäkestoisen työn jatkuvuuden ylläpitämiseen.</p>
-            <p>Kumpikaan suunta ei alkanut ennalta suunniteltuna tuotteena eikä yrityksenä väittää teknistä uutuutta. Molemmat syntyivät pääasiallisen tekijäkäytännön konkreettisista tehtävistä ja toimivat edelleen ensisijaisesti tämän käytännön tukevina työvälineinä.</p>
-          </section>
-
-'''
-          assert s.count(method_marker) == 1
+          marker = '          <section id="method" class="dossier-section">'
+          trajectory = '          <section id="trajectory" class="dossier-section">\n            <h2>Miten työskentelyn kenttä laajeni</h2>\n            <p>Kirjallinen työ vei tutkimusta vähitellen yksittäisen teoksen rajojen ulkopuolelle. Laajojen tekstien parissa työskentely osoitti, että sama kysymys voi vaatia eri muotoja — romaanin, lyhyen tekstin, kuvan, äänen tai julkisen havainnon.</p>\n            <p>Monikielinen julkaiseminen nosti esiin käytännöllisen kysymyksen: mitä on säilytettävä, kun teksti kulkee toisen kielen ja tekoälyn kautta, jotta tekijä ei katoa sanojen mukana? VOICEPRINT-työkehys kasvoi sisäisestä tarpeesta ratkaista tämä ongelma — ennen kaikkea tekijän oman monikielisen ja kirjallisen käytännön työvälineeksi.</p>\n            <p>Pitkäaikainen työ tekoälyn kanssa toi esiin toisen sisäisen tarpeen: päätösten, niiden alkuperän, kontekstin, epävarmuuden ja projektin nykytilan säilyttämisen erillisten keskustelujen ja työskentelyjaksojen yli. Tästä tarpeesta kasvoi MY MEMORY; sen nykyistä sisäistä MMS 2.0 -kehystä käytetään tekijän oman pitkäkestoisen työn jatkuvuuden ylläpitämiseen.</p>\n            <p>Kumpikaan suunta ei alkanut ennalta suunniteltuna tuotteena eikä yrityksenä väittää teknistä uutuutta. Molemmat syntyivät pääasiallisen tekijäkäytännön konkreettisista tehtävistä ja toimivat edelleen ensisijaisesti tämän käytännön tukevina työvälineinä.</p>\n          </section>\n\n'
           assert 'id="trajectory"' not in s
-          s = s.replace(method_marker, trajectory + method_marker, 1)
-
-          old_method_art = '<p>Taiteellinen muoto ei ole tässä koriste. Siitä tulee tietämisen tapa. Romaani toimii pitkäkestoisena tutkimusvälineenä; esseet ja muotoilut kirjaavat havaintoja kirkkauden hetkellä; video ja julkinen vaste koettelevat ajatusta elävässä reaktiossa; visuaaliset kuvat lähestyvät havainnon kerroksia, joissa merkitys ei ole vielä muuttunut käsitteeksi.</p>'
-          new_method_art = '<p>Taiteellinen muoto ei ole tässä koriste. Siitä tulee tietämisen tapa. Romaani toimii pitkäkestoisena tutkimusvälineenä; esseet ja muotoilut kirjaavat havaintoja kirkkauden hetkellä; video ja julkinen vaste tarjoavat kenttäaineistoa; visuaaliset kuvat lähestyvät havainnon kerroksia, joissa merkitys ei ole vielä muuttunut käsitteeksi.</p>'
-          assert s.count(old_method_art) == 1
-          s = s.replace(old_method_art, new_method_art, 1)
-
-          old_reader = '<p>Havainnon yleispätevyyttä ei testata vain tilastoilla vaan myös tunnistamisella: hetkellä, jolloin lukija löytää kuvauksen omasta kokemuksestaan siellä, missä ei odottanut sitä kohtaavansa.</p>'
-          new_reader = '<p>Lukijan vaste voi viitata toistuvaan mekanismiin, mutta se ei itsessään todista mekanismin yleispätevyyttä. Se muodostaa osan aineistosta, jonka kanssa tutkimus jatkaa työskentelyä.</p>'
-          assert s.count(old_reader) == 1
-          s = s.replace(old_reader, new_reader, 1)
-
+          assert s.count(marker) == 1
+          s = s.replace(marker, trajectory + marker, 1)
           p.write_text(s, encoding='utf-8')
 
-          # --- LIETE: preserve the existing Finnish first 9 paragraphs, restore missing 50 ---
           fp = Path('fi/books/monolith/sludge/index.html')
           fi = fp.read_text(encoding='utf-8')
-          rp = Path('ru/books/monolith/sludge/index.html')
-          ru = rp.read_text(encoding='utf-8')
+          ru = Path('ru/books/monolith/sludge/index.html').read_text(encoding='utf-8')
+          tail = Path('.tmp/fi-sludge-tail-paragraphs.txt').read_text(encoding='utf-8').splitlines()
+          assert len(tail) == 50, len(tail)
 
-          def fragment(text):
+          def bounds(text):
               a = text.index('<div class="fragment">') + len('<div class="fragment">')
               b = text.index('</div></details>', a)
-              return a, b, text[a:b]
-
-          fa, fb, ffrag = fragment(fi)
-          ra, rb, rfrag = fragment(ru)
-          fi_existing = re.findall(r'<p>(.*?)</p>', ffrag, flags=re.S)
-          ru_ps = re.findall(r'<p>(.*?)</p>', rfrag, flags=re.S)
-          assert len(fi_existing) == 9, f'Expected 9 existing FI paragraphs, got {len(fi_existing)}'
-          assert len(ru_ps) == 59, f'Expected 59 RU paragraphs, got {len(ru_ps)}'
-
-          tail_text = '''Tulkaa yksi kerrallaan! — Örkki ärjäisi, ja hänen äänensä kulki hallin läpi vaivatta kuin tyhjän säiliön halki. — Noutakaa Integraatiovälineet ja suojavarusteet. Egon vastarinta jätetään laiturille!
----PARA---
-Viimeinen lause sai Kazikin hymähtämään lyhyesti. Hyeena ei näyttänyt edes kuulevan sitä — hänen katseensa luki jo tiskiä kuin ihminen, jolle jokainen varasto muuttuu automaattisesti saatavuuden ja puutteen taulukoksi.
----PARA---
-Adam kutsuttiin ensimmäisten joukossa.
----PARA---
-Varastonhoitaja paiskasi hänen käsiinsä argumentointivälineen.
----PARA---
-Se oli raskaampi kuin miltä näytti. Ei käyttökelpoisen aseen miellyttävällä, rohkaisevalla painolla vaan sellaisella tylsällä, hoitamattomalla raskaudella, joka kuuluu esineelle, jota on pidetty liian kauan liikkumatta. Argumentointiväline haisi homeelta, vanhalta raudalta ja koneöljyltä, joka oli lakannut suojaamasta jo kauan sitten. Piippua peittivät ruosteen punaruskeat läikät kuin laiminlyödyn sairauden jäljet iholla. Kun Adam vaistomaisesti nykäisi lukkoa, se vastasi kovalla, raapivalla kolahduksella, aivan kuin sisällä olisi jousen sijasta todella ollut ruostunutta rautalankaa.
----PARA---
-— Patruunat saatte Kontaktialueella, — varastonhoitaja heitti katsomatta häntä kasvoihin. Varastonhoitajan omat kasvot olivat harmaat kuin sateen jälkeinen tuhka, ja Adam ymmärsi heti: tämä ei ollut ikää eikä sairautta, vaan ”Hämähäkinverkkoa”, joka oli painunut ihmiseen ihoa syvemmälle. — Jos pääsette sinne asti.
----PARA---
-Vieressä Kazik pyöritteli jo omaa kappalettaan käsissään melkein lapsenomaisella innolla. Hänelle näytti riittävän pelkkä argumentointivälineen hallussapito. Kiharatukkainen tarkisti hihnaa hiljaa yrittämättäkään arvioida mekanismin kuntoa. Kummallekaan tärkeintä ei ollut luotettavuus vaan pääsyn muoto. Jo se, että esine oli annettu heille, myönsi uuden asteen oikeutta. Sen huomasi hartioista ja siitä, kuinka nopeasti he omaksuivat esineen ääriviivan omaan asentoonsa.
----PARA---
-Seuraavaksi Adamille annettiin luotiliivi.
----PARA---
-Nimenomaan annettiin — ei sovitettu, ei mitattu, ei kiristetty hänen kokoonsa. Hänen käsiinsä vain paiskattiin massiivisen näköinen luotiliivi, jonka päällinen oli karkeaa synteettistä kangasta ja jossa oli hihnoja, solkia ja sellainen tehdasmainen olemus, joka saattoi kokemattomassa katseessa todella synnyttää helpotusta. Liivi oli yllättävän kevyt. Juuri se vakuutti. Se näytti vakavalta ja massiiviselta, lupasi suojaa, mutta painoi kuin sisällä olisi käytetty jotakin uutta ja kallista materiaalia.
----PARA---
-Adam piteli sitä tahtomattaan käsissään hieman tavallista kauemmin. Kiristi hihnoja. Veti liivin päälleen. Karkea kangas asettui rintaa vasten, ja hetkeksi syntyi melkein hävettävä tunne siitä, että hänet oli vihdoin koottu, vedetty kasaan, että ruumiille oli annettu edes jonkinlainen suojan muoto. Harha kesti vain sekunnin, mutta ehti tehdä tehtävänsä. Siksi isku meni syvemmälle.
----PARA---
-Hänen entinen osansa — se, joka vielä muisti standardit, spesifikaatiot, logistiikkataulukot ja ihmeraportit ”Uuden teräksen” uusista kehityshankkeista — reagoi kokemusta nopeammin. Hän tunnusteli liivin reunaa, tunsi paksuuden ja sanoi kääntyen Harmaatukkaisen puoleen:
----PARA---
-— Katso. Ainakin täällä meistä on pidetty huolta. Onpa paksu. Varmaan uusinta kehitystyötä.
----PARA---
-Harmaatukkainen, joka istui sillä hetkellä kyykyssä seinän vieressä ja yritti hangata likaa oman ruosteisen argumentointivälineensä tukista, pysähtyi ensin. Sitten hän puhalsi lyhyesti ja kuivasti hampaidensa välistä, aivan kuin olisi kuullut naiiviuden sijasta järjestelmän vanhan, liian tutun vitsin.
----PARA---
-Vasta sitten hän alkoi nauraa.
----PARA---
-Nauru oli kuiva ja haukkuva ja muuttui yskäksi. Se kylmensi Adamin sisällä enemmän kuin mikään huuto.
----PARA---
-— Pidetty huolta? — Harmaatukkainen toisti ja nousi hitaasti. — Järjestelmä pitää huolta vain raporttien ilmatiiveydestä, manageri. Ei sinun pehmeästä vatsastasi. Anna tänne.
----PARA---
-Hän tuli aivan lähelle kysymättä lupaa. Hän haisi pölyltä, raudalta ja jo tutuksi käyneeltä kuivalta väsymykseltä — ihmiseltä, joka oli nähnyt saman asian liian monta kertaa eri lavasteissa. Hänen kädessään oli veitsi: ei armeijan, ei erikoisvalmisteinen, vaan vanha kiiltäväksi teroitettu harjateräksen kappale, joka oli muutettu työkaluksi samalla periaatteella kuin täällä ylipäätään kaikki muutettiin jostakin toiseksi.
----PARA---
-Yhdellä nopealla liikkeellä hän viilsi auki levytaskun sivusauman.
----PARA---
-Viillosta putosi esine hiljaisella, lähes puisella kolahduksella.
----PARA---
-Se putosi Adamin jalkoihin, kierähti ja pysähtyi sisäänkäynnin Lietteeseen.
----PARA---
-Se oli tavallinen mäntylauta. Paksu, karkeasti sahattu, hieman kostea yhteisestä ilmasta, kyljessään yhä Kaukaisen sektorin huonekalutehtaan tehdasmerkintöjen jäänteitä. Päädyssä näkyi vielä sinistä maalia, ja syissä kulki tuore, melkein kodikas puukuvio.
----PARA---
-Hetkeen kukaan ei sanonut mitään.
----PARA---
-Kazikkikin lopetti hihnojen näpräämisen. Hyeenakin nosti katseensa laskelmistaan.
----PARA---
-Harmaatukkainen tökkäsi lautaa saappaankärjellä, nosti sen sitten, punnitsi kämmenellään ja heitti takaisin Lietteeseen.
----PARA---
-— Tässä on sinun suojasi, Adam, — hän sanoi. — Ulkopuolelta olet ”Ylpeys”-protokollan sankari. Sisältä olet tyhjä paikka, joka on peitetty polttopuulla.
----PARA---
-Lauta vajosi hitaasti portin vieressä olevaan harmaanruskeaan massaan, puoliksi pinnan alle ja puoliksi näkyviin, kuin aineellinen todiste siitä, ettei MONOLIITTI valehdellut vertauskuvallisesti vaan materiaalissa itsessään.
----PARA---
-Adam tuijotti sitä eikä saanut mielessään yhdistettyä liivin paksuutta, keveyttä ja sisällä ollutta halpaa puunpalaa. Huijaus oli liian yksinkertainen, melkein maalaismainen, ja siksi erityisen murskaava. Sen takana ei ollut edes monimutkaista valheteknologiaa — vain röyhkeä varmuus siitä, ettei materiaali kuitenkaan avaisi omaa suojaansa ennen ensimmäistä osumaa.
----PARA---
-— Mutta miten… — hän sanoi hiljaa. — Miten tämän kanssa pitäisi lähteä Kontaktiin?
----PARA---
-Harmaatukkainen kumartui jo uudelleen ruosteisen argumentointivälineensä puoleen.
----PARA---
-— Älä ruikuta, — hän katkaisi. — Jos haluat elää, kirjoita äidillesi Alasektorille. Myyköön lokeronsa, ottakoon Tasapainovirastosta lainan neljänsadan prosentin korolla ja lähettäköön sinulle kunnon levyn Erikoiskuljetuksen kuriirilla. Täällä kaikki on yksinkertaista: järjestelmä ei anna sinulle resurssia. Se pakottaa sinut ja omasi maksamaan omasta hävittämisestäsi. Orjuuttamisen korkein muoto on se, että ostat itse oman arkkusi, jotta MONOLIITIN ei tarvitse tuhlata betonia sinuun.
----PARA---
-Nämä sanat, kuten kaikki Harmaatukkaisen sanat, eivät kuulostaneet saarnalta. Hän ei yrittänyt tehdä vaikutusta. Hän puhui vain ihmisen tavoin, jolle mekanismi oli jo avautunut viimeistä ruuvia myöten ja jolle sen hirvittävimmätkin yksityiskohdat olivat yhtä arkisesti kuvattavia kuin toiselle ihmiselle vesijohdon rakenne.
----PARA---
-Kazik ja Kiharatukkainen sovittelivat jo kuoriaan edes vilkaisematta sisään. Heille jo pelkkä ”muodon” omistaminen oli initiaatio. Suoja ei kiinnostanut. He tarvitsivat sen, mikä tuli muodon mukana: oikeuden, aseman, kuulumisen uuteen luokkaan, mahdollisuuden puhua heikommalle ei enää ihmisenä vaan prosessin osana.
----PARA---
-Hyeena sen sijaan kyykistyi seinän viereen ja tunnusteli otsa kurtussa omaa levyään kankaan läpi.
----PARA---
-— Minullakin on puuta, — hän sanoi lähes rauhallisesti. — Vain ohuempaa.
----PARA---
-— Iloitse, — Harmaatukkainen heitti. — Sinun kuolemasi on siis tilastollisesti hieman halvempi.
----PARA---
-Adam ei vastannut. Hän katsoi avattua liiviä käsissään, roikkuvia hihnoja ja tyhjää sisätilaa, johon olisi voinut tunkea laudan, riepuja, ilmaa, mitä tahansa — kunhan se ulkoa näyttäisi suojalta.
----PARA---
-Ja juuri silloin hän ymmärsi, että täällä kaikki todella oli rakennettu saman periaatteen varaan: ulkopuolella toiminto, sisällä korvike.
----PARA---
-Kontuuri näytti kuljetukselta, mutta oli pakkaus. Säilytyslokero kuulosti huolenpidolta, mutta oli vain hajoamisen lykkäystä. Liivi näytti suojalta, mutta oli visuaalinen protokolla myöhempää luottamusta varten. Jopa heidän oma elämänsä täällä näyttäisi luultavasti palvelemiselta, vaikka todellisuudessa se olisi vain asianmukaisesti dokumentoitua hävittämistä.
----PARA---
-Hallin ulkopuolella joku huusi, muut segmentit huutelivat toisilleen, rauta kolisi, ja kaikki kuulosti valtavalta lajitteluasemalta, jossa materiaali kulkee eri pisteiden kautta ennen lopullista kierrätystä. Tässä mekaniikassa ihmiselle ei enää ollut paikkaa, vain raportin tarvitseman ihmiskuvan paikka.
----PARA---
-Adam tarkisti vaistomaisesti taskunsa. Terminaali värisi. Tilille oli todella tullut ”aloitusraha” — säälittävä osa summasta, joka oli merkitty sopimukseen, jonka hän oli ”allekirjoittanut” ”Hämähäkinverkon” vaikutuksen alaisena. Alasektorilla se olisi ollut suuri raha. Täällä ruosteisten argumentointivälineiden, luotiliivien sisällä olevien lautojen ja portin Lietteen keskellä numerot näyttivät jo pilkalta.
----PARA---
-Harmaatukkainen huomasi liikkeen.
----PARA---
-— Älä edes ala laskea nyt, — hän sanoi nostamatta päätään. — Muuten markkinat syövät sinut nopeammin kuin Kontakti.
----PARA---
-Adam nosti katseensa.
----PARA---
-— Mitkä markkinat?
----PARA---
-Harmaatukkainen virnisti.
----PARA---
-— Ne, joilla viimeiset harhat ostetaan omalla aloitusrahalla. Kun pääset perille, näet. Sinulle myydään yhteys, levy, toivo ja pala puhdasta kangasta hautausraporttia varten. Kaikki pelkosi hinnalla.
----PARA---
-Tämä lause avasi jo seuraavan vaiheen.
----PARA---
-Mutta nyt, hallissa, tärkeintä ei ollut markkina eikä tuleva valinta, vaan portin Lietteeseen uppoava lauta.
----PARA---
-Sillä juuri se, tämä halpa mäntylevy, antoi Adamille ensimmäistä kertaa petoksesta kuvan sijasta aineen.
----PARA---
-Ja se oli pahempaa kuin mikään sana.'''
-          tail = tail_text.split('\n---PARA---\n')
-          assert len(tail) == 50, f'Expected 50 translated tail paragraphs, got {len(tail)}'
-          fi_ps = fi_existing + tail
-          assert len(fi_ps) == len(ru_ps) == 59
-          new_frag = ''.join(f'<p>{x}</p>' for x in fi_ps)
-          fi = fi[:fa] + new_frag + fi[fb:]
+              return a,b,text[a:b]
+          fa,fb,ff = bounds(fi)
+          _,_,rf = bounds(ru)
+          existing = re.findall(r'<p>(.*?)</p>', ff, flags=re.S)
+          ru_ps = re.findall(r'<p>(.*?)</p>', rf, flags=re.S)
+          assert len(existing) == 9, len(existing)
+          assert len(ru_ps) == 59, len(ru_ps)
+          all_fi = existing + tail
+          assert len(all_fi) == 59
+          fi = fi[:fa] + ''.join('<p>'+x+'</p>' for x in all_fi) + fi[fb:]
           fp.write_text(fi, encoding='utf-8')
 
-          # Final semantic/parity checks
-          check_fi = fp.read_text(encoding='utf-8')
-          _, _, final_ffrag = fragment(check_fi)
-          final_ps = re.findall(r'<p>(.*?)</p>', final_ffrag, flags=re.S)
-          assert len(final_ps) == 59
-          assert 'mäntylauta' in final_ffrag
-          assert 'ulkopuolella toiminto, sisällä korvike' in final_ffrag
-          assert 'pahempaa kuin mikään sana' in final_ffrag
-
+          final = fp.read_text(encoding='utf-8')
+          _,_,frag = bounds(final)
+          assert len(re.findall(r'<p>(.*?)</p>', frag, flags=re.S)) == 59
+          assert 'mäntylauta' in frag
+          assert 'ulkopuolella toiminto, sisällä korvike' in frag
+          assert 'pahempaa kuin mikään sana' in frag
           prof = p.read_text(encoding='utf-8')
-          for required in [
-              'id="trajectory"',
-              'VOICEPRINT',
-              'MY MEMORY',
-              'ei itsessään todista mekanismin yleispätevyyttä',
-              'vastaus ei sulje kysymystä'
-          ]:
-              assert required in prof, required
-          print('Professional parity restored; LIETE paragraphs FI/RU:', len(final_ps), len(ru_ps))
+          for x in ['id="trajectory"','VOICEPRINT','MY MEMORY','ei itsessään todista mekanismin yleispätevyyttä','vastaus ei sulje kysymystä']:
+              assert x in prof
+          print('PASS: Professional repaired; LIETE FI/RU paragraphs = 59/59')
           PY
-      - name: Commit repairs and clean temporary source/workflow
+      - name: Commit repairs and clean temporary files
         run: |
-          rm -f .tmp/ru-sludge-fragment-paragraphs.txt
+          rm -f .tmp/ru-sludge-fragment-paragraphs.txt .tmp/fi-sludge-tail-paragraphs.txt
           rm -f .github/workflows/repair-finnish-content-parity-once.yml
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add fi/professional/index.html fi/books/monolith/sludge/index.html .tmp/ru-sludge-fragment-paragraphs.txt .github/workflows/repair-finnish-content-parity-once.yml
+          git add fi/professional/index.html fi/books/monolith/sludge/index.html .tmp/ru-sludge-fragment-paragraphs.txt .tmp/fi-sludge-tail-paragraphs.txt .github/workflows/repair-finnish-content-parity-once.yml
           git commit -m 'Restore Finnish content parity'
           git push
