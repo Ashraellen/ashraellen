@@ -1,0 +1,112 @@
+name: Set direct arc navigation once
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/set-thoughts-direct-arc-navigation-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  set-navigation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Set direct named-arc navigation in all languages
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          arc_names = {
+              'ru': ('Первая дуга', 'Вторая дуга', 'Третья дуга'),
+              'en': ('First arc', 'Second arc', 'Third arc'),
+              'pl': ('Pierwszy łuk', 'Drugi łuk', 'Trzeci łuk'),
+              'de': ('Erster Bogen', 'Zweiter Bogen', 'Dritter Bogen'),
+              'es': ('Primer arco', 'Segundo arco', 'Tercer arco'),
+              'fr': ('Premier arc', 'Deuxième arc', 'Troisième arc'),
+              'pt': ('Primeiro arco', 'Segundo arco', 'Terceiro arco'),
+              'uk': ('Перша дуга', 'Друга дуга', 'Третя дуга'),
+              'be': ('Першая дуга', 'Другая дуга', 'Трэцяя дуга'),
+              'fi': ('Ensimmäinen kaari', 'Toinen kaari', 'Kolmas kaari'),
+          }
+
+          nav_pat = re.compile(r'<div class=(["\'])nav-row\1>.*?</div>', re.S)
+          menu_pat = re.compile(r'<div class=(["\'])menu\1>(.*?)</div>', re.S | re.I)
+
+          def public_label(html, lang):
+              mm = menu_pat.search(html)
+              if not mm:
+                  raise SystemExit(f'No menu block for {lang}')
+              menu = mm.group(2)
+              m = re.search(rf'<a[^>]+href=["\'][^"\']*/{lang}/public/?["\'][^>]*>([^<]+)</a>', menu, re.I)
+              if not m:
+                  raise SystemExit(f'Cannot find Public label for {lang}')
+              return re.sub(r'\s+', ' ', m.group(1)).strip()
+
+          for lang, (arc1, arc2, arc3) in arc_names.items():
+              base = Path(lang) / 'public' / 'thoughts'
+              pages = {
+                  1: base / 'index-0001.html',
+                  2: base / 'index-0002.html',
+                  3: base / 'index.html',
+              }
+              for p in pages.values():
+                  if not p.exists():
+                      raise SystemExit(f'Missing {p}')
+
+              texts = {k: p.read_text() for k, p in pages.items()}
+              pubs = {k: public_label(texts[k], lang) for k in (1,2,3)}
+
+              desired = {
+                  1: (f'/{lang}/public/thoughts/index-0002.html', f'← {arc2}', f'/{lang}/public/', f'{pubs[1]} →'),
+                  2: (f'/{lang}/public/thoughts/', f'← {arc3}', f'/{lang}/public/thoughts/index-0001.html', f'{arc1} →'),
+                  3: (f'/{lang}/public/', f'← {pubs[3]}', f'/{lang}/public/thoughts/index-0002.html', f'{arc2} →'),
+              }
+
+              for k, p in pages.items():
+                  html = texts[k]
+                  q = "'" if "class='nav-row'" in html else '"'
+                  left_href, left_text, right_href, right_text = desired[k]
+                  nav = (
+                      f'<div class={q}nav-row{q}>'
+                      f'<a class={q}btn{q} href={q}{left_href}{q}>{left_text}</a>'
+                      f'<a class={q}btn{q} href={q}{right_href}{q}>{right_text}</a>'
+                      f'</div>'
+                  )
+                  out, n = nav_pat.subn(nav, html, count=1)
+                  if n != 1:
+                      raise SystemExit(f'Nav replacement failed: {p}')
+                  p.write_text(out)
+
+              # Strict validation of text, order, and actual destinations.
+              for k, p in pages.items():
+                  html = p.read_text()
+                  m = nav_pat.search(html)
+                  if not m:
+                      raise SystemExit(f'No nav after write: {p}')
+                  nav = m.group(0)
+                  left_href, left_text, right_href, right_text = desired[k]
+                  if left_text not in nav or right_text not in nav:
+                      raise SystemExit(f'Wrong labels: {p}: {nav}')
+                  if f'href={chr(34)}{left_href}{chr(34)}' not in nav and f"href='{left_href}'" not in nav:
+                      raise SystemExit(f'Wrong left href: {p}: {nav}')
+                  if f'href={chr(34)}{right_href}{chr(34)}' not in nav and f"href='{right_href}'" not in nav:
+                      raise SystemExit(f'Wrong right href: {p}: {nav}')
+                  if nav.index(left_text) > nav.index(right_text):
+                      raise SystemExit(f'Wrong visible order: {p}: {nav}')
+
+              print(f'OK {lang}: arc3 [Public | {arc2}], arc2 [{arc3} | {arc1}], arc1 [{arc2} | Public]')
+          PY
+      - name: Commit and remove one-time workflow
+        run: |
+          rm .github/workflows/set-thoughts-direct-arc-navigation-once.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+Ashraellen@users.noreply.github.com"
+          git add ru/public/thoughts en/public/thoughts pl/public/thoughts de/public/thoughts es/public/thoughts fr/public/thoughts pt/public/thoughts uk/public/thoughts be/public/thoughts fi/public/thoughts .github/workflows/set-thoughts-direct-arc-navigation-once.yml
+          git commit -m "Set direct named arc navigation across languages"
+          git push
