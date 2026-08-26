@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-25T21:10:29.281Z
+Generated: 2026-08-26T08:45:43.713Z
 Pages: 854
 
 ## Index
@@ -306,9 +306,9 @@ Pages: 854
 | fi/books/monolith/gas/index.html | fi | books | Ashraellen — KAASU | Ashraellen, KAASU, MONOLIITTI, dystopia, valta, muisti, diffuusio | kaasu, ashraellen, books, ilman, osa, gas, hän, joka, juonipaljastuksia, kantajan, katkelma, katoamisesta, kehys, kirjallinen, kirjasta, kirjoittajalta, kokonaiskontrollista, kolmas |
 | fi/books/monolith/index.html | fi | books | Ashraellen — MONOLIITTI | Ashraellen, MONOLIITTI, BETONI, LIETE, KAASU, dystopia | monoliitti, ashraellen, betoni, books, kaasu, liete, aineen, avaa, dystopiatrilogia, enää, filosofinen, hän, järjestelmien, kartta, kirjallinen, kontrollista, mihin, mikä |
 | fi/books/monolith/sludge/index.html | fi | books | Ashraellen — LIETE | Ashraellen, LIETE, MONOLIITTI, dystopia, osallisuus, uupumus, muodonmuutos | liete, ashraellen, books, katkelma, osa, alkaa, amazonissa, dystopia, enää, filosofinen, hän, ihminen, joka, jossa, kehys, kirjallinen, kirjasta, menetyksestä |
-| fi/books/radiance/index.html | fi | books | Ashraellen — HOHDE \| Pohjoisia kertomuksia maailman todellisesta historiasta | Ashraellen, HOHDE, pohjoiset kertomukset, taiteellinen tutkimus, Sampo | hohde, ashraellen, books, kertomukset, kirjallis-filosofinen, maailman, mitä, siitä, sykli, että, historiasta, ihminen, kertomuksia, kirja, kirjat, kuvallisia, maailmassa, mikä |
-| fi/books/radiance/sampo/index.html | fi | books | Ashraellen — Sampo \| HOHDE, Kirja I | Ashraellen, Sampo, HOHDE, runsaus, taiteellinen tutkimus | sampo, kirja, ashraellen, books, jossa, ole, ensimmäinen, erotettu, hän, hohde, hohde-sarjan, ihminen, julkaisutilanne, katkelma, kehys, kertomus, kirjallis-filosofinen, kirjasta |
-| fi/books/radiance/song/index.html | fi | books | Ashraellen — Laulu \| HOHDE, Kirja II | Ashraellen, Laulu, HOHDE, kieli, kuuleminen, taiteellinen tutkimus | laulu, ashraellen, kirja, äänestä, books, joka, ääni, alkaa, ennen, hohde, hohde-sarjan, julkaisutilanne, katkelma, kaupungista, kielestä, kieli, kirjasta, kuulemisesta |
+| fi/books/radiance/index.html | fi | books | Ashraellen — HOHDE \| Pohjoisia kertomuksia maailman todellisesta historiasta | Ashraellen, HOHDE, Sampo, Laulu, Kalevala, suomalais-karjalainen aineisto, pohjoiset kertomukset, taiteellinen tutkimus | hohde, taiteellisen, tutkimuksen, ashraellen, books, kirjallis-filosofinen, sarja, sarjan, eikä, historiasta, kartta, kautta, kehys, kenelle, kertomukset, kertomuksia, kirja, kirjat |
+| fi/books/radiance/sampo/index.html | fi | books | Ashraellen — Sampo \| HOHDE, Kirja I | Ashraellen, Sampo, HOHDE, runsaus, osallisuus, taiteellinen tutkimus, Kalevala | sampo, ashraellen, books, kirja, ensimmäinen, erotettu, että, hän, hohde, hohde-sarjan, ilman, jossa, julkaisutilanne, juonipaljastuksia, katsoi, kehys, kenelle, kertomus |
+| fi/books/radiance/song/index.html | fi | books | Ashraellen — Laulu \| HOHDE, Kirja II | Ashraellen, Laulu, HOHDE, kieli, kuuleminen, Varsova, taiteellinen tutkimus, mytopoetiikka | laulu, ashraellen, books, joka, kirja, äänestä, ayla, että, hän, hohde, hohde-sarjan, ilman, julkaisutilanne, juonipaljastuksia, kehys, kenelle, kielestä, kieli |
 | fi/books/samizdat/demotopia/index.html | fi | books | Demotopia — Kirjapassi — samizdat 2.0 | Ashraellen, Demotopia, Demokraattinen utopia, samizdat 2.0, kirjapassi, tekijäjulkaisu | demotopia, samizdat, 2.0, kirjapassi, 2026, books, demokraattinen, julkaisu, utopia, ashraellen, demotopian, fyysinen, fyysisen, järjestelmässä, kirjasta, passi, pysyvä, pyydä |
 | fi/books/samizdat/index.html | fi | books | samizdat 2.0 — Ashraellenin tekijäjulkaisut | Ashraellen, samizdat 2.0, tekijäjulkaisut, kirjapassi, fyysiset kirjat, numeroidut kappaleet | samizdat, 2.0, ashraellenin, books, ilman, tekijäjulkaisut, ashraellen, eikä, fyysinen, fyysiset, julkiset, kappale, kappaleen, kappaleet, kirja, kirjan, kirjapassit, kirjat |
 | fi/books/samizdat/order/index.html | fi | books | Pyydä samizdat 2.0 -tekijäkappale — Ashraellen | Ashraellen, samizdat 2.0, tekijäkappale, kirjatilaus, Demotopia, kirjapyyntö | pyydä, 2.0, kappale, samizdat, tekijäkappale, allekirjoitettu, ashraellen, books, henkilökohtaisesti, hinta, toimitus, ashraellenin, ennen, hinnan, järjestämiseen, kappaleen, kielellä, maksu |
@@ -5952,51 +5952,51 @@ Excerpt:
 - lang: fi
 - section: books
 - title: Ashraellen — HOHDE | Pohjoisia kertomuksia maailman todellisesta historiasta
-- description: HOHDE on kirjallis-filosofinen taiteellisen tutkimuksen sykli siitä, miten vanhat pohjoiset kertomukset säilyttävät kuvallisia ohjeita maailmassa olemiseen.
+- description: HOHDE on pitkäkestoinen kirjallis-filosofinen taiteellisen tutkimuksen sarja siitä, miten vanhat pohjoiset kertomukset säilyttävät kuvallisia ohjeita suhteesta maailmaan.
 - canonical: https://www.ashraellen.com/fi/books/radiance/
 - H1: HOHDE
-- H2: Mikä HOHDE on | Sarjan kirjat | Tutkimuskehys | Mitä ei pidä sekoittaa tähän
-- H3: Kirja I — Sampo | Kirja II — Laulu | Kirja III — Ahjo
-- suggested keyword seed: hohde, ashraellen, books, kertomukset, kirjallis-filosofinen, maailman, mitä, siitä, sykli, että, historiasta, ihminen, kertomuksia, kirja, kirjat, kuvallisia, maailmassa, mikä
-- candidates: hohde, kirja, että, ihminen, ole, siitä, sykli, vaan, kertomukset, kirjallis-filosofinen, maailman, mitä, muoto, sampo, tutkii, tutkimuksen, vanhat, voiko, avaa, eikä, ennen, historiasta, iii, jossa
+- H2: Mikä HOHDE on | Sarjan kirjat | Taiteellisen tutkimuksen kehys | Ohjeiden kartta | Kenelle tämä projekti on? | Mitä ei pidä sekoittaa tähän
+- H3: Kirja I — Sampo | Kirja II — Laulu | Kirja III — Ahjo | Lukijoille | Kumppaneille
+- suggested keyword seed: hohde, taiteellisen, tutkimuksen, ashraellen, books, kirjallis-filosofinen, sarja, sarjan, eikä, historiasta, kartta, kautta, kehys, kenelle, kertomukset, kertomuksia, kirja, kirjat
+- candidates: kirja, hohde, sarja, sarjan, kautta, muoto, taiteellisen, tutkimuksen, eikä, kirjallis-filosofinen, ole, sen, siitä, voiko, avaa, ihminen, ilman, kertomukset, kertomuksia, kirjat, laulu, maailman, sampo, sana
 
 Excerpt:
 
-> Kirjallis-filosofinen sykli / taiteellinen tutkimus fiktion kautta HOHDE Pohjoisia kertomuksia maailman todellisesta historiasta. Pitkä sykli, jossa taidemuoto ei selitä tutkimusta vaan tekee tutkimuksen mahdolliseksi. Emme kerro Kalevalaa uudelleen. Yritämme kuulla maailman, josta sellaiset kertomukset saattoivat syntyä. Mikä HOHDE on ei mytologian koristelua Eepokset, sadut ja vanhat kertomukset voidaan lukea kuvallisina käyttöliittyminä kokemukseen, joka syntyi ennen nykyisiä käsitteitämme. Jokainen kansa sai oman maansa, ilmastonsa, työnsä, kielensä ja muistinsa mukaisen tavan puhua siitä, mitä ihminen tarvitsee pysyäkseen suhteessa maailmaan. HOHDE tutkii tätä mahdollisuutta kirjallisuuden kautta. Suomen ja Karjalan aineisto sekä Kalevala muodostavat syklin pohjoisen selkärangan, mutta tarkoitus ei ole rekonstruoida oppia eikä tehdä fantasiaa. Kysymys on käytännöllisempi: voiko tait
+> Kirjallis-filosofinen sarja / taiteellinen tutkimus fiktion kautta HOHDE Pohjoisia kertomuksia maailman todellisesta historiasta. Pitkäkestoinen sarja, jossa kaunokirjallinen muoto muuttuu tutkimisen tavaksi. Emme kerro Kalevalaa uudelleen. Näytämme maailman, josta sellaiset kertomukset saattoivat syntyä. Sarjan kirjat Taiteellisen tutkimuksen kehys Mikä HOHDE on lyhyesti Eepoksia, satuja ja eri kansojen vanhoja kertomuksia voidaan lukea erilaisina kuvallisina kielinä, joiden kautta ihminen pääsee syvään kokemukselliseen tietoon. Kukin kansa sai omat välineensä ja ohjeensa muodossa, joka vastasi sen maata, kieltä, muistia, kipua, ilmastoa, työtä ja tapaa kuulla maailmaa. HOHDE / Radiance on kirjallis-filosofinen taiteellisen tutkimuksen sarja siitä, kuinka vanhat kertomukset säilyttävät kuvallisia ohjeita suhteesta maailmaan. Suomalais-karjalainen ja kalevalainen aineisto muodostaa sarja
 
 ### fi/books/radiance/sampo/index.html
 
 - lang: fi
 - section: books
 - title: Ashraellen — Sampo | HOHDE, Kirja I
-- description: Sampo on HOHDE-sarjan ensimmäinen kirja: pohjoinen kirjallis-filosofinen kertomus runsaudesta, omistamisesta, osallisuudesta ja maailmasta, jossa myyttiä ei ole erotettu työstä.
+- description: Sampo on HOHDE-sarjan ensimmäinen kirja: pohjoinen kirjallis-filosofinen kertomus runsaudesta, omistamisesta, osallisuudesta ja maailmasta, jossa myyttiä ei ole vielä erotettu työstä.
 - canonical: https://www.ashraellen.com/fi/books/radiance/sampo/
 - H1: Sampo
-- H2: Kirjasta | Valittu katkelma | Taiteellisen tutkimuksen kehys | Julkaisutilanne
-- H3: _missing_
-- suggested keyword seed: sampo, kirja, ashraellen, books, jossa, ole, ensimmäinen, erotettu, hän, hohde, hohde-sarjan, ihminen, julkaisutilanne, katkelma, kehys, kertomus, kirjallis-filosofinen, kirjasta
-- candidates: oli, sampo, hän, ole, ihminen, jossa, kirja, kuin, kun, leipä, olisi, sofia, vielä, ashraellen, englanninkielinen, ennen, ensimmäinen, erotettu, esineeksi, haluaa, hohde, hohde-sarjan, joka, jotka
+- H2: Valittu luku | Kirjasta | Ilman juonipaljastuksia | Taiteellisen tutkimuksen kehys | Teemat | Kenelle | Kieli- ja julkaisutilanne | Rahastoille, kustantajille ja kulttuurikumppaneille
+- H3: Pohjoinen talo | Esine ja lähde | Ivar ja mitta | Myytti ennen myyttiä | Runsaus | Omistaminen | Osallisuus | Työ ja ihme
+- suggested keyword seed: sampo, ashraellen, books, kirja, ensimmäinen, erotettu, että, hän, hohde, hohde-sarjan, ilman, jossa, julkaisutilanne, juonipaljastuksia, katsoi, kehys, kenelle, kertomus
+- candidates: hän, oli, sofia, kuin, nik, katsoi, vain, mutta, sitten, olisi, sen, että, niin, tomas, sanoi, otti, liian, sitä, ole, ollut, joka, melkein, nora, hänen
 
 Excerpt:
 
-> HOHDE — pohjoisia kertomuksia maailman todellisesta historiasta Sampo HOHDE-sarjan ensimmäinen kirja. Pohjoinen kertomus esineestä, joka osoittautuu enemmän kuin esineeksi: runsaudesta, omistamisesta, osallisuudesta ja rauhasta maailmassa, jossa myyttiä ei ole vielä erotettu työstä, kylmästä, kodista ja tulesta. Emme kerro Kalevalaa uudelleen. Näytämme maailman, josta sellaiset kertomukset saattoivat syntyä. Englanninkielinen kansi. Ashraellen. Kirjasta runsaus ilman omistajan harhaa Sampo alkaa kysymyksestä, joka näyttää taloudelliselta ja päätyy ontologiseksi: mitä ihminen oikeastaan haluaa omistaa, kun hän haluaa runsauden lähteen? Kirjassa leipä, maa, puu, vesi, metsä ja talo eivät ole symboleja, jotka liimataan tarinan päälle. Ne ovat tapa, jolla maailma puhuu ihmiselle ennen käsitettä. Runsaus ei ole varasto, jonka voi sulkea oven taakse, vaan suhde siihen, mikä tuottaa elämää yhde
+> HOHDE — pohjoisia kertomuksia maailman todellisesta historiasta Sampo HOHDE-sarjan ensimmäinen kirjallis-filosofinen kirja. Pohjoinen kertomus esineestä, joka osoittautuu enemmän kuin esineeksi: runsaudesta, omistamisesta, osallisuudesta ja maailmasta, jossa myyttiä ei ole vielä erotettu työstä, kylmästä, kodista ja tulesta. Emme kerro Kalevalaa uudelleen. Näytämme maailman, josta sellaiset kertomukset saattoivat syntyä. Englanninkielinen kansi. Ashraellen. Valittu luku Kolmas luku. Viipale Ensimmäisen mahdottoman yön jälkeinen aamu: leipä, maa, polttopuut ja ihmisen yritys ymmärtää, missä varasto päättyy ja osallisuus alkaa. Avaa luku Sulje luku Aamulla leipä makasi pöydällä niin kuin yöllä ei olisi tapahtunut mitään. Se oli melkein röyhkeää. Sofia pysähtyi keittiön ovelle ja katseli limppua muutaman sekunnin astumatta sisään. Talo oli jo herännyt, vaikka kukaan ei ollut julistanut herä
 
 ### fi/books/radiance/song/index.html
 
 - lang: fi
 - section: books
 - title: Ashraellen — Laulu | HOHDE, Kirja II
-- description: Laulu on HOHDE-sarjan toinen kirja: romaani äänestä, kuulemisesta, kielestä, kaupungista ja laulusta, joka ei suostu muuttumaan numeroksi.
+- description: Laulu on HOHDE-sarjan toinen kirja: kirjallis-filosofinen romaani äänestä, kuulemisesta, kielestä, Varsovasta ja laulusta, joka ei muutu numeroksi.
 - canonical: https://www.ashraellen.com/fi/books/radiance/song/
 - H1: Laulu
-- H2: Kirjasta | Valittu katkelma | Tutkimuskehys | Julkaisutilanne
-- H3: _missing_
-- suggested keyword seed: laulu, ashraellen, kirja, äänestä, books, joka, ääni, alkaa, ennen, hohde, hohde-sarjan, julkaisutilanne, katkelma, kaupungista, kielestä, kieli, kirjasta, kuulemisesta
-- candidates: laulu, vain, joka, kirja, oli, alkaa, ennen, kieli, voiko, äänestä, ääni, ashraellen, ayla, eikä, englanninkielinen, hänet, hengitystä, hohde, hohde-sarjan, ihminen, kansi, kaupungista, kielestä, kieltä
+- H2: Valittu luku | Kirjasta | Ilman juonipaljastuksia | Taiteellisen tutkimuksen kehys | Teemat | Kenelle | Kieli- ja julkaisutilanne | Rahastoille, kustantajille ja kulttuurikumppaneille
+- H3: Varsova kuulevana tilana | Instrumentti ilman epäjumalaa | Ayla ja paluu | Laulu ennen laulua | Sana | Kuuleminen | Kieli | Instrumentti
+- suggested keyword seed: laulu, ashraellen, books, joka, kirja, äänestä, ayla, että, hän, hohde, hohde-sarjan, ilman, julkaisutilanne, juonipaljastuksia, kehys, kenelle, kielestä, kieli
+- candidates: oli, hän, ayla, mutta, kuin, joka, että, sen, ollut, olisi, niin, vain, hänen, marta, sitten, ilman, liian, vaan, pani, heti, olla, siitä, nyt, siinä
 
 Excerpt:
 
-> HOHDE — pohjoisia kertomuksia maailman todellisesta historiasta Laulu HOHDE-sarjan toinen kirja. Romaani äänestä, joka ei ota valtaa: kuulemisesta, kielestä, kaupungista, työstä ja laulusta, joka ei suostu muuttumaan mittariksi. Sammon jälkeen runsauden kysymys vaihtuu sanan kysymykseen: voiko kieli olla jotain muuta kuin mielipide, argumentti tai itsensä esittely — voiko se virittää? Englanninkielinen kansi. Ashraellen. Kirjasta kuuleminen ennen hallintaa Laulu alkaa tavallisesta melusta. Junan kuulutuksesta, liikennevalon piippauksesta, ratikasta, jääkaapista, ihmisten puheesta — kaikesta siitä, minkä kaupunkilainen oppii suodattamaan taustaksi. Kun tausta lakkaa olemasta tausta, maailma ei muutu mystiseksi. Se muuttuu liian kuuluvaksi. Ääni ei enää vain kanna tietoa; se alkaa paljastaa, missä järjestyksessä ihminen asettuu suhteeseen ympäristönsä kanssa. Kirjan keskeinen kysymys ei ol
+> HOHDE — pohjoisia kertomuksia maailman todellisesta historiasta Laulu HOHDE-sarjan toinen kirjallis-filosofinen kirja. Romaani äänestä, joka ei ota valtaa: kuulemisesta, kielestä, kaupungista, työstä ja laulusta, joka ei muutu numeroksi. Sammon jälkeen runsauden kysymys vaihtuu sanan kysymykseen: voiko kieli olla mielipiteen, väittelyn ja itseilmaisun sijasta virittymisen muoto? Englanninkielinen kansi. Ashraellen. Valittu luku Ensimmäinen luku. Tavallinen melu Koko ensimmäinen luku: Aylan paluu Varsovaan, tavallinen kaupungin melu ja ensimmäinen särö äänen työnä käyttämisen ja kuulemisen suhteena välillä. Avaa luku Sulje luku Varsova ei ottanut Aylaa vastaan merkillä, näyllä eikä millään muinaisen prologin jatkoksi sopivalla kuiskauksella maan alta. Varsova otti hänet vastaan junakuulutuksella. Ensin kaiuttimesta kuului ohut napsahdus, sitten naisääni — aivan liian kohtelias kuudeksi aa
 
 ### fi/books/samizdat/demotopia/index.html
 
