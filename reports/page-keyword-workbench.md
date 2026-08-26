@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-26T08:45:43.713Z
+Generated: 2026-08-26T09:12:37.564Z
 Pages: 854
 
 ## Index
@@ -305,7 +305,7 @@ Pages: 854
 | fi/books/monolith/beton/index.html | fi | books | Ashraellen — BETONI | Ashraellen, BETONI, MONOLIITTI, dystopia, kirjallisuus, taiteellinen tutkimus, muisti, kontrolli | betoni, ashraellen, books, osa, amazonissa, anton, beton, dystopia, ensimmäinen, ensimmäisestä, että, filosofinen, halkeamasta, hän, hänen, ilman, järjestelmän, jotka |
 | fi/books/monolith/gas/index.html | fi | books | Ashraellen — KAASU | Ashraellen, KAASU, MONOLIITTI, dystopia, valta, muisti, diffuusio | kaasu, ashraellen, books, ilman, osa, gas, hän, joka, juonipaljastuksia, kantajan, katkelma, katoamisesta, kehys, kirjallinen, kirjasta, kirjoittajalta, kokonaiskontrollista, kolmas |
 | fi/books/monolith/index.html | fi | books | Ashraellen — MONOLIITTI | Ashraellen, MONOLIITTI, BETONI, LIETE, KAASU, dystopia | monoliitti, ashraellen, betoni, books, kaasu, liete, aineen, avaa, dystopiatrilogia, enää, filosofinen, hän, järjestelmien, kartta, kirjallinen, kontrollista, mihin, mikä |
-| fi/books/monolith/sludge/index.html | fi | books | Ashraellen — LIETE | Ashraellen, LIETE, MONOLIITTI, dystopia, osallisuus, uupumus, muodonmuutos | liete, ashraellen, books, katkelma, osa, alkaa, amazonissa, dystopia, enää, filosofinen, hän, ihminen, joka, jossa, kehys, kirjallinen, kirjasta, menetyksestä |
+| fi/books/monolith/sludge/index.html | fi | books | Ashraellen — LIETE | Ashraellen, LIETE, MONOLIITTI, dystopia, osallisuus, uupumus, muodonmuutos | liete, ashraellen, books, adam, dystopia, edes, filosofinen, hän, hänen, joka, katkelma, kehys, kirjallinen, kirjasta, kuin, menetyksestä, monoliitti-trilogian, monolith |
 | fi/books/radiance/index.html | fi | books | Ashraellen — HOHDE \| Pohjoisia kertomuksia maailman todellisesta historiasta | Ashraellen, HOHDE, Sampo, Laulu, Kalevala, suomalais-karjalainen aineisto, pohjoiset kertomukset, taiteellinen tutkimus | hohde, taiteellisen, tutkimuksen, ashraellen, books, kirjallis-filosofinen, sarja, sarjan, eikä, historiasta, kartta, kautta, kehys, kenelle, kertomukset, kertomuksia, kirja, kirjat |
 | fi/books/radiance/sampo/index.html | fi | books | Ashraellen — Sampo \| HOHDE, Kirja I | Ashraellen, Sampo, HOHDE, runsaus, osallisuus, taiteellinen tutkimus, Kalevala | sampo, ashraellen, books, kirja, ensimmäinen, erotettu, että, hän, hohde, hohde-sarjan, ilman, jossa, julkaisutilanne, juonipaljastuksia, katsoi, kehys, kenelle, kertomus |
 | fi/books/radiance/song/index.html | fi | books | Ashraellen — Laulu \| HOHDE, Kirja II | Ashraellen, Laulu, HOHDE, kieli, kuuleminen, Varsova, taiteellinen tutkimus, mytopoetiikka | laulu, ashraellen, books, joka, kirja, äänestä, ayla, että, hän, hohde, hohde-sarjan, ilman, julkaisutilanne, juonipaljastuksia, kehys, kenelle, kielestä, kieli |
@@ -318,9 +318,9 @@ Pages: 854
 | fi/books/you-are-already-online/index.html | fi | books | Ashraellen — Olet jo verkossa | _missing_ | olet, verkossa, ashraellen, books, luku, 03.17, algoritmeista, already, audioromaani, digitaalisesta, ennen, ensimmäinen, hän, hypertodellisuudesta, immersiivinen, katkelma, kirjasta, kyberpunk-draama |
 | fi/contact.html | fi | contact.html | Yhteys — Ashraellen | ashraellen, yhteys, yhteistyö, julkaiseminen, apurahat, media, projektit | ashraellen, yhteys, apurahoja, ashraellenin, julkaisemista, mediaa, projekteja, varten, yhteistyötä, aineistot, contact, contact.html, julkiset, koskevia, telegram-yhteys, yhteydenottoja, yhteystiedot |
 | fi/index.html | fi | index.html | Ashraellen — Kirjat, tutkimus ja julkiset tekstit | _missing_ | ashraellen, ääntä, itsenäinen, kirjallis-filosofinen, kirjat, monikielinen, taiteellinen, tutkimus, tutkimuskäytäntö, äänen, ammatillinen, autonomiaa, index.html, julkiset, julkisia, kirjoja, satiiria, tekstejä |
-| fi/kone/index.html | fi | kone | Ashraellen — tiivistelmä Koneen Säätiölle | Ashraellen, Koneen Säätiö, taiteellinen tutkimus, kirjallisuus, MONOLIITTI, monikielinen arkisto | ashraellen, koneen, kone, kuukauden, säätiölle, tiivistelmä, tutkimuksen, tutkimus, arkistosta, ashraellen-hankkeesta, asiakirjat, budjetti, elämänmittainen, englanninkielinen, hankkeen, infrastruktuuri, julkinen, kirjallisuudesta |
+| fi/kone/index.html | fi | kone | Radiance: Sampo and Song — Ashraellen | Ashraellen, Radiance, HOHDE, Sampo, Song, Laulu, taiteellinen tutkimus, mytopoetiikka, suomalais-karjalainen, Kalevala | radiance, sampo, song, ashraellen, kone, laulu, mitä, avaa, jonka, kalevalaan, kehittyy, kenttä, kirjallinen, kirjallis-filosofinen, kirjallisen, kulttuurinen, kytkeytyvä, mikä |
 | fi/privacy.html | fi | privacy.html | Tietosuojakäytäntö — Ashraellen | _missing_ | analytiikka, tietoja, tietosuojakäytäntö, ashraellen, evästeet, kerätä, palvelut, voidaan, ashraellen.com, ashraellen.comin, google, henkilötiedot, käsittelyn, kauan, käytetään, käyttää, käyttäjän, kolmannen |
-| fi/professional/index.html | fi | professional | Ashraellen — Ammatillinen esittely | _missing_ | ashraellen, käytäntö, ammatillinen, ashraellenin, esittely, havainnoinnin, julkiset, menetelmä, muodot, professional, rinnakkaiset, ammatilliset, arkisto, eri, jossa, julkinen, kehykset, kielten |
+| fi/professional/index.html | fi | professional | Ashraellen — Ammatillinen esittely | _missing_ | ashraellen, ammatillinen, ashraellenin, esittely, havainnoinnin, julkiset, käytäntö, menetelmä, muodot, professional, rinnakkaiset, ammatilliset, eri, jossa, julkinen, kehykset, kenttä, kirjallinen |
 | fi/public/index.html | fi | public | Ashraellen — Julkinen | Ashraellen, julkinen kenttä, puheet, julkaisut, tukiajatukset, tutkimus, havainnot | julkinen, ashraellen, ashraellenin, missä, public, ajatus, avaa, elävän, hän, havaintoja, hinta, ihminen, ihmisen, julkaisuja, julkaisut, kansa, kenttä, kohtaa |
 | fi/public/posts/essay/cycles/cycle-0001.html | fi | public | Ashraellen — Ensimmäinen miniesseesykli | Ashraellen, miniessee, huomio, keho, menneisyys, tietoisuus | ensimmäinen, ashraellen, keho, menneisyys, miniesseesykli, public, sykli, vaan, ajatukseen, älä, alkaa, ashraellenin, cycle, cycles, elää, essay, harjoitukseksi, huomio |
 | fi/public/posts/essay/cycles/index.html | fi | public | Ashraellen — Miniesseiden syklit | Ashraellen, miniesseet, syklit, huomio, keho, menneisyys | miniesseiden, syklit, ashraellen, valmiit, ashraellenin, nykyinen, public, sykli, cycles, elää, ensimmäinen, essay, huomio, keho, kootaan, löytyy, pääsivulta, posts |
@@ -5940,8 +5940,8 @@ Excerpt:
 - H1: LIETE
 - H2: Objektiprotokolla | Valittu kirjallinen katkelma | Kirjasta | Objektin tila | Taiteellis-tutkimuksellinen kehys | Teemalliset solmut | Paikka trilogiassa | Tulkinnan rajat
 - H3: Viskoosi paine | Uupumus | Osallisuus | Muoto | Keho | Hiljaisuus | Tarve | Menettely
-- suggested keyword seed: liete, ashraellen, books, katkelma, osa, alkaa, amazonissa, dystopia, enää, filosofinen, hän, ihminen, joka, jossa, kehys, kirjallinen, kirjasta, menetyksestä
-- candidates: vaan, liete, alkaa, ihminen, osa, enää, hän, jossa, katkelma, oli, amazonissa, joka, kun, mikä, mitä, osallisuus, paine, sitä, sitten, vain, adam, edes, että, hänen
+- suggested keyword seed: liete, ashraellen, books, adam, dystopia, edes, filosofinen, hän, hänen, joka, katkelma, kehys, kirjallinen, kirjasta, kuin, menetyksestä, monoliitti-trilogian, monolith
+- candidates: oli, hän, vaan, kuin, joka, vain, adam, hänen, liete, ollut, sen, edes, että, harmaatukkainen, mutta, sisällä, sitten, täällä, enää, ihminen, jossa, kaikki, osa, sitä
 
 Excerpt:
 
@@ -6155,18 +6155,18 @@ Excerpt:
 
 - lang: fi
 - section: kone
-- title: Ashraellen — tiivistelmä Koneen Säätiölle
-- description: Suomenkielinen tiivistelmä Ashraellen-hankkeesta Koneen Säätiölle: elämänmittainen taiteellis-filosofinen tutkimus merkityksestä, kirjallisuudesta, videoista ja monikielisestä arkistosta.
+- title: Radiance: Sampo and Song — Ashraellen
+- description: Radiance: Sampo and Song — kirjallis-filosofinen ja mytopoeettinen taiteellisen tutkimuksen sykli, jonka pohjoisen ytimen muodostaa suomalais-karjalainen ja Kalevalaan kytkeytyvä kulttuurinen kenttä.
 - canonical: https://www.ashraellen.com/fi/kone/
-- H1: Ashraellen
-- H2: Tutkimuksen ydin | Tekijä | Hankkeen rakenne | 12 kuukauden tavoite | Asiakirjat | Yhteys
-- H3: _missing_
-- suggested keyword seed: ashraellen, koneen, kone, kuukauden, säätiölle, tiivistelmä, tutkimuksen, tutkimus, arkistosta, ashraellen-hankkeesta, asiakirjat, budjetti, elämänmittainen, englanninkielinen, hankkeen, infrastruktuuri, julkinen, kirjallisuudesta
-- candidates: ashraellen, ovat, tutkimus, englanninkielinen, koneen, miten, tai, tutkimuksen, budjetti, infrastruktuuri, julkinen, kuukauden, nähdä, ole, pdf, säätiölle, suomenkielinen, taiteellis-filosofinen, tapa, tiivistelmä, varten, ammatillinen, arkisto, ashraellenin
+- H1: Radiance: Sampo and Song
+- H2: Mikä Radiance on | Suomi ja pohjoinen selkäranka | Sampo | Song / Laulu | Mitä on jo olemassa | Mitä kehittyy seuraavaksi | Tekijä | Relevantit sivut ja projektiaineisto
+- H3: RU | EN | PL | FI | RU | EN | PL | FI
+- suggested keyword seed: radiance, sampo, song, ashraellen, kone, laulu, mitä, avaa, jonka, kalevalaan, kehittyy, kenttä, kirjallinen, kirjallis-filosofinen, kirjallisen, kulttuurinen, kytkeytyvä, mikä
+- candidates: radiance, sampo, versio, avaa, kirjallinen, song, suomenkielinen, laulu, projektin, tekijän, kirjallisen, tai, valmis, englanninkielinen, kalevalaan, ole, radiancen, sammon, sen, sykli, syklin, taiteellisen, aineisto, alkuperäinen
 
 Excerpt:
 
-> Suomenkielinen tiivistelmä Koneen Säätiölle Ashraellen Tapa nähdä · Taiteellis-filosofinen tutkimus · Monikielinen kirjallinen ja julkinen arkisto Tämä sivu on lyhyt suomenkielinen johdanto Ashraellen-hankkeeseen Koneen Säätiön kontekstia varten. Laajemmat asiakirjat ovat englanniksi: ammatillinen dossier, 12 kuukauden projektisuunnitelma ja budjetti. Tutkimuksen ydin Ashraellen ei ole vain nimi, vaan tapa nähdä. Se on elämänmittainen taiteellis-filosofinen tutkimus merkityksestä, havainnosta, itsepetoksesta, sisäisestä vapaudesta ja ihmisen yhteyden katoamisesta todellisuuteen. Projekti ei synny tarpeesta tuottaa sisältöä, vaan erityisestä tavasta havaita merkityksiä merkitysten sisällä, rakenteita rakenteiden sisällä ja yhteyksiä siellä, missä pinnalla näyttää olevan vain yksittäinen ajatus, arkinen kohtaus, henkilökohtainen reaktio tai satunnainen lause. Ashraellenin kirjat, romaanisa
+> Projektikonteksti Koneen Säätiölle Radiance: Sampo and Song Radiance / HOHDE on pitkäkestoinen kirjallis-filosofinen ja mytopoeettinen taiteellisen tutkimuksen sykli, jossa fiktio toimii tutkimisen tapana. Radiance ei kerro Kalevalaa uudelleen. Se työskentelee suomalais-karjalaisen ja Kalevalaan kytkeytyvän mytopoeettisen kentän kanssa elävänä kulttuurisena ja symbolisena tilana — ei eksoottisena tunnelmana, pukuna tai lavasteena. Mikä Radiance on Radiance ei ole Kalevalan uudelleenkerronta. Se on kirjallis-filosofinen sykli, jossa pohjoinen mytopoeettinen aineisto avaa kysymyksiä luomisesta, runsaudesta, kielestä, käsityöstä, kynnyksestä, traumasta, paluusta, syntymästä, metsästä, mitasta, vastuusta ja ihmisen osallisuudesta maailman elävään järjestykseen. Vanhat kertomukset eivät tässä ole koristeellista mytologiaa eivätkä museoesineitä. Niitä lähestytään kuvallisina kulttuurimuistin m
 
 ### fi/privacy.html
 
@@ -6193,10 +6193,10 @@ Excerpt:
 - description: Ashraellenin ammatillinen esittely: kirjallinen ja taiteellis-filosofinen käytäntö, havainnoinnin menetelmä, valitut teokset, julkiset muodot ja rinnakkaiset tutkimussuunnat.
 - canonical: https://www.ashraellen.com/fi/professional/
 - H1: Ashraellen
-- H2: Tutkimuksellinen ydin | Tekijästä | Havainnoinnin menetelmä | Ammatilliset kehykset | Valittuja kirjallisia ja taiteellisia teoksia | Julkiset muodot | Rinnakkaiset suunnat | Nykyinen käytäntö
+- H2: Tutkimuksellinen ydin | Tekijästä | Miten työskentelyn kenttä laajeni | Havainnoinnin menetelmä | Ammatilliset kehykset | Valittuja kirjallisia ja taiteellisia teoksia | Julkiset muodot | Rinnakkaiset suunnat
 - H3: Taiteellinen tutkimus | Avoin tieto | Digitaalinen yhteiskunta | Itsenäinen digitaalinen arkisto | MONOLIITTI | HOHDE | Demotopia — Demokraattinen utopia | Ashraellen — Uuden ajan henki
-- suggested keyword seed: ashraellen, käytäntö, ammatillinen, ashraellenin, esittely, havainnoinnin, julkiset, menetelmä, muodot, professional, rinnakkaiset, ammatilliset, arkisto, eri, jossa, julkinen, kehykset, kielten
-- candidates: ashraellen, tai, säilyttää, ashraellenin, eri, jossa, julkinen, käytäntö, kielten, tekijän, tutkimus, arkisto, miten, sekä, sen, työ, työn, välillä, ajan, digitaalinen, merkitys, muodot, muoto, suunnat
+- suggested keyword seed: ashraellen, ammatillinen, ashraellenin, esittely, havainnoinnin, julkiset, käytäntö, menetelmä, muodot, professional, rinnakkaiset, ammatilliset, eri, jossa, julkinen, kehykset, kenttä, kirjallinen
+- candidates: tai, ashraellen, tekijän, säilyttää, ashraellenin, eri, sen, tutkimus, työ, jossa, julkinen, käytäntö, kielten, miten, työn, arkisto, kanssa, käytännön, sekä, tutkimuksen, tutkimusta, välillä, ajan, digitaalinen
 
 Excerpt:
 
