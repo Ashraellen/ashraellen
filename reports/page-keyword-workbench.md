@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-26T14:24:09.925Z
+Generated: 2026-08-26T16:30:54.322Z
 Pages: 854
 
 ## Index
@@ -3072,7 +3072,7 @@ Excerpt:
 
 Excerpt:
 
-> Stützgedanken BOGEN 0002 Zweiter Bogen der Stützgedanken Erinnerung, Beobachtung, Erwachen, Verlust und Grenze spiritueller Literatur. Stützgedanke 0007 Der leere Stuhl Manche Menschen gehen nicht vollständig fort. Gedanken öffnen → Stützgedanke 0008 Verallgemeinerung statt Beobachtung Verallgemeinerung wird gefährlich, wenn sie Beobachtung ersetzt. Gedanken öffnen → Stützgedanke 0009 Wo das Leben stehen blieb Erwachen heißt, den Ort des inneren Stillstands zu sehen. Gedanken öffnen → Stützgedanke 0010 Die schmutzige Tasse Im Kreis zu laufen reinigt die Tasse nicht. Gedanken öffnen → Stützgedanke 0011 Bereue nicht Manchmal sieht Gnade wie Verlust aus. Gedanken öffnen → Stützgedanke 0012 Wann man das Buch schließt Irgendwann setzt sich der Weg in der Stille fort. Gedanken öffnen → ← Vorheriger Bogen Nächster Bogen → — mark of presence
+> Stützgedanken BOGEN 0002 Zweiter Bogen der Stützgedanken Erinnerung, Beobachtung, Erwachen, Verlust und Grenze spiritueller Literatur. Stützgedanke 0007 Der leere Stuhl Manche Menschen gehen nicht vollständig fort. Gedanken öffnen → Stützgedanke 0008 Verallgemeinerung statt Beobachtung Verallgemeinerung wird gefährlich, wenn sie Beobachtung ersetzt. Gedanken öffnen → Stützgedanke 0009 Wo das Leben stehen blieb Erwachen heißt, den Ort des inneren Stillstands zu sehen. Gedanken öffnen → Stützgedanke 0010 Die schmutzige Tasse Im Kreis zu laufen reinigt die Tasse nicht. Gedanken öffnen → Stützgedanke 0011 Bereue nicht Manchmal sieht Gnade wie Verlust aus. Gedanken öffnen → Stützgedanke 0012 Wann man das Buch schließt Irgendwann setzt sich der Weg in der Stille fort. Gedanken öffnen → ← Dritter Bogen Erster Bogen → — mark of presence
 
 ### de/public/thoughts/index.html
 
@@ -4462,7 +4462,7 @@ Excerpt:
 - H2: Cheerfulness as a Diagnosis of a Person | The Same Forces, New Names | Awakening Begins When Continuing Becomes Impossible | Finitude Awakens the Question | Fear as a Mechanism of Control | A Deeper Gaze Gathers Life
 - H3: _missing_
 - suggested keyword seed: thoughts, arc, ashraellen, first, support, awakening, cheerfulness, fear, finitude, forces, public, awakens, becomes, begins, continuing, control, deeper, diagnosis
-- candidates: thought, support, arc, open, thoughts, fear, first, forces, ashraellen, awakening, cheerfulness, finitude, gathers, person, 0001, begins, control, deeper, gaze, have, insight, names, old, when
+- candidates: thought, support, arc, open, thoughts, fear, first, forces, ashraellen, awakening, cheerfulness, finitude, gathers, person, 0001, begins, control, deeper, gaze, have, insight, names, old, public
 
 Excerpt:
 
@@ -5673,7 +5673,7 @@ Excerpt:
 
 Excerpt:
 
-> Pensamientos de apoyo ARCO 0002 Segundo arco de pensamientos de apoyo Memoria, observación, despertar, pérdida y el límite de la literatura espiritual. Pensamiento de apoyo 0007 La silla vacía Algunas personas no se van del todo. Abrir pensamiento → Pensamiento de apoyo 0008 Generalización en vez de observación La generalización se vuelve peligrosa cuando reemplaza la observación. Abrir pensamiento → Pensamiento de apoyo 0009 Donde la vida se detuvo Despertar es ver el lugar de la detención interior. Abrir pensamiento → Pensamiento de apoyo 0010 La taza sucia Correr en círculos no limpia la taza. Abrir pensamiento → Pensamiento de apoyo 0011 No te arrepientas A veces la misericordia parece pérdida. Abrir pensamiento → Pensamiento de apoyo 0012 Cuándo cerrar el libro En cierto momento, el camino continúa en silencio. Abrir pensamiento → ← Arco anterior Siguiente arco → — mark of presence
+> Pensamientos de apoyo ARCO 0002 Segundo arco de pensamientos de apoyo Memoria, observación, despertar, pérdida y el límite de la literatura espiritual. Pensamiento de apoyo 0007 La silla vacía Algunas personas no se van del todo. Abrir pensamiento → Pensamiento de apoyo 0008 Generalización en vez de observación La generalización se vuelve peligrosa cuando reemplaza la observación. Abrir pensamiento → Pensamiento de apoyo 0009 Donde la vida se detuvo Despertar es ver el lugar de la detención interior. Abrir pensamiento → Pensamiento de apoyo 0010 La taza sucia Correr en círculos no limpia la taza. Abrir pensamiento → Pensamiento de apoyo 0011 No te arrepientas A veces la misericordia parece pérdida. Abrir pensamiento → Pensamiento de apoyo 0012 Cuándo cerrar el libro En cierto momento, el camino continúa en silencio. Abrir pensamiento → ← Tercer arco Primer arco → — mark of presence
 
 ### es/public/thoughts/index.html
 
@@ -8066,7 +8066,7 @@ Excerpt:
 - H2: La joie comme diagnostic de la personne | Les mêmes forces, de nouveaux noms | L’éveil commence là où l’on ne peut plus continuer | La finitude réveille la question | La peur comme mécanisme de contrôle | Un regard plus profond rassemble la vie
 - H3: _missing_
 - suggested keyword seed: arc, ashraellen, d’appui, pensées, finitude, forces, joie, peur, plus, premier, anciennes, comme, public, commence, continuer, contrôle, diagnostic, éveil
-- candidates: pensée, d’appui, arc, ouvrir, plus, pensées, forces, peur, anciennes, ashraellen, finitude, joie, les, personne, premier, une, 0001, comme, commence, éveil, noms, peut, profond, rassemble
+- candidates: pensée, d’appui, arc, ouvrir, plus, pensées, forces, peur, anciennes, ashraellen, finitude, joie, les, personne, premier, une, 0001, comme, commence, éveil, noms, peut, profond, public
 
 Excerpt:
 
@@ -11096,7 +11096,7 @@ Excerpt:
 
 Excerpt:
 
-> Pensamentos de apoio ARCO 0002 Segundo arco de pensamentos de apoio Memória, observação, despertar, perda e o limite da literatura espiritual. Pensamento de apoio 0007 A Cadeira Vazia Algumas pessoas não partem completamente. Abrir pensamento → Pensamento de apoio 0008 Generalização em vez de observação A generalização se torna perigosa quando substitui a observação. Abrir pensamento → Pensamento de apoio 0009 Onde a vida parou Despertar é ver o lugar da parada interior. Abrir pensamento → Pensamento de apoio 0010 A Xícara Suja Correr em círculos não limpa a xícara. Abrir pensamento → Pensamento de apoio 0011 Não se arrependa Às vezes a misericórdia parece perda. Abrir pensamento → Pensamento de apoio 0012 Quando fechar o livro Em certo momento, o caminho continua no silêncio. Abrir pensamento → ← Arco anterior Próximo arco → — mark of presence
+> Pensamentos de apoio ARCO 0002 Segundo arco de pensamentos de apoio Memória, observação, despertar, perda e o limite da literatura espiritual. Pensamento de apoio 0007 A Cadeira Vazia Algumas pessoas não partem completamente. Abrir pensamento → Pensamento de apoio 0008 Generalização em vez de observação A generalização se torna perigosa quando substitui a observação. Abrir pensamento → Pensamento de apoio 0009 Onde a vida parou Despertar é ver o lugar da parada interior. Abrir pensamento → Pensamento de apoio 0010 A Xícara Suja Correr em círculos não limpa a xícara. Abrir pensamento → Pensamento de apoio 0011 Não se arrependa Às vezes a misericórdia parece perda. Abrir pensamento → Pensamento de apoio 0012 Quando fechar o livro Em certo momento, o caminho continua no silêncio. Abrir pensamento → ← Arco anterior Arco seguinte → — mark of presence
 
 ### pt/public/thoughts/index.html
 
