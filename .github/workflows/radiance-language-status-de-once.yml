@@ -1,0 +1,96 @@
+name: One-time German Radiance language status update
+
+on:
+  push:
+    paths:
+      - '.github/workflows/radiance-language-status-de-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update-radiance-status-de:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Apply approved German status corrections
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          changes = {
+              'de/books/radiance/sampo/index.html': [
+                  ('Die russische Version ist fertiggestellt.', 'Die Autorenfassung ist abgeschlossen.'),
+                  ('Englische literarische Transkreation abgeschlossen.', 'Die englische literarische Fassung befindet sich in der letzten Vorbereitungsphase.'),
+                  ('Als nächste Partnerstufe ist eine finnische Version möglich.', 'Die finnische literarische Fassung ist als nächste professionelle Projektphase vorgesehen.'),
+              ],
+              'de/books/radiance/song/index.html': [
+                  ('Die russische Version ist fertiggestellt.', 'Die Autorenfassung ist abgeschlossen.'),
+                  ('Als nächster Schritt ist die englischsprachige literarische Transkreation geplant.', 'Die englische literarische Fassung ist der nächste Arbeitsschritt.'),
+                  ('Als nächste Partnerstufe ist eine finnische Version möglich.', 'Die finnische literarische Fassung ist im Rahmen der weiteren Projektentwicklung vorgesehen.'),
+              ],
+          }
+
+          for filename, replacements in changes.items():
+              path = Path(filename)
+              text = path.read_text(encoding='utf-8')
+              for old, new in replacements:
+                  count = text.count(old)
+                  if count == 0:
+                      raise SystemExit(f'Expected text not found in {filename}: {old}')
+                  text = text.replace(old, new)
+              path.write_text(text, encoding='utf-8')
+          PY
+
+      - name: Verify German status boundaries
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          sampo = Path('de/books/radiance/sampo/index.html').read_text(encoding='utf-8')
+          song = Path('de/books/radiance/song/index.html').read_text(encoding='utf-8')
+
+          required_sampo = [
+              'Die Autorenfassung ist abgeschlossen.',
+              'Die englische literarische Fassung befindet sich in der letzten Vorbereitungsphase.',
+              'Polnische Version in Vorbereitung.',
+              'Die finnische literarische Fassung ist als nächste professionelle Projektphase vorgesehen.',
+          ]
+          required_song = [
+              'Die Autorenfassung ist abgeschlossen.',
+              'Die englische literarische Fassung ist der nächste Arbeitsschritt.',
+              'Polnische Version in Vorbereitung.',
+              'Die finnische literarische Fassung ist im Rahmen der weiteren Projektentwicklung vorgesehen.',
+              '„Lied“ ist der zweite abgeschlossene Forschungsknoten „Glanz“.',
+          ]
+
+          for needle in required_sampo:
+              if needle not in sampo:
+                  raise SystemExit(f'Missing Sampo text: {needle}')
+          for needle in required_song:
+              if needle not in song:
+                  raise SystemExit(f'Missing Lied text: {needle}')
+
+          forbidden = [
+              'Englische literarische Transkreation abgeschlossen.',
+              'Die russische Version ist fertiggestellt.',
+              'Als nächste Partnerstufe ist eine finnische Version möglich.',
+          ]
+          for label, text in [('sampo', sampo), ('song', song)]:
+              for needle in forbidden:
+                  if needle in text:
+                      raise SystemExit(f'Forbidden old status remains in {label}: {needle}')
+          PY
+
+      - name: Commit corrected German pages and remove one-time workflow
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm .github/workflows/radiance-language-status-de-once.yml
+          git add de/books/radiance/sampo/index.html de/books/radiance/song/index.html
+          git commit -m "Update German Radiance language status"
+          git push
