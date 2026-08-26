@@ -66,7 +66,7 @@ jobs:
           for item in required:
               assert item in fi, item
           assert fi.count('class="sampo-status"') == 4
-          assert 'Tämä suomenkielinen verkkosivu on teoksen esittelysivun transkreaatioversio' in fi
+          assert 'Tämä suomenkielinen verkkosivu on teoksen julkisen esittelysivun transkreaatioversio' in fi
           print(f'Validated chapter parity: FI={fi_count}, RU={ru_count}')
           PY
 
