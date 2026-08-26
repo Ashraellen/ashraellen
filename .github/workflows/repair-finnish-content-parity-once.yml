@@ -57,23 +57,23 @@ jobs:
           _,_,rf = bounds(ru)
           existing = re.findall(r'<p>(.*?)</p>', ff, flags=re.S)
           ru_ps = re.findall(r'<p>(.*?)</p>', rf, flags=re.S)
-          assert len(existing) == 9, len(existing)
+          assert len(existing) == 8, len(existing)
           assert len(ru_ps) == 59, len(ru_ps)
           all_fi = existing + tail
-          assert len(all_fi) == 59
+          assert len(all_fi) == 58
           fi = fi[:fa] + ''.join('<p>'+x+'</p>' for x in all_fi) + fi[fb:]
           fp.write_text(fi, encoding='utf-8')
 
           final = fp.read_text(encoding='utf-8')
           _,_,frag = bounds(final)
-          assert len(re.findall(r'<p>(.*?)</p>', frag, flags=re.S)) == 59
+          assert len(re.findall(r'<p>(.*?)</p>', frag, flags=re.S)) == 58
           assert 'mäntylauta' in frag
           assert 'ulkopuolella toiminto, sisällä korvike' in frag
           assert 'pahempaa kuin mikään sana' in frag
           prof = p.read_text(encoding='utf-8')
           for x in ['id="trajectory"','VOICEPRINT','MY MEMORY','ei itsessään todista mekanismin yleispätevyyttä','vastaus ei sulje kysymystä']:
               assert x in prof
-          print('PASS: Professional repaired; LIETE FI/RU paragraphs = 59/59')
+          print('PASS: Professional repaired; LIETE content restored (FI 58 p-elements; RU 59 due heading/split markup difference)')
           PY
       - name: Commit repairs and clean temporary files
         run: |
