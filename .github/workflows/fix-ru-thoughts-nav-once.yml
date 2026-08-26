@@ -1,0 +1,45 @@
+name: Fix RU thoughts navigation once
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/fix-ru-thoughts-nav-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fix-navigation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Fix navigation labels and direction
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p2 = Path('ru/public/thoughts/index-0002.html')
+          s2 = p2.read_text()
+          s2 = s2.replace("<div class='nav-row'><a id='prevArc' class='btn' href='#'>← Предыдущая дуга</a><a id='nextArc' class='btn' href='#'>Следующая дуга →</a></div>", "<div class='nav-row'><a id='nextArc' class='btn' href='#'>← Следующая дуга</a><a id='prevArc' class='btn' href='#'>Предыдущая дуга →</a></div>", 1)
+          s2 = s2.replace("document.getElementById('prevArc').href=base+'ru/public/thoughts/';document.getElementById('nextArc').href=base+'ru/public/thoughts/index-0001.html';", "document.getElementById('nextArc').href=base+'ru/public/thoughts/';document.getElementById('prevArc').href=base+'ru/public/thoughts/index-0001.html';", 1)
+          if "← Следующая дуга" not in s2 or "Предыдущая дуга →" not in s2:
+              raise SystemExit('index-0002 replacement failed')
+          p2.write_text(s2)
+          p1 = Path('ru/public/thoughts/index-0001.html')
+          s1 = p1.read_text()
+          s1 = s1.replace("<div class='nav-row'><a id='prevArc' class='btn' href='#'>← Предыдущая дуга</a></div>", "<div class='nav-row'><a id='nextArc' class='btn' href='#'>← Следующая дуга</a><a id='toPublicBottom' class='btn' href='#'>Публичное →</a></div>", 1)
+          s1 = s1.replace("document.getElementById('prevArc').href=base+'ru/public/thoughts/index-0002.html';document.getElementById('sealImg').src=base+'assets/symbol.png';", "document.getElementById('nextArc').href=base+'ru/public/thoughts/index-0002.html';document.getElementById('toPublicBottom').href=base+'ru/public/';document.getElementById('sealImg').src=base+'assets/symbol.png';", 1)
+          if "← Следующая дуга" not in s1 or "Публичное →" not in s1:
+              raise SystemExit('index-0001 replacement failed')
+          p1.write_text(s1)
+          PY
+      - name: Remove one-time workflow and commit
+        run: |
+          rm .github/workflows/fix-ru-thoughts-nav-once.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+Ashraellen@users.noreply.github.com"
+          git add ru/public/thoughts/index-0001.html ru/public/thoughts/index-0002.html .github/workflows/fix-ru-thoughts-nav-once.yml
+          git commit -m "Fix RU thoughts arc navigation logic"
+          git push
