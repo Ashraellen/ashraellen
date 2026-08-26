@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-26T09:12:37.564Z
+Generated: 2026-08-26T09:27:11.644Z
 Pages: 854
 
 ## Index
@@ -318,7 +318,7 @@ Pages: 854
 | fi/books/you-are-already-online/index.html | fi | books | Ashraellen — Olet jo verkossa | _missing_ | olet, verkossa, ashraellen, books, luku, 03.17, algoritmeista, already, audioromaani, digitaalisesta, ennen, ensimmäinen, hän, hypertodellisuudesta, immersiivinen, katkelma, kirjasta, kyberpunk-draama |
 | fi/contact.html | fi | contact.html | Yhteys — Ashraellen | ashraellen, yhteys, yhteistyö, julkaiseminen, apurahat, media, projektit | ashraellen, yhteys, apurahoja, ashraellenin, julkaisemista, mediaa, projekteja, varten, yhteistyötä, aineistot, contact, contact.html, julkiset, koskevia, telegram-yhteys, yhteydenottoja, yhteystiedot |
 | fi/index.html | fi | index.html | Ashraellen — Kirjat, tutkimus ja julkiset tekstit | _missing_ | ashraellen, ääntä, itsenäinen, kirjallis-filosofinen, kirjat, monikielinen, taiteellinen, tutkimus, tutkimuskäytäntö, äänen, ammatillinen, autonomiaa, index.html, julkiset, julkisia, kirjoja, satiiria, tekstejä |
-| fi/kone/index.html | fi | kone | Radiance: Sampo and Song — Ashraellen | Ashraellen, Radiance, HOHDE, Sampo, Song, Laulu, taiteellinen tutkimus, mytopoetiikka, suomalais-karjalainen, Kalevala | radiance, sampo, song, ashraellen, kone, laulu, mitä, avaa, jonka, kalevalaan, kehittyy, kenttä, kirjallinen, kirjallis-filosofinen, kirjallisen, kulttuurinen, kytkeytyvä, mikä |
+| fi/kone/index.html | fi | kone | Radiance: Sampo and Song — Ashraellen | Ashraellen, Radiance, HOHDE, Sampo, Song, Laulu, taiteellinen tutkimus, mytopoetiikka, suomalais-karjalainen, Kalevala | radiance, sampo, song, ashraellen, kone, laulu, mitä, työ, avaa, ihmisen, jonka, kalevalaan, kehittyy, kenttä, kirjallinen, kirjallis-filosofinen, kulttuurinen, kytkeytyvä |
 | fi/privacy.html | fi | privacy.html | Tietosuojakäytäntö — Ashraellen | _missing_ | analytiikka, tietoja, tietosuojakäytäntö, ashraellen, evästeet, kerätä, palvelut, voidaan, ashraellen.com, ashraellen.comin, google, henkilötiedot, käsittelyn, kauan, käytetään, käyttää, käyttäjän, kolmannen |
 | fi/professional/index.html | fi | professional | Ashraellen — Ammatillinen esittely | _missing_ | ashraellen, ammatillinen, ashraellenin, esittely, havainnoinnin, julkiset, käytäntö, menetelmä, muodot, professional, rinnakkaiset, ammatilliset, eri, jossa, julkinen, kehykset, kenttä, kirjallinen |
 | fi/public/index.html | fi | public | Ashraellen — Julkinen | Ashraellen, julkinen kenttä, puheet, julkaisut, tukiajatukset, tutkimus, havainnot | julkinen, ashraellen, ashraellenin, missä, public, ajatus, avaa, elävän, hän, havaintoja, hinta, ihminen, ihmisen, julkaisuja, julkaisut, kansa, kenttä, kohtaa |
@@ -6159,14 +6159,14 @@ Excerpt:
 - description: Radiance: Sampo and Song — kirjallis-filosofinen ja mytopoeettinen taiteellisen tutkimuksen sykli, jonka pohjoisen ytimen muodostaa suomalais-karjalainen ja Kalevalaan kytkeytyvä kulttuurinen kenttä.
 - canonical: https://www.ashraellen.com/fi/kone/
 - H1: Radiance: Sampo and Song
-- H2: Mikä Radiance on | Suomi ja pohjoinen selkäranka | Sampo | Song / Laulu | Mitä on jo olemassa | Mitä kehittyy seuraavaksi | Tekijä | Relevantit sivut ja projektiaineisto
+- H2: Mikä Radiance on | Suomi ja pohjoinen selkäranka | Sampo | Song / Laulu | Mitä on jo olemassa | Nykyinen työvaihe | Mitä kehittyy seuraavaksi | Pitkäaikainen työ
 - H3: RU | EN | PL | FI | RU | EN | PL | FI
-- suggested keyword seed: radiance, sampo, song, ashraellen, kone, laulu, mitä, avaa, jonka, kalevalaan, kehittyy, kenttä, kirjallinen, kirjallis-filosofinen, kirjallisen, kulttuurinen, kytkeytyvä, mikä
-- candidates: radiance, sampo, versio, avaa, kirjallinen, song, suomenkielinen, laulu, projektin, tekijän, kirjallisen, tai, valmis, englanninkielinen, kalevalaan, ole, radiancen, sammon, sen, sykli, syklin, taiteellisen, aineisto, alkuperäinen
+- suggested keyword seed: radiance, sampo, song, ashraellen, kone, laulu, mitä, työ, avaa, ihmisen, jonka, kalevalaan, kehittyy, kenttä, kirjallinen, kirjallis-filosofinen, kulttuurinen, kytkeytyvä
+- candidates: radiance, sampo, kirjallinen, versio, laulu, radiancen, ihmisen, sen, tekijän, työ, avaa, song, suomenkielinen, jossa, kirjallisen, sammon, englanninkielinen, kautta, myös, ole, tai, taiteellisen, vaan, valmis
 
 Excerpt:
 
-> Projektikonteksti Koneen Säätiölle Radiance: Sampo and Song Radiance / HOHDE on pitkäkestoinen kirjallis-filosofinen ja mytopoeettinen taiteellisen tutkimuksen sykli, jossa fiktio toimii tutkimisen tapana. Radiance ei kerro Kalevalaa uudelleen. Se työskentelee suomalais-karjalaisen ja Kalevalaan kytkeytyvän mytopoeettisen kentän kanssa elävänä kulttuurisena ja symbolisena tilana — ei eksoottisena tunnelmana, pukuna tai lavasteena. Mikä Radiance on Radiance ei ole Kalevalan uudelleenkerronta. Se on kirjallis-filosofinen sykli, jossa pohjoinen mytopoeettinen aineisto avaa kysymyksiä luomisesta, runsaudesta, kielestä, käsityöstä, kynnyksestä, traumasta, paluusta, syntymästä, metsästä, mitasta, vastuusta ja ihmisen osallisuudesta maailman elävään järjestykseen. Vanhat kertomukset eivät tässä ole koristeellista mytologiaa eivätkä museoesineitä. Niitä lähestytään kuvallisina kulttuurimuistin m
+> Projektikonteksti Koneen Säätiölle Radiance: Sampo and Song Radiance / HOHDE on pitkäkestoinen kirjallis-filosofinen ja mytopoeettinen taiteellisen tutkimuksen sykli, jossa fiktio toimii tutkimisen tapana. Radiance ei kerro Kalevalaa uudelleen. Se astuu suomalais-karjalaiseen ja Kalevalaan kytkeytyvään mytopoeettiseen kenttään elävänä kulttuurisena ja symbolisena tilana, jossa vanhat kuvat voivat edelleen avata kysymyksiä ihmisen suhteesta maailmaan. Mikä Radiance on Radiance ei ole Kalevalan uudelleenkerronta. Se on kirjallis-filosofinen sykli, jossa pohjoinen mytopoeettinen aineisto avaa kysymyksiä luomisesta, runsaudesta, kielestä, käsityöstä, kynnyksestä, traumasta, paluusta, syntymästä, metsästä, mitasta, vastuusta ja ihmisen osallisuudesta maailman elävään järjestykseen. Vanhat kertomukset eivät tässä ole koristeellista mytologiaa eivätkä museoesineitä. Niitä lähestytään kuvallisin
 
 ### fi/privacy.html
 
