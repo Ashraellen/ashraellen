@@ -34,90 +34,77 @@ jobs:
               'be': ('Наступная дуга', 'Папярэдняя дуга'),
               'fi': ('Seuraava kaari', 'Edellinen kaari'),
           }
-          js_legacy = {'en','pl','de','es','fr','pt','uk','be'}
           nav_pat = re.compile(r'<div class=(["\'])nav-row\1>.*?</div>', re.S)
+          menu_pat = re.compile(r'<div class=(["\'])menu\1>(.*?)</div>', re.S | re.I)
+          nav_js_pat = re.compile(r"document\.getElementById\(['\"](?:prevArc|nextArc|toPublicBottom)['\"]\)\.href=[^;]+;")
 
           def public_label(html, lang):
-              pats = [
-                  rf'<a[^>]+href=["\'][^"\']*/{lang}/public/?["\'][^>]*>([^<]+)</a>',
-                  rf'<a[^>]+href=["\']/{lang}/public/["\'][^>]*>([^<]+)</a>',
-              ]
-              for pat in pats:
-                  m = re.search(pat, html, re.I)
-                  if m:
-                      return re.sub(r'\s+', ' ', m.group(1)).strip()
-              raise SystemExit(f'Cannot find Public label for {lang}')
+              mm = menu_pat.search(html)
+              if not mm:
+                  raise SystemExit(f'No menu block for {lang}')
+              menu = mm.group(2)
+              m = re.search(rf'<a[^>]+href=["\'][^"\']*/{lang}/public/?["\'][^>]*>([^<]+)</a>', menu, re.I)
+              if not m:
+                  raise SystemExit(f'Cannot find Public label in menu for {lang}')
+              return re.sub(r'\s+', ' ', m.group(1)).strip()
 
           for lang, (next_label, prev_label) in labels.items():
               base = Path(lang) / 'public' / 'thoughts'
-              p1, p2, p3 = base/'index-0001.html', base/'index-0002.html', base/'index.html'
-              for p in (p1,p2,p3):
-                  if not p.exists(): raise SystemExit(f'Missing {p}')
+              pages = {
+                  1: base/'index-0001.html',
+                  2: base/'index-0002.html',
+                  3: base/'index.html',
+              }
+              for p in pages.values():
+                  if not p.exists():
+                      raise SystemExit(f'Missing {p}')
 
-              s1, s2, s3 = p1.read_text(), p2.read_text(), p3.read_text()
-              pub1, pub3 = public_label(s1, lang), public_label(s3, lang)
-              q1 = "'" if "class='nav-row'" in s1 else '"'
-              q2 = "'" if "class='nav-row'" in s2 else '"'
-              q3 = "'" if "class='nav-row'" in s3 else '"'
+              texts = {k: p.read_text() for k,p in pages.items()}
+              pub = {k: public_label(texts[k], lang) for k in (1,2,3)}
 
-              # ARC 1: Public left, Next right.
-              if lang == 'ru':
-                  nav1 = (f'<div class={q1}nav-row{q1}>'
-                          f'<a id={q1}toPublicBottom{q1} class={q1}btn{q1} href={q1}#{q1}>← {pub1}</a>'
-                          f'<a id={q1}nextArc{q1} class={q1}btn{q1} href={q1}#{q1}>{next_label} →</a></div>')
-                  if "document.getElementById('nextArc').href=base+'ru/public/thoughts/index-0002.html'" not in s1:
-                      raise SystemExit('RU arc1 next link script unexpected')
-              elif lang in js_legacy:
-                  nav1 = (f'<div class={q1}nav-row{q1}>'
-                          f'<a class={q1}btn{q1} href={q1}/{lang}/public/{q1}>← {pub1}</a>'
-                          f'<a id={q1}prevArc{q1} class={q1}btn{q1} href={q1}#{q1}>{next_label} →</a></div>')
-                  if f"document.getElementById('prevArc').href=base+'{lang}/public/thoughts/index-0002.html'" not in s1:
-                      raise SystemExit(f'{lang} arc1 script unexpected')
-              else: # fi
-                  nav1 = (f'<div class={q1}nav-row{q1}>'
-                          f'<a class={q1}btn{q1} href={q1}/{lang}/public/{q1}>← {pub1}</a>'
-                          f'<a class={q1}btn{q1} href={q1}index-0002.html{q1}>{next_label} →</a></div>')
+              for k in (1,2,3):
+                  q = "'" if "class='nav-row'" in texts[k] else '"'
+                  if k == 1:
+                      nav = (f'<div class={q}nav-row{q}>'
+                             f'<a class={q}btn{q} href={q}/{lang}/public/{q}>← {pub[k]}</a>'
+                             f'<a class={q}btn{q} href={q}index-0002.html{q}>{next_label} →</a></div>')
+                  elif k == 2:
+                      nav = (f'<div class={q}nav-row{q}>'
+                             f'<a class={q}btn{q} href={q}index-0001.html{q}>← {prev_label}</a>'
+                             f'<a class={q}btn{q} href={q}/{lang}/public/thoughts/{q}>{next_label} →</a></div>')
+                  else:
+                      nav = (f'<div class={q}nav-row{q}>'
+                             f'<a class={q}btn{q} href={q}/{lang}/public/{q}>← {pub[k]}</a>'
+                             f'<a class={q}btn{q} href={q}index-0002.html{q}>{prev_label} →</a></div>')
 
-              # ARC 2: Previous left, Next right.
-              if lang == 'ru':
-                  nav2 = (f'<div class={q2}nav-row{q2}>'
-                          f'<a id={q2}prevArc{q2} class={q2}btn{q2} href={q2}#{q2}>← {prev_label}</a>'
-                          f'<a id={q2}nextArc{q2} class={q2}btn{q2} href={q2}#{q2}>{next_label} →</a></div>')
-                  if "document.getElementById('prevArc').href=base+'ru/public/thoughts/index-0001.html'" not in s2 or "document.getElementById('nextArc').href=base+'ru/public/thoughts/'" not in s2:
-                      raise SystemExit('RU arc2 scripts unexpected')
-              elif lang in js_legacy:
-                  # Legacy scripts route nextArc -> arc1 and prevArc -> arc3; preserve those IDs with semantic labels.
-                  nav2 = (f'<div class={q2}nav-row{q2}>'
-                          f'<a id={q2}nextArc{q2} class={q2}btn{q2} href={q2}#{q2}>← {prev_label}</a>'
-                          f'<a id={q2}prevArc{q2} class={q2}btn{q2} href={q2}#{q2}>{next_label} →</a></div>')
-                  if f"document.getElementById('nextArc').href=base+'{lang}/public/thoughts/index-0001.html'" not in s2 or f"document.getElementById('prevArc').href=base+'{lang}/public/thoughts/'" not in s2:
-                      raise SystemExit(f'{lang} arc2 scripts unexpected')
-              else:
-                  nav2 = (f'<div class={q2}nav-row{q2}>'
-                          f'<a class={q2}btn{q2} href={q2}index-0001.html{q2}>← {prev_label}</a>'
-                          f'<a class={q2}btn{q2} href={q2}/{lang}/public/thoughts/{q2}>{next_label} →</a></div>')
+                  out, n = nav_pat.subn(nav, texts[k], count=1)
+                  if n != 1:
+                      raise SystemExit(f'Nav replacement failed: {pages[k]}')
+                  # Remove only obsolete bottom-navigation JS assignments so direct hrefs cannot be overridden.
+                  out = nav_js_pat.sub('', out)
+                  pages[k].write_text(out)
 
-              # ARC 3: Public left, Previous right (the user-approved edge behavior).
-              nav3 = (f'<div class={q3}nav-row{q3}>'
-                      f'<a class={q3}btn{q3} href={q3}/{lang}/public/{q3}>← {pub3}</a>'
-                      f'<a class={q3}btn{q3} href={q3}index-0002.html{q3}>{prev_label} →</a></div>')
-
-              for p, src, nav in ((p1,s1,nav1),(p2,s2,nav2),(p3,s3,nav3)):
-                  out, n = nav_pat.subn(nav, src, count=1)
-                  if n != 1: raise SystemExit(f'Nav replacement failed: {p}')
-                  p.write_text(out)
-
-              # Visible semantic validation.
-              expected = [
-                  (p1, f'← {pub1}', f'{next_label} →'),
-                  (p2, f'← {prev_label}', f'{next_label} →'),
-                  (p3, f'← {pub3}', f'{prev_label} →'),
-              ]
-              for p, left, right in expected:
-                  m = nav_pat.search(p.read_text())
-                  if not m or left not in m.group(0) or right not in m.group(0) or m.group(0).index(left) > m.group(0).index(right):
-                      raise SystemExit(f'Visible validation failed: {p}')
-              print(f'OK {lang}: arc1 [{pub1} | {next_label}], arc2 [{prev_label} | {next_label}], arc3 [{pub3} | {prev_label}]')
+              # Strict final validation: visible labels and actual hrefs.
+              checks = {
+                  1: (f'/{lang}/public/', f'← {pub[1]}', 'index-0002.html', f'{next_label} →'),
+                  2: ('index-0001.html', f'← {prev_label}', f'/{lang}/public/thoughts/', f'{next_label} →'),
+                  3: (f'/{lang}/public/', f'← {pub[3]}', 'index-0002.html', f'{prev_label} →'),
+              }
+              for k, (left_href,left_text,right_href,right_text) in checks.items():
+                  html = pages[k].read_text()
+                  m = nav_pat.search(html)
+                  if not m:
+                      raise SystemExit(f'No final nav: {pages[k]}')
+                  nav = m.group(0)
+                  expected_left = f'href=' + ('"' if 'class="nav-row"' in nav else "'") + left_href
+                  expected_right = f'href=' + ('"' if 'class="nav-row"' in nav else "'") + right_href
+                  if left_text not in nav or right_text not in nav or expected_left not in nav or expected_right not in nav:
+                      raise SystemExit(f'Final link validation failed: {pages[k]} :: {nav}')
+                  if nav.find(left_text) > nav.find(right_text):
+                      raise SystemExit(f'Final order failed: {pages[k]}')
+                  if re.search(r'id=["\'](?:prevArc|nextArc|toPublicBottom)["\']', nav):
+                      raise SystemExit(f'Stale nav ID remains: {pages[k]}')
+              print(f'OK {lang}: 1 [Public | Next], 2 [Previous | Next], 3 [Public | Previous]')
           PY
       - name: Commit correction and remove one-time workflow
         run: |
@@ -125,5 +112,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+Ashraellen@users.noreply.github.com"
           git add ru/public/thoughts en/public/thoughts pl/public/thoughts de/public/thoughts es/public/thoughts fr/public/thoughts pt/public/thoughts uk/public/thoughts be/public/thoughts fi/public/thoughts .github/workflows/correct-thoughts-nav-semantics-once.yml
-          git commit -m "Correct thoughts navigation semantics across languages"
+          git commit -m "Correct thoughts navigation semantics across all languages"
           git push
