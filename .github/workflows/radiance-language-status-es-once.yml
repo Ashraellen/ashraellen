@@ -1,0 +1,79 @@
+name: One-time Spanish Radiance language status update
+
+on:
+  push:
+    paths:
+      - '.github/workflows/radiance-language-status-es-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update-radiance-status:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Apply approved Spanish status corrections
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          changes = {
+              'es/books/radiance/sampo/index.html': [
+                  ('La versión rusa está completa.', 'La versión de autor está terminada.'),
+                  ('Transcreación literaria en inglés completada.', 'La versión literaria en inglés se encuentra en la fase final de preparación.'),
+                  ('La versión finlandesa es posible como siguiente etapa de socio.', 'La versión literaria en finés está prevista como la siguiente etapa profesional del proyecto.'),
+              ],
+              'es/books/radiance/song/index.html': [
+                  ('La versión rusa está completa.', 'La versión de autor está terminada.'),
+                  ('La transcreación literaria inglesa está prevista como siguiente etapa.', 'La versión literaria en inglés es la siguiente etapa del trabajo.'),
+                  ('La versión finlandesa es posible como siguiente etapa de socio.', 'La versión literaria en finés está prevista como parte del desarrollo posterior del proyecto.'),
+              ],
+          }
+          for filename, replacements in changes.items():
+              path = Path(filename)
+              text = path.read_text(encoding='utf-8')
+              for old, new in replacements:
+                  count = text.count(old)
+                  if count == 0:
+                      raise SystemExit(f'Expected text not found in {filename}: {old}')
+                  text = text.replace(old, new)
+              path.write_text(text, encoding='utf-8')
+          PY
+      - name: Verify approved boundaries
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          sampo = Path('es/books/radiance/sampo/index.html').read_text(encoding='utf-8')
+          song = Path('es/books/radiance/song/index.html').read_text(encoding='utf-8')
+          required = [
+              (sampo, 'La versión de autor está terminada.'),
+              (sampo, 'La versión literaria en inglés se encuentra en la fase final de preparación.'),
+              (sampo, 'Versión polaca en preparación.'),
+              (sampo, 'La versión literaria en finés está prevista como la siguiente etapa profesional del proyecto.'),
+              (song, 'La versión de autor está terminada.'),
+              (song, 'La versión literaria en inglés es la siguiente etapa del trabajo.'),
+              (song, 'Versión polaca en preparación.'),
+              (song, 'La versión literaria en finés está prevista como parte del desarrollo posterior del proyecto.'),
+              (song, 'segundo nodo de investigación completado'),
+          ]
+          for text, needle in required:
+              if needle not in text:
+                  raise SystemExit(f'Missing required text: {needle}')
+          forbidden = [
+              'Transcreación literaria en inglés completada.',
+              'La transcreación literaria inglesa está prevista como siguiente etapa.',
+          ]
+          for text in (sampo, song):
+              for needle in forbidden:
+                  if needle in text:
+                      raise SystemExit(f'Forbidden old status remains: {needle}')
+          PY
+      - name: Commit corrected pages and remove one-time workflow
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm .github/workflows/radiance-language-status-es-once.yml
+          git add es/books/radiance/sampo/index.html es/books/radiance/song/index.html
+          git commit -m "Update Spanish Radiance language status"
+          git push
