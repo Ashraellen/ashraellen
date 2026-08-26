@@ -1,110 +1,103 @@
-name: Refine Error404 reader buttons
+name: Apply direct arc navigation correction once
 
 on:
   push:
     paths:
       - '.github/workflows/refine-error404-buttons.yml'
-  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  refine:
+  apply:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
 
-      - name: Apply elegant button styling
+      - name: Set direct named-arc navigation in all languages
         shell: bash
         run: |
-          python - <<'PY'
+          python3 - <<'PY'
           from pathlib import Path
+          import re
 
-          path = Path('focus-group/books/Error404/index.html')
-          html = path.read_text(encoding='utf-8')
+          arc_names = {
+              'ru': ('Первая дуга', 'Вторая дуга', 'Третья дуга'),
+              'en': ('First arc', 'Second arc', 'Third arc'),
+              'pl': ('Pierwszy łuk', 'Drugi łuk', 'Trzeci łuk'),
+              'de': ('Erster Bogen', 'Zweiter Bogen', 'Dritter Bogen'),
+              'es': ('Primer arco', 'Segundo arco', 'Tercer arco'),
+              'fr': ('Premier arc', 'Deuxième arc', 'Troisième arc'),
+              'pt': ('Primeiro arco', 'Segundo arco', 'Terceiro arco'),
+              'uk': ('Перша дуга', 'Друга дуга', 'Третя дуга'),
+              'be': ('Першая дуга', 'Другая дуга', 'Трэцяя дуга'),
+              'fi': ('Ensimmäinen kaari', 'Toinen kaari', 'Kolmas kaari'),
+          }
 
-          marker_start = '/* elegant-buttons:start */'
-          marker_end = '/* elegant-buttons:end */'
-          block = r'''
-/* elegant-buttons:start */
-.btn{
-  min-height:36px;
-  padding:7px 12px;
-  border-width:1px;
-  border-radius:10px;
-  background:color-mix(in srgb,var(--panel-solid) 82%,transparent);
-  font-size:14px;
-  font-weight:560;
-  letter-spacing:.01em;
-  box-shadow:0 1px 0 rgba(255,255,255,.28) inset;
-  transition:background .16s ease,border-color .16s ease,color .16s ease,box-shadow .16s ease,transform .16s ease
-}
-.btn:hover{
-  transform:none;
-  border-color:color-mix(in srgb,var(--accent) 48%,var(--line));
-  background:color-mix(in srgb,var(--accent-soft) 40%,var(--panel-solid));
-  box-shadow:0 4px 14px rgba(52,42,30,.07)
-}
-.btn:active{transform:translateY(1px);box-shadow:none}
-.btn:focus-visible{outline:2px solid color-mix(in srgb,var(--accent) 58%,transparent);outline-offset:2px}
-.btn.primary{
-  background:var(--accent);
-  border-color:var(--accent);
-  color:#fff;
-  font-weight:600;
-  box-shadow:0 3px 10px rgba(122,57,43,.16)
-}
-.btn.primary:hover{
-  background:color-mix(in srgb,var(--accent) 88%,#fff);
-  border-color:color-mix(in srgb,var(--accent) 88%,#fff);
-  box-shadow:0 5px 14px rgba(122,57,43,.20)
-}
-.btn.small{
-  min-height:32px;
-  padding:5px 9px;
-  border-radius:9px;
-  font-size:13px
-}
-.btn.ghost{background:transparent;box-shadow:none}
-.done-label{
-  min-height:32px;
-  padding:5px 9px;
-  border-radius:9px;
-  font-size:13px;
-  font-weight:560;
-  background:color-mix(in srgb,var(--panel-solid) 72%,transparent)
-}
-.done-label input{width:16px;height:16px}
-/* elegant-buttons:end */
-'''
+          nav_pat = re.compile(r'<div class=(["\'])nav-row\1>.*?</div>', re.S)
+          menu_pat = re.compile(r'<div class=(["\'])menu\1>(.*?)</div>', re.S | re.I)
 
-          if marker_start in html and marker_end in html:
-              before = html.split(marker_start, 1)[0]
-              after = html.split(marker_end, 1)[1]
-              html = before + block + after
-          else:
-              html = html.replace('</style>', block + '\n</style>', 1)
+          def public_label(html, lang):
+              mm = menu_pat.search(html)
+              if not mm:
+                  raise SystemExit(f'No menu block for {lang}')
+              menu = mm.group(2)
+              m = re.search(rf'<a[^>]+href=["\'][^"\']*/{lang}/public/?["\'][^>]*>([^<]+)</a>', menu, re.I)
+              if not m:
+                  raise SystemExit(f'Cannot find Public label for {lang}')
+              return re.sub(r'\s+', ' ', m.group(1)).strip()
 
-          path.write_text(html, encoding='utf-8')
+          for lang, (arc1, arc2, arc3) in arc_names.items():
+              base = Path(lang) / 'public' / 'thoughts'
+              pages = {
+                  1: base / 'index-0001.html',
+                  2: base / 'index-0002.html',
+                  3: base / 'index.html',
+              }
+              texts = {k: p.read_text() for k, p in pages.items()}
+              pubs = {k: public_label(texts[k], lang) for k in (1,2,3)}
+
+              desired = {
+                  1: (f'/{lang}/public/thoughts/index-0002.html', f'← {arc2}', f'/{lang}/public/', f'{pubs[1]} →'),
+                  2: (f'/{lang}/public/thoughts/', f'← {arc3}', f'/{lang}/public/thoughts/index-0001.html', f'{arc1} →'),
+                  3: (f'/{lang}/public/', f'← {pubs[3]}', f'/{lang}/public/thoughts/index-0002.html', f'{arc2} →'),
+              }
+
+              for k, p in pages.items():
+                  html = texts[k]
+                  q = "'" if "class='nav-row'" in html else '"'
+                  left_href, left_text, right_href, right_text = desired[k]
+                  nav = (
+                      f'<div class={q}nav-row{q}>'
+                      f'<a class={q}btn{q} href={q}{left_href}{q}>{left_text}</a>'
+                      f'<a class={q}btn{q} href={q}{right_href}{q}>{right_text}</a>'
+                      f'</div>'
+                  )
+                  out, n = nav_pat.subn(nav, html, count=1)
+                  if n != 1:
+                      raise SystemExit(f'Nav replacement failed: {p}')
+                  p.write_text(out)
+
+              for k, p in pages.items():
+                  nav = nav_pat.search(p.read_text()).group(0)
+                  left_href, left_text, right_href, right_text = desired[k]
+                  assert left_text in nav and right_text in nav, (p, nav)
+                  assert (f'href="{left_href}"' in nav or f"href='{left_href}'" in nav), (p, nav)
+                  assert (f'href="{right_href}"' in nav or f"href='{right_href}'" in nav), (p, nav)
+                  assert nav.index(left_text) < nav.index(right_text), (p, nav)
+
+              print(f'OK {lang}: arc3 [Public | {arc2}], arc2 [{arc3} | {arc1}], arc1 [{arc2} | Public]')
           PY
 
-      - name: Bump service worker cache
+      - name: Restore workflow, remove temporary workflow and commit
         shell: bash
         run: |
-          python - <<'PY'
-          from pathlib import Path
-          path = Path('focus-group/books/Error404/sw.js')
-          text = path.read_text(encoding='utf-8')
-          text = text.replace("const CACHE='error404-reader-v1';", "const CACHE='error404-reader-v2';")
-          path.write_text(text, encoding='utf-8')
-          PY
-
-      - name: Commit refined buttons
-        shell: bash
-        run: |
+          git checkout HEAD^ -- .github/workflows/refine-error404-buttons.yml
+          rm -f .github/workflows/set-thoughts-direct-arc-navigation-once.yml
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add focus-group/books/Error404/index.html focus-group/books/Error404/sw.js
-          git commit -m "Refine Error404 reader button styling" || exit 0
+          git add ru/public/thoughts en/public/thoughts pl/public/thoughts de/public/thoughts es/public/thoughts fr/public/thoughts pt/public/thoughts uk/public/thoughts be/public/thoughts fi/public/thoughts .github/workflows/refine-error404-buttons.yml .github/workflows/set-thoughts-direct-arc-navigation-once.yml
+          git commit -m "Set direct named arc navigation across languages"
           git push
