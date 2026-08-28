@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-28T19:13:09.772Z",
+  "generated": "2026-08-28T19:20:42.072Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -23630,30 +23630,32 @@
         "essay",
         "cycles"
       ],
-      "excerpt": "Miniesseiden syklit Valmiit miniesseiden syklit kootaan tänne. Nykyinen sykli elää osion pääsivulla. Valmiit syklit nykyiseen sykliin Ensimmäinen sykli Ensimmäinen miniesseiden sykli: huomio, keho ja menneisyys. sykli Nykyinen sykli — mark of presence",
+      "excerpt": "Miniesseiden syklit Valmiit miniesseiden syklit kootaan tänne. Jokainen sykli sisältää enintään yhdeksän näkökulmaa samaan merkityskokonaisuuteen. Nykyinen sykli elää osion pääsivulla. Valmiit syklit nykyiseen sykliin Ensimmäinen sykli Osion ensimmäiset miniesseet: huomio, keho ja menneisyys. Kokonaisuus toimii tällä hetkellä esimerkkinä tulevasta valmiista syklistä. sykli Nykyinen sykli — mark of presence",
       "candidates": [
-        "miniesseiden",
         "sykli",
+        "miniesseiden",
         "syklit",
         "nykyinen",
         "valmiit",
-        "ensimmäinen",
+        "osion",
         "ashraellen",
         "ashraellenin",
         "elää",
+        "enintään",
+        "ensimmäinen",
+        "ensimmäiset",
+        "esimerkkinä",
+        "hetkellä",
         "huomio",
+        "jokainen",
         "keho",
+        "kokonaisuus",
         "kootaan",
         "löytyy",
         "mark",
         "menneisyys",
-        "nykyiseen",
-        "osion",
-        "pääsivulla",
-        "pääsivulta",
-        "presence",
-        "sykliin",
-        "tänne"
+        "merkityskokonaisuuteen",
+        "miniesseet"
       ],
       "suggestedKeywordSeed": [
         "miniesseiden",
@@ -23666,12 +23668,12 @@
         "sykli",
         "cycles",
         "elää",
+        "enintään",
         "ensimmäinen",
+        "ensimmäiset",
         "essay",
-        "huomio",
-        "keho",
-        "kootaan",
         "löytyy",
+        "osion",
         "pääsivulta",
         "posts"
       ]
