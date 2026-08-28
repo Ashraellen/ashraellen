@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-28T19:20:42.072Z",
+  "generated": "2026-08-28T19:31:56.228Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -23771,7 +23771,7 @@
         "posts",
         "formula"
       ],
-      "excerpt": "Kaavat Ajatuksen lyhyt muoto: yksi rivi, yksi puhdas osuma. Polku, teko, rytmi Kaava Polku ei ala varmuudesta vaan suostumisesta ensimmäiseen rehelliseen askeleeseen. polku / teko / rytmi Kaava Teko ilman sisäistä tukea muuttuu pian levottomaksi touhuamiseksi. polku / teko / rytmi Kaava Kärsivällisyys ei ole ihmeen odottamista. Se on kieltäytymistä rikkomasta sitä, mikä ei ole vielä kypsä. polku / teko / rytmi Kaava Kun kuljet omaa polkuasi, muiden kartat jäävät vain hakuteoksiksi. polku / teko / rytmi Kaava Voima ei aina liiku eteenpäin. Joskus se estää sinua ottamasta tarpeetonta askelta. polku / teko / rytmi Kaava Aika ei paranna sitä, jonka avaat yhä uudelleen joka päivä. polku / teko / rytmi Kaava Kaikki pysähtyminen ei ole heikkoutta. Joskus se on tapa olla pettämättä suuntaa. polku / teko / rytmi Kaava Päätös kypsyy ennen kuin ihminen löytää sille sanat. polku / teko / rytmi Kaava",
+      "excerpt": "Kaavat Ajatuksen lyhyt muoto: yksi rivi, yksi puhdas osuma. Polku, teko, rytmi Kaava Polku ei ala varmuudesta vaan suostumisesta ottamaan ensimmäinen rehellinen askel. polku / teko / rytmi Kaava Teko ilman sisäistä tukea muuttuu pian levottomaksi touhuamiseksi. polku / teko / rytmi Kaava Kärsivällisyys ei ole ihmeen odottamista. Se on kieltäytymistä rikkomasta sitä, mikä ei ole vielä kypsä. polku / teko / rytmi Kaava Kun kuljet omaa polkuasi, muiden kartat jäävät vain hakuteoksiksi. polku / teko / rytmi Kaava Voima ei aina työnnä eteenpäin. Joskus se pidättää sinua ottamasta tarpeetonta askelta. polku / teko / rytmi Kaava Aika ei paranna sitä, minkä avaat yhä uudelleen joka päivä. polku / teko / rytmi Kaava Kaikki pysähtyminen ei ole heikkoutta. Joskus se on tapa olla pettämättä suuntaa. polku / teko / rytmi Kaava Päätös kypsyy ennen kuin ihminen löytää sille sanat. polku / teko / rytmi ",
       "candidates": [
         "polku",
         "teko",
@@ -23780,6 +23780,7 @@
         "joskus",
         "ole",
         "aina",
+        "kun",
         "mikä",
         "sitä",
         "vaan",
@@ -23790,13 +23791,12 @@
         "ala",
         "ashraellen",
         "ashraellenin",
-        "askeleeseen",
+        "askel",
         "askelta",
         "avaat",
         "ehkä",
         "ennen",
-        "ensimmäiseen",
-        "estää"
+        "ensimmäinen"
       ],
       "suggestedKeywordSeed": [
         "polku",
@@ -23804,7 +23804,6 @@
         "teko",
         "ashraellen",
         "public",
-        "aika",
         "aina",
         "ajatuksia",
         "ashraellenin",
@@ -23814,6 +23813,7 @@
         "kaava",
         "kaavalinja",
         "kaavat",
+        "kun",
         "liike",
         "lyhyitä",
         "mikä"
@@ -23841,32 +23841,32 @@
         "formula",
         "lines"
       ],
-      "excerpt": "Rajat, mitta, muoto Kolmas kaavalinja. Linjan kaavat Nykyinen linja Kaava Raja ilmestyy, kun ihminen lakkaa selittämästä oikeuttaan olla olemassa. raja / mitta / muoto Kaava Toisen mielipiteestä tulee valtaa vasta, kun annat sille suostumuksesi sisällä. raja / mitta / muoto Kaava Sopu itsensä kanssa on hiljaisempi kuin tarve todistaa kaikki. raja / mitta / muoto Kaava Kaikki avoimuus ei ole läheisyyttä. Joskus se on vain oven puuttumista. raja / mitta / muoto Kaava Se, mitä on puolustettava loputtomasti, ei ole vielä täysin tullut omaksesi. raja / mitta / muoto Kaava Kypsyys alkaa, kun lakkaat riitelemästä oman mittasi kanssa. raja / mitta / muoto Kaava Muotosi ei tarvitse lupaa toisen maulta. raja / mitta / muoto Kaava Yksinkertaisuuden pelko piiloutuu usein monimutkaisuuden taakse. raja / mitta / muoto Kaava Raja ei vie sinua pois ihmisistä. Se palauttaa sinut itseesi. raja / mitta / m",
+      "excerpt": "Rajat, mitta, muoto Kolmas kaavalinja. Linjan kaavat Nykyinen linja Kaava Raja ilmestyy, kun ihminen lakkaa selittämästä oikeuttaan olla. raja / mitta / muoto Kaava Toisen mielipiteestä tulee valtaa vasta, kun annat sille suostumuksesi sisällä. raja / mitta / muoto Kaava Sopu itsensä kanssa on hiljaisempi kuin tarve todistaa kaikille. raja / mitta / muoto Kaava Kaikki avoimuus ei ole läheisyyttä. Joskus se on vain oven puuttumista. raja / mitta / muoto Kaava Se, mitä on puolustettava jatkuvasti, ei ole vielä muuttunut sisäiseksi. raja / mitta / muoto Kaava Kypsyys alkaa, kun lakkaat riitelemästä oman mittasi kanssa. raja / mitta / muoto Kaava Oma muotosi ei pyydä lupaa toisten maulta. raja / mitta / muoto Kaava Yksinkertaisuuden pelko piiloutuu usein monimutkaisuuden taakse. raja / mitta / muoto Kaava Raja ei vie sinua pois ihmisistä. Se palauttaa sinut itseesi. raja / mitta / muoto Kaav",
       "candidates": [
-        "muoto",
         "mitta",
+        "muoto",
         "raja",
         "kaava",
         "kun",
-        "kaikki",
         "linja",
         "ole",
-        "toisen",
         "alkaa",
         "ihmisen",
+        "ilman",
         "joskus",
         "kaavalinja",
+        "kaikki",
         "kanssa",
         "kieltäytyminen",
         "kolmas",
         "lakkaa",
         "mittaa",
         "nykyinen",
-        "omaksesi",
+        "oma",
         "palauttaa",
+        "pyydä",
         "rajat",
-        "tarvitse",
-        "tullut"
+        "toisen"
       ],
       "suggestedKeywordSeed": [
         "mitta",
@@ -23874,16 +23874,16 @@
         "alkaa",
         "ashraellen",
         "ihmisen",
+        "kaavalinja",
         "public",
         "rajat",
         "ashraellenin",
         "formula",
+        "ilman",
         "itseensä",
         "joskus",
         "kaava",
-        "kaavalinja",
         "kaavat",
-        "kaikki",
         "kieltäytyminen",
         "kolmas",
         "kun"
