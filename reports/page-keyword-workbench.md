@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-28T09:58:54.672Z
+Generated: 2026-08-28T11:41:14.563Z
 Pages: 854
 
 ## Index
@@ -314,7 +314,7 @@ Pages: 854
 | fi/books/samizdat/order/index.html | fi | books | Pyydä samizdat 2.0 -tekijäkappale — Ashraellen | Ashraellen, samizdat 2.0, tekijäkappale, kirjatilaus, Demotopia, kirjapyyntö | pyydä, 2.0, kappale, samizdat, tekijäkappale, allekirjoitettu, ashraellen, books, henkilökohtaisesti, hinta, toimitus, ashraellenin, ennen, hinnan, järjestämiseen, kappaleen, kielellä, maksu |
 | fi/books/samizdat/order/received/index.html | fi | books | Pyyntö vastaanotettu — samizdat 2.0 — Ashraellen | Ashraellen, samizdat 2.0, kirjapyyntö, tekijäkappale, pyyntö vastaanotettu | samizdat, 2.0, ashraellen, vastaanotettu, books, ennen, pyyntö, valmistusta, aan, antamaasi, eikä, erillistä, hinnan, hinta, kiitos, kirjapyyntö, order, received |
 | fi/books/seccus/index.html | fi | books | Ashraellen — SECCUSIN PYHÄ KIRJA | Ashraellen, SECCUS, SECCUSIN PYHÄ KIRJA, Rehellisyyden polku, filosofinen satiiri, raha, menestys, itsepetos, tieto alibina, vastuu, Sacrunomicon, Ordo Sacrunomiconis, tetrakirja | kirja, pyhä, seccusin, ashraellen, books, rehellisyyden, sivu, ääni, alibina, filosofinen, ihminen, ilman, itsepetoksesta, joka, juonipaljastuksia, kehys, kenelle, kirjallis-filosofinen |
-| fi/books/the-book-of-whinesis/index.html | fi | books | Ashraellen — The Book of Whinesis | Ashraellen, The Book of Whinesis, satiiri, Church of Saint Whine, uupumus, tuottavuuskultti | book, whinesis, ashraellen, books, jotka, satiiri, ääniraitoja, ensimmäiset, että, herra, katkelma, kirjasta, kulttiin, kun, loputtomaan, luvut, menestyksen, niille |
+| fi/books/the-book-of-whinesis/index.html | fi | books | Ashraellen — The Book of Whinesis | Ashraellen, The Book of Whinesis, satiiri, Church of Saint Whine, uupumus, tuottavuuskultti | book, whinesis, ashraellen, books, jotka, ensimmäiset, hän, herra, joka, katkelma, kirjasta, kulttiin, loputtomaan, luku, luvut, menestyksen, minä, niille |
 | fi/books/you-are-already-online/index.html | fi | books | Ashraellen — Olet jo verkossa | _missing_ | olet, verkossa, ashraellen, books, luku, 03.17, algoritmeista, already, audioromaani, digitaalisesta, ennen, ensimmäinen, hän, hypertodellisuudesta, immersiivinen, katkelma, kirjasta, kyberpunk-draama |
 | fi/contact.html | fi | contact.html | Yhteys — Ashraellen | ashraellen, yhteys, yhteistyö, julkaiseminen, apurahat, media, projektit | ashraellen, yhteys, apurahoja, ashraellenin, julkaisemista, mediaa, projekteja, varten, yhteistyötä, aineistot, contact, contact.html, julkiset, koskevia, telegram-yhteys, yhteydenottoja, yhteystiedot |
 | fi/index.html | fi | index.html | Ashraellen — Kirjat, tutkimus ja julkiset tekstit | _missing_ | ashraellen, ääntä, itsenäinen, kirjallis-filosofinen, kirjat, monikielinen, taiteellinen, tutkimus, tutkimuskäytäntö, äänen, ammatillinen, autonomiaa, index.html, julkiset, julkisia, kirjoja, satiiria, tekstejä |
@@ -6091,14 +6091,14 @@ Excerpt:
 - description: The Book of Whinesis — pyhä satiiri niille, jotka ovat väsyneet positiivisiin viboihin, loputtomaan tuottavuuteen ja menestyksen kulttiin.
 - canonical: https://www.ashraellen.com/fi/books/the-book-of-whinesis/
 - H1: The Book of Whinesis
-- H2: Kirjasta | Ensimmäiset luvut | Katkelma | Versio
+- H2: Kirjasta | Ensimmäiset luvut | Katkelma | Tila
 - H3: _missing_
-- suggested keyword seed: book, whinesis, ashraellen, books, jotka, satiiri, ääniraitoja, ensimmäiset, että, herra, katkelma, kirjasta, kulttiin, kun, loputtomaan, luvut, menestyksen, niille
-- candidates: että, oli, book, herra, jotka, siitä, whinesis, kun, sanoi, satiiri, vielä, ääniraitoja, alennuskäärme, asetuksista, avaa, chapter, ettette, joka, kieli, makkara, moania, monikielisiä, niille, ole
+- suggested keyword seed: book, whinesis, ashraellen, books, jotka, ensimmäiset, hän, herra, joka, katkelma, kirjasta, kulttiin, loputtomaan, luku, luvut, menestyksen, minä, niille
+- candidates: sanoi, sinun, valituksen, herra, oli, hän, sillä, pitää, joka, jotka, minä, luku, moania, ole, siitä, book, että, gnorna, hänen, moanialle, sinä, sitä, takaisin, tämä
 
 Excerpt:
 
-> The Book of Whinesis Pyhä satiiri niille, jotka ovat jo hieman allergisia “positiiviselle energialle”, loputtomalle tuottavuudelle ja ajatukselle, että universumi lähettää laskun vain siksi, että manifestoit väärin. Kirjasta sisäänkäynti valituksen kaanoniin The Book of Whinesis on pseudoraamatullinen satiiri digiajan ihmisestä: väsyneestä, verkottuneesta, ärtyneestä ja ikuisesti odottamassa alennusta, toimitusta, merkkiä, vastausta ja merkitystä. Täällä ironia toimii lääkkeenä ja uupumus ilmestyksenä. Valittaminen ei ole heikkoutta. Se on rukous — tosin usein sellainen, jonka vastaanottajaksi on merkitty asiakaspalvelu. Tämä ei ole uskon parodia. Se on parodia meidän mukavuuden, ruudun, ilmoitusten ja oman tyytymättömyytemme kultistamme. Wi-Fi muuttuu kohtaloksi, sohva alttariksi, lataus ikuisuudeksi ja valitus ensimmäiseksi kieleksi ihmiselle, joka ei vielä huomannut etsivänsä lepoa. S
+> The Book of Whinesis Pyhä satiiri niille, jotka ovat väsyneet ”positiivisiin viboihin”, loputtomaan tuottavuuteen ja menestyksen kulttiin. Kirjasta sisäänkäynti kaanoniin The Book of Whinesis on pseudoraamatullinen satiiri digiajan ihmisestä: väsyneestä, verkkoon kytketystä, ärtyneestä ja ikuisesti alennusta, toimitusta, signaalia, vastausta ja merkitystä odottavasta. Täällä ironiasta tulee lääkettä ja loppuunpalamisesta ilmestys. Täällä valittaminen ei ole heikkoutta. Se on rukous. Tämä ei ole uskon parodia. Tämä on parodia meidän nykyajan tavastamme palvoa mukavuutta, näyttöjä, ilmoituksia ja omaa tyytymättömyyttämme. Täällä Wi-Fi muuttuu kohtaloksi, sohva alttariksi, puskurointi ikuisuudeksi ja valitus sellaisen ihmisen ensimmäiseksi kieleksi, joka ei vielä ole ymmärtänyt etsivänsä lepoa. Se on hauskaa, kunnes tunnistat itsesi. Ja kun tunnistat, siitä tulee vielä hauskempaa. Ensimmäis
 
 ### fi/books/you-are-already-online/index.html
 
