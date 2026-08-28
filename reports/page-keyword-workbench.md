@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-28T11:41:14.563Z
+Generated: 2026-08-28T19:13:09.785Z
 Pages: 854
 
 ## Index
@@ -324,7 +324,7 @@ Pages: 854
 | fi/public/index.html | fi | public | Ashraellen — Julkinen | Ashraellen, julkinen kenttä, puheet, julkaisut, tukiajatukset, tutkimus, havainnot | julkinen, ashraellen, ashraellenin, missä, public, ajatus, avaa, elävän, hän, havaintoja, hinta, ihminen, ihmisen, julkaisuja, julkaisut, kansa, kenttä, kohtaa |
 | fi/public/posts/essay/cycles/cycle-0001.html | fi | public | Ashraellen — Ensimmäinen miniesseesykli | Ashraellen, miniessee, huomio, keho, menneisyys, tietoisuus | ensimmäinen, ashraellen, keho, menneisyys, miniesseesykli, public, sykli, vaan, ajatukseen, älä, alkaa, ashraellenin, cycle, cycles, elää, essay, harjoitukseksi, huomio |
 | fi/public/posts/essay/cycles/index.html | fi | public | Ashraellen — Miniesseiden syklit | Ashraellen, miniesseet, syklit, huomio, keho, menneisyys | miniesseiden, syklit, ashraellen, valmiit, ashraellenin, nykyinen, public, sykli, cycles, elää, ensimmäinen, essay, huomio, keho, kootaan, löytyy, pääsivulta, posts |
-| fi/public/posts/essay/index.html | fi | public | Ashraellen — Miniesseet | Ashraellen, miniesseet, huomio, keho, menneisyys, tietoisuus | ensimmäinen, miniesseet, ashraellen, keho, menneisyys, public, vaan, yksi, ajatukseen, älä, alkaa, ashraellenin, elää, essay, huomioon, johtopäätökseen, joissa, katselukulmaan |
+| fi/public/posts/essay/index.html | fi | public | Ashraellen — Miniesseet | Ashraellen, miniesseet, huomio, keho, menneisyys, tietoisuus | ensimmäinen, miniesseet, ashraellen, keho, public, vaan, ajatuksiin, ajatus, alkaa, ashraellenin, essay, hän, huomioon, ihminen, johtopäätökseen, joissa, katselukulmaan, kirkkaaseen |
 | fi/public/posts/formula/index.html | fi | public | Ashraellen — Polku, teko, rytmi | Ashraellen, kaavat, polku, teko, rytmi, linja 0004 | polku, rytmi, teko, ashraellen, public, aika, aina, ajatuksia, ashraellenin, formula, joissa, joskus, kaava, kaavalinja, kaavat, liike, lyhyitä, mikä |
 | fi/public/posts/formula/lines/index.html | fi | public | Ashraellen — Rajat, mitta, muoto | Ashraellen, kaavat, rajat, mitta, muoto | mitta, muoto, alkaa, ashraellen, ihmisen, public, rajat, ashraellenin, formula, itseensä, joskus, kaava, kaavalinja, kaavat, kaikki, kieltäytyminen, kolmas, kun |
 | fi/public/posts/formula/lines/line-0001.html | fi | public | Ashraellen — Ajatus, huomio, keho, menneisyys | Ashraellen, kaavat, ajatus, huomio, keho, menneisyys | ajatus, huomio, keho, menneisyys, arkistoitu, ashraellen, ensimmäinen, public, ajatusta, ashraellenin, edelleen, formula, kaava, kaavalinja, kaavat, line, lines, linja |
@@ -6261,14 +6261,14 @@ Excerpt:
 - description: Ashraellenin miniesseet: pieniä tutkimuksia, joissa yksi kysymys viedään yhteen katselukulmaan ja mahdollisimman kirkkaaseen johtopäätökseen.
 - canonical: https://www.ashraellen.com/fi/public/posts/essay/
 - H1: Miniesseet
-- H2: Ensimmäinen sykli | Valta ei ajatukseen vaan huomioon | Keho on ensimmäinen ovi, ei päämäärä | Menneisyys on sen tulkinta
+- H2: Ensimmäinen sykli | Valta ei ajatuksiin vaan huomioon | Keho on ensimmäinen ovi, ei päämäärä | Menneisyys on sen tulkinta
 - H3: _missing_
-- suggested keyword seed: ensimmäinen, miniesseet, ashraellen, keho, menneisyys, public, vaan, yksi, ajatukseen, älä, alkaa, ashraellenin, elää, essay, huomioon, johtopäätökseen, joissa, katselukulmaan
-- candidates: keho, voi, ensimmäinen, siitä, vaan, yksi, elää, menneisyys, mutta, syntyy, älä, alkaa, ihminen, lue, miniessee, miniesseet, mitä, ole, olla, ovi, sen, sitä, tietoisuus, vain
+- suggested keyword seed: ensimmäinen, miniesseet, ashraellen, keho, public, vaan, ajatuksiin, ajatus, alkaa, ashraellenin, essay, hän, huomioon, ihminen, johtopäätökseen, joissa, katselukulmaan, kirkkaaseen
+- candidates: mutta, ihminen, olla, hän, keho, siitä, vaan, voi, ajatus, alkaa, ensimmäinen, näyttää, ole, sen, uuden, yksi, että, juuri, näin, siksi, tai, tulee, ajatuksen, ala
 
 Excerpt:
 
-> Miniesseet Pieni tutkimus: yksi kysymys, yksi katselukulma, yksi johtopäätös. Ei luentoposeerausta eikä teatteria — vain mekanismi riittävän näkyväksi tehtynä. Ensimmäinen sykli valmiisiin sykleihin Miniessee Valta ei ajatukseen vaan huomioon Ajatus syntyy itsestään. Vapaus ei ala ajatusten kieltämisestä vaan siitä, ettei jokaisesta sisäisestä liikkeestä tarvitse tulla minä. tietoisuus / huomio / havaitsija Olemme tottuneet ajattelemaan, että kypsyys tarkoittaa itsensä hallitsemista: älä suutu, älä ahdistu, älä ajattele “vääriä” ajatuksia. Ensimmäinen virhe alkaa juuri tästä. Ihminen ei valitse seuraavaa ajatustaan samalla tavalla kuin ravintolan annosta. Ahdistus, viha ja epäily nousevat muistista, kehosta, tottumuksesta, pelosta ja ympäristön ärsykkeistä. Emme ole jokaisen sisäisen tapahtuman tekijöitä. Olemme pikemminkin niiden ensimmäisiä todistajia. Ongelma ei ala ahdistuksen ilmest
+> Miniesseet Pieni tutkimus: yksi kysymys, yksi katselukulma, yksi johtopäätös. Ei luentoposeerausta eikä teatteria — vain mekanismi riittävän näkyväksi tehtynä. Ensimmäinen sykli valmiisiin sykleihin Miniessee Valta ei ajatuksiin vaan huomioon Ajatus syntyy itsestään. Vapaus ei ala ajatuksen kieltämisestä vaan siitä, ettei muutu jokaiseksi mieleen nousevaksi liikkeeksi. tietoisuus / huomio / havaitsija Olemme tottuneet ajattelemaan, että kypsyys on kykyä pitää itsensä kurissa. Olla suuttumatta. Olla ahdistumatta. Olla ajattelematta ”pahoja” ajatuksia. Mutta juuri tästä alkaa ensimmäinen virhe. Ihminen ei valitse, mikä ajatus seuraavassa hetkessä ilmestyy. Hän ei tilaa ahdistusta, vihaa tai epäilystä niin kuin annosta ravintolassa. Sisäiset tapahtumat syntyvät itsestään: muistista, kehosta, tottumuksesta, pelosta, reaktiosta ulkomaailmaan. Emme ole jokaisen sisäisen liikkeen tekijöitä. Ole
 
 ### fi/public/posts/formula/index.html
 
