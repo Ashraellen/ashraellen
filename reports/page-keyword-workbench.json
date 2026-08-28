@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-28T09:35:37.073Z",
+  "generated": "2026-08-28T09:58:54.657Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -22860,56 +22860,62 @@
       "section": "books",
       "title": "Ashraellen — SECCUSIN PYHÄ KIRJA",
       "description": "SECCUSIN PYHÄ KIRJA — Rehellisyyden polku on filosofinen satiiri rahasta, menestyksestä, itsepetoksesta, tiedosta alibina ja vastuusta omasta valinnasta.",
-      "existingKeywords": "Ashraellen, SECCUS, SECCUSIN PYHÄ KIRJA, Rehellisyyden polku, filosofia, itsepetos, vastuu",
+      "existingKeywords": "Ashraellen, SECCUS, SECCUSIN PYHÄ KIRJA, Rehellisyyden polku, filosofinen satiiri, raha, menestys, itsepetos, tieto alibina, vastuu, Sacrunomicon, Ordo Sacrunomiconis, tetrakirja",
       "canonical": "https://www.ashraellen.com/fi/books/seccus/",
       "h1": [
         "SECCUSIN PYHÄ KIRJA"
       ],
       "h2": [
         "Valittu sivu",
-        "Mistä kirjassa on kyse",
-        "Neljä sisäänkäyntiä",
+        "Kirjasta",
+        "Ilman juonipaljastuksia",
+        "Kirjallis-filosofinen kehys",
         "Kirjan ääni",
-        "Versio"
+        "Teemat",
+        "Kenelle",
+        "Tetrakirja ja teoskokonaisuus"
       ],
       "h3": [
         "Sivu 71 — Varjon energialähde",
         "Menestys nurinpäin",
         "Raha peilinä",
         "Tieto alibina",
-        "Suora puhuttelu"
+        "Suora puhuttelu",
+        "Sivu III — Nollapiste",
+        "Menestys",
+        "Raha"
       ],
       "slugTerms": [
         "fi",
         "books",
         "seccus"
       ],
-      "excerpt": "SACRUNOMICON — MENESTYKSEN NURINPÄIN KÄÄNNETTY TETRAKIRJA SECCUSIN PYHÄ KIRJA Rehellisyyden polku Kirja rahasta ja menestyksestä, joka kääntää tutun kysymyksen ympäri. Ei “miten saan mitä haluan?”, vaan mitä ihminen oikeastaan yrittää ostaa samalla, kun hän tavoittelee vapautta, tunnustusta ja oikeutta kutsua itseään onnistuneeksi. Raha on vain tekosyy. Varsinainen tutkimuskohde on ihminen, joka sitä haluaa. Englanninkielinen kansi. Ashraellen. Valittu sivu Käärö IV — Muurien kaatuminen Sivu motiivista, joka piiloutuu oikeiden sanojen — vapauden, auttamisen, hyödyn ja tarkoituksen — taakse. Avaa sivu Sulje sivu Sivu 71 — Varjon energialähde Lähestymme motivaation syvintä kerrosta — sitä, jota olet kiertänyt siisteillä sanoilla ja kunniallisilla tavoitteilla. Olet sanonut haluavasi rahaa vapauden vuoksi, läheistesi auttamiseksi, maailman palvelemiseksi. Mutta sileän pinnan alla voi käydä ",
+      "excerpt": "SACRUNOMICON — MENESTYKSEN NURINPÄIN KÄÄNNETTY TETRAKIRJA SECCUSIN PYHÄ KIRJA Rehellisyyden polku Kirja rahasta ja menestyksestä, joka kääntää tutun kysymyksen toisin päin. Ei ”miten saan haluamani”, vaan mitä ihminen oikeastaan toivoo ostavansa vapauden, tunnustuksen ja sen oikeuden mukana, että voi pitää itseään menestyneenä. Raha on vain tekosyy. Kirjan todellinen aihe on ihminen, joka sitä haluaa. Englanninkielinen kansi. Sacrunomicon. Valittu sivu Käärö IV: Muurien kaatuminen Sivu motiivista, joka piiloutuu vapaudesta, auttamisesta, hyödystä ja tarkoituksesta lausuttujen oikeiden sanojen taakse. Avaa sivu Sulje sivu Sivu 71 — Varjon energialähde Lähestymme motivaatiosi syvintä kerrosta — sitä, jonka olet huolellisesti kiertänyt suojautumalla kauniiden sanojen ja jalojen tavoitteiden taakse. Olet sanonut itsellesi haluavasi rahaa vapauden vuoksi, läheistesi auttamiseksi ja maailman p",
       "candidates": [
-        "sivu",
         "kirja",
-        "mitä",
-        "polku",
-        "rehellisyyden",
-        "avaa",
+        "sivu",
         "ihminen",
         "joka",
-        "menestyksestä",
-        "pyhä",
-        "raha",
-        "seccusin",
         "sen",
         "vaan",
-        "vapauden",
-        "voit",
-        "alibina",
-        "alkaa",
-        "ashraellen",
-        "englanninkielinen",
-        "hinta",
-        "jota",
-        "kansi",
-        "kostoa"
+        "kuinka",
+        "mutta",
+        "mitä",
+        "oman",
+        "rehellisyyden",
+        "voi",
+        "että",
+        "ilman",
+        "miksi",
+        "ole",
+        "olet",
+        "pääkirja",
+        "polku",
+        "raha",
+        "seccus",
+        "seccusin",
+        "sijasta",
+        "taakse"
       ],
       "suggestedKeywordSeed": [
         "kirja",
@@ -22917,19 +22923,19 @@
         "seccusin",
         "ashraellen",
         "books",
-        "menestyksestä",
-        "polku",
         "rehellisyyden",
         "sivu",
         "ääni",
         "alibina",
-        "avaa",
         "filosofinen",
         "ihminen",
+        "ilman",
         "itsepetoksesta",
         "joka",
-        "kirjan",
-        "kirjassa"
+        "juonipaljastuksia",
+        "kehys",
+        "kenelle",
+        "kirjallis-filosofinen"
       ]
     },
     {
