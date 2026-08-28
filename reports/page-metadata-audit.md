@@ -1,12 +1,12 @@
 # Page Metadata Audit
 
-Generated: 2026-08-26T17:17:07.906Z
+Generated: 2026-08-28T09:22:53.143Z
 
 Pages checked: 853
 Pages with issues: 361
 Total issues: 1785
-Pages with review notes: 652
-Total review notes: 2314
+Pages with review notes: 651
+Total review notes: 2312
 
 ## Issue summary
 
@@ -35,8 +35,8 @@ Total review notes: 2314
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 652 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 632 |
+| DUPLICATE_OG_IMAGE_REVIEW | 651 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 631 |
 | FALLBACK_OG_IMAGE_USED | 525 |
 | FALLBACK_TWITTER_IMAGE_USED | 505 |
 
@@ -5086,8 +5086,8 @@ Total review notes: 2314
 - og:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### be/books/error-404-god-not-found/index.html
 
@@ -5782,8 +5782,8 @@ Total review notes: 2314
 - og:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### de/books/error-404-god-not-found/index.html
 
@@ -6478,8 +6478,8 @@ Total review notes: 2314
 - og:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### en/books/error-404-god-not-found/index.html
 
@@ -7211,8 +7211,8 @@ Total review notes: 2314
 - og:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### es/books/error-404-god-not-found/index.html
 
@@ -7903,12 +7903,12 @@ Total review notes: 2314
 
 ### fi/books/demotopia/index.html
 
-- title: Demotopia — Demokraattinen utopia — Ashraellen
-- og:image: https://www.ashraellen.com/assets/covers/DEMOTOPIA_COMMERCIAL_COVER_CONCEPT_EN_v01.webp
-- twitter:image: https://www.ashraellen.com/assets/covers/DEMOTOPIA_COMMERCIAL_COVER_CONCEPT_EN_v01.webp
+- title: Demotopia — Demokraattinen utopia — Ashraellenin romaani
+- og:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### fi/books/error-404-god-not-found/index.html
 
@@ -7989,15 +7989,6 @@ Total review notes: 2314
 - title: Ashraellen — Laulu | HOHDE, Kirja II
 - og:image: https://www.ashraellen.com/assets/covers/song-cover-en.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/song-cover-en.webp
-
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
-
-### fi/books/samizdat/demotopia/index.html
-
-- title: Demotopia — Kirjapassi — samizdat 2.0
-- og:image: https://www.ashraellen.com/assets/covers/DEMOTOPIA_COMMERCIAL_COVER_CONCEPT_EN_v01.webp
-- twitter:image: https://www.ashraellen.com/assets/covers/DEMOTOPIA_COMMERCIAL_COVER_CONCEPT_EN_v01.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
@@ -8354,8 +8345,8 @@ Total review notes: 2314
 - og:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### fr/books/error-404-god-not-found/index.html
 
@@ -9070,8 +9061,8 @@ Total review notes: 2314
 - og:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### pl/books/error-404-god-not-found/index.html
 
@@ -9765,8 +9756,8 @@ Total review notes: 2314
 - og:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### pt/books/error-404-god-not-found/index.html
 
@@ -10461,8 +10452,8 @@ Total review notes: 2314
 - og:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### ru/books/error-404-god-not-found/index.html
 
@@ -11268,8 +11259,8 @@ Total review notes: 2314
 - og:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/DEMOTOPIA_COMMERCIAL_HERO_BACKGROUND_v01.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### uk/books/error-404-god-not-found/index.html
 
