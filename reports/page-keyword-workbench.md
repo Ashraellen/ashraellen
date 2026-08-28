@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-28T19:49:50.272Z
+Generated: 2026-08-28T20:04:12.575Z
 Pages: 854
 
 ## Index
@@ -309,7 +309,7 @@ Pages: 854
 | fi/books/radiance/index.html | fi | books | Ashraellen — HOHDE \| Pohjoisia kertomuksia maailman todellisesta historiasta | Ashraellen, HOHDE, Sampo, Laulu, Kalevala, suomalais-karjalainen aineisto, pohjoiset kertomukset, taiteellinen tutkimus | hohde, taiteellisen, tutkimuksen, ashraellen, books, kirjallis-filosofinen, sarja, sarjan, eikä, historiasta, kartta, kautta, kehys, kenelle, kertomukset, kertomuksia, kirja, kirjat |
 | fi/books/radiance/sampo/index.html | fi | books | Ashraellen — Sampo \| HOHDE, Kirja I | Ashraellen, Sampo, HOHDE, runsaus, osallisuus, taiteellinen tutkimus, Kalevala | sampo, ashraellen, books, kirja, ensimmäinen, erotettu, että, hän, hohde, hohde-sarjan, ilman, jossa, julkaisutilanne, juonipaljastuksia, katsoi, kehys, kenelle, kertomus |
 | fi/books/radiance/song/index.html | fi | books | Ashraellen — Laulu \| HOHDE, Kirja II | Ashraellen, Laulu, HOHDE, kieli, kuuleminen, Varsova, taiteellinen tutkimus, mytopoetiikka | laulu, ashraellen, books, joka, kirja, äänestä, ayla, että, hän, hohde, hohde-sarjan, ilman, julkaisutilanne, juonipaljastuksia, kehys, kenelle, kielestä, kieli |
-| fi/books/samizdat/demotopia/index.html | fi | books | Demotopia — Kirjapassi — samizdat 2.0 | Ashraellen, Demotopia, Demokraattinen utopia, samizdat 2.0, kirjapassi, tekijäjulkaisu | demotopia, samizdat, 2.0, kirjapassi, 2026, books, demokraattinen, julkaisu, utopia, ashraellen, demotopian, fyysinen, fyysisen, järjestelmässä, kirjasta, passi, pysyvä, pyydä |
+| fi/books/samizdat/demotopia/index.html | fi | books | Demotopia — Kirjapassi — samizdat 2.0 | Ashraellen, Demotopia, Demokraattinen utopia, samizdat 2.0, kirjapassi, tekijäjulkaisu | demotopia, samizdat, 2.0, kirjapassi, 2026, books, demokraattinen, demotopian, julkaisu, utopia, ashraellen, demokratian, fyysinen, fyysisen, järjestelmässä, kirjasta, passi, pysyvä |
 | fi/books/samizdat/index.html | fi | books | samizdat 2.0 — Ashraellenin tekijäjulkaisut | Ashraellen, samizdat 2.0, tekijäjulkaisut, kirjapassi, fyysiset kirjat, numeroidut kappaleet | samizdat, 2.0, ashraellenin, books, ilman, kirja, tekijäjulkaisut, ashraellen, eikä, fyysinen, fyysiset, jonka, julkiset, kappaleet, kirjan, kirjapassit, kirjat, kulkea |
 | fi/books/samizdat/order/index.html | fi | books | Pyydä samizdat 2.0 -tekijäkappale — Ashraellen | Ashraellen, samizdat 2.0, tekijäkappale, kirjatilaus, Demotopia, kirjapyyntö | pyydä, 2.0, kappale, samizdat, tekijäkappale, allekirjoitettu, ashraellen, books, henkilökohtaisesti, hinta, toimitus, ashraellenin, ennen, hinnan, järjestämiseen, kappaleen, kielellä, maksu |
 | fi/books/samizdat/order/received/index.html | fi | books | Pyyntö vastaanotettu — samizdat 2.0 — Ashraellen | Ashraellen, samizdat 2.0, kirjapyyntö, tekijäkappale, pyyntö vastaanotettu | samizdat, 2.0, ashraellen, vastaanotettu, books, ennen, pyyntö, valmistusta, aan, antamaasi, eikä, erillistä, hinnan, hinta, kiitos, kirjapyyntö, order, received |
@@ -6008,12 +6008,12 @@ Excerpt:
 - H1: Demotopia
 - H2: Kirjasta | Tämä julkaisu | Pysyvä passi | Pyydä tekijäkappale
 - H3: Jokaisesta kappaleesta
-- suggested keyword seed: demotopia, samizdat, 2.0, kirjapassi, 2026, books, demokraattinen, julkaisu, utopia, ashraellen, demotopian, fyysinen, fyysisen, järjestelmässä, kirjasta, passi, pysyvä, pyydä
-- candidates: fyysinen, 2.0, demotopia, samizdat, demokraattinen, julkaisu, kirjapassi, sen, suoraan, tekijän, utopia, 2026, demokratian, demotopian, julkinen, kappale, kieli, kun, oleva, pyydä, romaani, tekijältä, teos, varsova
+- suggested keyword seed: demotopia, samizdat, 2.0, kirjapassi, 2026, books, demokraattinen, demotopian, julkaisu, utopia, ashraellen, demokratian, fyysinen, fyysisen, järjestelmässä, kirjasta, passi, pysyvä
+- candidates: 2.0, fyysinen, samizdat, demotopia, tekijän, demokraattinen, demokratian, julkaisu, kirjapassi, utopia, 2026, demotopian, julkinen, kaikkia, kappale, kieli, kun, oleva, pyydä, romaani, sen, suoraan, tekijä, teos
 
 Excerpt:
 
-> Kirjapassi / samizdat 2.0 Demotopia Demokraattinen utopia Filosofinen romaani demokratiasta, vallasta ja vapauden hiljaisesta muuttumisesta rituaaliksi. Tekijän suoraan julkaisema fyysinen laitos Kirjasta demokratia oman rituaalinsa sisältä nähtynä Demotopia tarkastelee hetkeä, jolloin demokratian kieli säilyy ehjänä mutta sen merkitys alkaa liukua. Romaani ei seuraa vapautta romahtamassa yhdessä dramaattisessa hetkessä, vaan muuttumassa tavaksi, menettelyksi ja esitykseksi. Teos ei kuulu millekään puolueelle eikä tarjoa poliittista ohjelmaa. Se esittää hiljaisemman kysymyksen: mitä tapahtuu, kun ihmiset jatkavat demokratian rituaalia vielä senkin jälkeen, kun he eivät enää odota sen muuttavan mitään? Tämä julkaisu valmis fyysinen muoto suoraan tekijältä Teos Demotopia — Demokraattinen utopia Tekijä Ashraellen Julkaisu Tekijän fyysinen julkaisu Järjestelmä samizdat 2.0 Paikka ja vuosi Va
+> Kirjapassi / samizdat 2.0 Demotopia Demokraattinen utopia Filosofinen romaani demokratiasta, vallasta ja vapauden hiljaisesta muuttumisesta rituaaliksi. Tekijän suoraan julkaisema fyysinen laitos Kirjasta demokratia oman rituaalinsa sisältä nähtynä Demotopia tarkastelee hetkeä, jolloin demokratian kieli säilyy ehjänä mutta demokratian merkitys alkaa kadota. Romaani ei seuraa vapautta romahtamassa yhdessä dramaattisessa hetkessä, vaan muuttumassa tavaksi, menettelyksi ja esitykseksi. Teos ei kuulu millekään puolueelle eikä tarjoa poliittista ohjelmaa. Se esittää hiljaisemman ja vaikeamman kysymyksen: mitä tapahtuu, kun ihmiset jatkavat demokratian rituaalia vielä senkin jälkeen, kun he eivät enää odota sen muuttavan mitään? Tämä julkaisu valmis fyysinen muoto, jonka tekijä julkaisee itse Teos Demotopia — Demokraattinen utopia Tekijä Ashraellen Julkaisu Tekijän fyysinen julkaisu Järjestelm
 
 ### fi/books/samizdat/index.html
 
