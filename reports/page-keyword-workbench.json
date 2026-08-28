@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-28T20:04:12.564Z",
+  "generated": "2026-08-28T20:09:05.247Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -22730,7 +22730,7 @@
         "Pyydä kappale"
       ],
       "h2": [
-        "Pyyntö ↓ Tarjous ↓ Vahvistus ↓ Maksu ↓ Valmistus ↓ Toimitus",
+        "Pyyntö ↓ Laskelma ↓ Vahvistus ↓ Maksu ↓ Valmistus ↓ Toimitus",
         "Allekirjoitettu kappale"
       ],
       "h3": [],
@@ -22740,32 +22740,32 @@
         "samizdat",
         "order"
       ],
-      "excerpt": "Tekijäkappale vahvistetusta pyynnöstä Pyydä kappale Kirja voidaan valmistaa valitulla kielellä ja välittää tietylle lukijalle. Vahvistamme henkilökohtaisesti valitun kielen saatavuuden, valmistusajan, lopullisen hinnan ja toimitusehdot. Lomakkeen lähettäminen ei luo ostopakkoa. Miten se toimii Pyyntö ↓ Tarjous ↓ Vahvistus ↓ Maksu ↓ Valmistus ↓ Toimitus Jos valittu kieliversio ei vielä ole valmis, ilmoitamme sen valmistumiseen tarvittavan ajan ennen vahvistusta. Erityisvaihtoehto Allekirjoitettu kappale Henkilökohtaisesti allekirjoitettu kappale kulkee tekijän käsien kautta ennen toimitusta. Allekirjoitukseen voidaan liittää omistuskirjoitus. Voit kirjoittaa toivotun omistustekstin viestikenttään. Kirja Valitse Demotopia — Demokraattinen utopia Kappaleen kieli Valitse English (EN) Suomi (FI) Polski (PL) Português (PT) Русский (RU) Українська (UK) Deutsch (DE) Español (ES) Français (FR) Бе",
+      "excerpt": "Tekijäkappale vahvistetusta pyynnöstä Pyydä kappale Kirja voidaan valmistaa valitulla kielellä ja välittää tietylle lukijalle. Vahvistamme henkilökohtaisesti valitun kielen saatavuuden, valmistusajan, lopullisen hinnan ja toimitusehdot. Lomakkeen lähettäminen ei luo ostopakkoa. Miten se toimii Pyyntö ↓ Laskelma ↓ Vahvistus ↓ Maksu ↓ Valmistus ↓ Toimitus Jos valittu kieliversio ei vielä ole valmis, ilmoitamme sen valmistumiseen tarvittavan ajan ennen vahvistusta. Erityisvaihtoehto Allekirjoitettu kappale Tekijä allekirjoittaa kappaleen henkilökohtaisesti ennen kuin se lähetetään lukijalle. Kyse ei ole vain nimestä sivulla: allekirjoitukseen voidaan liittää henkilökohtainen omistuskirjoitus, ja valmis kirja kulkee tekijän käsien kautta säilyttäen tuon kosketuksen lämmön. Voit kirjoittaa toivotun omistustekstin viestikenttään. Kirja Valitse Demotopia — Demokraattinen utopia Kappaleen kieli ",
       "candidates": [
         "henkilökohtaisesti",
+        "kappaleen",
         "ennen",
         "hinnan",
-        "kappale",
-        "pyydä",
-        "tekijäkappale",
-        "toimituksen",
-        "2.0",
-        "allekirjoitettu",
-        "hinta",
-        "järjestämiseen",
-        "kappaleen",
-        "kielellä",
         "kirja",
         "lukijalle",
+        "pyydä",
+        "tekijäkappale",
+        "2.0",
+        "hinta",
+        "kappale",
+        "kielellä",
+        "laskemiseen",
+        "ole",
         "pyyntö",
         "samizdat",
+        "toimituksen",
         "toimitus",
         "toimitusehdot",
-        "toimitusta",
         "vahvistetaan",
+        "vain",
         "valitse",
         "valitulla",
-        "valmistuksen"
+        "valmis"
       ],
       "suggestedKeywordSeed": [
         "pyydä",
@@ -22773,19 +22773,19 @@
         "kappale",
         "samizdat",
         "tekijäkappale",
-        "allekirjoitettu",
         "ashraellen",
         "books",
         "henkilökohtaisesti",
         "hinta",
+        "kielellä",
         "toimitus",
+        "allekirjoitettu",
         "ashraellenin",
         "ennen",
         "hinnan",
-        "järjestämiseen",
         "kappaleen",
-        "kielellä",
-        "maksu"
+        "kirja",
+        "laskelma"
       ]
     },
     {
