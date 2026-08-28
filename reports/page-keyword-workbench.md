@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-28T19:40:56.549Z
+Generated: 2026-08-28T19:49:50.272Z
 Pages: 854
 
 ## Index
@@ -310,7 +310,7 @@ Pages: 854
 | fi/books/radiance/sampo/index.html | fi | books | Ashraellen — Sampo \| HOHDE, Kirja I | Ashraellen, Sampo, HOHDE, runsaus, osallisuus, taiteellinen tutkimus, Kalevala | sampo, ashraellen, books, kirja, ensimmäinen, erotettu, että, hän, hohde, hohde-sarjan, ilman, jossa, julkaisutilanne, juonipaljastuksia, katsoi, kehys, kenelle, kertomus |
 | fi/books/radiance/song/index.html | fi | books | Ashraellen — Laulu \| HOHDE, Kirja II | Ashraellen, Laulu, HOHDE, kieli, kuuleminen, Varsova, taiteellinen tutkimus, mytopoetiikka | laulu, ashraellen, books, joka, kirja, äänestä, ayla, että, hän, hohde, hohde-sarjan, ilman, julkaisutilanne, juonipaljastuksia, kehys, kenelle, kielestä, kieli |
 | fi/books/samizdat/demotopia/index.html | fi | books | Demotopia — Kirjapassi — samizdat 2.0 | Ashraellen, Demotopia, Demokraattinen utopia, samizdat 2.0, kirjapassi, tekijäjulkaisu | demotopia, samizdat, 2.0, kirjapassi, 2026, books, demokraattinen, julkaisu, utopia, ashraellen, demotopian, fyysinen, fyysisen, järjestelmässä, kirjasta, passi, pysyvä, pyydä |
-| fi/books/samizdat/index.html | fi | books | samizdat 2.0 — Ashraellenin tekijäjulkaisut | Ashraellen, samizdat 2.0, tekijäjulkaisut, kirjapassi, fyysiset kirjat, numeroidut kappaleet | samizdat, 2.0, ashraellenin, books, ilman, tekijäjulkaisut, ashraellen, eikä, fyysinen, fyysiset, julkiset, kappale, kappaleen, kappaleet, kirja, kirjan, kirjapassit, kirjat |
+| fi/books/samizdat/index.html | fi | books | samizdat 2.0 — Ashraellenin tekijäjulkaisut | Ashraellen, samizdat 2.0, tekijäjulkaisut, kirjapassi, fyysiset kirjat, numeroidut kappaleet | samizdat, 2.0, ashraellenin, books, ilman, kirja, tekijäjulkaisut, ashraellen, eikä, fyysinen, fyysiset, jonka, julkiset, kappaleet, kirjan, kirjapassit, kirjat, kulkea |
 | fi/books/samizdat/order/index.html | fi | books | Pyydä samizdat 2.0 -tekijäkappale — Ashraellen | Ashraellen, samizdat 2.0, tekijäkappale, kirjatilaus, Demotopia, kirjapyyntö | pyydä, 2.0, kappale, samizdat, tekijäkappale, allekirjoitettu, ashraellen, books, henkilökohtaisesti, hinta, toimitus, ashraellenin, ennen, hinnan, järjestämiseen, kappaleen, kielellä, maksu |
 | fi/books/samizdat/order/received/index.html | fi | books | Pyyntö vastaanotettu — samizdat 2.0 — Ashraellen | Ashraellen, samizdat 2.0, kirjapyyntö, tekijäkappale, pyyntö vastaanotettu | samizdat, 2.0, ashraellen, vastaanotettu, books, ennen, pyyntö, valmistusta, aan, antamaasi, eikä, erillistä, hinnan, hinta, kiitos, kirjapyyntö, order, received |
 | fi/books/seccus/index.html | fi | books | Ashraellen — SECCUSIN PYHÄ KIRJA | Ashraellen, SECCUS, SECCUSIN PYHÄ KIRJA, Rehellisyyden polku, filosofinen satiiri, raha, menestys, itsepetos, tieto alibina, vastuu, Sacrunomicon, Ordo Sacrunomiconis, tetrakirja | kirja, pyhä, seccusin, ashraellen, books, rehellisyyden, sivu, ääni, alibina, filosofinen, ihminen, ilman, itsepetoksesta, joka, juonipaljastuksia, kehys, kenelle, kirjallis-filosofinen |
@@ -6023,14 +6023,14 @@ Excerpt:
 - description: Ashraellenin samizdat 2.0: suorat fyysiset tekijäjulkaisut, numeroidut kappaleet ja pysyvät julkiset kirjapassit.
 - canonical: https://www.ashraellen.com/fi/books/samizdat/
 - H1: samizdat 2.0
-- H2: Miksi nyt | Mitä se on | Miten se toimii | Numerointi ilman valvontaa | Kirjat samizdat 2.0:ssa
+- H2: Miksi nyt | Mitä se on | Miten se toimii | Numerointi ilman valvontaa | QR-passi | Kirja, jonka on tarkoitus kulkea | Kirjat samizdat 2.0:ssa
 - H3: Valmis tekijäjulkaisu | Teollisen ketjun ulkopuolella | Yksi kappale esineenä | Pysyvä julkinen passi
-- suggested keyword seed: samizdat, 2.0, ashraellenin, books, ilman, tekijäjulkaisut, ashraellen, eikä, fyysinen, fyysiset, julkiset, kappale, kappaleen, kappaleet, kirja, kirjan, kirjapassit, kirjat
-- candidates: samizdat, 2.0, tekijän, voi, ilman, kappale, kirjan, ole, eikä, fyysinen, kappaleen, kirja, lukijan, säilyttää, tai, teoksen, alkuperäänsä, ashraellenin, esineen, fyysisen, jokainen, jossa, julkaiseminen, julkiseksi
+- suggested keyword seed: samizdat, 2.0, ashraellenin, books, ilman, kirja, tekijäjulkaisut, ashraellen, eikä, fyysinen, fyysiset, jonka, julkiset, kappaleet, kirjan, kirjapassit, kirjat, kulkea
+- candidates: samizdat, tekijän, 2.0, voi, kirja, kirjan, sen, ilman, ole, eikä, fyysinen, tai, yksi, esineen, fyysisen, jokainen, julkaisun, julkinen, kappale, kielen, lukija, numero, pysyvän, qr-koodi
 
 Excerpt:
 
-> Fyysisiä tekijäkirjoja / julkisia kirjapasseja samizdat 2.0 Kirjan ei tarvitse muuttua nimettömäksi tuotteeksi tullakseen julkiseksi. samizdat 2.0 on nykyajan rakenne valmiille kirjoille, jotka tekijä saattaa fyysiseen muotoon teollisen julkaisuketjun ulkopuolella ja välittää suoraan lukijoille. Jokainen kappale voi säilyttää näkyvän yhteyden alkuperäänsä pysyvän julkisen passin kautta. Miksi nyt julkaiseminen on helppoa; läsnäolo ei Klassinen samizdat syntyi tilanteessa, jossa teksti ei päässyt virallisten kanavien läpi. Nyt tekninen julkaiseminen on lähes kaikille mahdollista. Tiedoston voi julkaista heti, kirjan painaa tilauksesta ja tekstin levittää ilman lupaa. Vapauden mukana syntyy toinen menetys: fyysinen kirja voi imeytyä samaan anonyymiin kiertoon kuin mikä tahansa tuote — tuotettu, tilattu, toimitettu ja unohdettu ilman näkyvää suhdetta tekijän, esineen ja lukijan välillä. sam
+> Fyysisiä tekijäkirjoja / julkisia kirjapasseja samizdat 2.0 Kirjan ei tarvitse muuttua nimettömäksi tuotteeksi tullakseen julkiseksi. samizdat 2.0 on nykyaikainen järjestelmä tekijän viimeistelemille kirjoille, jotka saatetaan fyysiseen muotoon teollisen julkaisuketjun ulkopuolella ja välitetään suoraan lukijoille. Jokainen julkaisu säilyttää yhteyden alkuperäänsä pysyvän julkisen passin kautta. Miksi nyt julkaiseminen on helppoa; läsnäolo ei Klassinen samizdat syntyi tilanteessa, jossa teksti ei päässyt virallisten kanavien läpi. Nyt tekninen julkaiseminen on lähes kaikille mahdollista. Tiedoston voi julkaista heti, kirjan painaa tilauksesta ja tekstin levittää ilman lupaa. Vapauden mukana syntyy toinen menetys: fyysinen kirja voi imeytyä samaan anonyymiin kiertoon kuin mikä tahansa tuote — tuotettu, tilattu, toimitettu ja unohdettu ilman näkyvää suhdetta tekijän, esineen ja lukijan väl
 
 ### fi/books/samizdat/order/index.html
 

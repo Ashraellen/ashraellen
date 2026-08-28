@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-28T19:40:56.530Z",
+  "generated": "2026-08-28T19:49:50.258Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -22655,6 +22655,8 @@
         "Mitä se on",
         "Miten se toimii",
         "Numerointi ilman valvontaa",
+        "QR-passi",
+        "Kirja, jonka on tarkoitus kulkea",
         "Kirjat samizdat 2.0:ssa"
       ],
       "h3": [
@@ -22668,32 +22670,32 @@
         "books",
         "samizdat"
       ],
-      "excerpt": "Fyysisiä tekijäkirjoja / julkisia kirjapasseja samizdat 2.0 Kirjan ei tarvitse muuttua nimettömäksi tuotteeksi tullakseen julkiseksi. samizdat 2.0 on nykyajan rakenne valmiille kirjoille, jotka tekijä saattaa fyysiseen muotoon teollisen julkaisuketjun ulkopuolella ja välittää suoraan lukijoille. Jokainen kappale voi säilyttää näkyvän yhteyden alkuperäänsä pysyvän julkisen passin kautta. Miksi nyt julkaiseminen on helppoa; läsnäolo ei Klassinen samizdat syntyi tilanteessa, jossa teksti ei päässyt virallisten kanavien läpi. Nyt tekninen julkaiseminen on lähes kaikille mahdollista. Tiedoston voi julkaista heti, kirjan painaa tilauksesta ja tekstin levittää ilman lupaa. Vapauden mukana syntyy toinen menetys: fyysinen kirja voi imeytyä samaan anonyymiin kiertoon kuin mikä tahansa tuote — tuotettu, tilattu, toimitettu ja unohdettu ilman näkyvää suhdetta tekijän, esineen ja lukijan välillä. sam",
+      "excerpt": "Fyysisiä tekijäkirjoja / julkisia kirjapasseja samizdat 2.0 Kirjan ei tarvitse muuttua nimettömäksi tuotteeksi tullakseen julkiseksi. samizdat 2.0 on nykyaikainen järjestelmä tekijän viimeistelemille kirjoille, jotka saatetaan fyysiseen muotoon teollisen julkaisuketjun ulkopuolella ja välitetään suoraan lukijoille. Jokainen julkaisu säilyttää yhteyden alkuperäänsä pysyvän julkisen passin kautta. Miksi nyt julkaiseminen on helppoa; läsnäolo ei Klassinen samizdat syntyi tilanteessa, jossa teksti ei päässyt virallisten kanavien läpi. Nyt tekninen julkaiseminen on lähes kaikille mahdollista. Tiedoston voi julkaista heti, kirjan painaa tilauksesta ja tekstin levittää ilman lupaa. Vapauden mukana syntyy toinen menetys: fyysinen kirja voi imeytyä samaan anonyymiin kiertoon kuin mikä tahansa tuote — tuotettu, tilattu, toimitettu ja unohdettu ilman näkyvää suhdetta tekijän, esineen ja lukijan väl",
       "candidates": [
         "samizdat",
-        "2.0",
         "tekijän",
+        "2.0",
         "voi",
-        "ilman",
-        "kappale",
+        "kirja",
         "kirjan",
+        "sen",
+        "ilman",
         "ole",
         "eikä",
         "fyysinen",
-        "kappaleen",
-        "kirja",
-        "lukijan",
-        "säilyttää",
         "tai",
-        "teoksen",
-        "alkuperäänsä",
-        "ashraellenin",
+        "yksi",
         "esineen",
         "fyysisen",
         "jokainen",
-        "jossa",
-        "julkaiseminen",
-        "julkiseksi"
+        "julkaisun",
+        "julkinen",
+        "kappale",
+        "kielen",
+        "lukija",
+        "numero",
+        "pysyvän",
+        "qr-koodi"
       ],
       "suggestedKeywordSeed": [
         "samizdat",
@@ -22701,19 +22703,19 @@
         "ashraellenin",
         "books",
         "ilman",
+        "kirja",
         "tekijäjulkaisut",
         "ashraellen",
         "eikä",
         "fyysinen",
         "fyysiset",
+        "jonka",
         "julkiset",
-        "kappale",
-        "kappaleen",
         "kappaleet",
-        "kirja",
         "kirjan",
         "kirjapassit",
-        "kirjat"
+        "kirjat",
+        "kulkea"
       ]
     },
     {
