@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-28T09:22:53.919Z",
+  "generated": "2026-08-28T09:35:37.073Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -21839,20 +21839,20 @@
       "lang": "fi",
       "section": "books",
       "title": "Ashraellen — Miksi minä?",
-      "description": "Miksi minä? — VIRHE 404: JUMALAA EI LÖYTYNYT -sarjan ensimmäinen kirja. Filosofis-satiirinen romaani kivusta, valituksesta, uskosta ja sielun byrokratiasta.",
-      "existingKeywords": "Ashraellen, Miksi minä, VIRHE 404, filosofinen satiiri, romaani",
+      "description": "Miksi minä? — VIRHE 404: JUMALAA EI LÖYTYNYT -sarjan ensimmäinen kirja. Filosofis-satiirinen romaani kivusta, valituksesta, uskosta, sielun byrokratiasta ja Taivaallisesta kansliasta.",
+      "existingKeywords": "Ashraellen, Miksi minä, VIRHE 404, filosofinen satiiri, romaani, Taivaallinen kanslia, usko, kipu, valitus",
       "canonical": "https://www.ashraellen.com/fi/books/error-404-god-not-found/why-me/",
       "h1": [
         "Miksi minä?"
       ],
       "h2": [
         "Kirjasta",
-        "Teema",
-        "Katkelma",
-        "Versio"
+        "Kirjan teema",
+        "Merkityskerrokset",
+        "Katkelma"
       ],
       "h3": [
-        "Luku 1. Virhe 404"
+        "Ensimmäinen luku. Virhe 404"
       ],
       "slugTerms": [
         "fi",
@@ -21864,52 +21864,52 @@
         "why",
         "me"
       ],
-      "excerpt": "Miksi minä? Kirja I sarjasta VIRHE 404: JUMALAA EI LÖYTYNYT . Filosofis-satiirinen romaani kivusta, valituksesta, uskosta ja Taivaallisesta kansliasta — paikasta, jota ei ehkä ole missään muualla kuin siinä hetkessä, kun ihminen vaatii elämältä kirjallista selitystä. Kirjasta valmisteilla painoon Valmisteilla Miksi minä? kertoo Vladista, lakimiehestä ja maailmankaikkeuden ärtyneestä kantelijasta, joka yrittää tehdä omasta kärsimyksestään muodollisesti pätevän valituksen. Hän ei kaipaa valaistumista. Hän haluaa selityksen — mieluiten kirjallisena, allekirjoitettuna, leimattuna ja muutoksenhakuohjeineen. Hänestä kärsimys antaa oikeuden vastaukseen, ja elämän pitäisi ainakin tunnustaa menettelyvirhe. Taivaallinen kanslia ei kuitenkaan ole korvausosasto. Se ei väittele, lohduta eikä todista Jumalan olemassaoloa. Se rekisteröi pyynnön ja alkaa vähitellen näyttää, että virhe saattaa olla muual",
+      "excerpt": "Miksi minä? Kirja I sarjasta VIRHE 404: JUMALAA EI LÖYTYNYT . Filosofis-satiirinen romaani kivusta, valituksesta, uskosta, sielun byrokratiasta ja Taivaallisesta kansliasta, joka ei vastaa hakemuksen sanoihin vaan siihen, joka hakemuksen jättää. Kirjasta valmistellaan painettavaksi Valmistellaan painettavaksi Miksi minä? on VIRHE 404: JUMALAA EI LÖYTYNYT -sarjan ensimmäinen kirja. Se kertoo Vladista, lakimiehestä ja maailmankaikkeuden ärtyneestä kantelijasta, joka yrittää muotoilla oman kipunsa asianmukaisesti laadituksi valitukseksi. Vlad ei etsi valaistumista. Hän haluaa selityksiä. Mieluiten kirjallisina, allekirjoituksella, leimalla, asianumerolla ja valitusmahdollisuudella. Hän on vakuuttunut siitä, että kärsimys antaa hänelle oikeuden vaatia vastausta ja että elämän pitäisi ainakin tunnustaa menettelyrikkomus. Taivaallinen kanslia ei kuitenkaan toimi korvausosaston tavoin. Se ei vä",
       "candidates": [
         "hän",
+        "oli",
+        "sitten",
+        "vlad",
         "miksi",
         "minä",
-        "oli",
+        "että",
+        "joka",
+        "mutta",
+        "niin",
+        "ollut",
+        "tai",
+        "vain",
+        "sanoi",
         "virhe",
         "404",
-        "jumalaa",
         "kuin",
-        "vlad",
+        "sen",
         "eikä",
-        "sanoi",
-        "kirja",
-        "kivusta",
-        "löytynyt",
-        "ole",
-        "olisi",
-        "ollut",
-        "sitten",
-        "antaa",
-        "elämän",
-        "että",
-        "filosofis-satiirinen",
-        "ihminen",
-        "istui"
+        "hyvä",
+        "jotakin",
+        "jumalaa",
+        "kaikki",
+        "kirja"
       ],
       "suggestedKeywordSeed": [
         "miksi",
         "minä",
-        "404",
         "ashraellen",
         "books",
-        "jumalaa",
-        "kirja",
-        "virhe",
+        "404",
         "byrokratiasta",
-        "eikä",
         "ensimmäinen",
         "error",
+        "että",
         "filosofis-satiirinen",
         "found",
         "god",
         "hän",
+        "joka",
+        "jumalaa",
+        "kansliasta",
         "katkelma",
-        "kirjasta"
+        "kirja"
       ]
     },
     {
