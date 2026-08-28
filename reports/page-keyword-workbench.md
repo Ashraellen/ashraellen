@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-28T20:09:05.261Z
+Generated: 2026-08-28T20:09:41.349Z
 Pages: 854
 
 ## Index
@@ -312,7 +312,7 @@ Pages: 854
 | fi/books/samizdat/demotopia/index.html | fi | books | Demotopia — Kirjapassi — samizdat 2.0 | Ashraellen, Demotopia, Demokraattinen utopia, samizdat 2.0, kirjapassi, tekijäjulkaisu | demotopia, samizdat, 2.0, kirjapassi, 2026, books, demokraattinen, demotopian, julkaisu, utopia, ashraellen, demokratian, fyysinen, fyysisen, järjestelmässä, kirjasta, passi, pysyvä |
 | fi/books/samizdat/index.html | fi | books | samizdat 2.0 — Ashraellenin tekijäjulkaisut | Ashraellen, samizdat 2.0, tekijäjulkaisut, kirjapassi, fyysiset kirjat, numeroidut kappaleet | samizdat, 2.0, ashraellenin, books, ilman, kirja, tekijäjulkaisut, ashraellen, eikä, fyysinen, fyysiset, jonka, julkiset, kappaleet, kirjan, kirjapassit, kirjat, kulkea |
 | fi/books/samizdat/order/index.html | fi | books | Pyydä samizdat 2.0 -tekijäkappale — Ashraellen | Ashraellen, samizdat 2.0, tekijäkappale, kirjatilaus, Demotopia, kirjapyyntö | pyydä, 2.0, kappale, samizdat, tekijäkappale, ashraellen, books, henkilökohtaisesti, hinta, kielellä, toimitus, allekirjoitettu, ashraellenin, ennen, hinnan, kappaleen, kirja, laskelma |
-| fi/books/samizdat/order/received/index.html | fi | books | Pyyntö vastaanotettu — samizdat 2.0 — Ashraellen | Ashraellen, samizdat 2.0, kirjapyyntö, tekijäkappale, pyyntö vastaanotettu | samizdat, 2.0, ashraellen, vastaanotettu, books, ennen, pyyntö, valmistusta, aan, antamaasi, eikä, erillistä, hinnan, hinta, kiitos, kirjapyyntö, order, received |
+| fi/books/samizdat/order/received/index.html | fi | books | Pyyntö vastaanotettu — samizdat 2.0 — Ashraellen | Ashraellen, samizdat 2.0, kirjapyyntö, tekijäkappale, pyyntö vastaanotettu | samizdat, 2.0, ashraellen, pyyntö, vastaanotettu, automaattisesti, books, ennen, sähköpostitse, valmistusta, aan, alkaa, eikä, hinta, kiitos, kirjapyyntö, muuttunut, ole |
 | fi/books/seccus/index.html | fi | books | Ashraellen — SECCUSIN PYHÄ KIRJA | Ashraellen, SECCUS, SECCUSIN PYHÄ KIRJA, Rehellisyyden polku, filosofinen satiiri, raha, menestys, itsepetos, tieto alibina, vastuu, Sacrunomicon, Ordo Sacrunomiconis, tetrakirja | kirja, pyhä, seccusin, ashraellen, books, rehellisyyden, sivu, ääni, alibina, filosofinen, ihminen, ilman, itsepetoksesta, joka, juonipaljastuksia, kehys, kenelle, kirjallis-filosofinen |
 | fi/books/the-book-of-whinesis/index.html | fi | books | Ashraellen — The Book of Whinesis | Ashraellen, The Book of Whinesis, satiiri, Church of Saint Whine, uupumus, tuottavuuskultti | book, whinesis, ashraellen, books, jotka, ensimmäiset, hän, herra, joka, katkelma, kirjasta, kulttiin, loputtomaan, luku, luvut, menestyksen, minä, niille |
 | fi/books/you-are-already-online/index.html | fi | books | Ashraellen — Olet jo verkossa | _missing_ | olet, verkossa, ashraellen, books, luku, 03.17, algoritmeista, already, audioromaani, digitaalisesta, ennen, ensimmäinen, hän, hypertodellisuudesta, immersiivinen, katkelma, kirjasta, kyberpunk-draama |
@@ -6057,14 +6057,14 @@ Excerpt:
 - description: Samizdat 2.0 -kirjapyyntö on vastaanotettu. Saatavuus, valmistusaika, hinta ja toimitus vahvistetaan sähköpostitse ennen valmistusta.
 - canonical: https://www.ashraellen.com/fi/books/samizdat/order/received/
 - H1: Kiitos.
-- H2: _missing_
+- H2: Pyyntö ei ole muuttunut automaattisesti ostokseksi.
 - H3: _missing_
-- suggested keyword seed: samizdat, 2.0, ashraellen, vastaanotettu, books, ennen, pyyntö, valmistusta, aan, antamaasi, eikä, erillistä, hinnan, hinta, kiitos, kirjapyyntö, order, received
-- candidates: 2.0, pyyntö, samizdat, vastaanotettu, ennen, valmistusta, aan, antamaasi, ashraellen, eikä, erillistä, hinnan, hinta, käynnistä, kielen, kiitos, kirjapyyntö, kirjapyyntösi, ostoon, perille, saatavuuden, saatavuus, sähköpostiosoitteeseen, sähköpostitse
+- suggested keyword seed: samizdat, 2.0, ashraellen, pyyntö, vastaanotettu, automaattisesti, books, ennen, sähköpostitse, valmistusta, aan, alkaa, eikä, hinta, kiitos, kirjapyyntö, muuttunut, ole
+- candidates: pyyntö, 2.0, samizdat, vastaanotettu, ennen, sähköpostitse, valmistusta, aan, alkaa, ashraellen, automaattisesti, eikä, erillistä, hinta, ilman, ilmoittamasi, käynnistä, kielen, kiitos, kirjapyyntö, kirjapyyntösi, kuin, lomakkeessa, maksutavan
 
 Excerpt:
 
-> Pyyntö vastaanotettu Kiitos. Kirjapyyntösi on tullut perille. Tarkistamme valitun kielen saatavuuden, valmistusajan, hinnan ja toimitusvaihtoehdot ja vastaamme antamaasi sähköpostiosoitteeseen. Pyyntö ei vielä sido ostoon eikä käynnistä valmistusta ennen erillistä vahvistusta. Takaisin samizdat 2.0:aan →
+> Pyyntö vastaanotettu Kiitos. Kirjapyyntösi on tullut perille. Otamme sinuun yhteyttä sähköpostitse vahvistaaksemme kielen saatavuuden, valmistusajan, painatuskustannukset, toimituksen ja maksutavan ennen kuin valmistus alkaa. Pyyntö ei sido ostoon eikä käynnistä valmistusta ilman erillistä vahvistusta. Takaisin samizdat 2.0:aan → Pyyntö ei ole muuttunut automaattisesti ostokseksi. Tarkista lomakkeessa ilmoittamasi sähköpostiosoite ja myös roskapostikansio.
 
 ### fi/books/seccus/index.html
 

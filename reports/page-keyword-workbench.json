@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-28T20:09:05.247Z",
+  "generated": "2026-08-28T20:09:41.335Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -22799,7 +22799,9 @@
       "h1": [
         "Kiitos."
       ],
-      "h2": [],
+      "h2": [
+        "Pyyntö ei ole muuttunut automaattisesti ostokseksi."
+      ],
       "h3": [],
       "slugTerms": [
         "fi",
@@ -22808,52 +22810,52 @@
         "order",
         "received"
       ],
-      "excerpt": "Pyyntö vastaanotettu Kiitos. Kirjapyyntösi on tullut perille. Tarkistamme valitun kielen saatavuuden, valmistusajan, hinnan ja toimitusvaihtoehdot ja vastaamme antamaasi sähköpostiosoitteeseen. Pyyntö ei vielä sido ostoon eikä käynnistä valmistusta ennen erillistä vahvistusta. Takaisin samizdat 2.0:aan →",
+      "excerpt": "Pyyntö vastaanotettu Kiitos. Kirjapyyntösi on tullut perille. Otamme sinuun yhteyttä sähköpostitse vahvistaaksemme kielen saatavuuden, valmistusajan, painatuskustannukset, toimituksen ja maksutavan ennen kuin valmistus alkaa. Pyyntö ei sido ostoon eikä käynnistä valmistusta ilman erillistä vahvistusta. Takaisin samizdat 2.0:aan → Pyyntö ei ole muuttunut automaattisesti ostokseksi. Tarkista lomakkeessa ilmoittamasi sähköpostiosoite ja myös roskapostikansio.",
       "candidates": [
-        "2.0",
         "pyyntö",
+        "2.0",
         "samizdat",
         "vastaanotettu",
         "ennen",
+        "sähköpostitse",
         "valmistusta",
         "aan",
-        "antamaasi",
+        "alkaa",
         "ashraellen",
+        "automaattisesti",
         "eikä",
         "erillistä",
-        "hinnan",
         "hinta",
+        "ilman",
+        "ilmoittamasi",
         "käynnistä",
         "kielen",
         "kiitos",
         "kirjapyyntö",
         "kirjapyyntösi",
-        "ostoon",
-        "perille",
-        "saatavuuden",
-        "saatavuus",
-        "sähköpostiosoitteeseen",
-        "sähköpostitse"
+        "kuin",
+        "lomakkeessa",
+        "maksutavan"
       ],
       "suggestedKeywordSeed": [
         "samizdat",
         "2.0",
         "ashraellen",
+        "pyyntö",
         "vastaanotettu",
+        "automaattisesti",
         "books",
         "ennen",
-        "pyyntö",
+        "sähköpostitse",
         "valmistusta",
         "aan",
-        "antamaasi",
+        "alkaa",
         "eikä",
-        "erillistä",
-        "hinnan",
         "hinta",
         "kiitos",
         "kirjapyyntö",
-        "order",
-        "received"
+        "muuttunut",
+        "ole"
       ]
     },
     {
