@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-28T19:31:56.242Z
+Generated: 2026-08-28T19:40:56.549Z
 Pages: 854
 
 ## Index
@@ -6859,11 +6859,11 @@ Excerpt:
 - H2: Ongelma menettää kruununsa | Tarpeettoman sodan loppu | Hienovarainen ajatus tarvitsee hiljaisuutta | Oli yksi fakta | Todistaja ei häiritse | Kuva ei voi olla onnellinen
 - H3: _missing_
 - suggested keyword seed: kaari, kolmas, ajatus, fakta, hienovarainen, hiljaisuutta, kruununsa, kuva, menettää, todistaja, tukiajatusten, ashraellen, ongelma, public, tarvitsee, yksi, ashraellenin, avaa
-- candidates: ajatus, avaa, kaari, tukiajatus, fakta, hienovarainen, todistaja, hiljaisuutta, kolmas, kruununsa, kuva, menettää, ongelma, sodan, tarpeettoman, tukiajatusten, voi, yksi, ashraellenin, häiritse, mutta, oli, olla, onnellinen
+- candidates: ajatus, avaa, kaari, tukiajatus, fakta, hienovarainen, todistaja, hiljaisuutta, kolmas, kruununsa, kuva, menettää, ongelma, sodan, tarpeettoman, tukiajatusten, voi, yksi, ashraellenin, häiritse, loppu, mutta, ole, oli
 
 Excerpt:
 
-> Tukiajatukset KAARI 0003 Tukiajatusten kolmas kaari Faktan hyväksyminen, tarpeettoman sodan päättyminen, hienovarainen ymmärrys, paluu todellisuuteen, rauhallinen todistaminen ja ero ihmisen ja hänen kuvansa välillä. Tämä kaari kokoaa Ashraellenin julkisen kentän kolmannen kuuden tukiajatuksen sarjan. Tässä ongelma menettää kruununsa, sisäinen väittely todellisuuden kanssa päättyy, hienovarainen ajatus pyytää hiljaisuutta, fakta irtoaa sisäisestä tv-sarjasta, todistaja ei häiritse ja elävä ihminen erottuu omasta kuvastaan. Tukiajatus 0013 Ongelma menettää kruununsa Ongelmaa ei tuhottu. Mutta sen paatos tuhottiin. Avaa ajatus → Tukiajatus 0014 Tarpeettoman sodan loppu Sisäinen suostuminen siihen, mikä on, ei ole tappio. Se on tarpeettoman sodan päättyminen. Avaa ajatus → Tukiajatus 0015 Hienovarainen ajatus tarvitsee hiljaisuutta Hienovaraisen ajatuksen ei tarvitse muuttua karkeaksi tulla
+> Tukiajatukset KAARI 0003 Tukiajatusten kolmas kaari Faktan hyväksyminen, tarpeettoman sodan päättyminen, hienovarainen ymmärrys, paluu todellisuuteen, rauhallinen todistaminen ja ero ihmisen ja hänen kuvansa välillä. Tämä kaari kokoaa Ashraellenin julkisen kentän kolmannen kuuden tukiajatuksen sarjan. Tässä ongelma menettää kruununsa, sisäinen väittely todellisuuden kanssa päättyy, hienovarainen ajatus pyytää hiljaisuutta, fakta irtoaa sisäisestä tv-sarjasta, todistaja ei häiritse ja elävä ihminen erottuu omasta kuvastaan. Tukiajatus 0013 Ongelma menettää kruununsa Ongelmaa ei ole tuhottu. Mutta sen paatos on. Avaa ajatus → Tukiajatus 0014 Tarpeettoman sodan loppu Sisäinen suostuminen siihen, mikä on, ei ole tappio. Se on tarpeettoman sodan loppu. Avaa ajatus → Tukiajatus 0015 Hienovarainen ajatus tarvitsee hiljaisuutta Hienovaraisen ajatuksen ei tarvitse muuttua karkeaksi tullakseen huo
 
 ### fi/research/archive/index.html
 
