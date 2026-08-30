@@ -134,6 +134,12 @@ body{
   white-space:nowrap;
 }
 
+.error-lang-nav a{
+  font-size:12.5px;
+  font-weight:700;
+  letter-spacing:.04em;
+}
+
 .error-primary-nav a:hover,
 .error-lang-nav a:hover{
   color:rgba(242,242,244,.94);
@@ -146,6 +152,10 @@ body{
   margin:0 10px;
   color:rgba(242,242,244,.30);
   font-weight:400;
+}
+
+.error-lang-nav a:not(:last-child)::after{
+  margin:0 7px;
 }
 
 .error-footer{
@@ -200,5 +210,13 @@ body{
 
   .error-note{
     font-size:14px;
+  }
+
+  .error-lang-nav a{
+    font-size:12px;
+  }
+
+  .error-lang-nav a:not(:last-child)::after{
+    margin:0 6px;
   }
 }
