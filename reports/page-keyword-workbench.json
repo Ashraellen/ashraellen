@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T09:32:11.326Z",
+  "generated": "2026-09-04T09:33:08.017Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -42844,6 +42844,81 @@
         "decisões",
         "duradoura",
         "enquanto"
+      ]
+    },
+    {
+      "page": "pt/projects/voiceprint/index.html",
+      "lang": "pt",
+      "section": "projects",
+      "title": "VOICEPRINT — Onde estou eu neste fluxo?",
+      "description": "Voiceprint investiga o que deve ser preservado quando um texto atravessa uma língua e uma máquina, para que, juntamente com as palavras, não desapareça quem as pronunciou.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/pt/projects/voiceprint/",
+      "h1": [
+        "VOICEPRINT"
+      ],
+      "h2": [
+        "Onde estou eu neste fluxo?",
+        "Como tudo começou",
+        "Quem está a falar?",
+        "Primeiro veio o ATP",
+        "Onde estou eu?",
+        "Autor",
+        "Um autor não é um conjunto de frases bonitas",
+        "Quando um texto correto se torna errado"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "pt",
+        "projects",
+        "voiceprint"
+      ],
+      "excerpt": "VOICEPRINT Onde estou eu neste fluxo? Hoje, um texto pode passar por outra língua, um modelo de AI, edição e adaptação — e regressar quase impecável. Gramaticalmente correto. Natural. Fluido. Por vezes até mais literário do que o original. E é precisamente aqui que o problema começa. Um texto pode tornar-se melhor depois deste tipo de tratamento. Por vezes, é precisamente isso que constitui a perda. Porque, a certa altura, a pergunta deixa de ser: «É uma boa tradução?» E passa a ser: «Ainda estou eu aqui?» 01 Como tudo começou Não comecei pelos livros. Quando era jovem, limitava-me a anotar pensamentos. Às vezes era uma frase. Às vezes algumas linhas. Depois algumas páginas. Depois apareceram os cadernos. Anotava observações, perguntas, dúvidas, imagens isoladas e certas conclusões — tudo aquilo que não queria perder. Gradualmente, notas separadas começaram a ligar-se umas às outras. Um ",
+      "candidates": [
+        "que",
+        "não",
+        "uma",
+        "ser",
+        "para",
+        "texto",
+        "por",
+        "mais",
+        "pode",
+        "mas",
+        "foi",
+        "porque",
+        "voiceprint",
+        "com",
+        "livro",
+        "língua",
+        "trabalho",
+        "autor",
+        "decisões",
+        "isso",
+        "mim",
+        "outra",
+        "vezes",
+        "estou"
+      ],
+      "suggestedKeywordSeed": [
+        "voiceprint",
+        "estou",
+        "não",
+        "onde",
+        "que",
+        "texto",
+        "uma",
+        "autor",
+        "fluxo",
+        "neste",
+        "para",
+        "projects",
+        "quando",
+        "quem",
+        "ser",
+        "ashraellen",
+        "atp",
+        "atravessa"
       ]
     },
     {

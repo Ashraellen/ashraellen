@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-09-04T09:32:11.339Z
-Pages: 867
+Generated: 2026-09-04T09:33:08.031Z
+Pages: 868
 
 ## Index
 
@@ -582,6 +582,7 @@ Pages: 867
 | pt/privacy.html | pt | privacy.html | Política de privacidade — Ashraellen | _missing_ | dados, política, privacidade, análise, que, ashraellen, cookies, para, plataformas, podem, ser, ashraellen.com, atualizações, base, com, compras, contacto, direitos |
 | pt/professional/index.html | pt | professional | Ashraellen — Dossiê profissional | _missing_ | ashraellen, formas, investigação, como, dossiê, linhas, método, obras, observação, paralelas, prática, professional, profissional, públicas, selecionadas, trabalho, artísticas, artístico-filosófica |
 | pt/projects/my-memory/index.html | pt | projects | MY MEMORY — continuidade sob controlo da pessoa | _missing_ | continuidade, memory, controlo, memória, pessoa, sob, como, deve, projects, projeto, que, ashraellen, atual, com, continuar, decisões, duradoura, enquanto |
+| pt/projects/voiceprint/index.html | pt | projects | VOICEPRINT — Onde estou eu neste fluxo? | _missing_ | voiceprint, estou, não, onde, que, texto, uma, autor, fluxo, neste, para, projects, quando, quem, ser, ashraellen, atp, atravessa |
 | pt/public/index.html | pt | public | Ashraellen — Público | Ashraellen, campo público, falas, publicações, pensamentos de apoio, pesquisa, observações | público, apoio, ashraellen, pensamentos, campo, falas, onde, pessoa, public, publicações, abrir, com, encontra, não, novos, observações, pensamento, pesquisa |
 | pt/public/posts/essay/cycles/cycle-0001.html | pt | public | Ashraellen — Primeiro ciclo de mini-ensaios | ashraellen, public, posts, essay, cycles, cycle, 0001, primeiro, ciclo, mini-ensaios, poder, não, sobre, pensamento, mas, atenção, corpo, primeira | ciclo, primeiro, mas, não, sobre, corpo, passado, pensamento, ashraellen, atenção, interpretação, mini-ensaios, objetivo, poder, porta, primeira, public, sua |
 | pt/public/posts/essay/cycles/index.html | pt | public | Ashraellen — Ciclos de mini-ensaios | ashraellen, public, posts, essay, cycles, ciclos, mini-ensaios, concluídos, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ciclos, mini-ensaios, concluídos, atual, ciclo, aqui, ashraellen, estão, fica, página, para, primeiro, principal, public, cycles, essay, posts, reunidos |
@@ -10651,6 +10652,23 @@ Excerpt:
 Excerpt:
 
 > MY MEMORY A tua memória deve pertencer-te. Uma infraestrutura de investigação e trabalho para continuidade em projetos de longa duração assistidos por AI. 01 Perda de continuidade A pergunta O que resta de um projeto humano de longa duração quando a conversa termina, o modelo muda ou o sistema que ajudava no trabalho deixa de estar disponível? Um projeto sério pode durar mais do que um chat, uma sessão, um modelo e, com o tempo, até mais do que um fornecedor de AI. Nessa altura, as decisões separam-se das razões que as produziram, as fontes desaparecem das conclusões, os compromissos saem do campo de visão e a informação desatualizada começa a competir com aquilo que realmente constitui o estado atual. O problema não se reduz ao facto de a AI «esquecer». Mais profundamente, a própria história do trabalho — o que aconteceu, por que razão uma decisão foi tomada, o que mudou depois e qual e
+
+### pt/projects/voiceprint/index.html
+
+- lang: pt
+- section: projects
+- title: VOICEPRINT — Onde estou eu neste fluxo?
+- description: Voiceprint investiga o que deve ser preservado quando um texto atravessa uma língua e uma máquina, para que, juntamente com as palavras, não desapareça quem as pronunciou.
+- canonical: https://www.ashraellen.com/pt/projects/voiceprint/
+- H1: VOICEPRINT
+- H2: Onde estou eu neste fluxo? | Como tudo começou | Quem está a falar? | Primeiro veio o ATP | Onde estou eu? | Autor | Um autor não é um conjunto de frases bonitas | Quando um texto correto se torna errado
+- H3: _missing_
+- suggested keyword seed: voiceprint, estou, não, onde, que, texto, uma, autor, fluxo, neste, para, projects, quando, quem, ser, ashraellen, atp, atravessa
+- candidates: que, não, uma, ser, para, texto, por, mais, pode, mas, foi, porque, voiceprint, com, livro, língua, trabalho, autor, decisões, isso, mim, outra, vezes, estou
+
+Excerpt:
+
+> VOICEPRINT Onde estou eu neste fluxo? Hoje, um texto pode passar por outra língua, um modelo de AI, edição e adaptação — e regressar quase impecável. Gramaticalmente correto. Natural. Fluido. Por vezes até mais literário do que o original. E é precisamente aqui que o problema começa. Um texto pode tornar-se melhor depois deste tipo de tratamento. Por vezes, é precisamente isso que constitui a perda. Porque, a certa altura, a pergunta deixa de ser: «É uma boa tradução?» E passa a ser: «Ainda estou eu aqui?» 01 Como tudo começou Não comecei pelos livros. Quando era jovem, limitava-me a anotar pensamentos. Às vezes era uma frase. Às vezes algumas linhas. Depois algumas páginas. Depois apareceram os cadernos. Anotava observações, perguntas, dúvidas, imagens isoladas e certas conclusões — tudo aquilo que não queria perder. Gradualmente, notas separadas começaram a ligar-se umas às outras. Um 
 
 ### pt/public/index.html
 
