@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-09-04T09:09:45.116Z
+Generated: 2026-09-04T09:10:42.357Z
 Pages: 864
 
 ## Index
@@ -548,7 +548,7 @@ Pages: 864
 | pl/public/thoughts/index-0002.html | pl | public | Ashraellen — Drugi łuk myśli przewodnich | ashraellen, public, thoughts, index, 0002, drugi, łuk, myśli, przewodnich, pamięć, obserwacja, przebudzenie, brudna, filiżanka, miłosierdzie, straty, granica, literatury | ashraellen, drugi, łuk, myśli, przewodnich, brudna, filiżanka, nie, public, być, czasem, duchowej, gdzie, granica, index, kiedy, krzesło, książkę |
 | pl/public/thoughts/index.html | pl | public | Ashraellen — Trzeci łuk myśli przewodnich | Ashraellen, myśli przewodnie, łuk 0003, przyjęcie rzeczywistości, świadek, obraz | łuk, myśli, przewodnich, ashraellen, fakt, myśl, nie, problem, subtelna, świadek, trzeci, jeden, koronę, obraz, public, się, traci, być |
 | pl/research/archive/index.html | pl | research | Ashraellen — Archiwum badań | Ashraellen, archiwum badań, materiały badawcze, wersje, warstwy badania, badanie artystyczne | archiwum, ashraellen, badań, drogi, już, które, materiałów, research, aby, ale, ani, archive, badanie, badawczych, materiały, nie, pozostaje, procesu |
-| pl/research/index.html | pl | research | Ashraellen — Badanie | ashraellen, research, badanie, sposób, widzenia, trwające, całe, życie, artystyczno-filozoficzne, sensu, obserwacja, tego, jak, człowiek, traci, kontakt, rzeczywistością, sensem | badanie, ashraellen, badania, cyfrowe, research, się, artystyczne, artystyczno-filozoficzne, badane, całe, ciągłość, człowiek, forma, fragmentaryczna, jako, kontakt, lecz, metoda |
+| pl/research/index.html | pl | research | Ashraellen — Badanie | ashraellen, research, badanie, sposób, widzenia, trwające, całe, życie, artystyczno-filozoficzne, sensu, obserwacja, tego, jak, człowiek, traci, kontakt, rzeczywistością, sensem | badanie, ashraellen, badania, człowiek, research, się, artystyczne, artystyczno-filozoficzne, badane, całe, ciągłość, cyfrowe, forma, fragmentaryczna, jako, kontakt, lecz, metoda |
 | pl/research/method/index.html | pl | research | Ashraellen — Metoda obserwacji | ashraellen, research, method, metoda, obserwacji, zapisywanie, węzłów, znaczeń, forma, artystyczna, jako, narzędzie, badawcze, reakcja czytelnika, materiał terenowy, rozpoznanie | ashraellen, jako, forma, metoda, obserwacji, artystyczna, nie, obserwacja, research, się, ale, badania, badawcze, czego, człowiek, czytelnika, dlaczego, formy |
 | pl/research/notes/index.html | pl | research | Ashraellen — Notatki | ashraellen, notatki, marginesy, badania, wątpliwości, fragmenty | ashraellen, notatki, marginesy, chce, doktryną, fragmenty, który, materiał, nie, research, się, stać, wątpliwości, notes |
 | pl/research/position/index.html | pl | research | Ashraellen — Stanowisko | ashraellen, stanowisko, badania artystyczne, Rzeczywistość, akceptacja, Stwórca, wolność człowieka, religia, odpowiedzialność | ashraellen, bez, nie, stanowisko, badanie, człowiek, punkt, religie, research, rzeczywistością, akceptacja, aprobaty, artystyczne, człowieka, doświadczenia, droga, drugiego, działanie |
@@ -10081,8 +10081,8 @@ Excerpt:
 - H1: Badanie
 - H2: Co jest badane | Jak to się odbywa | Forma fragmentaryczna, ciągłość badania | Metoda | Jak rozumieć tę pracę | Badanie artystyczne | Otwarta wiedza | Społeczeństwo cyfrowe
 - H3: _missing_
-- suggested keyword seed: badanie, ashraellen, badania, cyfrowe, research, się, artystyczne, artystyczno-filozoficzne, badane, całe, ciągłość, człowiek, forma, fragmentaryczna, jako, kontakt, lecz, metoda
-- candidates: nie, się, lecz, ashraellen, badania, jako, obserwacji, wideo, badanie, otwórz, tym, cyfrowe, człowiek, myśl, sensu, archiwum, forma, gdzie, sposób, tego, wewnątrz, ani, częścią, dźwięk
+- suggested keyword seed: badanie, ashraellen, badania, człowiek, research, się, artystyczne, artystyczno-filozoficzne, badane, całe, ciągłość, cyfrowe, forma, fragmentaryczna, jako, kontakt, lecz, metoda
+- candidates: nie, się, lecz, ashraellen, badania, jako, obserwacji, otwórz, tym, wideo, badanie, człowiek, cyfrowe, myśl, sensu, archiwum, forma, gdzie, sposób, tego, wewnątrz, ani, częścią, dźwięk
 
 Excerpt:
 
