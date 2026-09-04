@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-09-04T00:44:19.035Z
+Generated: 2026-09-04T00:58:43.980Z
 Pages: 854
 
 ## Index
@@ -3837,7 +3837,7 @@ Excerpt:
 
 Excerpt:
 
-> VOICEPRINT Where Am I in This Flow? Today, a text can pass through another language, an AI model, editing, adaptation — and return almost flawless. Grammatically correct. Natural. Smooth. Sometimes even more literary than the original. And this is exactly where the problem begins. A text can become better after this kind of processing. Sometimes, that is precisely the loss. Because at some point the question is no longer: “Is this a good translation?” It becomes: “Am I still in it?” 01 How It Began I did not begin with technology. When I was young, I simply wrote down thoughts. Sometimes it was one sentence. Sometimes a few lines. Then a few pages. Then notebooks appeared. I wrote down observations, questions, doubts, individual images, certain conclusions — everything I did not want to lose. Gradually, separate notes began to connect with one another. One thought continued another. Shor
+> VOICEPRINT Where Am I in This Flow? Today, a text can pass through another language, an AI model, editing, adaptation — and return almost flawless. Grammatically correct. Natural. Smooth. Sometimes even more literary than the original. And this is exactly where the problem begins. A text can become better after this kind of processing. Sometimes, that is precisely the loss. Because at some point the question is no longer: “Is this a good translation?” It becomes: “Am I still in it?” 01 How It Began I did not begin with books. When I was young, I simply wrote down thoughts. Sometimes it was one sentence. Sometimes a few lines. Then a few pages. Then notebooks appeared. I wrote down observations, questions, doubts, individual images, certain conclusions — everything I did not want to lose. Gradually, separate notes began to connect with one another. One thought continued another. Short fra
 
 ### en/public/index.html
 
