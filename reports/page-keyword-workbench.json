@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T09:26:19.776Z",
+  "generated": "2026-09-04T09:30:07.372Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -7147,6 +7147,81 @@
         "ai-sitzungen",
         "anbieter",
         "ashraellen"
+      ]
+    },
+    {
+      "page": "de/projects/voiceprint/index.html",
+      "lang": "de",
+      "section": "projects",
+      "title": "VOICEPRINT — Wo bin ich in diesem Strom?",
+      "description": "Voiceprint untersucht, was erhalten bleiben muss, wenn ein Text durch Sprache und Maschine geht, damit mit den Worten nicht auch der Mensch verschwindet, der sie gesprochen hat.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/de/projects/voiceprint/",
+      "h1": [
+        "VOICEPRINT"
+      ],
+      "h2": [
+        "Wo bin ich in diesem Strom?",
+        "Wie alles begann",
+        "Wer spricht?",
+        "Zuerst kam ATP",
+        "Wo bin ich?",
+        "Autor",
+        "Ein Autor ist keine Sammlung schöner Sätze",
+        "Wenn ein korrekter Text falsch wird"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "de",
+        "projects",
+        "voiceprint"
+      ],
+      "excerpt": "VOICEPRINT Wo bin ich in diesem Strom? Heute kann ein Text durch eine andere Sprache, ein AI-Modell, Redaktion und Anpassung gehen — und nahezu makellos zurückkehren. Grammatikalisch korrekt. Natürlich. Flüssig. Manchmal sogar literarischer als das Original. Und genau hier beginnt das Problem. Ein Text kann nach einer solchen Bearbeitung besser werden. Manchmal ist genau das der Verlust. Denn irgendwann lautet die Frage nicht mehr: „Ist das eine gute Übersetzung?“ Sondern: „Bin ich noch darin?“ 01 Wie alles begann Ich begann nicht mit Büchern. Als ich jung war, schrieb ich einfach Gedanken auf. Manchmal war es ein Satz. Manchmal ein paar Zeilen. Dann ein paar Seiten. Dann kamen die Notizbücher. Ich schrieb Beobachtungen, Fragen, Zweifel, einzelne Bilder und bestimmte Schlussfolgerungen auf — alles, was ich nicht verlieren wollte. Nach und nach begannen einzelne Notizen sich miteinander z",
+      "candidates": [
+        "ich",
+        "und",
+        "die",
+        "ein",
+        "das",
+        "nicht",
+        "der",
+        "eine",
+        "kann",
+        "text",
+        "sie",
+        "sich",
+        "wurde",
+        "den",
+        "was",
+        "ist",
+        "dass",
+        "mit",
+        "selbst",
+        "werden",
+        "dem",
+        "voiceprint",
+        "für",
+        "war"
+      ],
+      "suggestedKeywordSeed": [
+        "ein",
+        "ich",
+        "voiceprint",
+        "bin",
+        "der",
+        "text",
+        "autor",
+        "diesem",
+        "nicht",
+        "projects",
+        "sie",
+        "strom",
+        "und",
+        "wenn",
+        "alles",
+        "ashraellen",
+        "atp",
+        "auch"
       ]
     },
     {

@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-09-04T09:26:19.790Z
-Pages: 864
+Generated: 2026-09-04T09:30:07.387Z
+Pages: 865
 
 ## Index
 
@@ -102,6 +102,7 @@ Pages: 864
 | de/privacy.html | de | privacy.html | Datenschutzerklärung — Ashraellen | _missing_ | und, analyse, daten, datenschutzerklärung, ashraellen, cookies, der, externe, für, können, werden, ashraellen.com, die, dienste, kann, käufe, kontakt, lokale |
 | de/professional/index.html | de | professional | Ashraellen — Professionelles Dossier | _missing_ | ashraellen, und, arbeit, ausgewählte, beobachtungsmethode, des, die, dossier, formen, literarische, öffentliche, parallele, professional, professionelles, sich, von, arbeiten, autor |
 | de/projects/my-memory/index.html | de | projects | MY MEMORY — Kontinuität unter Kontrolle des Menschen | _missing_ | kontinuität, memory, des, gedächtnis, kontrolle, menschen, und, unter, bleiben, das, die, ist, projects, was, wie, ai-sitzungen, anbieter, ashraellen |
+| de/projects/voiceprint/index.html | de | projects | VOICEPRINT — Wo bin ich in diesem Strom? | _missing_ | ein, ich, voiceprint, bin, der, text, autor, diesem, nicht, projects, sie, strom, und, wenn, alles, ashraellen, atp, auch |
 | de/public/index.html | de | public | Ashraellen — Öffentlich | Ashraellen, öffentliches Feld, Auftritte, Veröffentlichungen, Stützgedanken, Forschung, Beobachtungen | ashraellen, auftritte, öffentlich, public, stützgedanken, und, veröffentlichungen, begegnet, beobachtungen, dem, denen, der, des, die, ein, eine, feld, forschung |
 | de/public/posts/essay/cycles/cycle-0001.html | de | public | Ashraellen — Erster Mini-Essay-Zyklus | ashraellen, public, posts, essay, cycles, cycle, 0001, erster, mini-essay-zyklus, zyklus, macht, nicht, über, den, gedanken, sondern, die, aufmerksamkeit | die, erster, ist, nicht, zyklus, der, über, das, erste, körper, vergangenheit, aber, ashraellen, aufmerksamkeit, den, deutung, gedanken, ihre |
 | de/public/posts/essay/cycles/index.html | de | public | Ashraellen — Mini-Essay-Zyklen | ashraellen, public, posts, essay, cycles, mini-essay-zyklen, abgeschlossene, zyklen, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | abgeschlossene, mini-essay-zyklen, zyklen, der, abschnitts, aktuelle, ashraellen, auf, befindet, des, gesammelt, hauptseite, public, zyklus, cycles, essay, hier, mini-essays |
@@ -2488,6 +2489,23 @@ Excerpt:
 Excerpt:
 
 > MY MEMORY Dein Gedächtnis sollte dir gehören. Eine Forschungs- und Arbeitsinfrastruktur für Kontinuität in langfristiger AI-gestützter Arbeit. 01 Verlust von Kontinuität Die Frage Was bleibt von einem langfristigen menschlichen Projekt, wenn ein Gespräch endet, das Modell wechselt oder das System, das bei der Arbeit geholfen hat, nicht mehr verfügbar ist? Ein ernsthaftes Projekt kann einen Chat, eine Sitzung, ein Modell und irgendwann sogar einen AI-Anbieter überdauern. Dann lösen sich Entscheidungen von den Gründen, aus denen sie getroffen wurden, Quellen verschwinden aus Schlussfolgerungen, Verpflichtungen geraten aus dem Blick, und veraltete Informationen beginnen mit dem tatsächlich aktuellen Zustand zu konkurrieren. Das Problem besteht nicht einfach darin, dass eine AI „vergisst“. Tiefer liegt die Gefahr, dass die Geschichte der Arbeit — was geschah, warum eine Entscheidung getroffe
+
+### de/projects/voiceprint/index.html
+
+- lang: de
+- section: projects
+- title: VOICEPRINT — Wo bin ich in diesem Strom?
+- description: Voiceprint untersucht, was erhalten bleiben muss, wenn ein Text durch Sprache und Maschine geht, damit mit den Worten nicht auch der Mensch verschwindet, der sie gesprochen hat.
+- canonical: https://www.ashraellen.com/de/projects/voiceprint/
+- H1: VOICEPRINT
+- H2: Wo bin ich in diesem Strom? | Wie alles begann | Wer spricht? | Zuerst kam ATP | Wo bin ich? | Autor | Ein Autor ist keine Sammlung schöner Sätze | Wenn ein korrekter Text falsch wird
+- H3: _missing_
+- suggested keyword seed: ein, ich, voiceprint, bin, der, text, autor, diesem, nicht, projects, sie, strom, und, wenn, alles, ashraellen, atp, auch
+- candidates: ich, und, die, ein, das, nicht, der, eine, kann, text, sie, sich, wurde, den, was, ist, dass, mit, selbst, werden, dem, voiceprint, für, war
+
+Excerpt:
+
+> VOICEPRINT Wo bin ich in diesem Strom? Heute kann ein Text durch eine andere Sprache, ein AI-Modell, Redaktion und Anpassung gehen — und nahezu makellos zurückkehren. Grammatikalisch korrekt. Natürlich. Flüssig. Manchmal sogar literarischer als das Original. Und genau hier beginnt das Problem. Ein Text kann nach einer solchen Bearbeitung besser werden. Manchmal ist genau das der Verlust. Denn irgendwann lautet die Frage nicht mehr: „Ist das eine gute Übersetzung?“ Sondern: „Bin ich noch darin?“ 01 Wie alles begann Ich begann nicht mit Büchern. Als ich jung war, schrieb ich einfach Gedanken auf. Manchmal war es ein Satz. Manchmal ein paar Zeilen. Dann ein paar Seiten. Dann kamen die Notizbücher. Ich schrieb Beobachtungen, Fragen, Zweifel, einzelne Bilder und bestimmte Schlussfolgerungen auf — alles, was ich nicht verlieren wollte. Nach und nach begannen einzelne Notizen sich miteinander z
 
 ### de/public/index.html
 
