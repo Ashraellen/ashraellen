@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-09-04T09:30:07.387Z
-Pages: 865
+Generated: 2026-09-04T09:31:05.185Z
+Pages: 866
 
 ## Index
 
@@ -257,6 +257,7 @@ Pages: 865
 | es/privacy.html | es | privacy.html | Política de privacidad — Ashraellen | _missing_ | datos, del, política, privacidad, analítica, ashraellen, cookies, los, para, plataformas, qué, sitio, actualizaciones, ashraellen.com, base, compras, con, contacto |
 | es/professional/index.html | es | professional | Ashraellen — Dosier profesional | _missing_ | ashraellen, formas, investigación, líneas, del, dosier, método, obras, observación, paralelas, práctica, profesional, professional, públicas, seleccionadas, trabajo, artísticas, artístico-filosófica |
 | es/projects/my-memory/index.html | es | projects | MY MEMORY — continuidad bajo el control de la persona | _missing_ | continuidad, memory, bajo, control, memoria, persona, qué, cómo, por, projects, proyecto, actual, ashraellen, conservarse, debe, debería, decisiones, del |
+| es/projects/voiceprint/index.html | es | projects | VOICEPRINT — ¿Dónde estoy yo en este flujo? | _missing_ | voiceprint, dónde, estoy, texto, una, autor, con, cuando, este, flujo, las, para, projects, que, qué, apareció, ashraellen, atp |
 | es/public/index.html | es | public | Ashraellen — Público | Ashraellen, campo público, intervenciones, publicaciones, pensamientos de apoyo, investigación, observaciones | público, apoyo, ashraellen, pensamientos, campo, con, donde, intervenciones, persona, public, publicaciones, abrir, encuentra, investigación, los, nuevos, observaciones, pensamiento |
 | es/public/posts/essay/cycles/cycle-0001.html | es | public | Ashraellen — Primer ciclo de mini-ensayos | ashraellen, public, posts, essay, cycles, cycle, 0001, primer, ciclo, mini-ensayos, poder, sobre, pensamiento, sino, atención, cuerpo, primera, puerta | ciclo, primer, sobre, cuerpo, pasado, pensamiento, pero, ashraellen, atención, interpretación, objetivo, poder, primera, public, puerta, sino, como, completado |
 | es/public/posts/essay/cycles/index.html | es | public | Ashraellen — Ciclos de mini-ensayos | ashraellen, public, posts, essay, cycles, ciclos, mini-ensayos, completados, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ciclos, mini-ensayos, completados, ciclo, actual, aquí, ashraellen, encuentra, los, página, principal, public, reúnen, cycles, essay, posts, primer, sección |
@@ -5124,6 +5125,23 @@ Excerpt:
 Excerpt:
 
 > MY MEMORY Tu memoria debería pertenecerte. Una infraestructura de investigación y trabajo para mantener la continuidad en proyectos de larga duración asistidos por AI. 01 Pérdida de continuidad La pregunta ¿Qué queda de un proyecto humano de larga duración cuando termina la conversación, cambia el modelo o deja de estar disponible el sistema que ayudaba en el trabajo? Un proyecto serio puede durar más que un chat, una sesión, un modelo y, con el tiempo, incluso más que un proveedor de AI. Entonces las decisiones se separan de las razones por las que fueron tomadas, las fuentes desaparecen de las conclusiones, los compromisos salen del campo de visión y la información obsoleta comienza a competir con aquello que realmente constituye el estado actual. El problema no se reduce a que la AI «olvide». Más profundamente, la historia misma del trabajo —qué ocurrió, por qué se tomó una decisión, 
+
+### es/projects/voiceprint/index.html
+
+- lang: es
+- section: projects
+- title: VOICEPRINT — ¿Dónde estoy yo en este flujo?
+- description: Voiceprint investiga qué debe conservarse cuando un texto atraviesa una lengua y una máquina, para que junto con las palabras no desaparezca quien las pronunció.
+- canonical: https://www.ashraellen.com/es/projects/voiceprint/
+- H1: VOICEPRINT
+- H2: ¿Dónde estoy yo en este flujo? | Cómo empezó todo | ¿Quién habla? | Primero apareció ATP | ¿Dónde estoy yo? | Autor | Un autor no es un conjunto de frases bonitas | Cuando un texto correcto se vuelve incorrecto
+- H3: _missing_
+- suggested keyword seed: voiceprint, dónde, estoy, texto, una, autor, con, cuando, este, flujo, las, para, projects, que, qué, apareció, ashraellen, atp
+- candidates: que, una, por, qué, con, texto, para, más, puede, poco, pero, voiceprint, eso, libro, los, autor, lengua, trabajo, decisiones, del, otra, ser, veces, proceso
+
+Excerpt:
+
+> VOICEPRINT ¿Dónde estoy yo en este flujo? Hoy un texto puede pasar por otra lengua, un modelo de AI, edición y adaptación — y volver casi impecable. Gramaticalmente correcto. Natural. Fluido. A veces incluso más literario que el original. Y precisamente aquí comienza el problema. Un texto puede mejorar después de este tipo de procesamiento. A veces, precisamente eso es la pérdida. Porque llega un momento en que la pregunta deja de ser: «¿Es una buena traducción?» Y pasa a ser: «¿Sigo estando yo ahí?» 01 Cómo empezó todo No empecé con libros. Cuando era joven, simplemente anotaba pensamientos. A veces era una frase. A veces unas líneas. Luego unas páginas. Después aparecieron los cuadernos. Anotaba observaciones, preguntas, dudas, imágenes sueltas y ciertas conclusiones — todo aquello que no quería perder. Poco a poco, las notas separadas empezaron a conectarse entre sí. Un pensamiento co
 
 ### es/public/index.html
 

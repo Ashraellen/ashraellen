@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T09:30:07.372Z",
+  "generated": "2026-09-04T09:31:05.171Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -18690,6 +18690,81 @@
         "debería",
         "decisiones",
         "del"
+      ]
+    },
+    {
+      "page": "es/projects/voiceprint/index.html",
+      "lang": "es",
+      "section": "projects",
+      "title": "VOICEPRINT — ¿Dónde estoy yo en este flujo?",
+      "description": "Voiceprint investiga qué debe conservarse cuando un texto atraviesa una lengua y una máquina, para que junto con las palabras no desaparezca quien las pronunció.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/es/projects/voiceprint/",
+      "h1": [
+        "VOICEPRINT"
+      ],
+      "h2": [
+        "¿Dónde estoy yo en este flujo?",
+        "Cómo empezó todo",
+        "¿Quién habla?",
+        "Primero apareció ATP",
+        "¿Dónde estoy yo?",
+        "Autor",
+        "Un autor no es un conjunto de frases bonitas",
+        "Cuando un texto correcto se vuelve incorrecto"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "es",
+        "projects",
+        "voiceprint"
+      ],
+      "excerpt": "VOICEPRINT ¿Dónde estoy yo en este flujo? Hoy un texto puede pasar por otra lengua, un modelo de AI, edición y adaptación — y volver casi impecable. Gramaticalmente correcto. Natural. Fluido. A veces incluso más literario que el original. Y precisamente aquí comienza el problema. Un texto puede mejorar después de este tipo de procesamiento. A veces, precisamente eso es la pérdida. Porque llega un momento en que la pregunta deja de ser: «¿Es una buena traducción?» Y pasa a ser: «¿Sigo estando yo ahí?» 01 Cómo empezó todo No empecé con libros. Cuando era joven, simplemente anotaba pensamientos. A veces era una frase. A veces unas líneas. Luego unas páginas. Después aparecieron los cuadernos. Anotaba observaciones, preguntas, dudas, imágenes sueltas y ciertas conclusiones — todo aquello que no quería perder. Poco a poco, las notas separadas empezaron a conectarse entre sí. Un pensamiento co",
+      "candidates": [
+        "que",
+        "una",
+        "por",
+        "qué",
+        "con",
+        "texto",
+        "para",
+        "más",
+        "puede",
+        "poco",
+        "pero",
+        "voiceprint",
+        "eso",
+        "libro",
+        "los",
+        "autor",
+        "lengua",
+        "trabajo",
+        "decisiones",
+        "del",
+        "otra",
+        "ser",
+        "veces",
+        "proceso"
+      ],
+      "suggestedKeywordSeed": [
+        "voiceprint",
+        "dónde",
+        "estoy",
+        "texto",
+        "una",
+        "autor",
+        "con",
+        "cuando",
+        "este",
+        "flujo",
+        "las",
+        "para",
+        "projects",
+        "que",
+        "qué",
+        "apareció",
+        "ashraellen",
+        "atp"
       ]
     },
     {
