@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-09-04T09:12:21.398Z
+Generated: 2026-09-04T09:23:48.664Z
 Pages: 864
 
 ## Index
@@ -619,7 +619,7 @@ Pages: 864
 | pt/public/thoughts/index-0002.html | pt | public | Ashraellen — Arco 0002 — PT | ashraellen, public, thoughts, index, 0002, arco, segundo, pensamentos, apoio, cadeira, vazia, generalização, vez, observação, onde, vida, parou, xícara | arco, apoio, pensamentos, segundo, ashraellen, generalização, não, observação, quando, xícara, 0002, arrependa, cadeira, fechar, livro, onde, parou, public |
 | pt/public/thoughts/index.html | pt | public | Ashraellen — Terceiro arco de pensamentos de apoio | Ashraellen, pensamentos de apoio, arco 0003, aceitação da realidade, testemunha, imagem | apoio, arco, pensamentos, ashraellen, desnecessária, fato, guerra, imagem, não, pensamento, problema, terceiro, coroa, perde, public, sutil, testemunha, abrir |
 | pt/research/archive/index.html | pt | research | Ashraellen — Arquivo de pesquisa | Ashraellen, arquivo de pesquisa, materiais de pesquisa, versões, camadas da pesquisa, pesquisa artística | arquivo, ashraellen, pesquisa, materiais, ainda, camadas, caminho, concluídas, não, que, research, vivo, anteriores, archive, está, fazem, movimento, para |
-| pt/research/index.html | pt | research | Ashraellen — Pesquisa | ashraellen, research, pesquisa, modo, ver, uma, artístico-filosófica, sentido, longo, vida, observação, como, ser, humano, perde, contato, com, realidade | pesquisa, ashraellen, como, sentido, uma, digital, observação, que, research, aberto, artística, artístico-filosófica, com, conhecimento, contato, contínua, dentro, entender |
+| pt/research/index.html | pt | research | Ashraellen — Pesquisa | ashraellen, research, pesquisa, modo, ver, uma, artístico-filosófica, sentido, longo, vida, observação, como, ser, humano, perde, contato, com, realidade | pesquisa, ashraellen, como, sentido, uma, digital, observação, que, research, aberto, artística, artístico-filosófica, com, conhecimento, contato, contínua, entender, este |
 | pt/research/method/index.html | pt | research | Ashraellen — Método de Observação | ashraellen, research, method, método, observação, registro, nós, sentido, forma, artística, como, instrumento, pesquisa, verificação, pelo, reconhecimento, campo, aparece | observação, ashraellen, como, método, que, artística, forma, não, pesquisa, por, research, sentido, verificação, aparece, aqui, campo, dentro, formas |
 | pt/research/notes/index.html | pt | research | Ashraellen — Notas | ashraellen, notas, margens, pesquisa, dúvidas, fragmentos | ashraellen, notas, margens, doutrina, dúvidas, fragmentos, material, que, recusa, research, tornar, assim, concebido, deliberadamente, notes |
 | pt/research/position/index.html | pt | research | Ashraellen — Posição | ashraellen, posição, pesquisa artística, Realidade, aceitação, Criador, liberdade humana, religião, responsabilidade | ashraellen, realidade, não, posição, aceitação, pessoa, ponto, research, responsabilidade, sem, uma, agir, aprovação, caminho, coerção, com, como, compreensão |
@@ -11288,8 +11288,8 @@ Excerpt:
 - H1: Pesquisa
 - H2: O que é investigado | Como isso é feito | Forma fragmentária, pesquisa contínua | Método | Como entender este trabalho | Pesquisa artística | Conhecimento aberto | Sociedade digital
 - H3: _missing_
-- suggested keyword seed: pesquisa, ashraellen, como, sentido, uma, digital, observação, que, research, aberto, artística, artístico-filosófica, com, conhecimento, contato, contínua, dentro, entender
-- candidates: uma, como, pesquisa, não, que, mas, sentido, ashraellen, observação, digital, por, dentro, modo, para, são, onde, trabalho, abrir, forma, pensamento, percepção, pessoa, pode, ser
+- suggested keyword seed: pesquisa, ashraellen, como, sentido, uma, digital, observação, que, research, aberto, artística, artístico-filosófica, com, conhecimento, contato, contínua, entender, este
+- candidates: uma, como, pesquisa, não, que, mas, sentido, ashraellen, observação, por, digital, para, abrir, dentro, modo, onde, pessoa, são, com, ser, trabalho, forma, pensamento, percepção
 
 Excerpt:
 
