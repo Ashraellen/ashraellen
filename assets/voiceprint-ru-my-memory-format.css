@@ -1,0 +1,258 @@
+/* RU-only Voiceprint formatting alignment with MY MEMORY.
+   Loaded only by /ru/projects/voiceprint/. Content and Voiceprint-specific structure remain unchanged. */
+
+.voiceprint-memory-format .main{
+  justify-content:flex-start;
+}
+
+.voiceprint-memory-format .content{
+  max-width:980px;
+  margin:0;
+  padding:42px 44px 60px;
+}
+
+.voiceprint-memory-format .hero{
+  max-width:none;
+  margin:0 0 30px;
+}
+
+.voiceprint-memory-format .h1{
+  margin:0 0 8px;
+  font-size:var(--fs-h1-static);
+  line-height:1.2;
+  font-weight:600;
+  letter-spacing:0;
+  color:var(--fg);
+  opacity:1;
+}
+
+.voiceprint-memory-format .hero-question{
+  margin:0 0 12px;
+  font-size:var(--fs-emphasis);
+  line-height:var(--lh-emphasis);
+  font-weight:600;
+  letter-spacing:0;
+  color:var(--fg);
+}
+
+.voiceprint-memory-format .hero-copy,
+.voiceprint-memory-format .origin-teaser p,
+.voiceprint-memory-format .origin-full p{
+  margin:0 0 12px;
+  max-width:76ch;
+  font-size:var(--fs-body);
+  line-height:var(--lh-body);
+  color:var(--muted);
+}
+
+.voiceprint-memory-format .body-copy{
+  margin:0 0 12px;
+  max-width:76ch;
+  font-size:var(--fs-body);
+  line-height:var(--lh-body);
+  color:var(--muted);
+}
+
+.voiceprint-memory-format .pause-lines{
+  margin:14px 0 18px;
+  max-width:70ch;
+  font-size:var(--fs-lead);
+  line-height:var(--lh-lead);
+  color:var(--fg);
+}
+
+.voiceprint-memory-format .emphasis,
+.voiceprint-memory-format .principle{
+  margin:18px 0 24px;
+  max-width:70ch;
+  font-size:var(--fs-emphasis);
+  line-height:var(--lh-emphasis);
+  color:var(--fg);
+}
+
+.voiceprint-memory-format .chapter-nav{
+  max-width:900px;
+  justify-content:flex-start;
+  gap:8px 18px;
+  margin:18px 0 34px;
+  padding:12px 0;
+}
+
+.voiceprint-memory-format .chapter{
+  max-width:900px;
+  margin:0 0 38px;
+}
+
+.voiceprint-memory-format .chapter + .chapter{
+  padding-top:24px;
+  border-top:1px solid rgba(242,242,244,.14);
+}
+
+.voiceprint-memory-format .chapter-head{
+  max-width:none;
+  margin:0 0 16px;
+  gap:9px;
+}
+
+.voiceprint-memory-format .chapter-title{
+  margin:0;
+  font-size:var(--fs-h2);
+  line-height:var(--lh-body);
+  font-weight:600;
+  letter-spacing:0;
+}
+
+.voiceprint-memory-format .section{
+  max-width:900px;
+  margin:0 0 26px;
+}
+
+.voiceprint-memory-format .section + .section{
+  margin-top:26px;
+}
+
+.voiceprint-memory-format .section > h2,
+.voiceprint-memory-format .voiceprint-contact h2{
+  margin:0 0 10px;
+  font-size:var(--fs-h2);
+  line-height:var(--lh-body);
+  font-weight:600;
+}
+
+.voiceprint-memory-format .section > h3,
+.voiceprint-memory-format .origin-full h3{
+  margin:16px 0 8px;
+  font-size:var(--fs-emphasis);
+  line-height:var(--lh-emphasis);
+  font-weight:600;
+}
+
+.voiceprint-memory-format .origin,
+.voiceprint-memory-format .vp-card,
+.voiceprint-memory-format .vp-monolith,
+.voiceprint-memory-format .vp-stage{
+  border:1px solid rgba(242,242,244,.14);
+  border-radius:16px;
+  background:#000;
+  box-shadow:none;
+}
+
+.voiceprint-memory-format .origin,
+.voiceprint-memory-format .vp-card,
+.voiceprint-memory-format .vp-monolith{
+  padding:18px 16px;
+}
+
+.voiceprint-memory-format .vp-card,
+.voiceprint-memory-format .vp-monolith{
+  margin:22px 0 26px;
+}
+
+.voiceprint-memory-format .vp-stages{
+  max-width:900px;
+  margin:16px 0 26px;
+  gap:16px;
+}
+
+.voiceprint-memory-format .vp-stage{
+  padding:18px 16px;
+}
+
+.voiceprint-memory-format .island{
+  max-width:70ch;
+}
+
+.voiceprint-memory-format .final-line{
+  margin:18px 0 0;
+  max-width:70ch;
+  font-size:var(--fs-emphasis);
+  line-height:var(--lh-emphasis);
+}
+
+.voiceprint-memory-format .vp-action{
+  margin-top:14px;
+  padding:0;
+  border:0;
+  border-radius:0;
+  background:none;
+  font-size:var(--fs-body);
+  line-height:var(--lh-body);
+  font-weight:400;
+  border-bottom:1px solid rgba(242,242,244,.25);
+}
+
+.voiceprint-memory-format .vp-action:hover{
+  border-color:var(--fg);
+  background:none;
+}
+
+.voiceprint-memory-format .voiceprint-contact{
+  max-width:900px;
+  margin:30px 0 0;
+  padding:0;
+  border-top:0;
+}
+
+.voiceprint-memory-format .voiceprint-contact-kicker{
+  display:none;
+}
+
+.voiceprint-memory-format .voiceprint-contact-copy{
+  max-width:76ch;
+  font-size:var(--fs-body);
+  line-height:var(--lh-body);
+  color:var(--muted);
+}
+
+.voiceprint-memory-format .voiceprint-contact-email{
+  margin:14px 0 0;
+  font-size:var(--fs-body);
+  line-height:var(--lh-body);
+}
+
+.voiceprint-memory-format .seal{
+  max-width:none;
+  margin:34px 0 0;
+}
+
+.voiceprint-memory-format .vp-finale{
+  max-width:900px;
+  margin:30px 0 0;
+  padding-top:0;
+  border-top:0;
+}
+
+.voiceprint-memory-format .vp-finale .final-line{
+  margin-top:18px;
+  font-size:var(--fs-emphasis);
+  line-height:var(--lh-emphasis);
+}
+
+@media (max-width:900px){
+  .voiceprint-memory-format .content{
+    padding:32px 22px 44px;
+  }
+
+  .voiceprint-memory-format .hero{
+    margin-bottom:26px;
+  }
+
+  .voiceprint-memory-format .chapter-nav{
+    margin-bottom:30px;
+  }
+
+  .voiceprint-memory-format .chapter{
+    margin-bottom:32px;
+  }
+
+  .voiceprint-memory-format .chapter + .chapter{
+    padding-top:22px;
+  }
+
+  .voiceprint-memory-format .origin,
+  .voiceprint-memory-format .vp-card,
+  .voiceprint-memory-format .vp-monolith,
+  .voiceprint-memory-format .vp-stage{
+    padding:18px 16px;
+  }
+}
