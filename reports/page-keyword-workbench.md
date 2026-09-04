@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-09-04T09:00:19.960Z
-Pages: 859
+Generated: 2026-09-04T09:01:04.160Z
+Pages: 860
 
 ## Index
 
@@ -398,6 +398,7 @@ Pages: 859
 | fr/monolith/index.html | fr | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, fr, monolith | monolith, beton, gas, sludge, ashraellen, est, mémoire, sur, une, amazon, anglais, contrôle, contrôlée, des, désintégration, dystopique, états, l’effondrement |
 | fr/privacy.html | fr | privacy.html | Politique de confidentialité — Ashraellen | _missing_ | confidentialité, politique, données, analyse, ashraellen, cookies, être, jour, services, achats, base, cette, collectées, contact, d’ashraellen.com, des, droits, externes |
 | fr/professional/index.html | fr | professional | Ashraellen — Dossier professionnel | _missing_ | ashraellen, formes, recherche, axes, d’observation, dossier, méthode, œuvres, parallèles, pratique, professional, professionnel, publiques, sélectionnées, travail, artistico-philosophique, artistiques, aujourd’hui |
+| fr/projects/my-memory/index.html | fr | projects | MY MEMORY — la continuité sous le contrôle de la personne | _missing_ | continuité, memory, contrôle, les, mémoire, personne, sous, comment, projects, projet, que, qui, rester, une, appartenir, ashraellen, cela, compte |
 | fr/public/index.html | fr | public | Ashraellen — Public | Ashraellen, champ public, interventions, publications, pensées d’appui, recherche, observations | public, ashraellen, d’appui, pensées, interventions, personne, publications, avec, champ, dans, elle, les, nouvelles, observations, ouvrir, pas, pensée, projets |
 | fr/public/posts/essay/cycles/cycle-0001.html | fr | public | Ashraellen — Premier cycle de mini-essais | ashraellen, public, posts, essay, cycles, cycle, 0001, premier, mini-essais, pouvoir, non, sur, pensée, mais, l’attention, corps, est, première | cycle, premier, est, mais, non, sur, corps, passé, pensée, ashraellen, interprétation, l’attention, mini-essais, porte, pouvoir, première, public, son |
 | fr/public/posts/essay/cycles/index.html | fr | public | Ashraellen — Cycles de mini-essais | ashraellen, public, posts, essay, cycles, mini-essais, achevés, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | cycles, mini-essais, achevés, actuel, cycle, ashraellen, ici, les, principale, public, rassemblés, section, sont, essay, posts, premier, sur, trouve |
@@ -7515,6 +7516,23 @@ Excerpt:
 Excerpt:
 
 > Dossier professionnel Ashraellen Une manière de voir · Pratique littéraire et artistico-philosophique · Recherche · Archive publique Cette page présente l’activité d’Ashraellen dans un contexte professionnel — pour les maisons d’édition, les organisations culturelles et de recherche, les fondations, les partenaires, les médias et d’autres formes de collaboration. Le site principal demeure un espace vivant de livres, de recherches, de textes publics et d’autres travaux ; ce dossier offre une vision plus concentrée de ce qu’est aujourd’hui la pratique d’Ashraellen et des directions dans lesquelles elle se développe. Noyau de recherche Ashraellen n’est pas tout à fait un nom ; c’est plutôt une manière de voir. Il s’agit d’une recherche artistico-philosophique menée tout au long d’une vie sur le sens, la perception, l’auto-aveuglement, la liberté intérieure et la perte humaine de contact ave
+
+### fr/projects/my-memory/index.html
+
+- lang: fr
+- section: projects
+- title: MY MEMORY — la continuité sous le contrôle de la personne
+- description: MY MEMORY explore comment les décisions, leurs raisons, les sources et l’état d’un projet peuvent rester récupérables entre sessions, modèles et fournisseurs d’AI, tandis que la mémoire durable reste sous le contrôle de la personne.
+- canonical: https://www.ashraellen.com/fr/projects/my-memory/
+- H1: MY MEMORY
+- H2: Votre mémoire devrait vous appartenir. | Perte de continuité | La question | Ce qui doit rester | Pourquoi une continuité sous contrôle humain compte | Système | Comment cela fonctionne | Éléments
+- H3: Récupération par un successeur propre | Récit de l’histoire du projet | Tests de récupération portable | Parcours avec utilisateurs externes
+- suggested keyword seed: continuité, memory, contrôle, les, mémoire, personne, sous, comment, projects, projet, que, qui, rester, une, appartenir, ashraellen, cela, compte
+- candidates: une, les, des, pas, continuité, qui, que, mémoire, projet, est, personne, travail, système, avec, d’un, dans, état, n’est, peut, plus, actuel, d’ai, memory, par
+
+Excerpt:
+
+> MY MEMORY Votre mémoire devrait vous appartenir. Une infrastructure de recherche et de travail pour la continuité des projets de longue durée assistés par AI. 01 Perte de continuité La question Que reste-t-il d’un projet humain de longue durée lorsque la conversation s’achève, que le modèle change ou que le système qui aidait au travail n’est plus disponible ? Un projet sérieux peut survivre à un chat, une session, un modèle et, avec le temps, même à un fournisseur d’AI. Les décisions se séparent alors des raisons qui les ont produites, les sources disparaissent des conclusions, les engagements sortent du champ de vision et les informations obsolètes commencent à rivaliser avec ce qui constitue réellement l’état actuel. Le problème ne se réduit pas au fait que l’AI « oublie ». Plus profondément, l’histoire même du travail — ce qui s’est passé, pourquoi une décision a été prise, ce qui a 
 
 ### fr/public/index.html
 
