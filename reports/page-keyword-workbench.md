@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-09-04T09:10:42.357Z
+Generated: 2026-09-04T09:11:34.265Z
 Pages: 864
 
 ## Index
@@ -296,7 +296,7 @@ Pages: 864
 | es/public/thoughts/index-0002.html | es | public | Ashraellen — Arco 0002 | ashraellen, public, thoughts, index, 0002, arco, segundo, pensamientos, apoyo, silla, vacía, generalización, vez, observación, donde, vida, detuvo, taza | arco, apoyo, ashraellen, pensamientos, segundo, arrepientas, generalización, observación, taza, 0002, cerrar, cuándo, detuvo, donde, libro, public, silla, sucia |
 | es/public/thoughts/index.html | es | public | Ashraellen — Tercer arco de pensamientos de apoyo | Ashraellen, pensamientos de apoyo, arco 0003, aceptación de la realidad, testigo, imagen | apoyo, arco, pensamientos, ashraellen, guerra, hecho, imagen, innecesaria, pensamiento, problema, sutil, tercer, testigo, corona, pierde, public, abrir, feliz |
 | es/research/archive/index.html | es | research | Ashraellen — Archivo de investigación | Ashraellen, archivo de investigación, materiales de investigación, versiones, capas de investigación, investigación artística | archivo, ashraellen, investigación, del, materiales, camino, capas, concluidas, que, research, vivo, anteriores, archive, están, forman, libros, movimiento, parte |
-| es/research/index.html | es | research | Ashraellen — Investigación | ashraellen, research, investigación, una, forma, ver, artístico-filosófica, del, sentido, largo, vida, observación, cómo, ser, humano, pierde, contacto, con | investigación, ashraellen, cómo, una, forma, sentido, con, del, observación, research, abierto, artística, artístico-filosófica, como, conocimiento, contacto, continua, digital |
+| es/research/index.html | es | research | Ashraellen — Investigación | ashraellen, research, investigación, una, forma, ver, artístico-filosófica, del, sentido, largo, vida, observación, cómo, ser, humano, pierde, contacto, con | investigación, ashraellen, cómo, una, forma, sentido, con, del, research, abierto, artística, artístico-filosófica, como, conocimiento, contacto, continua, digital, entender |
 | es/research/method/index.html | es | research | Ashraellen — Método de observación | ashraellen, research, method, método, observación, registro, nudos, sentido, forma, artística, como, instrumento, investigación, verificación, mediante, reconocimiento, nudo, campo | observación, ashraellen, método, artística, como, forma, hay, investigación, por, que, research, sentido, verificación, aparece, aquí, campo, cómo, con |
 | es/research/notes/index.html | es | research | Ashraellen — Notas | ashraellen, notas, márgenes, investigación, dudas, fragmentos | ashraellen, notas, márgenes, convertirse, doctrina, dudas, fragmentos, material, niega, que, research, así, concebido, deliberadamente, notes |
 | es/research/position/index.html | es | research | Ashraellen — Posición | ashraellen, posición, investigación artística, Realidad, aceptación, Creador, libertad humana, religión, responsabilidad | ashraellen, realidad, posición, comprensión, persona, punto, research, responsabilidad, sin, una, aceptación, aceptar, actuar, aprobar, camino, coacción, como, con |
@@ -5797,8 +5797,8 @@ Excerpt:
 - H1: Investigación
 - H2: Qué se investiga | Cómo se hace | Forma fragmentaria, investigación continua | Método | Cómo entender este trabajo | Investigación artística | Conocimiento abierto | Sociedad digital
 - H3: _missing_
-- suggested keyword seed: investigación, ashraellen, cómo, una, forma, sentido, con, del, observación, research, abierto, artística, artístico-filosófica, como, conocimiento, contacto, continua, digital
-- candidates: una, investigación, del, cómo, que, sino, sentido, ashraellen, como, forma, observación, con, las, digital, dentro, donde, son, abrir, más, para, pensamiento, percepción, persona, puede
+- suggested keyword seed: investigación, ashraellen, cómo, una, forma, sentido, con, del, research, abierto, artística, artístico-filosófica, como, conocimiento, contacto, continua, digital, entender
+- candidates: una, investigación, del, cómo, que, sino, como, con, sentido, ashraellen, las, forma, observación, digital, abrir, dentro, persona, donde, los, para, son, más, pensamiento, percepción
 
 Excerpt:
 
