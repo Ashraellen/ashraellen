@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-09-04T09:03:21.437Z
-Pages: 863
+Generated: 2026-09-04T09:05:32.701Z
+Pages: 864
 
 ## Index
 
@@ -325,6 +325,7 @@ Pages: 863
 | fi/kone/index.html | fi | kone | Radiance: Sampo and Song — Ashraellen | Ashraellen, Radiance, HOHDE, Sampo, Song, Laulu, taiteellinen tutkimus, mytopoetiikka, suomalais-karjalainen, Kalevala | radiance, sampo, song, ashraellen, kone, laulu, mitä, työ, avaa, ihmisen, jonka, kalevalaan, kehittyy, kenttä, kirjallinen, kirjallis-filosofinen, kulttuurinen, kytkeytyvä |
 | fi/privacy.html | fi | privacy.html | Tietosuojakäytäntö — Ashraellen | _missing_ | analytiikka, tietoja, tietosuojakäytäntö, ashraellen, evästeet, kerätä, palvelut, voidaan, ashraellen.com, ashraellen.comin, google, henkilötiedot, käsittelyn, kauan, käytetään, käyttää, käyttäjän, kolmannen |
 | fi/professional/index.html | fi | professional | Ashraellen — Ammatillinen esittely | _missing_ | ashraellen, ammatillinen, ashraellenin, esittely, havainnoinnin, julkiset, käytäntö, menetelmä, muodot, professional, rinnakkaiset, ammatilliset, eri, jossa, julkinen, kehykset, kenttä, kirjallinen |
+| fi/projects/my-memory/index.html | fi | projects | MY MEMORY — muisti ja jatkuvuus ihmisen hallinnassa | _missing_ | memory, ihmisen, jatkuvuus, pitäisi, hallinnassa, mitä, miten, muisti, projects, säilyä, tila, ai-istuntojen, ashraellen, hallitsema, järjestelmä, jatkuvuuden, kun, kuulua |
 | fi/projects/voiceprint/index.html | fi | projects | VOICEPRINT — Missä minä olen tässä virrassa? | _missing_ | voiceprint, minä, missä, olen, mitä, ole, projects, sen, tässä, tekijä, virrassa, alkoi, ashraellen, atp, ensin, että, itse, joka |
 | fi/public/index.html | fi | public | Ashraellen — Julkinen | Ashraellen, julkinen kenttä, puheet, julkaisut, tukiajatukset, tutkimus, havainnot | julkinen, ashraellen, ashraellenin, missä, public, ajatus, avaa, elävän, hän, havaintoja, hinta, ihminen, ihmisen, julkaisuja, julkaisut, kansa, kenttä, kohtaa |
 | fi/public/posts/essay/cycles/cycle-0001.html | fi | public | Ashraellen — Ensimmäinen miniesseesykli | Ashraellen, miniessee, huomio, keho, menneisyys, tietoisuus | ensimmäinen, ashraellen, keho, menneisyys, miniesseesykli, public, sykli, vaan, ajatukseen, älä, alkaa, ashraellenin, cycle, cycles, elää, essay, harjoitukseksi, huomio |
@@ -6278,6 +6279,23 @@ Excerpt:
 Excerpt:
 
 > Ammatillinen esittely Ashraellen Tapa nähdä · Kirjallinen ja taiteellis-filosofinen käytäntö · Tutkimus · Julkinen arkisto Tämä sivu esittelee Ashraellenin toimintaa ammatillisessa yhteydessä — kustantajille, kulttuuri- ja tutkimusorganisaatioille, säätiöille, kumppaneille, medialle ja muille yhteistyötahoille. Pääsivusto säilyy elävänä kirjojen, tutkimuksen, julkisten tekstien ja muiden teosten tilana; tämä esittely kokoaa tiiviimmin sen, mitä Ashraellenin käytäntö on tänään ja mihin suuntiin se kehittyy. Tutkimuksellinen ydin Ashraellen ei ole aivan nimi; pikemminkin se on tapa nähdä. Kyse on elämänmittaisesta taiteellis-filosofisesta tutkimuksesta, joka tarkastelee merkitystä, havaitsemista, itsepetosta, sisäistä vapautta ja ihmisen yhteyden katoamista todellisuuteen. Työ perustuu tekijän kykyyn nähdä merkityksiä merkitysten sisällä, rakenteita rakenteiden sisällä ja leikkauspisteitä 
+
+### fi/projects/my-memory/index.html
+
+- lang: fi
+- section: projects
+- title: MY MEMORY — muisti ja jatkuvuus ihmisen hallinnassa
+- description: MY MEMORY tutkii, miten päätökset, niiden syyt, lähteet ja projektin tila voivat säilyä palautettavina AI-istuntojen, mallien ja palveluntarjoajien välillä samalla kun pitkäkestoinen muisti pysyy ihmisen hallinnassa.
+- canonical: https://www.ashraellen.com/fi/projects/my-memory/
+- H1: MY MEMORY
+- H2: Muistisi pitäisi kuulua sinulle. | Jatkuvuuden menetys | Kysymys | Mitä pitäisi säilyä | Miksi ihmisen hallitsema jatkuvuus merkitsee | Järjestelmä | Miten se toimii | Näyttö
+- H3: Puhdas seuraajapalautus | Projektihistorian uudelleenkerronta | Siirrettävän palautuksen testit | Ulkoisten käyttäjien työnkulut
+- suggested keyword seed: memory, ihmisen, jatkuvuus, pitäisi, hallinnassa, mitä, miten, muisti, projects, säilyä, tila, ai-istuntojen, ashraellen, hallitsema, järjestelmä, jatkuvuuden, kun, kuulua
+- candidates: mitä, ihmisen, ole, jatkuvuus, voi, mikä, pitäisi, memory, nykyinen, tai, tila, vain, miten, sen, välillä, eikä, että, ihminen, järjestelmä, käyttäjän, projektin, tiedon, istuntojen, kun
+
+Excerpt:
+
+> MY MEMORY Muistisi pitäisi kuulua sinulle. Tutkimus- ja työinfrastruktuuri pitkäkestoisen AI-avusteisen työn jatkuvuudelle. 01 Jatkuvuuden menetys Kysymys Mitä pitkäkestoisesta ihmisen projektista jää jäljelle, kun keskustelu päättyy, malli vaihtuu tai työtä auttanut järjestelmä ei enää ole käytettävissä? Vakava projekti voi elää pidempään kuin yksi chat, istunto, malli ja lopulta myös AI-palveluntarjoaja. Silloin päätökset irtoavat syistä, joiden vuoksi ne tehtiin, lähteet katoavat johtopäätöksistä, sitoumukset putoavat näkyvistä ja vanhentunut tieto alkaa kilpailla sen kanssa, mikä todella on nykyinen tila. Ongelma ei ole vain se, että AI ”unohtaa”. Syvempi ongelma on se, että työn historia — mitä tapahtui, miksi päätös tehtiin, mikä myöhemmin muuttui ja mikä tila on nyt auktoritatiivinen — voi hajota järjestelmien välille tavalla, jota ihminen eikä seuraava AI enää täysin hallitse. Mi
 
 ### fi/projects/voiceprint/index.html
 

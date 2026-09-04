@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T09:03:21.423Z",
+  "generated": "2026-09-04T09:05:32.686Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -23775,6 +23775,87 @@
         "kehykset",
         "kenttä",
         "kirjallinen"
+      ]
+    },
+    {
+      "page": "fi/projects/my-memory/index.html",
+      "lang": "fi",
+      "section": "projects",
+      "title": "MY MEMORY — muisti ja jatkuvuus ihmisen hallinnassa",
+      "description": "MY MEMORY tutkii, miten päätökset, niiden syyt, lähteet ja projektin tila voivat säilyä palautettavina AI-istuntojen, mallien ja palveluntarjoajien välillä samalla kun pitkäkestoinen muisti pysyy ihmisen hallinnassa.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/fi/projects/my-memory/",
+      "h1": [
+        "MY MEMORY"
+      ],
+      "h2": [
+        "Muistisi pitäisi kuulua sinulle.",
+        "Jatkuvuuden menetys",
+        "Kysymys",
+        "Mitä pitäisi säilyä",
+        "Miksi ihmisen hallitsema jatkuvuus merkitsee",
+        "Järjestelmä",
+        "Miten se toimii",
+        "Näyttö"
+      ],
+      "h3": [
+        "Puhdas seuraajapalautus",
+        "Projektihistorian uudelleenkerronta",
+        "Siirrettävän palautuksen testit",
+        "Ulkoisten käyttäjien työnkulut"
+      ],
+      "slugTerms": [
+        "fi",
+        "projects",
+        "my",
+        "memory"
+      ],
+      "excerpt": "MY MEMORY Muistisi pitäisi kuulua sinulle. Tutkimus- ja työinfrastruktuuri pitkäkestoisen AI-avusteisen työn jatkuvuudelle. 01 Jatkuvuuden menetys Kysymys Mitä pitkäkestoisesta ihmisen projektista jää jäljelle, kun keskustelu päättyy, malli vaihtuu tai työtä auttanut järjestelmä ei enää ole käytettävissä? Vakava projekti voi elää pidempään kuin yksi chat, istunto, malli ja lopulta myös AI-palveluntarjoaja. Silloin päätökset irtoavat syistä, joiden vuoksi ne tehtiin, lähteet katoavat johtopäätöksistä, sitoumukset putoavat näkyvistä ja vanhentunut tieto alkaa kilpailla sen kanssa, mikä todella on nykyinen tila. Ongelma ei ole vain se, että AI ”unohtaa”. Syvempi ongelma on se, että työn historia — mitä tapahtui, miksi päätös tehtiin, mikä myöhemmin muuttui ja mikä tila on nyt auktoritatiivinen — voi hajota järjestelmien välille tavalla, jota ihminen eikä seuraava AI enää täysin hallitse. Mi",
+      "candidates": [
+        "mitä",
+        "ihmisen",
+        "ole",
+        "jatkuvuus",
+        "voi",
+        "mikä",
+        "pitäisi",
+        "memory",
+        "nykyinen",
+        "tai",
+        "tila",
+        "vain",
+        "miten",
+        "sen",
+        "välillä",
+        "eikä",
+        "että",
+        "ihminen",
+        "järjestelmä",
+        "käyttäjän",
+        "projektin",
+        "tiedon",
+        "istuntojen",
+        "kun"
+      ],
+      "suggestedKeywordSeed": [
+        "memory",
+        "ihmisen",
+        "jatkuvuus",
+        "pitäisi",
+        "hallinnassa",
+        "mitä",
+        "miten",
+        "muisti",
+        "projects",
+        "säilyä",
+        "tila",
+        "ai-istuntojen",
+        "ashraellen",
+        "hallitsema",
+        "järjestelmä",
+        "jatkuvuuden",
+        "kun",
+        "kuulua"
       ]
     },
     {
