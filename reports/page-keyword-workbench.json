@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T08:59:45.760Z",
+  "generated": "2026-09-04T09:00:19.947Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -18453,6 +18453,87 @@
         "trabajo",
         "artísticas",
         "artístico-filosófica"
+      ]
+    },
+    {
+      "page": "es/projects/my-memory/index.html",
+      "lang": "es",
+      "section": "projects",
+      "title": "MY MEMORY — continuidad bajo el control de la persona",
+      "description": "MY MEMORY investiga cómo decisiones, razones, fuentes y estados de proyecto pueden seguir siendo recuperables entre sesiones, modelos y proveedores de AI mientras la memoria duradera permanece bajo el control de la persona.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/es/projects/my-memory/",
+      "h1": [
+        "MY MEMORY"
+      ],
+      "h2": [
+        "Tu memoria debería pertenecerte.",
+        "Pérdida de continuidad",
+        "La pregunta",
+        "Qué debe conservarse",
+        "Por qué importa la continuidad bajo control humano",
+        "Sistema",
+        "Cómo funciona",
+        "Evidencia"
+      ],
+      "h3": [
+        "Recuperación por un sucesor limpio",
+        "Relato de la historia del proyecto",
+        "Pruebas de recuperación portátil",
+        "Flujos con usuarios externos"
+      ],
+      "slugTerms": [
+        "es",
+        "projects",
+        "my",
+        "memory"
+      ],
+      "excerpt": "MY MEMORY Tu memoria debería pertenecerte. Una infraestructura de investigación y trabajo para mantener la continuidad en proyectos de larga duración asistidos por AI. 01 Pérdida de continuidad La pregunta ¿Qué queda de un proyecto humano de larga duración cuando termina la conversación, cambia el modelo o deja de estar disponible el sistema que ayudaba en el trabajo? Un proyecto serio puede durar más que un chat, una sesión, un modelo y, con el tiempo, incluso más que un proveedor de AI. Entonces las decisiones se separan de las razones por las que fueron tomadas, las fuentes desaparecen de las conclusiones, los compromisos salen del campo de visión y la información obsoleta comienza a competir con aquello que realmente constituye el estado actual. El problema no se reduce a que la AI «olvide». Más profundamente, la historia misma del trabajo —qué ocurrió, por qué se tomó una decisión, ",
+      "candidates": [
+        "una",
+        "que",
+        "qué",
+        "continuidad",
+        "del",
+        "por",
+        "estado",
+        "memoria",
+        "los",
+        "persona",
+        "actual",
+        "proyecto",
+        "trabajo",
+        "las",
+        "con",
+        "sistema",
+        "más",
+        "puede",
+        "recuperación",
+        "fuentes",
+        "historia",
+        "memory",
+        "cómo",
+        "decisiones"
+      ],
+      "suggestedKeywordSeed": [
+        "continuidad",
+        "memory",
+        "bajo",
+        "control",
+        "memoria",
+        "persona",
+        "qué",
+        "cómo",
+        "por",
+        "projects",
+        "proyecto",
+        "actual",
+        "ashraellen",
+        "conservarse",
+        "debe",
+        "debería",
+        "decisiones",
+        "del"
       ]
     },
     {
