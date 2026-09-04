@@ -64,6 +64,7 @@ a:hover{text-decoration:underline}
   max-width:1180px;
   margin:0 auto;
   padding:46px 54px 72px;
+  counter-reset:my-memory-section;
 }
 
 .h1,
@@ -117,15 +118,29 @@ a:hover{text-decoration:underline}
 }
 
 .content > h2{
-  margin-top:46px;
-  margin-bottom:10px;
-  padding-top:34px;
+  counter-increment:my-memory-section;
+  display:flex;
+  align-items:baseline;
+  gap:12px;
+  margin-top:56px;
+  margin-bottom:24px;
+  padding-top:46px;
   border-top:1px solid rgba(242,242,244,.16);
-  font-size:clamp(28px,3.6vw,36px);
+  font-size:clamp(32px,4vw,40px);
   line-height:1.16;
   font-weight:650;
   letter-spacing:-.012em;
   color:var(--fg);
+}
+
+.content > h2::before{
+  content:counter(my-memory-section, decimal-leading-zero);
+  flex:0 0 auto;
+  font-size:var(--fs-kicker);
+  line-height:var(--lh-kicker);
+  letter-spacing:.08em;
+  color:rgba(242,242,244,.42);
+  font-variant-numeric:tabular-nums;
 }
 
 .content > h2:first-of-type{
@@ -282,9 +297,10 @@ a:hover{text-decoration:underline}
   .tagline{margin-bottom:14px}
   .dek{margin-bottom:36px}
   .content > h2{
-    margin-top:34px;
-    padding-top:26px;
-    font-size:clamp(25px,7vw,30px);
+    margin-top:42px;
+    padding-top:34px;
+    gap:10px;
+    font-size:clamp(28px,8vw,34px);
     line-height:1.18;
   }
   .content > h2:first-of-type{margin-top:0;padding-top:0}
