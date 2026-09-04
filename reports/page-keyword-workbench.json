@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T00:43:21.075Z",
+  "generated": "2026-09-04T00:44:19.020Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -36730,7 +36730,6 @@
         "Czym jest obecność autora?"
       ],
       "h3": [
-        "Pełna historia",
         "What must an AI not translate?"
       ],
       "slugTerms": [
@@ -36738,7 +36737,7 @@
         "projects",
         "voiceprint"
       ],
-      "excerpt": "VOICEPRINT Gdzie w tym przepływie jestem JA? Dziś tekst może przejść przez kilka języków, modeli AI, redakcję, adaptację — i wrócić do nas niemal bez skazy. Poprawny gramatycznie. Naturalny. Płynny. Czasem nawet bardziej literacki niż oryginał. I właśnie tutaj pojawia się problem. Po takiej obróbce tekst może stać się lepszy. Czasem właśnie na tym polega strata. Voiceprint bada, co musi zostać zachowane podczas przejścia przez język i maszynę, aby wraz ze słowami nie zniknął ten, kto je wypowiedział. 01 Początek Jak to się zaczęło Nie zaczynałem od książek. W młodości po prostu zapisywałem myśli. Czasem było to jedno zdanie. Czasem kilka linijek. Potem kilka stron. Potem pojawiły się zeszyty. Stopniowo te zapiski zaczęły łączyć się ze sobą. Jedna myśl prowadziła do następnej, krótkie fragmenty zamieniały się w dłuższe teksty. I w pewnym momencie po raz pierwszy pomyślałem: a może zebrać ",
+      "excerpt": "VOICEPRINT Gdzie w tym przepływie jestem JA? Dziś tekst może przejść przez kilka języków, modeli AI, redakcję, adaptację — i wrócić do nas niemal bez skazy. Poprawny gramatycznie. Naturalny. Płynny. Czasem nawet bardziej literacki niż oryginał. I właśnie tutaj pojawia się problem. Po takiej obróbce tekst może stać się lepszy. Czasem właśnie na tym polega strata. Voiceprint bada, co musi zostać zachowane podczas przejścia przez język i maszynę, aby wraz ze słowami nie zniknął ten, kto je wypowiedział. 01 Początek Jak to się zaczęło Nie zaczynałem od książek. W młodości po prostu zapisywałem myśli. Czasem było to jedno zdanie. Czasem kilka linijek. Potem kilka stron. Potem pojawiły się zeszyty. Zapisywałem obserwacje, pytania, wątpliwości, pojedyncze obrazy, jakieś wnioski — wszystko to, czego nie chciałem stracić. Stopniowo te zapiski zaczęły łączyć się ze sobą. Jedna myśl prowadziła do n",
       "candidates": [
         "nie",
         "się",
@@ -36750,15 +36749,15 @@
         "pytanie",
         "nas",
         "przez",
-        "właśnie",
         "dlatego",
         "tym",
-        "czasem",
+        "właśnie",
         "tego",
         "gdzie",
         "można",
         "musi",
         "tylko",
+        "czasem",
         "decyzji",
         "obecności",
         "system",
@@ -36767,6 +36766,7 @@
       ],
       "suggestedKeywordSeed": [
         "voiceprint",
+        "tym",
         "autora",
         "gdzie",
         "jestem",
@@ -36777,7 +36777,6 @@
         "przez",
         "się",
         "tekst",
-        "tym",
         "aby",
         "ale",
         "ashraellen",

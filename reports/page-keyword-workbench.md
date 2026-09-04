@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-09-04T00:43:21.090Z
+Generated: 2026-09-04T00:44:19.035Z
 Pages: 854
 
 ## Index
@@ -500,7 +500,7 @@ Pages: 854
 | pl/privacy.html | pl | privacy.html | Polityka prywatności — Ashraellen | _missing_ | polityka, prywatności, cookies, dane, analityka, ashraellen, ashraellen.com, być, mogą, strony, zewnętrzne, administrator, aktualizacje, cel, danych, google, jakie, kontakt |
 | pl/professional/index.html | pl | professional | Ashraellen — Dossier profesjonalne | _missing_ | ashraellen, formy, obserwacji, profesjonalne, dossier, metoda, prace, pracy, praktyka, professional, publiczne, się, wybrane, archiwum, artystyczne, artystyczno-filozoficzna, autora, autorze |
 | pl/projects/my-memory/index.html | pl | projects | MY MEMORY — należąca do użytkownika ciągłość pracy wspomaganej przez AI | _missing_ | memory, pracy, przez, użytkownika, ciągłości, decyzje, dowody, należąca, nie, obecny, projects, projektu, stan, wspomaganej, aktualny, ashraellen, ciągłość, czego |
-| pl/projects/voiceprint/index.html | pl | projects | VOICEPRINT — Gdzie w tym przepływie jestem JA? | _missing_ | voiceprint, autora, gdzie, jestem, może, nie, projects, przepływie, przez, się, tekst, tym, aby, ale, ashraellen, bada, badania, błędny |
+| pl/projects/voiceprint/index.html | pl | projects | VOICEPRINT — Gdzie w tym przepływie jestem JA? | _missing_ | voiceprint, tym, autora, gdzie, jestem, może, nie, projects, przepływie, przez, się, tekst, aby, ale, ashraellen, bada, badania, błędny |
 | pl/public/index.html | pl | public | Ashraellen — Publiczne | Ashraellen, publiczne pole, wystąpienia, publikacje, myśli przewodnie, badanie, obserwacje | ashraellen, publiczne, myśli, człowieka, gdzie, przewodnie, public, publikacje, wystąpienia, badanie, już, lecz, myśl, nie, nowe, obserwacje, otwórz, pole |
 | pl/public/posts/essay/cycles/cycle-0001.html | pl | public | Ashraellen — Pierwszy cykl mini-esejów | ashraellen, public, posts, essay, cycles, cycle, 0001, pierwszy, cykl, mini-esejów, władza, nie, nad, myślą, lecz, uwagą, ciało, pierwszymi | cykl, pierwszy, nie, ciało, nad, ale, lecz, myślą, przeszłość, ashraellen, celem, drzwiami, interpretacją, jej, mini-esejów, pierwszymi, public, uwagą |
 | pl/public/posts/essay/cycles/index.html | pl | public | Ashraellen — Cykle mini-esejów | ashraellen, public, posts, essay, cycles, cykle, mini-esejów, zakończone, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | cykle, mini-esejów, zakończone, cykl, pierwszy, aktualnego, aktualny, ashraellen, cyklu, działu, głównej, public, się, stronie, cycles, essay, posts, tutaj |
@@ -9254,13 +9254,13 @@ Excerpt:
 - canonical: https://www.ashraellen.com/pl/projects/voiceprint/
 - H1: VOICEPRINT
 - H2: Gdzie w tym przepływie jestem JA? | Początek | Jak to się zaczęło | Od osobistego pytania do badania | Utrata | Poprawny tekst może być błędny | Tłumaczenie i transkreacja | Czym jest obecność autora?
-- H3: Pełna historia | What must an AI not translate?
-- suggested keyword seed: voiceprint, autora, gdzie, jestem, może, nie, projects, przepływie, przez, się, tekst, tym, aby, ale, ashraellen, bada, badania, błędny
-- candidates: nie, się, może, voiceprint, tekst, ale, autora, pytanie, nas, przez, właśnie, dlatego, tym, czasem, tego, gdzie, można, musi, tylko, decyzji, obecności, system, atp, czego
+- H3: What must an AI not translate?
+- suggested keyword seed: voiceprint, tym, autora, gdzie, jestem, może, nie, projects, przepływie, przez, się, tekst, aby, ale, ashraellen, bada, badania, błędny
+- candidates: nie, się, może, voiceprint, tekst, ale, autora, pytanie, nas, przez, dlatego, tym, właśnie, tego, gdzie, można, musi, tylko, czasem, decyzji, obecności, system, atp, czego
 
 Excerpt:
 
-> VOICEPRINT Gdzie w tym przepływie jestem JA? Dziś tekst może przejść przez kilka języków, modeli AI, redakcję, adaptację — i wrócić do nas niemal bez skazy. Poprawny gramatycznie. Naturalny. Płynny. Czasem nawet bardziej literacki niż oryginał. I właśnie tutaj pojawia się problem. Po takiej obróbce tekst może stać się lepszy. Czasem właśnie na tym polega strata. Voiceprint bada, co musi zostać zachowane podczas przejścia przez język i maszynę, aby wraz ze słowami nie zniknął ten, kto je wypowiedział. 01 Początek Jak to się zaczęło Nie zaczynałem od książek. W młodości po prostu zapisywałem myśli. Czasem było to jedno zdanie. Czasem kilka linijek. Potem kilka stron. Potem pojawiły się zeszyty. Stopniowo te zapiski zaczęły łączyć się ze sobą. Jedna myśl prowadziła do następnej, krótkie fragmenty zamieniały się w dłuższe teksty. I w pewnym momencie po raz pierwszy pomyślałem: a może zebrać 
+> VOICEPRINT Gdzie w tym przepływie jestem JA? Dziś tekst może przejść przez kilka języków, modeli AI, redakcję, adaptację — i wrócić do nas niemal bez skazy. Poprawny gramatycznie. Naturalny. Płynny. Czasem nawet bardziej literacki niż oryginał. I właśnie tutaj pojawia się problem. Po takiej obróbce tekst może stać się lepszy. Czasem właśnie na tym polega strata. Voiceprint bada, co musi zostać zachowane podczas przejścia przez język i maszynę, aby wraz ze słowami nie zniknął ten, kto je wypowiedział. 01 Początek Jak to się zaczęło Nie zaczynałem od książek. W młodości po prostu zapisywałem myśli. Czasem było to jedno zdanie. Czasem kilka linijek. Potem kilka stron. Potem pojawiły się zeszyty. Zapisywałem obserwacje, pytania, wątpliwości, pojedyncze obrazy, jakieś wnioski — wszystko to, czego nie chciałem stracić. Stopniowo te zapiski zaczęły łączyć się ze sobą. Jedna myśl prowadziła do n
 
 ### pl/public/index.html
 
