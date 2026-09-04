@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-09-04T00:27:34.345Z
+Generated: 2026-09-04T00:42:27.091Z
 Pages: 854
 
 ## Index
@@ -3831,9 +3831,9 @@ Excerpt:
 - canonical: https://www.ashraellen.com/en/projects/voiceprint/
 - H1: VOICEPRINT
 - H2: Where Am I in This Flow? | How It Began | Who Is Speaking? | ATP Came First | Where Am I? | Author | An Author Is Not a Set of Beautiful Sentences | When a Correct Text Becomes Wrong
-- H3: The Full Story
+- H3: _missing_
 - suggested keyword seed: voiceprint, text, where, author, flow, projects, what, who, along, another, ashraellen, atp, beautiful, became, becomes, began, book, came
-- candidates: was, text, one, what, work, another, can, book, did, voiceprint, why, became, author, language, sometimes, where, then, well, decisions, has, more, process, all, clear
+- candidates: was, text, what, work, can, one, another, voiceprint, became, why, book, did, author, language, where, well, decisions, has, more, process, sometimes, clear, could, good
 
 Excerpt:
 
