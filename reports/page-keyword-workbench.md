@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-09-04T09:06:34.451Z
+Generated: 2026-09-04T09:09:45.116Z
 Pages: 864
 
 ## Index
@@ -142,7 +142,7 @@ Pages: 864
 | de/public/thoughts/index-0002.html | de | public | Ashraellen — Bogen 0002 | ashraellen, public, thoughts, index, 0002, bogen, zweiter, der, stützgedanken, leere, stuhl, verallgemeinerung, statt, beobachtung, das, leben, stehen, blieb | der, bogen, das, stützgedanken, ashraellen, beobachtung, die, nicht, tasse, verallgemeinerung, zweiter, bereue, blieb, buch, leben, leere, man, public |
 | de/public/thoughts/index.html | de | public | Ashraellen — Dritter Bogen der Stützgedanken | Ashraellen, Stützgedanken, Bogen 0003, Annahme der Wirklichkeit, Zeuge, Bild | der, bogen, das, stützgedanken, bild, die, dritter, ein, nicht, tatsache, ashraellen, eine, feiner, gedanke, krone, problem, public, verliert |
 | de/research/archive/index.html | de | research | Ashraellen — Forschungsarchiv | Ashraellen, Forschungsarchiv, Forschungsmaterialien, Versionen, Forschungsschichten, künstlerische Forschung | ashraellen, archiv, des, abgeschlossene, der, die, ist, noch, research, und, von, arbeitsprozesses, archive, außerhalb, bewegung, das, forschung, forschungsarchiv |
-| de/research/index.html | de | research | Ashraellen — Forschung | ashraellen, research, forschung, ist, eine, weise, des, sehens, und, lebenslange, künstlerisch-philosophische, untersuchung, sinns, beobachtung, dessen, wie, der, mensch | ashraellen, eine, forschung, wie, des, ist, und, der, research, arbeit, beobachtung, den, dessen, die, diese, digitale, ein, form |
+| de/research/index.html | de | research | Ashraellen — Forschung | ashraellen, research, forschung, ist, eine, weise, des, sehens, und, lebenslange, künstlerisch-philosophische, untersuchung, sinns, beobachtung, dessen, wie, der, mensch | eine, forschung, wie, ashraellen, des, ist, und, der, research, als, arbeit, beobachtung, den, dessen, die, diese, digitale, ein |
 | de/research/method/index.html | de | research | Ashraellen — Methode der Beobachtung | ashraellen, research, method, methode, der, beobachtung, die, von, aufzeichnung, sinnknoten, künstlerische, form, als, forschungsinstrument, und, überprüfung, durch, wiedererkennen | der, beobachtung, ashraellen, methode, von, als, die, form, künstlerische, nicht, research, sinnknoten, überprüfung, und, aufzeichnung, das, durch, ein |
 | de/research/notes/index.html | de | research | Ashraellen — Notizen | ashraellen, notizen, randbemerkungen, forschung, zweifel, fragmente | notizen, ashraellen, randbemerkungen, und, ashraellens, bewusst, das, doktrin, fragmente, material, research, werden, zweifel, keine, notes, will |
 | de/research/position/index.html | de | research | Ashraellen — Position | ashraellen, Position, künstlerische Forschung, Wirklichkeit, Annahme, Schöpfer, menschliche Freiheit, Religion, Verantwortung | ashraellen, position, den, der, die, und, wirklichkeit, annahme, ist, nicht, ohne, research, verantwortung, von, absage, als, anderen, billigung |
@@ -3179,8 +3179,8 @@ Excerpt:
 - H1: Forschung
 - H2: Was untersucht wird | Wie es geschieht | Fragmentarische Form, fortlaufende Forschung | Methode | Wie diese Arbeit zu verstehen ist | Künstlerische Forschung | Offenes Wissen | Digitale Gesellschaft
 - H3: _missing_
-- suggested keyword seed: ashraellen, eine, forschung, wie, des, ist, und, der, research, arbeit, beobachtung, den, dessen, die, diese, digitale, ein, form
-- candidates: und, der, die, eine, des, wie, ein, ist, nicht, sondern, von, ashraellen, als, das, dem, beobachtung, den, einem, forschung, mit, werden, digitale, einer, für
+- suggested keyword seed: eine, forschung, wie, ashraellen, des, ist, und, der, research, als, arbeit, beobachtung, den, dessen, die, diese, digitale, ein
+- candidates: und, der, die, eine, des, ein, wie, nicht, ist, von, sondern, als, ashraellen, das, dem, mit, den, beobachtung, forschung, einem, werden, digitale, einer, für
 
 Excerpt:
 
