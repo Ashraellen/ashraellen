@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-09-04T08:14:47.766Z
+Generated: 2026-09-04T08:15:22.708Z
 
 Pages checked: 854
 Pages with issues: 362
-Total issues: 1786
+Total issues: 1785
 Pages with review notes: 652
 Total review notes: 2316
 
@@ -15,7 +15,7 @@ Total review notes: 2316
 | MISSING_KEYWORDS | 243 |
 | MISSING_TWITTER_IMAGE | 193 |
 | MISSING_TWITTER_CARD | 179 |
-| MISSING_JSON_LD | 176 |
+| MISSING_JSON_LD | 175 |
 | MISSING_OG_DESCRIPTION | 174 |
 | MISSING_OG_IMAGE | 173 |
 | MISSING_OG_TITLE | 172 |
@@ -911,7 +911,6 @@ Total review notes: 2316
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
 - MISSING_KEYWORDS
-- MISSING_JSON_LD
 
 ### en/projects/voiceprint/index.html
 
