@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T09:31:05.171Z",
+  "generated": "2026-09-04T09:32:11.326Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -29586,6 +29586,81 @@
         "ashraellen",
         "cela",
         "compte"
+      ]
+    },
+    {
+      "page": "fr/projects/voiceprint/index.html",
+      "lang": "fr",
+      "section": "projects",
+      "title": "VOICEPRINT — Où suis-je dans ce flux ?",
+      "description": "Voiceprint explore ce qui doit être préservé lorsqu’un texte traverse une langue et une machine, afin que celui qui a parlé ne disparaisse pas avec les mots.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/fr/projects/voiceprint/",
+      "h1": [
+        "VOICEPRINT"
+      ],
+      "h2": [
+        "Où suis-je dans ce flux ?",
+        "Comment tout a commencé",
+        "Qui parle ?",
+        "ATP est venu d’abord",
+        "Où suis-je ?",
+        "Auteur",
+        "Un auteur n’est pas un ensemble de belles phrases",
+        "Quand un texte correct devient faux"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "fr",
+        "projects",
+        "voiceprint"
+      ],
+      "excerpt": "VOICEPRINT Où suis-je dans ce flux ? Aujourd’hui, un texte peut passer par une autre langue, un modèle d’AI, l’édition, l’adaptation — et revenir presque impeccable. Grammaticalement correct. Naturel. Fluide. Parfois même plus littéraire que l’original. Et c’est précisément là que le problème commence. Un texte peut devenir meilleur après ce type de traitement. Parfois, c’est précisément cela qui constitue la perte. Car à un moment donné, la question n’est plus : « Est-ce une bonne traduction ? » Elle devient : « Est-ce que j’y suis encore ? » 01 Comment tout a commencé Je n’ai pas commencé par les livres. Quand j’étais jeune, je notais simplement des pensées. Parfois une phrase. Parfois quelques lignes. Puis quelques pages. Puis les carnets sont apparus. J’y consignais des observations, des questions, des doutes, des images isolées, certaines conclusions — tout ce que je ne voulais pas ",
+      "candidates": [
+        "une",
+        "pas",
+        "dans",
+        "des",
+        "que",
+        "plus",
+        "les",
+        "texte",
+        "pour",
+        "qui",
+        "être",
+        "mais",
+        "peut",
+        "est",
+        "autre",
+        "c’est",
+        "cela",
+        "voiceprint",
+        "travail",
+        "avec",
+        "livre",
+        "pourquoi",
+        "langue",
+        "peu"
+      ],
+      "suggestedKeywordSeed": [
+        "qui",
+        "voiceprint",
+        "dans",
+        "pas",
+        "suis-je",
+        "texte",
+        "une",
+        "auteur",
+        "être",
+        "flux",
+        "les",
+        "projects",
+        "que",
+        "afin",
+        "ashraellen",
+        "atp",
+        "avec",
+        "belles"
       ]
     },
     {
