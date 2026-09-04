@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-08-30T23:45:28.239Z
+Generated: 2026-09-04T00:14:33.595Z
 Pages: 854
 
 ## Index
@@ -222,7 +222,7 @@ Pages: 854
 | en/public/thoughts/index-0002.html | en | public | Ashraellen — Second Arc of Support Thoughts | ashraellen, public, thoughts, index, 0002, second, arc, support, memory, observation, awakening, dirty, cup, mercy, loss, border, spiritual, literature | thoughts, arc, ashraellen, second, support, cup, dirty, observation, awakening, loss, public, alive, being, book, border, chair, close, empty |
 | en/public/thoughts/index.html | en | public | Ashraellen — Third Arc of Support Thoughts | Ashraellen, Support Thoughts, arc 0003, acceptance of reality, witness, image | thoughts, arc, support, fact, image, its, one, problem, subtle, third, thought, ashraellen, crown, does, loses, public, unnecessary, war |
 | en/research/archive/index.html | en | research | Ashraellen — Research Archive | Ashraellen, research archive, research materials, versions, research layers, artistic research | research, archive, ashraellen, materials, active, completed, layers, longer, moving, path, still, books, earlier, traces, versions, work |
-| en/research/index.html | en | research | Ashraellen — Research | ashraellen, research, mode, seeing, lifelong, artistic-philosophical, inquiry, meaning, observation, how, human, being, loses, contact, reality, inner, freedom, what | research, ashraellen, how, inquiry, meaning, being, digital, human, observation, open, artistic, artistic-philosophical, contact, continuous, done, form, fragmented, freedom |
+| en/research/index.html | en | research | Ashraellen — Research | ashraellen, research, mode, seeing, lifelong, artistic-philosophical, inquiry, meaning, observation, how, human, being, loses, contact, reality, inner, freedom, what | research, ashraellen, how, inquiry, meaning, being, digital, observation, open, what, artistic, artistic-philosophical, contact, continuous, done, form, fragmented, freedom |
 | en/research/method/index.html | en | research | Ashraellen — Method of Observation | ashraellen, research, method, observation, recording, knots, meaning, artistic, form, instrument, reader response, field material, recognition | method, observation, ashraellen, research, form, meaning, artistic, field, material, what, appears, does, experience, first-person, forms, has, how, instrument |
 | en/research/notes/index.html | en | research | Ashraellen — Notes | ashraellen, notes, margins, research, doubts, fragments | notes, ashraellen, margins, ashraellen’s, become, deliberately, doctrine, doubts, fragments, material, refuses, research, feels |
 | en/research/platform-dali/index.html | en | research | Ashraellen — Selected Research and Artistic Practice | _missing_ | research, practice, ashraellen, selected, language, public, human, literary, memory, reality, understanding, around, artistic, atp, current, dali, enquiry, evidence |
@@ -4529,8 +4529,8 @@ Excerpt:
 - H1: Research
 - H2: What is being researched | How it is done | Fragmented form, continuous inquiry | Method | How to understand this work | Artistic research | Open knowledge | Digital society
 - H3: _missing_
-- suggested keyword seed: research, ashraellen, how, inquiry, meaning, being, digital, human, observation, open, artistic, artistic-philosophical, contact, continuous, done, form, fragmented, freedom
-- candidates: how, meaning, research, ashraellen, observation, inquiry, digital, one, thought, where, human, open, what, within, form, inner, perception, separate, sound, work, archive, being, method, mode
+- suggested keyword seed: research, ashraellen, how, inquiry, meaning, being, digital, observation, open, what, artistic, artistic-philosophical, contact, continuous, done, form, fragmented, freedom
+- candidates: how, research, meaning, ashraellen, observation, inquiry, digital, what, where, one, open, thought, human, within, work, does, form, inner, language, perception, person, separate, sound, archive
 
 Excerpt:
 
