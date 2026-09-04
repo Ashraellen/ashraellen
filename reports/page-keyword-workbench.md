@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-09-04T01:23:42.141Z
+Generated: 2026-09-04T07:27:30.159Z
 Pages: 854
 
 ## Index
@@ -4530,7 +4530,7 @@ Excerpt:
 - H2: What is being researched | How it is done | Fragmented form, continuous inquiry | Method | How to understand this work | Artistic research | Open knowledge | Digital society
 - H3: _missing_
 - suggested keyword seed: research, ashraellen, how, inquiry, meaning, being, digital, observation, open, what, artistic, artistic-philosophical, contact, continuous, done, form, fragmented, freedom
-- candidates: how, research, meaning, ashraellen, observation, inquiry, digital, what, where, one, open, thought, human, within, work, does, form, inner, language, perception, person, separate, sound, archive
+- candidates: how, research, meaning, ashraellen, observation, inquiry, what, digital, open, where, one, thought, work, does, human, person, within, form, inner, language, perception, separate, sound, archive
 
 Excerpt:
 
