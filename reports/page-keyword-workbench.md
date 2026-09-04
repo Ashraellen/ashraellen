@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-09-04T08:58:49.947Z
-Pages: 857
+Generated: 2026-09-04T08:59:45.776Z
+Pages: 858
 
 ## Index
 
@@ -100,6 +100,7 @@ Pages: 857
 | de/monolith/index.html | de | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, de, monolith | monolith, beton, gas, sludge, ashraellen, erinnerung, ist, amazon, auf, band, bei, den, die, drei, dystopische, eine, kontrolle, kontrollierten |
 | de/privacy.html | de | privacy.html | Datenschutzerklärung — Ashraellen | _missing_ | und, analyse, daten, datenschutzerklärung, ashraellen, cookies, der, externe, für, können, werden, ashraellen.com, die, dienste, kann, käufe, kontakt, lokale |
 | de/professional/index.html | de | professional | Ashraellen — Professionelles Dossier | _missing_ | ashraellen, und, arbeit, ausgewählte, beobachtungsmethode, des, die, dossier, formen, literarische, öffentliche, parallele, professional, professionelles, sich, von, arbeiten, autor |
+| de/projects/my-memory/index.html | de | projects | MY MEMORY — Kontinuität unter Kontrolle des Menschen | _missing_ | kontinuität, memory, des, gedächtnis, kontrolle, menschen, und, unter, bleiben, das, die, ist, projects, was, wie, ai-sitzungen, anbieter, ashraellen |
 | de/public/index.html | de | public | Ashraellen — Öffentlich | Ashraellen, öffentliches Feld, Auftritte, Veröffentlichungen, Stützgedanken, Forschung, Beobachtungen | ashraellen, auftritte, öffentlich, public, stützgedanken, und, veröffentlichungen, begegnet, beobachtungen, dem, denen, der, des, die, ein, eine, feld, forschung |
 | de/public/posts/essay/cycles/cycle-0001.html | de | public | Ashraellen — Erster Mini-Essay-Zyklus | ashraellen, public, posts, essay, cycles, cycle, 0001, erster, mini-essay-zyklus, zyklus, macht, nicht, über, den, gedanken, sondern, die, aufmerksamkeit | die, erster, ist, nicht, zyklus, der, über, das, erste, körper, vergangenheit, aber, ashraellen, aufmerksamkeit, den, deutung, gedanken, ihre |
 | de/public/posts/essay/cycles/index.html | de | public | Ashraellen — Mini-Essay-Zyklen | ashraellen, public, posts, essay, cycles, mini-essay-zyklen, abgeschlossene, zyklen, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | abgeschlossene, mini-essay-zyklen, zyklen, der, abschnitts, aktuelle, ashraellen, auf, befindet, des, gesammelt, hauptseite, public, zyklus, cycles, essay, hier, mini-essays |
@@ -2447,6 +2448,23 @@ Excerpt:
 Excerpt:
 
 > Professionelles Dossier Ashraellen Eine Weise zu sehen · Literarische und künstlerisch-philosophische Praxis · Forschung · Öffentliches Archiv Diese Seite stellt die Tätigkeit von Ashraellen in einem professionellen Kontext vor — für Verlage, Kultur- und Forschungsorganisationen, Stiftungen, Partner, Medien und andere Formen der Zusammenarbeit. Die Hauptseite bleibt ein lebendiger Raum für Bücher, Forschung, öffentliche Texte und andere Arbeiten; dieses Dossier bietet ein konzentrierteres Bild davon, was die Praxis von Ashraellen heute ist und in welche Richtungen sie sich entwickelt. Forschungskern Ashraellen ist nicht ganz ein Name; eher eine Weise zu sehen. Es ist eine lebenslange künstlerisch-philosophische Untersuchung von Sinn, Wahrnehmung, Selbsttäuschung, innerer Freiheit und dem menschlichen Verlust des Kontakts zur Realität. Die Arbeit beruht auf der Fähigkeit des Autors, Sinn 
+
+### de/projects/my-memory/index.html
+
+- lang: de
+- section: projects
+- title: MY MEMORY — Kontinuität unter Kontrolle des Menschen
+- description: MY MEMORY untersucht, wie Entscheidungen, Gründe, Quellen und Projektzustände über AI-Sitzungen, Modelle und Anbieter hinweg wiederherstellbar bleiben können, während das dauerhafte Gedächtnis unter Kontrolle des Menschen bleibt.
+- canonical: https://www.ashraellen.com/de/projects/my-memory/
+- H1: MY MEMORY
+- H2: Dein Gedächtnis sollte dir gehören. | Verlust von Kontinuität | Die Frage | Was erhalten bleiben muss | Warum Kontinuität unter Kontrolle des Menschen wichtig ist | System | Wie es funktioniert | Evidenz
+- H3: Wiederherstellung durch frischen Nachfolger | Nacherzählung der Projektgeschichte | Portable Wiederherstellung | Abläufe mit externen Nutzern
+- suggested keyword seed: kontinuität, memory, des, gedächtnis, kontrolle, menschen, und, unter, bleiben, das, die, ist, projects, was, wie, ai-sitzungen, anbieter, ashraellen
+- candidates: und, die, ist, was, das, der, ein, nicht, kontinuität, eine, gedächtnis, zustand, kann, über, memory, quellen, wie, arbeit, aus, entscheidungen, menschen, oder, bleibt, keine
+
+Excerpt:
+
+> MY MEMORY Dein Gedächtnis sollte dir gehören. Eine Forschungs- und Arbeitsinfrastruktur für Kontinuität in langfristiger AI-gestützter Arbeit. 01 Verlust von Kontinuität Die Frage Was bleibt von einem langfristigen menschlichen Projekt, wenn ein Gespräch endet, das Modell wechselt oder das System, das bei der Arbeit geholfen hat, nicht mehr verfügbar ist? Ein ernsthaftes Projekt kann einen Chat, eine Sitzung, ein Modell und irgendwann sogar einen AI-Anbieter überdauern. Dann lösen sich Entscheidungen von den Gründen, aus denen sie getroffen wurden, Quellen verschwinden aus Schlussfolgerungen, Verpflichtungen geraten aus dem Blick, und veraltete Informationen beginnen mit dem tatsächlich aktuellen Zustand zu konkurrieren. Das Problem besteht nicht einfach darin, dass eine AI „vergisst“. Tiefer liegt die Gefahr, dass die Geschichte der Arbeit — was geschah, warum eine Entscheidung getroffe
 
 ### de/public/index.html
 

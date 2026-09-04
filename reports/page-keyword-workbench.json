@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T08:58:49.932Z",
+  "generated": "2026-09-04T08:59:45.760Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -6985,6 +6985,87 @@
         "von",
         "arbeiten",
         "autor"
+      ]
+    },
+    {
+      "page": "de/projects/my-memory/index.html",
+      "lang": "de",
+      "section": "projects",
+      "title": "MY MEMORY — Kontinuität unter Kontrolle des Menschen",
+      "description": "MY MEMORY untersucht, wie Entscheidungen, Gründe, Quellen und Projektzustände über AI-Sitzungen, Modelle und Anbieter hinweg wiederherstellbar bleiben können, während das dauerhafte Gedächtnis unter Kontrolle des Menschen bleibt.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/de/projects/my-memory/",
+      "h1": [
+        "MY MEMORY"
+      ],
+      "h2": [
+        "Dein Gedächtnis sollte dir gehören.",
+        "Verlust von Kontinuität",
+        "Die Frage",
+        "Was erhalten bleiben muss",
+        "Warum Kontinuität unter Kontrolle des Menschen wichtig ist",
+        "System",
+        "Wie es funktioniert",
+        "Evidenz"
+      ],
+      "h3": [
+        "Wiederherstellung durch frischen Nachfolger",
+        "Nacherzählung der Projektgeschichte",
+        "Portable Wiederherstellung",
+        "Abläufe mit externen Nutzern"
+      ],
+      "slugTerms": [
+        "de",
+        "projects",
+        "my",
+        "memory"
+      ],
+      "excerpt": "MY MEMORY Dein Gedächtnis sollte dir gehören. Eine Forschungs- und Arbeitsinfrastruktur für Kontinuität in langfristiger AI-gestützter Arbeit. 01 Verlust von Kontinuität Die Frage Was bleibt von einem langfristigen menschlichen Projekt, wenn ein Gespräch endet, das Modell wechselt oder das System, das bei der Arbeit geholfen hat, nicht mehr verfügbar ist? Ein ernsthaftes Projekt kann einen Chat, eine Sitzung, ein Modell und irgendwann sogar einen AI-Anbieter überdauern. Dann lösen sich Entscheidungen von den Gründen, aus denen sie getroffen wurden, Quellen verschwinden aus Schlussfolgerungen, Verpflichtungen geraten aus dem Blick, und veraltete Informationen beginnen mit dem tatsächlich aktuellen Zustand zu konkurrieren. Das Problem besteht nicht einfach darin, dass eine AI „vergisst“. Tiefer liegt die Gefahr, dass die Geschichte der Arbeit — was geschah, warum eine Entscheidung getroffe",
+      "candidates": [
+        "und",
+        "die",
+        "ist",
+        "was",
+        "das",
+        "der",
+        "ein",
+        "nicht",
+        "kontinuität",
+        "eine",
+        "gedächtnis",
+        "zustand",
+        "kann",
+        "über",
+        "memory",
+        "quellen",
+        "wie",
+        "arbeit",
+        "aus",
+        "entscheidungen",
+        "menschen",
+        "oder",
+        "bleibt",
+        "keine"
+      ],
+      "suggestedKeywordSeed": [
+        "kontinuität",
+        "memory",
+        "des",
+        "gedächtnis",
+        "kontrolle",
+        "menschen",
+        "und",
+        "unter",
+        "bleiben",
+        "das",
+        "die",
+        "ist",
+        "projects",
+        "was",
+        "wie",
+        "ai-sitzungen",
+        "anbieter",
+        "ashraellen"
       ]
     },
     {
