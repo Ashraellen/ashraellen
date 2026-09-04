@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-09-04T01:15:34.576Z
+Generated: 2026-09-04T01:23:42.141Z
 Pages: 854
 
 ## Index
@@ -180,7 +180,7 @@ Pages: 854
 | en/monolith/index.html | en | monolith | MONOLITH Trilogy — Ashraellen | ashraellen, monolith, trilogy, three, states, controlled, disintegration, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io | monolith, beton, gas, sludge, controlled, disintegration, states, three, trilogy, ashraellen, dystopia, about, fiction, science, social, volume |
 | en/privacy.html | en | privacy.html | Privacy Policy — Ashraellen | _missing_ | data, policy, privacy, analytics, ashraellen, ashraellen.com, cookies, legal, may, platforms, website, basis, collected, consent, contact, external, google, information |
 | en/professional/index.html | en | professional | Ashraellen — Professional Dossier | _missing_ | ashraellen, professional, forms, internal, literary, public, working, dossier, how, method, observation, practice, research, selected, work, works, about, artistic |
-| en/projects/my-memory/index.html | en | projects | MY MEMORY — User-Owned Continuity for AI-Assisted Work | _missing_ | memory, current, continuity, evidence, user-owned, what, work, ai-assisted, does, product, project, projects, state, any, ashraellen, commitments, decisions, depth |
+| en/projects/my-memory/index.html | en | projects | MY MEMORY — User-Owned Continuity for AI-Assisted Work | _missing_ | memory, what, continuity, how, across, can, evidence, project, projects, remain, should, state, user-owned, work, ai-assisted, ashraellen, being, control |
 | en/projects/voiceprint/index.html | en | projects | VOICEPRINT — Where Am I in This Flow? | _missing_ | voiceprint, text, where, author, flow, projects, what, who, along, another, ashraellen, atp, beautiful, became, becomes, began, book, came |
 | en/public/index.html | en | public | Ashraellen — Public | Ashraellen, public field, talks, publications, support thoughts, research, observations | public, ashraellen, support, thoughts, field, living, person, publications, talks, where, already, mass, meets, new, observations, open, people, projects |
 | en/public/posts/essay/cycles/cycle-0001.html | en | public | Ashraellen — First Mini-Essay Cycle | ashraellen, public, posts, essay, cycles, cycle, 0001, first, mini-essay, power, over, thought, attention, body, door, goal, past, its | first, cycle, attention, body, over, past, thought, ashraellen, door, goal, interpretation, its, power, public, become, becomes, begins, completed |
@@ -3810,17 +3810,17 @@ Excerpt:
 - lang: en
 - section: projects
 - title: MY MEMORY — User-Owned Continuity for AI-Assisted Work
-- description: MY MEMORY is user-owned continuity infrastructure for long-running AI-assisted work, preserving decisions, reasons, provenance, commitments and current project state outside any single AI provider.
+- description: MY MEMORY explores how decisions, reasons, sources and project state can remain recoverable across AI sessions, models and providers while durable memory stays under user control.
 - canonical: https://www.ashraellen.com/en/projects/my-memory/
 - H1: MY MEMORY
-- H2: The problem | What MY MEMORY does | Technical depth | Evidence so far | What this evidence does not establish | Current product — now | Long-term direction | Current stage
+- H2: The question | What should remain | Why user-owned continuity matters | How it works | Evidence so far | What this evidence does not establish | What is being explored now | Long-term direction
 - H3: Clean successor recovery | Project-history retelling | Portable recovery tests | External-user workflows
-- suggested keyword seed: memory, current, continuity, evidence, user-owned, what, work, ai-assisted, does, product, project, projects, state, any, ashraellen, commitments, decisions, depth
-- candidates: memory, continuity, current, state, work, project, recovery, what, evidence, product, real, user-owned, ai-assisted, decisions, long-running, reasons, research, across, bounded, decision, explicit, help, history, later
+- suggested keyword seed: memory, what, continuity, how, across, can, evidence, project, projects, remain, should, state, user-owned, work, ai-assisted, ashraellen, being, control
+- candidates: memory, what, continuity, state, work, current, project, can, across, recovery, should, how, person, sources, system, decision, decisions, history, reasons, research, sessions, ai-assisted, conditions, human
 
 Excerpt:
 
-> MY MEMORY Your memory should belong to you. User-owned continuity infrastructure for long-running AI-assisted work. The problem A serious project can outlive a chat, a session, a model and eventually an AI provider. When that happens, decisions become separated from their reasons, sources disappear from conclusions, commitments drift out of view, stale information competes with current state, and the user is asked to reconstruct the same project history again. A successor AI should not have to guess what happened before it arrived. What MY MEMORY does MY MEMORY is an external project-memory layer focused first on Project & Decision Memory. It preserves the parts of long-running work that must survive beyond a single conversation or provider. Project → Event → Decision → Reason → Person → Document → Commitment → Current State → Source The AI participates in memory capture. The user owns t
+> MY MEMORY Your memory should belong to you. A research and working infrastructure for continuity across long-running AI-assisted work. The question What remains of a long-running human project when the conversation ends, the model changes, or the system that helped with the work is no longer there? A serious project can outlive a chat, a session, a model and eventually an AI provider. When that happens, decisions become separated from their reasons, sources disappear from conclusions, commitments drift out of view, and stale information begins to compete with what is actually current. The problem is not simply that an AI “forgets”. The deeper problem is that the history of the work — what happened, why a decision was made, what later changed and which state is now authoritative — can become fragmented across systems that neither the person nor the next AI fully controls. What should rema
 
 ### en/projects/voiceprint/index.html
 

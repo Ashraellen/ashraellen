@@ -1,6 +1,6 @@
 # Page Metadata Audit
 
-Generated: 2026-09-04T01:15:33.837Z
+Generated: 2026-09-04T01:23:41.419Z
 
 Pages checked: 853
 Pages with issues: 361
@@ -905,7 +905,7 @@ Total review notes: 2312
 ### en/projects/my-memory/index.html
 
 - title: MY MEMORY — User-Owned Continuity for AI-Assisted Work
-- description length: 197
+- description length: 179
 - canonical: https://www.ashraellen.com/en/projects/my-memory/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
