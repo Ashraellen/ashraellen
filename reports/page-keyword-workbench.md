@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-09-04T08:15:23.465Z
-Pages: 855
+Generated: 2026-09-04T08:57:25.140Z
+Pages: 856
 
 ## Index
 
@@ -321,6 +321,7 @@ Pages: 855
 | fi/kone/index.html | fi | kone | Radiance: Sampo and Song — Ashraellen | Ashraellen, Radiance, HOHDE, Sampo, Song, Laulu, taiteellinen tutkimus, mytopoetiikka, suomalais-karjalainen, Kalevala | radiance, sampo, song, ashraellen, kone, laulu, mitä, työ, avaa, ihmisen, jonka, kalevalaan, kehittyy, kenttä, kirjallinen, kirjallis-filosofinen, kulttuurinen, kytkeytyvä |
 | fi/privacy.html | fi | privacy.html | Tietosuojakäytäntö — Ashraellen | _missing_ | analytiikka, tietoja, tietosuojakäytäntö, ashraellen, evästeet, kerätä, palvelut, voidaan, ashraellen.com, ashraellen.comin, google, henkilötiedot, käsittelyn, kauan, käytetään, käyttää, käyttäjän, kolmannen |
 | fi/professional/index.html | fi | professional | Ashraellen — Ammatillinen esittely | _missing_ | ashraellen, ammatillinen, ashraellenin, esittely, havainnoinnin, julkiset, käytäntö, menetelmä, muodot, professional, rinnakkaiset, ammatilliset, eri, jossa, julkinen, kehykset, kenttä, kirjallinen |
+| fi/projects/voiceprint/index.html | fi | projects | VOICEPRINT — Missä minä olen tässä virrassa? | _missing_ | voiceprint, minä, missä, olen, mitä, ole, projects, sen, tässä, tekijä, virrassa, alkoi, ashraellen, atp, ensin, että, itse, joka |
 | fi/public/index.html | fi | public | Ashraellen — Julkinen | Ashraellen, julkinen kenttä, puheet, julkaisut, tukiajatukset, tutkimus, havainnot | julkinen, ashraellen, ashraellenin, missä, public, ajatus, avaa, elävän, hän, havaintoja, hinta, ihminen, ihmisen, julkaisuja, julkaisut, kansa, kenttä, kohtaa |
 | fi/public/posts/essay/cycles/cycle-0001.html | fi | public | Ashraellen — Ensimmäinen miniesseesykli | Ashraellen, miniessee, huomio, keho, menneisyys, tietoisuus | ensimmäinen, ashraellen, keho, menneisyys, miniesseesykli, public, sykli, vaan, ajatukseen, älä, alkaa, ashraellenin, cycle, cycles, elää, essay, harjoitukseksi, huomio |
 | fi/public/posts/essay/cycles/index.html | fi | public | Ashraellen — Miniesseiden syklit | Ashraellen, miniesseet, syklit, huomio, keho, menneisyys | miniesseiden, syklit, ashraellen, valmiit, ashraellenin, nykyinen, public, sykli, cycles, elää, enintään, ensimmäinen, ensimmäiset, essay, löytyy, osion, pääsivulta, posts |
@@ -6202,6 +6203,23 @@ Excerpt:
 Excerpt:
 
 > Ammatillinen esittely Ashraellen Tapa nähdä · Kirjallinen ja taiteellis-filosofinen käytäntö · Tutkimus · Julkinen arkisto Tämä sivu esittelee Ashraellenin toimintaa ammatillisessa yhteydessä — kustantajille, kulttuuri- ja tutkimusorganisaatioille, säätiöille, kumppaneille, medialle ja muille yhteistyötahoille. Pääsivusto säilyy elävänä kirjojen, tutkimuksen, julkisten tekstien ja muiden teosten tilana; tämä esittely kokoaa tiiviimmin sen, mitä Ashraellenin käytäntö on tänään ja mihin suuntiin se kehittyy. Tutkimuksellinen ydin Ashraellen ei ole aivan nimi; pikemminkin se on tapa nähdä. Kyse on elämänmittaisesta taiteellis-filosofisesta tutkimuksesta, joka tarkastelee merkitystä, havaitsemista, itsepetosta, sisäistä vapautta ja ihmisen yhteyden katoamista todellisuuteen. Työ perustuu tekijän kykyyn nähdä merkityksiä merkitysten sisällä, rakenteita rakenteiden sisällä ja leikkauspisteitä 
+
+### fi/projects/voiceprint/index.html
+
+- lang: fi
+- section: projects
+- title: VOICEPRINT — Missä minä olen tässä virrassa?
+- description: VOICEPRINT tutkii, mitä tekstissä on säilyttävä sen kulkiessa kielen ja koneen läpi, jotta sanojen mukana ei katoa se, joka ne lausui.
+- canonical: https://www.ashraellen.com/fi/projects/voiceprint/
+- H1: VOICEPRINT
+- H2: Missä minä olen tässä virrassa? | Miten kaikki alkoi | Kuka puhuu? | Ensin syntyi ATP | Missä minä olen? | Tekijä | Tekijä ei ole kokoelma kauniita lauseita | Kun oikeasta tekstistä tulee väärä
+- H3: _missing_
+- suggested keyword seed: voiceprint, minä, missä, olen, mitä, ole, projects, sen, tässä, tekijä, virrassa, alkoi, ashraellen, atp, ensin, että, itse, joka
+- candidates: voi, että, mitä, sen, mutta, oli, itse, miksi, ole, minä, joskus, voiceprint, hyvin, juuri, minulle, missä, vain, siitä, tämä, tekijä, vähitellen, engine, joka, mikä
+
+Excerpt:
+
+> VOICEPRINT Missä minä olen tässä virrassa? Nykyään teksti voi kulkea toisen kielen, AI-mallin, editoinnin ja sovittamisen läpi — ja palata lähes virheettömänä. Kieliopillisesti oikeana. Luontevana. Sujuvana. Joskus jopa kirjallisesti hienompana kuin alkuperäinen. Ja juuri tässä ongelma alkaa. Teksti voi tällaisen käsittelyn jälkeen muuttua paremmaksi. Joskus juuri se on menetys. Sillä jossakin vaiheessa kysymys ei enää ole: ”Onko tämä hyvä käännös?” Vaan: ”Olenko minä yhä siinä?” 01 Miten kaikki alkoi En aloittanut kirjoista. Nuorena kirjoitin vain ajatuksia muistiin. Joskus se oli yksi lause. Joskus muutama rivi. Sitten muutama sivu. Lopulta ilmestyivät vihkot. Kirjasin havaintoja, kysymyksiä, epäilyksiä, yksittäisiä kuvia ja johtopäätöksiä — kaikkea sitä, mitä en halunnut menettää. Vähitellen erilliset merkinnät alkoivat liittyä toisiinsa. Yksi ajatus jatkoi toista. Lyhyistä katkelmist
 
 ### fi/public/index.html
 

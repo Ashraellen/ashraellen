@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T08:15:23.450Z",
+  "generated": "2026-09-04T08:57:25.126Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -23457,6 +23457,81 @@
         "kehykset",
         "kenttä",
         "kirjallinen"
+      ]
+    },
+    {
+      "page": "fi/projects/voiceprint/index.html",
+      "lang": "fi",
+      "section": "projects",
+      "title": "VOICEPRINT — Missä minä olen tässä virrassa?",
+      "description": "VOICEPRINT tutkii, mitä tekstissä on säilyttävä sen kulkiessa kielen ja koneen läpi, jotta sanojen mukana ei katoa se, joka ne lausui.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/fi/projects/voiceprint/",
+      "h1": [
+        "VOICEPRINT"
+      ],
+      "h2": [
+        "Missä minä olen tässä virrassa?",
+        "Miten kaikki alkoi",
+        "Kuka puhuu?",
+        "Ensin syntyi ATP",
+        "Missä minä olen?",
+        "Tekijä",
+        "Tekijä ei ole kokoelma kauniita lauseita",
+        "Kun oikeasta tekstistä tulee väärä"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "fi",
+        "projects",
+        "voiceprint"
+      ],
+      "excerpt": "VOICEPRINT Missä minä olen tässä virrassa? Nykyään teksti voi kulkea toisen kielen, AI-mallin, editoinnin ja sovittamisen läpi — ja palata lähes virheettömänä. Kieliopillisesti oikeana. Luontevana. Sujuvana. Joskus jopa kirjallisesti hienompana kuin alkuperäinen. Ja juuri tässä ongelma alkaa. Teksti voi tällaisen käsittelyn jälkeen muuttua paremmaksi. Joskus juuri se on menetys. Sillä jossakin vaiheessa kysymys ei enää ole: ”Onko tämä hyvä käännös?” Vaan: ”Olenko minä yhä siinä?” 01 Miten kaikki alkoi En aloittanut kirjoista. Nuorena kirjoitin vain ajatuksia muistiin. Joskus se oli yksi lause. Joskus muutama rivi. Sitten muutama sivu. Lopulta ilmestyivät vihkot. Kirjasin havaintoja, kysymyksiä, epäilyksiä, yksittäisiä kuvia ja johtopäätöksiä — kaikkea sitä, mitä en halunnut menettää. Vähitellen erilliset merkinnät alkoivat liittyä toisiinsa. Yksi ajatus jatkoi toista. Lyhyistä katkelmist",
+      "candidates": [
+        "voi",
+        "että",
+        "mitä",
+        "sen",
+        "mutta",
+        "oli",
+        "itse",
+        "miksi",
+        "ole",
+        "minä",
+        "joskus",
+        "voiceprint",
+        "hyvin",
+        "juuri",
+        "minulle",
+        "missä",
+        "vain",
+        "siitä",
+        "tämä",
+        "tekijä",
+        "vähitellen",
+        "engine",
+        "joka",
+        "mikä"
+      ],
+      "suggestedKeywordSeed": [
+        "voiceprint",
+        "minä",
+        "missä",
+        "olen",
+        "mitä",
+        "ole",
+        "projects",
+        "sen",
+        "tässä",
+        "tekijä",
+        "virrassa",
+        "alkoi",
+        "ashraellen",
+        "atp",
+        "ensin",
+        "että",
+        "itse",
+        "joka"
       ]
     },
     {
