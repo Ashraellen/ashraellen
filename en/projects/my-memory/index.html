@@ -5,14 +5,14 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
 
   <title>MY MEMORY — User-Owned Continuity for AI-Assisted Work</title>
-  <meta name="description" content="MY MEMORY is user-owned continuity infrastructure for long-running AI-assisted work, preserving decisions, reasons, provenance, commitments and current project state outside any single AI provider.">
+  <meta name="description" content="MY MEMORY explores how decisions, reasons, sources and project state can remain recoverable across AI sessions, models and providers while durable memory stays under user control.">
   <link rel="canonical" href="https://www.ashraellen.com/en/projects/my-memory/">
 
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Ashraellen">
   <meta property="og:url" content="https://www.ashraellen.com/en/projects/my-memory/">
   <meta property="og:title" content="MY MEMORY — User-Owned Continuity for AI-Assisted Work">
-  <meta property="og:description" content="User-owned continuity infrastructure for long-running AI-assisted work.">
+  <meta property="og:description" content="A research and working infrastructure for continuity across long-running AI-assisted work.">
   <meta property="og:image" content="https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
@@ -21,7 +21,7 @@
 
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="MY MEMORY — User-Owned Continuity for AI-Assisted Work">
-  <meta name="twitter:description" content="User-owned continuity infrastructure for long-running AI-assisted work.">
+  <meta name="twitter:description" content="A research and working infrastructure for continuity across long-running AI-assisted work.">
   <meta name="twitter:image" content="https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg">
   <meta name="twitter:image:alt" content="Ashraellen — dark formal image with the hand and eye symbol">
 
@@ -50,23 +50,29 @@
         <article class="content">
           <h1 class="h1">MY MEMORY</h1>
           <p class="tagline">Your memory should belong to you.</p>
-          <p class="dek">User-owned continuity infrastructure for long-running AI-assisted work.</p>
+          <p class="dek">A research and working infrastructure for continuity across long-running AI-assisted work.</p>
 
-          <h2>The problem</h2>
-          <p class="lead">A serious project can outlive a chat, a session, a model and eventually an AI provider.</p>
-          <p class="body-copy">When that happens, decisions become separated from their reasons, sources disappear from conclusions, commitments drift out of view, stale information competes with current state, and the user is asked to reconstruct the same project history again.</p>
-          <p class="body-copy">A successor AI should not have to guess what happened before it arrived.</p>
+          <h2>The question</h2>
+          <p class="lead">What remains of a long-running human project when the conversation ends, the model changes, or the system that helped with the work is no longer there?</p>
+          <p class="body-copy">A serious project can outlive a chat, a session, a model and eventually an AI provider. When that happens, decisions become separated from their reasons, sources disappear from conclusions, commitments drift out of view, and stale information begins to compete with what is actually current.</p>
+          <p class="body-copy">The problem is not simply that an AI “forgets”. The deeper problem is that the history of the work — what happened, why a decision was made, what later changed and which state is now authoritative — can become fragmented across systems that neither the person nor the next AI fully controls.</p>
 
-          <h2>What MY MEMORY does</h2>
-          <p class="body-copy">MY MEMORY is an external project-memory layer focused first on Project &amp; Decision Memory. It preserves the parts of long-running work that must survive beyond a single conversation or provider.</p>
+          <h2>What should remain</h2>
+          <p class="body-copy">MY MEMORY began from a practical need: a successor AI should not have to guess what happened before it arrived, and the person should not have to reconstruct the same project history again and again.</p>
           <p class="chain">Project → Event → Decision → Reason → Person → Document → Commitment → Current State → Source</p>
-          <p class="principle">The AI participates in memory capture. The user owns the storage.</p>
-          <p class="body-copy">The system is designed to distinguish retained history from accepted current truth. Facts, decisions, reasons, assumptions, uncertainty and third-party statements should not collapse into one undifferentiated archive. Provenance matters, and later correction should supersede earlier state without pretending that the earlier record never existed.</p>
+          <p class="principle">The AI can participate in memory. It should not own the memory.</p>
+          <p class="body-copy">The working system therefore keeps durable project memory outside any single conversation or provider and treats provenance as part of the meaning. A fact is not the same thing as an assumption. A proposal is not the same thing as an accepted decision. Retained history is not automatically current truth. A later correction should be able to supersede an earlier state without pretending that the earlier state never existed.</p>
 
-          <h2>Technical depth</h2>
-          <p class="lead">MY MEMORY is not a generic LLM wrapper, a web portal or a service business. Its technical core is a provenance-aware continuity architecture for maintaining explicit project state across sessions, models and AI providers.</p>
-          <p class="body-copy">The implemented mechanics distinguish current, stale, superseded, conflicting and uncertain information; preserve decisions together with reasons and sources; and use explicit human-reviewed state transitions rather than treating opaque conversation retrieval as authoritative memory. Recovery work has already exercised clean, adversarial and cross-provider conditions, including rejection of stale state and explicit acceptance of a fresh return.</p>
-          <p class="body-copy">That technical depth is established by implemented continuity and recovery mechanics and by the bounded tests described below. What is not yet established is a legally defensible moat: patentability, freedom to operate and the long-term difficulty of reproducing the architecture remain open questions.</p>
+          <h2>Why user-owned continuity matters</h2>
+          <p class="lead">Continuity is not only about retrieving information. It is about preserving the structure of how understanding was reached.</p>
+          <p class="body-copy">If decisions, reasons, sources and context are distributed across systems that can change or disappear, then a person can retain the files and still lose the history that made those files meaningful.</p>
+          <p class="body-copy">MY MEMORY explores a different relationship with AI: the model may help capture, connect, retrieve and explain memory, while the durable record remains controlled by the user and can survive the replacement of the model itself.</p>
+          <p class="principle">The system may change. The continuity should remain with the person.</p>
+
+          <h2>How it works</h2>
+          <p class="lead">The current architecture is a provenance-aware continuity system for maintaining explicit project state across sessions, models and AI providers.</p>
+          <p class="body-copy">Its implemented mechanics distinguish current, stale, superseded, conflicting and uncertain information; preserve decisions together with reasons and sources; and use explicit human-reviewed state transitions rather than treating opaque conversation retrieval as authoritative memory.</p>
+          <p class="body-copy">Recovery work has exercised clean successor sessions, adversarial conditions, stale-state rejection and cross-provider recovery. The aim is not to make every model reproduce the same answer. It is to make the state of the work recoverable enough that a new system can understand what is known, what is uncertain, what was superseded and what still requires a human decision.</p>
 
           <h2>Evidence so far</h2>
           <div class="grid">
@@ -97,46 +103,39 @@
 
           <h2>What this evidence does not establish</h2>
           <ul class="list">
-            <li>Product-market fit or repeated target-user adoption.</li>
+            <li>A finished general-purpose memory system.</li>
             <li>Production security, scale or multi-user readiness.</li>
             <li>Provider-neutral writable interoperability across all AI systems.</li>
             <li>Long-duration reliability under production conditions.</li>
-            <li>Patentability, freedom to operate or a proven defensible IP moat.</li>
+            <li>Any clinical, medical or cognitive-health benefit.</li>
           </ul>
-          <p class="note">The current evidence supports bounded continuity and recovery behavior. It is not presented as proof of a finished product.</p>
+          <p class="note">The current evidence supports bounded continuity and recovery behaviour under the conditions tested. Claims should not be extended beyond those conditions.</p>
 
-          <h2>Current product — now</h2>
-          <p class="lead">Project &amp; Decision Memory for people running real, multi-stage AI-assisted projects.</p>
-          <p class="body-copy">The initial target is work where losing context has a real reconstruction cost: founders, researchers, writers, creators, consultants and other people whose projects continue across many sessions and tools.</p>
+          <h2>What is being explored now</h2>
+          <p class="body-copy">The present work focuses on Project &amp; Decision Memory for real, multi-stage AI-assisted projects: preserving decisions, reasons, sources, commitments and current state across many sessions and tools while reducing reconstruction work and stale-history errors.</p>
+          <p class="body-copy">The next practical questions are how to make meaningful capture less manual, how to retrieve only the context that actually matters, how to keep conflicting or uncertain records visible without collapsing them into false certainty, and how to make continuity useful in ordinary daily work rather than only in controlled recovery tests.</p>
 
           <h2>Long-term direction</h2>
           <p class="lead">The larger idea is personal continuity: memory that remains with the person as years pass, projects change and AI systems come and go.</p>
-          <p class="body-copy">The long-term aim is not merely to make one AI conversation remember another. Continuity between sessions, models and providers is an enabling mechanism. The deeper value is to help a person preserve and later recover the structure of their own history: what happened, what they knew at the time, what they decided, why they decided it, what sources shaped that decision, what changed later and which version of the record is current.</p>
-          <p class="body-copy">In that direction, AI becomes an interface to user-owned memory rather than the owner of it: an agent that can help capture, connect, retrieve and explain records while the durable memory remains external to any single AI provider. The same continuity principles may later extend into organizational, research, creative and other long-lived knowledge environments where provenance and current state matter.</p>
-          <p class="body-copy"><strong>Future research.</strong> A separate research horizon is personal cognitive continuity over long periods of life, including ordinary human forgetting and, separately, whether such user-owned memory structures could one day be useful in research involving early memory decline or early-stage dementia. That medical or cognitive-health branch is not the current product. MY MEMORY is not a medical device, diagnostic system, dementia treatment or clinical intervention, and no clinical benefit is claimed; any such application would require dedicated research, safety work and appropriate validation.</p>
+          <p class="body-copy">The long-term aim is not merely to make one AI conversation remember another. Continuity between sessions, models and providers is an enabling mechanism. The deeper question is whether a person can preserve and later recover the structure of their own history: what happened, what they knew at the time, what they decided, why they decided it, what sources shaped that decision, what changed later and which version of the record is current.</p>
+          <p class="body-copy">The same continuity principles may eventually extend into organizational, research, creative and other long-lived knowledge environments where provenance and current state matter.</p>
+          <p class="body-copy"><strong>Future research.</strong> A separate horizon is personal cognitive continuity over long periods of life, including ordinary human forgetting and, separately, whether user-owned memory structures could one day be useful in research involving early memory decline or early-stage dementia. This is not a medical claim. MY MEMORY is not a medical device, diagnostic system, dementia treatment or clinical intervention; any such application would require dedicated research, safety work and appropriate validation.</p>
 
-          <h2>Current stage</h2>
+          <h2>Current state</h2>
           <ul class="list">
             <li>Working prototype.</li>
-            <li>Pre-revenue.</li>
-            <li>Pre-seed.</li>
-            <li>Operational recovery evidence established in bounded tests.</li>
-            <li>Real target-user value and repeated adoption still under validation.</li>
+            <li>Used in ongoing long-running AI-assisted project work.</li>
+            <li>Bounded continuity and recovery tests completed.</li>
+            <li>External-user workflows have been tested on a small scale.</li>
+            <li>The architecture remains under active development and review.</li>
           </ul>
 
-          <h2>Next milestone</h2>
-          <p class="body-copy">Turn the validated recovery protocol into a simple daily-use MVP, automate meaningful source capture, improve relevance-aware retrieval, and test whether real target users repeatedly choose the product because it materially reduces reconstruction work, stale-history errors and continuity loss.</p>
-
-          <h2>Funding</h2>
-          <p class="body-copy">MY MEMORY is currently preparing a pre-seed round in the approximate range of €80,000–€100,000 to fund roughly twelve months of focused founder, product and user-validation work. The purpose of the capital is to create sustained development time and move from validated recovery protocols toward a usable product with real target-user evidence.</p>
-          <p class="body-copy"><strong>Target outcome:</strong> a daily-use MVP, measurable repeated use by external target users, and a stronger evidence base for the value of continuity.</p>
-
-          <h2>Founder</h2>
-          <p class="body-copy">Nikolai Kostyshev / Ashraellen — independent founder, based in Poland.</p>
-          <p class="body-copy">MY MEMORY grew from the practical need to preserve continuity across the founder's own long-running AI-assisted projects, where decisions, reasons, sources and current state had to survive beyond individual sessions and tools.</p>
+          <h2>Origin</h2>
+          <p class="body-copy">MY MEMORY grew from the practical need to preserve continuity across Ashraellen's own long-running AI-assisted projects, where decisions, reasons, sources and current state had to survive beyond individual sessions and tools.</p>
+          <p class="body-copy">What began as a solution to repeated context loss gradually became a broader question about memory, authorship, control and continuity in a world where human work increasingly passes through changing AI systems.</p>
 
           <h2>Contact</h2>
-          <p class="body-copy">For investment, product validation or relevant collaboration:</p>
+          <p class="body-copy">For research discussion, testing or relevant collaboration:</p>
           <p class="contact"><a href="mailto:ashraellen.live@gmail.com">ashraellen.live@gmail.com</a></p>
 
           <div class="seal">
