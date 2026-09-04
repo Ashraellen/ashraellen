@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-09-04T09:05:31.943Z
+Generated: 2026-09-04T09:06:33.797Z
 
 Pages checked: 863
 Pages with issues: 371
-Total issues: 1797
+Total issues: 1796
 Pages with review notes: 661
 Total review notes: 2352
 
@@ -15,7 +15,7 @@ Total review notes: 2352
 | MISSING_KEYWORDS | 252 |
 | MISSING_TWITTER_IMAGE | 193 |
 | MISSING_TWITTER_CARD | 179 |
-| MISSING_JSON_LD | 175 |
+| MISSING_JSON_LD | 174 |
 | MISSING_OG_DESCRIPTION | 174 |
 | MISSING_OG_IMAGE | 173 |
 | MISSING_OG_TITLE | 172 |
@@ -2790,14 +2790,13 @@ Total review notes: 2352
 
 ### pl/projects/my-memory/index.html
 
-- title: MY MEMORY — należąca do użytkownika ciągłość pracy wspomaganej przez AI
-- description length: 203
+- title: MY MEMORY — pamięć i ciągłość pod kontrolą człowieka
+- description length: 191
 - canonical: https://www.ashraellen.com/pl/projects/my-memory/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
 - MISSING_KEYWORDS
-- MISSING_JSON_LD
 
 ### pl/projects/voiceprint/index.html
 
@@ -9392,7 +9391,7 @@ Total review notes: 2352
 
 ### pl/projects/my-memory/index.html
 
-- title: MY MEMORY — należąca do użytkownika ciągłość pracy wspomaganej przez AI
+- title: MY MEMORY — pamięć i ciągłość pod kontrolą człowieka
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 

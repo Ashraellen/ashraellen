@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-09-04T09:05:32.701Z
+Generated: 2026-09-04T09:06:34.451Z
 Pages: 864
 
 ## Index
@@ -506,7 +506,7 @@ Pages: 864
 | pl/monolith/index.html | pl | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, pl, monolith | monolith, beton, gas, sludge, ashraellen, dystopijna, edycja, kontroli, amazon, angielsku, czytaj, kontrolowanego, pamięci, polska, przygotowaniu, rozpadu, rozpadzie, stany |
 | pl/privacy.html | pl | privacy.html | Polityka prywatności — Ashraellen | _missing_ | polityka, prywatności, cookies, dane, analityka, ashraellen, ashraellen.com, być, mogą, strony, zewnętrzne, administrator, aktualizacje, cel, danych, google, jakie, kontakt |
 | pl/professional/index.html | pl | professional | Ashraellen — Dossier profesjonalne | _missing_ | ashraellen, formy, obserwacji, profesjonalne, dossier, metoda, prace, pracy, praktyka, professional, publiczne, się, wybrane, archiwum, artystyczne, artystyczno-filozoficzna, autora, autorze |
-| pl/projects/my-memory/index.html | pl | projects | MY MEMORY — należąca do użytkownika ciągłość pracy wspomaganej przez AI | _missing_ | memory, pracy, przez, użytkownika, ciągłości, decyzje, dowody, należąca, nie, obecny, projects, projektu, stan, wspomaganej, aktualny, ashraellen, ciągłość, czego |
+| pl/projects/my-memory/index.html | pl | projects | MY MEMORY — pamięć i ciągłość pod kontrolą człowieka | _missing_ | memory, pamięć, ciągłość, człowieka, kontrolą, pod, ciągłości, pozostać, projects, projektu, stan, ashraellen, bada, ciebie, decyzje, dlaczego, dostawcami, dowody |
 | pl/projects/voiceprint/index.html | pl | projects | VOICEPRINT — Gdzie w tym przepływie jestem JA? | _missing_ | voiceprint, tym, autora, gdzie, jestem, może, nie, projects, przepływie, przez, się, tekst, aby, ale, ashraellen, bada, badania, błędny |
 | pl/public/index.html | pl | public | Ashraellen — Publiczne | Ashraellen, publiczne pole, wystąpienia, publikacje, myśli przewodnie, badanie, obserwacje | ashraellen, publiczne, myśli, człowieka, gdzie, przewodnie, public, publikacje, wystąpienia, badanie, już, lecz, myśl, nie, nowe, obserwacje, otwórz, pole |
 | pl/public/posts/essay/cycles/cycle-0001.html | pl | public | Ashraellen — Pierwszy cykl mini-esejów | ashraellen, public, posts, essay, cycles, cycle, 0001, pierwszy, cykl, mini-esejów, władza, nie, nad, myślą, lecz, uwagą, ciało, pierwszymi | cykl, pierwszy, nie, ciało, nad, ale, lecz, myślą, przeszłość, ashraellen, celem, drzwiami, interpretacją, jej, mini-esejów, pierwszymi, public, uwagą |
@@ -9361,18 +9361,18 @@ Excerpt:
 
 - lang: pl
 - section: projects
-- title: MY MEMORY — należąca do użytkownika ciągłość pracy wspomaganej przez AI
-- description: MY MEMORY to należąca do użytkownika warstwa ciągłości dla długotrwałej pracy wspomaganej przez AI, zachowująca decyzje, ich powody, źródła, zobowiązania i aktualny stan projektu poza jednym dostawcą AI.
+- title: MY MEMORY — pamięć i ciągłość pod kontrolą człowieka
+- description: MY MEMORY bada, jak decyzje, ich powody, źródła i stan projektu mogą pozostać odtwarzalne między sesjami, modelami i dostawcami AI, podczas gdy trwała pamięć pozostaje pod kontrolą człowieka.
 - canonical: https://www.ashraellen.com/pl/projects/my-memory/
 - H1: MY MEMORY
-- H2: Problem | Co robi MY MEMORY | Głębia techniczna | Dotychczasowe dowody | Czego te dowody nie potwierdzają | Obecny produkt — teraz | Kierunek długoterminowy | Obecny etap
-- H3: Czyste odtworzenie przez następcę | Ponownego opowiadania historii projektu | Testy przenośnego odtwarzania | Przepływy z użytkownikami zewnętrznymi
-- suggested keyword seed: memory, pracy, przez, użytkownika, ciągłości, decyzje, dowody, należąca, nie, obecny, projects, projektu, stan, wspomaganej, aktualny, ashraellen, ciągłość, czego
-- candidates: nie, memory, przez, ciągłości, projektu, się, historii, pracy, użytkownika, odtwarzania, stan, decyzje, oraz, pamięci, użytkowników, ani, ciągłość, dowody, lub, pamięć, poza, produktu, źródła, aby
+- H2: Twoja pamięć powinna należeć do Ciebie. | Utrata ciągłości | Pytanie | Co powinno pozostać | Dlaczego ciągłość pod kontrolą człowieka ma znaczenie | System | Jak to działa | Dowody
+- H3: Czyste odtworzenie przez następcę | Ponownego opowiadania historii projektu | Przenośne testy odtwarzania | Przepływy z użytkownikami zewnętrznymi
+- suggested keyword seed: memory, pamięć, ciągłość, człowieka, kontrolą, pod, ciągłości, pozostać, projects, projektu, stan, ashraellen, bada, ciebie, decyzje, dlaczego, dostawcami, dowody
+- candidates: się, nie, projektu, pracy, stan, ciągłość, może, pamięć, ciągłości, historii, memory, przez, człowiek, człowieka, pamięci, powinna, system, decyzje, między, poza, pozostaje, sesjami, tym, źródła
 
 Excerpt:
 
-> MY MEMORY Twoja pamięć powinna należeć do Ciebie. Należąca do użytkownika warstwa ciągłości dla długotrwałej pracy wspomaganej przez AI. Problem Poważny projekt może trwać dłużej niż jeden czat, sesja, model, a w końcu także dostawca AI. Wtedy decyzje odrywają się od powodów, źródła znikają z wniosków, zobowiązania wypadają z pola widzenia, nieaktualne informacje konkurują z bieżącym stanem, a użytkownik ponownie rekonstruuje historię projektu. Następny agent AI nie powinien zgadywać, co wydarzyło się przed jego pojawieniem się. Co robi MY MEMORY MY MEMORY jest zewnętrzną warstwą pamięci projektu, skoncentrowaną najpierw na Project & Decision Memory. Zachowuje te elementy długotrwałej pracy, które muszą przetrwać poza pojedynczą rozmową lub dostawcą. Project → Event → Decision → Reason → Person → Document → Commitment → Current State → Source AI uczestniczy w zapisie pamięci. Użytkownik 
+> MY MEMORY Twoja pamięć powinna należeć do Ciebie. Infrastruktura badawcza i robocza dla ciągłości długotrwałej pracy wspomaganej przez AI. 01 Utrata ciągłości Pytanie Co pozostaje z długotrwałego ludzkiego projektu, gdy rozmowa się kończy, model się zmienia albo system pomagający w pracy przestaje być dostępny? Poważny projekt może trwać dłużej niż jeden czat, sesja, model, a w końcu także dostawca AI. Wtedy decyzje odrywają się od powodów, źródła znikają z wniosków, zobowiązania wypadają z pola widzenia, a nieaktualne informacje zaczynają konkurować z tym, co naprawdę jest stanem bieżącym. Problem nie polega tylko na tym, że AI „zapomina”. Głębszy problem polega na tym, że historia pracy — co się wydarzyło, dlaczego podjęto decyzję, co zmieniło się później i który stan jest teraz obowiązujący — może rozpaść się między systemami, których ani człowiek, ani kolejna AI nie kontrolują w pełn
 
 ### pl/projects/voiceprint/index.html
 
