@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.ashraellen.com/</loc>
-    <lastmod>2026-08-14T14:33:10+02:00</lastmod>
+    <lastmod>2026-09-21T12:58:44+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/be/</loc>
@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://www.ashraellen.com/be/books/</loc>
-    <lastmod>2026-08-23T15:46:07+02:00</lastmod>
+    <lastmod>2026-09-21T12:26:07+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/be/books/demotopia/</loc>
@@ -63,6 +63,10 @@
   <url>
     <loc>https://www.ashraellen.com/be/books/samizdat/order/</loc>
     <lastmod>2026-08-04T10:12:11Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/be/books/samizdat/order/received/</loc>
+    <lastmod>2026-07-28T22:50:55+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/be/books/seccus/</loc>
@@ -286,7 +290,7 @@
   </url>
   <url>
     <loc>https://www.ashraellen.com/de/books/</loc>
-    <lastmod>2026-08-23T15:35:45+02:00</lastmod>
+    <lastmod>2026-09-21T12:26:07+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/de/books/demotopia/</loc>
@@ -339,6 +343,10 @@
   <url>
     <loc>https://www.ashraellen.com/de/books/samizdat/order/</loc>
     <lastmod>2026-08-04T10:12:11Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/de/books/samizdat/order/received/</loc>
+    <lastmod>2026-07-28T22:54:04+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/de/books/seccus/</loc>
@@ -562,7 +570,7 @@
   </url>
   <url>
     <loc>https://www.ashraellen.com/en/books/</loc>
-    <lastmod>2026-08-23T15:32:10+02:00</lastmod>
+    <lastmod>2026-09-21T12:26:07+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/en/books/demotopia/</loc>
@@ -663,6 +671,10 @@
   <url>
     <loc>https://www.ashraellen.com/en/books/samizdat/order/</loc>
     <lastmod>2026-08-04T10:12:11Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/en/books/samizdat/order/received/</loc>
+    <lastmod>2026-07-28T21:30:43+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/en/books/seccus/</loc>
@@ -890,7 +902,7 @@
   </url>
   <url>
     <loc>https://www.ashraellen.com/es/books/</loc>
-    <lastmod>2026-08-23T15:37:13+02:00</lastmod>
+    <lastmod>2026-09-21T12:26:07+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/es/books/demotopia/</loc>
@@ -943,6 +955,10 @@
   <url>
     <loc>https://www.ashraellen.com/es/books/samizdat/order/</loc>
     <lastmod>2026-08-04T10:12:11Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/es/books/samizdat/order/received/</loc>
+    <lastmod>2026-07-28T22:56:12+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/es/books/seccus/</loc>
@@ -1221,6 +1237,10 @@
     <lastmod>2026-08-28T22:08:45+02:00</lastmod>
   </url>
   <url>
+    <loc>https://www.ashraellen.com/fi/books/samizdat/order/received/</loc>
+    <lastmod>2026-08-28T22:09:20+02:00</lastmod>
+  </url>
+  <url>
     <loc>https://www.ashraellen.com/fi/books/seccus/</loc>
     <lastmod>2026-08-28T11:58:34+02:00</lastmod>
   </url>
@@ -1462,7 +1482,7 @@
   </url>
   <url>
     <loc>https://www.ashraellen.com/fr/books/</loc>
-    <lastmod>2026-08-23T15:38:40+02:00</lastmod>
+    <lastmod>2026-09-21T12:26:07+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/fr/books/demotopia/</loc>
@@ -1515,6 +1535,10 @@
   <url>
     <loc>https://www.ashraellen.com/fr/books/samizdat/order/</loc>
     <lastmod>2026-08-04T10:12:11Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/fr/books/samizdat/order/received/</loc>
+    <lastmod>2026-07-28T22:58:09+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/fr/books/seccus/</loc>
@@ -1742,7 +1766,7 @@
   </url>
   <url>
     <loc>https://www.ashraellen.com/pl/books/</loc>
-    <lastmod>2026-08-23T15:29:41+02:00</lastmod>
+    <lastmod>2026-09-21T12:26:07+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/pl/books/demotopia/</loc>
@@ -1927,6 +1951,10 @@
   <url>
     <loc>https://www.ashraellen.com/pl/books/samizdat/order/</loc>
     <lastmod>2026-08-04T10:12:11Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/pl/books/samizdat/order/received/</loc>
+    <lastmod>2026-07-28T21:25:26+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/pl/books/seccus/</loc>
@@ -2150,7 +2178,7 @@
   </url>
   <url>
     <loc>https://www.ashraellen.com/pt/books/</loc>
-    <lastmod>2026-08-23T15:40:15+02:00</lastmod>
+    <lastmod>2026-09-21T12:26:07+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/pt/books/demotopia/</loc>
@@ -2203,6 +2231,10 @@
   <url>
     <loc>https://www.ashraellen.com/pt/books/samizdat/order/</loc>
     <lastmod>2026-08-04T10:12:11Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/pt/books/samizdat/order/received/</loc>
+    <lastmod>2026-07-28T23:00:10+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/pt/books/seccus/</loc>
@@ -2430,7 +2462,7 @@
   </url>
   <url>
     <loc>https://www.ashraellen.com/ru/books/</loc>
-    <lastmod>2026-08-23T15:27:27+02:00</lastmod>
+    <lastmod>2026-09-21T12:26:07+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/ru/books/demotopia/</loc>
@@ -2607,6 +2639,10 @@
   <url>
     <loc>https://www.ashraellen.com/ru/books/samizdat/order/</loc>
     <lastmod>2026-08-04T10:12:11Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/ru/books/samizdat/order/received/</loc>
+    <lastmod>2026-07-28T21:25:14+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/ru/books/seccus/</loc>
@@ -3113,12 +3149,16 @@
     <lastmod>2026-08-12T20:39:12Z</lastmod>
   </url>
   <url>
+    <loc>https://www.ashraellen.com/samizdat/order/received/</loc>
+    <lastmod>2026-07-28T21:25:01+02:00</lastmod>
+  </url>
+  <url>
     <loc>https://www.ashraellen.com/uk/</loc>
     <lastmod>2026-08-31T01:22:35+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/uk/books/</loc>
-    <lastmod>2026-08-23T15:42:50+02:00</lastmod>
+    <lastmod>2026-09-21T12:26:07+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/uk/books/demotopia/</loc>
@@ -3171,6 +3211,10 @@
   <url>
     <loc>https://www.ashraellen.com/uk/books/samizdat/order/</loc>
     <lastmod>2026-08-04T10:12:11Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashraellen.com/uk/books/samizdat/order/received/</loc>
+    <lastmod>2026-07-28T23:02:06+02:00</lastmod>
   </url>
   <url>
     <loc>https://www.ashraellen.com/uk/books/seccus/</loc>
