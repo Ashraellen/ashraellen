@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-09-04T09:34:11.170Z
-Pages: 869
+Generated: 2026-09-21T10:11:46.149Z
+Pages: 860
 
 ## Index
 
@@ -27,7 +27,6 @@ Pages: 869
 | be/books/you-are-already-online/index.html | be | books | Ashraellen — Ты ўжо ў сетцы | _missing_ | сетцы, ўжо, пра, ashraellen, books, глава, рэальнасць, already, online, you, алгарытмы, аўдыяраман, было, гіперрэальнасць, дзе, жанры, занадта, імерсіўны |
 | be/contact.html | be | contact.html | Кантакт — Ashraellen | ashraellen, кантакт, супрацоўніцтва, выдавецкія запыты, гранты, медыя, праекты | ashraellen, кантакт, выдавецкія, гранты, запыты, медыя, праектах, супрацоўніцтва, contact, contact.html, telegram, telegram-канал, кантактная, публічныя, пытанні, сувязі |
 | be/index.html | be | index.html | Ashraellen — кнігі, даследаванні і публічныя тэксты | _missing_ | ashraellen, даследаванні, кнігі, публічныя, тэксты, відэа, гук, літаратурна-філасофская, мастацка-даследчая, незалежная, практыка, index.html, кантакт, сатыра, шматмоўная |
-| be/monolith/index.html | be | monolith | Трылогія MONOLITH — Ashraellen | ashraellen, monolith, трылогія, тры, станы, кантраляванага, распаду, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io | monolith, beton, gas, sludge, кантраляванага, распаду, станы, тры, трылогія, ashraellen, amazon, books, антыўтопіі, сацыяльнай, том, фантастыкі, філасофскага |
 | be/privacy.html | be | privacy.html | Палітыка прыватнасці — Ashraellen | _missing_ | даныя, палітыка, прыватнасці, ashraellen, ashraellen.com, cookies, аналітыка, апрацоўкі, могуць, google, privacy, privacy.html, абнаўленні, або, адказвае, выкарыстоўваюцца, даных, збірацца |
 | be/professional/index.html | be | professional | Ashraellen — Прафесійнае дасье | _missing_ | ashraellen, напрамкі, працы, professional, выбраныя, дасье, метад, назірання, паралельныя, пра, прафесійнае, праца, публічныя, формы, або, адкрыць, аўтара, даследчае |
 | be/projects/my-memory/index.html | be | projects | MY MEMORY — памяць і бесперапыннасць пад кантролем чалавека | _missing_ | memory, памяць, бесперапыннасць, кантролем, пад, чалавека, projects, бесперапыннасці, заставацца, павінна, паміж, праекта, сістэма, стан, ai-правайдарамі, ashraellen, або, аднаўляльнымі |
@@ -98,7 +97,6 @@ Pages: 869
 | de/books/you-are-already-online/index.html | de | books | Ashraellen — Du bist bereits online | _missing_ | bereits, online, bist, des, und, ashraellen, books, das, ein, über, algorithmen, already, audio-roman, auszug, buch, cyberpunk-dramas, den, der |
 | de/contact.html | de | contact.html | Kontakt — Ashraellen | ashraellen, kontakt, zusammenarbeit, verlag, förderungen, medien, projekte | ashraellen, kontakt, förderungen, für, medien, und, zusammenarbeit, contact, contact.html, der, ist, kostyshev, öffentliche, projekte, telegram-kanal, verlagsanfragen |
 | de/index.html | de | index.html | Ashraellen — Bücher, Forschung und öffentliche Texte | _missing_ | ashraellen, und, bücher, forschung, öffentliche, texte, eine, forschungspraxis, ist, klang, der, die, index.html, künstlerische, literarisch-philosophische, mehrsprachige, satire, unabhängige |
-| de/monolith/index.html | de | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, de, monolith | monolith, beton, gas, sludge, ashraellen, erinnerung, ist, amazon, auf, band, bei, den, die, drei, dystopische, eine, kontrolle, kontrollierten |
 | de/privacy.html | de | privacy.html | Datenschutzerklärung — Ashraellen | _missing_ | und, analyse, daten, datenschutzerklärung, ashraellen, cookies, der, externe, für, können, werden, ashraellen.com, die, dienste, kann, käufe, kontakt, lokale |
 | de/professional/index.html | de | professional | Ashraellen — Professionelles Dossier | _missing_ | ashraellen, und, arbeit, ausgewählte, beobachtungsmethode, des, die, dossier, formen, literarische, öffentliche, parallele, professional, professionelles, sich, von, arbeiten, autor |
 | de/projects/my-memory/index.html | de | projects | MY MEMORY — Kontinuität unter Kontrolle des Menschen | _missing_ | kontinuität, memory, des, gedächtnis, kontrolle, menschen, und, unter, bleiben, das, die, ist, projects, was, wie, ai-sitzungen, anbieter, ashraellen |
@@ -181,7 +179,6 @@ Pages: 869
 | en/books/you-are-already-online/index.html | en | books | Ashraellen — You Are Already Online | _missing_ | already, online, you, about, ashraellen, books, chapter, first, novel, reality, algorithms, attention, audio, book, cyberpunk, did, digital, drama |
 | en/contact.html | en | contact.html | Contact — Ashraellen | ashraellen, contact, collaboration, publishing, grants, media, projects | ashraellen, contact, collaboration, grants, inquiries, media, project, publishing, about, channel, contact.html, kostyshev, materials, telegram |
 | en/index.html | en | index.html | Ashraellen — Books, Research and Public Texts | _missing_ | ashraellen, research, books, public, texts, artistic, independent, literary-philosophical, multilingual, practice, contact, index.html, presence, satire, sound, spanning, video |
-| en/monolith/index.html | en | monolith | MONOLITH Trilogy — Ashraellen | ashraellen, monolith, trilogy, three, states, controlled, disintegration, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io | monolith, beton, gas, sludge, controlled, disintegration, states, three, trilogy, ashraellen, dystopia, about, fiction, science, social, volume |
 | en/privacy.html | en | privacy.html | Privacy Policy — Ashraellen | _missing_ | data, policy, privacy, analytics, ashraellen, ashraellen.com, cookies, legal, may, platforms, website, basis, collected, consent, contact, external, google, information |
 | en/professional/index.html | en | professional | Ashraellen — Professional Dossier | _missing_ | ashraellen, professional, forms, internal, literary, public, working, dossier, how, method, observation, practice, research, selected, work, works, about, artistic |
 | en/projects/my-memory/index.html | en | projects | MY MEMORY — User-Owned Continuity for AI-Assisted Work | _missing_ | memory, continuity, should, across, can, how, project, projects, remain, state, system, user-owned, what, work, ai-assisted, ashraellen, belong, control |
@@ -253,7 +250,6 @@ Pages: 869
 | es/books/you-are-already-online/index.html | es | books | Ashraellen — Ya estás en la red | _missing_ | estás, red, ashraellen, books, capítulo, del, los, novela, realidad, sobre, una, algoritmos, already, antes, como, cyberpunk, digital, drama |
 | es/contact.html | es | contact.html | Contacto — Ashraellen | ashraellen, contacto, colaboración, publicaciones, subvenciones, medios, proyectos | ashraellen, contacto, colaboración, medios, proyectos, subvenciones, canal, contact, contact.html, investigación, kostyshev, materiales, página, para, publicaciones, telegram |
 | es/index.html | es | index.html | Ashraellen — libros, investigación y textos públicos | _missing_ | ashraellen, investigación, libros, públicos, textos, artística, independiente, literario-filosófica, multilingüe, una, contacto, index.html, los, práctica, sátira, sonido, vídeo |
-| es/monolith/index.html | es | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, es, monolith | monolith, beton, gas, sludge, ashraellen, colapso, control, controlada, memoria, amazon, desintegración, distópica, estados, inglés, preparación, sistemas, sobre, tres |
 | es/privacy.html | es | privacy.html | Política de privacidad — Ashraellen | _missing_ | datos, del, política, privacidad, analítica, ashraellen, cookies, los, para, plataformas, qué, sitio, actualizaciones, ashraellen.com, base, compras, con, contacto |
 | es/professional/index.html | es | professional | Ashraellen — Dosier profesional | _missing_ | ashraellen, formas, investigación, líneas, del, dosier, método, obras, observación, paralelas, práctica, profesional, professional, públicas, seleccionadas, trabajo, artísticas, artístico-filosófica |
 | es/projects/my-memory/index.html | es | projects | MY MEMORY — continuidad bajo el control de la persona | _missing_ | continuidad, memory, bajo, control, memoria, persona, qué, cómo, por, projects, proyecto, actual, ashraellen, conservarse, debe, debería, decisiones, del |
@@ -399,7 +395,6 @@ Pages: 869
 | fr/books/you-are-already-online/index.html | fr | books | Ashraellen — Tu es déjà en ligne | _missing_ | déjà, ligne, ashraellen, audio, books, les, réalité, roman, algorithmes, already, avait, avant, chapitre, comme, cyberpunk, dans, des, drame |
 | fr/contact.html | fr | contact.html | Contact — Ashraellen | ashraellen, contact, collaboration, édition, subventions, médias, projets | ashraellen, contact, une, collaboration, demande, éditoriale, médias, projet, aux, canal, contact.html, contacter, contenus, les, pour, subvention, telegram |
 | fr/index.html | fr | index.html | Ashraellen — livres, recherche et textes publics | _missing_ | ashraellen, recherche, livres, publics, textes, artistique, est, indépendante, littéraire, multilingue, contact, index.html, les, philosophique, pratique, satire, son, une |
-| fr/monolith/index.html | fr | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, fr, monolith | monolith, beton, gas, sludge, ashraellen, est, mémoire, sur, une, amazon, anglais, contrôle, contrôlée, des, désintégration, dystopique, états, l’effondrement |
 | fr/privacy.html | fr | privacy.html | Politique de confidentialité — Ashraellen | _missing_ | confidentialité, politique, données, analyse, ashraellen, cookies, être, jour, services, achats, base, cette, collectées, contact, d’ashraellen.com, des, droits, externes |
 | fr/professional/index.html | fr | professional | Ashraellen — Dossier professionnel | _missing_ | ashraellen, formes, recherche, axes, d’observation, dossier, méthode, œuvres, parallèles, pratique, professional, professionnel, publiques, sélectionnées, travail, artistico-philosophique, artistiques, aujourd’hui |
 | fr/projects/my-memory/index.html | fr | projects | MY MEMORY — la continuité sous le contrôle de la personne | _missing_ | continuité, memory, contrôle, les, mémoire, personne, sous, comment, projects, projet, que, qui, rester, une, appartenir, ashraellen, cela, compte |
@@ -506,7 +501,6 @@ Pages: 869
 | pl/books/you-are-already-online/index.html | pl | books | Ashraellen — Już jesteś w sieci | _missing_ | jesteś, już, sieci, ashraellen, books, rozdział, algorytmach, already, audio, było, cyberpunkowego, cyfrowej, dramatu, fragment, gatunku, gdzie, hiperrealności, immersyjna |
 | pl/contact.html | pl | contact.html | Kontakt — Ashraellen | ashraellen, kontakt, współpraca, wydawnictwo, granty, media, projekty | ashraellen, kontakt, granty, media, contact, contact.html, kanał, kontaktu, kostyshev, projektów, projekty, przez, publiczne, publikacji, telegram, współpraca, wydawnicze, zapytania |
 | pl/index.html | pl | index.html | Ashraellen — książki, badania i teksty publiczne | _missing_ | ashraellen, badania, książki, publiczne, teksty, artystyczno-badawcza, dźwięk, literacko-filozoficzna, niezależna, praktyka, wideo, index.html, kontakt, satyra, wielojęzyczna |
-| pl/monolith/index.html | pl | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, pl, monolith | monolith, beton, gas, sludge, ashraellen, dystopijna, edycja, kontroli, amazon, angielsku, czytaj, kontrolowanego, pamięci, polska, przygotowaniu, rozpadu, rozpadzie, stany |
 | pl/privacy.html | pl | privacy.html | Polityka prywatności — Ashraellen | _missing_ | polityka, prywatności, cookies, dane, analityka, ashraellen, ashraellen.com, być, mogą, strony, zewnętrzne, administrator, aktualizacje, cel, danych, google, jakie, kontakt |
 | pl/professional/index.html | pl | professional | Ashraellen — Dossier profesjonalne | _missing_ | ashraellen, formy, obserwacji, profesjonalne, dossier, metoda, prace, pracy, praktyka, professional, publiczne, się, wybrane, archiwum, artystyczne, artystyczno-filozoficzna, autora, autorze |
 | pl/projects/my-memory/index.html | pl | projects | MY MEMORY — pamięć i ciągłość pod kontrolą człowieka | _missing_ | memory, pamięć, ciągłość, człowieka, kontrolą, pod, ciągłości, pozostać, projects, projektu, stan, ashraellen, bada, ciebie, decyzje, dlaczego, dostawcami, dowody |
@@ -578,7 +572,6 @@ Pages: 869
 | pt/books/you-are-already-online/index.html | pt | books | Ashraellen — Você já está online | _missing_ | está, online, você, ashraellen, books, capítulo, realidade, romance, sobre, algoritmos, already, antes, áudio, como, cyberpunk, demais, digital, drama |
 | pt/contact.html | pt | contact.html | Contato — Ashraellen | ashraellen, contato, colaboração, publicações, bolsas, mídia, projetos | ashraellen, contato, aos, assuntos, bolsas, colaboração, mídia, projetos, canal, contact, contact.html, kostyshev, página, para, publicações, relacionados, telegram |
 | pt/index.html | pt | index.html | Ashraellen — livros, pesquisa e textos públicos | _missing_ | ashraellen, pesquisa, livros, públicos, textos, artística, independente, literário-filosófica, multilíngue, prática, uma, index.html, por, sátira, som, vídeo |
-| pt/monolith/index.html | pt | monolith | MONOLITH — Ashraellen — PT | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, pt, monolith | monolith, beton, gas, sludge, ashraellen, colapso, controlada, controle, memória, amazon, desintegração, distópica, edição, estados, inglês, preparação, sistemas, sobre |
 | pt/privacy.html | pt | privacy.html | Política de privacidade — Ashraellen | _missing_ | dados, política, privacidade, análise, que, ashraellen, cookies, para, plataformas, podem, ser, ashraellen.com, atualizações, base, com, compras, contacto, direitos |
 | pt/professional/index.html | pt | professional | Ashraellen — Dossiê profissional | _missing_ | ashraellen, formas, investigação, como, dossiê, linhas, método, obras, observação, paralelas, prática, professional, profissional, públicas, selecionadas, trabalho, artísticas, artístico-filosófica |
 | pt/projects/my-memory/index.html | pt | projects | MY MEMORY — continuidade sob controlo da pessoa | _missing_ | continuidade, memory, controlo, memória, pessoa, sob, como, deve, projects, projeto, que, ashraellen, atual, com, continuar, decisões, duradoura, enquanto |
@@ -681,7 +674,6 @@ Pages: 869
 | ru/books/you-are-already-online/index.html | ru | books | Ashraellen — Ты уже в сети | _missing_ | сети, уже, ashraellen, books, глава, already, online, you, алгоритмах, аудиороман, без, было, где, гиперреальности, жанре, идеально, иммерсивный, истончение |
 | ru/contact.html | ru | contact.html | Контакт — Ashraellen | ashraellen, контакт, сотрудничество, издательские запросы, гранты, медиа, проекты | ashraellen, контакт, запросы, издательские, сотрудничество, ashraellen.live, ashraellenchannel, contact, contact.html, telegram, telegram-канал, грантовые, контактная, медийные, обращения, проектные, публичные, связи |
 | ru/index.html | ru | index.html | Ashraellen — книги, исследования и публичные тексты | _missing_ | ashraellen, исследования, книги, публичные, тексты, видео, звук, литературно-философская, многоязычная, независимая, практика, index.html, контакт, сатира, художественно-исследовательская |
-| ru/monolith/index.html | ru | monolith | Трилогия МОНОЛИТ — Ashraellen | ashraellen, monolith, трилогия, монолит, три, состояния, контролируемого, распада, бетон, жижа, газ, doctype, html, title, function, const, isgithub, location.hostname.endswith | monolith, бетон, газ, жижа, контролируемого, монолит, распада, состояния, три, трилогия, ashraellen, amazon, антиутопии, социальной, том, фантастики, философского |
 | ru/privacy.html | ru | privacy.html | Политика конфиденциальности — Ashraellen | _missing_ | данные, конфиденциальности, политика, аналитика, ashraellen, ashraellen.com, cookies, обработки, google, privacy, privacy.html, внешние, данных, если, или, используются, какие, контакт |
 | ru/professional/index.html | ru | professional | Ashraellen — Профессиональное досье | _missing_ | ashraellen, работы, наблюдения, professional, досье, избранные, метод, профессиональное, публичные, формы, авторе, архив, внутренние, внутренняя, внутри, где, его, или |
 | ru/projects/my-memory/index.html | ru | projects | MY MEMORY — Память и непрерывность под контролем человека | _missing_ | memory, память, контролем, непрерывность, под, человека, projects, между, непрерывности, оставаться, проекта, система, состояние, ashraellen, важна, вопрос, восстанавливаемыми, восстановления |
@@ -825,7 +817,6 @@ Pages: 869
 | uk/books/you-are-already-online/index.html | uk | books | Ashraellen — Ти вже в мережі | _missing_ | вже, мережі, про, ashraellen, books, реальність, розділ, already, online, you, алгоритми, аудіороман, було, від, він, вона, гіперреальність, дослідницький |
 | uk/contact.html | uk | contact.html | Контакт — Ashraellen | ashraellen, контакт, співпраця, видавничі запити, гранти, медіа, проєкти | ashraellen, контакт, видавничі, гранти, запити, медіа, співпраця, contact, contact.html, telegram, telegram-канал, зв’язку, контактна, проєкти, проєктів, публічні, сторінка |
 | uk/index.html | uk | index.html | Ashraellen — книжки, дослідження і публічні тексти | _missing_ | ashraellen, дослідження, книжки, публічні, тексти, багатомовна, відео, звук, літературно-філософська, мистецько-дослідницька, незалежна, index.html, контакт, практика, сатира |
-| uk/monolith/index.html | uk | monolith | MONOLITH — Ashraellen | ashraellen, monolith, beton, sludge, gas, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter, boolean, window, uk, monolith | monolith, beton, gas, sludge, ashraellen, видання, пам’ять, amazon, google, play, англійською, антиутопічна, контроль, контрольованого, про, розпад, розпаду, систем |
 | uk/privacy.html | uk | privacy.html | Політика конфіденційності — Ashraellen | _missing_ | дані, конфіденційності, політика, ashraellen, ashraellen.com, cookies, аналітика, можуть, обробки, google, privacy, privacy.html, або, використовуються, відповідає, даних, збиратися, зовнішні |
 | uk/professional/index.html | uk | professional | Ashraellen — Професійне досьє | _missing_ | ashraellen, роботи, спостереження, professional, вибрані, досьє, метод, практика, про, професійне, публічні, форми, або, автора, відкрити, внутрішні, внутрішня, дослідження |
 | uk/projects/my-memory/index.html | uk | projects | MY MEMORY — пам’ять і безперервність під контролем людини | _missing_ | memory, пам’ять, безперервність, контролем, людини, під, projects, безперервності, має, між, проєкту, рішення, система, стан, ai-провайдерами, ashraellen, важлива, відновлення |
@@ -1218,23 +1209,6 @@ Excerpt:
 Excerpt:
 
 > Ashraellen Тры напрамкі прысутнасці: адно назірае, другое гаворыць, трэцяе становіцца кнігай. Даследаванне — зразумець механізмы. Публічнае — убачыць іх у дзеянні. Кнігі — пражыць мадэль знутры. Прафесійнае дасье Ashraellen — незалежная шматмоўная літаратурна-філасофская і мастацка-даследчая практыка. Праз кнігі, даследаванні, публічныя тэксты, відэа, гук, візуальныя формы і сатыру яна даследуе свядомасць, мову, сістэмы, лічбавы ціск, унутраную аўтаномію і тое, як чалавек губляе і вяртае непасрэдны кантакт са сэнсам. — mark of presence Кантакт
-
-### be/monolith/index.html
-
-- lang: be
-- section: monolith
-- title: Трылогія MONOLITH — Ashraellen
-- description: Тры станы кантраляванага распаду: BETON. SLUDGE. GAS. MONOLITH BETON SLUDGE GAS MONOLITH Тры станы кантраляванага распаду: BETON. SLUDGE. GAS. MONOLITH — трылогія сацыяльнай фантастыкі, антыўтопіі і філасофскага…
-- canonical: https://www.ashraellen.com/be/monolith/
-- H1: MONOLITH
-- H2: BETON | SLUDGE | GAS
-- H3: _missing_
-- suggested keyword seed: monolith, beton, gas, sludge, кантраляванага, распаду, станы, тры, трылогія, ashraellen, amazon, books, антыўтопіі, сацыяльнай, том, фантастыкі, філасофскага
-- candidates: gas, monolith, beton, sludge, том, кантраляванага, распаду, станы, тры, трылогія, amazon, books, google, play, англійская, антыўтопіі, баіцца, версія, па-руску, памяць, пачынае, пра, сацыяльнай, сістэмы
-
-Excerpt:
-
-> MONOLITH Тры станы кантраляванага распаду: BETON. SLUDGE. GAS. MONOLITH — трылогія сацыяльнай фантастыкі, антыўтопіі і філасофскага кіберпанку пра кантроль, памяць і распад сістэм. Абярыце том, мову і пляцоўку. Том I BETON Філасофская антыўтопія пра свет, дзе стабільнасць становіцца турмой, памяць падлягае рэдагаванню, а першая трэшчына з’яўляецца ўнутры самой Сістэмы. Чытаць па-руску ў Google Play Books Англійская версія на Amazon Том II SLUDGE Форма пачынае распадацца. Тое, што было цвёрдым, становіцца вязкім, нестабільным і ўжо неаддзельным ад чалавека ўнутры сістэмы. Чытаць па-руску ў Google Play Books Англійская версія на Amazon GAS Том III GAS Фінальны стан разгерметызацыі. Сэнс ужо немагчыма ўтрымаць ні ў бетоне, ні ў жыжы. Ён пачынае распаўсюджвацца. У падрыхтоўцы Сістэма баіцца не бунту. Яна баіцца першай трэшчыны.
 
 ### be/privacy.html
 
@@ -2425,23 +2399,6 @@ Excerpt:
 Excerpt:
 
 > Ashraellen Drei Richtungen der Präsenz: eine beobachtet, eine andere spricht, die dritte wird zum Buch. Forschung — die Mechanismen verstehen. Öffentlich — sie in Aktion sehen. Bücher — das Modell von innen erfahren. Professionelles Dossier Ashraellen ist eine unabhängige mehrsprachige literarisch-philosophische und künstlerische Forschungspraxis. Durch Bücher, Forschung, öffentliche Texte, Video, Klang, visuelle Formen und Satire untersucht sie Bewusstsein, Sprache, Systeme, digitalen Druck, innere Autonomie und die Frage, wie der Mensch den unmittelbaren Kontakt zum Sinn verliert und wiederfindet. — mark of presence Kontakt
-
-### de/monolith/index.html
-
-- lang: de
-- section: monolith
-- title: MONOLITH — Ashraellen
-- description: MONOLITH: BETON. SLUDGE. GAS. MONOLITH BETON SLUDGE GAS MONOLITH Drei Zustände kontrollierten Zerfalls: BETON. SLUDGE. GAS. MONOLITH ist eine dystopische Trilogie über Kontrolle, Erinnerung und den Zerfall von Systemen…
-- canonical: https://www.ashraellen.com/de/monolith/
-- H1: MONOLITH
-- H2: BETON | SLUDGE | GAS
-- H3: _missing_
-- suggested keyword seed: monolith, beton, gas, sludge, ashraellen, erinnerung, ist, amazon, auf, band, bei, den, die, drei, dystopische, eine, kontrolle, kontrollierten
-- candidates: monolith, gas, beton, sludge, amazon, auf, band, die, erinnerung, ist, vorbereitung, bei, den, drei, dystopische, eine, englisch, kontrolle, kontrollierten, lesen, systemen, trilogie, über, und
-
-Excerpt:
-
-> MONOLITH Drei Zustände kontrollierten Zerfalls: BETON. SLUDGE. GAS. MONOLITH ist eine dystopische Trilogie über Kontrolle, Erinnerung und den Zerfall von Systemen. Die deutsche Ausgabe ist in Vorbereitung. Derzeit sind die englischen Ausgaben auf Amazon verfügbar. BETON Band I. Stabilität wird zum Gefängnis. Erinnerung wird bearbeitet. Auf Englisch bei Amazon lesen SLUDGE Band II. Nach dem ersten Riss beginnt die Form zu zerfallen. Auf Englisch bei Amazon lesen GAS GAS Band III. In Vorbereitung. In Vorbereitung
 
 ### de/privacy.html
 
@@ -3837,23 +3794,6 @@ Excerpt:
 
 > Ashraellen Three directions of presence: one observes, another speaks, the third becomes a book. Research — understand the mechanisms. Public — see them at work. Books — experience the model from within. Professional dossier Ashraellen is an independent multilingual literary-philosophical and artistic research practice. Through books, research, public texts, video, sound, visual forms and satire, it explores consciousness, language, systems, digital pressure, inner autonomy, and how people lose and regain direct contact with meaning. — mark of presence Contact
 
-### en/monolith/index.html
-
-- lang: en
-- section: monolith
-- title: MONOLITH Trilogy — Ashraellen
-- description: Three states of controlled disintegration: BETON. SLUDGE. GAS. MONOLITH BETON SLUDGE GAS MONOLITH Three states of controlled disintegration: BETON. SLUDGE. GAS. MONOLITH is a trilogy of social science fiction, dystopia…
-- canonical: https://www.ashraellen.com/en/monolith/
-- H1: MONOLITH
-- H2: BETON | SLUDGE | GAS
-- H3: _missing_
-- suggested keyword seed: monolith, beton, gas, sludge, controlled, disintegration, states, three, trilogy, ashraellen, dystopia, about, fiction, science, social, volume
-- candidates: gas, monolith, sludge, beton, volume, controlled, disintegration, dystopia, states, three, trilogy, about, amazon, becomes, begins, can, collapse, crack, edition, english, fiction, first, google, inside
-
-Excerpt:
-
-> MONOLITH Three states of controlled disintegration: BETON. SLUDGE. GAS. MONOLITH is a trilogy of social science fiction, dystopia, and philosophical cyberpunk about control, memory, and the collapse of systems. Choose a volume, language, and platform. Volume I BETON A philosophical dystopia about a world where stability becomes a prison, memory can be edited, and the first crack appears inside the System. Read in English on Amazon Russian edition on Google Play Volume II SLUDGE The form begins to collapse. What was solid becomes viscous, unstable, and inseparable from the human being trapped inside it. Read in English on Amazon Russian edition on Google Play GAS Volume III GAS The final state of decompression. Meaning can no longer be held in concrete or sludge. It begins to spread. In preparation The System does not fear rebellion. It fears the first crack.
-
 ### en/privacy.html
 
 - lang: en
@@ -5060,23 +5000,6 @@ Excerpt:
 Excerpt:
 
 > Ashraellen Tres direcciones de presencia: una observa, otra habla, la tercera se convierte en libro. Investigación — comprender los mecanismos. Público — verlos en acción. Libros — vivir el modelo desde dentro. Dosier profesional Ashraellen es una práctica independiente y multilingüe de investigación literario-filosófica y artística. A través de libros, investigación, textos públicos, vídeo, sonido, formas visuales y sátira, explora la conciencia, el lenguaje, los sistemas, la presión digital, la autonomía interior y cómo la persona pierde y recupera el contacto directo con el sentido. — mark of presence Contacto
-
-### es/monolith/index.html
-
-- lang: es
-- section: monolith
-- title: MONOLITH — Ashraellen
-- description: MONOLITH: BETON. SLUDGE. GAS. MONOLITH BETON SLUDGE GAS MONOLITH Tres estados de desintegración controlada: BETON. SLUDGE. GAS. MONOLITH es una trilogía distópica sobre control, memoria y colapso de sistemas. La…
-- canonical: https://www.ashraellen.com/es/monolith/
-- H1: MONOLITH
-- H2: BETON | SLUDGE | GAS
-- H3: _missing_
-- suggested keyword seed: monolith, beton, gas, sludge, ashraellen, colapso, control, controlada, memoria, amazon, desintegración, distópica, estados, inglés, preparación, sistemas, sobre, tres
-- candidates: monolith, gas, beton, sludge, amazon, inglés, memoria, preparación, volumen, colapso, control, controlada, desintegración, distópica, estados, leer, sistemas, sobre, tres, trilogía, una, actualmente, ashraellen, colapsar
-
-Excerpt:
-
-> MONOLITH Tres estados de desintegración controlada: BETON. SLUDGE. GAS. MONOLITH es una trilogía distópica sobre control, memoria y colapso de sistemas. La edición en español está en preparación. Actualmente están disponibles las ediciones en inglés en Amazon. BETON Volumen I. La estabilidad se convierte en prisión. La memoria se edita. Leer en inglés en Amazon SLUDGE Volumen II. Después de la primera grieta, la forma empieza a colapsar. Leer en inglés en Amazon GAS GAS Volumen III. En preparación. En preparación
 
 ### es/privacy.html
 
@@ -7543,23 +7466,6 @@ Excerpt:
 
 > Ashraellen Trois directions de présence : l’une observe, l’autre parle, la troisième devient un livre. Recherche — comprendre les mécanismes. Public — les voir à l’œuvre. Livres — vivre le modèle de l’intérieur. Dossier professionnel Ashraellen est une pratique indépendante et multilingue de recherche littéraire, philosophique et artistique. À travers les livres, la recherche, les textes publics, la vidéo, le son, les formes visuelles et la satire, elle explore la conscience, le langage, les systèmes, la pression numérique, l’autonomie intérieure, ainsi que la manière dont l’être humain perd et retrouve un contact direct avec le sens. — mark of presence Contact
 
-### fr/monolith/index.html
-
-- lang: fr
-- section: monolith
-- title: MONOLITH — Ashraellen
-- description: MONOLITH: BETON. SLUDGE. GAS. MONOLITH BETON SLUDGE GAS MONOLITH Trois états de désintégration contrôlée : BETON. SLUDGE. GAS. MONOLITH est une trilogie dystopique sur le contrôle, la mémoire et l’effondrement des…
-- canonical: https://www.ashraellen.com/fr/monolith/
-- H1: MONOLITH
-- H2: BETON | SLUDGE | GAS
-- H3: _missing_
-- suggested keyword seed: monolith, beton, gas, sludge, ashraellen, est, mémoire, sur, une, amazon, anglais, contrôle, contrôlée, des, désintégration, dystopique, états, l’effondrement
-- candidates: monolith, gas, beton, sludge, sur, est, amazon, mémoire, préparation, une, volume, anglais, contrôle, contrôlée, des, désintégration, dystopique, états, l’effondrement, lire, trilogie, trois, actuellement, anglaises
-
-Excerpt:
-
-> MONOLITH Trois états de désintégration contrôlée : BETON. SLUDGE. GAS. MONOLITH est une trilogie dystopique sur le contrôle, la mémoire et l’effondrement des systèmes. L’édition française est en préparation. Les éditions anglaises sont actuellement disponibles sur Amazon. BETON Volume I. La stabilité devient une prison. La mémoire est éditée. Lire en anglais sur Amazon SLUDGE Volume II. Après la première fissure, la forme commence à s’effondrer. Lire en anglais sur Amazon GAS GAS Volume III. En préparation. En préparation
-
 ### fr/privacy.html
 
 - lang: fr
@@ -9362,23 +9268,6 @@ Excerpt:
 
 > Ashraellen Trzy kierunki obecności: jeden obserwuje, drugi mówi, trzeci staje się książką. Badania — zrozumieć mechanizmy. Publiczne — zobaczyć je w działaniu. Książki — przeżyć model od środka. Dossier profesjonalne Ashraellen to niezależna, wielojęzyczna praktyka literacko-filozoficzna i artystyczno-badawcza. Poprzez książki, badania, teksty publiczne, wideo, dźwięk, formy wizualne i satyrę bada świadomość, język, systemy, presję cyfrową, wewnętrzną autonomię oraz to, jak człowiek traci i odzyskuje bezpośredni kontakt z sensem. — mark of presence Kontakt
 
-### pl/monolith/index.html
-
-- lang: pl
-- section: monolith
-- title: MONOLITH — Ashraellen
-- description: MONOLITH: BETON. SLUDGE. GAS. MONOLITH BETON SLUDGE GAS MONOLITH Trzy stany kontrolowanego rozpadu: BETON. SLUDGE. GAS. MONOLITH to trylogia dystopijna o kontroli, pamięci i rozpadzie systemów. Polska edycja jest w…
-- canonical: https://www.ashraellen.com/pl/monolith/
-- H1: MONOLITH
-- H2: BETON | SLUDGE | GAS
-- H3: _missing_
-- suggested keyword seed: monolith, beton, gas, sludge, ashraellen, dystopijna, edycja, kontroli, amazon, angielsku, czytaj, kontrolowanego, pamięci, polska, przygotowaniu, rozpadu, rozpadzie, stany
-- candidates: monolith, gas, beton, sludge, amazon, przygotowaniu, tom, angielsku, czytaj, dystopijna, edycja, kontroli, kontrolowanego, pamięci, polska, rozpadu, rozpadzie, się, stany, systemów, trylogia, trzy, angielskie, ashraellen
-
-Excerpt:
-
-> MONOLITH Trzy stany kontrolowanego rozpadu: BETON. SLUDGE. GAS. MONOLITH to trylogia dystopijna o kontroli, pamięci i rozpadzie systemów. Polska edycja jest w przygotowaniu. Obecnie dostępne są angielskie wydania na Amazon. BETON Tom I. Stabilność staje się więzieniem. Pamięć jest redagowana. Czytaj po angielsku na Amazon SLUDGE Tom II. Po pierwszej rysie forma zaczyna się rozpadać. Czytaj po angielsku na Amazon GAS GAS Tom III. W przygotowaniu. W przygotowaniu
-
 ### pl/privacy.html
 
 - lang: pl
@@ -10585,23 +10474,6 @@ Excerpt:
 Excerpt:
 
 > Ashraellen Três direções de presença: uma observa, outra fala, a terceira torna-se um livro. Pesquisa — compreender os mecanismos. Público — vê-los em ação. Livros — vivenciar o modelo por dentro. Dossiê profissional Ashraellen é uma prática independente e multilíngue de pesquisa literário-filosófica e artística. Por meio de livros, pesquisa, textos públicos, vídeo, som, formas visuais e sátira, explora a consciência, a linguagem, os sistemas, a pressão digital, a autonomia interior e como a pessoa perde e recupera o contato direto com o sentido. — mark of presence Contacto
-
-### pt/monolith/index.html
-
-- lang: pt
-- section: monolith
-- title: MONOLITH — Ashraellen — PT
-- description: MONOLITH: BETON. SLUDGE. GAS. MONOLITH BETON SLUDGE GAS MONOLITH Três estados de desintegração controlada: BETON. SLUDGE. GAS. MONOLITH é uma trilogia distópica sobre controle, memória e colapso de sistemas. A edição…
-- canonical: https://www.ashraellen.com/pt/monolith/
-- H1: MONOLITH
-- H2: BETON | SLUDGE | GAS
-- H3: _missing_
-- suggested keyword seed: monolith, beton, gas, sludge, ashraellen, colapso, controlada, controle, memória, amazon, desintegração, distópica, edição, estados, inglês, preparação, sistemas, sobre
-- candidates: monolith, gas, beton, sludge, amazon, inglês, memória, preparação, volume, colapso, controlada, controle, desintegração, distópica, edição, estados, ler, sistemas, sobre, três, trilogia, uma, ashraellen, atualmente
-
-Excerpt:
-
-> MONOLITH Três estados de desintegração controlada: BETON. SLUDGE. GAS. MONOLITH é uma trilogia distópica sobre controle, memória e colapso de sistemas. A edição em português está em preparação. Atualmente, as edições em inglês estão disponíveis na Amazon. BETON Volume I. A estabilidade se torna prisão. A memória é editada. Ler em inglês na Amazon SLUDGE Volume II. Depois da primeira fissura, a forma começa a ruir. Ler em inglês na Amazon GAS GAS Volume III. Em preparação. Em preparação
 
 ### pt/privacy.html
 
@@ -12336,23 +12208,6 @@ Excerpt:
 Excerpt:
 
 > Ashraellen Три направления присутствия: одно наблюдает, другое говорит, третье становится книгой. Исследование — понять механизмы. Публичное — увидеть их в действии. Книги — прожить модель изнутри. Профессиональное досье Ashraellen — независимая многоязычная литературно-философская и художественно-исследовательская практика. Через книги, исследования, публичные тексты, видео, звук, визуальные формы и сатиру она исследует сознание, язык, системы, цифровое давление, внутреннюю автономию и то, как человек теряет и возвращает непосредственный контакт со смыслом. — mark of presence Контакт
-
-### ru/monolith/index.html
-
-- lang: ru
-- section: monolith
-- title: Трилогия МОНОЛИТ — Ashraellen
-- description: Три состояния контролируемого распада: БЕТОН. ЖИЖА. ГАЗ. MONOLITH БЕТОН ЖИЖА ГАЗ MONOLITH Три состояния контролируемого распада: БЕТОН. ЖИЖА. ГАЗ. МОНОЛИТ — трилогия социальной фантастики, антиутопии и философского…
-- canonical: https://www.ashraellen.com/ru/monolith/
-- H1: MONOLITH
-- H2: БЕТОН | ЖИЖА | ГАЗ
-- H3: _missing_
-- suggested keyword seed: monolith, бетон, газ, жижа, контролируемого, монолит, распада, состояния, три, трилогия, ashraellen, amazon, антиутопии, социальной, том, фантастики, философского
-- candidates: газ, бетон, жижа, том, monolith, контролируемого, монолит, распада, состояния, три, трилогия, amazon, books, google, play, английская, антиутопии, боится, версия, внутри, начинает, русском, системы, социальной
-
-Excerpt:
-
-> MONOLITH Три состояния контролируемого распада: БЕТОН. ЖИЖА. ГАЗ. МОНОЛИТ — трилогия социальной фантастики, антиутопии и философского киберпанка о контроле, памяти и распаде систем. Выберите том, язык и площадку. Том I БЕТОН Философская антиутопия о мире, где стабильность становится тюрьмой, память подлежит редактированию, а первая трещина появляется внутри самой Системы. Читать на русском в Google Play Books Английская версия на Amazon Том II ЖИЖА Форма начинает распадаться. То, что было твёрдым, становится вязким, нестабильным и уже неотделимым от человека внутри системы. Читать на русском в Google Play Books Английская версия на Amazon ГАЗ Том III ГАЗ Финальное состояние разгерметизации. Смысл уже невозможно удержать ни в бетоне, ни в жиже. Он начинает распространяться. В подготовке Система боится не бунта. Она боится первой трещины.
 
 ### ru/privacy.html
 
@@ -14784,23 +14639,6 @@ Excerpt:
 Excerpt:
 
 > Ashraellen Три напрями присутності: один спостерігає, другий говорить, третій стає книгою. Дослідження — зрозуміти механізми. Публічне — побачити їх у дії. Книжки — прожити модель зсередини. Професійне досьє Ashraellen — незалежна багатомовна літературно-філософська та мистецько-дослідницька практика. Через книжки, дослідження, публічні тексти, відео, звук, візуальні форми й сатиру вона досліджує свідомість, мову, системи, цифровий тиск, внутрішню автономію та те, як людина втрачає і відновлює безпосередній контакт із сенсом. — mark of presence Контакт
-
-### uk/monolith/index.html
-
-- lang: uk
-- section: monolith
-- title: MONOLITH — Ashraellen
-- description: MONOLITH: BETON. SLUDGE. GAS. MONOLITH BETON SLUDGE GAS MONOLITH Три стани контрольованого розпаду: BETON. SLUDGE. GAS. MONOLITH — антиутопічна трилогія про контроль, пам’ять і розпад систем. Українське видання…
-- canonical: https://www.ashraellen.com/uk/monolith/
-- H1: MONOLITH
-- H2: BETON | SLUDGE | GAS
-- H3: _missing_
-- suggested keyword seed: monolith, beton, gas, sludge, ashraellen, видання, пам’ять, amazon, google, play, англійською, антиутопічна, контроль, контрольованого, про, розпад, розпаду, систем
-- candidates: monolith, gas, beton, sludge, видання, читати, amazon, google, play, пам’ять, том, англійською, антиутопічна, контроль, контрольованого, підготовці, про, розпад, розпаду, російською, систем, стани, три, трилогія
-
-Excerpt:
-
-> MONOLITH Три стани контрольованого розпаду: BETON. SLUDGE. GAS. MONOLITH — антиутопічна трилогія про контроль, пам’ять і розпад систем. Українське видання готується. Наразі доступні англійські видання на Amazon і російські видання в Google Play Books. BETON Том I. Стабільність стає в’язницею. Пам’ять редагується. Читати англійською на Amazon Читати російською в Google Play SLUDGE Том II. Після першої тріщини форма починає розпадатися. Читати англійською на Amazon Читати російською в Google Play GAS GAS Том III. У підготовці. У підготовці
 
 ### uk/privacy.html
 
