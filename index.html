@@ -40,7 +40,7 @@
 .redirect-mode main,.redirect-mode .splash{display:none}
 .splash-mode main{display:none}
 .splash-mode .splash{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;background:#0b0b0d}
-.splash-symbol{display:block;width:min(192px,32vw);height:auto;opacity:0;animation:symbol-in 350ms ease-out forwards}
+.splash-symbol{display:block;width:min(192px,32vw);height:auto;opacity:0;animation:symbol-in 650ms ease-out forwards}
 @keyframes symbol-in{from{opacity:0}to{opacity:1}}
 @media(prefers-reduced-motion:reduce){.splash-symbol{animation:none;opacity:1}}
 </style>
@@ -59,7 +59,7 @@
   const supported=['en','ru','be','pl','uk','pt','es','fr','de','fi'];
   const pref=(navigator.language||'en').slice(0,2).toLowerCase();
   const target=supported.includes(pref)?pref:'en';
-  const delay=root.classList.contains('redirect-mode')?0:800;
+  const delay=root.classList.contains('redirect-mode')?0:1000;
   setTimeout(function(){location.replace('/'+target+'/');},delay);
 })();
 </script>
