@@ -26,6 +26,21 @@ function shouldExcludeFile(relativePath, fileName) {
   return EXCLUDED_PATHS.has(relativePath) || EXCLUDED_FILE_PATTERNS.some((pattern) => pattern.test(fileName));
 }
 
+function hasNoindexMeta(relativePath) {
+  const html = fs.readFileSync(path.join(ROOT, relativePath), 'utf8');
+  const metaTags = html.match(/<meta\\b[^>]*>/gi) || [];
+
+  return metaTags.some((tag) => {
+    const nameMatch = tag.match(/\\bname\\s*=\\s*["']([^"']+)["']/i);
+    const contentMatch = tag.match(/\\bcontent\\s*=\\s*["']([^"']+)["']/i);
+    if (!nameMatch || !contentMatch) return false;
+
+    const name = nameMatch[1].trim().toLowerCase();
+    const content = contentMatch[1].toLowerCase();
+    return (name === 'robots' || name === 'googlebot') && /(^|[,\\s])noindex([,\\s]|$)/i.test(content);
+  });
+}
+
 function escapeXml(value) {
   return value
     .replace(/&/g, '&amp;')
@@ -52,6 +67,7 @@ function walk(dir, results = []) {
     if (!entry.isFile()) continue;
     if (!entry.name.endsWith('.html')) continue;
     if (shouldExcludeFile(relativePath, entry.name)) continue;
+    if (hasNoindexMeta(relativePath)) continue;
 
     results.push(relativePath);
   }
