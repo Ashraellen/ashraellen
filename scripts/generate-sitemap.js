@@ -40,6 +40,16 @@ function hasNoindexMeta(relativePath) {
     return (name === 'robots' || name === 'googlebot') && /(^|[,\s])noindex([,\s]|$)/i.test(content);
   });
 }
+function hasMetaRefresh(relativePath) {
+  const html = fs.readFileSync(path.join(ROOT, relativePath), 'utf8');
+  const metaTags = html.match(/<meta\b[^>]*>/gi) || [];
+
+  return metaTags.some((tag) => {
+    const httpEquivMatch = tag.match(/\bhttp-equiv\s*=\s*["']([^"']+)["']/i);
+    return Boolean(httpEquivMatch && httpEquivMatch[1].trim().toLowerCase() === 'refresh');
+  });
+}
+
 function escapeXml(value) {
   return value
     .replace(/&/g, '&amp;')
@@ -67,6 +77,7 @@ function walk(dir, results = []) {
     if (!entry.name.endsWith('.html')) continue;
     if (shouldExcludeFile(relativePath, entry.name)) continue;
     if (hasNoindexMeta(relativePath)) continue;
+    if (hasMetaRefresh(relativePath)) continue;
 
     results.push(relativePath);
   }
