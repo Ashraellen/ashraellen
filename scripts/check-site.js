@@ -86,7 +86,13 @@ function hasNoindex(html) {
 }
 
 function findDraftMarkers(html) {
-  const upper = stripHtmlComments(html).toUpperCase();
+  const visibleText = stripHtmlComments(html)
+    .replace(/<script\b[\s\S]*?<\/script>/gi, ' ')
+    .replace(/<style\b[\s\S]*?<\/style>/gi, ' ')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&nbsp;|&#160;/gi, ' ');
+
+  const upper = visibleText.toUpperCase();
   return DRAFT_MARKERS.filter((marker) => upper.includes(marker));
 }
 
