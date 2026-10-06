@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const ROOT = process.cwd();
-const LANGUAGES = ['ru', 'en', 'pl', 'de', 'es', 'fr', 'pt', 'uk'];
+const LANGUAGES = ['ru', 'en', 'pl', 'de', 'es', 'fr', 'pt', 'uk', 'be', 'fi'];
 
 const EXCLUDED_DIRS = new Set([
   '.git',
