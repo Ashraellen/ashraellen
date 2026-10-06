@@ -5,7 +5,7 @@ const ROOT = process.cwd();
 const SITE = 'https://www.ashraellen.com';
 const SKIP_DIRS = new Set(['.git', '.github', 'assets', 'scripts', 'node_modules']);
 const SKIP_FILES = new Set(['404.html']);
-const LANGUAGES = new Set(['en', 'ru', 'pl', 'de', 'es', 'fr', 'pt', 'uk', 'be']);
+const LANGUAGES = new Set(['en', 'ru', 'pl', 'de', 'es', 'fr', 'pt', 'uk', 'be', 'fi']);
 
 function walk(dir, out = []) {
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
