@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-09T08:54:46.155Z
+Generated: 2026-10-09T09:22:15.508Z
 Pages: 870
 
 ## Index
@@ -226,7 +226,7 @@ Pages: 870
 | en/public/thoughts/index-0002.html | en | public | Ashraellen — Second Arc of Support Thoughts | ashraellen, public, thoughts, index, 0002, second, arc, support, memory, observation, awakening, dirty, cup, mercy, loss, border, spiritual, literature | thoughts, arc, ashraellen, second, support, cup, dirty, observation, awakening, loss, public, alive, being, book, border, chair, close, empty |
 | en/public/thoughts/index.html | en | public | Ashraellen — Third Arc of Support Thoughts | Ashraellen, Support Thoughts, arc 0003, acceptance of reality, witness, image | thoughts, arc, support, fact, image, its, one, problem, subtle, third, thought, ashraellen, crown, does, loses, public, unnecessary, war |
 | en/research/archive/index.html | en | research | Ashraellen — Research Archive | Ashraellen, research archive, research materials, versions, research layers, artistic research | research, archive, ashraellen, materials, active, completed, layers, longer, moving, path, still, books, earlier, traces, versions, work |
-| en/research/index.html | en | research | Ashraellen — Research | ashraellen, research, mode, seeing, lifelong, artistic-philosophical, inquiry, meaning, observation, how, human, being, loses, contact, reality, inner, freedom, what | research, ashraellen, how, inquiry, meaning, being, digital, observation, open, what, artistic, artistic-philosophical, contact, continuous, done, form, fragmented, freedom |
+| en/research/index.html | en | research | Ashraellen — Research | ashraellen, research, mode, seeing, lifelong, artistic-philosophical, inquiry, meaning, observation, how, human, being, loses, contact, reality, inner, freedom, what | research, ashraellen, how, inquiry, meaning, being, digital, observation, open, what, artistic, artistic-philosophical, contact, continuous, does, done, form, fragmented |
 | en/research/method/index.html | en | research | Ashraellen — Method of Observation | ashraellen, research, method, observation, recording, knots, meaning, artistic, form, instrument, reader response, field material, recognition | method, observation, ashraellen, research, form, meaning, artistic, field, material, what, appears, does, experience, first-person, forms, has, how, instrument |
 | en/research/notes/index.html | en | research | Ashraellen — Notes | ashraellen, notes, margins, research, doubts, fragments | notes, ashraellen, margins, ashraellen’s, become, deliberately, doctrine, doubts, fragments, material, refuses, research, feels |
 | en/research/platform-dali/index.html | en | research | Ashraellen — Selected Research and Artistic Practice | _missing_ | research, practice, ashraellen, selected, language, public, human, literary, memory, reality, understanding, around, artistic, atp, current, dali, enquiry, evidence |
@@ -624,7 +624,7 @@ Pages: 870
 | pt/public/thoughts/index-0002.html | pt | public | Ashraellen — Arco 0002 — PT | ashraellen, public, thoughts, index, 0002, arco, segundo, pensamentos, apoio, cadeira, vazia, generalização, vez, observação, onde, vida, parou, xícara | arco, apoio, pensamentos, segundo, ashraellen, generalização, não, observação, quando, xícara, 0002, arrependa, cadeira, fechar, livro, onde, parou, public |
 | pt/public/thoughts/index.html | pt | public | Ashraellen — Terceiro arco de pensamentos de apoio | Ashraellen, pensamentos de apoio, arco 0003, aceitação da realidade, testemunha, imagem | apoio, arco, pensamentos, ashraellen, desnecessária, fato, guerra, imagem, não, pensamento, problema, terceiro, coroa, perde, public, sutil, testemunha, abrir |
 | pt/research/archive/index.html | pt | research | Ashraellen — Arquivo de pesquisa | Ashraellen, arquivo de pesquisa, materiais de pesquisa, versões, camadas da pesquisa, pesquisa artística | arquivo, ashraellen, pesquisa, materiais, ainda, camadas, caminho, concluídas, não, que, research, vivo, anteriores, archive, está, fazem, movimento, para |
-| pt/research/index.html | pt | research | Ashraellen — Pesquisa | ashraellen, research, pesquisa, modo, ver, uma, artístico-filosófica, sentido, longo, vida, observação, como, ser, humano, perde, contato, com, realidade | pesquisa, ashraellen, como, sentido, uma, digital, observação, que, research, aberto, artística, artístico-filosófica, com, conhecimento, contato, contínua, entender, este |
+| pt/research/index.html | pt | research | Ashraellen — Pesquisa | ashraellen, research, pesquisa, modo, ver, uma, artístico-filosófica, sentido, longo, vida, observação, como, ser, humano, perde, contato, com, realidade | pesquisa, ashraellen, como, sentido, uma, digital, observação, que, research, aberto, abrir, artística, artístico-filosófica, com, conhecimento, contato, contínua, entender |
 | pt/research/method/index.html | pt | research | Ashraellen — Método de Observação | ashraellen, research, method, método, observação, registro, nós, sentido, forma, artística, como, instrumento, pesquisa, verificação, pelo, reconhecimento, campo, aparece | observação, ashraellen, como, método, que, artística, forma, não, pesquisa, por, research, sentido, verificação, aparece, aqui, campo, dentro, formas |
 | pt/research/notes/index.html | pt | research | Ashraellen — Notas | ashraellen, notas, margens, pesquisa, dúvidas, fragmentos | ashraellen, notas, margens, doutrina, dúvidas, fragmentos, material, que, recusa, research, tornar, assim, concebido, deliberadamente, notes |
 | pt/research/position/index.html | pt | research | Ashraellen — Posição | ashraellen, posição, pesquisa artística, Realidade, aceitação, Criador, liberdade humana, religião, responsabilidade | ashraellen, realidade, não, posição, aceitação, pessoa, ponto, research, responsabilidade, sem, uma, agir, aprovação, caminho, coerção, com, como, compreensão |
@@ -1996,7 +1996,7 @@ Excerpt:
 - H2: Што даследуецца | Як гэта робіцца | Фрагментарная форма, бесперапыннае даследаванне | Метад | Як разумець гэтую працу | Мастацкае даследаванне | Адкрытыя веды | Лічбавае грамадства
 - H3: _missing_
 - suggested keyword seed: даследаванне, ashraellen, research, лічбавае, сэнсу, тым, чалавек, або, адкрытыя, адкрыць, бачыць, бесперапыннае, веды, відэа, грамадства, губляе, гэтую, даследавання
-- candidates: ashraellen, адкрыць, відэа, даследаванне, даследавання, дзе, або, назірання, тым, чалавек, лічбавае, сэнсу, архіў, гук, метад, спосаб, сэнс, форма, асобная, асяроддзе, бачыць, думка, каб, можа
+- candidates: ashraellen, адкрыць, відэа, даследаванне, даследавання, дзе, або, назірання, тым, чалавек, лічбавае, сэнсу, архіў, гук, метад, можа, праз, спосаб, сэнс, форма, асобная, асяроддзе, бачыць, думка
 
 Excerpt:
 
@@ -3203,7 +3203,7 @@ Excerpt:
 - H2: Was untersucht wird | Wie es geschieht | Fragmentarische Form, fortlaufende Forschung | Methode | Wie diese Arbeit zu verstehen ist | Künstlerische Forschung | Offenes Wissen | Digitale Gesellschaft
 - H3: _missing_
 - suggested keyword seed: eine, forschung, wie, ashraellen, des, ist, und, der, research, als, arbeit, beobachtung, den, dessen, die, diese, digitale, ein
-- candidates: und, der, die, eine, des, ein, wie, nicht, ist, von, sondern, als, ashraellen, das, dem, mit, den, beobachtung, forschung, einem, werden, digitale, einer, für
+- candidates: und, der, die, eine, des, ein, wie, nicht, ist, von, sondern, als, ashraellen, das, dem, den, mit, beobachtung, forschung, einem, einer, öffnen, werden, digitale
 
 Excerpt:
 
@@ -4613,8 +4613,8 @@ Excerpt:
 - H1: Research
 - H2: What is being researched | How it is done | Fragmented form, continuous inquiry | Method | How to understand this work | Artistic research | Open knowledge | Digital society
 - H3: _missing_
-- suggested keyword seed: research, ashraellen, how, inquiry, meaning, being, digital, observation, open, what, artistic, artistic-philosophical, contact, continuous, done, form, fragmented, freedom
-- candidates: how, research, meaning, ashraellen, observation, inquiry, what, digital, open, where, one, thought, work, does, human, person, within, form, inner, language, perception, separate, sound, archive
+- suggested keyword seed: research, ashraellen, how, inquiry, meaning, being, digital, observation, open, what, artistic, artistic-philosophical, contact, continuous, does, done, form, fragmented
+- candidates: how, research, meaning, ashraellen, observation, what, inquiry, open, digital, where, does, language, one, person, thought, work, human, within, form, inner, perception, separate, sound, archive
 
 Excerpt:
 
@@ -5838,7 +5838,7 @@ Excerpt:
 - H2: Qué se investiga | Cómo se hace | Forma fragmentaria, investigación continua | Método | Cómo entender este trabajo | Investigación artística | Conocimiento abierto | Sociedad digital
 - H3: _missing_
 - suggested keyword seed: investigación, ashraellen, cómo, una, forma, sentido, con, del, research, abierto, artística, artístico-filosófica, como, conocimiento, contacto, continua, digital, entender
-- candidates: una, investigación, del, cómo, que, sino, como, con, sentido, ashraellen, las, forma, observación, digital, abrir, dentro, persona, donde, los, para, son, más, pensamiento, percepción
+- candidates: una, investigación, del, que, cómo, como, sino, con, sentido, ashraellen, las, forma, observación, abrir, digital, persona, dentro, donde, los, para, puede, qué, son, más
 
 Excerpt:
 
@@ -7062,7 +7062,7 @@ Excerpt:
 - H2: Mitä tutkitaan | Miten tutkimus tehdään | Sirpaleinen muoto, jatkuva tutkimus | Menetelmä | Miten tätä työtä voi lähestyä | Taiteellinen tutkimus | Avoin tieto | Digitaalinen yhteiskunta
 - H3: _missing_
 - suggested keyword seed: tutkimus, ashraellen, miten, digitaalinen, ihminen, research, siitä, voi, avaa, avoin, elämänmittainen, havainto, jatkuva, lähestyä, menetelmä, menettää, merkitykseen, merkityksen
-- candidates: vaan, miten, ole, avaa, ashraellen, tutkimus, digitaalinen, tai, siitä, ihminen, missä, voi, ajatus, havainnoinnin, havainnon, ihmisen, menetelmä, merkityksen, mitä, muoto, tutkimuksen, alkaa, arkisto, eivät
+- candidates: ole, vaan, miten, avaa, ashraellen, tutkimus, digitaalinen, tai, missä, siitä, ihminen, voi, ajatus, havainnoinnin, havainnon, ihmisen, menetelmä, merkityksen, mitä, muoto, tutkimuksen, alkaa, arkisto, eivät
 
 Excerpt:
 
@@ -8337,7 +8337,7 @@ Excerpt:
 - H2: Ce qui est recherché | Comment cela se fait | Forme fragmentaire, recherche continue | Méthode | Comment comprendre ce travail | Recherche artistique | Savoir ouvert | Société numérique
 - H3: _missing_
 - suggested keyword seed: recherche, ashraellen, sens, une, artistique, comment, dont, est, numérique, research, avec, cela, comme, comprendre, contact, continue, d’une, dans
-- candidates: une, recherche, des, pas, sens, les, dans, mais, comme, dont, ashraellen, numérique, ouvrir, pensée, pour, qui, son, sont, artistique, avec, comment, d’observation, elle, est
+- candidates: une, recherche, des, pas, sens, les, dans, comme, mais, dont, ashraellen, numérique, ouvrir, qui, pensée, pour, son, sont, artistique, avec, comment, d’observation, elle, est
 
 Excerpt:
 
@@ -10156,7 +10156,7 @@ Excerpt:
 - H2: Co jest badane | Jak to się odbywa | Forma fragmentaryczna, ciągłość badania | Metoda | Jak rozumieć tę pracę | Badanie artystyczne | Otwarta wiedza | Społeczeństwo cyfrowe
 - H3: _missing_
 - suggested keyword seed: badanie, ashraellen, badania, człowiek, research, się, artystyczne, artystyczno-filozoficzne, badane, całe, ciągłość, cyfrowe, forma, fragmentaryczna, jako, kontakt, lecz, metoda
-- candidates: nie, się, lecz, ashraellen, badania, jako, obserwacji, otwórz, tym, wideo, badanie, człowiek, cyfrowe, myśl, sensu, archiwum, forma, gdzie, sposób, tego, wewnątrz, ani, częścią, dźwięk
+- candidates: nie, się, lecz, ashraellen, badania, jako, otwórz, obserwacji, tym, wideo, badanie, człowiek, cyfrowe, myśl, sensu, archiwum, forma, gdzie, którym, może, sposób, tego, wewnątrz, ani
 
 Excerpt:
 
@@ -11379,8 +11379,8 @@ Excerpt:
 - H1: Pesquisa
 - H2: O que é investigado | Como isso é feito | Forma fragmentária, pesquisa contínua | Método | Como entender este trabalho | Pesquisa artística | Conhecimento aberto | Sociedade digital
 - H3: _missing_
-- suggested keyword seed: pesquisa, ashraellen, como, sentido, uma, digital, observação, que, research, aberto, artística, artístico-filosófica, com, conhecimento, contato, contínua, entender, este
-- candidates: uma, como, pesquisa, não, que, mas, sentido, ashraellen, observação, por, digital, para, abrir, dentro, modo, onde, pessoa, são, com, ser, trabalho, forma, pensamento, percepção
+- suggested keyword seed: pesquisa, ashraellen, como, sentido, uma, digital, observação, que, research, aberto, abrir, artística, artístico-filosófica, com, conhecimento, contato, contínua, entender
+- candidates: uma, como, não, pesquisa, que, mas, sentido, ashraellen, observação, por, abrir, digital, para, dentro, modo, onde, pessoa, são, com, pode, ser, trabalho, forma, pensamento
 
 Excerpt:
 
@@ -13267,7 +13267,7 @@ Excerpt:
 - H2: Что исследуется | Как это делается | Фрагментарная форма, непрерывное исследование | Метод | Как понимать эту работу | Художественное исследование | Открытое знание | Цифровое общество
 - H3: _missing_
 - suggested keyword seed: исследование, ashraellen, research, смысла, человек, архив, видео, видеть, внутренней, где, делается, длиною, жизнь, знание, или, исследования, исследуется, контакт
-- candidates: ashraellen, исследование, исследования, видео, где, наблюдения, открыть, или, человек, мысль, смысла, архив, внутри, звук, метод, смысл, способ, форма, цифровая, видеть, его, здесь, может, наблюдение
+- candidates: ashraellen, исследование, исследования, открыть, видео, где, наблюдения, или, человек, мысль, смысла, архив, внутри, его, звук, метод, может, смысл, способ, форма, цифровая, через, видеть, здесь
 
 Excerpt:
 
@@ -15579,7 +15579,7 @@ Excerpt:
 - H2: Що досліджується | Як це робиться | Фрагментарна форма, безперервне дослідження | Метод | Як розуміти цю роботу | Художнє дослідження | Відкрите знання | Цифрове суспільство
 - H3: _missing_
 - suggested keyword seed: дослідження, ashraellen, research, людина, метод, сенсу, спостереження, цифрове, або, архів, бачити, безперервне, відео, відкрите, відкрити, внутрішньою, втрачає, досліджується
-- candidates: дослідження, ashraellen, спостереження, відео, відкрити, людина, сенсу, цифрове, або, архів, звук, метод, сенс, спосіб, сприйняття, форма, бачити, думка, може, окрема, роботи, середовище, стан, стають
+- candidates: дослідження, ashraellen, спостереження, відкрити, відео, людина, сенсу, цифрове, або, архів, звук, метод, може, сенс, спосіб, сприйняття, форма, через, бачити, думка, окрема, про, проєкт, роботи
 
 Excerpt:
 
