@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-09T08:46:23.831Z
-Pages: 864
+Generated: 2026-10-09T08:47:09.275Z
+Pages: 866
 
 ## Index
 
@@ -101,6 +101,7 @@ Pages: 864
 | de/professional/index.html | de | professional | Ashraellen — Professionelles Dossier | _missing_ | ashraellen, und, arbeit, ausgewählte, beobachtungsmethode, des, die, dossier, formen, literarische, öffentliche, parallele, professional, professionelles, sich, von, arbeiten, autor |
 | de/projects/my-memory/index.html | de | projects | MY MEMORY — Kontinuität unter Kontrolle des Menschen | _missing_ | kontinuität, memory, des, gedächtnis, kontrolle, menschen, und, unter, bleiben, das, die, ist, projects, was, wie, ai-sitzungen, anbieter, ashraellen |
 | de/projects/voiceprint/index.html | de | projects | VOICEPRINT — Wo bin ich in diesem Strom? | _missing_ | ein, ich, voiceprint, bin, der, text, autor, diesem, nicht, projects, sie, strom, und, wenn, alles, ashraellen, atp, auch |
+| de/projects/whisper/index.html | de | projects | WHISPER — Wer spricht? | _missing_ | whisper, und, autorschaft, das, der, ein, ist, projects, sprache, spricht, wer, aktueller, ashraellen, die, eine, einer, fünf, gespräche |
 | de/public/index.html | de | public | Ashraellen — Öffentlich | Ashraellen, öffentliches Feld, Auftritte, Veröffentlichungen, Stützgedanken, Forschung, Beobachtungen | ashraellen, auftritte, öffentlich, public, stützgedanken, und, veröffentlichungen, begegnet, beobachtungen, dem, denen, der, des, die, ein, eine, feld, forschung |
 | de/public/posts/essay/cycles/cycle-0001.html | de | public | Ashraellen — Erster Mini-Essay-Zyklus | ashraellen, public, posts, essay, cycles, cycle, 0001, erster, mini-essay-zyklus, zyklus, macht, nicht, über, den, gedanken, sondern, die, aufmerksamkeit | die, erster, ist, nicht, zyklus, der, über, das, erste, körper, vergangenheit, aber, ashraellen, aufmerksamkeit, den, deutung, gedanken, ihre |
 | de/public/posts/essay/cycles/index.html | de | public | Ashraellen — Mini-Essay-Zyklen | ashraellen, public, posts, essay, cycles, mini-essay-zyklen, abgeschlossene, zyklen, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | abgeschlossene, mini-essay-zyklen, zyklen, der, abschnitts, aktuelle, ashraellen, auf, befindet, des, gesammelt, hauptseite, public, zyklus, cycles, essay, hier, mini-essays |
@@ -401,6 +402,7 @@ Pages: 864
 | fr/professional/index.html | fr | professional | Ashraellen — Dossier professionnel | _missing_ | ashraellen, formes, recherche, axes, d’observation, dossier, méthode, œuvres, parallèles, pratique, professional, professionnel, publiques, sélectionnées, travail, artistico-philosophique, artistiques, aujourd’hui |
 | fr/projects/my-memory/index.html | fr | projects | MY MEMORY — la continuité sous le contrôle de la personne | _missing_ | continuité, memory, contrôle, les, mémoire, personne, sous, comment, projects, projet, que, qui, rester, une, appartenir, ashraellen, cela, compte |
 | fr/projects/voiceprint/index.html | fr | projects | VOICEPRINT — Où suis-je dans ce flux ? | _missing_ | qui, voiceprint, dans, pas, suis-je, texte, une, auteur, être, flux, les, projects, que, afin, ashraellen, atp, avec, belles |
+| fr/projects/whisper/index.html | fr | projects | WHISPER — Qui parle ? | _missing_ | whisper, qui, conversation, est, l’auteur, l’ia, langue, parle, projects, actuel, agency, artistique, ashraellen, auteur, cinq, contrats, d’assistance, dans |
 | fr/public/index.html | fr | public | Ashraellen — Public | Ashraellen, champ public, interventions, publications, pensées d’appui, recherche, observations | public, ashraellen, d’appui, pensées, interventions, personne, publications, avec, champ, dans, elle, les, nouvelles, observations, ouvrir, pas, pensée, projets |
 | fr/public/posts/essay/cycles/cycle-0001.html | fr | public | Ashraellen — Premier cycle de mini-essais | ashraellen, public, posts, essay, cycles, cycle, 0001, premier, mini-essais, pouvoir, non, sur, pensée, mais, l’attention, corps, est, première | cycle, premier, est, mais, non, sur, corps, passé, pensée, ashraellen, interprétation, l’attention, mini-essais, porte, pouvoir, première, public, son |
 | fr/public/posts/essay/cycles/index.html | fr | public | Ashraellen — Cycles de mini-essais | ashraellen, public, posts, essay, cycles, mini-essais, achevés, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | cycles, mini-essais, achevés, actuel, cycle, ashraellen, ici, les, principale, public, rassemblés, section, sont, essay, posts, premier, sur, trouve |
@@ -2471,6 +2473,23 @@ Excerpt:
 Excerpt:
 
 > VOICEPRINT Wo bin ich in diesem Strom? Heute kann ein Text durch eine andere Sprache, ein AI-Modell, Redaktion und Anpassung gehen — und nahezu makellos zurückkehren. Grammatikalisch korrekt. Natürlich. Flüssig. Manchmal sogar literarischer als das Original. Und genau hier beginnt das Problem. Ein Text kann nach einer solchen Bearbeitung besser werden. Manchmal ist genau das der Verlust. Denn irgendwann lautet die Frage nicht mehr: „Ist das eine gute Übersetzung?“ Sondern: „Bin ich noch darin?“ 01 Wie alles begann Ich begann nicht mit Büchern. Als ich jung war, schrieb ich einfach Gedanken auf. Manchmal war es ein Satz. Manchmal ein paar Zeilen. Dann ein paar Seiten. Dann kamen die Notizbücher. Ich schrieb Beobachtungen, Fragen, Zweifel, einzelne Bilder und bestimmte Schlussfolgerungen auf — alles, was ich nicht verlieren wollte. Nach und nach begannen einzelne Notizen sich miteinander z
+
+### de/projects/whisper/index.html
+
+- lang: de
+- section: projects
+- title: WHISPER — Wer spricht?
+- description: WHISPER ist ein künstlerisch-forschendes Prototypprojekt über live KI-vermittelte Gespräche, Sprache, Autorschaft und menschliche Präsenz.
+- canonical: https://www.ashraellen.com/de/projects/whisper/
+- H1: WHISPER
+- H2: Wer spricht? | Das Problem | Fünf Verträge der Hilfe | Autorschaft und Handlungsfähigkeit | Hören ohne permanente Überwachung | Aktueller Status
+- H3: _missing_
+- suggested keyword seed: whisper, und, autorschaft, das, der, ein, ist, projects, sprache, spricht, wer, aktueller, ashraellen, die, eine, einer, fünf, gespräche
+- candidates: und, der, ist, sprache, whisper, eine, einer, das, die, kann, nicht, ein, mensch, mit, antwort, autorschaft, gespräch, spricht, was, wird, bedeutung, begrenzten, keine, als
+
+Excerpt:
+
+> WHISPER Wer spricht? WHISPER ist ein Projekt für sprachliche Unterstützung in Echtzeit zwischen Menschen, die keine gemeinsame Sprache teilen. Das praktische Ziel ist einfach: einer Person helfen, den anderen zu verstehen und in einer kaum oder gar nicht beherrschten Sprache zu antworten — und dabei sichtbar, hörbar und verantwortlich im Gespräch zu bleiben. Die Maschine kann Sprache liefern. Der Mensch darf nicht aus dem Gespräch verschwinden. 01 Das Problem Übersetzung kann einen Satz verständlich machen. Das macht das Gespräch noch nicht automatisch zu deinem. Im Live-Gespräch wirken Bedeutung, Timing, Ton und soziale Präsenz gleichzeitig. Was kann ich dieser Person genau jetzt natürlich sagen? Das enge Modell lautet: Gegenüber spricht → System interpretiert begrenzten Kontext → eine kurze Antwort wird vorgeschlagen → der Nutzer spricht selbst. WHISPER ist mit Voiceprint verwandt, abe
 
 ### de/public/index.html
 
@@ -7571,6 +7590,23 @@ Excerpt:
 Excerpt:
 
 > VOICEPRINT Où suis-je dans ce flux ? Aujourd’hui, un texte peut passer par une autre langue, un modèle d’AI, l’édition, l’adaptation — et revenir presque impeccable. Grammaticalement correct. Naturel. Fluide. Parfois même plus littéraire que l’original. Et c’est précisément là que le problème commence. Un texte peut devenir meilleur après ce type de traitement. Parfois, c’est précisément cela qui constitue la perte. Car à un moment donné, la question n’est plus : « Est-ce une bonne traduction ? » Elle devient : « Est-ce que j’y suis encore ? » 01 Comment tout a commencé Je n’ai pas commencé par les livres. Quand j’étais jeune, je notais simplement des pensées. Parfois une phrase. Parfois quelques lignes. Puis quelques pages. Puis les carnets sont apparus. J’y consignais des observations, des questions, des doutes, des images isolées, certaines conclusions — tout ce que je ne voulais pas 
+
+### fr/projects/whisper/index.html
+
+- lang: fr
+- section: projects
+- title: WHISPER — Qui parle ?
+- description: WHISPER est un projet de recherche artistique et de prototypage sur la conversation en direct médiée par l’IA, la langue, l’auteur et la présence humaine.
+- canonical: https://www.ashraellen.com/fr/projects/whisper/
+- H1: WHISPER
+- H2: Qui parle ? | Le problème | Cinq contrats d’assistance | Auteur et agency | Écouter sans surveillance permanente | Statut actuel
+- H3: _missing_
+- suggested keyword seed: whisper, qui, conversation, est, l’auteur, l’ia, langue, parle, projects, actuel, agency, artistique, ashraellen, auteur, cinq, contrats, d’assistance, dans
+- candidates: une, est, whisper, langue, pas, l’ia, conversation, dans, des, qui, l’auteur, l’humain, parle, personne, peut, réponse, direct, doit, les, machine, n’est, par, projet, propre
+
+Excerpt:
+
+> WHISPER Qui parle ? WHISPER est un projet d’assistance linguistique en direct pour des conversations entre des personnes qui ne partagent pas de langue commune. Le but pratique est simple : aider une personne à comprendre son interlocuteur et à répondre dans une langue qu’elle connaît peu ou pas du tout, tout en restant le participant visible, audible et responsable. La machine peut fournir la langue. L’humain ne doit pas disparaître de la conversation. 01 Le problème La traduction peut déjà rendre une phrase compréhensible. Cela ne suffit pas à faire de la conversation la vôtre. Dans une conversation réelle, sens, rythme, ton et présence sociale agissent en même temps. Que puis-je dire naturellement à cette personne, ici et maintenant ? Le modèle étroit est : l’interlocuteur parle → le système interprète un contexte limité → une réponse courte est proposée → l’utilisateur parle lui-même
 
 ### fr/public/index.html
 

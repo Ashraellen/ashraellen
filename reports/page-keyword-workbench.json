@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T08:46:23.817Z",
+  "generated": "2026-10-09T08:47:09.259Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -7085,6 +7085,79 @@
         "ashraellen",
         "atp",
         "auch"
+      ]
+    },
+    {
+      "page": "de/projects/whisper/index.html",
+      "lang": "de",
+      "section": "projects",
+      "title": "WHISPER — Wer spricht?",
+      "description": "WHISPER ist ein künstlerisch-forschendes Prototypprojekt über live KI-vermittelte Gespräche, Sprache, Autorschaft und menschliche Präsenz.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/de/projects/whisper/",
+      "h1": [
+        "WHISPER"
+      ],
+      "h2": [
+        "Wer spricht?",
+        "Das Problem",
+        "Fünf Verträge der Hilfe",
+        "Autorschaft und Handlungsfähigkeit",
+        "Hören ohne permanente Überwachung",
+        "Aktueller Status"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "de",
+        "projects",
+        "whisper"
+      ],
+      "excerpt": "WHISPER Wer spricht? WHISPER ist ein Projekt für sprachliche Unterstützung in Echtzeit zwischen Menschen, die keine gemeinsame Sprache teilen. Das praktische Ziel ist einfach: einer Person helfen, den anderen zu verstehen und in einer kaum oder gar nicht beherrschten Sprache zu antworten — und dabei sichtbar, hörbar und verantwortlich im Gespräch zu bleiben. Die Maschine kann Sprache liefern. Der Mensch darf nicht aus dem Gespräch verschwinden. 01 Das Problem Übersetzung kann einen Satz verständlich machen. Das macht das Gespräch noch nicht automatisch zu deinem. Im Live-Gespräch wirken Bedeutung, Timing, Ton und soziale Präsenz gleichzeitig. Was kann ich dieser Person genau jetzt natürlich sagen? Das enge Modell lautet: Gegenüber spricht → System interpretiert begrenzten Kontext → eine kurze Antwort wird vorgeschlagen → der Nutzer spricht selbst. WHISPER ist mit Voiceprint verwandt, abe",
+      "candidates": [
+        "und",
+        "der",
+        "ist",
+        "sprache",
+        "whisper",
+        "eine",
+        "einer",
+        "das",
+        "die",
+        "kann",
+        "nicht",
+        "ein",
+        "mensch",
+        "mit",
+        "antwort",
+        "autorschaft",
+        "gespräch",
+        "spricht",
+        "was",
+        "wird",
+        "bedeutung",
+        "begrenzten",
+        "keine",
+        "als"
+      ],
+      "suggestedKeywordSeed": [
+        "whisper",
+        "und",
+        "autorschaft",
+        "das",
+        "der",
+        "ein",
+        "ist",
+        "projects",
+        "sprache",
+        "spricht",
+        "wer",
+        "aktueller",
+        "ashraellen",
+        "die",
+        "eine",
+        "einer",
+        "fünf",
+        "gespräche"
       ]
     },
     {
@@ -29465,6 +29538,79 @@
         "atp",
         "avec",
         "belles"
+      ]
+    },
+    {
+      "page": "fr/projects/whisper/index.html",
+      "lang": "fr",
+      "section": "projects",
+      "title": "WHISPER — Qui parle ?",
+      "description": "WHISPER est un projet de recherche artistique et de prototypage sur la conversation en direct médiée par l’IA, la langue, l’auteur et la présence humaine.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/fr/projects/whisper/",
+      "h1": [
+        "WHISPER"
+      ],
+      "h2": [
+        "Qui parle ?",
+        "Le problème",
+        "Cinq contrats d’assistance",
+        "Auteur et agency",
+        "Écouter sans surveillance permanente",
+        "Statut actuel"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "fr",
+        "projects",
+        "whisper"
+      ],
+      "excerpt": "WHISPER Qui parle ? WHISPER est un projet d’assistance linguistique en direct pour des conversations entre des personnes qui ne partagent pas de langue commune. Le but pratique est simple : aider une personne à comprendre son interlocuteur et à répondre dans une langue qu’elle connaît peu ou pas du tout, tout en restant le participant visible, audible et responsable. La machine peut fournir la langue. L’humain ne doit pas disparaître de la conversation. 01 Le problème La traduction peut déjà rendre une phrase compréhensible. Cela ne suffit pas à faire de la conversation la vôtre. Dans une conversation réelle, sens, rythme, ton et présence sociale agissent en même temps. Que puis-je dire naturellement à cette personne, ici et maintenant ? Le modèle étroit est : l’interlocuteur parle → le système interprète un contexte limité → une réponse courte est proposée → l’utilisateur parle lui-même",
+      "candidates": [
+        "une",
+        "est",
+        "whisper",
+        "langue",
+        "pas",
+        "l’ia",
+        "conversation",
+        "dans",
+        "des",
+        "qui",
+        "l’auteur",
+        "l’humain",
+        "parle",
+        "personne",
+        "peut",
+        "réponse",
+        "direct",
+        "doit",
+        "les",
+        "machine",
+        "n’est",
+        "par",
+        "projet",
+        "propre"
+      ],
+      "suggestedKeywordSeed": [
+        "whisper",
+        "qui",
+        "conversation",
+        "est",
+        "l’auteur",
+        "l’ia",
+        "langue",
+        "parle",
+        "projects",
+        "actuel",
+        "agency",
+        "artistique",
+        "ashraellen",
+        "auteur",
+        "cinq",
+        "contrats",
+        "d’assistance",
+        "dans"
       ]
     },
     {
