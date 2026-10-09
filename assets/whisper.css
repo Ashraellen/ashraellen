@@ -1,0 +1,49 @@
+@import url("voiceprint.css");
+
+.voiceprint-v01.whisper-page{
+  position:relative;
+  isolation:isolate;
+  background:#000;
+}
+
+.voiceprint-v01.whisper-page::before{
+  content:"";
+  position:fixed;
+  inset:0;
+  z-index:0;
+  pointer-events:none;
+  background:
+    linear-gradient(rgba(0,0,0,.80),rgba(0,0,0,.90)),
+    url("backgrounds/whisper-human-conversation.webp") center/cover no-repeat;
+}
+
+.voiceprint-v01.whisper-page > .site-header,
+.voiceprint-v01.whisper-page > .main{
+  position:relative;
+  z-index:1;
+}
+
+.whisper-conversation{
+  margin:0 0 22px;
+  overflow:hidden;
+  border:1px solid rgba(242,242,244,.14);
+  border-radius:20px;
+  background:#050505;
+  box-shadow:0 18px 48px rgba(0,0,0,.42);
+}
+
+.whisper-conversation img{
+  display:block;
+  width:100%;
+  aspect-ratio:16/9;
+  object-fit:cover;
+  object-position:center;
+  filter:brightness(.78) contrast(1.04);
+}
+
+@media (max-width:900px){
+  .whisper-conversation{
+    margin-bottom:18px;
+    border-radius:16px;
+  }
+}
