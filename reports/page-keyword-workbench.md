@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-06T07:26:28.110Z
-Pages: 860
+Generated: 2026-10-09T08:44:51.428Z
+Pages: 861
 
 ## Index
 
@@ -183,6 +183,7 @@ Pages: 860
 | en/professional/index.html | en | professional | Ashraellen — Professional Dossier | _missing_ | ashraellen, professional, forms, internal, literary, public, working, dossier, how, method, observation, practice, research, selected, work, works, about, artistic |
 | en/projects/my-memory/index.html | en | projects | MY MEMORY — User-Owned Continuity for AI-Assisted Work | _missing_ | memory, continuity, should, across, can, how, project, projects, remain, state, system, user-owned, what, work, ai-assisted, ashraellen, belong, control |
 | en/projects/voiceprint/index.html | en | projects | VOICEPRINT — Where Am I in This Flow? | _missing_ | voiceprint, text, where, author, flow, projects, what, who, along, another, ashraellen, atp, beautiful, became, becomes, began, book, came |
+| en/projects/whisper/index.html | en | projects | WHISPER — Who is speaking? | _missing_ | whisper, authorship, conversation, human, language, live, project, projects, speaking, who, about, agency, ai-mediated, artistic-research, ashraellen, assistance, can, contracts |
 | en/public/index.html | en | public | Ashraellen — Public | Ashraellen, public field, talks, publications, support thoughts, research, observations | public, ashraellen, support, thoughts, field, living, person, publications, talks, where, already, mass, meets, new, observations, open, people, projects |
 | en/public/posts/essay/cycles/cycle-0001.html | en | public | Ashraellen — First Mini-Essay Cycle | ashraellen, public, posts, essay, cycles, cycle, 0001, first, mini-essay, power, over, thought, attention, body, door, goal, past, its | first, cycle, attention, body, over, past, thought, ashraellen, door, goal, interpretation, its, power, public, become, becomes, begins, completed |
 | en/public/posts/essay/cycles/index.html | en | public | Ashraellen — Mini-Essay Cycles | ashraellen, public, posts, essay, cycles, mini-essay, completed, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | cycles, completed, mini-essay, cycle, ashraellen, current, first, gathered, here, main, mini-essays, public, section, essay, posts |
@@ -3861,6 +3862,23 @@ Excerpt:
 Excerpt:
 
 > VOICEPRINT Where Am I in This Flow? Today, a text can pass through another language, an AI model, editing, adaptation — and return almost flawless. Grammatically correct. Natural. Smooth. Sometimes even more literary than the original. And this is exactly where the problem begins. A text can become better after this kind of processing. Sometimes, that is precisely the loss. Because at some point the question is no longer: “Is this a good translation?” It becomes: “Am I still in it?” 01 How It Began I did not begin with books. When I was young, I simply wrote down thoughts. Sometimes it was one sentence. Sometimes a few lines. Then a few pages. Then notebooks appeared. I wrote down observations, questions, doubts, individual images, certain conclusions — everything I did not want to lose. Gradually, separate notes began to connect with one another. One thought continued another. Short fra
+
+### en/projects/whisper/index.html
+
+- lang: en
+- section: projects
+- title: WHISPER — Who is speaking?
+- description: WHISPER is an artistic-research and prototyping project about live AI-mediated conversation, language, authorship and human presence.
+- canonical: https://www.ashraellen.com/en/projects/whisper/
+- H1: WHISPER
+- H2: Who is speaking? | The problem | Five assistance contracts | Authorship and agency | Listening without permanent surveillance | Current status
+- H3: _missing_
+- suggested keyword seed: whisper, authorship, conversation, human, language, live, project, projects, speaking, who, about, agency, ai-mediated, artistic-research, ashraellen, assistance, can, contracts
+- candidates: whisper, human, language, live, what, authorship, conversation, one, person, project, can, when, whether, actually, already, bounded, context, listening, machine, meaning, must, presence, reply, say
+
+Excerpt:
+
+> WHISPER Who is speaking? WHISPER is a live AI-mediated language project for conversations between people who do not share a common language. The practical aim is simple: help a person understand another speaker and answer in a language they barely know or do not know at all — while remaining the visible, audible and responsible participant in the conversation. The machine may supply language. The human must not disappear from the conversation. 01 The problem Translation can already make a sentence understandable. That does not automatically make a conversation yours. In a live exchange there is no time to stop, open an app, reconstruct context, write a perfect sentence and then return to the person. Meaning, timing, tone and social presence all matter at once. WHISPER begins from a more practical question: What can I naturally say to this person right now? Its narrow interaction model is
 
 ### en/public/index.html
 

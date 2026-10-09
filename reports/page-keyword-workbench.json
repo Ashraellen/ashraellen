@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-06T07:26:28.097Z",
+  "generated": "2026-10-09T08:44:51.413Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -13192,6 +13192,79 @@
         "began",
         "book",
         "came"
+      ]
+    },
+    {
+      "page": "en/projects/whisper/index.html",
+      "lang": "en",
+      "section": "projects",
+      "title": "WHISPER — Who is speaking?",
+      "description": "WHISPER is an artistic-research and prototyping project about live AI-mediated conversation, language, authorship and human presence.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/en/projects/whisper/",
+      "h1": [
+        "WHISPER"
+      ],
+      "h2": [
+        "Who is speaking?",
+        "The problem",
+        "Five assistance contracts",
+        "Authorship and agency",
+        "Listening without permanent surveillance",
+        "Current status"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "en",
+        "projects",
+        "whisper"
+      ],
+      "excerpt": "WHISPER Who is speaking? WHISPER is a live AI-mediated language project for conversations between people who do not share a common language. The practical aim is simple: help a person understand another speaker and answer in a language they barely know or do not know at all — while remaining the visible, audible and responsible participant in the conversation. The machine may supply language. The human must not disappear from the conversation. 01 The problem Translation can already make a sentence understandable. That does not automatically make a conversation yours. In a live exchange there is no time to stop, open an app, reconstruct context, write a perfect sentence and then return to the person. Meaning, timing, tone and social presence all matter at once. WHISPER begins from a more practical question: What can I naturally say to this person right now? Its narrow interaction model is",
+      "candidates": [
+        "whisper",
+        "human",
+        "language",
+        "live",
+        "what",
+        "authorship",
+        "conversation",
+        "one",
+        "person",
+        "project",
+        "can",
+        "when",
+        "whether",
+        "actually",
+        "already",
+        "bounded",
+        "context",
+        "listening",
+        "machine",
+        "meaning",
+        "must",
+        "presence",
+        "reply",
+        "say"
+      ],
+      "suggestedKeywordSeed": [
+        "whisper",
+        "authorship",
+        "conversation",
+        "human",
+        "language",
+        "live",
+        "project",
+        "projects",
+        "speaking",
+        "who",
+        "about",
+        "agency",
+        "ai-mediated",
+        "artistic-research",
+        "ashraellen",
+        "assistance",
+        "can",
+        "contracts"
       ]
     },
     {
