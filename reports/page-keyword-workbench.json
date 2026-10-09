@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T08:47:51.040Z",
+  "generated": "2026-10-09T08:50:18.463Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -1856,6 +1856,79 @@
         "даследуе",
         "з'явіўся",
         "захавацца"
+      ]
+    },
+    {
+      "page": "be/projects/whisper/index.html",
+      "lang": "be",
+      "section": "projects",
+      "title": "WHISPER — Хто гаворыць?",
+      "description": "WHISPER — мастацка-даследчы і прататыпны праект пра жывую размову праз AI, мову, аўтарства і чалавечую прысутнасць.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/be/projects/whisper/",
+      "h1": [
+        "WHISPER"
+      ],
+      "h2": [
+        "Хто гаворыць?",
+        "Праблема",
+        "Пяць кантрактаў дапамогі",
+        "Аўтарства і суб’ектнасць",
+        "Слуханне без пастаяннага нагляду",
+        "Бягучы статус"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "be",
+        "projects",
+        "whisper"
+      ],
+      "excerpt": "WHISPER Хто гаворыць? WHISPER — праект жывой моўнай падтрымкі для размоў паміж людзьмі, якія не маюць агульнай мовы. Практычная мэта простая: дапамагчы чалавеку зразумець суразмоўцу і адказаць на мове, якую ён амаль або зусім не ведае, застаючыся бачным, чутным і адказным удзельнікам размовы. Машына можа даць мову. Чалавек не павінен знікнуць з размовы. 01 Праблема Пераклад ужо можа зрабіць фразу зразумелай. Але гэта яшчэ не робіць размову тваёй. У жывой размове значэнне, час, тон і сацыяльная прысутнасць працуюць адначасова. Што я магу натуральна сказаць гэтаму чалавеку проста цяпер? Вузкая мадэль: суразмоўца гаворыць → сістэма інтэрпрэтуе абмежаваны кантэкст → прапануе адзін кароткі адказ → карыстальнік гаворыць сам. WHISPER звязаны з Voiceprint, але не супадае з ім. Voiceprint пытаецца, што павінна захавацца, калі тэкст праходзіць праз мову і машыны; WHISPER пераносіць гэта пытанне ў ",
+      "candidates": [
+        "whisper",
+        "чалавек",
+        "адказ",
+        "гаворыць",
+        "калі",
+        "мову",
+        "можа",
+        "або",
+        "аўтарства",
+        "пераносіць",
+        "праект",
+        "ужо",
+        "voiceprint",
+        "абмежаваны",
+        "адзін",
+        "адной",
+        "але",
+        "аўтарствам",
+        "ведае",
+        "гаварыць",
+        "дапамагае",
+        "жывой",
+        "жывую",
+        "кантэкст"
+      ],
+      "suggestedKeywordSeed": [
+        "whisper",
+        "аўтарства",
+        "гаворыць",
+        "projects",
+        "мову",
+        "праект",
+        "хто",
+        "ashraellen",
+        "або",
+        "адказ",
+        "без",
+        "бягучы",
+        "дапамогі",
+        "жывую",
+        "калі",
+        "кантрактаў",
+        "мастацка-даследчы",
+        "можа"
       ]
     },
     {
@@ -5091,14 +5164,14 @@
         "Праекты"
       ],
       "h2": [
+        "WHISPER",
         "MONOLITH",
         "Ashraellen",
         "Instagram",
         "Telegram",
         "Царква Святога Ныцця",
         "Кніга Ныцця",
-        "Occultus Scriptorium",
-        "Melodies & Sounds of Inner Spirit"
+        "Occultus Scriptorium"
       ],
       "h3": [],
       "slugTerms": [
@@ -5106,17 +5179,19 @@
         "research",
         "projects"
       ],
-      "excerpt": "Праекты Гэта не вітрына жанраў і не спіс пляцовак. Гэта карта рабочых палёў Ashraellen. Адны праекты з’яўляюцца цэнтральнымі мадэлямі даследавання. Другія — публічнымі зонамі, дзе думка сустракаецца з жывой рэакцыяй. Трэція працуюць як бакавыя лабараторыі: праз сатыру, гук, смак, вобраз, сімвал і паўсядзённае ўспрыманне. Цэнтральнае поле MONOLITH Галоўная мастацка-даследчая мадэль Ashraellen. Трылогія даследуе, як чалавек губляе асобнасць, памяць, мову, цела і ўнутраную апору ўнутры сістэмы, якая спачатку абяцае парадак, а потым ператварае жывое ў матэрыял. BETON, SLUDGE і GAS — тры станы рэальнасці: застыванне, распад і рассейванне сэнсу. Раман тут працуе не як гісторыя для ўцёкаў, а як мадэль, праз якую можна ўбачыць механізм знутры. Адкрыць → Асноўны канал Ashraellen Канал пра яснасць, усвядомленасць і вяртанне да жывога ўспрымання. Тут даследуецца момант, калі розум перастае шумець, ",
+      "excerpt": "Праекты Гэта не вітрына жанраў і не спіс пляцовак. Гэта карта рабочых палёў Ashraellen. Адны праекты з’яўляюцца цэнтральнымі мадэлямі даследавання. Другія — публічнымі зонамі, дзе думка сустракаецца з жывой рэакцыяй. Трэція працуюць як бакавыя лабараторыі: праз сатыру, гук, смак, вобраз, сімвал і паўсядзённае ўспрыманне. Даследаванне жывой мовы WHISPER Праект жывой моўнай падтрымкі праз AI для людзей, якія не маюць агульнай мовы. Калі мову дае машына, у які момант дапамога становіцца аўтарствам? Адкрыць праект → Цэнтральнае поле MONOLITH Галоўная мастацка-даследчая мадэль Ashraellen. Трылогія даследуе, як чалавек губляе асобнасць, памяць, мову, цела і ўнутраную апору ўнутры сістэмы, якая спачатку абяцае парадак, а потым ператварае жывое ў матэрыял. BETON, SLUDGE і GAS — тры станы рэальнасці: застыванне, распад і рассейванне сэнсу. Раман тут працуе не як гісторыя для ўцёкаў, а як мадэль, ",
       "candidates": [
         "адкрыць",
         "ashraellen",
         "тут",
         "чалавек",
-        "поле",
-        "праекты",
         "праз",
+        "поле",
+        "праект",
+        "праекты",
         "бакавыя",
         "дзе",
+        "жывой",
         "канал",
         "лабараторыі",
         "monolith",
@@ -5125,13 +5200,11 @@
         "асноўны",
         "даследуе",
         "думка",
+        "калі",
         "месца",
+        "мову",
         "ныцця",
-        "праект",
-        "працуюць",
-        "розныя",
-        "рэакцыі",
-        "формы"
+        "працуюць"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",
@@ -5140,18 +5213,18 @@
         "research",
         "бакавыя",
         "канал",
-        "лабараторыі",
         "ныцця",
         "поле",
-        "inner",
         "instagram",
-        "melodies",
         "occultus",
         "projects",
         "scriptorium",
-        "sounds",
-        "spirit",
-        "telegram"
+        "telegram",
+        "whisper",
+        "адкрыць",
+        "асноўны",
+        "даследавання",
+        "дзе"
       ]
     },
     {
@@ -10408,14 +10481,14 @@
         "Projekte"
       ],
       "h2": [
+        "WHISPER",
         "MONOLITH",
         "Ashraellen",
         "Instagram",
         "Telegram",
         "Church of Saint Whine",
         "The Book of Whinesis",
-        "Occultus Scriptorium",
-        "Melodies & Sounds of Inner Spirit"
+        "Occultus Scriptorium"
       ],
       "h3": [],
       "slugTerms": [
@@ -10423,16 +10496,16 @@
         "research",
         "projects"
       ],
-      "excerpt": "Projekte Das ist keine Genre-Vitrine und keine Liste von Plattformen. Es ist eine Karte der Arbeitsfelder von Ashraellen. Einige Projekte sind zentrale Forschungsmodelle. Andere sind öffentliche Zonen, in denen der Gedanke auf lebendige Reaktion trifft. Wieder andere arbeiten als Seitenlabore: durch Satire, Klang, Geschmack, Bild, Symbol und alltägliche Wahrnehmung. Zentrales Feld MONOLITH Das zentrale künstlerisch-forschende Modell von Ashraellen. Die Trilogie untersucht, wie der Mensch Eigenständigkeit, Erinnerung, Sprache, Körper und inneren Halt in einem System verliert, das zuerst Ordnung verspricht und dann das Lebendige in Material verwandelt. BETON, SLUDGE und GAS sind drei Zustände der Realität: Verfestigung, Zerfall und Zerstreuung von Sinn. Der Roman wirkt hier nicht als Fluchtgeschichte, sondern als Modell, durch das ein Mechanismus von innen sichtbar wird. Öffnen → Hauptkana",
+      "excerpt": "Projekte Das ist keine Genre-Vitrine und keine Liste von Plattformen. Es ist eine Karte der Arbeitsfelder von Ashraellen. Einige Projekte sind zentrale Forschungsmodelle. Andere sind öffentliche Zonen, in denen der Gedanke auf lebendige Reaktion trifft. Wieder andere arbeiten als Seitenlabore: durch Satire, Klang, Geschmack, Bild, Symbol und alltägliche Wahrnehmung. Live-Sprachforschung WHISPER Ein Projekt für live KI-vermittelte Sprachunterstützung zwischen Menschen ohne gemeinsame Sprache. Wenn die Maschine die Sprache liefert, wann wird Hilfe zu Autorschaft? Projekt öffnen → Zentrales Feld MONOLITH Das zentrale künstlerisch-forschende Modell von Ashraellen. Die Trilogie untersucht, wie der Mensch Eigenständigkeit, Erinnerung, Sprache, Körper und inneren Halt in einem System verliert, das zuerst Ordnung verspricht und dann das Lebendige in Material verwandelt. BETON, SLUDGE und GAS sin",
       "candidates": [
         "und",
         "der",
         "ein",
+        "die",
+        "öffnen",
         "als",
         "das",
-        "die",
         "ist",
-        "öffnen",
         "von",
         "nicht",
         "ashraellen",
@@ -10447,8 +10520,8 @@
         "wahrnehmung",
         "den",
         "feld",
-        "untersucht",
-        "formen"
+        "projekt",
+        "untersucht"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",
@@ -16645,14 +16718,14 @@
         "Projects"
       ],
       "h2": [
+        "WHISPER",
         "MONOLITH",
         "Ashraellen",
         "Instagram",
         "Telegram",
         "Church of Saint Whine",
         "The Book of Whinesis",
-        "Occultus Scriptorium",
-        "Melodies & Sounds of Inner Spirit"
+        "Occultus Scriptorium"
       ],
       "h3": [],
       "slugTerms": [
@@ -16660,16 +16733,18 @@
         "research",
         "projects"
       ],
-      "excerpt": "Projects This is neither a showcase of genres nor a list of platforms. It is a map of Ashraellen’s working fields. Some projects are central research models. Others are public zones where thought meets living reaction. Others work as side laboratories: through satire, sound, taste, image, symbol, and everyday perception. Central field MONOLITH The main artistic-research model of Ashraellen. The trilogy studies how a person loses separateness, memory, language, body, and inner ground inside a system that first promises order and then turns the living into material. BETON, SLUDGE, and GAS are three states of reality: solidification, decay, and the dispersion of meaning. The novel works here not as an escape story, but as a model through which a mechanism can be seen from within. Open → Main channel Ashraellen A channel about clarity, awareness, and the return to living perception. It studi",
+      "excerpt": "Projects This is neither a showcase of genres nor a list of platforms. It is a map of Ashraellen’s working fields. Some projects are central research models. Others are public zones where thought meets living reaction. Others work as side laboratories: through satire, sound, taste, image, symbol, and everyday perception. Live language research WHISPER A live AI-mediated language project about communication between people who do not share a common language. If the machine supplies the language, at what point does assistance become authorship? Open project → Central field MONOLITH The main artistic-research model of Ashraellen. The trilogy studies how a person loses separateness, memory, language, body, and inner ground inside a system that first promises order and then turns the living into material. BETON, SLUDGE, and GAS are three states of reality: solidification, decay, and the disper",
       "candidates": [
         "open",
         "person",
         "ashraellen",
         "how",
+        "language",
         "perception",
         "field",
         "here",
         "living",
+        "project",
         "projects",
         "studies",
         "through",
@@ -16678,31 +16753,29 @@
         "inner",
         "laboratories",
         "main",
+        "research",
         "satirical",
         "side",
         "taste",
         "thought",
-        "where",
-        "work",
-        "clarity",
-        "has"
+        "where"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",
         "projects",
         "research",
-        "channel",
         "field",
         "monolith",
         "perception",
         "book",
+        "channel",
         "church",
         "fields",
         "here",
         "how",
-        "inner",
         "instagram",
         "laboratories",
+        "language",
         "living",
         "main",
         "map"
@@ -21950,14 +22023,14 @@
         "Proyectos"
       ],
       "h2": [
+        "WHISPER",
         "MONOLITH",
         "Ashraellen",
         "Instagram",
         "Telegram",
         "Church of Saint Whine",
         "The Book of Whinesis",
-        "Occultus Scriptorium",
-        "Melodies & Sounds of Inner Spirit"
+        "Occultus Scriptorium"
       ],
       "h3": [],
       "slugTerms": [
@@ -21965,32 +22038,32 @@
         "research",
         "projects"
       ],
-      "excerpt": "Proyectos Esto no es una vitrina de géneros ni una lista de plataformas. Es un mapa de los campos de trabajo de Ashraellen. Algunos proyectos son modelos centrales de investigación. Otros son zonas públicas donde el pensamiento se encuentra con una reacción viva. Otros funcionan como laboratorios laterales: a través de la sátira, el sonido, el gusto, la imagen, el símbolo y la percepción cotidiana. Campo central MONOLITH El principal modelo artístico-investigativo de Ashraellen. La trilogía estudia cómo una persona pierde separación, memoria, lenguaje, cuerpo y apoyo interior dentro de un sistema que primero promete orden y luego convierte lo vivo en material. BETON, SLUDGE y GAS son tres estados de la realidad: solidificación, descomposición y dispersión del sentido. La novela no funciona aquí como una historia de escape, sino como un modelo a través del cual puede verse un mecanismo de",
+      "excerpt": "Proyectos Esto no es una vitrina de géneros ni una lista de plataformas. Es un mapa de los campos de trabajo de Ashraellen. Algunos proyectos son modelos centrales de investigación. Otros son zonas públicas donde el pensamiento se encuentra con una reacción viva. Otros funcionan como laboratorios laterales: a través de la sátira, el sonido, el gusto, la imagen, el símbolo y la percepción cotidiana. Investigación del lenguaje en vivo WHISPER Un proyecto de apoyo lingüístico en vivo mediante IA para personas que no comparten un idioma común. Si la máquina aporta el lenguaje, ¿cuándo se convierte la ayuda en autoría? Abrir proyecto → Campo central MONOLITH El principal modelo artístico-investigativo de Ashraellen. La trilogía estudia cómo una persona pierde separación, memoria, lenguaje, cuerpo y apoyo interior dentro de un sistema que primero promete orden y luego convierte lo vivo en mate",
       "candidates": [
         "una",
         "abrir",
         "como",
         "persona",
         "ashraellen",
+        "del",
+        "que",
         "aquí",
         "cómo",
         "con",
-        "del",
         "percepción",
-        "que",
         "sino",
         "campo",
+        "convierte",
         "los",
+        "proyecto",
         "proyectos",
         "son",
         "canal",
-        "convierte",
         "donde",
         "formas",
+        "investigación",
         "laboratorios",
-        "las",
-        "laterales",
-        "pensamiento"
+        "las"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",
@@ -22009,8 +22082,8 @@
         "cómo",
         "con",
         "del",
-        "inner",
-        "instagram"
+        "instagram",
+        "investigación"
       ]
     },
     {
@@ -27348,14 +27421,14 @@
         "Projektit"
       ],
       "h2": [
+        "WHISPER",
         "MONOLIITTI",
         "Ashraellen",
         "Instagram",
         "Telegram",
         "Church of Saint Whine",
         "The Book of Whinesis",
-        "Occultus Scriptorium",
-        "Melodies & Sounds of Inner Spirit"
+        "Occultus Scriptorium"
       ],
       "h3": [],
       "slugTerms": [
@@ -27363,14 +27436,14 @@
         "research",
         "projects"
       ],
-      "excerpt": "Projektit Tämä ei ole lajien esittely eikä alustaluettelo. Se on Ashraellenin työskentelykenttien kartta. Osa projekteista on tutkimuksen keskeisiä malleja. Osa on julkisia vyöhykkeitä, joissa ajatus kohtaa elävän reaktion. Osa toimii sivulaboratorioina satiirin, äänen, maun, kuvan, symbolin ja arkisen havainnon kautta. Keskeinen kenttä MONOLIITTI Ashraellenin keskeinen taiteellis-tutkimuksellinen malli. Trilogia tutkii, miten ihminen menettää erillisyytensä, muistinsa, kielensä, kehonsa ja sisäisen perustansa järjestelmässä, joka ensin lupaa järjestystä ja tekee sitten elävästä materiaalia. BETONI, LIETE ja KAASU ovat kolme todellisuuden tilaa: jähmettyminen, hajoaminen ja merkityksen hajaantuminen. Romaani ei toimi pakotarinana vaan mallina, jonka sisältä mekanismi voidaan nähdä. Avaa → Pääkanava Ashraellen Kanava kirkkaudesta, tietoisuudesta ja paluusta elävään havaintoon. Se tutkii h",
+      "excerpt": "Projektit Tämä ei ole lajien esittely eikä alustaluettelo. Se on Ashraellenin työskentelykenttien kartta. Osa projekteista on tutkimuksen keskeisiä malleja. Osa on julkisia vyöhykkeitä, joissa ajatus kohtaa elävän reaktion. Osa toimii sivulaboratorioina satiirin, äänen, maun, kuvan, symbolin ja arkisen havainnon kautta. Reaaliaikaisen kielen tutkimus WHISPER Reaaliaikaisen AI-välitteisen kielituen hanke ihmisille, joilla ei ole yhteistä kieltä. Jos kone antaa kielen, missä vaiheessa avusta tulee tekijyyttä? Avaa projekti → Keskeinen kenttä MONOLIITTI Ashraellenin keskeinen taiteellis-tutkimuksellinen malli. Trilogia tutkii, miten ihminen menettää erillisyytensä, muistinsa, kielensä, kehonsa ja sisäisen perustansa järjestelmässä, joka ensin lupaa järjestystä ja tekee sitten elävästä materiaalia. BETONI, LIETE ja KAASU ovat kolme todellisuuden tilaa: jähmettyminen, hajoaminen ja merkitykse",
       "candidates": [
         "avaa",
         "ihminen",
         "miten",
+        "ole",
         "ashraellenin",
         "kenttä",
-        "ole",
         "vaan",
         "eikä",
         "kautta",
@@ -27403,12 +27476,12 @@
         "church",
         "eikä",
         "ihminen",
-        "inner",
         "instagram",
         "julkinen",
         "kartta",
         "kautta",
-        "laboratorio"
+        "laboratorio",
+        "miten"
       ]
     },
     {
@@ -32926,14 +32999,14 @@
         "Projets"
       ],
       "h2": [
+        "WHISPER",
         "MONOLITH",
         "Ashraellen",
         "Instagram",
         "Telegram",
         "Church of Saint Whine",
         "The Book of Whinesis",
-        "Occultus Scriptorium",
-        "Melodies & Sounds of Inner Spirit"
+        "Occultus Scriptorium"
       ],
       "h3": [],
       "slugTerms": [
@@ -32941,32 +33014,32 @@
         "research",
         "projects"
       ],
-      "excerpt": "Projets Ce n’est pas une vitrine de genres ni une liste de plateformes. C’est une carte des champs de travail d’Ashraellen. Certains projets sont des modèles centraux de recherche. D’autres sont des zones publiques où la pensée rencontre une réaction vivante. D’autres encore travaillent comme laboratoires latéraux : par la satire, le son, le goût, l’image, le symbole et la perception quotidienne. Champ central MONOLITH Le principal modèle artistico-recherché d’Ashraellen. La trilogie étudie comment une personne perd sa séparation, sa mémoire, son langage, son corps et son appui intérieur dans un système qui promet d’abord l’ordre, puis transforme le vivant en matériau. BETON, SLUDGE et GAS sont trois états de la réalité : solidification, décomposition et dispersion du sens. Le roman ne fonctionne pas ici comme une histoire d’évasion, mais comme un modèle à travers lequel un mécanisme peu",
+      "excerpt": "Projets Ce n’est pas une vitrine de genres ni une liste de plateformes. C’est une carte des champs de travail d’Ashraellen. Certains projets sont des modèles centraux de recherche. D’autres sont des zones publiques où la pensée rencontre une réaction vivante. D’autres encore travaillent comme laboratoires latéraux : par la satire, le son, le goût, l’image, le symbole et la perception quotidienne. Recherche sur la langue en direct WHISPER Un projet d’assistance linguistique en direct par IA pour des personnes sans langue commune. Si la machine fournit la langue, à quel moment l’aide devient-elle une forme d’auteur ? Ouvrir le projet → Champ central MONOLITH Le principal modèle artistico-recherché d’Ashraellen. La trilogie étudie comment une personne perd sa séparation, sa mémoire, son langage, son corps et son appui intérieur dans un système qui promet d’abord l’ordre, puis transforme le ",
       "candidates": [
         "une",
         "des",
-        "comme",
         "ouvrir",
+        "comme",
         "personne",
         "les",
         "mais",
         "pas",
-        "est",
         "par",
+        "est",
         "perception",
         "sont",
         "champ",
         "comment",
         "dans",
         "ici",
+        "projet",
         "projets",
         "son",
         "avec",
         "chaîne",
         "d’ashraellen",
         "encore",
-        "étudie",
-        "formes"
+        "étudie"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",
@@ -32984,9 +33057,9 @@
         "comme",
         "d’ashraellen",
         "est",
-        "inner",
         "instagram",
-        "laboratoires"
+        "laboratoires",
+        "latéraux"
       ]
     },
     {
@@ -40833,14 +40906,14 @@
         "Projekty"
       ],
       "h2": [
+        "WHISPER",
         "MONOLIT",
         "Ashraellen",
         "Instagram",
         "Telegram",
         "Church of Saint Whine",
         "The Book of Whinesis",
-        "Occultus Scriptorium",
-        "Melodies & Sounds of Inner Spirit"
+        "Occultus Scriptorium"
       ],
       "h3": [],
       "slugTerms": [
@@ -40848,18 +40921,19 @@
         "research",
         "projects"
       ],
-      "excerpt": "Projekty To nie jest wystawa gatunków ani lista platform. To mapa pól pracy Ashraellen. Jedne projekty są centralnymi modelami badania. Inne — publicznymi strefami, w których myśl spotyka żywą reakcję. Jeszcze inne działają jak boczne laboratoria: przez satyrę, dźwięk, smak, obraz, symbol i codzienne postrzeganie. Centralne pole MONOLIT Główny artystyczno-badawczy model Ashraellen. Trylogia bada, jak człowiek traci odrębność, pamięć, język, ciało i wewnętrzne oparcie wewnątrz systemu, który najpierw obiecuje porządek, a potem zamienia żywe w materiał. BETON, ŻIŻA i GAZ — trzy stany rzeczywistości: zastygnięcie, rozpad i rozproszenie sensu. Powieść działa tu nie jako historia ucieczki, lecz jako model, przez który można zobaczyć mechanizm od środka. Otwórz → Główny kanał Ashraellen Kanał o jasności, uważności i powrocie do żywego postrzegania. Tutaj badany jest moment, w którym um przesta",
+      "excerpt": "Projekty To nie jest wystawa gatunków ani lista platform. To mapa pól pracy Ashraellen. Jedne projekty są centralnymi modelami badania. Inne — publicznymi strefami, w których myśl spotyka żywą reakcję. Jeszcze inne działają jak boczne laboratoria: przez satyrę, dźwięk, smak, obraz, symbol i codzienne postrzeganie. Badanie języka na żywo WHISPER Projekt językowego wsparcia na żywo przez AI dla ludzi, którzy nie mają wspólnego języka. Jeśli język dostarcza maszyna, kiedy pomoc staje się autorstwem? Otwórz projekt → Centralne pole MONOLIT Główny artystyczno-badawczy model Ashraellen. Trylogia bada, jak człowiek traci odrębność, pamięć, język, ciało i wewnętrzne oparcie wewnątrz systemu, który najpierw obiecuje porządek, a potem zamienia żywe w materiał. BETON, ŻIŻA i GAZ — trzy stany rzeczywistości: zastygnięcie, rozpad i rozproszenie sensu. Powieść działa tu nie jako historia ucieczki, lec",
       "candidates": [
         "nie",
         "otwórz",
         "jako",
+        "się",
         "ashraellen",
         "człowiek",
-        "się",
         "lecz",
-        "pole",
-        "projekty",
         "przez",
+        "pole",
+        "projekt",
+        "projekty",
         "bada",
         "boczne",
         "główny",
@@ -40870,30 +40944,29 @@
         "człowieka",
         "formy",
         "jeszcze",
+        "języka",
         "miejsce",
-        "monolit",
-        "projekt",
-        "reakcji"
+        "monolit"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",
         "projekty",
-        "boczne",
         "monolit",
         "pole",
         "research",
         "bada",
         "badawcze",
+        "boczne",
         "book",
         "church",
         "człowiek",
         "główny",
-        "inner",
         "instagram",
         "jako",
         "kanał",
         "laboratoria",
-        "lecz"
+        "lecz",
+        "mapa"
       ]
     },
     {
@@ -46188,14 +46261,14 @@
         "Projetos"
       ],
       "h2": [
+        "WHISPER",
         "MONOLITH",
         "Ashraellen",
         "Instagram",
         "Telegram",
         "Church of Saint Whine",
         "The Book of Whinesis",
-        "Occultus Scriptorium",
-        "Melodies & Sounds of Inner Spirit"
+        "Occultus Scriptorium"
       ],
       "h3": [],
       "slugTerms": [
@@ -46203,7 +46276,7 @@
         "research",
         "projects"
       ],
-      "excerpt": "Projetos Isto não é uma vitrine de gêneros nem uma lista de plataformas. É um mapa dos campos de trabalho de Ashraellen. Alguns projetos são modelos centrais de pesquisa. Outros são zonas públicas onde o pensamento encontra uma reação viva. Outros funcionam como laboratórios laterais: por meio da sátira, do som, do gosto, da imagem, do símbolo e da percepção cotidiana. Campo central MONOLITH O principal modelo artístico-investigativo de Ashraellen. A trilogia pesquisa como uma pessoa perde separação, memória, linguagem, corpo e apoio interior dentro de um sistema que primeiro promete ordem e depois transforma o vivo em material. BETON, SLUDGE e GAS são três estados da realidade: solidificação, decomposição e dispersão do sentido. O romance não funciona aqui como uma história de fuga, mas como um modelo através do qual um mecanismo pode ser visto por dentro. Abrir → Canal principal Ashrae",
+      "excerpt": "Projetos Isto não é uma vitrine de gêneros nem uma lista de plataformas. É um mapa dos campos de trabalho de Ashraellen. Alguns projetos são modelos centrais de pesquisa. Outros são zonas públicas onde o pensamento encontra uma reação viva. Outros funcionam como laboratórios laterais: por meio da sátira, do som, do gosto, da imagem, do símbolo e da percepção cotidiana. Investigação da linguagem ao vivo WHISPER Um projeto de apoio linguístico ao vivo por IA para pessoas que não partilham uma língua comum. Se a máquina fornece a linguagem, quando é que a assistência se torna autoria? Abrir projeto → Campo central MONOLITH O principal modelo artístico-investigativo de Ashraellen. A trilogia pesquisa como uma pessoa perde separação, memória, linguagem, corpo e apoio interior dentro de um sistema que primeiro promete ordem e depois transforma o vivo em material. BETON, SLUDGE e GAS são três e",
       "candidates": [
         "como",
         "uma",
@@ -46212,23 +46285,23 @@
         "pessoa",
         "mas",
         "pesquisa",
-        "ashraellen",
         "por",
+        "ashraellen",
         "aqui",
         "percepção",
         "campo",
         "com",
+        "projeto",
         "projetos",
+        "que",
         "são",
         "canal",
         "formas",
         "laboratórios",
         "laterais",
+        "linguagem",
         "onde",
-        "pensamento",
-        "principal",
-        "ainda",
-        "clareza"
+        "pensamento"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",
@@ -46246,9 +46319,9 @@
         "church",
         "como",
         "dos",
-        "inner",
         "instagram",
-        "laboratórios"
+        "laboratórios",
+        "laterais"
       ]
     },
     {
@@ -54494,14 +54567,14 @@
         "Проекты"
       ],
       "h2": [
+        "WHISPER",
         "МОНОЛИТ",
         "Ashraellen",
         "Instagram",
         "Telegram",
         "Церковь Святого Нытья",
         "Книга Нытия",
-        "Occultus Scriptorium",
-        "Melodies & Sounds of Inner Spirit"
+        "Occultus Scriptorium"
       ],
       "h3": [],
       "slugTerms": [
@@ -54509,15 +54582,16 @@
         "research",
         "projects"
       ],
-      "excerpt": "Проекты Это не витрина жанров и не список площадок. Это карта рабочих полей Ashraellen. Одни проекты являются центральными моделями исследования. Другие — публичными зонами, где мысль встречается с живой реакцией. Третьи работают как боковые лаборатории: через сатиру, звук, вкус, образ, символ и повседневное восприятие. Центральное поле МОНОЛИТ Главная художественно-исследовательская модель Ashraellen. Трилогия исследует, как человек теряет отдельность, память, язык, тело и внутреннюю опору внутри системы, которая сначала обещает порядок, а затем превращает живое в материал. БЕТОН, ЖИЖА и ГАЗ — три состояния реальности: застывание, распад и рассеивание смысла. Роман здесь работает не как история для побега, а как модель, через которую можно увидеть механизм изнутри. Открыть → Основной канал Ashraellen Канал о ясности, осознанности и возвращении к живому восприятию. Здесь исследуется моме",
+      "excerpt": "Проекты Это не витрина жанров и не список площадок. Это карта рабочих полей Ashraellen. Одни проекты являются центральными моделями исследования. Другие — публичными зонами, где мысль встречается с живой реакцией. Третьи работают как боковые лаборатории: через сатиру, звук, вкус, образ, символ и повседневное восприятие. Исследование живого языка WHISPER Проект живой языковой поддержки через AI для общения между людьми, у которых нет общего языка. Если язык поставляет машина, в какой момент помощь становится авторством? Открыть проект → Центральное поле МОНОЛИТ Главная художественно-исследовательская модель Ashraellen. Трилогия исследует, как человек теряет отдельность, память, язык, тело и внутреннюю опору внутри системы, которая сначала обещает порядок, а затем превращает живое в материал. БЕТОН, ЖИЖА и ГАЗ — три состояния реальности: застывание, распад и рассеивание смысла. Роман здесь",
       "candidates": [
         "открыть",
         "ashraellen",
         "здесь",
         "человек",
-        "поле",
-        "проекты",
         "через",
+        "поле",
+        "проект",
+        "проекты",
         "боковые",
         "где",
         "канал",
@@ -54526,15 +54600,14 @@
         "telegram",
         "youtube",
         "восприятие",
+        "живой",
         "исследует",
         "место",
         "монолит",
         "основной",
-        "проект",
         "работают",
         "реакции",
-        "формы",
-        "instagram"
+        "становится"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",
@@ -54545,16 +54618,16 @@
         "лаборатории",
         "монолит",
         "поле",
-        "inner",
         "instagram",
-        "melodies",
         "occultus",
         "projects",
         "scriptorium",
-        "sounds",
-        "spirit",
         "telegram",
-        "восприятия"
+        "whisper",
+        "восприятия",
+        "где",
+        "здесь",
+        "исследовательские"
       ]
     },
     {
@@ -58623,6 +58696,79 @@
       ]
     },
     {
+      "page": "uk/projects/whisper/index.html",
+      "lang": "uk",
+      "section": "projects",
+      "title": "WHISPER — Хто говорить?",
+      "description": "WHISPER — мистецько-дослідницький і прототипний проєкт про живу розмову через AI, мову, авторство та людську присутність.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/uk/projects/whisper/",
+      "h1": [
+        "WHISPER"
+      ],
+      "h2": [
+        "Хто говорить?",
+        "Проблема",
+        "П’ять контрактів допомоги",
+        "Авторство й суб’єктність",
+        "Слухання без постійного нагляду",
+        "Поточний статус"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "uk",
+        "projects",
+        "whisper"
+      ],
+      "excerpt": "WHISPER Хто говорить? WHISPER — проєкт живої мовної підтримки для розмов між людьми, які не мають спільної мови. Практична мета проста: допомогти людині зрозуміти співрозмовника і відповісти мовою, якої вона майже або зовсім не знає, залишаючись видимим, чутним і відповідальним учасником розмови. Машина може дати мову. Людина не повинна зникнути з розмови. 01 Проблема Переклад уже може зробити фразу зрозумілою. Але це ще не робить розмову твоєю. У живій розмові значення, час, тон і соціальна присутність працюють одночасно. Що я можу природно сказати цій людині просто зараз? Вузька модель: співрозмовник говорить → система тлумачить обмежений контекст → пропонує одну коротку відповідь → користувач говорить сам. WHISPER пов’язаний із Voiceprint, але не тотожний йому. Voiceprint питає, що має зберегтися, коли текст проходить через мову й машини; WHISPER переносить це питання у живу соціальну",
+      "candidates": [
+        "whisper",
+        "людина",
+        "відповідь",
+        "говорить",
+        "мову",
+        "може",
+        "коли",
+        "однієї",
+        "переносить",
+        "тому",
+        "voiceprint",
+        "або",
+        "авторство",
+        "авторством",
+        "але",
+        "вже",
+        "власним",
+        "говорити",
+        "допомагає",
+        "живу",
+        "зараз",
+        "знає",
+        "значення",
+        "контекст"
+      ],
+      "suggestedKeywordSeed": [
+        "whisper",
+        "говорить",
+        "projects",
+        "авторство",
+        "мову",
+        "хто",
+        "ashraellen",
+        "voiceprint",
+        "або",
+        "без",
+        "відповідь",
+        "допомоги",
+        "живу",
+        "коли",
+        "контрактів",
+        "людина",
+        "людську",
+        "мистецько-дослідницький"
+      ]
+    },
+    {
       "page": "uk/public/index.html",
       "lang": "uk",
       "section": "public",
@@ -61852,14 +61998,14 @@
         "Проєкти"
       ],
       "h2": [
+        "WHISPER",
         "MONOLITH",
         "Ashraellen",
         "Instagram",
         "Telegram",
         "Церква Святого Ниття",
         "The Book of Whinesis",
-        "Occultus Scriptorium",
-        "Melodies & Sounds of Inner Spirit"
+        "Occultus Scriptorium"
       ],
       "h3": [],
       "slugTerms": [
@@ -61867,32 +62013,32 @@
         "research",
         "projects"
       ],
-      "excerpt": "Проєкти Це не вітрина жанрів і не список майданчиків. Це карта робочих полів Ashraellen. Одні проєкти є центральними моделями дослідження. Інші — публічними зонами, де думка зустрічається з живою реакцією. Треті працюють як бічні лабораторії: через сатиру, звук, смак, образ, символ і повсякденне сприйняття. Центральне поле MONOLITH Головна художньо-дослідницька модель Ashraellen. Трилогія досліджує, як людина втрачає окремість, пам’ять, мову, тіло і внутрішню опору всередині системи, яка спочатку обіцяє порядок, а потім перетворює живе на матеріал. BETON, SLUDGE і GAS — три стани реальності: застигання, розпад і розсіювання сенсу. Роман тут працює не як історія втечі, а як модель, через яку можна побачити механізм зсередини. Відкрити → Основний канал Ashraellen Канал про ясність, усвідомленість і повернення до живого сприйняття. Тут досліджується момент, коли розум перестає шуміти, а роз",
+      "excerpt": "Проєкти Це не вітрина жанрів і не список майданчиків. Це карта робочих полів Ashraellen. Одні проєкти є центральними моделями дослідження. Інші — публічними зонами, де думка зустрічається з живою реакцією. Треті працюють як бічні лабораторії: через сатиру, звук, смак, образ, символ і повсякденне сприйняття. Дослідження живої мови WHISPER Проєкт живої мовної підтримки через AI для людей, які не мають спільної мови. Якщо мову дає машина, в який момент допомога стає авторством? Відкрити проєкт → Центральне поле MONOLITH Головна художньо-дослідницька модель Ashraellen. Трилогія досліджує, як людина втрачає окремість, пам’ять, мову, тіло і внутрішню опору всередині системи, яка спочатку обіцяє порядок, а потім перетворює живе на матеріал. BETON, SLUDGE і GAS — три стани реальності: застигання, розпад і розсіювання сенсу. Роман тут працює не як історія втечі, а як модель, через яку можна побач",
       "candidates": [
         "відкрити",
         "ashraellen",
         "людина",
         "тут",
+        "через",
         "поле",
+        "проєкт",
         "проєкти",
         "сприйняття",
-        "через",
         "бічні",
         "канал",
         "лабораторії",
         "monolith",
         "telegram",
         "youtube",
+        "дослідження",
         "досліджує",
         "думка",
         "місце",
+        "мову",
         "основний",
         "працюють",
-        "проєкт",
         "різні",
-        "форми",
-        "instagram",
-        "але"
+        "стає"
       ],
       "suggestedKeywordSeed": [
         "ashraellen",
@@ -61905,14 +62051,14 @@
         "поле",
         "сприйняття",
         "book",
-        "inner",
         "instagram",
-        "melodies",
         "occultus",
         "projects",
         "scriptorium",
-        "sounds",
-        "spirit"
+        "telegram",
+        "whinesis",
+        "whisper",
+        "відкрити"
       ]
     },
     {
