@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-09T08:45:27.761Z
-Pages: 862
+Generated: 2026-10-09T08:46:23.831Z
+Pages: 864
 
 ## Index
 
@@ -326,6 +326,7 @@ Pages: 862
 | fi/professional/index.html | fi | professional | Ashraellen — Ammatillinen esittely | _missing_ | ashraellen, ammatillinen, ashraellenin, esittely, havainnoinnin, julkiset, käytäntö, menetelmä, muodot, professional, rinnakkaiset, ammatilliset, eri, jossa, julkinen, kehykset, kenttä, kirjallinen |
 | fi/projects/my-memory/index.html | fi | projects | MY MEMORY — muisti ja jatkuvuus ihmisen hallinnassa | _missing_ | memory, ihmisen, jatkuvuus, pitäisi, hallinnassa, mitä, miten, muisti, projects, säilyä, tila, ai-istuntojen, ashraellen, hallitsema, järjestelmä, jatkuvuuden, kun, kuulua |
 | fi/projects/voiceprint/index.html | fi | projects | VOICEPRINT — Missä minä olen tässä virrassa? | _missing_ | voiceprint, minä, missä, olen, mitä, ole, projects, sen, tässä, tekijä, virrassa, alkoi, ashraellen, atp, ensin, että, itse, joka |
+| fi/projects/whisper/index.html | fi | projects | WHISPER — Kuka puhuu? | _missing_ | whisper, puhuu, hanke, ihmisen, keskustelusta, kuka, kuuntelu, projects, ai-välitteisestä, ashraellen, auttaa, avustussopimusta, ihminen, ilman, kielestä, läsnäolosta, lauseen, mitä |
 | fi/public/index.html | fi | public | Ashraellen — Julkinen | Ashraellen, julkinen kenttä, puheet, julkaisut, tukiajatukset, tutkimus, havainnot | julkinen, ashraellen, ashraellenin, missä, public, ajatus, avaa, elävän, hän, havaintoja, hinta, ihminen, ihmisen, julkaisuja, julkaisut, kansa, kenttä, kohtaa |
 | fi/public/posts/essay/cycles/cycle-0001.html | fi | public | Ashraellen — Ensimmäinen miniesseesykli | Ashraellen, miniessee, huomio, keho, menneisyys, tietoisuus | ensimmäinen, ashraellen, keho, menneisyys, miniesseesykli, public, sykli, vaan, ajatukseen, älä, alkaa, ashraellenin, cycle, cycles, elää, essay, harjoitukseksi, huomio |
 | fi/public/posts/essay/cycles/index.html | fi | public | Ashraellen — Miniesseiden syklit | Ashraellen, miniesseet, syklit, huomio, keho, menneisyys | miniesseiden, syklit, ashraellen, valmiit, ashraellenin, nykyinen, public, sykli, cycles, elää, enintään, ensimmäinen, ensimmäiset, essay, löytyy, osion, pääsivulta, posts |
@@ -506,6 +507,7 @@ Pages: 862
 | pl/professional/index.html | pl | professional | Ashraellen — Dossier profesjonalne | _missing_ | ashraellen, formy, obserwacji, profesjonalne, dossier, metoda, prace, pracy, praktyka, professional, publiczne, się, wybrane, archiwum, artystyczne, artystyczno-filozoficzna, autora, autorze |
 | pl/projects/my-memory/index.html | pl | projects | MY MEMORY — pamięć i ciągłość pod kontrolą człowieka | _missing_ | memory, pamięć, ciągłość, człowieka, kontrolą, pod, ciągłości, pozostać, projects, projektu, stan, ashraellen, bada, ciebie, decyzje, dlaczego, dostawcami, dowody |
 | pl/projects/voiceprint/index.html | pl | projects | VOICEPRINT — Gdzie w tym przepływie jestem JA? | _missing_ | voiceprint, tym, autora, gdzie, jestem, może, nie, projects, przepływie, przez, się, tekst, aby, ale, ashraellen, bada, badania, błędny |
+| pl/projects/whisper/index.html | pl | projects | WHISPER — Kto mówi? | _missing_ | whisper, mówi, języku, kto, projects, przez, żywo, aktualny, artystyczno-badawczy, ashraellen, autorstwie, autorstwo, bez, człowiek, czy, jednej, język, kontraktów |
 | pl/public/index.html | pl | public | Ashraellen — Publiczne | Ashraellen, publiczne pole, wystąpienia, publikacje, myśli przewodnie, badanie, obserwacje | ashraellen, publiczne, myśli, człowieka, gdzie, przewodnie, public, publikacje, wystąpienia, badanie, już, lecz, myśl, nie, nowe, obserwacje, otwórz, pole |
 | pl/public/posts/essay/cycles/cycle-0001.html | pl | public | Ashraellen — Pierwszy cykl mini-esejów | ashraellen, public, posts, essay, cycles, cycle, 0001, pierwszy, cykl, mini-esejów, władza, nie, nad, myślą, lecz, uwagą, ciało, pierwszymi | cykl, pierwszy, nie, ciało, nad, ale, lecz, myślą, przeszłość, ashraellen, celem, drzwiami, interpretacją, jej, mini-esejów, pierwszymi, public, uwagą |
 | pl/public/posts/essay/cycles/index.html | pl | public | Ashraellen — Cykle mini-esejów | ashraellen, public, posts, essay, cycles, cykle, mini-esejów, zakończone, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | cykle, mini-esejów, zakończone, cykl, pierwszy, aktualnego, aktualny, ashraellen, cyklu, działu, głównej, public, się, stronie, cycles, essay, posts, tutaj |
@@ -6295,6 +6297,23 @@ Excerpt:
 
 > VOICEPRINT Missä minä olen tässä virrassa? Nykyään teksti voi kulkea toisen kielen, AI-mallin, editoinnin ja sovittamisen läpi — ja palata lähes virheettömänä. Kieliopillisesti oikeana. Luontevana. Sujuvana. Joskus jopa kirjallisesti hienompana kuin alkuperäinen. Ja juuri tässä ongelma alkaa. Teksti voi tällaisen käsittelyn jälkeen muuttua paremmaksi. Joskus juuri se on menetys. Sillä jossakin vaiheessa kysymys ei enää ole: ”Onko tämä hyvä käännös?” Vaan: ”Olenko minä yhä siinä?” 01 Miten kaikki alkoi En aloittanut kirjoista. Nuorena kirjoitin vain ajatuksia muistiin. Joskus se oli yksi lause. Joskus muutama rivi. Sitten muutama sivu. Lopulta ilmestyivät vihkot. Kirjasin havaintoja, kysymyksiä, epäilyksiä, yksittäisiä kuvia ja johtopäätöksiä — kaikkea sitä, mitä en halunnut menettää. Vähitellen erilliset merkinnät alkoivat liittyä toisiinsa. Yksi ajatus jatkoi toista. Lyhyistä katkelmist
 
+### fi/projects/whisper/index.html
+
+- lang: fi
+- section: projects
+- title: WHISPER — Kuka puhuu?
+- description: WHISPER on taiteellis-tutkimuksellinen ja prototyyppivaiheen hanke reaaliaikaisesta AI-välitteisestä keskustelusta, kielestä, tekijyydestä ja ihmisen läsnäolosta.
+- canonical: https://www.ashraellen.com/fi/projects/whisper/
+- H1: WHISPER
+- H2: Kuka puhuu? | Ongelma | Viisi avustussopimusta | Tekijyys ja toimijuus | Kuuntelu ilman pysyvää valvontaa | Nykytila
+- H3: _missing_
+- suggested keyword seed: whisper, puhuu, hanke, ihmisen, keskustelusta, kuka, kuuntelu, projects, ai-välitteisestä, ashraellen, auttaa, avustussopimusta, ihminen, ilman, kielestä, läsnäolosta, lauseen, mitä
+- candidates: whisper, ihminen, mitä, ole, kuuntelu, puhuu, voi, auttaa, hanke, ihmisen, keskustelusta, lauseen, sen, tai, aikaa, antaa, ehdottaa, hän, itse, järjestelmän, jatkuva, jota, kielen, kieli
+
+Excerpt:
+
+> WHISPER Kuka puhuu? WHISPER on reaaliaikaisen kielituen hanke keskusteluihin sellaisten ihmisten välillä, joilla ei ole yhteistä kieltä. Käytännön tavoite on yksinkertainen: auttaa ihmistä ymmärtämään toista ja vastaamaan kielellä, jota hän osaa vähän tai ei lainkaan, samalla kun hän pysyy keskustelun näkyvänä, kuuluvana ja vastuullisena osallistujana. Kone voi antaa kielen. Ihminen ei saa kadota keskustelusta. 01 Ongelma Käännös voi jo tehdä lauseen ymmärrettäväksi. Se ei vielä tee keskustelusta omaasi. Elävässä keskustelussa ei ole aikaa pysäyttää toista, avata sovellusta, rakentaa kontekstia uudelleen ja palata täydellisen lauseen kanssa. Merkitys, ajoitus, sävy ja sosiaalinen läsnäolo toimivat yhtä aikaa. Mitä voin luonnollisesti sanoa tälle ihmiselle juuri nyt? WHISPERin kapea malli: keskustelukumppani puhuu → järjestelmä tulkitsee rajatun kontekstin → ehdottaa yhden lyhyen vastauks
+
 ### fi/public/index.html
 
 - lang: fi
@@ -9354,6 +9373,23 @@ Excerpt:
 Excerpt:
 
 > VOICEPRINT Gdzie w tym przepływie jestem JA? Dziś tekst może przejść przez kilka języków, modeli AI, redakcję, adaptację — i wrócić do nas niemal bez skazy. Poprawny gramatycznie. Naturalny. Płynny. Czasem nawet bardziej literacki niż oryginał. I właśnie tutaj pojawia się problem. Po takiej obróbce tekst może stać się lepszy. Czasem właśnie na tym polega strata. Voiceprint bada, co musi zostać zachowane podczas przejścia przez język i maszynę, aby wraz ze słowami nie zniknął ten, kto je wypowiedział. 01 Początek Jak to się zaczęło Nie zaczynałem od książek. W młodości po prostu zapisywałem myśli. Czasem było to jedno zdanie. Czasem kilka linijek. Potem kilka stron. Potem pojawiły się zeszyty. Zapisywałem obserwacje, pytania, wątpliwości, pojedyncze obrazy, jakieś wnioski — wszystko to, czego nie chciałem stracić. Stopniowo te zapiski zaczęły łączyć się ze sobą. Jedna myśl prowadziła do n
+
+### pl/projects/whisper/index.html
+
+- lang: pl
+- section: projects
+- title: WHISPER — Kto mówi?
+- description: WHISPER to projekt artystyczno-badawczy i prototypowy o rozmowie na żywo pośredniczonej przez AI, języku, autorstwie i ludzkiej obecności.
+- canonical: https://www.ashraellen.com/pl/projects/whisper/
+- H1: WHISPER
+- H2: Kto mówi? | Problem | Pięć kontraktów pomocy | Autorstwo i sprawczość | Słuchanie bez stałego nadzoru | Aktualny status
+- H3: _missing_
+- suggested keyword seed: whisper, mówi, języku, kto, projects, przez, żywo, aktualny, artystyczno-badawczy, ashraellen, autorstwie, autorstwo, bez, człowiek, czy, jednej, język, kontraktów
+- candidates: nie, whisper, człowiek, czy, język, mówi, może, przez, się, żywo, jednej, języku, odpowiedź, projekt, autorstwem, błędy, dopiero, jeszcze, już, kiedy, kontekst, kto, maszynę, musi
+
+Excerpt:
+
+> WHISPER Kto mówi? WHISPER to projekt wsparcia językowego na żywo przez AI dla rozmów między ludźmi, którzy nie mają wspólnego języka. Cel praktyczny jest prosty: pomóc człowiekowi zrozumieć rozmówcę i odpowiedzieć w języku, którego prawie albo wcale nie zna, pozostając widocznym, słyszalnym i odpowiedzialnym uczestnikiem rozmowy. Maszyna może dostarczyć język. Człowiek nie powinien zniknąć z rozmowy. 01 Problem Tłumaczenie może już uczynić zdanie zrozumiałym. Nie oznacza to jeszcze, że rozmowa jest naprawdę twoja. W rozmowie na żywo nie ma czasu zatrzymać drugiej osoby, otworzyć aplikacji, odbudować kontekstu i wrócić z idealnym zdaniem. Znaczenie, czas, ton i obecność społeczna działają jednocześnie. Co mogę naturalnie powiedzieć tej osobie właśnie teraz? Wąski model WHISPER: rozmówca mówi → system interpretuje ograniczony kontekst → proponuje jedną krótką odpowiedź → użytkownik mówi sa
 
 ### pl/public/index.html
 

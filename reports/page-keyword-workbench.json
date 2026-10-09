@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T08:45:27.749Z",
+  "generated": "2026-10-09T08:46:23.817Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -23884,6 +23884,79 @@
       ]
     },
     {
+      "page": "fi/projects/whisper/index.html",
+      "lang": "fi",
+      "section": "projects",
+      "title": "WHISPER — Kuka puhuu?",
+      "description": "WHISPER on taiteellis-tutkimuksellinen ja prototyyppivaiheen hanke reaaliaikaisesta AI-välitteisestä keskustelusta, kielestä, tekijyydestä ja ihmisen läsnäolosta.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/fi/projects/whisper/",
+      "h1": [
+        "WHISPER"
+      ],
+      "h2": [
+        "Kuka puhuu?",
+        "Ongelma",
+        "Viisi avustussopimusta",
+        "Tekijyys ja toimijuus",
+        "Kuuntelu ilman pysyvää valvontaa",
+        "Nykytila"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "fi",
+        "projects",
+        "whisper"
+      ],
+      "excerpt": "WHISPER Kuka puhuu? WHISPER on reaaliaikaisen kielituen hanke keskusteluihin sellaisten ihmisten välillä, joilla ei ole yhteistä kieltä. Käytännön tavoite on yksinkertainen: auttaa ihmistä ymmärtämään toista ja vastaamaan kielellä, jota hän osaa vähän tai ei lainkaan, samalla kun hän pysyy keskustelun näkyvänä, kuuluvana ja vastuullisena osallistujana. Kone voi antaa kielen. Ihminen ei saa kadota keskustelusta. 01 Ongelma Käännös voi jo tehdä lauseen ymmärrettäväksi. Se ei vielä tee keskustelusta omaasi. Elävässä keskustelussa ei ole aikaa pysäyttää toista, avata sovellusta, rakentaa kontekstia uudelleen ja palata täydellisen lauseen kanssa. Merkitys, ajoitus, sävy ja sosiaalinen läsnäolo toimivat yhtä aikaa. Mitä voin luonnollisesti sanoa tälle ihmiselle juuri nyt? WHISPERin kapea malli: keskustelukumppani puhuu → järjestelmä tulkitsee rajatun kontekstin → ehdottaa yhden lyhyen vastauks",
+      "candidates": [
+        "whisper",
+        "ihminen",
+        "mitä",
+        "ole",
+        "kuuntelu",
+        "puhuu",
+        "voi",
+        "auttaa",
+        "hanke",
+        "ihmisen",
+        "keskustelusta",
+        "lauseen",
+        "sen",
+        "tai",
+        "aikaa",
+        "antaa",
+        "ehdottaa",
+        "hän",
+        "itse",
+        "järjestelmän",
+        "jatkuva",
+        "jota",
+        "kielen",
+        "kieli"
+      ],
+      "suggestedKeywordSeed": [
+        "whisper",
+        "puhuu",
+        "hanke",
+        "ihmisen",
+        "keskustelusta",
+        "kuka",
+        "kuuntelu",
+        "projects",
+        "ai-välitteisestä",
+        "ashraellen",
+        "auttaa",
+        "avustussopimusta",
+        "ihminen",
+        "ilman",
+        "kielestä",
+        "läsnäolosta",
+        "lauseen",
+        "mitä"
+      ]
+    },
+    {
       "page": "fi/public/index.html",
       "lang": "fi",
       "section": "public",
@@ -37225,6 +37298,79 @@
         "bada",
         "badania",
         "błędny"
+      ]
+    },
+    {
+      "page": "pl/projects/whisper/index.html",
+      "lang": "pl",
+      "section": "projects",
+      "title": "WHISPER — Kto mówi?",
+      "description": "WHISPER to projekt artystyczno-badawczy i prototypowy o rozmowie na żywo pośredniczonej przez AI, języku, autorstwie i ludzkiej obecności.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/pl/projects/whisper/",
+      "h1": [
+        "WHISPER"
+      ],
+      "h2": [
+        "Kto mówi?",
+        "Problem",
+        "Pięć kontraktów pomocy",
+        "Autorstwo i sprawczość",
+        "Słuchanie bez stałego nadzoru",
+        "Aktualny status"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "pl",
+        "projects",
+        "whisper"
+      ],
+      "excerpt": "WHISPER Kto mówi? WHISPER to projekt wsparcia językowego na żywo przez AI dla rozmów między ludźmi, którzy nie mają wspólnego języka. Cel praktyczny jest prosty: pomóc człowiekowi zrozumieć rozmówcę i odpowiedzieć w języku, którego prawie albo wcale nie zna, pozostając widocznym, słyszalnym i odpowiedzialnym uczestnikiem rozmowy. Maszyna może dostarczyć język. Człowiek nie powinien zniknąć z rozmowy. 01 Problem Tłumaczenie może już uczynić zdanie zrozumiałym. Nie oznacza to jeszcze, że rozmowa jest naprawdę twoja. W rozmowie na żywo nie ma czasu zatrzymać drugiej osoby, otworzyć aplikacji, odbudować kontekstu i wrócić z idealnym zdaniem. Znaczenie, czas, ton i obecność społeczna działają jednocześnie. Co mogę naturalnie powiedzieć tej osobie właśnie teraz? Wąski model WHISPER: rozmówca mówi → system interpretuje ograniczony kontekst → proponuje jedną krótką odpowiedź → użytkownik mówi sa",
+      "candidates": [
+        "nie",
+        "whisper",
+        "człowiek",
+        "czy",
+        "język",
+        "mówi",
+        "może",
+        "przez",
+        "się",
+        "żywo",
+        "jednej",
+        "języku",
+        "odpowiedź",
+        "projekt",
+        "autorstwem",
+        "błędy",
+        "dopiero",
+        "jeszcze",
+        "już",
+        "kiedy",
+        "kontekst",
+        "kto",
+        "maszynę",
+        "musi"
+      ],
+      "suggestedKeywordSeed": [
+        "whisper",
+        "mówi",
+        "języku",
+        "kto",
+        "projects",
+        "przez",
+        "żywo",
+        "aktualny",
+        "artystyczno-badawczy",
+        "ashraellen",
+        "autorstwie",
+        "autorstwo",
+        "bez",
+        "człowiek",
+        "czy",
+        "jednej",
+        "język",
+        "kontraktów"
       ]
     },
     {
