@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-09T08:47:09.275Z
-Pages: 866
+Generated: 2026-10-09T08:47:51.052Z
+Pages: 868
 
 ## Index
 
@@ -256,6 +256,7 @@ Pages: 866
 | es/professional/index.html | es | professional | Ashraellen — Dosier profesional | _missing_ | ashraellen, formas, investigación, líneas, del, dosier, método, obras, observación, paralelas, práctica, profesional, professional, públicas, seleccionadas, trabajo, artísticas, artístico-filosófica |
 | es/projects/my-memory/index.html | es | projects | MY MEMORY — continuidad bajo el control de la persona | _missing_ | continuidad, memory, bajo, control, memoria, persona, qué, cómo, por, projects, proyecto, actual, ashraellen, conservarse, debe, debería, decisiones, del |
 | es/projects/voiceprint/index.html | es | projects | VOICEPRINT — ¿Dónde estoy yo en este flujo? | _missing_ | voiceprint, dónde, estoy, texto, una, autor, con, cuando, este, flujo, las, para, projects, que, qué, apareció, ashraellen, atp |
+| es/projects/whisper/index.html | es | projects | WHISPER — ¿Quién habla? | _missing_ | whisper, autoría, habla, ayuda, conversación, por, projects, quién, actual, agencia, artística, ashraellen, cinco, con, contratos, escuchar, estado, humana |
 | es/public/index.html | es | public | Ashraellen — Público | Ashraellen, campo público, intervenciones, publicaciones, pensamientos de apoyo, investigación, observaciones | público, apoyo, ashraellen, pensamientos, campo, con, donde, intervenciones, persona, public, publicaciones, abrir, encuentra, investigación, los, nuevos, observaciones, pensamiento |
 | es/public/posts/essay/cycles/cycle-0001.html | es | public | Ashraellen — Primer ciclo de mini-ensayos | ashraellen, public, posts, essay, cycles, cycle, 0001, primer, ciclo, mini-ensayos, poder, sobre, pensamiento, sino, atención, cuerpo, primera, puerta | ciclo, primer, sobre, cuerpo, pasado, pensamiento, pero, ashraellen, atención, interpretación, objetivo, poder, primera, public, puerta, sino, como, completado |
 | es/public/posts/essay/cycles/index.html | es | public | Ashraellen — Ciclos de mini-ensayos | ashraellen, public, posts, essay, cycles, ciclos, mini-ensayos, completados, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ciclos, mini-ensayos, completados, ciclo, actual, aquí, ashraellen, encuentra, los, página, principal, public, reúnen, cycles, essay, posts, primer, sección |
@@ -581,6 +582,7 @@ Pages: 866
 | pt/professional/index.html | pt | professional | Ashraellen — Dossiê profissional | _missing_ | ashraellen, formas, investigação, como, dossiê, linhas, método, obras, observação, paralelas, prática, professional, profissional, públicas, selecionadas, trabalho, artísticas, artístico-filosófica |
 | pt/projects/my-memory/index.html | pt | projects | MY MEMORY — continuidade sob controlo da pessoa | _missing_ | continuidade, memory, controlo, memória, pessoa, sob, como, deve, projects, projeto, que, ashraellen, atual, com, continuar, decisões, duradoura, enquanto |
 | pt/projects/voiceprint/index.html | pt | projects | VOICEPRINT — Onde estou eu neste fluxo? | _missing_ | voiceprint, estou, não, onde, que, texto, uma, autor, fluxo, neste, para, projects, quando, quem, ser, ashraellen, atp, atravessa |
+| pt/projects/whisper/index.html | pt | projects | WHISPER — Quem está a falar? | _missing_ | whisper, autoria, está, falar, por, projects, quem, agência, artística, ashraellen, assistência, atual, cinco, contratos, conversa, conversação, escutar, estado |
 | pt/public/index.html | pt | public | Ashraellen — Público | Ashraellen, campo público, falas, publicações, pensamentos de apoio, pesquisa, observações | público, apoio, ashraellen, pensamentos, campo, falas, onde, pessoa, public, publicações, abrir, com, encontra, não, novos, observações, pensamento, pesquisa |
 | pt/public/posts/essay/cycles/cycle-0001.html | pt | public | Ashraellen — Primeiro ciclo de mini-ensaios | ashraellen, public, posts, essay, cycles, cycle, 0001, primeiro, ciclo, mini-ensaios, poder, não, sobre, pensamento, mas, atenção, corpo, primeira | ciclo, primeiro, mas, não, sobre, corpo, passado, pensamento, ashraellen, atenção, interpretação, mini-ensaios, objetivo, poder, porta, primeira, public, sua |
 | pt/public/posts/essay/cycles/index.html | pt | public | Ashraellen — Ciclos de mini-ensaios | ashraellen, public, posts, essay, cycles, ciclos, mini-ensaios, concluídos, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ciclos, mini-ensaios, concluídos, atual, ciclo, aqui, ashraellen, estão, fica, página, para, primeiro, principal, public, cycles, essay, posts, reunidos |
@@ -5108,6 +5110,23 @@ Excerpt:
 Excerpt:
 
 > VOICEPRINT ¿Dónde estoy yo en este flujo? Hoy un texto puede pasar por otra lengua, un modelo de AI, edición y adaptación — y volver casi impecable. Gramaticalmente correcto. Natural. Fluido. A veces incluso más literario que el original. Y precisamente aquí comienza el problema. Un texto puede mejorar después de este tipo de procesamiento. A veces, precisamente eso es la pérdida. Porque llega un momento en que la pregunta deja de ser: «¿Es una buena traducción?» Y pasa a ser: «¿Sigo estando yo ahí?» 01 Cómo empezó todo No empecé con libros. Cuando era joven, simplemente anotaba pensamientos. A veces era una frase. A veces unas líneas. Luego unas páginas. Después aparecieron los cuadernos. Anotaba observaciones, preguntas, dudas, imágenes sueltas y ciertas conclusiones — todo aquello que no quería perder. Poco a poco, las notas separadas empezaron a conectarse entre sí. Un pensamiento co
+
+### es/projects/whisper/index.html
+
+- lang: es
+- section: projects
+- title: WHISPER — ¿Quién habla?
+- description: WHISPER es un proyecto de investigación artística y prototipado sobre conversación en vivo mediada por IA, lenguaje, autoría y presencia humana.
+- canonical: https://www.ashraellen.com/es/projects/whisper/
+- H1: WHISPER
+- H2: ¿Quién habla? | El problema | Cinco contratos de ayuda | Autoría y agencia | Escuchar sin vigilancia permanente | Estado actual
+- H3: _missing_
+- suggested keyword seed: whisper, autoría, habla, ayuda, conversación, por, projects, quién, actual, agencia, artística, ashraellen, cinco, con, contratos, escuchar, estado, humana
+- candidates: una, persona, whisper, qué, autoría, conversación, habla, por, ayuda, con, idioma, puede, vivo, como, cuando, debe, después, investigación, lenguaje, máquina, mismo, proyecto, que, respuesta
+
+Excerpt:
+
+> WHISPER ¿Quién habla? WHISPER es un proyecto de apoyo lingüístico en vivo para conversaciones entre personas que no comparten un idioma común. El objetivo práctico es sencillo: ayudar a una persona a entender a su interlocutor y responder en un idioma que conoce poco o nada, manteniéndose como participante visible, audible y responsable. La máquina puede aportar el lenguaje. La persona no debe desaparecer de la conversación. 01 El problema La traducción ya puede hacer comprensible una frase. Eso no convierte automáticamente la conversación en tuya. En una conversación real, significado, tiempo, tono y presencia social actúan a la vez. ¿Qué puedo decirle de forma natural a esta persona ahora mismo? Modelo estrecho: el interlocutor habla → el sistema interpreta un contexto limitado → propone una respuesta corta → el usuario habla por sí mismo. WHISPER está relacionado con Voiceprint, pero 
 
 ### es/public/index.html
 
@@ -10633,6 +10652,23 @@ Excerpt:
 Excerpt:
 
 > VOICEPRINT Onde estou eu neste fluxo? Hoje, um texto pode passar por outra língua, um modelo de AI, edição e adaptação — e regressar quase impecável. Gramaticalmente correto. Natural. Fluido. Por vezes até mais literário do que o original. E é precisamente aqui que o problema começa. Um texto pode tornar-se melhor depois deste tipo de tratamento. Por vezes, é precisamente isso que constitui a perda. Porque, a certa altura, a pergunta deixa de ser: «É uma boa tradução?» E passa a ser: «Ainda estou eu aqui?» 01 Como tudo começou Não comecei pelos livros. Quando era jovem, limitava-me a anotar pensamentos. Às vezes era uma frase. Às vezes algumas linhas. Depois algumas páginas. Depois apareceram os cadernos. Anotava observações, perguntas, dúvidas, imagens isoladas e certas conclusões — tudo aquilo que não queria perder. Gradualmente, notas separadas começaram a ligar-se umas às outras. Um 
+
+### pt/projects/whisper/index.html
+
+- lang: pt
+- section: projects
+- title: WHISPER — Quem está a falar?
+- description: WHISPER é um projeto de investigação artística e prototipagem sobre conversação ao vivo mediada por IA, linguagem, autoria e presença humana.
+- canonical: https://www.ashraellen.com/pt/projects/whisper/
+- H1: WHISPER
+- H2: Quem está a falar? | O problema | Cinco contratos de assistência | Autoria e agência | Escutar sem vigilância permanente | Estado atual
+- H3: _missing_
+- suggested keyword seed: whisper, autoria, está, falar, por, projects, quem, agência, artística, ashraellen, assistência, atual, cinco, contratos, conversa, conversação, escutar, estado
+- candidates: uma, não, pessoa, que, whisper, autoria, conversa, por, quando, fala, língua, para, pode, projeto, resposta, vivo, com, como, falar, investigação, linguagem, máquina, mesmo, realmente
+
+Excerpt:
+
+> WHISPER Quem está a falar? WHISPER é um projeto de apoio linguístico em tempo real para conversas entre pessoas que não partilham uma língua comum. O objetivo prático é simples: ajudar uma pessoa a compreender o interlocutor e a responder numa língua que conhece pouco ou nada, permanecendo o participante visível, audível e responsável. A máquina pode fornecer a linguagem. A pessoa não deve desaparecer da conversa. 01 O problema A tradução já pode tornar uma frase compreensível. Isso ainda não faz da conversa uma conversa realmente sua. Numa conversa ao vivo, significado, tempo, tom e presença social atuam ao mesmo tempo. O que posso dizer naturalmente a esta pessoa agora? Modelo estreito: o interlocutor fala → o sistema interpreta contexto limitado → propõe uma resposta curta → o utilizador fala por si próprio. WHISPER relaciona-se com Voiceprint, mas não é o mesmo projeto. Voiceprint pe
 
 ### pt/public/index.html
 

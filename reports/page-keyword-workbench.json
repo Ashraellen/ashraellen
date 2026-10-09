@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T08:47:09.259Z",
+  "generated": "2026-10-09T08:47:51.040Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -18638,6 +18638,79 @@
         "apareció",
         "ashraellen",
         "atp"
+      ]
+    },
+    {
+      "page": "es/projects/whisper/index.html",
+      "lang": "es",
+      "section": "projects",
+      "title": "WHISPER — ¿Quién habla?",
+      "description": "WHISPER es un proyecto de investigación artística y prototipado sobre conversación en vivo mediada por IA, lenguaje, autoría y presencia humana.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/es/projects/whisper/",
+      "h1": [
+        "WHISPER"
+      ],
+      "h2": [
+        "¿Quién habla?",
+        "El problema",
+        "Cinco contratos de ayuda",
+        "Autoría y agencia",
+        "Escuchar sin vigilancia permanente",
+        "Estado actual"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "es",
+        "projects",
+        "whisper"
+      ],
+      "excerpt": "WHISPER ¿Quién habla? WHISPER es un proyecto de apoyo lingüístico en vivo para conversaciones entre personas que no comparten un idioma común. El objetivo práctico es sencillo: ayudar a una persona a entender a su interlocutor y responder en un idioma que conoce poco o nada, manteniéndose como participante visible, audible y responsable. La máquina puede aportar el lenguaje. La persona no debe desaparecer de la conversación. 01 El problema La traducción ya puede hacer comprensible una frase. Eso no convierte automáticamente la conversación en tuya. En una conversación real, significado, tiempo, tono y presencia social actúan a la vez. ¿Qué puedo decirle de forma natural a esta persona ahora mismo? Modelo estrecho: el interlocutor habla → el sistema interpreta un contexto limitado → propone una respuesta corta → el usuario habla por sí mismo. WHISPER está relacionado con Voiceprint, pero ",
+      "candidates": [
+        "una",
+        "persona",
+        "whisper",
+        "qué",
+        "autoría",
+        "conversación",
+        "habla",
+        "por",
+        "ayuda",
+        "con",
+        "idioma",
+        "puede",
+        "vivo",
+        "como",
+        "cuando",
+        "debe",
+        "después",
+        "investigación",
+        "lenguaje",
+        "máquina",
+        "mismo",
+        "proyecto",
+        "que",
+        "respuesta"
+      ],
+      "suggestedKeywordSeed": [
+        "whisper",
+        "autoría",
+        "habla",
+        "ayuda",
+        "conversación",
+        "por",
+        "projects",
+        "quién",
+        "actual",
+        "agencia",
+        "artística",
+        "ashraellen",
+        "cinco",
+        "con",
+        "contratos",
+        "escuchar",
+        "estado",
+        "humana"
       ]
     },
     {
@@ -42804,6 +42877,79 @@
         "ashraellen",
         "atp",
         "atravessa"
+      ]
+    },
+    {
+      "page": "pt/projects/whisper/index.html",
+      "lang": "pt",
+      "section": "projects",
+      "title": "WHISPER — Quem está a falar?",
+      "description": "WHISPER é um projeto de investigação artística e prototipagem sobre conversação ao vivo mediada por IA, linguagem, autoria e presença humana.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/pt/projects/whisper/",
+      "h1": [
+        "WHISPER"
+      ],
+      "h2": [
+        "Quem está a falar?",
+        "O problema",
+        "Cinco contratos de assistência",
+        "Autoria e agência",
+        "Escutar sem vigilância permanente",
+        "Estado atual"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "pt",
+        "projects",
+        "whisper"
+      ],
+      "excerpt": "WHISPER Quem está a falar? WHISPER é um projeto de apoio linguístico em tempo real para conversas entre pessoas que não partilham uma língua comum. O objetivo prático é simples: ajudar uma pessoa a compreender o interlocutor e a responder numa língua que conhece pouco ou nada, permanecendo o participante visível, audível e responsável. A máquina pode fornecer a linguagem. A pessoa não deve desaparecer da conversa. 01 O problema A tradução já pode tornar uma frase compreensível. Isso ainda não faz da conversa uma conversa realmente sua. Numa conversa ao vivo, significado, tempo, tom e presença social atuam ao mesmo tempo. O que posso dizer naturalmente a esta pessoa agora? Modelo estreito: o interlocutor fala → o sistema interpreta contexto limitado → propõe uma resposta curta → o utilizador fala por si próprio. WHISPER relaciona-se com Voiceprint, mas não é o mesmo projeto. Voiceprint pe",
+      "candidates": [
+        "uma",
+        "não",
+        "pessoa",
+        "que",
+        "whisper",
+        "autoria",
+        "conversa",
+        "por",
+        "quando",
+        "fala",
+        "língua",
+        "para",
+        "pode",
+        "projeto",
+        "resposta",
+        "vivo",
+        "com",
+        "como",
+        "falar",
+        "investigação",
+        "linguagem",
+        "máquina",
+        "mesmo",
+        "realmente"
+      ],
+      "suggestedKeywordSeed": [
+        "whisper",
+        "autoria",
+        "está",
+        "falar",
+        "por",
+        "projects",
+        "quem",
+        "agência",
+        "artística",
+        "ashraellen",
+        "assistência",
+        "atual",
+        "cinco",
+        "contratos",
+        "conversa",
+        "conversação",
+        "escutar",
+        "estado"
       ]
     },
     {
