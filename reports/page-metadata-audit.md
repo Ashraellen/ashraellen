@@ -1,18 +1,18 @@
 # Page Metadata Audit
 
-Generated: 2026-10-13T14:26:18.721Z
+Generated: 2026-10-13T14:34:25.155Z
 
-Pages checked: 870
-Pages with issues: 382
-Total issues: 1800
-Pages with review notes: 667
-Total review notes: 2394
+Pages checked: 873
+Pages with issues: 385
+Total issues: 1803
+Pages with review notes: 671
+Total review notes: 2402
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 268 |
+| MISSING_KEYWORDS | 271 |
 | MISSING_TWITTER_IMAGE | 193 |
 | MISSING_TWITTER_CARD | 179 |
 | MISSING_JSON_LD | 174 |
@@ -35,8 +35,8 @@ Total review notes: 2394
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 667 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 647 |
+| DUPLICATE_OG_IMAGE_REVIEW | 671 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 651 |
 | FALLBACK_OG_IMAGE_USED | 550 |
 | FALLBACK_TWITTER_IMAGE_USED | 530 |
 
@@ -959,6 +959,16 @@ Total review notes: 2394
 - canonical: https://www.ashraellen.com/en/projects/my-memory/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- MISSING_KEYWORDS
+
+### en/projects/seven/index.html
+
+- title: SEVEN — Research into Human Vulnerabilities
+- description length: 192
+- canonical: https://www.ashraellen.com/en/projects/seven/
+- og:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
 
 - MISSING_KEYWORDS
 
@@ -2839,6 +2849,16 @@ Total review notes: 2394
 - canonical: https://www.ashraellen.com/pl/projects/my-memory/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- MISSING_KEYWORDS
+
+### pl/projects/seven/index.html
+
+- title: SEVEN — Badanie ludzkich podatności
+- description length: 176
+- canonical: https://www.ashraellen.com/pl/projects/seven/
+- og:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
 
 - MISSING_KEYWORDS
 
@@ -5250,6 +5270,16 @@ Total review notes: 2394
 
 - MISSING_KEYWORDS
 
+### uk/projects/seven/index.html
+
+- title: SEVEN — Дослідження людських вразливостей
+- description length: 166
+- canonical: https://www.ashraellen.com/uk/projects/seven/
+- og:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
+
+- MISSING_KEYWORDS
+
 ### uk/projects/voiceprint/index.html
 
 - title: VOICEPRINT — Де я в цьому потоці?
@@ -6919,6 +6949,15 @@ Total review notes: 2394
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 550 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 530 pages
+
+### en/projects/seven/index.html
+
+- title: SEVEN — Research into Human Vulnerabilities
+- og:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
 
 ### en/projects/voiceprint/index.html
 
@@ -9548,6 +9587,15 @@ Total review notes: 2394
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 550 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 530 pages
 
+### pl/projects/seven/index.html
+
+- title: SEVEN — Badanie ludzkich podatności
+- og:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
+
 ### pl/projects/voiceprint/index.html
 
 - title: VOICEPRINT — Gdzie w tym przepływie jestem JA?
@@ -11000,6 +11048,15 @@ Total review notes: 2394
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 550 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 530 pages
 
+### ru/projects/seven/index.html
+
+- title: SEVEN — Исследование человеческих уязвимостей
+- og:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
+
 ### ru/projects/voiceprint/index.html
 
 - title: VOICEPRINT — Где Я в этом потоке?
@@ -11818,6 +11875,15 @@ Total review notes: 2394
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 550 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 530 pages
+
+### uk/projects/seven/index.html
+
+- title: SEVEN — Дослідження людських вразливостей
+- og:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
 
 ### uk/projects/voiceprint/index.html
 

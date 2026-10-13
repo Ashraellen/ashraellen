@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-13T14:26:19.205Z",
+  "generated": "2026-10-13T14:34:25.913Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -13263,6 +13263,86 @@
         "ashraellen",
         "belong",
         "control"
+      ]
+    },
+    {
+      "page": "en/projects/seven/index.html",
+      "lang": "en",
+      "section": "projects",
+      "title": "SEVEN — Research into Human Vulnerabilities",
+      "description": "SEVEN is an independent philosophical and interdisciplinary inquiry into human vulnerabilities: their functions, interactions, transition into risk, and role in motivation and decision-making.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/en/projects/seven/",
+      "h1": [
+        "SEVEN"
+      ],
+      "h2": [
+        "When does a human tendency become a vulnerability?",
+        "The central question",
+        "Why seven?",
+        "A historical scheme as a research instrument",
+        "What is compared",
+        "Competing explanations",
+        "What can already be tested, and what still has to be operationalised",
+        "The novel as method"
+      ],
+      "h3": [
+        "A common mechanism",
+        "An interacting system",
+        "A dynamic configuration",
+        "A classification error"
+      ],
+      "slugTerms": [
+        "en",
+        "projects",
+        "seven"
+      ],
+      "excerpt": "SEVEN When does a human tendency become a vulnerability? SEVEN is an independent philosophical and interdisciplinary inquiry into how ordinary human tendencies serve useful functions, change under pressure from circumstances, combine with one another and, in certain configurations, begin to work against the person they once served. Its starting point is seven historical categories commonly known as the “seven deadly sins”: pride, greed, lust, envy, gluttony, wrath and sloth / acedia. For SEVEN, these are neither religious verdicts nor a ready-made psychological taxonomy, but a culturally persistent set of names that can be tested. Not seven verdicts on a human being. Seven historical names for questions that still have to be tested. Working page · 13 October 2026 · revision 09 01 The central question Why does a mechanism that helps a person live, protect themselves, achieve, preserve or ",
+      "candidates": [
+        "seven",
+        "what",
+        "person",
+        "greed",
+        "research",
+        "can",
+        "may",
+        "how",
+        "one",
+        "which",
+        "does",
+        "human",
+        "has",
+        "different",
+        "first",
+        "vulnerability",
+        "context",
+        "historical",
+        "loss",
+        "motives",
+        "next",
+        "novel",
+        "their",
+        "after"
+      ],
+      "suggestedKeywordSeed": [
+        "seven",
+        "human",
+        "what",
+        "research",
+        "can",
+        "does",
+        "projects",
+        "vulnerabilities",
+        "already",
+        "ashraellen",
+        "become",
+        "central",
+        "compared",
+        "competing",
+        "decision-making",
+        "explanations",
+        "functions",
+        "greed"
       ]
     },
     {
@@ -37516,6 +37596,86 @@
       ]
     },
     {
+      "page": "pl/projects/seven/index.html",
+      "lang": "pl",
+      "section": "projects",
+      "title": "SEVEN — Badanie ludzkich podatności",
+      "description": "SEVEN to niezależne filozoficzne i interdyscyplinarne badanie ludzkich podatności: ich funkcji, interakcji, przechodzenia w ryzyko oraz roli w motywacji i podejmowaniu decyzji.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/pl/projects/seven/",
+      "h1": [
+        "SEVEN"
+      ],
+      "h2": [
+        "Kiedy ludzka skłonność staje się podatnością?",
+        "Główne pytanie",
+        "Dlaczego właśnie siedem",
+        "Historyczny schemat jako narzędzie badawcze",
+        "Co jest porównywane",
+        "Konkurencyjne wyjaśnienia",
+        "Co już można sprawdzać, a co trzeba jeszcze zoperacjonalizować",
+        "Powieść jako metoda"
+      ],
+      "h3": [
+        "Wspólny mechanizm",
+        "System interakcji",
+        "Dynamiczna konfiguracja",
+        "Błąd klasyfikacji"
+      ],
+      "slugTerms": [
+        "pl",
+        "projects",
+        "seven"
+      ],
+      "excerpt": "SEVEN Kiedy ludzka skłonność staje się podatnością? SEVEN to niezależne filozoficzne i interdyscyplinarne badanie tego, jak zwyczajne ludzkie skłonności pełnią użyteczne funkcje, zmieniają się pod wpływem okoliczności, łączą się ze sobą i w określonych konfiguracjach zaczynają działać przeciwko człowiekowi. Punktem wyjścia jest siedem historycznych kategorii znanych jako „siedem grzechów głównych”: pycha, chciwość, pożądanie, zazdrość, obżarstwo, gniew oraz lenistwo / acedia. Dla SEVEN nie są one religijnym wyrokiem ani gotową klasyfikacją psychologiczną, lecz kulturowo trwałym zestawem nazw, który można poddać sprawdzeniu. Nie siedem wyroków na człowieka. Siedem historycznych nazw dla pytań, które dopiero trzeba sprawdzić. Wersja robocza strony · 13 października 2026 · rewizja 09 01 Główne pytanie Dlaczego mechanizm, który pomaga człowiekowi żyć, chronić się, osiągać, zachowywać lub mie",
+      "candidates": [
+        "się",
+        "nie",
+        "seven",
+        "greed",
+        "lecz",
+        "może",
+        "jako",
+        "lub",
+        "podatności",
+        "jeśli",
+        "można",
+        "albo",
+        "człowieka",
+        "siedem",
+        "oraz",
+        "powieść",
+        "ani",
+        "badanie",
+        "czy",
+        "już",
+        "mogą",
+        "pytanie",
+        "ten",
+        "którym"
+      ],
+      "suggestedKeywordSeed": [
+        "seven",
+        "jako",
+        "podatności",
+        "badanie",
+        "ludzkich",
+        "można",
+        "projects",
+        "się",
+        "albo",
+        "ashraellen",
+        "badawcze",
+        "decyzji",
+        "dlaczego",
+        "filozoficzne",
+        "funkcji",
+        "główne",
+        "greed",
+        "historyczny"
+      ]
+    },
+    {
       "page": "pl/projects/voiceprint/index.html",
       "lang": "pl",
       "section": "projects",
@@ -58698,6 +58858,86 @@
         "ashraellen",
         "важлива",
         "відновлення"
+      ]
+    },
+    {
+      "page": "uk/projects/seven/index.html",
+      "lang": "uk",
+      "section": "projects",
+      "title": "SEVEN — Дослідження людських вразливостей",
+      "description": "SEVEN — незалежне філософське й міждисциплінарне дослідження людських вразливостей: їхніх функцій, взаємодій, переходу в ризик і ролі в мотивації та ухваленні рішень.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/uk/projects/seven/",
+      "h1": [
+        "SEVEN"
+      ],
+      "h2": [
+        "Коли людська схильність стає вразливістю?",
+        "Головне питання",
+        "Чому саме сім",
+        "Історична схема як дослідницький інструмент",
+        "Що порівнюється",
+        "Конкурентні пояснення",
+        "Що вже можна перевіряти, а що ще потрібно операціоналізувати",
+        "Роман як метод"
+      ],
+      "h3": [
+        "Спільний механізм",
+        "Система взаємодії",
+        "Динамічна конфігурація",
+        "Помилка класифікації"
+      ],
+      "slugTerms": [
+        "uk",
+        "projects",
+        "seven"
+      ],
+      "excerpt": "SEVEN Коли людська схильність стає вразливістю? SEVEN — незалежне філософське й міждисциплінарне дослідження того, як звичайні людські схильності виконують корисні функції, змінюються під впливом обставин, поєднуються між собою і в певних конфігураціях починають працювати проти людини. Відправна точка — сім історичних категорій, відомих як «сім смертних гріхів»: гординя, жадібність, хіть, заздрість, ненаситність, гнів і лінощі / acedia. Для SEVEN це не релігійний вирок і не готова психологічна класифікація, а культурно стійкий набір назв, який можна перевіряти. Не сім вироків людині. Сім історичних назв для питань, які ще належить перевірити. Робоча версія сторінки · 13 жовтня 2026 · редакція 09 01 Головне питання Чому механізм, який допомагає людині жити, захищатися, досягати, зберігати або сподіватися, інколи починає працювати проти неї? Що відбувається з функцією, інтенсивністю та зв’",
+      "candidates": [
+        "seven",
+        "або",
+        "greed",
+        "дослідження",
+        "може",
+        "якщо",
+        "питання",
+        "сім",
+        "вже",
+        "лише",
+        "людини",
+        "можна",
+        "перевірки",
+        "після",
+        "роман",
+        "того",
+        "які",
+        "можуть",
+        "його",
+        "категорій",
+        "коли",
+        "людина",
+        "починає",
+        "пояснення"
+      ],
+      "suggestedKeywordSeed": [
+        "seven",
+        "дослідження",
+        "projects",
+        "вже",
+        "вразливостей",
+        "людських",
+        "можна",
+        "питання",
+        "сім",
+        "ashraellen",
+        "greed",
+        "або",
+        "взаємодій",
+        "вразливістю",
+        "головне",
+        "дослідницький",
+        "інструмент",
+        "історична"
       ]
     },
     {

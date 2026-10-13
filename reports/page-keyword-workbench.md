@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-13T14:26:19.214Z
-Pages: 871
+Generated: 2026-10-13T14:34:25.926Z
+Pages: 874
 
 ## Index
 
@@ -184,6 +184,7 @@ Pages: 871
 | en/privacy.html | en | privacy.html | Privacy Policy — Ashraellen | _missing_ | data, policy, privacy, analytics, ashraellen, ashraellen.com, cookies, legal, may, platforms, website, basis, collected, consent, contact, external, google, information |
 | en/professional/index.html | en | professional | Ashraellen — Professional Dossier | _missing_ | ashraellen, professional, forms, internal, literary, public, working, dossier, how, method, observation, practice, research, selected, work, works, about, artistic |
 | en/projects/my-memory/index.html | en | projects | MY MEMORY — User-Owned Continuity for AI-Assisted Work | _missing_ | memory, continuity, should, across, can, how, project, projects, remain, state, system, user-owned, what, work, ai-assisted, ashraellen, belong, control |
+| en/projects/seven/index.html | en | projects | SEVEN — Research into Human Vulnerabilities | _missing_ | seven, human, what, research, can, does, projects, vulnerabilities, already, ashraellen, become, central, compared, competing, decision-making, explanations, functions, greed |
 | en/projects/voiceprint/index.html | en | projects | VOICEPRINT — Where Am I in This Flow? | _missing_ | voiceprint, text, where, author, flow, projects, what, who, along, another, ashraellen, atp, beautiful, became, becomes, began, book, came |
 | en/projects/whisper/index.html | en | projects | WHISPER — Who is speaking? | _missing_ | whisper, authorship, conversation, human, language, live, project, projects, speaking, who, about, agency, ai-mediated, artistic-research, ashraellen, assistance, can, contracts |
 | en/public/index.html | en | public | Ashraellen — Public | Ashraellen, public field, talks, publications, support thoughts, research, observations | public, ashraellen, support, thoughts, field, living, person, publications, talks, where, already, mass, meets, new, observations, open, people, projects |
@@ -510,6 +511,7 @@ Pages: 871
 | pl/privacy.html | pl | privacy.html | Polityka prywatności — Ashraellen | _missing_ | polityka, prywatności, cookies, dane, analityka, ashraellen, ashraellen.com, być, mogą, strony, zewnętrzne, administrator, aktualizacje, cel, danych, google, jakie, kontakt |
 | pl/professional/index.html | pl | professional | Ashraellen — Dossier profesjonalne | _missing_ | ashraellen, formy, obserwacji, profesjonalne, dossier, metoda, prace, pracy, praktyka, professional, publiczne, się, wybrane, archiwum, artystyczne, artystyczno-filozoficzna, autora, autorze |
 | pl/projects/my-memory/index.html | pl | projects | MY MEMORY — pamięć i ciągłość pod kontrolą człowieka | _missing_ | memory, pamięć, ciągłość, człowieka, kontrolą, pod, ciągłości, pozostać, projects, projektu, stan, ashraellen, bada, ciebie, decyzje, dlaczego, dostawcami, dowody |
+| pl/projects/seven/index.html | pl | projects | SEVEN — Badanie ludzkich podatności | _missing_ | seven, jako, podatności, badanie, ludzkich, można, projects, się, albo, ashraellen, badawcze, decyzji, dlaczego, filozoficzne, funkcji, główne, greed, historyczny |
 | pl/projects/voiceprint/index.html | pl | projects | VOICEPRINT — Gdzie w tym przepływie jestem JA? | _missing_ | voiceprint, tym, autora, gdzie, jestem, może, nie, projects, przepływie, przez, się, tekst, aby, ale, ashraellen, bada, badania, błędny |
 | pl/projects/whisper/index.html | pl | projects | WHISPER — Kto mówi? | _missing_ | whisper, mówi, języku, kto, projects, przez, żywo, aktualny, artystyczno-badawczy, ashraellen, autorstwie, autorstwo, bez, człowiek, czy, jednej, język, kontraktów |
 | pl/public/index.html | pl | public | Ashraellen — Publiczne | Ashraellen, publiczne pole, wystąpienia, publikacje, myśli przewodnie, badanie, obserwacje | ashraellen, publiczne, myśli, człowieka, gdzie, przewodnie, public, publikacje, wystąpienia, badanie, już, lecz, myśl, nie, nowe, obserwacje, otwórz, pole |
@@ -830,6 +832,7 @@ Pages: 871
 | uk/privacy.html | uk | privacy.html | Політика конфіденційності — Ashraellen | _missing_ | дані, конфіденційності, політика, ashraellen, ashraellen.com, cookies, аналітика, можуть, обробки, google, privacy, privacy.html, або, використовуються, відповідає, даних, збиратися, зовнішні |
 | uk/professional/index.html | uk | professional | Ashraellen — Професійне досьє | _missing_ | ashraellen, роботи, спостереження, professional, вибрані, досьє, метод, практика, про, професійне, публічні, форми, або, автора, відкрити, внутрішні, внутрішня, дослідження |
 | uk/projects/my-memory/index.html | uk | projects | MY MEMORY — пам’ять і безперервність під контролем людини | _missing_ | memory, пам’ять, безперервність, контролем, людини, під, projects, безперервності, має, між, проєкту, рішення, система, стан, ai-провайдерами, ashraellen, важлива, відновлення |
+| uk/projects/seven/index.html | uk | projects | SEVEN — Дослідження людських вразливостей | _missing_ | seven, дослідження, projects, вже, вразливостей, людських, можна, питання, сім, ashraellen, greed, або, взаємодій, вразливістю, головне, дослідницький, інструмент, історична |
 | uk/projects/voiceprint/index.html | uk | projects | VOICEPRINT — Де я в цьому потоці? | _missing_ | voiceprint, текст, projects, автор, коли, потоці, хто, цьому, щоб, ashraellen, atp, але, було, він, говорить, досліджує, з’явився, зберегтися |
 | uk/projects/whisper/index.html | uk | projects | WHISPER — Хто говорить? | _missing_ | whisper, говорить, projects, авторство, мову, хто, ashraellen, voiceprint, або, без, відповідь, допомоги, живу, коли, контрактів, людина, людську, мистецько-дослідницький |
 | uk/public/index.html | uk | public | Ashraellen — Публічне | Ashraellen, публічне поле, виступи, публікації, опорні думки, дослідження, спостереження | ashraellen, публічне, думки, public, виступи, опорні, публікації, вже, відео, відкрити, вона, дослідження, думка, думку, духовність, живу, зустрічає, людина |
@@ -3889,6 +3892,23 @@ Excerpt:
 Excerpt:
 
 > MY MEMORY Your memory should belong to you. A research and working infrastructure for continuity across long-running AI-assisted work. 01 Loss of continuity The question What remains of a long-running human project when the conversation ends, the model changes, or the system that helped with the work is no longer there? A serious project can outlive a chat, a session, a model and eventually an AI provider. When that happens, decisions become separated from their reasons, sources disappear from conclusions, commitments drift out of view, and stale information begins to compete with what is actually current. The problem is not simply that an AI “forgets”. The deeper problem is that the history of the work — what happened, why a decision was made, what later changed and which state is now authoritative — can become fragmented across systems that neither the person nor the next AI fully cont
+
+### en/projects/seven/index.html
+
+- lang: en
+- section: projects
+- title: SEVEN — Research into Human Vulnerabilities
+- description: SEVEN is an independent philosophical and interdisciplinary inquiry into human vulnerabilities: their functions, interactions, transition into risk, and role in motivation and decision-making.
+- canonical: https://www.ashraellen.com/en/projects/seven/
+- H1: SEVEN
+- H2: When does a human tendency become a vulnerability? | The central question | Why seven? | A historical scheme as a research instrument | What is compared | Competing explanations | What can already be tested, and what still has to be operationalised | The novel as method
+- H3: A common mechanism | An interacting system | A dynamic configuration | A classification error
+- suggested keyword seed: seven, human, what, research, can, does, projects, vulnerabilities, already, ashraellen, become, central, compared, competing, decision-making, explanations, functions, greed
+- candidates: seven, what, person, greed, research, can, may, how, one, which, does, human, has, different, first, vulnerability, context, historical, loss, motives, next, novel, their, after
+
+Excerpt:
+
+> SEVEN When does a human tendency become a vulnerability? SEVEN is an independent philosophical and interdisciplinary inquiry into how ordinary human tendencies serve useful functions, change under pressure from circumstances, combine with one another and, in certain configurations, begin to work against the person they once served. Its starting point is seven historical categories commonly known as the “seven deadly sins”: pride, greed, lust, envy, gluttony, wrath and sloth / acedia. For SEVEN, these are neither religious verdicts nor a ready-made psychological taxonomy, but a culturally persistent set of names that can be tested. Not seven verdicts on a human being. Seven historical names for questions that still have to be tested. Working page · 13 October 2026 · revision 09 01 The central question Why does a mechanism that helps a person live, protect themselves, achieve, preserve or 
 
 ### en/projects/voiceprint/index.html
 
@@ -9432,6 +9452,23 @@ Excerpt:
 
 > MY MEMORY Twoja pamięć powinna należeć do Ciebie. Infrastruktura badawcza i robocza dla ciągłości długotrwałej pracy wspomaganej przez AI. 01 Utrata ciągłości Pytanie Co pozostaje z długotrwałego ludzkiego projektu, gdy rozmowa się kończy, model się zmienia albo system pomagający w pracy przestaje być dostępny? Poważny projekt może trwać dłużej niż jeden czat, sesja, model, a w końcu także dostawca AI. Wtedy decyzje odrywają się od powodów, źródła znikają z wniosków, zobowiązania wypadają z pola widzenia, a nieaktualne informacje zaczynają konkurować z tym, co naprawdę jest stanem bieżącym. Problem nie polega tylko na tym, że AI „zapomina”. Głębszy problem polega na tym, że historia pracy — co się wydarzyło, dlaczego podjęto decyzję, co zmieniło się później i który stan jest teraz obowiązujący — może rozpaść się między systemami, których ani człowiek, ani kolejna AI nie kontrolują w pełn
 
+### pl/projects/seven/index.html
+
+- lang: pl
+- section: projects
+- title: SEVEN — Badanie ludzkich podatności
+- description: SEVEN to niezależne filozoficzne i interdyscyplinarne badanie ludzkich podatności: ich funkcji, interakcji, przechodzenia w ryzyko oraz roli w motywacji i podejmowaniu decyzji.
+- canonical: https://www.ashraellen.com/pl/projects/seven/
+- H1: SEVEN
+- H2: Kiedy ludzka skłonność staje się podatnością? | Główne pytanie | Dlaczego właśnie siedem | Historyczny schemat jako narzędzie badawcze | Co jest porównywane | Konkurencyjne wyjaśnienia | Co już można sprawdzać, a co trzeba jeszcze zoperacjonalizować | Powieść jako metoda
+- H3: Wspólny mechanizm | System interakcji | Dynamiczna konfiguracja | Błąd klasyfikacji
+- suggested keyword seed: seven, jako, podatności, badanie, ludzkich, można, projects, się, albo, ashraellen, badawcze, decyzji, dlaczego, filozoficzne, funkcji, główne, greed, historyczny
+- candidates: się, nie, seven, greed, lecz, może, jako, lub, podatności, jeśli, można, albo, człowieka, siedem, oraz, powieść, ani, badanie, czy, już, mogą, pytanie, ten, którym
+
+Excerpt:
+
+> SEVEN Kiedy ludzka skłonność staje się podatnością? SEVEN to niezależne filozoficzne i interdyscyplinarne badanie tego, jak zwyczajne ludzkie skłonności pełnią użyteczne funkcje, zmieniają się pod wpływem okoliczności, łączą się ze sobą i w określonych konfiguracjach zaczynają działać przeciwko człowiekowi. Punktem wyjścia jest siedem historycznych kategorii znanych jako „siedem grzechów głównych”: pycha, chciwość, pożądanie, zazdrość, obżarstwo, gniew oraz lenistwo / acedia. Dla SEVEN nie są one religijnym wyrokiem ani gotową klasyfikacją psychologiczną, lecz kulturowo trwałym zestawem nazw, który można poddać sprawdzeniu. Nie siedem wyroków na człowieka. Siedem historycznych nazw dla pytań, które dopiero trzeba sprawdzić. Wersja robocza strony · 13 października 2026 · rewizja 09 01 Główne pytanie Dlaczego mechanizm, który pomaga człowiekowi żyć, chronić się, osiągać, zachowywać lub mie
+
 ### pl/projects/voiceprint/index.html
 
 - lang: pl
@@ -14871,6 +14908,23 @@ Excerpt:
 Excerpt:
 
 > MY MEMORY Твоя пам’ять має належати тобі. Дослідницька й робоча інфраструктура безперервності для тривалої роботи з AI. 01 Втрата безперервності Питання Що залишається від тривалого людського проєкту, коли розмова закінчується, модель змінюється або система, яка допомагала в роботі, більше недоступна? Серйозний проєкт може пережити чат, окрему сесію, модель і з часом навіть AI-провайдера. Тоді рішення відокремлюються від причин, через які їх було прийнято, джерела зникають із висновків, зобов’язання випадають із поля зору, а застаріла інформація починає конкурувати з тим, що насправді є поточним станом. Проблема не зводиться до того, що AI «забуває». Глибше — історія самої роботи: що сталося, чому було прийнято рішення, що змінилося пізніше і який стан тепер є авторитетним, — може розпастися між системами, які ні людина, ні наступний AI вже не контролюють повністю. Що має зберегтися MY M
+
+### uk/projects/seven/index.html
+
+- lang: uk
+- section: projects
+- title: SEVEN — Дослідження людських вразливостей
+- description: SEVEN — незалежне філософське й міждисциплінарне дослідження людських вразливостей: їхніх функцій, взаємодій, переходу в ризик і ролі в мотивації та ухваленні рішень.
+- canonical: https://www.ashraellen.com/uk/projects/seven/
+- H1: SEVEN
+- H2: Коли людська схильність стає вразливістю? | Головне питання | Чому саме сім | Історична схема як дослідницький інструмент | Що порівнюється | Конкурентні пояснення | Що вже можна перевіряти, а що ще потрібно операціоналізувати | Роман як метод
+- H3: Спільний механізм | Система взаємодії | Динамічна конфігурація | Помилка класифікації
+- suggested keyword seed: seven, дослідження, projects, вже, вразливостей, людських, можна, питання, сім, ashraellen, greed, або, взаємодій, вразливістю, головне, дослідницький, інструмент, історична
+- candidates: seven, або, greed, дослідження, може, якщо, питання, сім, вже, лише, людини, можна, перевірки, після, роман, того, які, можуть, його, категорій, коли, людина, починає, пояснення
+
+Excerpt:
+
+> SEVEN Коли людська схильність стає вразливістю? SEVEN — незалежне філософське й міждисциплінарне дослідження того, як звичайні людські схильності виконують корисні функції, змінюються під впливом обставин, поєднуються між собою і в певних конфігураціях починають працювати проти людини. Відправна точка — сім історичних категорій, відомих як «сім смертних гріхів»: гординя, жадібність, хіть, заздрість, ненаситність, гнів і лінощі / acedia. Для SEVEN це не релігійний вирок і не готова психологічна класифікація, а культурно стійкий набір назв, який можна перевіряти. Не сім вироків людині. Сім історичних назв для питань, які ще належить перевірити. Робоча версія сторінки · 13 жовтня 2026 · редакція 09 01 Головне питання Чому механізм, який допомагає людині жити, захищатися, досягати, зберігати або сподіватися, інколи починає працювати проти неї? Що відбувається з функцією, інтенсивністю та зв’
 
 ### uk/projects/voiceprint/index.html
 
