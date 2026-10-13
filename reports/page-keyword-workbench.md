@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-13T14:34:25.926Z
-Pages: 874
+Generated: 2026-10-13T14:39:07.188Z
+Pages: 877
 
 ## Index
 
@@ -257,6 +257,7 @@ Pages: 874
 | es/privacy.html | es | privacy.html | Política de privacidad — Ashraellen | _missing_ | datos, del, política, privacidad, analítica, ashraellen, cookies, los, para, plataformas, qué, sitio, actualizaciones, ashraellen.com, base, compras, con, contacto |
 | es/professional/index.html | es | professional | Ashraellen — Dosier profesional | _missing_ | ashraellen, formas, investigación, líneas, del, dosier, método, obras, observación, paralelas, práctica, profesional, professional, públicas, seleccionadas, trabajo, artísticas, artístico-filosófica |
 | es/projects/my-memory/index.html | es | projects | MY MEMORY — continuidad bajo el control de la persona | _missing_ | continuidad, memory, bajo, control, memoria, persona, qué, cómo, por, projects, proyecto, actual, ashraellen, conservarse, debe, debería, decisiones, del |
+| es/projects/seven/index.html | es | projects | SEVEN — Investigación sobre las vulnerabilidades humanas | _missing_ | qué, seven, investigación, una, las, como, humanas, projects, puede, sobre, vulnerabilidades, ashraellen, central, compara, competencia, con, convierte, cuándo |
 | es/projects/voiceprint/index.html | es | projects | VOICEPRINT — ¿Dónde estoy yo en este flujo? | _missing_ | voiceprint, dónde, estoy, texto, una, autor, con, cuando, este, flujo, las, para, projects, que, qué, apareció, ashraellen, atp |
 | es/projects/whisper/index.html | es | projects | WHISPER — ¿Quién habla? | _missing_ | whisper, autoría, habla, ayuda, conversación, por, projects, quién, actual, agencia, artística, ashraellen, cinco, con, contratos, escuchar, estado, humana |
 | es/public/index.html | es | public | Ashraellen — Público | Ashraellen, campo público, intervenciones, publicaciones, pensamientos de apoyo, investigación, observaciones | público, apoyo, ashraellen, pensamientos, campo, con, donde, intervenciones, persona, public, publicaciones, abrir, encuentra, investigación, los, nuevos, observaciones, pensamiento |
@@ -404,6 +405,7 @@ Pages: 874
 | fr/privacy.html | fr | privacy.html | Politique de confidentialité — Ashraellen | _missing_ | confidentialité, politique, données, analyse, ashraellen, cookies, être, jour, services, achats, base, cette, collectées, contact, d’ashraellen.com, des, droits, externes |
 | fr/professional/index.html | fr | professional | Ashraellen — Dossier professionnel | _missing_ | ashraellen, formes, recherche, axes, d’observation, dossier, méthode, œuvres, parallèles, pratique, professional, professionnel, publiques, sélectionnées, travail, artistico-philosophique, artistiques, aujourd’hui |
 | fr/projects/my-memory/index.html | fr | projects | MY MEMORY — la continuité sous le contrôle de la personne | _missing_ | continuité, memory, contrôle, les, mémoire, personne, sous, comment, projects, projet, que, qui, rester, une, appartenir, ashraellen, cela, compte |
+| fr/projects/seven/index.html | fr | projects | SEVEN — Recherche sur les vulnérabilités humaines | _missing_ | seven, qui, recherche, une, est, les, comme, dans, être, humaines, leur, leurs, peut, projects, sur, vulnérabilités, ashraellen, centrale |
 | fr/projects/voiceprint/index.html | fr | projects | VOICEPRINT — Où suis-je dans ce flux ? | _missing_ | qui, voiceprint, dans, pas, suis-je, texte, une, auteur, être, flux, les, projects, que, afin, ashraellen, atp, avec, belles |
 | fr/projects/whisper/index.html | fr | projects | WHISPER — Qui parle ? | _missing_ | whisper, qui, conversation, est, l’auteur, l’ia, langue, parle, projects, actuel, agency, artistique, ashraellen, auteur, cinq, contrats, d’assistance, dans |
 | fr/public/index.html | fr | public | Ashraellen — Public | Ashraellen, champ public, interventions, publications, pensées d’appui, recherche, observations | public, ashraellen, d’appui, pensées, interventions, personne, publications, avec, champ, dans, elle, les, nouvelles, observations, ouvrir, pas, pensée, projets |
@@ -584,6 +586,7 @@ Pages: 874
 | pt/privacy.html | pt | privacy.html | Política de privacidade — Ashraellen | _missing_ | dados, política, privacidade, análise, que, ashraellen, cookies, para, plataformas, podem, ser, ashraellen.com, atualizações, base, com, compras, contacto, direitos |
 | pt/professional/index.html | pt | professional | Ashraellen — Dossiê profissional | _missing_ | ashraellen, formas, investigação, como, dossiê, linhas, método, obras, observação, paralelas, prática, professional, profissional, públicas, selecionadas, trabalho, artísticas, artístico-filosófica |
 | pt/projects/my-memory/index.html | pt | projects | MY MEMORY — continuidade sob controlo da pessoa | _missing_ | continuidade, memory, controlo, memória, pessoa, sob, como, deve, projects, projeto, que, ashraellen, atual, com, continuar, decisões, duradoura, enquanto |
+| pt/projects/seven/index.html | pt | projects | SEVEN — Investigação sobre vulnerabilidades humanas | _missing_ | que, seven, investigação, uma, como, ser, humanas, pode, projects, sobre, vulnerabilidades, ainda, ashraellen, central, comparado, concorrentes, decisões, esquema |
 | pt/projects/voiceprint/index.html | pt | projects | VOICEPRINT — Onde estou eu neste fluxo? | _missing_ | voiceprint, estou, não, onde, que, texto, uma, autor, fluxo, neste, para, projects, quando, quem, ser, ashraellen, atp, atravessa |
 | pt/projects/whisper/index.html | pt | projects | WHISPER — Quem está a falar? | _missing_ | whisper, autoria, está, falar, por, projects, quem, agência, artística, ashraellen, assistência, atual, cinco, contratos, conversa, conversação, escutar, estado |
 | pt/public/index.html | pt | public | Ashraellen — Público | Ashraellen, campo público, falas, publicações, pensamentos de apoio, pesquisa, observações | público, apoio, ashraellen, pensamentos, campo, falas, onde, pessoa, public, publicações, abrir, com, encontra, não, novos, observações, pensamento, pesquisa |
@@ -5134,6 +5137,23 @@ Excerpt:
 
 > MY MEMORY Tu memoria debería pertenecerte. Una infraestructura de investigación y trabajo para mantener la continuidad en proyectos de larga duración asistidos por AI. 01 Pérdida de continuidad La pregunta ¿Qué queda de un proyecto humano de larga duración cuando termina la conversación, cambia el modelo o deja de estar disponible el sistema que ayudaba en el trabajo? Un proyecto serio puede durar más que un chat, una sesión, un modelo y, con el tiempo, incluso más que un proveedor de AI. Entonces las decisiones se separan de las razones por las que fueron tomadas, las fuentes desaparecen de las conclusiones, los compromisos salen del campo de visión y la información obsoleta comienza a competir con aquello que realmente constituye el estado actual. El problema no se reduce a que la AI «olvide». Más profundamente, la historia misma del trabajo —qué ocurrió, por qué se tomó una decisión, 
 
+### es/projects/seven/index.html
+
+- lang: es
+- section: projects
+- title: SEVEN — Investigación sobre las vulnerabilidades humanas
+- description: SEVEN es una investigación filosófica e interdisciplinaria independiente sobre las vulnerabilidades humanas: sus funciones, interacciones, transformación en riesgo y papel en la motivación y la toma de decisiones.
+- canonical: https://www.ashraellen.com/es/projects/seven/
+- H1: SEVEN
+- H2: ¿Cuándo una tendencia humana se convierte en una vulnerabilidad? | La pregunta central | ¿Por qué siete? | Un esquema histórico como instrumento de investigación | Qué se compara | Explicaciones en competencia | Qué puede probarse ya y qué debe operacionalizarse todavía | La novela como método
+- H3: Un mecanismo común | Un sistema interactivo | Una configuración dinámica | Un error de clasificación
+- suggested keyword seed: qué, seven, investigación, una, las, como, humanas, projects, puede, sobre, vulnerabilidades, ashraellen, central, compara, competencia, con, convierte, cuándo
+- candidates: una, que, qué, seven, del, para, las, con, los, persona, investigación, puede, como, greed, prueba, cómo, por, pueden, siete, más, sino, trabajo, contexto, entre
+
+Excerpt:
+
+> SEVEN ¿Cuándo una tendencia humana se convierte en una vulnerabilidad? SEVEN es una investigación filosófica e interdisciplinaria independiente sobre cómo las tendencias humanas ordinarias cumplen funciones útiles, cambian bajo la presión de las circunstancias, se combinan entre sí y, en determinadas configuraciones, empiezan a actuar contra la propia persona a la que antes servían. Su punto de partida son siete categorías históricas conocidas como los «siete pecados capitales»: soberbia, avaricia, lujuria, envidia, gula, ira y pereza / acedia. Para SEVEN no son veredictos religiosos ni una taxonomía psicológica ya resuelta, sino un conjunto culturalmente persistente de nombres que puede someterse a prueba. No siete veredictos sobre una persona. Siete nombres históricos para preguntas que todavía deben ponerse a prueba. Versión de trabajo · 13 de octubre de 2026 · revisión 09 01 La pregu
+
 ### es/projects/voiceprint/index.html
 
 - lang: es
@@ -7632,6 +7652,23 @@ Excerpt:
 Excerpt:
 
 > MY MEMORY Votre mémoire devrait vous appartenir. Une infrastructure de recherche et de travail pour la continuité des projets de longue durée assistés par AI. 01 Perte de continuité La question Que reste-t-il d’un projet humain de longue durée lorsque la conversation s’achève, que le modèle change ou que le système qui aidait au travail n’est plus disponible ? Un projet sérieux peut survivre à un chat, une session, un modèle et, avec le temps, même à un fournisseur d’AI. Les décisions se séparent alors des raisons qui les ont produites, les sources disparaissent des conclusions, les engagements sortent du champ de vision et les informations obsolètes commencent à rivaliser avec ce qui constitue réellement l’état actuel. Le problème ne se réduit pas au fait que l’AI « oublie ». Plus profondément, l’histoire même du travail — ce qui s’est passé, pourquoi une décision a été prise, ce qui a 
+
+### fr/projects/seven/index.html
+
+- lang: fr
+- section: projects
+- title: SEVEN — Recherche sur les vulnérabilités humaines
+- description: SEVEN est une recherche philosophique et interdisciplinaire indépendante sur les vulnérabilités humaines : leurs fonctions, leurs interactions, leur transformation en risque et leur rôle dans la motivation et la prise de décision.
+- canonical: https://www.ashraellen.com/fr/projects/seven/
+- H1: SEVEN
+- H2: Quand une tendance humaine devient-elle une vulnérabilité ? | La question centrale | Pourquoi sept ? | Un schéma historique comme instrument de recherche | Ce qui est comparé | Explications concurrentes | Ce qui peut déjà être testé et ce qui doit encore être opérationnalisé | Le roman comme méthode
+- H3: Un mécanisme commun | Un système interactif | Une configuration dynamique | Une erreur de classification
+- suggested keyword seed: seven, qui, recherche, une, est, les, comme, dans, être, humaines, leur, leurs, peut, projects, sur, vulnérabilités, ashraellen, centrale
+- candidates: une, des, les, est, pas, qui, seven, recherche, dans, personne, peut, greed, mais, pour, que, comme, être, d’une, sept, peuvent, n’est, travail, comment, contexte
+
+Excerpt:
+
+> SEVEN Quand une tendance humaine devient-elle une vulnérabilité ? SEVEN est une recherche philosophique et interdisciplinaire indépendante sur la manière dont des tendances humaines ordinaires remplissent des fonctions utiles, se transforment sous la pression des circonstances, se combinent entre elles et, dans certaines configurations, commencent à agir contre la personne qu’elles servaient auparavant. Son point de départ est constitué de sept catégories historiques connues comme les « sept péchés capitaux » : orgueil, avarice, luxure, envie, gourmandise, colère et paresse / acédie. Pour SEVEN, il ne s’agit ni de verdicts religieux ni d’une taxonomie psychologique toute faite, mais d’un ensemble de noms culturellement persistants que l’on peut soumettre à l’épreuve. Pas sept verdicts sur l’être humain. Sept noms historiques pour des questions qui restent à tester. Version de travail · 1
 
 ### fr/projects/voiceprint/index.html
 
@@ -10692,6 +10729,23 @@ Excerpt:
 Excerpt:
 
 > MY MEMORY A tua memória deve pertencer-te. Uma infraestrutura de investigação e trabalho para continuidade em projetos de longa duração assistidos por AI. 01 Perda de continuidade A pergunta O que resta de um projeto humano de longa duração quando a conversa termina, o modelo muda ou o sistema que ajudava no trabalho deixa de estar disponível? Um projeto sério pode durar mais do que um chat, uma sessão, um modelo e, com o tempo, até mais do que um fornecedor de AI. Nessa altura, as decisões separam-se das razões que as produziram, as fontes desaparecem das conclusões, os compromissos saem do campo de visão e a informação desatualizada começa a competir com aquilo que realmente constitui o estado atual. O problema não se reduz ao facto de a AI «esquecer». Mais profundamente, a própria história do trabalho — o que aconteceu, por que razão uma decisão foi tomada, o que mudou depois e qual e
+
+### pt/projects/seven/index.html
+
+- lang: pt
+- section: projects
+- title: SEVEN — Investigação sobre vulnerabilidades humanas
+- description: SEVEN é uma investigação filosófica e interdisciplinar independente sobre vulnerabilidades humanas: suas funções, interações, transformação em risco e papel na motivação e na tomada de decisões.
+- canonical: https://www.ashraellen.com/pt/projects/seven/
+- H1: SEVEN
+- H2: Quando uma tendência humana se torna uma vulnerabilidade? | A pergunta central | Por que sete? | Um esquema histórico como instrumento de investigação | O que é comparado | Explicações concorrentes | O que já pode ser testado e o que ainda precisa ser operacionalizado | O romance como método
+- H3: Um mecanismo comum | Um sistema de interação | Uma configuração dinâmica | Um erro de classificação
+- suggested keyword seed: que, seven, investigação, uma, como, ser, humanas, pode, projects, sobre, vulnerabilidades, ainda, ashraellen, central, comparado, concorrentes, decisões, esquema
+- candidates: uma, que, não, como, seven, para, ser, investigação, pessoa, greed, pode, mas, sete, podem, por, apenas, mais, com, estrutura, trabalho, vulnerabilidade, contexto, interação, motivos
+
+Excerpt:
+
+> SEVEN Quando uma tendência humana se torna uma vulnerabilidade? SEVEN é uma investigação filosófica e interdisciplinar independente sobre como tendências humanas comuns cumprem funções úteis, mudam sob a pressão das circunstâncias, combinam-se entre si e, em certas configurações, começam a agir contra a própria pessoa a quem antes serviam. O ponto de partida são sete categorias históricas conhecidas como os “sete pecados capitais”: orgulho, avareza, luxúria, inveja, gula, ira e preguiça / acedia. Para SEVEN, elas não são veredictos religiosos nem uma taxonomia psicológica pronta, mas um conjunto culturalmente persistente de nomes que pode ser testado. Não sete veredictos sobre uma pessoa. Sete nomes históricos para perguntas que ainda precisam ser testadas. Página em desenvolvimento · 13 de outubro de 2026 · revisão 09 01 A pergunta central Por que um mecanismo que ajuda uma pessoa a viv
 
 ### pt/projects/voiceprint/index.html
 

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-13T14:34:25.913Z",
+  "generated": "2026-10-13T14:39:07.172Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -18719,6 +18719,86 @@
       ]
     },
     {
+      "page": "es/projects/seven/index.html",
+      "lang": "es",
+      "section": "projects",
+      "title": "SEVEN — Investigación sobre las vulnerabilidades humanas",
+      "description": "SEVEN es una investigación filosófica e interdisciplinaria independiente sobre las vulnerabilidades humanas: sus funciones, interacciones, transformación en riesgo y papel en la motivación y la toma de decisiones.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/es/projects/seven/",
+      "h1": [
+        "SEVEN"
+      ],
+      "h2": [
+        "¿Cuándo una tendencia humana se convierte en una vulnerabilidad?",
+        "La pregunta central",
+        "¿Por qué siete?",
+        "Un esquema histórico como instrumento de investigación",
+        "Qué se compara",
+        "Explicaciones en competencia",
+        "Qué puede probarse ya y qué debe operacionalizarse todavía",
+        "La novela como método"
+      ],
+      "h3": [
+        "Un mecanismo común",
+        "Un sistema interactivo",
+        "Una configuración dinámica",
+        "Un error de clasificación"
+      ],
+      "slugTerms": [
+        "es",
+        "projects",
+        "seven"
+      ],
+      "excerpt": "SEVEN ¿Cuándo una tendencia humana se convierte en una vulnerabilidad? SEVEN es una investigación filosófica e interdisciplinaria independiente sobre cómo las tendencias humanas ordinarias cumplen funciones útiles, cambian bajo la presión de las circunstancias, se combinan entre sí y, en determinadas configuraciones, empiezan a actuar contra la propia persona a la que antes servían. Su punto de partida son siete categorías históricas conocidas como los «siete pecados capitales»: soberbia, avaricia, lujuria, envidia, gula, ira y pereza / acedia. Para SEVEN no son veredictos religiosos ni una taxonomía psicológica ya resuelta, sino un conjunto culturalmente persistente de nombres que puede someterse a prueba. No siete veredictos sobre una persona. Siete nombres históricos para preguntas que todavía deben ponerse a prueba. Versión de trabajo · 13 de octubre de 2026 · revisión 09 01 La pregu",
+      "candidates": [
+        "una",
+        "que",
+        "qué",
+        "seven",
+        "del",
+        "para",
+        "las",
+        "con",
+        "los",
+        "persona",
+        "investigación",
+        "puede",
+        "como",
+        "greed",
+        "prueba",
+        "cómo",
+        "por",
+        "pueden",
+        "siete",
+        "más",
+        "sino",
+        "trabajo",
+        "contexto",
+        "entre"
+      ],
+      "suggestedKeywordSeed": [
+        "qué",
+        "seven",
+        "investigación",
+        "una",
+        "las",
+        "como",
+        "humanas",
+        "projects",
+        "puede",
+        "sobre",
+        "vulnerabilidades",
+        "ashraellen",
+        "central",
+        "compara",
+        "competencia",
+        "con",
+        "convierte",
+        "cuándo"
+      ]
+    },
+    {
       "page": "es/projects/voiceprint/index.html",
       "lang": "es",
       "section": "projects",
@@ -29689,6 +29769,86 @@
         "ashraellen",
         "cela",
         "compte"
+      ]
+    },
+    {
+      "page": "fr/projects/seven/index.html",
+      "lang": "fr",
+      "section": "projects",
+      "title": "SEVEN — Recherche sur les vulnérabilités humaines",
+      "description": "SEVEN est une recherche philosophique et interdisciplinaire indépendante sur les vulnérabilités humaines : leurs fonctions, leurs interactions, leur transformation en risque et leur rôle dans la motivation et la prise de décision.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/fr/projects/seven/",
+      "h1": [
+        "SEVEN"
+      ],
+      "h2": [
+        "Quand une tendance humaine devient-elle une vulnérabilité ?",
+        "La question centrale",
+        "Pourquoi sept ?",
+        "Un schéma historique comme instrument de recherche",
+        "Ce qui est comparé",
+        "Explications concurrentes",
+        "Ce qui peut déjà être testé et ce qui doit encore être opérationnalisé",
+        "Le roman comme méthode"
+      ],
+      "h3": [
+        "Un mécanisme commun",
+        "Un système interactif",
+        "Une configuration dynamique",
+        "Une erreur de classification"
+      ],
+      "slugTerms": [
+        "fr",
+        "projects",
+        "seven"
+      ],
+      "excerpt": "SEVEN Quand une tendance humaine devient-elle une vulnérabilité ? SEVEN est une recherche philosophique et interdisciplinaire indépendante sur la manière dont des tendances humaines ordinaires remplissent des fonctions utiles, se transforment sous la pression des circonstances, se combinent entre elles et, dans certaines configurations, commencent à agir contre la personne qu’elles servaient auparavant. Son point de départ est constitué de sept catégories historiques connues comme les « sept péchés capitaux » : orgueil, avarice, luxure, envie, gourmandise, colère et paresse / acédie. Pour SEVEN, il ne s’agit ni de verdicts religieux ni d’une taxonomie psychologique toute faite, mais d’un ensemble de noms culturellement persistants que l’on peut soumettre à l’épreuve. Pas sept verdicts sur l’être humain. Sept noms historiques pour des questions qui restent à tester. Version de travail · 1",
+      "candidates": [
+        "une",
+        "des",
+        "les",
+        "est",
+        "pas",
+        "qui",
+        "seven",
+        "recherche",
+        "dans",
+        "personne",
+        "peut",
+        "greed",
+        "mais",
+        "pour",
+        "que",
+        "comme",
+        "être",
+        "d’une",
+        "sept",
+        "peuvent",
+        "n’est",
+        "travail",
+        "comment",
+        "contexte"
+      ],
+      "suggestedKeywordSeed": [
+        "seven",
+        "qui",
+        "recherche",
+        "une",
+        "est",
+        "les",
+        "comme",
+        "dans",
+        "être",
+        "humaines",
+        "leur",
+        "leurs",
+        "peut",
+        "projects",
+        "sur",
+        "vulnérabilités",
+        "ashraellen",
+        "centrale"
       ]
     },
     {
@@ -43035,6 +43195,86 @@
         "decisões",
         "duradoura",
         "enquanto"
+      ]
+    },
+    {
+      "page": "pt/projects/seven/index.html",
+      "lang": "pt",
+      "section": "projects",
+      "title": "SEVEN — Investigação sobre vulnerabilidades humanas",
+      "description": "SEVEN é uma investigação filosófica e interdisciplinar independente sobre vulnerabilidades humanas: suas funções, interações, transformação em risco e papel na motivação e na tomada de decisões.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/pt/projects/seven/",
+      "h1": [
+        "SEVEN"
+      ],
+      "h2": [
+        "Quando uma tendência humana se torna uma vulnerabilidade?",
+        "A pergunta central",
+        "Por que sete?",
+        "Um esquema histórico como instrumento de investigação",
+        "O que é comparado",
+        "Explicações concorrentes",
+        "O que já pode ser testado e o que ainda precisa ser operacionalizado",
+        "O romance como método"
+      ],
+      "h3": [
+        "Um mecanismo comum",
+        "Um sistema de interação",
+        "Uma configuração dinâmica",
+        "Um erro de classificação"
+      ],
+      "slugTerms": [
+        "pt",
+        "projects",
+        "seven"
+      ],
+      "excerpt": "SEVEN Quando uma tendência humana se torna uma vulnerabilidade? SEVEN é uma investigação filosófica e interdisciplinar independente sobre como tendências humanas comuns cumprem funções úteis, mudam sob a pressão das circunstâncias, combinam-se entre si e, em certas configurações, começam a agir contra a própria pessoa a quem antes serviam. O ponto de partida são sete categorias históricas conhecidas como os “sete pecados capitais”: orgulho, avareza, luxúria, inveja, gula, ira e preguiça / acedia. Para SEVEN, elas não são veredictos religiosos nem uma taxonomia psicológica pronta, mas um conjunto culturalmente persistente de nomes que pode ser testado. Não sete veredictos sobre uma pessoa. Sete nomes históricos para perguntas que ainda precisam ser testadas. Página em desenvolvimento · 13 de outubro de 2026 · revisão 09 01 A pergunta central Por que um mecanismo que ajuda uma pessoa a viv",
+      "candidates": [
+        "uma",
+        "que",
+        "não",
+        "como",
+        "seven",
+        "para",
+        "ser",
+        "investigação",
+        "pessoa",
+        "greed",
+        "pode",
+        "mas",
+        "sete",
+        "podem",
+        "por",
+        "apenas",
+        "mais",
+        "com",
+        "estrutura",
+        "trabalho",
+        "vulnerabilidade",
+        "contexto",
+        "interação",
+        "motivos"
+      ],
+      "suggestedKeywordSeed": [
+        "que",
+        "seven",
+        "investigação",
+        "uma",
+        "como",
+        "ser",
+        "humanas",
+        "pode",
+        "projects",
+        "sobre",
+        "vulnerabilidades",
+        "ainda",
+        "ashraellen",
+        "central",
+        "comparado",
+        "concorrentes",
+        "decisões",
+        "esquema"
       ]
     },
     {
