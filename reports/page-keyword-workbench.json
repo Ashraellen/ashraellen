@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-13T14:39:07.172Z",
+  "generated": "2026-10-13T14:44:27.697Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -1781,6 +1781,86 @@
         "ashraellen",
         "або",
         "аднаўляльнымі"
+      ]
+    },
+    {
+      "page": "be/projects/seven/index.html",
+      "lang": "be",
+      "section": "projects",
+      "title": "SEVEN — Даследаванне чалавечых уразлівасцяў",
+      "description": "SEVEN — незалежнае філасофскае і міждысцыплінарнае даследаванне чалавечых уразлівасцяў: іх функцый, узаемадзеянняў, пераходу ў рызыку і ролі ў матывацыі ды прыняцці рашэнняў.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/be/projects/seven/",
+      "h1": [
+        "SEVEN"
+      ],
+      "h2": [
+        "Калі чалавечая схільнасць становіцца ўразлівасцю?",
+        "Галоўнае пытанне",
+        "Чаму менавіта сем?",
+        "Гістарычная схема як даследчы інструмент",
+        "Што параўноўваецца",
+        "Канкурэнтныя тлумачэнні",
+        "Што ўжо можна правяраць, а што яшчэ трэба аперацыяналізаваць",
+        "Раман як метад"
+      ],
+      "h3": [
+        "Агульны механізм",
+        "Сістэма ўзаемадзеяння",
+        "Дынамічная канфігурацыя",
+        "Памылка класіфікацыі"
+      ],
+      "slugTerms": [
+        "be",
+        "projects",
+        "seven"
+      ],
+      "excerpt": "SEVEN Калі чалавечая схільнасць становіцца ўразлівасцю? SEVEN — незалежнае філасофскае і міждысцыплінарнае даследаванне таго, як звычайныя чалавечыя схільнасці выконваюць карысныя функцыі, змяняюцца пад уплывам абставінаў, спалучаюцца паміж сабой і ў пэўных канфігурацыях пачынаюць працаваць супраць чалавека. Адпраўная кропка — сем гістарычных катэгорый, вядомых як «сем смяротных грахоў»: пыха, сквапнасць, пажадлівасць, зайздрасць, абжорства, гнеў і лянота / acedia. Для SEVEN гэта не рэлігійныя прысуды і не гатовая псіхалагічная таксаномія, а культурна ўстойлівы набор назваў, які можна правяраць. Не сем прысудаў чалавеку. Сем гістарычных назваў для пытанняў, якія яшчэ трэба праверыць. Рабочая версія старонкі · 13 кастрычніка 2026 · рэдакцыя 09 01 Галоўнае пытанне Чаму механізм, які дапамагае чалавеку жыць, абараняцца, дасягаць, захоўваць або спадзявацца, часам пачынае працаваць супраць яг",
+      "candidates": [
+        "seven",
+        "або",
+        "greed",
+        "калі",
+        "даследаванне",
+        "можа",
+        "чалавека",
+        "можна",
+        "якія",
+        "таго",
+        "сем",
+        "толькі",
+        "яго",
+        "пакуль",
+        "пасля",
+        "раман",
+        "трэба",
+        "які",
+        "могуць",
+        "праверкі",
+        "ўжо",
+        "дзе",
+        "пачынае",
+        "пытанне"
+      ],
+      "suggestedKeywordSeed": [
+        "seven",
+        "даследаванне",
+        "projects",
+        "калі",
+        "можна",
+        "сем",
+        "уразлівасцяў",
+        "чалавечых",
+        "ashraellen",
+        "greed",
+        "або",
+        "аперацыяналізаваць",
+        "галоўнае",
+        "гістарычная",
+        "даследчы",
+        "інструмент",
+        "канкурэнтныя",
+        "матывацыі"
       ]
     },
     {
@@ -7083,6 +7163,86 @@
         "ai-sitzungen",
         "anbieter",
         "ashraellen"
+      ]
+    },
+    {
+      "page": "de/projects/seven/index.html",
+      "lang": "de",
+      "section": "projects",
+      "title": "SEVEN — Forschung zu menschlichen Verwundbarkeiten",
+      "description": "SEVEN ist eine unabhängige philosophische und interdisziplinäre Untersuchung menschlicher Verwundbarkeiten: ihrer Funktionen, Wechselwirkungen, ihres Übergangs in Risiko sowie ihrer Rolle bei Motivation und Entscheidungen.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/de/projects/seven/",
+      "h1": [
+        "SEVEN"
+      ],
+      "h2": [
+        "Wann wird eine menschliche Tendenz zur Verwundbarkeit?",
+        "Die zentrale Frage",
+        "Warum sieben?",
+        "Ein historisches Schema als Forschungsinstrument",
+        "Was verglichen wird",
+        "Konkurrierende Erklärungen",
+        "Was bereits prüfbar ist und was noch operationalisiert werden muss",
+        "Der Roman als Methode"
+      ],
+      "h3": [
+        "Ein gemeinsamer Mechanismus",
+        "Ein interagierendes System",
+        "Eine dynamische Konfiguration",
+        "Ein Klassifikationsfehler"
+      ],
+      "slugTerms": [
+        "de",
+        "projects",
+        "seven"
+      ],
+      "excerpt": "SEVEN Wann wird eine menschliche Tendenz zur Verwundbarkeit? SEVEN untersucht unabhängig, philosophisch und interdisziplinär, wie gewöhnliche menschliche Tendenzen nützliche Funktionen erfüllen, sich unter dem Druck von Umständen verändern, miteinander verbinden und in bestimmten Konfigurationen beginnen, gegen die Person zu wirken, der sie zuvor dienten. Ausgangspunkt sind sieben historische Kategorien, die als „sieben Todsünden“ bekannt sind: Hochmut, Habgier, Wollust, Neid, Völlerei, Zorn und Trägheit / acedia. Für SEVEN sind dies weder religiöse Urteile noch eine fertige psychologische Taxonomie, sondern kulturell langlebige Bezeichnungen, die sich prüfen lassen. Nicht sieben Urteile über einen Menschen. Sieben historische Namen für Fragen, die erst noch geprüft werden müssen. Arbeitsversion · 13. Oktober 2026 · Revision 09 01 Die zentrale Frage Warum beginnt ein Mechanismus, der ein",
+      "candidates": [
+        "die",
+        "und",
+        "der",
+        "ein",
+        "eine",
+        "ist",
+        "nicht",
+        "sich",
+        "seven",
+        "von",
+        "das",
+        "oder",
+        "werden",
+        "als",
+        "für",
+        "mit",
+        "wird",
+        "des",
+        "kann",
+        "sondern",
+        "wenn",
+        "wie",
+        "dem",
+        "einen"
+      ],
+      "suggestedKeywordSeed": [
+        "seven",
+        "und",
+        "eine",
+        "ist",
+        "was",
+        "als",
+        "der",
+        "die",
+        "ein",
+        "ihrer",
+        "projects",
+        "verwundbarkeiten",
+        "wird",
+        "ashraellen",
+        "bei",
+        "bereits",
+        "das",
+        "entscheidungen"
       ]
     },
     {
@@ -24185,6 +24345,86 @@
         "jatkuvuuden",
         "kun",
         "kuulua"
+      ]
+    },
+    {
+      "page": "fi/projects/seven/index.html",
+      "lang": "fi",
+      "section": "projects",
+      "title": "SEVEN — Tutkimus ihmisen haavoittuvuuksista",
+      "description": "SEVEN on riippumaton filosofinen ja monitieteinen tutkimus ihmisen haavoittuvuuksista: niiden tehtävistä, vuorovaikutuksista, muuttumisesta riskiksi sekä roolista motivaatiossa ja päätöksenteossa.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/fi/projects/seven/",
+      "h1": [
+        "SEVEN"
+      ],
+      "h2": [
+        "Milloin inhimillinen taipumus muuttuu haavoittuvuudeksi?",
+        "Keskeinen kysymys",
+        "Miksi juuri seitsemän?",
+        "Historiallinen malli tutkimusvälineenä",
+        "Mitä verrataan",
+        "Kilpailevat selitykset",
+        "Mitä voidaan jo testata ja mitä pitää vielä operationalisoida",
+        "Romaani menetelmänä"
+      ],
+      "h3": [
+        "Yhteinen mekanismi",
+        "Vuorovaikuttava järjestelmä",
+        "Dynaaminen kokoonpano",
+        "Luokitteluvirhe"
+      ],
+      "slugTerms": [
+        "fi",
+        "projects",
+        "seven"
+      ],
+      "excerpt": "SEVEN Milloin inhimillinen taipumus muuttuu haavoittuvuudeksi? SEVEN tutkii riippumattomasti, filosofisesti ja monitieteisesti sitä, miten tavalliset inhimilliset taipumukset palvelevat hyödyllisiä tehtäviä, muuttuvat olosuhteiden paineessa, yhdistyvät toisiinsa ja alkavat tietyissä kokoonpanoissa toimia sitä ihmistä vastaan, jota ne aiemmin palvelivat. Lähtökohtana on seitsemän historiallista luokkaa, jotka tunnetaan “seitsemänä kuolemansyntinä”: ylpeys, ahneus, himo, kateus, mässäily, viha ja laiskuus / acedia. SEVENille ne eivät ole uskonnollisia tuomioita eivätkä valmis psykologinen luokittelu, vaan kulttuurisesti sitkeä nimistö, jota voidaan testata. Ei seitsemää tuomiota ihmisestä. Seitsemän historiallista nimeä kysymyksille, jotka on vielä testattava. Työversio · 13. lokakuuta 2026 · versio 09 01 Keskeinen kysymys Miksi mekanismi, joka auttaa ihmistä elämään, suojelemaan itseään, ",
+      "candidates": [
+        "tai",
+        "voi",
+        "seven",
+        "ole",
+        "sen",
+        "miten",
+        "vaan",
+        "greed",
+        "joka",
+        "tutkimus",
+        "vain",
+        "jos",
+        "mitä",
+        "sitä",
+        "ihmisen",
+        "mikä",
+        "voidaan",
+        "eri",
+        "että",
+        "pitäisi",
+        "sevenin",
+        "voivat",
+        "ihminen",
+        "jälkeen"
+      ],
+      "suggestedKeywordSeed": [
+        "seven",
+        "mitä",
+        "tutkimus",
+        "haavoittuvuuksista",
+        "ihmisen",
+        "projects",
+        "ashraellen",
+        "filosofinen",
+        "greed",
+        "haavoittuvuudeksi",
+        "historiallinen",
+        "inhimillinen",
+        "joka",
+        "jos",
+        "juuri",
+        "keskeinen",
+        "kilpailevat",
+        "kysymys"
       ]
     },
     {
