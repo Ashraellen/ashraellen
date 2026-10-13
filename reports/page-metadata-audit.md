@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-10-13T10:16:30.317Z
+Generated: 2026-10-13T10:18:05.302Z
 
 Pages checked: 872
 Pages with issues: 384
-Total issues: 1817
+Total issues: 1815
 Pages with review notes: 670
 Total review notes: 2400
 
@@ -29,8 +29,8 @@ Total review notes: 2400
 | DUPLICATE_KEYWORDS | 27 |
 | DESCRIPTION_TOO_SHORT | 20 |
 | DESCRIPTION_TOO_LONG | 4 |
-| DUPLICATE_DESCRIPTION | 3 |
-| DUPLICATE_OG_DESCRIPTION | 3 |
+| DUPLICATE_DESCRIPTION | 2 |
+| DUPLICATE_OG_DESCRIPTION | 2 |
 
 
 ## Review note summary
@@ -3831,10 +3831,10 @@ Total review notes: 2400
 
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 3 pages
-- DUPLICATE_DESCRIPTION: shared by 3 pages
+- DUPLICATE_DESCRIPTION: shared by 2 pages
 - DUPLICATE_CANONICAL: shared by 3 pages
 - DUPLICATE_OG_TITLE: shared by 3 pages
-- DUPLICATE_OG_DESCRIPTION: shared by 3 pages
+- DUPLICATE_OG_DESCRIPTION: shared by 2 pages
 
 ### ru/projects/seven/index-02.html
 
@@ -3846,25 +3846,23 @@ Total review notes: 2400
 
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 3 pages
-- DUPLICATE_DESCRIPTION: shared by 3 pages
+- DUPLICATE_DESCRIPTION: shared by 2 pages
 - DUPLICATE_CANONICAL: shared by 3 pages
 - DUPLICATE_OG_TITLE: shared by 3 pages
-- DUPLICATE_OG_DESCRIPTION: shared by 3 pages
+- DUPLICATE_OG_DESCRIPTION: shared by 2 pages
 
 ### ru/projects/seven/index.html
 
 - title: SEVEN — Исследование человеческих уязвимостей
-- description length: 156
+- description length: 176
 - canonical: https://www.ashraellen.com/ru/projects/seven/
 - og:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
 
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 3 pages
-- DUPLICATE_DESCRIPTION: shared by 3 pages
 - DUPLICATE_CANONICAL: shared by 3 pages
 - DUPLICATE_OG_TITLE: shared by 3 pages
-- DUPLICATE_OG_DESCRIPTION: shared by 3 pages
 
 ### ru/projects/voiceprint/index.html
 
