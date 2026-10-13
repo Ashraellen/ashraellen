@@ -219,3 +219,46 @@ a:hover{text-decoration:underline}
   .content > h2{ margin:20px 0 8px; line-height:var(--lh-body); }
   .lead{ line-height:var(--lh-body); margin-bottom:11px; }
 }
+
+
+/* SEVEN — local project identity; background is confined to the card. */
+.current-research-grid{
+  grid-template-columns:repeat(2,minmax(220px,1fr));
+}
+
+.seven-project-card{
+  position:relative;
+  overflow:hidden;
+  isolation:isolate;
+  background:rgba(0,0,0,.38);
+}
+
+.seven-project-card::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:url("backgrounds/seven-human-vulnerabilities.webp") center/cover no-repeat;
+  filter:brightness(.52) saturate(.74) contrast(1.04);
+  transform:scale(1.015);
+  z-index:-2;
+}
+
+.seven-project-card::after{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:linear-gradient(90deg,rgba(7,7,9,.88),rgba(7,7,9,.66) 62%,rgba(7,7,9,.46));
+  z-index:-1;
+}
+
+.seven-project-card:hover{
+  background:rgba(0,0,0,.38);
+}
+
+.seven-project-card p{
+  color:rgba(242,242,244,.82);
+}
+
+@media (max-width:900px){
+  .current-research-grid{grid-template-columns:1fr}
+}
