@@ -1,18 +1,18 @@
 # Page Metadata Audit
 
-Generated: 2026-10-13T10:00:14.225Z
+Generated: 2026-10-13T10:16:30.317Z
 
-Pages checked: 871
-Pages with issues: 383
-Total issues: 1811
-Pages with review notes: 669
-Total review notes: 2398
+Pages checked: 872
+Pages with issues: 384
+Total issues: 1817
+Pages with review notes: 670
+Total review notes: 2400
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 269 |
+| MISSING_KEYWORDS | 270 |
 | MISSING_TWITTER_IMAGE | 193 |
 | MISSING_TWITTER_CARD | 179 |
 | MISSING_JSON_LD | 174 |
@@ -20,25 +20,25 @@ Total review notes: 2398
 | MISSING_OG_IMAGE | 173 |
 | MISSING_OG_TITLE | 172 |
 | MISSING_DESCRIPTION | 123 |
-| DUPLICATE_CANONICAL | 70 |
-| DUPLICATE_TITLE | 61 |
-| DUPLICATE_OG_TITLE | 59 |
+| DUPLICATE_CANONICAL | 71 |
+| DUPLICATE_TITLE | 62 |
+| DUPLICATE_OG_TITLE | 60 |
 | MISSING_CANONICAL | 47 |
 | OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 31 |
 | TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 31 |
 | DUPLICATE_KEYWORDS | 27 |
 | DESCRIPTION_TOO_SHORT | 20 |
 | DESCRIPTION_TOO_LONG | 4 |
-| DUPLICATE_DESCRIPTION | 2 |
-| DUPLICATE_OG_DESCRIPTION | 2 |
+| DUPLICATE_DESCRIPTION | 3 |
+| DUPLICATE_OG_DESCRIPTION | 3 |
 
 
 ## Review note summary
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 669 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 649 |
+| DUPLICATE_OG_IMAGE_REVIEW | 670 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 650 |
 | FALLBACK_OG_IMAGE_USED | 550 |
 | FALLBACK_TWITTER_IMAGE_USED | 530 |
 
@@ -3830,11 +3830,26 @@ Total review notes: 2398
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
 
 - MISSING_KEYWORDS
-- DUPLICATE_TITLE: shared by 2 pages
-- DUPLICATE_DESCRIPTION: shared by 2 pages
-- DUPLICATE_CANONICAL: shared by 2 pages
-- DUPLICATE_OG_TITLE: shared by 2 pages
-- DUPLICATE_OG_DESCRIPTION: shared by 2 pages
+- DUPLICATE_TITLE: shared by 3 pages
+- DUPLICATE_DESCRIPTION: shared by 3 pages
+- DUPLICATE_CANONICAL: shared by 3 pages
+- DUPLICATE_OG_TITLE: shared by 3 pages
+- DUPLICATE_OG_DESCRIPTION: shared by 3 pages
+
+### ru/projects/seven/index-02.html
+
+- title: SEVEN — Исследование человеческих уязвимостей
+- description length: 156
+- canonical: https://www.ashraellen.com/ru/projects/seven/
+- og:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
+
+- MISSING_KEYWORDS
+- DUPLICATE_TITLE: shared by 3 pages
+- DUPLICATE_DESCRIPTION: shared by 3 pages
+- DUPLICATE_CANONICAL: shared by 3 pages
+- DUPLICATE_OG_TITLE: shared by 3 pages
+- DUPLICATE_OG_DESCRIPTION: shared by 3 pages
 
 ### ru/projects/seven/index.html
 
@@ -3845,11 +3860,11 @@ Total review notes: 2398
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
 
 - MISSING_KEYWORDS
-- DUPLICATE_TITLE: shared by 2 pages
-- DUPLICATE_DESCRIPTION: shared by 2 pages
-- DUPLICATE_CANONICAL: shared by 2 pages
-- DUPLICATE_OG_TITLE: shared by 2 pages
-- DUPLICATE_OG_DESCRIPTION: shared by 2 pages
+- DUPLICATE_TITLE: shared by 3 pages
+- DUPLICATE_DESCRIPTION: shared by 3 pages
+- DUPLICATE_CANONICAL: shared by 3 pages
+- DUPLICATE_OG_TITLE: shared by 3 pages
+- DUPLICATE_OG_DESCRIPTION: shared by 3 pages
 
 ### ru/projects/voiceprint/index.html
 
@@ -11028,8 +11043,17 @@ Total review notes: 2398
 - og:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 3 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 3 pages
+
+### ru/projects/seven/index-02.html
+
+- title: SEVEN — Исследование человеческих уязвимостей
+- og:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 3 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 3 pages
 
 ### ru/projects/seven/index.html
 
@@ -11037,8 +11061,8 @@ Total review notes: 2398
 - og:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 3 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 3 pages
 
 ### ru/projects/voiceprint/index.html
 
