@@ -71,20 +71,6 @@ a:hover{text-decoration:underline}
 .site-header .menu a:last-child{margin-right:0}
 .site-header .menu a:hover{color:var(--fg);text-decoration:none}
 
-.seven-language-nav{
-  display:flex;
-  justify-content:flex-end;
-  flex-wrap:wrap;
-  gap:6px 12px;
-  margin-top:12px;
-  font-size:var(--fs-kicker);
-  line-height:var(--lh-kicker);
-}
-.seven-language-nav a{color:var(--muted)}
-.seven-language-nav a:hover,.seven-language-nav a[aria-current="page"]{color:var(--fg)}
-.seven-language-nav a[aria-current="page"]{text-decoration:underline;text-underline-offset:3px}
-
-
 .main{
   flex:1;
   display:flex;
