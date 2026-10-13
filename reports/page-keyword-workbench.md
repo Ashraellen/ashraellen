@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-13T15:19:31.640Z
+Generated: 2026-10-13T15:26:49.162Z
 Pages: 880
 
 ## Index
@@ -229,12 +229,12 @@ Pages: 880
 | en/public/thoughts/index-0002.html | en | public | Ashraellen — Second Arc of Support Thoughts | ashraellen, public, thoughts, index, 0002, second, arc, support, memory, observation, awakening, dirty, cup, mercy, loss, border, spiritual, literature | thoughts, arc, ashraellen, second, support, cup, dirty, observation, awakening, loss, public, alive, being, book, border, chair, close, empty |
 | en/public/thoughts/index.html | en | public | Ashraellen — Third Arc of Support Thoughts | Ashraellen, Support Thoughts, arc 0003, acceptance of reality, witness, image | thoughts, arc, support, fact, image, its, one, problem, subtle, third, thought, ashraellen, crown, does, loses, public, unnecessary, war |
 | en/research/archive/index.html | en | research | Ashraellen — Research Archive | Ashraellen, research archive, research materials, versions, research layers, artistic research | research, archive, ashraellen, materials, active, completed, layers, longer, moving, path, still, books, earlier, traces, versions, work |
-| en/research/index.html | en | research | Ashraellen — Research | ashraellen, research, mode, seeing, lifelong, artistic-philosophical, inquiry, meaning, observation, how, human, being, loses, contact, reality, inner, freedom, what | research, ashraellen, how, inquiry, meaning, being, digital, observation, open, what, artistic, artistic-philosophical, contact, continuous, does, done, form, fragmented |
+| en/research/index.html | en | research | Ashraellen — Research | ashraellen, research, mode, seeing, lifelong, artistic-philosophical, inquiry, meaning, observation, how, human, being, loses, contact, reality, inner, freedom, what | research, ashraellen, how, inquiry, meaning, being, digital, human, observation, open, what, artistic, artistic-philosophical, contact, continuous, done, form, fragmented |
 | en/research/method/index.html | en | research | Ashraellen — Method of Observation | ashraellen, research, method, observation, recording, knots, meaning, artistic, form, instrument, reader response, field material, recognition | method, observation, ashraellen, research, form, meaning, artistic, field, material, what, appears, does, experience, first-person, forms, has, how, instrument |
 | en/research/notes/index.html | en | research | Ashraellen — Notes | ashraellen, notes, margins, research, doubts, fragments | notes, ashraellen, margins, ashraellen’s, become, deliberately, doctrine, doubts, fragments, material, refuses, research, feels |
 | en/research/platform-dali/index.html | en | research | Ashraellen — Selected Research and Artistic Practice | _missing_ | research, practice, ashraellen, selected, language, public, human, literary, memory, reality, understanding, around, artistic, atp, current, dali, enquiry, evidence |
 | en/research/position/index.html | en | research | Ashraellen — Position | ashraellen, position, artistic research, Reality, acceptance, Creator, human freedom, religion, responsibility | position, reality, ashraellen, point, another, ashraellen’s, inquiry, radio, religions, research, without, acceptance, action, against, approval, artistic, being, description |
-| en/research/projects/index.html | en | research | Ashraellen — Research Projects | ashraellen, research, projects, map, working, fields, monolith, main, channel, public, field, satirical, side, laboratories, perception, instagram, telegram, church | ashraellen, projects, research, field, monolith, perception, book, channel, church, fields, here, how, instagram, laboratories, language, living, main, map |
+| en/research/projects/index.html | en | research | Ashraellen — Research Projects | ashraellen, research, projects, map, working, fields, monolith, main, channel, public, field, satirical, side, laboratories, perception, instagram, telegram, church | ashraellen, projects, research, field, monolith, perception, seven, book, channel, church, fields, here, how, instagram, laboratories, language, living, main |
 | en/research/sources/index.html | en | research | Ashraellen — Sources and Tradition | ashraellen, research, sources, tradition, phenomenology, consciousness, body, narrative, cognitive, science, artistic, practice, methodological, lines, edmund, husserl, experience, before | research, ashraellen, sources, body, consciousness, narrative, tradition, artistic, cognitive, experience, form, phenomenology, before, directions, does, edmund, eleanor, essay |
 | es/books/demotopia/index.html | es | books | Demotopia — Utopía Democrática — novela de Ashraellen | Ashraellen, Demotopia, Utopía Democrática, novela filosófica, ciencia ficción social, Varsovia, democracia, dictadura, datos, libertad, responsabilidad | demotopia, ashraellen, novela, sobre, books, del, los, poder, una, artístico, atmósfera, circuitos, como, datos, democracia, democrática, destripes, distribuido |
 | es/books/error-404-god-not-found/index.html | es | books | Ashraellen — Error 404: Dios no encontrado | _missing_ | error, 404, dios, ciclo, encontrado, ashraellen, books, búsqueda, cancillería, celestial, del, serie, sobre, contra, filosófico-satírico, forma, found, frase |
@@ -559,7 +559,7 @@ Pages: 880
 | pl/public/thoughts/index-0002.html | pl | public | Ashraellen — Drugi łuk myśli przewodnich | ashraellen, public, thoughts, index, 0002, drugi, łuk, myśli, przewodnich, pamięć, obserwacja, przebudzenie, brudna, filiżanka, miłosierdzie, straty, granica, literatury | ashraellen, drugi, łuk, myśli, przewodnich, brudna, filiżanka, nie, public, być, czasem, duchowej, gdzie, granica, index, kiedy, krzesło, książkę |
 | pl/public/thoughts/index.html | pl | public | Ashraellen — Trzeci łuk myśli przewodnich | Ashraellen, myśli przewodnie, łuk 0003, przyjęcie rzeczywistości, świadek, obraz | łuk, myśli, przewodnich, ashraellen, fakt, myśl, nie, problem, subtelna, świadek, trzeci, jeden, koronę, obraz, public, się, traci, być |
 | pl/research/archive/index.html | pl | research | Ashraellen — Archiwum badań | Ashraellen, archiwum badań, materiały badawcze, wersje, warstwy badania, badanie artystyczne | archiwum, ashraellen, badań, drogi, już, które, materiałów, research, aby, ale, ani, archive, badanie, badawczych, materiały, nie, pozostaje, procesu |
-| pl/research/index.html | pl | research | Ashraellen — Badanie | ashraellen, research, badanie, sposób, widzenia, trwające, całe, życie, artystyczno-filozoficzne, sensu, obserwacja, tego, jak, człowiek, traci, kontakt, rzeczywistością, sensem | badanie, ashraellen, badania, człowiek, research, się, artystyczne, artystyczno-filozoficzne, badane, całe, ciągłość, cyfrowe, forma, fragmentaryczna, jako, kontakt, lecz, metoda |
+| pl/research/index.html | pl | research | Ashraellen — Badanie | ashraellen, research, badanie, sposób, widzenia, trwające, całe, życie, artystyczno-filozoficzne, sensu, obserwacja, tego, jak, człowiek, traci, kontakt, rzeczywistością, sensem | ashraellen, badanie, badania, człowiek, research, się, artystyczne, artystyczno-filozoficzne, badane, całe, ciągłość, cyfrowe, forma, fragmentaryczna, gdzie, jako, kontakt, lecz |
 | pl/research/method/index.html | pl | research | Ashraellen — Metoda obserwacji | ashraellen, research, method, metoda, obserwacji, zapisywanie, węzłów, znaczeń, forma, artystyczna, jako, narzędzie, badawcze, reakcja czytelnika, materiał terenowy, rozpoznanie | ashraellen, jako, forma, metoda, obserwacji, artystyczna, nie, obserwacja, research, się, ale, badania, badawcze, czego, człowiek, czytelnika, dlaczego, formy |
 | pl/research/notes/index.html | pl | research | Ashraellen — Notatki | ashraellen, notatki, marginesy, badania, wątpliwości, fragmenty | ashraellen, notatki, marginesy, chce, doktryną, fragmenty, który, materiał, nie, research, się, stać, wątpliwości, notes |
 | pl/research/position/index.html | pl | research | Ashraellen — Stanowisko | ashraellen, stanowisko, badania artystyczne, Rzeczywistość, akceptacja, Stwórca, wolność człowieka, religia, odpowiedzialność | ashraellen, bez, nie, stanowisko, badanie, człowiek, punkt, religie, research, rzeczywistością, akceptacja, aprobaty, artystyczne, człowieka, doświadczenia, droga, drugiego, działanie |
@@ -881,11 +881,11 @@ Pages: 880
 | uk/public/thoughts/index-0002.html | uk | public | Ashraellen — Друга дуга опорних думок | ashraellen, public, thoughts, index, 0002, друга, дуга, опорних, думок, пам’ять, спостереження, пробудження, брудна, чашка, милість, втрати, межа, духовної | ashraellen, друга, дуга, думок, опорних, брудна, спостереження, public, втрати, чашка, index, thoughts, бути, відкрити, думка, думку, духовної, живим |
 | uk/public/thoughts/index.html | uk | public | Ashraellen — Третя дуга опорних думок | Ashraellen, опорні думки, дуга 0003, прийняття реальності, свідок, образ | ashraellen, дуга, думок, опорних, думка, проблема, свідок, тонка, третя, факт, public, втрачає, корону, образ, один, thoughts, був, бути |
 | uk/research/archive/index.html | uk | research | Ashraellen — Архів дослідження | Ashraellen, архів дослідження, дослідницькі матеріали, версії, шари дослідження, художнє дослідження | ashraellen, архів, дослідження, research, вже, живій, матеріалів, перебувають, роботі, шляху, які, archive, mark, версії, відео, дослідницьких, завершені, матеріали |
-| uk/research/index.html | uk | research | Ashraellen — Дослідження | ashraellen, research, дослідження, спосіб, бачити, художньо-філософське, сенсу, завдовжки, життя, спостереження, тим, людина, втрачає, контакт, реальністю, сенсом, внутрішньою, свободою | дослідження, ashraellen, research, людина, метод, сенсу, спостереження, цифрове, або, архів, бачити, безперервне, відео, відкрите, відкрити, внутрішньою, втрачає, досліджується |
+| uk/research/index.html | uk | research | Ashraellen — Дослідження | ashraellen, research, дослідження, спосіб, бачити, художньо-філософське, сенсу, завдовжки, життя, спостереження, тим, людина, втрачає, контакт, реальністю, сенсом, внутрішньою, свободою | дослідження, ashraellen, research, людина, сенсу, спостереження, цифрове, або, архів, бачити, безперервне, відео, відкрите, відкрити, внутрішньою, втрачає, досліджує, досліджується |
 | uk/research/method/index.html | uk | research | Ashraellen — Метод спостереження | ashraellen, research, method, метод, спостереження, фіксація, вузлів, сенсу, художня, форма, дослідницький, інструмент, реакція читача, польовий матеріал, упізнавання | спостереження, ashraellen, метод, форма, research, немає, сенсу, художня, method, але, він, всередині, вузлів, вузол, досвіду, дослідження, дослідницький, з’являється |
 | uk/research/notes/index.html | uk | research | Ashraellen — Нотатки | ashraellen, нотатки, поля, дослідження, сумніви, фрагменти | ashraellen, нотатки, поля, research, доктриною, матеріал, ставати, сумніви, фрагменти, хоче, notes, задумано, здається, незавершеним, який |
 | uk/research/position/index.html | uk | research | Ashraellen — Позиція | ashraellen, позиція, художнє дослідження, Реальність, прийняття, Творець, свобода людини, релігія, відповідальність | ashraellen, позиція, research, без, від, дослідження, реальністю, релігії, position, або, але, відмова, відповідальність, війни, він, внутрішнього, вона, дія |
-| uk/research/projects/index.html | uk | research | Ashraellen — Дослідницькі проєкти | ashraellen, research, projects, дослідницькі, проєкти, карта, робочих, полів, monolith, основний, канал, публічне, поле, сатиричні, бічні, лабораторії, сприйняття, instagram | ashraellen, проєкти, monolith, research, бічні, канал, лабораторії, поле, сприйняття, book, instagram, occultus, projects, scriptorium, telegram, whinesis, whisper, відкрити |
+| uk/research/projects/index.html | uk | research | Ashraellen — Дослідницькі проєкти | ashraellen, research, projects, дослідницькі, проєкти, карта, робочих, полів, monolith, основний, канал, публічне, поле, сатиричні, бічні, лабораторії, сприйняття, instagram | ashraellen, проєкти, monolith, research, бічні, канал, поле, сприйняття, book, instagram, projects, seven, telegram, whinesis, whisper, відкрити, дослідження, дослідницькі |
 | uk/research/sources/index.html | uk | research | Ashraellen — Джерела і традиція | ashraellen, research, sources, джерела, традиція, феноменологія, свідомості, тіло, наратив, когнітивна, наука, художня, практика, методологічні, лінії | ashraellen, джерела, дослідження, тіло, традиція, research, саморозуміння, свідомість, свідомості, сприйняття, феноменологія, художня, sources, варела, взаємодія, готових, гуссерль, досвід |
 
 ## Page details
@@ -4674,8 +4674,8 @@ Excerpt:
 - H1: Research
 - H2: What is being researched | How it is done | Fragmented form, continuous inquiry | Method | How to understand this work | Artistic research | Open knowledge | Digital society
 - H3: _missing_
-- suggested keyword seed: research, ashraellen, how, inquiry, meaning, being, digital, observation, open, what, artistic, artistic-philosophical, contact, continuous, does, done, form, fragmented
-- candidates: how, research, meaning, ashraellen, observation, what, inquiry, open, digital, where, does, language, one, person, thought, work, human, within, form, inner, perception, separate, sound, archive
+- suggested keyword seed: research, ashraellen, how, inquiry, meaning, being, digital, human, observation, open, what, artistic, artistic-philosophical, contact, continuous, done, form, fragmented
+- candidates: how, research, what, meaning, ashraellen, observation, open, where, inquiry, language, digital, human, person, work, does, memory, one, thought, inner, system, within, can, form, perception
 
 Excerpt:
 
@@ -4757,14 +4757,14 @@ Excerpt:
 - description: A map of Ashraellen working fields: MONOLITH, the main channel, public field, satirical projects, and side laboratories of perception.
 - canonical: https://www.ashraellen.com/en/research/projects/
 - H1: Projects
-- H2: WHISPER | MONOLITH | Ashraellen | Instagram | Telegram | Church of Saint Whine | The Book of Whinesis | Occultus Scriptorium
+- H2: SEVEN | WHISPER | MONOLITH | Ashraellen | Instagram | Telegram | Church of Saint Whine | The Book of Whinesis
 - H3: _missing_
-- suggested keyword seed: ashraellen, projects, research, field, monolith, perception, book, channel, church, fields, here, how, instagram, laboratories, language, living, main, map
-- candidates: open, person, ashraellen, how, language, perception, field, here, living, project, projects, studies, through, channel, forms, inner, laboratories, main, research, satirical, side, taste, thought, where
+- suggested keyword seed: ashraellen, projects, research, field, monolith, perception, seven, book, channel, church, fields, here, how, instagram, laboratories, language, living, main
+- candidates: open, person, ashraellen, how, language, perception, seven, field, here, living, project, projects, research, studies, through, where, channel, does, forms, inner, laboratories, main, satirical, side
 
 Excerpt:
 
-> Projects This is neither a showcase of genres nor a list of platforms. It is a map of Ashraellen’s working fields. Some projects are central research models. Others are public zones where thought meets living reaction. Others work as side laboratories: through satire, sound, taste, image, symbol, and everyday perception. Live language research WHISPER A live AI-mediated language project about communication between people who do not share a common language. If the machine supplies the language, at what point does assistance become authorship? Open project → Central field MONOLITH The main artistic-research model of Ashraellen. The trilogy studies how a person loses separateness, memory, language, body, and inner ground inside a system that first promises order and then turns the living into material. BETON, SLUDGE, and GAS are three states of reality: solidification, decay, and the disper
+> Projects This is neither a showcase of genres nor a list of platforms. It is a map of Ashraellen’s working fields. Some projects are central research models. Others are public zones where thought meets living reaction. Others work as side laboratories: through satire, sound, taste, image, symbol, and everyday perception. Human vulnerability research SEVEN A research-through-fiction cycle built around seven historically persistent categories of human vulnerability: pride, greed, lust, envy, gluttony, wrath and sloth/acedia. SEVEN does not accept this seven-part scheme as established truth. It asks whether the mechanisms can be distinguished consistently, where they begin to overlap, and whether the classification survives explicit attempts to falsify it. Seven human vulnerabilities — or seven old names for something more complex? Open SEVEN → Live language research WHISPER A live AI-media
 
 ### en/research/sources/index.html
 
@@ -10284,8 +10284,8 @@ Excerpt:
 - H1: Badanie
 - H2: Co jest badane | Jak to się odbywa | Forma fragmentaryczna, ciągłość badania | Metoda | Jak rozumieć tę pracę | Badanie artystyczne | Otwarta wiedza | Społeczeństwo cyfrowe
 - H3: _missing_
-- suggested keyword seed: badanie, ashraellen, badania, człowiek, research, się, artystyczne, artystyczno-filozoficzne, badane, całe, ciągłość, cyfrowe, forma, fragmentaryczna, jako, kontakt, lecz, metoda
-- candidates: nie, się, lecz, ashraellen, badania, jako, otwórz, obserwacji, tym, wideo, badanie, człowiek, cyfrowe, myśl, sensu, archiwum, forma, gdzie, którym, może, sposób, tego, wewnątrz, ani
+- suggested keyword seed: ashraellen, badanie, badania, człowiek, research, się, artystyczne, artystyczno-filozoficzne, badane, całe, ciągłość, cyfrowe, forma, fragmentaryczna, gdzie, jako, kontakt, lecz
+- candidates: nie, się, lecz, ashraellen, jako, badania, otwórz, obserwacji, tym, wideo, człowiek, gdzie, badanie, cyfrowe, myśl, sensu, ani, archiwum, bada, czy, forma, którym, mechanizmy, może
 
 Excerpt:
 
@@ -10350,14 +10350,14 @@ Excerpt:
 - description: Mapa pól pracy Ashraellen: MONOLIT, główny kanał, pole publiczne, projekty satyryczne i boczne laboratoria percepcji.
 - canonical: https://www.ashraellen.com/pl/research/projects/
 - H1: Projekty
-- H2: WHISPER | MONOLIT | Ashraellen | Instagram | Telegram | Church of Saint Whine | The Book of Whinesis | Occultus Scriptorium
+- H2: SEVEN | WHISPER | MONOLIT | Ashraellen | Instagram | Telegram | Church of Saint Whine | The Book of Whinesis
 - H3: _missing_
 - suggested keyword seed: ashraellen, projekty, monolit, pole, research, bada, badawcze, boczne, book, church, człowiek, główny, instagram, jako, kanał, laboratoria, lecz, mapa
-- candidates: nie, otwórz, jako, się, ashraellen, człowiek, lecz, przez, pole, projekt, projekty, bada, boczne, główny, kanał, laboratoria, myśl, tutaj, człowieka, formy, jeszcze, języka, miejsce, monolit
+- candidates: nie, otwórz, jako, się, ashraellen, człowiek, lecz, przez, pole, projekt, projekty, bada, boczne, główny, kanał, laboratoria, myśl, tutaj, człowieka, czy, formy, jeszcze, języka, mechanizmy
 
 Excerpt:
 
-> Projekty To nie jest wystawa gatunków ani lista platform. To mapa pól pracy Ashraellen. Jedne projekty są centralnymi modelami badania. Inne — publicznymi strefami, w których myśl spotyka żywą reakcję. Jeszcze inne działają jak boczne laboratoria: przez satyrę, dźwięk, smak, obraz, symbol i codzienne postrzeganie. Badanie języka na żywo WHISPER Projekt językowego wsparcia na żywo przez AI dla ludzi, którzy nie mają wspólnego języka. Jeśli język dostarcza maszyna, kiedy pomoc staje się autorstwem? Otwórz projekt → Centralne pole MONOLIT Główny artystyczno-badawczy model Ashraellen. Trylogia bada, jak człowiek traci odrębność, pamięć, język, ciało i wewnętrzne oparcie wewnątrz systemu, który najpierw obiecuje porządek, a potem zamienia żywe w materiał. BETON, ŻIŻA i GAZ — trzy stany rzeczywistości: zastygnięcie, rozpad i rozproszenie sensu. Powieść działa tu nie jako historia ucieczki, lec
+> Projekty To nie jest wystawa gatunków ani lista platform. To mapa pól pracy Ashraellen. Jedne projekty są centralnymi modelami badania. Inne — publicznymi strefami, w których myśl spotyka żywą reakcję. Jeszcze inne działają jak boczne laboratoria: przez satyrę, dźwięk, smak, obraz, symbol i codzienne postrzeganie. Badanie ludzkich podatności SEVEN Cykl badawczo-literacki oparty na siedmiu historycznie trwałych kategoriach ludzkiej podatności: pysze, chciwości, pożądaniu, zazdrości, obżarstwie, gniewie oraz lenistwie/acedii. SEVEN nie przyjmuje tego siedmioczęściowego schematu jako gotowej prawdy. Sprawdza, czy mechanizmy można konsekwentnie rozróżniać, gdzie zaczynają się nakładać i czy sama klasyfikacja wytrzymuje próbę jej obalenia. Siedem ludzkich podatności — czy siedem starych nazw dla czegoś bardziej złożonego? Otwórz SEVEN → Badanie języka na żywo WHISPER Projekt językowego wsparc
 
 ### pl/research/sources/index.html
 
@@ -15758,8 +15758,8 @@ Excerpt:
 - H1: Дослідження
 - H2: Що досліджується | Як це робиться | Фрагментарна форма, безперервне дослідження | Метод | Як розуміти цю роботу | Художнє дослідження | Відкрите знання | Цифрове суспільство
 - H3: _missing_
-- suggested keyword seed: дослідження, ashraellen, research, людина, метод, сенсу, спостереження, цифрове, або, архів, бачити, безперервне, відео, відкрите, відкрити, внутрішньою, втрачає, досліджується
-- candidates: дослідження, ashraellen, спостереження, відкрити, відео, людина, сенсу, цифрове, або, архів, звук, метод, може, сенс, спосіб, сприйняття, форма, через, бачити, думка, окрема, про, проєкт, роботи
+- suggested keyword seed: дослідження, ashraellen, research, людина, сенсу, спостереження, цифрове, або, архів, бачити, безперервне, відео, відкрите, відкрити, внутрішньою, втрачає, досліджує, досліджується
+- candidates: дослідження, ashraellen, спостереження, відкрити, відео, людина, або, сенсу, цифрове, через, архів, досліджує, звук, метод, механізми, може, сенс, спосіб, сприйняття, форма, seven, voiceprint, whisper, бачити
 
 Excerpt:
 
@@ -15824,14 +15824,14 @@ Excerpt:
 - description: Карта робочих полів Ashraellen: MONOLITH, основний канал, публічне поле, сатиричні проєкти та бічні лабораторії сприйняття.
 - canonical: https://www.ashraellen.com/uk/research/projects/
 - H1: Проєкти
-- H2: WHISPER | MONOLITH | Ashraellen | Instagram | Telegram | Церква Святого Ниття | The Book of Whinesis | Occultus Scriptorium
+- H2: SEVEN | WHISPER | MONOLITH | Ashraellen | Instagram | Telegram | Церква Святого Ниття | The Book of Whinesis
 - H3: _missing_
-- suggested keyword seed: ashraellen, проєкти, monolith, research, бічні, канал, лабораторії, поле, сприйняття, book, instagram, occultus, projects, scriptorium, telegram, whinesis, whisper, відкрити
-- candidates: відкрити, ashraellen, людина, тут, через, поле, проєкт, проєкти, сприйняття, бічні, канал, лабораторії, monolith, telegram, youtube, дослідження, досліджує, думка, місце, мову, основний, працюють, різні, стає
+- suggested keyword seed: ashraellen, проєкти, monolith, research, бічні, канал, поле, сприйняття, book, instagram, projects, seven, telegram, whinesis, whisper, відкрити, дослідження, дослідницькі
+- candidates: відкрити, ashraellen, людина, тут, проєкт, через, поле, проєкти, сприйняття, бічні, дослідження, канал, лабораторії, monolith, seven, telegram, youtube, досліджує, думка, механізми, місце, мову, основний, працюють
 
 Excerpt:
 
-> Проєкти Це не вітрина жанрів і не список майданчиків. Це карта робочих полів Ashraellen. Одні проєкти є центральними моделями дослідження. Інші — публічними зонами, де думка зустрічається з живою реакцією. Треті працюють як бічні лабораторії: через сатиру, звук, смак, образ, символ і повсякденне сприйняття. Дослідження живої мови WHISPER Проєкт живої мовної підтримки через AI для людей, які не мають спільної мови. Якщо мову дає машина, в який момент допомога стає авторством? Відкрити проєкт → Центральне поле MONOLITH Головна художньо-дослідницька модель Ashraellen. Трилогія досліджує, як людина втрачає окремість, пам’ять, мову, тіло і внутрішню опору всередині системи, яка спочатку обіцяє порядок, а потім перетворює живе на матеріал. BETON, SLUDGE і GAS — три стани реальності: застигання, розпад і розсіювання сенсу. Роман тут працює не як історія втечі, а як модель, через яку можна побач
+> Проєкти Це не вітрина жанрів і не список майданчиків. Це карта робочих полів Ashraellen. Одні проєкти є центральними моделями дослідження. Інші — публічними зонами, де думка зустрічається з живою реакцією. Треті працюють як бічні лабораторії: через сатиру, звук, смак, образ, символ і повсякденне сприйняття. Дослідження людських вразливостей SEVEN Дослідницько-літературний цикл навколо семи історично стійких категорій людської вразливості: гордині, жадібності, хіті, заздрості, ненаситності, гніву та лінощів/acedia. SEVEN не приймає цю семичленну схему як готову істину. Проєкт перевіряє, чи можна послідовно розрізняти ці механізми, де вони починають перекриватися і чи витримує сама класифікація спробу її спростувати. Сім людських вразливостей — чи сім старих назв для чогось складнішого? Відкрити SEVEN → Дослідження живої мови WHISPER Проєкт живої мовної підтримки через AI для людей, які не
 
 ### uk/research/sources/index.html
 
