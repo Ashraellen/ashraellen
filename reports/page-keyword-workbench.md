@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-13T15:49:18.798Z
+Generated: 2026-10-13T16:36:59.568Z
 Pages: 880
 
 ## Index
@@ -259,7 +259,7 @@ Pages: 880
 | es/privacy.html | es | privacy.html | Política de privacidad — Ashraellen | _missing_ | datos, del, política, privacidad, analítica, ashraellen, cookies, los, para, plataformas, qué, sitio, actualizaciones, ashraellen.com, base, compras, con, contacto |
 | es/professional/index.html | es | professional | Ashraellen — Dosier profesional | _missing_ | ashraellen, formas, investigación, líneas, del, dosier, método, obras, observación, paralelas, práctica, profesional, professional, públicas, seleccionadas, trabajo, artísticas, artístico-filosófica |
 | es/projects/my-memory/index.html | es | projects | MY MEMORY — continuidad bajo el control de la persona | _missing_ | continuidad, memory, bajo, control, memoria, persona, qué, cómo, por, projects, proyecto, actual, ashraellen, conservarse, debe, debería, decisiones, del |
-| es/projects/seven/index.html | es | projects | SEVEN — Investigación sobre las vulnerabilidades humanas | _missing_ | qué, seven, investigación, una, las, como, humanas, projects, puede, sobre, vulnerabilidades, ashraellen, central, compara, competencia, con, convierte, cuándo |
+| es/projects/seven/index.html | es | projects | SEVEN — Investigación sobre las vulnerabilidades humanas | _missing_ | qué, seven, una, como, investigación, las, humanas, projects, puede, sobre, vulnerabilidades, ashraellen, central, compara, competencia, con, convierte, cuándo |
 | es/projects/voiceprint/index.html | es | projects | VOICEPRINT — ¿Dónde estoy yo en este flujo? | _missing_ | voiceprint, dónde, estoy, texto, una, autor, con, cuando, este, flujo, las, para, projects, que, qué, apareció, ashraellen, atp |
 | es/projects/whisper/index.html | es | projects | WHISPER — ¿Quién habla? | _missing_ | whisper, autoría, habla, ayuda, conversación, por, projects, quién, actual, agencia, artística, ashraellen, cinco, con, contratos, escuchar, estado, humana |
 | es/public/index.html | es | public | Ashraellen — Público | Ashraellen, campo público, intervenciones, publicaciones, pensamientos de apoyo, investigación, observaciones | público, apoyo, ashraellen, pensamientos, campo, con, donde, intervenciones, persona, public, publicaciones, abrir, encuentra, investigación, los, nuevos, observaciones, pensamiento |
@@ -332,7 +332,7 @@ Pages: 880
 | fi/privacy.html | fi | privacy.html | Tietosuojakäytäntö — Ashraellen | _missing_ | analytiikka, tietoja, tietosuojakäytäntö, ashraellen, evästeet, kerätä, palvelut, voidaan, ashraellen.com, ashraellen.comin, google, henkilötiedot, käsittelyn, kauan, käytetään, käyttää, käyttäjän, kolmannen |
 | fi/professional/index.html | fi | professional | Ashraellen — Ammatillinen esittely | _missing_ | ashraellen, ammatillinen, ashraellenin, esittely, havainnoinnin, julkiset, käytäntö, menetelmä, muodot, professional, rinnakkaiset, ammatilliset, eri, jossa, julkinen, kehykset, kenttä, kirjallinen |
 | fi/projects/my-memory/index.html | fi | projects | MY MEMORY — muisti ja jatkuvuus ihmisen hallinnassa | _missing_ | memory, ihmisen, jatkuvuus, pitäisi, hallinnassa, mitä, miten, muisti, projects, säilyä, tila, ai-istuntojen, ashraellen, hallitsema, järjestelmä, jatkuvuuden, kun, kuulua |
-| fi/projects/seven/index.html | fi | projects | SEVEN — Tutkimus ihmisen haavoittuvuuksista | _missing_ | seven, mitä, tutkimus, haavoittuvuuksista, ihmisen, projects, ashraellen, filosofinen, greed, haavoittuvuudeksi, historiallinen, inhimillinen, joka, jos, juuri, keskeinen, kilpailevat, kysymys |
+| fi/projects/seven/index.html | fi | projects | SEVEN — Tutkimus ihmisen haavoittuvuuksista | _missing_ | seven, mitä, haavoittuvuuksista, ihmisen, projects, tutkimus, ashraellen, filosofinen, greed, haavoittuvuudeksi, historiallinen, inhimillinen, joka, jos, juuri, keskeinen, kilpailevat, kysymys |
 | fi/projects/voiceprint/index.html | fi | projects | VOICEPRINT — Missä minä olen tässä virrassa? | _missing_ | voiceprint, minä, missä, olen, mitä, ole, projects, sen, tässä, tekijä, virrassa, alkoi, ashraellen, atp, ensin, että, itse, joka |
 | fi/projects/whisper/index.html | fi | projects | WHISPER — Kuka puhuu? | _missing_ | whisper, puhuu, hanke, ihmisen, keskustelusta, kuka, kuuntelu, projects, ai-välitteisestä, ashraellen, auttaa, avustussopimusta, ihminen, ilman, kielestä, läsnäolosta, lauseen, mitä |
 | fi/public/index.html | fi | public | Ashraellen — Julkinen | Ashraellen, julkinen kenttä, puheet, julkaisut, tukiajatukset, tutkimus, havainnot | julkinen, ashraellen, ashraellenin, missä, public, ajatus, avaa, elävän, hän, havaintoja, hinta, ihminen, ihmisen, julkaisuja, julkaisut, kansa, kenttä, kohtaa |
@@ -1292,7 +1292,7 @@ Excerpt:
 - H2: Калі чалавечая схільнасць становіцца ўразлівасцю? | Галоўнае пытанне | Чаму менавіта сем? | Гістарычная схема як даследчы інструмент | Што параўноўваецца | Канкурэнтныя тлумачэнні | Што ўжо можна правяраць, а што яшчэ трэба аперацыяналізаваць | Раман як метад
 - H3: Агульны механізм | Сістэма ўзаемадзеяння | Дынамічная канфігурацыя | Памылка класіфікацыі
 - suggested keyword seed: seven, даследаванне, projects, калі, можна, сем, уразлівасцяў, чалавечых, ashraellen, greed, або, аперацыяналізаваць, галоўнае, гістарычная, даследчы, інструмент, канкурэнтныя, матывацыі
-- candidates: seven, або, greed, калі, даследаванне, можа, чалавека, можна, якія, таго, сем, толькі, яго, пакуль, пасля, раман, трэба, які, могуць, праверкі, ўжо, дзе, пачынае, пытанне
+- candidates: seven, або, greed, калі, можа, даследаванне, чалавека, можна, якія, таго, сем, толькі, яго, пакуль, пасля, раман, трэба, які, могуць, праверкі, ўжо, дзе, каб, пачынае
 
 Excerpt:
 
@@ -2516,7 +2516,7 @@ Excerpt:
 - H2: Wann wird eine menschliche Tendenz zur Verwundbarkeit? | Die zentrale Frage | Warum sieben? | Ein historisches Schema als Forschungsinstrument | Was verglichen wird | Konkurrierende Erklärungen | Was bereits prüfbar ist und was noch operationalisiert werden muss | Der Roman als Methode
 - H3: Ein gemeinsamer Mechanismus | Ein interagierendes System | Eine dynamische Konfiguration | Ein Klassifikationsfehler
 - suggested keyword seed: seven, und, eine, ist, was, als, der, die, ein, ihrer, projects, verwundbarkeiten, wird, ashraellen, bei, bereits, das, entscheidungen
-- candidates: die, und, der, ein, eine, ist, nicht, sich, seven, von, das, oder, werden, als, für, mit, wird, des, kann, sondern, wenn, wie, dem, einen
+- candidates: die, und, der, ein, eine, ist, nicht, sich, das, seven, von, oder, werden, als, für, mit, wird, des, kann, sie, sondern, wenn, wie, dem
 
 Excerpt:
 
@@ -5184,8 +5184,8 @@ Excerpt:
 - H1: SEVEN
 - H2: ¿Cuándo una tendencia humana se convierte en una vulnerabilidad? | La pregunta central | ¿Por qué siete? | Un esquema histórico como instrumento de investigación | Qué se compara | Explicaciones en competencia | Qué puede probarse ya y qué debe operacionalizarse todavía | La novela como método
 - H3: Un mecanismo común | Un sistema interactivo | Una configuración dinámica | Un error de clasificación
-- suggested keyword seed: qué, seven, investigación, una, las, como, humanas, projects, puede, sobre, vulnerabilidades, ashraellen, central, compara, competencia, con, convierte, cuándo
-- candidates: una, que, qué, seven, del, para, las, con, los, persona, investigación, puede, como, greed, prueba, cómo, por, pueden, siete, más, sino, trabajo, contexto, entre
+- suggested keyword seed: qué, seven, una, como, investigación, las, humanas, projects, puede, sobre, vulnerabilidades, ashraellen, central, compara, competencia, con, convierte, cuándo
+- candidates: una, que, qué, seven, del, para, las, los, con, persona, puede, como, investigación, greed, por, prueba, cómo, pueden, siete, más, sino, trabajo, contexto, después
 
 Excerpt:
 
@@ -6425,8 +6425,8 @@ Excerpt:
 - H1: SEVEN
 - H2: Milloin inhimillinen taipumus muuttuu haavoittuvuudeksi? | Keskeinen kysymys | Miksi juuri seitsemän? | Historiallinen malli tutkimusvälineenä | Mitä verrataan | Kilpailevat selitykset | Mitä voidaan jo testata ja mitä pitää vielä operationalisoida | Romaani menetelmänä
 - H3: Yhteinen mekanismi | Vuorovaikuttava järjestelmä | Dynaaminen kokoonpano | Luokitteluvirhe
-- suggested keyword seed: seven, mitä, tutkimus, haavoittuvuuksista, ihmisen, projects, ashraellen, filosofinen, greed, haavoittuvuudeksi, historiallinen, inhimillinen, joka, jos, juuri, keskeinen, kilpailevat, kysymys
-- candidates: tai, voi, seven, ole, sen, miten, vaan, greed, joka, tutkimus, vain, jos, mitä, sitä, ihmisen, mikä, voidaan, eri, että, pitäisi, sevenin, voivat, ihminen, jälkeen
+- suggested keyword seed: seven, mitä, haavoittuvuuksista, ihmisen, projects, tutkimus, ashraellen, filosofinen, greed, haavoittuvuudeksi, historiallinen, inhimillinen, joka, jos, juuri, keskeinen, kilpailevat, kysymys
+- candidates: tai, voi, seven, ole, sen, miten, vaan, greed, joka, vain, jos, mitä, sitä, ihmisen, mikä, tutkimus, voidaan, eri, että, pitäisi, sevenin, voivat, ihminen, jälkeen
 
 Excerpt:
 
@@ -7718,7 +7718,7 @@ Excerpt:
 - H2: Quand une tendance humaine devient-elle une vulnérabilité ? | La question centrale | Pourquoi sept ? | Un schéma historique comme instrument de recherche | Ce qui est comparé | Explications concurrentes | Ce qui peut déjà être testé et ce qui doit encore être opérationnalisé | Le roman comme méthode
 - H3: Un mécanisme commun | Un système interactif | Une configuration dynamique | Une erreur de classification
 - suggested keyword seed: seven, qui, recherche, une, est, les, comme, dans, être, humaines, leur, leurs, peut, projects, sur, vulnérabilités, ashraellen, centrale
-- candidates: une, des, les, est, pas, qui, seven, recherche, dans, personne, peut, greed, mais, pour, que, comme, être, d’une, sept, peuvent, n’est, travail, comment, contexte
+- candidates: une, des, les, est, pas, qui, seven, dans, recherche, personne, peut, greed, mais, pour, que, comme, être, d’une, sept, peuvent, n’est, travail, comment, contexte
 
 Excerpt:
 
@@ -10795,7 +10795,7 @@ Excerpt:
 - H2: Quando uma tendência humana se torna uma vulnerabilidade? | A pergunta central | Por que sete? | Um esquema histórico como instrumento de investigação | O que é comparado | Explicações concorrentes | O que já pode ser testado e o que ainda precisa ser operacionalizado | O romance como método
 - H3: Um mecanismo comum | Um sistema de interação | Uma configuração dinâmica | Um erro de classificação
 - suggested keyword seed: que, seven, investigação, uma, como, ser, humanas, pode, projects, sobre, vulnerabilidades, ainda, ashraellen, central, comparado, concorrentes, decisões, esquema
-- candidates: uma, que, não, como, seven, para, ser, investigação, pessoa, greed, pode, mas, sete, podem, por, apenas, mais, com, estrutura, trabalho, vulnerabilidade, contexto, interação, motivos
+- candidates: uma, que, não, como, seven, para, ser, investigação, pessoa, greed, pode, mas, por, sete, podem, apenas, mais, com, estrutura, trabalho, vulnerabilidade, contexto, depois, dos
 
 Excerpt:
 
