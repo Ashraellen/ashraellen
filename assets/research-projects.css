@@ -271,3 +271,38 @@ a:hover{text-decoration:underline}
   .project-card{transition:none}
   .project-card:hover{transform:none}
 }
+
+
+/* SEVEN — local project identity; background is confined to the card. */
+.project-card.seven-project-card{
+  position:relative;
+  overflow:hidden;
+  isolation:isolate;
+  background:rgba(0,0,0,.38);
+}
+
+.project-card.seven-project-card::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:url("backgrounds/seven-human-vulnerabilities.webp") center/cover no-repeat;
+  filter:brightness(.52) saturate(.74) contrast(1.04);
+  transform:scale(1.015);
+  z-index:-2;
+}
+
+.project-card.seven-project-card::after{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:linear-gradient(90deg,rgba(7,7,9,.90),rgba(7,7,9,.68) 62%,rgba(7,7,9,.46));
+  z-index:-1;
+}
+
+.project-card.seven-project-card:hover{
+  background:rgba(0,0,0,.38);
+}
+
+.project-card.seven-project-card p{
+  color:rgba(242,242,244,.82);
+}
