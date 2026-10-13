@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-13T17:01:24.395Z
+Generated: 2026-10-13T17:05:31.732Z
 Pages: 880
 
 ## Index
@@ -10795,7 +10795,7 @@ Excerpt:
 - H2: Quando uma tendência humana se torna uma vulnerabilidade? | A pergunta central | Por que sete? | Um esquema histórico como instrumento de investigação | O que é comparado | Explicações concorrentes | O que já pode ser testado e o que ainda precisa ser operacionalizado | O romance como método
 - H3: Um mecanismo comum | Um sistema de interação | Uma configuração dinâmica | Um erro de classificação
 - suggested keyword seed: que, seven, investigação, uma, como, ser, humanas, pode, projects, sobre, vulnerabilidades, ainda, ashraellen, central, comparado, concorrentes, decisões, esquema
-- candidates: uma, que, não, como, seven, para, ser, investigação, pessoa, greed, pode, mas, por, sete, podem, mais, apenas, com, dos, estrutura, trabalho, vulnerabilidade, contexto, independente
+- candidates: uma, que, não, como, seven, para, ser, investigação, pessoa, greed, pode, mas, sete, podem, por, dos, mais, apenas, com, são, trabalho, vulnerabilidade, contexto, independente
 
 Excerpt:
 
