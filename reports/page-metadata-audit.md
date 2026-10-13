@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-10-09T10:17:50.505Z
+Generated: 2026-10-13T09:48:26.275Z
 
-Pages checked: 869
-Pages with issues: 381
-Total issues: 1799
+Pages checked: 870
+Pages with issues: 382
+Total issues: 1800
 Pages with review notes: 667
 Total review notes: 2394
 
@@ -12,7 +12,7 @@ Total review notes: 2394
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 267 |
+| MISSING_KEYWORDS | 268 |
 | MISSING_TWITTER_IMAGE | 193 |
 | MISSING_TWITTER_CARD | 179 |
 | MISSING_JSON_LD | 174 |
@@ -3816,6 +3816,16 @@ Total review notes: 2394
 - canonical: https://www.ashraellen.com/ru/projects/my-memory/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- MISSING_KEYWORDS
+
+### ru/projects/seven/index.html
+
+- title: SEVEN — Исследование человеческих уязвимостей
+- description length: 156
+- canonical: https://www.ashraellen.com/ru/projects/seven/
+- og:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-human-vulnerabilities.webp
 
 - MISSING_KEYWORDS
 
