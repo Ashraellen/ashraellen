@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-13T15:27:47.939Z
+Generated: 2026-10-13T15:28:58.706Z
 Pages: 880
 
 ## Index
@@ -73,11 +73,11 @@ Pages: 880
 | be/public/thoughts/index-0002.html | be | public | Ashraellen — Дуга 0002 | ashraellen, public, thoughts, index, 0002, дуга, другая, апорных, думак, пустое, крэсла, абагульненне, замест, назірання, дзе, спынілася, жыццё, брудны | дуга, апорных, другая, думак, 0002, ashraellen, абагульненне, дзе, кубак, public, брудны, жыццё, закрыць, замест, калі, кнігу, крэсла, назірання |
 | be/public/thoughts/index.html | be | public | Ashraellen — Трэцяя дуга апорных думак | Ashraellen, апорныя думкі, дуга 0003, прыняцце рэальнасці, сведка, вобраз | ashraellen, апорных, дуга, думак, думка, праблема, сведка, тонкая, трэцяя, факт, public, адзін, вобраз, губляе, карону, thoughts, адкрыць, апорная |
 | be/research/archive/index.html | be | research | Ashraellen — Архіў даследавання | Ashraellen, архіў даследавання, даследчыя матэрыялы, версіі, пласты даследавання, мастацкае даследаванне | ashraellen, архіў, research, даследавання, жывой, знаходзяцца, матэрыялаў, шляху, якія, яшчэ, archive, mark, presence, больш, версіі, даследаванне, даследчых, завершаныя |
-| be/research/index.html | be | research | Ashraellen — Даследаванне | ashraellen, research, даследаванне, спосаб, бачыць, мастацка-філасофскае, сэнсу, даўжынёю, жыццё, назіранне, тым, чалавек, губляе, сувязь, рэальнасцю, сэнсам, ўнутранай, свабодай | даследаванне, ashraellen, research, лічбавае, сэнсу, тым, чалавек, або, адкрытыя, адкрыць, бачыць, бесперапыннае, веды, відэа, грамадства, губляе, гэтую, даследавання |
+| be/research/index.html | be | research | Ashraellen — Даследаванне | ashraellen, research, даследаванне, спосаб, бачыць, мастацка-філасофскае, сэнсу, даўжынёю, жыццё, назіранне, тым, чалавек, губляе, сувязь, рэальнасцю, сэнсам, ўнутранай, свабодай | даследаванне, ashraellen, research, лічбавае, тым, чалавек, або, адкрытыя, адкрыць, бачыць, бесперапыннае, веды, відэа, грамадства, губляе, гэтую, даследавання, даследуецца |
 | be/research/method/index.html | be | research | Ashraellen — Метад назірання | ashraellen, research, method, метад, назірання, фіксацыя, сэнсавых, вузлоў, мастацкая, форма, даследчы, інструмент, праверка, праз, пазнаванне, сэнсавы, вузел, поле | ashraellen, метад, назіранне, назірання, форма, research, мастацкая, няма, праверка, праз, method, але, асобы, вузел, вузлоў, даследавання, даследчы, дзе |
 | be/research/notes/index.html | be | research | Ashraellen — Нататкі | ashraellen, нататкі, палі, даследаванне, сумненні, фрагменты | ashraellen, нататкі, палі, research, дактрынай, матэрыял, станавіцца, сумненні, фрагменты, хоча, які, notes, задумана, здаецца |
 | be/research/position/index.html | be | research | Ashraellen — Пазіцыя | ashraellen, пазіцыя, мастацкае даследаванне, Рэальнасць, прыняцце, Творца, свабода чалавека, рэлігія, адказнасць | ashraellen, пазіцыя, чалавека, research, адказнасць, без, прыняцце, разуменне, рэальнасць, чалавек, position, або, адмова, але, вайны, гістарычныя, дзеянне, іншага |
-| be/research/projects/index.html | be | research | Ashraellen — Праекты даследавання | ashraellen, research, projects, праекты, даследавання, карта, рабочых, палёў, monolith, асноўны, канал, публічнае, поле, сатырычныя, бакавыя, лабараторыі, ўспрымання, instagram | ashraellen, праекты, monolith, research, бакавыя, канал, ныцця, поле, instagram, occultus, projects, scriptorium, telegram, whisper, адкрыць, асноўны, даследавання, дзе |
+| be/research/projects/index.html | be | research | Ashraellen — Праекты даследавання | ashraellen, research, projects, праекты, даследавання, карта, рабочых, палёў, monolith, асноўны, канал, публічнае, поле, сатырычныя, бакавыя, лабараторыі, ўспрымання, instagram | ashraellen, праекты, monolith, research, бакавыя, канал, ныцця, поле, instagram, projects, seven, telegram, whisper, адкрыць, асноўны, даследавання, дзе, жывой |
 | be/research/sources/index.html | be | research | Ashraellen — Крыніцы і традыцыя | ashraellen, research, sources, крыніцы, традыцыя, фенаменалогія, свядомасці, цела, наратыў, кагнітыўная, навука, мастацкая, практыка, эдмунд, гусерль, досвед, гатовых, тлумачэнняў | ashraellen, крыніцы, традыцыя, цела, research, досвед, свядомасці, свядомасць, фенаменалогія, sources, аповед, бачным, варэла, гатовых, гусерль, даследавання, досведу, жывая |
 | de/books/demotopia/index.html | de | books | Demotopia — Demokratische Utopie — ein Roman von Ashraellen | Ashraellen, Demotopia, Demokratische Utopie, philosophischer Roman, Gesellschaftsroman, Warschau, Demokratie, Diktatur, Daten, Freiheit, Verantwortung | demotopia, ashraellen, ein, und, von, books, das, ist, roman, über, als, atmosphäre, auf, ausgewählter, auszug, buch, daten, demokratie |
 | de/books/error-404-god-not-found/index.html | de | books | Ashraellen — Fehler 404: Gott nicht gefunden | _missing_ | fehler, gefunden, gott, nicht, 404, der, die, ashraellen, books, das, den, ein, kanzlei, reihe, beschwerde, buch, bücher, des |
@@ -375,11 +375,11 @@ Pages: 880
 | fi/public/thoughts/index-0002.html | fi | public | Ashraellen — Tukiajatusten toinen kaari | Ashraellen, tukiajatukset, kaari 0002, muisti, havainnointi | kaari, toinen, tukiajatusten, kuppi, likainen, armo, ashraellen, havainnon, herääminen, public, ajatus, älä, ashraellenin, avaa, elossa, havainnointi, hengellisen, index |
 | fi/public/thoughts/index.html | fi | public | Ashraellen — Tukiajatusten kolmas kaari | Ashraellen, tukiajatukset, kaari 0003, todellisuuden hyväksyminen, todistaja, kuva | kaari, kolmas, ajatus, fakta, hienovarainen, hiljaisuutta, kruununsa, kuva, menettää, todistaja, tukiajatusten, ashraellen, ongelma, public, tarvitsee, yksi, ashraellenin, avaa |
 | fi/research/archive/index.html | fi | research | Ashraellen — Tutkimusarkisto | Ashraellen, tutkimusarkisto, tutkimusaineistot, versiot, tutkimuskerrokset, taiteellinen tutkimus | tutkimusarkisto, aiemmat, aktiivisessa, arkisto, ashraellen, ashraellenin, eivät, enää, jotka, ole, research, työssä, aikaista, aineistoille, aineistot, archive, jäljet, kerrokset |
-| fi/research/index.html | fi | research | Ashraellen — Tutkimus | Ashraellen, taiteellinen tutkimus, merkitys, havainto, sisäinen vapaus | tutkimus, ashraellen, miten, digitaalinen, ihminen, research, siitä, voi, avaa, avoin, elämänmittainen, havainto, jatkuva, lähestyä, menetelmä, menettää, merkitykseen, merkityksen |
+| fi/research/index.html | fi | research | Ashraellen — Tutkimus | Ashraellen, taiteellinen tutkimus, merkitys, havainto, sisäinen vapaus | tutkimus, ashraellen, miten, digitaalinen, ihminen, mitä, research, siitä, avaa, avoin, elämänmittainen, havainto, jatkuva, lähestyä, menetelmä, menettää, merkitykseen, merkityksen |
 | fi/research/method/index.html | fi | research | Ashraellen — Havainnoinnin menetelmä | Ashraellen, havainnoinnin menetelmä, merkityssolmu, taiteellinen tutkimus, fenomenologia | ashraellen, havainnoinnin, menetelmä, muoto, havainnon, koettelu, ole, research, taiteellinen, alkaa, ashraellenin, eikä, ensimmäisen, havainnointi, havainto, kautta, kirjaaminen, mekanismi |
 | fi/research/notes/index.html | fi | research | Ashraellen — Muistiinpanot | ashraellen, muistiinpanot, marginaalit, tutkimus, epäilyt, fragmentit | ashraellen, muistiinpanot, aineistoa, ashraellenin, epäilyjä, fragmentteja, joka, kieltäytyy, marginaaleja, muuttumasta, opiksi, research, jos, marginaalit, muistiinpanoja, notes, tietoisesti |
 | fi/research/position/index.html | fi | research | Ashraellen — Lähtökohta | ashraellen, lähtökohta, taiteellinen tutkimus, Todellisuus, hyväksyminen, Luoja, ihmisen vapaus, uskonto, vastuu | ashraellen, ihmisen, lähtökohta, ashraellenin, ole, research, toisen, että, hän, hänen, historialliset, hyväksyminen, hyväksymisestä, hyväksyntää, ihminen, ilman, järjestelmä, järjestelmät |
-| fi/research/projects/index.html | fi | research | Ashraellen — Tutkimusprojektit | Ashraellen, tutkimusprojektit, MONOLIITTI, taiteellinen tutkimus, julkinen filosofia | ashraellen, monoliitti, ashraellenin, havainnon, kenttä, projektit, research, avaa, book, church, eikä, ihminen, instagram, julkinen, kartta, kautta, laboratorio, miten |
+| fi/research/projects/index.html | fi | research | Ashraellen — Tutkimusprojektit | Ashraellen, tutkimusprojektit, MONOLIITTI, taiteellinen tutkimus, julkinen filosofia | ashraellen, ashraellenin, havainnon, kenttä, monoliitti, projektit, research, avaa, book, church, eikä, ihminen, instagram, julkinen, kartta, kautta, laboratorio, miten |
 | fi/research/sources/index.html | fi | research | Ashraellen — Lähteet ja tutkimusperinne | Ashraellen, tutkimusperinne, fenomenologia, kognitiotiede, taiteellinen tutkimus | lähteet, tutkimusperinne, ashraellen, fenomenologia, keho, kokemus, research, taiteellinen, tietoisuuden, ashraelleniin, ashraellenin, edmund, elävänä, eleanor, ennen, ensimmäisenä, essee, evan |
 | flow/index.html | root | flow | FLOW — Ashraellen | ashraellen, flow, playlist, youtube, music, doctype, html, title, window.location.replace, https, music.youtube.com, list, plliwih1l4vxtrzs4, wvti69pbdhddk4ny, iuwpb0ptwi1d1elk, script, root, 050505 | flow, ashraellen, playlist, music, youtube, open, opening |
 | focus-group/books/Error404/index.html | root | focus-group | Ошибка 404: Бог не найден — читательская панель | _missing_ | 404, бог, найден, ошибка, панель, читательская, ashraellen, books, ch.title, error404, escapehtml, focus, focus-group, group, важно, вычитки, где, главы |
@@ -2022,8 +2022,8 @@ Excerpt:
 - H1: Даследаванне
 - H2: Што даследуецца | Як гэта робіцца | Фрагментарная форма, бесперапыннае даследаванне | Метад | Як разумець гэтую працу | Мастацкае даследаванне | Адкрытыя веды | Лічбавае грамадства
 - H3: _missing_
-- suggested keyword seed: даследаванне, ashraellen, research, лічбавае, сэнсу, тым, чалавек, або, адкрытыя, адкрыць, бачыць, бесперапыннае, веды, відэа, грамадства, губляе, гэтую, даследавання
-- candidates: ashraellen, адкрыць, відэа, даследаванне, даследавання, дзе, або, назірання, тым, чалавек, лічбавае, сэнсу, архіў, гук, метад, можа, праз, спосаб, сэнс, форма, асобная, асяроддзе, бачыць, думка
+- suggested keyword seed: даследаванне, ashraellen, research, лічбавае, тым, чалавек, або, адкрытыя, адкрыць, бачыць, бесперапыннае, веды, відэа, грамадства, губляе, гэтую, даследавання, даследуецца
+- candidates: ashraellen, адкрыць, дзе, або, відэа, даследаванне, даследавання, назірання, тым, чалавек, лічбавае, праз, сэнсу, архіў, гук, даследуе, метад, механізмы, можа, спосаб, сэнс, форма, seven, voiceprint
 
 Excerpt:
 
@@ -2088,14 +2088,14 @@ Excerpt:
 - description: Карта рабочых палёў Ashraellen: MONOLITH, асноўны канал, публічнае поле, сатырычныя праекты і бакавыя лабараторыі ўспрымання.
 - canonical: https://www.ashraellen.com/be/research/projects/
 - H1: Праекты
-- H2: WHISPER | MONOLITH | Ashraellen | Instagram | Telegram | Царква Святога Ныцця | Кніга Ныцця | Occultus Scriptorium
+- H2: SEVEN | WHISPER | MONOLITH | Ashraellen | Instagram | Telegram | Царква Святога Ныцця | Кніга Ныцця
 - H3: _missing_
-- suggested keyword seed: ashraellen, праекты, monolith, research, бакавыя, канал, ныцця, поле, instagram, occultus, projects, scriptorium, telegram, whisper, адкрыць, асноўны, даследавання, дзе
-- candidates: адкрыць, ashraellen, тут, чалавек, праз, поле, праект, праекты, бакавыя, дзе, жывой, канал, лабараторыі, monolith, telegram, youtube, асноўны, даследуе, думка, калі, месца, мову, ныцця, працуюць
+- suggested keyword seed: ashraellen, праекты, monolith, research, бакавыя, канал, ныцця, поле, instagram, projects, seven, telegram, whisper, адкрыць, асноўны, даследавання, дзе, жывой
+- candidates: адкрыць, ashraellen, тут, чалавек, праект, праз, дзе, поле, праекты, бакавыя, жывой, канал, лабараторыі, monolith, seven, telegram, youtube, асноўны, гэтыя, даследаванне, даследуе, думка, калі, месца
 
 Excerpt:
 
-> Праекты Гэта не вітрына жанраў і не спіс пляцовак. Гэта карта рабочых палёў Ashraellen. Адны праекты з’яўляюцца цэнтральнымі мадэлямі даследавання. Другія — публічнымі зонамі, дзе думка сустракаецца з жывой рэакцыяй. Трэція працуюць як бакавыя лабараторыі: праз сатыру, гук, смак, вобраз, сімвал і паўсядзённае ўспрыманне. Даследаванне жывой мовы WHISPER Праект жывой моўнай падтрымкі праз AI для людзей, якія не маюць агульнай мовы. Калі мову дае машына, у які момант дапамога становіцца аўтарствам? Адкрыць праект → Цэнтральнае поле MONOLITH Галоўная мастацка-даследчая мадэль Ashraellen. Трылогія даследуе, як чалавек губляе асобнасць, памяць, мову, цела і ўнутраную апору ўнутры сістэмы, якая спачатку абяцае парадак, а потым ператварае жывое ў матэрыял. BETON, SLUDGE і GAS — тры станы рэальнасці: застыванне, распад і рассейванне сэнсу. Раман тут працуе не як гісторыя для ўцёкаў, а як мадэль, 
+> Праекты Гэта не вітрына жанраў і не спіс пляцовак. Гэта карта рабочых палёў Ashraellen. Адны праекты з’яўляюцца цэнтральнымі мадэлямі даследавання. Другія — публічнымі зонамі, дзе думка сустракаецца з жывой рэакцыяй. Трэція працуюць як бакавыя лабараторыі: праз сатыру, гук, смак, вобраз, сімвал і паўсядзённае ўспрыманне. Даследаванне чалавечых уразлівасцяў SEVEN Даследча-літаратурны цыкл вакол сямі гістарычна ўстойлівых катэгорый чалавечай уразлівасці: гардыні, сквапнасці, пажадлівасці, зайздрасці, абжорства, гневу і ляноты/acedia. SEVEN не прымае гэтую сямічленную схему як гатовую ісціну. Праект правярае, ці можна паслядоўна адрозніваць гэтыя механізмы, дзе яны пачынаюць перакрывацца і ці вытрымлівае сама класіфікацыя спробы яе абвергнуць. Сем чалавечых уразлівасцяў — ці сем старых назваў для чагосьці больш складанага? Адкрыць SEVEN → Даследаванне жывой мовы WHISPER Праект жывой моўнай 
 
 ### be/research/sources/index.html
 
@@ -3247,7 +3247,7 @@ Excerpt:
 - H2: Was untersucht wird | Wie es geschieht | Fragmentarische Form, fortlaufende Forschung | Methode | Wie diese Arbeit zu verstehen ist | Künstlerische Forschung | Offenes Wissen | Digitale Gesellschaft
 - H3: _missing_
 - suggested keyword seed: eine, forschung, wie, ashraellen, des, ist, und, der, research, als, arbeit, beobachtung, den, dessen, die, diese, digitale, ein
-- candidates: und, der, die, eine, des, ein, wie, nicht, ist, von, sondern, als, ashraellen, das, dem, den, mit, beobachtung, forschung, einem, einer, öffnen, werden, digitale
+- candidates: und, der, die, eine, ein, des, nicht, als, wie, ist, von, sondern, das, den, mit, ashraellen, dem, beobachtung, einem, oder, öffnen, sich, sie, sprache
 
 Excerpt:
 
@@ -3312,14 +3312,14 @@ Excerpt:
 - description: Eine Karte der Arbeitsfelder von Ashraellen: MONOLITH, Hauptkanal, öffentliches Feld, satirische Projekte und Seitenlabore der Wahrnehmung.
 - canonical: https://www.ashraellen.com/de/research/projects/
 - H1: Projekte
-- H2: WHISPER | MONOLITH | Ashraellen | Instagram | Telegram | Church of Saint Whine | The Book of Whinesis | Occultus Scriptorium
+- H2: SEVEN | WHISPER | MONOLITH | Ashraellen | Instagram | Telegram | Church of Saint Whine | The Book of Whinesis
 - H3: _missing_
 - suggested keyword seed: ashraellen, der, eine, monolith, projekte, research, und, von, als, arbeitsfelder, book, church, das, die, ein, feld, forschungsprojekte, hauptkanal
-- candidates: und, der, ein, die, öffnen, als, das, ist, von, nicht, ashraellen, eine, mensch, wie, des, durch, hier, sind, sondern, wahrnehmung, den, feld, projekt, untersucht
+- candidates: und, der, die, ein, öffnen, als, das, ist, nicht, von, ashraellen, eine, mensch, wie, des, durch, hier, projekt, sich, sind, sondern, wahrnehmung, den, feld
 
 Excerpt:
 
-> Projekte Das ist keine Genre-Vitrine und keine Liste von Plattformen. Es ist eine Karte der Arbeitsfelder von Ashraellen. Einige Projekte sind zentrale Forschungsmodelle. Andere sind öffentliche Zonen, in denen der Gedanke auf lebendige Reaktion trifft. Wieder andere arbeiten als Seitenlabore: durch Satire, Klang, Geschmack, Bild, Symbol und alltägliche Wahrnehmung. Live-Sprachforschung WHISPER Ein Projekt für live KI-vermittelte Sprachunterstützung zwischen Menschen ohne gemeinsame Sprache. Wenn die Maschine die Sprache liefert, wann wird Hilfe zu Autorschaft? Projekt öffnen → Zentrales Feld MONOLITH Das zentrale künstlerisch-forschende Modell von Ashraellen. Die Trilogie untersucht, wie der Mensch Eigenständigkeit, Erinnerung, Sprache, Körper und inneren Halt in einem System verliert, das zuerst Ordnung verspricht und dann das Lebendige in Material verwandelt. BETON, SLUDGE und GAS sin
+> Projekte Das ist keine Genre-Vitrine und keine Liste von Plattformen. Es ist eine Karte der Arbeitsfelder von Ashraellen. Einige Projekte sind zentrale Forschungsmodelle. Andere sind öffentliche Zonen, in denen der Gedanke auf lebendige Reaktion trifft. Wieder andere arbeiten als Seitenlabore: durch Satire, Klang, Geschmack, Bild, Symbol und alltägliche Wahrnehmung. Forschung zu menschlichen Verwundbarkeiten SEVEN Ein Forschungs- und Literaturzyklus über sieben historisch beständige Kategorien menschlicher Verwundbarkeit: Hochmut, Habgier, Wollust, Neid, Völlerei, Zorn und Trägheit/acedia. SEVEN behandelt dieses Siebener-Schema nicht als feststehende Wahrheit. Das Projekt prüft, ob sich die Mechanismen konsistent unterscheiden lassen, wo sie sich zu überlappen beginnen und ob die Klassifikation ausdrücklichen Widerlegungsversuchen standhält. Sieben menschliche Verwundbarkeiten — oder sie
 
 ### de/research/sources/index.html
 
@@ -7156,8 +7156,8 @@ Excerpt:
 - H1: Tutkimus
 - H2: Mitä tutkitaan | Miten tutkimus tehdään | Sirpaleinen muoto, jatkuva tutkimus | Menetelmä | Miten tätä työtä voi lähestyä | Taiteellinen tutkimus | Avoin tieto | Digitaalinen yhteiskunta
 - H3: _missing_
-- suggested keyword seed: tutkimus, ashraellen, miten, digitaalinen, ihminen, research, siitä, voi, avaa, avoin, elämänmittainen, havainto, jatkuva, lähestyä, menetelmä, menettää, merkitykseen, merkityksen
-- candidates: ole, vaan, miten, avaa, ashraellen, tutkimus, digitaalinen, tai, missä, siitä, ihminen, voi, ajatus, havainnoinnin, havainnon, ihmisen, menetelmä, merkityksen, mitä, muoto, tutkimuksen, alkaa, arkisto, eivät
+- suggested keyword seed: tutkimus, ashraellen, miten, digitaalinen, ihminen, mitä, research, siitä, avaa, avoin, elämänmittainen, havainto, jatkuva, lähestyä, menetelmä, menettää, merkitykseen, merkityksen
+- candidates: vaan, ole, avaa, miten, ashraellen, missä, mitä, tai, digitaalinen, tutkimus, siitä, ihminen, voi, ajatus, havainnoinnin, havainnon, ihmisen, menetelmä, merkityksen, muoto, tapa, tutkimuksen, alkaa, arkisto
 
 Excerpt:
 
@@ -7222,14 +7222,14 @@ Excerpt:
 - description: Ashraellenin työskentelykenttien kartta: MONOLIITTI, pääkanava, julkinen kenttä, satiiriset projektit ja havainnon sivulaboratoriot.
 - canonical: https://www.ashraellen.com/fi/research/projects/
 - H1: Projektit
-- H2: WHISPER | MONOLIITTI | Ashraellen | Instagram | Telegram | Church of Saint Whine | The Book of Whinesis | Occultus Scriptorium
+- H2: SEVEN | WHISPER | MONOLIITTI | Ashraellen | Instagram | Telegram | Church of Saint Whine | The Book of Whinesis
 - H3: _missing_
-- suggested keyword seed: ashraellen, monoliitti, ashraellenin, havainnon, kenttä, projektit, research, avaa, book, church, eikä, ihminen, instagram, julkinen, kartta, kautta, laboratorio, miten
-- candidates: avaa, ihminen, miten, ole, ashraellenin, kenttä, vaan, eikä, kautta, havainnon, laboratorio, monoliitti, nähdä, osa, pääkanava, siitä, sisäisen, sivulaboratoriot, tutkii, youtube, äänen, ajatus, arvon, ashraellen
+- suggested keyword seed: ashraellen, ashraellenin, havainnon, kenttä, monoliitti, projektit, research, avaa, book, church, eikä, ihminen, instagram, julkinen, kartta, kautta, laboratorio, miten
+- candidates: avaa, ihminen, miten, ole, ashraellenin, kenttä, vaan, eikä, kautta, tutkii, havainnon, laboratorio, monoliitti, nähdä, osa, pääkanava, seven, siitä, sisäisen, sivulaboratoriot, tutkimus, youtube, äänen, ajatus
 
 Excerpt:
 
-> Projektit Tämä ei ole lajien esittely eikä alustaluettelo. Se on Ashraellenin työskentelykenttien kartta. Osa projekteista on tutkimuksen keskeisiä malleja. Osa on julkisia vyöhykkeitä, joissa ajatus kohtaa elävän reaktion. Osa toimii sivulaboratorioina satiirin, äänen, maun, kuvan, symbolin ja arkisen havainnon kautta. Reaaliaikaisen kielen tutkimus WHISPER Reaaliaikaisen AI-välitteisen kielituen hanke ihmisille, joilla ei ole yhteistä kieltä. Jos kone antaa kielen, missä vaiheessa avusta tulee tekijyyttä? Avaa projekti → Keskeinen kenttä MONOLIITTI Ashraellenin keskeinen taiteellis-tutkimuksellinen malli. Trilogia tutkii, miten ihminen menettää erillisyytensä, muistinsa, kielensä, kehonsa ja sisäisen perustansa järjestelmässä, joka ensin lupaa järjestystä ja tekee sitten elävästä materiaalia. BETONI, LIETE ja KAASU ovat kolme todellisuuden tilaa: jähmettyminen, hajoaminen ja merkitykse
+> Projektit Tämä ei ole lajien esittely eikä alustaluettelo. Se on Ashraellenin työskentelykenttien kartta. Osa projekteista on tutkimuksen keskeisiä malleja. Osa on julkisia vyöhykkeitä, joissa ajatus kohtaa elävän reaktion. Osa toimii sivulaboratorioina satiirin, äänen, maun, kuvan, symbolin ja arkisen havainnon kautta. Inhimillisten haavoittuvuuksien tutkimus SEVEN Tutkimuksen ja fiktion sykli seitsemästä historiallisesti sitkeästä inhimillisen haavoittuvuuden kategoriasta: ylpeys, ahneus, himo, kateus, mässäily, viha ja laiskuus/acedia. SEVEN ei pidä tätä seitsemänosaista mallia valmiina totuutena. Hanke tutkii, voidaanko mekanismit erottaa johdonmukaisesti, missä ne alkavat mennä päällekkäin ja kestääkö itse luokitus aktiiviset yritykset osoittaa se vääräksi. Seitsemän inhimillistä haavoittuvuutta — vai seitsemän vanhaa nimeä jollekin monimutkaisemmalle? Avaa SEVEN → Reaaliaikaisen ki
 
 ### fi/research/sources/index.html
 
