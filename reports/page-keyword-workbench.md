@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-13T15:46:20.491Z
+Generated: 2026-10-13T15:47:46.097Z
 Pages: 880
 
 ## Index
@@ -306,7 +306,7 @@ Pages: 880
 | es/research/method/index.html | es | research | Ashraellen — Método de observación | ashraellen, research, method, método, observación, registro, nudos, sentido, forma, artística, como, instrumento, investigación, verificación, mediante, reconocimiento, nudo, campo | observación, ashraellen, método, artística, como, forma, hay, investigación, por, que, research, sentido, verificación, aparece, aquí, campo, cómo, con |
 | es/research/notes/index.html | es | research | Ashraellen — Notas | ashraellen, notas, márgenes, investigación, dudas, fragmentos | ashraellen, notas, márgenes, convertirse, doctrina, dudas, fragmentos, material, niega, que, research, así, concebido, deliberadamente, notes |
 | es/research/position/index.html | es | research | Ashraellen — Posición | ashraellen, posición, investigación artística, Realidad, aceptación, Creador, libertad humana, religión, responsabilidad | ashraellen, realidad, posición, comprensión, persona, punto, research, responsabilidad, sin, una, aceptación, aceptar, actuar, aprobar, camino, coacción, como, con |
-| es/research/projects/index.html | es | research | Ashraellen — Proyectos de investigación | ashraellen, research, projects, proyectos, investigación, mapa, campos, trabajo, monolith, canal, principal, campo, público, satíricos, laboratorios, laterales, percepción, instagram | ashraellen, proyectos, investigación, monolith, research, abrir, aquí, book, campo, campos, canal, church, como, cómo, con, del, instagram, laboratorios |
+| es/research/projects/index.html | es | research | Ashraellen — Proyectos de investigación | ashraellen, research, projects, proyectos, investigación, mapa, campos, trabajo, monolith, canal, principal, campo, público, satíricos, laboratorios, laterales, percepción, instagram | ashraellen, investigación, los, memory, monolith, proyectos, research, seven, voiceprint, whisper, abrir, actualizada, artísticos, campos, como, cómo, con, del |
 | es/research/sources/index.html | es | research | Ashraellen — Fuentes y tradición | ashraellen, research, sources, fuentes, tradición, fenomenología, conciencia, cuerpo, relato, ciencia, cognitiva, práctica, artística, edmund, husserl, experiencia, antes, las | como, ashraellen, conciencia, cuerpo, fuentes, relato, tradición, artística, experiencia, fenomenología, forma, research, antes, ciencia, cognitiva, comprensión, con, direcciones |
 | fi/books/demotopia/index.html | fi | books | Demotopia — Demokraattinen utopia — Ashraellenin romaani | Ashraellen, Demotopia, Demokraattinen utopia, filosofinen romaani, yhteiskunnallinen tieteiskirjallisuus, Varsova, demokratia, diktatuuri, data, vapaus, vastuu | demotopia, ashraellenin, books, romaani, ashraellen, datasta, demokraattinen, demokratiasta, että, filosofinen, hajautetusta, hän, hänen, ihmisen, ilman, ilmapiiri, järjestelmä, julkaisupolkua |
 | fi/books/error-404-god-not-found/index.html | fi | books | Ashraellen — VIRHE 404: JUMALAA EI LÖYTYNYT | Ashraellen, VIRHE 404, Jumalaa ei löytynyt, filosofinen satiiri, romaanisarja | 404, jumalaa, löytynyt, virhe, ashraellen, books, filosofis-satiirinen, ihmisen, sarjan, avaa, error, etsitään, found, god, hakutavasta, häntä, kaikessa, kansliasta |
@@ -455,7 +455,7 @@ Pages: 880
 | fr/research/method/index.html | fr | research | Ashraellen — Méthode d’observation | ashraellen, research, method, méthode, d’observation, d’ashraellen, enregistrement, des, nœuds, sens, forme, artistique, comme, instrument, recherche, vérification, par, reconnaissance | méthode, d’observation, artistique, ashraellen, comme, forme, les, par, pas, recherche, research, sens, vérification, apparaît, champ, comment, d’ashraellen, dans |
 | fr/research/notes/index.html | fr | research | Ashraellen — Notes | ashraellen, notes, marges, recherche, doutes, fragments | notes, ashraellen, marges, devenir, doctrine, doutes, fragments, matière, qui, refuse, research, c’est, cela, d’ashraellen, délibérément |
 | fr/research/position/index.html | fr | research | Ashraellen — Position | ashraellen, position, recherche artistique, Réalité, acceptation, Créateur, liberté humaine, religion, responsabilité | position, réalité, ashraellen, pas, compréhension, d’ashraellen, point, research, responsabilité, sans, une, accepter, agir, approuver, autre, chemin, comme, contrainte |
-| fr/research/projects/index.html | fr | research | Ashraellen — Projets de recherche | ashraellen, research, projects, projets, recherche, carte, des, champs, travail, d’ashraellen, monolith, chaîne, principale, champ, public, satiriques, laboratoires, latéraux | ashraellen, projets, des, monolith, perception, research, book, carte, chaîne, champ, champs, church, comme, d’ashraellen, est, instagram, laboratoires, latéraux |
+| fr/research/projects/index.html | fr | research | Ashraellen — Projets de recherche | ashraellen, research, projects, projets, recherche, carte, des, champs, travail, d’ashraellen, monolith, chaîne, principale, champ, public, satiriques, laboratoires, latéraux | ashraellen, recherche, des, memory, monolith, projets, research, seven, voiceprint, whisper, actualisée, artistiques, carte, champs, comme, comment, d’ashraellen, instagram |
 | fr/research/sources/index.html | fr | research | Ashraellen — Sources et tradition | ashraellen, research, sources, tradition, d’ashraellen, phénoménologie, conscience, corps, récit, sciences, cognitives, pratique, artistique, edmund, husserl, l’expérience, avant, les | comme, sources, ashraellen, conscience, corps, récit, tradition, forme, l’expérience, phénoménologie, research, artistique, avant, avec, cognitives, compréhension, d’ashraellen, dans |
 | google2b44b1dd60a5fdd9.html | root | google2b44b1dd60a5fdd9.html |  | _missing_ | google2b44b1dd60a5fdd9.html, ashraellen, google-site-verification, google2b44b1dd60a5fdd9 |
 | index.html | root | index.html | Ashraellen — Entry | _missing_ | ashraellen, audiobooks, books, choose, inner, language, observation, public, research, texts, videos, your, entry, index, index.html |
@@ -636,7 +636,7 @@ Pages: 880
 | pt/research/method/index.html | pt | research | Ashraellen — Método de Observação | ashraellen, research, method, método, observação, registro, nós, sentido, forma, artística, como, instrumento, pesquisa, verificação, pelo, reconhecimento, campo, aparece | observação, ashraellen, como, método, que, artística, forma, não, pesquisa, por, research, sentido, verificação, aparece, aqui, campo, dentro, formas |
 | pt/research/notes/index.html | pt | research | Ashraellen — Notas | ashraellen, notas, margens, pesquisa, dúvidas, fragmentos | ashraellen, notas, margens, doutrina, dúvidas, fragmentos, material, que, recusa, research, tornar, assim, concebido, deliberadamente, notes |
 | pt/research/position/index.html | pt | research | Ashraellen — Posição | ashraellen, posição, pesquisa artística, Realidade, aceitação, Criador, liberdade humana, religião, responsabilidade | ashraellen, realidade, não, posição, aceitação, pessoa, ponto, research, responsabilidade, sem, uma, agir, aprovação, caminho, coerção, com, como, compreensão |
-| pt/research/projects/index.html | pt | research | Ashraellen — Projetos de pesquisa | ashraellen, research, projects, projetos, pesquisa, mapa, dos, campos, trabalho, monolith, canal, principal, campo, público, satíricos, laboratórios, laterais, percepção | ashraellen, projetos, campo, monolith, percepção, pesquisa, research, abrir, aqui, book, campos, canal, church, como, dos, instagram, laboratórios, laterais |
+| pt/research/projects/index.html | pt | research | Ashraellen — Projetos de pesquisa | ashraellen, research, projects, projetos, pesquisa, mapa, dos, campos, trabalho, monolith, canal, principal, campo, público, satíricos, laboratórios, laterais, percepção | ashraellen, investigação, memory, monolith, projetos, research, seven, voiceprint, whisper, abrir, artísticos, atualizado, campos, com, como, dos, instagram, laboratórios |
 | pt/research/sources/index.html | pt | research | Ashraellen — Fontes e tradição | ashraellen, research, sources, fontes, tradição, fenomenologia, consciência, corpo, narrativa, ciência, cognitiva, prática, artística, edmund, husserl, experiência, antes, das | como, ashraellen, consciência, corpo, fontes, narrativa, tradição, experiência, fenomenologia, forma, research, antes, artística, ciência, cognitiva, com, compreensão, das |
 | research/method/index.html | root | research | Redirecting — Ashraellen | _missing_ | ashraellen, research, redirecting, method |
 | ru/books/demotopia/index.html | ru | books | Demotopia — Демократичная Утопия — роман Ashraellen | Ashraellen, Demotopia, Демократичная Утопия, философский роман, социальная фантастика, Варшава, демократия, диктатура, данные, свобода, ответственность | demotopia, ashraellen, роман, books, без, атмосфера, ближайшего, будущего, варшаве, власти, всё, где, данных, два, демократии, демократичная, его, избранный |
@@ -5978,17 +5978,17 @@ Excerpt:
 - lang: es
 - section: research
 - title: Ashraellen — Proyectos de investigación
-- description: Mapa de campos de trabajo de Ashraellen: MONOLITH, canal principal, campo público, proyectos satíricos y laboratorios laterales de percepción.
+- description: Mapa actualizada de los campos de investigación y artísticos de Ashraellen: SEVEN, VOICEPRINT, MY MEMORY, WHISPER, MONOLITH, práctica pública, sátira y laboratorios laterales.
 - canonical: https://www.ashraellen.com/es/research/projects/
 - H1: Proyectos
-- H2: SEVEN | WHISPER | MONOLITH | Ashraellen | Instagram | Telegram | Church of Saint Whine | The Book of Whinesis
+- H2: SEVEN | VOICEPRINT | MY MEMORY | WHISPER | MONOLITH | Ashraellen | Instagram | Telegram
 - H3: _missing_
-- suggested keyword seed: ashraellen, proyectos, investigación, monolith, research, abrir, aquí, book, campo, campos, canal, church, como, cómo, con, del, instagram, laboratorios
-- candidates: una, abrir, como, persona, ashraellen, del, que, aquí, cómo, con, investigación, los, percepción, sino, campo, convierte, proyecto, proyectos, son, canal, donde, forma, formas, laboratorios
+- suggested keyword seed: ashraellen, investigación, los, memory, monolith, proyectos, research, seven, voiceprint, whisper, abrir, actualizada, artísticos, campos, como, cómo, con, del
+- candidates: una, abrir, investigación, persona, del, los, con, que, como, cómo, ashraellen, memoria, qué, sobre, las, percepción, por, práctica, seven, voiceprint, whisper, artístico, autoría, convierte
 
 Excerpt:
 
-> Proyectos Esto no es una vitrina de géneros ni una lista de plataformas. Es un mapa de los campos de trabajo de Ashraellen. Algunos proyectos son modelos centrales de investigación. Otros son zonas públicas donde el pensamiento se encuentra con una reacción viva. Otros funcionan como laboratorios laterales: a través de la sátira, el sonido, el gusto, la imagen, el símbolo y la percepción cotidiana. Investigación sobre vulnerabilidades humanas SEVEN Un ciclo de investigación y ficción en torno a siete categorías históricamente persistentes de vulnerabilidad humana: orgullo, avaricia, lujuria, envidia, gula, ira y pereza/acedia. SEVEN no acepta este esquema de siete partes como una verdad establecida. Examina si los mecanismos pueden distinguirse de forma consistente, dónde empiezan a solaparse y si la propia clasificación resiste intentos explícitos de refutarla. Siete vulnerabilidades hu
+> Proyectos Esto no es una vitrina de géneros ni una lista de plataformas. Es un mapa de los campos de trabajo de Ashraellen que distingue entre lo que se investiga ahora, los modelos artísticos, la práctica pública y los laboratorios laterales. La capa superior del mapa reúne cuatro líneas de investigación actuales. Difieren en objeto y método, pero convergen en una pregunta: qué ocurre con la autonomía, la percepción, la memoria, la voz y la capacidad de elegir cuando aparece un mediador interno o externo entre la persona y la realidad. Líneas de investigación actuales SEVEN Un ciclo de investigación y ficción en torno a siete categorías históricamente persistentes de vulnerabilidad humana: orgullo, avaricia, lujuria, envidia, gula, ira y pereza/acedia. SEVEN no trata este esquema de siete partes como una verdad establecida. Examina si los mecanismos pueden distinguirse de forma consiste
 
 ### es/research/sources/index.html
 
@@ -8511,17 +8511,17 @@ Excerpt:
 - lang: fr
 - section: research
 - title: Ashraellen — Projets de recherche
-- description: Carte des champs de travail d’Ashraellen : MONOLITH, chaîne principale, champ public, projets satiriques et laboratoires latéraux de perception.
+- description: Carte actualisée des champs de recherche et artistiques d’Ashraellen : SEVEN, VOICEPRINT, MY MEMORY, WHISPER, MONOLITH, pratique publique, satire et laboratoires latéraux.
 - canonical: https://www.ashraellen.com/fr/research/projects/
 - H1: Projets
-- H2: SEVEN | WHISPER | MONOLITH | Ashraellen | Instagram | Telegram | Church of Saint Whine | The Book of Whinesis
+- H2: SEVEN | VOICEPRINT | MY MEMORY | WHISPER | MONOLITH | Ashraellen | Instagram | Telegram
 - H3: _missing_
-- suggested keyword seed: ashraellen, projets, des, monolith, perception, research, book, carte, chaîne, champ, champs, church, comme, d’ashraellen, est, instagram, laboratoires, latéraux
-- candidates: une, des, ouvrir, comme, les, personne, pas, mais, par, est, perception, projet, recherche, sont, champ, comment, dans, ici, pour, projets, son, avec, chaîne, d’ashraellen
+- suggested keyword seed: ashraellen, recherche, des, memory, monolith, projets, research, seven, voiceprint, whisper, actualisée, artistiques, carte, champs, comme, comment, d’ashraellen, instagram
+- candidates: une, ouvrir, les, son, recherche, des, personne, comme, par, pas, qui, comment, dans, mais, mémoire, sur, est, perception, pratique, seven, voiceprint, whisper, artistique, avec
 
 Excerpt:
 
-> Projets Ce n’est pas une vitrine de genres ni une liste de plateformes. C’est une carte des champs de travail d’Ashraellen. Certains projets sont des modèles centraux de recherche. D’autres sont des zones publiques où la pensée rencontre une réaction vivante. D’autres encore travaillent comme laboratoires latéraux : par la satire, le son, le goût, l’image, le symbole et la perception quotidienne. Recherche sur les vulnérabilités humaines SEVEN Un cycle de recherche par la fiction autour de sept catégories historiquement persistantes de vulnérabilité humaine : orgueil, avarice, luxure, envie, gourmandise, colère et paresse/acedia. SEVEN n’accepte pas ce schéma en sept parties comme une vérité établie. Le projet demande si ces mécanismes peuvent être distingués de manière cohérente, où ils commencent à se chevaucher et si la classification elle-même résiste à des tentatives explicites de r
+> Projets Ce n’est pas une vitrine de genres ni une liste de plateformes. C’est une carte des champs de travail d’Ashraellen qui distingue ce qui est actuellement recherché des modèles artistiques, de la pratique publique et des laboratoires latéraux. La couche supérieure de la carte réunit quatre lignes de recherche actuelles. Elles diffèrent par leur objet et leur méthode, mais convergent vers une même question : que devient l’autonomie, la perception, la mémoire, la voix et la capacité de choisir lorsqu’un intermédiaire interne ou externe apparaît entre la personne et la réalité ? Lignes de recherche actuelles SEVEN Un cycle de recherche par la fiction autour de sept catégories historiquement persistantes de vulnérabilité humaine : orgueil, avarice, luxure, envie, gourmandise, colère et paresse/acedia. SEVEN ne traite pas ce schéma en sept parties comme une vérité établie. Il teste si l
 
 ### fr/research/sources/index.html
 
@@ -11588,17 +11588,17 @@ Excerpt:
 - lang: pt
 - section: research
 - title: Ashraellen — Projetos de pesquisa
-- description: Mapa dos campos de trabalho de Ashraellen: MONOLITH, canal principal, campo público, projetos satíricos e laboratórios laterais de percepção.
+- description: Mapa atualizado dos campos de investigação e artísticos de Ashraellen: SEVEN, VOICEPRINT, MY MEMORY, WHISPER, MONOLITH, prática pública, sátira e laboratórios laterais.
 - canonical: https://www.ashraellen.com/pt/research/projects/
 - H1: Projetos
-- H2: SEVEN | WHISPER | MONOLITH | Ashraellen | Instagram | Telegram | Church of Saint Whine | The Book of Whinesis
+- H2: SEVEN | VOICEPRINT | MY MEMORY | WHISPER | MONOLITH | Ashraellen | Instagram | Telegram
 - H3: _missing_
-- suggested keyword seed: ashraellen, projetos, campo, monolith, percepção, pesquisa, research, abrir, aqui, book, campos, canal, church, como, dos, instagram, laboratórios, laterais
-- candidates: como, uma, não, abrir, pessoa, mas, pesquisa, por, ashraellen, aqui, percepção, campo, com, onde, projeto, projetos, que, são, canal, forma, formas, laboratórios, laterais, linguagem
+- suggested keyword seed: ashraellen, investigação, memory, monolith, projetos, research, seven, voiceprint, whisper, abrir, artísticos, atualizado, campos, com, como, dos, instagram, laboratórios
+- candidates: uma, como, abrir, que, investigação, não, pessoa, com, ashraellen, mas, memória, sobre, através, perceção, prática, ser, seven, voiceprint, whisper, artístico, autoria, dos, forma, laboratórios
 
 Excerpt:
 
-> Projetos Isto não é uma vitrine de gêneros nem uma lista de plataformas. É um mapa dos campos de trabalho de Ashraellen. Alguns projetos são modelos centrais de pesquisa. Outros são zonas públicas onde o pensamento encontra uma reação viva. Outros funcionam como laboratórios laterais: por meio da sátira, do som, do gosto, da imagem, do símbolo e da percepção cotidiana. Investigação sobre vulnerabilidades humanas SEVEN Um ciclo de investigação através da ficção em torno de sete categorias historicamente persistentes de vulnerabilidade humana: orgulho, avareza, luxúria, inveja, gula, ira e preguiça/acedia. SEVEN não aceita este esquema de sete partes como uma verdade estabelecida. Pergunta se os mecanismos podem ser distinguidos de forma consistente, onde começam a sobrepor-se e se a própria classificação resiste a tentativas explícitas de a refutar. Sete vulnerabilidades humanas — ou sete
+> Projetos Isto não é uma vitrine de géneros nem uma lista de plataformas. É um mapa dos campos de trabalho de Ashraellen que distingue o que está a ser investigado agora dos modelos artísticos, da prática pública e dos laboratórios laterais. A camada superior do mapa reúne quatro linhas de investigação atuais. Diferem no objeto e no método, mas convergem numa pergunta: o que acontece à autonomia, perceção, memória, voz e capacidade de escolher quando surge um mediador interno ou externo entre a pessoa e a realidade. Linhas atuais de investigação SEVEN Um ciclo de investigação através da ficção em torno de sete categorias historicamente persistentes de vulnerabilidade humana: orgulho, avareza, luxúria, inveja, gula, ira e preguiça/acedia. SEVEN não trata este esquema de sete partes como verdade estabelecida. Testa se os mecanismos podem ser distinguidos de forma consistente, onde começam a
 
 ### pt/research/sources/index.html
 
