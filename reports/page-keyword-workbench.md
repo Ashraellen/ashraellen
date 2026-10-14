@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T15:26:02.488Z
+Generated: 2026-10-14T15:28:34.905Z
 Pages: 910
 
 ## Index
@@ -10961,7 +10961,7 @@ Excerpt:
 - H2: Capítulo em destaque | Sobre o livro | Sem spoilers | Enquadramento de investigação artística | Tópicos | Para quem | Estado linguístico e editorial | Para fundações, editoras e parceiros culturais
 - H3: Varsóvia como espaço de escuta | Instrumento sem ídolo | Ayla e o regresso | O Canto antes do canto | A palavra | A escuta | A língua | O instrumento
 - suggested keyword seed: canto, livro, para, ashraellen, books, esplendor, não, que, sobre, uma, apresentação, artística, audição, ayla, capítulo, com, como, culturais
-- candidates: não, que, uma, com, ayla, mas, para, como, era, mais, por, depois, marta, som, sem, ser, estava, trabalho, nem, quase, canto, onde, agora, cimbalom
+- candidates: não, que, uma, com, mas, ayla, como, para, era, mais, por, depois, marta, som, ser, sem, estava, trabalho, nem, quase, canto, onde, agora, cimbalom
 
 Excerpt:
 
