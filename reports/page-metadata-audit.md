@@ -1,18 +1,18 @@
 # Page Metadata Audit
 
-Generated: 2026-10-14T09:42:28.361Z
+Generated: 2026-10-14T09:46:04.349Z
 
-Pages checked: 889
-Pages with issues: 401
-Total issues: 1823
-Pages with review notes: 687
-Total review notes: 2434
+Pages checked: 890
+Pages with issues: 402
+Total issues: 1824
+Pages with review notes: 688
+Total review notes: 2436
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 287 |
+| MISSING_KEYWORDS | 288 |
 | MISSING_TWITTER_IMAGE | 193 |
 | MISSING_TWITTER_CARD | 179 |
 | MISSING_JSON_LD | 174 |
@@ -35,8 +35,8 @@ Total review notes: 2434
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 687 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 667 |
+| DUPLICATE_OG_IMAGE_REVIEW | 688 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 668 |
 | FALLBACK_OG_IMAGE_USED | 550 |
 | FALLBACK_TWITTER_IMAGE_USED | 530 |
 
@@ -2904,6 +2904,16 @@ Total review notes: 2434
 
 - MISSING_KEYWORDS
 
+### pl/books/seven/pride/index.html
+
+- title: Ashraellen — Pycha | PRIDE · SEVEN, księga II
+- description length: 185
+- canonical: https://www.ashraellen.com/pl/books/seven/pride/
+- og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
+
+- MISSING_KEYWORDS
+
 ### pl/books/the-book-of-whinesis/index.html
 
 - title: Ashraellen — The Book of Whinesis
@@ -5621,8 +5631,8 @@ Total review notes: 2434
 - og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 3 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 3 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
 
 ### be/books/the-book-of-whinesis/index.html
 
@@ -7110,8 +7120,8 @@ Total review notes: 2434
 - og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 3 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 3 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
 
 ### en/books/the-book-of-whinesis/index.html
 
@@ -9786,6 +9796,15 @@ Total review notes: 2434
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
 
+### pl/books/seven/pride/index.html
+
+- title: Ashraellen — Pycha | PRIDE · SEVEN, księga II
+- og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
+
 ### pl/books/the-book-of-whinesis/index.html
 
 - title: Ashraellen — The Book of Whinesis
@@ -11280,8 +11299,8 @@ Total review notes: 2434
 - og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 3 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 3 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
 
 ### ru/books/the-book-of-whinesis/index.html
 

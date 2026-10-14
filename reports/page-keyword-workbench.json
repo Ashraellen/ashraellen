@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T09:42:29.150Z",
+  "generated": "2026-10-14T09:46:04.864Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -38054,6 +38054,88 @@
         "kryminalna",
         "książką",
         "księga"
+      ]
+    },
+    {
+      "page": "pl/books/seven/pride/index.html",
+      "lang": "pl",
+      "section": "books",
+      "title": "Ashraellen — Pycha | PRIDE · SEVEN, księga II",
+      "description": "PRIDE / „Pycha” — dystopia społeczna z cyklu literackiego SEVEN. Kraj, w którym duma staje się wykluczającym poczuciem wyjątkowości, a przynależność przywilejem. Fragment „Sala Chwały”.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/pl/books/seven/pride/",
+      "h1": [
+        "Pycha / PRIDE"
+      ],
+      "h2": [
+        "Fragment literacki",
+        "O książce",
+        "Cicha strona wykluczenia",
+        "Punkty napięcia",
+        "Miejsce w cyklu literackim SEVEN",
+        "Dla czytelników i wydawców",
+        "Stan prac nad książką"
+      ],
+      "h3": [
+        "Duma i wykluczenie",
+        "Dom i kolejka",
+        "Przydatność i przynależność",
+        "Uprzejmość i upokorzenie",
+        "Dzieci i dziedziczenie porządku",
+        "Pamięć i prawo do błędu"
+      ],
+      "slugTerms": [
+        "pl",
+        "books",
+        "seven",
+        "pride"
+      ],
+      "excerpt": "SEVEN · księga II · dystopia społeczna Pycha / PRIDE Kraj, który znów nauczył się być z siebie dumny. Ulice są tu czyste, urzędy działają sprawnie, a ludzie z cichą pewnością uznają obowiązujący porządek za słuszny. Coraz częściej powraca jednak pytanie: kto naprawdę ma prawo nazwać ten kraj swoim domem? Czasem nierówność zaczyna się nie od nienawiści, lecz od przekonania, że swoim należy się odrobinę więcej. SEVEN · Księga II · Ashraellen Fragment literacki „Sala Chwały” · fragment autorski Zwyczajna szkolna wycieczka do muzeum pamięci narodowej. Dzieci poznają historię, którą znają od pierwszej klasy. Jedno z nich zadaje nieoczekiwane pytanie. Przeczytaj fragment Zwiń fragment O dziesiątej rano drzwi otworzyły się przed klasą trzecią B. Dwadzieścioro ośmioro dzieci szło parami, tak jak je nauczono, w jednakowych ciemnych marynarkach. Każde miało na szyi trójkątną chustę, w połowie biał",
+      "candidates": [
+        "się",
+        "nie",
+        "tak",
+        "seven",
+        "fragment",
+        "pride",
+        "dzieci",
+        "przewodnik",
+        "cyklu",
+        "domu",
+        "kiedy",
+        "który",
+        "powiedział",
+        "chwały",
+        "człowieka",
+        "kraj",
+        "księga",
+        "lecz",
+        "ludzie",
+        "nikt",
+        "nim",
+        "niż",
+        "przez",
+        "przynależność"
+      ],
+      "suggestedKeywordSeed": [
+        "pride",
+        "seven",
+        "cyklu",
+        "fragment",
+        "pycha",
+        "ashraellen",
+        "books",
+        "się",
+        "chwały",
+        "cicha",
+        "czytelników",
+        "domu",
+        "duma",
+        "dystopia",
+        "dzieci",
+        "kiedy",
+        "kraj",
+        "książce"
       ]
     },
     {

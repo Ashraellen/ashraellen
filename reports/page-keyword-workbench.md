@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T09:42:29.166Z
-Pages: 890
+Generated: 2026-10-14T09:46:04.876Z
+Pages: 891
 
 ## Index
 
@@ -516,6 +516,7 @@ Pages: 890
 | pl/books/samizdat/order/received/index.html | pl | books | Zgłoszenie otrzymane — samizdat 2.0 | _missing_ | otrzymane, samizdat, zgłoszenie, 2.0, automatycznie, books, aby, adres, ashraellen, czas, dostawę, dostępność, druku, email, nie, order, received, utworzony |
 | pl/books/seccus/index.html | pl | books | Ashraellen — ŚWIĘTA KSIĘGA SECCUS | Ashraellen, SECCUS, Święta Księga SECCUS, Droga Uczciwości, satyra filozoficzna, pieniądze, sukces, samooszustwo, wiedza jako alibi, odpowiedzialność, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Księga | seccus, księga, święta, ashraellen, bez, books, jako, alibi, ani, człowiek, droga, filozoficzna, głos, kogo, korpus, książce, książka, książki |
 | pl/books/seven/greed/index.html | pl | books | Ashraellen — Chciwość \| GREED · SEVEN, księga I | _missing_ | greed, seven, chciwość, cyklu, powieść, ashraellen, books, fragment, stronach, ale, andriej, czytelników, drugi, dwóch, historia, kryminalna, książką, księga |
+| pl/books/seven/pride/index.html | pl | books | Ashraellen — Pycha \| PRIDE · SEVEN, księga II | _missing_ | pride, seven, cyklu, fragment, pycha, ashraellen, books, się, chwały, cicha, czytelników, domu, duma, dystopia, dzieci, kiedy, kraj, książce |
 | pl/books/the-book-of-whinesis/index.html | pl | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sakralna, satyra, dla, tych, którzy, zmęczyli, się, pozytywnymi, wibracjami, niekończącą, produktywnością, kultem, sukcesu, książce | book, whinesis, się, ashraellen, books, albowiem, będzie, będziesz, fragment, jego, książce, którzy, kultem, moania, moanii, narzekania, nie, niekończącą |
 | pl/books/you-are-already-online/index.html | pl | books | Ashraellen — Już jesteś w sieci | _missing_ | jesteś, już, sieci, ashraellen, books, rozdział, algorytmach, already, audio, było, cyberpunkowego, cyfrowej, dramatu, fragment, gatunku, gdzie, hiperrealności, immersyjna |
 | pl/contact.html | pl | contact.html | Kontakt — Ashraellen | ashraellen, kontakt, współpraca, wydawnictwo, granty, media, projekty | ashraellen, kontakt, granty, media, contact, contact.html, kanał, kontaktu, kostyshev, projektów, projekty, przez, publiczne, publikacji, telegram, współpraca, wydawnicze, zapytania |
@@ -9552,6 +9553,23 @@ Excerpt:
 Excerpt:
 
 > SEVEN · księga I · psychologiczna powieść kryminalna Chciwość / GREED Jeden człowiek szuka sposobu na zabezpieczenie przyszłości. Drugi proponuje mu zarobek. Inni mają nadzieję, że wreszcie znaleźli drogę do lepszego życia. Ich decyzje stopniowo stają się elementami systemu, którego konsekwencji nikt z nich nie potrafi dostrzec w całości. Czasem pułapka zaczyna się nie od groźby, lecz od propozycji, której tak bardzo nie chce się odrzucić. SEVEN · Księga I · Ashraellen Wybrany fragment Rozdział pierwszy, § 1.3 · wersja przedostateczna Po rozmowie z Ilją Noel wraca do zwyczajnego życia rodzinnego. Ale już następnego dnia sam musi opowiedzieć komuś innemu o wątpliwej możliwości zarobku. Przeczytaj fragment Zwiń fragment Noel zakończył rozmowę i poszedł do domu. Nina stała już w przedpokoju. — Adoptowałeś najemcę? — Nie spełniał kryterium wieku. — Szkoda. Już drugi raz podgrzałam zupę. — No
+
+### pl/books/seven/pride/index.html
+
+- lang: pl
+- section: books
+- title: Ashraellen — Pycha | PRIDE · SEVEN, księga II
+- description: PRIDE / „Pycha” — dystopia społeczna z cyklu literackiego SEVEN. Kraj, w którym duma staje się wykluczającym poczuciem wyjątkowości, a przynależność przywilejem. Fragment „Sala Chwały”.
+- canonical: https://www.ashraellen.com/pl/books/seven/pride/
+- H1: Pycha / PRIDE
+- H2: Fragment literacki | O książce | Cicha strona wykluczenia | Punkty napięcia | Miejsce w cyklu literackim SEVEN | Dla czytelników i wydawców | Stan prac nad książką
+- H3: Duma i wykluczenie | Dom i kolejka | Przydatność i przynależność | Uprzejmość i upokorzenie | Dzieci i dziedziczenie porządku | Pamięć i prawo do błędu
+- suggested keyword seed: pride, seven, cyklu, fragment, pycha, ashraellen, books, się, chwały, cicha, czytelników, domu, duma, dystopia, dzieci, kiedy, kraj, książce
+- candidates: się, nie, tak, seven, fragment, pride, dzieci, przewodnik, cyklu, domu, kiedy, który, powiedział, chwały, człowieka, kraj, księga, lecz, ludzie, nikt, nim, niż, przez, przynależność
+
+Excerpt:
+
+> SEVEN · księga II · dystopia społeczna Pycha / PRIDE Kraj, który znów nauczył się być z siebie dumny. Ulice są tu czyste, urzędy działają sprawnie, a ludzie z cichą pewnością uznają obowiązujący porządek za słuszny. Coraz częściej powraca jednak pytanie: kto naprawdę ma prawo nazwać ten kraj swoim domem? Czasem nierówność zaczyna się nie od nienawiści, lecz od przekonania, że swoim należy się odrobinę więcej. SEVEN · Księga II · Ashraellen Fragment literacki „Sala Chwały” · fragment autorski Zwyczajna szkolna wycieczka do muzeum pamięci narodowej. Dzieci poznają historię, którą znają od pierwszej klasy. Jedno z nich zadaje nieoczekiwane pytanie. Przeczytaj fragment Zwiń fragment O dziesiątej rano drzwi otworzyły się przed klasą trzecią B. Dwadzieścioro ośmioro dzieci szło parami, tak jak je nauczono, w jednakowych ciemnych marynarkach. Każde miało na szyi trójkątną chustę, w połowie biał
 
 ### pl/books/the-book-of-whinesis/index.html
 
