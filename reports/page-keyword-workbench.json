@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T11:03:26.666Z",
+  "generated": "2026-10-14T11:12:34.290Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -23710,8 +23710,8 @@
       "lang": "fi",
       "section": "books",
       "title": "Ashraellen — Kirjat",
-      "description": "Ashraellenin kirjat: Demotopia, MONOLIITTI, HOHDE, VIRHE 404: JUMALAA EI LÖYTYNYT, SECCUS, Olet jo verkossa, The Book of Whinesis ja samizdat 2.0 -tekijäjulkaisut.",
-      "existingKeywords": "Ashraellen, kirjat, MONOLIITTI, HOHDE, Demotopia, SECCUS",
+      "description": "Ashraellenin kirjat: Demotopia, MONOLIITTI, HOHDE, SEVEN, VIRHE 404: JUMALAA EI LÖYTYNYT, SECCUS, Olet jo verkossa, The Book of Whinesis ja samizdat 2.0 -tekijäjulkaisut.",
+      "existingKeywords": "Ashraellen, kirjat, MONOLIITTI, HOHDE, SEVEN, Demotopia, SECCUS",
       "canonical": "https://www.ashraellen.com/fi/books/",
       "h1": [
         "Kirjat"
@@ -23727,7 +23727,7 @@
         "fi",
         "books"
       ],
-      "excerpt": "Kirjat Tänne on koottu Ashraellenin kirjasarjat, itsenäiset romaanit, tutkimuskirjat, satiiri ja tekijän suorat fyysiset julkaisut. Voit aloittaa laajasta kokonaisuudesta tai yhdestä teoksesta. Kirjasarjat sarjat ja pitkäkestoiset projektit MONOLIITTI Kirjallinen ja filosofinen dystopiatrilogia kontrollista, muistista ja järjestelmien hajoamisesta. BETONI, LIETE ja KAASU seuraavat sosiaalisen aineen siirtymää kovettuneesta vakaudesta viskoosin muodonmuutoksen kautta muodon täydelliseen paineenpurkautumiseen. Avaa trilogia trilogia HOHDE Kirjallis-filosofinen taiteellisen tutkimuksen sykli pohjoisista legendoista ja muinaisista kuvista elävinä maailman lukemisen ohjeina. Ei Kalevalan uudelleenkerronta vaan paluu siihen inhimilliseen kokemukseen, josta tällaiset kertomukset saattoivat syntyä. Avaa sykli sykli VIRHE 404: JUMALAA EI LÖYTYNYT Filosofinen ja satiirinen romaanisarja Taivaallise",
+      "excerpt": "Kirjat Tänne on koottu Ashraellenin kirjasarjat, itsenäiset romaanit, tutkimuskirjat, satiiri ja tekijän suorat fyysiset julkaisut. Voit aloittaa laajasta kokonaisuudesta tai yhdestä teoksesta. Kirjasarjat sarjat ja pitkäkestoiset projektit MONOLIITTI Kirjallinen ja filosofinen dystopiatrilogia kontrollista, muistista ja järjestelmien hajoamisesta. BETONI, LIETE ja KAASU seuraavat sosiaalisen aineen siirtymää kovettuneesta vakaudesta viskoosin muodonmuutoksen kautta muodon täydelliseen paineenpurkautumiseen. Avaa trilogia trilogia HOHDE Kirjallis-filosofinen taiteellisen tutkimuksen sykli pohjoisista legendoista ja muinaisista kuvista elävinä maailman lukemisen ohjeina. Ei Kalevalan uudelleenkerronta vaan paluu siihen inhimilliseen kokemukseen, josta tällaiset kertomukset saattoivat syntyä. Avaa sykli sykli SEVEN Seitsemän itsenäisen kirjan sarja inhimillisistä haavoittuvuuksista ja vali",
       "candidates": [
         "avaa",
         "kirja",
@@ -23735,11 +23735,13 @@
         "satiiri",
         "2.0",
         "audioromaani",
+        "ihmisen",
         "jumalaa",
         "kirjat",
         "oma",
         "romaani",
         "samizdat",
+        "sarja",
         "sykli",
         "404",
         "ashraellenin",
@@ -23748,11 +23750,9 @@
         "demotopia",
         "hänet",
         "hohde",
-        "ihmisen",
         "itsenäiset",
         "järjestelmä",
-        "kirjasarjat",
-        "löytynyt"
+        "jotka"
       ],
       "suggestedKeywordSeed": [
         "kirjat",
@@ -23771,8 +23771,8 @@
         "demotopia",
         "filosofinen",
         "hohde",
-        "itsenäiset",
-        "kirja"
+        "ihmisen",
+        "itsenäiset"
       ]
     },
     {
@@ -24815,6 +24815,89 @@
         "kahdella",
         "kirjan",
         "kustantajille"
+      ]
+    },
+    {
+      "page": "fi/books/seven/index.html",
+      "lang": "fi",
+      "section": "books",
+      "title": "Ashraellen — SEVEN | Kirjallinen sarja seitsemästä inhimillisestä haavoittuvuudesta",
+      "description": "SEVEN on Ashraellenin kirjallinen sarja seitsemästä inhimillisestä haavoittuvuudesta: ahneus, ylpeys, himo, kateus, viha, mässäily ja velttous. Ensimmäiset kirjat ovat GREED, PRIDE ja LUST.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/fi/books/seven/",
+      "h1": [
+        "SEVEN"
+      ],
+      "h2": [
+        "Mikä SEVEN on?",
+        "Sarjan kirjat",
+        "Seitsemän haavoittuvuutta — seitsemän tapaa menettää kohtuus",
+        "Kenelle SEVEN on kirjoitettu?",
+        "Toimittajille, kustantajille ja tutkimuskumppaneille",
+        "Mitä seuraavaksi?",
+        "Kirjallisuudesta tutkimukseen"
+      ],
+      "h3": [
+        "Ahneus",
+        "Ylpeys",
+        "Himo",
+        "Ahneus / GREED · Kirja I",
+        "Ylpeys / PRIDE · Kirja II",
+        "Himo / LUST · Kirja III",
+        "Kateus / ENVY",
+        "Viha / WRATH"
+      ],
+      "slugTerms": [
+        "fi",
+        "books",
+        "seven"
+      ],
+      "excerpt": "Kirjallinen ja tutkimuksellinen sarja · seitsemän kirjaa SEVEN Seitsemän inhimillistä haavoittuvuutta. Seitsemän itsenäistä kirjallista maailmaa. Yksi yritys ymmärtää, miten tavalliset halut, pelot ja tarpeet alkavat vähitellen ohjata ihmisen valintoja. Ei paheista lopullisena tuomiona, vaan ihmisestä, joka ei aina huomaa, milloin hänen omasta vahvuudestaan tulee haavoittuvuus. Mikä SEVEN on? Kirjallisuus ja tutkimuskysymys SEVENin lähtökohtana on historiallisesti tuttu ajatus seitsemästä inhimillisestä haavoittuvuudesta. Sarja ei kuitenkaan pyri jakamaan ihmisiä yksinkertaisesti »ahneisiin», »ylpeisiin» tai »himoitseviin». Kiinnostuksen kohteena on murroskohta: milloin ymmärrettävä pyrkimys muuttuu kohtuuttomaksi, kietoutuu muihin motiiveihin, alkaa oikeuttaa tekoja ja muuttaa vähitellen ihmistä itseään. Kyse ei ole seitsemästä muunnelmasta samasta juonesta. Rikollinen juonittelu, yhtei",
+      "candidates": [
+        "voi",
+        "ovat",
+        "seitsemän",
+        "kirjallinen",
+        "miten",
+        "tai",
+        "kirja",
+        "kun",
+        "seven",
+        "vähitellen",
+        "ihminen",
+        "mitä",
+        "mutta",
+        "sarja",
+        "ylpeys",
+        "ahneus",
+        "eikä",
+        "että",
+        "himo",
+        "kirjan",
+        "ole",
+        "olla",
+        "romaani",
+        "seitsemästä"
+      ],
+      "suggestedKeywordSeed": [
+        "seven",
+        "kirjallinen",
+        "seitsemän",
+        "ashraellen",
+        "books",
+        "haavoittuvuudesta",
+        "inhimillisestä",
+        "kirjat",
+        "mitä",
+        "ovat",
+        "sarja",
+        "seitsemästä",
+        "ahneus",
+        "ashraellenin",
+        "ensimmäiset",
+        "greed",
+        "haavoittuvuutta",
+        "himo"
       ]
     },
     {
