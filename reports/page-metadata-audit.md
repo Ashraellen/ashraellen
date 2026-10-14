@@ -1,18 +1,18 @@
 # Page Metadata Audit
 
-Generated: 2026-10-14T10:57:07.907Z
+Generated: 2026-10-14T11:03:25.835Z
 
-Pages checked: 907
-Pages with issues: 419
-Total issues: 1841
-Pages with review notes: 705
-Total review notes: 2470
+Pages checked: 908
+Pages with issues: 420
+Total issues: 1842
+Pages with review notes: 706
+Total review notes: 2472
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 305 |
+| MISSING_KEYWORDS | 306 |
 | MISSING_TWITTER_IMAGE | 193 |
 | MISSING_TWITTER_CARD | 179 |
 | MISSING_JSON_LD | 174 |
@@ -35,8 +35,8 @@ Total review notes: 2470
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 705 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 685 |
+| DUPLICATE_OG_IMAGE_REVIEW | 706 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 686 |
 | FALLBACK_OG_IMAGE_USED | 550 |
 | FALLBACK_TWITTER_IMAGE_USED | 530 |
 
@@ -1456,6 +1456,16 @@ Total review notes: 2470
 - canonical: https://www.ashraellen.com/fi/books/seven/greed/
 - og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
+
+- MISSING_KEYWORDS
+
+### fi/books/seven/pride/index.html
+
+- title: Ashraellen — Ylpeys | PRIDE · SEVEN, kirja II
+- description length: 160
+- canonical: https://www.ashraellen.com/fi/books/seven/pride/
+- og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
 - MISSING_KEYWORDS
 
@@ -5801,8 +5811,8 @@ Total review notes: 2470
 - og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### be/books/the-book-of-whinesis/index.html
 
@@ -6557,8 +6567,8 @@ Total review notes: 2470
 - og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### de/books/the-book-of-whinesis/index.html
 
@@ -7317,8 +7327,8 @@ Total review notes: 2470
 - og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### en/books/the-book-of-whinesis/index.html
 
@@ -8084,8 +8094,8 @@ Total review notes: 2470
 - og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### es/books/the-book-of-whinesis/index.html
 
@@ -8816,6 +8826,15 @@ Total review notes: 2470
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
+### fi/books/seven/pride/index.html
+
+- title: Ashraellen — Ylpeys | PRIDE · SEVEN, kirja II
+- og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
+
 ### fi/books/the-book-of-whinesis/index.html
 
 - title: Ashraellen — The Book of Whinesis
@@ -9329,8 +9348,8 @@ Total review notes: 2470
 - og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### fr/books/the-book-of-whinesis/index.html
 
@@ -10071,8 +10090,8 @@ Total review notes: 2470
 - og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### pl/books/the-book-of-whinesis/index.html
 
@@ -10838,8 +10857,8 @@ Total review notes: 2470
 - og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### pt/books/the-book-of-whinesis/index.html
 
@@ -11595,8 +11614,8 @@ Total review notes: 2470
 - og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### ru/books/the-book-of-whinesis/index.html
 
@@ -12450,8 +12469,8 @@ Total review notes: 2470
 - og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 10 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 10 pages
 
 ### uk/books/the-book-of-whinesis/index.html
 

@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T10:57:08.752Z
-Pages: 908
+Generated: 2026-10-14T11:03:26.679Z
+Pages: 909
 
 ## Index
 
@@ -337,6 +337,7 @@ Pages: 908
 | fi/books/samizdat/order/received/index.html | fi | books | Pyyntö vastaanotettu — samizdat 2.0 — Ashraellen | Ashraellen, samizdat 2.0, kirjapyyntö, tekijäkappale, pyyntö vastaanotettu | samizdat, 2.0, ashraellen, pyyntö, vastaanotettu, automaattisesti, books, ennen, sähköpostitse, valmistusta, aan, alkaa, eikä, hinta, kiitos, kirjapyyntö, muuttunut, ole |
 | fi/books/seccus/index.html | fi | books | Ashraellen — SECCUSIN PYHÄ KIRJA | Ashraellen, SECCUS, SECCUSIN PYHÄ KIRJA, Rehellisyyden polku, filosofinen satiiri, raha, menestys, itsepetos, tieto alibina, vastuu, Sacrunomicon, Ordo Sacrunomiconis, tetrakirja | kirja, pyhä, seccusin, ashraellen, books, rehellisyyden, sivu, ääni, alibina, filosofinen, ihminen, ilman, itsepetoksesta, joka, juonipaljastuksia, kehys, kenelle, kirjallis-filosofinen |
 | fi/books/seven/greed/index.html | fi | books | Ashraellen — Ahneus \| GREED · SEVEN, kirja I | _missing_ | greed, ahneus, ashraellen, books, katkelma, kirja, seven, ajautuminen, andrei, halut, hän, hänen, inhimilliset, jännitteet, joka, kahdella, kirjan, kustantajille |
+| fi/books/seven/pride/index.html | fi | books | Ashraellen — Ylpeys \| PRIDE · SEVEN, kirja II | _missing_ | pride, ylpeys, katkelma, ashraellen, books, kirja, kirjan, seven, dystopia, että, etuoikeudeksi, hän, hiljainen, jännitteet, joka, jossa, kirjallinen, kirjasta |
 | fi/books/the-book-of-whinesis/index.html | fi | books | Ashraellen — The Book of Whinesis | Ashraellen, The Book of Whinesis, satiiri, Church of Saint Whine, uupumus, tuottavuuskultti | book, whinesis, ashraellen, books, jotka, ensimmäiset, hän, herra, joka, katkelma, kirjasta, kulttiin, loputtomaan, luku, luvut, menestyksen, minä, niille |
 | fi/books/you-are-already-online/index.html | fi | books | Ashraellen — Olet jo verkossa | _missing_ | olet, verkossa, ashraellen, books, luku, 03.17, algoritmeista, already, audioromaani, digitaalisesta, ennen, ensimmäinen, hän, hypertodellisuudesta, immersiivinen, katkelma, kirjasta, kyberpunk-draama |
 | fi/contact.html | fi | contact.html | Yhteys — Ashraellen | ashraellen, yhteys, yhteistyö, julkaiseminen, apurahat, media, projektit | ashraellen, yhteys, apurahoja, ashraellenin, julkaisemista, mediaa, projekteja, varten, yhteistyötä, aineistot, contact, contact.html, julkiset, koskevia, telegram-yhteys, yhteydenottoja, yhteystiedot |
@@ -6527,6 +6528,23 @@ Excerpt:
 Excerpt:
 
 > SEVEN · kirja I · psykologinen rikosromaani Ahneus / GREED Yksi etsii keinoa turvata tulevaisuutensa. Toinen tarjoaa hänelle mahdollisuutta ansaita. Toiset taas toivovat löytäneensä vihdoin tien parempaan elämään. Heidän ratkaisunsa muuttuvat vähitellen osiksi järjestelmää, jonka seurauksia kukaan heistä ei pysty näkemään kokonaan. Joskus ansa ei ala uhkauksesta vaan tarjouksesta, josta tekisi liian kovasti mieli olla kieltäytymättä. SEVEN · Kirja I · Ashraellen Valittu katkelma Ensimmäinen luku, § 1.3 · alustava versio Puhuttuaan Iljan kanssa Noel palaa tavalliseen kotielämäänsä. Mutta jo seuraavana päivänä hän joutuu itse kertomaan toiselle ihmiselle epäilyttävästä ansaintamahdollisuudesta. Lue katkelma Sulje katkelma Noel päätti puhelun ja lähti kotiin. Nina seisoi jo eteisessä. — Adoptoitko sinä sen vuokralaisen? — Oli liian vanha. — Harmi. Lämmitin keiton jo toistamiseen. — Tätä min
+
+### fi/books/seven/pride/index.html
+
+- lang: fi
+- section: books
+- title: Ashraellen — Ylpeys | PRIDE · SEVEN, kirja II
+- description: PRIDE / Ylpeys on SEVEN-sarjan yhteiskunnallinen dystopia maasta, jossa ylpeys muuttuu ulossulkemiseksi ja yhteenkuuluvuus etuoikeudeksi. Katkelma Kunnian sali.
+- canonical: https://www.ashraellen.com/fi/books/seven/pride/
+- H1: Ylpeys / PRIDE
+- H2: Kirjallinen katkelma | Kirjasta | Ulossulkemisen hiljainen puoli | Jännitteet | Kirjan paikka SEVEN-sarjassa | Lukijoille ja kustantajille | Kirjan tilanne
+- H3: Ylpeys ja ulossulkeminen | Koti ja jonotus | Hyödyllisyys ja kuuluminen joukkoon | Kohteliaisuus ja nöyryytys | Lapset ja peritty järjestys | Muisti ja oikeus erehtyä
+- suggested keyword seed: pride, ylpeys, katkelma, ashraellen, books, kirja, kirjan, seven, dystopia, että, etuoikeudeksi, hän, hiljainen, jännitteet, joka, jossa, kirjallinen, kirjasta
+- candidates: oli, niin, että, hän, sen, katkelma, kirja, mutta, opas, joka, kun, pride, ääneen, enää, ole, sanoi, ylpeys, hänen, ilman, kirjan, kuin, kunnian, lapset, meidän
+
+Excerpt:
+
+> SEVEN · kirja II · yhteiskunnallinen dystopia Ylpeys / PRIDE Maa, joka on oppinut jälleen olemaan ylpeä itsestään. Kadut ovat puhtaat, virastot toimivat ja vallitsevan järjestyksen oikeellisuuteen suhtaudutaan tyynen varmasti. Mutta yhä useammin herää kysymys: kenellä on oikeastaan oikeus kutsua tätä maata kodikseen? Joskus eriarvoisuus ei ala vihasta vaan vakaumuksesta, että omille kuuluu vähän enemmän. SEVEN · Kirja II · Ashraellen Kirjallinen katkelma »Kunnian sali» · kirjailijan teksti Tavallinen kouluretki kansallisen muistin museoon. Lapset tutustuvat historiaan, jonka he ovat tunteneet ensimmäiseltä luokalta saakka. Sitten yksi heistä esittää odottamattoman kysymyksen. Lue katkelma Sulje katkelma Kello kymmenen aamulla ovet avattiin kolmannen B-luokan oppilaille. Kaksikymmentäkahdeksan lasta kulki pareittain, niin kuin heille oli opetettu, samanlaisissa tummissa puvuntakeissa. Jok
 
 ### fi/books/the-book-of-whinesis/index.html
 

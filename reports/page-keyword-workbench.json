@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T10:57:08.737Z",
+  "generated": "2026-10-14T11:03:26.666Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -24815,6 +24815,88 @@
         "kahdella",
         "kirjan",
         "kustantajille"
+      ]
+    },
+    {
+      "page": "fi/books/seven/pride/index.html",
+      "lang": "fi",
+      "section": "books",
+      "title": "Ashraellen — Ylpeys | PRIDE · SEVEN, kirja II",
+      "description": "PRIDE / Ylpeys on SEVEN-sarjan yhteiskunnallinen dystopia maasta, jossa ylpeys muuttuu ulossulkemiseksi ja yhteenkuuluvuus etuoikeudeksi. Katkelma Kunnian sali.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/fi/books/seven/pride/",
+      "h1": [
+        "Ylpeys / PRIDE"
+      ],
+      "h2": [
+        "Kirjallinen katkelma",
+        "Kirjasta",
+        "Ulossulkemisen hiljainen puoli",
+        "Jännitteet",
+        "Kirjan paikka SEVEN-sarjassa",
+        "Lukijoille ja kustantajille",
+        "Kirjan tilanne"
+      ],
+      "h3": [
+        "Ylpeys ja ulossulkeminen",
+        "Koti ja jonotus",
+        "Hyödyllisyys ja kuuluminen joukkoon",
+        "Kohteliaisuus ja nöyryytys",
+        "Lapset ja peritty järjestys",
+        "Muisti ja oikeus erehtyä"
+      ],
+      "slugTerms": [
+        "fi",
+        "books",
+        "seven",
+        "pride"
+      ],
+      "excerpt": "SEVEN · kirja II · yhteiskunnallinen dystopia Ylpeys / PRIDE Maa, joka on oppinut jälleen olemaan ylpeä itsestään. Kadut ovat puhtaat, virastot toimivat ja vallitsevan järjestyksen oikeellisuuteen suhtaudutaan tyynen varmasti. Mutta yhä useammin herää kysymys: kenellä on oikeastaan oikeus kutsua tätä maata kodikseen? Joskus eriarvoisuus ei ala vihasta vaan vakaumuksesta, että omille kuuluu vähän enemmän. SEVEN · Kirja II · Ashraellen Kirjallinen katkelma »Kunnian sali» · kirjailijan teksti Tavallinen kouluretki kansallisen muistin museoon. Lapset tutustuvat historiaan, jonka he ovat tunteneet ensimmäiseltä luokalta saakka. Sitten yksi heistä esittää odottamattoman kysymyksen. Lue katkelma Sulje katkelma Kello kymmenen aamulla ovet avattiin kolmannen B-luokan oppilaille. Kaksikymmentäkahdeksan lasta kulki pareittain, niin kuin heille oli opetettu, samanlaisissa tummissa puvuntakeissa. Jok",
+      "candidates": [
+        "oli",
+        "niin",
+        "että",
+        "hän",
+        "sen",
+        "katkelma",
+        "kirja",
+        "mutta",
+        "opas",
+        "joka",
+        "kun",
+        "pride",
+        "ääneen",
+        "enää",
+        "ole",
+        "sanoi",
+        "ylpeys",
+        "hänen",
+        "ilman",
+        "kirjan",
+        "kuin",
+        "kunnian",
+        "lapset",
+        "meidän"
+      ],
+      "suggestedKeywordSeed": [
+        "pride",
+        "ylpeys",
+        "katkelma",
+        "ashraellen",
+        "books",
+        "kirja",
+        "kirjan",
+        "seven",
+        "dystopia",
+        "että",
+        "etuoikeudeksi",
+        "hän",
+        "hiljainen",
+        "jännitteet",
+        "joka",
+        "jossa",
+        "kirjallinen",
+        "kirjasta"
       ]
     },
     {
