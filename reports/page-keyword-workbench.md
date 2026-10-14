@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T10:06:27.104Z
-Pages: 896
+Generated: 2026-10-14T10:10:46.489Z
+Pages: 897
 
 ## Index
 
@@ -578,7 +578,7 @@ Pages: 896
 | pt/books/demotopia/index.html | pt | books | Demotopia — Utopia Democrática — romance de Ashraellen | Ashraellen, Demotopia, Utopia Democrática, romance filosófico, ficção científica social, Varsóvia, democracia, ditadura, dados, liberdade, responsabilidade | demotopia, ashraellen, romance, sobre, books, artístico, atmosfera, circuitos, como, dados, democracia, democrática, distribuído, dois, editoriais, filosófico, forma, futuro |
 | pt/books/error-404-god-not-found/index.html | pt | books | Ashraellen — Erro 404: Deus não encontrado | _missing_ | erro, 404, deus, encontrado, não, ciclo, ashraellen, books, celestial, chancelaria, série, sobre, busca, contra, error, filosófico-satírico, forma, found |
 | pt/books/error-404-god-not-found/why-me/index.html | pt | books | Ashraellen — Por que eu? | _missing_ | por, que, livro, ashraellen, books, deus, não, sobre, 404, alma, burocracia, camadas, celestial, chancelaria, ciclo, com, como, depois |
-| pt/books/index.html | pt | books | Ashraellen — Livros | Ashraellen, livros, Demotopia, Utopia Democrática, MONOLITH, RADIANCE, ERROR 404, SECCUS, Você já está online, The Book of Whinesis, samizdat 2.0, edições de autor | livros, ashraellen, autor, diretas, edições, books, livro, sátira, 2.0, 404, abrir, book, ciclo, ciclos, demotopia, error, está, found |
+| pt/books/index.html | pt | books | Ashraellen — Livros | Ashraellen, livros, Demotopia, Utopia Democrática, MONOLITH, RADIANCE, SEVEN, ERROR 404, SECCUS, Já estás na rede, The Book of Whinesis, samizdat 2.0, edições de autor | livros, ashraellen, autor, edições, books, directas, livro, sátira, 2.0, 404, abrir, através, book, ciclo, ciclos, demotopia, error, estás |
 | pt/books/monolith/beton/index.html | pt | books | Ashraellen — BETÃO | Ashraellen, MONÓLITO, BETÃO, dystopia, literature, artistic research | betão, ashraellen, books, estabilidade, livro, memória, para, sobre, uma, anton, artístico-investigativa, beton, com, como, dentro, distopia, dossiê, editada |
 | pt/books/monolith/gas/index.html | pt | books | Ashraellen — GÁS | Ashraellen, MONÓLITO, GÁS, terceiro volume, Vitória, poder, controlo, memória, localização, meio, sinal, distopia | gás, ashraellen, books, meio, sem, sobre, artístico-investigativa, autor, capítulo, com, como, controlo, depois, dossiê, entre, estado, fonte, fragmento |
 | pt/books/monolith/index.html | pt | books | Ashraellen — MONÓLITO | Ashraellen, MONÓLITO, BETÃO, LAMA, GÁS, dystopia, literature, artistic research | monólito, que, ashraellen, betão, books, colapso, controlo, gás, lama, memória, não, uma, artístico-investigativa, como, confundido, deve, distópica, dos |
@@ -592,6 +592,7 @@ Pages: 896
 | pt/books/samizdat/order/received/index.html | pt | books | Pedido recebido — samizdat 2.0 | _missing_ | pedido, recebido, samizdat, 2.0, automaticamente, books, compra, criada, foi, antes, ashraellen, confirmar, contacto, email, nenhuma, order, received |
 | pt/books/seccus/index.html | pt | books | Ashraellen — O LIVRO SAGRADO DE SECCUS | Ashraellen, SECCUS, O Livro Sagrado de SECCUS, O Caminho da Honestidade, sátira filosófica, dinheiro, sucesso, autoengano, conhecimento como álibi, responsabilidade, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Livro | livro, seccus, sagrado, ashraellen, books, como, página, para, sobre, sucesso, uma, álibi, autoengano, caminho, conhecimento, corpus, dinheiro, escolha |
 | pt/books/seven/greed/index.html | pt | books | Ashraellen — Ganância \| GREED · SEVEN, Livro I | _missing_ | seven, greed, romance, dos, ganância, livro, ashraellen, books, ciclo, lados, noel, para, ambos, com, criminosa, desejos, dinheiro, dois |
+| pt/books/seven/pride/index.html | pt | books | Ashraellen — Soberba \| PRIDE · SEVEN, Livro II | _missing_ | pride, seven, livro, literário, soberba, ashraellen, books, ciclo, excerto, exclusividade, para, sala, ser, casa, com, distopia, editores, estado |
 | pt/books/the-book-of-whinesis/index.html | pt | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sátira, sagrada, para, quem, cansou, das, vibrações, positivas, produtividade, infinita, culto, sucesso, sobre, livro | book, whinesis, ashraellen, books, para, sobre, cansou, capítulos, culto, das, desconto, disse, gnorna, infinita, livro, moania, não, pois |
 | pt/books/you-are-already-online/index.html | pt | books | Ashraellen — Você já está online | _missing_ | está, online, você, ashraellen, books, capítulo, realidade, romance, sobre, algoritmos, already, antes, áudio, como, cyberpunk, demais, digital, drama |
 | pt/contact.html | pt | contact.html | Contato — Ashraellen | ashraellen, contato, colaboração, publicações, bolsas, mídia, projetos | ashraellen, contato, aos, assuntos, bolsas, colaboração, mídia, projetos, canal, contact, contact.html, kostyshev, página, para, publicações, relacionados, telegram |
@@ -10618,17 +10619,17 @@ Excerpt:
 - lang: pt
 - section: books
 - title: Ashraellen — Livros
-- description: Livros de Ashraellen: Demotopia, MONOLITH, RADIANCE, ERROR 404: GOD NOT FOUND, O Livro Sagrado de SECCUS, Você já está online, The Book of Whinesis e edições diretas de autor por meio do samizdat 2.0.
+- description: Livros de Ashraellen: Demotopia, MONOLITH, RADIANCE, SEVEN, ERROR 404: GOD NOT FOUND, O Livro Sagrado de SECCUS, Já estás na rede, The Book of Whinesis e edições directas de autor através do samizdat 2.0.
 - canonical: https://www.ashraellen.com/pt/books/
 - H1: Livros
-- H2: Ciclos de livros | Livros independentes e pesquisas | Sátira | Edições diretas de autor
+- H2: Ciclos de livros | Livros independentes e investigações | Sátira | Edições directas de autor
 - H3: _missing_
-- suggested keyword seed: livros, ashraellen, autor, diretas, edições, books, livro, sátira, 2.0, 404, abrir, book, ciclo, ciclos, demotopia, error, está, found
-- candidates: livro, uma, abrir, livros, ciclo, romance, sobre, autor, diretas, edições, sátira, sistema, 2.0, ashraellen, áudio, dos, filosófico, que, samizdat, trilogia, 404, aqui, autoengano, book
+- suggested keyword seed: livros, ashraellen, autor, edições, books, directas, livro, sátira, 2.0, 404, abrir, através, book, ciclo, ciclos, demotopia, error, estás
+- candidates: ciclo, livros, abrir, livro, uma, romance, sobre, autor, edições, que, sátira, sistema, 2.0, ashraellen, áudio, dos, filosófico, independentes, samizdat, trilogia, 404, aqui, através, autoengano
 
 Excerpt:
 
-> Livros Aqui estão reunidos os ciclos de livros, os romances independentes, os livros-pesquisa, a sátira e as edições físicas diretas de autor de Ashraellen. Escolha um projeto amplo ou comece por um livro específico. Ciclos de livros séries e projetos de longo prazo MONOLITH Uma trilogia distópica literária e filosófica sobre controle, memória e desagregação dos sistemas. BETON, SLUDGE e GAS registram a passagem da matéria social da estabilidade endurecida, pela deformação viscosa, até a perda de vedação da forma. Abrir a trilogia trilogia RADIANCE Um ciclo literário e filosófico de pesquisa artística sobre lendas do norte e imagens antigas como instruções vivas para o mundo. Não é uma recontagem do «Kalevala», mas um retorno à experiência humana da qual histórias assim puderam surgir. Abrir o ciclo ciclo ERROR 404: GOD NOT FOUND Um ciclo romanesco filosófico e satírico sobre a Chancelar
+> Livros Aqui estão reunidos os ciclos de livros, os romances independentes, os livros-investigação, a sátira e as edições físicas diretas de autor de Ashraellen. Escolha um projecto amplo ou comece por um livro específico. Ciclos de livros séries e projectos de longo prazo MONOLITH Uma trilogia distópica literária e filosófica sobre controlo, memória e desagregação dos sistemas. BETON, SLUDGE e GAS registam a passagem da matéria social da estabilidade endurecida, pela deformação viscosa, até a perda de estanquidade da forma. Abrir a trilogia trilogia RADIANCE Um ciclo literário e filosófico de investigação artística sobre lendas do norte e imagens antigas como instruções vivas para o mundo. Não é uma recontagem do «Kalevala», mas um retorno à experiência humana da qual histórias assim puderam surgir. Abrir o ciclo ciclo SEVEN Um ciclo de sete livros independentes sobre vulnerabilidades hu
 
 ### pt/books/monolith/beton/index.html
 
@@ -10850,6 +10851,23 @@ Excerpt:
 Excerpt:
 
 > SEVEN · Livro I · romance policial psicológico Ganância / GREED Um homem procura uma forma de assegurar o futuro. Outro propõe-lhe que ganhe dinheiro. Há ainda quem espere ter finalmente encontrado o caminho para uma vida melhor. As decisões de todos vão-se tornando peças de um sistema cujas consequências nenhum deles consegue compreender por inteiro. Às vezes, a armadilha não começa com uma ameaça, mas com uma proposta a que custa demasiado dizer que não. SEVEN · Livro I · Ashraellen Excerto seleccionado Capítulo I, § 1.3 · versão provisória Depois de falar com Ilia, Noel regressa à sua vida familiar de sempre. Mas, logo no dia seguinte, é ele próprio quem tem de apresentar a outra pessoa uma oportunidade duvidosa de ganhar dinheiro. Ler o excerto Fechar o excerto Noel terminou a chamada e foi para casa. Nina já estava à espera no hall de entrada. — Adoptaste o inquilino? — Não tinha id
+
+### pt/books/seven/pride/index.html
+
+- lang: pt
+- section: books
+- title: Ashraellen — Soberba | PRIDE · SEVEN, Livro II
+- description: PRIDE / «Soberba» — distopia social do ciclo literário SEVEN. Um país onde o orgulho se torna exclusividade e a pertença passa a ser um privilégio. Excerto «Sala da Glória».
+- canonical: https://www.ashraellen.com/pt/books/seven/pride/
+- H1: Soberba / PRIDE
+- H2: Excerto literário | Sobre o livro | O lado silencioso da exclusividade | Pontos de tensão | O lugar no ciclo literário SEVEN | Para leitores e editores | Estado do livro
+- H3: Orgulho e exclusividade | A casa e a fila de espera | Utilidade e pertença | Cortesia e humilhação | As crianças e a herança da ordem | Memória e direito ao erro
+- suggested keyword seed: pride, seven, livro, literário, soberba, ashraellen, books, ciclo, excerto, exclusividade, para, sala, ser, casa, com, distopia, editores, estado
+- candidates: que, uma, não, com, livro, ser, para, mas, pride, sala, seven, casa, como, país, crianças, fila, guia, mais, ninguém, ordem, por, primeiro, quando, sem
+
+Excerpt:
+
+> SEVEN · Livro II · distopia social Soberba / PRIDE Um país que voltou a aprender a orgulhar-se de si próprio. As ruas são limpas, as instituições funcionam e todos parecem serenamente certos de que a ordem estabelecida é a correcta. Mas uma pergunta começa a surgir com insistência: quem tem, de facto, o direito de chamar casa a este país? Às vezes, a desigualdade não começa com o ódio, mas com a convicção de que os nossos merecem um pouco mais. SEVEN · Livro II · Ashraellen Excerto literário «Sala da Glória» · fragmento do autor Uma visita de estudo perfeitamente normal ao museu da memória nacional. As crianças revisitam uma história que conhecem desde o primeiro ano. Até que uma delas faz uma pergunta inesperada. Ler o excerto Fechar o excerto Às dez da manhã, as portas abriram-se para a turma do terceiro B. Vinte e oito crianças avançavam aos pares, como lhes tinham ensinado, com casac
 
 ### pt/books/the-book-of-whinesis/index.html
 

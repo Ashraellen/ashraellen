@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T10:06:27.088Z",
+  "generated": "2026-10-14T10:10:46.479Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -42639,35 +42639,35 @@
       "lang": "pt",
       "section": "books",
       "title": "Ashraellen — Livros",
-      "description": "Livros de Ashraellen: Demotopia, MONOLITH, RADIANCE, ERROR 404: GOD NOT FOUND, O Livro Sagrado de SECCUS, Você já está online, The Book of Whinesis e edições diretas de autor por meio do samizdat 2.0.",
-      "existingKeywords": "Ashraellen, livros, Demotopia, Utopia Democrática, MONOLITH, RADIANCE, ERROR 404, SECCUS, Você já está online, The Book of Whinesis, samizdat 2.0, edições de autor",
+      "description": "Livros de Ashraellen: Demotopia, MONOLITH, RADIANCE, SEVEN, ERROR 404: GOD NOT FOUND, O Livro Sagrado de SECCUS, Já estás na rede, The Book of Whinesis e edições directas de autor através do samizdat 2.0.",
+      "existingKeywords": "Ashraellen, livros, Demotopia, Utopia Democrática, MONOLITH, RADIANCE, SEVEN, ERROR 404, SECCUS, Já estás na rede, The Book of Whinesis, samizdat 2.0, edições de autor",
       "canonical": "https://www.ashraellen.com/pt/books/",
       "h1": [
         "Livros"
       ],
       "h2": [
         "Ciclos de livros",
-        "Livros independentes e pesquisas",
+        "Livros independentes e investigações",
         "Sátira",
-        "Edições diretas de autor"
+        "Edições directas de autor"
       ],
       "h3": [],
       "slugTerms": [
         "pt",
         "books"
       ],
-      "excerpt": "Livros Aqui estão reunidos os ciclos de livros, os romances independentes, os livros-pesquisa, a sátira e as edições físicas diretas de autor de Ashraellen. Escolha um projeto amplo ou comece por um livro específico. Ciclos de livros séries e projetos de longo prazo MONOLITH Uma trilogia distópica literária e filosófica sobre controle, memória e desagregação dos sistemas. BETON, SLUDGE e GAS registram a passagem da matéria social da estabilidade endurecida, pela deformação viscosa, até a perda de vedação da forma. Abrir a trilogia trilogia RADIANCE Um ciclo literário e filosófico de pesquisa artística sobre lendas do norte e imagens antigas como instruções vivas para o mundo. Não é uma recontagem do «Kalevala», mas um retorno à experiência humana da qual histórias assim puderam surgir. Abrir o ciclo ciclo ERROR 404: GOD NOT FOUND Um ciclo romanesco filosófico e satírico sobre a Chancelar",
+      "excerpt": "Livros Aqui estão reunidos os ciclos de livros, os romances independentes, os livros-investigação, a sátira e as edições físicas diretas de autor de Ashraellen. Escolha um projecto amplo ou comece por um livro específico. Ciclos de livros séries e projectos de longo prazo MONOLITH Uma trilogia distópica literária e filosófica sobre controlo, memória e desagregação dos sistemas. BETON, SLUDGE e GAS registam a passagem da matéria social da estabilidade endurecida, pela deformação viscosa, até a perda de estanquidade da forma. Abrir a trilogia trilogia RADIANCE Um ciclo literário e filosófico de investigação artística sobre lendas do norte e imagens antigas como instruções vivas para o mundo. Não é uma recontagem do «Kalevala», mas um retorno à experiência humana da qual histórias assim puderam surgir. Abrir o ciclo ciclo SEVEN Um ciclo de sete livros independentes sobre vulnerabilidades hu",
       "candidates": [
+        "ciclo",
+        "livros",
+        "abrir",
         "livro",
         "uma",
-        "abrir",
-        "livros",
-        "ciclo",
         "romance",
         "sobre",
         "autor",
-        "diretas",
         "edições",
+        "que",
         "sátira",
         "sistema",
         "2.0",
@@ -42675,33 +42675,33 @@
         "áudio",
         "dos",
         "filosófico",
-        "que",
+        "independentes",
         "samizdat",
         "trilogia",
         "404",
         "aqui",
-        "autoengano",
-        "book"
+        "através",
+        "autoengano"
       ],
       "suggestedKeywordSeed": [
         "livros",
         "ashraellen",
         "autor",
-        "diretas",
         "edições",
         "books",
+        "directas",
         "livro",
         "sátira",
         "2.0",
         "404",
         "abrir",
+        "através",
         "book",
         "ciclo",
         "ciclos",
         "demotopia",
         "error",
-        "está",
-        "found"
+        "estás"
       ]
     },
     {
@@ -43743,6 +43743,88 @@
         "desejos",
         "dinheiro",
         "dois"
+      ]
+    },
+    {
+      "page": "pt/books/seven/pride/index.html",
+      "lang": "pt",
+      "section": "books",
+      "title": "Ashraellen — Soberba | PRIDE · SEVEN, Livro II",
+      "description": "PRIDE / «Soberba» — distopia social do ciclo literário SEVEN. Um país onde o orgulho se torna exclusividade e a pertença passa a ser um privilégio. Excerto «Sala da Glória».",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/pt/books/seven/pride/",
+      "h1": [
+        "Soberba / PRIDE"
+      ],
+      "h2": [
+        "Excerto literário",
+        "Sobre o livro",
+        "O lado silencioso da exclusividade",
+        "Pontos de tensão",
+        "O lugar no ciclo literário SEVEN",
+        "Para leitores e editores",
+        "Estado do livro"
+      ],
+      "h3": [
+        "Orgulho e exclusividade",
+        "A casa e a fila de espera",
+        "Utilidade e pertença",
+        "Cortesia e humilhação",
+        "As crianças e a herança da ordem",
+        "Memória e direito ao erro"
+      ],
+      "slugTerms": [
+        "pt",
+        "books",
+        "seven",
+        "pride"
+      ],
+      "excerpt": "SEVEN · Livro II · distopia social Soberba / PRIDE Um país que voltou a aprender a orgulhar-se de si próprio. As ruas são limpas, as instituições funcionam e todos parecem serenamente certos de que a ordem estabelecida é a correcta. Mas uma pergunta começa a surgir com insistência: quem tem, de facto, o direito de chamar casa a este país? Às vezes, a desigualdade não começa com o ódio, mas com a convicção de que os nossos merecem um pouco mais. SEVEN · Livro II · Ashraellen Excerto literário «Sala da Glória» · fragmento do autor Uma visita de estudo perfeitamente normal ao museu da memória nacional. As crianças revisitam uma história que conhecem desde o primeiro ano. Até que uma delas faz uma pergunta inesperada. Ler o excerto Fechar o excerto Às dez da manhã, as portas abriram-se para a turma do terceiro B. Vinte e oito crianças avançavam aos pares, como lhes tinham ensinado, com casac",
+      "candidates": [
+        "que",
+        "uma",
+        "não",
+        "com",
+        "livro",
+        "ser",
+        "para",
+        "mas",
+        "pride",
+        "sala",
+        "seven",
+        "casa",
+        "como",
+        "país",
+        "crianças",
+        "fila",
+        "guia",
+        "mais",
+        "ninguém",
+        "ordem",
+        "por",
+        "primeiro",
+        "quando",
+        "sem"
+      ],
+      "suggestedKeywordSeed": [
+        "pride",
+        "seven",
+        "livro",
+        "literário",
+        "soberba",
+        "ashraellen",
+        "books",
+        "ciclo",
+        "excerto",
+        "exclusividade",
+        "para",
+        "sala",
+        "ser",
+        "casa",
+        "com",
+        "distopia",
+        "editores",
+        "estado"
       ]
     },
     {
