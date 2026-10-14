@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T08:55:07.722Z
-Pages: 883
+Generated: 2026-10-14T09:13:29.301Z
+Pages: 884
 
 ## Index
 
@@ -179,6 +179,7 @@ Pages: 883
 | en/books/samizdat/order/index.html | en | books | Request a samizdat 2.0 copy — Ashraellen | _missing_ | request, copy, 2.0, samizdat, ashraellen, author-issued, book, books, delivery, language, preparation, address, any, confirmation, estimate, order, payment, project |
 | en/books/samizdat/order/received/index.html | en | books | Request received — samizdat 2.0 | _missing_ | received, request, samizdat, 2.0, automatically, been, books, has, address, any, ashraellen, availability, created, email, order, purchase, you |
 | en/books/seccus/index.html | en | books | Ashraellen — THE SACRED BOOK OF SECCUS | Ashraellen, SECCUS, The Sacred Book of SECCUS, The Path of Honesty, philosophical satire, money, success, self-deception, knowledge as an alibi, responsibility, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Book | book, seccus, about, sacred, ashraellen, books, money, own, success, alibi, choice, corpus, does, frame, honesty, how, knowledge, literary-philosophical |
+| en/books/seven/greed/index.html | en | books | Ashraellen — GREED \| SEVEN, Book I | _missing_ | greed, ashraellen, novel, seven, about, book, books, andrey, can, crime, cycle, either, excerpt, his, noel, one, points, promise |
 | en/books/the-book-of-whinesis/index.html | en | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sacred, satire, those, tired, positive, vibes, endless, productivity, cult, success, about, first, chapters, excerpt | book, whinesis, ashraellen, books, about, becomes, chapters, cult, discount, endless, excerpt, first, gnorna, lord, moania, positive, productivity, sacred |
 | en/books/you-are-already-online/index.html | en | books | Ashraellen — You Are Already Online | _missing_ | already, online, you, about, ashraellen, books, chapter, first, novel, reality, algorithms, attention, audio, book, cyberpunk, did, digital, drama |
 | en/contact.html | en | contact.html | Contact — Ashraellen | ashraellen, contact, collaboration, publishing, grants, media, projects | ashraellen, contact, collaboration, grants, inquiries, media, project, publishing, about, channel, contact.html, kostyshev, materials, telegram |
@@ -3816,6 +3817,23 @@ Excerpt:
 Excerpt:
 
 > SACRUNOMICON — A TETRA-BOOK OF SUCCESS TURNED INSIDE OUT THE SACRED BOOK OF SECCUS The Path of Honesty A book about money and success that turns the familiar question around. Not “how to get what you want,” but what exactly a person hopes to buy together with freedom, recognition, and the right to consider themselves accomplished. Money is only the pretext. The real subject of the book is the person who wants it. Russian cover: АХЕПСУ. Sacrunomicon. Selected page Scroll IV: The Fall of Walls A page about the motive hidden behind correct words about freedom, help, usefulness, and purpose. Open page Close page Page 71 — The Shadow Source of Energy We are approaching the deepest layer of your motivation—the one you carefully avoided while sheltering behind beautiful words and noble aims. You told yourself that you wanted money for freedom, to help your family, to serve the world. But beneat
+
+### en/books/seven/greed/index.html
+
+- lang: en
+- section: books
+- title: Ashraellen — GREED | SEVEN, Book I
+- description: GREED is a psychological crime novel in Ashraellen
+- canonical: https://www.ashraellen.com/en/books/seven/greed/
+- H1: GREED
+- H2: Selected excerpt | About the novel | On either side of the promise | Points of tension | GREED within the SEVEN cycle | For readers and publishers | Book status
+- H3: Need and enough | Trust and the convenient truth | The limits of involvement | The urge to recover a loss | Family and self-justification | Responsibility and blame
+- suggested keyword seed: greed, ashraellen, novel, seven, about, book, books, andrey, can, crime, cycle, either, excerpt, his, noel, one, points, promise
+- candidates: his, one, noel, novel, what, about, greed, was, you, andrey, can, them, they, another, book, cycle, seven, story, when, asked, car, crime, does, excerpt
+
+Excerpt:
+
+> SEVEN · Book I · A psychological crime novel GREED One person is searching for a way to secure his future. Another offers him a chance to earn. Others hope they have finally found a path to a better life. Little by little, their decisions become parts of a system whose consequences none of them can see in full. Sometimes a trap begins not with a threat, but with an offer you desperately want to accept. SEVEN · Book I · Ashraellen Selected excerpt Chapter One, § 1.3 · working translation of the pre-final text After speaking with Ilya, Noel returns to the routines of home. But the very next day he finds himself explaining a dubious opportunity to somebody else. Read the excerpt Close the excerpt Noel ended the call and went home. Nina was already waiting in the hallway. “Did you adopt the renter?” “He was too old.” “Pity. I've reheated the soup twice.” “Now that's what I call a real family
 
 ### en/books/the-book-of-whinesis/index.html
 
