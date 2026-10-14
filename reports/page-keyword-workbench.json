@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T10:17:09.965Z",
+  "generated": "2026-10-14T10:20:09.098Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -18937,6 +18937,88 @@
         "delictiva",
         "dentro",
         "deseos"
+      ]
+    },
+    {
+      "page": "es/books/seven/pride/index.html",
+      "lang": "es",
+      "section": "books",
+      "title": "Ashraellen — Soberbia | PRIDE · SEVEN, libro II",
+      "description": "PRIDE / «Soberbia» — distopía social del ciclo literario SEVEN. Un país donde el orgullo se convierte en exclusividad y la pertenencia, en privilegio. Fragmento «Sala de la Gloria».",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/es/books/seven/pride/",
+      "h1": [
+        "Soberbia / PRIDE"
+      ],
+      "h2": [
+        "Fragmento literario",
+        "Sobre el libro",
+        "El lado silencioso de la exclusividad",
+        "Puntos de tensión",
+        "Su lugar en el ciclo literario SEVEN",
+        "Para lectores y editores",
+        "Estado del libro"
+      ],
+      "h3": [
+        "Orgullo y exclusividad",
+        "El hogar y la cola",
+        "Utilidad y pertenencia",
+        "Cortesía y humillación",
+        "Los niños y la herencia del orden",
+        "Memoria y derecho a equivocarse"
+      ],
+      "slugTerms": [
+        "es",
+        "books",
+        "seven",
+        "pride"
+      ],
+      "excerpt": "SEVEN · libro II · distopía social Soberbia / PRIDE Un país que ha aprendido de nuevo a sentirse orgulloso de sí mismo. Aquí las calles están limpias, las instituciones funcionan y reina la serena convicción de que el orden establecido es el correcto. Pero cada vez se plantea una pregunta con más fuerza: ¿quién tiene realmente derecho a llamar hogar a este país? A veces la desigualdad no nace del odio, sino de la certeza de que los nuestros merecen un poco más. SEVEN · Libro II · Ashraellen Fragmento literario «Sala de la Gloria» · fragmento del autor Una excursión escolar corriente al museo de la memoria nacional. Los alumnos repasan una historia que conocen desde primero. Hasta que uno de ellos hace una pregunta inesperada. Leer el fragmento Ocultar el fragmento A las diez de la mañana se abrieron las puertas para tercero B. Veintiocho niños avanzaban de dos en dos, como les habían ens",
+      "candidates": [
+        "que",
+        "una",
+        "los",
+        "las",
+        "del",
+        "libro",
+        "por",
+        "con",
+        "fragmento",
+        "más",
+        "pride",
+        "sala",
+        "seven",
+        "literario",
+        "país",
+        "como",
+        "guía",
+        "había",
+        "nadie",
+        "niños",
+        "para",
+        "pero",
+        "sin",
+        "cuando"
+      ],
+      "suggestedKeywordSeed": [
+        "pride",
+        "libro",
+        "seven",
+        "del",
+        "fragmento",
+        "literario",
+        "soberbia",
+        "ashraellen",
+        "books",
+        "ciclo",
+        "exclusividad",
+        "sala",
+        "con",
+        "convierte",
+        "distopía",
+        "donde",
+        "editores",
+        "estado"
       ]
     },
     {

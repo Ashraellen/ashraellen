@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T10:17:09.977Z
-Pages: 899
+Generated: 2026-10-14T10:20:09.109Z
+Pages: 900
 
 ## Index
 
@@ -259,6 +259,7 @@ Pages: 899
 | es/books/samizdat/order/received/index.html | es | books | Solicitud recibida — samizdat 2.0 | _missing_ | recibida, samizdat, solicitud, 2.0, automáticamente, books, compra, antes, ashraellen, carpeta, confirmar, contacto, correo, coste, creado, ninguna, order, received |
 | es/books/seccus/index.html | es | books | Ashraellen — EL LIBRO SAGRADO DE SECCUS | Ashraellen, SECCUS, El Libro Sagrado de SECCUS, El Camino de la Honestidad, sátira filosófica, dinero, éxito, autoengaño, conocimiento como coartada, responsabilidad, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Libro | libro, seccus, sagrado, ashraellen, books, del, dinero, éxito, página, para, sobre, una, autoengaño, camino, coartada, como, con, conocimiento |
 | es/books/seven/greed/index.html | es | books | Ashraellen — Codicia \| GREED · SEVEN, libro I | _missing_ | del, seven, greed, novela, codicia, libro, ambos, ashraellen, books, ciclo, lados, los, noël, una, con, delictiva, dentro, deseos |
+| es/books/seven/pride/index.html | es | books | Ashraellen — Soberbia \| PRIDE · SEVEN, libro II | _missing_ | pride, libro, seven, del, fragmento, literario, soberbia, ashraellen, books, ciclo, exclusividad, sala, con, convierte, distopía, donde, editores, estado |
 | es/books/the-book-of-whinesis/index.html | es | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sátira, sagrada, para, quienes, han, cansado, las, vibras, positivas, productividad, infinita, culto, éxito, sobre | book, whinesis, ashraellen, books, para, sobre, cansado, capítulos, con, culto, del, dijo, estado, éxito, fragmento, han, infinita, las |
 | es/books/you-are-already-online/index.html | es | books | Ashraellen — Ya estás en la red | _missing_ | estás, red, ashraellen, books, capítulo, del, los, novela, realidad, sobre, una, algoritmos, already, antes, como, cyberpunk, digital, drama |
 | es/contact.html | es | contact.html | Contacto — Ashraellen | ashraellen, contacto, colaboración, publicaciones, subvenciones, medios, proyectos | ashraellen, contacto, colaboración, medios, proyectos, subvenciones, canal, contact, contact.html, investigación, kostyshev, materiales, página, para, publicaciones, telegram |
@@ -5192,6 +5193,23 @@ Excerpt:
 Excerpt:
 
 > SEVEN · libro I · novela negra psicológica Codicia / GREED Un hombre busca la forma de asegurar su futuro. Otro le propone ganar dinero. Otros esperan haber encontrado por fin el camino hacia una vida mejor. Sus decisiones se van convirtiendo en piezas de un sistema cuyas consecuencias ninguno de ellos alcanza a ver por completo. A veces la trampa no empieza con una amenaza, sino con una oferta a la que resulta demasiado tentador decir que sí. SEVEN · Libro I · Ashraellen Fragmento seleccionado Capítulo primero, § 1.3 · versión provisional Después de hablar con Iliá, Noël regresa a su vida familiar de siempre. Pero al día siguiente es él quien debe explicarle a otra persona una dudosa oportunidad de ganar dinero. Leer el fragmento Ocultar el fragmento Noël terminó la llamada y se fue a casa. Nina ya estaba en el recibidor. —¿Has adoptado al inquilino? —No cumplía el requisito de edad. —Q
+
+### es/books/seven/pride/index.html
+
+- lang: es
+- section: books
+- title: Ashraellen — Soberbia | PRIDE · SEVEN, libro II
+- description: PRIDE / «Soberbia» — distopía social del ciclo literario SEVEN. Un país donde el orgullo se convierte en exclusividad y la pertenencia, en privilegio. Fragmento «Sala de la Gloria».
+- canonical: https://www.ashraellen.com/es/books/seven/pride/
+- H1: Soberbia / PRIDE
+- H2: Fragmento literario | Sobre el libro | El lado silencioso de la exclusividad | Puntos de tensión | Su lugar en el ciclo literario SEVEN | Para lectores y editores | Estado del libro
+- H3: Orgullo y exclusividad | El hogar y la cola | Utilidad y pertenencia | Cortesía y humillación | Los niños y la herencia del orden | Memoria y derecho a equivocarse
+- suggested keyword seed: pride, libro, seven, del, fragmento, literario, soberbia, ashraellen, books, ciclo, exclusividad, sala, con, convierte, distopía, donde, editores, estado
+- candidates: que, una, los, las, del, libro, por, con, fragmento, más, pride, sala, seven, literario, país, como, guía, había, nadie, niños, para, pero, sin, cuando
+
+Excerpt:
+
+> SEVEN · libro II · distopía social Soberbia / PRIDE Un país que ha aprendido de nuevo a sentirse orgulloso de sí mismo. Aquí las calles están limpias, las instituciones funcionan y reina la serena convicción de que el orden establecido es el correcto. Pero cada vez se plantea una pregunta con más fuerza: ¿quién tiene realmente derecho a llamar hogar a este país? A veces la desigualdad no nace del odio, sino de la certeza de que los nuestros merecen un poco más. SEVEN · Libro II · Ashraellen Fragmento literario «Sala de la Gloria» · fragmento del autor Una excursión escolar corriente al museo de la memoria nacional. Los alumnos repasan una historia que conocen desde primero. Hasta que uno de ellos hace una pregunta inesperada. Leer el fragmento Ocultar el fragmento A las diez de la mañana se abrieron las puertas para tercero B. Veintiocho niños avanzaban de dos en dos, como les habían ens
 
 ### es/books/the-book-of-whinesis/index.html
 
