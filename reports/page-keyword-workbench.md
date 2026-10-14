@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T09:39:41.668Z
-Pages: 889
+Generated: 2026-10-14T09:42:29.166Z
+Pages: 890
 
 ## Index
 
@@ -515,6 +515,7 @@ Pages: 889
 | pl/books/samizdat/order/index.html | pl | books | Poproś o egzemplarz samizdatu 2.0 — Ashraellen | _missing_ | egzemplarz, 2.0, ashraellen, books, egzemplarza, języku, poproś, samizdatu, adres, autorskiego, czas, czytelnikowi, dostawa, dostawy, dowolnym, koszt, książka, książki |
 | pl/books/samizdat/order/received/index.html | pl | books | Zgłoszenie otrzymane — samizdat 2.0 | _missing_ | otrzymane, samizdat, zgłoszenie, 2.0, automatycznie, books, aby, adres, ashraellen, czas, dostawę, dostępność, druku, email, nie, order, received, utworzony |
 | pl/books/seccus/index.html | pl | books | Ashraellen — ŚWIĘTA KSIĘGA SECCUS | Ashraellen, SECCUS, Święta Księga SECCUS, Droga Uczciwości, satyra filozoficzna, pieniądze, sukces, samooszustwo, wiedza jako alibi, odpowiedzialność, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Księga | seccus, księga, święta, ashraellen, bez, books, jako, alibi, ani, człowiek, droga, filozoficzna, głos, kogo, korpus, książce, książka, książki |
+| pl/books/seven/greed/index.html | pl | books | Ashraellen — Chciwość \| GREED · SEVEN, księga I | _missing_ | greed, seven, chciwość, cyklu, powieść, ashraellen, books, fragment, stronach, ale, andriej, czytelników, drugi, dwóch, historia, kryminalna, książką, księga |
 | pl/books/the-book-of-whinesis/index.html | pl | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sakralna, satyra, dla, tych, którzy, zmęczyli, się, pozytywnymi, wibracjami, niekończącą, produktywnością, kultem, sukcesu, książce | book, whinesis, się, ashraellen, books, albowiem, będzie, będziesz, fragment, jego, książce, którzy, kultem, moania, moanii, narzekania, nie, niekończącą |
 | pl/books/you-are-already-online/index.html | pl | books | Ashraellen — Już jesteś w sieci | _missing_ | jesteś, już, sieci, ashraellen, books, rozdział, algorytmach, already, audio, było, cyberpunkowego, cyfrowej, dramatu, fragment, gatunku, gdzie, hiperrealności, immersyjna |
 | pl/contact.html | pl | contact.html | Kontakt — Ashraellen | ashraellen, kontakt, współpraca, wydawnictwo, granty, media, projekty | ashraellen, kontakt, granty, media, contact, contact.html, kanał, kontaktu, kostyshev, projektów, projekty, przez, publiczne, publikacji, telegram, współpraca, wydawnicze, zapytania |
@@ -9534,6 +9535,23 @@ Excerpt:
 Excerpt:
 
 > SACRUNOMICON — TETRA-KSIĘGA O ODWRÓCONYM SUKCESIE ŚWIĘTA KSIĘGA SECCUS Droga Uczciwości Książka o pieniądzach i sukcesie, która odwraca zwykłe pytanie. Nie „jak zdobyć to, czego się pragnie”, lecz co właściwie człowiek ma nadzieję kupić razem z wolnością, uznaniem i prawem do uważania siebie za osobę spełnioną. Pieniądze są tylko pretekstem. Prawdziwym przedmiotem książki jest człowiek, który ich pragnie. Rosyjska okładka: АХЕПСУ. Sacrunomicon. Wybrana strona Zwój IV: Upadek Murów Strona o motywie, który kryje się za właściwymi słowami o wolności, pomocy, pożytku i przeznaczeniu. Otwórz stronę Zamknij stronę Strona 71 — Cieniste Źródło Energii Zbliżamy się do najgłębszej warstwy twojej motywacji — tej, którą starannie omijałeś, zasłaniając się pięknymi słowami i szlachetnymi celami. Mówiłeś sobie, że chcesz pieniędzy dla wolności, dla pomocy bliskim, dla służenia światu. Lecz pod tą gład
+
+### pl/books/seven/greed/index.html
+
+- lang: pl
+- section: books
+- title: Ashraellen — Chciwość | GREED · SEVEN, księga I
+- description: GREED / „Chciwość” — psychologiczna powieść kryminalna z cyklu SEVEN. Historia Noela wciąganego w przestępczy mechanizm oraz pragnień ludzi po obu stronach oszustwa.
+- canonical: https://www.ashraellen.com/pl/books/seven/greed/
+- H1: Chciwość / GREED
+- H2: Wybrany fragment | O powieści | Po dwóch stronach obietnicy | Punkty napięcia | Powieść w cyklu SEVEN | Dla czytelników i wydawców | Stan prac nad książką
+- H3: Potrzeba i dostatek | Zaufanie i wygodna prawda | Granice uczestnictwa | Pragnienie odzyskania strat | Rodzina i usprawiedliwianie siebie | Odpowiedzialność i wina
+- suggested keyword seed: greed, seven, chciwość, cyklu, powieść, ashraellen, books, fragment, stronach, ale, andriej, czytelników, drugi, dwóch, historia, kryminalna, książką, księga
+- candidates: nie, się, noel, powieść, seven, andriej, greed, sam, ale, cyklu, drugi, fragment, gdzie, jego, stronach, zaczyna, zapytał, ashraellen, chciwość, decyzje, dobry, historia, inni, jeden
+
+Excerpt:
+
+> SEVEN · księga I · psychologiczna powieść kryminalna Chciwość / GREED Jeden człowiek szuka sposobu na zabezpieczenie przyszłości. Drugi proponuje mu zarobek. Inni mają nadzieję, że wreszcie znaleźli drogę do lepszego życia. Ich decyzje stopniowo stają się elementami systemu, którego konsekwencji nikt z nich nie potrafi dostrzec w całości. Czasem pułapka zaczyna się nie od groźby, lecz od propozycji, której tak bardzo nie chce się odrzucić. SEVEN · Księga I · Ashraellen Wybrany fragment Rozdział pierwszy, § 1.3 · wersja przedostateczna Po rozmowie z Ilją Noel wraca do zwyczajnego życia rodzinnego. Ale już następnego dnia sam musi opowiedzieć komuś innemu o wątpliwej możliwości zarobku. Przeczytaj fragment Zwiń fragment Noel zakończył rozmowę i poszedł do domu. Nina stała już w przedpokoju. — Adoptowałeś najemcę? — Nie spełniał kryterium wieku. — Szkoda. Już drugi raz podgrzałam zupę. — No
 
 ### pl/books/the-book-of-whinesis/index.html
 
