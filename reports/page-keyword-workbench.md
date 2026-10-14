@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T11:12:34.304Z
+Generated: 2026-10-14T11:17:30.904Z
 Pages: 910
 
 ## Index
@@ -185,7 +185,7 @@ Pages: 910
 | en/books/samizdat/order/index.html | en | books | Request a samizdat 2.0 copy — Ashraellen | _missing_ | request, copy, 2.0, samizdat, ashraellen, author-issued, book, books, delivery, language, preparation, address, any, confirmation, estimate, order, payment, project |
 | en/books/samizdat/order/received/index.html | en | books | Request received — samizdat 2.0 | _missing_ | received, request, samizdat, 2.0, automatically, been, books, has, address, any, ashraellen, availability, created, email, order, purchase, you |
 | en/books/seccus/index.html | en | books | Ashraellen — THE SACRED BOOK OF SECCUS | Ashraellen, SECCUS, The Sacred Book of SECCUS, The Path of Honesty, philosophical satire, money, success, self-deception, knowledge as an alibi, responsibility, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Book | book, seccus, about, sacred, ashraellen, books, money, own, success, alibi, choice, corpus, does, frame, honesty, how, knowledge, literary-philosophical |
-| en/books/seven/greed/index.html | en | books | Ashraellen — GREED \| SEVEN, Book I | _missing_ | greed, ashraellen, novel, seven, about, book, books, andrey, can, crime, cycle, either, excerpt, his, noel, one, points, promise |
+| en/books/seven/greed/index.html | en | books | Ashraellen — GREED \| SEVEN, Book I | _missing_ | greed, seven, ashraellen, novel, about, book, books, andrey, can, crime, cycle, either, excerpt, his, noel, one, points, promise |
 | en/books/seven/index.html | en | books | Ashraellen — SEVEN \| A Literary Cycle of Seven Human Vulnerabilities | _missing_ | seven, ashraellen, books, research, what, cycle, human, literary, vulnerabilities, book, can, comes, does, editors, its, literature, losing, measure |
 | en/books/seven/pride/index.html | en | books | Ashraellen — PRIDE \| SEVEN, Book II | _missing_ | pride, seven, book, literary, ashraellen, books, cycle, exceptionalism, excerpt, about, becomes, belonging, country, dystopia, face, first, glory, had |
 | en/books/the-book-of-whinesis/index.html | en | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sacred, satire, those, tired, positive, vibes, endless, productivity, cult, success, about, first, chapters, excerpt | book, whinesis, ashraellen, books, about, becomes, chapters, cult, discount, endless, excerpt, first, gnorna, lord, moania, positive, productivity, sacred |
@@ -263,7 +263,7 @@ Pages: 910
 | es/books/seccus/index.html | es | books | Ashraellen — EL LIBRO SAGRADO DE SECCUS | Ashraellen, SECCUS, El Libro Sagrado de SECCUS, El Camino de la Honestidad, sátira filosófica, dinero, éxito, autoengaño, conocimiento como coartada, responsabilidad, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Libro | libro, seccus, sagrado, ashraellen, books, del, dinero, éxito, página, para, sobre, una, autoengaño, camino, coartada, como, con, conocimiento |
 | es/books/seven/greed/index.html | es | books | Ashraellen — Codicia \| GREED · SEVEN, libro I | _missing_ | del, seven, greed, novela, codicia, libro, ambos, ashraellen, books, ciclo, lados, los, noël, una, con, delictiva, dentro, deseos |
 | es/books/seven/index.html | es | books | Ashraellen — SEVEN \| Ciclo literario sobre siete vulnerabilidades humanas | _missing_ | seven, siete, ciclo, ashraellen, investigación, literario, los, para, vulnerabilidades, books, del, humanas, libros, qué, sobre, acedia, codicia, colaboradores |
-| es/books/seven/pride/index.html | es | books | Ashraellen — Soberbia \| PRIDE · SEVEN, libro II | _missing_ | pride, libro, seven, del, fragmento, literario, soberbia, ashraellen, books, ciclo, exclusividad, sala, con, convierte, distopía, donde, editores, estado |
+| es/books/seven/pride/index.html | es | books | Ashraellen — Soberbia \| PRIDE · SEVEN, libro II | _missing_ | pride, seven, libro, del, fragmento, literario, soberbia, ashraellen, books, ciclo, exclusividad, con, convierte, distopía, donde, editores, estado, gloria |
 | es/books/the-book-of-whinesis/index.html | es | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sátira, sagrada, para, quienes, han, cansado, las, vibras, positivas, productividad, infinita, culto, éxito, sobre | book, whinesis, ashraellen, books, para, sobre, cansado, capítulos, con, culto, del, dijo, estado, éxito, fragmento, han, infinita, las |
 | es/books/you-are-already-online/index.html | es | books | Ashraellen — Ya estás en la red | _missing_ | estás, red, ashraellen, books, capítulo, del, los, novela, realidad, sobre, una, algoritmos, already, antes, como, cyberpunk, digital, drama |
 | es/contact.html | es | contact.html | Contacto — Ashraellen | ashraellen, contacto, colaboración, publicaciones, subvenciones, medios, proyectos | ashraellen, contacto, colaboración, medios, proyectos, subvenciones, canal, contact, contact.html, investigación, kostyshev, materiales, página, para, publicaciones, telegram |
@@ -416,9 +416,9 @@ Pages: 910
 | fr/books/samizdat/order/index.html | fr | books | Demander un exemplaire samizdat 2.0 — Ashraellen | _missing_ | exemplaire, demande, samizdat, 2.0, ashraellen, books, dans, demander, langue, livraison, préparation, choisie, confirmation, d’auteur, d’un, délai, estimation, être |
 | fr/books/samizdat/order/received/index.html | fr | books | Demande reçue — samizdat 2.0 | _missing_ | demande, reçue, samizdat, 2.0, achat, aucun, automatiquement, books, été, afin, ashraellen, avant, compris, créé, e-mail, n’a, order, received |
 | fr/books/seccus/index.html | fr | books | Ashraellen — LE LIVRE SACRÉ DE SECCUS | Ashraellen, SECCUS, Le Livre Sacré de SECCUS, Le Chemin de l’Honnêteté, satire philosophique, argent, réussite, auto-illusion, savoir comme alibi, responsabilité, Sacrunomicon, Ordo Sacrunomiconis, Tétra-Livre | livre, seccus, sacré, ashraellen, books, est, philosophique, pour, qui, réussite, sur, une, alibi, cadre, chemin, choisie, choix, comme |
-| fr/books/seven/greed/index.html | fr | books | Ashraellen — Avidité \| GREED · SEVEN, livre I | _missing_ | greed, roman, seven, avidité, dans, ashraellen, aux, books, cycle, des, les, noël, c’est, choisi, côtés, criminel, d’autre, d’avancement |
+| fr/books/seven/greed/index.html | fr | books | Ashraellen — Avidité \| GREED · SEVEN, livre I | _missing_ | seven, greed, roman, avidité, dans, ashraellen, aux, books, cycle, des, les, noël, c’est, choisi, côtés, criminel, d’autre, d’avancement |
 | fr/books/seven/index.html | fr | books | Ashraellen — SEVEN \| Cycle littéraire des sept vulnérabilités humaines | _missing_ | seven, sept, cycle, les, littéraire, recherche, vulnérabilités, ashraellen, aux, books, des, humaines, livres, sur, acédie, avidité, colère, d’ashraellen |
-| fr/books/seven/pride/index.html | fr | books | Ashraellen — Orgueil \| PRIDE · SEVEN, livre II | _missing_ | pride, seven, littéraire, livre, orgueil, ashraellen, aux, books, cycle, dans, extrait, comme, d’avancement, des, devient, dystopie, éditeurs, est |
+| fr/books/seven/pride/index.html | fr | books | Ashraellen — Orgueil \| PRIDE · SEVEN, livre II | _missing_ | seven, pride, littéraire, livre, orgueil, ashraellen, aux, books, cycle, dans, extrait, d’avancement, des, devient, dystopie, éditeurs, est, état |
 | fr/books/the-book-of-whinesis/index.html | fr | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, satire, sacrée, pour, celles, ceux, qui, sont, fatigués, des, ondes, positives, productivité, sans, fin | book, whinesis, ashraellen, books, des, qui, celles, ceux, chapitres, culte, dans, dit, extrait, fatigués, fin, les, livre, moania |
 | fr/books/you-are-already-online/index.html | fr | books | Ashraellen — Tu es déjà en ligne | _missing_ | déjà, ligne, ashraellen, audio, books, les, réalité, roman, algorithmes, already, avait, avant, chapitre, comme, cyberpunk, dans, des, drame |
 | fr/contact.html | fr | contact.html | Contact — Ashraellen | ashraellen, contact, collaboration, édition, subventions, médias, projets | ashraellen, contact, une, collaboration, demande, éditoriale, médias, projet, aux, canal, contact.html, contacter, contenus, les, pour, subvention, telegram |
@@ -1203,7 +1203,7 @@ Excerpt:
 - H2: Абраны ўрывак | Пра раман | Па розныя бакі абяцання | Пункты напружання | Раман у цыкле SEVEN | Чытачам і выдаўцам | Стан кнігі
 - H3: Патрэба і дастатак | Давер і зручная праўда | Межы ўдзелу | Жаданне вярнуць страчанае | Сям’я і самаапраўданне | Адказнасць і віна
 - suggested keyword seed: greed, seven, раман, сквапнасць, ashraellen, books, бакі, кніга, пра, яго, абодва, абраны, абяцання, але, андрэй, выдаўцам, гісторыя, дзе
-- candidates: пра, ноэль, раман, seven, андрэй, ёсць, кніга, яго, greed, але, дзе, другі, калі, сам, спытаў, тых, яшчэ, ashraellen, абяцанні, адзін, адказнасць, гісторыя, грошы, давер
+- candidates: пра, ноэль, seven, раман, андрэй, ёсць, кніга, яго, greed, але, дзе, другі, калі, сам, спытаў, тых, яшчэ, ashraellen, абяцанні, адзін, адказнасць, гісторыя, грошы, давер
 
 Excerpt:
 
@@ -2478,7 +2478,7 @@ Excerpt:
 - H2: Ausgewählte Leseprobe | Über den Roman | Auf beiden Seiten des Versprechens | Konfliktlinien | Der Roman im Zyklus SEVEN | Für Leserinnen, Leser und Verlage | Stand des Buchprojekts
 - H3: Notwendigkeit und Genug | Vertrauen und die bequeme Wahrheit | Grenzen der Beteiligung | Der Wunsch, Verluste zurückzuholen | Familie und Selbstrechtfertigung | Verantwortung und Schuld
 - suggested keyword seed: greed, seven, des, gier, und, ashraellen, auf, beiden, books, den, der, ein, noel, roman, seiten, aus, ausgewählte, betrugs
-- candidates: die, der, und, nicht, das, eine, ein, noel, von, den, ich, mit, nach, einer, ist, sich, wie, als, auf, aus, für, seven, über, andere
+- candidates: die, der, und, nicht, das, eine, ein, noel, von, den, ich, mit, nach, einer, ist, seven, sich, wie, als, auf, aus, für, über, andere
 
 Excerpt:
 
@@ -2512,7 +2512,7 @@ Excerpt:
 - H2: Literarischer Auszug | Über das Buch | Die stille Seite der Ausgrenzung | Konfliktlinien | Sein Platz im Literaturzyklus SEVEN | Für Leserinnen, Leser und Verlage | Stand des Buchprojekts
 - H3: Stolz und Überlegenheitsgefühl | Das eigene Haus und die Warteschlange | Nützlichkeit und Zugehörigkeit | Höflichkeit und Demütigung | Kinder und das Erbe der Ordnung | Erinnerung und das Recht auf Irrtum
 - suggested keyword seed: pride, seven, hochmut, und, ashraellen, auszug, books, buch, das, dem, der, die, ein, literarischer, auf, aus, ausgrenzung, buchprojekts
-- candidates: der, die, und, das, ein, den, sich, wir, dem, nicht, auf, ist, man, mit, dass, von, des, eine, für, als, haben, buch, menschen, pride
+- candidates: der, die, und, das, ein, den, sich, wir, dem, nicht, auf, ist, man, mit, dass, von, des, eine, für, als, haben, seven, buch, menschen
 
 Excerpt:
 
@@ -3956,8 +3956,8 @@ Excerpt:
 - H1: GREED
 - H2: Selected excerpt | About the novel | On either side of the promise | Points of tension | GREED within the SEVEN cycle | For readers and publishers | Book status
 - H3: Need and enough | Trust and the convenient truth | The limits of involvement | The urge to recover a loss | Family and self-justification | Responsibility and blame
-- suggested keyword seed: greed, ashraellen, novel, seven, about, book, books, andrey, can, crime, cycle, either, excerpt, his, noel, one, points, promise
-- candidates: his, one, noel, novel, what, about, greed, was, you, andrey, can, them, they, another, book, cycle, seven, story, when, asked, car, crime, does, excerpt
+- suggested keyword seed: greed, seven, ashraellen, novel, about, book, books, andrey, can, crime, cycle, either, excerpt, his, noel, one, points, promise
+- candidates: his, one, noel, novel, what, about, greed, was, you, andrey, can, seven, them, they, another, book, cycle, story, when, asked, car, crime, does, excerpt
 
 Excerpt:
 
@@ -3991,7 +3991,7 @@ Excerpt:
 - H2: Literary excerpt | About the book | The quiet face of exceptionalism | Points of tension | PRIDE in the SEVEN literary cycle | For readers and publishers | Book status
 - H3: Pride and exceptionalism | Home and the queue | Usefulness and belonging | Politeness and humiliation | Children and inherited order | Memory and the right to be wrong
 - suggested keyword seed: pride, seven, book, literary, ashraellen, books, cycle, exceptionalism, excerpt, about, becomes, belonging, country, dystopia, face, first, glory, had
-- candidates: people, had, pride, they, book, first, one, seven, their, have, our, when, who, has, its, said, children, country, excerpt, guide, literary, man, own, what
+- candidates: people, had, pride, they, book, seven, first, one, their, have, our, when, who, has, its, said, children, country, excerpt, guide, literary, man, own, what
 
 Excerpt:
 
@@ -5249,7 +5249,7 @@ Excerpt:
 - H2: Fragmento seleccionado | Sobre la novela | A ambos lados de la promesa | Puntos de tensión | La novela dentro del ciclo SEVEN | Para lectores y editores | Estado del libro
 - H3: Necesidad y bienestar | Confianza y verdades convenientes | Los límites de la participación | El deseo de recuperar lo perdido | La familia y las justificaciones | Responsabilidad y culpa
 - suggested keyword seed: del, seven, greed, novela, codicia, libro, ambos, ashraellen, books, ciclo, lados, los, noël, una, con, delictiva, dentro, deseos
-- candidates: una, que, las, los, con, noël, por, del, novela, dinero, libro, seven, andréi, qué, decisiones, greed, hay, otro, pero, sin, sobre, uno, alguien, ciclo
+- candidates: una, que, las, los, con, noël, por, del, novela, seven, dinero, libro, andréi, qué, decisiones, greed, hay, otro, pero, sin, sobre, uno, alguien, ciclo
 
 Excerpt:
 
@@ -5282,8 +5282,8 @@ Excerpt:
 - H1: Soberbia / PRIDE
 - H2: Fragmento literario | Sobre el libro | El lado silencioso de la exclusividad | Puntos de tensión | Su lugar en el ciclo literario SEVEN | Para lectores y editores | Estado del libro
 - H3: Orgullo y exclusividad | El hogar y la cola | Utilidad y pertenencia | Cortesía y humillación | Los niños y la herencia del orden | Memoria y derecho a equivocarse
-- suggested keyword seed: pride, libro, seven, del, fragmento, literario, soberbia, ashraellen, books, ciclo, exclusividad, sala, con, convierte, distopía, donde, editores, estado
-- candidates: que, una, los, las, del, libro, por, con, fragmento, más, pride, sala, seven, literario, país, como, guía, había, nadie, niños, para, pero, sin, cuando
+- suggested keyword seed: pride, seven, libro, del, fragmento, literario, soberbia, ashraellen, books, ciclo, exclusividad, con, convierte, distopía, donde, editores, estado, gloria
+- candidates: que, una, los, las, del, libro, por, con, seven, fragmento, más, pride, sala, literario, país, como, guía, había, nadie, niños, para, pero, sin, cuando
 
 Excerpt:
 
@@ -6524,7 +6524,7 @@ Excerpt:
 - H2: Valittu katkelma | Romaanista | Lupauksen kahdella puolella | Jännitteet | Romaanin paikka SEVEN-sarjassa | Lukijoille ja kustantajille | Kirjan tilanne
 - H3: Tarve ja riittävyys | Luottamus ja sopiva totuus | Osallisuuden rajat | Menetetyn takaisin saaminen | Perhe ja itsensä oikeuttaminen | Vastuu ja syyllisyys
 - suggested keyword seed: greed, ahneus, ashraellen, books, katkelma, kirja, seven, ajautuminen, andrei, halut, hän, hänen, inhimilliset, jännitteet, joka, kahdella, kirjan, kustantajille
-- candidates: noel, hän, oli, andrei, hänen, kirja, vaan, greed, joka, katkelma, missä, mutta, ole, takaisin, toinen, vain, yksi, ahneus, ensimmäinen, iljan, itse, jotka, kysymys, liian
+- candidates: noel, hän, oli, andrei, hänen, kirja, vaan, greed, joka, katkelma, missä, mutta, ole, seven, takaisin, toinen, vain, yksi, ahneus, ensimmäinen, iljan, itse, jotka, kysymys
 
 Excerpt:
 
@@ -7883,8 +7883,8 @@ Excerpt:
 - H1: Avidité / GREED
 - H2: Extrait choisi | À propos du roman | De part et d’autre de la promesse | Points de tension | Le roman dans le cycle SEVEN | Aux lecteurs et aux éditeurs | État d’avancement
 - H3: Le besoin et le sentiment d’avoir assez | La confiance et la vérité arrangeante | Les limites de l’engagement | Vouloir récupérer ce qu’on a perdu | La famille et l’art de se justifier | La responsabilité et la faute
-- suggested keyword seed: greed, roman, seven, avidité, dans, ashraellen, aux, books, cycle, des, les, noël, c’est, choisi, côtés, criminel, d’autre, d’avancement
-- candidates: les, une, des, pas, qui, noël, ses, dans, roman, c’est, est, mais, seven, son, andreï, ceux, encore, livre, lui, plus, greed, par, peu, qu’on
+- suggested keyword seed: seven, greed, roman, avidité, dans, ashraellen, aux, books, cycle, des, les, noël, c’est, choisi, côtés, criminel, d’autre, d’avancement
+- candidates: les, une, des, pas, qui, noël, ses, dans, roman, seven, c’est, est, mais, son, andreï, ceux, encore, livre, lui, plus, greed, par, peu, qu’on
 
 Excerpt:
 
@@ -7917,8 +7917,8 @@ Excerpt:
 - H1: Orgueil / PRIDE
 - H2: Extrait littéraire | À propos du livre | La face silencieuse de l’exclusion | Points de tension | Sa place dans le cycle littéraire SEVEN | Aux lecteurs et aux éditeurs | État d’avancement
 - H3: Fierté et sentiment de supériorité | La maison et la file d’attente | Utilité et appartenance | Politesse et humiliation | Les enfants, héritiers de l’ordre établi | Mémoire et droit à l’erreur
-- suggested keyword seed: pride, seven, littéraire, livre, orgueil, ashraellen, aux, books, cycle, dans, extrait, comme, d’avancement, des, devient, dystopie, éditeurs, est
-- candidates: les, nous, des, une, que, dans, plus, qui, est, livre, pas, comme, d’un, pride, salle, seven, tout, avec, littéraire, lui, mais, pays, personne, sur
+- suggested keyword seed: seven, pride, littéraire, livre, orgueil, ashraellen, aux, books, cycle, dans, extrait, d’avancement, des, devient, dystopie, éditeurs, est, état
+- candidates: les, nous, des, une, que, dans, plus, qui, est, livre, pas, seven, comme, d’un, pride, salle, tout, avec, littéraire, lui, mais, pays, personne, sur
 
 Excerpt:
 
@@ -15398,7 +15398,7 @@ Excerpt:
 - H2: Вибраний уривок | Про роман | По різні боки обіцянки | Точки напруження | Роман у циклі SEVEN | Читачам і видавцям | Стан книги
 - H3: Потреба й достаток | Довіра та зручна правда | Межі участі | Бажання повернути втрачене | Сім’я та самовиправдання | Відповідальність і провина
 - suggested keyword seed: greed, seven, роман, жадібність, ashraellen, books, боки, книга, про, але, андрій, бажань, вибраний, видавцям, він, втягування, запитав, заробити
-- candidates: про, ноель, роман, seven, андрій, книга, greed, він, рішення, але, запитав, заробити, сам, тих, уривок, ashraellen, боки, відповідальність, гроші, жадібність, життя, інша, історія, його
+- candidates: про, seven, ноель, роман, андрій, книга, greed, він, рішення, але, запитав, заробити, сам, тих, уривок, ashraellen, боки, відповідальність, гроші, жадібність, життя, інша, історія, його
 
 Excerpt:
 
@@ -15432,7 +15432,7 @@ Excerpt:
 - H2: Літературний уривок | Про книгу | Тихий бік винятковості | Точки напруження | Місце в літературному циклі SEVEN | Читачам і видавцям | Стан книги
 - H3: Гордість і винятковість | Дім і черга | Корисність і належність | Ввічливість і приниження | Діти й успадкування порядку | Пам’ять і право помилятися
 - suggested keyword seed: pride, seven, гординя, уривок, ashraellen, books, книга, належність, про, антиутопія, бік, видавцям, винятковість, винятковості, він, гордість, екскурсовод, зала
-- candidates: він, seven, pride, книга, так, екскурсовод, коли, про, тут, хто, належність, уривок, але, без, більше, діти, задум, запитання, люди, має, сказав, слави, той, антиутопія
+- candidates: seven, він, pride, книга, так, екскурсовод, коли, про, тут, хто, належність, уривок, але, без, більше, діти, задум, запитання, люди, має, сказав, слави, той, антиутопія
 
 Excerpt:
 
