@@ -1,18 +1,18 @@
 # Page Metadata Audit
 
-Generated: 2026-10-14T09:57:46.719Z
+Generated: 2026-10-14T10:03:06.784Z
 
-Pages checked: 893
-Pages with issues: 405
-Total issues: 1827
-Pages with review notes: 691
-Total review notes: 2442
+Pages checked: 894
+Pages with issues: 406
+Total issues: 1828
+Pages with review notes: 692
+Total review notes: 2444
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 291 |
+| MISSING_KEYWORDS | 292 |
 | MISSING_TWITTER_IMAGE | 193 |
 | MISSING_TWITTER_CARD | 179 |
 | MISSING_JSON_LD | 174 |
@@ -35,8 +35,8 @@ Total review notes: 2442
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 691 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 671 |
+| DUPLICATE_OG_IMAGE_REVIEW | 692 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 672 |
 | FALLBACK_OG_IMAGE_USED | 550 |
 | FALLBACK_TWITTER_IMAGE_USED | 530 |
 
@@ -5247,7 +5247,7 @@ Total review notes: 2442
 ### uk/books/index.html
 
 - title: Ashraellen — Книги
-- description length: 176
+- description length: 183
 - canonical: https://www.ashraellen.com/uk/books/
 - og:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/books-bg.webp
@@ -5389,6 +5389,16 @@ Total review notes: 2442
 - canonical: https://www.ashraellen.com/uk/books/seven/greed/
 - og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
+
+- MISSING_KEYWORDS
+
+### uk/books/seven/index.html
+
+- title: Ashraellen — SEVEN | Літературний цикл про сім людських вразливостей
+- description length: 178
+- canonical: https://www.ashraellen.com/uk/books/seven/
+- og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 
 - MISSING_KEYWORDS
 
@@ -5652,8 +5662,8 @@ Total review notes: 2442
 - og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 5 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 5 pages
 
 ### be/books/seven/pride/index.html
 
@@ -7141,8 +7151,8 @@ Total review notes: 2442
 - og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 5 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 5 pages
 
 ### en/books/seven/pride/index.html
 
@@ -9832,8 +9842,8 @@ Total review notes: 2442
 - og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 5 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 5 pages
 
 ### pl/books/seven/pride/index.html
 
@@ -11329,8 +11339,8 @@ Total review notes: 2442
 - og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 5 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 5 pages
 
 ### ru/books/seven/pride/index.html
 
@@ -12174,6 +12184,15 @@ Total review notes: 2442
 - title: Ashraellen — Жадібність | GREED · SEVEN, книга I
 - og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 5 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 5 pages
+
+### uk/books/seven/index.html
+
+- title: Ashraellen — SEVEN | Літературний цикл про сім людських вразливостей
+- og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 5 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 5 pages
