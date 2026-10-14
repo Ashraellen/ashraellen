@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T10:44:55.910Z",
+  "generated": "2026-10-14T10:47:07.359Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -6976,6 +6976,88 @@
         "aus",
         "ausgewählte",
         "betrugs"
+      ]
+    },
+    {
+      "page": "de/books/seven/pride/index.html",
+      "lang": "de",
+      "section": "books",
+      "title": "Ashraellen — Hochmut | PRIDE · SEVEN, Buch II",
+      "description": "PRIDE / »Hochmut« — Gesellschaftsdystopie aus SEVEN. Ein Land, in dem Stolz in Überlegenheitsdenken umschlägt und Zugehörigkeit zum Privileg wird. Literarischer Auszug »Ruhmeshalle«.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/de/books/seven/pride/",
+      "h1": [
+        "Hochmut / PRIDE"
+      ],
+      "h2": [
+        "Literarischer Auszug",
+        "Über das Buch",
+        "Die stille Seite der Ausgrenzung",
+        "Konfliktlinien",
+        "Sein Platz im Literaturzyklus SEVEN",
+        "Für Leserinnen, Leser und Verlage",
+        "Stand des Buchprojekts"
+      ],
+      "h3": [
+        "Stolz und Überlegenheitsgefühl",
+        "Das eigene Haus und die Warteschlange",
+        "Nützlichkeit und Zugehörigkeit",
+        "Höflichkeit und Demütigung",
+        "Kinder und das Erbe der Ordnung",
+        "Erinnerung und das Recht auf Irrtum"
+      ],
+      "slugTerms": [
+        "de",
+        "books",
+        "seven",
+        "pride"
+      ],
+      "excerpt": "SEVEN · Buch II · Gesellschaftsdystopie Hochmut / PRIDE Ein Land, das wieder gelernt hat, stolz auf sich zu sein. Die Straßen sind sauber, die Behörden funktionieren, und man ist gelassen davon überzeugt, dass die geltende Ordnung richtig ist. Doch immer häufiger stellt sich die Frage: Wer darf dieses Land wirklich sein Zuhause nennen? Manchmal beginnt Ungleichheit nicht mit Hass, sondern mit der Überzeugung, dass den Eigenen ein bisschen mehr zusteht. SEVEN · Buch II · Ashraellen Literarischer Auszug »Ruhmeshalle« · ein Textauszug des Autors Ein ganz gewöhnlicher Schulausflug in ein Museum des nationalen Gedächtnisses. Die Kinder begegnen einer Geschichte, die sie seit der ersten Klasse kennen. Bis eines von ihnen eine unerwartete Frage stellt. Auszug lesen Auszug schließen Um zehn Uhr morgens öffneten sich die Türen für die Klasse 3b. Achtundzwanzig Kinder gingen paarweise, wie man es ",
+      "candidates": [
+        "der",
+        "die",
+        "und",
+        "das",
+        "ein",
+        "den",
+        "sich",
+        "wir",
+        "dem",
+        "nicht",
+        "auf",
+        "ist",
+        "man",
+        "mit",
+        "dass",
+        "von",
+        "des",
+        "eine",
+        "für",
+        "als",
+        "haben",
+        "buch",
+        "menschen",
+        "pride"
+      ],
+      "suggestedKeywordSeed": [
+        "pride",
+        "seven",
+        "hochmut",
+        "und",
+        "ashraellen",
+        "auszug",
+        "books",
+        "buch",
+        "das",
+        "dem",
+        "der",
+        "die",
+        "ein",
+        "literarischer",
+        "auf",
+        "aus",
+        "ausgrenzung",
+        "buchprojekts"
       ]
     },
     {

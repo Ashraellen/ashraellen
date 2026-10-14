@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T10:44:55.925Z
-Pages: 905
+Generated: 2026-10-14T10:47:07.374Z
+Pages: 906
 
 ## Index
 
@@ -99,6 +99,7 @@ Pages: 905
 | de/books/samizdat/order/received/index.html | de | books | Anfrage erhalten — samizdat 2.0 | _missing_ | anfrage, erhalten, samizdat, 2.0, abgeschlossen, automatisch, books, wurde, angegebenen, ashraellen, beginnt, bestätigen, bevor, bitte, ein, kauf, nicht, order |
 | de/books/seccus/index.html | de | books | Ashraellen — DAS HEILIGE BUCH SECCUS | Ashraellen, SECCUS, Das Heilige Buch SECCUS, Der Weg der Ehrlichkeit, philosophische Satire, Geld, Erfolg, Selbsttäuschung, Wissen als Alibi, Verantwortung, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Buch | das, buch, der, die, seccus, heilige, und, ashraellen, books, des, für, ist, seite, über, alibi, als, ausgewählte, buches |
 | de/books/seven/greed/index.html | de | books | Ashraellen — Gier \| GREED · SEVEN, Buch I | _missing_ | greed, seven, des, gier, und, ashraellen, auf, beiden, books, den, der, ein, noel, roman, seiten, aus, ausgewählte, betrugs |
+| de/books/seven/pride/index.html | de | books | Ashraellen — Hochmut \| PRIDE · SEVEN, Buch II | _missing_ | pride, seven, hochmut, und, ashraellen, auszug, books, buch, das, dem, der, die, ein, literarischer, auf, aus, ausgrenzung, buchprojekts |
 | de/books/the-book-of-whinesis/index.html | de | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sakrale, satire, für, alle, die, von, positiven, vibes, endloser, produktivität, und, dem, kult, des | book, whinesis, ashraellen, books, des, die, und, alle, auf, auszug, buch, das, dem, den, der, endloser, erfolgs, erste |
 | de/books/you-are-already-online/index.html | de | books | Ashraellen — Du bist bereits online | _missing_ | bereits, online, bist, des, und, ashraellen, books, das, ein, über, algorithmen, already, audio-roman, auszug, buch, cyberpunk-dramas, den, der |
 | de/contact.html | de | contact.html | Kontakt — Ashraellen | ashraellen, kontakt, zusammenarbeit, verlag, förderungen, medien, projekte | ashraellen, kontakt, förderungen, für, medien, und, zusammenarbeit, contact, contact.html, der, ist, kostyshev, öffentliche, projekte, telegram-kanal, verlagsanfragen |
@@ -2478,6 +2479,23 @@ Excerpt:
 Excerpt:
 
 > SEVEN · Buch I · psychologischer Kriminalroman Gier / GREED Ein Mann sucht nach einer Möglichkeit, seine Zukunft abzusichern. Ein anderer bietet ihm an, Geld zu verdienen. Wieder andere hoffen, endlich einen Weg in ein besseres Leben gefunden zu haben. Nach und nach werden ihre Entscheidungen Teil eines Systems, dessen Folgen keiner von ihnen vollständig überblicken kann. Manchmal beginnt eine Falle nicht mit einer Drohung, sondern mit einem Angebot, das man nur allzu gern annehmen möchte. SEVEN · Buch I · Ashraellen Ausgewählte Leseprobe Erstes Kapitel, § 1.3 · vorläufige Fassung Nach seinem Gespräch mit Ilja kehrt Noel in den gewohnten Familienalltag zurück. Doch schon am folgenden Tag muss er selbst einem anderen Menschen von einer zweifelhaften Verdienstmöglichkeit erzählen. Leseprobe öffnen Leseprobe schließen Noel beendete das Gespräch und ging nach Hause. Nina stand schon im Flur.
+
+### de/books/seven/pride/index.html
+
+- lang: de
+- section: books
+- title: Ashraellen — Hochmut | PRIDE · SEVEN, Buch II
+- description: PRIDE / »Hochmut« — Gesellschaftsdystopie aus SEVEN. Ein Land, in dem Stolz in Überlegenheitsdenken umschlägt und Zugehörigkeit zum Privileg wird. Literarischer Auszug »Ruhmeshalle«.
+- canonical: https://www.ashraellen.com/de/books/seven/pride/
+- H1: Hochmut / PRIDE
+- H2: Literarischer Auszug | Über das Buch | Die stille Seite der Ausgrenzung | Konfliktlinien | Sein Platz im Literaturzyklus SEVEN | Für Leserinnen, Leser und Verlage | Stand des Buchprojekts
+- H3: Stolz und Überlegenheitsgefühl | Das eigene Haus und die Warteschlange | Nützlichkeit und Zugehörigkeit | Höflichkeit und Demütigung | Kinder und das Erbe der Ordnung | Erinnerung und das Recht auf Irrtum
+- suggested keyword seed: pride, seven, hochmut, und, ashraellen, auszug, books, buch, das, dem, der, die, ein, literarischer, auf, aus, ausgrenzung, buchprojekts
+- candidates: der, die, und, das, ein, den, sich, wir, dem, nicht, auf, ist, man, mit, dass, von, des, eine, für, als, haben, buch, menschen, pride
+
+Excerpt:
+
+> SEVEN · Buch II · Gesellschaftsdystopie Hochmut / PRIDE Ein Land, das wieder gelernt hat, stolz auf sich zu sein. Die Straßen sind sauber, die Behörden funktionieren, und man ist gelassen davon überzeugt, dass die geltende Ordnung richtig ist. Doch immer häufiger stellt sich die Frage: Wer darf dieses Land wirklich sein Zuhause nennen? Manchmal beginnt Ungleichheit nicht mit Hass, sondern mit der Überzeugung, dass den Eigenen ein bisschen mehr zusteht. SEVEN · Buch II · Ashraellen Literarischer Auszug »Ruhmeshalle« · ein Textauszug des Autors Ein ganz gewöhnlicher Schulausflug in ein Museum des nationalen Gedächtnisses. Die Kinder begegnen einer Geschichte, die sie seit der ersten Klasse kennen. Bis eines von ihnen eine unerwartete Frage stellt. Auszug lesen Auszug schließen Um zehn Uhr morgens öffneten sich die Türen für die Klasse 3b. Achtundzwanzig Kinder gingen paarweise, wie man es 
 
 ### de/books/the-book-of-whinesis/index.html
 

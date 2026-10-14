@@ -1,18 +1,18 @@
 # Page Metadata Audit
 
-Generated: 2026-10-14T10:44:55.057Z
+Generated: 2026-10-14T10:47:06.547Z
 
-Pages checked: 904
-Pages with issues: 416
-Total issues: 1838
-Pages with review notes: 702
-Total review notes: 2464
+Pages checked: 905
+Pages with issues: 417
+Total issues: 1839
+Pages with review notes: 703
+Total review notes: 2466
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 302 |
+| MISSING_KEYWORDS | 303 |
 | MISSING_TWITTER_IMAGE | 193 |
 | MISSING_TWITTER_CARD | 179 |
 | MISSING_JSON_LD | 174 |
@@ -35,8 +35,8 @@ Total review notes: 2464
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 702 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 682 |
+| DUPLICATE_OG_IMAGE_REVIEW | 703 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 683 |
 | FALLBACK_OG_IMAGE_USED | 550 |
 | FALLBACK_TWITTER_IMAGE_USED | 530 |
 
@@ -479,6 +479,16 @@ Total review notes: 2464
 - canonical: https://www.ashraellen.com/de/books/seven/greed/
 - og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
+
+- MISSING_KEYWORDS
+
+### de/books/seven/pride/index.html
+
+- title: Ashraellen — Hochmut | PRIDE · SEVEN, Buch II
+- description length: 182
+- canonical: https://www.ashraellen.com/de/books/seven/pride/
+- og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
 - MISSING_KEYWORDS
 
@@ -5771,8 +5781,8 @@ Total review notes: 2464
 - og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 8 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 8 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### be/books/the-book-of-whinesis/index.html
 
@@ -6508,6 +6518,15 @@ Total review notes: 2464
 - title: Ashraellen — Gier | GREED · SEVEN, Buch I
 - og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+
+### de/books/seven/pride/index.html
+
+- title: Ashraellen — Hochmut | PRIDE · SEVEN, Buch II
+- og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
@@ -7269,8 +7288,8 @@ Total review notes: 2464
 - og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 8 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 8 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### en/books/the-book-of-whinesis/index.html
 
@@ -8036,8 +8055,8 @@ Total review notes: 2464
 - og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 8 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 8 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### es/books/the-book-of-whinesis/index.html
 
@@ -9272,8 +9291,8 @@ Total review notes: 2464
 - og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 8 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 8 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### fr/books/the-book-of-whinesis/index.html
 
@@ -10014,8 +10033,8 @@ Total review notes: 2464
 - og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 8 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 8 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### pl/books/the-book-of-whinesis/index.html
 
@@ -10781,8 +10800,8 @@ Total review notes: 2464
 - og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 8 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 8 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### pt/books/the-book-of-whinesis/index.html
 
@@ -11538,8 +11557,8 @@ Total review notes: 2464
 - og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 8 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 8 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### ru/books/the-book-of-whinesis/index.html
 
@@ -12393,8 +12412,8 @@ Total review notes: 2464
 - og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 8 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 8 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### uk/books/the-book-of-whinesis/index.html
 
