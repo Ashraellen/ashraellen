@@ -1,6 +1,6 @@
 # Page Metadata Audit
 
-Generated: 2026-10-14T06:47:40.131Z
+Generated: 2026-10-14T06:56:46.858Z
 
 Pages checked: 880
 Pages with issues: 392
@@ -3843,7 +3843,7 @@ Total review notes: 2414
 ### ru/books/seven/index.html
 
 - title: Ashraellen — SEVEN | Литературный цикл о семи человеческих уязвимостях
-- description length: 184
+- description length: 180
 - canonical: https://www.ashraellen.com/ru/books/seven/
 - og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp

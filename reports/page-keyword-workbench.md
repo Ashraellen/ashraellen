@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T06:47:40.906Z
+Generated: 2026-10-14T06:56:47.512Z
 Pages: 881
 
 ## Index
@@ -686,7 +686,7 @@ Pages: 881
 | ru/books/samizdat/order/index.html | ru | books | Запросить экземпляр самиздата 2.0 — Ashraellen | _missing_ | экземпляр, 2.0, запрос, запросить, ashraellen, books, самиздата, экземпляра, order, samizdat, авторского, адрес, выберите, доставка, доставки, книга, книги, любом |
 | ru/books/samizdat/order/received/index.html | ru | books | Запрос получен — самиздат 2.0 | _missing_ | запрос, получен, 2.0, books, автоматически, была, самиздат, ashraellen, email, order, received, samizdat, адрес, вами, ваш, включая, доставку, оформлена |
 | ru/books/seccus/index.html | ru | books | Ashraellen — Сакральная Книга АХЕПСУ | ashraellen, seccus, сакральная книга ахепсу, путь честности, философская сатира, деньги, успех, самообман, знание как алиби, ответственность, sacrunomicon, ordo sacrunomiconis, тетра-книга | ахепсу, книга, сакральная, ashraellen, books, без, sacrunomicon, seccus, ssmv, алиби, выбор, голос, деньгах, ещё, знании, избранная, или, книге |
-| ru/books/seven/index.html | ru | books | Ashraellen — SEVEN \| Литературный цикл о семи человеческих уязвимостях | _missing_ | seven, ashraellen, семи, цикл, человеческих, books, greed, lust, pride, будет, литературный, роман, уязвимостях, антиутопия, дальше, задуманных, исследованию, книг |
+| ru/books/seven/index.html | ru | books | Ashraellen — SEVEN \| Литературный цикл о семи человеческих уязвимостях | _missing_ | seven, ashraellen, семь, цикл, books, greed, lust, pride, книги, литературный, семи, уязвимостях, человеческих, будет, гневе, гордыне, дальше, ещё |
 | ru/books/the-book-of-whinesis/index.html | ru | books | Ashraellen — Книга Нытия | ashraellen, books, book, whinesis, книга, нытия, священная, сатира, тех, кто, устал, позитивных, вайбов, бесконечной, продуктивности, культа, успеха, книге | книга, нытия, ashraellen, books, кто, book, whinesis, бесконечной, будет, будешь, вайбов, глава, главы, господь, его, ибо, книге, культа |
 | ru/books/you-are-already-online/index.html | ru | books | Ashraellen — Ты уже в сети | _missing_ | сети, уже, ashraellen, books, глава, already, online, you, алгоритмах, аудиороман, без, было, где, гиперреальности, жанре, идеально, иммерсивный, истончение |
 | ru/contact.html | ru | contact.html | Контакт — Ashraellen | ashraellen, контакт, сотрудничество, издательские запросы, гранты, медиа, проекты | ashraellen, контакт, запросы, издательские, сотрудничество, ashraellen.live, ashraellenchannel, contact, contact.html, telegram, telegram-канал, грантовые, контактная, медийные, обращения, проектные, публичные, связи |
@@ -12439,13 +12439,13 @@ Excerpt:
 - lang: ru
 - section: books
 - title: Ashraellen — SEVEN | Литературный цикл о семи человеческих уязвимостях
-- description: SEVEN — литературный цикл Ashraellen из семи задуманных книг о человеческих уязвимостях. GREED — психологический криминальный роман, PRIDE — социальная антиутопия, LUST — в подготовке.
+- description: SEVEN — литературный цикл Ashraellen о семи человеческих уязвимостях: Жадности, Гордыне, Похоти, Зависти, Гневе, Чревоугодии и Унынии. GREED, PRIDE и LUST — первые три направления.
 - canonical: https://www.ashraellen.com/ru/books/seven/
 - H1: SEVEN
-- H2: Что такое SEVEN | Книги цикла | Что будет дальше | От литературы к исследованию
-- H3: Жадность | Гордыня | Похоть
-- suggested keyword seed: seven, ashraellen, семи, цикл, человеческих, books, greed, lust, pride, будет, литературный, роман, уязвимостях, антиутопия, дальше, задуманных, исследованию, книг
-- candidates: seven, книга, роман, цикл, семь, семи, становится, человеческих, greed, lust, pride, будет, история, книг, книги, подготовке, постепенно, сюжет, уязвимостей, цикла, человек, ashraellen, iii, антиутопия
+- H2: Что такое SEVEN | Книги цикла | Семь уязвимостей — семь способов потерять меру | Для кого написан SEVEN | Для редакторов, издателей и исследовательских партнёров | Что будет дальше | От литературы к исследованию
+- H3: Жадность | Гордыня | Похоть | Жадность / GREED · Книга I | Гордыня / PRIDE · Книга II | Похоть / LUST · Книга III | Зависть / ENVY · Будущее направление | Гнев / WRATH · Будущее направление
+- suggested keyword seed: seven, ashraellen, семь, цикл, books, greed, lust, pride, книги, литературный, семи, уязвимостях, человеческих, будет, гневе, гордыне, дальше, ещё
+- candidates: seven, книга, или, цикл, семь, сюжет, greed, lust, pride, ещё, книги, роман, где, его, исследовательская, история, когда, может, постепенно, семи, становится, уязвимостей, художественная, цикла
 
 Excerpt:
 
