@@ -1,18 +1,18 @@
 # Page Metadata Audit
 
-Generated: 2026-10-14T09:19:22.038Z
+Generated: 2026-10-14T09:24:44.393Z
 
-Pages checked: 884
-Pages with issues: 396
-Total issues: 1817
-Pages with review notes: 681
-Total review notes: 2422
+Pages checked: 885
+Pages with issues: 397
+Total issues: 1819
+Pages with review notes: 683
+Total review notes: 2426
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 282 |
+| MISSING_KEYWORDS | 283 |
 | MISSING_TWITTER_IMAGE | 193 |
 | MISSING_TWITTER_CARD | 179 |
 | MISSING_JSON_LD | 174 |
@@ -27,7 +27,7 @@ Total review notes: 2422
 | OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 31 |
 | TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 31 |
 | DUPLICATE_KEYWORDS | 27 |
-| DESCRIPTION_TOO_SHORT | 21 |
+| DESCRIPTION_TOO_SHORT | 22 |
 | DESCRIPTION_TOO_LONG | 6 |
 
 
@@ -35,8 +35,8 @@ Total review notes: 2422
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 681 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 661 |
+| DUPLICATE_OG_IMAGE_REVIEW | 683 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 663 |
 | FALLBACK_OG_IMAGE_USED | 550 |
 | FALLBACK_TWITTER_IMAGE_USED | 530 |
 
@@ -919,6 +919,17 @@ Total review notes: 2422
 
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 50
+
+### en/books/seven/index.html
+
+- title: Ashraellen — SEVEN | A Literary Cycle of Seven Human Vulnerabilities
+- description length: 19
+- canonical: https://www.ashraellen.com/en/books/seven/
+- og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
+
+- MISSING_KEYWORDS
+- DESCRIPTION_TOO_SHORT: 19
 
 ### en/books/seven/pride/index.html
 
@@ -7017,6 +7028,15 @@ Total review notes: 2422
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
 
+### en/books/seven/index.html
+
+- title: Ashraellen — SEVEN | A Literary Cycle of Seven Human Vulnerabilities
+- og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
+
 ### en/books/seven/pride/index.html
 
 - title: Ashraellen — PRIDE | SEVEN, Book II
@@ -11165,6 +11185,15 @@ Total review notes: 2422
 - title: Ashraellen — Жадность | GREED · SEVEN, книга I
 - og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
+
+### ru/books/seven/index.html
+
+- title: Ashraellen — SEVEN | Литературный цикл о семи человеческих уязвимостях
+- og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T09:19:22.672Z",
+  "generated": "2026-10-14T09:24:45.175Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -11021,8 +11021,8 @@
       "lang": "en",
       "section": "books",
       "title": "Ashraellen — Books",
-      "description": "Books by Ashraellen: Demotopia, MONOLITH, RADIANCE, ERROR 404: GOD NOT FOUND, The Sacred Book of SECCUS, You Are Already Online, The Book of Whinesis, and direct author editions through samizdat 2.0.",
-      "existingKeywords": "Ashraellen, books, Demotopia, Democratic Utopia, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis, samizdat 2.0, author editions",
+      "description": "Books by Ashraellen: Demotopia, MONOLITH, RADIANCE, SEVEN, ERROR 404: GOD NOT FOUND, The Sacred Book of SECCUS, You Are Already Online, The Book of Whinesis, and direct author editions through samizdat 2.0.",
+      "existingKeywords": "Ashraellen, books, Demotopia, Democratic Utopia, MONOLITH, RADIANCE, SEVEN, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis, samizdat 2.0, author editions",
       "canonical": "https://www.ashraellen.com/en/books/",
       "h1": [
         "Books"
@@ -11038,12 +11038,12 @@
         "en",
         "books"
       ],
-      "excerpt": "Books This section brings together Ashraellen’s book cycles, standalone novels, research books, satire and direct physical author editions. Choose a larger project or begin with a specific book. Book cycles series and long-term projects MONOLITH A literary-philosophical dystopian trilogy about control, memory and the breakdown of systems. BETON, SLUDGE and GAS trace the movement of social matter from hardened stability through viscous deformation to the loss of a sealed form. Open trilogy trilogy RADIANCE A literary-philosophical cycle of artistic research into northern legends and ancient images as living instructions for the world. Not a retelling of the Kalevala, but a return to the human experience from which such stories could arise. Open cycle cycle ERROR 404: GOD NOT FOUND A philosophical-satirical novel cycle about the Heavenly Chancellery and people who seek God, Truth or justic",
+      "excerpt": "Books This section brings together Ashraellen’s book cycles, standalone novels, research books, satire and direct physical author editions. Choose a larger project or begin with a specific book. Book cycles series and long-term projects MONOLITH A literary-philosophical dystopian trilogy about control, memory and the breakdown of systems. BETON, SLUDGE and GAS trace the movement of social matter from hardened stability through viscous deformation to the loss of a sealed form. Open trilogy trilogy RADIANCE A literary-philosophical cycle of artistic research into northern legends and ancient images as living instructions for the world. Not a retelling of the Kalevala, but a return to the human experience from which such stories could arise. Open cycle cycle SEVEN A literary cycle of seven independent novels exploring human vulnerabilities and the decisions that change people's lives. The f",
       "candidates": [
         "book",
+        "cycle",
         "novel",
         "open",
-        "cycle",
         "about",
         "books",
         "research",
@@ -11054,16 +11054,16 @@
         "system",
         "2.0",
         "audio",
+        "first",
         "god",
+        "human",
         "person",
+        "psychological",
         "samizdat",
+        "seven",
         "through",
         "trilogy",
-        "404",
-        "already",
-        "ashraellen",
-        "cycles",
-        "democratic"
+        "404"
       ],
       "suggestedKeywordSeed": [
         "books",
@@ -12992,6 +12992,89 @@
         "one",
         "points",
         "promise"
+      ]
+    },
+    {
+      "page": "en/books/seven/index.html",
+      "lang": "en",
+      "section": "books",
+      "title": "Ashraellen — SEVEN | A Literary Cycle of Seven Human Vulnerabilities",
+      "description": "SEVEN is Ashraellen",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/en/books/seven/",
+      "h1": [
+        "SEVEN"
+      ],
+      "h2": [
+        "What is SEVEN?",
+        "Books in the cycle",
+        "Seven vulnerabilities — seven ways of losing a sense of measure",
+        "Who is SEVEN written for?",
+        "For editors, publishers and research partners",
+        "What comes next",
+        "From literature to research"
+      ],
+      "h3": [
+        "Greed",
+        "Pride",
+        "Lust",
+        "Greed / GREED · Book I",
+        "Pride / PRIDE · Book II",
+        "Lust / LUST · Book III",
+        "Envy / ENVY",
+        "Wrath / WRATH"
+      ],
+      "slugTerms": [
+        "en",
+        "books",
+        "seven"
+      ],
+      "excerpt": "A literary and research cycle · seven books SEVEN Seven human vulnerabilities. Seven independent literary worlds. One attempt to understand how ordinary desires, fears and needs gradually begin to govern a person's choices. Not a verdict on human vices, but a journey into the moment when a person fails to notice that their strength has become their vulnerability. What is SEVEN? Literature and the research question SEVEN takes as its point of departure the historically familiar pattern of seven human vulnerabilities. It does not, however, sort people neatly into the “greedy”, the “proud” or the “lustful”. What matters is the moment of transition: when an understandable ambition grows excessive, becomes entangled with other motives, starts justifying actions and gradually changes the person acting. The cycle is not seven variations on the same plot. Criminal intrigue, social order and inti",
+      "candidates": [
+        "seven",
+        "its",
+        "literary",
+        "what",
+        "human",
+        "research",
+        "book",
+        "can",
+        "own",
+        "pride",
+        "does",
+        "their",
+        "when",
+        "cycle",
+        "novel",
+        "work",
+        "greed",
+        "has",
+        "one",
+        "person",
+        "will",
+        "another",
+        "books",
+        "first"
+      ],
+      "suggestedKeywordSeed": [
+        "seven",
+        "ashraellen",
+        "books",
+        "research",
+        "what",
+        "cycle",
+        "human",
+        "literary",
+        "vulnerabilities",
+        "book",
+        "can",
+        "comes",
+        "does",
+        "editors",
+        "its",
+        "literature",
+        "losing",
+        "measure"
       ]
     },
     {

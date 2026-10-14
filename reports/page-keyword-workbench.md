@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T09:19:22.685Z
-Pages: 885
+Generated: 2026-10-14T09:24:45.189Z
+Pages: 886
 
 ## Index
 
@@ -154,7 +154,7 @@ Pages: 885
 | en/books/demotopia/index.html | en | books | Demotopia — Democratic Utopia — a novel by Ashraellen | Ashraellen, Demotopia, Democratic Utopia, philosophical novel, social science fiction, Warsaw, democracy, dictatorship, data, freedom, responsibility | demotopia, ashraellen, novel, about, books, power, artistic-research, atmosphere, book, can, circuits, core, data, democracy, democratic, did, distributed, excerpt |
 | en/books/error-404-god-not-found/index.html | en | books | Ashraellen — Error 404: God Not Found | ashraellen, books, error, 404, god, found, multilingual, philosophical-satirical, novel, cycle, about, heavenly, chancellery, human, complaint, against, universe, searching | error, god, found, 404, books, cycle, about, against, ashraellen, chancellery, heavenly, human, searching, series, begins, book, complaint, multilingual |
 | en/books/error-404-god-not-found/why-me/index.html | en | books | Ashraellen — Why Me? | _missing_ | why, book, error, god, about, ashraellen, books, found, 404, appeal, bureaucracy, chancellery, complaint, did, excerpt, faith, had, heavenly |
-| en/books/index.html | en | books | Ashraellen — Books | Ashraellen, books, Demotopia, Democratic Utopia, MONOLITH, RADIANCE, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis, samizdat 2.0, author editions | books, book, ashraellen, author, direct, editions, research, satire, 2.0, 404, about, already, cycle, cycles, demotopia, error, found, god |
+| en/books/index.html | en | books | Ashraellen — Books | Ashraellen, books, Demotopia, Democratic Utopia, MONOLITH, RADIANCE, SEVEN, ERROR 404, SECCUS, You Are Already Online, The Book of Whinesis, samizdat 2.0, author editions | books, book, ashraellen, author, direct, editions, research, satire, 2.0, 404, about, already, cycle, cycles, demotopia, error, found, god |
 | en/books/monolith/beton/index.html | en | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, monolith, about, ashraellen, book, books, crack, first, memory, stability, system, anton, artistic-research, case, dystopia, edited, excerpt, file |
 | en/books/monolith/gas/index.html | en | books | Ashraellen — GAS | ashraellen, monolith, gas, volume three, victoria, mold, power, control, memory, localisation, medium, signal, dystopia | gas, about, ashraellen, books, carrier, medium, monolith, object, source, artistic-research, author, between, book, boundary, case, chapter, control, disappearance |
 | en/books/monolith/index.html | en | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, BETON, SLUDGE, GAS, dystopia, literature, artistic research | monolith, ashraellen, beton, books, collapse, control, gas, memory, sludge, what, about, artistic-research, confused, crack, dystopian, fear, first, form |
@@ -180,6 +180,7 @@ Pages: 885
 | en/books/samizdat/order/received/index.html | en | books | Request received — samizdat 2.0 | _missing_ | received, request, samizdat, 2.0, automatically, been, books, has, address, any, ashraellen, availability, created, email, order, purchase, you |
 | en/books/seccus/index.html | en | books | Ashraellen — THE SACRED BOOK OF SECCUS | Ashraellen, SECCUS, The Sacred Book of SECCUS, The Path of Honesty, philosophical satire, money, success, self-deception, knowledge as an alibi, responsibility, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Book | book, seccus, about, sacred, ashraellen, books, money, own, success, alibi, choice, corpus, does, frame, honesty, how, knowledge, literary-philosophical |
 | en/books/seven/greed/index.html | en | books | Ashraellen — GREED \| SEVEN, Book I | _missing_ | greed, ashraellen, novel, seven, about, book, books, andrey, can, crime, cycle, either, excerpt, his, noel, one, points, promise |
+| en/books/seven/index.html | en | books | Ashraellen — SEVEN \| A Literary Cycle of Seven Human Vulnerabilities | _missing_ | seven, ashraellen, books, research, what, cycle, human, literary, vulnerabilities, book, can, comes, does, editors, its, literature, losing, measure |
 | en/books/seven/pride/index.html | en | books | Ashraellen — PRIDE \| SEVEN, Book II | _missing_ | pride, seven, book, literary, ashraellen, books, cycle, exceptionalism, excerpt, about, becomes, belonging, country, dystopia, face, first, glory, had |
 | en/books/the-book-of-whinesis/index.html | en | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sacred, satire, those, tired, positive, vibes, endless, productivity, cult, success, about, first, chapters, excerpt | book, whinesis, ashraellen, books, about, becomes, chapters, cult, discount, endless, excerpt, first, gnorna, lord, moania, positive, productivity, sacred |
 | en/books/you-are-already-online/index.html | en | books | Ashraellen — You Are Already Online | _missing_ | already, online, you, about, ashraellen, books, chapter, first, novel, reality, algorithms, attention, audio, book, cyberpunk, did, digital, drama |
@@ -3399,17 +3400,17 @@ Excerpt:
 - lang: en
 - section: books
 - title: Ashraellen — Books
-- description: Books by Ashraellen: Demotopia, MONOLITH, RADIANCE, ERROR 404: GOD NOT FOUND, The Sacred Book of SECCUS, You Are Already Online, The Book of Whinesis, and direct author editions through samizdat 2.0.
+- description: Books by Ashraellen: Demotopia, MONOLITH, RADIANCE, SEVEN, ERROR 404: GOD NOT FOUND, The Sacred Book of SECCUS, You Are Already Online, The Book of Whinesis, and direct author editions through samizdat 2.0.
 - canonical: https://www.ashraellen.com/en/books/
 - H1: Books
 - H2: Book cycles | Standalone books and research | Satire | Direct author editions
 - H3: _missing_
 - suggested keyword seed: books, book, ashraellen, author, direct, editions, research, satire, 2.0, 404, about, already, cycle, cycles, demotopia, error, found, god
-- candidates: book, novel, open, cycle, about, books, research, author, direct, editions, satire, system, 2.0, audio, god, person, samizdat, through, trilogy, 404, already, ashraellen, cycles, democratic
+- candidates: book, cycle, novel, open, about, books, research, author, direct, editions, satire, system, 2.0, audio, first, god, human, person, psychological, samizdat, seven, through, trilogy, 404
 
 Excerpt:
 
-> Books This section brings together Ashraellen’s book cycles, standalone novels, research books, satire and direct physical author editions. Choose a larger project or begin with a specific book. Book cycles series and long-term projects MONOLITH A literary-philosophical dystopian trilogy about control, memory and the breakdown of systems. BETON, SLUDGE and GAS trace the movement of social matter from hardened stability through viscous deformation to the loss of a sealed form. Open trilogy trilogy RADIANCE A literary-philosophical cycle of artistic research into northern legends and ancient images as living instructions for the world. Not a retelling of the Kalevala, but a return to the human experience from which such stories could arise. Open cycle cycle ERROR 404: GOD NOT FOUND A philosophical-satirical novel cycle about the Heavenly Chancellery and people who seek God, Truth or justic
+> Books This section brings together Ashraellen’s book cycles, standalone novels, research books, satire and direct physical author editions. Choose a larger project or begin with a specific book. Book cycles series and long-term projects MONOLITH A literary-philosophical dystopian trilogy about control, memory and the breakdown of systems. BETON, SLUDGE and GAS trace the movement of social matter from hardened stability through viscous deformation to the loss of a sealed form. Open trilogy trilogy RADIANCE A literary-philosophical cycle of artistic research into northern legends and ancient images as living instructions for the world. Not a retelling of the Kalevala, but a return to the human experience from which such stories could arise. Open cycle cycle SEVEN A literary cycle of seven independent novels exploring human vulnerabilities and the decisions that change people's lives. The f
 
 ### en/books/monolith/beton/index.html
 
@@ -3835,6 +3836,23 @@ Excerpt:
 Excerpt:
 
 > SEVEN · Book I · A psychological crime novel GREED One person is searching for a way to secure his future. Another offers him a chance to earn. Others hope they have finally found a path to a better life. Little by little, their decisions become parts of a system whose consequences none of them can see in full. Sometimes a trap begins not with a threat, but with an offer you desperately want to accept. SEVEN · Book I · Ashraellen Selected excerpt Chapter One, § 1.3 · working translation of the pre-final text After speaking with Ilya, Noel returns to the routines of home. But the very next day he finds himself explaining a dubious opportunity to somebody else. Read the excerpt Close the excerpt Noel ended the call and went home. Nina was already waiting in the hallway. “Did you adopt the renter?” “He was too old.” “Pity. I've reheated the soup twice.” “Now that's what I call a real family
+
+### en/books/seven/index.html
+
+- lang: en
+- section: books
+- title: Ashraellen — SEVEN | A Literary Cycle of Seven Human Vulnerabilities
+- description: SEVEN is Ashraellen
+- canonical: https://www.ashraellen.com/en/books/seven/
+- H1: SEVEN
+- H2: What is SEVEN? | Books in the cycle | Seven vulnerabilities — seven ways of losing a sense of measure | Who is SEVEN written for? | For editors, publishers and research partners | What comes next | From literature to research
+- H3: Greed | Pride | Lust | Greed / GREED · Book I | Pride / PRIDE · Book II | Lust / LUST · Book III | Envy / ENVY | Wrath / WRATH
+- suggested keyword seed: seven, ashraellen, books, research, what, cycle, human, literary, vulnerabilities, book, can, comes, does, editors, its, literature, losing, measure
+- candidates: seven, its, literary, what, human, research, book, can, own, pride, does, their, when, cycle, novel, work, greed, has, one, person, will, another, books, first
+
+Excerpt:
+
+> A literary and research cycle · seven books SEVEN Seven human vulnerabilities. Seven independent literary worlds. One attempt to understand how ordinary desires, fears and needs gradually begin to govern a person's choices. Not a verdict on human vices, but a journey into the moment when a person fails to notice that their strength has become their vulnerability. What is SEVEN? Literature and the research question SEVEN takes as its point of departure the historically familiar pattern of seven human vulnerabilities. It does not, however, sort people neatly into the “greedy”, the “proud” or the “lustful”. What matters is the moment of transition: when an understandable ambition grows excessive, becomes entangled with other motives, starts justifying actions and gradually changes the person acting. The cycle is not seven variations on the same plot. Criminal intrigue, social order and inti
 
 ### en/books/seven/pride/index.html
 
