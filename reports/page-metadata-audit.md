@@ -1,18 +1,18 @@
 # Page Metadata Audit
 
-Generated: 2026-10-14T10:28:14.572Z
+Generated: 2026-10-14T10:33:15.185Z
 
-Pages checked: 900
-Pages with issues: 412
-Total issues: 1834
-Pages with review notes: 698
-Total review notes: 2456
+Pages checked: 901
+Pages with issues: 413
+Total issues: 1835
+Pages with review notes: 699
+Total review notes: 2458
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 298 |
+| MISSING_KEYWORDS | 299 |
 | MISSING_TWITTER_IMAGE | 193 |
 | MISSING_TWITTER_CARD | 179 |
 | MISSING_JSON_LD | 174 |
@@ -35,8 +35,8 @@ Total review notes: 2456
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 698 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 678 |
+| DUPLICATE_OG_IMAGE_REVIEW | 699 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 679 |
 | FALLBACK_OG_IMAGE_USED | 550 |
 | FALLBACK_TWITTER_IMAGE_USED | 530 |
 
@@ -2033,6 +2033,16 @@ Total review notes: 2456
 - MISSING_OG_IMAGE
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
+
+### fr/books/seven/greed/index.html
+
+- title: Ashraellen — Avidité | GREED · SEVEN, livre I
+- description length: 168
+- canonical: https://www.ashraellen.com/fr/books/seven/greed/
+- og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
+
+- MISSING_KEYWORDS
 
 ### fr/books/the-book-of-whinesis/index.html
 
@@ -5713,8 +5723,8 @@ Total review notes: 2456
 - og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 7 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 7 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 8 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 8 pages
 
 ### be/books/seven/index.html
 
@@ -7202,8 +7212,8 @@ Total review notes: 2456
 - og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 7 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 7 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 8 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 8 pages
 
 ### en/books/seven/index.html
 
@@ -7969,8 +7979,8 @@ Total review notes: 2456
 - og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 7 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 7 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 8 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 8 pages
 
 ### es/books/seven/index.html
 
@@ -9199,6 +9209,15 @@ Total review notes: 2456
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 550 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 530 pages
 
+### fr/books/seven/greed/index.html
+
+- title: Ashraellen — Avidité | GREED · SEVEN, livre I
+- og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 8 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 8 pages
+
 ### fr/books/the-book-of-whinesis/index.html
 
 - title: Ashraellen — The Book of Whinesis
@@ -9920,8 +9939,8 @@ Total review notes: 2456
 - og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 7 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 7 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 8 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 8 pages
 
 ### pl/books/seven/index.html
 
@@ -10687,8 +10706,8 @@ Total review notes: 2456
 - og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 7 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 7 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 8 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 8 pages
 
 ### pt/books/seven/index.html
 
@@ -11444,8 +11463,8 @@ Total review notes: 2456
 - og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 7 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 7 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 8 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 8 pages
 
 ### ru/books/seven/index.html
 
@@ -12299,8 +12318,8 @@ Total review notes: 2456
 - og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 7 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 7 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 8 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 8 pages
 
 ### uk/books/seven/index.html
 

@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T10:28:15.378Z
-Pages: 901
+Generated: 2026-10-14T10:33:15.736Z
+Pages: 902
 
 ## Index
 
@@ -410,6 +410,7 @@ Pages: 901
 | fr/books/samizdat/order/index.html | fr | books | Demander un exemplaire samizdat 2.0 — Ashraellen | _missing_ | exemplaire, demande, samizdat, 2.0, ashraellen, books, dans, demander, langue, livraison, préparation, choisie, confirmation, d’auteur, d’un, délai, estimation, être |
 | fr/books/samizdat/order/received/index.html | fr | books | Demande reçue — samizdat 2.0 | _missing_ | demande, reçue, samizdat, 2.0, achat, aucun, automatiquement, books, été, afin, ashraellen, avant, compris, créé, e-mail, n’a, order, received |
 | fr/books/seccus/index.html | fr | books | Ashraellen — LE LIVRE SACRÉ DE SECCUS | Ashraellen, SECCUS, Le Livre Sacré de SECCUS, Le Chemin de l’Honnêteté, satire philosophique, argent, réussite, auto-illusion, savoir comme alibi, responsabilité, Sacrunomicon, Ordo Sacrunomiconis, Tétra-Livre | livre, seccus, sacré, ashraellen, books, est, philosophique, pour, qui, réussite, sur, une, alibi, cadre, chemin, choisie, choix, comme |
+| fr/books/seven/greed/index.html | fr | books | Ashraellen — Avidité \| GREED · SEVEN, livre I | _missing_ | greed, roman, seven, avidité, dans, ashraellen, aux, books, cycle, des, les, noël, c’est, choisi, côtés, criminel, d’autre, d’avancement |
 | fr/books/the-book-of-whinesis/index.html | fr | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, satire, sacrée, pour, celles, ceux, qui, sont, fatigués, des, ondes, positives, productivité, sans, fin | book, whinesis, ashraellen, books, des, qui, celles, ceux, chapitres, culte, dans, dit, extrait, fatigués, fin, les, livre, moania |
 | fr/books/you-are-already-online/index.html | fr | books | Ashraellen — Tu es déjà en ligne | _missing_ | déjà, ligne, ashraellen, audio, books, les, réalité, roman, algorithmes, already, avait, avant, chapitre, comme, cyberpunk, dans, des, drame |
 | fr/contact.html | fr | contact.html | Contact — Ashraellen | ashraellen, contact, collaboration, édition, subventions, médias, projets | ashraellen, contact, une, collaboration, demande, éditoriale, médias, projet, aux, canal, contact.html, contacter, contenus, les, pour, subvention, telegram |
@@ -7761,6 +7762,23 @@ Excerpt:
 Excerpt:
 
 > SACRUNOMICON — UN TÉTRA-LIVRE SUR LA RÉUSSITE RENVERSÉE LE LIVRE SACRÉ DE SECCUS Le Chemin de l’Honnêteté Un livre sur l’argent et la réussite qui retourne la question habituelle. Non pas « comment obtenir ce que l’on désire », mais ce qu’une personne espère exactement acquérir avec la liberté, la reconnaissance et le droit de se considérer comme accomplie. L’argent n’est qu’un prétexte. Le véritable sujet du livre est la personne qui le désire. Couverture russe : АХЕПСУ. Sacrunomicon. Page choisie Rouleau IV : La Chute des Murs Une page sur le motif qui se cache derrière les mots justes à propos de liberté, d’aide, d’utilité et de vocation. Ouvrir la page Fermer la page Page 71 — La Source d’Énergie de l’Ombre Nous approchons de la couche la plus profonde de ta motivation — celle que tu as soigneusement contournée en te couvrant de belles paroles et de nobles objectifs. Tu te disais que
+
+### fr/books/seven/greed/index.html
+
+- lang: fr
+- section: books
+- title: Ashraellen — Avidité | GREED · SEVEN, livre I
+- description: GREED / « Avidité », roman noir psychologique du cycle SEVEN. Noël, son entrée progressive dans un réseau criminel et les désirs humains des deux côtés de la tromperie.
+- canonical: https://www.ashraellen.com/fr/books/seven/greed/
+- H1: Avidité / GREED
+- H2: Extrait choisi | À propos du roman | De part et d’autre de la promesse | Points de tension | Le roman dans le cycle SEVEN | Aux lecteurs et aux éditeurs | État d’avancement
+- H3: Le besoin et le sentiment d’avoir assez | La confiance et la vérité arrangeante | Les limites de l’engagement | Vouloir récupérer ce qu’on a perdu | La famille et l’art de se justifier | La responsabilité et la faute
+- suggested keyword seed: greed, roman, seven, avidité, dans, ashraellen, aux, books, cycle, des, les, noël, c’est, choisi, côtés, criminel, d’autre, d’avancement
+- candidates: les, une, des, pas, qui, noël, ses, dans, roman, c’est, est, mais, seven, son, andreï, ceux, encore, livre, lui, plus, greed, par, peu, qu’on
+
+Excerpt:
+
+> SEVEN · livre I · roman noir psychologique Avidité / GREED Un homme cherche comment assurer son avenir. Un autre lui propose de gagner de l’argent. D’autres encore espèrent avoir enfin trouvé une voie vers une vie meilleure. Leurs décisions deviennent peu à peu les rouages d’un système dont aucun ne parvient à saisir toutes les conséquences. Parfois, le piège ne commence pas par une menace, mais par une proposition qu’on a terriblement envie d’accepter. SEVEN · Livre I · Ashraellen Extrait choisi Chapitre premier, § 1.3 · version provisoire Après sa conversation avec Ilia, Noël retrouve la vie ordinaire de son foyer. Mais dès le lendemain, c’est à son tour de parler à quelqu’un d’une occasion douteuse de gagner de l’argent. Lire l’extrait Refermer l’extrait Noël mit fin à l’appel et rentra chez lui. Nina l’attendait déjà dans l’entrée. — Alors, tu l’as adopté, ton locataire ? — Il n’avai
 
 ### fr/books/the-book-of-whinesis/index.html
 

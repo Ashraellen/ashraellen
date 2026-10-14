@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T10:28:15.362Z",
+  "generated": "2026-10-14T10:33:15.724Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -30233,6 +30233,88 @@
         "choisie",
         "choix",
         "comme"
+      ]
+    },
+    {
+      "page": "fr/books/seven/greed/index.html",
+      "lang": "fr",
+      "section": "books",
+      "title": "Ashraellen — Avidité | GREED · SEVEN, livre I",
+      "description": "GREED / « Avidité », roman noir psychologique du cycle SEVEN. Noël, son entrée progressive dans un réseau criminel et les désirs humains des deux côtés de la tromperie.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/fr/books/seven/greed/",
+      "h1": [
+        "Avidité / GREED"
+      ],
+      "h2": [
+        "Extrait choisi",
+        "À propos du roman",
+        "De part et d’autre de la promesse",
+        "Points de tension",
+        "Le roman dans le cycle SEVEN",
+        "Aux lecteurs et aux éditeurs",
+        "État d’avancement"
+      ],
+      "h3": [
+        "Le besoin et le sentiment d’avoir assez",
+        "La confiance et la vérité arrangeante",
+        "Les limites de l’engagement",
+        "Vouloir récupérer ce qu’on a perdu",
+        "La famille et l’art de se justifier",
+        "La responsabilité et la faute"
+      ],
+      "slugTerms": [
+        "fr",
+        "books",
+        "seven",
+        "greed"
+      ],
+      "excerpt": "SEVEN · livre I · roman noir psychologique Avidité / GREED Un homme cherche comment assurer son avenir. Un autre lui propose de gagner de l’argent. D’autres encore espèrent avoir enfin trouvé une voie vers une vie meilleure. Leurs décisions deviennent peu à peu les rouages d’un système dont aucun ne parvient à saisir toutes les conséquences. Parfois, le piège ne commence pas par une menace, mais par une proposition qu’on a terriblement envie d’accepter. SEVEN · Livre I · Ashraellen Extrait choisi Chapitre premier, § 1.3 · version provisoire Après sa conversation avec Ilia, Noël retrouve la vie ordinaire de son foyer. Mais dès le lendemain, c’est à son tour de parler à quelqu’un d’une occasion douteuse de gagner de l’argent. Lire l’extrait Refermer l’extrait Noël mit fin à l’appel et rentra chez lui. Nina l’attendait déjà dans l’entrée. — Alors, tu l’as adopté, ton locataire ? — Il n’avai",
+      "candidates": [
+        "les",
+        "une",
+        "des",
+        "pas",
+        "qui",
+        "noël",
+        "ses",
+        "dans",
+        "roman",
+        "c’est",
+        "est",
+        "mais",
+        "seven",
+        "son",
+        "andreï",
+        "ceux",
+        "encore",
+        "livre",
+        "lui",
+        "plus",
+        "greed",
+        "par",
+        "peu",
+        "qu’on"
+      ],
+      "suggestedKeywordSeed": [
+        "greed",
+        "roman",
+        "seven",
+        "avidité",
+        "dans",
+        "ashraellen",
+        "aux",
+        "books",
+        "cycle",
+        "des",
+        "les",
+        "noël",
+        "c’est",
+        "choisi",
+        "côtés",
+        "criminel",
+        "d’autre",
+        "d’avancement"
       ]
     },
     {
