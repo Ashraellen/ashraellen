@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T11:17:30.904Z
+Generated: 2026-10-14T13:33:15.648Z
 Pages: 910
 
 ## Index
@@ -587,17 +587,17 @@ Pages: 910
 | pl/research/projects/index.html | pl | research | Ashraellen — Projekty badawcze | ashraellen, research, projects, projekty, badawcze, mapa, pól, pracy, monolit, główny, kanał, pole, publiczne, satyryczne, boczne, laboratoria, percepcji, instagram | ashraellen, seven, voiceprint, whisper, badawcze, memory, monolit, projekty, research, aktualna, artystycznych, badawczych, człowiek, czy, instagram, jako, laboratoria, mapa |
 | pl/research/sources/index.html | pl | research | Ashraellen — Źródła i tradycja | ashraellen, research, sources, źródła, tradycja, fenomenologia, świadomości, ciało, narracja, nauki, kognitywne, praktyka, artystyczna, jako, linie, metodologiczne, badania, edmund | jako, ashraellen, badania, ciało, tradycja, źródła, artystyczna, doświadczenie, fenomenologia, research, świadomości, edmund, eleanor, esej, evan, forma, formy, francisco |
 | privacy.html | root | privacy.html | Privacy Policy — Ashraellen | Ashraellen, privacy policy, website privacy, analytics, language redirection, contact data | privacy, ashraellen, analytics, ashraellen.com, basic, contact, data, handles, how, including, information, policy, language, privacy.html, redirection, user |
-| pt/books/demotopia/index.html | pt | books | Demotopia — Utopia Democrática — romance de Ashraellen | Ashraellen, Demotopia, Utopia Democrática, romance filosófico, ficção científica social, Varsóvia, democracia, ditadura, dados, liberdade, responsabilidade | demotopia, ashraellen, romance, sobre, books, artístico, atmosfera, circuitos, como, dados, democracia, democrática, distribuído, dois, editoriais, filosófico, forma, futuro |
+| pt/books/demotopia/index.html | pt | books | Demotopia — Utopia Democrática — romance de Ashraellen | Ashraellen, Demotopia, Utopia Democrática, romance filosófico, ficção científica social, Varsóvia, democracia, ditadura, dados, liberdade, responsabilidade | demotopia, ashraellen, romance, sobre, books, para, artístico, atmosfera, circuitos, com, como, dados, democracia, democrática, distribuído, dois, editoriais, filosófico |
 | pt/books/error-404-god-not-found/index.html | pt | books | Ashraellen — Erro 404: Deus não encontrado | _missing_ | erro, 404, deus, encontrado, não, ciclo, ashraellen, books, celestial, chancelaria, série, sobre, busca, contra, error, filosófico-satírico, forma, found |
-| pt/books/error-404-god-not-found/why-me/index.html | pt | books | Ashraellen — Por que eu? | _missing_ | por, que, livro, ashraellen, books, deus, não, sobre, 404, alma, burocracia, camadas, celestial, chancelaria, ciclo, com, como, depois |
-| pt/books/index.html | pt | books | Ashraellen — Livros | Ashraellen, livros, Demotopia, Utopia Democrática, MONOLITH, RADIANCE, SEVEN, ERROR 404, SECCUS, Já estás na rede, The Book of Whinesis, samizdat 2.0, edições de autor | livros, ashraellen, autor, edições, books, directas, livro, sátira, 2.0, 404, abrir, através, book, ciclo, ciclos, demotopia, error, estás |
+| pt/books/error-404-god-not-found/why-me/index.html | pt | books | Ashraellen — Porquê eu? | _missing_ | livro, porquê, ashraellen, books, deus, não, sobre, 404, alma, burocracia, camadas, celestial, chancelaria, ciclo, com, como, depois, dor |
+| pt/books/index.html | pt | books | Ashraellen — Livros | Ashraellen, livros, Demotopia, Utopia Democrática, MONOLITH, RADIANCE, SEVEN, ERROR 404, SECCUS, Já estás na rede, The Book of Whinesis, samizdat 2.0, edições de autor | livros, ashraellen, autor, diretas, edições, books, livro, sátira, 2.0, 404, abrir, através, book, ciclo, ciclos, demotopia, error, estás |
 | pt/books/monolith/beton/index.html | pt | books | Ashraellen — BETÃO | Ashraellen, MONÓLITO, BETÃO, dystopia, literature, artistic research | betão, ashraellen, books, estabilidade, livro, memória, para, sobre, uma, anton, artístico-investigativa, beton, com, como, dentro, distopia, dossiê, editada |
 | pt/books/monolith/gas/index.html | pt | books | Ashraellen — GÁS | Ashraellen, MONÓLITO, GÁS, terceiro volume, Vitória, poder, controlo, memória, localização, meio, sinal, distopia | gás, ashraellen, books, meio, sem, sobre, artístico-investigativa, autor, capítulo, com, como, controlo, depois, dossiê, entre, estado, fonte, fragmento |
 | pt/books/monolith/index.html | pt | books | Ashraellen — MONÓLITO | Ashraellen, MONÓLITO, BETÃO, LAMA, GÁS, dystopia, literature, artistic research | monólito, que, ashraellen, betão, books, colapso, controlo, gás, lama, memória, não, uma, artístico-investigativa, como, confundido, deve, distópica, dos |
 | pt/books/monolith/sludge/index.html | pt | books | Ashraellen — LAMA | Ashraellen, MONÓLITO, LAMA, dystopia, literature, artistic research | lama, ashraellen, books, para, sobre, uma, adam, artístico-investigativa, autor, com, como, cumplicidade, distopia, dossiê, era, estrutura, exaurida, filosófica |
-| pt/books/radiance/index.html | pt | books | Ashraellen — Esplendor \| Contos do norte sobre a história real do mundo | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | esplendor, instruções, mundo, para, que, sobre, ashraellen, books, ciclo, como, não, pesquisa, antigas, artística, artístico, confundir, contos, este |
+| pt/books/radiance/index.html | pt | books | Ashraellen — Esplendor \| Contos do norte sobre a história real do mundo | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | esplendor, instruções, mundo, para, que, sobre, ashraellen, books, ciclo, como, investigação, não, antigas, artística, artístico, confundir, contos, este |
 | pt/books/radiance/sampo/index.html | pt | books | Ashraellen — Sampo \| Esplendor, livro I | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | sampo, livro, para, ashraellen, books, esplendor, não, sobre, abundância, ainda, artística, capítulo, com, como, conto, culturais, destaque, editoras |
-| pt/books/radiance/song/index.html | pt | books | Ashraellen — Canto \| Esplendor, livro II | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | canto, livro, para, ashraellen, books, esplendor, não, que, sem, sobre, uma, apresentação, artística, audição, ayla, capítulo, com, como |
+| pt/books/radiance/song/index.html | pt | books | Ashraellen — Canto \| Esplendor, livro II | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | canto, livro, para, ashraellen, books, esplendor, não, que, sobre, uma, apresentação, artística, audição, ayla, capítulo, com, como, culturais |
 | pt/books/samizdat/demotopia/index.html | pt | books | Demotopia — Passaporte do livro — samizdat 2.0 | _missing_ | demotopia, passaporte, samizdat, 2.0, autor, edição, livro, books, exemplar, física, ashraellen, cada, democracia, esta, não, permanente, sistema, sobre |
 | pt/books/samizdat/index.html | pt | books | samizdat 2.0 — edições de autor de Ashraellen | _missing_ | samizdat, 2.0, ashraellen, autor, books, edições, livro, livros, sem, agora, como, diretas, dos, edição, exemplar, exemplares, feito, físicas |
 | pt/books/samizdat/order/index.html | pt | books | Solicitar um exemplar samizdat 2.0 — Ashraellen | _missing_ | exemplar, pedido, samizdat, 2.0, ashraellen, autor, books, entrega, idioma, preparação, solicitar, assinado, confirmação, leitor, livro, não, orçamento, order |
@@ -606,62 +606,62 @@ Pages: 910
 | pt/books/seven/greed/index.html | pt | books | Ashraellen — Ganância \| GREED · SEVEN, Livro I | _missing_ | seven, greed, romance, dos, ganância, livro, ashraellen, books, ciclo, lados, noel, para, ambos, com, criminosa, desejos, dinheiro, dois |
 | pt/books/seven/index.html | pt | books | Ashraellen — SEVEN \| Ciclo literário sobre sete vulnerabilidades humanas | _missing_ | seven, sete, ciclo, ashraellen, investigação, que, sobre, vulnerabilidades, books, humanas, literário, livros, acédia, com, como, destina, dos, editores |
 | pt/books/seven/pride/index.html | pt | books | Ashraellen — Soberba \| PRIDE · SEVEN, Livro II | _missing_ | pride, seven, livro, literário, soberba, ashraellen, books, ciclo, excerto, exclusividade, para, sala, ser, casa, com, distopia, editores, estado |
-| pt/books/the-book-of-whinesis/index.html | pt | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sátira, sagrada, para, quem, cansou, das, vibrações, positivas, produtividade, infinita, culto, sucesso, sobre, livro | book, whinesis, ashraellen, books, para, sobre, cansou, capítulos, culto, das, desconto, disse, gnorna, infinita, livro, moania, não, pois |
-| pt/books/you-are-already-online/index.html | pt | books | Ashraellen — Você já está online | _missing_ | está, online, você, ashraellen, books, capítulo, realidade, romance, sobre, algoritmos, already, antes, áudio, como, cyberpunk, demais, digital, drama |
-| pt/contact.html | pt | contact.html | Contato — Ashraellen | ashraellen, contato, colaboração, publicações, bolsas, mídia, projetos | ashraellen, contato, aos, assuntos, bolsas, colaboração, mídia, projetos, canal, contact, contact.html, kostyshev, página, para, publicações, relacionados, telegram |
-| pt/index.html | pt | index.html | Ashraellen — livros, pesquisa e textos públicos | _missing_ | ashraellen, pesquisa, livros, públicos, textos, artística, independente, literário-filosófica, multilíngue, prática, uma, index.html, por, sátira, som, vídeo |
+| pt/books/the-book-of-whinesis/index.html | pt | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sátira, sagrada, para, quem, cansou, das, vibrações, positivas, produtividade, infinita, culto, sucesso, sobre, livro | book, whinesis, ashraellen, books, para, sobre, cansou, capítulos, culto, das, desconto, disse, estado, excerto, gnorna, infinita, livro, moania |
+| pt/books/you-are-already-online/index.html | pt | books | Ashraellen — Já estás online | _missing_ | online, estás, ashraellen, books, capítulo, realidade, romance, sobre, algoritmos, already, áudio, como, cyberpunk, digital, drama, entre, era, estado |
+| pt/contact.html | pt | contact.html | Contacto — Ashraellen | ashraellen, contacto, colaboração, pedidos editoriais, bolsas, comunicação social, projetos | ashraellen, contacto, bolsas, comunicação, editoriais, pedidos, projetos, questões, sobre, social, colaboração, contact, contact.html, página, para, telegram |
+| pt/index.html | pt | index.html | Ashraellen — livros, investigação e textos públicos | _missing_ | ashraellen, investigação, livros, públicos, textos, artística, independente, literário-filosófica, multilingue, prática, uma, contacto, index.html, sátira, som, vídeo |
 | pt/privacy.html | pt | privacy.html | Política de privacidade — Ashraellen | _missing_ | dados, política, privacidade, análise, que, ashraellen, cookies, para, plataformas, podem, ser, ashraellen.com, atualizações, base, com, compras, contacto, direitos |
 | pt/professional/index.html | pt | professional | Ashraellen — Dossiê profissional | _missing_ | ashraellen, formas, investigação, como, dossiê, linhas, método, obras, observação, paralelas, prática, professional, profissional, públicas, selecionadas, trabalho, artísticas, artístico-filosófica |
 | pt/projects/my-memory/index.html | pt | projects | MY MEMORY — continuidade sob controlo da pessoa | _missing_ | continuidade, memory, controlo, memória, pessoa, sob, como, deve, projects, projeto, que, ashraellen, atual, com, continuar, decisões, duradoura, enquanto |
 | pt/projects/seven/index.html | pt | projects | SEVEN — Investigação sobre vulnerabilidades humanas | _missing_ | que, seven, investigação, uma, como, ser, humanas, pode, projects, sobre, vulnerabilidades, ainda, ashraellen, central, comparado, concorrentes, decisões, esquema |
 | pt/projects/voiceprint/index.html | pt | projects | VOICEPRINT — Onde estou eu neste fluxo? | _missing_ | voiceprint, estou, não, onde, que, texto, uma, autor, fluxo, neste, para, projects, quando, quem, ser, ashraellen, atp, atravessa |
-| pt/projects/whisper/index.html | pt | projects | WHISPER — Quem está a falar? | _missing_ | whisper, autoria, está, falar, por, projects, quem, agência, artística, ashraellen, assistência, atual, cinco, contratos, conversa, conversação, escutar, estado |
-| pt/public/index.html | pt | public | Ashraellen — Público | Ashraellen, campo público, falas, publicações, pensamentos de apoio, pesquisa, observações | público, apoio, ashraellen, pensamentos, campo, falas, onde, pessoa, public, publicações, abrir, com, encontra, não, novos, observações, pensamento, pesquisa |
+| pt/projects/whisper/index.html | pt | projects | WHISPER — Quem está a falar? | _missing_ | whisper, autoria, está, falar, por, projects, projeto, quem, ajuda, artística, ashraellen, atual, cinco, com, contratos, conversa, conversação, escuta |
+| pt/public/index.html | pt | public | Ashraellen — Público | Ashraellen, campo público, falas, publicações, pensamentos de apoio, investigação, observações | público, apoio, ashraellen, pensamentos, campo, falas, onde, pessoa, public, publicações, abrir, com, encontra, investigação, não, novos, observações, pensamento |
 | pt/public/posts/essay/cycles/cycle-0001.html | pt | public | Ashraellen — Primeiro ciclo de mini-ensaios | ashraellen, public, posts, essay, cycles, cycle, 0001, primeiro, ciclo, mini-ensaios, poder, não, sobre, pensamento, mas, atenção, corpo, primeira | ciclo, primeiro, mas, não, sobre, corpo, passado, pensamento, ashraellen, atenção, interpretação, mini-ensaios, objetivo, poder, porta, primeira, public, sua |
-| pt/public/posts/essay/cycles/index.html | pt | public | Ashraellen — Ciclos de mini-ensaios | ashraellen, public, posts, essay, cycles, ciclos, mini-ensaios, concluídos, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ciclos, mini-ensaios, concluídos, atual, ciclo, aqui, ashraellen, estão, fica, página, para, primeiro, principal, public, cycles, essay, posts, reunidos |
+| pt/public/posts/essay/cycles/index.html | pt | public | Ashraellen — Ciclos de mini-ensaios | ashraellen, public, posts, essay, cycles, ciclos, mini-ensaios, concluídos, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split | ciclos, mini-ensaios, concluídos, ciclo, atual, aqui, ashraellen, até, cada, contém, estão, fica, public, secção, cycles, essay, nove, página |
 | pt/public/posts/essay/index.html | pt | public | Ashraellen — Mini-ensaios | ashraellen, public, posts, essay, mini-ensaios, primeiro, ciclo, poder, não, sobre, pensamento, mas, atenção, corpo, primeira, porta, objetivo, passado | mas, não, mini-ensaios, sobre, corpo, passado, pensamento, ashraellen, atenção, ciclo, interpretação, objetivo, poder, porta, primeira, primeiro, public, sua |
 | pt/public/posts/formula/index.html | pt | public | Ashraellen — Caminho, ação, ritmo | Ashraellen, fórmulas, caminho, ação, ritmo, linha 0004 | ação, caminho, ritmo, ashraellen, fórmulas, linha, public, aprende, atual, breves, com, formas, formula, fórmula, mas, medida, movimento, não |
-| pt/public/posts/formula/lines/index.html | pt | public | Ashraellen — Limites, medida, forma própria | Ashraellen, Fórmulas, Limites, medida, forma própria, limite / medida / forma, linha 0003 | forma, limites, medida, própria, ashraellen, fórmulas, linha, public, sobre, breves, formas, formula, fórmula, limite, lines, não, pensamento, posts |
+| pt/public/posts/formula/lines/index.html | pt | public | Ashraellen — Limites, medida, forma própria | Ashraellen, Fórmulas, Limites, medida, forma própria, limite / medida / forma, linha 0003 | forma, limites, medida, própria, ashraellen, fórmulas, linha, public, sobre, apoio, breves, deixa, formas, formula, fórmula, interior, limite, lines |
 | pt/public/posts/formula/lines/line-0001.html | pt | public | Ashraellen — Pensamento, atenção, corpo, passado | Ashraellen, Fórmulas, Pensamento, atenção, corpo, passado, pensamento / atenção / corpo / passado, linha 0001 | atenção, corpo, passado, pensamento, ashraellen, fórmulas, linha, public, apenas, arquivada, breves, começa, formas, formula, fórmula, line, lines, memória |
 | pt/public/posts/formula/lines/line-0002.html | pt | public | Ashraellen — Palavra, silêncio, sentido | Ashraellen, Fórmulas, Palavra, silêncio, sentido, palavra / silêncio / sentido, linha 0002 | palavra, sentido, silêncio, ashraellen, fórmulas, linha, linguagem, public, sobre, ainda, arquivada, breves, escuta, formas, formula, fórmula, line, lines |
-| pt/public/posts/fragment/index.html | pt | public | Ashraellen — Fragmentos — PT | ashraellen, public, posts, fragment, fragmentos, seção, preparada, partir, grande, arquivo, manuscritos, notas, publicações, acumulados, longo, muitos, anos, trabalho | ashraellen, fragmentos, acumulados, anos, arquivo, grande, longo, manuscritos, notas, public, seção, trabalho, aqui, fragment, muitos, partir, posts, preparação |
-| pt/public/posts/index.html | pt | public | Ashraellen — Publicações | Ashraellen, publicações, fórmulas, fragmentos, miniensaios, textos filosóficos, pesquisa artística | ashraellen, publicações, que, antes, breves, ele, formas, fórmulas, fragmentos, miniensaios, pensamento, public, capturam, ler, observação, palestra, posts, seções |
-| pt/public/posts/sources/index.html | pt | public | Ashraellen — Fontes transferidas | ashraellen, public, posts, sources, fontes, transferidas, foram, doctype, html, title, function, const, isgithub, location.hostname.endswith, github.io, repo, location.pathname.split, filter | fontes, transferidas, foram, abrir, agora, ashraellen, base, ciência, como, corpo, fazem, fenomenologia, metodológica, public, narrativa, parte, pesquisa, posts |
+| pt/public/posts/fragment/index.html | pt | public | Ashraellen — Fragmentos | ashraellen, public, posts, fragment, fragmentos, secção, preparada, partir, grande, arquivo, manuscritos, notas, publicações, acumulados, longo, muitos, anos, trabalho | ashraellen, fragmentos, acumulados, anos, arquivo, grande, longo, notas, public, secção, trabalho, aqui, excertos, fragment, manuscritos, muitos, partir, posts |
+| pt/public/posts/index.html | pt | public | Ashraellen — Publicações | Ashraellen, publicações, fórmulas, fragmentos, miniensaios, textos filosóficos, investigação artística | ashraellen, publicações, antes, breves, formas, fórmulas, fragmentos, miniensaios, observação, palestra, pensamento, public, captam, ler, posts, que, secções, tornar |
+| pt/public/posts/sources/index.html | pt | public | Ashraellen — Fontes transferidas | _missing_ | ashraellen, fontes, transferidas, área, base, investigação, metodológica, projeto, public, secção, abrir, agora, como, endereço, foi, foram, integra, novo |
 | pt/public/talks/index.html | pt | public | Ashraellen — Apresentações | Ashraellen, apresentações, vídeos, análises públicas, consciência, percepção, clareza | ashraellen, apresentações, para, public, que, sacred, uma, abrir, acontece, ahepsu, alma, análises, autoengano, clareza, com, como, compreensão, consciência |
 | pt/public/thoughts/arcs/0001-cheerfulness.html | pt | public | Ashraellen — A alegria como diagnóstico da pessoa | ashraellen, public, thoughts, arcs, 0001, cheerfulness, alegria, como, diagnóstico, pessoa, pensamento, apoio, riso, muitas, vezes, abre, alma, com | alegria, ashraellen, como, pessoa, que, com, diagnóstico, mais, pensamento, public, abre, alma, apoio, arcs, bondade, cheerfulness, completo, corretos |
-| pt/public/thoughts/arcs/0002-still-the-same.html | pt | public | Ashraellen — As mesmas forças, novos nomes | ashraellen, public, thoughts, arcs, 0002, still, same, mesmas, forças, novos, nomes, pensamento, apoio, ansiedades, dependências, modernas, como, antigos | nomes, novos, ashraellen, forças, mesmas, demônios, deuses, pensamento, por, public, que, ansiedades, antigos, apoio, arcs, como, completo, dependências |
+| pt/public/thoughts/arcs/0002-still-the-same.html | pt | public | Ashraellen — As mesmas forças, novos nomes | ashraellen, public, thoughts, arcs, 0002, still, same, mesmas, forças, novos, nomes, pensamento, apoio, ansiedades, dependências, modernas, como, antigos | nomes, novos, ashraellen, forças, mesmas, demónios, deuses, pensamento, por, public, que, ansiedades, antigos, apoio, arcs, como, completo, dependências |
 | pt/public/thoughts/arcs/0003-let-go.html | pt | public | Ashraellen — O despertar começa onde já não se pode continuar | ashraellen, public, thoughts, arcs, 0003, let, despertar, começa, onde, não, pode, continuar, pensamento, apoio, velho, modo, vida, sentido | começa, continuar, despertar, não, ashraellen, onde, pode, pensamento, public, apoio, aqui, arcs, com, como, completo, escolhido, está, foi |
 | pt/public/thoughts/arcs/0004-mortality-awakens.html | pt | public | Ashraellen — A finitude desperta a pergunta | ashraellen, public, thoughts, arcs, 0004, mortality, awakens, finitude, desperta, pergunta, pensamento, apoio, muitos, começam, pensar, quando, suas, ilusões | ashraellen, finitude, pergunta, acabam, começam, desperta, pensamento, pensar, public, quando, que, apoio, arcs, awakens, com, completo, escolhido, foi |
-| pt/public/thoughts/arcs/0005-on-your-own.html | pt | public | Ashraellen — O medo como mecanismo de controle | ashraellen, public, thoughts, arcs, 0005, your, own, medo, como, mecanismo, controle, pensamento, apoio, onde, pessoa, deixa, temer, começa | controle, ashraellen, como, medo, por, começa, mecanismo, pensamento, pensar, pessoa, public, que, antigos, apoio, arcs, com, completo, corpo |
+| pt/public/thoughts/arcs/0005-on-your-own.html | pt | public | Ashraellen — O medo como mecanismo de controlo | ashraellen, public, thoughts, arcs, 0005, your, own, medo, como, mecanismo, controlo, pensamento, apoio, onde, pessoa, deixa, temer, começa | controlo, ashraellen, como, medo, por, começa, mecanismo, pensamento, pensar, pessoa, public, que, antigos, apoio, arcs, com, completo, corpo |
 | pt/public/thoughts/arcs/0006-insight.html | pt | public | Ashraellen — Um olhar mais profundo reúne a vida | ashraellen, public, thoughts, arcs, 0006, insight, olhar, mais, profundo, reúne, vida, pensamento, apoio, erros, dor, experiência, numa, cadeia | mais, olhar, ashraellen, profundo, reúne, vida, compreensão, pensamento, public, que, apoio, arcs, cadeia, com, começa, completo, dor, erros |
 | pt/public/thoughts/arcs/0007-empty-chair.html | pt | public | Ashraellen — A cadeira vazia | ashraellen, public, thoughts, arcs, 0007, empty, chair, cadeira, vazia, pensamento, apoio, algumas, pessoas, não, vão, embora, por, completo | ashraellen, cadeira, completo, por, vazia, não, pensamento, public, que, simplesmente, algumas, alma, apoio, arcs, chair, como, deixam, elas |
-| pt/public/thoughts/arcs/0008-generalization.html | pt | public | Ashraellen — Generalização em vez de observação | ashraellen, public, thoughts, arcs, 0008, generalization, generalização, vez, observação, pensamento, apoio, torna-se, perigosa, quando, substitui, sentido, texto, completo | generalização, observação, ashraellen, vez, apoio, pensamento, public, quando, que, arcs, assim, completo, escolhido, foi, generalization, isto, mente, não |
-| pt/public/thoughts/arcs/0009-where-life-stopped.html | pt | public | Ashraellen — Onde deixaste de estar vivo | ashraellen, public, thoughts, arcs, 0009, where, life, stopped, onde, deixaste, estar, vivo, pensamento, apoio, vezes, despertar, significa, ver | deixaste, estar, onde, vivo, ashraellen, despertar, pensamento, por, public, que, apoio, aquilo, arcs, completo, escolhido, foi, life, não |
-| pt/public/thoughts/arcs/0010-dirty-cup.html | pt | public | Ashraellen — A chávena suja | ashraellen, public, thoughts, arcs, 0010, dirty, cup, chávena, suja, pensamento, apoio, correr, círculos, não, limpa, apenas, muda, quem | chávena, ashraellen, não, pensamento, por, public, que, suja, alice, apenas, apoio, arcs, chapeleiro, círculos, completo, corre, correr, cup |
-| pt/public/thoughts/arcs/0011-do-not-regret.html | pt | public | Ashraellen — Não te arrependas | ashraellen, public, thoughts, arcs, 0011, regret, não, arrependas, pensamento, apoio, vezes, misericórdia, parece, perda, salvação, chega, disfarçada, sonho | não, arrependas, ashraellen, foi, pensamento, perda, por, public, que, vezes, apoio, arcs, chega, como, completo, disfarçada, escolhido, mas |
+| pt/public/thoughts/arcs/0008-generalization.html | pt | public | Ashraellen — Generalização em vez de observação | ashraellen, public, thoughts, arcs, 0008, generalization, generalização, vez, observação, pensamento, apoio, torna-se, perigosa, quando, substitui, sentido, texto, completo | generalização, observação, ashraellen, vez, apoio, pensamento, public, quando, que, arcs, assim, completo, escolhido, foi, generalization, investigação, isto, mente |
+| pt/public/thoughts/arcs/0009-where-life-stopped.html | pt | public | Ashraellen — Onde deixaste de estar vivo | ashraellen, public, thoughts, arcs, 0009, where, life, stopped, onde, deixaste, estar, vivo, pensamento, apoio, vezes, despertar, significa, ver | deixaste, estar, onde, vivo, ashraellen, despertar, pensamento, por, public, que, apoio, aquilo, arcs, completo, escolhido, foi, investigação, life |
+| pt/public/thoughts/arcs/0010-dirty-cup.html | pt | public | Ashraellen — A chávena suja | ashraellen, public, thoughts, arcs, 0010, dirty, cup, chávena, suja, pensamento, apoio, correr, círculos, não, limpa, apenas, muda, quem | chávena, ashraellen, suja, não, pensamento, public, que, alice, apenas, apoio, arcs, chapeleiro, círculos, completo, corre, correr, cup, dirty |
+| pt/public/thoughts/arcs/0011-do-not-regret.html | pt | public | Ashraellen — Não te arrependas | ashraellen, public, thoughts, arcs, 0011, regret, não, arrependas, pensamento, apoio, vezes, misericórdia, parece, perda, salvação, chega, disfarçada, sonho | não, arrependas, ashraellen, foi, pensamento, perda, por, public, que, vezes, apoio, arcs, chega, como, completo, disfarçada, escolhido, investigação |
 | pt/public/thoughts/arcs/0012-close-the-book.html | pt | public | Ashraellen — Quando fechar o livro | ashraellen, public, thoughts, arcs, 0012, close, book, quando, fechar, livro, pensamento, apoio, certo, momento, caminho, não, continua, página | ashraellen, continua, livro, caminho, certo, fechar, momento, não, public, quando, silêncio, apoio, arcs, book, close, completo, escolhido, foi |
-| pt/public/thoughts/arcs/0013-problem-loses-crown.html | pt | public | Ashraellen — O problema perde a coroa | ashraellen, public, thoughts, arcs, 0013, problem, loses, crown, problema, perde, coroa, pensamento, apoio, não, foi, destruído, mas, seu | problema, coroa, foi, perde, 0013, apoio, pensamento, que, ashraellen, completo, escolhido, mas, não, nota, pesquisa, por, public, sentido |
-| pt/public/thoughts/arcs/0014-end-of-extra-war.html | pt | public | Ashraellen — O fim da guerra desnecessária | ashraellen, public, thoughts, arcs, 0014, end, extra, war, fim, guerra, desnecessária, pensamento, apoio, concordância, interior, com, que, não | desnecessária, fim, guerra, que, ashraellen, com, interior, não, pensamento, public, 0014, apoio, arcs, completo, concordância, derrota, ela, end |
-| pt/public/thoughts/arcs/0015-subtle-thought-needs-silence.html | pt | public | Ashraellen — Um pensamento sutil precisa de silêncio | ashraellen, public, thoughts, arcs, 0015, subtle, thought, needs, silence, pensamento, sutil, precisa, silêncio, apoio, não, obrigado, tornar, grosseiro | pensamento, sutil, ashraellen, grosseiro, não, notado, para, precisa, public, que, sentido, ser, silêncio, 0015, apoio, arcs, completo, compreensão |
-| pt/public/thoughts/arcs/0016-one-fact.html | pt | public | Ashraellen — Havia um fato | ashraellen, public, thoughts, arcs, 0016, one, fact, havia, fato, pensamento, apoio, sofrimento, para, três, temporadas, com, continuação, sentido | fato, havia, ashraellen, com, pensamento, public, que, sofrimento, 0016, acontecimento, apoio, arcs, completo, continuação, então, escolhido, fact, foi |
-| pt/public/thoughts/arcs/0017-witness-does-not-interfere.html | pt | public | Ashraellen — A testemunha não interfere | ashraellen, public, thoughts, arcs, 0017, witness, does, interfere, testemunha, não, pensamento, apoio, quem, nada, faz, impede, verdade, tornar | não, testemunha, interfere, quem, antes, ashraellen, faz, pensamento, por, public, que, sentido, 0017, ainda, apoio, arcs, calma, completo |
-| pt/public/thoughts/arcs/0018-image-cannot-be-happy.html | pt | public | Ashraellen — Uma imagem não pode ser feliz | ashraellen, public, thoughts, arcs, 0018, image, cannot, happy, uma, imagem, não, pode, ser, feliz, pensamento, apoio, receber, reconhecimento | pode, imagem, não, ser, uma, feliz, ashraellen, mas, por, public, que, 0018, apoio, arcs, cannot, com, completo, correta |
-| pt/public/thoughts/arcs/0019-do-not-bomb.html | pt | public | Ashraellen — Não Bombardeie | ashraellen, public, thoughts, arcs, 0019, bomb, não, bombardeie, pensamento, apoio, você, será, bombardeado, sentido, texto, completo, por, que | não, bombardeie, pensamento, que, você, 0019, apoio, ashraellen, bombardeado, completo, escolhido, foi, nota, pesquisa, por, public, sentido, texto |
-| pt/public/thoughts/arcs/0020-people-and-mass.html | pt | public | Ashraellen — Povo e Massa | ashraellen, public, thoughts, arcs, 0020, people, mass, povo, massa, pensamento, apoio, lembra, uma, reage, sentido, texto, completo, por | massa, povo, lembra, pensamento, por, que, sentido, uma, 0020, apoio, ashraellen, completo, escolhido, foi, nota, pesquisa, public, reage |
-| pt/public/thoughts/arcs/0021-mating-games.html | pt | public | Ashraellen — Jogos de Acasalamento | ashraellen, public, thoughts, arcs, 0021, mating, games, jogos, acasalamento, pensamento, apoio, relações, muitas, vezes, começam, pelo, papel, que | acasalamento, que, ashraellen, começam, jogos, pensamento, por, public, relações, 0021, alguns, amor, apoio, arcs, com, completo, conosco, escolhido |
-| pt/public/thoughts/arcs/0022-spirituality-is-not-forced.html | pt | public | Ashraellen — A Espiritualidade Não Se Impõe | ashraellen, public, thoughts, arcs, 0022, spirituality, forced, espiritualidade, não, impõe, pensamento, apoio, verdadeira, ela, encanta, sentido, texto, completo | espiritualidade, impõe, não, ashraellen, pensamento, public, verdadeira, 0022, alma, apoio, arcs, com, completo, ela, encanta, escolhido, foi, forced |
-| pt/public/thoughts/arcs/0023-price-of-transition.html | pt | public | Ashraellen — O Preço da Transição | ashraellen, public, thoughts, arcs, 0023, price, transition, preço, transição, pensamento, apoio, toda, passagem, para, uma, nova, etapa, paga | preço, uma, ashraellen, com, crise, para, pensamento, public, que, transição, 0023, apoio, arcs, completo, escolhido, etapa, foi, mais |
-| pt/public/thoughts/arcs/0024-true-enemy-not-ignorance.html | pt | public | Ashraellen — O Verdadeiro Inimigo | ashraellen, public, thoughts, arcs, 0024, true, enemy, ignorance, verdadeiro, inimigo, pensamento, apoio, pessoa, não, ignorância, mas, certeza, que | inimigo, verdadeiro, que, ashraellen, certeza, ignorância, mas, não, pessoa, public, sabe, 0024, apoio, arcs, bastante, com, completo, ela |
-| pt/public/thoughts/index-0001.html | pt | public | Ashraellen — Primeiro arco de pensamentos de apoio | ashraellen, public, thoughts, index, 0001, primeiro, arco, pensamentos, apoio, alegria, antigas, forças, despertar, finitude, medo, visão, como, diagnóstico | apoio, arco, ashraellen, pensamentos, alegria, despertar, forças, medo, primeiro, antigas, como, finitude, mais, public, abrir, começa, continuar, controle |
-| pt/public/thoughts/index-0002.html | pt | public | Ashraellen — Arco 0002 — PT | ashraellen, public, thoughts, index, 0002, arco, segundo, pensamentos, apoio, cadeira, vazia, generalização, vez, observação, onde, vida, parou, xícara | arco, apoio, pensamentos, segundo, ashraellen, generalização, não, observação, quando, xícara, 0002, arrependa, cadeira, fechar, livro, onde, parou, public |
-| pt/public/thoughts/index.html | pt | public | Ashraellen — Terceiro arco de pensamentos de apoio | Ashraellen, pensamentos de apoio, arco 0003, aceitação da realidade, testemunha, imagem | apoio, arco, pensamentos, ashraellen, desnecessária, fato, guerra, imagem, não, pensamento, problema, terceiro, coroa, perde, public, sutil, testemunha, abrir |
-| pt/research/archive/index.html | pt | research | Ashraellen — Arquivo de pesquisa | Ashraellen, arquivo de pesquisa, materiais de pesquisa, versões, camadas da pesquisa, pesquisa artística | arquivo, ashraellen, pesquisa, materiais, ainda, camadas, caminho, concluídas, não, que, research, vivo, anteriores, archive, está, fazem, movimento, para |
-| pt/research/index.html | pt | research | Ashraellen — Pesquisa | ashraellen, research, pesquisa, modo, ver, uma, artístico-filosófica, sentido, longo, vida, observação, como, ser, humano, perde, contato, com, realidade | pesquisa, ashraellen, como, sentido, uma, observação, que, research, aberto, abrir, artística, artístico-filosófica, com, conhecimento, contato, contínua, digital, entender |
-| pt/research/method/index.html | pt | research | Ashraellen — Método de Observação | ashraellen, research, method, método, observação, registro, nós, sentido, forma, artística, como, instrumento, pesquisa, verificação, pelo, reconhecimento, campo, aparece | observação, ashraellen, como, método, que, artística, forma, não, pesquisa, por, research, sentido, verificação, aparece, aqui, campo, dentro, formas |
-| pt/research/notes/index.html | pt | research | Ashraellen — Notas | ashraellen, notas, margens, pesquisa, dúvidas, fragmentos | ashraellen, notas, margens, doutrina, dúvidas, fragmentos, material, que, recusa, research, tornar, assim, concebido, deliberadamente, notes |
-| pt/research/position/index.html | pt | research | Ashraellen — Posição | ashraellen, posição, pesquisa artística, Realidade, aceitação, Criador, liberdade humana, religião, responsabilidade | ashraellen, realidade, não, posição, aceitação, pessoa, ponto, research, responsabilidade, sem, uma, agir, aprovação, caminho, coerção, com, como, compreensão |
-| pt/research/projects/index.html | pt | research | Ashraellen — Projetos de pesquisa | ashraellen, research, projects, projetos, pesquisa, mapa, dos, campos, trabalho, monolith, canal, principal, campo, público, satíricos, laboratórios, laterais, percepção | ashraellen, investigação, memory, monolith, projetos, research, seven, voiceprint, whisper, abrir, artísticos, atualizado, campos, com, como, dos, instagram, laboratórios |
-| pt/research/sources/index.html | pt | research | Ashraellen — Fontes e tradição | ashraellen, research, sources, fontes, tradição, fenomenologia, consciência, corpo, narrativa, ciência, cognitiva, prática, artística, edmund, husserl, experiência, antes, das | como, ashraellen, consciência, corpo, fontes, narrativa, tradição, experiência, fenomenologia, forma, research, antes, artística, ciência, cognitiva, com, compreensão, das |
+| pt/public/thoughts/arcs/0013-problem-loses-crown.html | pt | public | Ashraellen — O problema perde a coroa | ashraellen, public, thoughts, arcs, 0013, problem, loses, crown, problema, perde, coroa, pensamento, apoio, não, foi, destruído, mas, seu | problema, foi, coroa, perde, ashraellen, mas, não, pensamento, por, public, que, seu, 0013, apoio, arcs, com, como, completo |
+| pt/public/thoughts/arcs/0014-end-of-extra-war.html | pt | public | Ashraellen — O fim da guerra desnecessária | ashraellen, public, thoughts, arcs, 0014, end, extra, war, fim, guerra, desnecessária, pensamento, apoio, concordância, interior, com, que, não | desnecessária, fim, guerra, que, ashraellen, com, interior, não, pensamento, public, 0014, apoio, arcs, completo, concordância, derrota, end, escolhido |
+| pt/public/thoughts/arcs/0015-subtle-thought-needs-silence.html | pt | public | Ashraellen — Um pensamento subtil precisa de silêncio | ashraellen, public, thoughts, arcs, 0015, subtle, thought, needs, silence, pensamento, subtil, precisa, silêncio, apoio, não, obrigado, tornar, grosseiro | pensamento, subtil, ashraellen, não, por, precisa, public, que, sentido, ser, silêncio, 0015, apoio, arcs, completo, compreensão, escolhido, exige |
+| pt/public/thoughts/arcs/0016-one-fact.html | pt | public | Ashraellen — Havia um facto | ashraellen, public, thoughts, arcs, 0016, one, fact, havia, facto, pensamento, apoio, sofrimento, para, três, temporadas, com, continuação, sentido | facto, havia, ashraellen, com, pensamento, por, public, que, sofrimento, 0016, acontecimento, apoio, arcs, completo, continuação, então, escolhido, fact |
+| pt/public/thoughts/arcs/0017-witness-does-not-interfere.html | pt | public | Ashraellen — A testemunha não interfere | ashraellen, public, thoughts, arcs, 0017, witness, does, interfere, testemunha, não, pensamento, apoio, quem, nada, faz, impede, verdade, tornar | não, testemunha, interfere, antes, ashraellen, pensamento, por, public, que, quem, sentido, tempo, 0017, ainda, apoio, aquele, arcs, completo |
+| pt/public/thoughts/arcs/0018-image-cannot-be-happy.html | pt | public | Ashraellen — Uma imagem não pode ser feliz | ashraellen, public, thoughts, arcs, 0018, image, cannot, happy, uma, imagem, não, pode, ser, feliz, pensamento, apoio, receber, reconhecimento | pode, imagem, não, ser, uma, feliz, ashraellen, mas, por, public, que, 0018, apoio, arcs, cannot, certa, com, completo |
+| pt/public/thoughts/arcs/0019-do-not-bomb.html | pt | public | Ashraellen — Não Bombardeies | ashraellen, public, thoughts, arcs, 0019, bomb, não, bombardeie, pensamento, apoio, você, será, bombardeado, sentido, texto, completo, por, que | não, bombardeies, ashraellen, bombardeado, pensamento, por, public, que, 0019, apoio, arcs, bomb, com, completo, depois, escolhido, foi, investigação |
+| pt/public/thoughts/arcs/0020-people-and-mass.html | pt | public | Ashraellen — Povo e Massa | ashraellen, public, thoughts, arcs, 0020, people, mass, povo, massa, pensamento, apoio, lembra, uma, reage, sentido, texto, completo, por | massa, povo, ashraellen, pensamento, por, public, que, uma, 0020, apoio, arcs, com, como, completo, corrente, ela, escolhido, foi |
+| pt/public/thoughts/arcs/0021-mating-games.html | pt | public | Ashraellen — Jogos de Acasalamento | ashraellen, public, thoughts, arcs, 0021, mating, games, jogos, acasalamento, pensamento, apoio, relações, muitas, vezes, começam, pelo, papel, que | acasalamento, que, ashraellen, começam, jogos, public, 0021, apoio, arcs, com, completo, connosco, ela, ele, entre, escolhido, foi, games |
+| pt/public/thoughts/arcs/0022-spirituality-is-not-forced.html | pt | public | Ashraellen — A Espiritualidade Não Se Impõe | ashraellen, public, thoughts, arcs, 0022, spirituality, forced, espiritualidade, não, impõe, pensamento, apoio, verdadeira, ela, encanta, sentido, texto, completo | espiritualidade, impõe, não, por, ashraellen, genuína, pensamento, public, 0022, alma, apoio, arcs, com, completo, ela, encantado, escolhido, fica-se |
+| pt/public/thoughts/arcs/0023-price-of-transition.html | pt | public | Ashraellen — O Preço da Transição | ashraellen, public, thoughts, arcs, 0023, price, transition, preço, transição, pensamento, apoio, toda, passagem, para, uma, nova, etapa, paga | uma, ashraellen, com, crise, para, pensamento, por, preço, public, que, transição, 0023, apoio, arcs, como, completo, escolhido, etapa |
+| pt/public/thoughts/arcs/0024-true-enemy-not-ignorance.html | pt | public | Ashraellen — O Verdadeiro Inimigo | ashraellen, public, thoughts, arcs, 0024, true, enemy, ignorance, verdadeiro, inimigo, pensamento, apoio, pessoa, não, ignorância, mas, certeza, que | inimigo, verdadeiro, que, ashraellen, certeza, ignorância, mas, não, public, sabe, ser, 0024, apoio, arcs, completo, enemy, escolhido, foi |
+| pt/public/thoughts/index-0001.html | pt | public | Ashraellen — Primeiro arco de pensamentos de apoio | ashraellen, public, thoughts, index, 0001, primeiro, arco, pensamentos, apoio, alegria, antigas, forças, despertar, finitude, medo, visão, como, diagnóstico | apoio, arco, ashraellen, pensamentos, alegria, despertar, forças, medo, primeiro, antigas, como, finitude, mais, public, abrir, começa, continuar, controlo |
+| pt/public/thoughts/index-0002.html | pt | public | Ashraellen — Arco 0002 — PT | ashraellen, public, thoughts, index, 0002, arco, segundo, pensamentos, apoio, cadeira, vazia, generalização, vez, observação, onde, vida, parou, xícara | arco, apoio, ashraellen, pensamentos, chávena, generalização, não, observação, onde, segundo, arrependas, cadeira, deixaste, estar, fechar, livro, public, quando |
+| pt/public/thoughts/index.html | pt | public | Ashraellen — Terceiro arco de pensamentos de apoio | Ashraellen, pensamentos de apoio, arco 0003, aceitação da realidade, testemunha, imagem | apoio, arco, pensamentos, ashraellen, desnecessária, facto, guerra, imagem, não, pensamento, problema, terceiro, coroa, perde, public, subtil, testemunha, abrir |
+| pt/research/archive/index.html | pt | research | Ashraellen — Arquivo de investigação | Ashraellen, arquivo de investigação, materiais de investigação, versões, camadas da investigação, investigação artística | arquivo, ashraellen, investigação, materiais, ainda, camadas, caminho, concluídas, não, que, research, vivo, anteriores, archive, está, fazem, movimento, para |
+| pt/research/index.html | pt | research | Ashraellen — Investigação | ashraellen, research, investigação, modo, ver, uma, artístico-filosófica, sentido, longo, vida, observação, como, ser, humano, perde, contacto, com, realidade | investigação, ashraellen, como, sentido, uma, observação, que, research, aberto, abrir, artística, artístico-filosófica, com, conhecimento, contacto, contínua, digital, entender |
+| pt/research/method/index.html | pt | research | Ashraellen — Método de Observação | ashraellen, research, method, método, observação, registo, nós, sentido, forma, artística, como, instrumento, investigação, verificação, pelo, reconhecimento, campo, aparece | observação, ashraellen, como, método, forma, artística, investigação, não, pessoa, que, research, sentido, verificação, aqui, campo, experiência, formas, instrumento |
+| pt/research/notes/index.html | pt | research | Ashraellen — Notas | ashraellen, notas, margens, investigação, dúvidas, fragmentos | ashraellen, notas, margens, doutrina, dúvidas, fragmentos, material, que, recusa, research, tornar, assim, concebido, deliberadamente, notes |
+| pt/research/position/index.html | pt | research | Ashraellen — Posição | ashraellen, posição, investigação artística, Realidade, aceitação, Criador, liberdade humana, religião, responsabilidade | ashraellen, ponto, posição, realidade, sem, compreensão, não, research, responsabilidade, uma, aceitação, aceitar, agir, aprovar, caminho, coerção, com, como |
+| pt/research/projects/index.html | pt | research | Ashraellen — Projetos de investigação | ashraellen, research, projects, projetos, investigação, mapa, dos, campos, trabalho, monolith, canal, principal, campo, público, satíricos, laboratórios, laterais, percepção | ashraellen, investigação, memory, monolith, projetos, research, seven, voiceprint, whisper, abrir, artísticos, atualizado, campos, com, como, dos, instagram, laboratórios |
+| pt/research/sources/index.html | pt | research | Ashraellen — Fontes e tradição | ashraellen, research, sources, fontes, tradição, fenomenologia, consciência, corpo, narrativa, ciência, cognitiva, prática, artística, edmund, husserl, experiência, antes, das | como, ashraellen, consciência, corpo, fontes, narrativa, tradição, artística, experiência, fenomenologia, research, antes, ciência, cognitiva, com, compreensão, das, direções |
 | research/method/index.html | root | research | Redirecting — Ashraellen | _missing_ | ashraellen, research, redirecting, method |
 | ru/books/demotopia/index.html | ru | books | Demotopia — Демократичная Утопия — роман Ashraellen | Ashraellen, Demotopia, Демократичная Утопия, философский роман, социальная фантастика, Варшава, демократия, диктатура, данные, свобода, ответственность | demotopia, ashraellen, роман, books, без, атмосфера, ближайшего, будущего, варшаве, власти, всё, где, данных, два, демократии, демократичная, его, избранный |
 | ru/books/error-404-god-not-found/index.html | ru | books | Ashraellen — Ошибка 404: Бог не найден | ashraellen, books, error, 404, god, found, ошибка, бог, найден, многоязычный, философско-сатирический, роман-цикл, небесной, канцелярии, неверно, направленном, поиске, бога | 404, бог, найден, ошибка, ashraellen, books, бога, канцелярии, небесной, error, found, god, дело, его, или, истины, книга, книги |
@@ -10788,14 +10788,14 @@ Excerpt:
 - description: Demotopia é um romance filosófico de Ashraellen sobre a Varsóvia de um futuro próximo, democracia, poder distribuído, dados, liberdade e responsabilidade.
 - canonical: https://www.ashraellen.com/pt/books/demotopia/
 - H1: Demotopia
-- H2: Trecho selecionado | Sobre o livro | Sem spoilers | Quadro artístico e de pesquisa | Temas principais | Forma e atmosfera | Para quem | Dois circuitos editoriais
+- H2: Trecho selecionado | Sobre o livro | Sem spoilers | Quadro artístico e de investigação | Temas principais | Forma e atmosfera | Para quem | Dois circuitos editoriais
 - H3: Uma Varsóvia que funciona | A pessoa como soma | Poder sem rosto maligno | Responsabilidade sem intenção | Liberdade | Dados | Democracia | Responsabilidade
-- suggested keyword seed: demotopia, ashraellen, romance, sobre, books, artístico, atmosfera, circuitos, como, dados, democracia, democrática, distribuído, dois, editoriais, filosófico, forma, futuro
-- candidates: uma, não, que, pessoa, mas, romance, como, sistema, sobre, pode, quando, demotopia, para, pela, autoral, democracia, mais, sem, versão, com, decisão, direito, forma, investigador
+- suggested keyword seed: demotopia, ashraellen, romance, sobre, books, para, artístico, atmosfera, circuitos, com, como, dados, democracia, democrática, distribuído, dois, editoriais, filosófico
+- candidates: não, que, uma, pessoa, mas, como, para, com, sistema, sobre, mais, romance, pode, por, investigador, pela, tem, versão, demotopia, sociedade, decisão, ele, entre, era
 
 Excerpt:
 
-> Romance filosófico / Varsóvia num futuro próximo Demotopia Utopia Democrática A cidade tornou-se mais segura, transparente e justa. O sistema já não vê um ato isolado: vê a pessoa inteira — os seus percursos, relações, escolhas, obrigações e silêncios. Mas o que resta da liberdade quando a sociedade consegue provar que conhece uma pessoa com mais precisão do que ela conhece a si própria? Conceito de capa em inglês. Ashraellen. Trecho selecionado Capítulo 1. A máquina nunca chegou O sistema já vê uma estrutura concluída. O investigador tenta estabelecer onde termina a participação comprovada de uma pessoa e onde começa o conhecimento que lhe é atribuído. Abrir trecho Fechar trecho O investigador abriu o processo da detenção correspondente ao nono endereço. A equipa entrou às 05:40:08. Não houve resistência física. O nó pessoal foi retirado sem danos. O circuito de proteção foi restabeleci
+> Romance filosófico / Varsóvia num futuro próximo Demotopia Utopia Democrática A cidade tornou-se mais segura, transparente e justa. O sistema já não vê um ato isolado: vê a pessoa inteira — os seus percursos, relações, escolhas, obrigações e silêncios. Mas o que resta da liberdade quando a sociedade consegue provar que conhece uma pessoa com mais precisão do que ela conhece a si própria? Conceito de capa em inglês. Ashraellen. Trecho selecionado Capítulo 1. A máquina-ferramenta não chegou O sistema já vê uma estrutura concluída. O investigador tenta estabelecer onde termina a participação comprovada de uma pessoa e onde começa o conhecimento que lhe é atribuído. Abrir trecho Fechar trecho O investigador abriu o processo da detenção correspondente ao nono endereço. A equipa entrou às 05:40:08. Não houve resistência física. O nó pessoal foi retirado sem danos. O circuito de proteção foi re
 
 ### pt/books/error-404-god-not-found/index.html
 
@@ -10806,47 +10806,47 @@ Excerpt:
 - canonical: https://www.ashraellen.com/pt/books/error-404-god-not-found/
 - H1: Erro 404: Deus não encontrado
 - H2: Série | Livros do ciclo | Frase da série
-- H3: Livro I — Por que eu? | Livro II — Sobre tudo, a Sua vontade | Livro III — em preparação
+- H3: Livro I — Porquê eu? | Livro II — Sobre tudo, a Sua vontade | Livro III — em preparação
 - suggested keyword seed: erro, 404, deus, encontrado, não, ciclo, ashraellen, books, celestial, chancelaria, série, sobre, busca, contra, error, filosófico-satírico, forma, found
-- candidates: não, deus, erro, uma, celestial, chancelaria, encontrado, livro, ciclo, forma, sobre, 404, busca, preparação, que, caso, contra, humano, mas, nem, nova, requerente, resposta, universo
+- candidates: não, deus, erro, uma, celestial, chancelaria, encontrado, livro, ciclo, forma, sobre, 404, busca, preparação, através, caso, contra, humano, mas, nem, nova, que, requerente, resposta
 
 Excerpt:
 
-> Erro 404: Deus não encontrado Um ciclo romanesco filosófico-satírico sobre a Chancelaria Celestial, a reclamação humana contra o Universo e o erro de busca que começa não em Deus, mas na forma de se dirigir. Série casos da Chancelaria Celestial Deus “não foi encontrado” não porque Ele não exista. Deus não é encontrado porque o ser humano O procura como objeto, endereço, instância, prova, justificativa ou serviço de apoio. Erro 404: Deus não encontrado é um ciclo de romances filosófico-satíricos sobre pessoas que tentam encontrar Deus, a Verdade, a justiça, o sentido ou uma resposta, mas procuram através da forma distorcida do próprio medo, dor, profissão, fé, conhecimento ou autoengano. A Chancelaria Celestial aqui não é um lugar, nem uma instituição, nem uma aplicação, nem uma burocracia fantástica. É um estado através do qual a pessoa encontra o próprio pedido dirigido a Deus, à vida, 
+> Erro 404: Deus não encontrado Um ciclo romanesco multilingue, filosófico-satírico, sobre a Chancelaria Celestial, a reclamação humana contra o Universo e o erro de busca que começa não em Deus, mas na própria forma de se dirigir a Ele. Série casos da Chancelaria Celestial Deus «não foi encontrado» não porque Ele não exista. Deus não é encontrado porque o ser humano O procura como objeto, endereço, instância, prova, justificação ou serviço de apoio ao cliente. Erro 404: Deus não encontrado é um ciclo de romances filosófico-satíricos sobre pessoas que tentam encontrar Deus, a Verdade, a justiça, o sentido ou uma resposta, mas procuram através da forma distorcida do seu próprio medo, dor, profissão, fé, conhecimento ou autoengano. A Chancelaria Celestial aqui não é um lugar, nem uma instituição, nem uma aplicação, nem uma burocracia fantástica. É um estado através do qual a pessoa encontra 
 
 ### pt/books/error-404-god-not-found/why-me/index.html
 
 - lang: pt
 - section: books
-- title: Ashraellen — Por que eu?
-- description: Por que eu? — Livro I do ciclo Erro 404: Deus não encontrado. Um romance filosófico-satírico sobre dor, reclamação, fé, burocracia da alma e Chancelaria Celestial.
+- title: Ashraellen — Porquê eu?
+- description: Porquê eu? — Livro I do ciclo Erro 404: Deus não encontrado. Um romance filosófico-satírico sobre dor, reclamação, fé, burocracia da alma e Chancelaria Celestial.
 - canonical: https://www.ashraellen.com/pt/books/error-404-god-not-found/why-me/
-- H1: Por que eu?
+- H1: Porquê eu?
 - H2: Sobre o livro | Tema do livro | Camadas de sentido | Excerto
 - H3: Capítulo primeiro. Erro 404
-- suggested keyword seed: por, que, livro, ashraellen, books, deus, não, sobre, 404, alma, burocracia, camadas, celestial, chancelaria, ciclo, com, como, depois
-- candidates: não, que, por, uma, depois, vlad, para, com, como, mas, deus, mais, sobre, livro, pedido, cruz, disse, era, erro, telefone, tudo, 404, dor, primeiro
+- suggested keyword seed: livro, porquê, ashraellen, books, deus, não, sobre, 404, alma, burocracia, camadas, celestial, chancelaria, ciclo, com, como, depois, dor
+- candidates: não, que, uma, por, com, depois, para, vlad, como, mais, mas, deus, livro, porquê, disse, pedido, sem, sua, telemóvel, 404, dor, era, erro, primeiro
 
 Excerpt:
 
-> Por que eu? Livro I do ciclo Erro 404: Deus não encontrado . Um romance filosófico-satírico sobre dor, reclamação, fé, burocracia da alma e Chancelaria Celestial. Sobre o livro em preparação para impressão Em preparação Por que eu? é o primeiro livro do ciclo Erro 404: Deus não encontrado . É a história de Vlad, advogado e requerente irritado contra o Universo, que tenta transformar a própria dor numa reclamação corretamente formulada. Vlad não procura iluminação. Quer explicações, de preferência por escrito, com assinatura, carimbo, número de processo e possibilidade de recurso. Está convencido de que o sofrimento lhe dá o direito de exigir uma resposta e que a vida deveria pelo menos reconhecer uma violação de procedimento. Mas a Chancelaria Celestial não funciona como departamento de compensações. Não discute, não consola e não prova a existência de Deus. Registra o pedido, esclarece 
+> Porquê eu? Livro I do ciclo «Erro 404: Deus não encontrado». Um romance filosófico-satírico sobre a dor, a reclamação, a fé, a burocracia da alma e a Chancelaria Celestial, que responde não às palavras do requerimento, mas a quem o apresenta. Sobre o livro em preparação para impressão Livro em preparação para impressão «Porquê eu?» é o primeiro livro do ciclo «Erro 404: Deus não encontrado». É a história de Vlad, jurista e requerente irritado contra o Universo, que tenta transformar a sua própria dor numa reclamação devidamente formalizada. Vlad não procura a iluminação. Quer explicações. De preferência por escrito, com assinatura, carimbo, número de processo e possibilidade de recurso. Está convencido de que o sofrimento lhe dá o direito de exigir uma resposta e de que a vida tem a obrigação de reconhecer, pelo menos, uma violação do procedimento. Mas a Chancelaria Celestial não funcion
 
 ### pt/books/index.html
 
 - lang: pt
 - section: books
 - title: Ashraellen — Livros
-- description: Livros de Ashraellen: Demotopia, MONOLITH, RADIANCE, SEVEN, ERROR 404: GOD NOT FOUND, O Livro Sagrado de SECCUS, Já estás na rede, The Book of Whinesis e edições directas de autor através do samizdat 2.0.
+- description: Livros de Ashraellen: Demotopia, MONOLITH, RADIANCE, SEVEN, ERROR 404: GOD NOT FOUND, O Livro Sagrado de SECCUS, Já estás na rede, The Book of Whinesis e edições diretas de autor através do samizdat 2.0.
 - canonical: https://www.ashraellen.com/pt/books/
 - H1: Livros
-- H2: Ciclos de livros | Livros independentes e investigações | Sátira | Edições directas de autor
+- H2: Ciclos de livros | Livros independentes e investigações | Sátira | Edições diretas de autor
 - H3: _missing_
-- suggested keyword seed: livros, ashraellen, autor, edições, books, directas, livro, sátira, 2.0, 404, abrir, através, book, ciclo, ciclos, demotopia, error, estás
-- candidates: ciclo, livros, abrir, livro, uma, romance, sobre, autor, edições, que, sátira, sistema, 2.0, ashraellen, áudio, dos, filosófico, independentes, samizdat, trilogia, 404, aqui, através, autoengano
+- suggested keyword seed: livros, ashraellen, autor, diretas, edições, books, livro, sátira, 2.0, 404, abrir, através, book, ciclo, ciclos, demotopia, error, estás
+- candidates: ciclo, livros, abrir, livro, uma, romance, sobre, autor, diretas, edições, que, sátira, sistema, 2.0, ashraellen, áudio, dos, filosófico, independentes, samizdat, trilogia, 404, aqui, através
 
 Excerpt:
 
-> Livros Aqui estão reunidos os ciclos de livros, os romances independentes, os livros-investigação, a sátira e as edições físicas diretas de autor de Ashraellen. Escolha um projecto amplo ou comece por um livro específico. Ciclos de livros séries e projectos de longo prazo MONOLITH Uma trilogia distópica literária e filosófica sobre controlo, memória e desagregação dos sistemas. BETON, SLUDGE e GAS registam a passagem da matéria social da estabilidade endurecida, pela deformação viscosa, até a perda de estanquidade da forma. Abrir a trilogia trilogia RADIANCE Um ciclo literário e filosófico de investigação artística sobre lendas do norte e imagens antigas como instruções vivas para o mundo. Não é uma recontagem do «Kalevala», mas um retorno à experiência humana da qual histórias assim puderam surgir. Abrir o ciclo ciclo SEVEN Um ciclo de sete livros independentes sobre vulnerabilidades hu
+> Livros Aqui estão reunidos os ciclos de livros, os romances independentes, os livros-investigação, a sátira e as edições físicas diretas de autor de Ashraellen. Escolha um projeto amplo ou comece por um livro específico. Ciclos de livros séries e projetos de longo prazo MONOLITH Uma trilogia distópica literária e filosófica sobre controlo, memória e desagregação dos sistemas. BETON, SLUDGE e GAS registam a passagem da matéria social da estabilidade endurecida, pela deformação viscosa, até a perda de estanquidade da forma. Abrir a trilogia trilogia RADIANCE Um ciclo literário e filosófico de investigação artística sobre lendas do norte e imagens antigas como instruções vivas para o mundo. Não é uma recontagem do «Kalevala», mas um retorno à experiência humana da qual histórias assim puderam surgir. Abrir o ciclo ciclo SEVEN Um ciclo de sete livros independentes sobre vulnerabilidades huma
 
 ### pt/books/monolith/beton/index.html
 
@@ -10863,7 +10863,7 @@ Excerpt:
 
 Excerpt:
 
-> BETÃO BETÃO é uma distopia filosófica sobre um mundo em que a estabilidade se tornou uma prisão, a memória é tratada como ameaça e a primeira fissura surge dentro de um sistema que ainda se acredita eterno. Volume I da trilogia MONÓLITO. Dossiê Volume I O betão não começa com uma parede. Começa com o hábito de chamar uma prisão de estabilidade. DOSSIÊ N.º 2026-001B. Índice: 6666548A. STATUS: Ultrassecreto. Ler a edição inglesa no Google Play Books eBook Kindle na Amazon Livro em brochura na Amazon Voltar ao MONÓLITO Trecho selecionado Capítulo 9 / § 9.1 Capítulo 9. Protocolo “Orgulho” § 9.1. A melhor cola para a sociedade O trecho mostra um dos mecanismos de BETÃO: como a dor se transforma em slogan, a culpa em cola social e a perda humana numa imagem administrável de estabilidade. Abrir o trecho completo Fechar o trecho completo Capítulo 9. Protocolo “Orgulho” § 9.1. A melhor cola para 
+> BETÃO BETÃO é uma distopia filosófica sobre um mundo em que a estabilidade se tornou uma prisão, a memória é tratada como ameaça e a primeira fissura surge dentro de um sistema que ainda se acredita eterno. Volume I da trilogia MONÓLITO. Dossiê Volume I O betão não começa com uma parede. Começa com o hábito de chamar uma prisão de estabilidade. DOSSIÊ N.º 2026-001B. Índice: 6666548A. STATUS: Ultrassecreto. Ler a edição inglesa no Google Play Books eBook Kindle na Amazon Livro em brochura na Amazon Voltar ao MONÓLITO Trecho selecionado Capítulo 9 / § 9.1 Capítulo 9. Protocolo «Orgulho» § 9.1. A melhor cola para a sociedade O trecho mostra um dos mecanismos de BETÃO: como a dor se transforma em slogan, a culpa em cola social e a perda humana numa imagem administrável de estabilidade. Abrir o trecho completo Fechar o trecho completo Capítulo 9. Protocolo «Orgulho» § 9.1. A melhor cola para 
 
 ### pt/books/monolith/gas/index.html
 
@@ -10921,51 +10921,51 @@ Excerpt:
 - lang: pt
 - section: books
 - title: Ashraellen — Esplendor | Contos do norte sobre a história real do mundo
-- description: “Esplendor” é um ciclo literário e filosófico artístico e de pesquisa sobre como as histórias antigas preservam instruções figurativas para o mundo.
+- description: «Esplendor» é um ciclo literário e filosófico artístico e de investigação sobre como as histórias antigas preservam instruções figurativas para o mundo.
 - canonical: https://www.ashraellen.com/pt/books/radiance/
 - H1: Esplendor
-- H2: O que é “Esplendor” | Livros da série | Quadro de pesquisa artística | Mapa de instruções | Para quem é este projeto? | O que é importante não confundir
+- H2: O que é «Esplendor» | Livros da série | Quadro de investigação artística | Mapa de instruções | Para quem é este projeto? | O que é importante não confundir
 - H3: Livro I - Sampo | Livro II - Canto | Livro III - Forja | Para leitores | Para parceiros
-- suggested keyword seed: esplendor, instruções, mundo, para, que, sobre, ashraellen, books, ciclo, como, não, pesquisa, antigas, artística, artístico, confundir, contos, este
-- candidates: uma, que, ciclo, livro, sobre, como, esplendor, instruções, mundo, para, forma, não, pesquisa, antigas, com, histórias, norte, palavra, pode, projeto, responsabilidade, sampo, aberto, abundância
+- suggested keyword seed: esplendor, instruções, mundo, para, que, sobre, ashraellen, books, ciclo, como, investigação, não, antigas, artística, artístico, confundir, contos, este
+- candidates: uma, que, ciclo, livro, sobre, como, esplendor, instruções, mundo, para, forma, não, investigação, antigas, com, histórias, palavra, pode, projeto, responsabilidade, sampo, aberto, abundância, antiga
 
 Excerpt:
 
-> Ciclo literário e filosófico / artistic research through fiction Esplendor Contos do norte sobre a história real do mundo. Um ciclo de longo prazo em que uma forma de arte se torna um modo de exploração. Não recontamos "Kalevala". Mostramos o mundo de onde essas histórias poderiam surgir. Livros da série Quadro de pesquisa O que é “Esplendor” curto Épicos, contos de fadas e histórias antigas de diferentes povos podem ser lidos como diferentes linguagens figurativas de acesso ao conhecimento profundo. Cada povo recebeu seus instrumentos e instruções de forma adequada à sua terra, língua, memória, dor, clima, trabalho e modo de ouvir o mundo. Radiance / "Esplendor" é um ciclo de pesquisa artística literária e filosófica sobre como histórias antigas preservam instruções imagéticas para o mundo. O material finlandês-carélico e Kalevala é a principal coluna norte do ciclo. Estamos tentando en
+> Ciclo literário e filosófico / artistic research through fiction Esplendor Contos do norte sobre a história real do mundo. Um ciclo de longo prazo em que uma forma de arte se torna um modo de exploração. Não recontamos "Kalevala". Mostramos o mundo de onde essas histórias poderiam surgir. Livros da série Quadro de investigação O que é «Esplendor» curto Épicos, contos de fadas e histórias antigas de diferentes povos podem ser lidos como diferentes linguagens figurativas de acesso ao conhecimento profundo. Cada povo recebeu seus instrumentos e instruções de forma adequada à sua terra, língua, memória, dor, clima, trabalho e modo de ouvir o mundo. Radiance / "Esplendor" é um ciclo de investigação artística literária e filosófica sobre como histórias antigas preservam instruções imagéticas para o mundo. O material finlandês-carélio e do Kalevala é a principal espinha dorsal nórdica do ciclo.
 
 ### pt/books/radiance/sampo/index.html
 
 - lang: pt
 - section: books
 - title: Ashraellen — Sampo | Esplendor, livro I
-- description: “Sampo” é o primeiro livro da série “Esplendor”: um conto literário e filosófico do norte sobre abundância, propriedade, participação e um mundo onde o mito ainda não foi separado do trabalho.
+- description: «Sampo» é o primeiro livro da série «Esplendor»: um conto literário e filosófico do norte sobre abundância, propriedade, participação e um mundo onde o mito ainda não foi separado do trabalho.
 - canonical: https://www.ashraellen.com/pt/books/radiance/sampo/
 - H1: Sampo
-- H2: Capítulo em destaque | Sobre o livro | Sem spoilers | Quadro de pesquisa artística | Tópicos | Para quem | Idioma e status de publicação | Para fundações, editoras e parceiros culturais
-- H3: Casa norte | Coisa e fonte | Ivar e Mera | Mito antes do mito | Abundância | Propriedade | Participação | Trabalho e milagre
+- H2: Capítulo em destaque | Sobre o livro | Sem spoilers | Enquadramento de investigação artística | Temas | Para quem | Estado linguístico e editorial | Para fundações, editoras e parceiros culturais
+- H3: A casa do norte | A coisa e a fonte | Ivar e a medida | O mito antes do mito | Abundância | Posse | Participação | Trabalho e milagre
 - suggested keyword seed: sampo, livro, para, ashraellen, books, esplendor, não, sobre, abundância, ainda, artística, capítulo, com, como, conto, culturais, destaque, editoras
-- candidates: não, que, para, ele, uma, com, ela, sofia, como, mas, estava, mais, nick, olhou, disse, pão, mão, thomas, você, por, sem, pegou, manhã, quase
+- candidates: não, que, para, com, sofia, uma, como, mais, mas, nick, estava, por, depois, disse, pão, thomas, mão, olhou, era, sem, nem, quase, ele, isso
 
 Excerpt:
 
-> Esplendor - Contos do norte sobre a história real do mundo Sampo Livro I do ciclo literário e filosófico “Esplendor”. Uma lenda nortenha sobre uma coisa que acabou por ser mais do que uma coisa: sobre abundância, posse, participação e paz, onde o mito ainda não se separou do trabalho, do frio, do lar e do fogo. Não recontamos "Kalevala". Mostramos ao mundo de onde essas histórias podem surgir. Capa russa. Ashraellen. Capítulo em destaque Capítulo Três. Pedaço A manhã seguinte à primeira noite impossível: pão, terra, lenha e uma tentativa humana de perceber onde termina a oferta e começa a participação. Abrir capítulo Fechar capítulo De manhã o pão estava na mesa como se nada tivesse acontecido durante a noite. Foi quase atrevido. Sofia parou na porta da cozinha e ficou alguns segundos olhando para o pão sem entrar. A casa já havia acordado, embora ninguém anunciasse a subida. Passos rang
+> Esplendor — Contos do norte sobre a história real do mundo Sampo Livro I do ciclo literário e filosófico «Esplendor». Uma lenda do norte sobre uma coisa que acabou por ser mais do que uma coisa: sobre a abundância, a posse, a participação e um mundo onde o mito ainda não se separou do trabalho, do frio, da casa e do fogo. Não recontamos o «Kalevala». Mostramos o mundo de onde histórias assim poderiam ter nascido. Capa russa. Ashraellen. Capítulo em destaque Capítulo Três. Pedaço A manhã a seguir à primeira noite impossível: pão, terra, lenha e a tentativa humana de perceber onde acaba a reserva e começa a participação. Abrir capítulo Fechar capítulo De manhã o pão estava na mesa como se nada tivesse acontecido durante a noite. Foi quase atrevido. Sofia parou à porta da cozinha e ficou alguns segundos a olhar para o pão sem entrar. A casa já tinha acordado, embora ninguém tivesse dado ord
 
 ### pt/books/radiance/song/index.html
 
 - lang: pt
 - section: books
 - title: Ashraellen — Canto | Esplendor, livro II
-- description: “Canto” é o segundo livro da série “Esplendor”: uma página de apresentação estendida de um romance sobre som, audição, linguagem, Varsóvia e Canto, que não se torna um número.
+- description: «Canto» é o segundo livro da série «Esplendor»: uma página de apresentação estendida de um romance sobre som, audição, linguagem, Varsóvia e Canto, que não se torna um número.
 - canonical: https://www.ashraellen.com/pt/books/radiance/song/
 - H1: Canto
-- H2: Capítulo em destaque | Sobre o livro | Sem spoilers | Quadro de pesquisa artística | Tópicos | Para quem | Idioma e status de publicação | Para fundações, editoras e parceiros culturais
-- H3: Varsóvia como espaço de audiência | Ferramenta sem ídolo | Ayla e retorno | Canto para Canto | Palavra | Audição | Idioma | Ferramenta
-- suggested keyword seed: canto, livro, para, ashraellen, books, esplendor, não, que, sem, sobre, uma, apresentação, artística, audição, ayla, capítulo, com, como
-- candidates: não, que, uma, ela, com, para, mas, ayla, como, por, você, sem, ser, estava, era, som, mais, foi, sobre, ele, muito, está, pessoa, quase
+- H2: Capítulo em destaque | Sobre o livro | Sem spoilers | Enquadramento de investigação artística | Tópicos | Para quem | Estado linguístico e editorial | Para fundações, editoras e parceiros culturais
+- H3: Varsóvia como espaço de escuta | Instrumento sem ídolo | Ayla e o regresso | O Canto antes do canto | A palavra | A escuta | A língua | O instrumento
+- suggested keyword seed: canto, livro, para, ashraellen, books, esplendor, não, que, sobre, uma, apresentação, artística, audição, ayla, capítulo, com, como, culturais
+- candidates: não, que, uma, com, ayla, mas, para, como, era, mais, por, depois, marta, som, sem, ser, estava, trabalho, nem, quase, canto, onde, agora, cimbalom
 
 Excerpt:
 
-> Esplendor - Contos do norte sobre a história real do mundo Canto Livro II do ciclo literário e filosófico “Esplendor”. Um romance sobre o som que não toma poder: sobre a audição, a linguagem, a cidade, o cenário do trabalho e Canto, que não vira número. Depois de “Sampo” a questão da abundância é substituída pela questão da palavra: pode a linguagem tornar-se não uma opinião, não um argumento, não uma auto-expressão, mas uma forma de personalização? Capa russa. Ashraellen. Capítulo em destaque Capítulo Um. Ruído normal Primeiro capítulo completo: o retorno de Ayla a Varsóvia, o barulho comum da cidade e a primeira ruptura entre o som como trabalho e a audição como atitude. Abrir capítulo Fechar capítulo Varsóvia encontrou Ayla não com um sinal, não com uma visão, e não com algum sussurro do subsolo digno de uma continuação do antigo prólogo. Varsóvia a cumprimentou com um anúncio no trem
+> Esplendor — Contos do norte sobre a história real do mundo Canto Livro II do ciclo literário e filosófico «Esplendor». Um romance sobre um som que não toma o poder: sobre a escuta, a língua, a cidade, o palco de trabalho e uma canção que não se torna número. Depois do «Sampo», a questão da abundância dá lugar à questão da palavra: poderá a língua tornar-se não uma opinião, nem uma discussão, nem uma autoexpressão, mas uma forma de afinação? Capa russa. Ashraellen. Capítulo em destaque Capítulo primeiro. O ruído comum O primeiro capítulo completo: o regresso de Ayla a Varsóvia, o ruído comum da cidade e a primeira rutura entre o som como trabalho e a escuta como atitude. Abrir capítulo Fechar capítulo Varsóvia recebeu Ayla não com um sinal, nem com uma visão, nem com um sussurro vindo do subsolo, digno de continuar o antigo prólogo. Varsóvia recebeu-a com um anúncio no comboio. Primeiro u
 
 ### pt/books/samizdat/demotopia/index.html
 
@@ -11040,17 +11040,17 @@ Excerpt:
 - lang: pt
 - section: books
 - title: Ashraellen — O LIVRO SAGRADO DE SECCUS
-- description: “O LIVRO SAGRADO DE SECCUS — O Caminho da Honestidade” é uma sátira filosófica sobre dinheiro, sucesso, autoengano, conhecimento como álibi e responsabilidade pela própria escolha.
+- description: «O LIVRO SAGRADO DE SECCUS — O Caminho da Honestidade» é uma sátira filosófica sobre dinheiro, sucesso, autoengano, conhecimento como álibi e responsabilidade pela própria escolha.
 - canonical: https://www.ashraellen.com/pt/books/seccus/
 - H1: O LIVRO SAGRADO DE SECCUS
 - H2: Página selecionada | Sobre o livro | Sem spoilers | Estrutura literário-filosófica | A voz do livro | Temas | Para quem | O Tetra-Livro e o corpus
 - H3: Página 71 — A Fonte Sombria de Energia | Sucesso ao contrário | Dinheiro como espelho | Conhecimento como álibi | Uma conversa direta | Página III — O Ponto Zero | Sucesso | Dinheiro
 - suggested keyword seed: livro, seccus, sagrado, ashraellen, books, como, página, para, sobre, sucesso, uma, álibi, autoengano, caminho, conhecimento, corpus, dinheiro, escolha
-- candidates: que, não, uma, livro, para, você, como, mas, página, sucesso, pessoa, mais, sobre, dinheiro, por, seccus, caminhos, páginas, três, corpus, liberdade, pode, projeto, sacrunomicon
+- candidates: que, não, uma, livro, para, como, mas, página, sucesso, pessoa, mais, por, sobre, dinheiro, seccus, caminhos, páginas, três, com, corpus, dos, liberdade, projeto, sacrunomicon
 
 Excerpt:
 
-> SACRUNOMICON — UM TETRA-LIVRO SOBRE O SUCESSO INVERTIDO O LIVRO SAGRADO DE SECCUS O Caminho da Honestidade Um livro sobre dinheiro e sucesso que vira a pergunta habitual ao contrário. Não “como obter o que se deseja”, mas o que exatamente uma pessoa espera comprar junto com liberdade, reconhecimento e o direito de se considerar realizada. O dinheiro é apenas o pretexto. O verdadeiro tema do livro é a pessoa que o deseja. Capa russa: АХЕПСУ. Sacrunomicon. Página selecionada Pergaminho IV: A Queda dos Muros Uma página sobre o motivo que se esconde por trás das palavras corretas sobre liberdade, ajuda, utilidade e propósito. Abrir a página Fechar a página Página 71 — A Fonte Sombria de Energia Estamos nos aproximando da camada mais profunda da sua motivação — aquela que você evitou cuidadosamente, escondendo-se atrás de palavras bonitas e objetivos nobres. Você dizia a si mesmo que queria d
+> SACRUNOMICON — UM TETRA-LIVRO SOBRE O SUCESSO INVERTIDO O LIVRO SAGRADO DE SECCUS O Caminho da Honestidade Um livro sobre dinheiro e sucesso que vira do avesso a pergunta habitual. Não «como obter o que se deseja», mas o que, exatamente, uma pessoa espera comprar juntamente com a liberdade, o reconhecimento e o direito de se considerar realizada. O dinheiro é apenas o pretexto. O verdadeiro tema do livro é a pessoa que o deseja. Capa russa: АХЕПСУ. Sacrunomicon. Página selecionada Pergaminho IV: A Queda dos Muros Uma página sobre o motivo que se esconde por trás das palavras corretas sobre liberdade, ajuda, utilidade e propósito. Abrir a página Fechar a página Página 71 — A Fonte Sombria de Energia Estamos a aproximar-nos da camada mais profunda da tua motivação — aquela que evitaste com cuidado, a esconder-te atrás de palavras bonitas e de objetivos nobres. Dizias a ti próprio que queri
 
 ### pt/books/seven/greed/index.html
 
@@ -11084,7 +11084,7 @@ Excerpt:
 
 Excerpt:
 
-> Ciclo literário e de investigação · sete livros SEVEN Sete vulnerabilidades humanas. Sete mundos literários independentes. Uma tentativa de compreender como desejos, medos e necessidades comuns começam, pouco a pouco, a governar as escolhas de uma pessoa. Não se trata de condenar alguém pelos seus defeitos, mas de observar uma pessoa que nem sempre se apercebe do momento em que a sua força se torna uma vulnerabilidade. O que é SEVEN Literatura e uma pergunta de investigação SEVEN parte de um esquema historicamente familiar de sete vulnerabilidades humanas. Mas não propõe dividir as pessoas simplesmente em «gananciosas», «orgulhosas» ou «luxuriosas». Interessa-lhe o momento da passagem: quando uma aspiração compreensível se torna excessiva, se alia a outros motivos, começa a justificar actos e vai mudando a própria pessoa. O ciclo não é composto por sete variantes do mesmo enredo. Uma int
+> Ciclo literário e de investigação · sete livros SEVEN Sete vulnerabilidades humanas. Sete mundos literários independentes. Uma tentativa de compreender como desejos, medos e necessidades comuns começam, pouco a pouco, a governar as escolhas de uma pessoa. Não se trata de condenar alguém pelos seus defeitos, mas de observar uma pessoa que nem sempre se apercebe do momento em que a sua força se torna uma vulnerabilidade. O que é SEVEN Literatura e uma pergunta de investigação SEVEN parte de um esquema historicamente familiar de sete vulnerabilidades humanas. Mas não propõe dividir as pessoas simplesmente em «gananciosas», «orgulhosas» ou «luxuriosas». Interessa-lhe o momento da passagem: quando uma aspiração compreensível torna-se excessiva, alia-se a outros motivos, começa a justificar atos e vai mudando a própria pessoa. O ciclo não é composto por sete variantes do mesmo enredo. Uma intr
 
 ### pt/books/seven/pride/index.html
 
@@ -11101,7 +11101,7 @@ Excerpt:
 
 Excerpt:
 
-> SEVEN · Livro II · distopia social Soberba / PRIDE Um país que voltou a aprender a orgulhar-se de si próprio. As ruas são limpas, as instituições funcionam e todos parecem serenamente certos de que a ordem estabelecida é a correcta. Mas uma pergunta começa a surgir com insistência: quem tem, de facto, o direito de chamar casa a este país? Às vezes, a desigualdade não começa com o ódio, mas com a convicção de que os nossos merecem um pouco mais. SEVEN · Livro II · Ashraellen Excerto literário «Sala da Glória» · fragmento do autor Uma visita de estudo perfeitamente normal ao museu da memória nacional. As crianças revisitam uma história que conhecem desde o primeiro ano. Até que uma delas faz uma pergunta inesperada. Ler o excerto Fechar o excerto Às dez da manhã, as portas abriram-se para a turma do terceiro B. Vinte e oito crianças avançavam aos pares, como lhes tinham ensinado, com casac
+> SEVEN · Livro II · distopia social Soberba / PRIDE Um país que voltou a aprender a orgulhar-se de si próprio. As ruas são limpas, as instituições funcionam e todos parecem serenamente certos de que a ordem estabelecida é a correta. Mas uma pergunta começa a surgir com insistência: quem tem, de facto, o direito de chamar casa a este país? Às vezes, a desigualdade não começa com o ódio, mas com a convicção de que os nossos merecem um pouco mais. SEVEN · Livro II · Ashraellen Excerto literário «Sala da Glória» · fragmento do autor Uma visita de estudo perfeitamente normal ao museu da memória nacional. As crianças revisitam uma história que conhecem desde o primeiro ano. Até que uma delas faz uma pergunta inesperada. Ler o excerto Fechar o excerto Às dez da manhã, as portas abriram-se para a turma do terceiro B. Vinte e oito crianças avançavam aos pares, como lhes tinham ensinado, com casaco
 
 ### pt/books/the-book-of-whinesis/index.html
 
@@ -11111,65 +11111,65 @@ Excerpt:
 - description: The Book of Whinesis — sátira sagrada para quem se cansou das vibrações positivas, da produtividade infinita e do culto ao sucesso.
 - canonical: https://www.ashraellen.com/pt/books/the-book-of-whinesis/
 - H1: The Book of Whinesis
-- H2: Sobre o livro | Primeiros capítulos | Trecho | Status
+- H2: Sobre o livro | Primeiros capítulos | Excerto | Estado
 - H3: _missing_
-- suggested keyword seed: book, whinesis, ashraellen, books, para, sobre, cansou, capítulos, culto, das, desconto, disse, gnorna, infinita, livro, moania, não, pois
-- candidates: que, não, para, disse, reclamação, uma, senhor, sobre, moania, desconto, gnorna, pois, ele, tua, com, serpente, sofá, todos, linguiça, supermercado, torna, capítulo, das, era
+- suggested keyword seed: book, whinesis, ashraellen, books, para, sobre, cansou, capítulos, culto, das, desconto, disse, estado, excerto, gnorna, infinita, livro, moania
+- candidates: que, não, para, disse, reclamação, senhor, uma, moania, desconto, gnorna, pois, sobre, tua, com, ele, serpente, sofá, todos, chouriço, por, ser, sua, supermercado, capítulo
 
 Excerpt:
 
-> The Book of Whinesis Sátira sagrada para quem se cansou das “vibrações positivas”, da produtividade infinita e do culto ao sucesso. Sobre o livro entrada no cânone The Book of Whinesis é uma sátira pseudobíblica sobre o ser humano da era digital: cansado, conectado, irritado e eternamente à espera de um desconto, de uma entrega, de um sinal, de uma resposta e de um sentido. Aqui a ironia se torna remédio, e o esgotamento se torna revelação. Aqui reclamar não é fraqueza. É oração. Não é uma paródia da fé. É uma paródia do nosso culto moderno ao conforto, à tela, às notificações e à nossa própria insatisfação. Aqui o Wi-Fi se torna destino, o sofá se torna altar, o carregamento se torna eternidade, e a reclamação se torna a primeira língua de uma pessoa que ainda não compreendeu que está procurando repouso. É engraçado até você se reconhecer. E quando se reconhece, fica ainda mais engraçad
+> The Book of Whinesis Sátira sagrada para quem se cansou das «vibrações positivas», da produtividade infinita e do culto ao sucesso. Sobre o livro entrada no cânone The Book of Whinesis é uma sátira pseudobíblica sobre o ser humano da era digital: cansado, ligado, irritado e eternamente à espera de um desconto, de uma entrega, de um sinal, de uma resposta e de um sentido. Aqui a ironia torna-se remédio, e o esgotamento, revelação. Aqui queixar-se não é fraqueza. É oração. Não é uma paródia da fé. É uma paródia do nosso culto moderno ao conforto, ao ecrã, às notificações e à nossa própria insatisfação. Aqui o Wi-Fi torna-se destino, o sofá, altar, o buffering, eternidade, e a queixa, a primeira língua de uma pessoa que ainda não compreendeu que procura descanso. É engraçado — até te reconheceres. E, quando te reconheces, fica ainda mais engraçado. Primeiros capítulos audiolivro / versão em
 
 ### pt/books/you-are-already-online/index.html
 
 - lang: pt
 - section: books
-- title: Ashraellen — Você já está online
-- description: Você já está online — um romance em áudio imersivo, entre thriller psicológico e drama cyberpunk, sobre realidade digital, algoritmos e hiper-realidade.
+- title: Ashraellen — Já estás online
+- description: Já estás online — um romance em áudio imersivo, entre thriller psicológico e drama cyberpunk, sobre realidade digital, algoritmos e hiper-realidade.
 - canonical: https://www.ashraellen.com/pt/books/you-are-already-online/
-- H1: Você já está online
-- H2: Sobre o livro | Temas do romance | Primeiro capítulo | Trecho | Status
+- H1: Já estás online
+- H2: Sobre o livro | Temas do romance | Primeiro capítulo | Excerto | Estado
 - H3: _missing_
-- suggested keyword seed: está, online, você, ashraellen, books, capítulo, realidade, romance, sobre, algoritmos, already, antes, áudio, como, cyberpunk, demais, digital, drama
-- candidates: não, uma, ele, para, como, está, por, que, realidade, antes, capítulo, demais, era, mas, mundo, onde, sistema, causa, online, primeiro, romance, som, você, afinamento
+- suggested keyword seed: online, estás, ashraellen, books, capítulo, realidade, romance, sobre, algoritmos, already, áudio, como, cyberpunk, digital, drama, entre, era, estado
+- candidates: não, uma, para, por, como, realidade, ser, capítulo, era, mas, mundo, onde, primeiro, que, sistema, antes, causa, estás, online, som, adelgaçamento, algoritmos, cyberpunk, demasiado
 
 Excerpt:
 
-> Você já está online Não é uma voz. É uma constatação. Ela não pede reação — já a considera recebida. Sobre o livro entrada no sistema Às 03:17 ele acorda não por causa de um som, mas por causa de uma emoção já pronta. A partir desse momento, a realidade habitual começa a se comportar como uma interface. A ordem dos acontecimentos se rompe: o medo surge antes do impacto, o eco soa antes do estalo, e as coincidências se alinham de forma perfeita demais para continuarem sendo acaso. O mundo continua o mesmo — mas funciona perfeitamente demais. Limpo demais. Editado demais. É um romance em áudio imersivo, entre thriller psicológico e drama cyberpunk, sobre realidade digital, algoritmos e hiper-realidade. Aqui não há uma rebelião brilhante — há a percepção lenta de que o mundo já foi otimizado, renderizado e carregado na consciência como um arquivo. A memória se transforma em captura de tela.
+> Já estás online Não é uma voz. É uma constatação. Ela não pede reação — já a considera recebida. Sobre o livro entrada no sistema Às 03:17 acorda não por causa de um som, mas por causa de uma emoção já pronta. A partir desse momento, a realidade habitual começa a comportar-se como uma interface. A ordem dos acontecimentos rompe-se: o medo surge antes do impacto, o eco soa antes do estalo, e as coincidências se alinham de forma perfeita demais para continuarem a ser acaso. O mundo continua o mesmo — mas funciona demasiado bem. Demasiado limpo. Demasiado montado. É um audiorromance imersivo, no género do thriller psicológico e do drama cyberpunk, sobre realidade digital, algoritmos e hiper-realidade. Aqui não há uma revolta vistosa — há a tomada de consciência lenta de que o mundo já foi otimizado, renderizado e carregado na consciência como um ficheiro. A memória transforma-se em captura 
 
 ### pt/contact.html
 
 - lang: pt
 - section: contact.html
-- title: Contato — Ashraellen
-- description: Página de contato de Ashraellen: colaboração, publicações, bolsas, mídia e assuntos relacionados aos projetos.
+- title: Contacto — Ashraellen
+- description: Página de contacto de Ashraellen: colaboração, pedidos editoriais, bolsas, comunicação social e questões sobre os projetos.
 - canonical: https://www.ashraellen.com/pt/contact.html
-- H1: Contato
+- H1: Contacto
 - H2: Ashraellen
 - H3: _missing_
-- suggested keyword seed: ashraellen, contato, aos, assuntos, bolsas, colaboração, mídia, projetos, canal, contact, contact.html, kostyshev, página, para, publicações, relacionados, telegram
-- candidates: contato, ashraellen, telegram, assuntos, bolsas, colaboração, mídia, para, projetos, aos, canal, kostyshev, materiais, pelo, pesquisa, projeto, publicações, públicos, adequados, agir, ashraellen.live, ashraellenchannel, ashraellenlive, atualizações
+- suggested keyword seed: ashraellen, contacto, bolsas, comunicação, editoriais, pedidos, projetos, questões, sobre, social, colaboração, contact, contact.html, página, para, telegram
+- candidates: contacto, ashraellen, para, telegram, bolsas, comunicação, editoriais, pedidos, projetos, questões, sobre, social, canal, colaboração, investigação, kostyshev, materiais, projeto, públicos, adequados, agir, ashraellen.live, ashraellenchannel, ashraellenlive
 
 Excerpt:
 
-> Ponto de contato Contato Para assuntos de colaboração, publicações, bolsas, mídia e projetos, você pode escrever diretamente. “Agir não é uma guerra interior contra a existência.” Ashraellen Um projeto criativo e de pesquisa independente de Nikolai Kostyshev. E-mail: ashraellen.live@gmail.com Contato pelo Telegram: @AshraellenLive Localização: Polônia / União Europeia Assuntos adequados para contato: colaboração e propostas de parceria; consultas editoriais e literárias; bolsas, residências e programas de pesquisa; mídia, entrevistas e materiais públicos; perguntas relacionadas aos projetos Ashraellen. Canais públicos: YouTube — @ashraellen Instagram — @kostyshev Canal do Telegram — @ashraellenchannel O contato pelo Telegram é usado para mensagens diretas. O canal do Telegram é destinado à publicação de textos, notas, atualizações e materiais do projeto. — mark of presence
+> Ponto de contacto Contacto Para colaborações, pedidos editoriais, bolsas, comunicação social e questões sobre projetos, pode escrever diretamente. «Agir não é uma guerra interior contra a existência.» Ashraellen Um projeto criativo e de investigação independente de Nikolai Kostyshev. E-mail: ashraellen.live@gmail.com Telegram para contacto: @AshraellenLive Localização: Polónia / União Europeia Assuntos adequados para contacto: colaboração e propostas de parceria; pedidos editoriais e literários; bolsas, residências e programas de investigação; comunicação social, entrevistas e materiais públicos; questões sobre os projetos Ashraellen. Canais públicos: YouTube — @ashraellen Instagram — @kostyshev Canal do Telegram — @ashraellenchannel O Telegram de contacto serve para mensagens diretas. O canal do Telegram destina-se à publicação de textos, notas, atualizações e materiais do projeto. — ma
 
 ### pt/index.html
 
 - lang: pt
 - section: index.html
-- title: Ashraellen — livros, pesquisa e textos públicos
-- description: Ashraellen é uma prática independente e multilíngue de pesquisa literário-filosófica e artística: livros, pesquisa, textos públicos, vídeo, som e sátira.
+- title: Ashraellen — livros, investigação e textos públicos
+- description: Ashraellen é uma prática independente e multilingue de investigação literário-filosófica e artística: livros, investigação, textos públicos, vídeo, som e sátira.
 - canonical: https://www.ashraellen.com/pt/
 - H1: Ashraellen
 - H2: _missing_
 - H3: _missing_
-- suggested keyword seed: ashraellen, pesquisa, livros, públicos, textos, artística, independente, literário-filosófica, multilíngue, prática, uma, index.html, por, sátira, som, vídeo
-- candidates: pesquisa, ashraellen, livros, públicos, textos, uma, artística, independente, literário-filosófica, multilíngue, por, prática, sátira, som, vídeo, ação, autonomia, com, como, compreender, consciência, contacto, contato, dentro
+- suggested keyword seed: ashraellen, investigação, livros, públicos, textos, artística, independente, literário-filosófica, multilingue, prática, uma, contacto, index.html, sátira, som, vídeo
+- candidates: investigação, ashraellen, livros, públicos, textos, uma, artística, contacto, independente, literário-filosófica, multilingue, prática, sátira, som, vídeo, ação, através, autonomia, com, como, compreender, consciência, dentro, digital
 
 Excerpt:
 
-> Ashraellen Três direções de presença: uma observa, outra fala, a terceira torna-se um livro. Pesquisa — compreender os mecanismos. Público — vê-los em ação. Livros — vivenciar o modelo por dentro. Dossiê profissional Ashraellen é uma prática independente e multilíngue de pesquisa literário-filosófica e artística. Por meio de livros, pesquisa, textos públicos, vídeo, som, formas visuais e sátira, explora a consciência, a linguagem, os sistemas, a pressão digital, a autonomia interior e como a pessoa perde e recupera o contato direto com o sentido. — mark of presence Contacto
+> Ashraellen Três direções de presença: uma observa, outra fala, a terceira torna-se um livro. Investigação — compreender os mecanismos. Público — vê-los em ação. Livros — viver o modelo por dentro. Dossiê profissional Ashraellen é uma prática independente e multilingue de investigação literário-filosófica e artística. Através de livros, investigação, textos públicos, vídeo, som, formas visuais e sátira, explora a consciência, a linguagem, os sistemas, a pressão digital, a autonomia interior e o modo como a pessoa perde e recupera o contacto direto com o sentido. — mark of presence Contacto
 
 ### pt/privacy.html
 
@@ -11233,11 +11233,11 @@ Excerpt:
 - H2: Quando uma tendência humana se torna uma vulnerabilidade? | A pergunta central | Por que sete? | Um esquema histórico como instrumento de investigação | O que é comparado | Explicações concorrentes | O que já pode ser testado e o que ainda precisa ser operacionalizado | O romance como método
 - H3: Um mecanismo comum | Um sistema de interação | Uma configuração dinâmica | Um erro de classificação
 - suggested keyword seed: que, seven, investigação, uma, como, ser, humanas, pode, projects, sobre, vulnerabilidades, ainda, ashraellen, central, comparado, concorrentes, decisões, esquema
-- candidates: uma, que, não, como, seven, para, ser, investigação, pessoa, greed, pode, mas, sete, podem, por, dos, mais, apenas, com, são, trabalho, vulnerabilidade, contexto, independente
+- candidates: uma, que, não, como, seven, para, ser, pessoa, investigação, greed, pode, mas, sete, por, apenas, dos, mais, podem, trabalho, com, são, vulnerabilidade, contexto, independente
 
 Excerpt:
 
-> SEVEN Quando uma tendência humana se torna uma vulnerabilidade? SEVEN é uma investigação filosófica e interdisciplinar independente sobre como tendências humanas comuns cumprem funções úteis, mudam sob a pressão das circunstâncias, combinam-se entre si e, em certas configurações, começam a agir contra a própria pessoa a quem antes serviam. O ponto de partida são sete categorias históricas conhecidas como os “sete pecados capitais”: orgulho, avareza, luxúria, inveja, gula, ira e preguiça / acedia. Para SEVEN, elas não são veredictos religiosos nem uma taxonomia psicológica pronta, mas um conjunto culturalmente persistente de nomes que pode ser testado. Não sete veredictos sobre uma pessoa. Sete nomes históricos para perguntas que ainda precisam ser testadas. Página em desenvolvimento · 13 de outubro de 2026 · revisão 09 01 A pergunta central Por que um mecanismo que ajuda uma pessoa a viv
+> SEVEN Quando uma tendência humana se torna uma vulnerabilidade? SEVEN é uma investigação filosófica e interdisciplinar independente sobre como tendências humanas comuns cumprem funções úteis, mudam sob a pressão das circunstâncias, combinam-se entre si e, em certas configurações, começam a agir contra a própria pessoa a quem antes serviam. O ponto de partida são sete categorias históricas conhecidas como os «sete pecados capitais»: orgulho, avareza, luxúria, inveja, gula, ira e preguiça / acedia. Para SEVEN, elas não são veredictos religiosos nem uma taxonomia psicológica pronta, mas um conjunto culturalmente persistente de nomes que pode ser testado. Não sete veredictos sobre uma pessoa. Sete nomes históricos para perguntas que ainda precisam ser testadas. Página em desenvolvimento · 13 de outubro de 2026 · revisão 09 01 A pergunta central Por que um mecanismo que ajuda uma pessoa a viv
 
 ### pt/projects/voiceprint/index.html
 
@@ -11264,31 +11264,31 @@ Excerpt:
 - description: WHISPER é um projeto de investigação artística e prototipagem sobre conversação ao vivo mediada por IA, linguagem, autoria e presença humana.
 - canonical: https://www.ashraellen.com/pt/projects/whisper/
 - H1: WHISPER
-- H2: Quem está a falar? | O problema | Cinco contratos de assistência | Autoria e agência | Escutar sem vigilância permanente | Estado atual
+- H2: Quem está a falar? | O problema | Cinco contratos de ajuda | Autoria e subjetividade | Escuta sem vigilância permanente | Estado atual
 - H3: _missing_
-- suggested keyword seed: whisper, autoria, está, falar, por, projects, quem, agência, artística, ashraellen, assistência, atual, cinco, contratos, conversa, conversação, escutar, estado
-- candidates: uma, não, pessoa, que, whisper, autoria, conversa, por, quando, fala, língua, para, pode, projeto, resposta, vivo, com, como, falar, investigação, linguagem, máquina, mesmo, realmente
+- suggested keyword seed: whisper, autoria, está, falar, por, projects, projeto, quem, ajuda, artística, ashraellen, atual, cinco, com, contratos, conversa, conversação, escuta
+- candidates: uma, não, que, pessoa, whisper, língua, por, autoria, conversa, para, projeto, com, pergunta, pode, resposta, vivo, fala, falar, isso, quando, ainda, ajuda, contexto, depois
 
 Excerpt:
 
-> WHISPER Quem está a falar? WHISPER é um projeto de apoio linguístico em tempo real para conversas entre pessoas que não partilham uma língua comum. O objetivo prático é simples: ajudar uma pessoa a compreender o interlocutor e a responder numa língua que conhece pouco ou nada, permanecendo o participante visível, audível e responsável. A máquina pode fornecer a linguagem. A pessoa não deve desaparecer da conversa. 01 O problema A tradução já pode tornar uma frase compreensível. Isso ainda não faz da conversa uma conversa realmente sua. Numa conversa ao vivo, significado, tempo, tom e presença social atuam ao mesmo tempo. O que posso dizer naturalmente a esta pessoa agora? Modelo estreito: o interlocutor fala → o sistema interpreta contexto limitado → propõe uma resposta curta → o utilizador fala por si próprio. WHISPER relaciona-se com Voiceprint, mas não é o mesmo projeto. Voiceprint pe
+> WHISPER Quem está a falar? WHISPER é um projeto de apoio linguístico ao vivo através de IA, para conversas entre pessoas que não têm uma língua comum. O objetivo prático é simples: ajudar a pessoa a compreender o interlocutor e a responder numa língua que conhece pouco ou nada, continuando a ser um participante visível, audível e responsável da conversa. A máquina pode dar a língua. A pessoa não deve desaparecer da conversa. 01 O problema A tradução já consegue tornar uma frase compreensível. Mas isso ainda não faz da conversa uma conversa tua. Na comunicação ao vivo não se pode parar a pessoa, abrir a aplicação, recuperar o contexto, escrever a frase perfeita e só depois voltar à conversa. O significado, o tempo, o tom e a presença social trabalham em simultâneo. O WHISPER começa por uma pergunta mais prática: O que posso dizer, com naturalidade, a esta pessoa neste preciso momento? Mod
 
 ### pt/public/index.html
 
 - lang: pt
 - section: public
 - title: Ashraellen — Público
-- description: Campo público Ashraellen: falas, publicações, pensamentos de apoio, reações e observações onde a pesquisa encontra a pessoa viva.
+- description: Campo público de Ashraellen: falas, publicações, pensamentos de apoio, reações e observações onde a investigação encontra a pessoa viva.
 - canonical: https://www.ashraellen.com/pt/public/
 - H1: Público
 - H2: Falas | Publicações | Projetos | Novos pensamentos de apoio
-- H3: Não Bombardeie | Povo e Massa | Jogos de Acasalamento | A Espiritualidade Não Se Impõe | O Preço da Transição | O Verdadeiro Inimigo
-- suggested keyword seed: público, apoio, ashraellen, pensamentos, campo, falas, onde, pessoa, public, publicações, abrir, com, encontra, não, novos, observações, pensamento, pesquisa
-- candidates: não, pensamento, uma, apoio, abrir, onde, pessoa, que, com, público, campo, pensamentos, viva, ashraellen, mas, massa, povo, começam, ela, espiritualidade, forma, observações, pesquisa, pode
+- H3: Não Bombardeies | Povo e Massa | Jogos de Acasalamento | A Espiritualidade Não Se Impõe | O Preço da Transição | O Verdadeiro Inimigo
+- suggested keyword seed: público, apoio, ashraellen, pensamentos, campo, falas, onde, pessoa, public, publicações, abrir, com, encontra, investigação, não, novos, observações, pensamento
+- candidates: não, pensamento, uma, apoio, abrir, onde, com, pessoa, que, público, campo, pensamentos, viva, ashraellen, mas, massa, povo, começam, ela, espiritualidade, forma, investigação, observações, pode
 
 Excerpt:
 
-> Público Aqui a pesquisa sai dos livros, rascunhos e fórmulas interiores para o campo vivo: vídeos, publicações, comentários, respostas, reações e observações abertas. O campo público não é uma vitrine de atividade. É o lugar onde o pensamento é testado no contato vivo com uma pessoa. Aqui ele já não é protegido pela forma do livro: torna-se uma frase curta, uma imagem, um vídeo, uma resposta, irritação, gratidão ou um reconhecimento súbito. Se os livros mostram o mecanismo em profundidade, a forma pública registra seus lampejos: onde o pensamento foi aceito, onde encontrou resistência, onde foi distorcido e onde de repente se tornou reconhecível. Falas Vídeos, Shorts, análises públicas e formas de fala viva — aquilo que já pode ser mostrado ao mundo. Abrir → Publicações Textos que saíram do laboratório e se tornaram mensagem: pensamentos de apoio, fragmentos, reações e observações. Abrir
+> Público Aqui a investigação sai dos livros, rascunhos e fórmulas interiores para o campo vivo: vídeos, publicações, comentários, respostas, reações e observações abertas. O campo público não é uma vitrine de atividade. É o lugar onde o pensamento é testado no contacto vivo com a pessoa. Aqui ele já não é protegido pela forma do livro: torna-se uma frase curta, uma imagem, um vídeo, uma resposta, irritação, gratidão ou um reconhecimento súbito. Se os livros mostram o mecanismo em profundidade, a forma pública regista os seus lampejos: onde o pensamento foi aceito, onde encontrou resistência, onde foi distorcido e onde de repente se tornou reconhecível. Falas Vídeos, Shorts, análises públicas e formas de fala viva — aquilo que já pode ser mostrado ao mundo. Abrir → Publicações Textos que saíram do laboratório e se tornaram mensagem: pensamentos de apoio, fragmentos, reações e observações. 
 
 ### pt/public/posts/essay/cycles/cycle-0001.html
 
@@ -11305,24 +11305,24 @@ Excerpt:
 
 Excerpt:
 
-> Primeiro ciclo O primeiro ciclo concluído de mini-ensaios: atenção, corpo, passado. Primeiro ciclo aos ciclos Mini-ensaio O poder não sobre o pensamento, mas sobre a atenção O pensamento surge por si mesmo. A liberdade começa não em proibir o pensamento, mas em recusar tornar-se cada movimento interior que apareceu. consciência / atenção / observador Estamos acostumados a pensar que maturidade é a capacidade de manter-se sob controle. Não se irritar. Não se inquietar. Não pensar pensamentos “ruins”. Mas é aqui que começa o primeiro erro. A pessoa não escolhe qual pensamento aparecerá no próximo segundo. Ela não encomenda ansiedade, raiva ou dúvida como se pedisse um prato em um restaurante. Os acontecimentos interiores surgem por si mesmos: da memória, do corpo, do hábito, do medo, da reação ao mundo exterior. Não somos os autores de cada movimento interior. Somos antes suas primeiras te
+> Primeiro ciclo O primeiro ciclo concluído de mini-ensaios: atenção, corpo, passado. Primeiro ciclo aos ciclos Mini-ensaio O poder não sobre o pensamento, mas sobre a atenção O pensamento surge por si mesmo. A liberdade começa não em proibir o pensamento, mas em recusar tornar-se cada movimento interior que apareceu. consciência / atenção / observador Estamos acostumados a pensar que maturidade é a capacidade de manter-se sob controlo. Não se irritar. Não se inquietar. Não pensar pensamentos «ruins». Mas é aqui que começa o primeiro erro. A pessoa não escolhe qual pensamento aparecerá no próximo segundo. Ela não encomenda ansiedade, raiva ou dúvida como se pedisse um prato em um restaurante. Os acontecimentos interiores surgem por si mesmos: da memória, do corpo, do hábito, do medo, da reação ao mundo exterior. Não somos os autores de cada movimento interior. Somos antes suas primeiras te
 
 ### pt/public/posts/essay/cycles/index.html
 
 - lang: pt
 - section: public
 - title: Ashraellen — Ciclos de mini-ensaios
-- description: Ciclos de mini-ensaios Ciclos concluídos Ciclos de mini-ensaios Aqui estão reunidos os ciclos concluídos de mini-ensaios. O ciclo atual fica na página principal da seção. Ciclos concluídos para o ciclo atual Primeiro…
+- description: Ciclos de mini-ensaios Ciclos concluídos Ciclos de mini-ensaios Aqui estão reunidos os ciclos concluídos de mini-ensaios. Cada ciclo contém até nove recortes de sentido. O ciclo atual fica na página principal da secção. Ciclos concluídos para o ciclo atual Primeiro…
 - canonical: https://www.ashraellen.com/pt/public/posts/essay/cycles/
 - H1: Ciclos de mini-ensaios
 - H2: Ciclos concluídos
 - H3: _missing_
-- suggested keyword seed: ciclos, mini-ensaios, concluídos, atual, ciclo, aqui, ashraellen, estão, fica, página, para, primeiro, principal, public, cycles, essay, posts, reunidos
-- candidates: ciclos, ciclo, mini-ensaios, atual, concluídos, primeiro, aqui, estão, fica, página, para, principal, reunidos, seção, ashraellen, atenção, corpo, cycle, mark, passado, presence
+- suggested keyword seed: ciclos, mini-ensaios, concluídos, ciclo, atual, aqui, ashraellen, até, cada, contém, estão, fica, public, secção, cycles, essay, nove, página
+- candidates: ciclo, ciclos, mini-ensaios, atual, concluídos, secção, aqui, até, cada, contém, estão, fica, nove, página, para, primeiro, principal, recortes, reunidos, sentido, ashraellen, atenção, concluído, corpo
 
 Excerpt:
 
-> Ciclos de mini-ensaios Aqui estão reunidos os ciclos concluídos de mini-ensaios. O ciclo atual fica na página principal da seção. Ciclos concluídos para o ciclo atual Primeiro ciclo O primeiro ciclo de mini-ensaios: atenção, corpo, passado. cycle Ciclo atual — mark of presence
+> Ciclos de mini-ensaios Aqui estão reunidos os ciclos concluídos de mini-ensaios. Cada ciclo contém até nove recortes de sentido. O ciclo atual fica na página principal da secção. Ciclos concluídos para o ciclo atual Primeiro ciclo Os primeiros mini-ensaios da secção: atenção, corpo, passado. Neste momento serve de exemplo de um futuro ciclo concluído. cycle Ciclo atual — mark of presence
 
 ### pt/public/posts/essay/index.html
 
@@ -11339,7 +11339,7 @@ Excerpt:
 
 Excerpt:
 
-> Mini-ensaios Pequenas análises: uma pergunta, um ângulo de visão, uma conclusão. Sem pose de palestra e sem teatro — apenas um mecanismo levado à clareza. Primeiro ciclo aos ciclos Mini-ensaio O poder não sobre o pensamento, mas sobre a atenção O pensamento surge por si mesmo. A liberdade começa não em proibir o pensamento, mas em recusar tornar-se cada movimento interior que apareceu. consciência / atenção / observador Estamos acostumados a pensar que maturidade é a capacidade de manter-se sob controle. Não se irritar. Não se inquietar. Não pensar pensamentos “ruins”. Mas é aqui que começa o primeiro erro. A pessoa não escolhe qual pensamento aparecerá no próximo segundo. Ela não encomenda ansiedade, raiva ou dúvida como se pedisse um prato em um restaurante. Os acontecimentos interiores surgem por si mesmos: da memória, do corpo, do hábito, do medo, da reação ao mundo exterior. Não som
+> Mini-ensaios Pequenas análises: uma pergunta, um ângulo de visão, uma conclusão. Sem pose de palestra e sem teatro — apenas um mecanismo levado à clareza. Primeiro ciclo aos ciclos Mini-ensaio O poder não sobre o pensamento, mas sobre a atenção O pensamento surge por si mesmo. A liberdade começa não em proibir o pensamento, mas em recusar tornar-se cada movimento interior que apareceu. consciência / atenção / observador Estamos acostumados a pensar que maturidade é a capacidade de manter-se sob controlo. Não se irritar. Não se inquietar. Não pensar pensamentos «ruins». Mas é aqui que começa o primeiro erro. A pessoa não escolhe qual pensamento aparecerá no próximo segundo. Ela não encomenda ansiedade, raiva ou dúvida como se pedisse um prato em um restaurante. Os acontecimentos interiores surgem por si mesmos: da memória, do corpo, do hábito, do medo, da reação ao mundo exterior. Não som
 
 ### pt/public/posts/formula/index.html
 
@@ -11352,28 +11352,28 @@ Excerpt:
 - H2: Caminho, ação, ritmo
 - H3: _missing_
 - suggested keyword seed: ação, caminho, ritmo, ashraellen, fórmulas, linha, public, aprende, atual, breves, com, formas, formula, fórmula, mas, medida, movimento, não
-- candidates: caminho, ação, ritmo, fórmula, não, vezes, com, mas, nem, que, uma, linha, mais, sempre, você, ashraellen, breves, decisão, força, forma, formas, fórmulas, para, passo
+- candidates: caminho, ação, ritmo, fórmula, não, vezes, com, mas, nem, que, uma, linha, mais, sempre, ashraellen, breves, decisão, força, forma, formas, fórmulas, para, passo, pensamento
 
 Excerpt:
 
-> Fórmulas Formas breves do pensamento: uma linha, uma precisão. Caminho, ação, ritmo Fórmula Um caminho não começa com certeza, mas com a disposição de dar o primeiro passo honesto. caminho / ação / ritmo Fórmula A ação sem apoio interior logo se transforma em agitação. caminho / ação / ritmo Fórmula Paciência não é esperar por um milagre, mas recusar-se a quebrar o que ainda não amadureceu. caminho / ação / ritmo Fórmula Quando você segue o próprio caminho, os mapas dos outros viram apenas referência. caminho / ação / ritmo Fórmula A força nem sempre empurra para a frente. Às vezes impede um passo desnecessário. caminho / ação / ritmo Fórmula O tempo não cura o que você continua reabrindo todos os dias. caminho / ação / ritmo Fórmula Nem toda parada é fraqueza. Às vezes é uma forma de não trair a direção. caminho / ação / ritmo Fórmula Uma decisão amadurece antes que a pessoa encontre pa
+> Fórmulas Formas breves do pensamento: uma linha, uma precisão. Caminho, ação, ritmo Fórmula Um caminho não começa com certeza, mas com a disposição de dar o primeiro passo honesto. caminho / ação / ritmo Fórmula A ação sem apoio interior logo se transforma em agitação. caminho / ação / ritmo Fórmula Paciência não é esperar por um milagre, mas recusar-se a quebrar o que ainda não amadureceu. caminho / ação / ritmo Fórmula Quando segues o teu próprio caminho, os mapas dos outros tornam-se apenas referência. caminho / ação / ritmo Fórmula A força nem sempre empurra para a frente. Às vezes impede um passo desnecessário. caminho / ação / ritmo Fórmula O tempo não cura aquilo que reabres todos os dias. caminho / ação / ritmo Fórmula Nem toda parada é fraqueza. Às vezes é uma forma de não trair a direção. caminho / ação / ritmo Fórmula Uma decisão amadurece antes que a pessoa encontre palavras 
 
 ### pt/public/posts/formula/lines/index.html
 
 - lang: pt
 - section: public
 - title: Ashraellen — Limites, medida, forma própria
-- description: Linha de fórmulas Ashraellen sobre limites, medida e forma própria: formas breves de pensamento sobre retorno a si.
+- description: Linha de fórmulas de Ashraellen sobre limites, medida e forma própria: formas breves de pensamento sobre o apoio interior e o regresso a si.
 - canonical: https://www.ashraellen.com/pt/public/posts/formula/lines/
 - H1: Limites, medida, forma própria
 - H2: Fórmulas da linha
 - H3: _missing_
-- suggested keyword seed: forma, limites, medida, própria, ashraellen, fórmulas, linha, public, sobre, breves, formas, formula, fórmula, limite, lines, não, pensamento, posts
-- candidates: forma, medida, limite, fórmula, linha, não, própria, precisa, quando, seu, fórmulas, limites, pessoa, que, vezes, você, ashraellen, atual, nem, para, realmente, sem, sobre, toda
+- suggested keyword seed: forma, limites, medida, própria, ashraellen, fórmulas, linha, public, sobre, apoio, breves, deixa, formas, formula, fórmula, interior, limite, lines
+- candidates: forma, medida, limite, fórmula, linha, não, própria, pessoa, deixa, fórmulas, limites, precisa, que, seu, vezes, ashraellen, atual, interior, nem, quando, realmente, sem, sobre, toda
 
 Excerpt:
 
-> Limites, medida, forma própria A terceira linha de fórmulas. Fórmulas da linha Linha atual Fórmula Um limite aparece quando a pessoa deixa de explicar seu direito de existir. limite / medida / forma Fórmula A opinião alheia só vira poder quando você consente por dentro. limite / medida / forma Fórmula Estar de acordo consigo faz menos barulho do que querer provar tudo. limite / medida / forma Fórmula Nem toda abertura é proximidade. Às vezes só falta uma porta. limite / medida / forma Fórmula O que precisa de defesa sem fim ainda não se tornou realmente seu. limite / medida / forma Fórmula A maturidade começa quando a pessoa para de discutir com a própria medida. limite / medida / forma Fórmula A forma própria não precisa da permissão do gosto alheio. limite / medida / forma Fórmula O medo da simplicidade muitas vezes se esconde atrás da complexidade. limite / medida / forma Fórmula Um l
+> Limites, medida, forma própria A terceira linha de fórmulas. Fórmulas da linha Linha atual Fórmula Um limite aparece quando a pessoa deixa de explicar o seu direito de existir. limite / medida / forma Fórmula A opinião alheia só se torna poder depois do consentimento interior. limite / medida / forma Fórmula Estar de acordo consigo faz menos barulho do que querer provar tudo. limite / medida / forma Fórmula Nem toda a abertura é proximidade. Às vezes falta apenas uma porta. limite / medida / forma Fórmula O que precisa de defesa sem fim ainda não se tornou realmente seu. limite / medida / forma Fórmula A maturidade começa quando a pessoa deixa de discutir com a sua própria medida. limite / medida / forma Fórmula A forma própria não precisa da permissão do gosto alheio. limite / medida / forma Fórmula O medo da simplicidade muitas vezes se esconde atrás da complexidade. limite / medida / 
 
 ### pt/public/posts/formula/lines/line-0001.html
 
@@ -11413,52 +11413,52 @@ Excerpt:
 
 - lang: pt
 - section: public
-- title: Ashraellen — Fragmentos — PT
-- description: Fragmentos Ashraellen: seção preparada a partir de um grande arquivo de manuscritos, notas e publicações acumulados ao longo de muitos anos de trabalho.
+- title: Ashraellen — Fragmentos
+- description: Fragmentos Ashraellen: secção preparada a partir de um grande arquivo de manuscritos, notas e publicações acumulados ao longo de muitos anos de trabalho.
 - canonical: https://www.ashraellen.com/pt/public/posts/fragment/
 - H1: Fragmentos
-- H2: Seção em preparação
+- H2: Secção em preparação
 - H3: _missing_
-- suggested keyword seed: ashraellen, fragmentos, acumulados, anos, arquivo, grande, longo, manuscritos, notas, public, seção, trabalho, aqui, fragment, muitos, partir, posts, preparação
-- candidates: arquivo, fragmentos, trabalho, ashraellen, notas, textos, acumulados, anos, aqui, grande, longo, manuscritos, muitos, publicações, seção, trechos, agora, aparecerão, archive, breves, colocada, conjunto, densas, depois
+- suggested keyword seed: ashraellen, fragmentos, acumulados, anos, arquivo, grande, longo, notas, public, secção, trabalho, aqui, excertos, fragment, manuscritos, muitos, partir, posts
+- candidates: arquivo, fragmentos, trabalho, ashraellen, notas, textos, acumulados, anos, aqui, excertos, grande, longo, manuscritos, muitos, publicações, que, secção, aparecerão, archive, breves, colocada, conjunto, densas, depois
 
 Excerpt:
 
-> Fragmentos Trechos de textos maiores, notas e materiais de trabalho: uma maneira de sentir o tom, ver a direção e reconhecer qual peça do quebra-cabeça está sendo colocada aqui. Seção em preparação voltar ao índice Arquivo de textos de trabalho Agora estou organizando e transferindo para um arquivo digital um grande conjunto de manuscritos, notas e publicações acumulados ao longo de muitos anos de trabalho. archive Seleção futura Depois do processamento do arquivo, aparecerão aqui fragmentos selecionados: textos breves, passagens densas, observações e trechos que melhor revelam a lógica interior do projeto Ashraellen. in work — mark of presence
+> Fragmentos Excertos de textos maiores, notas e materiais de trabalho: uma forma de sentir o tom, ver a direção e perceber que peça do puzzle está aqui a ser colocada. Secção em preparação voltar ao índice Arquivo de textos de trabalho Neste momento estou a organizar e a transferir para um arquivo digital um grande conjunto de manuscritos, notas e publicações acumulados ao longo de muitos anos de trabalho. archive Seleção futura Depois do processamento do arquivo, aparecerão aqui fragmentos selecionados: textos breves, passagens densas, observações e excertos que melhor revelam a lógica interior do projeto Ashraellen. in work — mark of presence
 
 ### pt/public/posts/index.html
 
 - lang: pt
 - section: public
 - title: Ashraellen — Publicações
-- description: Publicações de Ashraellen: formas breves de observação — fórmulas, fragmentos e miniensaios que capturam o pensamento antes que ele vire palestra.
+- description: Publicações de Ashraellen: formas breves de observação — fórmulas, fragmentos e miniensaios que captam o pensamento antes de se tornar palestra.
 - canonical: https://www.ashraellen.com/pt/public/posts/
 - H1: Publicações
-- H2: Seções
+- H2: Secções
 - H3: Fórmulas | Fragmentos | Miniensaios
-- suggested keyword seed: ashraellen, publicações, que, antes, breves, ele, formas, fórmulas, fragmentos, miniensaios, pensamento, public, capturam, ler, observação, palestra, posts, seções
-- candidates: breves, fórmulas, fragmentos, ler, miniensaios, pensamento, publicações, que, antes, ashraellen, ele, formas, observação, palestra, análises, capturam, capturar, com, conclusão, diferentes, direção, ensaio, escolha, formato
+- suggested keyword seed: ashraellen, publicações, antes, breves, formas, fórmulas, fragmentos, miniensaios, observação, palestra, pensamento, public, captam, ler, posts, que, secções, tornar
+- candidates: breves, fórmulas, fragmentos, ler, miniensaios, pensamento, publicações, antes, ashraellen, formas, observação, palestra, que, tornar, análises, captam, captar, com, conclusão, diferentes, direção, ensaio, escolha, excertos
 
 Excerpt:
 
-> Publicações Formas breves de observação: fórmulas, fragmentos e miniensaios. Diferentes maneiras de capturar um pensamento antes que ele tenha tempo de virar uma palestra. Seções escolha um formato fórmula Fórmulas Formulações lacônicas: um pensamento — um golpe preciso. Ler fragmento Fragmentos Trechos de textos maiores: para sentir o tom e a direção. Ler ensaio Miniensaios Breves análises: pergunta, ponto de vista, conclusão — sem teatro, mas com precisão. Ler — mark of presence
+> Publicações Formas breves de observação: fórmulas, fragmentos e miniensaios. Diferentes maneiras de captar um pensamento antes que tenha tempo de se tornar uma palestra. Secções escolha um formato fórmula Fórmulas Formulações lacónicas: um pensamento — um golpe preciso. Ler fragmento Fragmentos Excertos de textos maiores: para sentir o tom e a direção. Ler ensaio Miniensaios Breves análises: pergunta, ponto de vista, conclusão — sem teatro, mas com precisão. Ler — mark of presence
 
 ### pt/public/posts/sources/index.html
 
 - lang: pt
 - section: public
 - title: Ashraellen — Fontes transferidas
-- description: As fontes foram transferidas As fontes foram transferidas As fontes agora fazem parte da seção de pesquisa, como base metodológica do projeto. Abrir “Fontes e tradição” Fenomenologia, corpo, narrativa, ciência…
+- description: A secção «Fontes» foi transferida para a área de investigação, onde integra a base metodológica do projeto Ashraellen.
 - canonical: https://www.ashraellen.com/pt/public/posts/sources/
 - H1: As fontes foram transferidas
-- H2: _missing_
+- H2: Novo endereço
 - H3: _missing_
-- suggested keyword seed: fontes, transferidas, foram, abrir, agora, ashraellen, base, ciência, como, corpo, fazem, fenomenologia, metodológica, public, narrativa, parte, pesquisa, posts
-- candidates: fontes, transferidas, foram, abrir, agora, base, ciência, como, corpo, fazem, fenomenologia, metodológica, narrativa, parte, pesquisa, projeto, seção, tradição, artística, ashraellen, cognitiva, prática, transferido
+- suggested keyword seed: ashraellen, fontes, transferidas, área, base, investigação, metodológica, projeto, public, secção, abrir, agora, como, endereço, foi, foram, integra, novo
+- candidates: fontes, ashraellen, investigação, base, como, metodológica, projeto, secção, transferidas, abrir, agora, área, artística, assenta, ciência, cognitiva, corpo, cruzamento, das, deixou, encontra-se, endereço, fenomenologia, foi
 
 Excerpt:
 
-> As fontes foram transferidas As fontes agora fazem parte da seção de pesquisa, como base metodológica do projeto. Abrir “Fontes e tradição” Fenomenologia, corpo, narrativa, ciência cognitiva e prática artística. transferido
+> As fontes foram transferidas A secção «Fontes» deixou de pertencer às publicações públicas. Encontra-se agora na investigação, como base metodológica do projeto. Novo endereço investigação Abrir «Fontes e tradição» Fenomenologia, corpo, narrativa, ciência cognitiva e prática artística como linhas no cruzamento das quais assenta o método de Ashraellen. transferido — mark of presence
 
 ### pt/public/talks/index.html
 
@@ -11468,14 +11468,14 @@ Excerpt:
 - description: Vídeos e análises públicas de Ashraellen: clareza, percepção, consciência, realidade e retorno à compreensão viva.
 - canonical: https://www.ashraellen.com/pt/public/talks/
 - H1: Apresentações
-- H2: Lista | O que acontece depois da morte? | Sete níveis de autoengano | Your Moan Is Sacred | Revelation IV | Pinóquio: crônica de uma alma morta | Money & … / O Livro Sagrado de AHEPSU | Você sabe demais para enriquecer | Página II | Sacred Taste — Viagem ao silêncio
+- H2: Lista | O que acontece depois da morte? | Sete níveis de autoengano | Your Moan Is Sacred | Revelation IV | Pinóquio: crónica de uma alma morta | Money & … / O Livro Sagrado de AHEPSU | Sabes demasiado para enriquecer | Página II | Sacred Taste — Viagem ao silêncio
 - H3: _missing_
 - suggested keyword seed: ashraellen, apresentações, para, public, que, sacred, uma, abrir, acontece, ahepsu, alma, análises, autoengano, clareza, com, como, compreensão, consciência
-- candidates: uma, youtube, como, não, que, vídeo, abrir, para, com, mas, ser, sobre, ashraellen, dublagem, isto, multilíngue, pode, sacred, ahepsu, análise, cozinha, morte, nem, onde
+- candidates: uma, youtube, como, não, que, vídeo, abrir, com, ser, mas, para, sobre, ashraellen, dobragem, isto, multilingue, pode, sacred, ahepsu, análise, cozinha, morte, nem, onde
 
 Excerpt:
 
-> Apresentações Aqui estão reunidos vídeos e análises públicas — aquilo que já pode ser mostrado. Isto não é “motivação” nem “ensinamento”. É uma tentativa de falar com precisão: sem ruído desnecessário, mas também sem fugir para a névoa. Lista seção em expansão O que acontece depois da morte? Uma análise do medo da morte por meio de metáforas simples: o oceano, o cinema, a realidade virtual e uma playlist. O vídeo examina a possibilidade de que a morte, no sentido habitual, não seja o fim da consciência, mas a dissolução da forma com a qual nos identificamos por engano. Isto não é uma nova fé nem a promessa de um cenário após a morte. É uma tentativa de olhar para além das ideias habituais sobre o corpo, a personalidade, o tempo e o “prazo de validade” de uma história humana. O vídeo contém faixas de áudio multilíngues. O idioma pode ser alterado nas configurações do reprodutor do YouTube
+> Apresentações Aqui estão reunidos vídeos e análises públicas — aquilo que já pode ser mostrado. Isto não é «motivação» nem «ensinamento». É uma tentativa de falar com precisão: sem ruído desnecessário, mas também sem fugir para a névoa. Lista secção em expansão O que acontece depois da morte? Uma análise do medo da morte através de metáforas simples: o oceano, o cinema, a realidade virtual e uma playlist. O vídeo examina a possibilidade de que a morte, no sentido habitual, não seja o fim da consciência, mas a dissolução da forma com a qual nos identificamos por engano. Isto não é uma nova fé nem a promessa de um cenário após a morte. É uma tentativa de olhar para além das ideias habituais sobre o corpo, a personalidade, o tempo e o «prazo de validade» de uma história humana. O vídeo contém faixas de áudio multilingues. O idioma pode ser alterado nas definições do leitor do YouTube. Abrir
 
 ### pt/public/thoughts/arcs/0001-cheerfulness.html
 
@@ -11485,7 +11485,7 @@ Excerpt:
 - description: Pensamento de apoio Ashraellen: o riso muitas vezes abre a alma com mais precisão do que discursos corretos.
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0001-cheerfulness.html
 - H1: A alegria como diagnóstico da pessoa
-- H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
+- H2: Sentido | Texto completo | Por que foi escolhido | Nota de investigação
 - H3: _missing_
 - suggested keyword seed: alegria, ashraellen, como, pessoa, que, com, diagnóstico, mais, pensamento, public, abre, alma, apoio, arcs, bondade, cheerfulness, completo, corretos
 - candidates: pessoa, que, como, mas, não, alegria, mais, uma, bondade, com, para, pensamento, riso, sem, ashraellen, corretos, diagnóstico, discursos, muitas, sobre, vezes, abre, alegrar-se, alma
@@ -11499,17 +11499,17 @@ Excerpt:
 - lang: pt
 - section: public
 - title: Ashraellen — As mesmas forças, novos nomes
-- description: Pensamento de apoio Ashraellen: as ansiedades e dependências modernas como novos nomes de antigos deuses e demônios.
+- description: Pensamento de apoio Ashraellen: as ansiedades e dependências modernas como novos nomes de antigos deuses e demónios.
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0002-still-the-same.html
 - H1: As mesmas forças, novos nomes
-- H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
+- H2: Sentido | Texto completo | Por que foi escolhido | Nota de investigação
 - H3: _missing_
-- suggested keyword seed: nomes, novos, ashraellen, forças, mesmas, demônios, deuses, pensamento, por, public, que, ansiedades, antigos, apoio, arcs, como, completo, dependências
-- candidates: nomes, novos, que, forças, não, pensamento, por, demônios, deuses, humano, mesmas, ser, apenas, ashraellen, como, ele, mas, moderno, sem, vida, agora, apoio, completo, continua
+- suggested keyword seed: nomes, novos, ashraellen, forças, mesmas, demónios, deuses, pensamento, por, public, que, ansiedades, antigos, apoio, arcs, como, completo, dependências
+- candidates: nomes, novos, que, forças, não, pensamento, por, demónios, deuses, humano, mesmas, ser, apenas, ashraellen, como, mas, moderno, sem, vida, agora, apoio, completo, continua, desapareceram
 
 Excerpt:
 
-> Pensamento de apoio 0002 As mesmas forças, novos nomes Os demônios e deuses do ser humano moderno não desapareceram. Apenas receberam novos nomes. Sentido O ser humano moderno considera-se racional e senhor da própria vida, mas muitas vezes permanece submetido às mesmas forças que antes eram chamadas de deuses, demônios, paixões ou possessão. Texto completo O ser humano moderno paga pela sua fé um preço estranho — uma quase completa ausência de auto-observação. Ele se considera racional, eficiente e plenamente no comando da própria vida, mas continua possuído por forças que estão fora do seu controle. Seus demônios e deuses, e eles são idênticos, não desapareceram. Apenas receberam novos nomes. Agora ele vive na ansiedade, numa inquietação interior vaga, em dificuldades psicológicas, numa atração insaciável por remédios, álcool, tabaco, comida e por toda aquela enorme massa de neuroses q
+> Pensamento de apoio 0002 As mesmas forças, novos nomes Os demónios e deuses do ser humano moderno não desapareceram. Apenas receberam novos nomes. Sentido O ser humano moderno considera-se racional e senhor da própria vida, mas muitas vezes permanece submetido às mesmas forças que antes eram chamadas de deuses, demónios, paixões ou possessão. Texto completo O ser humano moderno paga pela sua fé um preço estranho — uma quase completa ausência de auto-observação. Ele se considera racional, eficiente e plenamente no comando da própria vida, mas continua possuído por forças que estão fora do seu controlo. Os seus demónios e deuses, e eles são idênticos, não desapareceram. Apenas receberam novos nomes. Agora ele vive na ansiedade, numa inquietação interior vaga, em dificuldades psicológicas, numa atração insaciável por remédios, álcool, tabaco, comida e por toda aquela enorme massa de neurose
 
 ### pt/public/thoughts/arcs/0003-let-go.html
 
@@ -11519,14 +11519,14 @@ Excerpt:
 - description: Pensamento de apoio Ashraellen: o despertar começa onde o velho modo de vida já não pode continuar.
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0003-let-go.html
 - H1: O despertar começa onde já não se pode continuar
-- H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
+- H2: Sentido | Texto completo | Por que foi escolhido | Nota de investigação
 - H3: _missing_
 - suggested keyword seed: começa, continuar, despertar, não, ashraellen, onde, pode, pensamento, public, apoio, aqui, arcs, com, como, completo, escolhido, está, foi
 - candidates: não, começa, despertar, mas, aqui, com, continuar, mesmo, como, está, mais, pensamento, pode, que, uma, dia, dos, momento, onde, pela, anterior, ashraellen, assim, enquanto
 
 Excerpt:
 
-> Pensamento de apoio 0003 O despertar começa onde já não se pode continuar O despertar começa não com um novo conhecimento, mas com um momento interior honesto: assim não dá mais. Sentido Uma ruptura interior começa muitas vezes como a saída de uma vida antiga: sem plano pronto, mas com a certeza clara de que o caminho anterior já não pode continuar. Texto completo Já te aconteceu um dia partir? Da família, de casa, dos pais, de um parceiro, de um negócio, da vida anterior? Não porque tivesses um plano pronto, mas porque em algum momento ficou claro: basta. Assim não dá mais. Há algo errado. Não sei como é o certo, mas sei com certeza — daqui para a frente é um beco sem saída. Se a tua resposta é “sim”, então já tiveste nas mãos uma das principais pistas. O despertar começa de modo muito parecido. Um dia tu te cansas do mesmo modo dos livros lidos, dos webinars sem fim, dos seminários, cu
+> Pensamento de apoio 0003 O despertar começa onde já não se pode continuar O despertar começa não com um novo conhecimento, mas com um momento interior honesto: assim não dá mais. Sentido Uma ruptura interior começa muitas vezes como a saída de uma vida antiga: sem plano pronto, mas com a certeza clara de que o caminho anterior já não pode continuar. Texto completo Já te aconteceu um dia partir? Da família, de casa, dos pais, de um parceiro, de um negócio, da vida anterior? Não porque tivesses um plano pronto, mas porque em algum momento ficou claro: basta. Assim não dá mais. Há algo errado. Não sei como é o certo, mas sei com certeza — daqui para a frente é um beco sem saída. Se a tua resposta é «sim», então já tiveste nas mãos uma das principais pistas. O despertar começa de modo muito parecido. Um dia tu te cansas do mesmo modo dos livros lidos, dos webinars sem fim, dos seminários, cu
 
 ### pt/public/thoughts/arcs/0004-mortality-awakens.html
 
@@ -11536,7 +11536,7 @@ Excerpt:
 - description: Pensamento de apoio Ashraellen: muitos começam a pensar quando suas ilusões acabam.
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0004-mortality-awakens.html
 - H1: A finitude desperta a pergunta
-- H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
+- H2: Sentido | Texto completo | Por que foi escolhido | Nota de investigação
 - H3: _missing_
 - suggested keyword seed: ashraellen, finitude, pergunta, acabam, começam, desperta, pensamento, pensar, public, quando, que, apoio, arcs, awakens, com, completo, escolhido, foi
 - candidates: não, mas, que, pensamento, pensar, pergunta, quando, finitude, acabam, ashraellen, com, começam, desperta, ilusões, morte, muitos, pessoa, suas, apoio, aqui, assim, começa, como, dor
@@ -11549,18 +11549,18 @@ Excerpt:
 
 - lang: pt
 - section: public
-- title: Ashraellen — O medo como mecanismo de controle
-- description: Pensamento de apoio Ashraellen: onde a pessoa deixa de temer e começa a pensar por si, os antigos mecanismos de controle enfraquecem.
+- title: Ashraellen — O medo como mecanismo de controlo
+- description: Pensamento de apoio Ashraellen: onde a pessoa deixa de temer e começa a pensar por si, os antigos mecanismos de controlo enfraquecem.
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0005-on-your-own.html
-- H1: O medo como mecanismo de controle
-- H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
+- H1: O medo como mecanismo de controlo
+- H2: Sentido | Texto completo | Por que foi escolhido | Nota de investigação
 - H3: _missing_
-- suggested keyword seed: controle, ashraellen, como, medo, por, começa, mecanismo, pensamento, pensar, pessoa, public, que, antigos, apoio, arcs, com, completo, corpo
-- candidates: pessoa, por, que, com, medo, controle, não, pensamento, pensar, começa, como, corpo, mas, morte, pela, própria, uma, ashraellen, deixa, dependência, enfraquece, mecanismo, onde, para
+- suggested keyword seed: controlo, ashraellen, como, medo, por, começa, mecanismo, pensamento, pensar, pessoa, public, que, antigos, apoio, arcs, com, completo, corpo
+- candidates: pessoa, por, que, com, medo, controlo, não, pensamento, pensar, começa, como, corpo, mas, morte, pela, própria, uma, ashraellen, deixa, dependência, enfraquece, mecanismo, onde, para
 
 Excerpt:
 
-> Pensamento de apoio 0005 O medo como mecanismo de controle Onde a pessoa deixa de temer e começa a pensar por si, enfraquece o poder daqueles que governavam pelo medo, pela proibição e pela dependência. Sentido O dogma é visto aqui não apenas como conjunto de crenças, mas como mecanismo que mantém a pessoa dentro de um roteiro prescrito. Tudo que devolve à pessoa o direito de pensar por si sobre corpo, morte, consciência e futuro torna-se ameaça para sistemas de medo. Texto completo Para os guardiões do dogma, é insuportável a própria ideia de que a pessoa possa fazer escolhas por si em questões de nascimento, corpo, morte e limites da própria existência. Tudo que dá à pessoa sequer um indício de saída para além do roteiro prescrito costuma ser recebido com hostilidade: desde uma relação livre com a concepção e a gravidez até experiências ligadas à consciência, à imortalidade, à inteligê
+> Pensamento de apoio 0005 O medo como mecanismo de controlo Onde a pessoa deixa de temer e começa a pensar por si, enfraquece o poder daqueles que governavam pelo medo, pela proibição e pela dependência. Sentido O dogma é visto aqui não apenas como conjunto de crenças, mas como mecanismo que mantém a pessoa dentro de um roteiro prescrito. Tudo que devolve à pessoa o direito de pensar por si sobre corpo, morte, consciência e futuro torna-se ameaça para sistemas de medo. Texto completo Para os guardiões do dogma, é insuportável a própria ideia de que a pessoa possa fazer escolhas por si em questões de nascimento, corpo, morte e limites da própria existência. Tudo que dá à pessoa sequer um indício de saída para além do roteiro prescrito costuma ser recebido com hostilidade: desde uma relação livre com a concepção e a gravidez até experiências ligadas à consciência, à imortalidade, à inteligê
 
 ### pt/public/thoughts/arcs/0006-insight.html
 
@@ -11570,7 +11570,7 @@ Excerpt:
 - description: Pensamento de apoio Ashraellen: um olhar mais profundo reúne erros, dor e experiência numa cadeia de compreensão.
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0006-insight.html
 - H1: Um olhar mais profundo reúne a vida
-- H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
+- H2: Sentido | Texto completo | Por que foi escolhido | Nota de investigação
 - H3: _missing_
 - suggested keyword seed: mais, olhar, ashraellen, profundo, reúne, vida, compreensão, pensamento, public, que, apoio, arcs, cadeia, com, começa, completo, dor, erros
 - candidates: que, mais, não, vida, com, começa, compreensão, ver, olhar, pensamento, pessoa, sem, uma, cadeia, como, mas, para, ashraellen, consequências, dor, erros, fundo, profundo, quando
@@ -11587,7 +11587,7 @@ Excerpt:
 - description: Pensamento de apoio Ashraellen: algumas pessoas não vão embora por completo. Elas simplesmente deixam de se sentar ao nosso lado.
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0007-empty-chair.html
 - H1: A cadeira vazia
-- H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
+- H2: Sentido | Texto completo | Por que foi escolhido | Nota de investigação
 - H3: _missing_
 - suggested keyword seed: ashraellen, cadeira, completo, por, vazia, não, pensamento, public, que, simplesmente, algumas, alma, apoio, arcs, chair, como, deixam, elas
 - candidates: não, que, uma, por, cadeira, como, mas, completo, pensamento, simplesmente, vazia, alma, dia, foi, pessoa, pessoas, pode-se, algumas, apoio, assim, deixam, dentro, ela, elas
@@ -11604,9 +11604,9 @@ Excerpt:
 - description: Pensamento de apoio Ashraellen: a generalização torna-se perigosa quando substitui a observação.
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0008-generalization.html
 - H1: Generalização em vez de observação
-- H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
+- H2: Sentido | Texto completo | Por que foi escolhido | Nota de investigação
 - H3: _missing_
-- suggested keyword seed: generalização, observação, ashraellen, vez, apoio, pensamento, public, quando, que, arcs, assim, completo, escolhido, foi, generalization, isto, mente, não
+- suggested keyword seed: generalização, observação, ashraellen, vez, apoio, pensamento, public, quando, que, arcs, assim, completo, escolhido, foi, generalization, investigação, isto, mente
 - candidates: não, generalização, observação, pensamento, que, uma, isto, mente, quando, vez, apoio, assim, atenção, caso, com, como, modelo, novo, perigosa, substitui, torna-se, ajuda, apenas, ashraellen
 
 Excerpt:
@@ -11621,9 +11621,9 @@ Excerpt:
 - description: Pensamento de apoio Ashraellen: às vezes despertar significa ver pela primeira vez onde deixaste de estar vivo.
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0009-where-life-stopped.html
 - H1: Onde deixaste de estar vivo
-- H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
+- H2: Sentido | Texto completo | Por que foi escolhido | Nota de investigação
 - H3: _missing_
-- suggested keyword seed: deixaste, estar, onde, vivo, ashraellen, despertar, pensamento, por, public, que, apoio, aquilo, arcs, completo, escolhido, foi, life, não
+- suggested keyword seed: deixaste, estar, onde, vivo, ashraellen, despertar, pensamento, por, public, que, apoio, aquilo, arcs, completo, escolhido, foi, investigação, life
 - candidates: que, despertar, onde, vida, deixaste, estar, não, pensamento, pessoa, por, vivo, aquilo, chamava, daquilo, pela, significa, uma, vezes, voltar, apoio, como, curar-se, dos, era
 
 Excerpt:
@@ -11638,14 +11638,14 @@ Excerpt:
 - description: Pensamento de apoio Ashraellen: correr em círculos não limpa a chávena. Apenas muda quem corre.
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0010-dirty-cup.html
 - H1: A chávena suja
-- H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
+- H2: Sentido | Texto completo | Por que foi escolhido | Nota de investigação
 - H3: _missing_
-- suggested keyword seed: chávena, ashraellen, não, pensamento, por, public, que, suja, alice, apenas, apoio, arcs, chapeleiro, círculos, completo, corre, correr, cup
-- candidates: chávena, não, alice, mas, que, chapeleiro, isso, lugar, para, pensamento, uma, por, suja, chá, ela, estava, mudar, própria, ainda, apoio, com, como, disse, foi
+- suggested keyword seed: chávena, ashraellen, suja, não, pensamento, public, que, alice, apenas, apoio, arcs, chapeleiro, círculos, completo, corre, correr, cup, dirty
+- candidates: chávena, não, alice, mas, que, chapeleiro, isso, lugar, para, pensamento, uma, suja, chá, ela, estava, mudar, por, própria, ainda, apoio, com, como, disse, foi
 
 Excerpt:
 
-> Pensamento de apoio 0010 A chávena suja Correr em círculos não limpa a chávena. Apenas muda quem corre. Sentido A cena de conto mostra a tendência humana de confundir movimento com solução. Pode-se mudar de lugar, de papel e de explicação, mas se a pessoa continua a fugir da própria chávena, a questão permanece intocada. Texto completo Alice estava sentada à beira da mesa e observava o Chapeleiro voltar a encher uma chávena — embora ninguém ainda tivesse terminado de beber. — Por que vocês mudam de lugar a cada vez? — perguntou ela. — Afinal, o chá continua sendo o mesmo. — Chávena suja — explicou o Chapeleiro com dignidade. — Mas vocês simplesmente fogem da própria chávena em círculo. — Exatamente — disse o Chapeleiro. — É isso que se chama viver. A Lebre de Março riu tanto que derrubou a leiteira. O Rato Silvestre não acordou. Alice pensou um pouco. — Mas se vocês mudarem de lugar por 
+> Pensamento de apoio 0010 A chávena suja Correr em círculos não limpa a chávena. Apenas muda quem corre. Sentido A cena de conto mostra a tendência humana de confundir movimento com solução. Pode-se mudar de lugar, de papel e de explicação, mas se a pessoa continua a fugir da própria chávena, a questão permanece intocada. Texto completo Alice estava sentada à beira da mesa e observava o Chapeleiro voltar a encher uma chávena — embora ninguém ainda tivesse terminado de beber. — Porque é que mudam de lugar de cada vez? — perguntou ela. — Afinal, o chá continua a ser o mesmo. — Chávena suja — explicou o Chapeleiro com dignidade. — Mas vocês simplesmente fogem da própria chávena em círculo. — Exatamente — disse o Chapeleiro. — É isso que se chama viver. A Lebre de Março riu tanto que derrubou a leiteira. O Rato Silvestre não acordou. Alice pensou um pouco. — Mas, se mudarem de lugar tempo suf
 
 ### pt/public/thoughts/arcs/0011-do-not-regret.html
 
@@ -11655,9 +11655,9 @@ Excerpt:
 - description: Pensamento de apoio Ashraellen: às vezes a misericórdia parece perda, e a salvação chega disfarçada de sonho não realizado.
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0011-do-not-regret.html
 - H1: Não te arrependas
-- H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
+- H2: Sentido | Texto completo | Por que foi escolhido | Nota de investigação
 - H3: _missing_
-- suggested keyword seed: não, arrependas, ashraellen, foi, pensamento, perda, por, public, que, vezes, apoio, arcs, chega, como, completo, disfarçada, escolhido, mas
+- suggested keyword seed: não, arrependas, ashraellen, foi, pensamento, perda, por, public, que, vezes, apoio, arcs, chega, como, completo, disfarçada, escolhido, investigação
 - candidates: não, que, vezes, mas, pessoa, pensamento, foi, perda, arrependas, como, por, quando, realizado, sonho, uma, apoio, chega, disfarçada, golpe, misericórdia, muitas, para, parece, porque
 
 Excerpt:
@@ -11672,7 +11672,7 @@ Excerpt:
 - description: Pensamento de apoio Ashraellen: em certo momento o caminho já não continua na página. Continua no silêncio.
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0012-close-the-book.html
 - H1: Quando fechar o livro
-- H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
+- H2: Sentido | Texto completo | Por que foi escolhido | Nota de investigação
 - H3: _missing_
 - suggested keyword seed: ashraellen, continua, livro, caminho, certo, fechar, momento, não, public, quando, silêncio, apoio, arcs, book, close, completo, escolhido, foi
 - candidates: caminho, não, silêncio, continua, ler, livro, mas, pode, sobre, certo, mapa, momento, quando, vez, literatura, pensamento, pessoa, apoio, ashraellen, dedo, espiritual, fechar, lua, mais
@@ -11686,204 +11686,204 @@ Excerpt:
 - lang: pt
 - section: public
 - title: Ashraellen — O problema perde a coroa
-- description: Pensamento de apoio 0013: O problema não foi destruído. Mas seu drama foi. O problema perde a coroa Sentido Texto completo Por que foi escolhido Nota de pesquisa Pensamento de apoio 0013 O problema perde a coroa O…
+- description: Pensamento de apoio 0013: o problema não foi destruído. Mas o seu drama foi. O problema perde a coroa.
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0013-problem-loses-crown.html
 - H1: O problema perde a coroa
-- H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
+- H2: Sentido | Texto completo | Por que foi escolhido | Nota de investigação
 - H3: _missing_
-- suggested keyword seed: problema, coroa, foi, perde, 0013, apoio, pensamento, que, ashraellen, completo, escolhido, mas, não, nota, pesquisa, por, public, sentido
-- candidates: problema, não, foi, mas, que, pensamento, coroa, seu, com, perde, 0013, apoio, daí, destruído, drama, ele, método, nem, por, porque, você, aceitação, algo, como
+- suggested keyword seed: problema, foi, coroa, perde, ashraellen, mas, não, pensamento, por, public, que, seu, 0013, apoio, arcs, com, como, completo
+- candidates: não, problema, mas, com, foi, pensamento, por, seu, porque, que, uma, como, coroa, depois, nem, sua, tentou, aceitação, destruído, está, fazer, interior, perde, pode
 
 Excerpt:
 
-> Pensamento de apoio 0013 O problema perde a coroa O problema não foi destruído. Mas seu drama foi. Sentido A aceitação não apaga o problema. Ela tira dele a falsa autoridade dramática e o devolve ao lugar de simples fato. Texto completo Um método único de aceitar a realidade como ela é se chama “E daí?”. O método é simples e não exige tapete especial, incenso, assinatura de maratona nem retiro de três dias nas montanhas com pessoas que dizem a palavra “energia” com confiança demais. Você tem um problema? Tentou resolvê-lo e não conseguiu? Nem tentou, mas já se cansou antes? Ótimo. O método é para você. Sente-se confortavelmente. Diga o problema em voz alta. Depois pergunte: “E daí?” Responda honestamente. E de novo: “E daí?” Repita até que por dentro soe algo cansado, mas esclarecido: “No fundo, nada”. É aí que começa a aceitação. Não porque o problema desapareceu magicamente. Não porque
+> Pensamento de apoio 0013 O problema perde a coroa O problema não foi destruído. Mas o seu fausto, sim. Sentido Este pensamento mostra a aceitação não como uma bela pose espiritual, mas como a retirada ao problema de um poder dramático supérfluo. A situação pode permanecer, mas a pessoa deixa de a alimentar com a sua própria histeria. Texto completo A singular metodologia de aceitação da realidade tal como ela é, chamada «E depois?», permite livrar-se por si mesmo dos problemas mais insolúveis. O método é simples, cómodo de aplicar e não exige tapete especial, incenso, subscrição de uma maratona nem um retiro de três dias na montanha com pessoas que dizem a palavra «energia» com demasiada segurança. Então. Tem um problema? Tentou resolvê-lo, mas não conseguiu? Tentou muitas vezes? Tentou uma só vez? Não tentou de todo, mas já está cansado de antemão? Ótimo. A metodologia serve-lhe precisa
 
 ### pt/public/thoughts/arcs/0014-end-of-extra-war.html
 
 - lang: pt
 - section: public
 - title: Ashraellen — O fim da guerra desnecessária
-- description: Pensamento de apoio 0014: A concordância interior com o que é não é derrota. É o fim de uma guerra desnecessária.
+- description: Pensamento de apoio 0014: a concordância interior com o que é não é derrota. É o fim de uma guerra desnecessária.
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0014-end-of-extra-war.html
 - H1: O fim da guerra desnecessária
-- H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
+- H2: Sentido | Texto completo | Por que foi escolhido | Nota de investigação
 - H3: _missing_
-- suggested keyword seed: desnecessária, fim, guerra, que, ashraellen, com, interior, não, pensamento, public, 0014, apoio, arcs, completo, concordância, derrota, ela, end
-- candidates: não, que, com, guerra, desnecessária, fim, mas, pensamento, quem, ela, interior, porque, tudo, concordância, contra, derrota, evento, fato, por, sim, uma, 0014, ação, aconteceu
+- suggested keyword seed: desnecessária, fim, guerra, que, ashraellen, com, interior, não, pensamento, public, 0014, apoio, arcs, completo, concordância, derrota, end, escolhido
+- candidates: não, que, com, guerra, mas, desnecessária, fim, interior, pensamento, porque, quem, tudo, uma, acontecimento, aquilo, começa, contra, derrota, dor, facto, isto, realidade, sim, 0014
 
 Excerpt:
 
-> Pensamento de apoio 0014 O fim da guerra desnecessária A concordância interior com o que é não é derrota. É o fim de uma guerra desnecessária. Sentido O sofrimento cresce quando a pessoa luta não apenas contra a dor, mas contra o próprio fato de ela existir. Reconhecer a realidade não a torna agradável, mas devolve a possibilidade de ver o próximo passo. Texto completo Sofre quem resiste ao inevitável. Não quem sente dor. Não quem está cansado. Não quem caiu numa situação difícil. Mas quem, por dentro, continua discutindo com aquilo que já aconteceu ou acontece agora. “Isso não deveria ter acontecido.” “Isso não pode ser.” “Por que eu?” “Que tudo fique diferente imediatamente.” Então a pessoa sofre não só pela situação, mas pela guerra que trava contra ela. A realidade fica ao lado, calma e até um pouco cansada. Ela não discute. Ela simplesmente é. Tudo é como é. Não porque tudo seja bom
+> Pensamento de apoio 0014 O fim da guerra desnecessária O acordo interior com aquilo que é não é derrota. É o fim de uma guerra desnecessária. Sentido O sofrimento aumenta onde a pessoa luta não só contra a dor, mas contra o próprio facto de ela existir. Reconhecer a realidade não torna o que acontece agradável, mas devolve a possibilidade de ver o passo seguinte. Texto completo Sofre quem resiste ao inevitável. Não quem sente dor. Não quem está cansado. Não quem se viu numa situação difícil. Mas quem, por dentro, continua a discutir com aquilo que já aconteceu ou está a acontecer neste mesmo instante. «Isto não devia ter acontecido.» «Assim não pode ser.» «Porquê logo comigo?» «Que tudo mude imediatamente.» E a pessoa começa a sofrer já não apenas pela situação em si, mas pela sua guerra contra ela. E a realidade fica ao lado, calma e até um pouco cansada. Não discute. Simplesmente é. Tu
 
 ### pt/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
 
 - lang: pt
 - section: public
-- title: Ashraellen — Um pensamento sutil precisa de silêncio
-- description: Pensamento de apoio 0015: Um pensamento sutil não é obrigado a se tornar grosseiro para ser notado.
+- title: Ashraellen — Um pensamento subtil precisa de silêncio
+- description: Pensamento de apoio 0015: um pensamento subtil não é obrigado a tornar-se grosseiro para ser notado.
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
-- H1: Um pensamento sutil precisa de silêncio
-- H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
+- H1: Um pensamento subtil precisa de silêncio
+- H2: Sentido | Texto completo | Por que foi escolhido | Nota de investigação
 - H3: _missing_
-- suggested keyword seed: pensamento, sutil, ashraellen, grosseiro, não, notado, para, precisa, public, que, sentido, ser, silêncio, 0015, apoio, arcs, completo, compreensão
-- candidates: pensamento, não, sutil, compreensão, ser, vezes, para, que, sentido, grosseiro, nem, notado, obrigado, precisa, silêncio, tornar, uma, 0015, apoio, ashraellen, capacidade, delicadeza, demais, ele
+- suggested keyword seed: pensamento, subtil, ashraellen, não, por, precisa, public, que, sentido, ser, silêncio, 0015, apoio, arcs, completo, compreensão, escolhido, exige
+- candidates: não, pensamento, por, subtil, compreensão, que, vezes, mas, sentido, ser, exige, grosseira, grosseiro, nem, notado, para, silêncio, 0015, apoio, ashraellen, capacidade, com, como, complexidade
 
 Excerpt:
 
-> Pensamento de apoio 0015 Um pensamento sutil precisa de silêncio Um pensamento sutil não é obrigado a se tornar grosseiro para ser notado. Sentido Nem todo pensamento se abre a uma compreensão rápida e barulhenta. Alguns sentidos exigem delicadeza interior e a capacidade de esperar. Texto completo A sutileza do pensamento é feita para a sutileza da compreensão. Nem todo pensamento pode ser tomado de assalto. Há coisas que não se abrem a quem entra nelas com as botas de uma opinião pronta, a régua da lógica cotidiana e o martelo do “vamos lá, é tudo simples”. Não, nem tudo é simples. Às vezes um pensamento precisa de silêncio. Às vezes, de delicadeza interior. Às vezes, da capacidade de não agarrar o sentido pelo pescoço, mas ficar ao lado dele e deixá-lo aparecer. A compreensão grosseira sempre quer simplificar. A compreensão sutil sabe esperar. Ela não se apressa em chamar de tolo aquil
+> Pensamento de apoio 0015 Um pensamento subtil precisa de silêncio Um pensamento subtil não tem de se tornar grosseiro para ser notado. Sentido Nem todo o pensamento se abre a uma compreensão rápida e ruidosa. Alguns sentidos exigem delicadeza interior, a capacidade de esperar e de não converter o incompreendido em tolice só porque não coube logo na palma da mão. Texto completo A subtileza de um raciocínio conta com a subtileza da compreensão. Nem todo o pensamento se toma de assalto. Há coisas que não se abrem a quem irrompe por elas de botas, com a opinião já feita, a régua da lógica corrente e o martelo do «mas é tudo tão simples». Não, nem tudo é simples. Por vezes o pensamento exige silêncio. Por vezes — delicadeza interior. Por vezes — a capacidade de não agarrar o sentido logo pelo pescoço, mas de ficar ao lado e deixá-lo manifestar-se. A compreensão grosseira quer sempre simplific
 
 ### pt/public/thoughts/arcs/0016-one-fact.html
 
 - lang: pt
 - section: public
-- title: Ashraellen — Havia um fato
-- description: Pensamento de apoio 0016: Havia um fato. E sofrimento para três temporadas com continuação.
+- title: Ashraellen — Havia um facto
+- description: Pensamento de apoio 0016: havia um facto. E sofrimento para três temporadas, com continuação.
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0016-one-fact.html
-- H1: Havia um fato
-- H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
+- H1: Havia um facto
+- H2: Sentido | Texto completo | Por que foi escolhido | Nota de investigação
 - H3: _missing_
-- suggested keyword seed: fato, havia, ashraellen, com, pensamento, public, que, sofrimento, 0016, acontecimento, apoio, arcs, completo, continuação, então, escolhido, fact, foi
-- candidates: que, não, com, fato, então, havia, pensamento, acontecimento, mas, sofrimento, uma, vezes, alguém, ansiedade, continuação, interior, mente, para, por, temporadas, três, 0016, acrescente, algo
+- suggested keyword seed: facto, havia, ashraellen, com, pensamento, por, public, que, sofrimento, 0016, acontecimento, apoio, arcs, completo, continuação, então, escolhido, fact
+- candidates: que, não, com, facto, então, havia, pensamento, acontecimento, mas, por, sofrimento, vezes, alguém, ansiedade, continuação, correu, está, interior, mente, para, temporadas, três, 0016, acrescentes
 
 Excerpt:
 
-> Pensamento de apoio 0016 Havia um fato Havia um fato. E sofrimento para três temporadas com continuação. Sentido A mente muitas vezes sofre não pelo acontecimento, mas por tudo o que conseguiu acrescentar a ele. A pergunta “O que eu sei com certeza?” separa a realidade da série interior da ansiedade. Texto completo Não acrescente demais. Às vezes o acontecimento em si é pequeno: alguém não respondeu, alguém olhou de modo estranho, alguém falou pouco, algo não saiu conforme o plano. E então a mente entra em cena com o avental de trabalho de uma arquiteta de catástrofes. Ela rapidamente constrói novos andares, acende as luzes, pendura cortinas e instala ali medos, ressentimentos, suspeitas e algumas feridas antigas com residência permanente. Em cinco minutos, a pessoa já não tem uma situação, mas uma série interior inteira. Não respondeu — então está ofendido. Olhou estranho — então me jul
+> Pensamento de apoio 0016 Havia um facto Havia um facto. E sofrimento para três temporadas com continuação. Sentido A mente sofre muitas vezes não pelo acontecimento, mas por tudo o que se apressou a acrescentar-lhe. O regresso à pergunta «o que sei com certeza?» separa a realidade da série interior da ansiedade. Texto completo Não acrescentes demais. Às vezes o acontecimento em si é pequeno. Alguém não respondeu. Alguém olhou de lado. Alguém falou pouco. Algo não correu conforme o plano. O dia correu de maneira diferente da desejada. E é aqui que a mente entra em cena, com o avental de trabalho de um arquiteto de catástrofes. Rapidamente constrói novos andares. Instala a luz. Pendura cortinas. Realoja ali medos, ressentimentos, suspeitas e algumas feridas antigas, com residência permanente. Passados cinco minutos, a pessoa já não tem uma situação, mas uma série interior inteira. Não resp
 
 ### pt/public/thoughts/arcs/0017-witness-does-not-interfere.html
 
 - lang: pt
 - section: public
 - title: Ashraellen — A testemunha não interfere
-- description: Pensamento de apoio 0017: A testemunha não é quem nada faz. É quem não impede a verdade de se tornar visível antes do tempo.
+- description: Pensamento de apoio 0017: a testemunha não é quem nada faz. É quem não impede a verdade de se tornar visível antes do tempo.
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0017-witness-does-not-interfere.html
 - H1: A testemunha não interfere
-- H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
+- H2: Sentido | Texto completo | Por que foi escolhido | Nota de investigação
 - H3: _missing_
-- suggested keyword seed: não, testemunha, interfere, quem, antes, ashraellen, faz, pensamento, por, public, que, sentido, 0017, ainda, apoio, arcs, calma, completo
-- candidates: não, quem, testemunha, que, pensamento, ainda, calma, está, faz, por, sentido, antes, como, impede, nada, para, pessoa, tempo, tornar, verdade, vezes, visível, 0017, acontecimento
+- suggested keyword seed: não, testemunha, interfere, antes, ashraellen, pensamento, por, public, que, quem, sentido, tempo, 0017, ainda, apoio, aquele, arcs, completo
+- candidates: não, que, por, testemunha, antes, pensamento, tempo, aquele, mas, sentido, serenidade, ainda, apoio, com, faz, impede, nada, para, pessoa, porque, quem, tornar, verdade, vezes
 
 Excerpt:
 
-> Pensamento de apoio 0017 A testemunha não interfere A testemunha não é quem nada faz. É quem não impede a verdade de se tornar visível antes do tempo. Sentido A calma aqui não é passividade nem indiferença. É a capacidade de não empurrar a realidade com o ombro enquanto o sentido do acontecimento ainda está se abrindo. Texto completo A calma é um estado místico surpreendente. Nela, a pessoa é capaz de fazer coisas quase impensáveis. Por exemplo: não se agitar. Não correr para salvar o que ainda não está se afogando. Não explicar aquilo que ninguém perguntou. Não provar sua razão a quem veio não para ouvir, mas para vencer. Não agarrar a realidade pelo colarinho gritando: “Agora explique rapidamente o que está acontecendo!” A pessoa calma sabe esperar. Não por fraqueza. Não por indiferença. Não porque tanto faz. Mas porque vê: nem todo acontecimento precisa ser empurrado imediatamente em 
+> Pensamento de apoio 0017 A testemunha não interfere A testemunha não é aquele que nada faz. É aquele que não impede a verdade de se tornar visível antes do tempo. Sentido A serenidade aqui não é passividade nem indiferença, mas a capacidade de não empurrar a realidade com o ombro antes do tempo. A testemunha sabe esperar até que o sentido do acontecimento se manifeste por si. Texto completo A serenidade é um estado místico espantoso. Nele, a pessoa é capaz de fazer coisas absolutamente impensáveis. Por exemplo, não se agitar. Não se lançar a salvar com urgência aquilo que ainda não se está a afundar. Não explicar aquilo sobre que não a questionaram. Não provar a sua razão a quem veio não para ouvir, mas para vencer. Não agarrar a realidade pela gola aos gritos: «Vá, explica já o que se passa!» A pessoa serena sabe esperar. Não por fraqueza. Não por indiferença. Não porque lhe seja tudo i
 
 ### pt/public/thoughts/arcs/0018-image-cannot-be-happy.html
 
 - lang: pt
 - section: public
 - title: Ashraellen — Uma imagem não pode ser feliz
-- description: Pensamento de apoio 0018: Uma imagem pode receber reconhecimento. Mas não pode ser feliz.
+- description: Pensamento de apoio 0018: uma imagem pode receber reconhecimento. Mas não pode ser feliz.
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0018-image-cannot-be-happy.html
 - H1: Uma imagem não pode ser feliz
-- H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
+- H2: Sentido | Texto completo | Por que foi escolhido | Nota de investigação
 - H3: _missing_
-- suggested keyword seed: pode, imagem, não, ser, uma, feliz, ashraellen, mas, por, public, que, 0018, apoio, arcs, cannot, com, completo, correta
-- candidates: imagem, pode, não, uma, para, ser, mas, que, com, pessoa, por, correta, feliz, pergunta, autorrealização, pensamento, reconhecimento, sua, vive, como, dentro, espiritual, muito, parecer
+- suggested keyword seed: pode, imagem, não, ser, uma, feliz, ashraellen, mas, por, public, que, 0018, apoio, arcs, cannot, certa, com, completo
+- candidates: pode, imagem, não, para, com, mas, que, ser, uma, pessoa, por, certa, dentro, feliz, mais, pergunta, autorrealização, convincente, pensamento, reconhecimento, como, espiritual, muito, parecer
 
 Excerpt:
 
-> Pensamento de apoio 0018 Uma imagem não pode ser feliz Uma imagem pode receber reconhecimento. Mas não pode ser feliz. Sentido A pessoa pode passar anos construindo uma imagem convincente de si mesma, mas a imagem não vive em seu lugar. A autorrealização começa não com a pergunta sobre como parecer, mas com a pergunta sobre o que está vivo de verdade por dentro. Texto completo Muitas pessoas dedicam a vida a realizar o conceito daquilo que deveriam ser. Não a si mesmas. O conceito. A imagem. O papel. A figura. O cartaz interior com a inscrição: “É assim que devem me ver”. A pessoa pode passar anos construindo o rosto correto, a biografia correta, a espiritualidade correta, o sucesso correto, a modéstia correta, a força correta e até a dor correta, se ainda não há força suficiente. Por fora, tudo isso pode parecer muito convincente. Mas por dentro a pessoa viva fica em algum lugar ao lado
+> Pensamento de apoio 0018 Uma imagem não pode ser feliz Uma imagem pode receber reconhecimento. Mas não pode ser feliz. Sentido A pessoa pode passar anos a construir uma imagem convincente de si mesma, mas a imagem não vive no seu lugar. A verdadeira autorrealização começa não com a pergunta sobre como é preciso parecer, mas com a pergunta sobre o que há de verdadeiramente vivo por dentro. Texto completo Muitas pessoas dedicam a vida a realizar o conceito daquilo que deveriam ser. Não a si mesmas. Mas precisamente o conceito. A imagem. O papel. O quadro. Um cartaz interior com a inscrição: «É assim que devem ver-me». A pessoa pode passar anos a construir o rosto certo. A biografia certa. A espiritualidade certa. O êxito certo. A modéstia certa. A força certa. A dor certa, se para a força ainda não chega. E tudo isso pode parecer muito convincente. Visto de fora. Mas, por dentro, a pessoa 
 
 ### pt/public/thoughts/arcs/0019-do-not-bomb.html
 
 - lang: pt
 - section: public
-- title: Ashraellen — Não Bombardeie
-- description: Pensamento de apoio 0019: não bombardeie, e você não será bombardeado. Não Bombardeie Sentido Texto completo Por que foi escolhido Nota de pesquisa Pensamento de apoio 0019 Não Bombardeie Não bombardeie, e você não…
+- title: Ashraellen — Não Bombardeies
+- description: Pensamento de apoio 0019: não bombardeies, e não serás bombardeado.
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0019-do-not-bomb.html
-- H1: Não Bombardeie
-- H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
+- H1: Não Bombardeies
+- H2: Sentido | Texto completo | Por que foi escolhido | Nota de investigação
 - H3: _missing_
-- suggested keyword seed: não, bombardeie, pensamento, que, você, 0019, apoio, ashraellen, bombardeado, completo, escolhido, foi, nota, pesquisa, por, public, sentido, texto
-- candidates: não, que, bombardeie, pensamento, depois, mundo, uma, pessoa, primeiro, sempre, você, bombardeado, para, por, própria, será, 0019, apoio, até, com, como, nem, óbvio, qualquer
+- suggested keyword seed: não, bombardeies, ashraellen, bombardeado, pensamento, por, public, que, 0019, apoio, arcs, bomb, com, completo, depois, escolhido, foi, investigação
+- candidates: não, que, por, bombardeies, depois, mundo, pensamento, primeiro, com, pessoa, uma, bombardeado, sempre, serás, sua, até, eles, mais, mas, nem, óbvio, para, própria, qualquer
 
 Excerpt:
 
-> Pensamento de apoio 0019 Não Bombardeie Não bombardeie, e você não será bombardeado. Sentido A pessoa muitas vezes lança sua própria guerra no mundo e depois se surpreende quando até o silêncio ao redor começa a cheirar a pólvora. Este pensamento devolve a atenção ao que enviamos para fora sob os nomes de defesa, verdade ou reação necessária. Texto completo Não bombardeie, e você não será bombardeado. Um mandamento simples, ao que parece. Quase óbvio. Até óbvio demais para um mundo que gosta muito de ignorar primeiro o óbvio e depois limpar heroicamente as consequências. O ser humano é uma criatura estranha. Primeiro lança uma pedra no mundo. Depois se surpreende porque o mundo não lhe mandou um buquê de margaridas. Primeiro fala com dureza. Depois se ofende com a dureza. Primeiro quebra os limites do outro. Depois reclama que alguém chegou perto demais dos seus. Primeiro bombardeia. Dep
+> Pensamento de apoio 0019 Não Bombardeies Não bombardeies, e não serás bombardeado. Sentido A pessoa lança muitas vezes ao mundo a sua própria guerra e depois espanta-se de até o silêncio à sua volta começar a cheirar a pólvora. Este pensamento devolve a atenção ao que enviamos para fora sob a aparência de defesa, de verdade ou de reação forçada. Texto completo Não bombardeies, e não serás bombardeado. Um mandamento simples, ao que parece. Quase óbvio. Até óbvio de mais para um mundo que gosta muito de primeiro ignorar o óbvio e depois liquidar heroicamente as consequências. O ser humano é, de resto, uma criatura estranha. Primeiro atira uma pedra ao mundo. Depois espanta-se de o mundo, por alguma razão, não lhe ter enviado em troca um ramo de margaridas. Primeiro fala com dureza. Depois ofende-se com a dureza. Primeiro destrói as fronteiras alheias. Depois queixa-se de que alguém se apro
 
 ### pt/public/thoughts/arcs/0020-people-and-mass.html
 
 - lang: pt
 - section: public
 - title: Ashraellen — Povo e Massa
-- description: Pensamento de apoio 0020: um povo lembra. Uma massa reage. Povo e Massa Sentido Texto completo Por que foi escolhido Nota de pesquisa Pensamento de apoio 0020 Povo e Massa Um povo lembra. Uma massa reage. Sentido Um…
+- description: Pensamento de apoio 0020: um povo lembra-se. Uma massa reage.
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0020-people-and-mass.html
 - H1: Povo e Massa
-- H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
+- H2: Sentido | Texto completo | Por que foi escolhido | Nota de investigação
 - H3: _missing_
-- suggested keyword seed: massa, povo, lembra, pensamento, por, que, sentido, uma, 0020, apoio, ashraellen, completo, escolhido, foi, nota, pesquisa, public, reage
-- candidates: povo, massa, pessoa, que, uma, por, ela, pensamento, não, chamar, como, lembra, mas, pode, qualquer, quem, reage, 0020, apoio, corrente, está, memória, mim, para
+- suggested keyword seed: massa, povo, ashraellen, pensamento, por, public, que, uma, 0020, apoio, arcs, com, como, completo, corrente, ela, escolhido, foi
+- candidates: povo, massa, por, pessoa, que, uma, corrente, ela, não, pensamento, com, como, pode, qualquer, quem, está, lembra-se, memória, mim, pessoas, porque, própria, reage, 0020
 
 Excerpt:
 
-> Pensamento de apoio 0020 Povo e Massa Um povo lembra. Uma massa reage. Sentido Um povo é feito de rostos, memória, língua e vínculo interior. A massa surge onde a pessoa deixa de perguntar o que vê por si mesma e começa a reagir como parte de uma corrente. Texto completo Das conclusões tristes. Um povo não é simplesmente uma grande quantidade de pessoas. Um povo é memória. Língua. Ofício. Canto. Festa. Um gesto comum. Um modo de cumprimentar, de calar, de enterrar os mortos, de alegrar-se, de assar o pão, de contar histórias às crianças e de reconhecer os seus mesmo numa cidade estrangeira. Um povo é feito de pessoas. De rostos separados. Destinos. Famílias. Vozes. Mundos interiores vivos. Mas uma massa é outra coisa. A massa é um fluxo humano nervoso, fácil de excitar e igualmente fácil de assustar. Hoje está pronta para obedecer a qualquer atração, escutar qualquer gritador, seguir o p
+> Pensamento de apoio 0020 Povo e Massa Um povo lembra-se. Uma massa reage. Sentido Um povo é feito de rostos, memória, língua e ligação interior. A massa aparece onde a pessoa deixa de perguntar o que ela própria vê e começa a reagir como parte de uma corrente. Texto completo Das conclusões tristes. Um povo não é apenas uma grande quantidade de pessoas. Um povo é memória. Língua. Ofício. Canção. Festa. Gesto comum. Maneira de cumprimentar, de calar, de enterrar, de se alegrar, de cozer o pão, de contar histórias às crianças e de reconhecer os seus mesmo numa cidade estranha. Um povo compõe-se de pessoas. De rostos singulares. De destinos. De famílias. De vozes. De mundos interiores vivos. A massa já é outra coisa. A massa é uma corrente humana nervosa, fácil de excitar e igualmente fácil de assustar. Hoje está pronta a obedecer a qualquer atração, a escutar qualquer berrador, a seguir o p
 
 ### pt/public/thoughts/arcs/0021-mating-games.html
 
 - lang: pt
 - section: public
 - title: Ashraellen — Jogos de Acasalamento
-- description: Pensamento de apoio 0021: as relações muitas vezes começam pelo papel que já trouxemos conosco.
+- description: Pensamento de apoio 0021: as relações começam muitas vezes pelo papel que já trouxemos connosco.
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0021-mating-games.html
 - H1: Jogos de Acasalamento
-- H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
+- H2: Sentido | Texto completo | Por que foi escolhido | Nota de investigação
 - H3: _missing_
-- suggested keyword seed: acasalamento, que, ashraellen, começam, jogos, pensamento, por, public, relações, 0021, alguns, amor, apoio, arcs, com, completo, conosco, escolhido
-- candidates: outros, para, sobre, que, começam, pensamento, por, relações, acasalamento, com, alguns, amor, como, conosco, jogos, mas, muitas, outra, papel, pessoa, quem, roteiro, ser, trouxemos
+- suggested keyword seed: acasalamento, que, ashraellen, começam, jogos, public, 0021, apoio, arcs, com, completo, connosco, ela, ele, entre, escolhido, foi, games
+- candidates: que, para, ela, outros, sobre, com, ele, entre, jogam, uma, acasalamento, começam, pensamento, relações, amor, jogos, mais, mas, não, próprio, ser, como, connosco, corre
 
 Excerpt:
 
-> Pensamento de apoio 0021 Jogos de Acasalamento As relações raramente começam com outra pessoa. Mais frequentemente, começam com o papel que já trouxemos conosco. Sentido As relações muitas vezes parecem o encontro de duas pessoas, mas por dentro já trabalha um roteiro trazido antes: poder, piedade, salvação, fuga, prova de valor ou o direito de dizer outra vez: “eu sabia”. Texto completo Os jogos de acasalamento assumem formas diferentes. Para alguns, são sobre agressão. Para outros, sobre cuidado. Para outros, sobre amor. Para outros, sobre dinheiro. Para outros, sobre fidelidade. Para outros, sobre traição. Para outros, sobre o eterno “eu vou te salvar”, embora os dois já devessem ter sido salvos há muito tempo, de preferência separadamente. No fundo, tudo é como na natureza. Alguns pássaros trazem presentes. Outros dançam. Outros gritam pela floresta inteira para que todos entendam qu
+> Pensamento de apoio 0021 Jogos de Acasalamento As relações raramente começam com outra pessoa. Com mais frequência, começam com o papel que já trouxemos connosco. Sentido As relações parecem muitas vezes o encontro de duas pessoas, mas por dentro já trabalha um guião trazido de antemão: poder, piedade, salvação, fuga, confirmação do próprio valor ou o direito de voltar a dizer: «eu bem sabia». Texto completo Os jogos de acasalamento são variados. A Ira e o Oleg jogam ao «apanha-me, tijolo». Ele solta cabriolas agressivas, ela finge-se uma coitadinha indefesa. Ele rosna, ela sofre. Ele pressiona, ela sugere subtilmente ao mundo que voltou a cair nas garras do monstro, embora já há muito conheça o horário de alimentação dessa fera. A Ásia e o Petia jogam à «estação para três». E os terceiros mudam ali regularmente. Um parte, outro chega. Só a eterna cena no cais é invariável: ele tem press
 
 ### pt/public/thoughts/arcs/0022-spirituality-is-not-forced.html
 
 - lang: pt
 - section: public
 - title: Ashraellen — A Espiritualidade Não Se Impõe
-- description: Pensamento de apoio 0022: a verdadeira espiritualidade não se impõe. Ela encanta.
+- description: Pensamento de apoio 0022: a espiritualidade genuína não se impõe. Fica-se encantado por ela.
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0022-spirituality-is-not-forced.html
 - H1: A Espiritualidade Não Se Impõe
-- H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
+- H2: Sentido | Texto completo | Por que foi escolhido | Nota de investigação
 - H3: _missing_
-- suggested keyword seed: espiritualidade, impõe, não, ashraellen, pensamento, public, verdadeira, 0022, alma, apoio, arcs, com, completo, ela, encanta, escolhido, foi, forced
-- candidates: não, espiritualidade, pode, com, verdadeira, porque, uma, medo, alma, impõe, mas, pensamento, pessoa, por, viva, ela, fonte, que, caminho, começa, correção, encanta, exterior, gerar
+- suggested keyword seed: espiritualidade, impõe, não, por, ashraellen, genuína, pensamento, public, 0022, alma, apoio, arcs, com, completo, ela, encantado, escolhido, fica-se
+- candidates: não, pode, espiritualidade, com, porque, genuína, mas, medo, por, alma, impõe, pensamento, que, fonte, gerar, pessoa, uma, caminho, começa, correção, ela, encantado, exterior, fica-se
 
 Excerpt:
 
-> Pensamento de apoio 0022 A Espiritualidade Não Se Impõe A verdadeira espiritualidade não se impõe. Ela encanta. Sentido O medo pode produzir obediência, hábito e correção exterior, mas não uma ligação viva com a Fonte. A verdadeira espiritualidade começa não com ameaça, mas com reconhecimento. Texto completo A verdadeira espiritualidade não se impõe. Ela encanta. Não porque alguém chega com rosto severo, abre uma lista sagrada de proibições e informa a pessoa de que agora ela deve urgentemente tornar-se melhor, mais luminosa e mais conveniente para a contabilidade celeste. Não. A verdadeira espiritualidade não nasce do medo do castigo. O medo pode gerar obediência. Pode gerar hábito. Pode gerar correção exterior. Pode até ensinar uma pessoa a juntar as mãos de modo bonito e dizer as palavras certas no lugar certo. Mas o medo não gera uma relação viva com a Fonte. Gera cautela. E a alma n
+> Pensamento de apoio 0022 A Espiritualidade Não Se Impõe A espiritualidade genuína não se impõe. Fica-se encantado por ela. Sentido O medo pode gerar obediência, hábito e correção exterior, mas não uma ligação viva com a Fonte. A espiritualidade genuína começa não com a ameaça, mas com o reconhecimento. Texto completo A espiritualidade genuína não se impõe. Fica-se encantado por ela. Não porque alguém chegou com ar ameaçador, abriu uma lista sagrada de proibições e comunicou à pessoa que agora é obrigada a tornar-se com urgência melhor, mais luminosa e mais cómoda para a contabilidade celeste. Não. A verdadeira espiritualidade não nasce do medo do castigo. O medo pode gerar obediência. Pode gerar hábito. Pode gerar correção exterior. Pode até ensinar a pessoa a juntar as mãos com elegância e a dizer as palavras certas no lugar certo. Mas o medo não gera uma relação viva com a Fonte. Gera 
 
 ### pt/public/thoughts/arcs/0023-price-of-transition.html
 
 - lang: pt
 - section: public
 - title: Ashraellen — O Preço da Transição
-- description: Pensamento de apoio 0023: toda passagem para uma nova etapa é paga com uma crise.
+- description: Pensamento de apoio 0023: toda a passagem para uma nova etapa paga-se com uma crise.
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0023-price-of-transition.html
 - H1: O Preço da Transição
-- H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
+- H2: Sentido | Texto completo | Por que foi escolhido | Nota de investigação
 - H3: _missing_
-- suggested keyword seed: preço, uma, ashraellen, com, crise, para, pensamento, public, que, transição, 0023, apoio, arcs, completo, escolhido, etapa, foi, mais
-- candidates: com, uma, crise, não, para, que, papel, própria, mesmo, pensamento, preço, mais, mas, nova, paga, passagem, por, como, estar, etapa, modo, outro, sair, sem
+- suggested keyword seed: uma, ashraellen, com, crise, para, pensamento, por, preço, public, que, transição, 0023, apoio, arcs, como, completo, escolhido, etapa
+- candidates: com, uma, que, crise, não, mais, para, como, papel, por, mas, pensamento, preço, própria, tem, etapa, nova, paga-se, passagem, sua, anos, diante, entrar, está
 
 Excerpt:
 
-> Pensamento de apoio 0023 O Preço da Transição Toda passagem para uma nova etapa é paga com uma crise. Sentido A crise nem sempre é uma falha. Às vezes é o preço da transição: sair de um papel antigo, conquistar liberdade, encontrar a própria forma e mover-se para onde a velha lenda sobre si mesmo já não se sustenta. Texto completo Toda passagem para uma nova etapa é paga com uma crise. De um modo ou de outro. A originalidade é paga com vergonha. A saída da codependência — com ruptura. O nascimento — com dor. A proximidade — com compromissos. A liberdade — com solidão. E assim por diante. Tudo tem seu preço. Se a pessoa permanece tempo demais num papel que já se esgotou, começa a deslizar silenciosamente para a falência emocional. Já não há forças. Não há motivos. Não há interesse. Não há fogo interior. Ela continua a mover-se, falar e cumprir ações conhecidas, mas por dentro seu papel já
+> Pensamento de apoio 0023 O Preço da Transição Toda a passagem para uma nova etapa paga-se com uma crise. Sentido A crise nem sempre é uma avaria. Por vezes é o preço da passagem: da saída de um papel antigo, da liberdade, da autenticidade, do movimento para onde a velha lenda sobre si próprio já não se aguenta. Texto completo Toda a passagem para uma nova etapa paga-se com uma crise. De uma maneira ou de outra. A autenticidade paga-se com vergonha. A saída da codependência, com uma rutura. O nascimento, com dor. A proximidade, com compromissos. A liberdade, com solidão. E assim por diante. Tudo tem o seu preço. Se a pessoa se demorou num papel que já se esgotou, começa a deslizar devagarinho para a falência emocional. Já não tem forças. Não tem motivos. Não tem interesse. Não tem fogo interior. Continua a mover-se, a falar, a executar os gestos habituais, mas por dentro o papel há muito 
 
 ### pt/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
 
 - lang: pt
 - section: public
 - title: Ashraellen — O Verdadeiro Inimigo
-- description: Pensamento de apoio 0024: o verdadeiro inimigo da pessoa não é a ignorância, mas a certeza de que já sabe o bastante.
+- description: Pensamento de apoio 0024: o verdadeiro inimigo do ser humano não é a ignorância, mas a certeza de que já sabe o suficiente.
 - canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0024-true-enemy-not-ignorance.html
 - H1: O Verdadeiro Inimigo
-- H2: Sentido | Texto completo | Por que foi escolhido | Nota de pesquisa
+- H2: Sentido | Texto completo | Por que foi escolhido | Nota de investigação
 - H3: _missing_
-- suggested keyword seed: inimigo, verdadeiro, que, ashraellen, certeza, ignorância, mas, não, pessoa, public, sabe, 0024, apoio, arcs, bastante, com, completo, ela
-- candidates: não, que, ignorância, sabe, mas, pessoa, certeza, com, inimigo, pode, verdadeiro, ela, sua, uma, mais, pensamento, ainda, conhecimento, medo, mundo, vazio, 0024, admissão, apoio
+- suggested keyword seed: inimigo, verdadeiro, que, ashraellen, certeza, ignorância, mas, não, public, sabe, ser, 0024, apoio, arcs, completo, enemy, escolhido, foi
+- candidates: não, que, ignorância, mas, sua, uma, certeza, sabe, inimigo, pode, ser, verdadeiro, com, saber, humano, mais, pensamento, por, 0024, ainda, confissão, medo, mundo, quem
 
 Excerpt:
 
-> Pensamento de apoio 0024 O Verdadeiro Inimigo O verdadeiro inimigo da pessoa não é a sua ignorância. É a certeza de que ela já sabe o bastante. Sentido A ignorância ainda pode aprender se conhece o próprio vazio. Mais perigosa não é a ausência de conhecimento, mas a certeza fechada que já não olha, não escuta e não duvida. Texto completo O verdadeiro inimigo da pessoa não é a sua ignorância. A ignorância, por si só, ainda não é uma catástrofe. Ela é honesta. Ela simplesmente não sabe. E quem não sabe e compreende que não sabe ainda pode perguntar. Pode parar. Pode escutar. Pode um dia ver que o mundo era mais amplo que a certeza de ontem. Muito mais perigoso é outra coisa. Mais perigosa é a pessoa que não sabe, mas já está certa. Certa de suas conclusões. De suas ofensas. De sua razão. De sua imagem do mundo, montada de rumores, medo, explicações convenientes e algumas antigas feridas qu
+> Pensamento de apoio 0024 O Verdadeiro Inimigo O verdadeiro inimigo do ser humano não é a sua ignorância. Mas a certeza de que já sabe o suficiente. Sentido A ignorância ainda pode aprender, se souber do seu vazio. Mais perigosa não é a falta de saber, mas a certeza fechada, que já não olha, não escuta e não duvida. Texto completo O verdadeiro inimigo do ser humano não é a sua ignorância. A ignorância, por si só, ainda não é desgraça. É honesta. Simplesmente não sabe. E quem não sabe e compreende que não sabe ainda pode perguntar. Pode parar. Pode pôr-se a escutar. Pode um dia ver que o mundo era mais largo do que a sua certeza de ontem. Muito mais perigoso é outro caso. Mais perigoso é o homem que não sabe, mas já tem certezas. Certeza das suas conclusões. Das suas mágoas. Da sua razão. Da sua imagem do mundo, montada de boatos, de medo, de explicações cómodas e de um par de feridas anti
 
 ### pt/public/thoughts/index-0001.html
 
@@ -11893,99 +11893,99 @@ Excerpt:
 - description: Primeiro arco de pensamentos de apoio Ashraellen: alegria, antigas forças, despertar, finitude, medo e visão.
 - canonical: https://www.ashraellen.com/pt/public/thoughts/index-0001.html
 - H1: Primeiro arco de pensamentos de apoio
-- H2: A alegria como diagnóstico da pessoa | As mesmas forças, novos nomes | O despertar começa onde já não se pode continuar | A finitude desperta a pergunta | O medo como mecanismo de controle | Um olhar mais profundo reúne a vida
+- H2: A alegria como diagnóstico da pessoa | As mesmas forças, novos nomes | O despertar começa onde já não se pode continuar | A finitude desperta a pergunta | O medo como mecanismo de controlo | Um olhar mais profundo reúne a vida
 - H3: _missing_
-- suggested keyword seed: apoio, arco, ashraellen, pensamentos, alegria, despertar, forças, medo, primeiro, antigas, como, finitude, mais, public, abrir, começa, continuar, controle
+- suggested keyword seed: apoio, arco, ashraellen, pensamentos, alegria, despertar, forças, medo, primeiro, antigas, como, finitude, mais, public, abrir, começa, continuar, controlo
 - candidates: pensamento, apoio, abrir, arco, pensamentos, forças, mais, medo, alegria, antigas, ashraellen, despertar, finitude, não, pessoa, primeiro, reúne, 0001, começa, como, nomes, olhar, onde, pode
 
 Excerpt:
 
-> Pensamentos de apoio ARCO 0001 Primeiro arco de pensamentos de apoio Alegria, antigas forças, despertar, finitude, medo e visão. Este arco reúne os seis primeiros pensamentos de apoio do campo público Ashraellen. Cada pensamento é aberto separadamente: por uma fórmula forte, texto completo, sentido, motivo da escolha e nota de pesquisa. Pensamento de apoio 0001 A alegria como diagnóstico da pessoa O riso muitas vezes revela a pessoa com mais precisão do que discursos corretos. Abrir pensamento → Pensamento de apoio 0002 As mesmas forças, novos nomes As antigas forças não desapareceram. Apenas receberam nomes modernos. Abrir pensamento → Pensamento de apoio 0003 O despertar começa onde já não se pode continuar A virada interior começa onde o caminho antigo já não pode prosseguir. Abrir pensamento → Pensamento de apoio 0004 A finitude desperta a pergunta Muitos começam a pensar quando suas
+> Pensamentos de apoio ARCO 0001 Primeiro arco de pensamentos de apoio Alegria, antigas forças, despertar, finitude, medo e visão. Este arco reúne os seis primeiros pensamentos de apoio do campo público de Ashraellen. Cada pensamento é aberto separadamente: por uma fórmula forte, texto completo, sentido, motivo da escolha e nota de investigação. Pensamento de apoio 0001 A alegria como diagnóstico da pessoa O riso muitas vezes revela a pessoa com mais precisão do que discursos corretos. Abrir pensamento → Pensamento de apoio 0002 As mesmas forças, novos nomes As antigas forças não desapareceram. Apenas receberam nomes modernos. Abrir pensamento → Pensamento de apoio 0003 O despertar começa onde já não se pode continuar A viragem interior começa onde o caminho antigo já não pode prosseguir. Abrir pensamento → Pensamento de apoio 0004 A finitude desperta a pergunta Muitos começam a pensar qua
 
 ### pt/public/thoughts/index-0002.html
 
 - lang: pt
 - section: public
 - title: Ashraellen — Arco 0002 — PT
-- description: Segundo arco de pensamentos de apoio Ashraellen. Segundo arco de pensamentos de apoio A Cadeira Vazia Generalização em vez de observação Onde a vida parou A Xícara Suja Não se arrependa Quando fechar o livro…
+- description: Segundo arco de pensamentos de apoio Ashraellen. Segundo arco de pensamentos de apoio A Cadeira Vazia Generalização em vez de observação Onde deixaste de estar vivo A Chávena Suja Não te arrependas Quando fechar o livro…
 - canonical: https://www.ashraellen.com/pt/public/thoughts/index-0002.html
 - H1: Segundo arco de pensamentos de apoio
-- H2: A Cadeira Vazia | Generalização em vez de observação | Onde a vida parou | A Xícara Suja | Não se arrependa | Quando fechar o livro
+- H2: A Cadeira Vazia | Generalização em vez de observação | Onde deixaste de estar vivo | A Chávena Suja | Não te arrependas | Quando fechar o livro
 - H3: _missing_
-- suggested keyword seed: arco, apoio, pensamentos, segundo, ashraellen, generalização, não, observação, quando, xícara, 0002, arrependa, cadeira, fechar, livro, onde, parou, public
-- candidates: pensamento, apoio, arco, abrir, não, observação, pensamentos, generalização, quando, segundo, xícara, 0002, arrependa, ashraellen, cadeira, despertar, fechar, livro, onde, parou, perda, suja, vazia, vez
+- suggested keyword seed: arco, apoio, ashraellen, pensamentos, chávena, generalização, não, observação, onde, segundo, arrependas, cadeira, deixaste, estar, fechar, livro, public, quando
+- candidates: pensamento, apoio, arco, não, abrir, chávena, observação, pensamentos, por, generalização, onde, ashraellen, cadeira, deixaste, despertar, estar, fechar, livro, perda, que, segundo, suja, vazia, vez
 
 Excerpt:
 
-> Pensamentos de apoio ARCO 0002 Segundo arco de pensamentos de apoio Memória, observação, despertar, perda e o limite da literatura espiritual. Pensamento de apoio 0007 A Cadeira Vazia Algumas pessoas não partem completamente. Abrir pensamento → Pensamento de apoio 0008 Generalização em vez de observação A generalização se torna perigosa quando substitui a observação. Abrir pensamento → Pensamento de apoio 0009 Onde a vida parou Despertar é ver o lugar da parada interior. Abrir pensamento → Pensamento de apoio 0010 A Xícara Suja Correr em círculos não limpa a xícara. Abrir pensamento → Pensamento de apoio 0011 Não se arrependa Às vezes a misericórdia parece perda. Abrir pensamento → Pensamento de apoio 0012 Quando fechar o livro Em certo momento, o caminho continua no silêncio. Abrir pensamento → ← Terceiro arco Primeiro arco → — mark of presence
+> Pensamentos de apoio ARCO 0002 Segundo arco de pensamentos de apoio Memória, observação, despertar, fuga da chávena, a graça da perda e o limite da literatura espiritual. Este arco reúne a segunda meia dúzia de pensamentos de apoio do campo público de Ashraellen. Aqui a memória, a observação e o despertar passam por imagens concretas: a cadeira vazia, o perigo da generalização, a chávena suja, a perda, o sonho que não se cumpriu e o momento em que é hora de fechar o livro. Pensamento de apoio 0007 A Cadeira Vazia Algumas pessoas não partem por completo. Simplesmente deixam de se sentar ao lado. Abrir pensamento → Pensamento de apoio 0008 Generalização em vez de observação A generalização torna-se perigosa onde substitui a observação. Abrir pensamento → Pensamento de apoio 0009 Onde deixaste de estar vivo Por vezes despertar é ver, pela primeira vez, onde deixaste de estar vivo. Abrir pen
 
 ### pt/public/thoughts/index.html
 
 - lang: pt
 - section: public
 - title: Ashraellen — Terceiro arco de pensamentos de apoio
-- description: Terceiro arco dos pensamentos de apoio de Ashraellen: o problema perde a coroa, termina a guerra desnecessária, pensamento sutil, um fato, testemunha e imagem.
+- description: Terceiro arco dos pensamentos de apoio de Ashraellen: o problema perde a coroa, termina a guerra desnecessária, pensamento subtil, um facto, testemunha e imagem.
 - canonical: https://www.ashraellen.com/pt/public/thoughts/
 - H1: Terceiro arco de pensamentos de apoio
-- H2: O problema perde a coroa | O fim da guerra desnecessária | Um pensamento sutil precisa de silêncio | Havia um fato | A testemunha não interfere | Uma imagem não pode ser feliz
+- H2: O problema perde a coroa | O fim da guerra desnecessária | Um pensamento subtil precisa de silêncio | Havia um facto | A testemunha não interfere | Uma imagem não pode ser feliz
 - H3: _missing_
-- suggested keyword seed: apoio, arco, pensamentos, ashraellen, desnecessária, fato, guerra, imagem, não, pensamento, problema, terceiro, coroa, perde, public, sutil, testemunha, abrir
-- candidates: pensamento, apoio, não, abrir, arco, fato, imagem, pensamentos, desnecessária, guerra, problema, sua, sutil, testemunha, ashraellen, com, coroa, fim, interior, perde, pode, ser, terceiro, uma
+- suggested keyword seed: apoio, arco, pensamentos, ashraellen, desnecessária, facto, guerra, imagem, não, pensamento, problema, terceiro, coroa, perde, public, subtil, testemunha, abrir
+- candidates: pensamento, apoio, não, abrir, arco, facto, imagem, pensamentos, desnecessária, guerra, problema, sua, subtil, testemunha, ashraellen, com, coroa, fim, interior, perde, pode, ser, terceiro, uma
 
 Excerpt:
 
-> Pensamentos de apoio ARCO 0003 Terceiro arco de pensamentos de apoio Aceitação do fato, fim da guerra desnecessária, sutileza da compreensão, retorno à realidade, testemunho sereno e distinção entre a pessoa e sua imagem. Este arco reúne a terceira série de seis pensamentos de apoio do campo público de Ashraellen. Aqui o problema perde sua coroa, a discussão interior com a realidade termina, o pensamento sutil pede silêncio, o fato se separa do seriado interior, a testemunha não interfere e a pessoa viva se separa de sua própria imagem. Pensamento de apoio 0013 O problema perde a coroa O problema não foi destruído. Mas sua pompa, sim. Abrir pensamento → Pensamento de apoio 0014 O fim da guerra desnecessária A concordância interior com o que é não é derrota. É o fim de uma guerra desnecessária. Abrir pensamento → Pensamento de apoio 0015 Um pensamento sutil precisa de silêncio Um pensamen
+> Pensamentos de apoio ARCO 0003 Terceiro arco de pensamentos de apoio Aceitação do facto, fim da guerra desnecessária, subtileza da compreensão, regresso à realidade, testemunho sereno e distinção entre a pessoa e a sua imagem. Este arco reúne a terceira série de seis pensamentos de apoio do campo público de Ashraellen. Aqui o problema perde a sua coroa, a discussão interior com a realidade termina, o pensamento subtil pede silêncio, o facto separa-se da série interior, a testemunha não interfere e a pessoa viva separa-se da sua própria imagem. Pensamento de apoio 0013 O problema perde a coroa O problema não foi destruído. Mas a sua pompa, sim. Abrir pensamento → Pensamento de apoio 0014 O fim da guerra desnecessária A concordância interior com o que é não é derrota. É o fim de uma guerra desnecessária. Abrir pensamento → Pensamento de apoio 0015 Um pensamento subtil precisa de silêncio U
 
 ### pt/research/archive/index.html
 
 - lang: pt
 - section: research
-- title: Ashraellen — Arquivo de pesquisa
-- description: Arquivo de materiais de pesquisa de Ashraellen: versões concluídas, camadas anteriores, rastros do caminho e materiais que já não fazem parte do processo vivo.
+- title: Ashraellen — Arquivo de investigação
+- description: Arquivo de materiais de investigação de Ashraellen: versões concluídas, camadas anteriores, rastros do caminho e materiais que já não fazem parte do processo vivo.
 - canonical: https://www.ashraellen.com/pt/research/archive/
 - H1: Arquivo
-- H2: A pesquisa ainda está em movimento
+- H2: A investigação ainda está em movimento
 - H3: _missing_
-- suggested keyword seed: arquivo, ashraellen, pesquisa, materiais, ainda, camadas, caminho, concluídas, não, que, research, vivo, anteriores, archive, está, fazem, movimento, para
-- candidates: arquivo, para, ainda, materiais, não, pesquisa, que, ashraellen, vivo, camadas, caminho, concluídas, estão, livros, parte, por, processo, rastros, versões, vídeos, anteriores, antigos, aqui, aquilo
+- suggested keyword seed: arquivo, ashraellen, investigação, materiais, ainda, camadas, caminho, concluídas, não, que, research, vivo, anteriores, archive, está, fazem, movimento, para
+- candidates: arquivo, para, ainda, investigação, materiais, não, que, ashraellen, vivo, camadas, caminho, concluídas, estão, livros, parte, por, processo, rastros, versões, vídeos, anteriores, antigos, aqui, aquilo
 
 Excerpt:
 
-> Arquivo O arquivo não é um lixão de materiais antigos nem um cemitério de tentativas fracassadas. É um lugar para camadas concluídas: versões, rastros, materiais e formulações que já não estão em trabalho vivo, mas permanecem significativas como parte do caminho. vazio por enquanto A pesquisa ainda está em movimento Os projetos, textos e observações de Ashraellen ainda estão em um processo vivo. Eles mudam, tornam-se mais precisos, passam de publicações para vídeos, de vídeos para livros, e dos livros novamente para novas fórmulas e perguntas. Por isso ainda é cedo para enviá-los ao arquivo. Aquilo que ainda respira não deve ser trancado numa vitrine. Que termine de falar primeiro. Quando uma camada de pesquisa estiver concluída e for digna de preservação, viverá aqui. — mark of presence
+> Arquivo O arquivo não é um lixão de materiais antigos nem um cemitério de tentativas fracassadas. É um lugar para camadas concluídas: versões, rastros, materiais e formulações que já não estão em trabalho vivo, mas permanecem significativas como parte do caminho. vazio por enquanto A investigação ainda está em movimento Os projetos, textos e observações de Ashraellen ainda estão em um processo vivo. Eles mudam, tornam-se mais precisos, passam de publicações para vídeos, de vídeos para livros, e dos livros novamente para novas fórmulas e perguntas. Por isso ainda é cedo para enviá-los ao arquivo. Aquilo que ainda respira não deve ser trancado numa vitrine. Que termine de falar primeiro. Quando uma camada de investigação estiver concluída e for digna de preservação, viverá aqui. — mark of presence
 
 ### pt/research/index.html
 
 - lang: pt
 - section: research
-- title: Ashraellen — Pesquisa
-- description: Ashraellen é um modo de ver e uma pesquisa artístico-filosófica do sentido ao longo de uma vida: observação de como o ser humano perde contato com a realidade, o sentido e a liberdade interior.
+- title: Ashraellen — Investigação
+- description: Ashraellen é um modo de ver e uma investigação artístico-filosófica do sentido ao longo de uma vida: observação de como o ser humano perde contacto com a realidade, o sentido e a liberdade interior.
 - canonical: https://www.ashraellen.com/pt/research/
-- H1: Pesquisa
-- H2: O que é investigado | Como isso é feito | Forma fragmentária, pesquisa contínua | Método | Como entender este trabalho | Pesquisa artística | Conhecimento aberto | Sociedade digital
+- H1: Investigação
+- H2: O que é investigado | Como isso é feito | Forma fragmentária, investigação contínua | Método | Como entender este trabalho | Investigação artística | Conhecimento aberto | Sociedade digital
 - H3: _missing_
-- suggested keyword seed: pesquisa, ashraellen, como, sentido, uma, observação, que, research, aberto, abrir, artística, artístico-filosófica, com, conhecimento, contato, contínua, digital, entender
-- candidates: uma, como, que, não, pesquisa, mas, sentido, ashraellen, por, observação, abrir, onde, para, digital, pessoa, dentro, modo, são, sistema, trabalho, com, forma, pode, própria
+- suggested keyword seed: investigação, ashraellen, como, sentido, uma, observação, que, research, aberto, abrir, artística, artístico-filosófica, com, conhecimento, contacto, contínua, digital, entender
+- candidates: uma, como, investigação, que, não, mas, sentido, ashraellen, por, observação, abrir, onde, para, digital, pessoa, dentro, modo, são, ser, sistema, trabalho, com, forma, pode
 
 Excerpt:
 
-> Pesquisa Ashraellen não é apenas um nome, mas um modo de ver. É um modo de consciência em que o mundo é percebido não como um conjunto de acontecimentos, pensamentos e reações separados, mas como uma teia de sentidos, relações, nós e reflexos. Nesse modo, um sentido abre outro: o pessoal se liga ao social, o cotidiano ao simbólico, o espiritual à linguagem, o medo à crença, a dor à visão de mundo, e uma frase casual pode revelar uma camada inteira de autoengano humano. Ashraellen é uma pesquisa artístico-filosófica do sentido ao longo de uma vida. Ela não nasce do desejo de produzir textos, livros, vídeos ou formatos de mídia, mas de um modo específico de funcionamento da consciência: a capacidade de perceber sentidos dentro de sentidos, estruturas dentro de estruturas e entrelaçamentos onde, na superfície, parece haver apenas um pensamento isolado, uma frase casual, uma cena cotidiana o
+> Investigação Ashraellen não é apenas um nome, mas um modo de ver. É um modo de consciência em que o mundo é percebido não como um conjunto de acontecimentos, pensamentos e reações separados, mas como uma teia de sentidos, relações, nós e reflexos. Nesse modo, um sentido abre outro: o pessoal se liga ao social, o cotidiano ao simbólico, o espiritual à linguagem, o medo à crença, a dor à visão de mundo, e uma frase casual pode revelar uma camada inteira de autoengano humano. Ashraellen é uma investigação artístico-filosófica do sentido ao longo de uma vida. Ela não nasce do desejo de produzir textos, livros, vídeos ou formatos de mídia, mas de um modo específico de funcionamento da consciência: a capacidade de perceber sentidos dentro de sentidos, estruturas dentro de estruturas e entrelaçamentos onde, na superfície, parece haver apenas um pensamento isolado, uma frase casual, uma cena cot
 
 ### pt/research/method/index.html
 
 - lang: pt
 - section: research
 - title: Ashraellen — Método de Observação
-- description: O método de observação de Ashraellen: registro de nós de sentido, forma artística como instrumento de pesquisa e verificação pelo reconhecimento.
+- description: O método de observação de Ashraellen: registo de nós de sentido, forma artística como instrumento de investigação e verificação pelo reconhecimento.
 - canonical: https://www.ashraellen.com/pt/research/method/
-- H1: Método de Observação
-- H2: O nó de sentido | Campo de pesquisa | Como a observação aparece | Observação em primeira pessoa | Por que a forma artística | Formas como instrumentos | Verificação | O que não há aqui
-- H3: I. Posição inicial | II. Objeto | III. Por que não apenas texto acadêmico | IV. Forma como instrumento | V. Verificação | VI. O que não há aqui | VII. Posição
-- suggested keyword seed: observação, ashraellen, como, método, que, artística, forma, não, pesquisa, por, research, sentido, verificação, aparece, aqui, campo, dentro, formas
-- candidates: não, que, uma, mecanismo, por, como, ser, observação, mas, método, ashraellen, dentro, experiência, forma, sentido, está, momento, pelo, pesquisa, pessoa, reação, reconhecimento, aqui, com
+- H1: Método de observação
+- H2: O nó de sentido | Campo de investigação | Como surge a observação | Observação na primeira pessoa | Porquê a forma artística | Formas como instrumentos | Verificação | O que aqui não há
+- H3: I. Posição inicial | II. Objeto | III. Porque não apenas texto académico | IV. A forma como instrumento | V. Verificação | VI. O que aqui não há | VII. Posição
+- suggested keyword seed: observação, ashraellen, como, método, forma, artística, investigação, não, pessoa, que, research, sentido, verificação, aqui, campo, experiência, formas, instrumento
+- candidates: não, que, uma, mecanismo, mas, como, método, observação, ashraellen, pessoa, experiência, forma, investigação, pela, reação, dentro, sentido, leitor, material, momento, numa, pelo, pode, por
 
 Excerpt:
 
-> Método de Observação O método de Ashraellen é a observação e o registro de nós de sentido. Ele não começa com uma tese a ser provada nem com um sistema a ser construído. Começa no momento em que, dentro de uma experiência, uma frase, uma reação, uma cena, um medo, uma dor ou uma coincidência, um nó de sentido começa a aparecer. O nó de sentido Esse nó não pode ser simplesmente explicado depressa. Se for explicado cedo demais, transforma-se numa ideia plana e perde sua estrutura viva. A tarefa do método não é capturar o sentido e declará-lo verdade, mas sustentá-lo por tempo suficiente para ver como ele se conecta a outros níveis. Ashraellen trabalha com aquilo que pode ser chamado de teia de sentido: um nó leva a outro; o pessoal se liga ao social; o cotidiano ao simbólico; o linguístico ao espiritual; o medo à crença; a dor à visão de mundo. O autor está presente nesse processo não como
+> Método de observação O método de Ashraellen é a observação e o registo de nós de sentido. Não começa com uma tese que é preciso provar, nem com um sistema que é preciso construir. Começa no momento em que, numa experiência, numa frase, numa reação, numa cena, num medo, numa dor ou numa coincidência casual, se desenha um nó de sentido. O nó de sentido Um nó assim não se explica depressa. Se for explicado cedo de mais, transforma-se num pensamento chato e perde a sua estrutura viva. A tarefa do método não é agarrar o sentido e declará-lo verdade, mas retê-lo durante tempo suficiente para ver como se liga aos outros níveis. Ashraellen trabalha com aquilo a que se pode chamar a teia do sentido: um nó conduz a outro; o pessoal liga-se ao social; o quotidiano, ao simbólico; o linguístico, ao espiritual; o medo, à convicção; a dor, à visão do mundo. O autor está presente neste processo não como
 
 ### pt/research/notes/index.html
 
@@ -12012,20 +12012,20 @@ Excerpt:
 - description: A posição de Ashraellen: uma formulação pública sobre a Realidade, a aceitação, a liberdade humana, a religião, o Criador, a compreensão sem coerção e a responsabilidade.
 - canonical: https://www.ashraellen.com/pt/research/position/
 - H1: Posição de Ashraellen
-- H2: Realidade: aceitação não é aprovação | Agir sem guerrear contra a Realidade | O caminho de outra pessoa | Religiões e sistemas históricos | Recusa do messianismo | O ser humano como ponto de rádio | Responsabilidade | Não é um sistema definitivo
+- H2: Realidade: aceitar não é aprovar | Agir sem fazer guerra à Realidade | O caminho de outra pessoa | Religiões e sistemas históricos | Recusa do messianismo | O ser humano como ponto de rádio | Responsabilidade | Investigação sem ponto final
 - H3: _missing_
-- suggested keyword seed: ashraellen, realidade, não, posição, aceitação, pessoa, ponto, research, responsabilidade, sem, uma, agir, aprovação, caminho, coerção, com, como, compreensão
-- candidates: não, que, uma, ashraellen, sua, pessoa, por, com, mas, pode, ponto, realidade, pela, própria, rádio, interior, seu, como, ele, entendimento, entre, sem, criador, para
+- suggested keyword seed: ashraellen, ponto, posição, realidade, sem, compreensão, não, research, responsabilidade, uma, aceitação, aceitar, agir, aprovar, caminho, coerção, com, como
+- candidates: não, que, uma, sua, ashraellen, por, compreensão, mas, ponto, com, pela, pode, própria, pessoa, rádio, realidade, ser, interior, para, como, entre, criador, posição, sem
 
 Excerpt:
 
-> Ashraellen Posição de Ashraellen Ashraellen trabalha como pesquisador artístico independente. Seu campo de observação é a experiência humana interior: como uma pessoa percebe o que acontece, cria explicações, toma uma interpretação pela própria Realidade e perde o contato com a Realidade, o sentido, a liberdade interior e a própria presença. Literatura, filosofia, religião, linguagem, imagem, som e reação pública são usados neste trabalho não como provas de um sistema pronto, mas como modos de pesquisa. Ensinamentos religiosos e filosóficos, assim como relatos de experiências transcendentes, são considerados modelos do encontro humano com a Realidade — importantes, às vezes profundos, mas não idênticos à Realidade em toda a sua plenitude. Esta posição não é oferecida ao leitor como doutrina obrigatória. É o ponto de vista e de pesquisa a partir do qual Ashraellen observa, escreve e age. 
+> Ashraellen Posição de Ashraellen Ashraellen trabalha como investigador artístico independente. O campo da sua observação é a experiência humana interior: a maneira como a pessoa perceciona o que acontece, cria explicações, toma a interpretação pela própria Realidade, perde o contacto com a Realidade, com o sentido, com a liberdade interior e com a sua própria presença. A literatura, a filosofia, a religião, a língua, a imagem, o som e a reação pública são usados neste trabalho não como provas de um sistema acabado, mas como modos de investigação. Os ensinamentos religiosos e filosóficos, bem como as descrições da experiência transcendente, são considerados modelos do encontro do ser humano com a Realidade — importantes, por vezes profundos, mas não idênticos à própria Realidade em toda a sua plenitude. Esta posição não é oferecida ao leitor como doutrina obrigatória. É um ponto de vista,
 
 ### pt/research/projects/index.html
 
 - lang: pt
 - section: research
-- title: Ashraellen — Projetos de pesquisa
+- title: Ashraellen — Projetos de investigação
 - description: Mapa atualizado dos campos de investigação e artísticos de Ashraellen: SEVEN, VOICEPRINT, MY MEMORY, WHISPER, MONOLITH, prática pública, sátira e laboratórios laterais.
 - canonical: https://www.ashraellen.com/pt/research/projects/
 - H1: Projetos
@@ -12046,14 +12046,14 @@ Excerpt:
 - description: Fontes e tradição de Ashraellen: fenomenologia da consciência, corpo, narrativa, ciência cognitiva e prática artística.
 - canonical: https://www.ashraellen.com/pt/research/sources/
 - H1: Fontes e tradição
-- H2: Edmund Husserl — a experiência antes das explicações prontas | Maurice Merleau-Ponty — o corpo como primeiro lugar da percepção | Paul Ricoeur — a narrativa como forma de compreensão de si | Francisco Varela, Evan Thompson, Eleanor Rosch — a consciência como interação viva | Romance, ensaio e texto público como formas de pesquisa | Nomes e direções de referência
+- H2: Edmund Husserl — a experiência antes das explicações prontas | Maurice Merleau-Ponty — o corpo como primeiro lugar da percepção | Paul Ricoeur — a narrativa como forma de compreensão de si | Francisco Varela, Evan Thompson, Eleanor Rosch — a consciência como interação viva | Romance, ensaio e texto público como formas de investigação | Nomes e direções de referência
 - H3: _missing_
-- suggested keyword seed: como, ashraellen, consciência, corpo, fontes, narrativa, tradição, experiência, fenomenologia, forma, research, antes, artística, ciência, cognitiva, com, compreensão, das
-- candidates: não, como, experiência, consciência, corpo, narrativa, uma, ashraellen, com, fenomenologia, forma, que, artística, ciência, cognitiva, ligação, pensamento, pesquisa, por, mas, medo, meio, mundo, prática
+- suggested keyword seed: como, ashraellen, consciência, corpo, fontes, narrativa, tradição, artística, experiência, fenomenologia, research, antes, ciência, cognitiva, com, compreensão, das, direções
+- candidates: não, como, corpo, experiência, uma, ashraellen, consciência, artística, narrativa, que, com, fenomenologia, investigação, forma, mas, pensamento, ciência, cognitiva, ligação, por, compreensão, descrição, fontes, medo
 
 Excerpt:
 
-> Fontes e tradição Esta pesquisa situa-se no cruzamento entre a fenomenologia da consciência, a epistemologia narrativa, a ciência cognitiva e a prática artística. Husserl constrói um método de descrição precisa da experiência. Merleau-Ponty devolve a consciência ao corpo. Ricoeur mostra que a narrativa não é um ornamento do pensamento, mas uma forma de compreensão de si. Varela, Thompson e Rosch aproximam a fenomenologia da ciência cognitiva e da experiência vivida. Ashraellen trabalha onde essas linhas se cruzam: numa zona em que o texto acadêmico sozinho já não basta, e onde a experiência viva ainda não recebeu uma forma exata. Fenomenologia da consciência Edmund Husserl — a experiência antes das explicações prontas O importante aqui não é acreditar no primeiro pensamento, mas observar com precisão como a experiência aparece na consciência. As explicações habituais são temporariamente 
+> Fontes e tradição O trabalho de Ashraellen toca várias tradições intelectuais e artísticas, que dão linguagens diferentes para descrever a experiência, a perceção, a compreensão de si e o processo de investigação. A fenomenologia da consciência, a fenomenologia do corpo, o pensamento narrativo, a ciência cognitiva e a prática artística formam aqui não um sistema fechado de fontes nem uma genealogia intelectual completa, mas várias linhas importantes de confronto. Estas linhas não se reduzem a um sistema único de provas. O modelo científico continua a ser um modelo científico, o filosófico, filosófico, a investigação artística, artística. O seu encontro é valioso onde modos diferentes de descrição permitem ver a mesma pergunta de lados diferentes. Husserl construiu um método de descrição atenta da experiência. Merleau-Ponty devolveu a consciência ao corpo. Ricoeur mostrou que a narrativa 
 
 ### research/method/index.html
 

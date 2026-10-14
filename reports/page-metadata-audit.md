@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-10-14T11:17:30.087Z
+Generated: 2026-10-14T13:33:14.799Z
 
 Pages checked: 909
-Pages with issues: 421
-Total issues: 1843
+Pages with issues: 429
+Total issues: 1855
 Pages with review notes: 707
 Total review notes: 2474
 
@@ -12,7 +12,7 @@ Total review notes: 2474
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 307 |
+| MISSING_KEYWORDS | 308 |
 | MISSING_TWITTER_IMAGE | 193 |
 | MISSING_TWITTER_CARD | 179 |
 | MISSING_JSON_LD | 174 |
@@ -21,14 +21,14 @@ Total review notes: 2474
 | MISSING_OG_TITLE | 172 |
 | MISSING_DESCRIPTION | 123 |
 | DUPLICATE_CANONICAL | 68 |
-| DUPLICATE_TITLE | 59 |
-| DUPLICATE_OG_TITLE | 57 |
+| DUPLICATE_TITLE | 63 |
+| DUPLICATE_OG_TITLE | 61 |
 | MISSING_CANONICAL | 47 |
 | OG_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 31 |
 | TWITTER_IMAGE_NOT_LOCAL_BACKGROUND_COVER_OR_OG | 31 |
 | DUPLICATE_KEYWORDS | 27 |
-| DESCRIPTION_TOO_SHORT | 22 |
-| DESCRIPTION_TOO_LONG | 6 |
+| DESCRIPTION_TOO_SHORT | 24 |
+| DESCRIPTION_TOO_LONG | 7 |
 
 
 ## Review note summary
@@ -1356,6 +1356,17 @@ Total review notes: 2474
 
 - MISSING_KEYWORDS
 
+### es/contact.html
+
+- title: Contacto — Ashraellen
+- description length: 96
+- canonical: https://www.ashraellen.com/es/contact.html
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
+
 ### es/index.html
 
 - title: Ashraellen — libros, investigación y textos públicos
@@ -1432,6 +1443,17 @@ Total review notes: 2474
 - title: Ashraellen — Público
 - description length: 163
 - canonical: https://www.ashraellen.com/es/public/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
+
+### es/public/posts/fragment/index.html
+
+- title: Ashraellen — Fragmentos
+- description length: 149
+- canonical: https://www.ashraellen.com/es/public/posts/fragment/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -3170,8 +3192,8 @@ Total review notes: 2474
 
 ### pt/books/error-404-god-not-found/why-me/index.html
 
-- title: Ashraellen — Por que eu?
-- description length: 163
+- title: Ashraellen — Porquê eu?
+- description length: 162
 - canonical: https://www.ashraellen.com/pt/books/error-404-god-not-found/why-me/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: _missing_
@@ -3182,7 +3204,7 @@ Total review notes: 2474
 ### pt/books/radiance/index.html
 
 - title: Ashraellen — Esplendor | Contos do norte sobre a história real do mundo
-- description length: 148
+- description length: 152
 - canonical: https://www.ashraellen.com/pt/books/radiance/
 - og:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/radiance-series-cover-en.webp
@@ -3316,18 +3338,29 @@ Total review notes: 2474
 
 ### pt/books/you-are-already-online/index.html
 
-- title: Ashraellen — Você já está online
-- description length: 152
+- title: Ashraellen — Já estás online
+- description length: 148
 - canonical: https://www.ashraellen.com/pt/books/you-are-already-online/
 - og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 
 - MISSING_KEYWORDS
 
+### pt/contact.html
+
+- title: Contacto — Ashraellen
+- description length: 123
+- canonical: https://www.ashraellen.com/pt/contact.html
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
+
 ### pt/index.html
 
-- title: Ashraellen — livros, pesquisa e textos públicos
-- description length: 153
+- title: Ashraellen — livros, investigação e textos públicos
+- description length: 161
 - canonical: https://www.ashraellen.com/pt/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
@@ -3397,13 +3430,64 @@ Total review notes: 2474
 ### pt/public/index.html
 
 - title: Ashraellen — Público
-- description length: 129
+- description length: 136
 - canonical: https://www.ashraellen.com/pt/public/
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
 - DUPLICATE_TITLE: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
+
+### pt/public/posts/essay/cycles/index.html
+
+- title: Ashraellen — Ciclos de mini-ensaios
+- description length: 266
+- canonical: https://www.ashraellen.com/pt/public/posts/essay/cycles/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DESCRIPTION_TOO_LONG: 266
+
+### pt/public/posts/fragment/index.html
+
+- title: Ashraellen — Fragmentos
+- description length: 153
+- canonical: https://www.ashraellen.com/pt/public/posts/fragment/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_OG_TITLE: shared by 2 pages
+
+### pt/public/posts/sources/index.html
+
+- title: Ashraellen — Fontes transferidas
+- description length: 118
+- canonical: https://www.ashraellen.com/pt/public/posts/sources/
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- MISSING_KEYWORDS
+
+### pt/public/thoughts/arcs/0019-do-not-bomb.html
+
+- title: Ashraellen — Não Bombardeies
+- description length: 67
+- canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0019-do-not-bomb.html
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DESCRIPTION_TOO_SHORT: 67
+
+### pt/public/thoughts/arcs/0020-people-and-mass.html
+
+- title: Ashraellen — Povo e Massa
+- description length: 61
+- canonical: https://www.ashraellen.com/pt/public/thoughts/arcs/0020-people-and-mass.html
+- og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+- twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
+
+- DESCRIPTION_TOO_SHORT: 61
 
 ### pt/research/notes/index.html
 
@@ -10753,7 +10837,7 @@ Total review notes: 2474
 
 ### pt/books/error-404-god-not-found/why-me/index.html
 
-- title: Ashraellen — Por que eu?
+- title: Ashraellen — Porquê eu?
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: _missing_
 
@@ -10890,7 +10974,7 @@ Total review notes: 2474
 
 ### pt/books/you-are-already-online/index.html
 
-- title: Ashraellen — Você já está online
+- title: Ashraellen — Já estás online
 - og:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/online-bg.jpg
 
@@ -10899,7 +10983,7 @@ Total review notes: 2474
 
 ### pt/contact.html
 
-- title: Contato — Ashraellen
+- title: Contacto — Ashraellen
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -10910,7 +10994,7 @@ Total review notes: 2474
 
 ### pt/index.html
 
-- title: Ashraellen — livros, pesquisa e textos públicos
+- title: Ashraellen — livros, investigação e textos públicos
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -11073,7 +11157,7 @@ Total review notes: 2474
 
 ### pt/public/posts/fragment/index.html
 
-- title: Ashraellen — Fragmentos — PT
+- title: Ashraellen — Fragmentos
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -11161,7 +11245,7 @@ Total review notes: 2474
 
 ### pt/public/thoughts/arcs/0005-on-your-own.html
 
-- title: Ashraellen — O medo como mecanismo de controle
+- title: Ashraellen — O medo como mecanismo de controlo
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -11271,7 +11355,7 @@ Total review notes: 2474
 
 ### pt/public/thoughts/arcs/0015-subtle-thought-needs-silence.html
 
-- title: Ashraellen — Um pensamento sutil precisa de silêncio
+- title: Ashraellen — Um pensamento subtil precisa de silêncio
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -11282,7 +11366,7 @@ Total review notes: 2474
 
 ### pt/public/thoughts/arcs/0016-one-fact.html
 
-- title: Ashraellen — Havia um fato
+- title: Ashraellen — Havia um facto
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -11315,7 +11399,7 @@ Total review notes: 2474
 
 ### pt/public/thoughts/arcs/0019-do-not-bomb.html
 
-- title: Ashraellen — Não Bombardeie
+- title: Ashraellen — Não Bombardeies
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -11414,7 +11498,7 @@ Total review notes: 2474
 
 ### pt/research/archive/index.html
 
-- title: Ashraellen — Arquivo de pesquisa
+- title: Ashraellen — Arquivo de investigação
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -11425,7 +11509,7 @@ Total review notes: 2474
 
 ### pt/research/index.html
 
-- title: Ashraellen — Pesquisa
+- title: Ashraellen — Investigação
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
@@ -11469,7 +11553,7 @@ Total review notes: 2474
 
 ### pt/research/projects/index.html
 
-- title: Ashraellen — Projetos de pesquisa
+- title: Ashraellen — Projetos de investigação
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
