@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-10-14T08:23:03.560Z
+Generated: 2026-10-14T08:33:24.528Z
 
-Pages checked: 881
-Pages with issues: 393
-Total issues: 1813
+Pages checked: 882
+Pages with issues: 394
+Total issues: 1814
 Pages with review notes: 677
 Total review notes: 2414
 
@@ -12,7 +12,7 @@ Total review notes: 2414
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 279 |
+| MISSING_KEYWORDS | 280 |
 | MISSING_TWITTER_IMAGE | 193 |
 | MISSING_TWITTER_CARD | 179 |
 | MISSING_JSON_LD | 174 |
@@ -3857,6 +3857,16 @@ Total review notes: 2414
 - canonical: https://www.ashraellen.com/ru/books/seven/
 - og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
+
+- MISSING_KEYWORDS
+
+### ru/books/seven/pride/index.html
+
+- title: Ashraellen — Гордыня | PRIDE · SEVEN, книга II
+- description length: 187
+- canonical: https://www.ashraellen.com/ru/books/seven/pride/
+- og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
 - MISSING_KEYWORDS
 
