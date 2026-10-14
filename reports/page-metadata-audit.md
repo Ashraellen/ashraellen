@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-10-14T07:48:52.773Z
+Generated: 2026-10-14T08:06:25.857Z
 
-Pages checked: 880
-Pages with issues: 392
-Total issues: 1812
+Pages checked: 881
+Pages with issues: 393
+Total issues: 1813
 Pages with review notes: 677
 Total review notes: 2414
 
@@ -12,7 +12,7 @@ Total review notes: 2414
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 278 |
+| MISSING_KEYWORDS | 279 |
 | MISSING_TWITTER_IMAGE | 193 |
 | MISSING_TWITTER_CARD | 179 |
 | MISSING_JSON_LD | 174 |
@@ -3839,6 +3839,16 @@ Total review notes: 2414
 - MISSING_OG_IMAGE
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
+
+### ru/books/seven/greed/index.html
+
+- title: Ashraellen — Жадность | GREED · SEVEN, книга I
+- description length: 182
+- canonical: https://www.ashraellen.com/ru/books/seven/greed/
+- og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
+
+- MISSING_KEYWORDS
 
 ### ru/books/seven/index.html
 
