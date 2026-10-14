@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T10:35:45.023Z
-Pages: 903
+Generated: 2026-10-14T10:38:35.035Z
+Pages: 904
 
 ## Index
 
@@ -397,7 +397,7 @@ Pages: 903
 | fr/books/demotopia/index.html | fr | books | Demotopia — Utopie démocratique — roman d’Ashraellen | Ashraellen, Demotopia, Utopie démocratique, roman philosophique, science-fiction sociale, Varsovie, démocratie, dictature, données, liberté, responsabilité | demotopia, roman, books, d’ashraellen, est, les, qui, artistique, ashraellen, atmosphère, avenir, cadre, choisi, circuits, d’un, démocratie, démocratique, des |
 | fr/books/error-404-god-not-found/index.html | fr | books | Ashraellen — Erreur 404 : Dieu introuvable | _missing_ | 404, dieu, erreur, introuvable, cycle, ashraellen, books, céleste, chancellerie, l’erreur, série, sur, contre, error, est, found, god, humaine |
 | fr/books/error-404-god-not-found/why-me/index.html | fr | books | Ashraellen — Pourquoi moi ? | _missing_ | livre, moi, pourquoi, ashraellen, books, 404, avec, bureaucratie, céleste, chancellerie, comme, couches, cycle, dans, demande, dieu, douleur, erreur |
-| fr/books/index.html | fr | books | Ashraellen — Livres | Ashraellen, livres, Demotopia, Utopie démocratique, MONOLITHE, ÉCLAT, ERREUR 404, DIEU INTROUVABLE, SECCUS, Tu es déjà en ligne, The Book of Whinesis, samizdat 2.0, éditions d’auteur | livres, d’auteur, directes, ashraellen, books, éditions, livre, 2.0, 404, book, cycle, cycles, d’ashraellen, déjà, demotopia, des, dieu, éclat |
+| fr/books/index.html | fr | books | Ashraellen — Livres | Ashraellen, livres, Demotopia, Utopie démocratique, MONOLITHE, ÉCLAT, SEVEN, ERREUR 404, DIEU INTROUVABLE, SECCUS, Tu es déjà en ligne, The Book of Whinesis, samizdat 2.0, éditions d’auteur | livres, d’auteur, directes, ashraellen, books, éditions, livre, 2.0, 404, book, cycle, cycles, d’ashraellen, déjà, demotopia, des, dieu, éclat |
 | fr/books/monolith/beton/index.html | fr | books | Ashraellen — BÉTON | Ashraellen, MONOLITHE, BÉTON, dystopie, littérature, recherche artistique | béton, ashraellen, books, dans, est, livre, stabilité, sur, une, anton, artistique, beton, cadre, choisi, cœur, des, divulgâcher, dossier |
 | fr/books/monolith/gas/index.html | fr | books | Ashraellen — GAZ | Ashraellen, MONOLITHE, GAZ, volume trois, Victoria, pouvoir, contrôle, mémoire, localisation, milieu, signal, dystopie | gaz, ashraellen, books, sans, sur, artistique, cadre, choisi, comme, contrôle, dans, dernier, des, disparition, divulgâcher, dossier, entre, extrait |
 | fr/books/monolith/index.html | fr | books | Ashraellen — MONOLITHE | Ashraellen, MONOLITHE, BÉTON, BOUE, GAZ, dystopie, littérature, recherche artistique | monolithe, ashraellen, béton, books, boue, contrôle, des, désagrégation, est, mémoire, pas, une, artistique, cadre, carte, confondre, dans, dystopique |
@@ -411,6 +411,7 @@ Pages: 903
 | fr/books/samizdat/order/received/index.html | fr | books | Demande reçue — samizdat 2.0 | _missing_ | demande, reçue, samizdat, 2.0, achat, aucun, automatiquement, books, été, afin, ashraellen, avant, compris, créé, e-mail, n’a, order, received |
 | fr/books/seccus/index.html | fr | books | Ashraellen — LE LIVRE SACRÉ DE SECCUS | Ashraellen, SECCUS, Le Livre Sacré de SECCUS, Le Chemin de l’Honnêteté, satire philosophique, argent, réussite, auto-illusion, savoir comme alibi, responsabilité, Sacrunomicon, Ordo Sacrunomiconis, Tétra-Livre | livre, seccus, sacré, ashraellen, books, est, philosophique, pour, qui, réussite, sur, une, alibi, cadre, chemin, choisie, choix, comme |
 | fr/books/seven/greed/index.html | fr | books | Ashraellen — Avidité \| GREED · SEVEN, livre I | _missing_ | greed, roman, seven, avidité, dans, ashraellen, aux, books, cycle, des, les, noël, c’est, choisi, côtés, criminel, d’autre, d’avancement |
+| fr/books/seven/index.html | fr | books | Ashraellen — SEVEN \| Cycle littéraire des sept vulnérabilités humaines | _missing_ | seven, sept, cycle, les, littéraire, recherche, vulnérabilités, ashraellen, aux, books, des, humaines, livres, sur, acédie, avidité, colère, d’ashraellen |
 | fr/books/seven/pride/index.html | fr | books | Ashraellen — Orgueil \| PRIDE · SEVEN, livre II | _missing_ | pride, seven, littéraire, livre, orgueil, ashraellen, aux, books, cycle, dans, extrait, comme, d’avancement, des, devient, dystopie, éditeurs, est |
 | fr/books/the-book-of-whinesis/index.html | fr | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, satire, sacrée, pour, celles, ceux, qui, sont, fatigués, des, ondes, positives, productivité, sans, fin | book, whinesis, ashraellen, books, des, qui, celles, ceux, chapitres, culte, dans, dit, extrait, fatigués, fin, les, livre, moania |
 | fr/books/you-are-already-online/index.html | fr | books | Ashraellen — Tu es déjà en ligne | _missing_ | déjà, ligne, ashraellen, audio, books, les, réalité, roman, algorithmes, already, avait, avant, chapitre, comme, cyberpunk, dans, des, drame |
@@ -7548,17 +7549,17 @@ Excerpt:
 - lang: fr
 - section: books
 - title: Ashraellen — Livres
-- description: Livres d’Ashraellen : Demotopia, MONOLITHE, ÉCLAT, ERREUR 404 : DIEU INTROUVABLE, Le Livre sacré de SECCUS, Tu es déjà en ligne, The Book of Whinesis et éditions directes d’auteur par samizdat 2.0.
+- description: Livres d’Ashraellen : Demotopia, MONOLITHE, ÉCLAT, SEVEN, ERREUR 404 : DIEU INTROUVABLE, Le Livre sacré de SECCUS, Tu es déjà en ligne, The Book of Whinesis et éditions directes d’auteur par samizdat 2.0.
 - canonical: https://www.ashraellen.com/fr/books/
 - H1: Livres
 - H2: Cycles de livres | Livres indépendants et recherches | Satire | Éditions directes d’auteur
 - H3: _missing_
 - suggested keyword seed: livres, d’auteur, directes, ashraellen, books, éditions, livre, 2.0, 404, book, cycle, cycles, d’ashraellen, déjà, demotopia, des, dieu, éclat
-- candidates: une, livre, les, livres, ouvrir, sur, cycle, roman, philosophique, d’auteur, des, directes, satire, ses, système, 2.0, audio, dieu, éditions, leur, ligne, samizdat, trilogie, 404
+- candidates: une, les, cycle, livres, livre, ouvrir, sur, roman, philosophique, d’auteur, des, directes, satire, ses, système, 2.0, audio, dieu, éditions, leur, ligne, psychologique, samizdat, trilogie
 
 Excerpt:
 
-> Livres Cette section rassemble les cycles de livres, les romans indépendants, les livres-recherches, la satire et les éditions physiques directes d’auteur d’Ashraellen. Choisissez un vaste projet ou commencez par un livre précis. Cycles de livres séries et projets au long cours MONOLITHE Une trilogie dystopique littéraire et philosophique sur le contrôle, la mémoire et la désagrégation des systèmes. BÉTON, BOUE et GAZ suivent le passage de la matière sociale, de la stabilité durcie à la déformation visqueuse puis à la perte d’étanchéité de la forme. Ouvrir la trilogie trilogie ÉCLAT Un cycle littéraire et philosophique de recherche artistique sur les récits du Nord et les images anciennes comme instructions vivantes pour le monde. Non pas une réécriture du « Kalevala », mais un retour à l’expérience humaine dont de telles histoires ont pu naître. Ouvrir le cycle cycle ERREUR 404 : DIEU I
+> Livres Cette section rassemble les cycles de livres, les romans indépendants, les livres-recherches, la satire et les éditions physiques directes d’auteur d’Ashraellen. Choisissez un vaste projet ou commencez par un livre précis. Cycles de livres séries et projets au long cours MONOLITHE Une trilogie dystopique littéraire et philosophique sur le contrôle, la mémoire et la désagrégation des systèmes. BÉTON, BOUE et GAZ suivent le passage de la matière sociale, de la stabilité durcie à la déformation visqueuse puis à la perte d’étanchéité de la forme. Ouvrir la trilogie trilogie ÉCLAT Un cycle littéraire et philosophique de recherche artistique sur les récits du Nord et les images anciennes comme instructions vivantes pour le monde. Non pas une réécriture du « Kalevala », mais un retour à l’expérience humaine dont de telles histoires ont pu naître. Ouvrir le cycle cycle SEVEN Un cycle de s
 
 ### fr/books/monolith/beton/index.html
 
@@ -7780,6 +7781,23 @@ Excerpt:
 Excerpt:
 
 > SEVEN · livre I · roman noir psychologique Avidité / GREED Un homme cherche comment assurer son avenir. Un autre lui propose de gagner de l’argent. D’autres encore espèrent avoir enfin trouvé une voie vers une vie meilleure. Leurs décisions deviennent peu à peu les rouages d’un système dont aucun ne parvient à saisir toutes les conséquences. Parfois, le piège ne commence pas par une menace, mais par une proposition qu’on a terriblement envie d’accepter. SEVEN · Livre I · Ashraellen Extrait choisi Chapitre premier, § 1.3 · version provisoire Après sa conversation avec Ilia, Noël retrouve la vie ordinaire de son foyer. Mais dès le lendemain, c’est à son tour de parler à quelqu’un d’une occasion douteuse de gagner de l’argent. Lire l’extrait Refermer l’extrait Noël mit fin à l’appel et rentra chez lui. Nina l’attendait déjà dans l’entrée. — Alors, tu l’as adopté, ton locataire ? — Il n’avai
+
+### fr/books/seven/index.html
+
+- lang: fr
+- section: books
+- title: Ashraellen — SEVEN | Cycle littéraire des sept vulnérabilités humaines
+- description: SEVEN, cycle littéraire d’Ashraellen sur sept vulnérabilités humaines : avidité, orgueil, luxure, envie, colère, gourmandise et acédie. GREED, PRIDE et LUST en sont les trois premiers livres.
+- canonical: https://www.ashraellen.com/fr/books/seven/
+- H1: SEVEN
+- H2: Qu’est-ce que SEVEN ? | Les livres du cycle | Sept vulnérabilités, sept façons de perdre la mesure | À qui s’adresse SEVEN ? | Aux éditeurs et aux partenaires de recherche | Et ensuite ? | De la littérature à la recherche
+- H3: Avidité | Orgueil | Luxure | Avidité / GREED · Livre I | Orgueil / PRIDE · Livre II | Luxure / LUST · Livre III | Envie / ENVY | Colère / WRATH
+- suggested keyword seed: seven, sept, cycle, les, littéraire, recherche, vulnérabilités, ashraellen, aux, books, des, humaines, livres, sur, acédie, avidité, colère, d’ashraellen
+- candidates: les, des, une, pas, sept, mais, cycle, recherche, littéraire, livre, seven, sur, peu, d’une, humaines, que, qui, roman, d’un, dans, devient, livres, peut, ses
+
+Excerpt:
+
+> Cycle littéraire et de recherche · sept livres SEVEN Sept vulnérabilités humaines. Sept univers littéraires indépendants. Une tentative de comprendre comment des désirs, des peurs et des besoins ordinaires finissent peu à peu par gouverner nos choix. Non pas des vices comme une condamnation, mais un être humain qui ne remarque pas toujours le moment où sa propre force devient une vulnérabilité. Qu’est-ce que SEVEN ? Littérature et questionnement de recherche SEVEN prend pour point de départ le schéma historiquement connu des sept vulnérabilités humaines. Mais le cycle ne propose pas de répartir simplement les personnes entre « avides », « orgueilleuses » ou « luxurieuses ». Ce qui l’intéresse, c’est le moment du basculement : lorsqu’une aspiration compréhensible devient excessive, se mêle à d’autres motivations, commence à justifier certains actes et transforme peu à peu la personne elle
 
 ### fr/books/seven/pride/index.html
 

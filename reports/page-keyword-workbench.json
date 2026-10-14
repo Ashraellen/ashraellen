@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T10:35:45.008Z",
+  "generated": "2026-10-14T10:38:35.017Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -29210,8 +29210,8 @@
       "lang": "fr",
       "section": "books",
       "title": "Ashraellen — Livres",
-      "description": "Livres d’Ashraellen : Demotopia, MONOLITHE, ÉCLAT, ERREUR 404 : DIEU INTROUVABLE, Le Livre sacré de SECCUS, Tu es déjà en ligne, The Book of Whinesis et éditions directes d’auteur par samizdat 2.0.",
-      "existingKeywords": "Ashraellen, livres, Demotopia, Utopie démocratique, MONOLITHE, ÉCLAT, ERREUR 404, DIEU INTROUVABLE, SECCUS, Tu es déjà en ligne, The Book of Whinesis, samizdat 2.0, éditions d’auteur",
+      "description": "Livres d’Ashraellen : Demotopia, MONOLITHE, ÉCLAT, SEVEN, ERREUR 404 : DIEU INTROUVABLE, Le Livre sacré de SECCUS, Tu es déjà en ligne, The Book of Whinesis et éditions directes d’auteur par samizdat 2.0.",
+      "existingKeywords": "Ashraellen, livres, Demotopia, Utopie démocratique, MONOLITHE, ÉCLAT, SEVEN, ERREUR 404, DIEU INTROUVABLE, SECCUS, Tu es déjà en ligne, The Book of Whinesis, samizdat 2.0, éditions d’auteur",
       "canonical": "https://www.ashraellen.com/fr/books/",
       "h1": [
         "Livres"
@@ -29227,15 +29227,15 @@
         "fr",
         "books"
       ],
-      "excerpt": "Livres Cette section rassemble les cycles de livres, les romans indépendants, les livres-recherches, la satire et les éditions physiques directes d’auteur d’Ashraellen. Choisissez un vaste projet ou commencez par un livre précis. Cycles de livres séries et projets au long cours MONOLITHE Une trilogie dystopique littéraire et philosophique sur le contrôle, la mémoire et la désagrégation des systèmes. BÉTON, BOUE et GAZ suivent le passage de la matière sociale, de la stabilité durcie à la déformation visqueuse puis à la perte d’étanchéité de la forme. Ouvrir la trilogie trilogie ÉCLAT Un cycle littéraire et philosophique de recherche artistique sur les récits du Nord et les images anciennes comme instructions vivantes pour le monde. Non pas une réécriture du « Kalevala », mais un retour à l’expérience humaine dont de telles histoires ont pu naître. Ouvrir le cycle cycle ERREUR 404 : DIEU I",
+      "excerpt": "Livres Cette section rassemble les cycles de livres, les romans indépendants, les livres-recherches, la satire et les éditions physiques directes d’auteur d’Ashraellen. Choisissez un vaste projet ou commencez par un livre précis. Cycles de livres séries et projets au long cours MONOLITHE Une trilogie dystopique littéraire et philosophique sur le contrôle, la mémoire et la désagrégation des systèmes. BÉTON, BOUE et GAZ suivent le passage de la matière sociale, de la stabilité durcie à la déformation visqueuse puis à la perte d’étanchéité de la forme. Ouvrir la trilogie trilogie ÉCLAT Un cycle littéraire et philosophique de recherche artistique sur les récits du Nord et les images anciennes comme instructions vivantes pour le monde. Non pas une réécriture du « Kalevala », mais un retour à l’expérience humaine dont de telles histoires ont pu naître. Ouvrir le cycle cycle SEVEN Un cycle de s",
       "candidates": [
         "une",
-        "livre",
         "les",
+        "cycle",
         "livres",
+        "livre",
         "ouvrir",
         "sur",
-        "cycle",
         "roman",
         "philosophique",
         "d’auteur",
@@ -29250,9 +29250,9 @@
         "éditions",
         "leur",
         "ligne",
+        "psychologique",
         "samizdat",
-        "trilogie",
-        "404"
+        "trilogie"
       ],
       "suggestedKeywordSeed": [
         "livres",
@@ -30315,6 +30315,89 @@
         "criminel",
         "d’autre",
         "d’avancement"
+      ]
+    },
+    {
+      "page": "fr/books/seven/index.html",
+      "lang": "fr",
+      "section": "books",
+      "title": "Ashraellen — SEVEN | Cycle littéraire des sept vulnérabilités humaines",
+      "description": "SEVEN, cycle littéraire d’Ashraellen sur sept vulnérabilités humaines : avidité, orgueil, luxure, envie, colère, gourmandise et acédie. GREED, PRIDE et LUST en sont les trois premiers livres.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/fr/books/seven/",
+      "h1": [
+        "SEVEN"
+      ],
+      "h2": [
+        "Qu’est-ce que SEVEN ?",
+        "Les livres du cycle",
+        "Sept vulnérabilités, sept façons de perdre la mesure",
+        "À qui s’adresse SEVEN ?",
+        "Aux éditeurs et aux partenaires de recherche",
+        "Et ensuite ?",
+        "De la littérature à la recherche"
+      ],
+      "h3": [
+        "Avidité",
+        "Orgueil",
+        "Luxure",
+        "Avidité / GREED · Livre I",
+        "Orgueil / PRIDE · Livre II",
+        "Luxure / LUST · Livre III",
+        "Envie / ENVY",
+        "Colère / WRATH"
+      ],
+      "slugTerms": [
+        "fr",
+        "books",
+        "seven"
+      ],
+      "excerpt": "Cycle littéraire et de recherche · sept livres SEVEN Sept vulnérabilités humaines. Sept univers littéraires indépendants. Une tentative de comprendre comment des désirs, des peurs et des besoins ordinaires finissent peu à peu par gouverner nos choix. Non pas des vices comme une condamnation, mais un être humain qui ne remarque pas toujours le moment où sa propre force devient une vulnérabilité. Qu’est-ce que SEVEN ? Littérature et questionnement de recherche SEVEN prend pour point de départ le schéma historiquement connu des sept vulnérabilités humaines. Mais le cycle ne propose pas de répartir simplement les personnes entre « avides », « orgueilleuses » ou « luxurieuses ». Ce qui l’intéresse, c’est le moment du basculement : lorsqu’une aspiration compréhensible devient excessive, se mêle à d’autres motivations, commence à justifier certains actes et transforme peu à peu la personne elle",
+      "candidates": [
+        "les",
+        "des",
+        "une",
+        "pas",
+        "sept",
+        "mais",
+        "cycle",
+        "recherche",
+        "littéraire",
+        "livre",
+        "seven",
+        "sur",
+        "peu",
+        "d’une",
+        "humaines",
+        "que",
+        "qui",
+        "roman",
+        "d’un",
+        "dans",
+        "devient",
+        "livres",
+        "peut",
+        "ses"
+      ],
+      "suggestedKeywordSeed": [
+        "seven",
+        "sept",
+        "cycle",
+        "les",
+        "littéraire",
+        "recherche",
+        "vulnérabilités",
+        "ashraellen",
+        "aux",
+        "books",
+        "des",
+        "humaines",
+        "livres",
+        "sur",
+        "acédie",
+        "avidité",
+        "colère",
+        "d’ashraellen"
       ]
     },
     {
