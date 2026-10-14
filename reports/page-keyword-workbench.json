@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T10:10:46.479Z",
+  "generated": "2026-10-14T10:13:02.560Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -43704,14 +43704,15 @@
         "uma",
         "para",
         "noel",
+        "seven",
         "com",
         "dos",
         "mas",
         "romance",
         "dinheiro",
         "livro",
-        "seven",
         "andrei",
+        "ciclo",
         "por",
         "excerto",
         "greed",
@@ -43720,7 +43721,6 @@
         "quem",
         "ainda",
         "alguém",
-        "ciclo",
         "como",
         "dia"
       ],
@@ -43743,6 +43743,89 @@
         "desejos",
         "dinheiro",
         "dois"
+      ]
+    },
+    {
+      "page": "pt/books/seven/index.html",
+      "lang": "pt",
+      "section": "books",
+      "title": "Ashraellen — SEVEN | Ciclo literário sobre sete vulnerabilidades humanas",
+      "description": "SEVEN — ciclo literário de Ashraellen sobre sete vulnerabilidades humanas: ganância, soberba, luxúria, inveja, ira, gula e acédia. GREED, PRIDE e LUST são os primeiros três livros.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/pt/books/seven/",
+      "h1": [
+        "SEVEN"
+      ],
+      "h2": [
+        "O que é SEVEN",
+        "Os livros do ciclo",
+        "Sete vulnerabilidades — sete maneiras de perder a medida",
+        "A quem se destina SEVEN",
+        "Para revisores, editores e parceiros de investigação",
+        "O que vem a seguir",
+        "Da literatura à investigação"
+      ],
+      "h3": [
+        "Ganância",
+        "Soberba",
+        "Luxúria",
+        "Ganância / GREED · Livro I",
+        "Soberba / PRIDE · Livro II",
+        "Luxúria / LUST · Livro III",
+        "Inveja / ENVY",
+        "Ira / WRATH"
+      ],
+      "slugTerms": [
+        "pt",
+        "books",
+        "seven"
+      ],
+      "excerpt": "Ciclo literário e de investigação · sete livros SEVEN Sete vulnerabilidades humanas. Sete mundos literários independentes. Uma tentativa de compreender como desejos, medos e necessidades comuns começam, pouco a pouco, a governar as escolhas de uma pessoa. Não se trata de condenar alguém pelos seus defeitos, mas de observar uma pessoa que nem sempre se apercebe do momento em que a sua força se torna uma vulnerabilidade. O que é SEVEN Literatura e uma pergunta de investigação SEVEN parte de um esquema historicamente familiar de sete vulnerabilidades humanas. Mas não propõe dividir as pessoas simplesmente em «gananciosas», «orgulhosas» ou «luxuriosas». Interessa-lhe o momento da passagem: quando uma aspiração compreensível se torna excessiva, se alia a outros motivos, começa a justificar actos e vai mudando a própria pessoa. O ciclo não é composto por sete variantes do mesmo enredo. Uma int",
+      "candidates": [
+        "uma",
+        "que",
+        "não",
+        "com",
+        "sete",
+        "mas",
+        "ciclo",
+        "investigação",
+        "como",
+        "livro",
+        "sobre",
+        "dos",
+        "seven",
+        "história",
+        "humanas",
+        "para",
+        "pessoa",
+        "quando",
+        "romance",
+        "estão",
+        "literária",
+        "literário",
+        "livros",
+        "página"
+      ],
+      "suggestedKeywordSeed": [
+        "seven",
+        "sete",
+        "ciclo",
+        "ashraellen",
+        "investigação",
+        "que",
+        "sobre",
+        "vulnerabilidades",
+        "books",
+        "humanas",
+        "literário",
+        "livros",
+        "acédia",
+        "com",
+        "como",
+        "destina",
+        "dos",
+        "editores"
       ]
     },
     {
@@ -43788,23 +43871,23 @@
         "livro",
         "ser",
         "para",
+        "seven",
         "mas",
         "pride",
         "sala",
-        "seven",
         "casa",
         "como",
         "país",
         "crianças",
         "fila",
         "guia",
+        "literário",
         "mais",
         "ninguém",
         "ordem",
         "por",
         "primeiro",
-        "quando",
-        "sem"
+        "quando"
       ],
       "suggestedKeywordSeed": [
         "pride",

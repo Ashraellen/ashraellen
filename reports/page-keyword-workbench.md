@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T10:10:46.489Z
-Pages: 897
+Generated: 2026-10-14T10:13:02.575Z
+Pages: 898
 
 ## Index
 
@@ -592,6 +592,7 @@ Pages: 897
 | pt/books/samizdat/order/received/index.html | pt | books | Pedido recebido — samizdat 2.0 | _missing_ | pedido, recebido, samizdat, 2.0, automaticamente, books, compra, criada, foi, antes, ashraellen, confirmar, contacto, email, nenhuma, order, received |
 | pt/books/seccus/index.html | pt | books | Ashraellen — O LIVRO SAGRADO DE SECCUS | Ashraellen, SECCUS, O Livro Sagrado de SECCUS, O Caminho da Honestidade, sátira filosófica, dinheiro, sucesso, autoengano, conhecimento como álibi, responsabilidade, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Livro | livro, seccus, sagrado, ashraellen, books, como, página, para, sobre, sucesso, uma, álibi, autoengano, caminho, conhecimento, corpus, dinheiro, escolha |
 | pt/books/seven/greed/index.html | pt | books | Ashraellen — Ganância \| GREED · SEVEN, Livro I | _missing_ | seven, greed, romance, dos, ganância, livro, ashraellen, books, ciclo, lados, noel, para, ambos, com, criminosa, desejos, dinheiro, dois |
+| pt/books/seven/index.html | pt | books | Ashraellen — SEVEN \| Ciclo literário sobre sete vulnerabilidades humanas | _missing_ | seven, sete, ciclo, ashraellen, investigação, que, sobre, vulnerabilidades, books, humanas, literário, livros, acédia, com, como, destina, dos, editores |
 | pt/books/seven/pride/index.html | pt | books | Ashraellen — Soberba \| PRIDE · SEVEN, Livro II | _missing_ | pride, seven, livro, literário, soberba, ashraellen, books, ciclo, excerto, exclusividade, para, sala, ser, casa, com, distopia, editores, estado |
 | pt/books/the-book-of-whinesis/index.html | pt | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sátira, sagrada, para, quem, cansou, das, vibrações, positivas, produtividade, infinita, culto, sucesso, sobre, livro | book, whinesis, ashraellen, books, para, sobre, cansou, capítulos, culto, das, desconto, disse, gnorna, infinita, livro, moania, não, pois |
 | pt/books/you-are-already-online/index.html | pt | books | Ashraellen — Você já está online | _missing_ | está, online, você, ashraellen, books, capítulo, realidade, romance, sobre, algoritmos, already, antes, áudio, como, cyberpunk, demais, digital, drama |
@@ -10846,11 +10847,28 @@ Excerpt:
 - H2: Excerto seleccionado | Sobre o romance | Dos dois lados da promessa | Pontos de tensão | O romance no ciclo SEVEN | Para leitores e editores | Estado do livro
 - H3: Necessidade e suficiência | Confiança e verdade conveniente | Os limites da participação | A vontade de recuperar o que se perdeu | Família e autojustificação | Responsabilidade e culpa
 - suggested keyword seed: seven, greed, romance, dos, ganância, livro, ashraellen, books, ciclo, lados, noel, para, ambos, com, criminosa, desejos, dinheiro, dois
-- candidates: que, não, uma, para, noel, com, dos, mas, romance, dinheiro, livro, seven, andrei, por, excerto, greed, história, próprio, quem, ainda, alguém, ciclo, como, dia
+- candidates: que, não, uma, para, noel, seven, com, dos, mas, romance, dinheiro, livro, andrei, ciclo, por, excerto, greed, história, próprio, quem, ainda, alguém, como, dia
 
 Excerpt:
 
 > SEVEN · Livro I · romance policial psicológico Ganância / GREED Um homem procura uma forma de assegurar o futuro. Outro propõe-lhe que ganhe dinheiro. Há ainda quem espere ter finalmente encontrado o caminho para uma vida melhor. As decisões de todos vão-se tornando peças de um sistema cujas consequências nenhum deles consegue compreender por inteiro. Às vezes, a armadilha não começa com uma ameaça, mas com uma proposta a que custa demasiado dizer que não. SEVEN · Livro I · Ashraellen Excerto seleccionado Capítulo I, § 1.3 · versão provisória Depois de falar com Ilia, Noel regressa à sua vida familiar de sempre. Mas, logo no dia seguinte, é ele próprio quem tem de apresentar a outra pessoa uma oportunidade duvidosa de ganhar dinheiro. Ler o excerto Fechar o excerto Noel terminou a chamada e foi para casa. Nina já estava à espera no hall de entrada. — Adoptaste o inquilino? — Não tinha id
+
+### pt/books/seven/index.html
+
+- lang: pt
+- section: books
+- title: Ashraellen — SEVEN | Ciclo literário sobre sete vulnerabilidades humanas
+- description: SEVEN — ciclo literário de Ashraellen sobre sete vulnerabilidades humanas: ganância, soberba, luxúria, inveja, ira, gula e acédia. GREED, PRIDE e LUST são os primeiros três livros.
+- canonical: https://www.ashraellen.com/pt/books/seven/
+- H1: SEVEN
+- H2: O que é SEVEN | Os livros do ciclo | Sete vulnerabilidades — sete maneiras de perder a medida | A quem se destina SEVEN | Para revisores, editores e parceiros de investigação | O que vem a seguir | Da literatura à investigação
+- H3: Ganância | Soberba | Luxúria | Ganância / GREED · Livro I | Soberba / PRIDE · Livro II | Luxúria / LUST · Livro III | Inveja / ENVY | Ira / WRATH
+- suggested keyword seed: seven, sete, ciclo, ashraellen, investigação, que, sobre, vulnerabilidades, books, humanas, literário, livros, acédia, com, como, destina, dos, editores
+- candidates: uma, que, não, com, sete, mas, ciclo, investigação, como, livro, sobre, dos, seven, história, humanas, para, pessoa, quando, romance, estão, literária, literário, livros, página
+
+Excerpt:
+
+> Ciclo literário e de investigação · sete livros SEVEN Sete vulnerabilidades humanas. Sete mundos literários independentes. Uma tentativa de compreender como desejos, medos e necessidades comuns começam, pouco a pouco, a governar as escolhas de uma pessoa. Não se trata de condenar alguém pelos seus defeitos, mas de observar uma pessoa que nem sempre se apercebe do momento em que a sua força se torna uma vulnerabilidade. O que é SEVEN Literatura e uma pergunta de investigação SEVEN parte de um esquema historicamente familiar de sete vulnerabilidades humanas. Mas não propõe dividir as pessoas simplesmente em «gananciosas», «orgulhosas» ou «luxuriosas». Interessa-lhe o momento da passagem: quando uma aspiração compreensível se torna excessiva, se alia a outros motivos, começa a justificar actos e vai mudando a própria pessoa. O ciclo não é composto por sete variantes do mesmo enredo. Uma int
 
 ### pt/books/seven/pride/index.html
 
@@ -10863,7 +10881,7 @@ Excerpt:
 - H2: Excerto literário | Sobre o livro | O lado silencioso da exclusividade | Pontos de tensão | O lugar no ciclo literário SEVEN | Para leitores e editores | Estado do livro
 - H3: Orgulho e exclusividade | A casa e a fila de espera | Utilidade e pertença | Cortesia e humilhação | As crianças e a herança da ordem | Memória e direito ao erro
 - suggested keyword seed: pride, seven, livro, literário, soberba, ashraellen, books, ciclo, excerto, exclusividade, para, sala, ser, casa, com, distopia, editores, estado
-- candidates: que, uma, não, com, livro, ser, para, mas, pride, sala, seven, casa, como, país, crianças, fila, guia, mais, ninguém, ordem, por, primeiro, quando, sem
+- candidates: que, uma, não, com, livro, ser, para, seven, mas, pride, sala, casa, como, país, crianças, fila, guia, literário, mais, ninguém, ordem, por, primeiro, quando
 
 Excerpt:
 
