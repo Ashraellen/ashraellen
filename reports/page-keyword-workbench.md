@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T14:02:02.418Z
+Generated: 2026-10-14T14:04:55.603Z
 Pages: 910
 
 ## Index
@@ -10944,11 +10944,11 @@ Excerpt:
 - H2: Capítulo em destaque | Sobre o livro | Sem spoilers | Enquadramento de investigação artística | Temas | Para quem | Estado linguístico e editorial | Para fundações, editoras e parceiros culturais
 - H3: A casa do norte | A coisa e a fonte | Ivar e a medida | O mito antes do mito | Abundância | Posse | Participação | Trabalho e milagre
 - suggested keyword seed: sampo, livro, para, ashraellen, books, esplendor, não, sobre, abundância, ainda, artística, capítulo, com, como, conto, culturais, destaque, editoras
-- candidates: não, que, para, com, sofia, uma, como, mais, mas, nick, estava, por, depois, disse, pão, thomas, mão, olhou, era, sem, nem, quase, ele, isso
+- candidates: não, que, para, com, sofia, uma, como, mais, mas, nick, estava, por, depois, disse, pão, thomas, mão, olhou, era, sem, nem, quase, ele, fatia
 
 Excerpt:
 
-> Esplendor — Contos do norte sobre a história real do mundo Sampo Livro I do ciclo literário e filosófico «Esplendor». Uma lenda do norte sobre uma coisa que acabou por ser mais do que uma coisa: sobre a abundância, a posse, a participação e um mundo onde o mito ainda não se separou do trabalho, do frio, da casa e do fogo. Não recontamos o «Kalevala». Mostramos o mundo de onde histórias assim poderiam ter nascido. Capa russa. Ashraellen. Capítulo em destaque Capítulo Três. Pedaço A manhã a seguir à primeira noite impossível: pão, terra, lenha e a tentativa humana de perceber onde acaba a reserva e começa a participação. Abrir capítulo Fechar capítulo De manhã o pão estava na mesa como se nada tivesse acontecido durante a noite. Foi quase atrevido. Sofia parou à porta da cozinha e ficou alguns segundos a olhar para o pão sem entrar. A casa já tinha acordado, embora ninguém tivesse dado ord
+> Esplendor — Contos do norte sobre a história real do mundo Sampo Livro I do ciclo literário e filosófico «Esplendor». Uma lenda do norte sobre uma coisa que acabou por ser mais do que uma coisa: sobre a abundância, a posse, a participação e um mundo onde o mito ainda não se separou do trabalho, do frio, da casa e do fogo. Não recontamos o «Kalevala». Mostramos o mundo de onde histórias assim poderiam ter nascido. Capa russa. Ashraellen. Capítulo em destaque Capítulo Três. Fatia A manhã a seguir à primeira noite impossível: pão, terra, lenha e a tentativa humana de perceber onde acaba a reserva e começa a participação. Abrir capítulo Fechar capítulo De manhã o pão estava na mesa como se nada tivesse acontecido durante a noite. Foi quase atrevido. Sofia parou à porta da cozinha e ficou alguns segundos a olhar para o pão sem entrar. A casa já tinha acordado, embora ninguém tivesse dado orde
 
 ### pt/books/radiance/song/index.html
 
