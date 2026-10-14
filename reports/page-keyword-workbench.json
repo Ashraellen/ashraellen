@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T09:13:29.286Z",
+  "generated": "2026-10-14T09:19:22.672Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -12992,6 +12992,88 @@
         "one",
         "points",
         "promise"
+      ]
+    },
+    {
+      "page": "en/books/seven/pride/index.html",
+      "lang": "en",
+      "section": "books",
+      "title": "Ashraellen — PRIDE | SEVEN, Book II",
+      "description": "PRIDE is a social dystopia in the SEVEN literary cycle: a country where pride becomes exceptionalism and belonging turns into a privilege. Read the Hall of Glory excerpt.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/en/books/seven/pride/",
+      "h1": [
+        "PRIDE"
+      ],
+      "h2": [
+        "Literary excerpt",
+        "About the book",
+        "The quiet face of exceptionalism",
+        "Points of tension",
+        "PRIDE in the SEVEN literary cycle",
+        "For readers and publishers",
+        "Book status"
+      ],
+      "h3": [
+        "Pride and exceptionalism",
+        "Home and the queue",
+        "Usefulness and belonging",
+        "Politeness and humiliation",
+        "Children and inherited order",
+        "Memory and the right to be wrong"
+      ],
+      "slugTerms": [
+        "en",
+        "books",
+        "seven",
+        "pride"
+      ],
+      "excerpt": "SEVEN · Book II · A social dystopia PRIDE A country that has learned to take pride in itself again. Its streets are clean, its institutions function, and its people are quietly certain that the established order is right. But one question grows harder to ignore: who is truly entitled to call this country home? Sometimes inequality begins not with hatred, but with the conviction that one's own people should be entitled to a little more. SEVEN · Book II · Ashraellen Literary excerpt “Hall of Glory” · an original story fragment in translation An ordinary school visit to a museum of national memory. The children learn the history they have known since first grade. One of them asks an unexpected question. Read the excerpt Close the excerpt At ten in the morning, the doors opened for Class 3B. Twenty-eight children walked in pairs, as they had been taught, all in identical dark blazers. Each w",
+      "candidates": [
+        "people",
+        "had",
+        "pride",
+        "they",
+        "book",
+        "first",
+        "one",
+        "seven",
+        "their",
+        "have",
+        "our",
+        "when",
+        "who",
+        "has",
+        "its",
+        "said",
+        "children",
+        "country",
+        "excerpt",
+        "guide",
+        "literary",
+        "man",
+        "own",
+        "what"
+      ],
+      "suggestedKeywordSeed": [
+        "pride",
+        "seven",
+        "book",
+        "literary",
+        "ashraellen",
+        "books",
+        "cycle",
+        "exceptionalism",
+        "excerpt",
+        "about",
+        "becomes",
+        "belonging",
+        "country",
+        "dystopia",
+        "face",
+        "first",
+        "glory",
+        "had"
       ]
     },
     {

@@ -1,18 +1,18 @@
 # Page Metadata Audit
 
-Generated: 2026-10-14T09:13:28.498Z
+Generated: 2026-10-14T09:19:22.038Z
 
-Pages checked: 883
-Pages with issues: 395
-Total issues: 1816
-Pages with review notes: 679
-Total review notes: 2418
+Pages checked: 884
+Pages with issues: 396
+Total issues: 1817
+Pages with review notes: 681
+Total review notes: 2422
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 281 |
+| MISSING_KEYWORDS | 282 |
 | MISSING_TWITTER_IMAGE | 193 |
 | MISSING_TWITTER_CARD | 179 |
 | MISSING_JSON_LD | 174 |
@@ -35,8 +35,8 @@ Total review notes: 2418
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 679 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 659 |
+| DUPLICATE_OG_IMAGE_REVIEW | 681 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 661 |
 | FALLBACK_OG_IMAGE_USED | 550 |
 | FALLBACK_TWITTER_IMAGE_USED | 530 |
 
@@ -919,6 +919,16 @@ Total review notes: 2418
 
 - MISSING_KEYWORDS
 - DESCRIPTION_TOO_SHORT: 50
+
+### en/books/seven/pride/index.html
+
+- title: Ashraellen — PRIDE | SEVEN, Book II
+- description length: 170
+- canonical: https://www.ashraellen.com/en/books/seven/pride/
+- og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
+
+- MISSING_KEYWORDS
 
 ### en/books/the-book-of-whinesis/index.html
 
@@ -7007,6 +7017,15 @@ Total review notes: 2418
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
 
+### en/books/seven/pride/index.html
+
+- title: Ashraellen — PRIDE | SEVEN, Book II
+- og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
+
 ### en/books/the-book-of-whinesis/index.html
 
 - title: Ashraellen — The Book of Whinesis
@@ -11146,6 +11165,15 @@ Total review notes: 2418
 - title: Ashraellen — Жадность | GREED · SEVEN, книга I
 - og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
+
+### ru/books/seven/pride/index.html
+
+- title: Ashraellen — Гордыня | PRIDE · SEVEN, книга II
+- og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages

@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T09:13:29.301Z
-Pages: 884
+Generated: 2026-10-14T09:19:22.685Z
+Pages: 885
 
 ## Index
 
@@ -180,6 +180,7 @@ Pages: 884
 | en/books/samizdat/order/received/index.html | en | books | Request received — samizdat 2.0 | _missing_ | received, request, samizdat, 2.0, automatically, been, books, has, address, any, ashraellen, availability, created, email, order, purchase, you |
 | en/books/seccus/index.html | en | books | Ashraellen — THE SACRED BOOK OF SECCUS | Ashraellen, SECCUS, The Sacred Book of SECCUS, The Path of Honesty, philosophical satire, money, success, self-deception, knowledge as an alibi, responsibility, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Book | book, seccus, about, sacred, ashraellen, books, money, own, success, alibi, choice, corpus, does, frame, honesty, how, knowledge, literary-philosophical |
 | en/books/seven/greed/index.html | en | books | Ashraellen — GREED \| SEVEN, Book I | _missing_ | greed, ashraellen, novel, seven, about, book, books, andrey, can, crime, cycle, either, excerpt, his, noel, one, points, promise |
+| en/books/seven/pride/index.html | en | books | Ashraellen — PRIDE \| SEVEN, Book II | _missing_ | pride, seven, book, literary, ashraellen, books, cycle, exceptionalism, excerpt, about, becomes, belonging, country, dystopia, face, first, glory, had |
 | en/books/the-book-of-whinesis/index.html | en | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sacred, satire, those, tired, positive, vibes, endless, productivity, cult, success, about, first, chapters, excerpt | book, whinesis, ashraellen, books, about, becomes, chapters, cult, discount, endless, excerpt, first, gnorna, lord, moania, positive, productivity, sacred |
 | en/books/you-are-already-online/index.html | en | books | Ashraellen — You Are Already Online | _missing_ | already, online, you, about, ashraellen, books, chapter, first, novel, reality, algorithms, attention, audio, book, cyberpunk, did, digital, drama |
 | en/contact.html | en | contact.html | Contact — Ashraellen | ashraellen, contact, collaboration, publishing, grants, media, projects | ashraellen, contact, collaboration, grants, inquiries, media, project, publishing, about, channel, contact.html, kostyshev, materials, telegram |
@@ -3834,6 +3835,23 @@ Excerpt:
 Excerpt:
 
 > SEVEN · Book I · A psychological crime novel GREED One person is searching for a way to secure his future. Another offers him a chance to earn. Others hope they have finally found a path to a better life. Little by little, their decisions become parts of a system whose consequences none of them can see in full. Sometimes a trap begins not with a threat, but with an offer you desperately want to accept. SEVEN · Book I · Ashraellen Selected excerpt Chapter One, § 1.3 · working translation of the pre-final text After speaking with Ilya, Noel returns to the routines of home. But the very next day he finds himself explaining a dubious opportunity to somebody else. Read the excerpt Close the excerpt Noel ended the call and went home. Nina was already waiting in the hallway. “Did you adopt the renter?” “He was too old.” “Pity. I've reheated the soup twice.” “Now that's what I call a real family
+
+### en/books/seven/pride/index.html
+
+- lang: en
+- section: books
+- title: Ashraellen — PRIDE | SEVEN, Book II
+- description: PRIDE is a social dystopia in the SEVEN literary cycle: a country where pride becomes exceptionalism and belonging turns into a privilege. Read the Hall of Glory excerpt.
+- canonical: https://www.ashraellen.com/en/books/seven/pride/
+- H1: PRIDE
+- H2: Literary excerpt | About the book | The quiet face of exceptionalism | Points of tension | PRIDE in the SEVEN literary cycle | For readers and publishers | Book status
+- H3: Pride and exceptionalism | Home and the queue | Usefulness and belonging | Politeness and humiliation | Children and inherited order | Memory and the right to be wrong
+- suggested keyword seed: pride, seven, book, literary, ashraellen, books, cycle, exceptionalism, excerpt, about, becomes, belonging, country, dystopia, face, first, glory, had
+- candidates: people, had, pride, they, book, first, one, seven, their, have, our, when, who, has, its, said, children, country, excerpt, guide, literary, man, own, what
+
+Excerpt:
+
+> SEVEN · Book II · A social dystopia PRIDE A country that has learned to take pride in itself again. Its streets are clean, its institutions function, and its people are quietly certain that the established order is right. But one question grows harder to ignore: who is truly entitled to call this country home? Sometimes inequality begins not with hatred, but with the conviction that one's own people should be entitled to a little more. SEVEN · Book II · Ashraellen Literary excerpt “Hall of Glory” · an original story fragment in translation An ordinary school visit to a museum of national memory. The children learn the history they have known since first grade. One of them asks an unexpected question. Read the excerpt Close the excerpt At ten in the morning, the doors opened for Class 3B. Twenty-eight children walked in pairs, as they had been taught, all in identical dark blazers. Each w
 
 ### en/books/the-book-of-whinesis/index.html
 
