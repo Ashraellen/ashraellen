@@ -1,6 +1,6 @@
 # Page Metadata Audit
 
-Generated: 2026-10-14T16:37:54.114Z
+Generated: 2026-10-14T16:41:21.534Z
 
 Pages checked: 909
 Pages with issues: 429
@@ -3224,7 +3224,7 @@ Total review notes: 2474
 ### pt/books/radiance/song/index.html
 
 - title: Ashraellen — Canto | Esplendor, livro II
-- description length: 175
+- description length: 185
 - canonical: https://www.ashraellen.com/pt/books/radiance/song/
 - og:image: https://www.ashraellen.com/assets/covers/song-cover-ru.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/song-cover-ru.webp

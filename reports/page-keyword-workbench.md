@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T16:37:54.944Z
+Generated: 2026-10-14T16:41:22.393Z
 Pages: 910
 
 ## Index
@@ -597,7 +597,7 @@ Pages: 910
 | pt/books/monolith/sludge/index.html | pt | books | Ashraellen — LAMA | Ashraellen, MONÓLITO, LAMA, dystopia, literature, artistic research | lama, ashraellen, books, para, sobre, uma, adam, artístico-investigativa, autor, com, como, cumplicidade, distopia, dossiê, era, estrutura, exaurida, filosófica |
 | pt/books/radiance/index.html | pt | books | Ashraellen — Esplendor \| Contos do norte sobre a história real do mundo | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | esplendor, instruções, mundo, para, que, sobre, ashraellen, books, ciclo, como, investigação, não, antigas, artística, artístico, confundir, contos, este |
 | pt/books/radiance/sampo/index.html | pt | books | Ashraellen — Sampo \| Esplendor, livro I | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | sampo, livro, para, ashraellen, books, esplendor, não, sobre, abundância, ainda, artística, capítulo, com, como, conto, culturais, destaque, editoras |
-| pt/books/radiance/song/index.html | pt | books | Ashraellen — Canto \| Esplendor, livro II | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | canto, livro, para, ashraellen, books, esplendor, não, que, sobre, uma, apresentação, artística, audição, ayla, capítulo, com, como, culturais |
+| pt/books/radiance/song/index.html | pt | books | Ashraellen — Canto \| Esplendor, livro II | Ashraellen, Esplendor, Sampo, Canto, Livros, literary-philosophical, artistic research | canto, livro, para, ashraellen, books, esplendor, não, que, sobre, uma, alargada, apresentação, artística, ayla, capítulo, ciclo, com, como |
 | pt/books/samizdat/demotopia/index.html | pt | books | Demotopia — Passaporte do livro — samizdat 2.0 | _missing_ | demotopia, passaporte, samizdat, 2.0, autor, edição, livro, books, exemplar, física, ashraellen, cada, democracia, esta, não, permanente, sistema, sobre |
 | pt/books/samizdat/index.html | pt | books | samizdat 2.0 — edições de autor de Ashraellen | _missing_ | samizdat, 2.0, ashraellen, autor, books, edições, livro, livros, sem, agora, como, diretas, dos, edição, exemplar, exemplares, feito, físicas |
 | pt/books/samizdat/order/index.html | pt | books | Solicitar um exemplar samizdat 2.0 — Ashraellen | _missing_ | exemplar, pedido, samizdat, 2.0, ashraellen, autor, books, entrega, idioma, preparação, solicitar, assinado, confirmação, leitor, livro, não, orçamento, order |
@@ -10955,12 +10955,12 @@ Excerpt:
 - lang: pt
 - section: books
 - title: Ashraellen — Canto | Esplendor, livro II
-- description: «Canto» é o segundo livro da série «Esplendor»: uma página de apresentação estendida de um romance sobre som, audição, linguagem, Varsóvia e Canto, que não se torna um número.
+- description: «Canto» é o segundo livro do ciclo «Esplendor»: uma apresentação alargada do romance sobre o som, a escuta, a língua, Varsóvia e um canto que não se transforma num número de espetáculo.
 - canonical: https://www.ashraellen.com/pt/books/radiance/song/
 - H1: Canto
 - H2: Capítulo em destaque | Sobre o livro | Sem spoilers | Enquadramento de investigação artística | Tópicos | Para quem | Estado linguístico e editorial | Para fundações, editoras e parceiros culturais
 - H3: Varsóvia como espaço de escuta | Instrumento sem ídolo | Ayla e o regresso | O Canto antes do canto | A palavra | A escuta | A língua | O instrumento
-- suggested keyword seed: canto, livro, para, ashraellen, books, esplendor, não, que, sobre, uma, apresentação, artística, audição, ayla, capítulo, com, como, culturais
+- suggested keyword seed: canto, livro, para, ashraellen, books, esplendor, não, que, sobre, uma, alargada, apresentação, artística, ayla, capítulo, ciclo, com, como
 - candidates: não, que, uma, com, mas, ayla, como, para, era, mais, por, depois, marta, som, ser, sem, estava, trabalho, nem, quase, canto, onde, agora, cimbalom
 
 Excerpt:
