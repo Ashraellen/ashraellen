@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T13:59:01.386Z
+Generated: 2026-10-14T14:02:02.418Z
 Pages: 910
 
 ## Index
@@ -611,7 +611,7 @@ Pages: 910
 | pt/contact.html | pt | contact.html | Contacto — Ashraellen | ashraellen, contacto, colaboração, pedidos editoriais, bolsas, comunicação social, projetos | ashraellen, contacto, bolsas, comunicação, editoriais, pedidos, projetos, questões, sobre, social, colaboração, contact, contact.html, página, para, telegram |
 | pt/index.html | pt | index.html | Ashraellen — livros, investigação e textos públicos | _missing_ | ashraellen, investigação, livros, públicos, textos, artística, independente, literário-filosófica, multilingue, prática, uma, contacto, index.html, sátira, som, vídeo |
 | pt/privacy.html | pt | privacy.html | Política de privacidade — Ashraellen | _missing_ | dados, política, privacidade, análise, que, ashraellen, cookies, para, plataformas, podem, ser, ashraellen.com, atualizações, base, com, compras, contacto, direitos |
-| pt/professional/index.html | pt | professional | Ashraellen — Dossiê profissional | _missing_ | ashraellen, formas, investigação, como, dossiê, linhas, método, obras, observação, paralelas, prática, professional, profissional, públicas, selecionadas, trabalho, artísticas, artístico-filosófica |
+| pt/professional/index.html | pt | professional | Ashraellen — Dossiê profissional | _missing_ | ashraellen, formas, investigação, linhas, como, dossiê, método, obras, observação, paralelas, prática, professional, profissional, públicas, selecionadas, trabalho, artísticas, artístico-filosófica |
 | pt/projects/my-memory/index.html | pt | projects | MY MEMORY — continuidade sob controlo da pessoa | _missing_ | continuidade, memory, controlo, memória, pessoa, sob, como, deve, projects, projeto, que, ashraellen, atual, com, continuar, decisões, duradoura, enquanto |
 | pt/projects/seven/index.html | pt | projects | SEVEN — Investigação sobre vulnerabilidades humanas | _missing_ | que, seven, investigação, uma, como, ser, humanas, pode, projects, sobre, vulnerabilidades, ainda, ashraellen, central, comparado, concorrentes, decisões, esquema |
 | pt/projects/voiceprint/index.html | pt | projects | VOICEPRINT — Onde estou eu neste fluxo? | _missing_ | voiceprint, estou, não, onde, que, texto, uma, autor, fluxo, neste, para, projects, quando, quem, ser, ashraellen, atp, atravessa |
@@ -11198,8 +11198,8 @@ Excerpt:
 - H1: Ashraellen
 - H2: Núcleo de investigação | Sobre o autor | Método de observação | Enquadramentos profissionais | Obras literárias e artísticas selecionadas | Formas públicas do projeto | Linhas paralelas | Como o trabalho se desenvolve hoje
 - H3: Investigação artística | Conhecimento aberto | Sociedade digital | Arquivo digital independente | MONÓLITO | Esplendor | Demotopia — Utopia Democrática | Ashraellen — Espírito da Nova Era
-- suggested keyword seed: ashraellen, formas, investigação, como, dossiê, linhas, método, obras, observação, paralelas, prática, professional, profissional, públicas, selecionadas, trabalho, artísticas, artístico-filosófica
-- candidates: uma, investigação, que, trabalho, não, ashraellen, como, prática, formas, para, sentido, com, linhas, línguas, observação, entre, forma, ser, literária, pessoa, públicas, arquivo, diferentes, mas
+- suggested keyword seed: ashraellen, formas, investigação, linhas, como, dossiê, método, obras, observação, paralelas, prática, professional, profissional, públicas, selecionadas, trabalho, artísticas, artístico-filosófica
+- candidates: uma, investigação, que, trabalho, não, ashraellen, como, prática, com, formas, sentido, linhas, para, línguas, observação, entre, forma, ser, diferentes, literária, públicas, arquivo, mais, mas
 
 Excerpt:
 
