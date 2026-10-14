@@ -1,18 +1,18 @@
 # Page Metadata Audit
 
-Generated: 2026-10-14T09:54:30.662Z
+Generated: 2026-10-14T09:57:46.719Z
 
-Pages checked: 892
-Pages with issues: 404
-Total issues: 1826
-Pages with review notes: 690
-Total review notes: 2440
+Pages checked: 893
+Pages with issues: 405
+Total issues: 1827
+Pages with review notes: 691
+Total review notes: 2442
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 290 |
+| MISSING_KEYWORDS | 291 |
 | MISSING_TWITTER_IMAGE | 193 |
 | MISSING_TWITTER_CARD | 179 |
 | MISSING_JSON_LD | 174 |
@@ -35,8 +35,8 @@ Total review notes: 2440
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 690 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 670 |
+| DUPLICATE_OG_IMAGE_REVIEW | 691 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 671 |
 | FALLBACK_OG_IMAGE_USED | 550 |
 | FALLBACK_TWITTER_IMAGE_USED | 530 |
 
@@ -5392,6 +5392,16 @@ Total review notes: 2440
 
 - MISSING_KEYWORDS
 
+### uk/books/seven/pride/index.html
+
+- title: Ashraellen — Гординя | PRIDE · SEVEN, книга II
+- description length: 171
+- canonical: https://www.ashraellen.com/uk/books/seven/pride/
+- og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
+
+- MISSING_KEYWORDS
+
 ### uk/books/the-book-of-whinesis/index.html
 
 - title: Ashraellen — The Book of Whinesis
@@ -5651,8 +5661,8 @@ Total review notes: 2440
 - og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 5 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 5 pages
 
 ### be/books/the-book-of-whinesis/index.html
 
@@ -7140,8 +7150,8 @@ Total review notes: 2440
 - og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 5 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 5 pages
 
 ### en/books/the-book-of-whinesis/index.html
 
@@ -9831,8 +9841,8 @@ Total review notes: 2440
 - og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 5 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 5 pages
 
 ### pl/books/the-book-of-whinesis/index.html
 
@@ -11328,8 +11338,8 @@ Total review notes: 2440
 - og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 5 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 5 pages
 
 ### ru/books/the-book-of-whinesis/index.html
 
@@ -12164,6 +12174,15 @@ Total review notes: 2440
 - title: Ashraellen — Жадібність | GREED · SEVEN, книга I
 - og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 5 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 5 pages
+
+### uk/books/seven/pride/index.html
+
+- title: Ashraellen — Гординя | PRIDE · SEVEN, книга II
+- og:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/seven-pride-book-two-cover.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 5 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 5 pages
