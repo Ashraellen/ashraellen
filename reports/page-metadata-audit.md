@@ -1,18 +1,18 @@
 # Page Metadata Audit
 
-Generated: 2026-10-14T09:51:15.905Z
+Generated: 2026-10-14T09:54:30.662Z
 
-Pages checked: 891
-Pages with issues: 403
-Total issues: 1825
-Pages with review notes: 689
-Total review notes: 2438
+Pages checked: 892
+Pages with issues: 404
+Total issues: 1826
+Pages with review notes: 690
+Total review notes: 2440
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 289 |
+| MISSING_KEYWORDS | 290 |
 | MISSING_TWITTER_IMAGE | 193 |
 | MISSING_TWITTER_CARD | 179 |
 | MISSING_JSON_LD | 174 |
@@ -35,8 +35,8 @@ Total review notes: 2438
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 689 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 669 |
+| DUPLICATE_OG_IMAGE_REVIEW | 690 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 670 |
 | FALLBACK_OG_IMAGE_USED | 550 |
 | FALLBACK_TWITTER_IMAGE_USED | 530 |
 
@@ -5382,6 +5382,16 @@ Total review notes: 2438
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
 
+### uk/books/seven/greed/index.html
+
+- title: Ashraellen — Жадібність | GREED · SEVEN, книга I
+- description length: 169
+- canonical: https://www.ashraellen.com/uk/books/seven/greed/
+- og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
+
+- MISSING_KEYWORDS
+
 ### uk/books/the-book-of-whinesis/index.html
 
 - title: Ashraellen — The Book of Whinesis
@@ -5623,8 +5633,8 @@ Total review notes: 2438
 - og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 5 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 5 pages
 
 ### be/books/seven/index.html
 
@@ -7112,8 +7122,8 @@ Total review notes: 2438
 - og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 5 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 5 pages
 
 ### en/books/seven/index.html
 
@@ -9803,8 +9813,8 @@ Total review notes: 2438
 - og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 5 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 5 pages
 
 ### pl/books/seven/index.html
 
@@ -11300,8 +11310,8 @@ Total review notes: 2438
 - og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 5 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 5 pages
 
 ### ru/books/seven/index.html
 
@@ -12148,6 +12158,15 @@ Total review notes: 2438
 - FALLBACK_TWITTER_IMAGE_USED: approved fallback; verify intentional use
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 550 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 530 pages
+
+### uk/books/seven/greed/index.html
+
+- title: Ashraellen — Жадібність | GREED · SEVEN, книга I
+- og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 5 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 5 pages
 
 ### uk/books/the-book-of-whinesis/index.html
 
