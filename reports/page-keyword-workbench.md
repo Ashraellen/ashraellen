@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T10:03:07.459Z
-Pages: 895
+Generated: 2026-10-14T10:06:27.104Z
+Pages: 896
 
 ## Index
 
@@ -591,6 +591,7 @@ Pages: 895
 | pt/books/samizdat/order/index.html | pt | books | Solicitar um exemplar samizdat 2.0 — Ashraellen | _missing_ | exemplar, pedido, samizdat, 2.0, ashraellen, autor, books, entrega, idioma, preparação, solicitar, assinado, confirmação, leitor, livro, não, orçamento, order |
 | pt/books/samizdat/order/received/index.html | pt | books | Pedido recebido — samizdat 2.0 | _missing_ | pedido, recebido, samizdat, 2.0, automaticamente, books, compra, criada, foi, antes, ashraellen, confirmar, contacto, email, nenhuma, order, received |
 | pt/books/seccus/index.html | pt | books | Ashraellen — O LIVRO SAGRADO DE SECCUS | Ashraellen, SECCUS, O Livro Sagrado de SECCUS, O Caminho da Honestidade, sátira filosófica, dinheiro, sucesso, autoengano, conhecimento como álibi, responsabilidade, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Livro | livro, seccus, sagrado, ashraellen, books, como, página, para, sobre, sucesso, uma, álibi, autoengano, caminho, conhecimento, corpus, dinheiro, escolha |
+| pt/books/seven/greed/index.html | pt | books | Ashraellen — Ganância \| GREED · SEVEN, Livro I | _missing_ | seven, greed, romance, dos, ganância, livro, ashraellen, books, ciclo, lados, noel, para, ambos, com, criminosa, desejos, dinheiro, dois |
 | pt/books/the-book-of-whinesis/index.html | pt | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sátira, sagrada, para, quem, cansou, das, vibrações, positivas, produtividade, infinita, culto, sucesso, sobre, livro | book, whinesis, ashraellen, books, para, sobre, cansou, capítulos, culto, das, desconto, disse, gnorna, infinita, livro, moania, não, pois |
 | pt/books/you-are-already-online/index.html | pt | books | Ashraellen — Você já está online | _missing_ | está, online, você, ashraellen, books, capítulo, realidade, romance, sobre, algoritmos, already, antes, áudio, como, cyberpunk, demais, digital, drama |
 | pt/contact.html | pt | contact.html | Contato — Ashraellen | ashraellen, contato, colaboração, publicações, bolsas, mídia, projetos | ashraellen, contato, aos, assuntos, bolsas, colaboração, mídia, projetos, canal, contact, contact.html, kostyshev, página, para, publicações, relacionados, telegram |
@@ -10832,6 +10833,23 @@ Excerpt:
 Excerpt:
 
 > SACRUNOMICON — UM TETRA-LIVRO SOBRE O SUCESSO INVERTIDO O LIVRO SAGRADO DE SECCUS O Caminho da Honestidade Um livro sobre dinheiro e sucesso que vira a pergunta habitual ao contrário. Não “como obter o que se deseja”, mas o que exatamente uma pessoa espera comprar junto com liberdade, reconhecimento e o direito de se considerar realizada. O dinheiro é apenas o pretexto. O verdadeiro tema do livro é a pessoa que o deseja. Capa russa: АХЕПСУ. Sacrunomicon. Página selecionada Pergaminho IV: A Queda dos Muros Uma página sobre o motivo que se esconde por trás das palavras corretas sobre liberdade, ajuda, utilidade e propósito. Abrir a página Fechar a página Página 71 — A Fonte Sombria de Energia Estamos nos aproximando da camada mais profunda da sua motivação — aquela que você evitou cuidadosamente, escondendo-se atrás de palavras bonitas e objetivos nobres. Você dizia a si mesmo que queria d
+
+### pt/books/seven/greed/index.html
+
+- lang: pt
+- section: books
+- title: Ashraellen — Ganância | GREED · SEVEN, Livro I
+- description: GREED / «Ganância» — romance policial psicológico do ciclo literário SEVEN. A história de Noel, do seu envolvimento progressivo numa rede criminosa e dos desejos humanos de ambos os lados da fraude.
+- canonical: https://www.ashraellen.com/pt/books/seven/greed/
+- H1: Ganância / GREED
+- H2: Excerto seleccionado | Sobre o romance | Dos dois lados da promessa | Pontos de tensão | O romance no ciclo SEVEN | Para leitores e editores | Estado do livro
+- H3: Necessidade e suficiência | Confiança e verdade conveniente | Os limites da participação | A vontade de recuperar o que se perdeu | Família e autojustificação | Responsabilidade e culpa
+- suggested keyword seed: seven, greed, romance, dos, ganância, livro, ashraellen, books, ciclo, lados, noel, para, ambos, com, criminosa, desejos, dinheiro, dois
+- candidates: que, não, uma, para, noel, com, dos, mas, romance, dinheiro, livro, seven, andrei, por, excerto, greed, história, próprio, quem, ainda, alguém, ciclo, como, dia
+
+Excerpt:
+
+> SEVEN · Livro I · romance policial psicológico Ganância / GREED Um homem procura uma forma de assegurar o futuro. Outro propõe-lhe que ganhe dinheiro. Há ainda quem espere ter finalmente encontrado o caminho para uma vida melhor. As decisões de todos vão-se tornando peças de um sistema cujas consequências nenhum deles consegue compreender por inteiro. Às vezes, a armadilha não começa com uma ameaça, mas com uma proposta a que custa demasiado dizer que não. SEVEN · Livro I · Ashraellen Excerto seleccionado Capítulo I, § 1.3 · versão provisória Depois de falar com Ilia, Noel regressa à sua vida familiar de sempre. Mas, logo no dia seguinte, é ele próprio quem tem de apresentar a outra pessoa uma oportunidade duvidosa de ganhar dinheiro. Ler o excerto Fechar o excerto Noel terminou a chamada e foi para casa. Nina já estava à espera no hall de entrada. — Adoptaste o inquilino? — Não tinha id
 
 ### pt/books/the-book-of-whinesis/index.html
 

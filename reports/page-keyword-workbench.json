@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T10:03:07.445Z",
+  "generated": "2026-10-14T10:06:27.088Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -43661,6 +43661,88 @@
         "corpus",
         "dinheiro",
         "escolha"
+      ]
+    },
+    {
+      "page": "pt/books/seven/greed/index.html",
+      "lang": "pt",
+      "section": "books",
+      "title": "Ashraellen — Ganância | GREED · SEVEN, Livro I",
+      "description": "GREED / «Ganância» — romance policial psicológico do ciclo literário SEVEN. A história de Noel, do seu envolvimento progressivo numa rede criminosa e dos desejos humanos de ambos os lados da fraude.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/pt/books/seven/greed/",
+      "h1": [
+        "Ganância / GREED"
+      ],
+      "h2": [
+        "Excerto seleccionado",
+        "Sobre o romance",
+        "Dos dois lados da promessa",
+        "Pontos de tensão",
+        "O romance no ciclo SEVEN",
+        "Para leitores e editores",
+        "Estado do livro"
+      ],
+      "h3": [
+        "Necessidade e suficiência",
+        "Confiança e verdade conveniente",
+        "Os limites da participação",
+        "A vontade de recuperar o que se perdeu",
+        "Família e autojustificação",
+        "Responsabilidade e culpa"
+      ],
+      "slugTerms": [
+        "pt",
+        "books",
+        "seven",
+        "greed"
+      ],
+      "excerpt": "SEVEN · Livro I · romance policial psicológico Ganância / GREED Um homem procura uma forma de assegurar o futuro. Outro propõe-lhe que ganhe dinheiro. Há ainda quem espere ter finalmente encontrado o caminho para uma vida melhor. As decisões de todos vão-se tornando peças de um sistema cujas consequências nenhum deles consegue compreender por inteiro. Às vezes, a armadilha não começa com uma ameaça, mas com uma proposta a que custa demasiado dizer que não. SEVEN · Livro I · Ashraellen Excerto seleccionado Capítulo I, § 1.3 · versão provisória Depois de falar com Ilia, Noel regressa à sua vida familiar de sempre. Mas, logo no dia seguinte, é ele próprio quem tem de apresentar a outra pessoa uma oportunidade duvidosa de ganhar dinheiro. Ler o excerto Fechar o excerto Noel terminou a chamada e foi para casa. Nina já estava à espera no hall de entrada. — Adoptaste o inquilino? — Não tinha id",
+      "candidates": [
+        "que",
+        "não",
+        "uma",
+        "para",
+        "noel",
+        "com",
+        "dos",
+        "mas",
+        "romance",
+        "dinheiro",
+        "livro",
+        "seven",
+        "andrei",
+        "por",
+        "excerto",
+        "greed",
+        "história",
+        "próprio",
+        "quem",
+        "ainda",
+        "alguém",
+        "ciclo",
+        "como",
+        "dia"
+      ],
+      "suggestedKeywordSeed": [
+        "seven",
+        "greed",
+        "romance",
+        "dos",
+        "ganância",
+        "livro",
+        "ashraellen",
+        "books",
+        "ciclo",
+        "lados",
+        "noel",
+        "para",
+        "ambos",
+        "com",
+        "criminosa",
+        "desejos",
+        "dinheiro",
+        "dois"
       ]
     },
     {
