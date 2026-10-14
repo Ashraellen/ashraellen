@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T13:55:29.699Z
+Generated: 2026-10-14T13:59:01.386Z
 Pages: 910
 
 ## Index
@@ -11199,7 +11199,7 @@ Excerpt:
 - H2: Núcleo de investigação | Sobre o autor | Método de observação | Enquadramentos profissionais | Obras literárias e artísticas selecionadas | Formas públicas do projeto | Linhas paralelas | Como o trabalho se desenvolve hoje
 - H3: Investigação artística | Conhecimento aberto | Sociedade digital | Arquivo digital independente | MONÓLITO | Esplendor | Demotopia — Utopia Democrática | Ashraellen — Espírito da Nova Era
 - suggested keyword seed: ashraellen, formas, investigação, como, dossiê, linhas, método, obras, observação, paralelas, prática, professional, profissional, públicas, selecionadas, trabalho, artísticas, artístico-filosófica
-- candidates: uma, investigação, que, trabalho, ashraellen, não, como, prática, formas, sentido, para, com, linhas, observação, línguas, entre, forma, ser, literária, pessoa, públicas, arquivo, diferentes, projeto
+- candidates: uma, investigação, que, trabalho, não, ashraellen, como, prática, formas, para, sentido, com, linhas, línguas, observação, entre, forma, ser, literária, pessoa, públicas, arquivo, diferentes, mas
 
 Excerpt:
 
