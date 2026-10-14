@@ -1,6 +1,6 @@
 # Page Metadata Audit
 
-Generated: 2026-10-14T15:47:47.488Z
+Generated: 2026-10-14T15:54:30.967Z
 
 Pages checked: 909
 Pages with issues: 429
