@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-10-13T17:05:30.920Z
+Generated: 2026-10-14T06:47:40.131Z
 
-Pages checked: 879
-Pages with issues: 391
-Total issues: 1811
+Pages checked: 880
+Pages with issues: 392
+Total issues: 1812
 Pages with review notes: 677
 Total review notes: 2414
 
@@ -12,7 +12,7 @@ Total review notes: 2414
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 277 |
+| MISSING_KEYWORDS | 278 |
 | MISSING_TWITTER_IMAGE | 193 |
 | MISSING_TWITTER_CARD | 179 |
 | MISSING_JSON_LD | 174 |
@@ -3839,6 +3839,16 @@ Total review notes: 2414
 - MISSING_OG_IMAGE
 - MISSING_TWITTER_CARD
 - MISSING_TWITTER_IMAGE
+
+### ru/books/seven/index.html
+
+- title: Ashraellen — SEVEN | Литературный цикл о семи человеческих уязвимостях
+- description length: 184
+- canonical: https://www.ashraellen.com/ru/books/seven/
+- og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
+
+- MISSING_KEYWORDS
 
 ### ru/books/you-are-already-online/index.html
 
