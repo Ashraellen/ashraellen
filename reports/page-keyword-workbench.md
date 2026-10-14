@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T10:38:35.035Z
-Pages: 904
+Generated: 2026-10-14T10:44:55.925Z
+Pages: 905
 
 ## Index
 
@@ -98,6 +98,7 @@ Pages: 904
 | de/books/samizdat/order/index.html | de | books | Ein samizdat-2.0-Exemplar anfragen — Ashraellen | _missing_ | anfrage, exemplar, anfragen, ashraellen, books, ein, lieferung, autor, bestätigung, buch, das, den, der, des, die, eines, herausgegebenen, jeder |
 | de/books/samizdat/order/received/index.html | de | books | Anfrage erhalten — samizdat 2.0 | _missing_ | anfrage, erhalten, samizdat, 2.0, abgeschlossen, automatisch, books, wurde, angegebenen, ashraellen, beginnt, bestätigen, bevor, bitte, ein, kauf, nicht, order |
 | de/books/seccus/index.html | de | books | Ashraellen — DAS HEILIGE BUCH SECCUS | Ashraellen, SECCUS, Das Heilige Buch SECCUS, Der Weg der Ehrlichkeit, philosophische Satire, Geld, Erfolg, Selbsttäuschung, Wissen als Alibi, Verantwortung, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Buch | das, buch, der, die, seccus, heilige, und, ashraellen, books, des, für, ist, seite, über, alibi, als, ausgewählte, buches |
+| de/books/seven/greed/index.html | de | books | Ashraellen — Gier \| GREED · SEVEN, Buch I | _missing_ | greed, seven, des, gier, und, ashraellen, auf, beiden, books, den, der, ein, noel, roman, seiten, aus, ausgewählte, betrugs |
 | de/books/the-book-of-whinesis/index.html | de | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sakrale, satire, für, alle, die, von, positiven, vibes, endloser, produktivität, und, dem, kult, des | book, whinesis, ashraellen, books, des, die, und, alle, auf, auszug, buch, das, dem, den, der, endloser, erfolgs, erste |
 | de/books/you-are-already-online/index.html | de | books | Ashraellen — Du bist bereits online | _missing_ | bereits, online, bist, des, und, ashraellen, books, das, ein, über, algorithmen, already, audio-roman, auszug, buch, cyberpunk-dramas, den, der |
 | de/contact.html | de | contact.html | Kontakt — Ashraellen | ashraellen, kontakt, zusammenarbeit, verlag, förderungen, medien, projekte | ashraellen, kontakt, förderungen, für, medien, und, zusammenarbeit, contact, contact.html, der, ist, kostyshev, öffentliche, projekte, telegram-kanal, verlagsanfragen |
@@ -2460,6 +2461,23 @@ Excerpt:
 Excerpt:
 
 > SACRUNOMICON — EIN TETRA-BUCH ÜBER UMGEKEHRTEN ERFOLG DAS HEILIGE BUCH SECCUS Der Weg der Ehrlichkeit Ein Buch über Geld und Erfolg, das die gewohnte Frage umkehrt. Nicht „wie bekomme ich, was ich will“, sondern was genau ein Mensch zusammen mit Freiheit, Anerkennung und dem Recht, sich selbst als angekommen zu betrachten, zu erwerben hofft. Geld ist nur der Vorwand. Der eigentliche Gegenstand des Buches ist der Mensch, der es will. Russisches Cover: АХЕПСУ. Sacrunomicon. Ausgewählte Seite Schriftrolle IV: Der Fall der Mauern Eine Seite über das Motiv, das sich hinter den richtigen Worten über Freiheit, Hilfe, Nutzen und Bestimmung verbirgt. Seite öffnen Seite schließen Seite 71 — Die Schattenquelle der Energie Wir nähern uns der tiefsten Schicht deiner Motivation — jener, die du sorgfältig umgangen hast, indem du dich hinter schönen Worten und edlen Zielen verborgen hast. Du hast dir ge
+
+### de/books/seven/greed/index.html
+
+- lang: de
+- section: books
+- title: Ashraellen — Gier | GREED · SEVEN, Buch I
+- description: GREED / »Gier« — psychologischer Kriminalroman aus dem Literaturzyklus SEVEN. Noel gerät in ein kriminelles Geflecht: menschliche Wünsche und Entscheidungen auf beiden Seiten des Betrugs.
+- canonical: https://www.ashraellen.com/de/books/seven/greed/
+- H1: Gier / GREED
+- H2: Ausgewählte Leseprobe | Über den Roman | Auf beiden Seiten des Versprechens | Konfliktlinien | Der Roman im Zyklus SEVEN | Für Leserinnen, Leser und Verlage | Stand des Buchprojekts
+- H3: Notwendigkeit und Genug | Vertrauen und die bequeme Wahrheit | Grenzen der Beteiligung | Der Wunsch, Verluste zurückzuholen | Familie und Selbstrechtfertigung | Verantwortung und Schuld
+- suggested keyword seed: greed, seven, des, gier, und, ashraellen, auf, beiden, books, den, der, ein, noel, roman, seiten, aus, ausgewählte, betrugs
+- candidates: die, der, und, nicht, das, eine, ein, noel, von, den, ich, mit, nach, einer, ist, sich, wie, als, auf, aus, für, seven, über, andere
+
+Excerpt:
+
+> SEVEN · Buch I · psychologischer Kriminalroman Gier / GREED Ein Mann sucht nach einer Möglichkeit, seine Zukunft abzusichern. Ein anderer bietet ihm an, Geld zu verdienen. Wieder andere hoffen, endlich einen Weg in ein besseres Leben gefunden zu haben. Nach und nach werden ihre Entscheidungen Teil eines Systems, dessen Folgen keiner von ihnen vollständig überblicken kann. Manchmal beginnt eine Falle nicht mit einer Drohung, sondern mit einem Angebot, das man nur allzu gern annehmen möchte. SEVEN · Buch I · Ashraellen Ausgewählte Leseprobe Erstes Kapitel, § 1.3 · vorläufige Fassung Nach seinem Gespräch mit Ilja kehrt Noel in den gewohnten Familienalltag zurück. Doch schon am folgenden Tag muss er selbst einem anderen Menschen von einer zweifelhaften Verdienstmöglichkeit erzählen. Leseprobe öffnen Leseprobe schließen Noel beendete das Gespräch und ging nach Hause. Nina stand schon im Flur.
 
 ### de/books/the-book-of-whinesis/index.html
 
