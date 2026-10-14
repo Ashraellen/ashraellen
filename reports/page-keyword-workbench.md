@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T13:33:15.648Z
+Generated: 2026-10-14T13:43:23.978Z
 Pages: 910
 
 ## Index
@@ -11968,7 +11968,7 @@ Excerpt:
 
 Excerpt:
 
-> Investigação Ashraellen não é apenas um nome, mas um modo de ver. É um modo de consciência em que o mundo é percebido não como um conjunto de acontecimentos, pensamentos e reações separados, mas como uma teia de sentidos, relações, nós e reflexos. Nesse modo, um sentido abre outro: o pessoal se liga ao social, o cotidiano ao simbólico, o espiritual à linguagem, o medo à crença, a dor à visão de mundo, e uma frase casual pode revelar uma camada inteira de autoengano humano. Ashraellen é uma investigação artístico-filosófica do sentido ao longo de uma vida. Ela não nasce do desejo de produzir textos, livros, vídeos ou formatos de mídia, mas de um modo específico de funcionamento da consciência: a capacidade de perceber sentidos dentro de sentidos, estruturas dentro de estruturas e entrelaçamentos onde, na superfície, parece haver apenas um pensamento isolado, uma frase casual, uma cena cot
+> Investigação Ashraellen não é apenas um nome, mas um modo de ver. É um modo de consciência em que o mundo é percebido não como um conjunto de acontecimentos, pensamentos e reações separados, mas como uma teia de sentidos, relações, nós e reflexos. Nesse modo, um sentido abre outro: o pessoal liga-se ao social, o quotidiano ao simbólico, o espiritual à linguagem, o medo à crença, a dor à visão de mundo, e uma frase casual pode revelar uma camada inteira de autoengano humano. Ashraellen é uma investigação artístico-filosófica do sentido ao longo de uma vida. Não nasce do desejo de produzir textos, livros, vídeos ou formatos de comunicação social, mas de um modo específico de funcionamento da consciência: a capacidade de perceber sentidos dentro de sentidos, estruturas dentro de estruturas e entrelaçamentos onde, na superfície, parece haver apenas um pensamento isolado, uma frase casual, um
 
 ### pt/research/method/index.html
 
