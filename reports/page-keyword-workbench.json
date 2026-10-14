@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T10:20:09.098Z",
+  "generated": "2026-10-14T10:27:39.298Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -18937,6 +18937,89 @@
         "delictiva",
         "dentro",
         "deseos"
+      ]
+    },
+    {
+      "page": "es/books/seven/index.html",
+      "lang": "es",
+      "section": "books",
+      "title": "Ashraellen — SEVEN | Ciclo literario sobre siete vulnerabilidades humanas",
+      "description": "SEVEN es el ciclo literario de Ashraellen sobre siete vulnerabilidades humanas: codicia, soberbia, lujuria, envidia, ira, gula y acedia. GREED, PRIDE y LUST son los tres primeros libros.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/es/books/seven/",
+      "h1": [
+        "SEVEN"
+      ],
+      "h2": [
+        "Qué es SEVEN",
+        "Los libros del ciclo",
+        "Siete vulnerabilidades, siete formas de perder la medida",
+        "Para quién se escribe SEVEN",
+        "Para editores y colaboradores de investigación",
+        "Qué vendrá después",
+        "De la literatura a la investigación"
+      ],
+      "h3": [
+        "Codicia",
+        "Soberbia",
+        "Lujuria",
+        "Codicia / GREED · Libro I",
+        "Soberbia / PRIDE · Libro II",
+        "Lujuria / LUST · Libro III",
+        "Envidia / ENVY",
+        "Ira / WRATH"
+      ],
+      "slugTerms": [
+        "es",
+        "books",
+        "seven"
+      ],
+      "excerpt": "Ciclo literario y de investigación · siete libros SEVEN Siete vulnerabilidades humanas. Siete universos literarios independientes. Un intento de comprender cómo los deseos, los miedos y las necesidades corrientes empiezan, poco a poco, a gobernar las decisiones de una persona. No se trata de los defectos como condena, sino del ser humano que no siempre advierte cuándo su propia fortaleza se convierte en vulnerabilidad. Qué es SEVEN Literatura y una pregunta de investigación SEVEN parte del esquema históricamente conocido de siete vulnerabilidades humanas. Pero el ciclo no propone clasificar a las personas simplemente como «codiciosas», «soberbias» o «lujuriosas». Le interesa el momento del cambio: cuándo una aspiración comprensible se vuelve excesiva, se entrelaza con otras motivaciones, empieza a justificar actos y termina transformando a la propia persona. El ciclo no está concebido co",
+      "candidates": [
+        "una",
+        "las",
+        "los",
+        "del",
+        "siete",
+        "con",
+        "ciclo",
+        "investigación",
+        "como",
+        "libro",
+        "para",
+        "literario",
+        "pero",
+        "seven",
+        "humanas",
+        "novela",
+        "puede",
+        "que",
+        "qué",
+        "sobre",
+        "sus",
+        "cómo",
+        "historia",
+        "libros"
+      ],
+      "suggestedKeywordSeed": [
+        "seven",
+        "siete",
+        "ciclo",
+        "ashraellen",
+        "investigación",
+        "literario",
+        "los",
+        "para",
+        "vulnerabilidades",
+        "books",
+        "del",
+        "humanas",
+        "libros",
+        "qué",
+        "sobre",
+        "acedia",
+        "codicia",
+        "colaboradores"
       ]
     },
     {

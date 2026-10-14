@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T10:20:09.109Z
-Pages: 900
+Generated: 2026-10-14T10:27:39.307Z
+Pages: 901
 
 ## Index
 
@@ -259,6 +259,7 @@ Pages: 900
 | es/books/samizdat/order/received/index.html | es | books | Solicitud recibida — samizdat 2.0 | _missing_ | recibida, samizdat, solicitud, 2.0, automáticamente, books, compra, antes, ashraellen, carpeta, confirmar, contacto, correo, coste, creado, ninguna, order, received |
 | es/books/seccus/index.html | es | books | Ashraellen — EL LIBRO SAGRADO DE SECCUS | Ashraellen, SECCUS, El Libro Sagrado de SECCUS, El Camino de la Honestidad, sátira filosófica, dinero, éxito, autoengaño, conocimiento como coartada, responsabilidad, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Libro | libro, seccus, sagrado, ashraellen, books, del, dinero, éxito, página, para, sobre, una, autoengaño, camino, coartada, como, con, conocimiento |
 | es/books/seven/greed/index.html | es | books | Ashraellen — Codicia \| GREED · SEVEN, libro I | _missing_ | del, seven, greed, novela, codicia, libro, ambos, ashraellen, books, ciclo, lados, los, noël, una, con, delictiva, dentro, deseos |
+| es/books/seven/index.html | es | books | Ashraellen — SEVEN \| Ciclo literario sobre siete vulnerabilidades humanas | _missing_ | seven, siete, ciclo, ashraellen, investigación, literario, los, para, vulnerabilidades, books, del, humanas, libros, qué, sobre, acedia, codicia, colaboradores |
 | es/books/seven/pride/index.html | es | books | Ashraellen — Soberbia \| PRIDE · SEVEN, libro II | _missing_ | pride, libro, seven, del, fragmento, literario, soberbia, ashraellen, books, ciclo, exclusividad, sala, con, convierte, distopía, donde, editores, estado |
 | es/books/the-book-of-whinesis/index.html | es | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sátira, sagrada, para, quienes, han, cansado, las, vibras, positivas, productividad, infinita, culto, éxito, sobre | book, whinesis, ashraellen, books, para, sobre, cansado, capítulos, con, culto, del, dijo, estado, éxito, fragmento, han, infinita, las |
 | es/books/you-are-already-online/index.html | es | books | Ashraellen — Ya estás en la red | _missing_ | estás, red, ashraellen, books, capítulo, del, los, novela, realidad, sobre, una, algoritmos, already, antes, como, cyberpunk, digital, drama |
@@ -5193,6 +5194,23 @@ Excerpt:
 Excerpt:
 
 > SEVEN · libro I · novela negra psicológica Codicia / GREED Un hombre busca la forma de asegurar su futuro. Otro le propone ganar dinero. Otros esperan haber encontrado por fin el camino hacia una vida mejor. Sus decisiones se van convirtiendo en piezas de un sistema cuyas consecuencias ninguno de ellos alcanza a ver por completo. A veces la trampa no empieza con una amenaza, sino con una oferta a la que resulta demasiado tentador decir que sí. SEVEN · Libro I · Ashraellen Fragmento seleccionado Capítulo primero, § 1.3 · versión provisional Después de hablar con Iliá, Noël regresa a su vida familiar de siempre. Pero al día siguiente es él quien debe explicarle a otra persona una dudosa oportunidad de ganar dinero. Leer el fragmento Ocultar el fragmento Noël terminó la llamada y se fue a casa. Nina ya estaba en el recibidor. —¿Has adoptado al inquilino? —No cumplía el requisito de edad. —Q
+
+### es/books/seven/index.html
+
+- lang: es
+- section: books
+- title: Ashraellen — SEVEN | Ciclo literario sobre siete vulnerabilidades humanas
+- description: SEVEN es el ciclo literario de Ashraellen sobre siete vulnerabilidades humanas: codicia, soberbia, lujuria, envidia, ira, gula y acedia. GREED, PRIDE y LUST son los tres primeros libros.
+- canonical: https://www.ashraellen.com/es/books/seven/
+- H1: SEVEN
+- H2: Qué es SEVEN | Los libros del ciclo | Siete vulnerabilidades, siete formas de perder la medida | Para quién se escribe SEVEN | Para editores y colaboradores de investigación | Qué vendrá después | De la literatura a la investigación
+- H3: Codicia | Soberbia | Lujuria | Codicia / GREED · Libro I | Soberbia / PRIDE · Libro II | Lujuria / LUST · Libro III | Envidia / ENVY | Ira / WRATH
+- suggested keyword seed: seven, siete, ciclo, ashraellen, investigación, literario, los, para, vulnerabilidades, books, del, humanas, libros, qué, sobre, acedia, codicia, colaboradores
+- candidates: una, las, los, del, siete, con, ciclo, investigación, como, libro, para, literario, pero, seven, humanas, novela, puede, que, qué, sobre, sus, cómo, historia, libros
+
+Excerpt:
+
+> Ciclo literario y de investigación · siete libros SEVEN Siete vulnerabilidades humanas. Siete universos literarios independientes. Un intento de comprender cómo los deseos, los miedos y las necesidades corrientes empiezan, poco a poco, a gobernar las decisiones de una persona. No se trata de los defectos como condena, sino del ser humano que no siempre advierte cuándo su propia fortaleza se convierte en vulnerabilidad. Qué es SEVEN Literatura y una pregunta de investigación SEVEN parte del esquema históricamente conocido de siete vulnerabilidades humanas. Pero el ciclo no propone clasificar a las personas simplemente como «codiciosas», «soberbias» o «lujuriosas». Le interesa el momento del cambio: cuándo una aspiración comprensible se vuelve excesiva, se entrelaza con otras motivaciones, empieza a justificar actos y termina transformando a la propia persona. El ciclo no está concebido co
 
 ### es/books/seven/pride/index.html
 
