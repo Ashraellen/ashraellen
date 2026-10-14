@@ -1,18 +1,18 @@
 # Page Metadata Audit
 
-Generated: 2026-10-14T09:33:21.531Z
+Generated: 2026-10-14T09:39:40.838Z
 
-Pages checked: 887
-Pages with issues: 399
-Total issues: 1821
-Pages with review notes: 685
-Total review notes: 2430
+Pages checked: 888
+Pages with issues: 400
+Total issues: 1822
+Pages with review notes: 686
+Total review notes: 2432
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 285 |
+| MISSING_KEYWORDS | 286 |
 | MISSING_TWITTER_IMAGE | 193 |
 | MISSING_TWITTER_CARD | 179 |
 | MISSING_JSON_LD | 174 |
@@ -35,8 +35,8 @@ Total review notes: 2430
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 685 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 665 |
+| DUPLICATE_OG_IMAGE_REVIEW | 686 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 666 |
 | FALLBACK_OG_IMAGE_USED | 550 |
 | FALLBACK_TWITTER_IMAGE_USED | 530 |
 
@@ -188,6 +188,16 @@ Total review notes: 2430
 - canonical: https://www.ashraellen.com/be/books/seven/greed/
 - og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
+
+- MISSING_KEYWORDS
+
+### be/books/seven/index.html
+
+- title: Ashraellen — SEVEN | Літаратурны цыкл пра сем чалавечых уразлівасцяў
+- description length: 185
+- canonical: https://www.ashraellen.com/be/books/seven/
+- og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 
 - MISSING_KEYWORDS
 
@@ -5586,6 +5596,15 @@ Total review notes: 2430
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 3 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 3 pages
 
+### be/books/seven/index.html
+
+- title: Ashraellen — SEVEN | Літаратурны цыкл пра сем чалавечых уразлівасцяў
+- og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 3 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 3 pages
+
 ### be/books/seven/pride/index.html
 
 - title: Ashraellen — Гардыня | PRIDE · SEVEN, кніга II
@@ -7072,8 +7091,8 @@ Total review notes: 2430
 - og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 3 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 3 pages
 
 ### en/books/seven/pride/index.html
 
@@ -11233,8 +11252,8 @@ Total review notes: 2430
 - og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 3 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 3 pages
 
 ### ru/books/seven/pride/index.html
 
