@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T13:51:09.989Z
+Generated: 2026-10-14T13:54:45.138Z
 Pages: 910
 
 ## Index
@@ -11964,7 +11964,7 @@ Excerpt:
 - H2: O que é investigado | Como isso é feito | Forma fragmentária, investigação contínua | Método | Como entender este trabalho | Investigação artística | Conhecimento aberto | Sociedade digital
 - H3: _missing_
 - suggested keyword seed: investigação, ashraellen, como, sentido, uma, observação, que, research, aberto, abrir, artística, artístico-filosófica, com, conhecimento, contacto, contínua, digital, entender
-- candidates: uma, como, investigação, que, não, mas, sentido, ashraellen, por, observação, abrir, onde, para, digital, pessoa, dentro, modo, são, ser, sistema, trabalho, com, forma, pode
+- candidates: uma, como, investigação, que, não, mas, sentido, ashraellen, por, observação, abrir, onde, para, digital, pessoa, forma, modo, são, ser, sistema, trabalho, com, dentro, pode
 
 Excerpt:
 
