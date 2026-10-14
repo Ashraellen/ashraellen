@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T09:46:04.864Z",
+  "generated": "2026-10-14T09:51:16.553Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -34495,8 +34495,8 @@
       "lang": "pl",
       "section": "books",
       "title": "Ashraellen — Książki",
-      "description": "Książki Ashraellena: Demotopia, MONOLITH, Blask, Błąd 404: Boga nie znaleziono, Święta Księga SECCUS, Już jesteś w sieci, The Book of Whinesis oraz bezpośrednie wydania autorskie samizdat 2.0.",
-      "existingKeywords": "Ashraellen, książki, Demotopia, Demokratyczna Utopia, MONOLITH, Blask, Błąd 404, SECCUS, Już jesteś w sieci, The Book of Whinesis, samizdat 2.0, wydania autorskie",
+      "description": "Książki Ashraellena: Demotopia, MONOLITH, Blask, SEVEN, Błąd 404: Boga nie znaleziono, Święta Księga SECCUS, Już jesteś w sieci, The Book of Whinesis oraz bezpośrednie wydania autorskie samizdat 2.0.",
+      "existingKeywords": "Ashraellen, książki, Demotopia, Demokratyczna Utopia, MONOLITH, Blask, SEVEN, Błąd 404, SECCUS, Już jesteś w sieci, The Book of Whinesis, samizdat 2.0, wydania autorskie",
       "canonical": "https://www.ashraellen.com/pl/books/",
       "h1": [
         "Książki"
@@ -34512,12 +34512,12 @@
         "pl",
         "books"
       ],
-      "excerpt": "Książki Zebrano tu cykle książkowe, samodzielne powieści, książki-badania, satyrę oraz bezpośrednie fizyczne wydania autorskie Ashraellena. Wybierz większy projekt albo zacznij od konkretnej książki. Cykle książkowe serie i projekty długoterminowe MONOLITH Literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów. BETON, SLUDGE i GAS zapisują przejście materii społecznej od zastygłej stabilności przez lepką deformację aż po utratę szczelności formy. Otwórz trylogię trylogia Blask Literacko-filozoficzny cykl artystyczno-badawczy o północnych podaniach i dawnych obrazach jako żywych instrukcjach do świata. Nie jest to streszczenie „Kalevali”, lecz powrót do ludzkiego doświadczenia, z którego takie opowieści mogły powstać. Otwórz cykl cykl Błąd 404: Boga nie znaleziono Filozoficzno-satyryczny cykl powieściowy o Niebiańskiej Kancelarii i ludziach, którzy szukają B",
+      "excerpt": "Książki Zebrano tu cykle książkowe, samodzielne powieści, książki-badania, satyrę oraz bezpośrednie fizyczne wydania autorskie Ashraellena. Wybierz większy projekt albo zacznij od konkretnej książki. Cykle książkowe serie i projekty długoterminowe MONOLITH Literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów. BETON, SLUDGE i GAS zapisują przejście materii społecznej od zastygłej stabilności przez lepką deformację aż po utratę szczelności formy. Otwórz trylogię trylogia Blask Literacko-filozoficzny cykl artystyczno-badawczy o północnych podaniach i dawnych obrazach jako żywych instrukcjach do świata. Nie jest to streszczenie „Kalevali”, lecz powrót do ludzkiego doświadczenia, z którego takie opowieści mogły powstać. Otwórz cykl cykl SEVEN Cykl siedmiu samodzielnych książek o ludzkich podatnościach i decyzjach, które zmieniają życie. Pierwsze opowieści to p",
       "candidates": [
-        "otwórz",
         "cykl",
-        "książki",
+        "otwórz",
         "powieść",
+        "książki",
         "system",
         "2.0",
         "audio",
@@ -34525,6 +34525,7 @@
         "bezpośrednie",
         "błąd",
         "boga",
+        "książek",
         "nie",
         "oraz",
         "samizdat",
@@ -34536,8 +34537,7 @@
         "blask",
         "book",
         "cyfrowej",
-        "cykle",
-        "demotopia"
+        "cykle"
       ],
       "suggestedKeywordSeed": [
         "książki",
@@ -34548,7 +34548,6 @@
         "błąd",
         "boga",
         "books",
-        "nie",
         "wydania",
         "404",
         "ashraellena",
@@ -34557,7 +34556,8 @@
         "blask",
         "book",
         "cykl",
-        "cykle"
+        "cykle",
+        "demotopia"
       ]
     },
     {
@@ -38054,6 +38054,89 @@
         "kryminalna",
         "książką",
         "księga"
+      ]
+    },
+    {
+      "page": "pl/books/seven/index.html",
+      "lang": "pl",
+      "section": "books",
+      "title": "Ashraellen — SEVEN | Cykl literacki o siedmiu ludzkich podatnościach",
+      "description": "SEVEN — cykl literacki Ashraellena o siedmiu ludzkich podatnościach: chciwości, pysze, pożądaniu, zazdrości, gniewie, nieumiarkowaniu i acedii. GREED, PRIDE i LUST to pierwsze trzy książki.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/pl/books/seven/",
+      "h1": [
+        "SEVEN"
+      ],
+      "h2": [
+        "Czym jest SEVEN?",
+        "Książki cyklu",
+        "Siedem podatności — siedem sposobów utraty umiaru",
+        "Dla kogo powstaje SEVEN?",
+        "Dla redaktorów, wydawców i partnerów badawczych",
+        "Co dalej?",
+        "Od literatury do badań"
+      ],
+      "h3": [
+        "Chciwość",
+        "Pycha",
+        "Pożądanie",
+        "Chciwość / GREED · Księga I",
+        "Pycha / PRIDE · Księga II",
+        "Pożądanie / LUST · Księga III",
+        "Zazdrość / ENVY",
+        "Gniew / WRATH"
+      ],
+      "slugTerms": [
+        "pl",
+        "books",
+        "seven"
+      ],
+      "excerpt": "Cykl literacko-badawczy · siedem książek SEVEN Siedem ludzkich podatności. Siedem samodzielnych światów literackich. Jedna próba zrozumienia, jak zwyczajne pragnienia, lęki i potrzeby stopniowo zaczynają kierować ludzkimi wyborami. Nie o wadach jako wyroku — lecz o człowieku, który nie zawsze dostrzega moment, gdy jego własna siła staje się słabością. Czym jest SEVEN? Literatura i pytanie badawcze Punktem wyjścia SEVEN jest znany z historii schemat siedmiu ludzkich podatności. Cykl nie proponuje jednak prostego podziału ludzi na „chciwych”, „pysznych” czy „pożądliwych”. Interesuje go chwila przejścia: kiedy zrozumiałe dążenie staje się nadmierne, splata się z innymi motywami, zaczyna usprawiedliwiać postępowanie i stopniowo zmienia samego człowieka. Nie jest to siedem odmian tej samej fabuły. Intryga kryminalna, porządek społeczny czy osobiste relacje stawiają człowieka wobec odmiennych ",
+      "candidates": [
+        "się",
+        "nie",
+        "seven",
+        "siedem",
+        "jednak",
+        "cykl",
+        "czy",
+        "książki",
+        "księga",
+        "staje",
+        "stopniowo",
+        "lecz",
+        "ludzi",
+        "ludzkich",
+        "podatności",
+        "powieść",
+        "pragnienie",
+        "cyklu",
+        "greed",
+        "jego",
+        "lub",
+        "może",
+        "pierwsze",
+        "pożądanie"
+      ],
+      "suggestedKeywordSeed": [
+        "seven",
+        "cykl",
+        "książki",
+        "siedem",
+        "ashraellen",
+        "books",
+        "literacki",
+        "ludzkich",
+        "podatnościach",
+        "siedmiu",
+        "acedii",
+        "ashraellena",
+        "badań",
+        "badawczych",
+        "chciwości",
+        "cyklu",
+        "czy",
+        "czym"
       ]
     },
     {

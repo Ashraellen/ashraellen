@@ -1,18 +1,18 @@
 # Page Metadata Audit
 
-Generated: 2026-10-14T09:46:04.349Z
+Generated: 2026-10-14T09:51:15.905Z
 
-Pages checked: 890
-Pages with issues: 402
-Total issues: 1824
-Pages with review notes: 688
-Total review notes: 2436
+Pages checked: 891
+Pages with issues: 403
+Total issues: 1825
+Pages with review notes: 689
+Total review notes: 2438
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 288 |
+| MISSING_KEYWORDS | 289 |
 | MISSING_TWITTER_IMAGE | 193 |
 | MISSING_TWITTER_CARD | 179 |
 | MISSING_JSON_LD | 174 |
@@ -35,8 +35,8 @@ Total review notes: 2436
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 688 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 668 |
+| DUPLICATE_OG_IMAGE_REVIEW | 689 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 669 |
 | FALLBACK_OG_IMAGE_USED | 550 |
 | FALLBACK_TWITTER_IMAGE_USED | 530 |
 
@@ -2904,6 +2904,16 @@ Total review notes: 2436
 
 - MISSING_KEYWORDS
 
+### pl/books/seven/index.html
+
+- title: Ashraellen — SEVEN | Cykl literacki o siedmiu ludzkich podatnościach
+- description length: 189
+- canonical: https://www.ashraellen.com/pl/books/seven/
+- og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
+
+- MISSING_KEYWORDS
+
 ### pl/books/seven/pride/index.html
 
 - title: Ashraellen — Pycha | PRIDE · SEVEN, księga II
@@ -5622,8 +5632,8 @@ Total review notes: 2436
 - og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 3 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 3 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
 
 ### be/books/seven/pride/index.html
 
@@ -7111,8 +7121,8 @@ Total review notes: 2436
 - og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 3 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 3 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
 
 ### en/books/seven/pride/index.html
 
@@ -9796,6 +9806,15 @@ Total review notes: 2436
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
 
+### pl/books/seven/index.html
+
+- title: Ashraellen — SEVEN | Cykl literacki o siedmiu ludzkich podatnościach
+- og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
+
 ### pl/books/seven/pride/index.html
 
 - title: Ashraellen — Pycha | PRIDE · SEVEN, księga II
@@ -11290,8 +11309,8 @@ Total review notes: 2436
 - og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 3 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 3 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 4 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 4 pages
 
 ### ru/books/seven/pride/index.html
 

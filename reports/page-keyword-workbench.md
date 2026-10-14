@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T09:46:04.876Z
-Pages: 891
+Generated: 2026-10-14T09:51:16.569Z
+Pages: 892
 
 ## Index
 
@@ -469,7 +469,7 @@ Pages: 891
 | pl/books/demotopia/index.html | pl | books | Demotopia — Demokratyczna Utopia — powieść Ashraellena | Ashraellen, Demotopia, Demokratyczna Utopia, powieść filozoficzna, fantastyka społeczna, Warszawa, demokracja, dyktatura, dane, wolność, odpowiedzialność | demotopia, powieść, ashraellena, books, artystyczno-badawcza, ashraellen, atmosfera, bez, człowiek, człowieka, danych, demokracji, demokratyczna, dwa, filozoficzna, forma, fragment, główne |
 | pl/books/error-404-god-not-found/index.html | pl | books | Ashraellen — Błąd 404: Boga nie znaleziono | ashraellen, books, error, 404, god, found, błąd, boga, nie, znaleziono, wielojęzyczny, filozoficzno-satyryczny, cykl, powieściowy, niebiańskiej, kancelarii, ludzkiej, pretensji | nie, 404, błąd, boga, znaleziono, ashraellen, bogu, books, kancelarii, który, niebiańskiej, szukania, albo, błędzie, cykl, cyklu, error, filozoficzno-satyryczny |
 | pl/books/error-404-god-not-found/why-me/index.html | pl | books | Ashraellen — Dlaczego ja? | _missing_ | dlaczego, ashraellen, błąd, boga, books, nie, 404, albo, ale, biurokracji, bólu, cyklu, duszy, error, filozoficzno-satyryczna, found, fragment, god |
-| pl/books/index.html | pl | books | Ashraellen — Książki | Ashraellen, książki, Demotopia, Demokratyczna Utopia, MONOLITH, Blask, Błąd 404, SECCUS, Już jesteś w sieci, The Book of Whinesis, samizdat 2.0, wydania autorskie | książki, autorskie, bezpośrednie, 2.0, ashraellen, błąd, boga, books, nie, wydania, 404, ashraellena, audio, badania, blask, book, cykl, cykle |
+| pl/books/index.html | pl | books | Ashraellen — Książki | Ashraellen, książki, Demotopia, Demokratyczna Utopia, MONOLITH, Blask, SEVEN, Błąd 404, SECCUS, Już jesteś w sieci, The Book of Whinesis, samizdat 2.0, wydania autorskie | książki, autorskie, bezpośrednie, 2.0, ashraellen, błąd, boga, books, wydania, 404, ashraellena, audio, badania, blask, book, cykl, cykle, demotopia |
 | pl/books/monolith/beton/index.html | pl | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ashraellen, books, stabilności, systemu, akta, anton, antyutopia, artystyczno-badawcza, bez, filozoficzna, fragment, gdy, jako, jego, kogo, książce, książka |
 | pl/books/monolith/gas/index.html | pl | books | Ashraellen — GAZ | ashraellen, monolith, gaz, tom trzeci, wiktoria, pleśń, władza, kontrola, pamięć, lokalizacja, środowisko, sygnał, dystopia | gaz, ashraellen, bez, books, między, monolith, akta, artystyczno-badawcza, autora, było, finałowy, fragment, gas, granicy, jego, już, kontroli, książce |
 | pl/books/monolith/index.html | pl | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, BETON, SZLAM, GAZ, dystopia, literature, artistic research | monolith, ashraellen, beton, books, gaz, nie, szlam, antyutopijna, artystyczno-badawcza, czego, czym, forma, fraza, jako, już, kogo, kontroli, lecz |
@@ -516,6 +516,7 @@ Pages: 891
 | pl/books/samizdat/order/received/index.html | pl | books | Zgłoszenie otrzymane — samizdat 2.0 | _missing_ | otrzymane, samizdat, zgłoszenie, 2.0, automatycznie, books, aby, adres, ashraellen, czas, dostawę, dostępność, druku, email, nie, order, received, utworzony |
 | pl/books/seccus/index.html | pl | books | Ashraellen — ŚWIĘTA KSIĘGA SECCUS | Ashraellen, SECCUS, Święta Księga SECCUS, Droga Uczciwości, satyra filozoficzna, pieniądze, sukces, samooszustwo, wiedza jako alibi, odpowiedzialność, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Księga | seccus, księga, święta, ashraellen, bez, books, jako, alibi, ani, człowiek, droga, filozoficzna, głos, kogo, korpus, książce, książka, książki |
 | pl/books/seven/greed/index.html | pl | books | Ashraellen — Chciwość \| GREED · SEVEN, księga I | _missing_ | greed, seven, chciwość, cyklu, powieść, ashraellen, books, fragment, stronach, ale, andriej, czytelników, drugi, dwóch, historia, kryminalna, książką, księga |
+| pl/books/seven/index.html | pl | books | Ashraellen — SEVEN \| Cykl literacki o siedmiu ludzkich podatnościach | _missing_ | seven, cykl, książki, siedem, ashraellen, books, literacki, ludzkich, podatnościach, siedmiu, acedii, ashraellena, badań, badawczych, chciwości, cyklu, czy, czym |
 | pl/books/seven/pride/index.html | pl | books | Ashraellen — Pycha \| PRIDE · SEVEN, księga II | _missing_ | pride, seven, cyklu, fragment, pycha, ashraellen, books, się, chwały, cicha, czytelników, domu, duma, dystopia, dzieci, kiedy, kraj, książce |
 | pl/books/the-book-of-whinesis/index.html | pl | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sakralna, satyra, dla, tych, którzy, zmęczyli, się, pozytywnymi, wibracjami, niekończącą, produktywnością, kultem, sukcesu, książce | book, whinesis, się, ashraellen, books, albowiem, będzie, będziesz, fragment, jego, książce, którzy, kultem, moania, moanii, narzekania, nie, niekończącą |
 | pl/books/you-are-already-online/index.html | pl | books | Ashraellen — Już jesteś w sieci | _missing_ | jesteś, już, sieci, ashraellen, books, rozdział, algorytmach, already, audio, było, cyberpunkowego, cyfrowej, dramatu, fragment, gatunku, gdzie, hiperrealności, immersyjna |
@@ -8760,17 +8761,17 @@ Excerpt:
 - lang: pl
 - section: books
 - title: Ashraellen — Książki
-- description: Książki Ashraellena: Demotopia, MONOLITH, Blask, Błąd 404: Boga nie znaleziono, Święta Księga SECCUS, Już jesteś w sieci, The Book of Whinesis oraz bezpośrednie wydania autorskie samizdat 2.0.
+- description: Książki Ashraellena: Demotopia, MONOLITH, Blask, SEVEN, Błąd 404: Boga nie znaleziono, Święta Księga SECCUS, Już jesteś w sieci, The Book of Whinesis oraz bezpośrednie wydania autorskie samizdat 2.0.
 - canonical: https://www.ashraellen.com/pl/books/
 - H1: Książki
 - H2: Cykle książkowe | Samodzielne książki i badania | Satyra | Bezpośrednie wydania autorskie
 - H3: _missing_
-- suggested keyword seed: książki, autorskie, bezpośrednie, 2.0, ashraellen, błąd, boga, books, nie, wydania, 404, ashraellena, audio, badania, blask, book, cykl, cykle
-- candidates: otwórz, cykl, książki, powieść, system, 2.0, audio, autorskie, bezpośrednie, błąd, boga, nie, oraz, samizdat, satyra, wydania, 404, albo, ashraellena, blask, book, cyfrowej, cykle, demotopia
+- suggested keyword seed: książki, autorskie, bezpośrednie, 2.0, ashraellen, błąd, boga, books, wydania, 404, ashraellena, audio, badania, blask, book, cykl, cykle, demotopia
+- candidates: cykl, otwórz, powieść, książki, system, 2.0, audio, autorskie, bezpośrednie, błąd, boga, książek, nie, oraz, samizdat, satyra, wydania, 404, albo, ashraellena, blask, book, cyfrowej, cykle
 
 Excerpt:
 
-> Książki Zebrano tu cykle książkowe, samodzielne powieści, książki-badania, satyrę oraz bezpośrednie fizyczne wydania autorskie Ashraellena. Wybierz większy projekt albo zacznij od konkretnej książki. Cykle książkowe serie i projekty długoterminowe MONOLITH Literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów. BETON, SLUDGE i GAS zapisują przejście materii społecznej od zastygłej stabilności przez lepką deformację aż po utratę szczelności formy. Otwórz trylogię trylogia Blask Literacko-filozoficzny cykl artystyczno-badawczy o północnych podaniach i dawnych obrazach jako żywych instrukcjach do świata. Nie jest to streszczenie „Kalevali”, lecz powrót do ludzkiego doświadczenia, z którego takie opowieści mogły powstać. Otwórz cykl cykl Błąd 404: Boga nie znaleziono Filozoficzno-satyryczny cykl powieściowy o Niebiańskiej Kancelarii i ludziach, którzy szukają B
+> Książki Zebrano tu cykle książkowe, samodzielne powieści, książki-badania, satyrę oraz bezpośrednie fizyczne wydania autorskie Ashraellena. Wybierz większy projekt albo zacznij od konkretnej książki. Cykle książkowe serie i projekty długoterminowe MONOLITH Literacko-filozoficzna trylogia antyutopijna o kontroli, pamięci i rozpadzie systemów. BETON, SLUDGE i GAS zapisują przejście materii społecznej od zastygłej stabilności przez lepką deformację aż po utratę szczelności formy. Otwórz trylogię trylogia Blask Literacko-filozoficzny cykl artystyczno-badawczy o północnych podaniach i dawnych obrazach jako żywych instrukcjach do świata. Nie jest to streszczenie „Kalevali”, lecz powrót do ludzkiego doświadczenia, z którego takie opowieści mogły powstać. Otwórz cykl cykl SEVEN Cykl siedmiu samodzielnych książek o ludzkich podatnościach i decyzjach, które zmieniają życie. Pierwsze opowieści to p
 
 ### pl/books/monolith/beton/index.html
 
@@ -9553,6 +9554,23 @@ Excerpt:
 Excerpt:
 
 > SEVEN · księga I · psychologiczna powieść kryminalna Chciwość / GREED Jeden człowiek szuka sposobu na zabezpieczenie przyszłości. Drugi proponuje mu zarobek. Inni mają nadzieję, że wreszcie znaleźli drogę do lepszego życia. Ich decyzje stopniowo stają się elementami systemu, którego konsekwencji nikt z nich nie potrafi dostrzec w całości. Czasem pułapka zaczyna się nie od groźby, lecz od propozycji, której tak bardzo nie chce się odrzucić. SEVEN · Księga I · Ashraellen Wybrany fragment Rozdział pierwszy, § 1.3 · wersja przedostateczna Po rozmowie z Ilją Noel wraca do zwyczajnego życia rodzinnego. Ale już następnego dnia sam musi opowiedzieć komuś innemu o wątpliwej możliwości zarobku. Przeczytaj fragment Zwiń fragment Noel zakończył rozmowę i poszedł do domu. Nina stała już w przedpokoju. — Adoptowałeś najemcę? — Nie spełniał kryterium wieku. — Szkoda. Już drugi raz podgrzałam zupę. — No
+
+### pl/books/seven/index.html
+
+- lang: pl
+- section: books
+- title: Ashraellen — SEVEN | Cykl literacki o siedmiu ludzkich podatnościach
+- description: SEVEN — cykl literacki Ashraellena o siedmiu ludzkich podatnościach: chciwości, pysze, pożądaniu, zazdrości, gniewie, nieumiarkowaniu i acedii. GREED, PRIDE i LUST to pierwsze trzy książki.
+- canonical: https://www.ashraellen.com/pl/books/seven/
+- H1: SEVEN
+- H2: Czym jest SEVEN? | Książki cyklu | Siedem podatności — siedem sposobów utraty umiaru | Dla kogo powstaje SEVEN? | Dla redaktorów, wydawców i partnerów badawczych | Co dalej? | Od literatury do badań
+- H3: Chciwość | Pycha | Pożądanie | Chciwość / GREED · Księga I | Pycha / PRIDE · Księga II | Pożądanie / LUST · Księga III | Zazdrość / ENVY | Gniew / WRATH
+- suggested keyword seed: seven, cykl, książki, siedem, ashraellen, books, literacki, ludzkich, podatnościach, siedmiu, acedii, ashraellena, badań, badawczych, chciwości, cyklu, czy, czym
+- candidates: się, nie, seven, siedem, jednak, cykl, czy, książki, księga, staje, stopniowo, lecz, ludzi, ludzkich, podatności, powieść, pragnienie, cyklu, greed, jego, lub, może, pierwsze, pożądanie
+
+Excerpt:
+
+> Cykl literacko-badawczy · siedem książek SEVEN Siedem ludzkich podatności. Siedem samodzielnych światów literackich. Jedna próba zrozumienia, jak zwyczajne pragnienia, lęki i potrzeby stopniowo zaczynają kierować ludzkimi wyborami. Nie o wadach jako wyroku — lecz o człowieku, który nie zawsze dostrzega moment, gdy jego własna siła staje się słabością. Czym jest SEVEN? Literatura i pytanie badawcze Punktem wyjścia SEVEN jest znany z historii schemat siedmiu ludzkich podatności. Cykl nie proponuje jednak prostego podziału ludzi na „chciwych”, „pysznych” czy „pożądliwych”. Interesuje go chwila przejścia: kiedy zrozumiałe dążenie staje się nadmierne, splata się z innymi motywami, zaczyna usprawiedliwiać postępowanie i stopniowo zmienia samego człowieka. Nie jest to siedem odmian tej samej fabuły. Intryga kryminalna, porządek społeczny czy osobiste relacje stawiają człowieka wobec odmiennych 
 
 ### pl/books/seven/pride/index.html
 
