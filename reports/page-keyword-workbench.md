@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T10:13:02.575Z
-Pages: 898
+Generated: 2026-10-14T10:17:09.977Z
+Pages: 899
 
 ## Index
 
@@ -258,6 +258,7 @@ Pages: 898
 | es/books/samizdat/order/index.html | es | books | Solicitar un ejemplar samizdat 2.0 — Ashraellen | _missing_ | ejemplar, samizdat, solicitud, 2.0, ashraellen, autor, books, del, entrega, idioma, preparación, solicitar, cálculo, confirmación, cualquier, firmado, las, lector |
 | es/books/samizdat/order/received/index.html | es | books | Solicitud recibida — samizdat 2.0 | _missing_ | recibida, samizdat, solicitud, 2.0, automáticamente, books, compra, antes, ashraellen, carpeta, confirmar, contacto, correo, coste, creado, ninguna, order, received |
 | es/books/seccus/index.html | es | books | Ashraellen — EL LIBRO SAGRADO DE SECCUS | Ashraellen, SECCUS, El Libro Sagrado de SECCUS, El Camino de la Honestidad, sátira filosófica, dinero, éxito, autoengaño, conocimiento como coartada, responsabilidad, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Libro | libro, seccus, sagrado, ashraellen, books, del, dinero, éxito, página, para, sobre, una, autoengaño, camino, coartada, como, con, conocimiento |
+| es/books/seven/greed/index.html | es | books | Ashraellen — Codicia \| GREED · SEVEN, libro I | _missing_ | del, seven, greed, novela, codicia, libro, ambos, ashraellen, books, ciclo, lados, los, noël, una, con, delictiva, dentro, deseos |
 | es/books/the-book-of-whinesis/index.html | es | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sátira, sagrada, para, quienes, han, cansado, las, vibras, positivas, productividad, infinita, culto, éxito, sobre | book, whinesis, ashraellen, books, para, sobre, cansado, capítulos, con, culto, del, dijo, estado, éxito, fragmento, han, infinita, las |
 | es/books/you-are-already-online/index.html | es | books | Ashraellen — Ya estás en la red | _missing_ | estás, red, ashraellen, books, capítulo, del, los, novela, realidad, sobre, una, algoritmos, already, antes, como, cyberpunk, digital, drama |
 | es/contact.html | es | contact.html | Contacto — Ashraellen | ashraellen, contacto, colaboración, publicaciones, subvenciones, medios, proyectos | ashraellen, contacto, colaboración, medios, proyectos, subvenciones, canal, contact, contact.html, investigación, kostyshev, materiales, página, para, publicaciones, telegram |
@@ -5174,6 +5175,23 @@ Excerpt:
 Excerpt:
 
 > SACRUNOMICON — UN TETRA-LIBRO SOBRE EL ÉXITO INVERTIDO EL LIBRO SAGRADO DE SECCUS El Camino de la Honestidad Un libro sobre el dinero y el éxito que vuelve del revés la pregunta habitual. No «cómo conseguir lo que se desea», sino qué espera comprar exactamente una persona junto con la libertad, el reconocimiento y el derecho a considerarse realizada. El dinero es solo el pretexto. El verdadero tema del libro es la persona que lo desea. Cubierta rusa: АХЕПСУ. Sacrunomicon. Página seleccionada Pergamino IV: La Caída de los Muros Una página sobre el motivo que se oculta tras las palabras correctas acerca de la libertad, la ayuda, la utilidad y el propósito. Abrir la página Cerrar la página Página 71 — La Fuente de Energía de la Sombra Nos acercamos a la capa más profunda de tu motivación: aquella que evitaste con cuidado mientras te cubrías con palabras hermosas y objetivos nobles. Te decía
+
+### es/books/seven/greed/index.html
+
+- lang: es
+- section: books
+- title: Ashraellen — Codicia | GREED · SEVEN, libro I
+- description: GREED / «Codicia», novela negra psicológica del ciclo SEVEN. Noël, su progresiva implicación en una trama delictiva y los deseos humanos a ambos lados del engaño.
+- canonical: https://www.ashraellen.com/es/books/seven/greed/
+- H1: Codicia / GREED
+- H2: Fragmento seleccionado | Sobre la novela | A ambos lados de la promesa | Puntos de tensión | La novela dentro del ciclo SEVEN | Para lectores y editores | Estado del libro
+- H3: Necesidad y bienestar | Confianza y verdades convenientes | Los límites de la participación | El deseo de recuperar lo perdido | La familia y las justificaciones | Responsabilidad y culpa
+- suggested keyword seed: del, seven, greed, novela, codicia, libro, ambos, ashraellen, books, ciclo, lados, los, noël, una, con, delictiva, dentro, deseos
+- candidates: una, que, las, los, con, noël, por, del, novela, dinero, libro, seven, andréi, qué, decisiones, greed, hay, otro, pero, sin, sobre, uno, alguien, ciclo
+
+Excerpt:
+
+> SEVEN · libro I · novela negra psicológica Codicia / GREED Un hombre busca la forma de asegurar su futuro. Otro le propone ganar dinero. Otros esperan haber encontrado por fin el camino hacia una vida mejor. Sus decisiones se van convirtiendo en piezas de un sistema cuyas consecuencias ninguno de ellos alcanza a ver por completo. A veces la trampa no empieza con una amenaza, sino con una oferta a la que resulta demasiado tentador decir que sí. SEVEN · Libro I · Ashraellen Fragmento seleccionado Capítulo primero, § 1.3 · versión provisional Después de hablar con Iliá, Noël regresa a su vida familiar de siempre. Pero al día siguiente es él quien debe explicarle a otra persona una dudosa oportunidad de ganar dinero. Leer el fragmento Ocultar el fragmento Noël terminó la llamada y se fue a casa. Nina ya estaba en el recibidor. —¿Has adoptado al inquilino? —No cumplía el requisito de edad. —Q
 
 ### es/books/the-book-of-whinesis/index.html
 
