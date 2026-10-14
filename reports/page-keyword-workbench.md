@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T10:33:15.736Z
-Pages: 902
+Generated: 2026-10-14T10:35:45.023Z
+Pages: 903
 
 ## Index
 
@@ -411,6 +411,7 @@ Pages: 902
 | fr/books/samizdat/order/received/index.html | fr | books | Demande reçue — samizdat 2.0 | _missing_ | demande, reçue, samizdat, 2.0, achat, aucun, automatiquement, books, été, afin, ashraellen, avant, compris, créé, e-mail, n’a, order, received |
 | fr/books/seccus/index.html | fr | books | Ashraellen — LE LIVRE SACRÉ DE SECCUS | Ashraellen, SECCUS, Le Livre Sacré de SECCUS, Le Chemin de l’Honnêteté, satire philosophique, argent, réussite, auto-illusion, savoir comme alibi, responsabilité, Sacrunomicon, Ordo Sacrunomiconis, Tétra-Livre | livre, seccus, sacré, ashraellen, books, est, philosophique, pour, qui, réussite, sur, une, alibi, cadre, chemin, choisie, choix, comme |
 | fr/books/seven/greed/index.html | fr | books | Ashraellen — Avidité \| GREED · SEVEN, livre I | _missing_ | greed, roman, seven, avidité, dans, ashraellen, aux, books, cycle, des, les, noël, c’est, choisi, côtés, criminel, d’autre, d’avancement |
+| fr/books/seven/pride/index.html | fr | books | Ashraellen — Orgueil \| PRIDE · SEVEN, livre II | _missing_ | pride, seven, littéraire, livre, orgueil, ashraellen, aux, books, cycle, dans, extrait, comme, d’avancement, des, devient, dystopie, éditeurs, est |
 | fr/books/the-book-of-whinesis/index.html | fr | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, satire, sacrée, pour, celles, ceux, qui, sont, fatigués, des, ondes, positives, productivité, sans, fin | book, whinesis, ashraellen, books, des, qui, celles, ceux, chapitres, culte, dans, dit, extrait, fatigués, fin, les, livre, moania |
 | fr/books/you-are-already-online/index.html | fr | books | Ashraellen — Tu es déjà en ligne | _missing_ | déjà, ligne, ashraellen, audio, books, les, réalité, roman, algorithmes, already, avait, avant, chapitre, comme, cyberpunk, dans, des, drame |
 | fr/contact.html | fr | contact.html | Contact — Ashraellen | ashraellen, contact, collaboration, édition, subventions, médias, projets | ashraellen, contact, une, collaboration, demande, éditoriale, médias, projet, aux, canal, contact.html, contacter, contenus, les, pour, subvention, telegram |
@@ -7779,6 +7780,23 @@ Excerpt:
 Excerpt:
 
 > SEVEN · livre I · roman noir psychologique Avidité / GREED Un homme cherche comment assurer son avenir. Un autre lui propose de gagner de l’argent. D’autres encore espèrent avoir enfin trouvé une voie vers une vie meilleure. Leurs décisions deviennent peu à peu les rouages d’un système dont aucun ne parvient à saisir toutes les conséquences. Parfois, le piège ne commence pas par une menace, mais par une proposition qu’on a terriblement envie d’accepter. SEVEN · Livre I · Ashraellen Extrait choisi Chapitre premier, § 1.3 · version provisoire Après sa conversation avec Ilia, Noël retrouve la vie ordinaire de son foyer. Mais dès le lendemain, c’est à son tour de parler à quelqu’un d’une occasion douteuse de gagner de l’argent. Lire l’extrait Refermer l’extrait Noël mit fin à l’appel et rentra chez lui. Nina l’attendait déjà dans l’entrée. — Alors, tu l’as adopté, ton locataire ? — Il n’avai
+
+### fr/books/seven/pride/index.html
+
+- lang: fr
+- section: books
+- title: Ashraellen — Orgueil | PRIDE · SEVEN, livre II
+- description: PRIDE / « Orgueil » — dystopie sociale du cycle littéraire SEVEN. Un pays où la fierté se transforme en sentiment de supériorité et où l’appartenance devient un privilège. Extrait « Salle de la Gloire ».
+- canonical: https://www.ashraellen.com/fr/books/seven/pride/
+- H1: Orgueil / PRIDE
+- H2: Extrait littéraire | À propos du livre | La face silencieuse de l’exclusion | Points de tension | Sa place dans le cycle littéraire SEVEN | Aux lecteurs et aux éditeurs | État d’avancement
+- H3: Fierté et sentiment de supériorité | La maison et la file d’attente | Utilité et appartenance | Politesse et humiliation | Les enfants, héritiers de l’ordre établi | Mémoire et droit à l’erreur
+- suggested keyword seed: pride, seven, littéraire, livre, orgueil, ashraellen, aux, books, cycle, dans, extrait, comme, d’avancement, des, devient, dystopie, éditeurs, est
+- candidates: les, nous, des, une, que, dans, plus, qui, est, livre, pas, comme, d’un, pride, salle, seven, tout, avec, littéraire, lui, mais, pays, personne, sur
+
+Excerpt:
+
+> SEVEN · livre II · dystopie sociale Orgueil / PRIDE Un pays qui a réappris à être fier de lui-même. Les rues y sont propres, les institutions fonctionnent et chacun semble calmement convaincu du bien-fondé de l’ordre établi. Mais une question revient de plus en plus souvent : qui a vraiment le droit d’appeler ce pays son foyer ? Parfois, l’inégalité ne commence pas par la haine, mais par la certitude que les nôtres méritent un peu plus. SEVEN · Livre II · Ashraellen Extrait littéraire « Salle de la Gloire » · fragment de l’auteur Une sortie scolaire ordinaire au musée de la mémoire nationale. Les enfants retrouvent une histoire qu’ils connaissent depuis leur première année d’école. Jusqu’à ce que l’un d’eux pose une question inattendue. Lire l’extrait Refermer l’extrait À dix heures du matin, les portes s’ouvrirent pour la classe de CE2 B. Les vingt-huit enfants avançaient deux par deux,
 
 ### fr/books/the-book-of-whinesis/index.html
 

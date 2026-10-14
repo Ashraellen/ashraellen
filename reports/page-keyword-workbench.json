@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T10:33:15.724Z",
+  "generated": "2026-10-14T10:35:45.008Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -30315,6 +30315,88 @@
         "criminel",
         "d’autre",
         "d’avancement"
+      ]
+    },
+    {
+      "page": "fr/books/seven/pride/index.html",
+      "lang": "fr",
+      "section": "books",
+      "title": "Ashraellen — Orgueil | PRIDE · SEVEN, livre II",
+      "description": "PRIDE / « Orgueil » — dystopie sociale du cycle littéraire SEVEN. Un pays où la fierté se transforme en sentiment de supériorité et où l’appartenance devient un privilège. Extrait « Salle de la Gloire ».",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/fr/books/seven/pride/",
+      "h1": [
+        "Orgueil / PRIDE"
+      ],
+      "h2": [
+        "Extrait littéraire",
+        "À propos du livre",
+        "La face silencieuse de l’exclusion",
+        "Points de tension",
+        "Sa place dans le cycle littéraire SEVEN",
+        "Aux lecteurs et aux éditeurs",
+        "État d’avancement"
+      ],
+      "h3": [
+        "Fierté et sentiment de supériorité",
+        "La maison et la file d’attente",
+        "Utilité et appartenance",
+        "Politesse et humiliation",
+        "Les enfants, héritiers de l’ordre établi",
+        "Mémoire et droit à l’erreur"
+      ],
+      "slugTerms": [
+        "fr",
+        "books",
+        "seven",
+        "pride"
+      ],
+      "excerpt": "SEVEN · livre II · dystopie sociale Orgueil / PRIDE Un pays qui a réappris à être fier de lui-même. Les rues y sont propres, les institutions fonctionnent et chacun semble calmement convaincu du bien-fondé de l’ordre établi. Mais une question revient de plus en plus souvent : qui a vraiment le droit d’appeler ce pays son foyer ? Parfois, l’inégalité ne commence pas par la haine, mais par la certitude que les nôtres méritent un peu plus. SEVEN · Livre II · Ashraellen Extrait littéraire « Salle de la Gloire » · fragment de l’auteur Une sortie scolaire ordinaire au musée de la mémoire nationale. Les enfants retrouvent une histoire qu’ils connaissent depuis leur première année d’école. Jusqu’à ce que l’un d’eux pose une question inattendue. Lire l’extrait Refermer l’extrait À dix heures du matin, les portes s’ouvrirent pour la classe de CE2 B. Les vingt-huit enfants avançaient deux par deux,",
+      "candidates": [
+        "les",
+        "nous",
+        "des",
+        "une",
+        "que",
+        "dans",
+        "plus",
+        "qui",
+        "est",
+        "livre",
+        "pas",
+        "comme",
+        "d’un",
+        "pride",
+        "salle",
+        "seven",
+        "tout",
+        "avec",
+        "littéraire",
+        "lui",
+        "mais",
+        "pays",
+        "personne",
+        "sur"
+      ],
+      "suggestedKeywordSeed": [
+        "pride",
+        "seven",
+        "littéraire",
+        "livre",
+        "orgueil",
+        "ashraellen",
+        "aux",
+        "books",
+        "cycle",
+        "dans",
+        "extrait",
+        "comme",
+        "d’avancement",
+        "des",
+        "devient",
+        "dystopie",
+        "éditeurs",
+        "est"
       ]
     },
     {
