@@ -1,18 +1,18 @@
 # Page Metadata Audit
 
-Generated: 2026-10-14T10:47:06.547Z
+Generated: 2026-10-14T10:53:47.319Z
 
-Pages checked: 905
-Pages with issues: 417
-Total issues: 1839
-Pages with review notes: 703
-Total review notes: 2466
+Pages checked: 906
+Pages with issues: 418
+Total issues: 1840
+Pages with review notes: 704
+Total review notes: 2468
 
 ## Issue summary
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 303 |
+| MISSING_KEYWORDS | 304 |
 | MISSING_TWITTER_IMAGE | 193 |
 | MISSING_TWITTER_CARD | 179 |
 | MISSING_JSON_LD | 174 |
@@ -35,8 +35,8 @@ Total review notes: 2466
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 703 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 683 |
+| DUPLICATE_OG_IMAGE_REVIEW | 704 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 684 |
 | FALLBACK_OG_IMAGE_USED | 550 |
 | FALLBACK_TWITTER_IMAGE_USED | 530 |
 
@@ -479,6 +479,16 @@ Total review notes: 2466
 - canonical: https://www.ashraellen.com/de/books/seven/greed/
 - og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
+
+- MISSING_KEYWORDS
+
+### de/books/seven/index.html
+
+- title: Ashraellen — SEVEN | Literaturzyklus über sieben menschliche Verwundbarkeiten
+- description length: 187
+- canonical: https://www.ashraellen.com/de/books/seven/
+- og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 
 - MISSING_KEYWORDS
 
@@ -5772,8 +5782,8 @@ Total review notes: 2466
 - og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 8 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 8 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### be/books/seven/pride/index.html
 
@@ -6518,6 +6528,15 @@ Total review notes: 2466
 - title: Ashraellen — Gier | GREED · SEVEN, Buch I
 - og:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/covers/seven-greed-book-one-cover.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
+
+### de/books/seven/index.html
+
+- title: Ashraellen — SEVEN | Literaturzyklus über sieben menschliche Verwundbarkeiten
+- og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
+- twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
@@ -7279,8 +7298,8 @@ Total review notes: 2466
 - og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 8 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 8 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### en/books/seven/pride/index.html
 
@@ -8046,8 +8065,8 @@ Total review notes: 2466
 - og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 8 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 8 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### es/books/seven/pride/index.html
 
@@ -9282,8 +9301,8 @@ Total review notes: 2466
 - og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 8 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 8 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### fr/books/seven/pride/index.html
 
@@ -10024,8 +10043,8 @@ Total review notes: 2466
 - og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 8 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 8 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### pl/books/seven/pride/index.html
 
@@ -10791,8 +10810,8 @@ Total review notes: 2466
 - og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 8 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 8 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### pt/books/seven/pride/index.html
 
@@ -11548,8 +11567,8 @@ Total review notes: 2466
 - og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 8 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 8 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### ru/books/seven/pride/index.html
 
@@ -12403,8 +12422,8 @@ Total review notes: 2466
 - og:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/seven-literary-research-cycle-cover.webp
 
-- DUPLICATE_OG_IMAGE_REVIEW: shared by 8 pages
-- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 8 pages
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 9 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 9 pages
 
 ### uk/books/seven/pride/index.html
 

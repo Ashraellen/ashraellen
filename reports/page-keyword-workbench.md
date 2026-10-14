@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T10:47:07.374Z
-Pages: 906
+Generated: 2026-10-14T10:53:48.157Z
+Pages: 907
 
 ## Index
 
@@ -85,7 +85,7 @@ Pages: 906
 | de/books/demotopia/index.html | de | books | Demotopia — Demokratische Utopie — ein Roman von Ashraellen | Ashraellen, Demotopia, Demokratische Utopie, philosophischer Roman, Gesellschaftsroman, Warschau, Demokratie, Diktatur, Daten, Freiheit, Verantwortung | demotopia, ashraellen, ein, und, von, books, das, ist, roman, über, als, atmosphäre, auf, ausgewählter, auszug, buch, daten, demokratie |
 | de/books/error-404-god-not-found/index.html | de | books | Ashraellen — Fehler 404: Gott nicht gefunden | _missing_ | fehler, gefunden, gott, nicht, 404, der, die, ashraellen, books, das, den, ein, kanzlei, reihe, beschwerde, buch, bücher, des |
 | de/books/error-404-god-not-found/why-me/index.html | de | books | Ashraellen — Warum ich? | _missing_ | ich, der, die, warum, ashraellen, books, buch, das, ein, nicht, über, und, 404, auf, auszug, bedeutungsschichten, beschwerde, buches |
-| de/books/index.html | de | books | Ashraellen — Bücher | Ashraellen, Bücher, Demotopia, Demokratische Utopie, MONOLITH, RADIANCE, ERROR 404, SECCUS, Du bist bereits online, The Book of Whinesis, samizdat 2.0, Autorenausgaben | bücher, ashraellen, autorenausgaben, und, books, buch, das, direkte, satire, über, 2.0, 404, bereits, bist, book, buchzyklen, demotopia, der |
+| de/books/index.html | de | books | Ashraellen — Bücher | Ashraellen, Bücher, Demotopia, Demokratische Utopie, MONOLITH, RADIANCE, SEVEN, ERROR 404, SECCUS, Du bist bereits online, The Book of Whinesis, samizdat 2.0, Autorenausgaben | bücher, ashraellen, autorenausgaben, und, books, buch, das, direkte, über, 2.0, 404, bereits, bist, book, buchzyklen, demotopia, der, die |
 | de/books/monolith/beton/index.html | de | books | Ashraellen — BETON | Ashraellen, MONOLITH, BETON, dystopia, literature, artistic research | beton, ist, ashraellen, books, buch, das, den, der, für, monolith, über, und, akte, als, ausgewählter, auszug, band, bedeutungsknoten |
 | de/books/monolith/gas/index.html | de | books | Ashraellen — GAS | Ashraellen, MONOLITH, GAS, dritter Band, Viktoria, Macht, Kontrolle, Erinnerung, Lokalisierung, Medium, Signal, Dystopie | gas, und, der, ashraellen, books, das, den, des, über, akte, auf, ausgewählter, auszug, autor, band, bedeutungsknoten, buch, dem |
 | de/books/monolith/index.html | de | books | Ashraellen — MONOLITH | Ashraellen, MONOLITH, BETON, SCHLAMM, GAS, dystopia, literature, artistic research | monolith, ist, der, und, ashraellen, books, den, eine, erinnerung, kontrolle, nicht, was, als, bände, beton, darf, des, die |
@@ -99,6 +99,7 @@ Pages: 906
 | de/books/samizdat/order/received/index.html | de | books | Anfrage erhalten — samizdat 2.0 | _missing_ | anfrage, erhalten, samizdat, 2.0, abgeschlossen, automatisch, books, wurde, angegebenen, ashraellen, beginnt, bestätigen, bevor, bitte, ein, kauf, nicht, order |
 | de/books/seccus/index.html | de | books | Ashraellen — DAS HEILIGE BUCH SECCUS | Ashraellen, SECCUS, Das Heilige Buch SECCUS, Der Weg der Ehrlichkeit, philosophische Satire, Geld, Erfolg, Selbsttäuschung, Wissen als Alibi, Verantwortung, Sacrunomicon, Ordo Sacrunomiconis, Tetra-Buch | das, buch, der, die, seccus, heilige, und, ashraellen, books, des, für, ist, seite, über, alibi, als, ausgewählte, buches |
 | de/books/seven/greed/index.html | de | books | Ashraellen — Gier \| GREED · SEVEN, Buch I | _missing_ | greed, seven, des, gier, und, ashraellen, auf, beiden, books, den, der, ein, noel, roman, seiten, aus, ausgewählte, betrugs |
+| de/books/seven/index.html | de | books | Ashraellen — SEVEN \| Literaturzyklus über sieben menschliche Verwundbarkeiten | _missing_ | seven, sieben, und, die, für, verwundbarkeiten, ashraellen, books, bücher, der, literaturzyklus, menschliche, über, ashraellens, das, den, des, drei |
 | de/books/seven/pride/index.html | de | books | Ashraellen — Hochmut \| PRIDE · SEVEN, Buch II | _missing_ | pride, seven, hochmut, und, ashraellen, auszug, books, buch, das, dem, der, die, ein, literarischer, auf, aus, ausgrenzung, buchprojekts |
 | de/books/the-book-of-whinesis/index.html | de | books | Ashraellen — The Book of Whinesis | ashraellen, books, book, whinesis, sakrale, satire, für, alle, die, von, positiven, vibes, endloser, produktivität, und, dem, kult, des | book, whinesis, ashraellen, books, des, die, und, alle, auf, auszug, buch, das, dem, den, der, endloser, erfolgs, erste |
 | de/books/you-are-already-online/index.html | de | books | Ashraellen — Du bist bereits online | _missing_ | bereits, online, bist, des, und, ashraellen, books, das, ein, über, algorithmen, already, audio-roman, auszug, buch, cyberpunk-dramas, den, der |
@@ -2247,17 +2248,17 @@ Excerpt:
 - lang: de
 - section: books
 - title: Ashraellen — Bücher
-- description: Bücher von Ashraellen: Demotopia, MONOLITH, RADIANCE, ERROR 404: GOD NOT FOUND, Das Heilige Buch SECCUS, Du bist bereits online, The Book of Whinesis und direkte Autorenausgaben über samizdat 2.0.
+- description: Bücher von Ashraellen: Demotopia, MONOLITH, RADIANCE, SEVEN, ERROR 404: GOD NOT FOUND, Das Heilige Buch SECCUS, Du bist bereits online, The Book of Whinesis und direkte Autorenausgaben über samizdat 2.0.
 - canonical: https://www.ashraellen.com/de/books/
 - H1: Bücher
 - H2: Buchzyklen | Eigenständige Bücher und Forschung | Satire | Direkte Autorenausgaben
 - H3: _missing_
-- suggested keyword seed: bücher, ashraellen, autorenausgaben, und, books, buch, das, direkte, satire, über, 2.0, 404, bereits, bist, book, buchzyklen, demotopia, der
-- candidates: und, ein, über, buch, öffnen, das, der, die, eine, autorenausgaben, bücher, satire, zyklus, 2.0, als, audioroman, den, direkte, menschen, roman, samizdat, system, trilogie, von
+- suggested keyword seed: bücher, ashraellen, autorenausgaben, und, books, buch, das, direkte, über, 2.0, 404, bereits, bist, book, buchzyklen, demotopia, der, die
+- candidates: und, ein, über, buch, öffnen, die, eine, zyklus, bücher, das, der, autorenausgaben, den, satire, 2.0, als, audioroman, aus, direkte, menschen, roman, samizdat, system, trilogie
 
 Excerpt:
 
-> Bücher Hier sind Ashraellens Buchzyklen, eigenständige Romane, Forschungsbücher, Satire und direkte physische Autorenausgaben versammelt. Wählen Sie ein größeres Projekt oder beginnen Sie mit einem einzelnen Buch. Buchzyklen Reihen und langfristige Projekte MONOLITH Eine literarisch-philosophische dystopische Trilogie über Kontrolle, Erinnerung und den Zerfall von Systemen. BETON, SLUDGE und GAS verfolgen den Übergang gesellschaftlicher Materie von erstarrter Stabilität über zähe Verformung bis zum Verlust ihrer geschlossenen Form. Trilogie öffnen Trilogie RADIANCE Ein literarisch-philosophischer Zyklus künstlerischer Forschung über nordische Überlieferungen und alte Bilder als lebendige Anleitungen zur Welt. Keine Nacherzählung der „Kalevala“, sondern eine Rückkehr zu jener menschlichen Erfahrung, aus der solche Geschichten entstehen konnten. Zyklus öffnen Zyklus ERROR 404: GOD NOT FOUN
+> Bücher Hier sind Ashraellens Buchzyklen, eigenständige Romane, Forschungsbücher, Satire und direkte physische Autorenausgaben versammelt. Wählen Sie ein größeres Projekt oder beginnen Sie mit einem einzelnen Buch. Buchzyklen Reihen und langfristige Projekte MONOLITH Eine literarisch-philosophische dystopische Trilogie über Kontrolle, Erinnerung und den Zerfall von Systemen. BETON, SLUDGE und GAS verfolgen den Übergang gesellschaftlicher Materie von erstarrter Stabilität über zähe Verformung bis zum Verlust ihrer geschlossenen Form. Trilogie öffnen Trilogie RADIANCE Ein literarisch-philosophischer Zyklus künstlerischer Forschung über nordische Überlieferungen und alte Bilder als lebendige Anleitungen zur Welt. Keine Nacherzählung der „Kalevala“, sondern eine Rückkehr zu jener menschlichen Erfahrung, aus der solche Geschichten entstehen konnten. Zyklus öffnen Zyklus SEVEN Ein Literaturzykl
 
 ### de/books/monolith/beton/index.html
 
@@ -2479,6 +2480,23 @@ Excerpt:
 Excerpt:
 
 > SEVEN · Buch I · psychologischer Kriminalroman Gier / GREED Ein Mann sucht nach einer Möglichkeit, seine Zukunft abzusichern. Ein anderer bietet ihm an, Geld zu verdienen. Wieder andere hoffen, endlich einen Weg in ein besseres Leben gefunden zu haben. Nach und nach werden ihre Entscheidungen Teil eines Systems, dessen Folgen keiner von ihnen vollständig überblicken kann. Manchmal beginnt eine Falle nicht mit einer Drohung, sondern mit einem Angebot, das man nur allzu gern annehmen möchte. SEVEN · Buch I · Ashraellen Ausgewählte Leseprobe Erstes Kapitel, § 1.3 · vorläufige Fassung Nach seinem Gespräch mit Ilja kehrt Noel in den gewohnten Familienalltag zurück. Doch schon am folgenden Tag muss er selbst einem anderen Menschen von einer zweifelhaften Verdienstmöglichkeit erzählen. Leseprobe öffnen Leseprobe schließen Noel beendete das Gespräch und ging nach Hause. Nina stand schon im Flur.
+
+### de/books/seven/index.html
+
+- lang: de
+- section: books
+- title: Ashraellen — SEVEN | Literaturzyklus über sieben menschliche Verwundbarkeiten
+- description: SEVEN: Ashraellens Literaturzyklus über sieben menschliche Verwundbarkeiten — Gier, Hochmut, Wollust, Neid, Zorn, Völlerei und Trägheit. GREED, PRIDE und LUST sind die ersten drei Bücher.
+- canonical: https://www.ashraellen.com/de/books/seven/
+- H1: SEVEN
+- H2: Was ist SEVEN? | Die Bücher des Zyklus | Sieben Verwundbarkeiten — sieben Wege, das Maß zu verlieren | Für wen entsteht SEVEN? | Für Lektorate, Verlage und Forschungspartner | Wie geht es weiter? | Von der Literatur zur Forschung
+- H3: Gier | Hochmut | Wollust | Gier / GREED · Buch I | Hochmut / PRIDE · Buch II | Wollust / LUST · Buch III | Neid / ENVY | Zorn / WRATH
+- suggested keyword seed: seven, sieben, und, die, für, verwundbarkeiten, ashraellen, books, bücher, der, literaturzyklus, menschliche, über, ashraellens, das, den, des, drei
+- candidates: und, die, eine, ein, der, sich, nicht, sieben, den, für, menschen, mit, das, oder, seven, wie, des, ist, nach, von, als, kann, literarische, noch
+
+Excerpt:
+
+> Literatur- und Forschungszyklus · sieben Bücher SEVEN Sieben menschliche Verwundbarkeiten. Sieben eigenständige literarische Welten. Ein Versuch zu verstehen, wie alltägliche Wünsche, Ängste und Bedürfnisse allmählich die Entscheidungen eines Menschen bestimmen. Es geht nicht um Laster als Urteil, sondern um einen Menschen, der nicht immer bemerkt, wann die eigene Stärke zur Schwachstelle wird. Was ist SEVEN? Literatur und eine Forschungsfrage SEVEN geht von der historisch bekannten Vorstellung sieben menschlicher Verwundbarkeiten aus. Doch der Zyklus will Menschen nicht einfach in »Gierige«, »Hochmütige« oder »Lüsterne« einteilen. Entscheidend ist der Augenblick des Umschlags: wenn ein nachvollziehbares Streben maßlos wird, sich mit anderen Motiven verbindet, Handlungen zu rechtfertigen beginnt und den Menschen selbst nach und nach verändert. Der Zyklus besteht nicht aus sieben Variante
 
 ### de/books/seven/pride/index.html
 
