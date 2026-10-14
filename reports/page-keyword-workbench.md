@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T10:53:48.157Z
-Pages: 907
+Generated: 2026-10-14T10:57:08.752Z
+Pages: 908
 
 ## Index
 
@@ -336,6 +336,7 @@ Pages: 907
 | fi/books/samizdat/order/index.html | fi | books | Pyydä samizdat 2.0 -tekijäkappale — Ashraellen | Ashraellen, samizdat 2.0, tekijäkappale, kirjatilaus, Demotopia, kirjapyyntö | pyydä, 2.0, kappale, samizdat, tekijäkappale, ashraellen, books, henkilökohtaisesti, hinta, kielellä, toimitus, allekirjoitettu, ashraellenin, ennen, hinnan, kappaleen, kirja, laskelma |
 | fi/books/samizdat/order/received/index.html | fi | books | Pyyntö vastaanotettu — samizdat 2.0 — Ashraellen | Ashraellen, samizdat 2.0, kirjapyyntö, tekijäkappale, pyyntö vastaanotettu | samizdat, 2.0, ashraellen, pyyntö, vastaanotettu, automaattisesti, books, ennen, sähköpostitse, valmistusta, aan, alkaa, eikä, hinta, kiitos, kirjapyyntö, muuttunut, ole |
 | fi/books/seccus/index.html | fi | books | Ashraellen — SECCUSIN PYHÄ KIRJA | Ashraellen, SECCUS, SECCUSIN PYHÄ KIRJA, Rehellisyyden polku, filosofinen satiiri, raha, menestys, itsepetos, tieto alibina, vastuu, Sacrunomicon, Ordo Sacrunomiconis, tetrakirja | kirja, pyhä, seccusin, ashraellen, books, rehellisyyden, sivu, ääni, alibina, filosofinen, ihminen, ilman, itsepetoksesta, joka, juonipaljastuksia, kehys, kenelle, kirjallis-filosofinen |
+| fi/books/seven/greed/index.html | fi | books | Ashraellen — Ahneus \| GREED · SEVEN, kirja I | _missing_ | greed, ahneus, ashraellen, books, katkelma, kirja, seven, ajautuminen, andrei, halut, hän, hänen, inhimilliset, jännitteet, joka, kahdella, kirjan, kustantajille |
 | fi/books/the-book-of-whinesis/index.html | fi | books | Ashraellen — The Book of Whinesis | Ashraellen, The Book of Whinesis, satiiri, Church of Saint Whine, uupumus, tuottavuuskultti | book, whinesis, ashraellen, books, jotka, ensimmäiset, hän, herra, joka, katkelma, kirjasta, kulttiin, loputtomaan, luku, luvut, menestyksen, minä, niille |
 | fi/books/you-are-already-online/index.html | fi | books | Ashraellen — Olet jo verkossa | _missing_ | olet, verkossa, ashraellen, books, luku, 03.17, algoritmeista, already, audioromaani, digitaalisesta, ennen, ensimmäinen, hän, hypertodellisuudesta, immersiivinen, katkelma, kirjasta, kyberpunk-draama |
 | fi/contact.html | fi | contact.html | Yhteys — Ashraellen | ashraellen, yhteys, yhteistyö, julkaiseminen, apurahat, media, projektit | ashraellen, yhteys, apurahoja, ashraellenin, julkaisemista, mediaa, projekteja, varten, yhteistyötä, aineistot, contact, contact.html, julkiset, koskevia, telegram-yhteys, yhteydenottoja, yhteystiedot |
@@ -6509,6 +6510,23 @@ Excerpt:
 Excerpt:
 
 > SACRUNOMICON — MENESTYKSEN NURINPÄIN KÄÄNNETTY TETRAKIRJA SECCUSIN PYHÄ KIRJA Rehellisyyden polku Kirja rahasta ja menestyksestä, joka kääntää tutun kysymyksen toisin päin. Ei ”miten saan haluamani”, vaan mitä ihminen oikeastaan toivoo ostavansa vapauden, tunnustuksen ja sen oikeuden mukana, että voi pitää itseään menestyneenä. Raha on vain tekosyy. Kirjan todellinen aihe on ihminen, joka sitä haluaa. Englanninkielinen kansi. Sacrunomicon. Valittu sivu Käärö IV: Muurien kaatuminen Sivu motiivista, joka piiloutuu vapaudesta, auttamisesta, hyödystä ja tarkoituksesta lausuttujen oikeiden sanojen taakse. Avaa sivu Sulje sivu Sivu 71 — Varjon energialähde Lähestymme motivaatiosi syvintä kerrosta — sitä, jonka olet huolellisesti kiertänyt suojautumalla kauniiden sanojen ja jalojen tavoitteiden taakse. Olet sanonut itsellesi haluavasi rahaa vapauden vuoksi, läheistesi auttamiseksi ja maailman p
+
+### fi/books/seven/greed/index.html
+
+- lang: fi
+- section: books
+- title: Ashraellen — Ahneus | GREED · SEVEN, kirja I
+- description: GREED / Ahneus on SEVEN-kirjasarjan psykologinen rikosromaani. Noelin ajautuminen rikolliseen verkostoon ja petoksen molemmin puolin vaikuttavat inhimilliset halut.
+- canonical: https://www.ashraellen.com/fi/books/seven/greed/
+- H1: Ahneus / GREED
+- H2: Valittu katkelma | Romaanista | Lupauksen kahdella puolella | Jännitteet | Romaanin paikka SEVEN-sarjassa | Lukijoille ja kustantajille | Kirjan tilanne
+- H3: Tarve ja riittävyys | Luottamus ja sopiva totuus | Osallisuuden rajat | Menetetyn takaisin saaminen | Perhe ja itsensä oikeuttaminen | Vastuu ja syyllisyys
+- suggested keyword seed: greed, ahneus, ashraellen, books, katkelma, kirja, seven, ajautuminen, andrei, halut, hän, hänen, inhimilliset, jännitteet, joka, kahdella, kirjan, kustantajille
+- candidates: noel, hän, oli, andrei, hänen, kirja, vaan, greed, joka, katkelma, missä, mutta, ole, takaisin, toinen, vain, yksi, ahneus, ensimmäinen, iljan, itse, jotka, kysymys, liian
+
+Excerpt:
+
+> SEVEN · kirja I · psykologinen rikosromaani Ahneus / GREED Yksi etsii keinoa turvata tulevaisuutensa. Toinen tarjoaa hänelle mahdollisuutta ansaita. Toiset taas toivovat löytäneensä vihdoin tien parempaan elämään. Heidän ratkaisunsa muuttuvat vähitellen osiksi järjestelmää, jonka seurauksia kukaan heistä ei pysty näkemään kokonaan. Joskus ansa ei ala uhkauksesta vaan tarjouksesta, josta tekisi liian kovasti mieli olla kieltäytymättä. SEVEN · Kirja I · Ashraellen Valittu katkelma Ensimmäinen luku, § 1.3 · alustava versio Puhuttuaan Iljan kanssa Noel palaa tavalliseen kotielämäänsä. Mutta jo seuraavana päivänä hän joutuu itse kertomaan toiselle ihmiselle epäilyttävästä ansaintamahdollisuudesta. Lue katkelma Sulje katkelma Noel päätti puhelun ja lähti kotiin. Nina seisoi jo eteisessä. — Adoptoitko sinä sen vuokralaisen? — Oli liian vanha. — Harmi. Lämmitin keiton jo toistamiseen. — Tätä min
 
 ### fi/books/the-book-of-whinesis/index.html
 

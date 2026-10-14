@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T10:53:48.142Z",
+  "generated": "2026-10-14T10:57:08.737Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -24733,6 +24733,88 @@
         "kehys",
         "kenelle",
         "kirjallis-filosofinen"
+      ]
+    },
+    {
+      "page": "fi/books/seven/greed/index.html",
+      "lang": "fi",
+      "section": "books",
+      "title": "Ashraellen — Ahneus | GREED · SEVEN, kirja I",
+      "description": "GREED / Ahneus on SEVEN-kirjasarjan psykologinen rikosromaani. Noelin ajautuminen rikolliseen verkostoon ja petoksen molemmin puolin vaikuttavat inhimilliset halut.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/fi/books/seven/greed/",
+      "h1": [
+        "Ahneus / GREED"
+      ],
+      "h2": [
+        "Valittu katkelma",
+        "Romaanista",
+        "Lupauksen kahdella puolella",
+        "Jännitteet",
+        "Romaanin paikka SEVEN-sarjassa",
+        "Lukijoille ja kustantajille",
+        "Kirjan tilanne"
+      ],
+      "h3": [
+        "Tarve ja riittävyys",
+        "Luottamus ja sopiva totuus",
+        "Osallisuuden rajat",
+        "Menetetyn takaisin saaminen",
+        "Perhe ja itsensä oikeuttaminen",
+        "Vastuu ja syyllisyys"
+      ],
+      "slugTerms": [
+        "fi",
+        "books",
+        "seven",
+        "greed"
+      ],
+      "excerpt": "SEVEN · kirja I · psykologinen rikosromaani Ahneus / GREED Yksi etsii keinoa turvata tulevaisuutensa. Toinen tarjoaa hänelle mahdollisuutta ansaita. Toiset taas toivovat löytäneensä vihdoin tien parempaan elämään. Heidän ratkaisunsa muuttuvat vähitellen osiksi järjestelmää, jonka seurauksia kukaan heistä ei pysty näkemään kokonaan. Joskus ansa ei ala uhkauksesta vaan tarjouksesta, josta tekisi liian kovasti mieli olla kieltäytymättä. SEVEN · Kirja I · Ashraellen Valittu katkelma Ensimmäinen luku, § 1.3 · alustava versio Puhuttuaan Iljan kanssa Noel palaa tavalliseen kotielämäänsä. Mutta jo seuraavana päivänä hän joutuu itse kertomaan toiselle ihmiselle epäilyttävästä ansaintamahdollisuudesta. Lue katkelma Sulje katkelma Noel päätti puhelun ja lähti kotiin. Nina seisoi jo eteisessä. — Adoptoitko sinä sen vuokralaisen? — Oli liian vanha. — Harmi. Lämmitin keiton jo toistamiseen. — Tätä min",
+      "candidates": [
+        "noel",
+        "hän",
+        "oli",
+        "andrei",
+        "hänen",
+        "kirja",
+        "vaan",
+        "greed",
+        "joka",
+        "katkelma",
+        "missä",
+        "mutta",
+        "ole",
+        "takaisin",
+        "toinen",
+        "vain",
+        "yksi",
+        "ahneus",
+        "ensimmäinen",
+        "iljan",
+        "itse",
+        "jotka",
+        "kysymys",
+        "liian"
+      ],
+      "suggestedKeywordSeed": [
+        "greed",
+        "ahneus",
+        "ashraellen",
+        "books",
+        "katkelma",
+        "kirja",
+        "seven",
+        "ajautuminen",
+        "andrei",
+        "halut",
+        "hän",
+        "hänen",
+        "inhimilliset",
+        "jännitteet",
+        "joka",
+        "kahdella",
+        "kirjan",
+        "kustantajille"
       ]
     },
     {
