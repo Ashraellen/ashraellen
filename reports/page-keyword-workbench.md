@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-14T14:08:18.058Z
+Generated: 2026-10-14T14:10:38.019Z
 Pages: 910
 
 ## Index
@@ -10944,7 +10944,7 @@ Excerpt:
 - H2: Capítulo em destaque | Sobre o livro | Sem spoilers | Enquadramento de investigação artística | Temas | Para quem | Estado linguístico e editorial | Para fundações, editoras e parceiros culturais
 - H3: A casa do norte | A coisa e a fonte | Ivar e a medida | O mito antes do mito | Abundância | Posse | Participação | Trabalho e milagre
 - suggested keyword seed: sampo, livro, para, ashraellen, books, esplendor, não, sobre, abundância, ainda, artística, capítulo, com, como, conto, culturais, destaque, editoras
-- candidates: não, que, para, com, sofia, uma, como, mais, mas, nick, estava, por, depois, disse, pão, thomas, mão, olhou, era, sem, nem, quase, ele, fatia
+- candidates: não, que, para, com, sofia, uma, como, mais, mas, nick, estava, por, depois, disse, pão, thomas, mão, olhou, sem, era, nem, quase, ele, fatia
 
 Excerpt:
 
