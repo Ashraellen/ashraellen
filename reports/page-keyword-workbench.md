@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T17:21:05.043Z
+Generated: 2026-10-16T17:22:30.945Z
 Pages: 910
 
 ## Index
@@ -6660,7 +6660,7 @@ Excerpt:
 - H2: 1. Kuka vastaa tästä verkkosivustosta | 2. Mitä tietoja voidaan kerätä | 3. Mihin tietoja käytetään | 4. Käsittelyn oikeusperuste | 5. Analytiikka ja kolmannen osapuolen palvelut | 6. Evästeet ja paikalliset teknologiat | 7. Uutiskirje ja päivitykset | 8. Ostot ja ulkoiset palvelut
 - H3: _missing_
 - suggested keyword seed: analytiikka, tietoja, tietosuojakäytäntö, ashraellen, evästeet, kerätä, palvelut, voidaan, ashraellen.com, ashraellen.comin, google, henkilötiedot, käsittelyn, kauan, käytetään, käyttää, käyttäjän, kolmannen
-- candidates: tai, tietoja, voi, käyttää, voidaan, google, sivusto, analytiikka, ashraellen.com, kauan, kerätä, kun, palvelut, sitä, sivuston, tietojen, tietosuojakäytäntö, toimintaan, voit, amazonin, ashraellen, booksin, evästeet, henkilötietoja
+- candidates: tai, tietoja, voi, voidaan, käyttää, google, sivusto, sivuston, analytiikka, ashraellen.com, kauan, kerätä, palvelut, tietojen, tietosuojakäytäntö, toimintaan, voit, amazonin, ashraellen, booksin, evästeet, henkilötietoja, jos, käsittely
 
 Excerpt:
 
