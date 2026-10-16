@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T17:49:57.926Z
+Generated: 2026-10-16T17:50:56.202Z
 Pages: 910
 
 ## Index
@@ -381,7 +381,7 @@ Pages: 910
 | fi/public/thoughts/arcs/0017-witness-does-not-interfere.html | fi | public | Ashraellen — Todistaja ei puutu väliin | Ashraellen, tukiajatus, todistaja, rauhallisuus, läsnäolo | todistaja, aikojaan, ajatus, ashraellen, ennen, ole, public, puutu, vaan, väliin, 0017, arcs, does, estämättä, hän, ihminen, interfere, joka |
 | fi/public/thoughts/arcs/0018-image-cannot-be-happy.html | fi | public | Ashraellen — Kuva ei voi olla onnellinen | Ashraellen, tukiajatus, minäkuva, aitous, itsensä toteuttaminen | voi, kuva, olla, onnellinen, ajatus, ashraellen, elää, ihminen, mutta, public, 0018, arcs, cannot, elävä, hänen, happy, ihmisen, image |
 | fi/public/thoughts/arcs/0019-do-not-bomb.html | fi | public | Ashraellen — Älä pommita | Ashraellen, tukiajatus, aggressio, vastuu, aselepo | älä, pommita, ajatus, ashraellen, hän, ihminen, maailmaan, mitä, public, tämä, 0019, aina, alkaa, arcs, bomb, elää, ensin, että |
-| fi/public/thoughts/arcs/0020-people-and-mass.html | fi | public | Ashraellen — Kansa ja massa | Ashraellen, tukiajatus, kansa, massa, sisäinen havainto | kansa, massa, ajatus, alkaa, ashraellen, ihminen, kasvoista, lakkaa, public, 0020, arcs, hänen, kansan, katsomasta, kielestä, koko, kun, mass |
+| fi/public/thoughts/arcs/0020-people-and-mass.html | fi | public | Ashraellen — Kansa ja massa | Ashraellen, tukiajatus, kansa, massa, sisäinen havainto | kansa, massa, ajatus, alkaa, ashraellen, ihminen, kasvoista, kun, public, vain, 0020, arcs, hänen, kansan, katsomasta, kielestä, koko, lakkaa |
 | fi/public/thoughts/arcs/0021-mating-games.html | fi | public | Ashraellen — Parittelupelit | Ashraellen, tukiajatus, suhteet, roolit, käsikirjoitus | ajatus, alkavat, ashraellen, jonka, koko, parittelupelit, public, 0021, arcs, ennen, games, hän, ihminen, ihmistä, joka, joku, jotkut, käsikirjoituksesta |
 | fi/public/thoughts/arcs/0022-spirituality-is-not-forced.html | fi | public | Ashraellen — Hengellisyyttä ei pakoteta | Ashraellen, tukiajatus, hengellisyys, yhteys, pelko | hengellisyyttä, pakoteta, ajatus, ashraellen, hengellisyys, pelosta, public, todellinen, 0022, arcs, että, forced, halusta, koko, miksi, pakosta, pelko, sielu |
 | fi/public/thoughts/arcs/0023-price-of-transition.html | fi | public | Ashraellen — Siirtymän hinta | Ashraellen, tukiajatus, kriisi, siirtymä, muutos | hinta, siirtymän, ajatus, ashraellen, enää, kriisi, muodosta, public, 0023, arcs, hän, jotka, kaikki, kanna, koko, kuin, kun, luopumaan |
@@ -7288,12 +7288,12 @@ Excerpt:
 - H1: Kansa ja massa
 - H2: Ajatus | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
 - H3: _missing_
-- suggested keyword seed: kansa, massa, ajatus, alkaa, ashraellen, ihminen, kasvoista, lakkaa, public, 0020, arcs, hänen, kansan, katsomasta, kielestä, koko, kun, mass
-- candidates: ihminen, kansa, massa, ajatus, hänen, kansan, puolestaan, voi, alkaa, kasvoista, lakkaa, massan, minä, minussa, mitä, vain, virta, 0020, ajattelee, enää, että, hän, helposti, herättää
+- suggested keyword seed: kansa, massa, ajatus, alkaa, ashraellen, ihminen, kasvoista, kun, public, vain, 0020, arcs, hänen, kansan, katsomasta, kielestä, koko, lakkaa
+- candidates: ihminen, kansa, massa, hänen, ajatus, kansan, puolestaan, vain, voi, alkaa, kasvoista, kun, lakkaa, massan, minä, minussa, mitä, tahansa, virta, 0020, ajattelee, enää, että, hän
 
 Excerpt:
 
-> Tukiajatus 0020 Kansa ja massa Kansa muistaa. Massa reagoi. Ajatus Kansa rakentuu kasvoista, muistista, kielestä ja sisäisestä yhteydestä. Massa syntyy, kun ihminen lakkaa kysymästä mitä hän itse näkee ja alkaa reagoida virtauksen osana. Koko teksti Surullisista johtopäätöksistä. Kansa ei ole vain suuri määrä ihmisiä. Kansa on muisti. Kieli. Käsityö. Laulu. Juhla. Yhteinen ele. Tapa tervehtiä, olla hiljaa, haudata kuolleet, iloita, leipoa leipää, kertoa lapsille tarinoita ja tunnistaa omansa vieraassakin kaupungissa. Kansa koostuu ihmisistä. Erillisistä kasvoista. Kohtaloista. Perheistä. Äänistä. Elävistä sisäisistä maailmoista. Massa on jotain muuta. Massa on hermostunut ihmisvirta, joka kiihtyy helposti ja pelästyy yhtä helposti. Tänään se on valmis seuraamaan ensimmäistä äänekästä kutsua ja hajottamaan kaiken historiallisen välttämättömyyden ilme kasvoillaan. Huomenna sama virta hajaa
+> Tukiajatus 0020 Kansa ja massa Kansa muistaa. Massa reagoi. Ajatus Kansa rakentuu kasvoista, muistista, kielestä ja sisäisestä yhteydestä. Massa syntyy, kun ihminen lakkaa kysymästä mitä hän itse näkee ja alkaa reagoida virtauksen osana. Koko teksti Surullisista johtopäätöksistä. Kansa ei ole vain suuri määrä ihmisiä. Kansa on muisti. Kieli. Käsityö. Laulu. Juhla. Yhteinen ele. Tapa tervehtiä, olla hiljaa, haudata kuolleet, iloita, leipoa leipää, kertoa lapsille tarinoita ja tunnistaa omansa vieraassakin kaupungissa. Kansa koostuu ihmisistä. Erillisistä kasvoista. Kohtaloista. Perheistä. Äänistä. Elävistä sisäisistä maailmoista. Massa on jotain muuta. Massa on hermostunut ihmisvirta, joka kiihtyy helposti ja pelästyy yhtä helposti. Tänään se on valmis taipumaan minkä tahansa vetovoiman alle, kuuntelemaan ketä tahansa huutajaa, seuraamaan ensimmäistä tarmokasta kehotusta ja tuhoamaan kaik
 
 ### fi/public/thoughts/arcs/0021-mating-games.html
 
