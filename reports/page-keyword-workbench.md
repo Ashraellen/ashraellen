@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T18:40:16.389Z
-Pages: 911
+Generated: 2026-10-16T18:45:15.391Z
+Pages: 912
 
 ## Index
 
@@ -333,7 +333,8 @@ Pages: 911
 | fi/books/radiance/song/index.html | fi | books | Ashraellen — Laulu \| HOHDE, Kirja II | Ashraellen, Laulu, HOHDE, kieli, kuuleminen, Varsova, taiteellinen tutkimus, mytopoetiikka | laulu, ashraellen, books, joka, kirja, äänestä, ayla, että, hän, hohde, hohde-sarjan, ilman, julkaisutilanne, juonipaljastuksia, kehys, kenelle, kielestä, kieli |
 | fi/books/samizdat/demotopia/index.html | fi | books | Demotopia — Kirjapassi — samizdat 2.0 | Ashraellen, Demotopia, Demokraattinen utopia, samizdat 2.0, kirjapassi, tekijäjulkaisu | demotopia, samizdat, 2.0, kirjapassi, 2026, books, demokraattinen, demotopian, julkaisu, utopia, ashraellen, demokratian, fyysinen, fyysisen, järjestelmässä, kirjasta, passi, pysyvä |
 | fi/books/samizdat/index.html | fi | books | samizdat 2.0 — Ashraellenin tekijäjulkaisut | Ashraellen, samizdat 2.0, tekijäjulkaisut, kirjapassi, fyysiset kirjat, numeroidut kappaleet | samizdat, 2.0, ashraellenin, books, ilman, kirja, tekijäjulkaisut, ashraellen, eikä, fyysinen, fyysiset, jonka, julkinen, julkiset, kappaleet, kirjan, kirjapassit, kirjat |
-| fi/books/samizdat/monolith/index.html | fi | books | MONOLITH — Kirjapassi — samizdat 2.0 | Ashraellen, MONOLITH, Demokraattinen utopia, samizdat 2.0, kirjapassi, tekijäjulkaisu | monolith, 2.0, kirjapassi, samizdat, books, kirja, 2026, ashraellen, avaa, beton, demokraattinen, fyysisen, gas, järjestelmässä, järjestys, joka, julkaistu, julkaisusta |
+| fi/books/samizdat/monolith/beton/index.html | fi | books | BETON — kirjapassi — samizdat 2.0 | _missing_ | beton, samizdat, 2.0, ashraellen, kirjapassi, books, laitoksen, osa, teoksen, betonin, ensimmäinen, julkaisun, kappale, kappaleen, kappaleiden, kirjasta, monolith, monolith-trilogian |
+| fi/books/samizdat/monolith/index.html | fi | books | MONOLITH — Kirjapassi — samizdat 2.0 | Ashraellen, MONOLITH, BETON, SLUDGE, GAS, samizdat 2.0, trilogia, sarjan passi | monolith, 2.0, samizdat, beton, books, gas, kirja, kirjapassi, passi, sludge, ashraellen, avaa, järjestelmässä, järjestys, joka, julkaistu, julkaisusta, julkinen |
 | fi/books/samizdat/order/index.html | fi | books | Pyydä samizdat 2.0 -tekijäkappale — Ashraellen | Ashraellen, samizdat 2.0, tekijäkappale, kirjatilaus, Demotopia, kirjapyyntö | pyydä, 2.0, kappale, samizdat, tekijäkappale, ashraellen, books, henkilökohtaisesti, hinta, kielellä, toimitus, allekirjoitettu, ashraellenin, ennen, hinnan, kappaleen, kirja, laskelma |
 | fi/books/samizdat/order/received/index.html | fi | books | Pyyntö vastaanotettu — samizdat 2.0 — Ashraellen | Ashraellen, samizdat 2.0, kirjapyyntö, tekijäkappale, pyyntö vastaanotettu | samizdat, 2.0, ashraellen, pyyntö, vastaanotettu, automaattisesti, books, ennen, sähköpostitse, valmistusta, aan, alkaa, eikä, hinta, kiitos, kirjapyyntö, muuttunut, ole |
 | fi/books/seccus/index.html | fi | books | Ashraellen — SECCUSIN PYHÄ KIRJA | Ashraellen, SECCUS, SECCUSIN PYHÄ KIRJA, Rehellisyyden polku, filosofinen satiiri, raha, menestys, itsepetos, tieto alibina, vastuu, Sacrunomicon, Ordo Sacrunomiconis, tetrakirja | kirja, pyhä, seccusin, ashraellen, books, rehellisyyden, sivu, ääni, alibina, filosofinen, ihminen, ilman, itsepetoksesta, joka, juonipaljastuksia, kehys, kenelle, kirjallis-filosofinen |
@@ -6463,18 +6464,35 @@ Excerpt:
 
 > Fyysisiä tekijäkirjoja / julkisia kirjapasseja samizdat 2.0 Kirjan ei tarvitse muuttua nimettömäksi tuotteeksi tullakseen julkiseksi. samizdat 2.0 on nykyaikainen järjestelmä tekijän viimeistelemille kirjoille, jotka saatetaan fyysiseen muotoon teollisen julkaisuketjun ulkopuolella ja välitetään suoraan lukijoille. Jokainen julkaisu säilyttää yhteyden alkuperäänsä pysyvän julkisen passin kautta. Miksi nyt julkaiseminen on helppoa; läsnäolo ei Klassinen samizdat syntyi tilanteessa, jossa teksti ei päässyt virallisten kanavien läpi. Nyt tekninen julkaiseminen on lähes kaikille mahdollista. Tiedoston voi julkaista heti, kirjan painaa tilauksesta ja tekstin levittää ilman lupaa. Vapauden mukana syntyy toinen menetys: fyysinen kirja voi imeytyä samaan anonyymiin kiertoon kuin mikä tahansa tuote — tuotettu, tilattu, toimitettu ja unohdettu ilman näkyvää suhdetta tekijän, esineen ja lukijan väl
 
+### fi/books/samizdat/monolith/beton/index.html
+
+- lang: fi
+- section: books
+- title: BETON — kirjapassi — samizdat 2.0
+- description: BETONin venäjänkielisen laitoksen kirjapassi. MONOLITH-trilogian ensimmäinen osa, Ashraellen Samizdat 2.0.
+- canonical: https://www.ashraellen.com/fi/books/samizdat/monolith/beton/
+- H1: BETON
+- H2: Kirjasta | Teoksen tiedot | Venäjänkielinen samizdat-laitos | Vielä vahvistamatta | Teos ja yksittäinen kappale | Tiedustele julkaisun tietoja
+- H3: _missing_
+- suggested keyword seed: beton, samizdat, 2.0, ashraellen, kirjapassi, books, laitoksen, osa, teoksen, betonin, ensimmäinen, julkaisun, kappale, kappaleen, kappaleiden, kirjasta, monolith, monolith-trilogian
+- candidates: valmisteilla, osa, beton, teoksen, 2.0, ashraellen, painomasterin, samizdat, kappaleen, kappaleiden, kirjapassi, laitoksen, romaani, säilyttää, tila, valmis, ensimmäinen, fyysisen, gas, identiteetin, ilman, jälkeen, julkinen, kaikki
+
+Excerpt:
+
+> Kirjapassi / samizdat 2.0 MONOLITH Osa I BETON Olemme kaikki osa samaa seinää ASHRAELLEN Valmis romaani ja MONOLITH-trilogian ensimmäinen osa. Julkinen passi säilyttää teoksen identiteetin ja täydentyy vähitellen venäjänkielisen fyysisen laitoksen vahvistetuilla tiedoilla. Kirjasta valmis teos / osa I BETON tutkii maailmaa, jossa suostumuksesta tulee rakennusmateriaalia, mukavuudesta hallinnan teknologiaa ja yhteisen rakenteen huomaamattomasta halkeamasta ainoa mahdollisuus säilyttää oma havaintokyky. Kirja aloittaa MONOLITHin teossarjan ja on samalla itsenäinen romaani. Seuraavat osat ovat SLUDGE ja GAS. Teoksen tiedot vahvistetut tunnisteet Sarja MONOLITH Osa sarjassa Osa I Nimi BETON Alaotsikko Olemme kaikki osa samaa seinää Tekijä ASHRAELLEN Teoksen kieli Venäjä Teoslaji Romaani Teoksen tila Valmis Teoksen tunniste 2026-001B Indeksi 6666548A Rakenne 4 osaa, 26 lukua, epilogi ja apokr
+
 ### fi/books/samizdat/monolith/index.html
 
 - lang: fi
 - section: books
 - title: MONOLITH — Kirjapassi — samizdat 2.0
-- description: MONOLITHn fyysisen tekijäjulkaisun kirjapassi samizdat 2.0 -järjestelmässä: Demokraattinen utopia, Varsova 2026.
+- description: MONOLITH-trilogian julkinen passi samizdat 2.0 -järjestelmässä: BETON, SLUDGE ja GAS.
 - canonical: https://www.ashraellen.com/fi/books/samizdat/monolith/
 - H1: MONOLITH
 - H2: Trilogiasta | Kirjojen järjestys | Kirja, sarja ja yksittäinen kappale | Pyydä tietoja julkaisusta
 - H3: BETON | SLUDGE | GAS
-- suggested keyword seed: monolith, 2.0, kirjapassi, samizdat, books, kirja, 2026, ashraellen, avaa, beton, demokraattinen, fyysisen, gas, järjestelmässä, järjestys, joka, julkaistu, julkaisusta
-- candidates: venäjänkielinen, passi, kirjapassi, beton, gas, julkaistu, kirja, monolith, sludge, 2.0, avaa, joka, kirjojen, kolme, samizdat, sarjan, tekijän, tietoja, trilogian, erikseen, fyysisen, itsenäistä, kappale, muuttuu
+- suggested keyword seed: monolith, 2.0, samizdat, beton, books, gas, kirja, kirjapassi, passi, sludge, ashraellen, avaa, järjestelmässä, järjestys, joka, julkaistu, julkaisusta, julkinen
+- candidates: passi, venäjänkielinen, beton, gas, sludge, julkaistu, kirja, kirjapassi, monolith, 2.0, avaa, joka, kirjojen, kolme, samizdat, sarjan, tekijän, tietoja, trilogian, erikseen, itsenäistä, kappale, muuttuu, passinsa
 
 Excerpt:
 

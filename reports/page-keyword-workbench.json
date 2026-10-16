@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16T18:40:16.377Z",
+  "generated": "2026-10-16T18:45:15.376Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -24515,12 +24515,87 @@
       ]
     },
     {
+      "page": "fi/books/samizdat/monolith/beton/index.html",
+      "lang": "fi",
+      "section": "books",
+      "title": "BETON — kirjapassi — samizdat 2.0",
+      "description": "BETONin venäjänkielisen laitoksen kirjapassi. MONOLITH-trilogian ensimmäinen osa, Ashraellen Samizdat 2.0.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/fi/books/samizdat/monolith/beton/",
+      "h1": [
+        "BETON"
+      ],
+      "h2": [
+        "Kirjasta",
+        "Teoksen tiedot",
+        "Venäjänkielinen samizdat-laitos",
+        "Vielä vahvistamatta",
+        "Teos ja yksittäinen kappale",
+        "Tiedustele julkaisun tietoja"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "fi",
+        "books",
+        "samizdat",
+        "monolith",
+        "beton"
+      ],
+      "excerpt": "Kirjapassi / samizdat 2.0 MONOLITH Osa I BETON Olemme kaikki osa samaa seinää ASHRAELLEN Valmis romaani ja MONOLITH-trilogian ensimmäinen osa. Julkinen passi säilyttää teoksen identiteetin ja täydentyy vähitellen venäjänkielisen fyysisen laitoksen vahvistetuilla tiedoilla. Kirjasta valmis teos / osa I BETON tutkii maailmaa, jossa suostumuksesta tulee rakennusmateriaalia, mukavuudesta hallinnan teknologiaa ja yhteisen rakenteen huomaamattomasta halkeamasta ainoa mahdollisuus säilyttää oma havaintokyky. Kirja aloittaa MONOLITHin teossarjan ja on samalla itsenäinen romaani. Seuraavat osat ovat SLUDGE ja GAS. Teoksen tiedot vahvistetut tunnisteet Sarja MONOLITH Osa sarjassa Osa I Nimi BETON Alaotsikko Olemme kaikki osa samaa seinää Tekijä ASHRAELLEN Teoksen kieli Venäjä Teoslaji Romaani Teoksen tila Valmis Teoksen tunniste 2026-001B Indeksi 6666548A Rakenne 4 osaa, 26 lukua, epilogi ja apokr",
+      "candidates": [
+        "valmisteilla",
+        "osa",
+        "beton",
+        "teoksen",
+        "2.0",
+        "ashraellen",
+        "painomasterin",
+        "samizdat",
+        "kappaleen",
+        "kappaleiden",
+        "kirjapassi",
+        "laitoksen",
+        "romaani",
+        "säilyttää",
+        "tila",
+        "valmis",
+        "ensimmäinen",
+        "fyysisen",
+        "gas",
+        "identiteetin",
+        "ilman",
+        "jälkeen",
+        "julkinen",
+        "kaikki"
+      ],
+      "suggestedKeywordSeed": [
+        "beton",
+        "samizdat",
+        "2.0",
+        "ashraellen",
+        "kirjapassi",
+        "books",
+        "laitoksen",
+        "osa",
+        "teoksen",
+        "betonin",
+        "ensimmäinen",
+        "julkaisun",
+        "kappale",
+        "kappaleen",
+        "kappaleiden",
+        "kirjasta",
+        "monolith",
+        "monolith-trilogian"
+      ]
+    },
+    {
       "page": "fi/books/samizdat/monolith/index.html",
       "lang": "fi",
       "section": "books",
       "title": "MONOLITH — Kirjapassi — samizdat 2.0",
-      "description": "MONOLITHn fyysisen tekijäjulkaisun kirjapassi samizdat 2.0 -järjestelmässä: Demokraattinen utopia, Varsova 2026.",
-      "existingKeywords": "Ashraellen, MONOLITH, Demokraattinen utopia, samizdat 2.0, kirjapassi, tekijäjulkaisu",
+      "description": "MONOLITH-trilogian julkinen passi samizdat 2.0 -järjestelmässä: BETON, SLUDGE ja GAS.",
+      "existingKeywords": "Ashraellen, MONOLITH, BETON, SLUDGE, GAS, samizdat 2.0, trilogia, sarjan passi",
       "canonical": "https://www.ashraellen.com/fi/books/samizdat/monolith/",
       "h1": [
         "MONOLITH"
@@ -24544,15 +24619,15 @@
       ],
       "excerpt": "Sarjan passi / samizdat 2.0 MONOLITH Trilogia aineesta, joka muuttuu ympäristöksi ja sitten katoaa — ja jättää ihmisen hänen itse luomansa järjestelmän sisään. MONOLITH yhdistää kolme itsenäistä kirjaa yhdeksi tekijän määrittämäksi kokonaisuudeksi. Jokaisella kirjalla on oma passinsa ja fyysinen muotonsa. Sarjan passi säilyttää kirjojen järjestyksen ja keskinäisen yhteyden. Trilogiasta yksi kokonaisuus / kolme itsenäistä teosta BETON, SLUDGE ja GAS muodostavat sarjan, jossa muuttuu paitsi ympäristön olomuoto myös tapa, jolla ihminen elää sen sisällä. Kirjat luetaan määrätyssä järjestyksessä: kiinteästä muodosta viskoosin kautta näkymättömään. Tämä passi koskee trilogiaa yhtenä tekijän rakentamana kokonaisuutena. Se ei korvaa yksittäisten kirjojen passeja eikä sisällä tietoja erikseen numeroiduista fyysisistä kappaleista. Kirjojen järjestys BETON → SLUDGE → GAS I BETON BETONI Trilogian en",
       "candidates": [
-        "venäjänkielinen",
         "passi",
-        "kirjapassi",
+        "venäjänkielinen",
         "beton",
         "gas",
+        "sludge",
         "julkaistu",
         "kirja",
+        "kirjapassi",
         "monolith",
-        "sludge",
         "2.0",
         "avaa",
         "joka",
@@ -24564,30 +24639,30 @@
         "tietoja",
         "trilogian",
         "erikseen",
-        "fyysisen",
         "itsenäistä",
         "kappale",
-        "muuttuu"
+        "muuttuu",
+        "passinsa"
       ],
       "suggestedKeywordSeed": [
         "monolith",
         "2.0",
-        "kirjapassi",
         "samizdat",
+        "beton",
         "books",
+        "gas",
         "kirja",
-        "2026",
+        "kirjapassi",
+        "passi",
+        "sludge",
         "ashraellen",
         "avaa",
-        "beton",
-        "demokraattinen",
-        "fyysisen",
-        "gas",
         "järjestelmässä",
         "järjestys",
         "joka",
         "julkaistu",
-        "julkaisusta"
+        "julkaisusta",
+        "julkinen"
       ]
     },
     {
