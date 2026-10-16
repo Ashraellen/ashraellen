@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T17:33:28.333Z
+Generated: 2026-10-16T17:34:40.412Z
 Pages: 910
 
 ## Index
@@ -369,7 +369,7 @@ Pages: 910
 | fi/public/thoughts/arcs/0005-on-your-own.html | fi | public | Ashraellen — Pelko hallinnan mekanismina | Ashraellen, tukiajatus, pelko, hallinta, itsenäinen ajattelu | hallinnan, ajatella, alkaa, ashraellen, ihminen, itse, lakkaa, mekanismina, pelko, public, aina, ajatus, arcs, ashraellenin, elämistä, että, heikkenee, heikkenevät |
 | fi/public/thoughts/arcs/0006-insight.html | fi | public | Ashraellen — Syvempi katse kokoaa elämän | Ashraellen, tukiajatus, oivallus, syyt, kokemus | katse, kokoaa, syvempi, elämän, ashraellen, public, alkaa, arcs, ashraellenin, enää, hän, ihminen, ihmisen, ilman, insight, ketjuksi, kivun, kokemuksen |
 | fi/public/thoughts/arcs/0007-empty-chair.html | fi | public | Ashraellen — Tyhjä tuoli | Ashraellen, tukiajatus, muisti, menetys, tyhjä tuoli | tuoli, tyhjä, ashraellen, eivät, ihmiset, istumasta, jotkut, kokonaan, public, vain, ajatus, arcs, ashraellenin, chair, empty, että, kerran, koko |
-| fi/public/thoughts/arcs/0008-generalization.html | fi | public | Ashraellen — Yleistys havainnon sijasta | Ashraellen, tukiajatus, yleistys, havainto, ajattelu | havainnon, yleistys, ashraellen, jossa, kohdassa, korvaa, muuttuu, public, sijasta, tämä, ajatus, alkaa, arcs, ashraellenin, että, generalization, juuri, koko |
+| fi/public/thoughts/arcs/0008-generalization.html | fi | public | Ashraellen — Yleistys havainnon sijasta | Ashraellen, tukiajatus, yleistys, havainto, ajattelu | havainnon, yleistys, ashraellen, korvaa, muuttuu, public, sijasta, tämä, vaaralliseksi, ajatus, arcs, ashraellenin, asia, että, generalization, ihminen, jossa, kohdassa |
 | fi/public/thoughts/arcs/0009-where-life-stopped.html | fi | public | Ashraellen — Missä lakkasit olemasta elossa | Ashraellen, tukiajatus, herääminen, elämänvoima, selviytyminen | missä, elossa, lakkasit, ashraellen, elämä, herääminen, joskus, olemasta, public, ajatus, arcs, ashraellenin, että, herätä, juuri, kohdassa, koko, life |
 | fi/public/thoughts/arcs/0010-dirty-cup.html | fi | public | Ashraellen — Likainen kuppi | Ashraellen, tukiajatus, likainen kuppi, välttely, absurdismi | kuppi, likainen, ashraellen, kuppia, public, vaihtaa, vain, ympyrää, ajatus, alice, arcs, ashraellenin, cup, dirty, hatuntekijä, juokseminen, juoksijan, koko |
 | fi/public/thoughts/arcs/0011-do-not-regret.html | fi | public | Ashraellen — Älä kadu | Ashraellen, tukiajatus, katumus, armo, menetys | älä, kadu, armo, ashraellen, joskus, public, ajatus, arcs, ashraellenin, elämä, ihminen, jota, koko, kun, menetykseltä, merkitys, mikä, miksi |
@@ -7084,12 +7084,12 @@ Excerpt:
 - H1: Yleistys havainnon sijasta
 - H2: Merkitys | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
 - H3: _missing_
-- suggested keyword seed: havainnon, yleistys, ashraellen, jossa, kohdassa, korvaa, muuttuu, public, sijasta, tämä, ajatus, alkaa, arcs, ashraellenin, että, generalization, juuri, koko
-- candidates: yleistys, havainnon, ajatus, korvaa, kun, muuttuu, tämä, alkaa, että, jossa, juuri, kohdassa, kokemus, mieli, nähnyt, säästää, siinä, sijasta, sisäisen, sitä, tapausta, tarvitse, toimiston, tukiajatus
+- suggested keyword seed: havainnon, yleistys, ashraellen, korvaa, muuttuu, public, sijasta, tämä, vaaralliseksi, ajatus, arcs, ashraellenin, asia, että, generalization, ihminen, jossa, kohdassa
+- candidates: havainnon, yleistys, korvaa, muuttuu, ajatus, kun, tämä, tarvitse, vaaralliseksi, asia, että, ihminen, jokainen, jossa, juuri, kaikki, kohdassa, mielen, mieli, nähneet, näin, olemme, säästää, siinä
 
 Excerpt:
 
-> Tukiajatus 0008 Yleistys havainnon sijasta Yleistys muuttuu vaaralliseksi siinä kohdassa, jossa se korvaa havainnon. Merkitys Yleistys säästää mielen vaivaa. Se voi myös muuttua kieltäytymiseksi nähdä, mitä juuri nyt tapahtuu. Kun valmis etiketti tulee huomion tilalle, ihminen ei enää kohtaa tapausta — hän palvelee vanhaa lomaketta. Koko teksti Yleistys on kätevä keksintö. Sen ansiosta kaikkea ei tarvitse tutkia joka kerta alusta. Ei tarvitse katsoa läheltä, kysyä tarkennusta eikä kohdata elävää tapausta elävänä. Riittää, että sisäisen toimiston pölyisestä kaapista vedetään oikean värinen lomake: “Olen nähnyt tämän ennenkin.” Usein et ole. Olet nähnyt jotain samankaltaista ja päättänyt, että samankaltainen on sama. Siitä virhe alkaa. “Ne ovat kaikki tuollaisia.” “Aina käy näin.” “Näistä tiedetään jo.” “Minä tiedän mihin tämä päättyy.” Mieli nyökkää tyytyväisenä: työ tehty. Todellisuudess
+> Tukiajatus 0008 Yleistys havainnon sijasta Yleistys muuttuu vaaralliseksi siinä kohdassa, jossa se korvaa havainnon. Merkitys Yleistys säästää mielen vaivaa. Se voi myös muuttua kieltäytymiseksi nähdä, mitä juuri nyt tapahtuu. Kun valmis etiketti tulee huomion tilalle, ihminen ei enää kohtaa tapausta — hän palvelee vanhaa lomaketta. Koko teksti Yleistäminen on kätevä asia. Se auttaa mieltä välttämään sen, että jokainen asia pitäisi selvittää uudestaan. Ei tarvitse katsoa tarkasti. Ei tarvitse täsmentää yksityiskohtia. Ei tarvitse kohdata elävää tapausta elävänä. On helpompaa ottaa esiin valmis kaava ja sanoa: ”Tämän minä olen nähnyt ennenkin.” Vaikka usein emme ole nähneet juuri tätä. Olemme nähneet jotakin samankaltaista. Ja sitten olemme laiskasti päättäneet, että samankaltainen tarkoittaa samaa. Näin virhe syntyy. Ihminen lakkaa havaitsemasta todellisuutta ja alkaa liimata siihen vanh
 
 ### fi/public/thoughts/arcs/0009-where-life-stopped.html
 
