@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T17:15:51.381Z
+Generated: 2026-10-16T17:17:36.804Z
 Pages: 910
 
 ## Index
@@ -395,7 +395,7 @@ Pages: 910
 | fi/research/notes/index.html | fi | research | Ashraellen — Muistiinpanot | ashraellen, muistiinpanot, marginaalit, tutkimus, epäilyt, fragmentit | ashraellen, muistiinpanot, aineistoa, ashraellenin, epäilyjä, fragmentteja, joka, kieltäytyy, marginaaleja, muuttumasta, opiksi, research, jos, marginaalit, muistiinpanoja, notes, tietoisesti |
 | fi/research/position/index.html | fi | research | Ashraellen — Lähtökohta | ashraellen, lähtökohta, taiteellinen tutkimus, Todellisuus, hyväksyminen, Luoja, ihmisen vapaus, uskonto, vastuu | ashraellen, ihmisen, lähtökohta, ashraellenin, ilman, ole, research, toisen, että, hän, hänen, historialliset, hyväksyminen, hyväksymisestä, hyväksyntää, ihminen, järjestelmät, julkinen |
 | fi/research/projects/index.html | fi | research | Ashraellen — Tutkimusprojektit | Ashraellen, tutkimusprojektit, MONOLIITTI, taiteellinen tutkimus, julkinen filosofia | ashraellen, memory, seven, voiceprint, whisper, ashraellenin, research, ajantasainen, avaa, ihminen, ihmisen, instagram, julkinen, kartta, kautta, käytäntö, miten, monoliitti |
-| fi/research/sources/index.html | fi | research | Ashraellen — Lähteet ja tutkimusperinne | Ashraellen, tutkimusperinne, fenomenologia, kognitiotiede, taiteellinen tutkimus | lähteet, tutkimusperinne, ashraellen, fenomenologia, keho, kokemus, research, taiteellinen, tietoisuuden, ashraelleniin, ashraellenin, edmund, elävänä, eleanor, ennen, ensimmäisenä, essee, evan |
+| fi/research/sources/index.html | fi | research | Ashraellen — Lähteet ja tutkimusperinne | Ashraellen, tutkimusperinne, fenomenologia, kognitiotiede, taiteellinen tutkimus | lähteet, tutkimusperinne, ashraellen, fenomenologia, keho, research, taiteellinen, tietoisuuden, ashraelleniin, ashraellenin, edmund, elävänä, eleanor, ennen, ensimmäisenä, essee, evan, francisco |
 | flow/index.html | root | flow | FLOW — Ashraellen | ashraellen, flow, playlist, youtube, music, doctype, html, title, window.location.replace, https, music.youtube.com, list, plliwih1l4vxtrzs4, wvti69pbdhddk4ny, iuwpb0ptwi1d1elk, script, root, 050505 | flow, ashraellen, playlist, music, youtube, open, opening |
 | focus-group/books/Error404/index.html | root | focus-group | Ошибка 404: Бог не найден — читательская панель | _missing_ | 404, бог, найден, ошибка, панель, читательская, ashraellen, books, ch.title, error404, escapehtml, focus, focus-group, group, важно, вычитки, где, главы |
 | focus-group/style-lab/dark/index.html | root | focus-group | Ashraellen — Dark Style Lab | _missing_ | dark, lab, style, ashraellen, текст, текстовые, 14px, 16px, badge, contact, current, focus, focus-group, group, pills, public, radius, serif-текст |
@@ -7526,12 +7526,12 @@ Excerpt:
 - H1: Lähteet ja tutkimusperinne
 - H2: Edmund Husserl — kokemus ennen valmiita selityksiä | Maurice Merleau-Ponty — keho havainnon ensimmäisenä pisteenä | Paul Ricoeur — kertomus itseymmärryksen muotona | Francisco Varela, Evan Thompson, Eleanor Rosch — tietoisuus elävänä vuorovaikutuksena | Romaani, essee ja julkinen teksti tutkimuksen muotoina | Keskeisiä nimiä ja suuntia
 - H3: _missing_
-- suggested keyword seed: lähteet, tutkimusperinne, ashraellen, fenomenologia, keho, kokemus, research, taiteellinen, tietoisuuden, ashraelleniin, ashraellenin, edmund, elävänä, eleanor, ennen, ensimmäisenä, essee, evan
-- candidates: vaan, ashraelleniin, kokemuksen, ole, tietoisuuden, yhteys, fenomenologia, jossa, kautta, kokemus, näkyväksi, taiteellinen, ajatuksen, husserl, itse, keho, kehoon, kognitiotieteen, lähteet, merleau-ponty, miten, ricoeur, romaani, rosch
+- suggested keyword seed: lähteet, tutkimusperinne, ashraellen, fenomenologia, keho, research, taiteellinen, tietoisuuden, ashraelleniin, ashraellenin, edmund, elävänä, eleanor, ennen, ensimmäisenä, essee, evan, francisco
+- candidates: taiteellinen, fenomenologia, kokemuksen, vaan, ashraelleniin, tietoisuuden, voi, yhteys, jossa, kautta, näkyväksi, ole, ruumiillinen, ajatuksen, husserl, itse, itseymmärryksen, käytäntö, keho, kertomus, kognitiotiede, kokemus, lähteet, merleau-ponty
 
 Excerpt:
 
-> Lähteet ja tutkimusperinne Tämä tutkimus sijoittuu tietoisuuden fenomenologian, narratiivisen epistemologian, kognitiotieteen ja taiteellisen käytännön risteykseen. Husserl rakensi menetelmää kokemuksen täsmälliseen kuvaamiseen. Merleau-Ponty palautti tietoisuuden kehoon. Ricoeur osoitti, ettei narratiivi ole ajatuksen koriste vaan itseymmärryksen muoto. Varela, Thompson ja Rosch toivat fenomenologian yhteyteen kognitiotieteen ja eletyn kokemuksen. Ashraellen työskentelee kohdassa, jossa nämä linjat kohtaavat: siellä, missä akateeminen kirjoitus yksin ei enää riitä ja elävä kokemus ei ole vielä saanut tarkkaa muotoa. Tietoisuuden fenomenologia Edmund Husserl — kokemus ennen valmiita selityksiä Olennaista ei ole uskoa ensimmäistä ajatusta vaan tarkkailla, miten kokemus ilmestyy tietoisuuteen. Totunnaiset selitykset siirretään hetkeksi sivuun, jotta itse ilmiö — ajatus, aistimus, pelko, od
+> Lähteet ja tutkimusperinne Ashraellenin työ liittyy useisiin ajattelun ja taiteen perinteisiin, jotka tarjoavat erilaisia kieliä kokemuksen, havainnon, itseymmärryksen ja tutkimusprosessin kuvaamiseen. Tietoisuuden fenomenologia, ruumiillinen fenomenologia, narratiivinen ajattelu, kognitiotiede ja taiteellinen käytäntö eivät muodosta tässä suljettua lähdejärjestelmää eivätkä tyhjentävää kuvausta työn aatteellisesta taustasta. Ne ovat muutamia tärkeitä vertailukohtia. Näitä suuntauksia ei voi yhdistää yhdeksi todistusjärjestelmäksi. Tieteellinen malli pysyy tieteellisenä, filosofinen filosofisena ja taiteellinen tutkimus taiteellisena. Niiden kohtaaminen on arvokasta silloin, kun eri kuvaustavat auttavat tarkastelemaan samaa kysymystä eri puolilta. Husserl kehitti menetelmää kokemuksen huolelliseen kuvaamiseen. Merleau-Ponty palautti tietoisuuden keholliseen kokemukseen. Ricoeur osoitti, 
 
 ### flow/index.html
 
