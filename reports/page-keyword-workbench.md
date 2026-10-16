@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T17:43:52.761Z
+Generated: 2026-10-16T17:46:08.222Z
 Pages: 910
 
 ## Index
@@ -7225,7 +7225,7 @@ Excerpt:
 
 Excerpt:
 
-> Tukiajatus 0016 Oli yksi fakta Oli yksi fakta. Ja kärsimystä kolme tuotantokautta jatko-osineen. Ajatus Mieli kärsii usein vähemmän itse tapahtumasta kuin kaikesta siitä, mitä se ehtii lisätä tapahtuman päälle. Kysymys “Mitä tiedän varmasti?” erottaa todellisuuden ahdistuksen sisäisestä sarjatuotannosta. Koko teksti Älä ajattele siihen liikaa. Joskus itse tapahtuma on pieni. Joku ei vastannut. Joku katsoi oudosti. Joku sanoi jotain lyhyesti. Jokin ei mennyt suunnitelman mukaan. Päivä vain meni eri tavalla kuin halusit. Ja sitten mieleen astuu katastrofiarkkitehti työhaalareissaan. Se rakentaa nopeasti lisäkerrokset, asentaa valaistuksen, ripustaa verhot ja muuttaa sisään pelot, loukkaantumiset, epäilyt sekä pari vanhaa haavaa pysyvällä oleskeluluvalla. Viidessä minuutissa ihmisellä ei enää ole tilannetta. Hänellä on kokonainen sisäinen sarja. Ei vastannut — hän on loukkaantunut. Katsoi o
+> Tukiajatus 0016 Oli yksi fakta Oli yksi fakta. Ja kärsimystä kolme tuotantokautta jatko-osineen. Ajatus Mieli kärsii usein vähemmän itse tapahtumasta kuin kaikesta siitä, mitä se ehtii lisätä tapahtuman päälle. Kysymys “Mitä tiedän varmasti?” erottaa todellisuuden ahdistuksen sisäisestä sarjatuotannosta. Koko teksti Älä ajattele siihen liikaa. Joskus itse tapahtuma on pieni. Joku ei vastannut. Joku katsoi oudosti. Joku sanoi jotain lyhyesti. Jokin ei mennyt suunnitelman mukaan. Päivä vain meni eri tavalla kuin halusit. Ja sitten mieleen astuu katastrofiarkkitehti työhaalareissaan. Se rakentaa nopeasti lisäkerroksia. Asentaa valaistuksen. Ripustaa verhot. Asuttaa sinne pelot, loukkaantumiset, epäilyt sekä pari vanhaa traumaa pysyvään kirjoille. Viidessä minuutissa ihmisellä ei enää ole tilannetta. Hänellä on kokonainen sisäinen sarja. Ei vastannut — hän on loukkaantunut. Katsoi oudosti — 
 
 ### fi/public/thoughts/arcs/0017-witness-does-not-interfere.html
 
