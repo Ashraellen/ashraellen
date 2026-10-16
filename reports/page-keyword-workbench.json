@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16T18:55:21.501Z",
+  "generated": "2026-10-16T18:56:58.949Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -24899,7 +24899,7 @@
         "order",
         "received"
       ],
-      "excerpt": "Pyyntö vastaanotettu Kiitos. Kirjapyyntösi on tullut perille. Otamme sinuun yhteyttä sähköpostitse vahvistaaksemme kielen saatavuuden, valmistusajan, painatuskustannukset, toimituksen ja maksutavan ennen kuin valmistus alkaa. Pyyntö ei sido ostoon eikä käynnistä valmistusta ilman erillistä vahvistusta. Takaisin samizdat 2.0:aan → Pyyntö ei ole muuttunut automaattisesti ostokseksi. Tarkista lomakkeessa ilmoittamasi sähköpostiosoite ja myös roskapostikansio.",
+      "excerpt": "Pyyntö vastaanotettu Kiitos. Kirjapyyntösi on tullut perille. Otamme sinuun yhteyttä sähköpostitse vahvistaaksemme kielen saatavuuden, valmistusajan, painatuskustannukset, toimituksen ja maksutavan ennen kuin valmistus alkaa. Pyyntö ei sido ostoon eikä käynnistä valmistusta ilman erillistä vahvistusta. Takaisin samizdat 2.0:aan → Pyyntö ei ole muuttunut automaattisesti ostokseksi. Seuraa lomakkeessa ilmoittamaasi sähköpostia ja tarkista myös roskapostikansio.",
       "candidates": [
         "pyyntö",
         "2.0",
@@ -24916,7 +24916,7 @@
         "erillistä",
         "hinta",
         "ilman",
-        "ilmoittamasi",
+        "ilmoittamaasi",
         "käynnistä",
         "kielen",
         "kiitos",

@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T18:55:21.516Z
+Generated: 2026-10-16T18:56:58.962Z
 Pages: 914
 
 ## Index
@@ -6562,11 +6562,11 @@ Excerpt:
 - H2: Pyyntö ei ole muuttunut automaattisesti ostokseksi.
 - H3: _missing_
 - suggested keyword seed: samizdat, 2.0, ashraellen, pyyntö, vastaanotettu, automaattisesti, books, ennen, sähköpostitse, valmistusta, aan, alkaa, eikä, hinta, kiitos, kirjapyyntö, muuttunut, ole
-- candidates: pyyntö, 2.0, samizdat, vastaanotettu, ennen, sähköpostitse, valmistusta, aan, alkaa, ashraellen, automaattisesti, eikä, erillistä, hinta, ilman, ilmoittamasi, käynnistä, kielen, kiitos, kirjapyyntö, kirjapyyntösi, kuin, lomakkeessa, maksutavan
+- candidates: pyyntö, 2.0, samizdat, vastaanotettu, ennen, sähköpostitse, valmistusta, aan, alkaa, ashraellen, automaattisesti, eikä, erillistä, hinta, ilman, ilmoittamaasi, käynnistä, kielen, kiitos, kirjapyyntö, kirjapyyntösi, kuin, lomakkeessa, maksutavan
 
 Excerpt:
 
-> Pyyntö vastaanotettu Kiitos. Kirjapyyntösi on tullut perille. Otamme sinuun yhteyttä sähköpostitse vahvistaaksemme kielen saatavuuden, valmistusajan, painatuskustannukset, toimituksen ja maksutavan ennen kuin valmistus alkaa. Pyyntö ei sido ostoon eikä käynnistä valmistusta ilman erillistä vahvistusta. Takaisin samizdat 2.0:aan → Pyyntö ei ole muuttunut automaattisesti ostokseksi. Tarkista lomakkeessa ilmoittamasi sähköpostiosoite ja myös roskapostikansio.
+> Pyyntö vastaanotettu Kiitos. Kirjapyyntösi on tullut perille. Otamme sinuun yhteyttä sähköpostitse vahvistaaksemme kielen saatavuuden, valmistusajan, painatuskustannukset, toimituksen ja maksutavan ennen kuin valmistus alkaa. Pyyntö ei sido ostoon eikä käynnistä valmistusta ilman erillistä vahvistusta. Takaisin samizdat 2.0:aan → Pyyntö ei ole muuttunut automaattisesti ostokseksi. Seuraa lomakkeessa ilmoittamaasi sähköpostia ja tarkista myös roskapostikansio.
 
 ### fi/books/seccus/index.html
 
