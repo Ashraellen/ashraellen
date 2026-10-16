@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T17:34:40.412Z
+Generated: 2026-10-16T17:35:38.498Z
 Pages: 910
 
 ## Index
@@ -370,7 +370,7 @@ Pages: 910
 | fi/public/thoughts/arcs/0006-insight.html | fi | public | Ashraellen — Syvempi katse kokoaa elämän | Ashraellen, tukiajatus, oivallus, syyt, kokemus | katse, kokoaa, syvempi, elämän, ashraellen, public, alkaa, arcs, ashraellenin, enää, hän, ihminen, ihmisen, ilman, insight, ketjuksi, kivun, kokemuksen |
 | fi/public/thoughts/arcs/0007-empty-chair.html | fi | public | Ashraellen — Tyhjä tuoli | Ashraellen, tukiajatus, muisti, menetys, tyhjä tuoli | tuoli, tyhjä, ashraellen, eivät, ihmiset, istumasta, jotkut, kokonaan, public, vain, ajatus, arcs, ashraellenin, chair, empty, että, kerran, koko |
 | fi/public/thoughts/arcs/0008-generalization.html | fi | public | Ashraellen — Yleistys havainnon sijasta | Ashraellen, tukiajatus, yleistys, havainto, ajattelu | havainnon, yleistys, ashraellen, korvaa, muuttuu, public, sijasta, tämä, vaaralliseksi, ajatus, arcs, ashraellenin, asia, että, generalization, ihminen, jossa, kohdassa |
-| fi/public/thoughts/arcs/0009-where-life-stopped.html | fi | public | Ashraellen — Missä lakkasit olemasta elossa | Ashraellen, tukiajatus, herääminen, elämänvoima, selviytyminen | missä, elossa, lakkasit, ashraellen, elämä, herääminen, joskus, olemasta, public, ajatus, arcs, ashraellenin, että, herätä, juuri, kohdassa, koko, life |
+| fi/public/thoughts/arcs/0009-where-life-stopped.html | fi | public | Ashraellen — Missä lakkasit olemasta elossa | Ashraellen, tukiajatus, herääminen, elämänvoima, selviytyminen | missä, elossa, lakkasit, olemasta, ashraellen, herääminen, joskus, public, ajatus, arcs, ashraellenin, elämä, että, ihminen, kohdassa, koko, life, merkitys |
 | fi/public/thoughts/arcs/0010-dirty-cup.html | fi | public | Ashraellen — Likainen kuppi | Ashraellen, tukiajatus, likainen kuppi, välttely, absurdismi | kuppi, likainen, ashraellen, kuppia, public, vaihtaa, vain, ympyrää, ajatus, alice, arcs, ashraellenin, cup, dirty, hatuntekijä, juokseminen, juoksijan, koko |
 | fi/public/thoughts/arcs/0011-do-not-regret.html | fi | public | Ashraellen — Älä kadu | Ashraellen, tukiajatus, katumus, armo, menetys | älä, kadu, armo, ashraellen, joskus, public, ajatus, arcs, ashraellenin, elämä, ihminen, jota, koko, kun, menetykseltä, merkitys, mikä, miksi |
 | fi/public/thoughts/arcs/0012-close-the-book.html | fi | public | Ashraellen — Milloin kirja on aika sulkea | Ashraellen, tukiajatus, henkinen kirjallisuus, hiljaisuus, hyväksyminen | kirja, aika, ajatus, ashraellen, enää, henkinen, hiljaisuudessa, kirjallisuus, milloin, mutta, public, sulkea, voi, 0012, arcs, book, close, että |
@@ -7101,12 +7101,12 @@ Excerpt:
 - H1: Missä lakkasit olemasta elossa
 - H2: Merkitys | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
 - H3: _missing_
-- suggested keyword seed: missä, elossa, lakkasit, ashraellen, elämä, herääminen, joskus, olemasta, public, ajatus, arcs, ashraellenin, että, herätä, juuri, kohdassa, koko, life
-- candidates: missä, että, herääminen, joskus, juuri, mitä, siinä, ajatus, elämä, elossa, herätä, lakkasit, niin, olemasta, pitäisi, siitä, sitä, tarkoittaa, vaan, elämäksi, elämältä, eläväksi, ensimmäistä, hyvin
+- suggested keyword seed: missä, elossa, lakkasit, olemasta, ashraellen, herääminen, joskus, public, ajatus, arcs, ashraellenin, elämä, että, ihminen, kohdassa, koko, life, merkitys
+- candidates: missä, että, herääminen, ihminen, joskus, lakkasit, olemasta, sitä, ajatus, elossa, mitä, siitä, tarkoittaa, vaan, elämä, elämältä, eläväksi, ensimmäistä, herättävä, hyvin, jotka, juuri, kauan, kertaa
 
 Excerpt:
 
-> Tukiajatus 0009 Missä lakkasit olemasta elossa Joskus herääminen tarkoittaa sitä, että näet ensimmäistä kertaa, missä kohdassa lakkasit olemasta elossa. Merkitys Herääminen ei näyttäydy miellyttävänä parannuksena vaan korvaamisen tunnistamisena: hereilläolo oli kiirettä, terveys kätevää turtumista ja elämä rooli, jonka osasi niin hyvin että luuli sitä itsekseen. Koko teksti Pitää herätä. Toipua. Tulla eläväksi. Kuulostaa yksinkertaiselta. Vaikeus on siinä, että herätä pitäisi juuri siitä, mitä pitkään piti valveillaolona. Omasta kiireestä. Jatkuvasta tekemisestä. Liikkeestä, joka näyttää elämältä niin kauan kuin ei pysähdy katsomaan. Toipua pitäisi siitä, mitä piti terveytenä: automaattisista reaktioista, kätevästä kuuroudesta, kyvystä kestää sitä mikä on jo pitkään rikkonut sisältä. Ja eläväksi pitäisi tulla siitä, mikä näytti täydeltä elämältä: aikataulusta, tavoitteista joissa ei enää
+> Tukiajatus 0009 Missä lakkasit olemasta elossa Joskus herääminen tarkoittaa sitä, että näet ensimmäistä kertaa, missä kohdassa lakkasit olemasta elossa. Merkitys Herääminen ei näyttäydy miellyttävänä parannuksena vaan korvaamisen tunnistamisena: hereilläolo oli kiirettä, terveys kätevää turtumista ja elämä rooli, jonka osasi niin hyvin että luuli sitä itsekseen. Koko teksti On herättävä. Toivuttava. Tultava eläväksi. Kuulostaa yksinkertaiselta. Mutta vaikeus on siinä, että on herättävä siitä, mitä ihminen on kauan pitänyt valveillaolona. Omasta kiireestään. Jatkuvasta puuhastelustaan. Loputtomasta liikkeestä, joka vain näyttää elämältä. On toivuttava siitä, mitä hän piti terveytenä. Totutuista reaktioistaan. Mukavasta kuuroudestaan. Kyvystä sietää sitä, mikä on jo kauan rikkonut häntä sisältäpäin. Ja eläväksi on tultava siitä, mikä näytti täydeltä elämältä. Aikataulustaan. Tavoitteista, 
 
 ### fi/public/thoughts/arcs/0010-dirty-cup.html
 
