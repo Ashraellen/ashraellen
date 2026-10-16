@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16T17:17:36.789Z",
+  "generated": "2026-10-16T17:21:05.028Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -25764,7 +25764,7 @@
         "projects",
         "whisper"
       ],
-      "excerpt": "WHISPER Kuka puhuu? WHISPER on reaaliaikaisen kielituen hanke keskusteluihin sellaisten ihmisten välillä, joilla ei ole yhteistä kieltä. Käytännön tavoite on yksinkertainen: auttaa ihmistä ymmärtämään toista ja vastaamaan kielellä, jota hän osaa vähän tai ei lainkaan, samalla kun hän pysyy keskustelun näkyvänä, kuuluvana ja vastuullisena osallistujana. Kone voi antaa kielen. Ihminen ei saa kadota keskustelusta. 01 Ongelma Käännös voi jo tehdä lauseen ymmärrettäväksi. Se ei vielä tee keskustelusta omaasi. Elävässä keskustelussa ei ole aikaa pysäyttää toista, avata sovellusta, rakentaa kontekstia uudelleen ja palata täydellisen lauseen kanssa. Merkitys, ajoitus, sävy ja sosiaalinen läsnäolo toimivat yhtä aikaa. Mitä voin luonnollisesti sanoa tälle ihmiselle juuri nyt? WHISPERin kapea malli: keskustelukumppani puhuu → järjestelmä tulkitsee rajatun kontekstin → ehdottaa yhden lyhyen vastauks",
+      "excerpt": "WHISPER Kuka puhuu? WHISPER on reaaliaikaisen kielituen hanke keskusteluihin sellaisten ihmisten välillä, joilla ei ole yhteistä kieltä. Käytännön tavoite on yksinkertainen: auttaa ihmistä ymmärtämään toista ja vastaamaan kielellä, jota hän osaa vähän tai ei lainkaan, samalla kun hän pysyy keskustelun näkyvänä, kuuluvana ja vastuullisena osallistujana. Kone voi antaa kielen. Ihminen ei saa kadota keskustelusta. 01 Ongelma Käännös voi jo tehdä lauseen ymmärrettäväksi. Se ei vielä tee keskustelusta omaasi. Elävässä keskustelussa ei ole aikaa pysäyttää toista, avata sovellusta, rakentaa kontekstia uudelleen ja palata täydellisen lauseen kanssa. Merkitys, ajoitus, sävy ja sosiaalinen läsnäolo toimivat yhtä aikaa. WHISPER lähtee käytännöllisemmästä kysymyksestä: Mitä voin luonnollisesti sanoa tälle ihmiselle juuri nyt? Rajattu vuorovaikutusmalli: keskustelukumppani puhuu → järjestelmä tulkits",
       "candidates": [
         "whisper",
         "ihminen",
@@ -25772,13 +25772,13 @@
         "ole",
         "kuuntelu",
         "puhuu",
+        "sen",
         "voi",
         "auttaa",
         "hanke",
         "ihmisen",
         "keskustelusta",
         "lauseen",
-        "sen",
         "tai",
         "aikaa",
         "antaa",
@@ -25808,8 +25808,8 @@
         "ilman",
         "kielestä",
         "läsnäolosta",
-        "lauseen",
-        "mitä"
+        "mitä",
+        "nykytila"
       ]
     },
     {

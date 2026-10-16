@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T17:17:36.804Z
+Generated: 2026-10-16T17:21:05.043Z
 Pages: 910
 
 ## Index
@@ -349,7 +349,7 @@ Pages: 910
 | fi/projects/my-memory/index.html | fi | projects | MY MEMORY — muisti ja jatkuvuus ihmisen hallinnassa | _missing_ | memory, ihmisen, jatkuvuus, pitäisi, hallinnassa, mitä, miten, muisti, projects, säilyä, tila, ai-istuntojen, ashraellen, hallitsema, järjestelmä, jatkuvuuden, kun, kuulua |
 | fi/projects/seven/index.html | fi | projects | SEVEN — Tutkimus ihmisen haavoittuvuuksista | _missing_ | seven, mitä, haavoittuvuuksista, ihmisen, projects, tutkimus, ashraellen, filosofinen, greed, haavoittuvuudeksi, historiallinen, inhimillinen, joka, jos, juuri, keskeinen, kilpailevat, kysymys |
 | fi/projects/voiceprint/index.html | fi | projects | VOICEPRINT — Missä minä olen tässä virrassa? | _missing_ | voiceprint, minä, missä, olen, mitä, ole, projects, sen, tässä, tekijä, virrassa, alkoi, ashraellen, atp, ensin, että, itse, joka |
-| fi/projects/whisper/index.html | fi | projects | WHISPER — Kuka puhuu? | _missing_ | whisper, puhuu, hanke, ihmisen, keskustelusta, kuka, kuuntelu, projects, ai-välitteisestä, ashraellen, auttaa, avustussopimusta, ihminen, ilman, kielestä, läsnäolosta, lauseen, mitä |
+| fi/projects/whisper/index.html | fi | projects | WHISPER — Kuka puhuu? | _missing_ | whisper, puhuu, hanke, ihmisen, keskustelusta, kuka, kuuntelu, projects, ai-välitteisestä, ashraellen, auttaa, avustussopimusta, ihminen, ilman, kielestä, läsnäolosta, mitä, nykytila |
 | fi/public/index.html | fi | public | Ashraellen — Julkinen | Ashraellen, julkinen kenttä, puheet, julkaisut, tukiajatukset, tutkimus, havainnot | julkinen, ashraellen, ashraellenin, missä, public, ajatus, avaa, elävän, hän, havaintoja, hinta, ihminen, ihmisen, julkaisuja, julkaisut, kansa, kenttä, kohtaa |
 | fi/public/posts/essay/cycles/cycle-0001.html | fi | public | Ashraellen — Ensimmäinen miniesseesykli | Ashraellen, miniessee, huomio, keho, menneisyys, tietoisuus | ensimmäinen, ashraellen, keho, miniesseesykli, public, sen, ajatukseen, ajatus, ashraellenin, cycle, cycles, ensimmäisen, essay, hän, harjoitukseksi, huomioon, huomiota, ihminen |
 | fi/public/posts/essay/cycles/index.html | fi | public | Ashraellen — Miniesseiden syklit | Ashraellen, miniesseet, syklit, huomio, keho, menneisyys | miniesseiden, syklit, ashraellen, valmiit, ashraellenin, nykyinen, public, sykli, cycles, elää, enintään, ensimmäinen, ensimmäiset, essay, löytyy, osion, pääsivulta, posts |
@@ -6744,12 +6744,12 @@ Excerpt:
 - H1: WHISPER
 - H2: Kuka puhuu? | Ongelma | Viisi avustussopimusta | Tekijyys ja toimijuus | Kuuntelu ilman pysyvää valvontaa | Nykytila
 - H3: _missing_
-- suggested keyword seed: whisper, puhuu, hanke, ihmisen, keskustelusta, kuka, kuuntelu, projects, ai-välitteisestä, ashraellen, auttaa, avustussopimusta, ihminen, ilman, kielestä, läsnäolosta, lauseen, mitä
-- candidates: whisper, ihminen, mitä, ole, kuuntelu, puhuu, voi, auttaa, hanke, ihmisen, keskustelusta, lauseen, sen, tai, aikaa, antaa, ehdottaa, hän, itse, järjestelmän, jatkuva, jota, kielen, kieli
+- suggested keyword seed: whisper, puhuu, hanke, ihmisen, keskustelusta, kuka, kuuntelu, projects, ai-välitteisestä, ashraellen, auttaa, avustussopimusta, ihminen, ilman, kielestä, läsnäolosta, mitä, nykytila
+- candidates: whisper, ihminen, mitä, ole, kuuntelu, puhuu, sen, voi, auttaa, hanke, ihmisen, keskustelusta, lauseen, tai, aikaa, antaa, ehdottaa, hän, itse, järjestelmän, jatkuva, jota, kielen, kieli
 
 Excerpt:
 
-> WHISPER Kuka puhuu? WHISPER on reaaliaikaisen kielituen hanke keskusteluihin sellaisten ihmisten välillä, joilla ei ole yhteistä kieltä. Käytännön tavoite on yksinkertainen: auttaa ihmistä ymmärtämään toista ja vastaamaan kielellä, jota hän osaa vähän tai ei lainkaan, samalla kun hän pysyy keskustelun näkyvänä, kuuluvana ja vastuullisena osallistujana. Kone voi antaa kielen. Ihminen ei saa kadota keskustelusta. 01 Ongelma Käännös voi jo tehdä lauseen ymmärrettäväksi. Se ei vielä tee keskustelusta omaasi. Elävässä keskustelussa ei ole aikaa pysäyttää toista, avata sovellusta, rakentaa kontekstia uudelleen ja palata täydellisen lauseen kanssa. Merkitys, ajoitus, sävy ja sosiaalinen läsnäolo toimivat yhtä aikaa. Mitä voin luonnollisesti sanoa tälle ihmiselle juuri nyt? WHISPERin kapea malli: keskustelukumppani puhuu → järjestelmä tulkitsee rajatun kontekstin → ehdottaa yhden lyhyen vastauks
+> WHISPER Kuka puhuu? WHISPER on reaaliaikaisen kielituen hanke keskusteluihin sellaisten ihmisten välillä, joilla ei ole yhteistä kieltä. Käytännön tavoite on yksinkertainen: auttaa ihmistä ymmärtämään toista ja vastaamaan kielellä, jota hän osaa vähän tai ei lainkaan, samalla kun hän pysyy keskustelun näkyvänä, kuuluvana ja vastuullisena osallistujana. Kone voi antaa kielen. Ihminen ei saa kadota keskustelusta. 01 Ongelma Käännös voi jo tehdä lauseen ymmärrettäväksi. Se ei vielä tee keskustelusta omaasi. Elävässä keskustelussa ei ole aikaa pysäyttää toista, avata sovellusta, rakentaa kontekstia uudelleen ja palata täydellisen lauseen kanssa. Merkitys, ajoitus, sävy ja sosiaalinen läsnäolo toimivat yhtä aikaa. WHISPER lähtee käytännöllisemmästä kysymyksestä: Mitä voin luonnollisesti sanoa tälle ihmiselle juuri nyt? Rajattu vuorovaikutusmalli: keskustelukumppani puhuu → järjestelmä tulkits
 
 ### fi/public/index.html
 
