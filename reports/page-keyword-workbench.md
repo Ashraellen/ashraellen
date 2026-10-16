@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T17:10:04.108Z
+Generated: 2026-10-16T17:13:59.141Z
 Pages: 910
 
 ## Index
@@ -351,7 +351,7 @@ Pages: 910
 | fi/projects/voiceprint/index.html | fi | projects | VOICEPRINT — Missä minä olen tässä virrassa? | _missing_ | voiceprint, minä, missä, olen, mitä, ole, projects, sen, tässä, tekijä, virrassa, alkoi, ashraellen, atp, ensin, että, itse, joka |
 | fi/projects/whisper/index.html | fi | projects | WHISPER — Kuka puhuu? | _missing_ | whisper, puhuu, hanke, ihmisen, keskustelusta, kuka, kuuntelu, projects, ai-välitteisestä, ashraellen, auttaa, avustussopimusta, ihminen, ilman, kielestä, läsnäolosta, lauseen, mitä |
 | fi/public/index.html | fi | public | Ashraellen — Julkinen | Ashraellen, julkinen kenttä, puheet, julkaisut, tukiajatukset, tutkimus, havainnot | julkinen, ashraellen, ashraellenin, missä, public, ajatus, avaa, elävän, hän, havaintoja, hinta, ihminen, ihmisen, julkaisuja, julkaisut, kansa, kenttä, kohtaa |
-| fi/public/posts/essay/cycles/cycle-0001.html | fi | public | Ashraellen — Ensimmäinen miniesseesykli | Ashraellen, miniessee, huomio, keho, menneisyys, tietoisuus | ensimmäinen, ashraellen, keho, menneisyys, miniesseesykli, public, sykli, vaan, ajatukseen, älä, alkaa, ashraellenin, cycle, cycles, elää, essay, harjoitukseksi, huomio |
+| fi/public/posts/essay/cycles/cycle-0001.html | fi | public | Ashraellen — Ensimmäinen miniesseesykli | Ashraellen, miniessee, huomio, keho, menneisyys, tietoisuus | ensimmäinen, ashraellen, keho, miniesseesykli, public, sen, ajatukseen, ajatus, ashraellenin, cycle, cycles, ensimmäisen, essay, hän, harjoitukseksi, huomioon, huomiota, ihminen |
 | fi/public/posts/essay/cycles/index.html | fi | public | Ashraellen — Miniesseiden syklit | Ashraellen, miniesseet, syklit, huomio, keho, menneisyys | miniesseiden, syklit, ashraellen, valmiit, ashraellenin, nykyinen, public, sykli, cycles, elää, enintään, ensimmäinen, ensimmäiset, essay, löytyy, osion, pääsivulta, posts |
 | fi/public/posts/essay/index.html | fi | public | Ashraellen — Miniesseet | Ashraellen, miniesseet, huomio, keho, menneisyys, tietoisuus | ensimmäinen, miniesseet, ashraellen, keho, public, vaan, ajatuksiin, ajatus, alkaa, ashraellenin, essay, hän, huomioon, ihminen, johtopäätökseen, joissa, katselukulmaan, kirkkaaseen |
 | fi/public/posts/formula/index.html | fi | public | Ashraellen — Polku, teko, rytmi | Ashraellen, kaavat, polku, teko, rytmi, linja 0004 | polku, rytmi, teko, ashraellen, public, aina, ajatuksia, ashraellenin, formula, joissa, joskus, kaava, kaavalinja, kaavat, kun, liike, lyhyitä, mikä |
@@ -6776,14 +6776,14 @@ Excerpt:
 - description: Ashraellenin ensimmäinen valmis miniesseesykli tutkii huomiota, kehoa ja menneisyyttä: miten sisäinen tapahtuma muuttuu samaistumiseksi, harjoitukseksi tai muistoksi.
 - canonical: https://www.ashraellen.com/fi/public/posts/essay/cycles/cycle-0001.html
 - H1: Ensimmäinen sykli
-- H2: Ensimmäinen sykli | Valta ei ajatukseen vaan huomioon | Keho on ensimmäinen ovi, ei päämäärä | Menneisyys on sen tulkinta
+- H2: Ensimmäisen syklin miniesseet | Valta ei ajatukseen vaan huomioon | Keho on ensimmäinen ovi, ei päämäärä | Menneisyys on sen tulkinta
 - H3: _missing_
-- suggested keyword seed: ensimmäinen, ashraellen, keho, menneisyys, miniesseesykli, public, sykli, vaan, ajatukseen, älä, alkaa, ashraellenin, cycle, cycles, elää, essay, harjoitukseksi, huomio
-- candidates: ensimmäinen, keho, voi, menneisyys, siitä, vaan, elää, mutta, syntyy, älä, alkaa, huomio, ihminen, lue, miniessee, mitä, ole, olla, ovi, sen, sitä, sykli, tietoisuus, ajatus
+- suggested keyword seed: ensimmäinen, ashraellen, keho, miniesseesykli, public, sen, ajatukseen, ajatus, ashraellenin, cycle, cycles, ensimmäisen, essay, hän, harjoitukseksi, huomioon, huomiota, ihminen
+- candidates: mutta, ihminen, siitä, ensimmäinen, voi, keho, hän, ajatus, ole, olla, saa, sen, syntyy, vaan, vain, emme, että, juuri, menneisyys, tai, tässä, vapaus, ala, alkaa
 
 Excerpt:
 
-> Ensimmäinen sykli Ensimmäinen valmis miniesseiden sykli: huomio, keho ja menneisyys. Ensimmäinen sykli valmiisiin sykleihin Miniessee Valta ei ajatukseen vaan huomioon Ajatus syntyy itsestään. Vapaus ei ala ajatusten kieltämisestä vaan siitä, ettei jokaisesta sisäisestä liikkeestä tarvitse tulla minä. tietoisuus / huomio / havaitsija Olemme tottuneet ajattelemaan, että kypsyys tarkoittaa itsensä hallitsemista: älä suutu, älä ahdistu, älä ajattele “vääriä” ajatuksia. Ensimmäinen virhe alkaa juuri tästä. Ihminen ei valitse seuraavaa ajatustaan samalla tavalla kuin ravintolan annosta. Ahdistus, viha ja epäily nousevat muistista, kehosta, tottumuksesta, pelosta ja ympäristön ärsykkeistä. Emme ole jokaisen sisäisen tapahtuman tekijöitä. Olemme pikemminkin niiden ensimmäisiä todistajia. Ongelma ei ala ahdistuksen ilmestymisestä vaan lauseesta: “Tätä ei saisi olla. Minun ei pitäisi tuntea näin.
+> Ensimmäinen sykli Ensimmäinen valmis miniesseiden sykli: huomio, keho ja menneisyys. Ensimmäisen syklin miniesseet Yhdessä syklissä voi olla enintään yhdeksän merkityksellistä näkökulmaa. valmiisiin sykleihin Miniessee Valta ei ajatukseen vaan huomioon Ajatus syntyy itsestään. Vapaus ei ala ajatusten kieltämisestä vaan siitä, ettei jokaisesta sisäisestä liikkeestä tarvitse tulla minä. tietoisuus / huomio / havaitsija Olemme tottuneet ajattelemaan, että kypsyys merkitsee kykyä pitää itsensä kurissa. Ei saa suuttua. Ei saa ahdistua. Ei saa ajatella ”pahoja” ajatuksia. Mutta juuri tässä tehdään ensimmäinen virhe. Ihminen ei valitse, mikä ajatus ilmestyy seuraavalla sekunnilla. Hän ei tilaa ahdistusta, vihaa tai epäilystä kuin ravintola-annosta. Sisäiset tapahtumat syntyvät itsestään: muistista, kehosta, tottumuksista, pelosta ja reaktioista ympäröivään maailmaan. Emme ole jokaisen sisäisen 
 
 ### fi/public/posts/essay/cycles/index.html
 
