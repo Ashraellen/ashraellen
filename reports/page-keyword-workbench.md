@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T17:25:40.337Z
+Generated: 2026-10-16T17:26:47.201Z
 Pages: 910
 
 ## Index
@@ -363,7 +363,7 @@ Pages: 910
 | fi/public/posts/sources/index.html | fi | public | Ashraellen — Lähteet ovat siirtyneet | Ashraellen, lähteet, tutkimus, menetelmä, fenomenologia | lähteet, ovat, siirtyneet, ashraellen, ashraellen-menetelmän, metodologista, perustaa, public, ashraellenin, avaa, eivät, enää, fenomenologia, osaksi, posts, public-teksteistä, sijainti, sources |
 | fi/public/talks/index.html | fi | public | Ashraellen — Puheenvuorot | Ashraellen, puheenvuorot, videot, julkiset analyysit, tietoisuus, havainnointi, selkeys | ashraellen, sacred, ahepsu, public, puheenvuorot, ääniraitoja, analyysejä, asetuksista, ashraellenin, avaa, dubbaus, eikä, elävään, havainto, hiljaisuuteen, itsepetoksen, jälkeen, julkisia |
 | fi/public/thoughts/arcs/0001-cheerfulness.html | fi | public | Ashraellen — Iloisuus ihmisen diagnoosina | Ashraellen, tukiajatus, iloisuus, nauru, havainto | ihmisen, iloisuus, ashraellen, ashraellenin, diagnoosina, kuin, nauru, public, usein, ajatus, arcs, cheerfulness, hän, ilman, koko, kuinka, merkitys, miksi |
-| fi/public/thoughts/arcs/0002-still-the-same.html | fi | public | Ashraellen — Samat voimat, uudet nimet | Ashraellen, tukiajatus, riippuvuus, rationalismi, sisäiset voimat | nimet, voimat, uudet, aina, ashraellen, eivät, public, samat, ajatus, antaa, arcs, ashraellenin, että, hän, ihminen, katoa, koko, merkitys |
+| fi/public/thoughts/arcs/0002-still-the-same.html | fi | public | Ashraellen — Samat voimat, uudet nimet | Ashraellen, tukiajatus, riippuvuus, rationalismi, sisäiset voimat | nimet, voimat, uudet, aina, ashraellen, eivät, public, samat, ajatus, arcs, ashraellenin, hän, ihminen, ilman, itseään, joita, katoa, koko |
 | fi/public/thoughts/arcs/0003-let-go.html | fi | public | Ashraellen — Herääminen alkaa, kun jatkaminen ei enää onnistu | Ashraellen, tukiajatus, herääminen, rehellisyys, irtipäästäminen | alkaa, enää, herääminen, kun, ashraellen, jatkaminen, onnistu, public, tämä, ajatus, arcs, ashraellenin, ehkä, elää, että, jatkamaan, koko, let |
 | fi/public/thoughts/arcs/0004-mortality-awakens.html | fi | public | Ashraellen — Rajallisuus herättää kysymyksen | Ashraellen, tukiajatus, rajallisuus, kuolema, filosofia | rajallisuus, herättää, kysymyksen, alkaa, ashraellen, kun, miksi, moni, public, ajatella, ajatus, arcs, ashraellenin, awakens, että, harhakuvitelmista, koko, kysyä |
 | fi/public/thoughts/arcs/0005-on-your-own.html | fi | public | Ashraellen — Pelko hallinnan mekanismina | Ashraellen, tukiajatus, pelko, hallinta, itsenäinen ajattelu | hallinnan, pelko, ajatella, alkaa, ashraellen, ihminen, itse, mekanismina, public, ajatus, arcs, ashraellenin, elämistä, enää, ennen, että, heikkenevät, joka |
@@ -6982,12 +6982,12 @@ Excerpt:
 - H1: Samat voimat, uudet nimet
 - H2: Merkitys | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
 - H3: _missing_
-- suggested keyword seed: nimet, voimat, uudet, aina, ashraellen, eivät, public, samat, ajatus, antaa, arcs, ashraellenin, että, hän, ihminen, katoa, koko, merkitys
-- candidates: nimet, hän, tai, uudet, voimat, aina, ajatus, antaa, eivät, että, ihminen, nimi, rationaalinen, samat, seuraava, tukiajatus, vain, voi, 0002, ahdistus, alkoholi, alttari, annoimme, asetetaan
+- suggested keyword seed: nimet, voimat, uudet, aina, ashraellen, eivät, public, samat, ajatus, arcs, ashraellenin, hän, ihminen, ilman, itseään, joita, katoa, koko
+- candidates: hän, nimet, uudet, vain, eivät, voimat, aina, ajatus, ihminen, ilman, itseään, joita, jos, kadonneet, kokonaan, nyt, ole, ovat, palvelee, samat, tai, tukiajatus, 0002, ahdistuksessa
 
 Excerpt:
 
-> Tukiajatus 0002 Samat voimat, uudet nimet Nykyihmisen demonit ja jumalat eivät kadonneet. Ne saivat vain uudet nimet. Merkitys Rationaalinen sanasto ei automaattisesti vapauta ihmistä niistä voimista, joita ennen kutsuttiin intohimoiksi, demoneiksi, jumaliksi tai riivaukseksi. Joskus sama palvelussuhde jatkuu diagnoosin, riippuvuuden, levottomuuden tai “ihan tavallisen elämän” nimellä. Koko teksti Moderni ihminen maksaa uskostaan kummallisen hinnan: hän kuvittelee usein olevansa täysin rationaalinen juuri siinä kohdassa, jossa omaa toimintaa tarkkaillaan vähiten. Hän voi pitää itseään tehokkaana, itsenäisenä ja elämänsä hallitsijana samalla kun jokin hänessä vetää naruista: ahdistus, epämääräinen levottomuus, alkoholi, nikotiini, ruoka, lääkkeet, loputon ruutu tai tarve saada seuraava pieni helpotus. Muinaiset ihmiset saattoivat antaa tällaisille voimille kasvot ja nimet. Me annoimme nii
+> Tukiajatus 0002 Samat voimat, uudet nimet Nykyihmisen demonit ja jumalat eivät kadonneet. Ne saivat vain uudet nimet. Merkitys Rationaalinen sanasto ei automaattisesti vapauta ihmistä niistä voimista, joita ennen kutsuttiin intohimoiksi, demoneiksi, jumaliksi tai riivaukseksi. Joskus sama palvelussuhde jatkuu diagnoosin, riippuvuuden, levottomuuden tai “ihan tavallisen elämän” nimellä. Koko teksti Nykyihminen maksaa uskostaan erikoisen hinnan: häneltä puuttuu lähes kokonaan kyky tarkkailla itseään. Hän pitää itseään järkevänä, tehokkaana ja täysin oman elämänsä hallitsijana, mutta on silti sellaisten voimien vallassa, joita hän ei pysty hallitsemaan. Hänen demoninsa ja jumalansa — ja ne ovat yhtä ja samaa — eivät ole kadonneet minnekään. Ne ovat vain saaneet uudet nimet. Nyt hän elää ahdistuksessa, epämääräisessä sisäisessä levottomuudessa, psyykkisissä vaikeuksissa, kyltymättömässä lääk
 
 ### fi/public/thoughts/arcs/0003-let-go.html
 
