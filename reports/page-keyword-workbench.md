@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T17:30:51.485Z
+Generated: 2026-10-16T17:31:55.429Z
 Pages: 910
 
 ## Index
@@ -367,7 +367,7 @@ Pages: 910
 | fi/public/thoughts/arcs/0003-let-go.html | fi | public | Ashraellen — Herääminen alkaa, kun jatkaminen ei enää onnistu | Ashraellen, tukiajatus, herääminen, rehellisyys, irtipäästäminen | alkaa, enää, herääminen, kun, ashraellen, jatkaminen, onnistu, public, ajatus, arcs, ashraellenin, elää, että, jatkamaan, jonakin, kaikista, koko, let |
 | fi/public/thoughts/arcs/0004-mortality-awakens.html | fi | public | Ashraellen — Rajallisuus herättää kysymyksen | Ashraellen, tukiajatus, rajallisuus, kuolema, filosofia | rajallisuus, kysymyksen, alkaa, ashraellen, herättää, kun, miksi, moni, public, vasta, ajatella, ajatus, arcs, ashraellenin, awakens, harhakuvitelmista, koko, kuoleman |
 | fi/public/thoughts/arcs/0005-on-your-own.html | fi | public | Ashraellen — Pelko hallinnan mekanismina | Ashraellen, tukiajatus, pelko, hallinta, itsenäinen ajattelu | hallinnan, ajatella, alkaa, ashraellen, ihminen, itse, lakkaa, mekanismina, pelko, public, aina, ajatus, arcs, ashraellenin, elämistä, että, heikkenee, heikkenevät |
-| fi/public/thoughts/arcs/0006-insight.html | fi | public | Ashraellen — Syvempi katse kokoaa elämän | Ashraellen, tukiajatus, oivallus, syyt, kokemus | katse, kokoaa, elämän, syvempi, ashraellen, public, alkaa, arcs, ashraellenin, enää, hän, ihminen, insight, ketjuksi, kivun, kohti, kokemuksen, koko |
+| fi/public/thoughts/arcs/0006-insight.html | fi | public | Ashraellen — Syvempi katse kokoaa elämän | Ashraellen, tukiajatus, oivallus, syyt, kokemus | katse, kokoaa, syvempi, elämän, ashraellen, public, alkaa, arcs, ashraellenin, enää, hän, ihminen, ihmisen, ilman, insight, ketjuksi, kivun, kokemuksen |
 | fi/public/thoughts/arcs/0007-empty-chair.html | fi | public | Ashraellen — Tyhjä tuoli | Ashraellen, tukiajatus, muisti, menetys, tyhjä tuoli | tuoli, tyhjä, ashraellen, eivät, ihmiset, jotkut, kokonaan, lähde, public, vain, ajatus, arcs, ashraellenin, chair, empty, että, istumasta, jotta |
 | fi/public/thoughts/arcs/0008-generalization.html | fi | public | Ashraellen — Yleistys havainnon sijasta | Ashraellen, tukiajatus, yleistys, havainto, ajattelu | havainnon, yleistys, ashraellen, jossa, kohdassa, korvaa, muuttuu, public, sijasta, tämä, ajatus, alkaa, arcs, ashraellenin, että, generalization, juuri, koko |
 | fi/public/thoughts/arcs/0009-where-life-stopped.html | fi | public | Ashraellen — Missä lakkasit olemasta elossa | Ashraellen, tukiajatus, herääminen, elämänvoima, selviytyminen | missä, elossa, lakkasit, ashraellen, elämä, herääminen, joskus, olemasta, public, ajatus, arcs, ashraellenin, että, herätä, juuri, kohdassa, koko, life |
@@ -7050,12 +7050,12 @@ Excerpt:
 - H1: Syvempi katse kokoaa elämän
 - H2: Merkitys | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
 - H3: _missing_
-- suggested keyword seed: katse, kokoaa, elämän, syvempi, ashraellen, public, alkaa, arcs, ashraellenin, enää, hän, ihminen, insight, ketjuksi, kivun, kohti, kokemuksen, koko
-- candidates: katse, alkaa, elämän, hän, enää, ihminen, kohti, kokoaa, kun, mutta, nähdä, sitä, syvempi, virheet, ehkä, ilman, joukossa, juuri, kaari, kaikki, koko, miksi, nyt, oivallus
+- suggested keyword seed: katse, kokoaa, syvempi, elämän, ashraellen, public, alkaa, arcs, ashraellenin, enää, hän, ihminen, ihmisen, ilman, insight, ketjuksi, kivun, kokemuksen
+- candidates: alkaa, hän, elämän, nähdä, ihminen, katse, kokoaa, kuin, syvempi, enää, ihmisen, ilman, kaari, kaikki, kohti, koko, kun, miksi, mutta, näkyvää, noita, oivallus, sellaisena, seurausten
 
 Excerpt:
 
-> Tukiajatus 0006 Syvempi katse kokoaa elämän Kun ihminen alkaa nähdä näkyvää syvemmälle, hän lakkaa vaeltamasta seurausten joukossa ja alkaa huomata syitä. Merkitys Syvä ymmärrys ei tee elämästä yksinkertaista. Se tekee siitä yhteydessä olevan. Virheet, epäonnistumiset ja kipu eivät enää näytä irralliselta romulta vaan osilta ketjua, joka johti nykyiseen näkemiseen. Koko teksti Kun ihminen näkee pintaa syvemmälle, jalat löytävät yllättävän paljon paremmin maan. Silloin hän ei enää vaella seurausten joukossa suurena marttyyrina, kerää sirpaleita ja kysy universumilta miksi juuri hän, tämä poikkeuksellisen hieno yksilö, sai taas huonekalun kulman jalkaansa. Katse alkaa etsiä syitä. Elämä ei muutu helpoksi, mutta siitä tulee usein loogisempi kuin keskellä hysteriaa näytti. Ilman tällaista katsetta ihminen kulkee sokkona labyrintissa: törmää seinään, loukkaantuu kulmalle ja epäilee lopulta hu
+> Tukiajatus 0006 Syvempi katse kokoaa elämän Kun ihminen alkaa nähdä näkyvää syvemmälle, hän lakkaa vaeltamasta seurausten joukossa ja alkaa huomata syitä. Merkitys Syvä ymmärrys ei tee elämästä yksinkertaista. Se tekee siitä yhteydessä olevan. Virheet, epäonnistumiset ja kipu eivät enää näytä irralliselta romulta vaan osilta ketjua, joka johti nykyiseen näkemiseen. Koko teksti Kun ihminen alkaa nähdä näkyvää syvemmälle, hän seisoo elämässään vakaammin. Silloin hän ei enää harhaile seurausten keskellä, kerää sirpaleita marttyyrin elkein eikä kysele maailmankaikkeudelta, miksi se taas valitsi juuri hänet, niin suurenmoisen ihmisen. Hän alkaa nähdä syitä. Ja ymmärtää, ettei elämän tarvitse olla yksinkertaista, mutta se on melkein aina loogisempaa kuin hysteerisellä hetkellä näyttää. Ilman sellaista katsetta ihminen elää kuin sokea sokkelossa: törmää seiniin, loukkaantuu kulmille ja epäilee 
 
 ### fi/public/thoughts/arcs/0007-empty-chair.html
 
