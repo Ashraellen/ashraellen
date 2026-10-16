@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T17:47:39.318Z
+Generated: 2026-10-16T17:48:31.080Z
 Pages: 910
 
 ## Index
@@ -7259,7 +7259,7 @@ Excerpt:
 
 Excerpt:
 
-> Tukiajatus 0018 Kuva ei voi olla onnellinen Kuva voi saada tunnustusta. Mutta se ei voi olla onnellinen. Ajatus Ihminen voi käyttää vuosia vakuuttavan kuvan rakentamiseen itsestään, mutta kuva ei elä hänen puolestaan. Todellinen itsensä toteuttaminen alkaa vasta, kun kysymys vaihtuu: ei “miltä minun pitäisi näyttää?” vaan “mikä minussa on todella elävää?” Koko teksti Moni käyttää elämänsä toteuttaakseen käsitystä siitä, millainen hänen pitäisi olla. Ei itseään. Käsitystä. Kuvaa. Roolia. Sisäistä julistetta, jossa lukee: “Tällaisena heidän pitää nähdä minut.” Ihminen voi rakentaa vuosia oikeaa kasvoa. Oikeaa elämäkertaa. Oikeaa hengellisyyttä. Oikeaa menestystä. Oikeaa vaatimattomuutta. Oikeaa vahvuutta. Tarvittaessa jopa oikeanlaista kipua, jos vahvuutta ei vielä ole tarpeeksi. Ja kaikki voi näyttää erittäin vakuuttavalta. Ulkopuolelta. Samaan aikaan elävä ihminen jää jonnekin sivuun kui
+> Tukiajatus 0018 Kuva ei voi olla onnellinen Kuva voi saada tunnustusta. Mutta se ei voi olla onnellinen. Ajatus Ihminen voi käyttää vuosia vakuuttavan kuvan rakentamiseen itsestään, mutta kuva ei elä hänen puolestaan. Todellinen itsensä toteuttaminen alkaa vasta, kun kysymys vaihtuu: ei “miltä minun pitäisi näyttää?” vaan “mikä minussa on todella elävää?” Koko teksti Moni käyttää elämänsä toteuttaakseen käsitystä siitä, millainen hänen pitäisi olla. Ei itseään. Käsitystä. Kuvaa. Roolia. Valmista kuvaa. Sisäistä julistetta, jossa lukee: “Tällaisena heidän pitää nähdä minut.” Ihminen voi rakentaa vuosia oikeaa kasvoa. Oikeaa elämäkertaa. Oikeaa hengellisyyttä. Oikeaa menestystä. Oikeaa vaatimattomuutta. Oikeaa vahvuutta. Tarvittaessa jopa oikeanlaista kipua, jos vahvuutta ei vielä ole tarpeeksi. Ja kaikki voi näyttää erittäin vakuuttavalta. Ulkopuolelta. Samaan aikaan elävä ihminen jää jon
 
 ### fi/public/thoughts/arcs/0019-do-not-bomb.html
 
