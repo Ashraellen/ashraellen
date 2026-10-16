@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T18:34:09.512Z
-Pages: 910
+Generated: 2026-10-16T18:40:16.389Z
+Pages: 911
 
 ## Index
 
@@ -332,7 +332,8 @@ Pages: 910
 | fi/books/radiance/sampo/index.html | fi | books | Ashraellen — Sampo \| HOHDE, Kirja I | Ashraellen, Sampo, HOHDE, runsaus, osallisuus, taiteellinen tutkimus, Kalevala | sampo, ashraellen, books, kirja, ensimmäinen, erotettu, että, hän, hohde, hohde-sarjan, ilman, jossa, julkaisutilanne, juonipaljastuksia, katsoi, kehys, kenelle, kertomus |
 | fi/books/radiance/song/index.html | fi | books | Ashraellen — Laulu \| HOHDE, Kirja II | Ashraellen, Laulu, HOHDE, kieli, kuuleminen, Varsova, taiteellinen tutkimus, mytopoetiikka | laulu, ashraellen, books, joka, kirja, äänestä, ayla, että, hän, hohde, hohde-sarjan, ilman, julkaisutilanne, juonipaljastuksia, kehys, kenelle, kielestä, kieli |
 | fi/books/samizdat/demotopia/index.html | fi | books | Demotopia — Kirjapassi — samizdat 2.0 | Ashraellen, Demotopia, Demokraattinen utopia, samizdat 2.0, kirjapassi, tekijäjulkaisu | demotopia, samizdat, 2.0, kirjapassi, 2026, books, demokraattinen, demotopian, julkaisu, utopia, ashraellen, demokratian, fyysinen, fyysisen, järjestelmässä, kirjasta, passi, pysyvä |
-| fi/books/samizdat/index.html | fi | books | samizdat 2.0 — Ashraellenin tekijäjulkaisut | Ashraellen, samizdat 2.0, tekijäjulkaisut, kirjapassi, fyysiset kirjat, numeroidut kappaleet | samizdat, 2.0, ashraellenin, books, ilman, kirja, tekijäjulkaisut, ashraellen, eikä, fyysinen, fyysiset, jonka, julkiset, kappaleet, kirjan, kirjapassit, kirjat, kulkea |
+| fi/books/samizdat/index.html | fi | books | samizdat 2.0 — Ashraellenin tekijäjulkaisut | Ashraellen, samizdat 2.0, tekijäjulkaisut, kirjapassi, fyysiset kirjat, numeroidut kappaleet | samizdat, 2.0, ashraellenin, books, ilman, kirja, tekijäjulkaisut, ashraellen, eikä, fyysinen, fyysiset, jonka, julkinen, julkiset, kappaleet, kirjan, kirjapassit, kirjat |
+| fi/books/samizdat/monolith/index.html | fi | books | MONOLITH — Kirjapassi — samizdat 2.0 | Ashraellen, MONOLITH, Demokraattinen utopia, samizdat 2.0, kirjapassi, tekijäjulkaisu | monolith, 2.0, kirjapassi, samizdat, books, kirja, 2026, ashraellen, avaa, beton, demokraattinen, fyysisen, gas, järjestelmässä, järjestys, joka, julkaistu, julkaisusta |
 | fi/books/samizdat/order/index.html | fi | books | Pyydä samizdat 2.0 -tekijäkappale — Ashraellen | Ashraellen, samizdat 2.0, tekijäkappale, kirjatilaus, Demotopia, kirjapyyntö | pyydä, 2.0, kappale, samizdat, tekijäkappale, ashraellen, books, henkilökohtaisesti, hinta, kielellä, toimitus, allekirjoitettu, ashraellenin, ennen, hinnan, kappaleen, kirja, laskelma |
 | fi/books/samizdat/order/received/index.html | fi | books | Pyyntö vastaanotettu — samizdat 2.0 — Ashraellen | Ashraellen, samizdat 2.0, kirjapyyntö, tekijäkappale, pyyntö vastaanotettu | samizdat, 2.0, ashraellen, pyyntö, vastaanotettu, automaattisesti, books, ennen, sähköpostitse, valmistusta, aan, alkaa, eikä, hinta, kiitos, kirjapyyntö, muuttunut, ole |
 | fi/books/seccus/index.html | fi | books | Ashraellen — SECCUSIN PYHÄ KIRJA | Ashraellen, SECCUS, SECCUSIN PYHÄ KIRJA, Rehellisyyden polku, filosofinen satiiri, raha, menestys, itsepetos, tieto alibina, vastuu, Sacrunomicon, Ordo Sacrunomiconis, tetrakirja | kirja, pyhä, seccusin, ashraellen, books, rehellisyyden, sivu, ääni, alibina, filosofinen, ihminen, ilman, itsepetoksesta, joka, juonipaljastuksia, kehys, kenelle, kirjallis-filosofinen |
@@ -6455,12 +6456,29 @@ Excerpt:
 - H1: samizdat 2.0
 - H2: Miksi nyt | Mitä se on | Miten se toimii | Numerointi ilman valvontaa | QR-passi | Kirja, jonka on tarkoitus kulkea | Kirjat samizdat 2.0:ssa
 - H3: Valmis tekijäjulkaisu | Teollisen ketjun ulkopuolella | Yksi kappale esineenä | Pysyvä julkinen passi
-- suggested keyword seed: samizdat, 2.0, ashraellenin, books, ilman, kirja, tekijäjulkaisut, ashraellen, eikä, fyysinen, fyysiset, jonka, julkiset, kappaleet, kirjan, kirjapassit, kirjat, kulkea
-- candidates: samizdat, tekijän, 2.0, voi, kirja, kirjan, sen, ilman, ole, eikä, fyysinen, tai, yksi, esineen, fyysisen, jokainen, julkaisun, julkinen, kappale, kielen, lukija, numero, pysyvän, qr-koodi
+- suggested keyword seed: samizdat, 2.0, ashraellenin, books, ilman, kirja, tekijäjulkaisut, ashraellen, eikä, fyysinen, fyysiset, jonka, julkinen, julkiset, kappaleet, kirjan, kirjapassit, kirjat
+- candidates: samizdat, tekijän, 2.0, kirjan, voi, kirja, sen, ilman, ole, eikä, fyysinen, julkinen, tai, yksi, esineen, fyysisen, jokainen, julkaisun, kappale, kielen, lukija, numero, pysyvän, qr-koodi
 
 Excerpt:
 
 > Fyysisiä tekijäkirjoja / julkisia kirjapasseja samizdat 2.0 Kirjan ei tarvitse muuttua nimettömäksi tuotteeksi tullakseen julkiseksi. samizdat 2.0 on nykyaikainen järjestelmä tekijän viimeistelemille kirjoille, jotka saatetaan fyysiseen muotoon teollisen julkaisuketjun ulkopuolella ja välitetään suoraan lukijoille. Jokainen julkaisu säilyttää yhteyden alkuperäänsä pysyvän julkisen passin kautta. Miksi nyt julkaiseminen on helppoa; läsnäolo ei Klassinen samizdat syntyi tilanteessa, jossa teksti ei päässyt virallisten kanavien läpi. Nyt tekninen julkaiseminen on lähes kaikille mahdollista. Tiedoston voi julkaista heti, kirjan painaa tilauksesta ja tekstin levittää ilman lupaa. Vapauden mukana syntyy toinen menetys: fyysinen kirja voi imeytyä samaan anonyymiin kiertoon kuin mikä tahansa tuote — tuotettu, tilattu, toimitettu ja unohdettu ilman näkyvää suhdetta tekijän, esineen ja lukijan väl
+
+### fi/books/samizdat/monolith/index.html
+
+- lang: fi
+- section: books
+- title: MONOLITH — Kirjapassi — samizdat 2.0
+- description: MONOLITHn fyysisen tekijäjulkaisun kirjapassi samizdat 2.0 -järjestelmässä: Demokraattinen utopia, Varsova 2026.
+- canonical: https://www.ashraellen.com/fi/books/samizdat/monolith/
+- H1: MONOLITH
+- H2: Trilogiasta | Kirjojen järjestys | Kirja, sarja ja yksittäinen kappale | Pyydä tietoja julkaisusta
+- H3: BETON | SLUDGE | GAS
+- suggested keyword seed: monolith, 2.0, kirjapassi, samizdat, books, kirja, 2026, ashraellen, avaa, beton, demokraattinen, fyysisen, gas, järjestelmässä, järjestys, joka, julkaistu, julkaisusta
+- candidates: venäjänkielinen, passi, kirjapassi, beton, gas, julkaistu, kirja, monolith, sludge, 2.0, avaa, joka, kirjojen, kolme, samizdat, sarjan, tekijän, tietoja, trilogian, erikseen, fyysisen, itsenäistä, kappale, muuttuu
+
+Excerpt:
+
+> Sarjan passi / samizdat 2.0 MONOLITH Trilogia aineesta, joka muuttuu ympäristöksi ja sitten katoaa — ja jättää ihmisen hänen itse luomansa järjestelmän sisään. MONOLITH yhdistää kolme itsenäistä kirjaa yhdeksi tekijän määrittämäksi kokonaisuudeksi. Jokaisella kirjalla on oma passinsa ja fyysinen muotonsa. Sarjan passi säilyttää kirjojen järjestyksen ja keskinäisen yhteyden. Trilogiasta yksi kokonaisuus / kolme itsenäistä teosta BETON, SLUDGE ja GAS muodostavat sarjan, jossa muuttuu paitsi ympäristön olomuoto myös tapa, jolla ihminen elää sen sisällä. Kirjat luetaan määrätyssä järjestyksessä: kiinteästä muodosta viskoosin kautta näkymättömään. Tämä passi koskee trilogiaa yhtenä tekijän rakentamana kokonaisuutena. Se ei korvaa yksittäisten kirjojen passeja eikä sisällä tietoja erikseen numeroiduista fyysisistä kappaleista. Kirjojen järjestys BETON → SLUDGE → GAS I BETON BETONI Trilogian en
 
 ### fi/books/samizdat/order/index.html
 

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16T18:34:09.497Z",
+  "generated": "2026-10-16T18:40:16.377Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -24471,21 +24471,21 @@
         "samizdat",
         "tekijän",
         "2.0",
+        "kirjan",
         "voi",
         "kirja",
-        "kirjan",
         "sen",
         "ilman",
         "ole",
         "eikä",
         "fyysinen",
+        "julkinen",
         "tai",
         "yksi",
         "esineen",
         "fyysisen",
         "jokainen",
         "julkaisun",
-        "julkinen",
         "kappale",
         "kielen",
         "lukija",
@@ -24506,12 +24506,88 @@
         "fyysinen",
         "fyysiset",
         "jonka",
+        "julkinen",
         "julkiset",
         "kappaleet",
         "kirjan",
         "kirjapassit",
-        "kirjat",
-        "kulkea"
+        "kirjat"
+      ]
+    },
+    {
+      "page": "fi/books/samizdat/monolith/index.html",
+      "lang": "fi",
+      "section": "books",
+      "title": "MONOLITH — Kirjapassi — samizdat 2.0",
+      "description": "MONOLITHn fyysisen tekijäjulkaisun kirjapassi samizdat 2.0 -järjestelmässä: Demokraattinen utopia, Varsova 2026.",
+      "existingKeywords": "Ashraellen, MONOLITH, Demokraattinen utopia, samizdat 2.0, kirjapassi, tekijäjulkaisu",
+      "canonical": "https://www.ashraellen.com/fi/books/samizdat/monolith/",
+      "h1": [
+        "MONOLITH"
+      ],
+      "h2": [
+        "Trilogiasta",
+        "Kirjojen järjestys",
+        "Kirja, sarja ja yksittäinen kappale",
+        "Pyydä tietoja julkaisusta"
+      ],
+      "h3": [
+        "BETON",
+        "SLUDGE",
+        "GAS"
+      ],
+      "slugTerms": [
+        "fi",
+        "books",
+        "samizdat",
+        "monolith"
+      ],
+      "excerpt": "Sarjan passi / samizdat 2.0 MONOLITH Trilogia aineesta, joka muuttuu ympäristöksi ja sitten katoaa — ja jättää ihmisen hänen itse luomansa järjestelmän sisään. MONOLITH yhdistää kolme itsenäistä kirjaa yhdeksi tekijän määrittämäksi kokonaisuudeksi. Jokaisella kirjalla on oma passinsa ja fyysinen muotonsa. Sarjan passi säilyttää kirjojen järjestyksen ja keskinäisen yhteyden. Trilogiasta yksi kokonaisuus / kolme itsenäistä teosta BETON, SLUDGE ja GAS muodostavat sarjan, jossa muuttuu paitsi ympäristön olomuoto myös tapa, jolla ihminen elää sen sisällä. Kirjat luetaan määrätyssä järjestyksessä: kiinteästä muodosta viskoosin kautta näkymättömään. Tämä passi koskee trilogiaa yhtenä tekijän rakentamana kokonaisuutena. Se ei korvaa yksittäisten kirjojen passeja eikä sisällä tietoja erikseen numeroiduista fyysisistä kappaleista. Kirjojen järjestys BETON → SLUDGE → GAS I BETON BETONI Trilogian en",
+      "candidates": [
+        "venäjänkielinen",
+        "passi",
+        "kirjapassi",
+        "beton",
+        "gas",
+        "julkaistu",
+        "kirja",
+        "monolith",
+        "sludge",
+        "2.0",
+        "avaa",
+        "joka",
+        "kirjojen",
+        "kolme",
+        "samizdat",
+        "sarjan",
+        "tekijän",
+        "tietoja",
+        "trilogian",
+        "erikseen",
+        "fyysisen",
+        "itsenäistä",
+        "kappale",
+        "muuttuu"
+      ],
+      "suggestedKeywordSeed": [
+        "monolith",
+        "2.0",
+        "kirjapassi",
+        "samizdat",
+        "books",
+        "kirja",
+        "2026",
+        "ashraellen",
+        "avaa",
+        "beton",
+        "demokraattinen",
+        "fyysisen",
+        "gas",
+        "järjestelmässä",
+        "järjestys",
+        "joka",
+        "julkaistu",
+        "julkaisusta"
       ]
     },
     {

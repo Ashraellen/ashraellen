@@ -1,12 +1,12 @@
 # Page Metadata Audit
 
-Generated: 2026-10-16T18:34:08.685Z
+Generated: 2026-10-16T18:40:15.805Z
 
-Pages checked: 909
+Pages checked: 910
 Pages with issues: 429
 Total issues: 1855
-Pages with review notes: 707
-Total review notes: 2474
+Pages with review notes: 709
+Total review notes: 2478
 
 ## Issue summary
 
@@ -35,8 +35,8 @@ Total review notes: 2474
 
 | Item | Count |
 |---|---:|
-| DUPLICATE_OG_IMAGE_REVIEW | 707 |
-| DUPLICATE_TWITTER_IMAGE_REVIEW | 687 |
+| DUPLICATE_OG_IMAGE_REVIEW | 709 |
+| DUPLICATE_TWITTER_IMAGE_REVIEW | 689 |
 | FALLBACK_OG_IMAGE_USED | 550 |
 | FALLBACK_TWITTER_IMAGE_USED | 530 |
 
@@ -8893,11 +8893,29 @@ Total review notes: 2474
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
 
+### fi/books/samizdat/demotopia/index.html
+
+- title: Demotopia — Kirjapassi — samizdat 2.0
+- og:image: https://www.ashraellen.com/assets/covers/DEMOTOPIA_COMMERCIAL_COVER_CONCEPT_EN_v01.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/DEMOTOPIA_COMMERCIAL_COVER_CONCEPT_EN_v01.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
+
 ### fi/books/samizdat/index.html
 
 - title: samizdat 2.0 — Ashraellenin tekijäjulkaisut
 - og:image: https://www.ashraellen.com/assets/backgrounds/samizdat-2-0-author-edition-on-writing-desk.webp
 - twitter:image: https://www.ashraellen.com/assets/backgrounds/samizdat-2-0-author-edition-on-writing-desk.webp
+
+- DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
+- DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
+
+### fi/books/samizdat/monolith/index.html
+
+- title: MONOLITH — Kirjapassi — samizdat 2.0
+- og:image: https://www.ashraellen.com/assets/covers/DEMOTOPIA_COMMERCIAL_COVER_CONCEPT_EN_v01.webp
+- twitter:image: https://www.ashraellen.com/assets/covers/DEMOTOPIA_COMMERCIAL_COVER_CONCEPT_EN_v01.webp
 
 - DUPLICATE_OG_IMAGE_REVIEW: shared by 2 pages
 - DUPLICATE_TWITTER_IMAGE_REVIEW: shared by 2 pages
