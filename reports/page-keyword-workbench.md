@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T17:37:35.190Z
+Generated: 2026-10-16T17:40:26.873Z
 Pages: 910
 
 ## Index
@@ -372,7 +372,7 @@ Pages: 910
 | fi/public/thoughts/arcs/0008-generalization.html | fi | public | Ashraellen — Yleistys havainnon sijasta | Ashraellen, tukiajatus, yleistys, havainto, ajattelu | havainnon, yleistys, ashraellen, korvaa, muuttuu, public, sijasta, tämä, vaaralliseksi, ajatus, arcs, ashraellenin, asia, että, generalization, ihminen, jossa, kohdassa |
 | fi/public/thoughts/arcs/0009-where-life-stopped.html | fi | public | Ashraellen — Missä lakkasit olemasta elossa | Ashraellen, tukiajatus, herääminen, elämänvoima, selviytyminen | missä, elossa, lakkasit, olemasta, ashraellen, herääminen, joskus, public, ajatus, arcs, ashraellenin, elämä, että, ihminen, kohdassa, koko, life, merkitys |
 | fi/public/thoughts/arcs/0010-dirty-cup.html | fi | public | Ashraellen — Likainen kuppi | Ashraellen, tukiajatus, likainen kuppi, välttely, absurdismi | kuppi, likainen, ashraellen, kuppia, public, vaihtaa, vain, arcs, ashraellenin, cup, dirty, hän, hatuntekijä, juokseminen, juoksijan, juuri, koko, kuppiaan |
-| fi/public/thoughts/arcs/0011-do-not-regret.html | fi | public | Ashraellen — Älä kadu | Ashraellen, tukiajatus, katumus, armo, menetys | älä, kadu, armo, ashraellen, joskus, public, ajatus, arcs, ashraellenin, elämä, ihminen, jota, koko, kun, menetykseltä, merkitys, mikä, miksi |
+| fi/public/thoughts/arcs/0011-do-not-regret.html | fi | public | Ashraellen — Älä kadu | Ashraellen, tukiajatus, katumus, armo, menetys | älä, kadu, armo, ashraellen, joskus, menetykseltä, public, ajatus, arcs, ashraellenin, että, hän, ihminen, koko, kun, merkitys, miksi, mutta |
 | fi/public/thoughts/arcs/0012-close-the-book.html | fi | public | Ashraellen — Milloin kirja on aika sulkea | Ashraellen, tukiajatus, henkinen kirjallisuus, hiljaisuus, hyväksyminen | kirja, aika, ajatus, ashraellen, enää, henkinen, hiljaisuudessa, kirjallisuus, milloin, mutta, public, sulkea, voi, 0012, arcs, book, close, että |
 | fi/public/thoughts/arcs/0013-problem-loses-crown.html | fi | public | Ashraellen — Ongelma menettää kruununsa | Ashraellen, tukiajatus, hyväksyminen, draama, ongelma | ongelma, ajatus, aseman, ashraellen, kruununsa, menettää, mutta, public, voi, 0013, arcs, crown, draaman, ehkä, eikä, että, hyväksyminen, katoa |
 | fi/public/thoughts/arcs/0014-end-of-extra-war.html | fi | public | Ashraellen — Ylimääräisen sodan loppu | Ashraellen, tukiajatus, hyväksyminen, sisäinen sota, todellisuus | loppu, sodan, ajatus, ashraellen, ole, public, ylimääräisen, 0014, arcs, end, että, extra, hyväksyminen, joka, juuri, kaikki, koko, kyllä |
@@ -7135,12 +7135,12 @@ Excerpt:
 - H1: Älä kadu
 - H2: Merkitys | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
 - H3: _missing_
-- suggested keyword seed: älä, kadu, armo, ashraellen, joskus, public, ajatus, arcs, ashraellenin, elämä, ihminen, jota, koko, kun, menetykseltä, merkitys, mikä, miksi
-- candidates: joskus, olisi, älä, kadu, kun, mikä, mutta, ajatus, ihminen, jota, armo, elämä, että, hajoaa, hän, itse, juuri, kuin, menetykseltä, merkitys, myös, näyttää, olla, pelastus
+- suggested keyword seed: älä, kadu, armo, ashraellen, joskus, menetykseltä, public, ajatus, arcs, ashraellenin, että, hän, ihminen, koko, kun, merkitys, miksi, mutta
+- candidates: joskus, olisi, älä, ihminen, kadu, kun, ajatus, armo, että, hän, menetykseltä, mutta, näyttää, pelastus, usein, hänet, iskun, itse, juuri, kuin, lopulta, merkitys, mikä, miten
 
 Excerpt:
 
-> Tukiajatus 0011 Älä kadu Joskus armo näyttää menetykseltä. Joskus pelastus tulee toteutumattoman unelman vaatteissa. Merkitys Katumus nojaa usein varmuuteen siitä, että tiedämme miten kaiken olisi pitänyt mennä. Entä jos menetys ei ollutkaan vain rangaistus vaan ulospääsy tieltä, jota emme itse olisi osanneet jättää? Koko teksti Älä kadu mitään. Ei siksi, että kaikki olisi ollut miellyttävää, oikein ja kaunista. Joskus elämä taluttaa ihmistä kuin sillä olisi suunnitelman sijasta rautakanki. Mutta onnettomuus voi osoittautua hyväksi paljon myöhemmin kuin isku tuntuu. Ei tietenkään siinä hetkessä, kun jokin hajoaa ja ihminen huudahtaa: “Ah, mikä hieno siunaus juuri laskeutui takaraivooni.” Merkitys näkyy usein vasta kivun jälkeen. Kun tarpeeton on poistunut. Kun se mikä olisi pitänyt hajota jo kauan sitten, lopulta hajoaa. Kun ymmärrät, ettei sinua ehkä rangaistu — sinut vedettiin ulos ove
+> Tukiajatus 0011 Älä kadu Joskus armo näyttää menetykseltä. Joskus pelastus tulee toteutumattoman unelman vaatteissa. Merkitys Katumus nojaa usein varmuuteen siitä, että tiedämme miten kaiken olisi pitänyt mennä. Entä jos menetys ei ollutkaan vain rangaistus vaan ulospääsy tieltä, jota emme itse olisi osanneet jättää? Koko teksti Älä koskaan kadu mitään. Ei siksi, että kaikki olisi ollut miellyttävää, oikein ja kaunista. Ei. Joskus elämä kuljettaa ihmistä kuin sillä olisi suunnitelman sijasta kädessään hiilihanko. Mutta vastoinkäymiset tapahtuvat usein lopulta hyväksi. Ei heti. Ei ilmeisesti. Ei niin, että ihminen iskun hetkellä huudahtaisi iloisesti: ”Oi, miten ihana siunaus minua juuri kopautti takaraivoon!” Yleensä merkitys paljastuu vasta myöhemmin. Kun kipu hellittää. Kun tarpeeton väistyy. Kun sortuu se, minkä olisi pitänyt sortua jo aikoja sitten. Kun ihminen lopulta ymmärtää, ette
 
 ### fi/public/thoughts/arcs/0012-close-the-book.html
 
