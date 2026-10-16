@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T18:49:50.420Z
+Generated: 2026-10-16T18:53:28.183Z
 Pages: 914
 
 ## Index
@@ -337,7 +337,7 @@ Pages: 914
 | fi/books/samizdat/monolith/gas/index.html | fi | books | GAS / KAASU — kirjapassi — samizdat 2.0 | _missing_ | gas, samizdat, 2.0, ashraellen, kaasu, kirjapassi, books, fyysiset, monolith, monolith-trilogian, iii, järjestelmässä, kappaleet, kolmannen, nimi, osa, osan, teoksen |
 | fi/books/samizdat/monolith/index.html | fi | books | MONOLITH — Kirjapassi — samizdat 2.0 | Ashraellen, MONOLITH, BETON, SLUDGE, GAS, samizdat 2.0, trilogia, sarjan passi | monolith, 2.0, samizdat, beton, books, gas, kirja, kirjapassi, passi, sludge, ashraellen, avaa, järjestelmässä, järjestys, joka, julkaistu, julkaisusta, julkinen |
 | fi/books/samizdat/monolith/sludge/index.html | fi | books | SLUDGE / LIETE — kirjapassi — samizdat 2.0 | _missing_ | sludge, samizdat, 2.0, ashraellen, kirjapassi, liete, books, fyysiset, monolith, monolith-trilogian, teoksen, järjestelmässä, kappaleet, nimi, osa, osan, tiedot, toisen |
-| fi/books/samizdat/order/index.html | fi | books | Pyydä samizdat 2.0 -tekijäkappale — Ashraellen | Ashraellen, samizdat 2.0, tekijäkappale, kirjatilaus, Demotopia, kirjapyyntö | pyydä, 2.0, kappale, samizdat, tekijäkappale, ashraellen, books, henkilökohtaisesti, hinta, kielellä, toimitus, allekirjoitettu, ashraellenin, ennen, hinnan, kappaleen, kirja, laskelma |
+| fi/books/samizdat/order/index.html | fi | books | Pyydä samizdat 2.0 -tekijäkappale — Ashraellen | Ashraellen, samizdat 2.0, tekijäkappale, kirjatilaus, Demotopia, kirjapyyntö | pyydä, 2.0, kappale, samizdat, ashraellen, books, henkilökohtaisesti, hinta, kielellä, tekijäkappale, toimitus, allekirjoitettu, ashraellenin, ennen, hinnan, kappaleen, kirja, laskelma |
 | fi/books/samizdat/order/received/index.html | fi | books | Pyyntö vastaanotettu — samizdat 2.0 — Ashraellen | Ashraellen, samizdat 2.0, kirjapyyntö, tekijäkappale, pyyntö vastaanotettu | samizdat, 2.0, ashraellen, pyyntö, vastaanotettu, automaattisesti, books, ennen, sähköpostitse, valmistusta, aan, alkaa, eikä, hinta, kiitos, kirjapyyntö, muuttunut, ole |
 | fi/books/seccus/index.html | fi | books | Ashraellen — SECCUSIN PYHÄ KIRJA | Ashraellen, SECCUS, SECCUSIN PYHÄ KIRJA, Rehellisyyden polku, filosofinen satiiri, raha, menestys, itsepetos, tieto alibina, vastuu, Sacrunomicon, Ordo Sacrunomiconis, tetrakirja | kirja, pyhä, seccusin, ashraellen, books, rehellisyyden, sivu, ääni, alibina, filosofinen, ihminen, ilman, itsepetoksesta, joka, juonipaljastuksia, kehys, kenelle, kirjallis-filosofinen |
 | fi/books/seven/greed/index.html | fi | books | Ashraellen — Ahneus \| GREED · SEVEN, kirja I | _missing_ | greed, ahneus, ashraellen, books, katkelma, kirja, seven, ajautuminen, andrei, halut, hän, hänen, inhimilliset, jännitteet, joka, kahdella, kirjan, kustantajille |
@@ -6544,12 +6544,12 @@ Excerpt:
 - H1: Pyydä kappale
 - H2: Pyyntö ↓ Laskelma ↓ Vahvistus ↓ Maksu ↓ Valmistus ↓ Toimitus | Allekirjoitettu kappale
 - H3: _missing_
-- suggested keyword seed: pyydä, 2.0, kappale, samizdat, tekijäkappale, ashraellen, books, henkilökohtaisesti, hinta, kielellä, toimitus, allekirjoitettu, ashraellenin, ennen, hinnan, kappaleen, kirja, laskelma
-- candidates: henkilökohtaisesti, kappaleen, ennen, hinnan, kirja, lukijalle, pyydä, tekijäkappale, 2.0, hinta, kappale, kielellä, laskemiseen, ole, pyyntö, samizdat, toimituksen, toimitus, toimitusehdot, vahvistetaan, vain, valitse, valitulla, valmis
+- suggested keyword seed: pyydä, 2.0, kappale, samizdat, ashraellen, books, henkilökohtaisesti, hinta, kielellä, tekijäkappale, toimitus, allekirjoitettu, ashraellenin, ennen, hinnan, kappaleen, kirja, laskelma
+- candidates: henkilökohtaisesti, kappaleen, ennen, hinnan, kappale, kirja, lukijalle, pyydä, 2.0, hinta, kielellä, laskemiseen, ole, pyyntö, samizdat, tekijäkappale, tekijän, toimituksen, toimitus, toimitusehdot, vahvistetaan, vain, valitse, valitulla
 
 Excerpt:
 
-> Tekijäkappale vahvistetusta pyynnöstä Pyydä kappale Kirja voidaan valmistaa valitulla kielellä ja välittää tietylle lukijalle. Vahvistamme henkilökohtaisesti valitun kielen saatavuuden, valmistusajan, lopullisen hinnan ja toimitusehdot. Lomakkeen lähettäminen ei luo ostopakkoa. Miten se toimii Pyyntö ↓ Laskelma ↓ Vahvistus ↓ Maksu ↓ Valmistus ↓ Toimitus Jos valittu kieliversio ei vielä ole valmis, ilmoitamme sen valmistumiseen tarvittavan ajan ennen vahvistusta. Erityisvaihtoehto Allekirjoitettu kappale Tekijä allekirjoittaa kappaleen henkilökohtaisesti ennen kuin se lähetetään lukijalle. Kyse ei ole vain nimestä sivulla: allekirjoitukseen voidaan liittää henkilökohtainen omistuskirjoitus, ja valmis kirja kulkee tekijän käsien kautta säilyttäen tuon kosketuksen lämmön. Voit kirjoittaa toivotun omistustekstin viestikenttään. Kirja Valitse Demotopia — Demokraattinen utopia Kappaleen kieli 
+> Tekijän kappale vahvistetun pyynnön perusteella Pyydä kappale Kirja voidaan valmistaa valitulla kielellä ja välittää tietylle lukijalle. Vahvistamme henkilökohtaisesti valitun kielen saatavuuden, valmistusajan, lopullisen hinnan ja toimitusehdot. Lomakkeen lähettäminen ei luo ostopakkoa. Miten se toimii Pyyntö ↓ Laskelma ↓ Vahvistus ↓ Maksu ↓ Valmistus ↓ Toimitus Jos valittu kieliversio ei ole vielä valmis, ilmoitamme arvioidun valmistumisajan ennen vahvistusta. Erityisvaihtoehto Allekirjoitettu kappale Tekijä allekirjoittaa kappaleen henkilökohtaisesti ennen kuin se lähetetään lukijalle. Kyse ei ole vain nimestä sivulla: allekirjoitukseen voidaan liittää henkilökohtainen omistuskirjoitus, ja valmis kirja kulkee tekijän käsien kautta säilyttäen tuon kosketuksen lämmön. Voit kirjoittaa toivotun omistustekstin viestikenttään. Kirja Valitse Demotopia — Demokraattinen utopia Kappaleen kieli 
 
 ### fi/books/samizdat/order/received/index.html
 
