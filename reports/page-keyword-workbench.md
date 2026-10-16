@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T17:52:17.065Z
+Generated: 2026-10-16T17:53:55.214Z
 Pages: 910
 
 ## Index
@@ -7340,7 +7340,7 @@ Excerpt:
 - H2: Ajatus | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
 - H3: _missing_
 - suggested keyword seed: hinta, siirtymän, ajatus, ashraellen, enää, kriisi, muodosta, public, 0023, arcs, hän, jotka, kaikki, kanna, koko, kuin, kun, luopumaan
-- candidates: kriisi, kuin, ajatus, hinta, siirtymän, tai, enää, hän, jotka, kaikki, maksetaan, muodosta, mutta, ole, olisi, rooli, sama, vaiheeseen, 0023, aina, edessä, ikuisia, itsestä, johon
+- candidates: kriisi, kuin, ajatus, enää, hinta, siirtymän, tai, hän, jotka, kaikki, maksetaan, muodosta, mutta, ole, olisi, rooli, sama, vaiheeseen, 0023, aina, edessä, ikuisia, itsestä, johon
 
 Excerpt:
 
