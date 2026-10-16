@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T17:50:56.202Z
+Generated: 2026-10-16T17:52:17.065Z
 Pages: 910
 
 ## Index
@@ -7306,7 +7306,7 @@ Excerpt:
 - H2: Ajatus | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
 - H3: _missing_
 - suggested keyword seed: ajatus, alkavat, ashraellen, jonka, koko, parittelupelit, public, 0021, arcs, ennen, games, hän, ihminen, ihmistä, joka, joku, jotkut, käsikirjoituksesta
-- candidates: hän, toinen, alkavat, ajatus, jonka, kun, peli, joka, joku, jotkut, kauan, koko, kuka, minä, parittelupelit, roolista, suhteet, tai, tämä, toiset, vain, 0021, äidit, aina
+- candidates: hän, alkavat, toinen, ajatus, jonka, kun, peli, joka, joku, jotkut, kauan, koko, kuka, minä, parittelupelit, roolista, suhteet, tai, tämä, toiset, vain, 0021, äidit, aina
 
 Excerpt:
 
