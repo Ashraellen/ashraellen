@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T18:53:28.183Z
+Generated: 2026-10-16T18:55:21.516Z
 Pages: 914
 
 ## Index
@@ -6441,7 +6441,7 @@ Excerpt:
 - canonical: https://www.ashraellen.com/fi/books/samizdat/demotopia/
 - H1: Demotopia
 - H2: Kirjasta | Tämä julkaisu | Pysyvä passi | Pyydä tekijäkappale
-- H3: Jokaisesta kappaleesta
+- H3: Yksittäisestä kappaleesta
 - suggested keyword seed: demotopia, samizdat, 2.0, kirjapassi, 2026, books, demokraattinen, demotopian, julkaisu, utopia, ashraellen, demokratian, fyysinen, fyysisen, järjestelmässä, kirjasta, passi, pysyvä
 - candidates: 2.0, fyysinen, samizdat, demotopia, tekijän, demokraattinen, demokratian, julkaisu, kirjapassi, utopia, 2026, demotopian, julkinen, kaikkia, kappale, kieli, kun, oleva, pyydä, romaani, sen, suoraan, tekijä, teos
 
