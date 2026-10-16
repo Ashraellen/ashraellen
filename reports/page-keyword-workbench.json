@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16T18:45:15.376Z",
+  "generated": "2026-10-16T18:48:27.627Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -24620,10 +24620,10 @@
       "excerpt": "Sarjan passi / samizdat 2.0 MONOLITH Trilogia aineesta, joka muuttuu ympäristöksi ja sitten katoaa — ja jättää ihmisen hänen itse luomansa järjestelmän sisään. MONOLITH yhdistää kolme itsenäistä kirjaa yhdeksi tekijän määrittämäksi kokonaisuudeksi. Jokaisella kirjalla on oma passinsa ja fyysinen muotonsa. Sarjan passi säilyttää kirjojen järjestyksen ja keskinäisen yhteyden. Trilogiasta yksi kokonaisuus / kolme itsenäistä teosta BETON, SLUDGE ja GAS muodostavat sarjan, jossa muuttuu paitsi ympäristön olomuoto myös tapa, jolla ihminen elää sen sisällä. Kirjat luetaan määrätyssä järjestyksessä: kiinteästä muodosta viskoosin kautta näkymättömään. Tämä passi koskee trilogiaa yhtenä tekijän rakentamana kokonaisuutena. Se ei korvaa yksittäisten kirjojen passeja eikä sisällä tietoja erikseen numeroiduista fyysisistä kappaleista. Kirjojen järjestys BETON → SLUDGE → GAS I BETON BETONI Trilogian en",
       "candidates": [
         "passi",
-        "venäjänkielinen",
         "beton",
         "gas",
         "sludge",
+        "venäjänkielinen",
         "julkaistu",
         "kirja",
         "kirjapassi",
@@ -24663,6 +24663,77 @@
         "julkaistu",
         "julkaisusta",
         "julkinen"
+      ]
+    },
+    {
+      "page": "fi/books/samizdat/monolith/sludge/index.html",
+      "lang": "fi",
+      "section": "books",
+      "title": "SLUDGE / LIETE — kirjapassi — samizdat 2.0",
+      "description": "SLUDGE / LIETE — MONOLITH-trilogian toisen osan kirjapassi Ashraellen Samizdat 2.0 -järjestelmässä.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/fi/books/samizdat/monolith/sludge/",
+      "h1": [
+        "SLUDGE"
+      ],
+      "h2": [
+        "Teoksen tiedot",
+        "Fyysiset kappaleet"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "fi",
+        "books",
+        "samizdat",
+        "monolith",
+        "sludge"
+      ],
+      "excerpt": "Kirjapassi / samizdat 2.0 MONOLITH Osa II SLUDGE LIETE ASHRAELLEN MONOLITH-trilogian toinen itsenäinen kirja. Passi vahvistaa teoksen identiteetin. Eri laitosten fyysiset ominaisuudet lisätään vasta niiden tarkistamisen jälkeen. Teoksen tiedot Sarja MONOLITH / MONOLITH Osa sarjassa Osa II Alkuperäinen nimi SLUDGE Venäjänkielinen nimi ЖИЖА Tekijä ASHRAELLEN Järjestys BETON → SLUDGE → GAS Fyysiset kappaleet Numeroiduille kappaleille voidaan laatia omat pysyvät passinsa. Tarkistamattomia tietoja formaatista, sivumäärästä, paperista, sidonnasta tai painomenetelmästä ei julkaista täällä.",
+      "candidates": [
+        "sludge",
+        "2.0",
+        "ashraellen",
+        "kirjapassi",
+        "liete",
+        "monolith",
+        "osa",
+        "samizdat",
+        "fyysiset",
+        "monolith-trilogian",
+        "nimi",
+        "teoksen",
+        "alkuperäinen",
+        "beton",
+        "eri",
+        "formaatista",
+        "gas",
+        "identiteetin",
+        "itsenäinen",
+        "jälkeen",
+        "järjestelmässä",
+        "järjestys",
+        "julkaista",
+        "kappaleet"
+      ],
+      "suggestedKeywordSeed": [
+        "sludge",
+        "samizdat",
+        "2.0",
+        "ashraellen",
+        "kirjapassi",
+        "liete",
+        "books",
+        "fyysiset",
+        "monolith",
+        "monolith-trilogian",
+        "teoksen",
+        "järjestelmässä",
+        "kappaleet",
+        "nimi",
+        "osa",
+        "osan",
+        "tiedot",
+        "toisen"
       ]
     },
     {

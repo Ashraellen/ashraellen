@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T18:45:15.391Z
-Pages: 912
+Generated: 2026-10-16T18:48:27.638Z
+Pages: 913
 
 ## Index
 
@@ -335,6 +335,7 @@ Pages: 912
 | fi/books/samizdat/index.html | fi | books | samizdat 2.0 — Ashraellenin tekijäjulkaisut | Ashraellen, samizdat 2.0, tekijäjulkaisut, kirjapassi, fyysiset kirjat, numeroidut kappaleet | samizdat, 2.0, ashraellenin, books, ilman, kirja, tekijäjulkaisut, ashraellen, eikä, fyysinen, fyysiset, jonka, julkinen, julkiset, kappaleet, kirjan, kirjapassit, kirjat |
 | fi/books/samizdat/monolith/beton/index.html | fi | books | BETON — kirjapassi — samizdat 2.0 | _missing_ | beton, samizdat, 2.0, ashraellen, kirjapassi, books, laitoksen, osa, teoksen, betonin, ensimmäinen, julkaisun, kappale, kappaleen, kappaleiden, kirjasta, monolith, monolith-trilogian |
 | fi/books/samizdat/monolith/index.html | fi | books | MONOLITH — Kirjapassi — samizdat 2.0 | Ashraellen, MONOLITH, BETON, SLUDGE, GAS, samizdat 2.0, trilogia, sarjan passi | monolith, 2.0, samizdat, beton, books, gas, kirja, kirjapassi, passi, sludge, ashraellen, avaa, järjestelmässä, järjestys, joka, julkaistu, julkaisusta, julkinen |
+| fi/books/samizdat/monolith/sludge/index.html | fi | books | SLUDGE / LIETE — kirjapassi — samizdat 2.0 | _missing_ | sludge, samizdat, 2.0, ashraellen, kirjapassi, liete, books, fyysiset, monolith, monolith-trilogian, teoksen, järjestelmässä, kappaleet, nimi, osa, osan, tiedot, toisen |
 | fi/books/samizdat/order/index.html | fi | books | Pyydä samizdat 2.0 -tekijäkappale — Ashraellen | Ashraellen, samizdat 2.0, tekijäkappale, kirjatilaus, Demotopia, kirjapyyntö | pyydä, 2.0, kappale, samizdat, tekijäkappale, ashraellen, books, henkilökohtaisesti, hinta, kielellä, toimitus, allekirjoitettu, ashraellenin, ennen, hinnan, kappaleen, kirja, laskelma |
 | fi/books/samizdat/order/received/index.html | fi | books | Pyyntö vastaanotettu — samizdat 2.0 — Ashraellen | Ashraellen, samizdat 2.0, kirjapyyntö, tekijäkappale, pyyntö vastaanotettu | samizdat, 2.0, ashraellen, pyyntö, vastaanotettu, automaattisesti, books, ennen, sähköpostitse, valmistusta, aan, alkaa, eikä, hinta, kiitos, kirjapyyntö, muuttunut, ole |
 | fi/books/seccus/index.html | fi | books | Ashraellen — SECCUSIN PYHÄ KIRJA | Ashraellen, SECCUS, SECCUSIN PYHÄ KIRJA, Rehellisyyden polku, filosofinen satiiri, raha, menestys, itsepetos, tieto alibina, vastuu, Sacrunomicon, Ordo Sacrunomiconis, tetrakirja | kirja, pyhä, seccusin, ashraellen, books, rehellisyyden, sivu, ääni, alibina, filosofinen, ihminen, ilman, itsepetoksesta, joka, juonipaljastuksia, kehys, kenelle, kirjallis-filosofinen |
@@ -6492,11 +6493,28 @@ Excerpt:
 - H2: Trilogiasta | Kirjojen järjestys | Kirja, sarja ja yksittäinen kappale | Pyydä tietoja julkaisusta
 - H3: BETON | SLUDGE | GAS
 - suggested keyword seed: monolith, 2.0, samizdat, beton, books, gas, kirja, kirjapassi, passi, sludge, ashraellen, avaa, järjestelmässä, järjestys, joka, julkaistu, julkaisusta, julkinen
-- candidates: passi, venäjänkielinen, beton, gas, sludge, julkaistu, kirja, kirjapassi, monolith, 2.0, avaa, joka, kirjojen, kolme, samizdat, sarjan, tekijän, tietoja, trilogian, erikseen, itsenäistä, kappale, muuttuu, passinsa
+- candidates: passi, beton, gas, sludge, venäjänkielinen, julkaistu, kirja, kirjapassi, monolith, 2.0, avaa, joka, kirjojen, kolme, samizdat, sarjan, tekijän, tietoja, trilogian, erikseen, itsenäistä, kappale, muuttuu, passinsa
 
 Excerpt:
 
 > Sarjan passi / samizdat 2.0 MONOLITH Trilogia aineesta, joka muuttuu ympäristöksi ja sitten katoaa — ja jättää ihmisen hänen itse luomansa järjestelmän sisään. MONOLITH yhdistää kolme itsenäistä kirjaa yhdeksi tekijän määrittämäksi kokonaisuudeksi. Jokaisella kirjalla on oma passinsa ja fyysinen muotonsa. Sarjan passi säilyttää kirjojen järjestyksen ja keskinäisen yhteyden. Trilogiasta yksi kokonaisuus / kolme itsenäistä teosta BETON, SLUDGE ja GAS muodostavat sarjan, jossa muuttuu paitsi ympäristön olomuoto myös tapa, jolla ihminen elää sen sisällä. Kirjat luetaan määrätyssä järjestyksessä: kiinteästä muodosta viskoosin kautta näkymättömään. Tämä passi koskee trilogiaa yhtenä tekijän rakentamana kokonaisuutena. Se ei korvaa yksittäisten kirjojen passeja eikä sisällä tietoja erikseen numeroiduista fyysisistä kappaleista. Kirjojen järjestys BETON → SLUDGE → GAS I BETON BETONI Trilogian en
+
+### fi/books/samizdat/monolith/sludge/index.html
+
+- lang: fi
+- section: books
+- title: SLUDGE / LIETE — kirjapassi — samizdat 2.0
+- description: SLUDGE / LIETE — MONOLITH-trilogian toisen osan kirjapassi Ashraellen Samizdat 2.0 -järjestelmässä.
+- canonical: https://www.ashraellen.com/fi/books/samizdat/monolith/sludge/
+- H1: SLUDGE
+- H2: Teoksen tiedot | Fyysiset kappaleet
+- H3: _missing_
+- suggested keyword seed: sludge, samizdat, 2.0, ashraellen, kirjapassi, liete, books, fyysiset, monolith, monolith-trilogian, teoksen, järjestelmässä, kappaleet, nimi, osa, osan, tiedot, toisen
+- candidates: sludge, 2.0, ashraellen, kirjapassi, liete, monolith, osa, samizdat, fyysiset, monolith-trilogian, nimi, teoksen, alkuperäinen, beton, eri, formaatista, gas, identiteetin, itsenäinen, jälkeen, järjestelmässä, järjestys, julkaista, kappaleet
+
+Excerpt:
+
+> Kirjapassi / samizdat 2.0 MONOLITH Osa II SLUDGE LIETE ASHRAELLEN MONOLITH-trilogian toinen itsenäinen kirja. Passi vahvistaa teoksen identiteetin. Eri laitosten fyysiset ominaisuudet lisätään vasta niiden tarkistamisen jälkeen. Teoksen tiedot Sarja MONOLITH / MONOLITH Osa sarjassa Osa II Alkuperäinen nimi SLUDGE Venäjänkielinen nimi ЖИЖА Tekijä ASHRAELLEN Järjestys BETON → SLUDGE → GAS Fyysiset kappaleet Numeroiduille kappaleille voidaan laatia omat pysyvät passinsa. Tarkistamattomia tietoja formaatista, sivumäärästä, paperista, sidonnasta tai painomenetelmästä ei julkaista täällä.
 
 ### fi/books/samizdat/order/index.html
 
