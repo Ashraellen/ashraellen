@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T17:40:26.873Z
+Generated: 2026-10-16T17:42:49.928Z
 Pages: 910
 
 ## Index
@@ -374,7 +374,7 @@ Pages: 910
 | fi/public/thoughts/arcs/0010-dirty-cup.html | fi | public | Ashraellen — Likainen kuppi | Ashraellen, tukiajatus, likainen kuppi, välttely, absurdismi | kuppi, likainen, ashraellen, kuppia, public, vaihtaa, vain, arcs, ashraellenin, cup, dirty, hän, hatuntekijä, juokseminen, juoksijan, juuri, koko, kuppiaan |
 | fi/public/thoughts/arcs/0011-do-not-regret.html | fi | public | Ashraellen — Älä kadu | Ashraellen, tukiajatus, katumus, armo, menetys | älä, kadu, armo, ashraellen, joskus, menetykseltä, public, ajatus, arcs, ashraellenin, että, hän, ihminen, koko, kun, merkitys, miksi, mutta |
 | fi/public/thoughts/arcs/0012-close-the-book.html | fi | public | Ashraellen — Milloin kirja on aika sulkea | Ashraellen, tukiajatus, henkinen kirjallisuus, hiljaisuus, hyväksyminen | kirja, aika, ajatus, ashraellen, enää, henkinen, hiljaisuudessa, kirjallisuus, milloin, mutta, public, sulkea, voi, 0012, arcs, book, close, että |
-| fi/public/thoughts/arcs/0013-problem-loses-crown.html | fi | public | Ashraellen — Ongelma menettää kruununsa | Ashraellen, tukiajatus, hyväksyminen, draama, ongelma | ongelma, ajatus, aseman, ashraellen, kruununsa, menettää, mutta, public, voi, 0013, arcs, crown, draaman, ehkä, eikä, että, hyväksyminen, katoa |
+| fi/public/thoughts/arcs/0013-problem-loses-crown.html | fi | public | Ashraellen — Ongelma menettää kruununsa | Ashraellen, tukiajatus, hyväksyminen, draama, ongelma | ongelma, ajatus, aseman, ashraellen, hyväksyminen, kruununsa, menettää, mutta, public, 0013, arcs, crown, draaman, ehkä, että, katoa, koko, kuninkaallisen |
 | fi/public/thoughts/arcs/0014-end-of-extra-war.html | fi | public | Ashraellen — Ylimääräisen sodan loppu | Ashraellen, tukiajatus, hyväksyminen, sisäinen sota, todellisuus | loppu, sodan, ajatus, ashraellen, ole, public, ylimääräisen, 0014, arcs, end, että, extra, hyväksyminen, joka, juuri, kaikki, koko, kyllä |
 | fi/public/thoughts/arcs/0015-subtle-thought-needs-silence.html | fi | public | Ashraellen — Hieno ajatus tarvitsee hiljaisuutta | Ashraellen, tukiajatus, hiljaisuus, ymmärtäminen, hienovaraisuus | ajatus, hiljaisuutta, hieno, tarvitsee, 0015, ashraellen, public, tarvitse, tullakseen, vaan, aikaa, aina, arcs, herkkyyttä, hienovarainen, joskus, karkeaksi, karkeutta |
 | fi/public/thoughts/arcs/0016-one-fact.html | fi | public | Ashraellen — Oli yksi fakta | Ashraellen, tukiajatus, fakta, tulkinta, ahdistus | fakta, yksi, oli, 0016, ajatus, ashraellen, mitä, public, tiedän, varmasti, arcs, fact, itse, joku, kärsimyssarjaksi, koko, kokonaiseksi, kuin |
@@ -7169,12 +7169,12 @@ Excerpt:
 - H1: Ongelma menettää kruununsa
 - H2: Ajatus | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
 - H3: _missing_
-- suggested keyword seed: ongelma, ajatus, aseman, ashraellen, kruununsa, menettää, mutta, public, voi, 0013, arcs, crown, draaman, ehkä, eikä, että, hyväksyminen, katoa
-- candidates: ongelma, mutta, eikä, voi, ajatus, että, mitä, ole, sen, siksi, vain, aseman, hyväksyminen, kadonnut, olisi, sitten, 0013, draama, faktan, jäädä, kruununsa, kuninkaallisen, kysy, maailma
+- suggested keyword seed: ongelma, ajatus, aseman, ashraellen, hyväksyminen, kruununsa, menettää, mutta, public, 0013, arcs, crown, draaman, ehkä, että, katoa, koko, kuninkaallisen
+- candidates: ongelma, mutta, ole, sen, että, ajatus, mitä, siksi, sitten, yrittänyt, aseman, hyväksyminen, kadonnut, menetelmä, oletko, olisi, vain, voi, 0013, aivan, eikä, esitä, faktan, jäädä
 
 Excerpt:
 
-> Tukiajatus 0013 Ongelma menettää kruununsa Ongelma ei ole kadonnut. Mutta sen draama on. Ajatus Hyväksyminen ei ole kaunis hengellinen asento vaan ongelman valheellisen kuninkaallisen aseman purkamista. Tilanne voi jäädä ennalleen, mutta ihminen lakkaa ruokkimasta sitä sisäisellä hysterialla. Koko teksti On olemassa ainutlaatuinen menetelmä todellisuuden hyväksymiseen sellaisena kuin se on. Menetelmän nimi on: “No mitä sitten?” Se on yksinkertainen, helppokäyttöinen eikä vaadi joogamattoa, suitsukkeita, maratonjäsenyyttä eikä kolmen päivän retriittiä vuorilla ihmisten kanssa, jotka lausuvat sanan “energia” aivan liian itsevarmasti. Onko sinulla ongelma? Yrititkö ratkaista sen etkä onnistunut? Yrititkö monta kertaa? Kerran? Et lainkaan, mutta olet jo valmiiksi uupunut? Erinomaista. Menetelmä on juuri sinua varten. 1. Istu mukavasti. 2. Sano ongelmasi ääneen. Esimerkiksi: “Kukaan ei ymmärr
+> Tukiajatus 0013 Ongelma menettää kruununsa Ongelma ei ole kadonnut. Mutta sen draama on. Ajatus Hyväksyminen ei ole kaunis hengellinen asento vaan ongelman valheellisen kuninkaallisen aseman purkamista. Tilanne voi jäädä ennalleen, mutta ihminen lakkaa ruokkimasta sitä sisäisellä hysterialla. Koko teksti Ainutlaatuinen menetelmä todellisuuden hyväksymiseen sellaisena kuin se on, nimeltään ”No mitä sitten?”, auttaa selviytymään omin voimin kaikkein hankalimmistakin ongelmista. Menetelmä on yksinkertainen ja helppo käyttää. Se ei vaadi erityistä joogamattoa, suitsukkeita, verkkovalmennuksen tilausta eikä kolmen päivän retriittiä vuoristossa sellaisten ihmisten seurassa, jotka lausuvat sanan ”energia” aivan liian itsevarmasti. Siis asiaan. Onko sinulla ongelma? Oletko yrittänyt ratkaista sen onnistumatta? Oletko yrittänyt monta kertaa? Oletko yrittänyt kerran? Et ole yrittänyt lainkaan mutt
 
 ### fi/public/thoughts/arcs/0014-end-of-extra-war.html
 
