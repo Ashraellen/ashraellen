@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T17:28:32.823Z
+Generated: 2026-10-16T17:29:19.523Z
 Pages: 910
 
 ## Index
@@ -365,7 +365,7 @@ Pages: 910
 | fi/public/thoughts/arcs/0001-cheerfulness.html | fi | public | Ashraellen — Iloisuus ihmisen diagnoosina | Ashraellen, tukiajatus, iloisuus, nauru, havainto | ihmisen, iloisuus, ashraellen, ashraellenin, diagnoosina, kuin, nauru, public, usein, ajatus, arcs, cheerfulness, hän, ilman, koko, kuinka, merkitys, miksi |
 | fi/public/thoughts/arcs/0002-still-the-same.html | fi | public | Ashraellen — Samat voimat, uudet nimet | Ashraellen, tukiajatus, riippuvuus, rationalismi, sisäiset voimat | nimet, voimat, uudet, aina, ashraellen, eivät, public, samat, ajatus, arcs, ashraellenin, hän, ihminen, ilman, itseään, joita, katoa, koko |
 | fi/public/thoughts/arcs/0003-let-go.html | fi | public | Ashraellen — Herääminen alkaa, kun jatkaminen ei enää onnistu | Ashraellen, tukiajatus, herääminen, rehellisyys, irtipäästäminen | alkaa, enää, herääminen, kun, ashraellen, jatkaminen, onnistu, public, ajatus, arcs, ashraellenin, elää, että, jatkamaan, jonakin, kaikista, koko, let |
-| fi/public/thoughts/arcs/0004-mortality-awakens.html | fi | public | Ashraellen — Rajallisuus herättää kysymyksen | Ashraellen, tukiajatus, rajallisuus, kuolema, filosofia | rajallisuus, herättää, kysymyksen, alkaa, ashraellen, kun, miksi, moni, public, ajatella, ajatus, arcs, ashraellenin, awakens, että, harhakuvitelmista, koko, kysyä |
+| fi/public/thoughts/arcs/0004-mortality-awakens.html | fi | public | Ashraellen — Rajallisuus herättää kysymyksen | Ashraellen, tukiajatus, rajallisuus, kuolema, filosofia | rajallisuus, kysymyksen, alkaa, ashraellen, herättää, kun, miksi, moni, public, vasta, ajatella, ajatus, arcs, ashraellenin, awakens, harhakuvitelmista, koko, kuoleman |
 | fi/public/thoughts/arcs/0005-on-your-own.html | fi | public | Ashraellen — Pelko hallinnan mekanismina | Ashraellen, tukiajatus, pelko, hallinta, itsenäinen ajattelu | hallinnan, pelko, ajatella, alkaa, ashraellen, ihminen, itse, mekanismina, public, ajatus, arcs, ashraellenin, elämistä, enää, ennen, että, heikkenevät, joka |
 | fi/public/thoughts/arcs/0006-insight.html | fi | public | Ashraellen — Syvempi katse kokoaa elämän | Ashraellen, tukiajatus, oivallus, syyt, kokemus | katse, kokoaa, elämän, syvempi, ashraellen, public, alkaa, arcs, ashraellenin, enää, hän, ihminen, insight, ketjuksi, kivun, kohti, kokemuksen, koko |
 | fi/public/thoughts/arcs/0007-empty-chair.html | fi | public | Ashraellen — Tyhjä tuoli | Ashraellen, tukiajatus, muisti, menetys, tyhjä tuoli | tuoli, tyhjä, ashraellen, eivät, ihmiset, jotkut, kokonaan, lähde, public, vain, ajatus, arcs, ashraellenin, chair, empty, että, istumasta, jotta |
@@ -7016,12 +7016,12 @@ Excerpt:
 - H1: Rajallisuus herättää kysymyksen
 - H2: Merkitys | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
 - H3: _missing_
-- suggested keyword seed: rajallisuus, herättää, kysymyksen, alkaa, ashraellen, kun, miksi, moni, public, ajatella, ajatus, arcs, ashraellenin, awakens, että, harhakuvitelmista, koko, kysyä
-- candidates: rajallisuus, kun, alkaa, kysymyksen, ajatella, ajatus, että, miksi, moni, ole, vaan, herättää, hyvin, kuoleman, silloin, tämä, tekee, tukiajatus, tulee, usein, vasta, voi, 0004, abstraktista
+- suggested keyword seed: rajallisuus, kysymyksen, alkaa, ashraellen, herättää, kun, miksi, moni, public, vasta, ajatella, ajatus, arcs, ashraellenin, awakens, harhakuvitelmista, koko, kuoleman
+- candidates: kun, rajallisuus, alkaa, silloin, ajatus, kuoleman, kysymyksen, miksi, moni, vaan, vasta, ajatella, että, filosofia, herättää, kivun, kuin, loppuvat, paljastuu, totuus, tukiajatus, usein, 0004, abstraktista
 
 Excerpt:
 
-> Tukiajatus 0004 Rajallisuus herättää kysymyksen Moni alkaa ajatella ei silloin, kun totuus paljastuu, vaan silloin, kun harhakuvitelmat loppuvat. Merkitys Filosofia syntyy usein rajalla. Kuoleman, kivun ja ajan rajallisuus kokoavat huomion tavalla, johon mukavuus ei aina pysty. Koko teksti Niin kauan kuin elämä tuntuu pohjattomalta varastolta huomisia, ihminen voi hyvin lykätä olennaisen kysymyksen ensi viikolle. Miksi maailma on? Miksi minä olen? Mitä tästä kaikesta oikeastaan jää, jos aikaa ei ole loputtomasti? Rajallisuus tekee näistä kysymyksistä epämukavan konkreettisia. Kuolema ei tässä ole synkkä koriste vaan mitta, joka palauttaa mittasuhteet. Moni ei ala ajatella siksi, että joku selitti totuuden hyvin. Hän alkaa ajatella, kun vanha selitys ei enää kanna häntä sen tosiasian yli, että kaikki tämä päättyy. Siinä kohdassa kysymyksestä tulee vihdoin oma. Miksi tämä valittiin Ajatus 
+> Tukiajatus 0004 Rajallisuus herättää kysymyksen Moni alkaa ajatella ei silloin, kun totuus paljastuu, vaan silloin, kun harhakuvitelmat loppuvat. Merkitys Filosofia syntyy usein rajalla. Kuoleman, kivun ja ajan rajallisuus kokoavat huomion tavalla, johon mukavuus ei aina pysty. Koko teksti Filosofia ei synny kylläisyydestä vaan kuoleman ja kivun kohtaamisesta. Niin kauan kuin ihmisestä tuntuu, että elämä jatkuu loputtomiin, hän tuskin kysyy, miksi maailma on olemassa ja miksi se on juuri sellainen kuin on. Mutta heti kun tietoisuuteen astuu rajallisuus, sen mukana saapuu myös todellinen kysymys. Ja yksinkertaisemmin sanottuna asian ydin on tässä: moni alkaa ajatella vasta silloin, kun hänen harhakuvitelmansa loppuvat — ei silloin, kun totuus paljastuu hänelle... Miksi tämä valittiin Ajatus näyttää, kuinka havainto alkaa usein vasta illuusion kuluttua loppuun. Abstraktista filosofiasta tu
 
 ### fi/public/thoughts/arcs/0005-on-your-own.html
 
