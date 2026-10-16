@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T17:48:31.080Z
+Generated: 2026-10-16T17:49:57.926Z
 Pages: 910
 
 ## Index
@@ -380,7 +380,7 @@ Pages: 910
 | fi/public/thoughts/arcs/0016-one-fact.html | fi | public | Ashraellen — Oli yksi fakta | Ashraellen, tukiajatus, fakta, tulkinta, ahdistus | fakta, yksi, oli, 0016, ajatus, ashraellen, mitä, public, tiedän, varmasti, arcs, fact, itse, joku, kärsimyssarjaksi, koko, kokonaiseksi, kuin |
 | fi/public/thoughts/arcs/0017-witness-does-not-interfere.html | fi | public | Ashraellen — Todistaja ei puutu väliin | Ashraellen, tukiajatus, todistaja, rauhallisuus, läsnäolo | todistaja, aikojaan, ajatus, ashraellen, ennen, ole, public, puutu, vaan, väliin, 0017, arcs, does, estämättä, hän, ihminen, interfere, joka |
 | fi/public/thoughts/arcs/0018-image-cannot-be-happy.html | fi | public | Ashraellen — Kuva ei voi olla onnellinen | Ashraellen, tukiajatus, minäkuva, aitous, itsensä toteuttaminen | voi, kuva, olla, onnellinen, ajatus, ashraellen, elää, ihminen, mutta, public, 0018, arcs, cannot, elävä, hänen, happy, ihmisen, image |
-| fi/public/thoughts/arcs/0019-do-not-bomb.html | fi | public | Ashraellen — Älä pommita | Ashraellen, tukiajatus, aggressio, vastuu, aselepo | älä, pommita, ajatus, alkaa, ashraellen, hän, ihminen, maailmaan, mitä, public, tämä, 0019, arcs, bomb, elää, ensin, että, ilmapiiriä |
+| fi/public/thoughts/arcs/0019-do-not-bomb.html | fi | public | Ashraellen — Älä pommita | Ashraellen, tukiajatus, aggressio, vastuu, aselepo | älä, pommita, ajatus, ashraellen, hän, ihminen, maailmaan, mitä, public, tämä, 0019, aina, alkaa, arcs, bomb, elää, ensin, että |
 | fi/public/thoughts/arcs/0020-people-and-mass.html | fi | public | Ashraellen — Kansa ja massa | Ashraellen, tukiajatus, kansa, massa, sisäinen havainto | kansa, massa, ajatus, alkaa, ashraellen, ihminen, kasvoista, lakkaa, public, 0020, arcs, hänen, kansan, katsomasta, kielestä, koko, kun, mass |
 | fi/public/thoughts/arcs/0021-mating-games.html | fi | public | Ashraellen — Parittelupelit | Ashraellen, tukiajatus, suhteet, roolit, käsikirjoitus | ajatus, alkavat, ashraellen, jonka, koko, parittelupelit, public, 0021, arcs, ennen, games, hän, ihminen, ihmistä, joka, joku, jotkut, käsikirjoituksesta |
 | fi/public/thoughts/arcs/0022-spirituality-is-not-forced.html | fi | public | Ashraellen — Hengellisyyttä ei pakoteta | Ashraellen, tukiajatus, hengellisyys, yhteys, pelko | hengellisyyttä, pakoteta, ajatus, ashraellen, hengellisyys, pelosta, public, todellinen, 0022, arcs, että, forced, halusta, koko, miksi, pakosta, pelko, sielu |
@@ -7271,12 +7271,12 @@ Excerpt:
 - H1: Älä pommita
 - H2: Ajatus | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
 - H3: _missing_
-- suggested keyword seed: älä, pommita, ajatus, alkaa, ashraellen, hän, ihminen, maailmaan, mitä, public, tämä, 0019, arcs, bomb, elää, ensin, että, ilmapiiriä
-- candidates: hän, ihminen, älä, ensin, maailmaan, pommita, sitten, tämä, ajatus, että, mitä, alkaa, hänen, jos, lähettää, niin, pommiteta, sinuakaan, 0019, aggression, aina, elää, hiljaisuuskin, itse
+- suggested keyword seed: älä, pommita, ajatus, ashraellen, hän, ihminen, maailmaan, mitä, public, tämä, 0019, aina, alkaa, arcs, bomb, elää, ensin, että
+- candidates: hän, ihminen, älä, ensin, maailmaan, pommita, sitten, tämä, ajatus, että, mitä, aina, alkaa, hänen, jos, lähettää, niin, pommiteta, sinuakaan, 0019, aggression, elää, hiljaisuuskin, itse
 
 Excerpt:
 
-> Tukiajatus 0019 Älä pommita Älä pommita, niin sinuakaan ei pommiteta. Ajatus Ihminen lähettää helposti oman sotansa maailmaan ja ihmettelee sitten, miksi hiljaisuuskin hänen ympärillään alkaa haista ruudilta. Tämä ajatus palauttaa huomion siihen, mitä lähetämme ulospäin puolustuksen, totuuden ja välttämättömän reaktion nimissä. Koko teksti Älä pommita, niin sinuakaan ei pommiteta. Yksinkertainen käsky. Melkein liian ilmeinen maailmalle, joka mielellään sivuuttaa ilmeiset asiat ensin ja siivoaa seuraukset myöhemmin sankarillisesti. Ihminen on outo olento. Ensin hän heittää kiven maailmaan. Sitten hän loukkaantuu, kun maailma ei lähetä takaisin päivänkakkarakimppua. Ensin hän puhuu töykeästi. Sitten hän suuttuu töykeydestä. Ensin hän rikkoo toisen rajat. Sitten hän valittaa, että joku tuli liian lähelle hänen omiaan. Ensin hän pommittaa. Sitten hän närkästyy siitä, että jotain saapui takai
+> Tukiajatus 0019 Älä pommita Älä pommita, niin sinuakaan ei pommiteta. Ajatus Ihminen lähettää helposti oman sotansa maailmaan ja ihmettelee sitten, miksi hiljaisuuskin hänen ympärillään alkaa haista ruudilta. Tämä ajatus palauttaa huomion siihen, mitä lähetämme ulospäin puolustuksen, totuuden ja välttämättömän reaktion nimissä. Koko teksti Älä pommita, niin sinuakaan ei pommiteta. Yksinkertainen käsky, voisi ajatella. Melkein itsestään selvä. Jopa liian itsestään selvä maailmalle, joka sivuuttaa mielellään ilmeiset asiat ensin ja siivoaa niiden seuraukset myöhemmin sankarillisesti. Ihminen on outo olento. Ensin hän heittää kiven maailmaan. Sitten hän loukkaantuu, kun maailma ei lähetä takaisin päivänkakkarakimppua. Ensin hän puhuu töykeästi. Sitten hän suuttuu töykeydestä. Ensin hän rikkoo toisen rajat. Sitten hän valittaa, että joku tuli liian lähelle hänen omiaan. Ensin hän pommittaa. 
 
 ### fi/public/thoughts/arcs/0020-people-and-mass.html
 
