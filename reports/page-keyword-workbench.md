@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T17:35:38.498Z
+Generated: 2026-10-16T17:37:35.190Z
 Pages: 910
 
 ## Index
@@ -371,7 +371,7 @@ Pages: 910
 | fi/public/thoughts/arcs/0007-empty-chair.html | fi | public | Ashraellen — Tyhjä tuoli | Ashraellen, tukiajatus, muisti, menetys, tyhjä tuoli | tuoli, tyhjä, ashraellen, eivät, ihmiset, istumasta, jotkut, kokonaan, public, vain, ajatus, arcs, ashraellenin, chair, empty, että, kerran, koko |
 | fi/public/thoughts/arcs/0008-generalization.html | fi | public | Ashraellen — Yleistys havainnon sijasta | Ashraellen, tukiajatus, yleistys, havainto, ajattelu | havainnon, yleistys, ashraellen, korvaa, muuttuu, public, sijasta, tämä, vaaralliseksi, ajatus, arcs, ashraellenin, asia, että, generalization, ihminen, jossa, kohdassa |
 | fi/public/thoughts/arcs/0009-where-life-stopped.html | fi | public | Ashraellen — Missä lakkasit olemasta elossa | Ashraellen, tukiajatus, herääminen, elämänvoima, selviytyminen | missä, elossa, lakkasit, olemasta, ashraellen, herääminen, joskus, public, ajatus, arcs, ashraellenin, elämä, että, ihminen, kohdassa, koko, life, merkitys |
-| fi/public/thoughts/arcs/0010-dirty-cup.html | fi | public | Ashraellen — Likainen kuppi | Ashraellen, tukiajatus, likainen kuppi, välttely, absurdismi | kuppi, likainen, ashraellen, kuppia, public, vaihtaa, vain, ympyrää, ajatus, alice, arcs, ashraellenin, cup, dirty, hatuntekijä, juokseminen, juoksijan, koko |
+| fi/public/thoughts/arcs/0010-dirty-cup.html | fi | public | Ashraellen — Likainen kuppi | Ashraellen, tukiajatus, likainen kuppi, välttely, absurdismi | kuppi, likainen, ashraellen, kuppia, public, vaihtaa, vain, arcs, ashraellenin, cup, dirty, hän, hatuntekijä, juokseminen, juoksijan, juuri, koko, kuppiaan |
 | fi/public/thoughts/arcs/0011-do-not-regret.html | fi | public | Ashraellen — Älä kadu | Ashraellen, tukiajatus, katumus, armo, menetys | älä, kadu, armo, ashraellen, joskus, public, ajatus, arcs, ashraellenin, elämä, ihminen, jota, koko, kun, menetykseltä, merkitys, mikä, miksi |
 | fi/public/thoughts/arcs/0012-close-the-book.html | fi | public | Ashraellen — Milloin kirja on aika sulkea | Ashraellen, tukiajatus, henkinen kirjallisuus, hiljaisuus, hyväksyminen | kirja, aika, ajatus, ashraellen, enää, henkinen, hiljaisuudessa, kirjallisuus, milloin, mutta, public, sulkea, voi, 0012, arcs, book, close, että |
 | fi/public/thoughts/arcs/0013-problem-loses-crown.html | fi | public | Ashraellen — Ongelma menettää kruununsa | Ashraellen, tukiajatus, hyväksyminen, draama, ongelma | ongelma, ajatus, aseman, ashraellen, kruununsa, menettää, mutta, public, voi, 0013, arcs, crown, draaman, ehkä, eikä, että, hyväksyminen, katoa |
@@ -7118,12 +7118,12 @@ Excerpt:
 - H1: Likainen kuppi
 - H2: Merkitys | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
 - H3: _missing_
-- suggested keyword seed: kuppi, likainen, ashraellen, kuppia, public, vaihtaa, vain, ympyrää, ajatus, alice, arcs, ashraellenin, cup, dirty, hatuntekijä, juokseminen, juoksijan, koko
-- candidates: alice, hatuntekijä, mutta, likainen, vain, kuppi, kuppia, paikkaa, sitä, vaihtaa, ympyrää, ajatus, avasi, elämäksi, jos, juokseminen, juoksijan, katsoi, kupin, kysyi, miksi, niin, oli, omaa
+- suggested keyword seed: kuppi, likainen, ashraellen, kuppia, public, vaihtaa, vain, arcs, ashraellenin, cup, dirty, hän, hatuntekijä, juokseminen, juoksijan, juuri, koko, kuppiaan
+- candidates: liisa, hatuntekijä, mutta, omaa, hän, likainen, vaihtaa, vain, juuri, kuppi, kuppia, kuppiaan, maaliskuunjänis, oli, sanoi, sitä, absurdius, aivan, ajatus, avasi, elämäksi, että, ihminen, inhimillisen
 
 Excerpt:
 
-> Tukiajatus 0010 Likainen kuppi Ympyrää juokseminen ei pese kuppia. Se vaihtaa vain juoksijan. Merkitys Satuasetelma näyttää tavallisen inhimillisen tempun: liike sekoitetaan ratkaisuun. Paikka, rooli ja selitys vaihtuvat, mutta omaa kuppia ei vieläkään pestä. Koko teksti Alice istui pöydän reunalla ja katsoi, kuinka Hullu Hatuntekijä täytti jälleen kupin, vaikka kukaan ei ollut juonut edellistäkään loppuun. “Miksi te vaihdatte jatkuvasti paikkaa?” Alice kysyi. “Teehän on samaa.” “Likainen kuppi”, Hatuntekijä selitti arvokkaasti. “Mutta te vain juoksette omaa kuppianne karkuun ympyrää.” “Juuri niin”, Hatuntekijä sanoi. “Sitä kutsutaan elämäksi.” Maaliskuun jänis nauroi niin että kaatoi maitokannun. Hiiri ei herännyt. Alice mietti. “Jos vaihdatte paikkaa tarpeeksi kauan, palaatte lopulta omaan kuppiinne. Ja se on yhä likainen.” “Tietenkin”, Hatuntekijä sanoi. “Mutta siihen mennessä me olem
+> Tukiajatus 0010 Likainen kuppi Ympyrää juokseminen ei pese kuppia. Se vaihtaa vain juoksijan. Merkitys Satuasetelma näyttää tavallisen inhimillisen tempun: liike sekoitetaan ratkaisuun. Paikka, rooli ja selitys vaihtuvat, mutta omaa kuppia ei vieläkään pestä. Koko teksti Liisa istui pöydän reunalla ja katseli, kuinka Hullu Hatuntekijä täytti jälleen teekupin — vaikka kukaan ei ollut vielä juonut edellistä loppuun. — Miksi te siirrytte joka kerta toiselle paikalle? — hän kysyi. — Teehän on kuitenkin samaa. — Likainen kuppi, — Hatuntekijä selitti arvokkaasti. — Mutta tehän vain pakenette omaa kuppianne ympäri pöytää. — Aivan, — sanoi Hatuntekijä. — Sitä juuri kutsutaan elämäksi. Maaliskuunjänis nauroi niin kovasti, että kaatoi maitokannun. Unikeko ei herännyt. Liisa mietti hetken. — Mutta jos siirrytte tarpeeksi kauan, palaatte lopulta oman kuppinne ääreen. Ja se on edelleen likainen. — Ti
 
 ### fi/public/thoughts/arcs/0011-do-not-regret.html
 
