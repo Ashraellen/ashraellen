@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16T17:46:08.208Z",
+  "generated": "2026-10-16T17:47:39.303Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -27890,32 +27890,32 @@
         "not",
         "interfere"
       ],
-      "excerpt": "Tukiajatus 0017 Todistaja ei puutu väliin Todistaja ei ole se, joka ei tee mitään. Todistaja ei estä totuutta tulemasta näkyväksi ennen aikojaan. Ajatus Rauhallisuus ei ole passiivisuutta tai välinpitämättömyyttä. Se on kykyä olla tönimättä todellisuutta olkapäällä ennen kuin aika on kypsä. Todistaja osaa odottaa, kunnes tapahtuman merkitys näyttää itse kasvonsa. Koko teksti Rauhallisuus on hämmästyttävä mystinen tila. Siinä ihminen kykenee täysin käsittämättömiin tekoihin. Esimerkiksi olemaan hötkyilemättä. Olemaan pelastamatta sitä, mikä ei vielä huku. Selittämättä sitä, mistä kukaan ei kysynyt. Todistamatta oikeassaoloaan ihmiselle, joka ei tullut kuuntelemaan vaan voittamaan. Olemaan tarttumatta todellisuutta kauluksesta ja huutamatta: “Selitä nyt heti mitä täällä tapahtuu!” Rauhallinen ihminen osaa odottaa. Ei heikkoudesta. Ei välinpitämättömyydestä. Ei siksi, ettei häntä kiinnostai",
+      "excerpt": "Tukiajatus 0017 Todistaja ei puutu väliin Todistaja ei ole se, joka ei tee mitään. Hän ei yritä pakottaa totuutta näkyviin ennen aikojaan. Ajatus Rauhallisuus ei ole passiivisuutta tai välinpitämättömyyttä. Se on kykyä olla tönimättä todellisuutta olkapäällä ennen kuin aika on kypsä. Todistaja osaa odottaa, kunnes tapahtuman merkitys näyttää itse kasvonsa. Koko teksti Rauhallisuus on hämmästyttävä mystinen tila. Siinä ollessaan ihminen kykenee aivan käsittämättömiin tekoihin. Esimerkiksi olemaan hötkyilemättä. Olemaan ryntäämättä pelastamaan sitä, mikä ei vielä huku. Olemaan selittämättä sitä, mistä kukaan ei kysynyt. Olemaan todistamatta omaa oikeassaoloaan ihmiselle, joka ei tullut kuuntelemaan vaan voittamaan. Olemaan tarttumatta todellisuutta kauluksesta ja huutamatta: ”Selitä heti, mitä tapahtuu!” Rauhallinen ihminen osaa odottaa. Ei heikkouttaan. Ei välinpitämättömyyttään. Eikä sik",
       "candidates": [
-        "todistaja",
         "ole",
+        "ihminen",
+        "olemaan",
+        "todistaja",
         "ajatus",
         "ennen",
+        "hän",
+        "joka",
         "vaan",
         "aikojaan",
-        "ihminen",
-        "joka",
         "joskus",
-        "näkyväksi",
+        "näkyviin",
         "odottaa",
-        "olemaan",
         "olla",
         "rauhallisuus",
-        "totuutta",
-        "tulemasta",
+        "sitä",
         "0017",
-        "estä",
-        "ettei",
         "heti",
         "kykyä",
         "merkitys",
         "mitään",
-        "näyttää"
+        "näyttää",
+        "osaa",
+        "pakottaa"
       ],
       "suggestedKeywordSeed": [
         "todistaja",
@@ -27923,7 +27923,6 @@
         "ajatus",
         "ashraellen",
         "ennen",
-        "näkyväksi",
         "ole",
         "public",
         "puutu",
@@ -27933,6 +27932,7 @@
         "arcs",
         "does",
         "estämättä",
+        "hän",
         "ihminen",
         "interfere",
         "joka"

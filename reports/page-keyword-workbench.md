@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T17:46:08.222Z
+Generated: 2026-10-16T17:47:39.318Z
 Pages: 910
 
 ## Index
@@ -378,7 +378,7 @@ Pages: 910
 | fi/public/thoughts/arcs/0014-end-of-extra-war.html | fi | public | Ashraellen — Ylimääräisen sodan loppu | Ashraellen, tukiajatus, hyväksyminen, sisäinen sota, todellisuus | loppu, sodan, ajatus, ashraellen, ole, public, ylimääräisen, 0014, arcs, end, että, extra, hyväksyminen, joka, juuri, kaikki, koko, kyllä |
 | fi/public/thoughts/arcs/0015-subtle-thought-needs-silence.html | fi | public | Ashraellen — Hieno ajatus tarvitsee hiljaisuutta | Ashraellen, tukiajatus, hiljaisuus, ymmärtäminen, hienovaraisuus | ajatus, hiljaisuutta, hieno, tarvitsee, 0015, ashraellen, public, tarvitse, tullakseen, vaan, aikaa, aina, arcs, herkkyyttä, hienovarainen, joskus, karkeaksi, karkeutta |
 | fi/public/thoughts/arcs/0016-one-fact.html | fi | public | Ashraellen — Oli yksi fakta | Ashraellen, tukiajatus, fakta, tulkinta, ahdistus | fakta, yksi, oli, 0016, ajatus, ashraellen, mitä, public, tiedän, varmasti, arcs, fact, itse, joku, kärsimyssarjaksi, koko, kokonaiseksi, kuin |
-| fi/public/thoughts/arcs/0017-witness-does-not-interfere.html | fi | public | Ashraellen — Todistaja ei puutu väliin | Ashraellen, tukiajatus, todistaja, rauhallisuus, läsnäolo | todistaja, aikojaan, ajatus, ashraellen, ennen, näkyväksi, ole, public, puutu, vaan, väliin, 0017, arcs, does, estämättä, ihminen, interfere, joka |
+| fi/public/thoughts/arcs/0017-witness-does-not-interfere.html | fi | public | Ashraellen — Todistaja ei puutu väliin | Ashraellen, tukiajatus, todistaja, rauhallisuus, läsnäolo | todistaja, aikojaan, ajatus, ashraellen, ennen, ole, public, puutu, vaan, väliin, 0017, arcs, does, estämättä, hän, ihminen, interfere, joka |
 | fi/public/thoughts/arcs/0018-image-cannot-be-happy.html | fi | public | Ashraellen — Kuva ei voi olla onnellinen | Ashraellen, tukiajatus, minäkuva, aitous, itsensä toteuttaminen | voi, kuva, olla, onnellinen, ajatus, ashraellen, elää, ihminen, mutta, public, 0018, arcs, cannot, elävä, hänen, happy, ihmisen, image |
 | fi/public/thoughts/arcs/0019-do-not-bomb.html | fi | public | Ashraellen — Älä pommita | Ashraellen, tukiajatus, aggressio, vastuu, aselepo | älä, pommita, ajatus, alkaa, ashraellen, hän, ihminen, maailmaan, mitä, public, tämä, 0019, arcs, bomb, elää, ensin, että, ilmapiiriä |
 | fi/public/thoughts/arcs/0020-people-and-mass.html | fi | public | Ashraellen — Kansa ja massa | Ashraellen, tukiajatus, kansa, massa, sisäinen havainto | kansa, massa, ajatus, alkaa, ashraellen, ihminen, kasvoista, lakkaa, public, 0020, arcs, hänen, kansan, katsomasta, kielestä, koko, kun, mass |
@@ -7237,12 +7237,12 @@ Excerpt:
 - H1: Todistaja ei puutu väliin
 - H2: Ajatus | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
 - H3: _missing_
-- suggested keyword seed: todistaja, aikojaan, ajatus, ashraellen, ennen, näkyväksi, ole, public, puutu, vaan, väliin, 0017, arcs, does, estämättä, ihminen, interfere, joka
-- candidates: todistaja, ole, ajatus, ennen, vaan, aikojaan, ihminen, joka, joskus, näkyväksi, odottaa, olemaan, olla, rauhallisuus, totuutta, tulemasta, 0017, estä, ettei, heti, kykyä, merkitys, mitään, näyttää
+- suggested keyword seed: todistaja, aikojaan, ajatus, ashraellen, ennen, ole, public, puutu, vaan, väliin, 0017, arcs, does, estämättä, hän, ihminen, interfere, joka
+- candidates: ole, ihminen, olemaan, todistaja, ajatus, ennen, hän, joka, vaan, aikojaan, joskus, näkyviin, odottaa, olla, rauhallisuus, sitä, 0017, heti, kykyä, merkitys, mitään, näyttää, osaa, pakottaa
 
 Excerpt:
 
-> Tukiajatus 0017 Todistaja ei puutu väliin Todistaja ei ole se, joka ei tee mitään. Todistaja ei estä totuutta tulemasta näkyväksi ennen aikojaan. Ajatus Rauhallisuus ei ole passiivisuutta tai välinpitämättömyyttä. Se on kykyä olla tönimättä todellisuutta olkapäällä ennen kuin aika on kypsä. Todistaja osaa odottaa, kunnes tapahtuman merkitys näyttää itse kasvonsa. Koko teksti Rauhallisuus on hämmästyttävä mystinen tila. Siinä ihminen kykenee täysin käsittämättömiin tekoihin. Esimerkiksi olemaan hötkyilemättä. Olemaan pelastamatta sitä, mikä ei vielä huku. Selittämättä sitä, mistä kukaan ei kysynyt. Todistamatta oikeassaoloaan ihmiselle, joka ei tullut kuuntelemaan vaan voittamaan. Olemaan tarttumatta todellisuutta kauluksesta ja huutamatta: “Selitä nyt heti mitä täällä tapahtuu!” Rauhallinen ihminen osaa odottaa. Ei heikkoudesta. Ei välinpitämättömyydestä. Ei siksi, ettei häntä kiinnostai
+> Tukiajatus 0017 Todistaja ei puutu väliin Todistaja ei ole se, joka ei tee mitään. Hän ei yritä pakottaa totuutta näkyviin ennen aikojaan. Ajatus Rauhallisuus ei ole passiivisuutta tai välinpitämättömyyttä. Se on kykyä olla tönimättä todellisuutta olkapäällä ennen kuin aika on kypsä. Todistaja osaa odottaa, kunnes tapahtuman merkitys näyttää itse kasvonsa. Koko teksti Rauhallisuus on hämmästyttävä mystinen tila. Siinä ollessaan ihminen kykenee aivan käsittämättömiin tekoihin. Esimerkiksi olemaan hötkyilemättä. Olemaan ryntäämättä pelastamaan sitä, mikä ei vielä huku. Olemaan selittämättä sitä, mistä kukaan ei kysynyt. Olemaan todistamatta omaa oikeassaoloaan ihmiselle, joka ei tullut kuuntelemaan vaan voittamaan. Olemaan tarttumatta todellisuutta kauluksesta ja huutamatta: ”Selitä heti, mitä tapahtuu!” Rauhallinen ihminen osaa odottaa. Ei heikkouttaan. Ei välinpitämättömyyttään. Eikä sik
 
 ### fi/public/thoughts/arcs/0018-image-cannot-be-happy.html
 
