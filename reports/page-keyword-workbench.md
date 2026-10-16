@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T17:31:55.429Z
+Generated: 2026-10-16T17:33:28.333Z
 Pages: 910
 
 ## Index
@@ -368,7 +368,7 @@ Pages: 910
 | fi/public/thoughts/arcs/0004-mortality-awakens.html | fi | public | Ashraellen — Rajallisuus herättää kysymyksen | Ashraellen, tukiajatus, rajallisuus, kuolema, filosofia | rajallisuus, kysymyksen, alkaa, ashraellen, herättää, kun, miksi, moni, public, vasta, ajatella, ajatus, arcs, ashraellenin, awakens, harhakuvitelmista, koko, kuoleman |
 | fi/public/thoughts/arcs/0005-on-your-own.html | fi | public | Ashraellen — Pelko hallinnan mekanismina | Ashraellen, tukiajatus, pelko, hallinta, itsenäinen ajattelu | hallinnan, ajatella, alkaa, ashraellen, ihminen, itse, lakkaa, mekanismina, pelko, public, aina, ajatus, arcs, ashraellenin, elämistä, että, heikkenee, heikkenevät |
 | fi/public/thoughts/arcs/0006-insight.html | fi | public | Ashraellen — Syvempi katse kokoaa elämän | Ashraellen, tukiajatus, oivallus, syyt, kokemus | katse, kokoaa, syvempi, elämän, ashraellen, public, alkaa, arcs, ashraellenin, enää, hän, ihminen, ihmisen, ilman, insight, ketjuksi, kivun, kokemuksen |
-| fi/public/thoughts/arcs/0007-empty-chair.html | fi | public | Ashraellen — Tyhjä tuoli | Ashraellen, tukiajatus, muisti, menetys, tyhjä tuoli | tuoli, tyhjä, ashraellen, eivät, ihmiset, jotkut, kokonaan, lähde, public, vain, ajatus, arcs, ashraellenin, chair, empty, että, istumasta, jotta |
+| fi/public/thoughts/arcs/0007-empty-chair.html | fi | public | Ashraellen — Tyhjä tuoli | Ashraellen, tukiajatus, muisti, menetys, tyhjä tuoli | tuoli, tyhjä, ashraellen, eivät, ihmiset, istumasta, jotkut, kokonaan, public, vain, ajatus, arcs, ashraellenin, chair, empty, että, kerran, koko |
 | fi/public/thoughts/arcs/0008-generalization.html | fi | public | Ashraellen — Yleistys havainnon sijasta | Ashraellen, tukiajatus, yleistys, havainto, ajattelu | havainnon, yleistys, ashraellen, jossa, kohdassa, korvaa, muuttuu, public, sijasta, tämä, ajatus, alkaa, arcs, ashraellenin, että, generalization, juuri, koko |
 | fi/public/thoughts/arcs/0009-where-life-stopped.html | fi | public | Ashraellen — Missä lakkasit olemasta elossa | Ashraellen, tukiajatus, herääminen, elämänvoima, selviytyminen | missä, elossa, lakkasit, ashraellen, elämä, herääminen, joskus, olemasta, public, ajatus, arcs, ashraellenin, että, herätä, juuri, kohdassa, koko, life |
 | fi/public/thoughts/arcs/0010-dirty-cup.html | fi | public | Ashraellen — Likainen kuppi | Ashraellen, tukiajatus, likainen kuppi, välttely, absurdismi | kuppi, likainen, ashraellen, kuppia, public, vaihtaa, vain, ympyrää, ajatus, alice, arcs, ashraellenin, cup, dirty, hatuntekijä, juokseminen, juoksijan, koko |
@@ -7067,12 +7067,12 @@ Excerpt:
 - H1: Tyhjä tuoli
 - H2: Merkitys | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
 - H3: _missing_
-- suggested keyword seed: tuoli, tyhjä, ashraellen, eivät, ihmiset, jotkut, kokonaan, lähde, public, vain, ajatus, arcs, ashraellenin, chair, empty, että, istumasta, jotta
-- candidates: tuoli, tyhjä, eivät, vain, voit, ajatus, että, ihmiset, jotkut, jotta, kokonaan, lähde, vaikka, antaa, anteeksi, enää, hänen, irti, istumasta, joskus, kerran, lakkaavat, muistista, ole
+- suggested keyword seed: tuoli, tyhjä, ashraellen, eivät, ihmiset, istumasta, jotkut, kokonaan, public, vain, ajatus, arcs, ashraellenin, chair, empty, että, kerran, koko
+- candidates: tuoli, tyhjä, vain, kokonaan, voit, ajatus, eivät, että, ihmiset, istumasta, jotkut, kerran, lähde, lakkaavat, mutta, vaikka, antaa, anteeksi, hän, hänen, irti, jää, joskus, jotta
 
 Excerpt:
 
-> Tukiajatus 0007 Tyhjä tuoli Jotkut ihmiset eivät lähde kokonaan. He vain lakkaavat istumasta vieressämme. Merkitys Tämä ei ole kehotus takertua menneeseen. Se on havainto muistista: ihmisen voi päästää irti, antaa anteeksi ja lakata odottamasta, mutta hänen kerran täyttämänsä paikka ei katoa käskystä. Koko teksti Kun olet kerran päästänyt jonkun todella lähelle, häntä ei voi vain häätää sielusta kuin vuokralaista, jonka sopimus päättyi. Vaikka kaikki olisi ohi. Vaikka keskustelut olisivat hiljenneet. Vaikka toinen olisi jo kauan kulkenut omaa tietään. Sisälle jää paikka, jossa hän joskus istui. Tyhjä tuoli. Kukaan ei enää täytä sitä samalla tavalla. Voit jatkaa elämää. Nauraa. Tehdä työtä. Rakentaa uusia suunnitelmia. Kohdata uusia ihmisiä. Ja silti joskus katse osuu sisäänpäin — ja näet tuolin. Ei välttämättä kipuna. Ei edes ikävänä. Enemmänkin hiljaisena todisteena siitä, että joku tod
+> Tukiajatus 0007 Tyhjä tuoli Jotkut ihmiset eivät lähde kokonaan. He vain lakkaavat istumasta vieressämme. Merkitys Tämä ei ole kehotus takertua menneeseen. Se on havainto muistista: ihmisen voi päästää irti, antaa anteeksi ja lakata odottamasta, mutta hänen kerran täyttämänsä paikka ei katoa käskystä. Koko teksti Sitä, jonka kerran päästit sieluusi, et noin vain aja pois. Vaikka kaikki olisi päättynyt. Vaikka keskustelut olisivat vaienneet. Vaikka hän olisi jo kauan sitten lähtenyt omalle tielleen. Sisällesi jää silti paikka, jossa hän joskus istui. Tyhjä tuoli. Kukaan ei enää istu siinä kokonaan. Voit jatkaa elämääsi. Nauraa. Tehdä työtä. Rakentaa uusia suunnitelmia. Kohdata muita ihmisiä. Mutta joskus katseesi osuu sattumalta sisimpääsi — ja näet tuon tuolin. Ei kipuna. Ei aina edes kaipauksena. Pikemminkin hiljaisena todistuksena siitä, että joku oli todella tärkeä. Sielu ei ole hotel
 
 ### fi/public/thoughts/arcs/0008-generalization.html
 
