@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T17:29:19.523Z
+Generated: 2026-10-16T17:30:51.485Z
 Pages: 910
 
 ## Index
@@ -366,7 +366,7 @@ Pages: 910
 | fi/public/thoughts/arcs/0002-still-the-same.html | fi | public | Ashraellen — Samat voimat, uudet nimet | Ashraellen, tukiajatus, riippuvuus, rationalismi, sisäiset voimat | nimet, voimat, uudet, aina, ashraellen, eivät, public, samat, ajatus, arcs, ashraellenin, hän, ihminen, ilman, itseään, joita, katoa, koko |
 | fi/public/thoughts/arcs/0003-let-go.html | fi | public | Ashraellen — Herääminen alkaa, kun jatkaminen ei enää onnistu | Ashraellen, tukiajatus, herääminen, rehellisyys, irtipäästäminen | alkaa, enää, herääminen, kun, ashraellen, jatkaminen, onnistu, public, ajatus, arcs, ashraellenin, elää, että, jatkamaan, jonakin, kaikista, koko, let |
 | fi/public/thoughts/arcs/0004-mortality-awakens.html | fi | public | Ashraellen — Rajallisuus herättää kysymyksen | Ashraellen, tukiajatus, rajallisuus, kuolema, filosofia | rajallisuus, kysymyksen, alkaa, ashraellen, herättää, kun, miksi, moni, public, vasta, ajatella, ajatus, arcs, ashraellenin, awakens, harhakuvitelmista, koko, kuoleman |
-| fi/public/thoughts/arcs/0005-on-your-own.html | fi | public | Ashraellen — Pelko hallinnan mekanismina | Ashraellen, tukiajatus, pelko, hallinta, itsenäinen ajattelu | hallinnan, pelko, ajatella, alkaa, ashraellen, ihminen, itse, mekanismina, public, ajatus, arcs, ashraellenin, elämistä, enää, ennen, että, heikkenevät, joka |
+| fi/public/thoughts/arcs/0005-on-your-own.html | fi | public | Ashraellen — Pelko hallinnan mekanismina | Ashraellen, tukiajatus, pelko, hallinta, itsenäinen ajattelu | hallinnan, ajatella, alkaa, ashraellen, ihminen, itse, lakkaa, mekanismina, pelko, public, aina, ajatus, arcs, ashraellenin, elämistä, että, heikkenee, heikkenevät |
 | fi/public/thoughts/arcs/0006-insight.html | fi | public | Ashraellen — Syvempi katse kokoaa elämän | Ashraellen, tukiajatus, oivallus, syyt, kokemus | katse, kokoaa, elämän, syvempi, ashraellen, public, alkaa, arcs, ashraellenin, enää, hän, ihminen, insight, ketjuksi, kivun, kohti, kokemuksen, koko |
 | fi/public/thoughts/arcs/0007-empty-chair.html | fi | public | Ashraellen — Tyhjä tuoli | Ashraellen, tukiajatus, muisti, menetys, tyhjä tuoli | tuoli, tyhjä, ashraellen, eivät, ihmiset, jotkut, kokonaan, lähde, public, vain, ajatus, arcs, ashraellenin, chair, empty, että, istumasta, jotta |
 | fi/public/thoughts/arcs/0008-generalization.html | fi | public | Ashraellen — Yleistys havainnon sijasta | Ashraellen, tukiajatus, yleistys, havainto, ajattelu | havainnon, yleistys, ashraellen, jossa, kohdassa, korvaa, muuttuu, public, sijasta, tämä, ajatus, alkaa, arcs, ashraellenin, että, generalization, juuri, koko |
@@ -7033,12 +7033,12 @@ Excerpt:
 - H1: Pelko hallinnan mekanismina
 - H2: Merkitys | Koko teksti | Miksi tämä valittiin | Tutkimushuomio
 - H3: _missing_
-- suggested keyword seed: hallinnan, pelko, ajatella, alkaa, ashraellen, ihminen, itse, mekanismina, public, ajatus, arcs, ashraellenin, elämistä, enää, ennen, että, heikkenevät, joka
-- candidates: ihminen, ajatella, alkaa, itse, ajatus, hallinnan, joka, ole, pelko, enää, ennen, että, hän, ihmisen, ihmistä, jos, jossa, kehosta, kun, kuoleman, kuolemasta, kyse, lakkaa, mekanismina
+- suggested keyword seed: hallinnan, ajatella, alkaa, ashraellen, ihminen, itse, lakkaa, mekanismina, pelko, public, aina, ajatus, arcs, ashraellenin, elämistä, että, heikkenee, heikkenevät
+- candidates: ihminen, itse, ajatella, ajatus, alkaa, hallinnan, heikkenee, lakkaa, aina, että, jos, kaikki, kun, mekanismina, mekanismit, mikä, miksi, missä, myös, ole, pelkäämästä, pelko, pelolla, siellä
 
 Excerpt:
 
-> Tukiajatus 0005 Pelko hallinnan mekanismina Kun ihminen lakkaa pelkäämästä ja alkaa ajatella itse, pelolla, kiellolla ja riippuvuudella hallinneiden valta heikkenee. Merkitys Dogmi ei ole tässä vain joukko uskomuksia. Se on myös tapa pitää ihminen ennalta määrätyssä reitissä. Kaikki mikä palauttaa oikeuden ajatella itse kehosta, kuolemasta, tietoisuudesta ja tulevaisuudesta uhkaa pelkoon perustuvaa järjestystä. Koko teksti Järjestelmälle, joka tarvitsee ihmisen pelkäävän, itsenäinen valinta on aina hieman epäilyttävä. Kun ihminen alkaa itse kysyä syntymästä, kehosta, kuolemasta, tietoisuudesta tai oman olemassaolonsa rajoista, hän astuu alueelle, jossa valmis käsikirjoitus ei enää riitä. Siksi niin moni uusi mahdollisuus kohtaa ensimmäisenä moraalisen paniikin: lisääntymisteknologia, kuoleman rajojen tutkiminen, tekoäly, tietoisuuden kokeet, erilaiset tavat ajatella ihmisen tulevaisuutta
+> Tukiajatus 0005 Pelko hallinnan mekanismina Kun ihminen lakkaa pelkäämästä ja alkaa ajatella itse, pelolla, kiellolla ja riippuvuudella hallinneiden valta heikkenee. Merkitys Dogmi ei ole tässä vain joukko uskomuksia. Se on myös tapa pitää ihminen ennalta määrätyssä reitissä. Kaikki mikä palauttaa oikeuden ajatella itse kehosta, kuolemasta, tietoisuudesta ja tulevaisuudesta uhkaa pelkoon perustuvaa järjestystä. Koko teksti Dogmin vartijoille jo pelkkä ajatus siitä, että ihminen voisi itse tehdä valintansa syntymään, kehoon, kuolemaan ja oman olemassaolonsa rajoihin liittyvissä kysymyksissä, on sietämätön. Kaikki, mikä antaa ihmiselle edes aavistuksen mahdollisuudesta astua määrätyn käsikirjoituksen ulkopuolelle, kohtaa yleensä ankaraa vastustusta: vapaasta suhtautumisesta hedelmöitykseen ja raskauteen aina tietoisuuteen, kuolemattomuuteen ja tekoälyyn liittyviin kokeiluihin sekä yrityksi
 
 ### fi/public/thoughts/arcs/0006-insight.html
 
