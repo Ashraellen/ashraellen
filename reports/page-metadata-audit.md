@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-10-16T18:48:27.105Z
+Generated: 2026-10-16T18:49:49.586Z
 
-Pages checked: 912
-Pages with issues: 431
-Total issues: 1869
+Pages checked: 913
+Pages with issues: 432
+Total issues: 1876
 Pages with review notes: 709
 Total review notes: 2478
 
@@ -12,13 +12,13 @@ Total review notes: 2478
 
 | Item | Count |
 |---|---:|
-| MISSING_KEYWORDS | 310 |
-| MISSING_TWITTER_IMAGE | 195 |
-| MISSING_TWITTER_CARD | 181 |
-| MISSING_JSON_LD | 176 |
-| MISSING_OG_DESCRIPTION | 176 |
-| MISSING_OG_IMAGE | 175 |
-| MISSING_OG_TITLE | 174 |
+| MISSING_KEYWORDS | 311 |
+| MISSING_TWITTER_IMAGE | 196 |
+| MISSING_TWITTER_CARD | 182 |
+| MISSING_JSON_LD | 177 |
+| MISSING_OG_DESCRIPTION | 177 |
+| MISSING_OG_IMAGE | 176 |
+| MISSING_OG_TITLE | 175 |
 | MISSING_DESCRIPTION | 123 |
 | DUPLICATE_CANONICAL | 68 |
 | DUPLICATE_TITLE | 63 |
@@ -1476,6 +1476,22 @@ Total review notes: 2478
 - title: BETON — kirjapassi — samizdat 2.0
 - description length: 106
 - canonical: https://www.ashraellen.com/fi/books/samizdat/monolith/beton/
+- og:image: _missing_
+- twitter:image: _missing_
+
+- MISSING_KEYWORDS
+- MISSING_JSON_LD
+- MISSING_OG_TITLE
+- MISSING_OG_DESCRIPTION
+- MISSING_OG_IMAGE
+- MISSING_TWITTER_CARD
+- MISSING_TWITTER_IMAGE
+
+### fi/books/samizdat/monolith/gas/index.html
+
+- title: GAS / KAASU — kirjapassi — samizdat 2.0
+- description length: 99
+- canonical: https://www.ashraellen.com/fi/books/samizdat/monolith/gas/
 - og:image: _missing_
 - twitter:image: _missing_
 

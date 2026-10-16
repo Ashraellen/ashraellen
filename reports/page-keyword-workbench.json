@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16T18:48:27.627Z",
+  "generated": "2026-10-16T18:49:50.405Z",
   "pages": [
     {
       "page": "be/books/demotopia/index.html",
@@ -24590,6 +24590,77 @@
       ]
     },
     {
+      "page": "fi/books/samizdat/monolith/gas/index.html",
+      "lang": "fi",
+      "section": "books",
+      "title": "GAS / KAASU — kirjapassi — samizdat 2.0",
+      "description": "GAS / KAASU — MONOLITH-trilogian kolmannen osan kirjapassi Ashraellen Samizdat 2.0 -järjestelmässä.",
+      "existingKeywords": "",
+      "canonical": "https://www.ashraellen.com/fi/books/samizdat/monolith/gas/",
+      "h1": [
+        "GAS"
+      ],
+      "h2": [
+        "Teoksen tiedot",
+        "Fyysiset kappaleet"
+      ],
+      "h3": [],
+      "slugTerms": [
+        "fi",
+        "books",
+        "samizdat",
+        "monolith",
+        "gas"
+      ],
+      "excerpt": "Kirjapassi / samizdat 2.0 MONOLITH Osa III GAS KAASU ASHRAELLEN MONOLITH-trilogian kolmas ja viimeinen itsenäinen kirja. Passi vahvistaa teoksen identiteetin. Eri laitosten fyysiset ominaisuudet lisätään vasta niiden tarkistamisen jälkeen. Teoksen tiedot Sarja MONOLITH / MONOLITH Osa sarjassa Osa III Alkuperäinen nimi GAS Venäjänkielinen nimi ГАЗ Tekijä ASHRAELLEN Järjestys BETON → GAS → GAS Fyysiset kappaleet Numeroiduille kappaleille voidaan laatia omat pysyvät passinsa. Tarkistamattomia tietoja formaatista, sivumäärästä, paperista, sidonnasta tai painomenetelmästä ei julkaista täällä.",
+      "candidates": [
+        "gas",
+        "2.0",
+        "ashraellen",
+        "kaasu",
+        "kirjapassi",
+        "monolith",
+        "osa",
+        "samizdat",
+        "fyysiset",
+        "iii",
+        "monolith-trilogian",
+        "nimi",
+        "teoksen",
+        "alkuperäinen",
+        "beton",
+        "eri",
+        "formaatista",
+        "identiteetin",
+        "itsenäinen",
+        "jälkeen",
+        "järjestelmässä",
+        "järjestys",
+        "julkaista",
+        "kappaleet"
+      ],
+      "suggestedKeywordSeed": [
+        "gas",
+        "samizdat",
+        "2.0",
+        "ashraellen",
+        "kaasu",
+        "kirjapassi",
+        "books",
+        "fyysiset",
+        "monolith",
+        "monolith-trilogian",
+        "iii",
+        "järjestelmässä",
+        "kappaleet",
+        "kolmannen",
+        "nimi",
+        "osa",
+        "osan",
+        "teoksen"
+      ]
+    },
+    {
       "page": "fi/books/samizdat/monolith/index.html",
       "lang": "fi",
       "section": "books",
@@ -24623,11 +24694,11 @@
         "beton",
         "gas",
         "sludge",
-        "venäjänkielinen",
         "julkaistu",
         "kirja",
         "kirjapassi",
         "monolith",
+        "venäjänkielinen",
         "2.0",
         "avaa",
         "joka",

@@ -1,7 +1,7 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T18:48:27.638Z
-Pages: 913
+Generated: 2026-10-16T18:49:50.420Z
+Pages: 914
 
 ## Index
 
@@ -334,6 +334,7 @@ Pages: 913
 | fi/books/samizdat/demotopia/index.html | fi | books | Demotopia — Kirjapassi — samizdat 2.0 | Ashraellen, Demotopia, Demokraattinen utopia, samizdat 2.0, kirjapassi, tekijäjulkaisu | demotopia, samizdat, 2.0, kirjapassi, 2026, books, demokraattinen, demotopian, julkaisu, utopia, ashraellen, demokratian, fyysinen, fyysisen, järjestelmässä, kirjasta, passi, pysyvä |
 | fi/books/samizdat/index.html | fi | books | samizdat 2.0 — Ashraellenin tekijäjulkaisut | Ashraellen, samizdat 2.0, tekijäjulkaisut, kirjapassi, fyysiset kirjat, numeroidut kappaleet | samizdat, 2.0, ashraellenin, books, ilman, kirja, tekijäjulkaisut, ashraellen, eikä, fyysinen, fyysiset, jonka, julkinen, julkiset, kappaleet, kirjan, kirjapassit, kirjat |
 | fi/books/samizdat/monolith/beton/index.html | fi | books | BETON — kirjapassi — samizdat 2.0 | _missing_ | beton, samizdat, 2.0, ashraellen, kirjapassi, books, laitoksen, osa, teoksen, betonin, ensimmäinen, julkaisun, kappale, kappaleen, kappaleiden, kirjasta, monolith, monolith-trilogian |
+| fi/books/samizdat/monolith/gas/index.html | fi | books | GAS / KAASU — kirjapassi — samizdat 2.0 | _missing_ | gas, samizdat, 2.0, ashraellen, kaasu, kirjapassi, books, fyysiset, monolith, monolith-trilogian, iii, järjestelmässä, kappaleet, kolmannen, nimi, osa, osan, teoksen |
 | fi/books/samizdat/monolith/index.html | fi | books | MONOLITH — Kirjapassi — samizdat 2.0 | Ashraellen, MONOLITH, BETON, SLUDGE, GAS, samizdat 2.0, trilogia, sarjan passi | monolith, 2.0, samizdat, beton, books, gas, kirja, kirjapassi, passi, sludge, ashraellen, avaa, järjestelmässä, järjestys, joka, julkaistu, julkaisusta, julkinen |
 | fi/books/samizdat/monolith/sludge/index.html | fi | books | SLUDGE / LIETE — kirjapassi — samizdat 2.0 | _missing_ | sludge, samizdat, 2.0, ashraellen, kirjapassi, liete, books, fyysiset, monolith, monolith-trilogian, teoksen, järjestelmässä, kappaleet, nimi, osa, osan, tiedot, toisen |
 | fi/books/samizdat/order/index.html | fi | books | Pyydä samizdat 2.0 -tekijäkappale — Ashraellen | Ashraellen, samizdat 2.0, tekijäkappale, kirjatilaus, Demotopia, kirjapyyntö | pyydä, 2.0, kappale, samizdat, tekijäkappale, ashraellen, books, henkilökohtaisesti, hinta, kielellä, toimitus, allekirjoitettu, ashraellenin, ennen, hinnan, kappaleen, kirja, laskelma |
@@ -6482,6 +6483,23 @@ Excerpt:
 
 > Kirjapassi / samizdat 2.0 MONOLITH Osa I BETON Olemme kaikki osa samaa seinää ASHRAELLEN Valmis romaani ja MONOLITH-trilogian ensimmäinen osa. Julkinen passi säilyttää teoksen identiteetin ja täydentyy vähitellen venäjänkielisen fyysisen laitoksen vahvistetuilla tiedoilla. Kirjasta valmis teos / osa I BETON tutkii maailmaa, jossa suostumuksesta tulee rakennusmateriaalia, mukavuudesta hallinnan teknologiaa ja yhteisen rakenteen huomaamattomasta halkeamasta ainoa mahdollisuus säilyttää oma havaintokyky. Kirja aloittaa MONOLITHin teossarjan ja on samalla itsenäinen romaani. Seuraavat osat ovat SLUDGE ja GAS. Teoksen tiedot vahvistetut tunnisteet Sarja MONOLITH Osa sarjassa Osa I Nimi BETON Alaotsikko Olemme kaikki osa samaa seinää Tekijä ASHRAELLEN Teoksen kieli Venäjä Teoslaji Romaani Teoksen tila Valmis Teoksen tunniste 2026-001B Indeksi 6666548A Rakenne 4 osaa, 26 lukua, epilogi ja apokr
 
+### fi/books/samizdat/monolith/gas/index.html
+
+- lang: fi
+- section: books
+- title: GAS / KAASU — kirjapassi — samizdat 2.0
+- description: GAS / KAASU — MONOLITH-trilogian kolmannen osan kirjapassi Ashraellen Samizdat 2.0 -järjestelmässä.
+- canonical: https://www.ashraellen.com/fi/books/samizdat/monolith/gas/
+- H1: GAS
+- H2: Teoksen tiedot | Fyysiset kappaleet
+- H3: _missing_
+- suggested keyword seed: gas, samizdat, 2.0, ashraellen, kaasu, kirjapassi, books, fyysiset, monolith, monolith-trilogian, iii, järjestelmässä, kappaleet, kolmannen, nimi, osa, osan, teoksen
+- candidates: gas, 2.0, ashraellen, kaasu, kirjapassi, monolith, osa, samizdat, fyysiset, iii, monolith-trilogian, nimi, teoksen, alkuperäinen, beton, eri, formaatista, identiteetin, itsenäinen, jälkeen, järjestelmässä, järjestys, julkaista, kappaleet
+
+Excerpt:
+
+> Kirjapassi / samizdat 2.0 MONOLITH Osa III GAS KAASU ASHRAELLEN MONOLITH-trilogian kolmas ja viimeinen itsenäinen kirja. Passi vahvistaa teoksen identiteetin. Eri laitosten fyysiset ominaisuudet lisätään vasta niiden tarkistamisen jälkeen. Teoksen tiedot Sarja MONOLITH / MONOLITH Osa sarjassa Osa III Alkuperäinen nimi GAS Venäjänkielinen nimi ГАЗ Tekijä ASHRAELLEN Järjestys BETON → GAS → GAS Fyysiset kappaleet Numeroiduille kappaleille voidaan laatia omat pysyvät passinsa. Tarkistamattomia tietoja formaatista, sivumäärästä, paperista, sidonnasta tai painomenetelmästä ei julkaista täällä.
+
 ### fi/books/samizdat/monolith/index.html
 
 - lang: fi
@@ -6493,7 +6511,7 @@ Excerpt:
 - H2: Trilogiasta | Kirjojen järjestys | Kirja, sarja ja yksittäinen kappale | Pyydä tietoja julkaisusta
 - H3: BETON | SLUDGE | GAS
 - suggested keyword seed: monolith, 2.0, samizdat, beton, books, gas, kirja, kirjapassi, passi, sludge, ashraellen, avaa, järjestelmässä, järjestys, joka, julkaistu, julkaisusta, julkinen
-- candidates: passi, beton, gas, sludge, venäjänkielinen, julkaistu, kirja, kirjapassi, monolith, 2.0, avaa, joka, kirjojen, kolme, samizdat, sarjan, tekijän, tietoja, trilogian, erikseen, itsenäistä, kappale, muuttuu, passinsa
+- candidates: passi, beton, gas, sludge, julkaistu, kirja, kirjapassi, monolith, venäjänkielinen, 2.0, avaa, joka, kirjojen, kolme, samizdat, sarjan, tekijän, tietoja, trilogian, erikseen, itsenäistä, kappale, muuttuu, passinsa
 
 Excerpt:
 
