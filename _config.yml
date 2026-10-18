@@ -1,13 +1,7 @@
-# GitHub Pages (Jekyll) publication exclusions.
-# These files remain in Git history; this is not access control.
+# Exclude internal working documents from the GitHub Pages build.
+# This does not remove files from the public GitHub repository or history.
+# Do not exclude focus-group materials: participants use their direct links.
 exclude:
   - Recovery/
   - docs/
   - .tmp/
-  - "*.tmp"
-  - "*.zip"
-  - node_modules/
-  - scripts/
-  - tools/
-  - reports/
-  - .github/
