@@ -1,0 +1,13 @@
+# GitHub Pages (Jekyll) publication exclusions.
+# These files remain in Git history; this is not access control.
+exclude:
+  - Recovery/
+  - docs/
+  - .tmp/
+  - "*.tmp"
+  - "*.zip"
+  - node_modules/
+  - scripts/
+  - tools/
+  - reports/
+  - .github/
