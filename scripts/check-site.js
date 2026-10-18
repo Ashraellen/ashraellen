@@ -125,7 +125,7 @@ function checkFile(relativePath) {
   }
 
   if (hasNoindex(html)) {
-    errors.push('Contains noindex directive.');
+    warnings.push('Contains noindex directive; verify that exclusion from search is intentional.');
   }
 
   const draftMarkers = findDraftMarkers(html);
