@@ -1,0 +1,35 @@
+name: Crawler HTTP diagnostic (read only)
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/crawler-http-diagnostic.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Probe public endpoints with multiple User Agents
+        shell: bash
+        run: |
+          set -uo pipefail
+          urls=(
+            "https://www.ashraellen.com/"
+            "https://www.ashraellen.com/sitemap.xml"
+            "https://www.ashraellen.com/en/research/sources/"
+            "https://ashraellen.com/sitemap.xml"
+          )
+          agents=("Mozilla/5.0 (compatible; BrowserProbe/1.0)" "Googlebot/2.1 (+http://www.google.com/bot.html)" "Gemini-HTTP-Diagnostic/1.0")
+          for url in "${urls[@]}"; do
+            echo "::group::URL $url"
+            for agent in "${agents[@]}"; do
+              printf 'USER_AGENT: %s\n' "$agent"
+              curl --silent --show-error --location --max-redirs 8 --max-time 15 --retry 0 --output /dev/null \
+                --user-agent "$agent" \
+                --write-out 'HTTP_FINAL=%{http_code} REDIRECTS=%{num_redirects} URL_FINAL=%{url_effective} REMOTE_IP=%{remote_ip} SSL_VERIFY=%{ssl_verify_result} SIZE=%{size_download}\n' \
+                "$url" || echo "REQUEST_FAILED exit=$?"
+            done
+            echo "::endgroup::"
+          done
