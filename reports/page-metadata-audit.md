@@ -1,10 +1,10 @@
 # Page Metadata Audit
 
-Generated: 2026-10-16T19:16:35.708Z
+Generated: 2026-10-18T19:04:11.386Z
 
 Pages checked: 913
 Pages with issues: 432
-Total issues: 1876
+Total issues: 1878
 Pages with review notes: 708
 Total review notes: 2476
 
@@ -20,7 +20,7 @@ Total review notes: 2476
 | MISSING_OG_IMAGE | 176 |
 | MISSING_OG_TITLE | 175 |
 | MISSING_DESCRIPTION | 123 |
-| DUPLICATE_CANONICAL | 68 |
+| DUPLICATE_CANONICAL | 70 |
 | DUPLICATE_TITLE | 63 |
 | DUPLICATE_OG_TITLE | 61 |
 | MISSING_CANONICAL | 47 |
@@ -1053,6 +1053,7 @@ Total review notes: 2476
 
 - MISSING_KEYWORDS
 - DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_CANONICAL: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
 
 ### en/professional/index.html
@@ -3220,11 +3221,12 @@ Total review notes: 2476
 
 - title: Privacy Policy — Ashraellen
 - description length: 131
-- canonical: https://www.ashraellen.com/privacy.html
+- canonical: https://www.ashraellen.com/en/privacy.html
 - og:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 - twitter:image: https://www.ashraellen.com/assets/og/ashraellen-og-home-default-1200x630.jpg
 
 - DUPLICATE_TITLE: shared by 2 pages
+- DUPLICATE_CANONICAL: shared by 2 pages
 - DUPLICATE_OG_TITLE: shared by 2 pages
 
 ### pt/books/error-404-god-not-found/index.html

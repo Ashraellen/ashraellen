@@ -1,6 +1,6 @@
 # Page Keyword Workbench
 
-Generated: 2026-10-16T19:16:36.604Z
+Generated: 2026-10-18T19:04:12.227Z
 Pages: 914
 
 ## Index
@@ -10841,7 +10841,7 @@ Excerpt:
 - section: privacy.html
 - title: Privacy Policy — Ashraellen
 - description: Privacy information for Ashraellen.com, including how the site handles basic analytics, language redirection and user contact data.
-- canonical: https://www.ashraellen.com/privacy.html
+- canonical: https://www.ashraellen.com/en/privacy.html
 - H1: _missing_
 - H2: _missing_
 - H3: _missing_
