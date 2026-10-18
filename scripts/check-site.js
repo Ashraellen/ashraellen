@@ -146,7 +146,10 @@ function printResult(result, type) {
   }
 }
 
-const htmlFiles = walk(ROOT).sort();
+// Unlaunched Samizdat copy placeholders are not public editorial pages.
+const htmlFiles = walk(ROOT)
+  .filter((file) => !file.startsWith('samizdat/copies/'))
+  .sort();
 const results = htmlFiles.map(checkFile);
 const filesWithErrors = results.filter((result) => result.errors.length > 0);
 const filesWithWarnings = results.filter((result) => result.warnings.length > 0);
