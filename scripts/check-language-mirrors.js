@@ -119,18 +119,41 @@ for (const relativePath of [...allRelativePaths].sort()) {
   }
 
   if (existing.length > 0 && missing.length > 0) {
-    problems.push({ relativePath, existing, missing });
+    // A missing translation is not a broken page. It becomes a real mirror
+    // error only when an existing page advertises that missing URL.
+    const advertisedMissing = [];
+    for (const sourceLanguage of existing) {
+      const source = fs.readFileSync(fromLanguageRelativePath(sourceLanguage, relativePath), 'utf8');
+      const linkTags = source.match(/<link\\b[^>]*>/gi) || [];
+      for (const tag of linkTags) {
+        if (!/\\brel\\s*=\\s*["']alternate["']/i.test(tag)) continue;
+        const lang = tag.match(/\\bhreflang\\s*=\\s*["']([^"']+)["']/i)?.[1];
+        const href = tag.match(/\\bhref\\s*=\\s*["']([^"']+)["']/i)?.[1];
+        if (!lang || !href || !missing.includes(lang)) continue;
+        try {
+          const url = new URL(href, 'https://www.ashraellen.com/');
+          const expected = '/' + lang + (relativePath === '/' ? '/' : '/' + relativePath);
+          if (url.hostname === 'www.ashraellen.com' && url.pathname === expected) {
+            advertisedMissing.push(sourceLanguage + ' -> ' + lang);
+          }
+        } catch (_) { /* Invalid links belong to the link checker. */ }
+      }
+    }
+    if (advertisedMissing.length) {
+      problems.push({ relativePath, existing, missing, advertisedMissing });
+    }
   }
 }
 
 console.log(`Checked language mirrors for ${LANGUAGES.length} languages.`);
 console.log(`Unique language-relative paths: ${allRelativePaths.size}.`);
-console.log(`Mirror problems found: ${problems.length}.`);
+console.log(`Advertised missing mirror targets: ${problems.length}.`);
 
 for (const problem of problems) {
   console.log(`\n${problem.relativePath}`);
   console.log(`  EXISTS: ${problem.existing.join(', ')}`);
   console.log(`  MISSING: ${problem.missing.join(', ')}`);
+  console.log(`  ADVERTISED BY: ${problem.advertisedMissing.join(', ')}`);
 }
 
 if (problems.length > 0) {
