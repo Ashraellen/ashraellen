@@ -64,7 +64,9 @@ function stripHtmlComments(html) {
 }
 
 function extractLinks(html) {
-  // Ignore JavaScript source: template literals can contain href/src expressions\n  // that are not literal HTML links until rendered by the browser.\n  const clean = stripHtmlComments(html).replace(/<script\b[^>]*>[\s\S]*?<\/script\s*>/gi, '');
+  // Ignore JavaScript source: template literals can contain href/src expressions
+  // that are not literal HTML links until rendered by the browser.
+  const clean = stripHtmlComments(html).replace(/<script\b[^>]*>[\s\S]*?<\/script\s*>/gi, '');
   const links = [];
   const attrRegex = /\b(?:href|src)\s*=\s*(["'])(.*?)\1/gi;
   let match;
