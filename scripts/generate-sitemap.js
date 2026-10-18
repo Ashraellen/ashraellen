@@ -15,7 +15,8 @@ const EXCLUDED_DIRS = new Set([
 
 const EXCLUDED_PATHS = new Set([
   '404.html',
-  'privacy.html'
+  'privacy.html',
+  'focus-group/books/Error404/index.html'
 ]);
 
 const EXCLUDED_FILE_PATTERNS = [
