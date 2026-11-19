@@ -7,6 +7,8 @@ on:
     paths:
       - '**/*.html'
       - 'scripts/check-language-mirrors.js'
+      - 'scripts/check-hreflang-reciprocity.js'
+      - 'sitemap.xml'
       - '.github/workflows/language-mirror-check.yml'
   pull_request:
     branches:
@@ -14,6 +16,8 @@ on:
     paths:
       - '**/*.html'
       - 'scripts/check-language-mirrors.js'
+      - 'scripts/check-hreflang-reciprocity.js'
+      - 'sitemap.xml'
       - '.github/workflows/language-mirror-check.yml'
   workflow_dispatch:
 
@@ -32,3 +36,6 @@ jobs:
 
       - name: Check language mirrors
         run: node scripts/check-language-mirrors.js
+
+      - name: Check hreflang reciprocity
+        run: node scripts/check-hreflang-reciprocity.js
